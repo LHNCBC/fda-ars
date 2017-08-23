@@ -1,0 +1,136 @@
+00000000|AA|TLS|Tumor Lysis Syndrome|1|3|5|20|321:3
+00000000|AA|TTP/HUS|Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome|3|7|11|61|1487:7
+00000000|AA|PRES|Posterior reversible encephalopathy syndrome|1|4|7|44|1639:4
+00000000|AA|ARDS|Acute Respiratory Distress Syndrome|1|4|7|35|4983:4
+00000000|AA|PAH|Pulmonary arterial hypertension|1|3|5|31|5399:3
+00000000|AA|RPLS|Reversible Posterior Leukoencephalopathy Syndrome|1|4|7|49|9735:4
+00000000|MMI|208.05|Purpura, Thrombotic Thrombocytopenic|C0034155|[dsyn]|["Purpura, Thrombotic Thrombocytopenic"-tx-75-"TTP/HUS"-noun-0,"Purpura, Thrombotic Thrombocytopenic"-tx-74-"TTP/HUS"-noun-0,"thrombotic thrombocytopenic purpura (diagnosis)"-tx-74-"diagnosis TTP/HUS"-noun-0,"Purpura, Thrombotic Thrombocytopenic"-tx-72-"TTP/HUS"-noun-0,"Purpura, Thrombotic Thrombocytopenic"-tx-71-"TTP/HUS"-noun-0,"Purpura, Thrombotic Thrombocytopenic"-tx-71-"Thrombotic Thrombocytopenic Purpura"-noun-0,"Purpura, Thrombotic Thrombocytopenic"-tx-14-"TTP/HUS"-noun-0,"Purpura, Thrombotic Thrombocytopenic"-tx-13-"Thrombotic thrombocytopenic purpura"-noun-0]|TX|9453/7;9325/7;9312/9,9325/7;9237/7;9116/7;8974/35;1531/7;1424/35|C15.378.100.802.687.680;C15.378.140.855.925.750.680;C15.378.925.850;C23.550.414.950.687.680;C23.888.885.687.687.680
+00000000|MMI|178.84|Hemolytic-Uremic Syndrome|C0019061|[dsyn]|["HEMOLYTIC UREMIC SYNDROME"-tx-75-"TTP/HUS"-noun-0,"HEMOLYTIC UREMIC SYNDROME"-tx-74-"TTP/HUS"-noun-0,"hemolytic uremic syndrome (diagnosis)"-tx-74-"diagnosis TTP/HUS"-noun-0,"HEMOLYTIC UREMIC SYNDROME"-tx-72-"TTP/HUS"-noun-0,"HEMOLYTIC UREMIC SYNDROME"-tx-71-"Hemolytic Uremic Syndrome"-noun-0,"HEMOLYTIC UREMIC SYNDROME"-tx-71-"TTP/HUS"-noun-0,"HEMOLYTIC UREMIC SYNDROME"-tx-14-"TTP/HUS"-noun-0,"HEMOLYTIC UREMIC SYNDROME"-tx-13-"hemolytic uremic syndrome"-noun-0]|TX|9453/7;9325/7;9312/9,9325/7;9237/7;9010/25;9116/7;1531/7;1460/25|C12.777.419.936.463;C13.351.968.419.936.463;C15.378.071.141.610;C15.378.140.855.925.500
+00000000|MMI|138.49|2+|C3833492|[fndg]|["2+"-tx-70-"2"-integer-0,"2+"-tx-66-"2"-integer-0,"2+"-tx-61-"2"-integer-0,"2+"-tx-56-"2"-percentage-0,"2+"-tx-53-"2"-integer-0,"2+"-tx-44-"2"-integer-0,"2+"-tx-41-"2"-integer-0,"2+"-tx-38-"2"-integer-0,"2+"-tx-36-"2"-integer-0,"2+"-tx-33-"2"-integer-0,"2+"-tx-24-"2"-integer-0,"2+"-tx-22-"2"-integer-0,"2+"-tx-11-"2"-real_number-0]|TX|8920/1;8587/1;7900/1;7193/1;6781/1;5785/1;5312/1;4896/1;4667/1;4236/1;3066/1;2694/1;1290/1|
+00000000|MMI|121.58|Tumor Lysis Syndrome|C0041364|[dsyn]|["TUMOUR LYSIS SYNDROME"-tx-38-"TLS"-noun-0,"TUMOUR LYSIS SYNDROME"-tx-37-"TLS"-noun-0,"TUMOUR LYSIS SYNDROME"-tx-35-"TLS"-noun-0,"TUMOUR LYSIS SYNDROME"-tx-34-"TLS"-noun-0,"TUMOUR LYSIS SYNDROME"-tx-34-"Tumor Lysis Syndrome"-noun-0,"TUMOUR LYSIS SYNDROME"-tx-4-"TLS"-noun-0,"TUMOUR LYSIS SYNDROME"-tx-3-"Tumor Lysis Syndrome"-noun-0]|TX|[4763/3],[4845/3];4734/3;4507/3;4319/3;4259/20;385/3;299/20|C15.604.515.880;C20.683.515.950
+00000000|MMI|91.71|Heart failure|C0018801|[dsyn]|["CARDIAC FAILURE"-tx-46-"cardiac failure"-noun-1,"Failure, Heart"-tx-26-"heart failure"-noun-0,"CARDIAC FAILURE"-tx-25-"cardiac failure"-noun-0,"CARDIAC FAILURE"-tx-24-"cardiac failure"-noun-0,"CARDIAC FAILURE"-tx-23-"cardiac failure"-noun-0,"CARDIAC FAILURE"-tx-19-"cardiac failure"-noun-0,"CARDIAC FAILURE"-tx-1-"cardiac failure"-noun-0]|TX|5997/15;3214/13;3126/15;[2976/15],[3015/15];2881/15;2029/15;81/15|C14.280.434
+00000000|MMI|80.51|Kidney Failure, Acute|C0022660|[dsyn]|["ACUTE RENAL FAILURE"-tx-30-"Acute renal failure"-noun-0,"ACUTE RENAL FAILURE"-tx-29-"acute renal failure"-noun-0,"ACUTE RENAL FAILURE"-tx-28-"Acute Renal Failure"-noun-0,"ACUTE RENAL FAILURE"-tx-3-"Acute Renal Failure"-noun-0]|TX|3762/19;3640/19;3483/19;226/19|C12.777.419.780.050;C13.351.968.419.780.050
+00000000|MMI|80.43|Gravidity|C0600457|[fndg]|["PREGNANT"-tx-84-"pregnant"-adj-0,"PREGNANT"-tx-83-"pregnant"-adj-0,"PREGNANT"-tx-82-"pregnant"-adj-0,"PREGNANT"-tx-18-"pregnant"-adj-0]|TX|10738/8;10629/8;10461/8;1897/8|G08.686.340;G08.686.785.760.769.213;N06.850.490.812.250
+00000000|MMI|69.43|Dyspnea|C0013404|[sosy]|["SHORTNESS OF BREATH"-tx-59-"shortness of breath"-noun-0,"DYSPNOEA"-tx-47-"dyspnea"-noun-0,"DYSPNOEA"-tx-46-"dyspnea"-noun-0,"DYSPNOEA"-tx-45-"Dyspnea"-noun-0,"DYSPNOEA"-tx-5-"Dyspnea"-noun-0]|TX|7592/19;6069/7;5941/7;5808/7;727/7|C08.618.326;C23.888.852.371
+00000000|MMI|68.99|Fatal Outcome|C0206277|[patf]|["Fatal Outcome"-tx-71-"fatal outcome"-noun-0,"Fatal outcomes"-tx-34-"fatal outcomes"-noun-0,"Fatal Outcome"-tx-1-"fatal outcome"-noun-0]|TX|9135/13;4335/14;128/13|E05.318.308.985.550.325;L01.280.975.550.325;N01.224.935.698.201;N06.850.505.400.975.550.325;N06.850.520.308.985.550.325
+00000000|MMI|64.75|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-77-"hypertension"-noun-0,"HYPERTENSION"-tx-52-"hypertension"-noun-0,"HYPERTENSION"-tx-49-"Hypertension"-noun-0,"HYPERTENSION"-tx-42-"Hypertension"-noun-0,"HYPERTENSION"-tx-7-"hypertension"-noun-0,"HYPERTENSION"-tx-6-"Hypertension"-noun-0]|TX|9925/12;6596/12;6379/12;5345/12;906/12;825/12|C14.907.489
+00000000|MMI|54.13|Thrombocytopenia|C0040034|[fndg]|["Thrombocytopaenia"-tx-64-"Thrombocytopenia"-noun-0,"Thrombocytopaenia"-tx-63-"Thrombocytopenia"-noun-0,"Thrombocytopaenia"-tx-63-"thrombocytopenia"-noun-0,"Thrombocytopaenia"-tx-10-"Thrombocytopenia"-noun-0]|TX|8349/16;8099/16;8140/16;1183/16|C15.378.140.855
+00000000|MMI|50.03|Cardiotoxicity|C0876994|[inpo]|["Toxicities, Cardiac"-tx-48-"Cardiac Toxicities"-noun-0,"Toxicities, Cardiac"-tx-19-"Cardiac Toxicities"-noun-0,"Toxicities, Cardiac"-tx-1-"Cardiac toxicities"-noun-0]|TX|6259/18;1963/18;54/18|C23.550.161;C25.100.389;C26.733.266;G01.750.748.500.266
+00000000|MMI|49.15|Venous Thromboembolism|C1861172|[patf]|["Venous Thromboembolic Event"-tx-56-"venous thromboembolic events"-noun-0,"Venous Thromboembolic Event"-tx-55-"venous thromboembolic events"-noun-0,"Venous Thromboembolic Event"-tx-54-"Venous thromboembolic events"-noun-0]|TX|7160/28;6994/28;6804/6,6837/21|C14.907.355.590.700
+00000000|MMI|43.15|Posterior reversible encephalopathy syndrome|C3160858|[dsyn]|["Posterior Reversible Encephalopathy Syndrome"-tx-79-"PRES"-noun-0,"Posterior Reversible Encephalopathy Syndrome"-tx-78-"PRES"-noun-0,"Posterior Reversible Encephalopathy Syndrome"-tx-77-"PRES"-noun-0,"Posterior Reversible Encephalopathy Syndrome"-tx-77-"Posterior reversible encephalopathy syndrome"-noun-0,"Reversible Posterior Leukoencephalopathy Syndrome"-tx-77-"Reversible Posterior Leukoencephalopathy Syndrome"-noun-0,"Posterior Reversible Encephalopathy Syndrome"-tx-76-"PRES"-noun-0,"Posterior Reversible Encephalopathy Syndrome"-tx-76-"Posterior Reversible Encephalopathy Syndrome"-noun-0,"Posterior Reversible Encephalopathy Syndrome"-tx-16-"Posterior reversible encephalopathy syndrome"-noun-0]|TX|10143/4;10031/4;9661/4;9615/44;9684/49;[9536/4],[9559/4];9490/44;1593/44|
+00000000|MMI|39.73|Congestive heart failure|C0018802|[dsyn]|["Cardiac Failure"-tx-46-"cardiac failure"-noun-1,"Heart Failure"-tx-26-"heart failure"-noun-0,"Cardiac Failure"-tx-25-"cardiac failure"-noun-0,"Cardiac Failure"-tx-24-"cardiac failure"-noun-0,"Cardiac Failure"-tx-23-"cardiac failure"-noun-0,"CONGESTIVE HEART FAILURE"-tx-19-"congestive heart failure"-noun-0,"Cardiac Failure"-tx-19-"cardiac failure"-noun-0,"Cardiac Failure"-tx-1-"cardiac failure"-noun-0]|TX|5997/15;3214/13;3126/15;[2976/15],[3015/15];2881/15;2052/24;2029/15;81/15|
+00000000|MMI|35.81|Coronary Arteriosclerosis|C0010054|[dsyn]|["myocardial ischemia"-tx-19-"myocardial ischemia"-noun-0,"myocardial ischemia"-tx-1-"myocardial ischemia"-noun-0]|TX|2153/19;147/19|C14.280.647.250.260;C14.907.137.126.339;C14.907.585.250.260
+00000000|MMI|33.92|Tumor Lysis Syndrome Adverse Event|C1963254|[fndg]|["Tumor lysis syndrome"-tx-38-"TLS"-noun-0,"Tumor lysis syndrome"-tx-37-"TLS"-noun-0,"Tumor lysis syndrome"-tx-35-"TLS"-noun-0,"Tumor lysis syndrome"-tx-34-"TLS"-noun-0,"Tumor lysis syndrome"-tx-34-"Tumor Lysis Syndrome"-noun-0,"Tumor lysis syndrome"-tx-4-"TLS"-noun-0,"Tumor lysis syndrome"-tx-3-"Tumor Lysis Syndrome"-noun-0]|TX|[4763/3],[4845/3];4734/3;4507/3;4319/3;4259/20;385/3;299/20|
+00000000|MMI|32.74|Kidney Failure|C0035078|[dsyn]|["Failure, Renal"-tx-29-"renal failure"-noun-0,"Renal Insufficiency"-tx-29-"Renal insufficiency"-noun-0]|TX|3661/13;3586/19|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|32.74|Renal Insufficiency|C1565489|[dsyn]|["RENAL INSUFFICIENCY"-tx-29-"Renal insufficiency"-noun-0,"Renal Impairment"-tx-29-"renal impairment"-noun-0]|TX|3586/19;3622/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|26.60|Myocardial Infarction|C0027051|[dsyn]|["Infarction, Myocardial"-tx-19-"myocardial infarction"-noun-0,"Infarction, Myocardial"-tx-1-"myocardial infarction"-noun-0]|TX|2178/21;101/21|C14.280.647.500;C14.907.585.500
+00000000|MMI|26.30|Liver Failure|C0085605|[dsyn]|["HEPATIC FAILURE"-tx-67-"Hepatic Failure"-noun-0,"HEPATIC FAILURE"-tx-11-"Hepatic Failure"-noun-0]|TX|8632/15;1334/15|C06.552.308.500
+00000000|MMI|24.11|Syncope|C0039070|[sosy]|["SYNCOPE"-tx-59-"syncope"-noun-0]|TX|7626/7|C10.597.606.358.800.600;C23.888.592.604.359.800.600
+00000000|MMI|23.98|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-77-"hypertension"-noun-0,"Hypertension"-tx-52-"hypertension"-noun-0,"Hypertension"-tx-49-"Hypertension"-noun-0,"Hypertension"-tx-42-"Hypertension"-noun-0,"Hypertension"-tx-7-"hypertension"-noun-0,"Hypertension"-tx-6-"Hypertension"-noun-0]|TX|9925/12;6596/12;6379/12;5345/12;906/12;825/12|
+00000000|MMI|23.12|Myocardial Ischemia|C0151744|[dsyn]|["MYOCARDIAL ISCHEMIA"-tx-19-"myocardial ischemia"-noun-0,"MYOCARDIAL ISCHEMIA"-tx-1-"myocardial ischemia"-noun-0]|TX|2153/19;147/19|C14.280.647;C14.907.585
+00000000|MMI|21.36|Discontinued|C1444662|[fndg]|["Discontinue"-tx-78-"Discontinue"-verb-0,"Discontinue"-tx-41-"discontinue"-verb-0,"Discontinue"-tx-16-"discontinue"-verb-0,"Discontinue"-tx-15-"Discontinue"-verb-0]|TX|10007/11;5256/11;1734/11;1540/11|
+00000000|MMI|20.95|Angina Pectoris|C0002962|[fndg]|["ANGINA"-tx-59-"angina"-noun-0]|TX|7655/6|C10.597.617.192.500;C14.280.647.187;C14.907.585.187;C23.888.592.612.233.500
+00000000|MMI|20.95|Arthralgia|C0003862|[sosy]|["ARTHRALGIA"-tx-59-"arthralgia"-noun-0]|TX|7520/10|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|20.95|Blind Vision|C0456909|[fndg]|["BLINDNESS"-tx-77-"blindness"-noun-0]|TX|9832/9|C10.597.751.941.162;C11.966.075;C23.888.592.763.941.162
+00000000|MMI|20.95|Myalgia|C0231528|[sosy]|["MYALGIA"-tx-59-"myalgia"-noun-0]|TX|7532/7|C05.651.542;C10.597.617.231.249;C10.668.491.525;C23.888.592.612.547.249;F02.830.816.353.500;G11.561.600.810.353.500
+00000000|MMI|20.39|Respiratory Distress Syndrome, Adult|C0035222|[dsyn]|["Acute Respiratory Distress Syndrome"-tx-39-"Acute Respiratory Distress Syndrome"-noun-0,"Acute Respiratory Distress Syndrome"-tx-5-"Acute Respiratory Distress Syndrome"-noun-0]|TX|4946/35;484/35|C08.381.840;C08.618.840
+00000000|MMI|20.01|Pulmonary Hypertension|C0020542|[patf]|["Hypertension, pulmonary"-tx-44-"pulmonary hypertension"-noun-0,"Hypertension, pulmonary"-tx-5-"Pulmonary Hypertension"-noun-0]|TX|5612/22;655/22|C08.381.423
+00000000|MMI|18.95|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-72-"symptoms"-noun-0,"SYMPTOMS"-tx-62-"symptoms"-noun-0,"SYMPTOMS"-tx-59-"Symptoms"-noun-0,"SYMPTOMS"-tx-14-"symptoms"-noun-0]|TX|9225/8;[7944/8],[7995/8];7488/8;1519/8|
+00000000|MMI|17.80|Confusion|C0009676|[mobd]|["CONFUSION"-tx-77-"confusion"-noun-0]|TX|9821/9|C10.597.606.337;C23.888.592.604.339;F01.700.250
+00000000|MMI|17.80|Deep Vein Thrombosis|C0149871|[dsyn]|["DEEP VENOUS THROMBOSIS"-tx-54-"deep venous thrombosis"-noun-0]|TX|6870/22|C14.907.355.830.925
+00000000|MMI|17.80|Headache|C0018681|[sosy]|["HEADACHE"-tx-77-"headache"-noun-0]|TX|9801/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|17.80|Lethargy|C0023380|[sosy]|["LETHARGY"-tx-77-"lethargy"-noun-0]|TX|9811/8|C10.597.606.441;C23.888.592.604.444;F01.700.470
+00000000|MMI|17.80|Pulmonary Embolism|C0034065|[dsyn]|["PULMONARY EMBOLISM"-tx-54-"pulmonary embolism"-noun-0]|TX|6897/18|C08.381.746;C14.907.355.350.700
+00000000|MMI|17.80|Venous Thrombosis|C0042487|[patf]|["VENOUS THROMBOSIS"-tx-8-"Venous Thrombosis"-noun-0]|TX|1034/17|C14.907.355.830.925
+00000000|MMI|16.21|Seizures|C0036572|[sosy]|["SEIZURE"-tx-77-"seizure"-noun-0]|TX|9792/7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|16.10|Multiple Myeloma|C0026764|[neop]|["MULTIPLE MYELOMA"-tx-35-"multiple myeloma"-noun-0]|TX|4419/16|C04.557.595.500;C14.907.454.460;C15.378.147.780.650;C15.378.463.515.460;C20.683.515.845;C20.683.780.650
+00000000|MMI|15.79|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-70-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-63-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-48-"Adverse Reactions"-noun-0]|TX|8929/17;8319/17;6335/17|
+00000000|MMI|15.79|Resolved|C3714811|[fndg]|["RESOLVED"-tx-47-"resolved"-verb-0,"RESOLVED"-tx-44-"resolved"-verb-0,"RESOLVED"-tx-38-"resolved"-verb-0]|TX|6083/8;5641/8;4852/8|
+00000000|MMI|15.79|physiologic resolution|C1514893|[patf]|["Resolved"-tx-47-"resolved"-verb-0,"Resolved"-tx-44-"resolved"-verb-0,"Resolved"-tx-38-"resolved"-verb-0]|TX|6083/8;5641/8;4852/8|
+00000000|MMI|15.50|Pre-renal acute kidney injury|C3854173|[dsyn]|["Acute renal failure"-tx-30-"Acute renal failure"-noun-0,"Acute renal failure"-tx-29-"acute renal failure"-noun-0,"Acute renal failure"-tx-28-"Acute Renal Failure"-noun-0,"Acute renal failure"-tx-3-"Acute Renal Failure"-noun-0]|TX|3762/19;3640/19;3483/19;226/19|
+00000000|MMI|15.42|Patient currently pregnant|C0549206|[fndg]|["Pregnant"-tx-84-"pregnant"-adj-0,"Pregnant"-tx-83-"pregnant"-adj-0,"Pregnant"-tx-82-"pregnant"-adj-0,"Pregnant"-tx-18-"pregnant"-adj-0]|TX|10738/8;10629/8;10461/8;1897/8|
+00000000|MMI|14.97|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-47-"Grade 3"-noun-0,"GRADE 3"-tx-45-"Grade 3"-noun-0,"GRADE 3"-tx-42-"Grade 3"-noun-0,"GRADE 3"-tx-22-"Grade 3"-noun-0]|TX|6056/7;5894/7;5479/7;2505/7|
+00000000|MMI|14.90|Pulmonary toxicity|C0919924|[patf]|["Pulmonary toxicity"-tx-48-"Pulmonary Toxicity"-noun-0,"Pulmonary toxicity"-tx-41-"pulmonary toxicity"-noun-0,"Pulmonary toxicity"-tx-39-"Pulmonary Toxicity"-noun-0,"Pulmonary toxicity"-tx-5-"Pulmonary Toxicity"-noun-0]|TX|6289/18;5236/18;4919/18;454/18|
+00000000|MMI|14.64|Fever|C0015967|[fndg]|["FEVER"-tx-59-"fever"-noun-0]|TX|7505/5|C23.888.119.344
+00000000|MMI|14.64|Restrictive cardiomyopathy|C0007196|[dsyn]|["CARDIOMYOPATHY, RESTRICTIVE"-tx-19-"restrictive cardiomyopathy"-noun-0]|TX|2125/26|C14.280.238.160
+00000000|MMI|14.64|Vomiting|C0042963|[sosy]|["VOMITING"-tx-59-"vomiting"-verb-0]|TX|7572/8|C23.888.821.937
+00000000|MMI|14.55|Adverse reaction to drug or medicament administered by infusion|C2368034|[patf]|["Infusion reaction"-tx-62-"infusion reaction"-noun-0,"Infusion reaction"-tx-61-"infusion reactions"-noun-0,"Infusion reaction"-tx-58-"Infusion Reactions"-noun-0,"Infusion reaction"-tx-9-"Infusion Reactions"-noun-0]|TX|8010/17;7846/18;7357/18;1105/18|
+00000000|MMI|13.60|Lung diseases|C0024115|[dsyn]|["PULMONARY DISEASE"-tx-39-"pulmonary disease"-noun-0,"PULMONARY DISEASE"-tx-5-"pulmonary disease"-noun-0]|TX|5048/17;579/17|C08.381
+00000000|MMI|13.14|Syndrome|C0039082|[dsyn]|["Syndromes"-tx-46-"syndromes"-noun-1]|TX|6027/9|C23.550.288.500
+00000000|MMI|12.92|Thrombosis|C0040053|[patf]|["THROMBOSIS"-tx-54-"Thrombosis"-noun-0]|TX|6811/10|C14.907.355.830
+00000000|MMI|11.49|Chills|C0085593|[sosy]|["CHILLS"-tx-59-"chills"-noun-0]|TX|7512/6|C23.888.208
+00000000|MMI|11.49|Flushing|C0016382|[sosy]|["FACIAL FLUSHING"-tx-59-"facial flushing"-noun-0]|TX|7541/15|C23.888.388
+00000000|MMI|11.49|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-59-"hypotension"-noun-0]|TX|7613/11|C14.907.514
+00000000|MMI|11.49|Lung Diseases, Interstitial|C0206062|[dsyn]|["INTERSTITIAL LUNG DISEASE"-tx-39-"interstitial lung disease"-noun-0]|TX|5090/25|C08.381.483
+00000000|MMI|11.49|Neurologic Symptoms|C0235031|[sosy]|["Neurological symptoms NOS"-tx-16-"neurological symptoms"-noun-0]|TX|1711/21|C10.597;C23.888.592
+00000000|MMI|11.49|Pulmonary Edema|C0034063|[dsyn]|["PULMONARY OEDEMA"-tx-19-"pulmonary edema"-noun-0]|TX|2078/15|C08.381.742
+00000000|MMI|11.42|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-67-"fatal"-adj-0,"FATAL"-tx-50-"fatal"-adj-0,"FATAL"-tx-40-"fatal"-adj-0]|TX|8692/5;6536/5;5200/5|
+00000000|MMI|11.15|1+|C3816745|[fndg]|["1+"-tx-67-"1"-percentage-0,"1+"-tx-42-"1"-percentage-0,"1+"-tx-39-"1"-percentage-0]|TX|8727/1;5511/1;5143/1|
+00000000|MMI|10.77|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-82-"toxicity"-noun-0,"Toxicity"-tx-80-"Toxicity"-noun-0,"Toxicity"-tx-17-"Toxicity"-noun-0]|TX|10449/8;10190/8;1800/8|
+00000000|MMI|10.70|THROMBOPHILIA DUE TO THROMBIN DEFECT|C3160733|[fndg]|["VENOUS Thromboembolic Event"-tx-56-"venous thromboembolic events"-noun-0,"VENOUS Thromboembolic Event"-tx-55-"venous thromboembolic events"-noun-0,"VENOUS Thromboembolic Event"-tx-54-"Venous thromboembolic events"-noun-0]|TX|7160/28;6994/28;6804/6,6837/21|
+00000000|MMI|10.70|Thromboembolism of vein|C1997614|[patf]|["Venous Thromboembolic Event"-tx-56-"venous thromboembolic events"-noun-0,"Venous Thromboembolic Event"-tx-55-"venous thromboembolic events"-noun-0,"Venous Thromboembolic Event"-tx-54-"Venous thromboembolic events"-noun-0]|TX|7160/28;6994/28;6804/6,6837/21|
+00000000|MMI|10.44|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-79-"therapy"-noun-0,"Therapy"-tx-75-"therapy"-noun-0,"Therapy"-tx-7-"therapy"-noun-1]|TX|10099/7;9409/7;998/7|
+00000000|MMI|10.43|Cor pulmonale|C0034072|[dsyn]|["cardiopulmonary condition"-tx-46-"cardiopulmonary conditions"-noun-1]|TX|5960/26|C14.280.832
+00000000|MMI|10.42|Acute respiratory failure|C0264490|[dsyn]|["Acute Respiratory Failure"-tx-39-"acute respiratory failure"-noun-0,"Acute Respiratory Failure"-tx-5-"acute respiratory failure"-noun-0]|TX|4990/25;521/25|
+00000000|MMI|10.42|Diagnosis|C0011900|[fndg]|["DIAGNOSIS"-tx-77-"diagnosis"-noun-0,"DIAGNOSIS"-tx-73-"diagnosis"-noun-0]|TX|9947/9;9253/9|E01
+00000000|MMI|10.42|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-52-"controlled"-verb-1,"Controlled"-tx-7-"controlled"-verb-1]|TX|6630/10;940/10|
+00000000|MMI|10.42|Hypertensive crisis|C0020546|[patf]|["HYPERTENSIVE CRISIS"-tx-49-"hypertensive crisis"-noun-0,"HYPERTENSIVE CRISIS"-tx-6-"hypertensive crisis"-noun-0]|TX|6424/19;848/19|
+00000000|MMI|10.42|Indicated|C1444656|[fndg]|["Indicated"-tx-43-"indicated"-verb-0,"Indicated"-tx-10-"indicated"-verb-0]|TX|5579/9;1276/9|
+00000000|MMI|9.73|Pneumonia|C0032285|[dsyn]|["Pneumonitis"-tx-39-"pneumonitis"-noun-0]|TX|5074/11|C08.381.677;C08.730.610
+00000000|MMI|9.73|Pneumonitis|C3714636|[dsyn]|["PNEUMONITIS"-tx-39-"pneumonitis"-noun-0]|TX|5074/11|C08.381.677;C08.730.610
+00000000|MMI|7.70|Toxic liver disease|C0348754|[dsyn]|["Hepatic toxicity"-tx-67-"Hepatic Toxicity"-noun-0,"Hepatic toxicity"-tx-11-"Hepatic Toxicity"-noun-0]|TX|8611/16;1313/16|
+00000000|MMI|7.55|Creatinine clearance|C0812399|[fndg]|["Creatinine clearance"-tx-32-"creatinine clearance"-noun-0,"Creatinine clearance"-tx-31-"creatinine clearance"-noun-0]|TX|4140/20;3981/20|
+00000000|MMI|7.36|5-6|C3843715|[fndg]|["5-6"-tx-45-"5.6"-real_number-0,"5-6"-tx-6-"5.6"-real_number-0]|TX|5804/3;811/3|
+00000000|MMI|7.36|6/5|C0442749|[fndg]|["5 6"-tx-45-"5.6"-real_number-0,"5 6"-tx-6-"5.6"-real_number-0]|TX|5804/3;811/3|
+00000000|MMI|7.32|Pulmonary Hypertension Adverse Event|C1963220|[fndg]|["Pulmonary hypertension"-tx-44-"pulmonary hypertension"-noun-0,"Pulmonary hypertension"-tx-5-"Pulmonary Hypertension"-noun-0]|TX|5612/22;655/22|
+00000000|MMI|7.31|5 - 9|C3840622|[fndg]|["5 - 9"-tx-58-"5.9"-real_number-0,"5 - 9"-tx-10-"5.9"-real_number-0]|TX|7353/3;1169/3|
+00000000|MMI|7.30|Adverse event|C0877248|[patf]|["adverse events"-tx-29-"adverse events"-noun-0,"adverse events"-tx-22-"adverse events"-noun-0]|TX|3606/14;2526/14|
+00000000|MMI|7.25|History of - respiratory disease|C0455540|[fndg]|["pulmonary disease"-tx-39-"pulmonary disease"-noun-0,"pulmonary disease"-tx-5-"pulmonary disease"-noun-0]|TX|5048/17;579/17|
+00000000|MMI|7.14|10%|C3842590|[fndg]|["10%"-tx-63-"10"-real_number-0,"10%"-tx-11-"10"-real_number-0]|TX|8096/2;1300/2|
+00000000|MMI|7.10|Serum creatinine level|C0600061|[fndg]|["Serum creatinine"-tx-32-"serum creatinine"-noun-0,"Serum creatinine"-tx-3-"serum creatinine"-noun-0]|TX|4106/16;255/16|
+00000000|MMI|7.09|combination - answer to question|C3811910|[fndg]|["Combination"-tx-55-"combination"-noun-0]|TX|[6958/11],[7070/11]|
+00000000|MMI|6.96|4+ Answer to question|C3838679|[fndg]|["4+"-tx-47-"4"-integer-0,"4+"-tx-22-"4"-integer-0]|TX|6067/1;2516/1|
+00000000|MMI|6.94|Physical findings|C0311392|[fndg]|["SIGNS"-tx-72-"signs"-noun-0,"SIGNS"-tx-14-"signs"-noun-0]|TX|9215/5;1509/5|
+00000000|MMI|5.18|Abnormal cardiac conduction|C0232219|[patf]|["Conduction Abnormalities"-tx-26-"conduction abnormalities"-noun-0]|TX|3263/24|
+00000000|MMI|5.18|Adequate Hydration|C4032685|[fndg]|["Adequate Hydration"-tx-23-"adequate hydration"-noun-0]|TX|2716/18|
+00000000|MMI|5.18|CTCAE Grade 4 Dyspnea|C1557665|[fndg]|["LIFE THREATENING Dyspnea"-tx-5-"life threatening dyspnea"-noun-0]|TX|750/24|
+00000000|MMI|5.18|Cardiac complication|C0161816|[patf]|["Cardiac complications"-tx-27-"cardiac complications"-noun-0]|TX|3401/21|
+00000000|MMI|5.18|Chest tightness|C0232292|[sosy]|["Chest tightness"-tx-59-"chest tightness"-noun-0]|TX|7635/15|
+00000000|MMI|5.18|Clouded consciousness|C0683369|[sosy]|["Confusion"-tx-77-"confusion"-noun-0]|TX|9821/9|
+00000000|MMI|5.18|Confusion Adverse Event|C1963086|[fndg]|["Confusion"-tx-77-"confusion"-noun-0]|TX|9821/9|
+00000000|MMI|5.18|Disturbance of consciousness|C0234428|[sosy]|["Altered consciousness"-tx-77-"altered consciousness"-noun-0]|TX|9843/21|
+00000000|MMI|5.18|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-77-"headache"-noun-0]|TX|9801/8|
+00000000|MMI|5.18|Ejection fraction decreased|C0743400|[fndg]|["Decreased ejection fraction"-tx-19-"decreased ejection fraction"-noun-0]|TX|2095/27|
+00000000|MMI|5.18|Facial edema|C0542571|[patf]|["FACIAL EDEMA"-tx-59-"facial edema"-noun-0]|TX|7558/12|
+00000000|MMI|5.18|Facial swelling|C0151602|[fndg]|["Facial Oedema"-tx-59-"facial edema"-noun-0]|TX|7558/12|
+00000000|MMI|5.18|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-59-"fever"-noun-0]|TX|7505/5|
+00000000|MMI|5.18|Hypertensive emergency|C0745136|[dsyn]|["HYPERTENSIVE EMERGENCY"-tx-49-"hypertensive emergency"-noun-0]|TX|6448/22|
+00000000|MMI|5.18|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-59-"hypotension"-noun-0]|TX|7613/11|
+00000000|MMI|5.18|Recent myocardial infarction|C1998297|[fndg]|["Recent myocardial infarction"-tx-26-"recent myocardial infarction"-noun-0]|TX|3229/28|
+00000000|MMI|5.18|Renal Failure Adverse Event|C1963154|[patf]|["Renal failure"-tx-29-"renal failure"-noun-0]|TX|3661/13|
+00000000|MMI|5.18|Restrictive Cardiomyopathy Adverse Event|C1963079|[fndg]|["Restrictive cardiomyopathy"-tx-19-"restrictive cardiomyopathy"-noun-0]|TX|2125/26|
+00000000|MMI|5.18|Serum transaminase increased|C0859350|[fndg]|["Increased serum transaminases"-tx-68-"increased serum transaminases"-noun-0]|TX|8782/29|
+00000000|MMI|5.18|Venous thrombosis after immobility|C0517555|[fndg]|["Venous thrombosis"-tx-8-"Venous Thrombosis"-noun-0]|TX|1034/17|
+00000000|MMI|5.18|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-59-"vomiting"-verb-0]|TX|7572/8|
+00000000|MMI|5.18|Weakness|C3714552|[sosy]|["WEAKNESS"-tx-59-"weakness"-noun-0]|TX|7582/8|
+00000000|MMI|5.18|nervous system disorder|C0027765|[dsyn]|["Neurological Disorder"-tx-77-"neurological disorder"-noun-0]|TX|9747/21|C10
+00000000|MMI|5.18|new onset|C0746890|[fndg]|["NEW ONSET"-tx-19-"New onset"-adj-0]|TX|1990/9|
+00000000|MMI|5.18|refractory plasma cell neoplasm|C0278620|[neop]|["Refractory Multiple Myeloma"-tx-30-"refractory multiple myeloma"-noun-0]|TX|3850/27|
+00000000|MMI|3.68|Adverse Event Associated with Syndromes|C1558916|[fndg]|["SYNDROMES"-tx-46-"syndromes"-noun-1]|TX|6027/9|
+00000000|MMI|3.65|Cardiac arrest/death|C3841929|[fndg]|["Death-cardiac arrest"-tx-21-"Death cardiac arrest"-noun-0]|TX|2394/5,2407/14|
+00000000|MMI|3.64|75+ years|C3840862|[fndg]|["75+ years"-tx-25-"75 years"-noun-0]|TX|3097/8|
+00000000|MMI|3.63|Hydration status|C1321013|[fndg]|["Hydration"-tx-3-"hydration"-noun-0]|TX|352/9|
+00000000|MMI|3.59|Fluid overload|C0546817|[dsyn]|["VOLUME OVERLOAD"-tx-23-"volume overload"-noun-0]|TX|2832/15|
+00000000|MMI|3.59|Not Eligible|C1555471|[fndg]|["Not Eligible"-tx-26-"not eligible"-adj-0]|TX|3321/12|
+00000000|MMI|3.59|Possible pregnancy (finding)|C0425965|[fndg]|["? Pregnancy"-tx-84-"pregnancy"-noun-0]|TX|10701/9|
+00000000|MMI|3.59|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-77-"seizure"-noun-0]|TX|9792/7|
+00000000|MMI|3.59|Used by|C1273517|[fndg]|["used"-tx-84-"used"-verb-0]|TX|10689/4|
+00000000|MMI|3.55|Worse|C1457868|[fndg]|["Worsening"-tx-19-"worsening"-noun-0]|TX|2003/9|
+00000000|MMI|3.54|New York Heart Association Class III|C1882086|[fndg]|["New York Heart Association Class III"-tx-26-"New York Heart Association Class III"-noun-0]|TX|3170/36|
+00000000|MMI|3.53|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-58-"life-threatening"-adj-0]|TX|7414/16|
+00000000|MMI|3.53|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-58-"life-threatening"-adj-0]|TX|7414/16|
+00000000|MMI|3.53|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-58-"life-threatening"-adj-0]|TX|7414/16|
+00000000|MMI|3.48|Encounter due to counseling|C0740209|[fndg]|["Counseling NOS"-tx-62-"Counseling"-adj-0]|TX|8048/10|
+00000000|MMI|3.45|Thrombosis of blood vessel|C2586211|[patf]|["thrombosis"-tx-54-"Thrombosis"-noun-0]|TX|6811/10|
+00000000|MMI|3.44|75%)|C4015571|[fndg]|["75%)"-tx-25-"75"-integer-0]|TX|3097/2|
+00000000|MMI|3.44|acute pneumonitis|C2215251|[dsyn]|["acute pneumonitis"-tx-39-"acute pneumonitis"-noun-0]|TX|5021/5,5074/11|

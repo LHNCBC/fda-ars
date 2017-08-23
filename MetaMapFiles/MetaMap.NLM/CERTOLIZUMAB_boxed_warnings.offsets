@@ -1,0 +1,72 @@
+38,48|C3714514|INFECTIONS|patf
+53,63|C0006826|MALIGNANCY|neop
+53,63|C1306459|MALIGNANCY|neop
+86,96|C3714514|INFECTIONS|patf
+127,137|C3714514|INFECTIONS|patf
+220,230|C3714514|infections|patf
+267,272|C1306577|death|fndg
+385,395|C3714514|infections|patf
+505,517|C1444662|discontinued|fndg
+550,559|C3714514|infection|patf
+550,559|C0009450|infection|dsyn
+563,569|C0243026|sepsis|dsyn
+563,569|C0036690|sepsis|dsyn
+588,598|C3714514|infections|patf
+617,636|C0151332|Active tuberculosis|dsyn
+648,660;671,683|C0275965|reactivation tuberculosis|dsyn
+699,711|C0041296|tuberculosis|dsyn
+774,781|C0012634|disease|dsyn
+813,832|C1609538|latent tuberculosis|dsyn
+862,869|C1363945|therapy|fndg
+885,901|C0872054|latent infection|dsyn
+948,974|C1262313|Invasive fungal infections|dsyn
+986,1000|C0019655|histoplasmosis|dsyn
+1002,1020|C0009186|coccidioidomycosis|dsyn
+1022,1033|C0006840|candidiasis|dsyn
+1035,1048|C0004030|aspergillosis|dsyn
+1050,1063|C0005716|blastomycosis|dsyn
+1069,1083|C1535939|pneumocystosis|dsyn
+1099,1113|C0019655|histoplasmosis|dsyn
+1123,1149|C1262313|invasive fungal infections|dsyn
+1245,1259|C0019655|histoplasmosis|dsyn
+1267,1275|C1513916|negative|fndg
+1305,1314|C3714514|infection|patf
+1305,1314|C0009450|infection|dsyn
+1336,1343|C1363945|therapy|fndg
+1389,1397|C1334278|invasive|fndg
+1485,1495;1503,1516|C0029118|infections opportunistic|dsyn
+1669,1676|C1363945|therapy|fndg
+1705,1724|C0239998|recurrent infection|fndg
+1794,1799|C0311392|signs|fndg
+1804,1812|C1457887|symptoms|sosy
+1816,1825|C3714514|infection|patf
+1816,1825|C0009450|infection|dsyn
+1904,1916|C0041296|tuberculosis|dsyn
+2098,2108|C0006826|MALIGNANCY|neop
+2098,2108|C1306459|MALIGNANCY|neop
+2117,2125|C0024299|Lymphoma|neop
+2136,2148|C0006826|malignancies|neop
+2155,2160|C1705232|fatal|fndg
+2332,2341|C1444656|indicated|fndg
+2411,2421|C3714514|INFECTIONS|patf
+2426,2436|C0006826|MALIGNANCY|neop
+2426,2436|C1306459|MALIGNANCY|neop
+2541,2551|C3714514|infections|patf
+2582,2587|C1306577|death|fndg
+2598,2610|C0041296|tuberculosis|dsyn
+2617,2633|C0684256|bacterial sepsis|dsyn
+2635,2661|C1262313|invasive fungal infections|dsyn
+2671,2685|C0019655|histoplasmosis|dsyn
+2692,2702;2710,2715|C1560945|infections other|fndg
+2769,2781|C1444662|discontinued|fndg
+2814,2823|C3714514|infection|patf
+2814,2823|C0009450|infection|dsyn
+2827,2833|C0243026|sepsis|dsyn
+2827,2833|C0036690|sepsis|dsyn
+2854,2858|C0456984|test|fndg
+2877,2885|C1514241|positive|fndg
+2972,2981|C0151332|active TB|dsyn
+3034,3042|C1513916|negative|fndg
+3054,3062|C0024299|Lymphoma|neop
+3073,3085|C0006826|malignancies|neop
+3092,3097|C1705232|fatal|fndg

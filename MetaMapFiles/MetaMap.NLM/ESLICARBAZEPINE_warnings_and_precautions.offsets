@@ -1,0 +1,309 @@
+52,69|C1760428|Suicidal Behavior|fndg
+96,113|C0424000|suicidal thoughts|fndg
+174,227|C3541994|Drug Reaction with Eosinophilia and Systemic Symptoms|dsyn
+237,259|C0002792|Anaphylactic Reactions|patf
+264,274|C0002994|Angioedema|patf
+288,299|C1444662|discontinue|fndg
+371,383|C0020625|Hyponatremia|dsyn
+452,464|C0020625|hyponatremia|dsyn
+465,473|C1457887|symptoms|sosy
+534,543|C0042571|dizziness|sosy
+534,543|C0012833|dizziness|sosy
+534,543|C1963093|dizziness|fndg
+545,556;560,564|C0575081|disturbance gait|fndg
+583,593|C0013144|somnolence|fndg
+583,593|C2830004|somnolence|fndg
+595,602|C0015672|fatigue|sosy
+604,625|C0338656|cognitive dysfunction|mobd
+631,645|C0750280|visual changes|fndg
+685,694|C0337246|machinery|inpo
+711,721|C2825032|Withdrawal|mobd
+711,721|C3812880|Withdrawal|fndg
+793,810|C0149775|seizure frequency|fndg
+815,833|C0038220|status epilepticus|dsyn
+858,883|C0860207|Drug Induced Liver Injury|patf
+885,896|C1444662|Discontinue|fndg
+921,929|C0022346|jaundice|patf
+921,929|C2010848|jaundice|fndg
+921,929|C2203646|jaundice|sosy
+942,944;957,969|C0160390|of liver injury|inpo
+997,1014|C1760428|Suicidal Behavior|fndg
+1100,1117|C0424000|suicidal thoughts|fndg
+1271,1280|C1457868|worsening|fndg
+1284,1294|C0011570|depression|mobd
+1284,1294|C0011581|depression|mobd
+1284,1294|C1579931|depression|sosy
+1284,1294|C0344315|depression|fndg
+1296,1313|C0424000|suicidal thoughts|fndg
+1346,1361|C0085633|changes in mood|mobd
+1510,1520|C3815594|randomized|fndg
+1645,1653|C0438696|suicidal|fndg
+1654,1662|C0233629|thinking|mobd
+1696,1706|C3815594|randomized|fndg
+1814,1831|C1760428|suicidal behavior|fndg
+2000,2008|C0438696|suicidal|fndg
+2009,2017|C0233629|thinking|mobd
+2078,2086|C0038661|suicides|fndg
+2192,2201|C3843661|too small|fndg
+2232,2243|C0728867|drug effect|patf
+2247,2254|C0038661|suicide|fndg
+2282,2299|C0424000|suicidal thoughts|fndg
+2619,2636|C0424000|suicidal thoughts|fndg
+2712,2719|C0037088|finding|sosy
+2712,2719|C2825141|finding|fndg
+2712,2719|C0243095|finding|fndg
+3079,3096|C0424000|Suicidal Thoughts|fndg
+3100,3109|C0677505|Behaviors|fndg
+3448,3456|C0014544|Epilepsy|dsyn
+3932,3949|C0424000|suicidal thoughts|fndg
+4009,4017|C0014544|epilepsy|dsyn
+4080,4090|C0012634|conditions|dsyn
+4143,4151|C0014544|epilepsy|dsyn
+4245,4252|C0560184|balance|fndg
+4280,4289|C0332155|untreated|fndg
+4290,4297|C0221423|illness|sosy
+4299,4307|C0014544|Epilepsy|dsyn
+4323,4332|C0221423|illnesses|sosy
+4443,4460|C0424000|suicidal thoughts|fndg
+4482,4499|C0424000|suicidal thoughts|fndg
+4602,4610|C1457887|symptoms|sosy
+4639,4646|C0445223|related|fndg
+4654,4661|C0221423|illness|sosy
+4772,4789|C0424000|suicidal thoughts|fndg
+4843,4848|C0239110|alert|fndg
+4870,4879|C1457868|worsening|fndg
+4887,4892|C0311392|signs|fndg
+4897,4919|C0086132|symptoms of depression|sosy
+4933,4948|C0085633|changes in mood|mobd
+4982,4999|C0424000|suicidal thoughts|fndg
+5029,5038|C0424366|self-harm|inpo
+5040,5049|C0677505|Behaviors|fndg
+5205,5229|C0038325|Stevens-Johnson Syndrome|dsyn
+5231,5234|C0036391|SJS|cgab,dsyn
+5309,5314|C1705232|fatal|fndg
+5349,5375|C0014518|toxic epidermal necrolysis|dsyn
+5386,5389|C0036391|SJS|cgab,dsyn
+5480,5487|C0445223|related|fndg
+5742,5752|C1550043|identified|fndg
+5825,5836|C1444662|discontinue|fndg
+5898,5906;5933,5941|C0521985|Patients reaction|fndg
+5947,5953|C3844638|either|fndg
+6058,6111|C3541994|Drug Reaction with Eosinophilia and Systemic Symptoms|dsyn
+6113,6118|C3541994|DRESS|dsyn
+6131,6147|C0020517|Hypersensitivity|patf
+6131,6147|C0520946|Hypersensitivity|fndg
+6153,6206|C3541994|Drug Reaction with Eosinophilia and Systemic Symptoms|dsyn
+6208,6213|C3541994|DRESS|dsyn
+6221,6226;6241,6257|C3845888|known Hypersensitivity|fndg
+6304,6309|C3541994|DRESS|dsyn
+6317,6322|C1705232|fatal|fndg
+6344,6349|C3541994|DRESS|dsyn
+6401,6406|C0015967|fever|fndg
+6401,6406|C0424755|fever|fndg
+6408,6412|C0015230|rash|sosy
+6421,6436|C0497156|lymphadenopathy|fndg
+6498,6507|C0019159|hepatitis|dsyn
+6498,6507|C0019158|hepatitis|dsyn
+6509,6518|C0027697|nephritis|dsyn
+6520,6547|C0850715|hematological abnormalities|dsyn
+6549,6560|C0027059|myocarditis|dsyn
+6549,6560|C1962971|myocarditis|fndg
+6565,6573|C0027121|myositis|dsyn
+6598,6619|C1443953|acute viral infection|dsyn
+6621,6633|C0014457|Eosinophilia|dsyn
+6621,6633|C1306759|Eosinophilia|dsyn
+6665,6673|C0012634|disorder|dsyn
+6677,6685;6693,6703|C1868500|variable expression|fndg
+6810,6826|C0020517|hypersensitivity|patf
+6810,6826|C0520946|hypersensitivity|fndg
+6836,6841|C0015967|fever|fndg
+6836,6841|C0424755|fever|fndg
+6845,6860|C0497156|lymphadenopathy|fndg
+6889,6893|C0015230|rash|sosy
+6918,6923|C0311392|signs|fndg
+6927,6935|C1457887|symptoms|sosy
+7011,7023|C1444662|discontinued|fndg
+7078,7083|C0311392|signs|fndg
+7087,7095|C1457887|symptoms|sosy
+7128,7132;7141,7146|C3541994|with DRESS|dsyn
+7161,7167|C3844638|either|fndg
+7272,7294|C0002792|Anaphylactic Reactions|patf
+7299,7309|C0002994|Angioedema|patf
+7329,7340|C0002792|anaphylaxis|patf
+7329,7340|C0850803|anaphylaxis|dsyn
+7345,7355|C0002994|angioedema|patf
+7402,7413|C0002792|Anaphylaxis|patf
+7402,7413|C0850803|Anaphylaxis|dsyn
+7418,7428|C0002994|angioedema|patf
+7445,7460|C0023052|laryngeal edema|patf
+7468,7473|C1705232|fatal|fndg
+7568,7580|C1444662|discontinued|fndg
+7604,7630|C0340865|anaphylactic-type reaction|patf
+7636,7642|C3844638|either|fndg
+7747,7759|C0020625|Hyponatremia|dsyn
+7889,7897|C0014544|epilepsy|dsyn
+7906,7907|C3838679|4|fndg
+8293,8300|C0445223|related|fndg
+8416,8429|C1171258|complications|patf
+8416,8429|C0009566|complications|patf
+8467,8479|C0020625|hyponatremia|dsyn
+8512,8520|C0036572|seizures|sosy
+8529,8544|C0027498|nausea/vomiting|sosy
+8556,8567|C0011175|dehydration|dsyn
+8576,8592|C0231686|gait instability|fndg
+8649,8664|C1444662|discontinuation|fndg
+8687,8700|C0085680|hypochloremia|dsyn
+8687,8700|C0595901|hypochloremia|fndg
+8735,8747|C0020625|hyponatremia|dsyn
+8778,8790|C0020625|hyponatremia|dsyn
+8837,8849|C1444662|discontinued|fndg
+8851,8863|C0020625|Hyponatremia|dsyn
+9144,9152|C1457887|symptoms|sosy
+9156,9168|C0020625|hyponatremia|dsyn
+9184,9199|C0027498|nausea/vomiting|sosy
+9201,9208|C0231218|malaise|sosy
+9210,9218|C0018681|headache|sosy
+9210,9218|C2096315|headache|fndg
+9220,9228|C0023380|lethargy|sosy
+9230,9239|C0009676|confusion|mobd
+9230,9239|C0683369|confusion|sosy
+9230,9239|C1963086|confusion|fndg
+9241,9253|C0022107|irritability|fndg
+9255,9261;9271,9277|C0037763|muscle spasms|sosy
+9255,9270|C0151786|muscle weakness|sosy
+9255,9270|C0030552|muscle weakness|sosy
+9262,9270|C3714552|weakness|sosy
+9271,9277|C0037763|spasms|sosy
+9279,9290|C0085628|obtundation|mobd
+9279,9290|C1621860|obtundation|fndg
+9307,9324|C0149775|seizure frequency|fndg
+9387,9396|C0042571|Dizziness|sosy
+9387,9396|C0012833|Dizziness|sosy
+9387,9396|C1963093|Dizziness|fndg
+9401,9412;9416,9420|C0575081|Disturbance Gait|fndg
+9463,9470|C0445223|related|fndg
+9463,9470|C0445223|related|fndg
+9502,9509|C0445223|related|fndg
+9502,9509|C0445223|related|fndg
+9513,9522|C0042571|dizziness|sosy
+9513,9522|C0012833|dizziness|sosy
+9513,9522|C1963093|dizziness|fndg
+9527,9538;9542,9546|C0575081|disturbance gait|fndg
+9565,9574|C0042571|dizziness|sosy
+9565,9574|C0012833|dizziness|sosy
+9565,9574|C1963093|dizziness|fndg
+9576,9582|C0007758|ataxia|sosy
+9576,9582|C0004134|ataxia|sosy
+9584,9591|C0042571|vertigo|sosy
+9593,9609|C0575090|balance disorder|sosy
+9611,9627|C0575081|gait disturbance|fndg
+9629,9638|C0028738|nystagmus|dsyn
+9629,9638|C1963184|nystagmus|fndg
+9644,9665|C0520966|abnormal coordination|sosy
+9729,9737|C0014544|epilepsy|dsyn
+9800,9810|C3815594|randomized|fndg
+9931,9938|C0445223|related|fndg
+9942,9951|C0042571|dizziness|sosy
+9942,9951|C0012833|dizziness|sosy
+9942,9951|C1963093|dizziness|fndg
+9956,9967;9971,9975|C0575081|disturbance gait|fndg
+10118,10128|C2825032|withdrawal|mobd
+10118,10128|C3812880|withdrawal|fndg
+10457,10463|C0027497|Nausea|sosy
+10457,10463|C1963179|Nausea|patf
+10468,10476|C0042963|vomiting|sosy
+10468,10476|C1963281|vomiting|patf
+10510,10519|C0042571|Dizziness|sosy
+10510,10519|C0012833|Dizziness|sosy
+10510,10519|C1963093|Dizziness|fndg
+10524,10535;10539,10543|C0575081|disturbance gait|fndg
+10624,10633|C0042571|dizziness|sosy
+10624,10633|C0012833|dizziness|sosy
+10624,10633|C1963093|dizziness|fndg
+10879,10883|C1273517|used|fndg
+10950,10960|C0013144|Somnolence|fndg
+10950,10960|C2830004|Somnolence|fndg
+10965,10972|C0015672|Fatigue|sosy
+11021,11031|C0013144|somnolence|fndg
+11021,11031|C2830004|somnolence|fndg
+11036,11043|C0015672|fatigue|sosy
+11044,11051|C0445223|related|fndg
+11071,11078|C0015672|fatigue|sosy
+11080,11088|C0004093|asthenia|sosy
+11090,11097|C0231218|malaise|sosy
+11099,11110|C0917799|hypersomnia|dsyn
+11112,11120|C0235195|sedation|fndg
+11126,11134|C0023380|lethargy|sosy
+11166,11174|C0014544|epilepsy|dsyn
+11254,11264|C3815594|randomized|fndg
+11315,11325|C3815594|randomized|fndg
+11357,11367|C0013144|Somnolence|fndg
+11357,11367|C2830004|Somnolence|fndg
+11372,11379|C0015672|fatigue|sosy
+11380,11387|C0445223|related|fndg
+11479,11494|C1444662|discontinuation|fndg
+11568,11578|C0013144|Somnolence|fndg
+11568,11578|C2830004|Somnolence|fndg
+11583,11590|C0015672|fatigue|sosy
+11640,11661|C0338656|Cognitive Dysfunction|mobd
+11710,11731|C0338656|cognitive dysfunction|mobd
+11732,11739|C0445223|related|fndg
+11748,11765|C1963167|memory impairment|patf
+11748,11765|C0233794|memory impairment|mobd
+11767,11791|C0233414|disturbance in attention|mobd
+11793,11800|C0002622|amnesia|mobd
+11802,11819|C0009676|confusional state|mobd
+11821,11828|C0003537|aphasia|mobd
+11830,11845|C0037822|speech disorder|dsyn
+11830,11845|C1527347|speech disorder|fndg
+11847,11855;11859,11866|C0233633|slowness thought|mobd
+11868,11882|C0009676|disorientation|mobd
+11868,11882|C0233407|disorientation|mobd
+11888,11911|C0557874|psychomotor retardation|fndg
+11888,11911|C0424230|psychomotor retardation|fndg
+11943,11951|C0014544|epilepsy|dsyn
+12029,12039|C3815594|randomized|fndg
+12089,12099|C3815594|randomized|fndg
+12131,12152|C0338656|Cognitive dysfunction|mobd
+12153,12160|C0445223|related|fndg
+12258,12273|C1444662|discontinuation|fndg
+12347,12368|C0338656|Cognitive dysfunction|mobd
+12425,12439|C0750280|Visual Changes|fndg
+12495,12502|C0445223|related|fndg
+12506,12520|C0750280|visual changes|fndg
+12531,12539|C0012569|diplopia|fndg
+12541,12555|C0344232|blurred vision|sosy
+12561,12576|C3665347|impaired vision|fndg
+12607,12615|C0014544|epilepsy|dsyn
+12670,12680|C3815594|randomized|fndg
+12830,12845|C1444662|discontinuation|fndg
+13060,13068;13072,13075|C4062446|60 years age|fndg
+13060,13068;13072,13075|C4062292|60 years age|fndg
+13133,13141|C0012569|diplopia|fndg
+13344,13351|C0445223|related|fndg
+13355,13369|C0750280|visual changes|fndg
+13429,13439|C2239122|Activities|fndg
+13489,13497|C0425152|engaging|fndg
+13511,13521|C2239122|activities|fndg
+13532,13548|C0549164|mental alertness|fndg
+13596,13605|C0337246|machinery|inpo
+13655,13665;13669,13673|C0152128|Withdrawal AEDs|dsyn
+13655,13665|C2825032|Withdrawal|mobd
+13655,13665|C3812880|Withdrawal|fndg
+13729,13738|C2825032|withdrawn|mobd
+13729,13738|C0424092|withdrawn|fndg
+13782,13799|C0149775|seizure frequency|fndg
+13804,13822|C0038220|status epilepticus|dsyn
+13835,13860|C0860207|Drug Induced Liver Injury|patf
+13943,13950|C4035626|3 times|fndg
+14041,14048|C4035627|2 times|fndg
+14180,14191|C3811910|combination|fndg
+14223,14241|C0311468|elevated bilirubin|fndg
+14365,14377|C1444662|discontinued|fndg
+14395,14403|C0022346|jaundice|patf
+14395,14403|C2010848|jaundice|fndg
+14395,14403|C2203646|jaundice|sosy
+14437,14449|C0160390|liver injury|inpo
+14490,14521|C0476414|Abnormal Thyroid Function Tests|fndg
+14729,14743|C0020676|hypothyroidism|dsyn
+14745,14770|C0857576|Abnormal thyroid function|fndg

@@ -1,0 +1,72 @@
+111,120|C1457868|worsening|fndg
+121,134|C0018801|heart failure|dsyn
+121,134|C0018802|heart failure|dsyn
+183,195|C0160390|Liver Injury|inpo
+244,262|C0919924|Pulmonary toxicity|patf
+311,322|C0020621|Hypokalemia|fndg
+327,341|C0151723|hypomagnesemia|fndg
+425,440|C0151878|QT prolongation|fndg
+541,549|C0011991|diarrhea|sosy
+541,549|C1963091|diarrhea|fndg
+551,557|C0027497|nausea|sosy
+551,557|C1963179|nausea|patf
+559,573|C0000737|abdominal pain|sosy
+575,583|C0042963|vomiting|sosy
+575,583|C1963281|vomiting|patf
+589,597|C0004093|asthenia|sosy
+1015,1025|C3815594|randomized|fndg
+1179,1188|C0589120|follow-up|fndg
+1238,1253|C1444662|discontinuation|fndg
+1407,1422|C1444662|discontinuation|fndg
+1426,1433|C1363945|therapy|fndg
+1451,1477|C0017178|gastrointestinal disorders|dsyn
+1523,1538|C0151878|QT prolongation|fndg
+1682,1690|C0011991|diarrhea|sosy
+1682,1690|C1963091|diarrhea|fndg
+1692,1698|C0027497|nausea|sosy
+1692,1698|C1963179|nausea|patf
+1700,1714|C0000737|abdominal pain|sosy
+1716,1724|C0042963|vomiting|sosy
+1716,1724|C1963281|vomiting|patf
+1730,1738|C0004093|asthenia|sosy
+2448,2456;2488,2489|C3553270|Diarrhea 6|dsyn
+2557,2563|C0027497|Nausea|sosy
+2557,2563|C1963179|Nausea|patf
+2666,2680|C0000737|Abdominal pain|sosy
+2775,2783|C0042963|Vomiting|sosy
+2775,2783|C1963281|Vomiting|patf
+2894,2899|C0311392|signs|fndg
+2904,2912|C1457887|symptoms|sosy
+3102,3110|C0004093|Asthenic|sosy
+3102,3110|C3714552|Asthenic|sosy
+3111,3121|C0012634|conditions|dsyn
+3320,3331|C0428977|Bradycardia|patf
+3320,3331|C3812171|Bradycardia|fndg
+3548,3554|C0015230|rashes|sosy
+3609,3617|C0033774|pruritus|sosy
+3619,3625|C0013595|eczema|dsyn
+3627,3637|C0011603|dermatitis|dsyn
+3639,3658|C0011615|dermatitis allergic|dsyn
+3736,3761|C0162830|Photosensitivity reaction|dsyn
+3766,3775|C0013378|dysgeusia|fndg
+3900,3910|C0449381|parameters|fndg
+3990,4000|C0449381|parameters|fndg
+4281,4290;4294,4304|C0151578|increases creatinine|fndg
+4281,4290;4294,4304|C0700225|increases creatinine|fndg
+4872,4882|C1550043|identified|fndg
+5147,5156|C1457868|worsening|fndg
+5157,5170|C0018801|heart failure|dsyn
+5157,5170|C0018802|heart failure|dsyn
+5218,5232|C0004239|Atrial flutter|patf
+5218,5232|C1963068|Atrial flutter|patf
+5319,5331|C0160390|Liver Injury|inpo
+5397,5422|C0206062|Interstitial lung disease|dsyn
+5433,5444|C0032285|pneumonitis|dsyn
+5433,5444|C3714636|pneumonitis|dsyn
+5449,5467|C0034069|pulmonary fibrosis|dsyn
+5528,5550|C0002792|Anaphylactic reactions|patf
+5561,5571|C0002994|angioedema|patf
+5591,5601|C0042384|Vasculitis|dsyn
+5591,5601|C1963274|Vasculitis|fndg
+5613,5640|C0151436|leukocytoclastic vasculitis|dsyn
+5613,5640|C2973529|leukocytoclastic vasculitis|dsyn

@@ -1,0 +1,31 @@
+00000000|MMI|66.90|Exposure to radiation|C0015333|[inpo]|["Exposure to radiation"-tx-18-"radiation exposure to"-noun-0,"RADIATION EXPOSURE"-tx-17-"radiation exposure"-noun-0,"Exposure to radiation"-tx-16-"to radiation exposure"-noun-0,"Exposure to radiation"-tx-3-"to radiation exposure"-noun-0]|TX|2370/21;2258/18;2173/2,2217/18;351/2,387/18|G01.750.748;N06.850.460.350.850
+00000000|MMI|26.03|Emergencies [Disease/Finding]|C2745965|[patf]|["Emergency"-tx-15-"Emergency"-noun-0,"Emergency"-tx-2-"emergency"-noun-0]|TX|2010/9;218/9|C23.550.291.781;N06.230.100.083;N06.850.376
+00000000|MMI|21.54|Allergic Reaction|C1527304|[patf]|["Reactions, Allergic"-tx-14-"Allergic Reactions"-noun-0,"Reactions, Allergic"-tx-14-"allergic reactions"-noun-0,"Reactions, Allergic"-tx-2-"Allergic reactions"-noun-0]|TX|1901/18;1964/18;193/18|C20.543
+00000000|MMI|21.54|Hypersensitivity|C0020517|[patf]|["Allergic reactions"-tx-14-"Allergic Reactions"-noun-0,"Allergic reactions"-tx-14-"allergic reactions"-noun-0,"Allergic reactions"-tx-2-"Allergic reactions"-noun-0]|TX|1901/18;1964/18;193/18|C20.543
+00000000|MMI|20.09|Handling|C1832073|[fndg]|["Handling"-tx-18-"handling"-noun-0,"Handling"-tx-4-"handling"-noun-0]|TX|2331/8;419/8|F01.658.556
+00000000|MMI|17.80|Brain Neoplasms|C0006118|[neop]|["Brain Tumors"-tx-7-"brain tumors"-noun-1]|TX|892/12|C04.588.614.250.195;C10.228.140.211;C10.551.240.250
+00000000|MMI|14.64|Benign Prostatic Hyperplasia|C1704272|[neop]|["prostatic hyperplasia"-tx-10-"prostatic hyperplasia"-noun-0]|TX|1297/21|C12.294.565.500
+00000000|MMI|14.64|Prostatic Hyperplasia|C2937421|[dsyn]|["Prostatic Hyperplasia"-tx-10-"prostatic hyperplasia"-noun-0]|TX|1297/21|C12.294.565.500
+00000000|MMI|14.64|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-14-"anaphylaxis"-noun-0]|TX|1987/11|C20.543.480.099
+00000000|MMI|12.89|Recurrence (disease attribute)|C2825055|[patf]|["RECURRENCE"-tx-8-"recurrence"-noun-0]|TX|985/10|C23.550.291.937
+00000000|MMI|10.97|History of exposure to radiation|C0455620|[fndg]|["exposure to radiation"-tx-18-"radiation exposure to"-noun-0,"exposure to radiation"-tx-16-"to radiation exposure"-noun-0,"exposure to radiation"-tx-3-"to radiation exposure"-noun-0]|TX|2370/21;2173/2,2217/18;351/2,387/18|
+00000000|MMI|10.97|encounter due to Exposure to radiation|C1536744|[fndg]|["Exposure to radiation"-tx-18-"radiation exposure to"-noun-0,"Exposure to radiation"-tx-16-"to radiation exposure"-noun-0,"Exposure to radiation"-tx-3-"to radiation exposure"-noun-0]|TX|2370/21;2173/2,2217/18;351/2,387/18|
+00000000|MMI|9.99|Inflammation|C0021368|[patf]|["INFLAMMATION"-tx-10-"inflammation"-noun-0]|TX|1273/12|C23.550.470
+00000000|MMI|7.01|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-13-"discontinuation"-noun-0,"Discontinuation"-tx-12-"discontinuation"-noun-0]|TX|1738/15;1648/15|
+00000000|MMI|6.99|2+|C3833492|[fndg]|["2+"-tx-9-"2"-integer-0,"2+"-tx-1-"2"-integer-0]|TX|1087/1;118/1|
+00000000|MMI|6.92|Recurrent Malignant Neoplasm|C1458156|[neop]|["recurrence"-tx-8-"recurrence"-noun-0,"Recurrent Cancer"-tx-6-"recurrent cancer"-noun-1]|TX|985/10;747/16|
+00000000|MMI|5.18|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-14-"anaphylaxis"-noun-0]|TX|1987/11|
+00000000|MMI|5.18|Carcinoma of lung|C0684249|[neop]|["LUNG CARCINOMA"-tx-7-"lung carcinoma"-noun-1]|TX|873/14|
+00000000|MMI|5.18|Indicated|C1444656|[fndg]|["Indicated"-tx-12-"indicated"-verb-0]|TX|1633/9|
+00000000|MMI|5.18|Malignant Neoplasms|C0006826|[neop]|["CANCER"-tx-17-"cancer"-noun-0]|TX|2318/6|
+00000000|MMI|5.18|Primary malignant neoplasm|C1306459|[neop]|["Cancer"-tx-17-"cancer"-noun-0]|TX|2318/6|
+00000000|MMI|5.18|Resolved|C3714811|[fndg]|["RESOLVED"-tx-12-"resolved"-verb-0]|TX|1692/8|
+00000000|MMI|5.18|physiologic resolution|C1514893|[patf]|["Resolved"-tx-12-"resolved"-verb-0]|TX|1692/8|
+00000000|MMI|4.12|False Negative Result Medical Device Problem|C1880722|[fndg]|["False Negative Result"-tx-9-"false negative results"-noun-0]|TX|1206/22|
+00000000|MMI|3.68|Negative Finding|C1513916|[fndg]|["NEGATIVE"-tx-6-"negative"-noun-0]|TX|618/8|
+00000000|MMI|3.58|Cancer Other|C1707251|[neop]|["Cancer Other"-tx-7-"other cancer"-noun-1]|TX|842/5,857/6|
+00000000|MMI|3.51|Prostate cancer recurrent|C0278838|[neop]|["Recurrent Cancer of the Prostate"-tx-6-"the of recurrent prostate cancer"-noun-1]|TX|651/3,664/28|
+00000000|MMI|3.50|Positive Finding|C1514241|[fndg]|["POSITIVE"-tx-6-"positive"-adj-0]|TX|699/8|
+00000000|MMI|3.46|Malignant neoplasm of prostate|C0376358|[neop]|["PROSTATE CANCER"-tx-7-"prostate cancer"-noun-1]|TX|807/15|
+00000000|MMI|3.46|Prostate carcinoma|C0600139|[neop]|["Prostate Cancer"-tx-7-"prostate cancer"-noun-1]|TX|807/15|
+00000000|MMI|3.46|Recurrent Carcinoma|C0549379|[neop]|["RECURRENT CANCER"-tx-6-"recurrent cancer"-noun-1]|TX|747/16|

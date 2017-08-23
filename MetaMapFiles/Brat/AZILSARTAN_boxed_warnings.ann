@@ -1,0 +1,60 @@
+T1	AdverseReaction 30 44	FETAL TOXICITY
+T2	AdverseReaction 59 73	FETAL TOXICITY
+T3	DrugClass 194 249	Drugs that act directly on the renin-angiotensin system
+T4	AdverseReaction 271 300	death to the developing fetus
+T5	AdverseReaction 260 266;277 300	injury to the developing fetus
+T7	AdverseReaction 357 371	FETAL TOXICITY
+T8	DrugClass 529 584	Drugs that act directly on the renin-angiotensin system
+T10	AdverseReaction 595 601;612 635	injury to the developing fetus
+T11	AdverseReaction 606 635	death to the developing fetus
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	DrugClass:T3
+E4	AdverseReaction:T4 Hypothetical:E3
+E5	AdverseReaction:T5 Hypothetical:E3
+E7	AdverseReaction:T7
+E8	DrugClass:T8
+E10	AdverseReaction:T10 Hypothetical2:E8
+E11	AdverseReaction:T11 Hypothetical2:E8
+A1	CUI E1 C0270009
+A2	UMLS-Preferred-Name E1 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A3	MEDDRA-PT E1 Maternal drugs affecting foetus
+A4	MEDDRA-PT-ID E1 10026923
+A5	LLT E1 Drug toxicity NEC affecting foetus
+A6	LLT-ID E1 10013750
+A7	CUI E2 C0270009
+A8	UMLS-Preferred-Name E2 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A9	MEDDRA-PT E2 Maternal drugs affecting foetus
+A10	MEDDRA-PT-ID E2 10026923
+A11	LLT E2 Drug toxicity NEC affecting foetus
+A12	LLT-ID E2 10013750
+A13	CUI E4 C0015927
+A14	UMLS-Preferred-Name E4 Fetal Death
+A15	MEDDRA-PT E4 Foetal death
+A16	MEDDRA-PT-ID E4 10055690
+A17	LLT E4 Fetal death
+A18	LLT-ID E4 10016479
+A19	CUI E5 C0456799
+A20	UMLS-Preferred-Name E5 Fetal trauma
+A21	MEDDRA-PT E5 Foetal damage
+A22	MEDDRA-PT-ID E5 10016852
+A23	LLT E5 Fetal damage
+A24	LLT-ID E5 10054743
+A25	CUI E7 C0270009
+A26	UMLS-Preferred-Name E7 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A27	MEDDRA-PT E7 Maternal drugs affecting foetus
+A28	MEDDRA-PT-ID E7 10026923
+A29	LLT E7 Drug toxicity NEC affecting foetus
+A30	LLT-ID E7 10013750
+A31	CUI E10 C0456799
+A32	UMLS-Preferred-Name E10 Fetal trauma
+A33	MEDDRA-PT E10 Foetal damage
+A34	MEDDRA-PT-ID E10 10016852
+A35	LLT E10 Fetal damage
+A36	LLT-ID E10 10054743
+A37	CUI E11 C0015927
+A38	UMLS-Preferred-Name E11 Fetal Death
+A39	MEDDRA-PT E11 Foetal death
+A40	MEDDRA-PT-ID E11 10055690
+A41	LLT E11 Fetal death
+A42	LLT-ID E11 10016479

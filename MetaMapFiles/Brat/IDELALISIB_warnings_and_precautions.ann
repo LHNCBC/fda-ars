@@ -1,0 +1,298 @@
+T1	Severity 52 58	Severe
+T2	AdverseReaction 59 78	cutaneous reactions
+T3	AdverseReaction 187 198	Anaphylaxis
+T4	AdverseReaction 273 284	Neutropenia
+T5	AdverseReaction 323 344	Embryo-fetal toxicity
+T6	Factor 346 349	may
+T7	AdverseReaction 356 366	fetal harm
+T8	AdverseReaction 501 506	Fatal
+T9	Severity 514 521	serious
+T10	AdverseReaction 522 536	hepatotoxicity
+T11	AdverseReaction 587 604	Elevations in ALT
+T12	AdverseReaction 587 600;608 611	Elevations in AST
+T13	Severity 625 658	5 times the upper limit of normal
+T14	AdverseReaction 897 907;911 914;923 933	recurrence ALT elevations
+T15	AdverseReaction 897 907;919 933	recurrence AST elevations
+T16	Severity 1615 1621	Severe
+T17	AdverseReaction 1622 1630	diarrhea
+T18	AdverseReaction 1634 1641	colitis
+T19	Severity 1643 1650	Grade 3
+T21	AdverseReaction 1764 1772	Diarrhea
+T22	AdverseReaction 1865 1873	Diarrhea
+T23	AdverseReaction 2164 2169	Fatal
+T24	Severity 2174 2181	serious
+T25	AdverseReaction 2182 2193	pneumonitis
+T32	AdverseReaction 2763 2768	Fatal
+T33	Severity 2773 2780	serious
+T34	AdverseReaction 2781 2803	intestinal perforation
+T35	Severity 2900 2906	severe
+T36	AdverseReaction 2907 2915	diarrhea
+T42	AdverseReaction 3163 3189	toxic epidermal necrolysis
+T43	AdverseReaction 3191 3194	TEN
+T44	Severity 3281 3287	severe
+T45	Severity 3291 3307	life-threatening
+T46	Severity 3309 3314;3317 3318	Grade 3
+T47	AdverseReaction 3320 3339	cutaneous reactions
+T48	AdverseReaction 3351 3373	dermatitis exfoliative
+T49	AdverseReaction 3375 3379	rash
+T50	AdverseReaction 3381 3398	rash erythematous
+T51	AdverseReaction 3400 3416	rash generalized
+T52	AdverseReaction 3418 3422;3423 3430	rash macular
+T53	AdverseReaction 3432 3451	rash maculo-papular
+T54	AdverseReaction 3453 3465	rash papular
+T55	AdverseReaction 3467 3480	rash pruritic
+T56	AdverseReaction 3482 3498	exfoliative rash
+T57	AdverseReaction 3504 3517	skin disorder
+T58	AdverseReaction 3695 3713	allergic reactions
+T59	Severity 3687 3694	Serious
+T60	AdverseReaction 3725 3736	anaphylaxis
+T61	Severity 3959 3966	Grade 3
+T62	Severity 3959 3964;3970 3971	Grade 4
+T63	AdverseReaction 3972 3983	neutropenia
+T65	Animal 4349 4356	animals
+T66	AdverseReaction 4376 4386	fetal harm
+T67	Animal 4455 4459	rats
+T68	AdverseReaction 4440 4451	teratogenic
+T20	Factor 1773 1776	can
+T26	Severity 2888 2896	moderate
+E1	Severity:T1
+E2	AdverseReaction:T2 Effect:E1
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	Factor:T6
+E7	AdverseReaction:T7 Hypothetical:E6
+E8	AdverseReaction:T8
+E9	Severity:T9
+E10	AdverseReaction:T10 Effect:E9
+E11	AdverseReaction:T11 Effect:E13
+E12	AdverseReaction:T12 Effect:E13
+E13	Severity:T13
+E15	AdverseReaction:T14
+E16	AdverseReaction:T15
+E17	Severity:T16
+E18	AdverseReaction:T17 Effect:E17 Effect2:E20
+E19	AdverseReaction:T18 Effect:E20 Effect2:E17
+E20	Severity:T19
+E22	AdverseReaction:T21 Hypothetical:E14
+E23	AdverseReaction:T22
+E24	AdverseReaction:T23
+E25	Severity:T24
+E26	AdverseReaction:T25 Effect:E25
+E33	AdverseReaction:T32
+E34	Severity:T33
+E35	AdverseReaction:T34 Effect:E34
+E36	Severity:T35
+E37	AdverseReaction:T36 Effect:E36 Effect2:E21
+E43	AdverseReaction:T42
+E44	AdverseReaction:T43
+E45	Severity:T44
+E46	Severity:T45
+E47	Severity:T46
+E48	AdverseReaction:T47 Effect:E47 Effect2:E46 Effect3:E45
+E49	AdverseReaction:T48 Effect:E47 Effect2:E46 Effect3:E45
+E50	AdverseReaction:T49 Effect:E47 Effect2:E46 Effect3:E45
+E51	AdverseReaction:T50 Effect:E47 Effect2:E46 Effect3:E45
+E52	AdverseReaction:T51 Effect:E47 Effect2:E46 Effect3:E45
+E53	AdverseReaction:T52 Effect:E47 Effect2:E46 Effect3:E45
+E54	AdverseReaction:T53 Effect:E47 Effect2:E46 Effect3:E45
+E55	AdverseReaction:T54 Effect:E47 Effect2:E46 Effect3:E45
+E56	AdverseReaction:T55 Effect:E47 Effect2:E46 Effect3:E45
+E57	AdverseReaction:T56 Effect:E47 Effect2:E46 Effect3:E45
+E58	AdverseReaction:T57 Effect:E47 Effect2:E46 Effect3:E45
+E59	AdverseReaction:T58 Effect:E60
+E60	Severity:T59
+E61	AdverseReaction:T60
+E62	Severity:T61
+E63	Severity:T62
+E64	AdverseReaction:T63 Effect:E63 Effect2:E62
+E66	Animal:T65
+E67	AdverseReaction:T66 Hypothetical:E66
+E68	Animal:T67
+E69	AdverseReaction:T68 Hypothetical:E68
+E14	Factor:T20
+E21	Severity:T26
+A1	CUI E2 C0221743
+A2	UMLS-Preferred-Name E2 Skin reaction
+A3	MEDDRA-PT E2 Skin reaction
+A4	MEDDRA-PT-ID E2 10040914
+A5	CUI E3 C0002792
+A6	UMLS-Preferred-Name E3 anaphylaxis
+A7	MEDDRA-PT E3 Anaphylactic reaction
+A8	MEDDRA-PT-ID E3 10002198
+A9	LLT E3 Anaphylaxis
+A10	LLT-ID E3 10002218
+A11	CUI E4 C0027947
+A12	UMLS-Preferred-Name E4 Neutropenia
+A13	MEDDRA-PT E4 Neutropenia
+A14	MEDDRA-PT-ID E4 10029354
+A15	CUI E5 C0270009
+A16	UMLS-Preferred-Name E5 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A17	MEDDRA-PT E5 Maternal drugs affecting foetus
+A18	MEDDRA-PT-ID E5 10026923
+A19	LLT E5 Drug toxicity NEC affecting foetus
+A20	LLT-ID E5 10013750
+A21	CUI E7 C0854268
+A22	UMLS-Preferred-Name E7 Foetal damage
+A23	MEDDRA-PT E7 Foetal damage
+A24	MEDDRA-PT-ID E7 10016852
+A25	LLT E7 Fetal damage
+A26	LLT-ID E7 10054743
+A27	CUI E8 C1306577
+A28	UMLS-Preferred-Name E8 Death (finding)
+A29	MEDDRA-PT E8 Death
+A30	MEDDRA-PT-ID E8 10011906
+A31	CUI E10 C0235378
+A32	UMLS-Preferred-Name E10 Hepatotoxicity
+A33	MEDDRA-PT E10 Hepatotoxicity
+A34	MEDDRA-PT-ID E10 10019851
+A35	CUI E11 C0151905
+A36	UMLS-Preferred-Name E11 Alanine aminotransferase increased
+A37	MEDDRA-PT E11 Alanine aminotransferase increased
+A38	MEDDRA-PT-ID E11 10001551
+A39	LLT E11 ALT increased
+A40	LLT-ID E11 10001845
+A41	CUI E12 C0151904
+A42	UMLS-Preferred-Name E12 Aspartate aminotransferase increased
+A43	MEDDRA-PT E12 Aspartate aminotransferase increased
+A44	MEDDRA-PT-ID E12 10003481
+A45	LLT E12 AST increased
+A46	LLT-ID E12 10003544
+A47	CUI E15 C0151905
+A48	UMLS-Preferred-Name E15 Alanine aminotransferase increased
+A49	MEDDRA-PT E15 Alanine aminotransferase increased
+A50	MEDDRA-PT-ID E15 10001551
+A51	LLT E15 ALT increased
+A52	LLT-ID E15 10001845
+A53	CUI E16 C0151904
+A54	UMLS-Preferred-Name E16 Aspartate aminotransferase increased
+A55	MEDDRA-PT E16 Aspartate aminotransferase increased
+A56	MEDDRA-PT-ID E16 10003481
+A57	LLT E16 AST increased
+A58	LLT-ID E16 10003544
+A59	CUI E18 C0011991
+A60	UMLS-Preferred-Name E18 Diarrhea
+A61	MEDDRA-PT E18 Diarrhoea
+A62	MEDDRA-PT-ID E18 10012735
+A63	LLT E18 Diarrhea
+A64	LLT-ID E18 10012727
+A65	CUI E19 C0009319
+A66	UMLS-Preferred-Name E19 Colitis
+A67	MEDDRA-PT E19 Colitis
+A68	MEDDRA-PT-ID E19 10009887
+A69	CUI E22 C0011991
+A70	UMLS-Preferred-Name E22 Diarrhea
+A71	MEDDRA-PT E22 Diarrhoea
+A72	MEDDRA-PT-ID E22 10012735
+A73	LLT E22 Diarrhea
+A74	LLT-ID E22 10012727
+A75	CUI E23 C0011991
+A76	UMLS-Preferred-Name E23 Diarrhea
+A77	MEDDRA-PT E23 Diarrhoea
+A78	MEDDRA-PT-ID E23 10012735
+A79	LLT E23 Diarrhea
+A80	LLT-ID E23 10012727
+A81	CUI E24 C1306577
+A82	UMLS-Preferred-Name E24 Death (finding)
+A83	MEDDRA-PT E24 Death
+A84	MEDDRA-PT-ID E24 10011906
+A85	CUI E26 C3714636
+A86	UMLS-Preferred-Name E26 Pneumonitis
+A87	MEDDRA-PT E26 Pneumonitis
+A88	MEDDRA-PT-ID E26 10035742
+A89	CUI E33 C1306577
+A90	UMLS-Preferred-Name E33 Death (finding)
+A91	MEDDRA-PT E33 Death
+A92	MEDDRA-PT-ID E33 10011906
+A93	CUI E35 C0021845
+A94	UMLS-Preferred-Name E35 Intestinal Perforation
+A95	MEDDRA-PT E35 Intestinal perforation
+A96	MEDDRA-PT-ID E35 10022694
+A97	CUI E37 C0011991
+A98	UMLS-Preferred-Name E37 Diarrhea
+A99	MEDDRA-PT E37 Diarrhoea
+A100	MEDDRA-PT-ID E37 10012735
+A101	LLT E37 Diarrhea
+A102	LLT-ID E37 10012727
+A103	CUI E43 C0014518
+A104	UMLS-Preferred-Name E43 Toxic Epidermal Necrolysis
+A105	MEDDRA-PT E43 Toxic epidermal necrolysis
+A106	MEDDRA-PT-ID E43 10044223
+A107	CUI E44 C0014518
+A108	UMLS-Preferred-Name E44 Toxic Epidermal Necrolysis
+A109	MEDDRA-PT E44 Toxic epidermal necrolysis
+A110	MEDDRA-PT-ID E44 10044223
+A111	LLT E44 TEN
+A112	LLT-ID E44 10043221
+A113	CUI E48 C0221743
+A114	UMLS-Preferred-Name E48 Skin reaction
+A115	MEDDRA-PT E48 Skin reaction
+A116	MEDDRA-PT-ID E48 10040914
+A117	CUI E49 C0011606
+A118	UMLS-Preferred-Name E49 Exfoliative dermatitis
+A119	MEDDRA-PT E49 Dermatitis exfoliative
+A120	MEDDRA-PT-ID E49 10012455
+A121	CUI E50 C0015230
+A122	UMLS-Preferred-Name E50 Exanthema
+A123	MEDDRA-PT E50 Rash
+A124	MEDDRA-PT-ID E50 10037844
+A125	CUI E51 C0234913
+A126	UMLS-Preferred-Name E51 Rash erythematous
+A127	MEDDRA-PT E51 Rash erythematous
+A128	MEDDRA-PT-ID E51 10037855
+A129	CUI E52 C0497365
+A130	UMLS-Preferred-Name E52 Rash generalised
+A131	MEDDRA-PT E52 Rash generalised
+A132	MEDDRA-PT-ID E52 10037858
+A133	LLT E52 Generalized rash
+A134	LLT-ID E52 10049201
+A135	CUI E53 C0221201
+A136	UMLS-Preferred-Name E53 Macular rash
+A137	MEDDRA-PT E53 Rash macular
+A138	MEDDRA-PT-ID E53 10037867
+A139	CUI E54 C0423791
+A140	UMLS-Preferred-Name E54 Maculopapular eruption
+A141	MEDDRA-PT E54 Rash maculo-papular
+A142	MEDDRA-PT-ID E54 10037868
+A143	CUI E55 C1519353
+A144	UMLS-Preferred-Name E55 Skin Papule
+A145	MEDDRA-PT E55 Rash papular
+A146	MEDDRA-PT-ID E55 10037876
+A147	CUI E56 C0033771
+A148	UMLS-Preferred-Name E56 Prurigo
+A149	MEDDRA-PT E56 Rash pruritic
+A150	MEDDRA-PT-ID E56 10037884
+A151	CUI E57 C1608945
+A152	UMLS-Preferred-Name E57 Exfoliative rash
+A153	MEDDRA-PT E57 Exfoliative rash
+A154	MEDDRA-PT-ID E57 10064579
+A155	CUI E58 C0037274
+A156	UMLS-Preferred-Name E58 Dermatologic disorders
+A157	MEDDRA-PT E58 Skin disorder
+A158	MEDDRA-PT-ID E58 10040831
+A159	CUI E59 C1527304
+A160	UMLS-Preferred-Name E59 Allergic Reaction
+A161	MEDDRA-PT E59 Hypersensitivity
+A162	MEDDRA-PT-ID E59 10020751
+A163	LLT E59 Allergic reaction
+A164	LLT-ID E59 10001718
+A165	CUI E61 C0002792
+A166	UMLS-Preferred-Name E61 anaphylaxis
+A167	MEDDRA-PT E61 Anaphylactic reaction
+A168	MEDDRA-PT-ID E61 10002198
+A169	LLT E61 Anaphylaxis
+A170	LLT-ID E61 10002218
+A171	CUI E64 C0027947
+A172	UMLS-Preferred-Name E64 Neutropenia
+A173	MEDDRA-PT E64 Neutropenia
+A174	MEDDRA-PT-ID E64 10029354
+A175	CUI E67 C0854268
+A176	UMLS-Preferred-Name E67 Foetal damage
+A177	MEDDRA-PT E67 Foetal damage
+A178	MEDDRA-PT-ID E67 10016852
+A179	LLT E67 Fetal damage
+A180	LLT-ID E67 10054743
+A181	CUI E69 C0232910
+A182	UMLS-Preferred-Name E69 Teratogenesis
+A183	MEDDRA-PT E69 Teratogenicity
+A184	MEDDRA-PT-ID E69 10043275

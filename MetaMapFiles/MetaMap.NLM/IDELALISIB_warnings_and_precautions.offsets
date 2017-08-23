@@ -1,0 +1,118 @@
+151,162|C1444662|discontinue|fndg
+187,198|C0002792|Anaphylaxis|patf
+187,198|C0850803|Anaphylaxis|dsyn
+221,232|C0002792|anaphylaxis|patf
+221,232|C0850803|anaphylaxis|dsyn
+237,248|C1444662|discontinue|fndg
+273,284|C0027947|Neutropenia|dsyn
+273,284|C0023530|Neutropenia|dsyn
+273,284|C0853697|Neutropenia|fndg
+336,344|C0600688|toxicity|inpo
+423,432|C0425965|pregnancy|fndg
+481,495|C0235378|Hepatotoxicity|inpo
+501,506|C1705232|Fatal|fndg
+522,536|C0235378|hepatotoxicity|inpo
+601,604|C1266129|ALT|neop
+911,914|C1266129|ALT|neop
+935,946|C1444662|Discontinue|fndg
+969,983|C0235378|hepatotoxicity|inpo
+1053,1067|C0348754|liver toxicity|dsyn
+1081,1084|C1266129|ALT|neop
+1253,1267|C0348754|liver toxicity|dsyn
+1275,1278|C1266129|ALT|neop
+1338,1346|C3714811|resolved|fndg
+1338,1346|C1514893|resolved|patf
+1372,1375|C1266129|ALT|neop
+1463,1466|C1266129|ALT|neop
+1519,1527|C3714811|resolved|fndg
+1519,1527|C1514893|resolved|patf
+1583,1598|C1443924|Severe Diarrhea|sosy
+1602,1609|C0009319|Colitis|dsyn
+1602,1609|C1963084|Colitis|fndg
+1615,1630|C1443924|Severe diarrhea|sosy
+1634,1641|C0009319|colitis|dsyn
+1634,1641|C1963084|colitis|fndg
+1643,1650|C3889290|Grade 3|fndg
+1764,1772|C0011991|Diarrhea|sosy
+1764,1772|C1963091|Diarrhea|fndg
+1855,1863|C0011991|diarrhea|sosy
+1855,1863|C1963091|diarrhea|fndg
+1865,1873|C0011991|Diarrhea|sosy
+1865,1873|C1963091|Diarrhea|fndg
+1981,1982;1996,2002|C3840593|1 trials|fndg
+2038,2045|C1363945|therapy|fndg
+2147,2158|C0032285|Pneumonitis|dsyn
+2147,2158|C3714636|Pneumonitis|dsyn
+2164,2169|C1705232|Fatal|fndg
+2182,2193|C0032285|pneumonitis|dsyn
+2182,2193|C3714636|pneumonitis|dsyn
+2278,2296|C0037090|pulmonary symptoms|sosy
+2305,2310|C0010200|cough|sosy
+2305,2310|C1961131|cough|fndg
+2312,2319|C0013404|dyspnea|sosy
+2321,2328|C0242184|hypoxia|patf
+2321,2328|C1963140|hypoxia|fndg
+2343,2354|C0332448|infiltrates|patf
+2451,2462|C0032285|pneumonitis|dsyn
+2451,2462|C3714636|pneumonitis|dsyn
+2467,2478|C0032285|pneumonitis|dsyn
+2467,2478|C3714636|pneumonitis|dsyn
+2521,2529;2537,2546|C0748132|etiology pulmonary|fndg
+2537,2555|C0037090|pulmonary symptoms|sosy
+2547,2555|C1457887|symptoms|sosy
+2591,2602|C0032285|pneumonitis|dsyn
+2591,2602|C3714636|pneumonitis|dsyn
+2658,2673|C1444662|discontinuation|fndg
+2735,2757|C0021845|Intestinal Perforation|dsyn
+2763,2768|C1705232|Fatal|fndg
+2781,2803|C0021845|intestinal perforation|dsyn
+2857,2868|C1881710|perforation|patf
+2857,2868|C0549099|perforation|fndg
+2907,2915|C0011991|diarrhea|sosy
+2907,2915|C1963091|diarrhea|fndg
+2963,2972|C1457868|worsening|fndg
+2973,2987|C0000737|abdominal pain|sosy
+2989,2995|C0085593|chills|sosy
+2997,3002|C0015967|fever|fndg
+2997,3002|C0424755|fever|fndg
+3004,3010|C0027497|nausea|sosy
+3004,3010|C1963179|nausea|patf
+3015,3023|C0042963|vomiting|sosy
+3015,3023|C1963281|vomiting|patf
+3025,3036|C1444662|Discontinue|fndg
+3084,3106|C0021845|intestinal perforation|dsyn
+3163,3189|C0014518|toxic epidermal necrolysis|dsyn
+3230,3241|C3811910|combination|fndg
+3309,3314;3317,3318|C3889290|Grade 3|fndg
+3351,3373|C0011606|dermatitis exfoliative|dsyn
+3351,3361|C0011603|dermatitis|dsyn
+3362,3373;3375,3379|C1608945|exfoliative rash|dsyn
+3375,3379|C0015230|rash|sosy
+3381,3398|C0234913|rash erythematous|fndg
+3418,3422;3437,3451|C0423791|rash maculo-papular|fndg
+3504,3517|C0037274|skin disorder|dsyn
+3638,3649|C1444662|discontinue|fndg
+3670,3681|C0002792|Anaphylaxis|patf
+3670,3681|C0850803|Anaphylaxis|dsyn
+3695,3713|C1527304|allergic reactions|patf
+3695,3713|C0020517|allergic reactions|patf
+3725,3736|C0002792|anaphylaxis|patf
+3725,3736|C0850803|anaphylaxis|dsyn
+3813,3831|C1527304|allergic reactions|patf
+3813,3831|C0020517|allergic reactions|patf
+3833,3844|C1444662|discontinue|fndg
+3923,3934|C0027947|Neutropenia|dsyn
+3923,3934|C0023530|Neutropenia|dsyn
+3923,3934|C0853697|Neutropenia|fndg
+3959,3966|C3889290|Grade 3|fndg
+3972,3983|C0027947|neutropenia|dsyn
+3972,3983|C0023530|neutropenia|dsyn
+3972,3983|C0853697|neutropenia|fndg
+4158,4165|C1363945|therapy|fndg
+4314,4322|C0600688|Toxicity|inpo
+4582,4586|C1273517|used|fndg
+4594,4603|C0425965|pregnancy|fndg
+4631,4639|C0600457|pregnant|fndg
+4631,4639|C0549206|pregnant|fndg
+4839,4847|C0600457|pregnant|fndg
+4839,4847|C0549206|pregnant|fndg

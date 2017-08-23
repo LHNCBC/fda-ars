@@ -1,0 +1,110 @@
+T1	AdverseReaction 83 94	gout flares
+T2	AdverseReaction 482 518	cardiovascular thromboembolic events
+T3	AdverseReaction 710 725	hepatic failure
+T4	AdverseReaction 737 742	fatal
+T5	AdverseReaction 1106 1116	gout flare
+T6	AdverseReaction 1546 1582	cardiovascular thromboembolic events
+T7	AdverseReaction 1584 1605	cardiovascular deaths
+T8	AdverseReaction 1617 1639	myocardial infarctions
+T9	Severity 1607 1616	non-fatal
+T10	AdverseReaction 1655 1662	strokes
+T11	Severity 1645 1654	non-fatal
+T12	AdverseReaction 2074 2089	hepatic failure
+T13	AdverseReaction 2054 2059	fatal
+T14	AdverseReaction 2252 2275	transaminase elevations
+T15	Severity 2289 2326	three times the upper limit of normal
+T16	AdverseReaction 55 65	Gout Flare
+T17	AdverseReaction 441 462	Cardiovascular Events
+T18	AdverseReaction 668 683	Hepatic Effects
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8 Effect:E9
+E9	Severity:T9
+E10	AdverseReaction:T10 Effect:E11
+E11	Severity:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14 Effect:E15
+E15	Severity:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+A1	CUI E1 C1619733
+A2	UMLS-Preferred-Name E1 Gout flare
+A3	MEDDRA-PT E1 Gout
+A4	MEDDRA-PT-ID E1 10018627
+A5	LLT E1 Gout flare
+A6	LLT-ID E1 10064900
+A7	CUI E2 C0040038
+A8	UMLS-Preferred-Name E2 Thromboembolism
+A9	MEDDRA-PT E2 Embolism
+A10	MEDDRA-PT-ID E2 10061169
+A11	LLT E2 Thromboembolic event
+A12	LLT-ID E2 10043565
+A13	CUI E3 C0085605
+A14	UMLS-Preferred-Name E3 Liver Failure
+A15	MEDDRA-PT E3 Hepatic failure
+A16	MEDDRA-PT-ID E3 10019663
+A17	CUI E4 C1306577
+A18	UMLS-Preferred-Name E4 Death (finding)
+A19	MEDDRA-PT E4 Death
+A20	MEDDRA-PT-ID E4 10011906
+A21	CUI E5 C1619733
+A22	UMLS-Preferred-Name E5 Gout flare
+A23	MEDDRA-PT E5 Gout
+A24	MEDDRA-PT-ID E5 10018627
+A25	LLT E5 Gout flare
+A26	LLT-ID E5 10064900
+A27	CUI E6 C0040038
+A28	UMLS-Preferred-Name E6 Thromboembolism
+A29	MEDDRA-PT E6 Embolism
+A30	MEDDRA-PT-ID E6 10061169
+A31	LLT E6 Thromboembolic event
+A32	LLT-ID E6 10043565
+A33	CUI E7 C0376297
+A34	UMLS-Preferred-Name E7 Cardiac Death
+A35	MEDDRA-PT E7 Cardiac death
+A36	MEDDRA-PT-ID E7 10049993
+A37	CUI E8 C0027051
+A38	UMLS-Preferred-Name E8 Myocardial Infarction
+A39	MEDDRA-PT E8 Myocardial infarction
+A40	MEDDRA-PT-ID E8 10028596
+A41	CUI E10 C0038454
+A42	UMLS-Preferred-Name E10 Cerebrovascular accident
+A43	MEDDRA-PT E10 Cerebrovascular accident
+A44	MEDDRA-PT-ID E10 10008190
+A45	LLT E10 Stroke
+A46	LLT-ID E10 10042244
+A47	CUI E12 C0085605
+A48	UMLS-Preferred-Name E12 Liver Failure
+A49	MEDDRA-PT E12 Hepatic failure
+A50	MEDDRA-PT-ID E12 10019663
+A51	CUI E13 C1306577
+A52	UMLS-Preferred-Name E13 Death (finding)
+A53	MEDDRA-PT E13 Death
+A54	MEDDRA-PT-ID E13 10011906
+A55	CUI E14 C0438717
+A56	UMLS-Preferred-Name E14 Transaminases increased
+A57	MEDDRA-PT E14 Transaminases increased
+A58	MEDDRA-PT-ID E14 10054889
+A59	CUI E16 C1619733
+A60	UMLS-Preferred-Name E16 Gout flare
+A61	MEDDRA-PT E16 Gout
+A62	MEDDRA-PT-ID E16 10018627
+A63	LLT E16 Gout flare
+A64	LLT-ID E16 10064900
+A65	CUI E17 C1320716
+A66	UMLS-Preferred-Name E17 Cardiovascular event
+A67	MEDDRA-PT E17 Cardiovascular symptom
+A68	MEDDRA-PT-ID E17 10075534
+A69	CUI E18 C0235378
+A70	UMLS-Preferred-Name E18 Hepatotoxicity
+A71	MEDDRA-PT E18 Hepatotoxicity
+A72	MEDDRA-PT-ID E18 10019851
+A73	LLT E18 Hepatotoxic effect
+A74	LLT-ID E18 10019850

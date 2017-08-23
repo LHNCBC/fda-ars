@@ -1,0 +1,40 @@
+00000000|MMI|50.29|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-6-"Abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-3-"abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-1-"abdominal pain"-noun-0]|TX|1867/14;583/14;97/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|50.16|Headache|C0018681|[sosy]|["HEADACHE"-tx-6-"Headache"-noun-0,"HEADACHE"-tx-3-"headache"-noun-0,"HEADACHE"-tx-1-"headache"-noun-0]|TX|4007/8;674/8;188/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|44.63|Vomiting|C0042963|[sosy]|["VOMITING"-tx-6-"Vomiting"-verb-0,"VOMITING"-tx-3-"vomiting"-verb-0,"VOMITING"-tx-1-"vomiting"-verb-0]|TX|2081/8;573/8;87/8|C23.888.821.937
+00000000|MMI|40.76|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-6-"Diarrhea"-noun-0,"DIARRHOEA"-tx-3-"diarrhea"-noun-0,"DIARRHOEA"-tx-1-"diarrhea"-noun-0]|TX|1974/8;643/8;157/8|C23.888.821.214
+00000000|MMI|40.76|Fever|C0015967|[fndg]|["PYREXIA"-tx-6-"Pyrexia"-noun-0,"PYREXIA"-tx-3-"pyrexia"-noun-0,"PYREXIA"-tx-1-"pyrexia"-noun-0]|TX|2616/7;599/7;113/7|C23.888.119.344
+00000000|MMI|40.76|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-6-"Nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-3-"nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-1-"nasopharyngitis"-noun-0]|TX|3044/15;653/15;167/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|36.61|Infection|C3714514|[patf]|["INFECTION"-tx-6-"Infection"-noun-0,"INFECTION"-tx-6-"infection"-noun-0,"Infections"-tx-6-"Infections"-noun-0,"Infections"-tx-3-"Infections"-noun-0,"Infections"-tx-1-"Infections"-noun-0]|TX|2830/9;1657/9;2723/10;561/10;75/10|C01.539
+00000000|MMI|30.93|Anemia|C0002871|[dsyn]|["ANEMIA"-tx-6-"Anemia"-noun-0,"ANEMIA"-tx-3-"anemia"-noun-0,"ANEMIA"-tx-1-"anemia"-noun-0]|TX|1439/6;620/6;134/6|C15.378.071
+00000000|MMI|30.59|Disease|C0012634|[dsyn]|["Disorders"-tx-6-"disorders"-noun-0,"condition"-tx-6-"conditions"-verb-0]|TX|[2303/9],[4250/9];2337/10|C23.550.288
+00000000|MMI|23.97|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-6-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-4-"adverse reactions"-noun-0,"Adverse reactions"-tx-3-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-3-"adverse reactions"-noun-0,"Adverse reactions"-tx-2-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|999/17;705/17;378/17;478/17;234/17;31/17|
+00000000|MMI|19.97|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-6-"Infection"-noun-0,"Infection, NOS"-tx-6-"infection"-noun-0]|TX|2830/9;1657/9|C01.539.221
+00000000|MMI|19.45|Dysgeusia|C0013378|[fndg]|["DYSGEUSIA"-tx-6-"Dysgeusia"-noun-0]|TX|2188/9|C10.597.751.861.479;C23.888.592.763.861.479
+00000000|MMI|16.30|Drowsiness|C0013144|[fndg]|["Somnolence"-tx-6-"Somnolence"-noun-0]|TX|4114/10|F02.830.855.796;G11.561.600.815.754
+00000000|MMI|15.79|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-6-"Vomiting"-verb-0,"Vomiting"-tx-3-"vomiting"-verb-0,"Vomiting"-tx-1-"vomiting"-verb-0]|TX|2081/8;573/8;87/8|
+00000000|MMI|13.14|Hyperhidrosis disorder|C0020458|[fndg]|["HYPERHIDROSIS"-tx-6-"Hyperhidrosis"-noun-0]|TX|2509/13|C17.800.946.350
+00000000|MMI|13.14|Influenza|C0021400|[dsyn]|["INFLUENZA"-tx-6-"Influenza"-noun-0]|TX|2937/9|C02.782.620.365;C08.730.310
+00000000|MMI|13.14|Tonsillitis|C0040425|[dsyn]|["TONSILLITIS"-tx-6-"Tonsillitis"-noun-0]|TX|3258/11|C07.550.781.750;C08.730.561.750;C09.775.649.750
+00000000|MMI|13.08|Anorexia|C0003123|[dsyn]|["ANOREXIA"-tx-6-"Anorexia"-noun-0]|TX|3793/8|C23.888.821.108
+00000000|MMI|11.92|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-6-"Diarrhea"-noun-0,"Diarrhea"-tx-3-"diarrhea"-noun-0,"Diarrhea"-tx-1-"diarrhea"-noun-0]|TX|1974/8;643/8;157/8|
+00000000|MMI|11.71|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-6-"Headache"-noun-0,"headache"-tx-3-"headache"-noun-0,"headache"-tx-1-"headache"-noun-0]|TX|4007/8;674/8;188/8|
+00000000|MMI|10.42|Infection of ear|C0699744|[dsyn]|["EAR INFECTION"-tx-3-"ear infection"-noun-0,"EAR INFECTION"-tx-1-"ear infection"-noun-0]|TX|628/13;142/13|
+00000000|MMI|9.99|Asthenia|C0004093|[sosy]|["ASTHENIA"-tx-6-"Asthenia"-noun-0]|TX|2402/8|C23.888.089
+00000000|MMI|9.99|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-6-"Pneumonia"-noun-0]|TX|3151/9|C08.381.677;C08.730.610
+00000000|MMI|9.96|Labyrinthine disorder|C0022890|[dsyn]|["Labyrinth Disorders"-tx-6-"labyrinth disorders"-noun-0]|TX|1554/19|C09.218.568
+00000000|MMI|9.91|Exanthema|C0015230|[sosy]|["RASH"-tx-6-"Rash"-noun-0]|TX|4328/4|C17.800.257
+00000000|MMI|7.22|2+|C3833492|[fndg]|["2+"-tx-6-"2"-integer-0]|TX|[1033/1],[3666/1]|
+00000000|MMI|6.84|Lymphatic Diseases|C0024228|[dsyn]|["lymphatic system disorder"-tx-6-"lymphatic system disorders"-noun-0]|TX|1342/26|C15.604
+00000000|MMI|6.83|Nutrition Disorders|C3714509|[dsyn]|["Nutrition Disorders"-tx-6-"nutrition disorders"-noun-0]|TX|3701/19|C18.654
+00000000|MMI|6.80|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-6-"Gastrointestinal disorders"-noun-0]|TX|1760/26|C06.405
+00000000|MMI|5.18|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-6-"3"-integer-0]|TX|3559/1|
+00000000|MMI|5.18|Weight symptom (finding)|C0424653|[sosy]|["weight"-tx-6-"Weight"-noun-0]|TX|3579/6|
+00000000|MMI|3.77|Number of patients|C2360800|[fndg]|["Number of patients"-tx-6-"Number of Patients"-noun-0]|TX|1190/18|
+00000000|MMI|3.72|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-6-"Nervous system disorders"-noun-0]|TX|3900/24|C10
+00000000|MMI|3.68|Hemoglobin finding|C1561562|[fndg]|["Hemoglobin"-tx-6-"Hemoglobin"-noun-0]|TX|3472/10|
+00000000|MMI|3.68|Somnolence|C2830004|[fndg]|["SOMNOLENCE"-tx-6-"Somnolence"-noun-0]|TX|4114/10|
+00000000|MMI|3.67|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-6-"subcutaneous disorders"-noun-0]|TX|4230/12,4250/9|
+00000000|MMI|3.63|Infestation|C0851341|[dsyn]|["infestations"-tx-6-"infestations"-noun-0]|TX|2738/12|
+00000000|MMI|3.61|Anorexia symptom|C0426579|[sosy]|["anorexia"-tx-6-"Anorexia"-noun-0]|TX|3793/8|
+00000000|MMI|3.61|Loss of appetite (finding)|C1971624|[fndg]|["Anorexia"-tx-6-"Anorexia"-noun-0]|TX|3793/8|
+00000000|MMI|3.48|Distance vision 6/6|C0442750|[fndg]|["6/6"-tx-3-"6 6"-integer-0]|TX|376/1,401/1|

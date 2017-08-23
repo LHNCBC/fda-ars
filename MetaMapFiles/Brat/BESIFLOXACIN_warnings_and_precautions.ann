@@ -1,0 +1,11 @@
+T1	AdverseReaction 769 808	overgrowth of non-susceptible organisms
+T2	AdverseReaction 769 782;820 825	overgrowth of fungi
+T3	Factor 755 758	may
+E1	AdverseReaction:T1 Hypothetical:E3
+E2	AdverseReaction:T2 Hypothetical:E3
+E3	Factor:T3
+A1	flag E1 unmapped
+A2	CUI E2 C3888814
+A3	UMLS-Preferred-Name E2 Overgrowth fungal
+A4	MEDDRA-PT E2 Overgrowth fungal
+A5	MEDDRA-PT-ID E2 10076272

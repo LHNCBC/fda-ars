@@ -1,0 +1,122 @@
+52,66|C0235378|Hepatotoxicity|inpo
+68,73|C1705232|Fatal|fndg
+74,88|C0235378|hepatotoxicity|inpo
+205,216|C1444662|discontinue|fndg
+241,266|C0206062|Interstitial Lung Disease|dsyn
+273,284|C0032285|Pneumonitis|dsyn
+273,284|C3714636|Pneumonitis|dsyn
+328,339|C1444662|discontinue|fndg
+357,360|C0206062|ILD|dsyn
+361,372|C0032285|pneumonitis|dsyn
+361,372|C3714636|pneumonitis|dsyn
+389,391;401,413|C0151878|QT Prolongation|fndg
+458,476|C0013798|electrocardiograms|fndg
+517,527|C0262926|history of|fndg
+550,566|C0855333|QTc prolongation|fndg
+664,675|C1444662|discontinue|fndg
+700,711|C0428977|Bradycardia|patf
+700,711|C3812171|Bradycardia|fndg
+731,742|C0428977|bradycardia|patf
+731,742|C3812171|bradycardia|fndg
+842,853|C1444662|discontinue|fndg
+878,896|C3552074|Severe Visual Loss|fndg
+928,939|C1444662|Discontinue|fndg
+965,983|C3552074|severe visual loss|fndg
+1052,1060|C0600688|Toxicity|inpo
+1236,1250;1257,1269|C0860207|Hepatotoxicity Drug-induced|patf
+1290,1303|C0206277|fatal outcome|patf
+1407,1412|C0007131|NSCLC|neop
+1465,1468|C1266129|ALT|neop
+1644,1671|C0858306|normal alkaline phosphatase|fndg
+1754,1757|C1266129|ALT|neop
+1902,1917|C1444662|discontinuation|fndg
+1925,1947|C0438717|elevated transaminases|fndg
+2082,2085|C1266129|ALT|neop
+2196,2205|C1444656|indicated|fndg
+2245,2254;2261,2274|C0438717|increased transaminases|fndg
+2415,2426|C1444662|discontinue|fndg
+2542,2567|C0206062|Interstitial Lung Disease|dsyn
+2569,2580|C0032285|Pneumonitis|dsyn
+2569,2580|C3714636|Pneumonitis|dsyn
+2617,2622|C1705232|fatal|fndg
+2623,2648|C0206062|interstitial lung disease|dsyn
+2650,2653|C0206062|ILD|dsyn
+2655,2666|C0032285|pneumonitis|dsyn
+2655,2666|C3714636|pneumonitis|dsyn
+2783,2789|C0024115|ILD of|dsyn
+2794,2799|C3244287|grade|fndg
+2824,2831|C3889290|Grade 3|fndg
+2837,2840|C0206062|ILD|dsyn
+2868,2873|C1705232|fatal|fndg
+2874,2877|C0206062|ILD|dsyn
+2986,3004|C0037090|pulmonary symptoms|sosy
+3016,3022|C0024115|of ILD|dsyn
+3023,3034|C0032285|pneumonitis|dsyn
+3023,3034|C3714636|pneumonitis|dsyn
+3067,3073|C0024115|of ILD|dsyn
+3074,3085|C0032285|pneumonitis|dsyn
+3074,3085|C3714636|pneumonitis|dsyn
+3103,3114|C1444662|discontinue|fndg
+3155,3162|C0445223|related|fndg
+3163,3166|C0206062|ILD|dsyn
+3167,3178|C0032285|pneumonitis|dsyn
+3167,3178|C3714636|pneumonitis|dsyn
+3262,3264;3274,3286|C0151878|QT Prolongation|fndg
+3604,3608|C1705179|read|fndg
+3672,3699|C1141890|congenital long QT syndrome|dsyn
+3735,3753|C0013798|electrocardiograms|fndg
+3795,3819|C0018802|congestive heart failure|dsyn
+3821,3837|C0428977|bradyarrhythmias|patf
+3821,3837|C0079035|bradyarrhythmias|dsyn
+3839,3864|C0151613|electrolyte abnormalities|fndg
+3951,3962|C1444662|discontinue|fndg
+4079,4097|C0040479|Torsade de pointes|dsyn
+4079,4097|C1963250|Torsade de pointes|fndg
+4101,4136|C0344432|polymorphic ventricular tachycardia|dsyn
+4140,4154|C0037088|signs/symptoms|sosy
+4166,4176|C0003811|arrhythmia|fndg
+4266,4270|C0013798|ECGs|fndg
+4480,4491;4498,4509|C0741627|Bradycardia Symptomatic|dsyn
+4587,4598|C0428977|bradycardia|patf
+4587,4598|C3812171|bradycardia|fndg
+4762,4769|C3889290|Grade 3|fndg
+4770,4777|C0039070|syncope|sosy
+4902,4913|C3811910|combination|fndg
+4947,4958|C0428977|bradycardia|patf
+4947,4958|C3812171|bradycardia|fndg
+5135,5158|C0741627|symptomatic bradycardia|dsyn
+5220,5232|C0231221|asymptomatic|fndg
+5376,5387|C1444662|discontinue|fndg
+5409,5420|C0428977|bradycardia|patf
+5409,5420|C3812171|bradycardia|fndg
+5504,5515|C0428977|bradycardia|patf
+5504,5515|C3812171|bradycardia|fndg
+5519,5530|C0020649|hypotension|fndg
+5519,5530|C3163620|hypotension|fndg
+5563,5575|C0231221|asymptomatic|fndg
+5576,5587|C0428977|bradycardia|patf
+5576,5587|C3812171|bradycardia|fndg
+5677,5689|C1444662|discontinued|fndg
+5836,5854|C3552074|Severe Visual Loss|fndg
+5914,5933|C3887875|visual field defect|fndg
+5939,5950|C0456909|vision loss|fndg
+5939,5950|C3665347|vision loss|fndg
+5939,5950|C3665386|vision loss|fndg
+5939,5950|C3665346|vision loss|sosy
+5961,5962|C3838679|4|fndg
+5970,5983|C0029124|Optic atrophy|dsyn
+5988,6008|C0029132|optic nerve disorder|dsyn
+6048,6062|C0456909|of vision loss|fndg
+6048,6062|C3665347|of vision loss|fndg
+6048,6062|C0042798|of vision loss|dsyn
+6048,6062|C3665386|of vision loss|fndg
+6048,6062|C3665346|of vision loss|sosy
+6071,6082|C1444662|Discontinue|fndg
+6121,6139|C3552074|severe visual loss|fndg
+6410,6428|C3552074|severe visual loss|fndg
+6439,6463|C4062889|insufficient information|fndg
+6534,6552|C3552074|severe visual loss|fndg
+6663,6671|C0600688|Toxicity|inpo
+6849,6857|C0600457|pregnant|fndg
+6849,6857|C0549206|pregnant|fndg
+6963,6971|C2825142|resulted|fndg

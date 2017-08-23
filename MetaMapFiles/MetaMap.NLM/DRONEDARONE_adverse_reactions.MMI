@@ -1,0 +1,66 @@
+00000000|MMI|50.38|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-11-"Abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-8-"abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-1-"abdominal pain"-noun-0]|TX|2666/14;1700/14;559/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|40.62|Nausea|C0027497|[sosy]|["NAUSEA"-tx-11-"Nausea"-noun-0,"NAUSEA"-tx-8-"nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|2557/6;1692/6;551/6|C23.888.821.712
+00000000|MMI|40.62|Vomiting|C0042963|[sosy]|["VOMITING"-tx-11-"Vomiting"-adj-0,"VOMITING"-tx-8-"vomiting"-verb-0,"VOMITING"-tx-1-"vomiting"-verb-0]|TX|2775/8;1716/8;575/8|C23.888.821.937
+00000000|MMI|31.01|Asthenia|C0004093|[sosy]|["Asthenic"-tx-11-"Asthenic"-adj-0,"ASTHENIA"-tx-8-"asthenia"-noun-0,"ASTHENIA"-tx-1-"asthenia"-noun-0]|TX|3102/8;1730/8;589/8|C23.888.089
+00000000|MMI|29.46|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-8-"diarrhea"-noun-0,"DIARRHOEA"-tx-1-"diarrhea"-noun-0]|TX|1682/8;541/8|C23.888.821.214
+00000000|MMI|28.76|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-14-"adverse reactions"-noun-0,"Adverse reactions"-tx-9-"adverse reactions"-noun-0,"Adverse reactions"-tx-8-"adverse reactions"-noun-0,"Adverse reactions"-tx-6-"adverse reactions"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|4844/17;1761/17;1602/17;1265/17;[6/17],[638/17];512/17|
+00000000|MMI|20.95|Dysgeusia|C0013378|[fndg]|["DYSGEUSIA"-tx-11-"dysgeusia"-noun-0]|TX|3766/9|C10.597.751.861.479;C23.888.592.763.861.479
+00000000|MMI|20.24|Heart failure|C0018801|[dsyn]|["Failure, Heart"-tx-16-"heart failure"-noun-0,"Failure, Heart"-tx-1-"heart failure"-noun-0]|TX|5157/13;121/13|C14.280.434
+00000000|MMI|19.52|Dermatitis, Phototoxic|C0162830|[dsyn]|["PHOTOSENSITIVITY REACTION"-tx-11-"Photosensitivity reaction"-noun-0]|TX|3736/25|C17.800.174.255.400.225;C17.800.600.335;C17.800.815.255.400.225
+00000000|MMI|17.80|Angioedema|C0002994|[patf]|["Angiooedema"-tx-17-"angioedema"-noun-0]|TX|5561/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|16.04|Premature Birth|C0151526|[fndg]|["Premature"-tx-6-"premature"-adj-0]|TX|1228/9|C13.703.420.491.500
+00000000|MMI|14.64|Eczema|C0013595|[dsyn]|["ECZEMA"-tx-11-"eczema"-noun-0]|TX|3619/6|C17.800.174.620;C17.800.815.620
+00000000|MMI|14.64|Hypokalemia|C0020621|[fndg]|["HYPOKALEMIA"-tx-1-"Hypokalemia"-noun-0]|TX|311/11|C18.452.950.565
+00000000|MMI|14.64|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-11-"pruritus"-noun-0]|TX|3609/8|C17.800.685;C23.888.885.625
+00000000|MMI|14.64|Vasculitis, Leukocytoclastic, Cutaneous|C0151436|[dsyn]|["Leukocytoclastic vasculitis"-tx-17-"leukocytoclastic vasculitis"-noun-0]|TX|5613/27|C14.907.940.910;C20.543.520.910
+00000000|MMI|14.64|anaphylaxis|C0002792|[patf]|["Reactions, Anaphylactic"-tx-17-"Anaphylactic reactions"-noun-0]|TX|5528/22|C20.543.480.099
+00000000|MMI|13.22|Dermatitis, Atopic|C0011615|[dsyn]|["DERMATITIS ALLERGIC"-tx-11-"dermatitis allergic"-noun-0]|TX|3639/19|C16.320.850.210;C17.800.174.193;C17.800.815.193;C17.800.827.210;C20.543.480.343
+00000000|MMI|13.10|Atrial Flutter|C0004239|[patf]|["ATRIAL FLUTTER"-tx-16-"Atrial flutter"-noun-0]|TX|5218/14|C14.280.067.248;C23.550.073.248
+00000000|MMI|13.08|Bradycardia|C0428977|[patf]|["BRADYCARDIA"-tx-11-"Bradycardia"-noun-0]|TX|3320/11|C14.280.067.319;C23.550.073.300
+00000000|MMI|11.79|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-11-"Nausea"-noun-0,"Nausea"-tx-8-"nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|2557/6;1692/6;551/6|
+00000000|MMI|11.79|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-11-"Vomiting"-adj-0,"Vomiting"-tx-8-"vomiting"-verb-0,"Vomiting"-tx-1-"vomiting"-verb-0]|TX|2775/8;1716/8;575/8|
+00000000|MMI|11.49|Dermatitis|C0011603|[dsyn]|["DERMATITIS"-tx-11-"dermatitis"-noun-0]|TX|3627/10|C17.800.174
+00000000|MMI|11.49|Disease|C0012634|[dsyn]|["condition"-tx-11-"conditions"-verb-0]|TX|3111/10|C23.550.288
+00000000|MMI|11.49|Exanthema|C0015230|[sosy]|["Rashes"-tx-11-"rashes"-noun-0]|TX|3548/6|C17.800.257
+00000000|MMI|11.49|Lung Diseases, Interstitial|C0206062|[dsyn]|["INTERSTITIAL LUNG DISEASE"-tx-17-"Interstitial lung disease"-noun-0]|TX|5397/25|C08.381.483
+00000000|MMI|11.49|Pneumonia|C0032285|[dsyn]|["Pneumonitis"-tx-17-"pneumonitis"-noun-0]|TX|5433/11|C08.381.677;C08.730.610
+00000000|MMI|11.49|Pneumonitis|C3714636|[dsyn]|["PNEUMONITIS"-tx-17-"pneumonitis"-noun-0]|TX|5433/11|C08.381.677;C08.730.610
+00000000|MMI|11.49|Pulmonary Fibrosis|C0034069|[dsyn]|["PULMONARY FIBROSIS"-tx-17-"pulmonary fibrosis"-noun-0]|TX|5449/18|C08.381.765
+00000000|MMI|11.49|Vasculitis|C0042384|[dsyn]|["VASCULITIS"-tx-17-"Vasculitis"-noun-0]|TX|5591/10|C14.907.940
+00000000|MMI|10.88|2+|C3833492|[fndg]|["2+"-tx-11-"2"-percentage-0,"2+"-tx-1-"2"-percentage-0]|TX|[2856/1],[2965/1];533/1|
+00000000|MMI|10.42|5-6|C3843715|[fndg]|["5-6"-tx-17-"5.6"-real_number-0,"5-6"-tx-1-"5.6"-real_number-0]|TX|5501/3;295/3|
+00000000|MMI|10.42|6/5|C0442749|[fndg]|["5 6"-tx-17-"5.6"-real_number-0,"5 6"-tx-1-"5.6"-real_number-0]|TX|5501/3;295/3|
+00000000|MMI|10.42|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-8-"diarrhea"-noun-0,"Diarrhea"-tx-1-"diarrhea"-noun-0]|TX|1682/8;541/8|
+00000000|MMI|10.42|Injury of liver|C0160390|[inpo]|["LIVER INJURY"-tx-17-"Liver Injury"-noun-0,"LIVER INJURY"-tx-1-"Liver Injury"-noun-0]|TX|5319/12;183/12|
+00000000|MMI|10.42|Prolonged QT interval|C0151878|[fndg]|["QT Prolongation"-tx-7-"QT prolongation"-noun-0,"QT Prolongation"-tx-1-"QT prolongation"-noun-0]|TX|1523/15;425/15|
+00000000|MMI|8.34|Adverse reaction to drug|C0041755|[inpo]|["Reactions, Adverse Drug"-tx-11-"Adverse Drug Reactions"-noun-0]|TX|2023/22|C25.100
+00000000|MMI|8.34|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-7-"gastrointestinal disorders"-noun-0]|TX|1451/26|C06.405
+00000000|MMI|7.55|Congestive heart failure|C0018802|[dsyn]|["Heart Failure"-tx-16-"heart failure"-noun-0,"Heart Failure"-tx-1-"heart failure"-noun-0]|TX|5157/13;121/13|
+00000000|MMI|7.26|Observation parameter|C0449381|[fndg]|["Parameters"-tx-13-"parameters"-noun-0,"Parameters"-tx-12-"parameters"-noun-0]|TX|3990/10;3900/10|
+00000000|MMI|7.19|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-11-"3"-percentage-0,"3+"-tx-7-"3"-percentage-0]|TX|3401/1;1479/1|
+00000000|MMI|7.08|1+|C3816745|[fndg]|["1+"-tx-16-"1"-integer-0,"1+"-tx-11-"1"-percentage-0]|TX|5240/1;3826/1|
+00000000|MMI|7.00|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-7-"discontinuation"-noun-0,"Discontinuation"-tx-6-"discontinuation"-noun-0]|TX|1407/15;1238/15|
+00000000|MMI|6.99|Worse|C1457868|[fndg]|["Worsening"-tx-16-"worsening"-adj-0,"Worsening"-tx-1-"worsening"-adj-0]|TX|5147/9;111/9|
+00000000|MMI|5.18|10%|C3842590|[fndg]|["10%"-tx-13-"10"-percentage-0]|TX|4307/2|
+00000000|MMI|5.18|Adverse Event Associated with Vascular|C1558950|[fndg]|["VASCULAR"-tx-17-"Vascular"-adj-0]|TX|5580/8|
+00000000|MMI|5.18|Follow-up status|C0589120|[fndg]|["Follow-up"-tx-5-"follow-up"-adj-0]|TX|1179/9|
+00000000|MMI|5.18|Leukocytoclastic vasculitis|C2973529|[dsyn]|["Leucocytoclastic vasculitis"-tx-17-"leukocytoclastic vasculitis"-noun-0]|TX|5613/27|
+00000000|MMI|5.18|Pulmonary toxicity|C0919924|[patf]|["Pulmonary toxicity"-tx-1-"Pulmonary toxicity"-noun-0]|TX|244/18|
+00000000|MMI|5.18|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-3-"randomized"-verb-0]|TX|1015/10|
+00000000|MMI|5.18|Vasculitis Adverse Event|C1963274|[fndg]|["Vasculitis"-tx-17-"Vasculitis"-noun-0]|TX|5591/10|
+00000000|MMI|3.75|DIARRHEA 6|C3553270|[dsyn]|["DIARRHEA 6"-tx-11-"Diarrhea 6"-noun-0]|TX|2448/8,2488/1|
+00000000|MMI|3.68|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-11-"symptoms"-noun-0]|TX|2904/8|
+00000000|MMI|3.64|Atrial Flutter Adverse Event|C1963068|[patf]|["Atrial flutter"-tx-16-"Atrial flutter"-noun-0]|TX|5218/14|
+00000000|MMI|3.63|4+ Answer to question|C3838679|[fndg]|["4+"-tx-11-"4"-percentage-0]|TX|2747/1|
+00000000|MMI|3.63|Physical findings|C0311392|[fndg]|["SIGNS"-tx-11-"signs"-noun-0]|TX|2894/5|
+00000000|MMI|3.63|Weakness|C3714552|[sosy]|["asthenic"-tx-11-"Asthenic"-adj-0]|TX|3102/8|
+00000000|MMI|3.62|Creatinine increased|C0151578|[fndg]|["Increased Creatinine"-tx-13-"increases creatinine"-noun-0]|TX|4281/9,4294/10|
+00000000|MMI|3.62|Serum creatinine raised|C0700225|[fndg]|["Increased creatinine"-tx-13-"increases creatinine"-noun-0]|TX|4281/9,4294/10|
+00000000|MMI|3.61|Bradycardia by ECG Finding|C3812171|[fndg]|["BRADYCARDIA"-tx-11-"Bradycardia"-noun-0]|TX|3320/11|
+00000000|MMI|3.56|Hypomagnesemia|C0151723|[fndg]|["HYPOMAGNESEMIA"-tx-1-"hypomagnesemia"-noun-0]|TX|327/14|
+00000000|MMI|3.56|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-4-"exposure"-noun-0]|TX|1117/8|
+00000000|MMI|3.56|exposure history|C2220266|[fndg]|["exposure"-tx-4-"exposure"-noun-0]|TX|1117/8|
+00000000|MMI|3.55|Container status - Identified|C1550043|[fndg]|["Identified"-tx-14-"identified"-verb-0]|TX|4872/10|
+00000000|MMI|3.50|30%|C3842588|[fndg]|["30%"-tx-5-"30"-integer-0]|TX|1193/2|
+00000000|MMI|3.46|Adverse event|C0877248|[patf]|["adverse events"-tx-13-"adverse events"-noun-1]|TX|4748/14|
+00000000|MMI|3.42|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-7-"therapy"-noun-0]|TX|1426/7|

@@ -1,0 +1,271 @@
+T1	AdverseReaction 52 63	Anaphylaxis
+T2	AdverseReaction 68 78	angioedema
+T3	AdverseReaction 152 194	Progressive multifocal leukoencephalopathy
+T4	AdverseReaction 196 199	PML
+T5	AdverseReaction 284 295	Lymphopenia
+T6	AdverseReaction 610 621	anaphylaxis
+T7	AdverseReaction 626 636	angioedema
+T8	AdverseReaction 724 744	difficulty breathing
+T9	AdverseReaction 746 755	urticaria
+T10	AdverseReaction 761 783	swelling of the throat
+T11	AdverseReaction 761 776;788 794	swelling of the tongue
+T12	AdverseReaction 1036 1078	progressive multifocal leukoencephalopathy
+T13	AdverseReaction 1080 1083	PML
+T19	AdverseReaction 1449 1460	lymphopenia
+T20	AdverseReaction 1603 1614	lymphopenia
+T21	AdverseReaction 2391 2417	decrease lymphocyte counts
+T22	Factor 2387 2390	may
+T23	AdverseReaction 2461 2488	lymphocyte counts decreased
+T24	AdverseReaction 2857 2867	infections
+T25	AdverseReaction 2893 2903	infections
+T26	AdverseReaction 3001 3010;3032 3042	increased infections
+T27	AdverseReaction 3194 3197	PML
+T28	AdverseReaction 3216 3237	prolonged lymphopenia
+T29	AdverseReaction 4471 4479	flushing
+T30	AdverseReaction 4487 4493	warmth
+T31	AdverseReaction 4495 4502	redness
+T32	AdverseReaction 4504 4511	itching
+T33	AdverseReaction 4520 4537	burning sensation
+T34	AdverseReaction 4606 4614	flushing
+T35	AdverseReaction 4616 4624	Flushing
+T36	AdverseReaction 4770 4778	flushing
+T37	Severity 4787 4791	mild
+T38	Severity 4795 4803	moderate
+T39	AdverseReaction 4875 4883	flushing
+T40	AdverseReaction 4904 4912	flushing
+T41	Factor 600 603	can
+T42	AdverseReaction 1022 1027	fatal
+T14	Severity 1439 1448	prolonged
+T15	AdverseReaction 2767 2799	lymphocyte counts <0.5x10  9  /L
+T16	Severity 2885 2892	serious
+T17	Negation 2998 3000	no
+T18	Severity 3024 3031	serious
+T43	AdverseReaction 3420 3454	lymphocyte counts <0.5 x 10  9  /L
+T44	AdverseReaction 3515 3532;3542 3556	lymphocyte counts <0.5x10  9  /L
+T45	Severity 4896 4903	serious
+T46	Severity 4932 4952	not life-threatening
+T47	AdverseReaction 5047 5055	flushing
+T48	AdverseReaction 5219 5227	flushing
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6 Hypothetical:E41
+E7	AdverseReaction:T7 Hypothetical:E41
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E19	AdverseReaction:T19 Effect:E14
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21 Hypothetical:E22
+E22	Factor:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25 Effect:E16
+E26	AdverseReaction:T26 Effect:E18 Negated:E17
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36 Effect:E37 Effect2:E38
+E37	Severity:T37
+E38	Severity:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40 Effect:E45 Effect2:E46
+E41	Factor:T41
+E42	AdverseReaction:T42
+E14	Severity:T14
+E15	AdverseReaction:T15
+E16	Severity:T16
+E17	Negation:T17
+E18	Severity:T18
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	Severity:T45
+E46	Severity:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+A1	CUI E1 C0002792
+A2	UMLS-Preferred-Name E1 anaphylaxis
+A3	MEDDRA-PT E1 Anaphylactic reaction
+A4	MEDDRA-PT-ID E1 10002198
+A5	LLT E1 Anaphylaxis
+A6	LLT-ID E1 10002218
+A7	CUI E2 C0002994
+A8	UMLS-Preferred-Name E2 Angioedema
+A9	MEDDRA-PT E2 Angioedema
+A10	MEDDRA-PT-ID E2 10002424
+A11	CUI E3 C0023524
+A12	UMLS-Preferred-Name E3 Leukoencephalopathy, Progressive Multifocal
+A13	MEDDRA-PT E3 Progressive multifocal leukoencephalopathy
+A14	MEDDRA-PT-ID E3 10036807
+A15	CUI E4 C0023524
+A16	UMLS-Preferred-Name E4 Leukoencephalopathy, Progressive Multifocal
+A17	MEDDRA-PT E4 Progressive multifocal leukoencephalopathy
+A18	MEDDRA-PT-ID E4 10036807
+A19	CUI E5 C0024312
+A20	UMLS-Preferred-Name E5 Lymphopenia
+A21	MEDDRA-PT E5 Lymphopenia
+A22	MEDDRA-PT-ID E5 10025327
+A23	CUI E6 C0002792
+A24	UMLS-Preferred-Name E6 anaphylaxis
+A25	MEDDRA-PT E6 Anaphylactic reaction
+A26	MEDDRA-PT-ID E6 10002198
+A27	LLT E6 Anaphylaxis
+A28	LLT-ID E6 10002218
+A29	CUI E7 C0002994
+A30	UMLS-Preferred-Name E7 Angioedema
+A31	MEDDRA-PT E7 Angioedema
+A32	MEDDRA-PT-ID E7 10002424
+A33	CUI E8 C0013404
+A34	UMLS-Preferred-Name E8 Dyspnea
+A35	MEDDRA-PT E8 Dyspnoea
+A36	MEDDRA-PT-ID E8 10013968
+A37	LLT E8 Difficulty breathing
+A38	LLT-ID E8 10012791
+A39	CUI E9 C0042109
+A40	UMLS-Preferred-Name E9 Urticaria
+A41	MEDDRA-PT E9 Urticaria
+A42	MEDDRA-PT-ID E9 10046735
+A43	CUI E10 C0559687
+A44	UMLS-Preferred-Name E10 Congestion of throat
+A45	MEDDRA-PT E10 Pharyngeal oedema
+A46	MEDDRA-PT-ID E10 10034829
+A47	LLT E10 Throat swelling
+A48	LLT-ID E10 10043525
+A49	CUI E11 C0236068
+A50	UMLS-Preferred-Name E11 Tongue swelling
+A51	MEDDRA-PT E11 Swollen tongue
+A52	MEDDRA-PT-ID E11 10042727
+A53	LLT E11 Swelling of tongue
+A54	LLT-ID E11 10042706
+A55	CUI E12 C0023524
+A56	UMLS-Preferred-Name E12 Leukoencephalopathy, Progressive Multifocal
+A57	MEDDRA-PT E12 Progressive multifocal leukoencephalopathy
+A58	MEDDRA-PT-ID E12 10036807
+A59	CUI E13 C0023524
+A60	UMLS-Preferred-Name E13 Leukoencephalopathy, Progressive Multifocal
+A61	MEDDRA-PT E13 Progressive multifocal leukoencephalopathy
+A62	MEDDRA-PT-ID E13 10036807
+A63	CUI E19 C0024312
+A64	UMLS-Preferred-Name E19 Lymphopenia
+A65	MEDDRA-PT E19 Lymphopenia
+A66	MEDDRA-PT-ID E19 10025327
+A67	CUI E20 C0024312
+A68	UMLS-Preferred-Name E20 Lymphopenia
+A69	MEDDRA-PT E20 Lymphopenia
+A70	MEDDRA-PT-ID E20 10025327
+A71	CUI E21 C0853986
+A72	UMLS-Preferred-Name E21 Lymphocyte count decreased
+A73	MEDDRA-PT E21 Lymphocyte count decreased
+A74	MEDDRA-PT-ID E21 10025256
+A75	CUI E23 C0853986
+A76	UMLS-Preferred-Name E23 Lymphocyte count decreased
+A77	MEDDRA-PT E23 Lymphocyte count decreased
+A78	MEDDRA-PT-ID E23 10025256
+A79	CUI E24 C3714514
+A80	UMLS-Preferred-Name E24 Infection
+A81	MEDDRA-PT E24 Infection
+A82	MEDDRA-PT-ID E24 10021789
+A83	CUI E25 C3714514
+A84	UMLS-Preferred-Name E25 Infection
+A85	MEDDRA-PT E25 Infection
+A86	MEDDRA-PT-ID E25 10021789
+A87	CUI E26 C0236171
+A88	UMLS-Preferred-Name E26 Increased susceptibility to infections
+A89	MEDDRA-PT E26 Infection susceptibility increased
+A90	MEDDRA-PT-ID E26 10021866
+A91	CUI E27 C0023524
+A92	UMLS-Preferred-Name E27 Leukoencephalopathy, Progressive Multifocal
+A93	MEDDRA-PT E27 Progressive multifocal leukoencephalopathy
+A94	MEDDRA-PT-ID E27 10036807
+A95	flag E28 underspecified
+A96	CUI E28 C0024312
+A97	UMLS-Preferred-Name E28 Lymphopenia
+A98	MEDDRA-PT E28 Lymphopenia
+A99	MEDDRA-PT-ID E28 10025327
+A100	CUI E29 C0016382
+A101	UMLS-Preferred-Name E29 Flushing
+A102	MEDDRA-PT E29 Flushing
+A103	MEDDRA-PT-ID E29 10016825
+A104	CUI E30 C0549386
+A105	UMLS-Preferred-Name E30 Sensation of warmth
+A106	MEDDRA-PT E30 Feeling hot
+A107	MEDDRA-PT-ID E30 10016334
+A108	LLT E30 Warmth
+A109	LLT-ID E30 10047824
+A110	CUI E31 C0332575
+A111	UMLS-Preferred-Name E31 Redness
+A112	MEDDRA-PT E31 Erythema
+A113	MEDDRA-PT-ID E31 10015150
+A114	LLT E31 Redness
+A115	LLT-ID E31 10038198
+A116	CUI E32 C0033774
+A117	UMLS-Preferred-Name E32 Pruritus
+A118	MEDDRA-PT E32 Pruritus
+A119	MEDDRA-PT-ID E32 10037087
+A120	LLT E32 Itching
+A121	LLT-ID E32 10023084
+A122	CUI E33 C0085624
+A123	UMLS-Preferred-Name E33 Burning sensation
+A124	MEDDRA-PT E33 Burning sensation
+A125	MEDDRA-PT-ID E33 10006784
+A126	CUI E34 C0016382
+A127	UMLS-Preferred-Name E34 Flushing
+A128	MEDDRA-PT E34 Flushing
+A129	MEDDRA-PT-ID E34 10016825
+A130	CUI E35 C0016382
+A131	UMLS-Preferred-Name E35 Flushing
+A132	MEDDRA-PT E35 Flushing
+A133	MEDDRA-PT-ID E35 10016825
+A134	CUI E36 C0016382
+A135	UMLS-Preferred-Name E36 Flushing
+A136	MEDDRA-PT E36 Flushing
+A137	MEDDRA-PT-ID E36 10016825
+A138	CUI E39 C0016382
+A139	UMLS-Preferred-Name E39 Flushing
+A140	MEDDRA-PT E39 Flushing
+A141	MEDDRA-PT-ID E39 10016825
+A142	CUI E40 C0016382
+A143	UMLS-Preferred-Name E40 Flushing
+A144	MEDDRA-PT E40 Flushing
+A145	MEDDRA-PT-ID E40 10016825
+A146	CUI E42 C1306577
+A147	UMLS-Preferred-Name E42 Death (finding)
+A148	MEDDRA-PT E42 Death
+A149	MEDDRA-PT-ID E42 10011906
+A150	CUI E15 C0853986
+A151	UMLS-Preferred-Name E15 Lymphocyte count decreased
+A152	MEDDRA-PT E15 Lymphocyte count decreased
+A153	MEDDRA-PT-ID E15 10025256
+A154	LLT E15 Lymphocyte count low
+A155	LLT-ID E15 10025259
+A156	CUI E43 C0853986
+A157	UMLS-Preferred-Name E43 Lymphocyte count decreased
+A158	MEDDRA-PT E43 Lymphocyte count decreased
+A159	MEDDRA-PT-ID E43 10025256
+A160	LLT E43 Lymphocyte count low
+A161	LLT-ID E43 10025259
+A162	CUI E44 C0853986
+A163	UMLS-Preferred-Name E44 Lymphocyte count decreased
+A164	MEDDRA-PT E44 Lymphocyte count decreased
+A165	MEDDRA-PT-ID E44 10025256
+A166	LLT E44 Lymphocyte count low
+A167	LLT-ID E44 10025259
+A168	CUI E47 C0016382
+A169	UMLS-Preferred-Name E47 Flushing
+A170	MEDDRA-PT E47 Flushing
+A171	MEDDRA-PT-ID E47 10016825
+A172	CUI E48 C0016382
+A173	UMLS-Preferred-Name E48 Flushing
+A174	MEDDRA-PT E48 Flushing
+A175	MEDDRA-PT-ID E48 10016825

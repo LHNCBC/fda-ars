@@ -1,0 +1,156 @@
+00000000|AA|CE|conjugated estrogens|1|2|3|20|1829:2
+00000000|AA|CHD|coronary heart disease|1|3|5|22|2504:3
+00000000|AA|PE|pulmonary embolism|1|2|3|18|3076:2
+00000000|AA|RR|relative risk|1|2|3|13|5837:2
+00000000|AA|TBG|thyroid-binding globulin|1|3|5|24|9406:3
+00000000|AA|FSH|follicle stimulating hormone|1|3|5|28|11112:3
+00000000|AA|PBI|protein-bound iodine|1|3|5|20|11874:3
+00000000|AA|CBG|corticosteroid binding globulin|1|3|5|31|12250:3
+00000000|AA|SHBG|sex hormone-binding globulin|1|4|7|28|12286:4
+00000000|AA|HDL|high-density lipoprotein|1|3|5|24|12620:3
+00000000|MMI|116.39|Living Alone|C0439044|[fndg]|["Alone"-tx-52-"alone"-adj-0,"Alone"-tx-41-"alone"-adj-0,"Alone"-tx-40-"alone"-adj-0,"Alone"-tx-39-"alone"-adj-0,"Alone"-tx-38-"alone"-adj-0,"Alone"-tx-31-"alone"-adj-0,"Alone"-tx-30-"alone"-adj-0,"Alone"-tx-29-"alone"-adj-0,"Alone"-tx-13-"alone"-adj-0,"Alone"-tx-12-"alone"-adj-0,"Alone"-tx-11-"alone"-adj-0,"Alone"-tx-9-"alone"-adj-0,"Alone"-tx-7-"alone"-adj-0,"Alone"-tx-4-"alone"-adj-0]|TX|8847/5;7234/5;7130/5;6999/5;[6777/5],[6911/5];5872/5;[5653/5],[5747/5];[5553/5],[5626/5];[3015/5],[3153/5];2839/5;[2443/5],[2645/5];2192/5;[1678/5],[1844/5];1251/5|
+00000000|MMI|64.87|Cerebrovascular accident|C0038454|[dsyn]|["STROKE"-tx-10-"stroke"-noun-0,"STROKE"-tx-9-"stroke"-noun-1,"STROKE"-tx-7-"Stroke"-noun-0,"STROKE"-tx-7-"stroke"-noun-0,"STROKE"-tx-4-"stroke"-noun-0,"STROKE"-tx-1-"stroke"-noun-0]|TX|2281/6;2127/6;1645/6;1740/6;1204/6;259/6|C10.228.140.300.775;C14.907.253.855
+00000000|MMI|63.95|Endometrial Carcinoma|C0476089|[neop]|["ENDOMETRIAL CANCER"-tx-25-"endometrial cancer"-noun-0,"ENDOMETRIAL CANCER"-tx-19-"endometrial cancer"-noun-0,"ENDOMETRIAL CANCER"-tx-18-"Endometrial Cancer"-noun-0,"ENDOMETRIAL CANCER"-tx-18-"endometrial cancer"-noun-0,"ENDOMETRIAL CANCER"-tx-1-"endometrial cancer"-noun-0]|TX|4993/18;4264/18;4101/18;4147/18;353/18|C04.588.945.418.948.585;C13.351.500.852.762.200;C13.351.937.418.875.200
+00000000|MMI|42.39|Coronary Arteriosclerosis|C0010054|[dsyn]|["coronary heart disease"-tx-12-"CHD"-noun-1,"coronary heart disease"-tx-11-"CHD"-noun-0,"coronary heart disease"-tx-11-"Coronary Heart Disease"-noun-0,"coronary heart disease"-tx-11-"coronary heart disease"-noun-1]|TX|2813/3;2593/3;2394/22;2480/22|C14.280.647.250.260;C14.907.137.126.339;C14.907.585.250.260
+00000000|MMI|42.39|Coronary Artery Disease|C1956346|[dsyn]|["coronary heart disease"-tx-12-"CHD"-noun-1,"coronary heart disease"-tx-11-"CHD"-noun-0,"coronary heart disease"-tx-11-"Coronary Heart Disease"-noun-0,"coronary heart disease"-tx-11-"coronary heart disease"-noun-1]|TX|2813/3;2593/3;2394/22;2480/22|C14.280.647.250.260;C14.907.137.126.339;C14.907.585.250.260
+00000000|MMI|39.59|Obesity|C0028754|[dsyn]|["OBESITY"-tx-6-"obesity"-noun-0]|TX|[1485/7],[1562/7]|C18.654.726.500;C23.888.144.699.500;E01.370.600.115.100.160.120.699.500;G07.100.100.160.120.699.500
+00000000|MMI|38.02|Hypertriglyceridemia|C0020557|[dsyn]|["HYPERTRIGLYCERIDEMIA"-tx-48-"Hypertriglyceridemia"-noun-0,"HYPERTRIGLYCERIDEMIA"-tx-48-"hypertriglyceridemia"-noun-0,"HYPERTRIGLYCERIDEMIA"-tx-1-"hypertriglyceridemia"-noun-0]|TX|8271/20;8324/20;535/20|C18.452.584.500.500.851
+00000000|MMI|34.37|Breast Carcinoma|C0678222|[neop]|["Cancer of the Breast"-tx-32-"the of breast cancer"-noun-0,"Breast Cancer"-tx-29-"Breast Cancer"-noun-0,"Breast Cancer"-tx-29-"breast cancer"-noun-0,"Breast Cancer"-tx-1-"breast cancer"-noun-0]|TX|6013/3,6022/16;5434/13;5527/13;373/13|C04.588.180;C17.800.090.500
+00000000|MMI|34.10|Coronary heart disease|C0010068|[dsyn]|["Coronary Heart Disease"-tx-12-"CHD"-noun-1,"Coronary Heart Disease"-tx-11-"CHD"-noun-0,"Coronary Heart Disease"-tx-11-"Coronary Heart Disease"-noun-0,"Coronary Heart Disease"-tx-11-"coronary heart disease"-noun-1]|TX|2813/3;2593/3;2394/22;2480/22|C14.280.647.250;C14.907.585.250
+00000000|MMI|32.01|Venous Thromboembolism|C1861172|[patf]|["Venous Thromboembolic Event"-tx-16-"venous thromboembolic events"-noun-0,"VENOUS THROMBOEMBOLISM"-tx-13-"Venous Thromboembolism"-noun-0,"VENOUS THROMBOEMBOLISM"-tx-1-"venous thromboembolism"-noun-0]|TX|3676/28;2960/22;215/22|C14.907.355.590.700
+00000000|MMI|31.96|Deep Vein Thrombosis|C0149871|[dsyn]|["DVT NOS"-tx-13-"DVT"-noun-0,"DVT NOS"-tx-4-"DVT"-noun-0]|TX|[3048/3],[3254/3];1215/3|C14.907.355.830.925
+00000000|MMI|31.71|Endometrial Hyperplasia|C0014173|[dsyn]|["ENDOMETRIAL HYPERPLASIA"-tx-26-"endometrial hyperplasia"-noun-1,"ENDOMETRIAL HYPERPLASIA"-tx-25-"Endometrial hyperplasia"-noun-0,"ENDOMETRIAL HYPERPLASIA"-tx-24-"endometrial hyperplasia"-noun-0]|TX|5103/23;4947/23;4867/23|C13.351.500.852.228
+00000000|MMI|31.70|Jaundice, Obstructive|C0022354|[dsyn]|["CHOLESTATIC JAUNDICE"-tx-50-"Cholestatic Jaundice"-noun-0,"CHOLESTATIC JAUNDICE"-tx-50-"cholestatic jaundice"-noun-1,"CHOLESTATIC JAUNDICE"-tx-1-"cholestatic jaundice"-noun-0]|TX|8563/20;8674/20;559/20|C23.550.429.500.755;C23.888.885.375.500
+00000000|MMI|27.95|Discontinued|C1444662|[fndg]|["Discontinued"-tx-53-"discontinued"-verb-0,"Discontinuation"-tx-49-"discontinuation"-noun-0,"Discontinued"-tx-45-"discontinued"-verb-0,"Discontinue"-tx-44-"Discontinue"-verb-0,"Discontinued"-tx-22-"discontinued"-verb-0,"Discontinued"-tx-16-"discontinued"-verb-0,"Discontinued"-tx-15-"discontinued"-verb-0,"Discontinued"-tx-10-"discontinued"-verb-0,"Discontinued"-tx-5-"discontinued"-verb-0,"Discontinue"-tx-1-"Discontinue"-verb-0]|TX|9188/12;8463/15;7915/12;7669/11;4766/12;3746/12;3467/12;2328/12;1326/12;488/11|
+00000000|MMI|27.28|Migraine Disorders|C0149931|[dsyn]|["MIGRAINE"-tx-64-"migraine"-noun-0,"MIGRAINE"-tx-44-"migraine"-noun-0]|TX|10692/8;7812/8|C10.228.140.546.399.750
+00000000|MMI|25.63|Blind Vision|C0456909|[fndg]|["Loss of vision"-tx-44-"loss of vision"-noun-0,"Loss of vision"-tx-1-"loss of vision"-noun-0]|TX|7751/14;512/14|C10.597.751.941.162;C11.966.075;C23.888.592.763.941.162
+00000000|MMI|25.63|Low Vision|C0042798|[dsyn]|["loss of vision"-tx-44-"loss of vision"-noun-0,"loss of vision"-tx-1-"loss of vision"-noun-0]|TX|7751/14;512/14|C10.597.751.941.905;C11.966.905;C23.888.592.763.941.848
+00000000|MMI|25.35|Dementia|C0497327|[mobd]|["-- Dementia"-tx-41-"dementia"-noun-0,"-- Dementia"-tx-40-"dementia"-noun-0,"-- Dementia"-tx-39-"dementia"-noun-0]|TX|7218/8;7114/8;7074/8|C10.228.140.380;F03.615.400
+00000000|MMI|25.05|10%|C3842590|[fndg]|["10%"-tx-55-"10"-real_number-0,"10%"-tx-41-"10"-comma_integer-0,"10%"-tx-21-"10"-integer-0,"10%"-tx-13-"10"-comma_integer-0,"10%"-tx-12-"10"-comma_integer-0,"10%"-tx-12-"10"-integer-0,"10%"-tx-9-"10"-comma_integer-0,"10%"-tx-7-"10"-comma_integer-0,"10%"-tx-1-"10"-real_number-0]|TX|9314/2;7282/2;4646/2;[3197/2],[3309/2];[2890/2],[2932/2];[2890/2],[2932/2];2247/2;1926/2;688/2|
+00000000|MMI|25.05|Angioedemas, Hereditary|C0019243|[dsyn]|["Hereditary angio oedema"-tx-63-"Hereditary Angioedema"-noun-0,"Hereditary angio oedema"-tx-63-"hereditary angioedema"-noun-0]|TX|10444/21;10543/21|C14.907.079.500;C16.320.078;C17.800.862.945.066.500;C20.543.480.904.066.500
+00000000|MMI|23.17|Pulmonary Embolism|C0034065|[dsyn]|["PULMONARY EMBOLISM"-tx-13-"pulmonary embolism"-noun-0,"PULMONARY EMBOLISM"-tx-1-"pulmonary embolism"-noun-0]|TX|3056/18;239/18|C08.381.746;C14.907.355.350.700
+00000000|MMI|21.52|Visual Impairment|C3665347|[fndg]|["Loss of vision"-tx-44-"loss of vision"-noun-0,"Loss of vision"-tx-1-"loss of vision"-noun-0]|TX|7751/14;512/14|C10.597.751.941;C11.966;C23.888.592.763.941
+00000000|MMI|21.14|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-61-"renal impairment"-noun-0,"Renal Impairment"-tx-60-"renal impairment"-noun-0]|TX|10198/16;10090/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|19.25|Disease|C0012634|[dsyn]|["condition"-tx-64-"Conditions"-noun-0,"condition"-tx-64-"conditions"-noun-0,"condition"-tx-60-"conditions"-verb-0]|TX|10600/10;10821/10;10007/10|C23.550.288
+00000000|MMI|19.10|0%|C3842591|[fndg]|["0%"-tx-40-"0"-real_number-0,"0%"-tx-38-"0"-real_number-0,"0%"-tx-30-"0"-real_number-0,"0%"-tx-29-"0"-real_number-0,"0%"-tx-13-"0"-real_number-0,"0%"-tx-12-"0"-real_number-1,"0%"-tx-9-"0"-real_number-0,"0%"-tx-7-"0"-real_number-0]|TX|7176/1;6901/1;5737/1;5616/1;3143/1;2829/1;2182/1;1834/1|
+00000000|MMI|19.06|Diabetes Mellitus|C0011849|[dsyn]|["DIABETES MELLITUS"-tx-64-"diabetes mellitus"-noun-0,"DIABETES MELLITUS"-tx-6-"diabetes mellitus"-noun-0]|TX|10663/17;1427/17|C18.452.394.750;C19.246
+00000000|MMI|16.92|Hypocalcemia|C0020598|[dsyn]|["HYPOCALCEMIA"-tx-62-"Hypocalcemia"-noun-0,"HYPOCALCEMIA"-tx-62-"hypocalcemia"-noun-0]|TX|10292/12;10408/12|C18.452.174.509;C18.452.950.509
+00000000|MMI|14.96|Lupus Erythematosus, Systemic|C0024141|[dsyn]|["Lupus Erythematosus, Systemic"-tx-64-"systemic lupus erythematosus"-noun-0,"Lupus Erythematosus, Systemic"-tx-6-"systemic lupus erythematosus"-noun-0]|TX|10715/28;1575/28|C17.300.480;C20.111.590
+00000000|MMI|13.60|Diplopia|C0012569|[fndg]|["DIPLOPIA"-tx-44-"diplopia"-noun-0]|TX|7799/8|C10.597.751.941.339;C11.966.339;C23.888.592.763.941.339
+00000000|MMI|13.60|Hypercholesterolemia|C0020443|[dsyn]|["HYPERCHOLESTEROLEMIA"-tx-6-"hypercholesterolemia"-noun-0]|TX|1459/20|C18.452.584.500.500.396
+00000000|MMI|13.08|Pancreatitis|C0030305|[dsyn]|["PANCREATITIS"-tx-49-"pancreatitis"-noun-0,"PANCREATITIS"-tx-48-"pancreatitis"-noun-0]|TX|8492/12;8440/12|C06.689.750
+00000000|MMI|13.06|Hypertensive disease|C0020538|[dsyn]|["Elevated blood pressure"-tx-46-"Elevated Blood Pressure"-noun-0,"HYPERTENSION"-tx-6-"hypertension"-noun-0]|TX|7940/23;1413/12|C14.907.489
+00000000|MMI|12.86|Gall Bladder Diseases|C0016977|[dsyn]|["Gall Bladder Disease"-tx-42-"Gallbladder Disease"-noun-0,"Disease of gallbladder"-tx-1-"of gallbladder disease"-noun-0]|TX|7388/19;450/22|C06.130.564
+00000000|MMI|12.57|Estrogen Effect|C0877035|[fndg]|["effect estrogens"-tx-47-"effect estrogens"-noun-0]|TX|8208/6,8218/9|D27.505.696.399.472.277
+00000000|MMI|11.72|Malignant neoplasm of endometrium|C0007103|[neop]|["Endometrial cancer"-tx-25-"endometrial cancer"-noun-0,"Endometrial cancer"-tx-19-"endometrial cancer"-noun-0,"Endometrial cancer"-tx-18-"Endometrial Cancer"-noun-0,"Endometrial cancer"-tx-18-"endometrial cancer"-noun-0,"Endometrial cancer"-tx-1-"endometrial cancer"-noun-0]|TX|4993/18;4264/18;4101/18;4147/18;353/18|
+00000000|MMI|11.72|Uterine Corpus Cancer|C1883486|[neop]|["Endometrial Cancer"-tx-25-"endometrial cancer"-noun-0,"Endometrial Cancer"-tx-19-"endometrial cancer"-noun-0,"Endometrial Cancer"-tx-18-"Endometrial Cancer"-noun-0,"Endometrial Cancer"-tx-18-"endometrial cancer"-noun-0,"Endometrial Cancer"-tx-1-"endometrial cancer"-noun-0]|TX|4993/18;4264/18;4101/18;4147/18;353/18|
+00000000|MMI|11.56|Impaired glucose tolerance|C0271650|[dsyn]|["Impaired glucose tolerance"-tx-77-"Impaired glucose tolerance"-noun-0]|TX|12775/26|C18.452.394.952.500
+00000000|MMI|11.56|Systemic arterial pressure|C1272641|[fndg]|["Blood pressure"-tx-47-"blood pressure"-noun-0]|TX|8231/14|G09.330.380.076.347
+00000000|MMI|10.85|Liver Dysfunction|C0086565|[patf]|["Impaired liver function"-tx-51-"impaired liver function"-noun-0,"Impaired liver function"-tx-50-"impaired liver function"-noun-1]|TX|8750/23;8631/23|C06.552
+00000000|MMI|10.50|Antithrombin III Deficiency|C0272375|[dsyn]|["Decreased antithrombin III"-tx-68-"decreased antithrombin III"-noun-0]|TX|11599/26|C15.378.100.100.075;C15.378.147.150;C15.378.925.075;C16.320.099.075
+00000000|MMI|10.43|Angioedema|C0002994|[patf]|["Angiooedema"-tx-63-"angioedema"-noun-0]|TX|10518/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|9.51|Epilepsy|C0014544|[dsyn]|["EPILEPSY"-tx-64-"epilepsy"-noun-0]|TX|10682/8|C10.228.140.490
+00000000|MMI|9.51|Papilledema|C0030353|[dsyn]|["PAPILLOEDEMA"-tx-45-"papilledema"-noun-0]|TX|7845/11|C10.292.700.900;C11.640.710
+00000000|MMI|9.49|Malignant neoplasm of breast|C0006142|[neop]|["Cancer of the Breast"-tx-32-"the of breast cancer"-noun-0,"-- Breast Cancer"-tx-29-"Breast Cancer"-noun-0,"-- Breast Cancer"-tx-29-"breast cancer"-noun-0,"-- Breast Cancer"-tx-1-"breast cancer"-noun-0]|TX|6013/3,6022/16;5434/13;5527/13;373/13|
+00000000|MMI|9.44|Malignant neoplasm of ovary|C1140680|[neop]|["OVARIAN CANCER"-tx-37-"ovarian cancer"-noun-0,"OVARIAN CANCER"-tx-35-"Ovarian Cancer"-noun-0,"OVARIAN CANCER"-tx-35-"ovarian cancer"-noun-0,"OVARIAN CANCER"-tx-1-"ovarian cancer"-noun-0]|TX|6694/14;6308/14;6478/14;392/14|
+00000000|MMI|9.44|Ovarian Carcinoma|C0029925|[neop]|["ovarian cancer"-tx-37-"ovarian cancer"-noun-0,"ovarian cancer"-tx-35-"Ovarian Cancer"-noun-0,"ovarian cancer"-tx-35-"ovarian cancer"-noun-0,"ovarian cancer"-tx-1-"ovarian cancer"-noun-0]|TX|6694/14;6308/14;6478/14;392/14|
+00000000|MMI|8.49|Myocardial Infarction|C0027051|[dsyn]|["Infarction, Myocardial"-tx-11-"myocardial infarction"-noun-0]|TX|2537/21|C14.280.647.500;C14.907.585.500
+00000000|MMI|8.45|Recurrence (disease attribute)|C2825055|[patf]|["RECURRENCE"-tx-53-"recurrence"-noun-0]|TX|9159/10|C23.550.291.937
+00000000|MMI|8.45|Thromboembolism|C0040038|[patf]|["THROMBOEMBOLISM"-tx-15-"thromboembolism"-noun-0]|TX|3566/15|C14.907.355.590
+00000000|MMI|8.37|GALLBLADDER DISEASE 4|C1969115|[dsyn]|["GALLBLADDER DISEASE 4"-tx-42-"4 gallbladder disease"-noun-0]|TX|7421/1,7452/19|x.x.x.x
+00000000|MMI|8.36|WHIM syndrome|C0472817|[dsyn]|["WHIMS"-tx-38-"WHIMS"-noun-0]|TX|6762/5|x.x.x.x
+00000000|MMI|7.46|Disorders of Porphyrin Metabolism|C0032708|[dsyn]|["PORPHYRIA"-tx-64-"porphyria"-noun-0]|TX|10704/9|C18.452.811
+00000000|MMI|7.36|Thyroxin binding globulin increased|C0241400|[fndg]|["THYROID BINDING GLOBULIN, INCREASED"-tx-69-"Increased thyroid-binding globulin"-noun-0,"THYROID BINDING GLOBULIN, INCREASED"-tx-56-"increased TBG"-noun-1,"THYROID BINDING GLOBULIN, INCREASED"-tx-55-"increased thyroid-binding globulin"-noun-0]|TX|11740/34;9477/13;9370/34|
+00000000|MMI|7.29|5-6|C3843715|[fndg]|["5-6"-tx-43-"5.6"-real_number-0,"5-6"-tx-1-"5.6"-real_number-0]|TX|7560/3;[310/3],[590/3]|
+00000000|MMI|7.29|6/5|C0442749|[fndg]|["5 6"-tx-43-"5.6"-real_number-0,"5 6"-tx-1-"5.6"-real_number-0]|TX|7560/3;[310/3],[590/3]|
+00000000|MMI|7.28|Activity (animal life circumstance)|C3668946|[fndg]|["Activity"-tx-68-"activity"-noun-0]|TX|[11462/8],[11626/8],[11726/8]|
+00000000|MMI|7.28|Endurance of activity|C0600075|[fndg]|["Activity"-tx-68-"activity"-noun-0]|TX|[11462/8],[11626/8],[11726/8]|
+00000000|MMI|7.20|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-47-"randomized"-verb-0,"RANDOMIZED"-tx-38-"randomized"-verb-0,"RANDOMIZED"-tx-29-"randomized"-adj-0]|TX|8147/10;6877/10;5473/10|
+00000000|MMI|7.09|Serum triglycerides raised|C0428478|[fndg]|["Hypertriglyceridemia"-tx-48-"Hypertriglyceridemia"-noun-0,"Hypertriglyceridemia"-tx-48-"hypertriglyceridemia"-noun-0,"Hypertriglyceridemia"-tx-1-"hypertriglyceridemia"-noun-0]|TX|8271/20;8324/20;535/20|
+00000000|MMI|7.07|Malignant Neoplasms|C0006826|[neop]|["MALIGNANCY"-tx-28-"malignancy"-noun-1,"Malignant Neoplasms"-tx-18-"Malignant Neoplasms"-noun-0,"Malignant Neoplasms"-tx-1-"Malignant neoplasms"-noun-0]|TX|5324/10;4075/19;322/19|
+00000000|MMI|6.96|Premenopausal symptoms|C1096235|[sosy]|["premenopausal"-tx-66-"premenopausal"-noun-0,"premenopausal"-tx-65-"Premenopausal"-noun-0,"premenopausal"-tx-65-"premenopausal"-adj-1]|TX|10963/13;10845/13;10897/13|
+00000000|MMI|6.91|Hepatic impairment|C0948807|[dsyn]|["Hepatic impairment"-tx-54-"hepatic impairment"-noun-0,"Hepatic impairment"-tx-52-"hepatic impairment"-noun-0,"Hepatic impairment"-tx-50-"Hepatic Impairment"-noun-0]|TX|9233/18;8802/18;8524/18|
+00000000|MMI|6.80|50%|C3842586|[fndg]|["50%"-tx-12-"50"-integer-0,"50%"-tx-9-"50"-integer-0,"50%"-tx-7-"50"-integer-0]|TX|2738/2;2076/2;1769/2|
+00000000|MMI|6.80|<50|C3843766|[fndg]|["<50"-tx-12-"50"-integer-0,"<50"-tx-9-"50"-integer-0,"<50"-tx-7-"50"-integer-0]|TX|2738/2;2076/2;1769/2|
+00000000|MMI|6.80|Presenile dementia|C0011265|[mobd]|["dementia"-tx-41-"dementia"-noun-0,"dementia"-tx-40-"dementia"-noun-0,"dementia"-tx-39-"dementia"-noun-0]|TX|7218/8;7114/8;7074/8|
+00000000|MMI|6.75|Obesity Adverse Event|C1963185|[fndg]|["Obesity"-tx-6-"obesity"-noun-0]|TX|[1485/7],[1562/7]|
+00000000|MMI|6.44|Hemorrhage|C0019080|[patf]|["BLEEDING"-tx-28-"bleeding"-noun-1]|TX|5417/8|C23.550.414
+00000000|MMI|6.34|Hypothyroidism|C0020676|[dsyn]|["HYPOTHYROIDISM"-tx-55-"Hypothyroidism"-noun-0]|TX|9317/14|C19.874.482
+00000000|MMI|6.33|Hypoparathyroidism|C0020626|[dsyn]|["HYPOPARATHYROIDISM"-tx-62-"hypoparathyroidism"-noun-0]|TX|10369/18|C19.642.482
+00000000|MMI|6.32|Exophthalmos|C0015300|[dsyn]|["PROPTOSIS"-tx-44-"proptosis"-noun-0]|TX|7788/9|C11.675.349
+00000000|MMI|5.10|Abnormal vision|C3665386|[fndg]|["Loss of vision"-tx-44-"loss of vision"-noun-0,"Loss of vision"-tx-1-"loss of vision"-noun-0]|TX|7751/14;512/14|
+00000000|MMI|5.10|Unspecified visual loss|C3665346|[sosy]|["Loss Of Vision"-tx-44-"loss of vision"-noun-0,"Loss Of Vision"-tx-1-"loss of vision"-noun-0]|TX|7751/14;512/14|
+00000000|MMI|4.98|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-16-"therapy"-noun-0]|TX|[3720/7],[3866/7]|
+00000000|MMI|4.95|Retinal vascular thrombosis|C0919714|[patf]|["Retinal vascular thrombosis"-tx-43-"Retinal vascular thrombosis"-noun-0,"Retinal vascular thrombosis"-tx-1-"retinal vascular thrombosis"-noun-0]|TX|7590/27;271/27|
+00000000|MMI|4.93|Immobilisation prolonged|C0919574|[fndg]|["prolonged immobilization"-tx-17-"prolonged immobilization"-noun-0,"prolonged immobilization"-tx-16-"prolonged immobilization"-noun-0]|TX|4038/24;3779/24|
+00000000|MMI|4.87|Pancreatitis Adverse Event|C1963198|[fndg]|["Pancreatitis"-tx-49-"pancreatitis"-noun-0,"Pancreatitis"-tx-48-"pancreatitis"-noun-0]|TX|8492/12;8440/12|
+00000000|MMI|4.76|5 - 9|C3840622|[fndg]|["5 - 9"-tx-50-"5.9"-real_number-0,"5 - 9"-tx-1-"5.9"-real_number-0]|TX|8520/3;606/3|
+00000000|MMI|4.76|Increase in blood pressure|C0497247|[fndg]|["Elevated Blood Pressure"-tx-46-"Elevated Blood Pressure"-noun-0,"Increase in blood pressure"-tx-46-"increases in blood pressure"-noun-0]|TX|7940/23;8045/27|
+00000000|MMI|4.73|Cardiovascular Diseases|C0007222|[dsyn]|["CARDIOVASCULAR DISORDERS"-tx-3-"Cardiovascular Disorders"-noun-0,"CARDIOVASCULAR DISORDERS"-tx-1-"Cardiovascular disorders"-noun-0]|TX|1006/24;179/24|C14
+00000000|MMI|4.71|Outcome of Therapy|C1518681|[fndg]|["Treatment Effect"-tx-37-"effect treatment"-noun-0,"Treatment Effect"-tx-32-"effect treatment"-noun-0]|TX|6647/6,6657/9;5978/6,5988/9|
+00000000|MMI|4.66|Experimental Result|C2825142|[fndg]|["Result"-tx-34-"results"-noun-0,"Result"-tx-31-"result"-verb-0]|TX|6292/7;5899/6|
+00000000|MMI|4.58|Diagnosis|C0011900|[fndg]|["DIAGNOSED"-tx-39-"diagnosed"-verb-0,"Diagnostic"-tx-28-"diagnostic"-adj-0]|TX|7050/9;5204/10|E01
+00000000|MMI|4.54|Body fluid retention|C0268000|[patf]|["FLUID RETENTION"-tx-59-"Fluid Retention"-noun-0,"Retention of fluid"-tx-59-"of fluid retention"-noun-0]|TX|9899/15;9952/18|
+00000000|MMI|4.29|Congenital Abnormality|C0000768|[cgab]|["Abnormalities"-tx-43-"Abnormalities"-noun-0]|TX|7571/13|C16.131
+00000000|MMI|3.36|2+|C3833492|[fndg]|["2+"-tx-42-"2"-integer-0]|TX|7415/1|
+00000000|MMI|3.36|30%|C3842588|[fndg]|["30%"-tx-13-"30"-integer-0]|TX|3180/2|
+00000000|MMI|3.36|Blood pressure finding|C1271104|[fndg]|["Blood Pressure"-tx-47-"blood pressure"-noun-0]|TX|8231/14|
+00000000|MMI|3.36|Cardiac dysfunction|C3277906|[fndg]|["Cardiac dysfunction"-tx-60-"cardiac dysfunction"-noun-0]|TX|10067/19|
+00000000|MMI|3.36|Contraindicated|C1444657|[fndg]|["Contraindicated"-tx-54-"contraindicated"-verb-0]|TX|9255/15|
+00000000|MMI|3.36|Does move|C0578671|[fndg]|["move"-tx-17-"move"-verb-0]|TX|3990/4|
+00000000|MMI|3.36|Encounter due to tobacco use|C0040335|[fndg]|["Tobacco use NOS"-tx-6-"tobacco use"-noun-0]|TX|1446/11|
+00000000|MMI|3.36|Hemangioma of liver|C0238246|[neop]|["Hepatic Hemangiomas"-tx-64-"hepatic hemangiomas"-noun-0]|TX|10749/19|
+00000000|MMI|3.36|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-34-"risk factors"-noun-0]|TX|6258/12|
+00000000|MMI|3.36|History of tobacco use|C0841002|[fndg]|["Tobacco use"-tx-6-"tobacco use"-noun-0]|TX|1446/11|
+00000000|MMI|3.36|Hypercholesterolemia result|C1522133|[fndg]|["Hypercholesterolemia"-tx-6-"hypercholesterolemia"-noun-0]|TX|1459/20|
+00000000|MMI|3.36|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-6-"hypertension"-noun-0]|TX|1413/12|
+00000000|MMI|3.36|Increased number of platelets|C0857460|[fndg]|["INCREASED PLATELET COUNT"-tx-68-"increased platelet count"-noun-0]|TX|11372/24|
+00000000|MMI|3.36|Indicated|C1444656|[fndg]|["Indicated"-tx-28-"indicated"-verb-0]|TX|5280/9|
+00000000|MMI|3.36|Medical History|C0262926|[fndg]|["Personal History"-tx-6-"personal history"-noun-0]|TX|1519/16|
+00000000|MMI|3.36|Menopause present (finding)|C0567312|[fndg]|["Menopause"-tx-12-"menopause"-noun-0]|TX|2905/9|
+00000000|MMI|3.36|Silent myocardial infarction|C0340324|[dsyn]|["Silent Myocardial Infarction"-tx-11-"silent myocardial infarction"-noun-0]|TX|2560/28|
+00000000|MMI|3.36|Social and personal history|C0424945|[fndg]|["Personal history"-tx-6-"personal history"-noun-0]|TX|1519/16|
+00000000|MMI|3.36|Symptom aggravating factors|C0436331|[fndg]|["exacerbate"-tx-63-"exacerbate"-verb-0]|TX|10495/10|
+00000000|MMI|3.36|Tobacco user|C3853727|[fndg]|["Tobacco use"-tx-6-"tobacco use"-noun-0]|TX|1446/11|
+00000000|MMI|2.72|vascular; lesion, retina|C1402303|[dsyn]|["RETINAL VASCULAR LESION"-tx-45-"retinal vascular lesions"-noun-0]|TX|7860/24|
+00000000|MMI|2.67|Mammography abnormal|C0262365|[fndg]|["ABNORMAL MAMMOGRAM"-tx-31-"abnormal mammograms"-noun-0]|TX|5924/19|
+00000000|MMI|2.48|Less than 1 year|C3843089|[fndg]|["Less than 1 year"-tx-20-"less than 1 year"-noun-1]|TX|4523/16|
+00000000|MMI|2.45|Symptom severe|C0436345|[fndg]|["severe symptoms"-tx-67-"severe symptoms"-noun-1]|TX|11204/6,11221/8|
+00000000|MMI|2.45|Exacerbation of asthma|C0349790|[fndg]|["Exacerbation of asthma"-tx-64-"exacerbation of asthma"-noun-0]|TX|10639/22|
+00000000|MMI|2.45|Family history|C0241889|[fndg]|["FAMILY HISTORY OF"-tx-6-"family history of"-noun-0]|TX|1539/17|
+00000000|MMI|2.40|Bleeding tendency|C1458140|[patf]|["Abnormal bleeding"-tx-28-"abnormal bleeding"-noun-1]|TX|5400/8,5417/8|
+00000000|MMI|2.39|1+|C3816745|[fndg]|["1+"-tx-40-"1"-real_number-0]|TX|7155/1|
+00000000|MMI|2.39|Examination and observation for unspecified reason|C0478530|[fndg]|["observation"-tx-60-"observation"-noun-0]|TX|10124/11|
+00000000|MMI|2.39|Genital hemorrhage|C0854381|[dsyn]|["Genital bleeding"-tx-28-"genital bleeding"-noun-1]|TX|5409/16|
+00000000|MMI|2.39|History of - gallbladder disease|C0558976|[fndg]|["gallbladder disease"-tx-42-"Gallbladder Disease"-noun-0]|TX|7388/19|
+00000000|MMI|2.39|Sexual intercourse - finding|C1314687|[fndg]|["Sex"-tx-73-"sex"-noun-0]|TX|12352/3|
+00000000|MMI|2.38|Follow-up 1 year|C0420338|[fndg]|["Follow-up 1 year"-tx-30-"follow-up 1 years"-noun-0]|TX|5686/9,5701/7|
+00000000|MMI|2.36|idiosyncratic reaction|C0745213|[fndg]|["idiosyncratic reactions"-tx-46-"idiosyncratic reactions"-noun-0]|TX|8097/23|
+00000000|MMI|2.35|At risk of disease|C1281905|[fndg]|["Risk For Disease"-tx-6-"Risk for disease"-noun-0]|TX|1356/4,1369/3,1391/7|
+00000000|MMI|2.35|80%|C3842583|[fndg]|["80%"-tx-30-"80"-real_number-1]|TX|5843/2|
+00000000|MMI|2.35|Death (finding)|C1306577|[fndg]|["Death"-tx-11-"death"-noun-0]|TX|2597/5|
+00000000|MMI|2.34|estrogen use|C0239301|[fndg]|["ESTROGEN USE"-tx-53-"estrogen use"-noun-0]|TX|9079/12|
+00000000|MMI|2.34|Thyroid hormones increased|C1328578|[fndg]|["Increased thyroid hormone"-tx-69-"increased thyroid hormone"-noun-0]|TX|11792/9,11820/15|
+00000000|MMI|2.33|Follow-up status|C0589120|[fndg]|["Follow-up"-tx-39-"follow-up"-adj-0]|TX|6950/9|
+00000000|MMI|2.33|Invasive carcinoma of breast|C0853879|[neop]|["Invasive Breast Cancer"-tx-30-"invasive breast cancer"-noun-1]|TX|5798/22|
+00000000|MMI|2.33|Possible pregnancy (finding)|C0425965|[fndg]|["? Pregnancy"-tx-53-"pregnancy"-noun-0]|TX|9100/9|
+00000000|MMI|2.33|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-63-"symptoms"-noun-0]|TX|10506/8|
+00000000|MMI|2.33|Prolonged menses|C0425945|[fndg]|["periods prolonged"-tx-15-"periods prolonged"-noun-0]|TX|3593/7,3604/9|
+00000000|MMI|2.32|Time 2|C0808270|[fndg]|["Time 2"-tx-19-"2 times"-noun-0]|TX|4328/1,4336/5|
+00000000|MMI|2.31|Lead increased|C0861064|[fndg]|["increased lead"-tx-73-"leading increased"-adj-0]|TX|12293/7,12304/9|
+00000000|MMI|2.31|Primary malignant neoplasm|C1306459|[neop]|["Malignancy"-tx-28-"malignancy"-noun-1]|TX|5324/10|
+00000000|MMI|2.31|Antithrombin III decreased|C0238665|[fndg]|["Decreased antithrombin III"-tx-68-"decreased antithrombin III"-noun-0]|TX|11599/26|
+00000000|MMI|2.31|Recurrent Malignant Neoplasm|C1458156|[neop]|["recurrence"-tx-53-"recurrence"-noun-0]|TX|9159/10|
+00000000|MMI|2.30|Dementia (5%)|C1853841|[fndg]|["Dementia (5%)"-tx-38-"5 Dementia"-noun-0]|TX|6728/1,6741/8|
+00000000|MMI|2.27|Thyroid function normal|C0740378|[fndg]|["Normal thyroid function"-tx-56-"normal thyroid function"-noun-1]|TX|9430/23|
+00000000|MMI|2.27|Abnormality of the genital system|C0744356|[fndg]|["abnormal genital"-tx-28-"abnormal genital"-adj-1]|TX|5400/16|
+00000000|MMI|2.27|Undiagnosed|C1408353|[fndg]|["Undiagnosed"-tx-28-"undiagnosed"-adj-1]|TX|5364/11|
+00000000|MMI|2.26|Encounter due to Screening for malignant neoplasm of breast|C0260913|[fndg]|["mammogram"-tx-34-"mammogram"-noun-0]|TX|6282/9|
+00000000|MMI|2.24|THROMBOPHILIA DUE TO THROMBIN DEFECT|C3160733|[fndg]|["VENOUS Thromboembolic Event"-tx-16-"venous thromboembolic events"-noun-0]|TX|3676/28|
+00000000|MMI|2.24|Thromboembolism of vein|C1997614|[patf]|["Venous Thromboembolic Event"-tx-16-"venous thromboembolic events"-noun-0]|TX|3676/28|
+00000000|MMI|2.24|H/O: jaundice|C0455551|[fndg]|["History of - jaundice"-tx-53-"history of jaundice"-noun-0]|TX|9026/10,9049/8|
+00000000|MMI|2.23|Tri-iodothyronine normal|C0853627|[fndg]|["normal t3"-tx-56-"T3 normal"-noun-0]|TX|9552/2,9583/6|
+00000000|MMI|2.23|Hysterectomized female|C3687561|[fndg]|["Hysterectomized Women"-tx-38-"hysterectomized women"-noun-0]|TX|6829/21|
+00000000|MMI|2.22|4+ Answer to question|C3838679|[fndg]|["4+"-tx-52-"4"-real_number-0]|TX|8862/1|
+00000000|MMI|2.22|65+|C3843765|[fndg]|["65+"-tx-38-"65"-integer-0]|TX|6851/2|
+00000000|MMI|2.22|Injury due to exposure to external cause|C0274281|[inpo]|["EXPOSURES"-tx-52-"exposures"-noun-0]|TX|8891/9|

@@ -1,0 +1,40 @@
+T1	AdverseReaction 60 81	CARDIOVASCULAR EVENTS
+T2	AdverseReaction 124 145	CARDIOVASCULAR EVENTS
+T3	AdverseReaction 199 220	cardiovascular events
+T4	DrugClass 226 257	combination oral contraceptives
+T5	AdverseReaction 570 591	CARDIOVASCULAR EVENTS
+T6	AdverseReaction 783 804	cardiovascular events
+T7	DrugClass 810 840	combination oral contraceptive
+T8	Severity 52 59	SERIOUS
+T9	Severity 116 123	SERIOUS
+T10	Severity 562 569	SERIOUS
+E1	AdverseReaction:T1 Effect:E8
+E2	AdverseReaction:T2 Effect:E9
+E3	AdverseReaction:T3 Hypothetical:E4
+E4	DrugClass:T4
+E5	AdverseReaction:T5 Effect:E10
+E6	AdverseReaction:T6 Hypothetical:E7
+E7	DrugClass:T7
+E8	Severity:T8
+E9	Severity:T9
+E10	Severity:T10
+A1	CUI E1 C1320716
+A2	UMLS-Preferred-Name E1 Cardiovascular event
+A3	MEDDRA-PT E1 Cardiovascular symptom
+A4	MEDDRA-PT-ID E1 10075534
+A5	CUI E2 C1320716
+A6	UMLS-Preferred-Name E2 Cardiovascular event
+A7	MEDDRA-PT E2 Cardiovascular symptom
+A8	MEDDRA-PT-ID E2 10075534
+A9	CUI E3 C1320716
+A10	UMLS-Preferred-Name E3 Cardiovascular event
+A11	MEDDRA-PT E3 Cardiovascular symptom
+A12	MEDDRA-PT-ID E3 10075534
+A13	CUI E5 C1320716
+A14	UMLS-Preferred-Name E5 Cardiovascular event
+A15	MEDDRA-PT E5 Cardiovascular symptom
+A16	MEDDRA-PT-ID E5 10075534
+A17	CUI E6 C1320716
+A18	UMLS-Preferred-Name E6 Cardiovascular event
+A19	MEDDRA-PT E6 Cardiovascular symptom
+A20	MEDDRA-PT-ID E6 10075534

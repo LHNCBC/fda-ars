@@ -1,0 +1,418 @@
+T1	AdverseReaction 65 91	worsening renal impairment
+T2	AdverseReaction 105 124	acute renal failure
+T3	AdverseReaction 129 145	Fanconi syndrome
+T4	AdverseReaction 1327 1360	Decreases in bone mineral density
+T5	AdverseReaction 1509 1523;1537 1548	Redistribution of body fat
+T6	AdverseReaction 1524 1548	accumulation of body fat
+T7	AdverseReaction 1620 1650	Immune reconstitution syndrome
+T8	AdverseReaction 1784 1799	Lactic acidosis
+T9	AdverseReaction 1811 1823	hepatomegaly
+T10	Severity 1804 1810	severe
+T11	AdverseReaction 1829 1838	steatosis
+T12	AdverseReaction 1850 1855	fatal
+T13	AdverseReaction 3245 3273	exacerbations of hepatitis B
+T14	AdverseReaction 3295 3315	liver decompensation
+T15	AdverseReaction 3320 3333	liver failure
+T16	AdverseReaction 3651 3667	Renal impairment
+T17	AdverseReaction 3688 3707	acute renal failure
+T18	AdverseReaction 3712 3728	Fanconi syndrome
+T19	AdverseReaction 3730 3750	renal tubular injury
+T20	AdverseReaction 3763 3779	hypophosphatemia
+T21	AdverseReaction 4165 4187	renal adverse reaction
+T22	AdverseReaction 4404 4438	proximal renal tubular dysfunction
+T23	AdverseReaction 4937 4971	proximal renal tubular dysfunction
+T30	AdverseReaction 6386 6415	increases in serum creatinine
+T31	Severity 6379 6385	modest
+T32	AdverseReaction 6427 6469	declines in estimated creatinine clearance
+T33	Severity 6420 6426	modest
+T34	AdverseReaction 8770 8803	decreases in bone mineral density
+T35	AdverseReaction 9727 9739	osteomalacia
+T36	AdverseReaction 9756 9782	proximal renal tubulopathy
+T37	AdverseReaction 9798 9807	bone pain
+T38	AdverseReaction 9811 9830	pain in extremities
+T39	AdverseReaction 9859 9868	fractures
+T40	Factor 9841 9844	may
+T41	AdverseReaction 9969 9980	Arthralgias
+T42	AdverseReaction 9985 9996	muscle pain
+T43	AdverseReaction 10000 10008;9985 9991	weakness muscle
+T44	AdverseReaction 10045 10071	proximal renal tubulopathy
+T45	AdverseReaction 10401 10415;10429 10440	Redistribution of body fat
+T46	AdverseReaction 10416 10440	accumulation of body fat
+T47	AdverseReaction 10451 10466	central obesity
+T48	AdverseReaction 10468 10497	dorsocervical fat enlargement
+T49	AdverseReaction 10499 10511	buffalo hump
+T50	AdverseReaction 10432 10440;10514 10532	body fat peripheral wasting
+T51	AdverseReaction 10534 10548	facial wasting
+T52	AdverseReaction 10550 10568	breast enlargement
+T53	AdverseReaction 10575 10596	cushingoid appearance
+T54	AdverseReaction 10838 10868	Immune reconstitution syndrome
+T55	AdverseReaction 11124 11157	residual opportunistic infections
+T56	AdverseReaction 11167 11197	Mycobacterium avium  infection
+T57	AdverseReaction 11199 11214	cytomegalovirus
+T58	AdverseReaction 11216 11249	Pneumocystis jirovecii  pneumonia
+T59	AdverseReaction 11251 11254	PCP
+T60	AdverseReaction 11260 11272	tuberculosis
+T61	AdverseReaction 11335 11355	Autoimmune disorders
+T62	AdverseReaction 11365 11380	Graves' disease
+T63	AdverseReaction 11382 11394	polymyositis
+T64	AdverseReaction 11400 11423	Guillain-Barre syndrome
+T66	Factor 93 96	Can
+T67	Severity 3756 3762	severe
+T24	Factor 6369 6372	may
+T25	AdverseReaction 8814 8865	increases in biochemical markers of bone metabolism
+T26	AdverseReaction 8878 8901	increased bone turnover
+T27	Factor 11072 11075	may
+T28	AdverseReaction 8770 8782;8805 8808	decreases in BMD
+T29	AdverseReaction 52 61;75 91	New onset renal impairment
+T65	AdverseReaction 1327 1339;1362 1365	Decreases in BMD
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Hypothetical:E66
+E3	AdverseReaction:T3 Hypothetical:E66
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9 Effect:E10
+E10	Severity:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20 Effect:E67
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E30	AdverseReaction:T30 Effect:E31 Hypothetical:E24
+E31	Severity:T31
+E32	AdverseReaction:T32 Effect:E33
+E33	Severity:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39 Hypothetical:E40
+E40	Factor:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55 Hypothetical:E27
+E56	AdverseReaction:T56 Hypothetical:E27
+E57	AdverseReaction:T57 Hypothetical:E27
+E58	AdverseReaction:T58 Hypothetical:E27
+E59	AdverseReaction:T59 Hypothetical:E27
+E60	AdverseReaction:T60 Hypothetical:E27
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E66	Factor:T66
+E67	Severity:T67
+E24	Factor:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	Factor:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E65	AdverseReaction:T65
+A1	CUI E1 C1565489
+A2	UMLS-Preferred-Name E1 Renal Insufficiency
+A3	MEDDRA-PT E1 Renal impairment
+A4	MEDDRA-PT-ID E1 10062237
+A5	CUI E2 C0022660
+A6	UMLS-Preferred-Name E2 Kidney Failure, Acute
+A7	MEDDRA-PT E2 Acute kidney injury
+A8	MEDDRA-PT-ID E2 10069339
+A9	LLT E2 Acute renal failure
+A10	LLT-ID E2 10001041
+A11	CUI E3 C0015624
+A12	UMLS-Preferred-Name E3 Fanconi Syndrome
+A13	MEDDRA-PT E3 Fanconi syndrome
+A14	MEDDRA-PT-ID E3 10016219
+A15	CUI E4 C0877225
+A16	UMLS-Preferred-Name E4 Bone density decreased
+A17	MEDDRA-PT E4 Bone density decreased
+A18	MEDDRA-PT-ID E4 10049470
+A19	CUI E5 C0856151
+A20	UMLS-Preferred-Name E5 Fat redistribution
+A21	MEDDRA-PT E5 Fat redistribution
+A22	MEDDRA-PT-ID E5 10048474
+A23	CUI E6 C1096393
+A24	UMLS-Preferred-Name E6 Body fat disorder
+A25	MEDDRA-PT E6 Body fat disorder
+A26	MEDDRA-PT-ID E6 10055164
+A27	CUI E7 C1096197
+A28	UMLS-Preferred-Name E7 Immune reconstitution syndrome
+A29	MEDDRA-PT E7 Immune reconstitution inflammatory syndrome
+A30	MEDDRA-PT-ID E7 10065042
+A31	LLT E7 Immune reconstitution syndrome
+A32	LLT-ID E7 10054014
+A33	CUI E8 C0001125
+A34	UMLS-Preferred-Name E8 Acidosis, Lactic
+A35	MEDDRA-PT E8 Lactic acidosis
+A36	MEDDRA-PT-ID E8 10023676
+A37	CUI E9 C0019209
+A38	UMLS-Preferred-Name E9 Hepatomegaly
+A39	MEDDRA-PT E9 Hepatomegaly
+A40	MEDDRA-PT-ID E9 10019842
+A41	CUI E11 C2711227
+A42	UMLS-Preferred-Name E11 Steatohepatitis
+A43	MEDDRA-PT E11 Hepatic steatosis
+A44	MEDDRA-PT-ID E11 10019708
+A45	CUI E12 C1306577
+A46	UMLS-Preferred-Name E12 Death (finding)
+A47	MEDDRA-PT E12 Death
+A48	MEDDRA-PT-ID E12 10011906
+A49	CUI E13 C1739145
+A50	UMLS-Preferred-Name E13 Hepatitis B aggravated
+A51	MEDDRA-PT E13 Hepatitis B
+A52	MEDDRA-PT-ID E13 10019731
+A53	LLT E13 Hepatitis B aggravated
+A54	LLT-ID E13 10066627
+A55	CUI E14 C0085605
+A56	UMLS-Preferred-Name E14 Liver Failure
+A57	MEDDRA-PT E14 Hepatic failure
+A58	MEDDRA-PT-ID E14 10019663
+A59	LLT E14 Hepatic decompensation
+A60	LLT-ID E14 10076894
+A61	CUI E15 C0085605
+A62	UMLS-Preferred-Name E15 Liver Failure
+A63	MEDDRA-PT E15 Hepatic failure
+A64	MEDDRA-PT-ID E15 10019663
+A65	LLT E15 Liver failure
+A66	LLT-ID E15 10024678
+A67	CUI E16 C1565489
+A68	UMLS-Preferred-Name E16 Renal Insufficiency
+A69	MEDDRA-PT E16 Renal impairment
+A70	MEDDRA-PT-ID E16 10062237
+A71	CUI E17 C0022660
+A72	UMLS-Preferred-Name E17 Kidney Failure, Acute
+A73	MEDDRA-PT E17 Acute kidney injury
+A74	MEDDRA-PT-ID E17 10069339
+A75	LLT E17 Acute renal failure
+A76	LLT-ID E17 10001041
+A77	CUI E18 C0015624
+A78	UMLS-Preferred-Name E18 Fanconi Syndrome
+A79	MEDDRA-PT E18 Fanconi syndrome
+A80	MEDDRA-PT-ID E18 10016219
+A81	flag E19 underspecified
+A82	CUI E19 C0151747
+A83	UMLS-Preferred-Name E19 Renal tubular disorder
+A84	MEDDRA-PT E19 Renal tubular disorder
+A85	MEDDRA-PT-ID E19 10038537
+A86	LLT E19 Renal tubular dysfunction
+A87	LLT-ID E19 10050335
+A88	CUI E20 C0085682
+A89	UMLS-Preferred-Name E20 Hypophosphatemia
+A90	MEDDRA-PT E20 Hypophosphataemia
+A91	MEDDRA-PT-ID E20 10021058
+A92	LLT E20 Hypophosphatemia
+A93	LLT-ID E20 10021059
+A94	CUI E21 C1557806
+A95	UMLS-Preferred-Name E21 Adverse Event Associated with the Kidney and Genitourinary System
+A96	MEDDRA-PT E21 Renal impairment
+A97	MEDDRA-PT-ID E21 10062237
+A98	LLT E21 Renal function disorder
+A99	LLT-ID E21 10038455
+A100	CUI E22 C0015624
+A101	UMLS-Preferred-Name E22 Fanconi Syndrome
+A102	MEDDRA-PT E22 Renal tubular disorder
+A103	MEDDRA-PT-ID E22 10038537
+A104	LLT E22 Proximal renal tubular dysfunction
+A105	LLT-ID E22 10037081
+A106	CUI E23 C0015624
+A107	UMLS-Preferred-Name E23 Fanconi Syndrome
+A108	MEDDRA-PT E23 Renal tubular disorder
+A109	MEDDRA-PT-ID E23 10038537
+A110	LLT E23 Proximal renal tubular dysfunction
+A111	LLT-ID E23 10037081
+A112	CUI E30 C0700225
+A113	UMLS-Preferred-Name E30 Serum creatinine raised
+A114	MEDDRA-PT E30 Blood creatinine increased
+A115	MEDDRA-PT-ID E30 10005483
+A116	LLT E30 Serum creatinine increased
+A117	LLT-ID E30 10040233
+A118	CUI E32 C1262229
+A119	UMLS-Preferred-Name E32 Creatinine clearance estimation decreased
+A120	MEDDRA-PT E32 Creatinine renal clearance decreased
+A121	MEDDRA-PT-ID E32 10011372
+A122	LLT E32 Creatinine clearance estimation decreased
+A123	LLT-ID E32 10061436
+A124	CUI E34 C0877225
+A125	UMLS-Preferred-Name E34 Bone density decreased
+A126	MEDDRA-PT E34 Bone density decreased
+A127	MEDDRA-PT-ID E34 10049470
+A128	CUI E35 C0029442
+A129	UMLS-Preferred-Name E35 Osteomalacia
+A130	MEDDRA-PT E35 Osteomalacia
+A131	MEDDRA-PT-ID E35 10031250
+A132	CUI E36 C1839603
+A133	UMLS-Preferred-Name E36 Proximal tubulopathy
+A134	MEDDRA-PT E36 Renal tubular disorder
+A135	MEDDRA-PT-ID E36 10038537
+A136	LLT E36 Proximal renal tubular dysfunction
+A137	LLT-ID E36 10037081
+A138	CUI E37 C0151825
+A139	UMLS-Preferred-Name E37 Bone pain
+A140	MEDDRA-PT E37 Bone pain
+A141	MEDDRA-PT-ID E37 10006002
+A142	CUI E38 C0030196
+A143	UMLS-Preferred-Name E38 Pain in limb
+A144	MEDDRA-PT E38 Pain in extremity
+A145	MEDDRA-PT-ID E38 10033425
+A146	CUI E39 C0016658
+A147	UMLS-Preferred-Name E39 Fracture
+A148	MEDDRA-PT E39 Fracture
+A149	MEDDRA-PT-ID E39 10017076
+A150	CUI E41 C0003862
+A151	UMLS-Preferred-Name E41 Arthralgia
+A152	MEDDRA-PT E41 Arthralgia
+A153	MEDDRA-PT-ID E41 10003239
+A154	CUI E42 C0231528
+A155	UMLS-Preferred-Name E42 Myalgia
+A156	MEDDRA-PT E42 Myalgia
+A157	MEDDRA-PT-ID E42 10028411
+A158	LLT E42 Muscle pain
+A159	LLT-ID E42 10028322
+A160	CUI E43 C0151786
+A161	UMLS-Preferred-Name E43 Muscle Weakness
+A162	MEDDRA-PT E43 Muscular weakness
+A163	MEDDRA-PT-ID E43 10028372
+A164	LLT E43 Weakness muscle
+A165	LLT-ID E43 10047867
+A166	CUI E44 C1839603
+A167	UMLS-Preferred-Name E44 Proximal tubulopathy
+A168	MEDDRA-PT E44 Renal tubular disorder
+A169	MEDDRA-PT-ID E44 10038537
+A170	LLT E44 Proximal renal tubular dysfunction
+A171	LLT-ID E44 10037081
+A172	CUI E45 C0856151
+A173	UMLS-Preferred-Name E45 Fat redistribution
+A174	MEDDRA-PT E45 Fat redistribution
+A175	MEDDRA-PT-ID E45 10048474
+A176	CUI E46 C1096393
+A177	UMLS-Preferred-Name E46 Body fat disorder
+A178	MEDDRA-PT E46 Body fat disorder
+A179	MEDDRA-PT-ID E46 10055164
+A180	CUI E47 C0311277
+A181	UMLS-Preferred-Name E47 Obesity, Abdominal
+A182	MEDDRA-PT E47 Central obesity
+A183	MEDDRA-PT-ID E47 10065941
+A184	CUI E48 C0520573
+A185	UMLS-Preferred-Name E48 Buffalo hump
+A186	MEDDRA-PT E48 Lipohypertrophy
+A187	MEDDRA-PT-ID E48 10062315
+A188	LLT E48 Buffalo hump
+A189	LLT-ID E48 10006539
+A190	CUI E49 C0520573
+A191	UMLS-Preferred-Name E49 Buffalo hump
+A192	MEDDRA-PT E49 Lipohypertrophy
+A193	MEDDRA-PT-ID E49 10062315
+A194	LLT E49 Buffalo hump
+A195	LLT-ID E49 10006539
+A196	CUI E50 C0333650
+A197	UMLS-Preferred-Name E50 Adipose Tissue Atrophy
+A198	MEDDRA-PT E50 Lipoatrophy
+A199	MEDDRA-PT-ID E50 10024604
+A200	LLT E50 Fat atrophy NOS
+A201	LLT-ID E50 10016242
+A202	CUI E51 C1112303
+A203	UMLS-Preferred-Name E51 Facial wasting
+A204	MEDDRA-PT E51 Facial wasting
+A205	MEDDRA-PT-ID E51 10056866
+A206	CUI E52 C2225524
+A207	UMLS-Preferred-Name E52 Macromastia
+A208	MEDDRA-PT E52 Breast enlargement
+A209	MEDDRA-PT-ID E52 10006242
+A210	CUI E53 C0742929
+A211	UMLS-Preferred-Name E53 CUSHINGOID APPEARANCE
+A212	MEDDRA-PT E53 Cushingoid
+A213	MEDDRA-PT-ID E53 10011655
+A214	LLT E53 Cushingoid facies
+A215	LLT-ID E53 10011656
+A216	CUI E54 C1096197
+A217	UMLS-Preferred-Name E54 Immune reconstitution syndrome
+A218	MEDDRA-PT E54 Immune reconstitution inflammatory syndrome
+A219	MEDDRA-PT-ID E54 10065042
+A220	LLT E54 Immune reconstitution syndrome
+A221	LLT-ID E54 10054014
+A222	CUI E55 C0029118
+A223	UMLS-Preferred-Name E55 Opportunistic Infections
+A224	MEDDRA-PT E55 Opportunistic infection
+A225	MEDDRA-PT-ID E55 10030901
+A226	CUI E56 C1411980
+A227	UMLS-Preferred-Name E56 Mycobacterium avium infection
+A228	MEDDRA-PT E56 Mycobacterium avium complex infection
+A229	MEDDRA-PT-ID E56 10058806
+A230	LLT E56 Infection mycobacterium avium
+A231	LLT-ID E56 10021840
+A232	CUI E57 C0010823
+A233	UMLS-Preferred-Name E57 Cytomegalovirus Infections
+A234	MEDDRA-PT E57 Cytomegalovirus infection
+A235	MEDDRA-PT-ID E57 10011831
+A236	CUI E58 C1535939
+A237	UMLS-Preferred-Name E58 Pneumocystis jiroveci pneumonia
+A238	MEDDRA-PT E58 Pneumocystis jirovecii pneumonia
+A239	MEDDRA-PT-ID E58 10073755
+A240	CUI E59 C1535939
+A241	UMLS-Preferred-Name E59 Pneumocystis jiroveci pneumonia
+A242	MEDDRA-PT E59 Pneumocystis jirovecii pneumonia
+A243	MEDDRA-PT-ID E59 10073755
+A244	CUI E60 C0041296
+A245	UMLS-Preferred-Name E60 Tuberculosis
+A246	MEDDRA-PT E60 Tuberculosis
+A247	MEDDRA-PT-ID E60 10044755
+A248	CUI E61 C0004364
+A249	UMLS-Preferred-Name E61 Autoimmune Diseases
+A250	MEDDRA-PT E61 Autoimmune disorder
+A251	MEDDRA-PT-ID E61 10061664
+A252	CUI E62 C0018213
+A253	UMLS-Preferred-Name E62 Graves Disease
+A254	MEDDRA-PT E62 Basedow's disease
+A255	MEDDRA-PT-ID E62 10004161
+A256	LLT E62 Graves' disease
+A257	LLT-ID E62 10018706
+A258	CUI E63 C0085655
+A259	UMLS-Preferred-Name E63 Polymyositis
+A260	MEDDRA-PT E63 Polymyositis
+A261	MEDDRA-PT-ID E63 10036102
+A262	CUI E64 C0018378
+A263	UMLS-Preferred-Name E64 Guillain-Barre Syndrome
+A264	MEDDRA-PT E64 Guillain-Barre syndrome
+A265	MEDDRA-PT-ID E64 10018767
+A266	flag E25 unmapped
+A267	CUI E26 C1262307
+A268	UMLS-Preferred-Name E26 High turnover bone disease
+A269	MEDDRA-PT E26 High turnover osteopathy
+A270	MEDDRA-PT-ID E26 10062624
+A271	LLT E26 High turnover bone disease
+A272	LLT-ID E26 10062633
+A273	CUI E28 C0877225
+A274	UMLS-Preferred-Name E28 Bone density decreased
+A275	MEDDRA-PT E28 Bone density decreased
+A276	MEDDRA-PT-ID E28 10049470
+A277	CUI E29 C1565489
+A278	UMLS-Preferred-Name E29 Renal Insufficiency
+A279	MEDDRA-PT E29 Renal impairment
+A280	MEDDRA-PT-ID E29 10062237
+A281	CUI E65 C0877225
+A282	UMLS-Preferred-Name E65 Bone density decreased
+A283	MEDDRA-PT E65 Bone density decreased
+A284	MEDDRA-PT-ID E65 10049470

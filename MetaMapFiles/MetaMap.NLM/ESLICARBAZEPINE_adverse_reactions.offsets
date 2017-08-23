@@ -1,0 +1,177 @@
+151,168|C1760428|Suicidal Behavior|fndg
+307,360|C3541994|Drug Reaction with Eosinophilia and Systemic Symptoms|dsyn
+380,396|C0020517|Hypersensitivity|patf
+380,396|C0520946|Hypersensitivity|fndg
+444,466|C0002792|Anaphylactic Reactions|patf
+471,481|C0002994|Angioedema|patf
+529,541|C0020625|Hyponatremia|dsyn
+667,692|C0860207|Drug Induced Liver Injury|patf
+740,765|C0857576|Abnormal Thyroid Function|fndg
+929,938|C0042571|dizziness|sosy
+929,938|C0012833|dizziness|sosy
+929,938|C1963093|dizziness|fndg
+940,950|C0013144|somnolence|fndg
+940,950|C2830004|somnolence|fndg
+952,958|C0027497|nausea|sosy
+952,958|C1963179|nausea|patf
+960,968|C0018681|headache|sosy
+960,968|C2096315|headache|fndg
+970,978|C0012569|diplopia|fndg
+980,988|C0042963|vomiting|sosy
+980,988|C1963281|vomiting|patf
+990,997|C0015672|fatigue|sosy
+999,1006|C0042571|vertigo|sosy
+1008,1014|C0007758|ataxia|sosy
+1008,1014|C0004134|ataxia|sosy
+1016,1030|C0344232|blurred vision|sosy
+1036,1042|C0040822|tremor|sosy
+1036,1042|C1963252|tremor|fndg
+1287,1297|C0012634|conditions|dsyn
+1535,1542;1549,1557|C0751495|partial seizures|sosy
+1667,1678|C0332154|treated for|fndg
+1853,1863|C2911690|controlled|fndg
+1933,1940;1947,1955|C0751495|partial seizures|sosy
+2005,2016|C0332154|treated for|fndg
+2142,2149;2156,2164|C0751495|partial seizures|sosy
+2400,2410|C2004062|Historical|fndg
+2451,2459|C0014544|epilepsy|dsyn
+2506,2516|C3815594|randomized|fndg
+2594,2606|C1444662|discontinued|fndg
+2628,2634|C2825142|result|fndg
+2719,2734|C1444662|discontinuation|fndg
+2739,2751|C0020625|hyponatremia|dsyn
+3010,3019|C0042571|Dizziness|sosy
+3010,3019|C0012833|Dizziness|sosy
+3010,3019|C1963093|Dizziness|fndg
+3021,3027|C0027497|nausea|sosy
+3021,3027|C1963179|nausea|patf
+3029,3039|C0013144|somnolence|fndg
+3029,3039|C2830004|somnolence|fndg
+3045,3052|C0015672|fatigue|sosy
+3106,3116|C2825032|Withdrawal|mobd
+3106,3116|C3812880|Withdrawal|fndg
+3268,3276|C0014544|epilepsy|dsyn
+3332,3347|C1444662|discontinuation|fndg
+3353,3359|C2825142|result|fndg
+3458,3468|C3815594|randomized|fndg
+3591,3606|C1444662|discontinuation|fndg
+3647,3656|C0042571|dizziness|sosy
+3647,3656|C0012833|dizziness|sosy
+3647,3656|C1963093|dizziness|fndg
+3658,3664|C0027497|nausea|sosy
+3658,3664|C1963179|nausea|patf
+3666,3674|C0042963|vomiting|sosy
+3666,3674|C1963281|vomiting|patf
+3676,3682|C0007758|ataxia|sosy
+3676,3682|C0004134|ataxia|sosy
+3684,3692|C0012569|diplopia|fndg
+3694,3704|C0013144|somnolence|fndg
+3694,3704|C2830004|somnolence|fndg
+3706,3714|C0018681|headache|sosy
+3706,3714|C2096315|headache|fndg
+3716,3730|C0344232|blurred vision|sosy
+3732,3739|C0042571|vertigo|sosy
+3741,3749|C0004093|asthenia|sosy
+3751,3758|C0015672|fatigue|sosy
+3760,3764|C0015230|rash|sosy
+3766,3776|C0013362|dysarthria|mobd
+3782,3788|C0040822|tremor|sosy
+3782,3788|C1963252|tremor|fndg
+3831,3840;3844,3852|C0521985|reactions patients|fndg
+3942,3951|C0042571|dizziness|sosy
+3942,3951|C0012833|dizziness|sosy
+3942,3951|C1963093|dizziness|fndg
+3953,3963|C0013144|somnolence|fndg
+3953,3963|C2830004|somnolence|fndg
+3965,3971|C0027497|nausea|sosy
+3965,3971|C1963179|nausea|patf
+3973,3981|C0018681|headache|sosy
+3973,3981|C2096315|headache|fndg
+3983,3991|C0012569|diplopia|fndg
+3993,4001|C0042963|vomiting|sosy
+3993,4001|C1963281|vomiting|patf
+4003,4010|C0015672|fatigue|sosy
+4012,4019|C0042571|vertigo|sosy
+4021,4027|C0007758|ataxia|sosy
+4021,4027|C0004134|ataxia|sosy
+4029,4043|C0344232|blurred vision|sosy
+4049,4055|C0040822|tremor|sosy
+4049,4055|C1963252|tremor|fndg
+4152,4159;4166,4174|C0751495|partial seizures|sosy
+4337,4350|C3843156|less frequent|fndg
+4374,4381|C1363945|therapy|fndg
+4431,4440;4448,4450|C0240292|increased mg|fndg
+4486,4493|C1363945|therapy|fndg
+4970,4989|C0022890|labyrinth disorders|dsyn
+4994,5001|C0042571|Vertigo|sosy
+5071,5074;5128,5138|C0848755|Eye impairment|fndg
+5071,5084|C0015397|Eye disorders|dsyn
+5075,5084;5121,5127|C0042790|disorders Visual|fndg
+5089,5097|C0012569|Diplopia|fndg
+5102,5116|C0344232|Blurred vision|sosy
+5121,5138|C3665347|Visual impairment|fndg
+5207,5233|C0017178|Gastrointestinal disorders|dsyn
+5321,5327;5375,5389|C0151263|Nausea Abdominal pain|sosy
+5332,5340;5345,5353|C0474496|Vomiting Diarrhea|sosy
+5332,5340|C0042963|Vomiting|sosy
+5332,5340|C1963281|Vomiting|patf
+5345,5353;5358,5370|C3842347|Diarrhea Constipation|fndg
+5358,5370|C0009806|Constipation|sosy
+5358,5370|C1963087|Constipation|fndg
+5394,5403|C0017152|Gastritis|dsyn
+5480,5489|C0012634|disorders|dsyn
+5514,5524|C0012634|conditions|dsyn
+5598,5605|C0015672|Fatigue|sosy
+5610,5618|C0004093|Asthenia|sosy
+5623,5639|C0575081|Gait disturbance|fndg
+5644,5660|C0085649|Peripheral edema|fndg
+5729,5739|C3714514|Infections|patf
+5744,5756|C0851341|Infestations|dsyn
+5761,5785|C0042029|Urinary tract infections|dsyn
+5761,5785|C0262655|Urinary tract infections|dsyn
+5862,5871|C0032343|poisoning|inpo
+5974,5978|C0085639|Fall|fndg
+6093,6112|C3714509|nutrition disorders|dsyn
+6192,6204|C0020625|Hyponatremia|dsyn
+6325,6334|C0042571|Dizziness|sosy
+6325,6334|C0012833|Dizziness|sosy
+6325,6334|C1963093|Dizziness|fndg
+6339,6349|C0013144|Somnolence|fndg
+6339,6349|C2830004|Somnolence|fndg
+6354,6362|C0018681|Headache|sosy
+6354,6362|C2096315|Headache|fndg
+6367,6373|C0007758|Ataxia|sosy
+6367,6373|C0004134|Ataxia|sosy
+6378,6385;6432,6442|C0575090|Balance impairment|sosy
+6378,6385;6432,6442|C0241981|Balance impairment|fndg
+6378,6385|C0560184|Balance|fndg
+6399,6405|C0040822|Tremor|sosy
+6399,6405|C1963252|Tremor|fndg
+6410,6420|C0013362|Dysarthria|mobd
+6425,6442|C1963167|Memory impairment|patf
+6425,6442|C0233794|Memory impairment|mobd
+6425,6431|C0700327|Memory|fndg
+6447,6456|C0028738|Nystagmus|dsyn
+6447,6456|C1963184|Nystagmus|fndg
+6551,6561|C0011570|Depression|mobd
+6551,6561|C0011581|Depression|mobd
+6551,6561|C1579931|Depression|sosy
+6551,6561|C0344315|Depression|fndg
+6566,6574|C0917801|Insomnia|sosy
+6566,6574|C1963237|Insomnia|fndg
+6669,6690|C0025061|mediastinal disorders|dsyn
+6764,6769|C0010200|Cough|sosy
+6764,6769|C1961131|Cough|fndg
+6877,6889;6897,6906|C0549584|subcutaneous disorders|dsyn
+6897,6906|C0012634|disorders|dsyn
+6911,6915|C0015230|Rash|sosy
+6984,6992;7007,7019|C0020538|Vascular Hypertension|dsyn
+6984,7002|C0042373|Vascular disorders|dsyn
+6993,7002|C0012634|disorders|dsyn
+7007,7019|C0020538|Hypertension|dsyn
+7007,7019|C1963138|Hypertension|fndg
+7248,7258|C1561562|hemoglobin|fndg
+7263,7273|C0518014|hematocrit|fndg
+7275,7284;7288,7305|C0020443|increases total cholesterol|dsyn
+7275,7284;7288,7305|C1522133|increases total cholesterol|fndg
+7335,7344;7348,7370|C0151576|increases creatine phosphokinase|fndg

@@ -1,0 +1,38 @@
+00000000|AA|NSAIDs|nonsteroidal anti-inflammatory drugs|1|6|7|36|1358:6
+00000000|MMI|77.09|Hemorrhage|C0019080|[patf]|["HEMORRHAGE"-tx-11-"hemorrhage"-noun-0,"Blood loss of (NOS)"-tx-10-"of blood loss"-noun-0,"BLEEDING"-tx-7-"Bleeding"-adj-0,"BLEEDING"-tx-7-"bleeding"-verb-0,"BLEEDING"-tx-6-"bleeding"-noun-0,"Blood loss of (NOS)"-tx-3-"of blood loss"-noun-0,"BLEEDING"-tx-2-"bleeding"-noun-0]|TX|1571/10;1441/13;865/8;958/8;688/8;145/13;98/8|C23.550.414
+00000000|MMI|25.93|Thrombus|C0087086|[patf]|["Thrombotic"-tx-4-"Thrombotic"-adj-1,"Thrombotic"-tx-4-"thrombotic"-adj-1]|TX|263/10;465/10|C14.907.355.830
+00000000|MMI|20.95|Hypesthesia|C0020580|[fndg]|["Numbness"-tx-26-"numbness"-noun-0]|TX|3678/8|C10.597.751.791.500;C23.888.592.763.770.500
+00000000|MMI|20.95|Numbness|C0028643|[sosy]|["NUMBNESS"-tx-26-"numbness"-noun-0]|TX|3678/8|C10.597.751.791.500;C23.888.592.763.770.500
+00000000|MMI|16.05|Cerebrovascular accident|C0038454|[dsyn]|["STROKE"-tx-5-"stroke"-noun-0]|TX|505/6|C10.228.140.300.775;C14.907.253.855
+00000000|MMI|16.04|Premature Birth|C0151526|[fndg]|["Premature"-tx-4-"Premature"-adj-0]|TX|287/9|C13.703.420.491.500
+00000000|MMI|13.14|Paralysed|C0522224|[fndg]|["PARALYSIS"-tx-20-"paralysis"-noun-0]|TX|3003/9|C10.597.622;C23.888.592.636
+00000000|MMI|12.91|Atrial Fibrillation|C0004238|[dsyn]|["ATRIAL FIBRILLATION"-tx-5-"atrial fibrillation"-noun-0]|TX|594/19|C14.280.067.198;C23.550.073.198
+00000000|MMI|11.33|Encounter for artificial heart valve|C0481485|[fndg]|["Prosthetic heart valves"-tx-29-"Prosthetic Heart Valves"-noun-0,"Prosthetic heart valves"-tx-29-"prosthetic heart valves"-noun-1,"Prosthetic heart valves"-tx-4-"Prosthetic heart valves"-noun-0]|TX|4037/23;4138/23;173/23|
+00000000|MMI|10.91|Discontinued|C1444662|[fndg]|["Discontinue"-tx-11-"Discontinue"-verb-0,"Discontinued"-tx-6-"discontinued"-verb-0,"Discontinuation"-tx-4-"Discontinuation"-noun-0]|TX|1514/11;638/12;297/15|
+00000000|MMI|10.87|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-26-"symptoms"-noun-0,"SYMPTOMS"-tx-10-"symptoms"-noun-0,"SYMPTOMS"-tx-3-"symptoms"-noun-0]|TX|3635/8;1432/8;136/8|
+00000000|MMI|10.78|Physical findings|C0311392|[fndg]|["SIGNS"-tx-26-"signs"-noun-0,"SIGNS"-tx-10-"signs"-noun-0,"SIGNS"-tx-3-"signs"-noun-0]|TX|3625/5;1422/5;126/5|
+00000000|MMI|9.93|Neurologic Symptoms|C0235031|[sosy]|["Neurological symptoms NOS"-tx-26-"symptoms neurological"-noun-0]|TX|3635/8,3647/12|C10.597;C23.888.592
+00000000|MMI|9.79|Neurologic Deficits|C0521654|[fndg]|["Neurological impairment"-tx-26-"neurological impairment"-noun-0]|TX|3647/23|C10.597;C23.888.592
+00000000|MMI|7.29|Bleeding Risk|C3251812|[fndg]|["Bleeding Risk"-tx-8-"risk bleeding"-noun-0,"Bleeding Risk"-tx-7-"risk bleeding"-noun-0]|TX|1106/4,1114/8;899/4,907/8|
+00000000|MMI|7.11|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-7-"fatal"-adj-0,"FATAL"-tx-2-"fatal"-adj-0]|TX|951/5;92/5|
+00000000|MMI|7.08|Blood Loss|C3163616|[fndg]|["Loss Of Blood"-tx-10-"of blood loss"-noun-0,"Loss Of Blood"-tx-3-"of blood loss"-noun-0]|TX|1441/13;145/13|
+00000000|MMI|5.18|Bladder dysfunction|C0232841|[patf]|["Bladder dysfunction"-tx-26-"bladder dysfunction"-noun-0]|TX|3722/19|
+00000000|MMI|5.18|Employed|C0557351|[fndg]|["Employed"-tx-20-"employed"-verb-0]|TX|2802/8|
+00000000|MMI|5.18|Puncture wound|C0033119|[inpo]|["Puncture"-tx-20-"Puncture"-noun-0]|TX|2704/8|
+00000000|MMI|5.18|spinal hematoma|C0856150|[inpo]|["Spinal hematoma"-tx-20-"spinal hematoma"-noun-0]|TX|2944/15|
+00000000|MMI|5.18|traumatic; puncture|C1405858|[inpo]|["traumatic; puncture"-tx-25-"traumatic puncture"-noun-0]|TX|3512/18|
+00000000|MMI|3.69|Monoparesis - leg|C0427068|[fndg]|["Weakness of leg"-tx-26-"weakness of legs"-noun-0]|TX|3690/11,3706/4|
+00000000|MMI|3.68|2+|C3833492|[fndg]|["2+"-tx-6-"2"-real_number-0]|TX|816/1|
+00000000|MMI|3.68|Diagnosis|C0011900|[fndg]|["DIAGNOSIS"-tx-27-"diagnosis"-noun-0]|TX|3788/9|E01
+00000000|MMI|3.68|compromise|C2945640|[fndg]|["compromise"-tx-27-"compromise"-noun-0]|TX|3760/10|
+00000000|MMI|3.68|no feeling or sensation of skin|C2219802|[fndg]|["anesthesia"-tx-20-"anesthesia"-noun-0]|TX|2731/10|
+00000000|MMI|3.64|Hemodynamic instability|C0948268|[dsyn]|["Hemodynamic Instability"-tx-31-"hemodynamic instability"-noun-0]|TX|4496/23|
+00000000|MMI|3.57|Experimental Result|C2825142|[fndg]|["Result"-tx-20-"result"-verb-0]|TX|2970/6|
+00000000|MMI|3.57|Transition Mutation|C0599156|[comd]|["Transition"-tx-5-"transition"-noun-0]|TX|536/10|
+00000000|MMI|3.44|Atrial Fibrillation Adverse Event|C1963067|[fndg]|["Atrial fibrillation"-tx-5-"atrial fibrillation"-noun-0]|TX|594/19|
+00000000|MMI|3.44|Impaired health|C0684336|[patf]|["Impairment"-tx-26-"impairment"-noun-0]|TX|3660/10|
+00000000|MMI|3.43|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-14-"exposure"-noun-1]|TX|1897/8|
+00000000|MMI|3.43|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-6-"therapy"-noun-0]|TX|726/7|
+00000000|MMI|3.43|exposure history|C2220266|[fndg]|["exposure"-tx-14-"exposure"-noun-1]|TX|1897/8|
+00000000|MMI|3.42|ANTICOAGULATION (finding)|C2919015|[fndg]|["ANTICOAGULATION"-tx-4-"anticoagulation"-noun-1]|TX|427/15|
+00000000|MMI|3.42|Unstable status|C0443343|[fndg]|["Unstable"-tx-31-"Unstable"-adj-0]|TX|4265/8|

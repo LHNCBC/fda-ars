@@ -1,0 +1,204 @@
+00000000|AA|EPS|Extrapyramidal Symptoms|1|3|3|23|7082:3
+00000000|MMI|119.85|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-32-"adverse reactions"-noun-0,"Adverse reactions"-tx-30-"adverse reactions"-noun-1,"Adverse reactions"-tx-28-"Adverse Reactions"-noun-1,"Adverse reactions"-tx-23-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-21-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-17-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-17-"adverse reactions"-noun-0,"Adverse reactions"-tx-16-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-16-"adverse reactions"-noun-0,"Adverse reactions"-tx-14-"adverse reactions"-noun-0,"Adverse reactions"-tx-13-"Adverse Reactions"-noun-0,"ADVERSE REACTION"-tx-10-"adverse reaction"-noun-0,"Adverse reactions"-tx-10-"adverse reactions"-noun-0,"Adverse reactions"-tx-9-"adverse reactions"-noun-0,"Adverse reactions"-tx-8-"Adverse reactions"-noun-0,"ADVERSE REACTION"-tx-3-"adverse reaction"-noun-0,"Adverse reactions"-tx-2-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|13491/17;10744/17;9938/17;8596/17;8116/17;6519/17;6675/17;5972/17;6114/17;5749/17;2279/17;1853/16;1757/17;1632/17;1404/17;545/16;290/17;10/17;60/17|
+00000000|MMI|69.87|Vertigo|C0042571|[sosy]|["VERTIGO"-tx-31-"vertigo"-noun-0,"dizziness"-tx-18-"Dizziness"-noun-0,"dizziness"-tx-17-"dizziness"-noun-0,"dizziness"-tx-16-"dizziness"-noun-0,"dizziness"-tx-14-"Dizziness"-noun-0,"dizziness"-tx-1-"dizziness"-noun-0]|TX|11185/7;6934/9;6813/9;6402/9;4601/9;133/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|57.85|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-18-"Dizziness"-noun-0,"Dizzyness"-tx-17-"dizziness"-noun-0,"Dizzyness"-tx-16-"dizziness"-noun-0,"Dizzyness"-tx-14-"Dizziness"-noun-0,"Dizzyness"-tx-1-"dizziness"-noun-0]|TX|6934/9;6813/9;6402/9;4601/9;133/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|46.84|Tachycardia|C0039231|[patf]|["TACHYCARDIA"-tx-18-"tachycardia"-noun-0,"TACHYCARDIA"-tx-17-"tachycardia"-noun-0,"TACHYCARDIA"-tx-16-"tachycardia"-noun-0,"TACHYCARDIA"-tx-14-"Tachycardia"-noun-0,"TACHYCARDIA"-tx-1-"tachycardia"-noun-0]|TX|6945/11;6874/11;6453/11;3671/11;219/11|C14.280.067.845;C23.550.073.845
+00000000|MMI|40.66|Psychomotor Agitation|C3887612|[fndg]|["PSYCHOMOTOR HYPERACTIVITY"-tx-31-"psychomotor hyperactivity"-noun-0,"Restlessness"-tx-31-"restlessness"-noun-0]|TX|12380/25;[12407/12],[12514/12]|C10.597.350.600;C10.597.606.881.700;C23.888.592.350.600;C23.888.592.604.882.700;F01.700.875.700
+00000000|MMI|34.03|Hypotension, Orthostatic|C0020651|[fndg]|["HYPOTENSION, ORTHOSTATIC"-tx-17-"orthostatic hypotension"-noun-0,"HYPOTENSION, ORTHOSTATIC"-tx-14-"Orthostatic Hypotension"-noun-0,"HYPOTENSION, ORTHOSTATIC"-tx-1-"orthostatic hypotension"-noun-0]|TX|6887/23;5571/23;182/23|C10.177.575.600.450;C14.907.514.482
+00000000|MMI|34.01|Drowsiness|C0013144|[fndg]|["Somnolence"-tx-17-"somnolence"-noun-0,"Somnolence"-tx-14-"Somnolence"-noun-0,"Somnolence"-tx-1-"somnolence"-noun-0]|TX|6862/10;4672/10;207/10|F02.830.855.796;G11.561.600.815.754
+00000000|MMI|27.57|Xerostomia|C0043352|[dsyn]|["DRY MOUTH"-tx-17-"dry mouth"-noun-0,"DRY MOUTH"-tx-14-"Dry Mouth"-noun-0,"DRY MOUTH"-tx-1-"dry mouth"-noun-0]|TX|6824/9;4050/9;144/9|C07.465.815.929
+00000000|MMI|27.29|Rare Diseases|C0678236|[dsyn]|["Rare Disorders"-tx-31-"Rare Disorders"-noun-0]|TX|[10958/4,10991/9],[11867/4,11908/9],[12442/4,12491/9]|C23.550.291.906
+00000000|MMI|26.87|Restlessness|C3887611|[sosy]|["RESTLESSNESS"-tx-31-"restlessness"-noun-0]|TX|[12407/12],[12514/12]|C10.597.350.600;C10.597.606.881.700;C23.888.592.350.600;C23.888.592.604.882.700;F01.700.875.700
+00000000|MMI|22.64|Urinary Incontinence|C0042024|[patf]|["Enuresis"-tx-31-"enuresis"-noun-0,"URINARY INCONTINENCE"-tx-31-"urinary incontinence"-noun-0]|TX|12911/8;12852/20|C12.777.934.852;C13.351.968.934.814;C23.888.942.343.800
+00000000|MMI|22.23|Tremor|C0040822|[sosy]|["TREMOR"-tx-21-"Tremor"-noun-0,"TREMOR"-tx-14-"Tremor"-noun-0]|TX|8034/6;4829/6|C10.597.350.850;C23.888.592.350.850
+00000000|MMI|20.98|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-17-"fatigue"-noun-0,"FATIGUE"-tx-14-"Fatigue"-noun-0,"FATIGUE"-tx-1-"fatigue"-noun-0]|TX|6835/7;3358/7;155/7|C23.888.369
+00000000|MMI|20.54|Disease|C0012634|[dsyn]|["condition"-tx-31-"Conditions"-noun-0,"condition"-tx-7-"conditions"-noun-0,"condition"-tx-3-"conditions"-noun-0]|TX|11759/10;1140/10;533/10|C23.550.288
+00000000|MMI|20.42|10%|C3842590|[fndg]|["10%"-tx-21-"10"-integer-0,"10%"-tx-16-"10"-integer-0,"10%"-tx-14-"10"-integer-0,"10%"-tx-12-"10"-integer-0,"10%"-tx-4-"10"-integer-0]|TX|7477/2;6358/2;[3070/2],[4024/2],[4095/2],[4629/2];2251/2;879/2|
+00000000|MMI|19.55|1+|C3816745|[fndg]|["1+"-tx-25-"1"-percentage-0,"1+"-tx-21-"1"-real_number-0,"1+"-tx-14-"1"-integer-0]|TX|9167/1;7926/1;[3534/1],[5072/1],[5292/1],[5670/1],[5687/1]|
+00000000|MMI|18.26|4+ Answer to question|C3838679|[fndg]|["4+"-tx-25-"4"-integer-0,"4+"-tx-23-"4"-integer-0,"4+"-tx-21-"4"-integer-0,"4+"-tx-17-"4"-integer-0,"4+"-tx-16-"4"-integer-0,"4+"-tx-14-"4"-integer-0,"4+"-tx-12-"4"-integer-0]|TX|9140/1;8685/1;8234/1;6592/1;6045/1;4379/1;2118/1|
+00000000|MMI|17.99|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-28-"3"-integer-1,"3+"-tx-14-"3"-integer-0]|TX|10127/1;[3315/1],[3850/1],[4857/1],[4928/1],[5450/1],[5703/1]|
+00000000|MMI|16.48|Weight symptom (finding)|C0424653|[sosy]|["weight"-tx-31-"weight"-noun-0,"weight"-tx-18-"weight"-noun-0,"weight"-tx-17-"weight"-noun-0,"weight"-tx-16-"weight"-noun-0,"weight"-tx-14-"Weight"-noun-0,"weight"-tx-1-"weight"-noun-0]|TX|11982/6;6962/6;6916/6;6470/6;3516/6;236/6|
+00000000|MMI|14.32|Amnesia|C0002622|[mobd]|["AMNESIA"-tx-31-"amnesia"-noun-0]|TX|12421/7|C10.597.606.525.100;C23.888.592.604.529.100;F01.700.625.100;F03.615.200
+00000000|MMI|14.32|Bedwetting|C0270327|[mobd]|["Enuresis"-tx-31-"enuresis"-noun-0]|TX|12911/8|C12.777.934.284.500;C13.351.968.934.252.500;F01.145.126.856.500;F03.388.400.500
+00000000|MMI|14.32|Delirium|C0011206|[mobd]|["DELIRIUM"-tx-31-"delirium"-noun-0]|TX|12728/8|C10.597.606.337.500;C23.888.592.604.339.500;F01.700.250.500;F03.615.350
+00000000|MMI|14.32|Duodenal Ulcer|C0013295|[dsyn]|["DUODENAL ULCER"-tx-31-"duodenal ulcer"-noun-0]|TX|11615/14|C06.405.469.275.800.348;C06.405.748.586.349
+00000000|MMI|14.32|Kidney Calculi|C0022650|[dsyn]|["Nephrolithiasis"-tx-31-"nephrolithiasis"-noun-0]|TX|12921/15|C12.777.419.600.500;C12.777.967.249.500;C12.777.967.500.503;C13.351.968.419.600.500;C13.351.968.967.249.500;C13.351.968.967.500.503;C23.300.175.850.550
+00000000|MMI|14.32|Menorrhagia|C0025323|[patf]|["MENORRHAGIA"-tx-31-"menorrhagia"-noun-0]|TX|13173/11|C13.351.500.852.691.449;C23.550.568.875
+00000000|MMI|14.32|Metrorrhagia|C0025874|[patf]|["METRORRHAGIA"-tx-31-"metrorrhagia"-noun-0]|TX|13186/12|C13.351.500.852.691.622;C23.550.414.993.700
+00000000|MMI|14.32|Peptic Esophagitis|C0014869|[dsyn]|["Reflux oesophagitis"-tx-31-"reflux esophagitis"-noun-0]|TX|11680/18|C06.405.117.620.420;C06.405.205.663.420;C06.405.469.275.800.523;C06.405.748.586.524
+00000000|MMI|14.25|Heart Diseases|C0018799|[dsyn]|["Cardiac Disorders"-tx-31-"Cardiac Disorders"-noun-0,"Disease, Cardiac"-tx-31-"cardiac disease"-noun-0,"Cardiac Disorders"-tx-14-"Cardiac Disorders"-noun-0]|TX|10983/17;11817/15;3590/17|C14.280
+00000000|MMI|13.83|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-16-"hypotension"-noun-0,"HYPOTENSION"-tx-14-"Hypotension"-noun-0]|TX|6413/11;5656/11|C14.907.514
+00000000|MMI|13.77|Tachycardia by ECG Finding|C3827868|[fndg]|["TACHYCARDIA"-tx-18-"tachycardia"-noun-0,"TACHYCARDIA"-tx-17-"tachycardia"-noun-0,"TACHYCARDIA"-tx-16-"tachycardia"-noun-0,"TACHYCARDIA"-tx-14-"Tachycardia"-noun-0,"TACHYCARDIA"-tx-1-"tachycardia"-noun-0]|TX|6945/11;6874/11;6453/11;3671/11;219/11|
+00000000|MMI|13.76|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-18-"Dizziness"-noun-0,"Dizziness"-tx-17-"dizziness"-noun-0,"Dizziness"-tx-16-"dizziness"-noun-0,"Dizziness"-tx-14-"Dizziness"-noun-0,"Dizziness"-tx-1-"dizziness"-noun-0]|TX|6934/9;6813/9;6402/9;4601/9;133/9|
+00000000|MMI|13.30|Myalgia|C0231528|[sosy]|["MYALGIA"-tx-31-"myalgia"-noun-0]|TX|12275/7|C05.651.542;C10.597.617.231.249;C10.668.491.525;C23.888.592.612.547.249;F02.830.816.353.500;G11.561.600.810.353.500
+00000000|MMI|13.30|Paresthesia|C0030554|[dsyn]|["Parasthesia"-tx-31-"paresthesia"-noun-0]|TX|12367/11|C10.597.751.791.875;C23.888.592.763.770.875
+00000000|MMI|13.24|Akathisia|C0392156|[sosy]|["Akithisia"-tx-21-"Akathisia"-noun-0]|TX|7679/9|C10.597.350.600;C10.597.606.881.700;C23.888.592.350.600;C23.888.592.604.882.700;F01.700.875.700
+00000000|MMI|13.20|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-33-"uncertain"-adj-0]|TX|13661/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|13.19|Kidney Failure, Acute|C0022660|[dsyn]|["RENAL FAILURE ACUTE"-tx-31-"renal failure acute"-noun-0]|TX|12966/19|C12.777.419.780.050;C13.351.968.419.780.050
+00000000|MMI|13.16|Tinnitus|C0040264|[fndg]|["TINNITUS"-tx-31-"tinnitus"-noun-0]|TX|11194/8|C09.218.458.670;C10.597.751.418.670;C23.888.592.763.393.670
+00000000|MMI|13.14|Torticollis|C0040485|[sosy]|["TORTICOLLIS"-tx-31-"torticollis"-noun-0]|TX|12308/11|C10.228.662.300.750;C10.597.350.300.800;C23.888.592.350.300.800
+00000000|MMI|13.12|Arthralgia|C0003862|[sosy]|["ARTHRALGIA"-tx-14-"Arthralgia"-noun-0]|TX|3286/10|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|12.40|Adverse event|C0877248|[patf]|["adverse events"-tx-30-"adverse events"-noun-0,"ADVERSE EVENT"-tx-21-"Adverse Event"-noun-0,"adverse events"-tx-21-"adverse events"-noun-1,"ADVERSE EVENT"-tx-20-"Adverse event"-noun-0,"adverse events"-tx-20-"adverse events"-noun-0]|TX|10612/14;7529/13;8370/14;7256/13;7345/14|
+00000000|MMI|12.40|2+|C3833492|[fndg]|["2+"-tx-25-"2"-fraction-0,"2+"-tx-16-"2"-percentage-0,"2+"-tx-14-"2"-integer-0,"2+"-tx-1-"2"-integer-0]|TX|9332/1;6166/1;[5088/1],[5308/1];98/1|
+00000000|MMI|12.38|Extrapyramidal sign|C0234133|[sosy]|["Extrapyramidal Symptoms"-tx-21-"EPS"-noun-0,"Extrapyramidal Symptoms"-tx-20-"EPS"-noun-0,"Extrapyramidal Symptoms"-tx-19-"EPS"-noun-0,"Extrapyramidal Symptoms"-tx-19-"Extrapyramidal Symptoms"-noun-0]|TX|[7408/3],[7611/3];7333/3;7251/3;7057/23|
+00000000|MMI|12.17|Asthma|C0004096|[dsyn]|["-- Asthma"-tx-32-"asthma"-noun-0]|TX|13320/6|C08.127.108;C08.381.495.108;C08.674.095;C20.543.480.680.095
+00000000|MMI|12.17|Catatonia|C0007398|[mobd]|["CATATONIA"-tx-31-"catatonia"-noun-0]|TX|12642/9|C10.597.606.115;C23.888.592.604.115;F01.145.126.156;F01.700.165
+00000000|MMI|12.17|Confusion|C0009676|[mobd]|["CONFUSIONAL STATE"-tx-31-"confusional state"-noun-0]|TX|12616/17|C10.597.606.337;C23.888.592.604.339;F01.700.250
+00000000|MMI|12.17|Enuresis|C0014394|[sosy]|["ENURESIS"-tx-31-"enuresis"-noun-0]|TX|12911/8|C12.777.934.284;C13.351.968.934.252;F01.145.126.856;F03.388.400
+00000000|MMI|12.17|Fecal Incontinence|C0015732|[dsyn]|["FECAL INCONTINENCE"-tx-31-"fecal incontinence"-noun-0]|TX|11545/18|C06.405.469.860.300
+00000000|MMI|12.17|Hiatal Hernia|C3489393|[anab]|["HIATUS HERNIA"-tx-31-"hiatus hernia"-noun-0]|TX|11631/13|C23.300.707.500.467
+00000000|MMI|12.17|Iron deficiency anemia|C0162316|[dsyn]|["Iron deficiency anaemia"-tx-31-"iron deficiency anemia"-noun-0]|TX|10933/22|C15.378.071.196.300;C18.452.565.100
+00000000|MMI|12.17|Mastodynia|C0024902|[sosy]|["BREAST PAIN"-tx-31-"breast pain"-noun-0]|TX|13112/11|C10.597.617.229;C23.888.592.612.530;F02.830.816.308;G11.561.600.810.308
+00000000|MMI|12.17|Nephrolithiasis|C0392525|[dsyn]|["NEPHROLITHIASIS"-tx-31-"nephrolithiasis"-noun-0]|TX|12921/15|C12.777.419.600;C12.777.967.249;C13.351.968.419.600;C13.351.968.967.249
+00000000|MMI|12.17|Sleep Apnea Syndromes|C0037315|[dsyn]|["SLEEP APNOEA SYNDROME"-tx-32-"sleep apnea syndrome"-noun-0]|TX|13394/20|C08.618.085.852;C10.886.425.800.750
+00000000|MMI|12.17|Spasm|C0037763|[sosy]|["Muscle Spasms"-tx-31-"muscle spasms"-noun-0]|TX|12284/13|C10.597.613.750;C23.888.592.608.750
+00000000|MMI|11.19|Urinary Retention|C0080274|[fndg]|["URINARY RETENTION"-tx-31-"urinary retention"-noun-0]|TX|12947/17|C12.777.934.880;C13.351.968.934.880
+00000000|MMI|11.14|Dysuria|C0013428|[sosy]|["DYSURIA"-tx-31-"dysuria"-noun-0]|TX|12889/7|C23.888.942.343.274
+00000000|MMI|11.09|Lethargy|C0023380|[sosy]|["LETHARGY"-tx-14-"Lethargy"-noun-0]|TX|4900/8|C10.597.606.441;C23.888.592.604.444;F01.700.470
+00000000|MMI|11.08|Bradykinesia|C0233565|[sosy]|["BRADYKINESIA"-tx-21-"Bradykinesia"-noun-0]|TX|7750/12|C10.597.350.400;C23.888.592.350.400
+00000000|MMI|11.08|Parkinsonian Disorders|C0242422|[dsyn]|["PARKINSONISM"-tx-21-"Parkinsonism"-noun-0]|TX|7963/12|C10.228.140.079.862;C10.228.662.600
+00000000|MMI|11.08|Dystonia|C0013421|[sosy]|["DYSTONIA"-tx-21-"Dystonia"-noun-0]|TX|7892/8|C10.597.350.300;C23.888.592.350.300
+00000000|MMI|11.02|Restless Legs Syndrome|C0035258|[dsyn]|["Restless Legs Syndrome"-tx-31-"restless legs syndrome"-noun-0]|TX|12450/22|C10.803;C10.886.425.800.700;C10.886.659.634;F03.870.400.800.700;F03.870.664.634
+00000000|MMI|10.01|Aggressive behavior|C0001807|[mobd]|["Aggression"-tx-31-"aggression"-noun-0]|TX|12528/10|F01.145.126.125;F01.145.813.045
+00000000|MMI|10.01|Amenorrhea|C0002453|[dsyn]|["AMENORRHOEA"-tx-31-"amenorrhea"-noun-0]|TX|13100/10|C23.550.568.500
+00000000|MMI|10.01|Dehydration|C0011175|[dsyn]|["DEHYDRATION"-tx-31-"dehydration"-noun-0]|TX|12166/11|C18.452.950.179;C23.550.274
+00000000|MMI|10.01|Delusions|C0011253|[mobd]|["DELUSION"-tx-31-"delusion"-noun-0]|TX|12540/8|F01.145.126.200
+00000000|MMI|10.01|Hypokalemia|C0020621|[fndg]|["HYPOKALEMIA"-tx-31-"hypokalemia"-noun-0]|TX|12179/11|C18.452.950.565
+00000000|MMI|10.01|Major Depressive Disorder|C1269683|[mobd]|["MAJOR DEPRESSION"-tx-31-"major depression"-noun-0]|TX|12788/16|F03.600.300.375
+00000000|MMI|10.01|Nystagmus|C0028738|[dsyn]|["NYSTAGMUS"-tx-31-"nystagmus"-noun-0]|TX|12430/9|C10.292.562.675;C11.590.400
+00000000|MMI|10.01|Obsessive compulsive behavior|C0600104|[mobd]|["Obsessive-compulsive disorder"-tx-31-"obsessive-compulsive disorder"-noun-0]|TX|12680/29|F01.145.527.100
+00000000|MMI|10.01|Sialorrhea|C0037036|[dsyn]|["Salivary hypersecretion"-tx-31-"salivary hypersecretion"-noun-0]|TX|11520/23|C07.465.815.815
+00000000|MMI|10.01|prostatitis|C0033581|[dsyn]|["PROSTATITIS"-tx-31-"prostatitis"-noun-0]|TX|13227/11|C12.294.565.750
+00000000|MMI|9.67|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-24-"discontinuation"-noun-1,"Discontinuation"-tx-22-"discontinuation"-noun-0,"Discontinuation"-tx-21-"Discontinuation"-noun-0,"Discontinuation"-tx-21-"discontinuation"-noun-1]|TX|9017/15;8488/15;8150/15;8347/15|
+00000000|MMI|9.61|Related personal status|C0445223|[fndg]|["Related"-tx-28-"related"-adj-0,"Related"-tx-20-"related"-adj-0,"Related"-tx-17-"Related"-adj-0,"Related"-tx-16-"Related"-adj-0]|TX|10297/7;7337/7;6511/7;5964/7|
+00000000|MMI|9.51|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-31-"Gastrointestinal Disorders"-noun-0,"GASTROINTESTINAL DISORDERS"-tx-14-"Gastrointestinal Disorders"-noun-0]|TX|11467/26;3889/26|C06.405
+00000000|MMI|9.03|Aphthous Stomatitis|C0038363|[dsyn]|["APHTHOUS STOMATITIS"-tx-31-"aphthous stomatitis"-noun-0]|TX|11594/19|C07.465.864.750
+00000000|MMI|9.03|Erectile dysfunction|C0242350|[dsyn]|["ERECTILE DYSFUNCTION"-tx-31-"erectile dysfunction"-noun-0]|TX|13046/20|C12.294.644.486;F03.835.400
+00000000|MMI|8.98|Epistaxis|C0014591|[patf]|["EPISTAXIS"-tx-32-"epistaxis"-noun-0]|TX|13309/9|C08.460.261;C09.603.261;C23.550.414.712
+00000000|MMI|8.98|Gastritis|C0017152|[dsyn]|["GASTRITIS"-tx-31-"gastritis"-noun-0]|TX|11509/9|C06.405.205.697;C06.405.748.398
+00000000|MMI|8.96|Extrapyramidal Disorders|C0015371|[dsyn]|["EXTRAPYRAMIDAL DISORDER"-tx-14-"Extrapyramidal Disorder"-noun-0]|TX|4744/23|C10.228.140.079
+00000000|MMI|8.95|Abnormal behavior|C0233514|[mobd]|["Psychiatric disorders"-tx-31-"Psychiatric Disorders"-noun-0]|TX|12479/21|F01.145.126.972;F01.145.179.750
+00000000|MMI|8.95|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-14-"Dyspnea"-noun-0]|TX|5280/7|C08.618.326;C23.888.852.371
+00000000|MMI|8.94|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-14-"Diarrhea"-noun-0]|TX|4121/8|C23.888.821.214
+00000000|MMI|8.94|Gynecomastia|C0018418|[dsyn]|["GYNECOMASTIA"-tx-31-"gynecomastia"-noun-0]|TX|13159/12|C17.800.090.875
+00000000|MMI|8.93|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-14-"Nasopharyngitis"-noun-0]|TX|4345/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|8.93|Nausea|C0027497|[sosy]|["NAUSEA"-tx-14-"Nausea"-noun-0]|TX|3979/6|C23.888.821.712
+00000000|MMI|8.92|Dyskinetic syndrome|C0013384|[dsyn]|["Dyscinesia"-tx-21-"Dyskinesia"-noun-0]|TX|7821/10|C10.228.662.262;C10.597.350;C23.888.592.350
+00000000|MMI|8.92|Dystonia Disorders|C0393593|[dsyn]|["DYSTONIA"-tx-21-"Dystonia"-noun-0]|TX|7892/8|C10.228.662.300
+00000000|MMI|8.85|Psychogenic polydipsia|C0395005|[mobd]|["Polydipsia psychogenic"-tx-31-"polydipsia psychogenic"-noun-0]|TX|12738/22|C23.550.759.500;C23.888.663.500;F01.145.126.968;F01.700.812
+00000000|MMI|8.84|Fever|C0015967|[fndg]|["HYPERTHERMIA"-tx-31-"hyperthermia"-noun-0]|TX|11875/12|C23.888.119.344
+00000000|MMI|8.84|Leukopenia|C0023530|[dsyn]|["LEUKOPENIA"-tx-31-"leukopenia"-noun-0]|TX|10966/10|C15.378.553.546
+00000000|MMI|7.99|ENT surgical result - nose nasal congestion|C2136984|[patf]|["nasal congestion"-tx-17-"nasal congestion"-noun-0,"nasal congestion"-tx-14-"Nasal Congestion"-noun-0,"nasal congestion"-tx-1-"nasal congestion"-noun-0]|TX|6844/16;5202/16;164/16|
+00000000|MMI|7.99|Nasal congestion (finding)|C0027424|[sosy]|["NASAL CONGESTION"-tx-17-"nasal congestion"-noun-0,"NASAL CONGESTION"-tx-14-"Nasal Congestion"-noun-0,"NASAL CONGESTION"-tx-1-"nasal congestion"-noun-0]|TX|6844/16;5202/16;164/16|
+00000000|MMI|7.95|Somnolence|C2830004|[fndg]|["SOMNOLENCE"-tx-17-"somnolence"-noun-0,"SOMNOLENCE"-tx-14-"Somnolence"-noun-0,"SOMNOLENCE"-tx-1-"somnolence"-noun-0]|TX|6862/10;4672/10;207/10|
+00000000|MMI|7.85|Blepharitis|C0005741|[dsyn]|["BLEPHARITIS"-tx-31-"blepharitis"-noun-0]|TX|11353/11|C11.338.133
+00000000|MMI|7.85|Breast Diseases|C0006145|[dsyn]|["BREAST DISORDERS"-tx-31-"Breast Disorders"-noun-0]|TX|13016/16|C17.800.090
+00000000|MMI|7.85|Bulimia Nervosa|C2267227|[mobd]|["Bulimia Nervosa"-tx-31-"bulimia nervosa"-noun-0]|TX|12711/15|F03.400.250
+00000000|MMI|7.85|Cataract|C0086543|[acab]|["CATARACT"-tx-31-"cataract"-noun-0]|TX|11416/8|C11.510.245
+00000000|MMI|7.85|Hyperemia|C0020452|[dsyn]|["HYPEREMIA"-tx-31-"hyperemia"-noun-0]|TX|11426/9|C14.907.474
+00000000|MMI|7.85|Labyrinthine disorder|C0022890|[dsyn]|["Labyrinth Disorders"-tx-31-"Labyrinth Disorders"-noun-0]|TX|11149/19|C09.218.568
+00000000|MMI|7.85|Lens Opacities|C1510497|[acab]|["Lenticular opacities"-tx-31-"lenticular opacities"-noun-0]|TX|11394/20|C11.510.245
+00000000|MMI|7.85|Mediastinal Diseases|C0025061|[dsyn]|["Mediastinal Disorders"-tx-32-"Mediastinal Disorders"-noun-0]|TX|13272/21|C08.846.187
+00000000|MMI|7.85|Obsessive-Compulsive Disorder|C0028768|[mobd]|["-- Obsessive Compulsive Disorder"-tx-31-"obsessive-compulsive disorder"-noun-0]|TX|12680/29|F03.080.600
+00000000|MMI|7.85|Oral Ulcer|C0149745|[dsyn]|["MOUTH ULCERATION"-tx-31-"mouth ulceration"-noun-0]|TX|11565/16|C07.465.672
+00000000|MMI|7.85|Panic Attacks|C0086769|[mobd]|["PANIC ATTACK"-tx-31-"panic attack"-noun-0]|TX|12666/12|F03.080.700
+00000000|MMI|7.85|Paranoia|C1456784|[mobd]|["PARANOIA"-tx-31-"paranoia"-noun-0]|TX|12594/8|F03.700.450
+00000000|MMI|7.85|Unipolar Depression|C0041696|[mobd]|["Major Depression"-tx-31-"major depression"-noun-0]|TX|12788/16|F03.600.300
+00000000|MMI|7.85|Urologic Diseases|C0042075|[dsyn]|["Urinary disorders"-tx-31-"Urinary Disorders"-noun-0]|TX|12821/17|C12.777;C13.351.968
+00000000|MMI|7.46|1 - 3|C3843504|[fndg]|["1 - 3"-tx-21-"1 3"-real_number-0,"1 - 3"-tx-14-"1 3"-integer-0]|TX|7713/1,7732/1;[3473/1,3490/1],[4231/1,4248/1]|
+00000000|MMI|7.28|Hematocrit level|C0518014|[fndg]|["Hematocrit"-tx-31-"hematocrit"-noun-0,"Hematocrit"-tx-26-"hematocrit"-noun-0,"Hematocrit"-tx-25-"hematocrit"-noun-0]|TX|12065/10;9389/10;9216/10|
+00000000|MMI|7.22|Adverse effects|C0879626|[patf]|["treatment Adverse reactions"-tx-27-"treatment adverse reactions"-noun-0,"treatment Adverse reactions"-tx-14-"Treatment Adverse Reactions"-noun-0,"treatment Adverse reactions"-tx-13-"treatment adverse reactions"-noun-0]|TX|9662/9,9681/17;2888/9,2907/17;2466/9,2485/17|
+00000000|MMI|6.88|Dry Eye Syndromes|C0013238|[dsyn]|["Dry Eye"-tx-31-"dry eye"-noun-0]|TX|11344/7|C11.496.260
+00000000|MMI|6.87|Stomatitis|C0038362|[dsyn]|["Stomatitis (disorder)"-tx-31-"stomatitis Disorders"-noun-0]|TX|11700/10,11725/9|C07.465.864
+00000000|MMI|6.85|Upper Respiratory Infections|C0041912|[dsyn]|["Infection, Upper Respiratory Tract"-tx-14-"Upper Respiratory Tract Infection"-noun-0]|TX|4422/33|C01.539.739;C08.730
+00000000|MMI|6.83|Anemia|C0002871|[dsyn]|["ANEMIA"-tx-31-"anemia"-noun-0]|TX|10925/6|C15.378.071
+00000000|MMI|6.83|Cardiac Arrhythmia|C0003811|[fndg]|["Arrythmia"-tx-31-"arrhythmia"-noun-0]|TX|11037/10|C14.280.067;C23.550.073
+00000000|MMI|6.83|Conjunctivitis|C0009763|[dsyn]|["CONJUNCTIVITIS"-tx-31-"conjunctivitis"-noun-0]|TX|11292/14|C11.187.183
+00000000|MMI|6.83|Edema|C0013604|[fndg]|["OEDEMA"-tx-31-"edema"-noun-0]|TX|11785/5|C23.888.277
+00000000|MMI|6.81|Exanthema|C0015230|[sosy]|["Skin Rash"-tx-14-"Skin Rash"-noun-0]|TX|5347/4,5422/4|C17.800.257
+00000000|MMI|6.79|Heart failure|C0018801|[dsyn]|["CARDIAC FAILURE"-tx-31-"cardiac failure"-noun-0]|TX|11086/15|C14.280.434
+00000000|MMI|6.69|Cholelithiasis|C0008350|[dsyn]|["CHOLELITHIASIS"-tx-31-"cholelithiasis"-noun-0]|TX|11933/14|C06.130.409
+00000000|MMI|6.68|Hypothyroidism|C0020676|[dsyn]|["HYPOTHYROIDISM"-tx-31-"hypothyroidism"-noun-0]|TX|11244/14|C19.874.482
+00000000|MMI|6.66|Schizophrenia|C0036341|[mobd]|["-- Schizophrenia"-tx-4-"schizophrenia"-noun-0]|TX|922/13|F03.700.750
+00000000|MMI|5.70|Connective Tissue Diseases|C0009782|[dsyn]|["Connective Tissue Disorders"-tx-31-"Connective Tissue Disorders"-noun-0]|TX|12234/27|C17.300
+00000000|MMI|5.70|Lymphatic Diseases|C0024228|[dsyn]|["Lymphatic Disorders"-tx-31-"Lymphatic Disorders"-noun-0]|TX|10890/19|C15.604
+00000000|MMI|5.70|Nutrition Disorders|C3714509|[dsyn]|["Nutrition Disorders"-tx-31-"Nutrition Disorders"-noun-0]|TX|12107/19|C18.654
+00000000|MMI|5.25|Agitation|C0085631|[sosy]|["Restlessness"-tx-31-"restlessness"-noun-0]|TX|[12407/12],[12514/12]|
+00000000|MMI|5.21|Abdominal discomfort|C0232487|[sosy]|["ABDOMINAL DISCOMFORT"-tx-16-"abdominal discomfort"-noun-0,"ABDOMINAL DISCOMFORT"-tx-14-"Abdominal Discomfort"-noun-0]|TX|6380/20;4192/20|
+00000000|MMI|5.21|Musculoskeletal stiffness|C0948525|[sosy]|["Musculoskeletal stiffness"-tx-16-"musculoskeletal stiffness"-noun-0,"Musculoskeletal stiffness"-tx-14-"Musculoskeletal Stiffness"-noun-0]|TX|6426/25;3429/25|
+00000000|MMI|5.18|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-16-"hypotension"-noun-0,"Hypotension"-tx-14-"Hypotension"-noun-0]|TX|6413/11;5656/11|
+00000000|MMI|5.05|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-31-"Nervous System Disorders"-noun-0,"Disorders, Nervous System"-tx-14-"Nervous System Disorders"-noun-0]|TX|12326/24;4513/24|C10
+00000000|MMI|5.00|Disorder of eye|C0015397|[dsyn]|["Eye Disorders"-tx-31-"Eye Disorders"-noun-0,"Eye Disorders"-tx-14-"Eye Disorders"-noun-0]|TX|11265/13;3740/13|C11
+00000000|MMI|4.94|Tremor Adverse Event|C1963252|[fndg]|["Tremor"-tx-21-"Tremor"-noun-0,"Tremor"-tx-14-"Tremor"-noun-0]|TX|8034/6;4829/6|
+00000000|MMI|4.92|20%|C3842589|[fndg]|["20%"-tx-16-"20"-integer-0,"20%"-tx-14-"20"-integer-0]|TX|6280/2;4646/2|
+00000000|MMI|4.86|Reproductive System Finding|C1335757|[fndg]|["REPRODUCTIVE SYSTEM"-tx-31-"Reproductive System"-noun-0,"REPRODUCTIVE SYSTEM"-tx-14-"Reproductive System"-noun-0]|TX|12992/19;4967/19|
+00000000|MMI|4.82|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-8-"exposure"-noun-0,"Exposure NOS"-tx-7-"exposure"-noun-0]|TX|1429/8;1390/8|
+00000000|MMI|4.82|exposure history|C2220266|[fndg]|["exposure"-tx-8-"exposure"-noun-0,"exposure"-tx-7-"exposure"-noun-0]|TX|1429/8;1390/8|
+00000000|MMI|4.78|20-24|C3843397|[fndg]|["20-24"-tx-21-"20-24"-integer-0,"20-24"-tx-14-"20-24"-integer-0]|TX|7505/5;3098/5|
+00000000|MMI|4.70|Disruptive, Impulse Control, and Conduct Disorders|C0021122|[mobd]|["IMPULSE CONTROL DISORDER"-tx-31-"impulse-control disorder"-noun-0]|TX|12762/24|F03.250
+00000000|MMI|4.63|Vascular Diseases|C0042373|[dsyn]|["Vascular Disorders"-tx-14-"Vascular Disorders"-noun-0]|TX|5489/18|C14.907
+00000000|MMI|4.62|Adverse reaction to drug|C0041755|[inpo]|["Drug Adverse Reactions"-tx-17-"Drug Adverse Reactions"-noun-0]|TX|6506/4,6519/17|C25.100
+00000000|MMI|4.62|Infection|C3714514|[patf]|["Infections"-tx-14-"Infections"-noun-0]|TX|4270/10|C01.539
+00000000|MMI|3.54|Aggressive reaction|C1457883|[mobd]|["Aggression"-tx-31-"aggression"-noun-0]|TX|12528/10|
+00000000|MMI|3.54|BREAST PAIN FEMALE|C0553713|[sosy]|["BREAST PAIN"-tx-31-"breast pain"-noun-0]|TX|13112/11|
+00000000|MMI|3.54|Body fluid retention|C0268000|[patf]|["FLUID RETENTION"-tx-31-"fluid retention"-noun-0]|TX|12192/15|
+00000000|MMI|3.54|Congestion of nasal sinus|C0152029|[sosy]|["SINUS CONGESTION"-tx-32-"sinus congestion"-noun-0]|TX|13340/16|
+00000000|MMI|3.54|Difficulty walking|C0311394|[fndg]|["Difficulty in walking"-tx-31-"difficulty in walking"-noun-0]|TX|11835/21|
+00000000|MMI|3.54|Edema of eyelid|C0162285|[fndg]|["EYELID OEDEMA"-tx-31-"eyelid edema"-noun-0]|TX|11366/12|
+00000000|MMI|3.54|Eye swelling|C0270996|[sosy]|["Eye swelling"-tx-31-"eye swelling"-noun-0]|TX|11380/12|
+00000000|MMI|3.54|Gastro-esophageal reflux disease with esophagitis|C0677659|[dsyn]|["Reflux oesophagitis"-tx-31-"reflux esophagitis"-noun-0]|TX|11680/18|
+00000000|MMI|3.54|Greatly|C3840786|[fndg]|["Greatly"-tx-7-"greatly"-adv-0]|TX|1196/7|
+00000000|MMI|3.54|Hyperchlorhydria|C0151713|[patf]|["HYPERCHLORHYDRIA"-tx-31-"hyperchlorhydria"-noun-0]|TX|11646/16|
+00000000|MMI|3.54|Increased frequency of micturition|C0042023|[fndg]|["Pollakiuria"-tx-31-"pollakiuria"-noun-0]|TX|12898/11|
+00000000|MMI|3.54|Libido endurance|C0517356|[fndg]|["Libido"-tx-31-"libido"-noun-0]|TX|12576/6|
+00000000|MMI|3.54|Lip ulcer (disorder)|C0267033|[dsyn]|["LIP ULCERATION"-tx-31-"lip ulceration"-noun-0]|TX|11664/14|
+00000000|MMI|3.54|Manic|C0338831|[mobd]|["MANIA"-tx-31-"mania"-noun-0]|TX|12635/5|
+00000000|MMI|3.54|Mood swings|C0085633|[mobd]|["MOOD SWINGS"-tx-31-"mood swings"-noun-0]|TX|12653/11|
+00000000|MMI|3.54|Nasal mucosa dry|C0231919|[fndg]|["NASAL DRYNESS"-tx-32-"nasal dryness"-noun-0]|TX|13358/13|
+00000000|MMI|3.54|Nystagmus Adverse Event|C1963184|[fndg]|["Nystagmus"-tx-31-"nystagmus"-noun-0]|TX|12430/9|
+00000000|MMI|3.54|Orgasm incapacity|C0234022|[mobd]|["ANORGASMIA"-tx-31-"anorgasmia"-noun-0]|TX|12604/10|
+00000000|MMI|3.54|Postmenopausal bleeding|C0032776|[patf]|["Postmenopausal haemorrhage"-tx-31-"postmenopausal hemorrhage"-noun-0]|TX|13200/25|
+00000000|MMI|3.54|Retrograde ejaculation|C0403673|[patf]|["Retrograde Ejaculation"-tx-32-"retrograde ejaculation"-noun-0]|TX|13566/22|
+00000000|MMI|3.54|Rhinorrhea|C1260880|[sosy]|["RHINORRHOEA"-tx-32-"rhinorrhea"-noun-0]|TX|13328/10|
+00000000|MMI|3.54|Worse|C1457868|[fndg]|["Worsened"-tx-11-"worsened"-verb-0]|TX|1972/8|
+00000000|MMI|3.54|heavy bleeding between periods (symptom)|C2030274|[sosy]|["metrorrhagia"-tx-31-"metrorrhagia"-noun-0]|TX|13186/12|
+00000000|MMI|3.54|menstrual periods stopped for over 6 months|C2219717|[sosy]|["Amenorrhea"-tx-31-"amenorrhea"-noun-0]|TX|13100/10|
+00000000|MMI|2.57|Dryness of eye|C0314719|[sosy]|["DRY EYE"-tx-31-"dry eye"-noun-0]|TX|11344/7|
+00000000|MMI|2.57|Endocrine System Diseases|C0014130|[dsyn]|["ENDOCRINE DISORDERS"-tx-31-"Endocrine Disorders"-noun-0]|TX|11209/19|C19
+00000000|MMI|2.57|Erectile Dysfunction Adverse Event|C1961100|[patf]|["Erectile dysfunction"-tx-31-"erectile dysfunction"-noun-0]|TX|13046/20|
+00000000|MMI|2.57|Increased appetite (finding)|C0232461|[fndg]|["INCREASED APPETITE"-tx-31-"increased appetite"-noun-0]|TX|12146/18|
+00000000|MMI|2.57|Minor oral aphthous ulceration|C0585213|[dsyn]|["aphthous stomatitis"-tx-31-"aphthous stomatitis"-noun-0]|TX|11594/19|
+00000000|MMI|2.57|Pain in testicle|C0039591|[sosy]|["TESTICULAR PAIN"-tx-31-"testicular pain"-noun-0]|TX|13083/15|
+00000000|MMI|2.57|Pharyngeal dryness|C0235234|[sosy]|["Dry throat"-tx-32-"dry throat"-noun-0]|TX|13382/10|
+00000000|MMI|2.57|Urinary Incontinence Adverse Event|C1962973|[fndg]|["Incontinence, urinary"-tx-31-"urinary incontinence"-noun-0]|TX|12852/20|
+00000000|MMI|2.52|Epistaxis on exam|C2228238|[fndg]|["epistaxis"-tx-32-"epistaxis"-noun-0]|TX|13309/9|
+00000000|MMI|2.52|Has tingling sensation|C2242996|[sosy]|["paresthesia"-tx-31-"paresthesia"-noun-0]|TX|12367/11|
+00000000|MMI|2.52|Hemoglobin finding|C1561562|[fndg]|["Hemoglobin"-tx-31-"hemoglobin"-noun-0]|TX|12015/10|
+00000000|MMI|2.52|Hepatobiliary disease|C0267792|[dsyn]|["Hepatobiliary disorders"-tx-31-"Hepatobiliary Disorders"-noun-0]|TX|11894/23|
+00000000|MMI|2.52|Palpitations|C0030252|[fndg]|["PALPITATIONS"-tx-31-"palpitations"-noun-0]|TX|11014/12|
+00000000|MMI|2.52|Palpitations Adverse Event|C3160712|[fndg]|["Palpitations"-tx-31-"palpitations"-noun-0]|TX|11014/12|
+00000000|MMI|2.52|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-11-"therapy"-noun-0]|TX|1997/7|
+00000000|MMI|2.48|1 - 9%|C3842508|[fndg]|["1 - 9%"-tx-14-"1 9"-integer-0]|TX|3551/1,3568/1|
+00000000|MMI|2.48|Anejaculation|C0278106|[patf]|["EJACULATION FAILURE"-tx-14-"Ejaculation Failure"-noun-0]|TX|5050/19|
+00000000|MMI|2.48|Congestive heart failure|C0018802|[dsyn]|["Cardiac Failure"-tx-31-"cardiac failure"-noun-0]|TX|11086/15|
+00000000|MMI|2.48|Mental disorders|C0004936|[mobd]|["PSYCHIATRIC DISORDERS"-tx-31-"Psychiatric Disorders"-noun-0]|TX|12479/21|F03
+00000000|MMI|2.47|3/12|C0442761|[fndg]|["3/12"-tx-14-"3 12"-integer-0]|TX|3701/1,3718/2|
+00000000|MMI|2.47|Blurred vision|C0344232|[sosy]|["VISION BLURRED"-tx-14-"Vision Blurred"-noun-0]|TX|3817/14|
+00000000|MMI|2.47|Laboratory test result abnormal|C0438215|[fndg]|["LABORATORY TEST ABNORMALITY"-tx-24-"Laboratory Test Abnormalities"-noun-0]|TX|8889/29|
+00000000|MMI|2.47|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-14-"Diarrhea"-noun-0]|TX|4121/8|
+00000000|MMI|2.47|Gynecomastia Adverse Event|C1963120|[fndg]|["Gynecomastia"-tx-31-"gynecomastia"-noun-0]|TX|13159/12|
+00000000|MMI|2.46|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-14-"Nausea"-noun-0]|TX|3979/6|
+00000000|MMI|2.44|Hematocrit normal|C0740316|[fndg]|["normal hematocrit"-tx-26-"normal hematocrit"-noun-0]|TX|9364/6,9389/10|
+00000000|MMI|2.44|Used by|C1273517|[fndg]|["used"-tx-26-"used"-verb-0]|TX|9516/4|
+00000000|MMI|2.43|6/3|C1630409|[fndg]|["20/10"-tx-18-"20 10"-integer-0]|TX|7012/2,7034/2|
+00000000|MMI|2.42|Container status - Identified|C1550043|[fndg]|["Identified"-tx-32-"identified"-verb-0]|TX|13519/10|
+00000000|MMI|2.42|Gait normal|C0231683|[fndg]|["Normal"-tx-26-"normal"-noun-0]|TX|9463/6|
+00000000|MMI|2.42|First degree atrioventricular block|C0085614|[dsyn]|["Atrioventricular block first degree"-tx-31-"atrioventricular block first degree"-noun-0]|TX|11049/35|
+00000000|MMI|2.42|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-28-"life-threatening"-adj-1]|TX|10173/16|
+00000000|MMI|2.42|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-28-"life-threatening"-adj-1]|TX|10173/16|
+00000000|MMI|2.42|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-28-"life-threatening"-adj-1]|TX|10173/16|
+00000000|MMI|2.39|Irregular periods|C0156404|[fndg]|["Menstruation irregular"-tx-31-"menstruation irregular"-noun-0]|TX|13135/22|
+00000000|MMI|2.38|Dyspnea on exertion|C0231807|[sosy]|["Dyspnoea exertional"-tx-32-"dyspnea exertional"-noun-0]|TX|13416/18|
+00000000|MMI|2.38|Administrative|C3845829|[fndg]|["Administrative"-tx-31-"Administrative"-adj-0]|TX|11739/14|
+00000000|MMI|2.38|Tinnitus Adverse Event|C1963249|[fndg]|["Tinnitus"-tx-31-"tinnitus"-noun-0]|TX|11194/8|
+00000000|MMI|2.37|White blood cell count decreased|C0750394|[fndg]|["Leukopenia"-tx-31-"leukopenia"-noun-0]|TX|10966/10|

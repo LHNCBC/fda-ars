@@ -1,0 +1,244 @@
+T1	AdverseReaction 147 173	Hypersensitivity Reactions
+T2	AdverseReaction 222 264	Clostridium difficile -Associated diarrhea
+T3	AdverseReaction 312 346	Direct Coombs' Test Seroconversion
+T4	AdverseReaction 475 483	diarrhea
+T5	AdverseReaction 485 491	nausea
+T6	AdverseReaction 497 501	rash
+T7	AdverseReaction 2008 2024	hypersensitivity
+T8	AdverseReaction 2369 2377	diarrhea
+T9	AdverseReaction 2379 2385	nausea
+T10	AdverseReaction 2391 2395	rash
+T11	AdverseReaction 3106 3114	Diarrhea
+T12	AdverseReaction 3213 3219	Nausea
+T13	AdverseReaction 3320 3332	Constipation
+T14	AdverseReaction 3427 3435	Vomiting
+T15	AdverseReaction 3581 3604	Increased transaminases
+T16	AdverseReaction 3735 3746	Hypokalemia
+T17	AdverseReaction 3889 3893	Rash
+T18	AdverseReaction 4043 4052	Phlebitis
+T19	AdverseReaction 4436 4442	Anemia
+T20	AdverseReaction 4444 4456	Eosinophilia
+T21	AdverseReaction 4458 4469	Neutropenia
+T22	AdverseReaction 4471 4487	Thrombocytopenia
+T23	AdverseReaction 4515 4526	Bradycardia
+T24	AdverseReaction 4528 4540	Palpitations
+T25	AdverseReaction 4577 4591	Abdominal pain
+T26	AdverseReaction 4654 4661	Pyrexia
+T27	AdverseReaction 4695 4704	Hepatitis
+T28	AdverseReaction 4738 4754	Hypersensitivity
+T29	AdverseReaction 4756 4767	Anaphylaxis
+T30	AdverseReaction 4806 4836	Clostridium difficile  colitis
+T31	AdverseReaction 4881 4894	Hyperglycemia
+T32	AdverseReaction 4896 4908	Hyperkalemia
+T33	AdverseReaction 4943 4952	Dizziness
+T34	AdverseReaction 4954 4964	Convulsion
+T35	AdverseReaction 5002 5015	Renal failure
+T36	AdverseReaction 5064 5073	Urticaria
+T37	AdverseReaction 5435 5450	Agranulocytosis
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	LLT E1 Hypersensitivity reaction
+A6	LLT-ID E1 10020756
+A7	CUI E2 C0235952
+A8	UMLS-Preferred-Name E2 Clostridium difficile diarrhea
+A9	MEDDRA-PT E2 Clostridium difficile colitis
+A10	MEDDRA-PT-ID E2 10009657
+A11	LLT E2 Diarrhea, Clostridium difficile
+A12	LLT-ID E2 10012734
+A13	CUI E3 C0151569
+A14	UMLS-Preferred-Name E3 Direct Coombs test positive
+A15	MEDDRA-PT E3 Coombs direct test positive
+A16	MEDDRA-PT-ID E3 10010933
+A17	CUI E4 C0011991
+A18	UMLS-Preferred-Name E4 Diarrhea
+A19	MEDDRA-PT E4 Diarrhoea
+A20	MEDDRA-PT-ID E4 10012735
+A21	LLT E4 Diarrhea
+A22	LLT-ID E4 10012727
+A23	CUI E5 C0027497
+A24	UMLS-Preferred-Name E5 Nausea
+A25	MEDDRA-PT E5 Nausea
+A26	MEDDRA-PT-ID E5 10028813
+A27	CUI E6 C0015230
+A28	UMLS-Preferred-Name E6 Exanthema
+A29	MEDDRA-PT E6 Rash
+A30	MEDDRA-PT-ID E6 10037844
+A31	CUI E7 C0020517
+A32	UMLS-Preferred-Name E7 Hypersensitivity
+A33	MEDDRA-PT E7 Hypersensitivity
+A34	MEDDRA-PT-ID E7 10020751
+A35	CUI E8 C0011991
+A36	UMLS-Preferred-Name E8 Diarrhea
+A37	MEDDRA-PT E8 Diarrhoea
+A38	MEDDRA-PT-ID E8 10012735
+A39	LLT E8 Diarrhea
+A40	LLT-ID E8 10012727
+A41	CUI E9 C0027497
+A42	UMLS-Preferred-Name E9 Nausea
+A43	MEDDRA-PT E9 Nausea
+A44	MEDDRA-PT-ID E9 10028813
+A45	CUI E10 C0015230
+A46	UMLS-Preferred-Name E10 Exanthema
+A47	MEDDRA-PT E10 Rash
+A48	MEDDRA-PT-ID E10 10037844
+A49	CUI E11 C0011991
+A50	UMLS-Preferred-Name E11 Diarrhea
+A51	MEDDRA-PT E11 Diarrhoea
+A52	MEDDRA-PT-ID E11 10012735
+A53	LLT E11 Diarrhea
+A54	LLT-ID E11 10012727
+A55	CUI E12 C0027497
+A56	UMLS-Preferred-Name E12 Nausea
+A57	MEDDRA-PT E12 Nausea
+A58	MEDDRA-PT-ID E12 10028813
+A59	CUI E13 C0009806
+A60	UMLS-Preferred-Name E13 Constipation
+A61	MEDDRA-PT E13 Constipation
+A62	MEDDRA-PT-ID E13 10010774
+A63	CUI E14 C0042963
+A64	UMLS-Preferred-Name E14 Vomiting
+A65	MEDDRA-PT E14 Vomiting
+A66	MEDDRA-PT-ID E14 10047700
+A67	CUI E15 C0438717
+A68	UMLS-Preferred-Name E15 Transaminases increased
+A69	MEDDRA-PT E15 Transaminases increased
+A70	MEDDRA-PT-ID E15 10054889
+A71	CUI E16 C0020621
+A72	UMLS-Preferred-Name E16 Hypokalemia
+A73	MEDDRA-PT E16 Hypokalaemia
+A74	MEDDRA-PT-ID E16 10021015
+A75	LLT E16 Hypokalemia
+A76	LLT-ID E16 10021018
+A77	CUI E17 C0015230
+A78	UMLS-Preferred-Name E17 Exanthema
+A79	MEDDRA-PT E17 Rash
+A80	MEDDRA-PT-ID E17 10037844
+A81	CUI E18 C0031542
+A82	UMLS-Preferred-Name E18 Phlebitis
+A83	MEDDRA-PT E18 Phlebitis
+A84	MEDDRA-PT-ID E18 10034879
+A85	CUI E19 C0002871
+A86	UMLS-Preferred-Name E19 Anemia
+A87	MEDDRA-PT E19 Anaemia
+A88	MEDDRA-PT-ID E19 10002034
+A89	LLT E19 Anemia
+A90	LLT-ID E19 10002272
+A91	CUI E20 C0014457
+A92	UMLS-Preferred-Name E20 Eosinophilia
+A93	MEDDRA-PT E20 Eosinophilia
+A94	MEDDRA-PT-ID E20 10014950
+A95	CUI E21 C0027947
+A96	UMLS-Preferred-Name E21 Neutropenia
+A97	MEDDRA-PT E21 Neutropenia
+A98	MEDDRA-PT-ID E21 10029354
+A99	CUI E22 C0040034
+A100	UMLS-Preferred-Name E22 Thrombocytopenia
+A101	MEDDRA-PT E22 Thrombocytopenia
+A102	MEDDRA-PT-ID E22 10043554
+A103	CUI E23 C0428977
+A104	UMLS-Preferred-Name E23 Bradycardia
+A105	MEDDRA-PT E23 Bradycardia
+A106	MEDDRA-PT-ID E23 10006093
+A107	CUI E24 C0030252
+A108	UMLS-Preferred-Name E24 Palpitations
+A109	MEDDRA-PT E24 Palpitations
+A110	MEDDRA-PT-ID E24 10033557
+A111	CUI E25 C0000737
+A112	UMLS-Preferred-Name E25 Abdominal Pain
+A113	MEDDRA-PT E25 Abdominal pain
+A114	MEDDRA-PT-ID E25 10000081
+A115	CUI E26 C0015967
+A116	UMLS-Preferred-Name E26 Fever
+A117	MEDDRA-PT E26 Pyrexia
+A118	MEDDRA-PT-ID E26 10037660
+A119	CUI E27 C0019158
+A120	UMLS-Preferred-Name E27 Hepatitis
+A121	MEDDRA-PT E27 Hepatitis
+A122	MEDDRA-PT-ID E27 10019717
+A123	CUI E28 C0020517
+A124	UMLS-Preferred-Name E28 Hypersensitivity
+A125	MEDDRA-PT E28 Hypersensitivity
+A126	MEDDRA-PT-ID E28 10020751
+A127	CUI E29 C0002792
+A128	UMLS-Preferred-Name E29 anaphylaxis
+A129	MEDDRA-PT E29 Anaphylactic reaction
+A130	MEDDRA-PT-ID E29 10002198
+A131	LLT E29 Anaphylaxis
+A132	LLT-ID E29 10002218
+A133	CUI E30 C0238106
+A134	UMLS-Preferred-Name E30 Clostridium difficile colitis
+A135	MEDDRA-PT E30 Clostridium difficile colitis
+A136	MEDDRA-PT-ID E30 10009657
+A137	CUI E31 C0020456
+A138	UMLS-Preferred-Name E31 Hyperglycemia
+A139	MEDDRA-PT E31 Hyperglycaemia
+A140	MEDDRA-PT-ID E31 10020635
+A141	LLT E31 Hyperglycemia
+A142	LLT-ID E31 10020639
+A143	CUI E32 C0020461
+A144	UMLS-Preferred-Name E32 Hyperkalemia
+A145	MEDDRA-PT E32 Hyperkalaemia
+A146	MEDDRA-PT-ID E32 10020646
+A147	LLT E32 Hyperkalemia
+A148	LLT-ID E32 10020647
+A149	CUI E33 C0012833
+A150	UMLS-Preferred-Name E33 Dizziness
+A151	MEDDRA-PT E33 Dizziness
+A152	MEDDRA-PT-ID E33 10013573
+A153	CUI E34 C0036572
+A154	UMLS-Preferred-Name E34 Seizures
+A155	MEDDRA-PT E34 Seizure
+A156	MEDDRA-PT-ID E34 10039906
+A157	LLT E34 Convulsion
+A158	LLT-ID E34 10010904
+A159	CUI E35 C0035078
+A160	UMLS-Preferred-Name E35 Kidney Failure
+A161	MEDDRA-PT E35 Renal failure
+A162	MEDDRA-PT-ID E35 10038435
+A163	CUI E36 C0042109
+A164	UMLS-Preferred-Name E36 Urticaria
+A165	MEDDRA-PT E36 Urticaria
+A166	MEDDRA-PT-ID E36 10046735
+A167	CUI E37 C0001824
+A168	UMLS-Preferred-Name E37 Agranulocytosis
+A169	MEDDRA-PT E37 Agranulocytosis
+A170	MEDDRA-PT-ID E37 10001507

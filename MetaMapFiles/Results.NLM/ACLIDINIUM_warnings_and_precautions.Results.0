@@ -1,0 +1,43 @@
+120,144|TP|Paradoxical bronchospasm|C0236072|10006486|120,144|Paradoxical bronchospasm|C0236072|10006486|patf
+208,232|FP|paradoxical bronchospasm|C0236072|10006486|patf
+254,288|FN|Worsening of narrow-angle glaucoma|C0154941
+267,288|FP|narrow-angle glaucoma|C0017605|10002500|dsyn
+334,355|FP|narrow-angle glaucoma|C0017605|10002500|dsyn
+442,472|FN|Worsening of urinary retention|C0080274
+455,472|FP|urinary retention|C0080274|10046555|fndg
+518,539|FP|prostatic hyperplasia|C1704272|10004446|neop
+543,567|FP|bladder-neck obstruction|C0005694|10005060|dsyn
+654,690|FP|Immediate hypersensitivity reactions|C0020523|10045240|patf
+664,690|FN|hypersensitivity reactions|C0020517
+758,794|FP|immediate hypersensitivity reactions|C0020523|10045240|patf
+806,816|FP|angioedema|C0002994|10002424|patf
+818,830|FP|bronchospasm|C0006266|10006482|dsyn
+835,846|FP|anaphylaxis|C0002792,C0850803|10002198,10002198|patf,dsyn
+1043,1047|FP|COPD|C3714496,C0024117|10009033,10009033|dsyn,dsyn
+1163,1187|FP|Paradoxical Bronchospasm|C0236072|10006486|patf
+1248,1272|TP|paradoxical bronchospasm|C0236072|10006486|1248,1272|paradoxical bronchospasm|C0236072|10006486|patf
+1396,1417|FP|Narrow-Angle Glaucoma|C0017605|10002500|dsyn
+1483,1504|FP|narrow-angle glaucoma|C0017605|10002500|dsyn
+1608,1616|FP|eye pain|C0151827,C1959630|10015958,10060933|sosy,fndg
+1632,1646|FP|blurred vision|C0344232|10047513|sosy
+1741,1754|FP|corneal edema|C0010037|10011033|dsyn
+1880,1897|FP|Urinary Retention|C0080274|10046555|fndg
+1963,1980|FP|urinary retention|C0080274|10046555|fndg
+2049,2070|FP|prostatic hyperplasia|C1704272|10004446|neop
+2074,2098|FP|bladder-neck obstruction|C0005694|10005060|dsyn
+2106,2130|FP|difficulty passing urine|C0241705|10042170|sosy
+2132,2149|FP|painful urination|C0013428|10013990|sosy
+2262,2298|FP|Immediate Hypersensitivity Reactions|C0020523|10045240|patf
+2302,2338|FN|Immediate hypersensitivity reactions|C0020523
+2350,2361|TP|anaphylaxis|C0002792|10002198|2350,2361|anaphylaxis|C0002792,C0850803|10002198,10002198,10002199,10002199|patf,dsyn
+2363,2373|TP|angioedema|C0002994|10002424|2363,2373|angioedema|C0002994|10002424|patf
+2385,2400;2418,2424|FN|swelling of the throat|C0236067
+2385,2400;2407,2413|FN|swelling of the tongue|C0236068
+2385,2405|FN|swelling of the lips|C0240211
+2385,2396;2401,2405|FP|swelling of lips|C0240211|10024570|sosy
+2427,2436|TP|urticaria|C0042109|10046735|2427,2436|urticaria|C0042109,C2186740|10046735,10046735|dsyn,fndg
+2438,2442|TP|rash|C0015230|10037844|2438,2442|rash|C0015230|10037844|sosy
+2444,2456|TP|bronchospasm|C0006266|10006482|2444,2456|bronchospasm|C0006266|10006482|dsyn
+2461,2468|TP|itching|C0033774|10037087|2461,2468|itching|C0033774|10037087|sosy
+2749,2775|FP|hypersensitivity reactions|C0020517|10020751|patf
+2828,2854|FP|hypersensitivity reactions|C0020517|10020751|patf

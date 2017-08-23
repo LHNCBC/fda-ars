@@ -1,0 +1,52 @@
+T1	AdverseReaction 93 109	ingrown toenails
+T2	AdverseReaction 111 138	application site dermatitis
+T3	AdverseReaction 140 165	application site vesicles
+T4	AdverseReaction 171 192	application site pain
+T5	AdverseReaction 1154 1169	Ingrown toenail
+T6	AdverseReaction 1232 1259	Application site dermatitis
+T7	AdverseReaction 1316 1341	Application site vesicles
+T8	AdverseReaction 1398 1419	Application site pain
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+A1	CUI E1 C0027343
+A2	UMLS-Preferred-Name E1 Nails, Ingrown
+A3	MEDDRA-PT E1 Ingrowing nail
+A4	MEDDRA-PT-ID E1 10022013
+A5	LLT E1 Ingrown toe nail
+A6	LLT-ID E1 10022015
+A7	CUI E2 C0521495
+A8	UMLS-Preferred-Name E2 Application site rash
+A9	MEDDRA-PT E2 Application site dermatitis
+A10	MEDDRA-PT-ID E2 10003036
+A11	CUI E3 C0877097
+A12	UMLS-Preferred-Name E3 Application site vesicles
+A13	MEDDRA-PT E3 Application site vesicles
+A14	MEDDRA-PT-ID E3 10048941
+A15	CUI E4 C0521491
+A16	UMLS-Preferred-Name E4 Application site pain
+A17	MEDDRA-PT E4 Application site pain
+A18	MEDDRA-PT-ID E4 10003051
+A19	CUI E5 C0027343
+A20	UMLS-Preferred-Name E5 Nails, Ingrown
+A21	MEDDRA-PT E5 Ingrowing nail
+A22	MEDDRA-PT-ID E5 10022013
+A23	LLT E5 Ingrown toe nail
+A24	LLT-ID E5 10022015
+A25	CUI E6 C0521495
+A26	UMLS-Preferred-Name E6 Application site rash
+A27	MEDDRA-PT E6 Application site dermatitis
+A28	MEDDRA-PT-ID E6 10003036
+A29	CUI E7 C0877097
+A30	UMLS-Preferred-Name E7 Application site vesicles
+A31	MEDDRA-PT E7 Application site vesicles
+A32	MEDDRA-PT-ID E7 10048941
+A33	CUI E8 C0521491
+A34	UMLS-Preferred-Name E8 Application site pain
+A35	MEDDRA-PT E8 Application site pain
+A36	MEDDRA-PT-ID E8 10003051

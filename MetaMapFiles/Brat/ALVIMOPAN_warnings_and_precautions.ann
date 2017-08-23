@@ -1,0 +1,78 @@
+T1	AdverseReaction 69 91	myocardial infarctions
+T2	AdverseReaction 476 490	abdominal pain
+T3	AdverseReaction 492 498	nausea
+T4	AdverseReaction 503 511	vomiting
+T5	AdverseReaction 517 525	diarrhea
+T6	Factor 461 464	may
+T7	AdverseReaction 1000 1022	myocardial infarctions
+T8	AdverseReaction 1275 1297	myocardial infarctions
+T9	AdverseReaction 3459 3473	abdominal pain
+T10	AdverseReaction 3475 3481	nausea
+T11	AdverseReaction 3486 3494	vomiting
+T12	AdverseReaction 3496 3504	diarrhea
+T14	AdverseReaction 3383 3404;3422 3451	increased sensitivity to the gastrointestinal tract
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Hypothetical:E6
+E3	AdverseReaction:T3 Hypothetical:E6
+E4	AdverseReaction:T4 Hypothetical:E6
+E5	AdverseReaction:T5 Hypothetical:E6
+E6	Factor:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E14	AdverseReaction:T14
+A1	CUI E1 C0027051
+A2	UMLS-Preferred-Name E1 Myocardial Infarction
+A3	MEDDRA-PT E1 Myocardial infarction
+A4	MEDDRA-PT-ID E1 10028596
+A5	CUI E2 C0000737
+A6	UMLS-Preferred-Name E2 Abdominal Pain
+A7	MEDDRA-PT E2 Abdominal pain
+A8	MEDDRA-PT-ID E2 10000081
+A9	CUI E3 C0027497
+A10	UMLS-Preferred-Name E3 Nausea
+A11	MEDDRA-PT E3 Nausea
+A12	MEDDRA-PT-ID E3 10028813
+A13	CUI E4 C0042963
+A14	UMLS-Preferred-Name E4 Vomiting
+A15	MEDDRA-PT E4 Vomiting
+A16	MEDDRA-PT-ID E4 10047700
+A17	CUI E5 C0011991
+A18	UMLS-Preferred-Name E5 Diarrhea
+A19	MEDDRA-PT E5 Diarrhoea
+A20	MEDDRA-PT-ID E5 10012735
+A21	LLT E5 Diarrhea
+A22	LLT-ID E5 10012727
+A23	CUI E7 C0027051
+A24	UMLS-Preferred-Name E7 Myocardial Infarction
+A25	MEDDRA-PT E7 Myocardial infarction
+A26	MEDDRA-PT-ID E7 10028596
+A27	CUI E8 C0027051
+A28	UMLS-Preferred-Name E8 Myocardial Infarction
+A29	MEDDRA-PT E8 Myocardial infarction
+A30	MEDDRA-PT-ID E8 10028596
+A31	CUI E9 C0000737
+A32	UMLS-Preferred-Name E9 Abdominal Pain
+A33	MEDDRA-PT E9 Abdominal pain
+A34	MEDDRA-PT-ID E9 10000081
+A35	CUI E10 C0027497
+A36	UMLS-Preferred-Name E10 Nausea
+A37	MEDDRA-PT E10 Nausea
+A38	MEDDRA-PT-ID E10 10028813
+A39	CUI E11 C0042963
+A40	UMLS-Preferred-Name E11 Vomiting
+A41	MEDDRA-PT E11 Vomiting
+A42	MEDDRA-PT-ID E11 10047700
+A43	CUI E12 C0011991
+A44	UMLS-Preferred-Name E12 Diarrhea
+A45	MEDDRA-PT E12 Diarrhoea
+A46	MEDDRA-PT-ID E12 10012735
+A47	LLT E12 Diarrhea
+A48	LLT-ID E12 10012727
+A49	CUI E14 C2697368
+A50	UMLS-Preferred-Name E14 Gastrointestinal irritation
+A51	MEDDRA-PT E14 Gastrointestinal tract irritation
+A52	MEDDRA-PT-ID E14 10070840

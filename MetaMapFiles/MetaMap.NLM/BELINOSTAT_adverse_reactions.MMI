@@ -1,0 +1,78 @@
+00000000|AA|NCI-CTCAE|National Cancer Institute Common Terminology Criteria for Adverse Events|3|9|17|72|5210:9
+00000000|MMI|120.31|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-16-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-16-"adverse reactions"-noun-0,"Adverse reactions"-tx-15-"adverse reactions"-noun-0,"Adverse reactions"-tx-14-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-14-"adverse reactions"-noun-0,"Adverse reactions"-tx-9-"adverse reactions"-noun-0,"Adverse reactions"-tx-8-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-8-"Adverse reactions"-noun-0,"Adverse reactions"-tx-8-"adverse reactions"-noun-0,"Adverse reactions"-tx-7-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-4-"adverse reaction"-noun-0,"Adverse reactions"-tx-4-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-3-"adverse reactions"-noun-0,"Adverse reactions"-tx-2-"adverse reactions"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|6348/17;6412/17;6152/17;6032/17;6129/17;5435/17;[1831/17],[2189/17];4923/17;5318/17;1715/17;1111/16;859/17;744/17;509/17;6/17;49/17|
+00000000|MMI|88.85|Peripheral T-Cell Lymphoma|C0079774|[neop]|["PTCL"-tx-8-"PTCL"-noun-0,"PTCL"-tx-7-"PTCL"-noun-0,"PTCL"-tx-5-"PTCL"-noun-0,"Peripheral T-Cell Lymphoma"-tx-5-"Peripheral T-Cell Lymphoma"-noun-0,"PTCL"-tx-2-"PTCL"-noun-0]|TX|1952/4;1812/4;1381/4;1267/26;589/4|C04.557.386.480.750.825;C15.604.515.569.480.750.825;C20.683.515.761.480.750.825
+00000000|MMI|41.64|Fever|C0015967|[fndg]|["PYREXIA"-tx-9-"pyrexia"-noun-0,"PYREXIA"-tx-8-"Pyrexia"-noun-0,"PYREXIA"-tx-3-"pyrexia"-noun-0,"PYREXIA"-tx-2-"pyrexia"-noun-0]|TX|5476/7;2512/7;790/7;638/7|C23.888.119.344
+00000000|MMI|40.40|Anemia|C0002871|[dsyn]|["ANEMIA"-tx-15-"anemia"-noun-0,"ANEMIA"-tx-9-"anemia"-noun-0,"ANEMIA"-tx-8-"Anemia"-noun-0,"ANEMIA"-tx-3-"anemia"-noun-0,"ANEMIA"-tx-2-"anemia"-noun-0]|TX|6251/6;5496/6;2621/6;799/6;647/6|C15.378.071
+00000000|MMI|33.88|Vomiting|C0042963|[sosy]|["VOMITING"-tx-8-"Vomiting"-verb-0,"VOMITING"-tx-3-"vomiting"-noun-0,"VOMITING"-tx-2-"vomiting"-noun-0]|TX|2730/8;811/8;659/8|C23.888.821.937
+00000000|MMI|31.83|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-15-"fatigue"-noun-0,"FATIGUE"-tx-8-"Fatigue"-noun-0,"FATIGUE"-tx-3-"fatigue"-noun-0,"FATIGUE"-tx-2-"fatigue"-noun-0]|TX|6280/7;2403/7;781/7;629/7|C23.888.369
+00000000|MMI|30.85|Multiple Organ Failure|C0026766|[patf]|["Multi organ failure"-tx-15-"multi-organ failure"-noun-0,"Multi organ failure"-tx-11-"multi-organ failure"-noun-0,"Multi organ failure"-tx-9-"multi-organ failure"-noun-0]|TX|6293/19;5811/19;5548/19|C23.550.835.525
+00000000|MMI|30.84|Nausea|C0027497|[sosy]|["NAUSEA"-tx-8-"Nausea"-noun-0,"NAUSEA"-tx-3-"nausea"-noun-0,"NAUSEA"-tx-2-"nausea"-noun-0]|TX|2294/6;773/6;621/6|C23.888.821.712
+00000000|MMI|20.31|Thrombocytopenia|C0040034|[fndg]|["Thrombocytopaenia"-tx-9-"thrombocytopenia"-noun-0,"Thrombocytopaenia"-tx-8-"Thrombocytopenia"-noun-0]|TX|5526/16;3493/16|C15.378.140.855
+00000000|MMI|20.22|Tumor Lysis Syndrome|C0041364|[dsyn]|["TUMOUR LYSIS SYNDROME"-tx-11-"tumor lysis syndrome"-noun-0,"TUMOUR LYSIS SYNDROME"-tx-2-"Tumor Lysis Syndrome"-noun-0]|TX|5738/20;350/20|C15.604.515.880;C20.683.515.950
+00000000|MMI|18.42|Febrile Neutropenia|C0746883|[dsyn]|["Febrile Neutropenia"-tx-15-"febrile neutropenia"-noun-0]|TX|6259/19|C15.378.553.546.184.564.750
+00000000|MMI|17.62|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-9-"infection"-noun-0,"Infection, NOS"-tx-2-"Infection"-noun-0]|TX|5485/9;227/9|C01.539.221
+00000000|MMI|17.38|2+|C3833492|[fndg]|["2+"-tx-9-"2"-percentage-0,"2+"-tx-8-"2"-integer-0,"2+"-tx-6-"2"-integer-0]|TX|5456/1;[2592/1],[3028/1],[3900/1],[4009/1];1656/1|
+00000000|MMI|17.08|Unmarried|C0087136|[fndg]|["single"-tx-5-"single"-adj-0]|TX|1393/6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+00000000|MMI|14.23|1+|C3816745|[fndg]|["1+"-tx-8-"1"-integer-0]|TX|[2374/1],[2810/1],[2919/1],[3246/1],[3791/1]|
+00000000|MMI|14.12|0%|C3842591|[fndg]|["0%"-tx-8-"0"-integer-0]|TX|[3355/1],[3464/1],[4118/1],[4227/1],[4881/1]|
+00000000|MMI|12.78|Infection|C3714514|[patf]|["INFECTION"-tx-9-"infection"-noun-0,"INFECTION"-tx-2-"Infection"-noun-0]|TX|5485/9;227/9|C01.539
+00000000|MMI|12.45|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-8-"Abdominal pain"-noun-0]|TX|4474/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|12.42|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-8-"Dizziness"-noun-0]|TX|4801/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|12.42|Headache|C0018681|[sosy]|["HEADACHE"-tx-8-"Headache"-noun-0]|TX|4038/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|12.42|Vertigo|C0042571|[sosy]|["dizziness"-tx-8-"Dizziness"-noun-0]|TX|4801/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|11.99|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-8-"Vomiting"-verb-0,"Vomiting"-tx-3-"vomiting"-noun-0,"Vomiting"-tx-2-"vomiting"-noun-0]|TX|2730/8;811/8;659/8|
+00000000|MMI|10.01|Liver Failure|C0085605|[dsyn]|["HEPATIC FAILURE"-tx-10-"hepatic failure"-noun-0]|TX|5613/15|C06.552.308.500
+00000000|MMI|10.01|Constipation|C0009806|[sosy]|["CONSTIPATION"-tx-8-"Constipation"-noun-0]|TX|2839/12|C23.888.821.150
+00000000|MMI|10.01|Coughing|C0010200|[sosy]|["COUGH"-tx-8-"Cough"-noun-0]|TX|3384/5|C08.618.248;C23.888.852.293
+00000000|MMI|10.01|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-8-"Diarrhea"-noun-0]|TX|2948/8|C23.888.821.214
+00000000|MMI|10.01|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-8-"Dyspnea"-noun-0]|TX|3057/7|C08.618.326;C23.888.852.371
+00000000|MMI|10.01|Hypokalemia|C0020621|[fndg]|["HYPOKALEMIA"-tx-8-"Hypokalemia"-noun-0]|TX|4256/11|C18.452.950.565
+00000000|MMI|10.01|Phlebitis|C0031542|[dsyn]|["PHLEBITIS"-tx-8-"Phlebitis"-noun-0]|TX|4692/9|C14.907.617.718;C14.907.940.740
+00000000|MMI|10.01|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-8-"Pruritus"-noun-0]|TX|3602/8|C17.800.685;C23.888.885.625
+00000000|MMI|9.86|Ventricular Fibrillation|C0042510|[dsyn]|["Fibrillation, Ventricular"-tx-12-"ventricular fibrillation"-noun-0]|TX|5863/24|C14.280.067.922;C23.550.073.922
+00000000|MMI|8.96|Death Adverse Event Due to Multi-Organ Failure Not Associated with More Specific CTCAE Term|C1963169|[fndg]|["Multi-organ failure"-tx-15-"multi-organ failure"-noun-0,"Multi-organ failure"-tx-11-"multi-organ failure"-noun-0,"Multi-organ failure"-tx-9-"multi-organ failure"-noun-0]|TX|6293/19;5811/19;5548/19|
+00000000|MMI|8.95|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-8-"Nausea"-noun-0,"Nausea"-tx-3-"nausea"-noun-0,"Nausea"-tx-2-"nausea"-noun-0]|TX|2294/6;773/6;621/6|
+00000000|MMI|8.78|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-9-"pneumonia"-noun-0]|TX|5465/9|C08.381.677;C08.730.610
+00000000|MMI|8.26|4+ Answer to question|C3838679|[fndg]|["4+"-tx-8-"4"-integer-0]|TX|[4336/1],[4445/1],[5047/1]|
+00000000|MMI|8.26|Death (finding)|C1306577|[fndg]|["Death"-tx-12-"death"-noun-0,"Died"-tx-11-"died"-verb-0,"Death"-tx-10-"death"-noun-0]|TX|5852/5;5799/4;5591/5|
+00000000|MMI|7.95|School Grade|C3244287|[fndg]|["grade"-tx-8-"Grades"-verb-0]|TX|[2134/6],[4986/6]|
+00000000|MMI|7.95|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-8-"Grade 3"-noun-0]|TX|[2156/7],[5036/7]|
+00000000|MMI|7.63|Hyperlactatemia|C0795692|[dsyn]|["Increased blood lactate"-tx-8-"Increased Blood Lactate"-noun-0]|TX|3820/23|C18.452.479;C23.888.516
+00000000|MMI|7.60|Chills|C0085593|[sosy]|["CHILLS"-tx-8-"Chills"-noun-0]|TX|3711/6|C23.888.208
+00000000|MMI|7.60|Exanthema|C0015230|[sosy]|["RASH"-tx-8-"Rash"-noun-0]|TX|3166/4|C17.800.257
+00000000|MMI|7.60|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-8-"Hypotension"-noun-0]|TX|4583/11|C14.907.514
+00000000|MMI|7.52|Disease|C0012634|[dsyn]|["condition"-tx-4-"conditions"-noun-0]|TX|1099/10|C23.550.288
+00000000|MMI|7.44|Hyperuricemia|C0740394|[dsyn]|["HYPERURICEMIA"-tx-11-"hyperuricemia"-noun-0]|TX|5686/13|C23.550.449
+00000000|MMI|5.80|1-10|C3843645|[fndg]|["1-10"-tx-8-"1 10"-integer-0]|TX|[4554/1,4637/2],[4772/1,4855/2]|
+00000000|MMI|5.71|Tumor Lysis Syndrome Adverse Event|C1963254|[fndg]|["Tumor lysis syndrome"-tx-11-"tumor lysis syndrome"-noun-0,"Tumor lysis syndrome"-tx-2-"Tumor Lysis Syndrome"-noun-0]|TX|5738/20;350/20|
+00000000|MMI|5.57|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-8-"3"-integer-0]|TX|[3682/1],[4663/1]|
+00000000|MMI|5.53|10%|C3842590|[fndg]|["10%"-tx-8-"10"-integer-0,"10%"-tx-8-"10"-percentage-0]|TX|[1865/2],[4746/2];[1865/2],[4746/2]|
+00000000|MMI|5.40|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["Grade 4"-tx-11-"Grade 4"-noun-0,"Grade 4"-tx-8-"Grade 4"-noun-0]|TX|5730/7;1966/5,1974/1|
+00000000|MMI|5.40|West Haven Hepatic Encephalopathy Grade 4|C3889293|[fndg]|["GRADE 4"-tx-11-"Grade 4"-noun-0,"GRADE 4"-tx-8-"Grade 4"-noun-0]|TX|5730/7;1966/5,1974/1|
+00000000|MMI|5.36|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-15-"discontinuation"-noun-0,"Discontinued"-tx-14-"discontinued"-adj-0]|TX|6213/15;6085/12|
+00000000|MMI|5.28|Related personal status|C0445223|[fndg]|["Related"-tx-12-"related"-adj-0,"Related"-tx-10-"related"-adj-0]|TX|5844/7;5583/7|
+00000000|MMI|3.96|29+|C3843708|[fndg]|["29+"-tx-8-"29"-integer-0]|TX|2784/2|
+00000000|MMI|3.96|Bulky Disease|C1511341|[fndg]|["Bulky Disease"-tx-11-"bulky disease"-noun-0]|TX|5704/13|
+00000000|MMI|3.96|Creatinine increased|C0151578|[fndg]|["Increased Creatinine"-tx-9-"increased creatinine"-noun-0]|TX|5504/20|
+00000000|MMI|3.96|Electrocardiogram QT corrected interval prolonged|C0855333|[fndg]|["QTC PROLONGATION"-tx-13-"QTc prolongation"-noun-1]|TX|5984/16|
+00000000|MMI|3.96|Gastrointestinal toxicity|C1142499|[fndg]|["Gastrointestinal toxicity"-tx-2-"Gastrointestinal Toxicity"-noun-0]|TX|420/25|
+00000000|MMI|3.96|Hepatotoxicity|C0235378|[inpo]|["HEPATOTOXICITY"-tx-2-"Hepatotoxicity"-noun-0]|TX|286/14|
+00000000|MMI|3.96|Serum creatinine raised|C0700225|[fndg]|["Increased creatinine"-tx-9-"increased creatinine"-noun-0]|TX|5504/20|
+00000000|MMI|2.84|Infusion site pain|C1096035|[inpo]|["Infusion site pain"-tx-8-"Infusion Site Pain"-noun-0]|TX|4147/18|
+00000000|MMI|2.82|Lactic dehydrogenase activity increased|C0151754|[fndg]|["Increased lactate dehydrogenase"-tx-8-"Increased Lactate Dehydrogenase"-noun-0]|TX|3820/9,3836/21|
+00000000|MMI|2.81|Decrease in appetite|C0232462|[sosy]|["Decreased appetite"-tx-8-"Decreased Appetite"-noun-0]|TX|3929/18|
+00000000|MMI|2.81|Increased serum lactate|C1836440|[fndg]|["Increased blood lactate"-tx-8-"Increased Blood Lactate"-noun-0]|TX|3820/23|
+00000000|MMI|2.81|Peripheral edema|C0085649|[fndg]|["Peripheral Oedema"-tx-8-"Peripheral Edema"-noun-0]|TX|3275/16|
+00000000|MMI|2.81|Prolonged QT interval|C0151878|[fndg]|["PROLONGED QT"-tx-8-"Prolonged QT"-noun-0]|TX|4365/12|
+00000000|MMI|2.81|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-2-"Toxicity"-noun-0]|TX|167/8|
+00000000|MMI|2.78|Constipation Adverse Event|C1963087|[fndg]|["Constipation"-tx-8-"Constipation"-noun-0]|TX|2839/12|
+00000000|MMI|2.78|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-8-"Cough"-noun-0]|TX|3384/5|
+00000000|MMI|2.78|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-8-"Diarrhea"-noun-0]|TX|2948/8|
+00000000|MMI|2.78|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-8-"Dizziness"-noun-0]|TX|4801/9|
+00000000|MMI|2.78|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-8-"Headache"-noun-0]|TX|4038/8|
+00000000|MMI|2.78|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-8-"Hypotension"-noun-0]|TX|4583/11|
+00000000|MMI|2.76|20%|C3842589|[fndg]|["20%"-tx-8-"20"-integer-0]|TX|3329/2|
+00000000|MMI|2.74|Patient reaction finding|C0521985|[fndg]|["Patient reaction"-tx-5-"Reactions Patients"-noun-0]|TX|1240/9,1253/8|
+00000000|MMI|2.71|Patient Outcome - Died|C1546956|[fndg]|["Died"-tx-11-"died"-verb-0]|TX|5799/4|
+00000000|MMI|2.63|Ventricular Fibrillation Adverse Event|C1962976|[patf]|["Ventricular fibrillation"-tx-12-"ventricular fibrillation"-noun-0]|TX|5863/24|
+00000000|MMI|2.63|continuous electrocardiogram ventricular fibrillation|C2108112|[fndg]|["ventricular fibrillation"-tx-12-"ventricular fibrillation"-noun-0]|TX|5863/24|

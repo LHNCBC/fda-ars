@@ -1,0 +1,544 @@
+T1	AdverseReaction 55 73	Driving impairment
+T2	AdverseReaction 235 245	Somnolence
+T3	AdverseReaction 246 254	sedation
+T4	AdverseReaction 259 268	dizziness
+T5	AdverseReaction 274 280;295 331	impair ability to operate complex machinery
+T6	Factor 270 273	May
+T7	AdverseReaction 431 448	Suicidal thoughts
+T8	AdverseReaction 431 439;452 461	Suicidal behaviors
+T9	DrugClass 529 533	AEDs
+T10	AdverseReaction 555 572	suicidal thoughts
+T11	AdverseReaction 555 563;576 585	suicidal behaviors
+T12	AdverseReaction 714 732	driving impairment
+T13	Severity 702 713	significant
+T14	Factor 692 695	may
+T15	AdverseReaction 786 804	driving impairment
+T16	AdverseReaction 1249 1259	somnolence
+T17	AdverseReaction 1409 1419	somnolence
+T18	AdverseReaction 1420 1428	sedation
+T19	AdverseReaction 1433 1442	dizziness
+T20	AdverseReaction 1736 1746	somnolence
+T21	AdverseReaction 1747 1755	sedation
+T22	AdverseReaction 1929 1939	somnolence
+T23	AdverseReaction 1945 1955	somnolence
+T24	AdverseReaction 2063 2072	Dizziness
+T25	AdverseReaction 2243 2252	dizziness
+T26	AdverseReaction 2304 2314	Somnolence
+T27	AdverseReaction 2315 2323	sedation
+T28	AdverseReaction 2398 2407	Dizziness
+T29	AdverseReaction 2642 2652	somnolence
+T30	AdverseReaction 2775 2782	Fatigue
+T31	AdverseReaction 2783 2791	asthenia
+T32	AdverseReaction 2986 2996	somnolence
+T33	AdverseReaction 3008 3018	somnolence
+T34	AdverseReaction 3126 3135	Dizziness
+T35	AdverseReaction 3329 3338	dizziness
+T36	AdverseReaction 3389 3399	Somnolence
+T37	AdverseReaction 3524 3533	Dizziness
+T38	DrugClass 4220 4224	AEDs
+T39	AdverseReaction 4246 4254;4267 4275	suicidal behavior
+T40	AdverseReaction 4246 4263	suicidal thoughts
+T41	AdverseReaction 4875 4892	suicidal thinking
+T42	AdverseReaction 4875 4883;4896 4904	suicidal behavior
+T43	AdverseReaction 5051 5068	suicidal behavior
+T44	AdverseReaction 5051 5059;5072 5080	suicidal ideation
+T45	AdverseReaction 5237 5254	suicidal thinking
+T46	AdverseReaction 5237 5245;5258 5266	suicidal behavior
+T47	AdverseReaction 5312 5320	suicides
+T48	AdverseReaction 5471 5478	suicide
+T49	Factor 5406 5425	number is too small
+T50	AdverseReaction 5506 5523	suicidal thoughts
+T51	AdverseReaction 5506 5514;5527 5535	suicidal behavior
+T52	DrugClass 5541 5545	AEDs
+T56	AdverseReaction 5846 5863	suicidal thoughts
+T57	AdverseReaction 5846 5854;5867 5875	suicidal behavior
+T58	Factor 5838 5842	risk
+T59	AdverseReaction 7212 7220;7233 7241	suicidal behavior
+T60	AdverseReaction 7212 7229	suicidal thoughts
+T61	Factor 7203 7207	risk
+T62	AdverseReaction 8503 8556	Drug Reaction with Eosinophilia and Systemic Symptoms
+T63	AdverseReaction 8558 8563	DRESS
+T64	AdverseReaction 8580 8607	multiorgan hypersensitivity
+T66	AdverseReaction 8757 8762	fatal
+T69	AdverseReaction 8784 8789	DRESS
+T70	AdverseReaction 8841 8846	fever
+T71	AdverseReaction 8848 8852	rash
+T72	AdverseReaction 8861 8876	lymphadenopathy
+T73	AdverseReaction 8938 8947	hepatitis
+T74	AdverseReaction 8949 8958	nephritis
+T75	AdverseReaction 8960 8987	hematological abnormalities
+T76	AdverseReaction 8989 9000	myocarditis
+T77	AdverseReaction 9005 9013	myositis
+T78	AdverseReaction 9061 9073	Eosinophilia
+T79	AdverseReaction 9254 9270	hypersensitivity
+T80	AdverseReaction 9280 9285	fever
+T81	AdverseReaction 9289 9304	lymphadenopathy
+T82	Factor 9306 9309	may
+T83	AdverseReaction 9333 9337	rash
+T84	Negation 9341 9352	not evident
+T85	AdverseReaction 10244 10274	pancreatic acinar cell adenoma
+T86	AdverseReaction 10244 10266;10279 10288	pancreatic acinar cell carcinoma
+T87	Animal 10308 10312	rats
+T88	AdverseReaction 10559 10565	tumors
+T89	AdverseReaction 10559 10565;10598 10604	tumors breast
+T90	AdverseReaction 10559 10565;10608 10613	tumors brain
+T91	AdverseReaction 10559 10565;10617 10621	tumors lung
+T92	AdverseReaction 10559 10565;10625 10632	tumors adrenal
+T93	AdverseReaction 10636 10658	non-Hodgkin's lymphoma
+T94	AdverseReaction 10662 10691	endometrial carcinoma in situ
+T96	AdverseReaction 10710 10725;10744 10749	tumors worsened brain
+T97	AdverseReaction 10710 10725;10753 10759	tumors worsened breast
+T98	AdverseReaction 10710 10725;10763 10771	tumors worsened prostate
+T100	DrugClass 4765 4769	AEDs
+T65	DrugClass 8646 8665	antiepileptic drugs
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E6
+E6	Factor:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	DrugClass:T9
+E10	AdverseReaction:T10 Hypothetical:E9
+E11	AdverseReaction:T11 Hypothetical:E9
+E12	AdverseReaction:T12 Effect:E13 Hypothetical:E14
+E13	Severity:T13
+E14	Factor:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	DrugClass:T38
+E39	AdverseReaction:T39 Hypothetical:E38
+E40	AdverseReaction:T40 Hypothetical:E38
+E41	AdverseReaction:T41 Hypothetical:E100
+E42	AdverseReaction:T42 Hypothetical:E100
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48 Negated:E49
+E49	Factor:T49
+E50	AdverseReaction:T50 Hypothetical:E52
+E51	AdverseReaction:T51 Hypothetical:E52
+E52	DrugClass:T52
+E56	AdverseReaction:T56 Hypothetical:E58
+E57	AdverseReaction:T57 Hypothetical:E58
+E58	Factor:T58
+E59	AdverseReaction:T59 Hypothetical:E61
+E60	AdverseReaction:T60 Hypothetical:E61
+E61	Factor:T61
+E62	AdverseReaction:T62 Hypothetical:E65
+E63	AdverseReaction:T63 Hypothetical:E65
+E64	AdverseReaction:T64 Hypothetical:E65
+E66	AdverseReaction:T66
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80 Hypothetical:E82
+E81	AdverseReaction:T81 Hypothetical:E82
+E82	Factor:T82
+E83	AdverseReaction:T83 Negated:E84
+E84	Negation:T84
+E85	AdverseReaction:T85 Hypothetical:E87
+E86	AdverseReaction:T86 Hypothetical:E87
+E87	Animal:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91
+E92	AdverseReaction:T92
+E93	AdverseReaction:T93
+E94	AdverseReaction:T94
+E96	AdverseReaction:T96
+E97	AdverseReaction:T97
+E98	AdverseReaction:T98
+E100	DrugClass:T100
+E65	DrugClass:T65
+A1	CUI E1 C0684311
+A2	UMLS-Preferred-Name E1 impaired driving
+A3	MEDDRA-PT E1 Impaired driving ability
+A4	MEDDRA-PT-ID E1 10049564
+A5	CUI E2 C2830004
+A6	UMLS-Preferred-Name E2 Somnolence
+A7	MEDDRA-PT E2 Somnolence
+A8	MEDDRA-PT-ID E2 10041349
+A9	CUI E3 C0235195
+A10	UMLS-Preferred-Name E3 Sedated state
+A11	MEDDRA-PT E3 Sedation
+A12	MEDDRA-PT-ID E3 10039897
+A13	CUI E4 C0012833
+A14	UMLS-Preferred-Name E4 Dizziness
+A15	MEDDRA-PT E4 Dizziness
+A16	MEDDRA-PT-ID E4 10013573
+A17	CUI E5 C0948361
+A18	UMLS-Preferred-Name E5 Impaired work ability
+A19	MEDDRA-PT E5 Impaired work ability
+A20	MEDDRA-PT-ID E5 10052302
+A21	CUI E7 C0424000
+A22	UMLS-Preferred-Name E7 Feeling suicidal (finding)
+A23	MEDDRA-PT E7 Suicidal ideation
+A24	MEDDRA-PT-ID E7 10042458
+A25	CUI E8 C1760428
+A26	UMLS-Preferred-Name E8 Suicidal behavior
+A27	MEDDRA-PT E8 Suicidal behaviour
+A28	MEDDRA-PT-ID E8 10065604
+A29	LLT E8 Suicidal behavior
+A30	LLT-ID E8 10065607
+A31	CUI E10 C0424000
+A32	UMLS-Preferred-Name E10 Feeling suicidal (finding)
+A33	MEDDRA-PT E10 Suicidal ideation
+A34	MEDDRA-PT-ID E10 10042458
+A35	CUI E11 C1760428
+A36	UMLS-Preferred-Name E11 Suicidal behavior
+A37	MEDDRA-PT E11 Suicidal behaviour
+A38	MEDDRA-PT-ID E11 10065604
+A39	LLT E11 Suicidal behavior
+A40	LLT-ID E11 10065607
+A41	CUI E12 C0684311
+A42	UMLS-Preferred-Name E12 impaired driving
+A43	MEDDRA-PT E12 Impaired driving ability
+A44	MEDDRA-PT-ID E12 10049564
+A45	CUI E15 C0684311
+A46	UMLS-Preferred-Name E15 impaired driving
+A47	MEDDRA-PT E15 Impaired driving ability
+A48	MEDDRA-PT-ID E15 10049564
+A49	CUI E16 C2830004
+A50	UMLS-Preferred-Name E16 Somnolence
+A51	MEDDRA-PT E16 Somnolence
+A52	MEDDRA-PT-ID E16 10041349
+A53	CUI E17 C2830004
+A54	UMLS-Preferred-Name E17 Somnolence
+A55	MEDDRA-PT E17 Somnolence
+A56	MEDDRA-PT-ID E17 10041349
+A57	CUI E18 C0235195
+A58	UMLS-Preferred-Name E18 Sedated state
+A59	MEDDRA-PT E18 Sedation
+A60	MEDDRA-PT-ID E18 10039897
+A61	CUI E19 C0012833
+A62	UMLS-Preferred-Name E19 Dizziness
+A63	MEDDRA-PT E19 Dizziness
+A64	MEDDRA-PT-ID E19 10013573
+A65	CUI E20 C2830004
+A66	UMLS-Preferred-Name E20 Somnolence
+A67	MEDDRA-PT E20 Somnolence
+A68	MEDDRA-PT-ID E20 10041349
+A69	CUI E21 C0235195
+A70	UMLS-Preferred-Name E21 Sedated state
+A71	MEDDRA-PT E21 Sedation
+A72	MEDDRA-PT-ID E21 10039897
+A73	CUI E22 C2830004
+A74	UMLS-Preferred-Name E22 Somnolence
+A75	MEDDRA-PT E22 Somnolence
+A76	MEDDRA-PT-ID E22 10041349
+A77	CUI E23 C2830004
+A78	UMLS-Preferred-Name E23 Somnolence
+A79	MEDDRA-PT E23 Somnolence
+A80	MEDDRA-PT-ID E23 10041349
+A81	CUI E24 C0012833
+A82	UMLS-Preferred-Name E24 Dizziness
+A83	MEDDRA-PT E24 Dizziness
+A84	MEDDRA-PT-ID E24 10013573
+A85	CUI E25 C0012833
+A86	UMLS-Preferred-Name E25 Dizziness
+A87	MEDDRA-PT E25 Dizziness
+A88	MEDDRA-PT-ID E25 10013573
+A89	CUI E26 C2830004
+A90	UMLS-Preferred-Name E26 Somnolence
+A91	MEDDRA-PT E26 Somnolence
+A92	MEDDRA-PT-ID E26 10041349
+A93	CUI E27 C0235195
+A94	UMLS-Preferred-Name E27 Sedated state
+A95	MEDDRA-PT E27 Sedation
+A96	MEDDRA-PT-ID E27 10039897
+A97	CUI E28 C0012833
+A98	UMLS-Preferred-Name E28 Dizziness
+A99	MEDDRA-PT E28 Dizziness
+A100	MEDDRA-PT-ID E28 10013573
+A101	CUI E29 C2830004
+A102	UMLS-Preferred-Name E29 Somnolence
+A103	MEDDRA-PT E29 Somnolence
+A104	MEDDRA-PT-ID E29 10041349
+A105	CUI E30 C0015672
+A106	UMLS-Preferred-Name E30 Fatigue
+A107	MEDDRA-PT E30 Fatigue
+A108	MEDDRA-PT-ID E30 10016256
+A109	CUI E31 C0004093
+A110	UMLS-Preferred-Name E31 Asthenia
+A111	MEDDRA-PT E31 Asthenia
+A112	MEDDRA-PT-ID E31 10003549
+A113	CUI E32 C2830004
+A114	UMLS-Preferred-Name E32 Somnolence
+A115	MEDDRA-PT E32 Somnolence
+A116	MEDDRA-PT-ID E32 10041349
+A117	CUI E33 C2830004
+A118	UMLS-Preferred-Name E33 Somnolence
+A119	MEDDRA-PT E33 Somnolence
+A120	MEDDRA-PT-ID E33 10041349
+A121	CUI E34 C0012833
+A122	UMLS-Preferred-Name E34 Dizziness
+A123	MEDDRA-PT E34 Dizziness
+A124	MEDDRA-PT-ID E34 10013573
+A125	CUI E35 C0012833
+A126	UMLS-Preferred-Name E35 Dizziness
+A127	MEDDRA-PT E35 Dizziness
+A128	MEDDRA-PT-ID E35 10013573
+A129	CUI E36 C2830004
+A130	UMLS-Preferred-Name E36 Somnolence
+A131	MEDDRA-PT E36 Somnolence
+A132	MEDDRA-PT-ID E36 10041349
+A133	CUI E37 C0012833
+A134	UMLS-Preferred-Name E37 Dizziness
+A135	MEDDRA-PT E37 Dizziness
+A136	MEDDRA-PT-ID E37 10013573
+A137	CUI E39 C1760428
+A138	UMLS-Preferred-Name E39 Suicidal behavior
+A139	MEDDRA-PT E39 Suicidal behaviour
+A140	MEDDRA-PT-ID E39 10065604
+A141	LLT E39 Suicidal behavior
+A142	LLT-ID E39 10065607
+A143	CUI E40 C0424000
+A144	UMLS-Preferred-Name E40 Feeling suicidal (finding)
+A145	MEDDRA-PT E40 Suicidal ideation
+A146	MEDDRA-PT-ID E40 10042458
+A147	CUI E41 C0424000
+A148	UMLS-Preferred-Name E41 Feeling suicidal (finding)
+A149	MEDDRA-PT E41 Suicidal ideation
+A150	MEDDRA-PT-ID E41 10042458
+A151	CUI E42 C1760428
+A152	UMLS-Preferred-Name E42 Suicidal behavior
+A153	MEDDRA-PT E42 Suicidal behaviour
+A154	MEDDRA-PT-ID E42 10065604
+A155	LLT E42 Suicidal behavior
+A156	LLT-ID E42 10065607
+A157	CUI E43 C1760428
+A158	UMLS-Preferred-Name E43 Suicidal behavior
+A159	MEDDRA-PT E43 Suicidal behaviour
+A160	MEDDRA-PT-ID E43 10065604
+A161	LLT E43 Suicidal behavior
+A162	LLT-ID E43 10065607
+A163	CUI E44 C0424000
+A164	UMLS-Preferred-Name E44 Feeling suicidal (finding)
+A165	MEDDRA-PT E44 Suicidal ideation
+A166	MEDDRA-PT-ID E44 10042458
+A167	CUI E45 C0424000
+A168	UMLS-Preferred-Name E45 Feeling suicidal (finding)
+A169	MEDDRA-PT E45 Suicidal ideation
+A170	MEDDRA-PT-ID E45 10042458
+A171	CUI E46 C1760428
+A172	UMLS-Preferred-Name E46 Suicidal behavior
+A173	MEDDRA-PT E46 Suicidal behaviour
+A174	MEDDRA-PT-ID E46 10065604
+A175	LLT E46 Suicidal behavior
+A176	LLT-ID E46 10065607
+A177	CUI E47 C0038661
+A178	UMLS-Preferred-Name E47 Suicide
+A179	MEDDRA-PT E47 Completed suicide
+A180	MEDDRA-PT-ID E47 10010144
+A181	LLT E47 Suicide
+A182	LLT-ID E47 10042462
+A183	CUI E48 C0038661
+A184	UMLS-Preferred-Name E48 Suicide
+A185	MEDDRA-PT E48 Completed suicide
+A186	MEDDRA-PT-ID E48 10010144
+A187	LLT E48 Suicide
+A188	LLT-ID E48 10042462
+A189	CUI E50 C0424000
+A190	UMLS-Preferred-Name E50 Feeling suicidal (finding)
+A191	MEDDRA-PT E50 Suicidal ideation
+A192	MEDDRA-PT-ID E50 10042458
+A193	CUI E51 C1760428
+A194	UMLS-Preferred-Name E51 Suicidal behavior
+A195	MEDDRA-PT E51 Suicidal behaviour
+A196	MEDDRA-PT-ID E51 10065604
+A197	LLT E51 Suicidal behavior
+A198	LLT-ID E51 10065607
+A199	CUI E56 C0424000
+A200	UMLS-Preferred-Name E56 Feeling suicidal (finding)
+A201	MEDDRA-PT E56 Suicidal ideation
+A202	MEDDRA-PT-ID E56 10042458
+A203	CUI E57 C1760428
+A204	UMLS-Preferred-Name E57 Suicidal behavior
+A205	MEDDRA-PT E57 Suicidal behaviour
+A206	MEDDRA-PT-ID E57 10065604
+A207	LLT E57 Suicidal behavior
+A208	LLT-ID E57 10065607
+A209	CUI E59 C1760428
+A210	UMLS-Preferred-Name E59 Suicidal behavior
+A211	MEDDRA-PT E59 Suicidal behaviour
+A212	MEDDRA-PT-ID E59 10065604
+A213	LLT E59 Suicidal behavior
+A214	LLT-ID E59 10065607
+A215	CUI E60 C0424000
+A216	UMLS-Preferred-Name E60 Feeling suicidal (finding)
+A217	MEDDRA-PT E60 Suicidal ideation
+A218	MEDDRA-PT-ID E60 10042458
+A219	CUI E62 C3541994
+A220	UMLS-Preferred-Name E62 Drug Hypersensitivity Syndrome
+A221	MEDDRA-PT E62 Drug reaction with eosinophilia and systemic symptoms
+A222	MEDDRA-PT-ID E62 10073508
+A223	CUI E63 C3541994
+A224	UMLS-Preferred-Name E63 Drug Hypersensitivity Syndrome
+A225	MEDDRA-PT E63 Drug reaction with eosinophilia and systemic symptoms
+A226	MEDDRA-PT-ID E63 10073508
+A227	LLT E63 DRESS syndrome
+A228	LLT-ID E63 10058899
+A229	CUI E64 C3541994
+A230	UMLS-Preferred-Name E64 Drug Hypersensitivity Syndrome
+A231	MEDDRA-PT E64 Drug reaction with eosinophilia and systemic symptoms
+A232	MEDDRA-PT-ID E64 10073508
+A233	CUI E66 C1306577
+A234	UMLS-Preferred-Name E66 Death (finding)
+A235	MEDDRA-PT E66 Death
+A236	MEDDRA-PT-ID E66 10011906
+A237	CUI E69 C3541994
+A238	UMLS-Preferred-Name E69 Drug Hypersensitivity Syndrome
+A239	MEDDRA-PT E69 Drug reaction with eosinophilia and systemic symptoms
+A240	MEDDRA-PT-ID E69 10073508
+A241	LLT E69 DRESS syndrome
+A242	LLT-ID E69 10058899
+A243	CUI E70 C0015967
+A244	UMLS-Preferred-Name E70 Fever
+A245	MEDDRA-PT E70 Pyrexia
+A246	MEDDRA-PT-ID E70 10037660
+A247	LLT E70 Fever
+A248	LLT-ID E70 10016558
+A249	CUI E71 C0015230
+A250	UMLS-Preferred-Name E71 Exanthema
+A251	MEDDRA-PT E71 Rash
+A252	MEDDRA-PT-ID E71 10037844
+A253	CUI E72 C0497156
+A254	UMLS-Preferred-Name E72 Lymphadenopathy
+A255	MEDDRA-PT E72 Lymphadenopathy
+A256	MEDDRA-PT-ID E72 10025197
+A257	CUI E73 C0019158
+A258	UMLS-Preferred-Name E73 Hepatitis
+A259	MEDDRA-PT E73 Hepatitis
+A260	MEDDRA-PT-ID E73 10019717
+A261	CUI E74 C0027697
+A262	UMLS-Preferred-Name E74 Nephritis
+A263	MEDDRA-PT E74 Nephritis
+A264	MEDDRA-PT-ID E74 10029117
+A265	CUI E75 C0475182
+A266	UMLS-Preferred-Name E75 Hematology finding abnormal
+A267	MEDDRA-PT E75 Haematology test abnormal
+A268	MEDDRA-PT-ID E75 10057755
+A269	LLT E75 Hematology test abnormal
+A270	LLT-ID E75 10057760
+A271	CUI E76 C0027059
+A272	UMLS-Preferred-Name E76 Myocarditis
+A273	MEDDRA-PT E76 Myocarditis
+A274	MEDDRA-PT-ID E76 10028606
+A275	CUI E77 C0027121
+A276	UMLS-Preferred-Name E77 Myositis
+A277	MEDDRA-PT E77 Myositis
+A278	MEDDRA-PT-ID E77 10028653
+A279	CUI E78 C0014457
+A280	UMLS-Preferred-Name E78 Eosinophilia
+A281	MEDDRA-PT E78 Eosinophilia
+A282	MEDDRA-PT-ID E78 10014950
+A283	CUI E79 C0020517
+A284	UMLS-Preferred-Name E79 Hypersensitivity
+A285	MEDDRA-PT E79 Hypersensitivity
+A286	MEDDRA-PT-ID E79 10020751
+A287	CUI E80 C0015967
+A288	UMLS-Preferred-Name E80 Fever
+A289	MEDDRA-PT E80 Pyrexia
+A290	MEDDRA-PT-ID E80 10037660
+A291	LLT E80 Fever
+A292	LLT-ID E80 10016558
+A293	CUI E81 C0497156
+A294	UMLS-Preferred-Name E81 Lymphadenopathy
+A295	MEDDRA-PT E81 Lymphadenopathy
+A296	MEDDRA-PT-ID E81 10025197
+A297	CUI E83 C0015230
+A298	UMLS-Preferred-Name E83 Exanthema
+A299	MEDDRA-PT E83 Rash
+A300	MEDDRA-PT-ID E83 10037844
+A301	CUI E85 C0279661
+A302	UMLS-Preferred-Name E85 Acinar cell carcinoma of pancreas
+A303	MEDDRA-PT E85 Acinar cell carcinoma of pancreas
+A304	MEDDRA-PT-ID E85 10073363
+A305	CUI E86 C0279661
+A306	UMLS-Preferred-Name E86 Acinar cell carcinoma of pancreas
+A307	MEDDRA-PT E86 Acinar cell carcinoma of pancreas
+A308	MEDDRA-PT-ID E86 10073363
+A309	CUI E88 C0027651
+A310	UMLS-Preferred-Name E88 Neoplasms
+A311	MEDDRA-PT E88 Neoplasm
+A312	MEDDRA-PT-ID E88 10028980
+A313	CUI E89 C1458155
+A314	UMLS-Preferred-Name E89 Mammary Neoplasms
+A315	MEDDRA-PT E89 Breast neoplasm
+A316	MEDDRA-PT-ID E89 10006279
+A317	CUI E90 C0006118
+A318	UMLS-Preferred-Name E90 Brain Neoplasms
+A319	MEDDRA-PT E90 Brain neoplasm
+A320	MEDDRA-PT-ID E90 10061019
+A321	LLT E90 Brain tumor
+A322	LLT-ID E90 10006153
+A323	CUI E91 C0024121
+A324	UMLS-Preferred-Name E91 Lung Neoplasms
+A325	MEDDRA-PT E91 Lung neoplasm
+A326	MEDDRA-PT-ID E91 10062042
+A327	CUI E92 C0001624
+A328	UMLS-Preferred-Name E92 Adrenal Gland Neoplasms
+A329	MEDDRA-PT E92 Adrenal neoplasm
+A330	MEDDRA-PT-ID E92 10061588
+A331	CUI E93 C0024305
+A332	UMLS-Preferred-Name E93 Lymphoma, Non-Hodgkin
+A333	MEDDRA-PT E93 Non-Hodgkin's lymphoma
+A334	MEDDRA-PT-ID E93 10029547
+A335	CUI E94 C0346191
+A336	UMLS-Preferred-Name E94 Carcinoma in situ of endometrium
+A337	MEDDRA-PT E94 Endometrial cancer stage 0
+A338	MEDDRA-PT-ID E94 10014737
+A339	LLT E94 Endometrial carcinoma stage 0
+A340	LLT-ID E94 10014748
+A341	CUI E96 C0006118
+A342	UMLS-Preferred-Name E96 Brain Neoplasms
+A343	MEDDRA-PT E96 Brain neoplasm
+A344	MEDDRA-PT-ID E96 10061019
+A345	LLT E96 Brain tumor
+A346	LLT-ID E96 10006153
+A347	CUI E97 C0856130
+A348	UMLS-Preferred-Name E97 Breast cancer aggravated
+A349	MEDDRA-PT E97 Breast cancer
+A350	MEDDRA-PT-ID E97 10006187
+A351	LLT E97 Breast cancer aggravated
+A352	LLT-ID E97 10048406
+A353	CUI E98 C1739135
+A354	UMLS-Preferred-Name E98 Progression of prostate cancer
+A355	MEDDRA-PT E98 Prostate cancer
+A356	MEDDRA-PT-ID E98 10060862
+A357	LLT E98 Progression of prostate cancer
+A358	LLT-ID E98 10066489

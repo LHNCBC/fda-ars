@@ -1,0 +1,130 @@
+118,126|C0442726|detected|fndg
+127,138|C1444662|discontinue|fndg
+184,195;211,218|C1555288|appropriate therapy|fndg
+271,283|C0160390|Liver injury|inpo
+288,302|C0160390|hepatic injury|inpo
+317,328|C1444662|discontinue|fndg
+356,374|C0919924|pulmonary toxicity|patf
+389,400|C1444662|discontinue|fndg
+428,439|C0020621|Hypokalemia|fndg
+444,458|C0151723|hypomagnesemia|fndg
+541,557|C1565489|Renal Impairment|dsyn
+734,735;760,770|C1882084|1 NYHA Class|fndg
+751,756|C1306577|Death|fndg
+777,804|C0581377|Decompensated Heart Failure|dsyn
+820,835|C1444657|contraindicated|fndg
+853,866|C1882087|NYHA Class IV|fndg
+867,880|C0018801|heart failure|dsyn
+867,880|C0018802|heart failure|dsyn
+896,914;922,936|C1399214|heart failure with decompensation|dsyn
+994,999|C1306577|death|fndg
+1027,1032|C1306577|Death|fndg
+1037,1050|C0018801|Heart Failure|dsyn
+1037,1050|C0018802|Heart Failure|dsyn
+1114,1119|C1306577|death|fndg
+1145,1150;1159,1165|C0741923|heart events|dsyn
+1145,1158|C0018801|heart failure|dsyn
+1145,1158|C0018802|heart failure|dsyn
+1278,1288|C3843156|less often|fndg
+1341,1360|C0004238|atrial fibrillation|dsyn
+1341,1360|C1963067|atrial fibrillation|fndg
+1376,1385|C1444656|indicated|fndg
+1390,1401|C1444662|discontinue|fndg
+1493,1499|C0038454|Stroke|dsyn
+1568,1597|C2586056|permanent atrial fibrillation|patf
+1652,1658|C0038454|stroke|dsyn
+1699,1706|C1363945|therapy|fndg
+1792,1804|C0232201|sinus rhythm|fndg
+1792,1804|C2041122|sinus rhythm|fndg
+1850,1857|C1363945|therapy|fndg
+1906,1915|C0746890|New Onset|fndg
+1919,1928|C1457868|Worsening|fndg
+1929,1942|C0018801|Heart Failure|dsyn
+1929,1942|C0018802|Heart Failure|dsyn
+1948,1957|C0746890|New onset|fndg
+1961,1970|C1457868|worsening|fndg
+1974,1987|C0018801|heart failure|dsyn
+1974,1987|C0018802|heart failure|dsyn
+2125,2140;2144,2149|C0039231|increased rates heart|patf
+2189,2195|C0231683|normal|fndg
+2196,2221|C2024902|left ventricular function|fndg
+2229,2239;2252,2265|C0455531|history of heart failure|fndg
+2291,2315|C0455531|history of heart failure|fndg
+2319,2347|C0242698|left ventricular dysfunction|patf
+2408,2413|C0311392|signs|fndg
+2417,2425;2429,2434|C0476270|symptoms heart|sosy
+2417,2425|C1457887|symptoms|sosy
+2429,2442|C0018801|heart failure|dsyn
+2429,2442|C0018802|heart failure|dsyn
+2452,2463|C0043094|weight gain|fndg
+2452,2463|C2911647|weight gain|fndg
+2465,2480|C0235437|dependent edema|fndg
+2496,2515|C0013404|shortness of breath|sosy
+2520,2533|C0018801|heart failure|dsyn
+2520,2533|C0018802|heart failure|dsyn
+2546,2553|C1457868|worsens|fndg
+2584,2595|C1444662|discontinue|fndg
+2615,2627|C0160390|Liver Injury|inpo
+2641,2668|C0151763|Hepatocellular liver injury|patf
+2680,2699|C0162557|acute liver failure|dsyn
+2686,2699;2710,2720|C0400969|liver failure transplant|patf
+2710,2720|C3841811|transplant|fndg
+2710,2720|C0478647|transplant|fndg
+2860,2868|C1457887|symptoms|sosy
+2880,2894|C0160390|hepatic injury|inpo
+2904,2912|C0003123|anorexia|dsyn
+2904,2912|C0426579|anorexia|sosy
+2904,2912|C1971624|anorexia|fndg
+2914,2920|C0027497|nausea|sosy
+2914,2920|C1963179|nausea|patf
+2922,2930|C0042963|vomiting|sosy
+2922,2930|C1963281|vomiting|patf
+2932,2937|C0015967|fever|fndg
+2932,2937|C0424755|fever|fndg
+2939,2946|C0231218|malaise|sosy
+2948,2955|C0015672|fatigue|sosy
+2957,2982|C0235299|right upper quadrant pain|sosy
+2984,2992|C0022346|jaundice|patf
+2984,2992|C2010848|jaundice|fndg
+2984,2992|C2203646|jaundice|sosy
+2994,3004|C0426396|dark urine|sosy
+3009,3016|C0033774|itching|sosy
+3250,3264|C0160390|hepatic injury|inpo
+3288,3299|C1444662|discontinue|fndg
+3311,3315|C0456984|test|fndg
+3391,3394|C1266129|ALT|neop
+3480,3492|C0160390|liver injury|inpo
+3497,3509|C0160390|liver injury|inpo
+3693,3711|C0919924|Pulmonary Toxicity|patf
+3723,3725;3739,3751|C0024115|of lung disease|dsyn
+3762,3773|C0032285|pneumonitis|dsyn
+3762,3773|C3714636|pneumonitis|dsyn
+3778,3796|C0034069|pulmonary fibrosis|dsyn
+3923,3930|C0013404|dyspnea|sosy
+3934,3954|C0850149|non-productive cough|sosy
+3962,3969|C0445223|related|fndg
+4050,4068|C0919924|pulmonary toxicity|patf
+4100,4112|C1444662|discontinued|fndg
+4125,4136|C0020621|Hypokalemia|fndg
+4141,4155|C0151723|Hypomagnesemia|fndg
+4196,4207|C0020621|Hypokalemia|fndg
+4211,4225|C0151723|hypomagnesemia|fndg
+4466,4468;4478,4490|C0151878|QT Prolongation|fndg
+4733,4744|C1444662|discontinue|fndg
+4797,4813|C1565489|Renal Impairment|dsyn
+4851,4867|C0600061|serum creatinine|fndg
+4869,4887|C0741360|pre-renal azotemia|fndg
+4892,4911|C0022660|acute renal failure|dsyn
+4892,4911|C3854173|acute renal failure|dsyn
+4937,4950|C0018801|heart failure|dsyn
+4937,4950|C0018802|heart failure|dsyn
+5003,5014|C0546884|hypovolemia|fndg
+5125,5140|C1444662|discontinuation|fndg
+5243,5260|C0428279|creatinine levels|fndg
+5346,5352|C2825142|result|fndg
+5370,5382|C1561535|creatinine's|fndg
+5422,5433|C1838994|rapid onset|fndg
+5435,5442|C0596012|reaches|fndg
+5459,5465|C3842672|7 days|fndg
+5490,5505|C1444662|discontinuation|fndg
+5556,5569|C1096235|Premenopausal|sosy

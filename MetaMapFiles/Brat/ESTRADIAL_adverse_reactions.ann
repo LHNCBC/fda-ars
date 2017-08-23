@@ -1,0 +1,600 @@
+T1	AdverseReaction 146 167	cardiovascular events
+T2	AdverseReaction 172 178	stroke
+T3	AdverseReaction 246 261	Vascular events
+T4	AdverseReaction 311 324	Liver disease
+T6	AdverseReaction 469 475	Nausea
+T7	AdverseReaction 483 500	Breast tenderness
+T8	AdverseReaction 508 516	Headache
+T9	AdverseReaction 614 623	headaches
+T11	AdverseReaction 652 660	headache
+T12	AdverseReaction 672 681	migraines
+T13	AdverseReaction 688 705	breast tenderness
+T14	AdverseReaction 688 694;706 710	breast pain
+T15	AdverseReaction 715 734	menstrual disorders
+T16	AdverseReaction 739 745	nausea
+T17	AdverseReaction 750 758	vomiting
+T18	AdverseReaction 764 768	acne
+T19	AdverseReaction 773 785	mood changes
+T20	AdverseReaction 795 811	increased weight
+T21	AdverseReaction 2118 2136	menstrual disorder
+T22	AdverseReaction 2138 2150	metrorrhagia
+T23	AdverseReaction 2152 2163	menorrhagia
+T24	AdverseReaction 2165 2187	menstruation irregular
+T25	AdverseReaction 2189 2207	genital hemorrhage
+T26	AdverseReaction 2209 2227	vaginal hemorrhage
+T27	AdverseReaction 2229 2259	dysfunctional uterine bleeding
+T28	AdverseReaction 2269 2281	mood changes
+T29	AdverseReaction 2283 2293	depression
+T30	AdverseReaction 2295 2306	mood swings
+T31	AdverseReaction 2308 2320	mood altered
+T32	AdverseReaction 2322 2336	depressed mood
+T33	AdverseReaction 2338 2356	dysthymic disorder
+T34	AdverseReaction 2358 2364	crying
+T35	AdverseReaction 2374 2378	acne
+T36	AdverseReaction 2387 2395	headache
+T37	AdverseReaction 2407 2416	migraines
+T38	AdverseReaction 2430 2446	weight increased
+T39	AdverseReaction 2497 2505	headache
+T40	AdverseReaction 2517 2526	migraines
+T41	AdverseReaction 2537 2548	breast pain
+T42	AdverseReaction 2537 2543;2550 2560	breast discomfort
+T43	AdverseReaction 2537 2543;2564 2574	breast tenderness
+T44	AdverseReaction 2583 2602	menstrual disorders
+T45	AdverseReaction 2604 2616	metrorrhagia
+T46	AdverseReaction 2618 2640	menstruation irregular
+T47	AdverseReaction 2642 2653	menorrhagia
+T48	AdverseReaction 2655 2673	vaginal hemorrhage
+T49	AdverseReaction 2675 2705	dysfunctional uterine bleeding
+T50	AdverseReaction 2707 2725	genital hemorrhage
+T51	AdverseReaction 2727 2755	abnormal withdrawal bleeding
+T52	AdverseReaction 2757 2775	uterine hemorrhage
+T53	AdverseReaction 2785 2791	nausea
+T54	AdverseReaction 2795 2803	vomiting
+T55	AdverseReaction 2812 2816	acne
+T56	AdverseReaction 2825 2837	mood changes
+T57	AdverseReaction 2839 2849	depression
+T58	AdverseReaction 2851 2862	mood swings
+T59	AdverseReaction 2864 2878	depressed mood
+T60	AdverseReaction 2880 2892	mood altered
+T61	AdverseReaction 2894 2909	affect lability
+T62	AdverseReaction 2911 2929	dysthymic disorder
+T63	AdverseReaction 2931 2937	crying
+T64	AdverseReaction 2950 2966	increased weight
+T65	AdverseReaction 3009 3030	myocardial infarction
+T66	AdverseReaction 3042 3063	ruptured ovarian cyst
+T67	AdverseReaction 3075 3095	deep vein thrombosis
+T68	AdverseReaction 3097 3135	focal nodular hyperplasia of the liver
+T69	AdverseReaction 3137 3154	uterine leiomyoma
+T70	AdverseReaction 3156 3175	acute cholecystitis
+T71	AdverseReaction 3181 3213	chronic acalculous cholecystitis
+T72	AdverseReaction 3569 3575;3589 3610	Venous thromboembolic events
+T73	AdverseReaction 3580 3610	arterial thromboembolic events
+T74	AdverseReaction 3622 3638	pulmonary emboli
+T75	AdverseReaction 3640 3660	deep vein thrombosis
+T76	AdverseReaction 3662 3681	cerebral thrombosis
+T77	AdverseReaction 3683 3704	myocardial infarction
+T78	AdverseReaction 3709 3715	stroke
+T79	AdverseReaction 3718 3730	hypertension
+T80	AdverseReaction 3760 3779	Gallbladder disease
+T81	AdverseReaction 3781 3790	hepatitis
+T82	AdverseReaction 3820 3836	Hypersensitivity
+T83	AdverseReaction 3877 3892	Fluid retention
+T84	AdverseReaction 3894 3914	hypertriglyceridemia
+T85	AdverseReaction 3945 3954	Dizziness
+T86	AdverseReaction 3999 4007	Chloasma
+T87	AdverseReaction 4009 4019	angioedema
+T88	AdverseReaction 4021 4037	erythema nodosum
+T89	AdverseReaction 4039 4058	erythema multiforme
+T90	AdverseReaction 4091 4116	Gastrointestinal symptoms
+T91	AdverseReaction 4131 4145	abdominal pain
+T92	AdverseReaction 4180 4204	Vulvovaginal candidiasis
+T93	Severity 138 145	Serious
+T5	AdverseReaction 435 461	Irregular uterine bleeding
+T10	AdverseReaction 625 651	irregular uterine bleeding
+E1	AdverseReaction:T1 Effect:E93
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91
+E92	AdverseReaction:T92
+E93	Severity:T93
+E5	AdverseReaction:T5
+E10	AdverseReaction:T10
+A1	CUI E1 C1320716
+A2	UMLS-Preferred-Name E1 Cardiovascular event
+A3	MEDDRA-PT E1 Cardiovascular symptom
+A4	MEDDRA-PT-ID E1 10075534
+A5	CUI E2 C0038454
+A6	UMLS-Preferred-Name E2 Cerebrovascular accident
+A7	MEDDRA-PT E2 Cerebrovascular accident
+A8	MEDDRA-PT-ID E2 10008190
+A9	LLT E2 Stroke
+A10	LLT-ID E2 10042244
+A11	CUI E3 C0042373
+A12	UMLS-Preferred-Name E3 Vascular Diseases
+A13	MEDDRA-PT E3 Angiopathy
+A14	MEDDRA-PT-ID E3 10059245
+A15	LLT E3 Vascular disorder
+A16	LLT-ID E3 10047059
+A17	CUI E4 C0023895
+A18	UMLS-Preferred-Name E4 Liver diseases
+A19	MEDDRA-PT E4 Liver disorder
+A20	MEDDRA-PT-ID E4 10024670
+A21	LLT E4 Hepatic disease
+A22	LLT-ID E4 10019650
+A23	CUI E6 C0027497
+A24	UMLS-Preferred-Name E6 Nausea
+A25	MEDDRA-PT E6 Nausea
+A26	MEDDRA-PT-ID E6 10028813
+A27	CUI E7 C0262397
+A28	UMLS-Preferred-Name E7 Breast tenderness
+A29	MEDDRA-PT E7 Breast tenderness
+A30	MEDDRA-PT-ID E7 10006313
+A31	CUI E8 C0018681
+A32	UMLS-Preferred-Name E8 Headache
+A33	MEDDRA-PT E8 Headache
+A34	MEDDRA-PT-ID E8 10019211
+A35	CUI E9 C0018681
+A36	UMLS-Preferred-Name E9 Headache
+A37	MEDDRA-PT E9 Headache
+A38	MEDDRA-PT-ID E9 10019211
+A39	CUI E11 C0018681
+A40	UMLS-Preferred-Name E11 Headache
+A41	MEDDRA-PT E11 Headache
+A42	MEDDRA-PT-ID E11 10019211
+A43	CUI E12 C0149931
+A44	UMLS-Preferred-Name E12 Migraine Disorders
+A45	MEDDRA-PT E12 Migraine
+A46	MEDDRA-PT-ID E12 10027599
+A47	CUI E13 C0262397
+A48	UMLS-Preferred-Name E13 Breast tenderness
+A49	MEDDRA-PT E13 Breast tenderness
+A50	MEDDRA-PT-ID E13 10006313
+A51	CUI E14 C0024902
+A52	UMLS-Preferred-Name E14 Mastodynia
+A53	MEDDRA-PT E14 Breast pain
+A54	MEDDRA-PT-ID E14 10006298
+A55	CUI E15 C0025345
+A56	UMLS-Preferred-Name E15 Menstruation Disturbances
+A57	MEDDRA-PT E15 Menstrual disorder
+A58	MEDDRA-PT-ID E15 10027327
+A59	CUI E16 C0027497
+A60	UMLS-Preferred-Name E16 Nausea
+A61	MEDDRA-PT E16 Nausea
+A62	MEDDRA-PT-ID E16 10028813
+A63	CUI E17 C0042963
+A64	UMLS-Preferred-Name E17 Vomiting
+A65	MEDDRA-PT E17 Vomiting
+A66	MEDDRA-PT-ID E17 10047700
+A67	CUI E18 C0702166
+A68	UMLS-Preferred-Name E18 Acne
+A69	MEDDRA-PT E18 Acne
+A70	MEDDRA-PT-ID E18 10000496
+A71	CUI E19 C0085633
+A72	UMLS-Preferred-Name E19 Mood swings
+A73	MEDDRA-PT E19 Mood altered
+A74	MEDDRA-PT-ID E19 10027940
+A75	LLT E19 Mood change
+A76	LLT-ID E19 10027941
+A77	CUI E20 C0043094
+A78	UMLS-Preferred-Name E20 Weight Gain
+A79	MEDDRA-PT E20 Weight increased
+A80	MEDDRA-PT-ID E20 10047899
+A81	CUI E21 C0025345
+A82	UMLS-Preferred-Name E21 Menstruation Disturbances
+A83	MEDDRA-PT E21 Menstrual disorder
+A84	MEDDRA-PT-ID E21 10027327
+A85	CUI E22 C0025874
+A86	UMLS-Preferred-Name E22 Metrorrhagia
+A87	MEDDRA-PT E22 Metrorrhagia
+A88	MEDDRA-PT-ID E22 10027514
+A89	CUI E23 C0025323
+A90	UMLS-Preferred-Name E23 Menorrhagia
+A91	MEDDRA-PT E23 Menorrhagia
+A92	MEDDRA-PT-ID E23 10027313
+A93	CUI E24 C0156404
+A94	UMLS-Preferred-Name E24 Irregular periods
+A95	MEDDRA-PT E24 Menstruation irregular
+A96	MEDDRA-PT-ID E24 10027339
+A97	CUI E25 C0854381
+A98	UMLS-Preferred-Name E25 Genital hemorrhage
+A99	MEDDRA-PT E25 Genital haemorrhage
+A100	MEDDRA-PT-ID E25 10061178
+A101	LLT E25 Genital hemorrhage
+A102	LLT-ID E25 10055260
+A103	CUI E26 C2979982
+A104	UMLS-Preferred-Name E26 Vaginal Hemorrhage
+A105	MEDDRA-PT E26 Vaginal haemorrhage
+A106	MEDDRA-PT-ID E26 10046910
+A107	LLT E26 Vaginal hemorrhage
+A108	LLT-ID E26 10046912
+A109	CUI E27 C0025874
+A110	UMLS-Preferred-Name E27 Metrorrhagia
+A111	MEDDRA-PT E27 Dysfunctional uterine bleeding
+A112	MEDDRA-PT-ID E27 10013908
+A113	CUI E28 C0085633
+A114	UMLS-Preferred-Name E28 Mood swings
+A115	MEDDRA-PT E28 Mood altered
+A116	MEDDRA-PT-ID E28 10027940
+A117	LLT E28 Mood change
+A118	LLT-ID E28 10027941
+A119	CUI E29 C0011570
+A120	UMLS-Preferred-Name E29 Mental Depression
+A121	MEDDRA-PT E29 Depression
+A122	MEDDRA-PT-ID E29 10012378
+A123	CUI E30 C0085633
+A124	UMLS-Preferred-Name E30 Mood swings
+A125	MEDDRA-PT E30 Mood swings
+A126	MEDDRA-PT-ID E30 10027951
+A127	CUI E31 C0085633
+A128	UMLS-Preferred-Name E31 Mood swings
+A129	MEDDRA-PT E31 Mood altered
+A130	MEDDRA-PT-ID E31 10027940
+A131	CUI E32 C0344315
+A132	UMLS-Preferred-Name E32 Depressed mood
+A133	MEDDRA-PT E32 Depressed mood
+A134	MEDDRA-PT-ID E32 10012374
+A135	CUI E33 C0013415
+A136	UMLS-Preferred-Name E33 Dysthymic Disorder
+A137	MEDDRA-PT E33 Dysthymic disorder
+A138	MEDDRA-PT-ID E33 10013982
+A139	CUI E34 C0235939
+A140	UMLS-Preferred-Name E34 Crying abnormal
+A141	MEDDRA-PT E34 Crying
+A142	MEDDRA-PT-ID E34 10011469
+A143	LLT E34 Crying abnormal
+A144	LLT-ID E34 10011470
+A145	CUI E35 C0702166
+A146	UMLS-Preferred-Name E35 Acne
+A147	MEDDRA-PT E35 Acne
+A148	MEDDRA-PT-ID E35 10000496
+A149	CUI E36 C0018681
+A150	UMLS-Preferred-Name E36 Headache
+A151	MEDDRA-PT E36 Headache
+A152	MEDDRA-PT-ID E36 10019211
+A153	CUI E37 C0149931
+A154	UMLS-Preferred-Name E37 Migraine Disorders
+A155	MEDDRA-PT E37 Migraine
+A156	MEDDRA-PT-ID E37 10027599
+A157	CUI E38 C0043094
+A158	UMLS-Preferred-Name E38 Weight Gain
+A159	MEDDRA-PT E38 Weight increased
+A160	MEDDRA-PT-ID E38 10047899
+A161	CUI E39 C0018681
+A162	UMLS-Preferred-Name E39 Headache
+A163	MEDDRA-PT E39 Headache
+A164	MEDDRA-PT-ID E39 10019211
+A165	CUI E40 C0149931
+A166	UMLS-Preferred-Name E40 Migraine Disorders
+A167	MEDDRA-PT E40 Migraine
+A168	MEDDRA-PT-ID E40 10027599
+A169	CUI E41 C0024902
+A170	UMLS-Preferred-Name E41 Mastodynia
+A171	MEDDRA-PT E41 Breast pain
+A172	MEDDRA-PT-ID E41 10006298
+A173	CUI E42 C0877338
+A174	UMLS-Preferred-Name E42 Breast discomfort
+A175	MEDDRA-PT E42 Breast discomfort
+A176	MEDDRA-PT-ID E42 10049872
+A177	CUI E43 C0262397
+A178	UMLS-Preferred-Name E43 Breast tenderness
+A179	MEDDRA-PT E43 Breast tenderness
+A180	MEDDRA-PT-ID E43 10006313
+A181	CUI E44 C0025345
+A182	UMLS-Preferred-Name E44 Menstruation Disturbances
+A183	MEDDRA-PT E44 Menstrual disorder
+A184	MEDDRA-PT-ID E44 10027327
+A185	CUI E45 C0025874
+A186	UMLS-Preferred-Name E45 Metrorrhagia
+A187	MEDDRA-PT E45 Metrorrhagia
+A188	MEDDRA-PT-ID E45 10027514
+A189	CUI E46 C0156404
+A190	UMLS-Preferred-Name E46 Irregular periods
+A191	MEDDRA-PT E46 Menstruation irregular
+A192	MEDDRA-PT-ID E46 10027339
+A193	CUI E47 C0025323
+A194	UMLS-Preferred-Name E47 Menorrhagia
+A195	MEDDRA-PT E47 Menorrhagia
+A196	MEDDRA-PT-ID E47 10027313
+A197	CUI E48 C2979982
+A198	UMLS-Preferred-Name E48 Vaginal Hemorrhage
+A199	MEDDRA-PT E48 Vaginal haemorrhage
+A200	MEDDRA-PT-ID E48 10046910
+A201	LLT E48 Vaginal hemorrhage
+A202	LLT-ID E48 10046912
+A203	CUI E49 C0025874
+A204	UMLS-Preferred-Name E49 Metrorrhagia
+A205	MEDDRA-PT E49 Dysfunctional uterine bleeding
+A206	MEDDRA-PT-ID E49 10013908
+A207	CUI E50 C0854381
+A208	UMLS-Preferred-Name E50 Genital hemorrhage
+A209	MEDDRA-PT E50 Genital haemorrhage
+A210	MEDDRA-PT-ID E50 10061178
+A211	LLT E50 Genital hemorrhage
+A212	LLT-ID E50 10055260
+A213	CUI E51 C2609183
+A214	UMLS-Preferred-Name E51 Abnormal withdrawal bleeding
+A215	MEDDRA-PT E51 Abnormal withdrawal bleeding
+A216	MEDDRA-PT-ID E51 10069195
+A217	CUI E52 C0042134
+A218	UMLS-Preferred-Name E52 Uterine hemorrhage
+A219	MEDDRA-PT E52 Uterine haemorrhage
+A220	MEDDRA-PT-ID E52 10046788
+A221	LLT E52 Uterine hemorrhage
+A222	LLT-ID E52 10046789
+A223	CUI E53 C0027497
+A224	UMLS-Preferred-Name E53 Nausea
+A225	MEDDRA-PT E53 Nausea
+A226	MEDDRA-PT-ID E53 10028813
+A227	CUI E54 C0042963
+A228	UMLS-Preferred-Name E54 Vomiting
+A229	MEDDRA-PT E54 Vomiting
+A230	MEDDRA-PT-ID E54 10047700
+A231	CUI E55 C0702166
+A232	UMLS-Preferred-Name E55 Acne
+A233	MEDDRA-PT E55 Acne
+A234	MEDDRA-PT-ID E55 10000496
+A235	CUI E56 C0085633
+A236	UMLS-Preferred-Name E56 Mood swings
+A237	MEDDRA-PT E56 Mood altered
+A238	MEDDRA-PT-ID E56 10027940
+A239	LLT E56 Mood change
+A240	LLT-ID E56 10027941
+A241	CUI E57 C0011570
+A242	UMLS-Preferred-Name E57 Mental Depression
+A243	MEDDRA-PT E57 Depression
+A244	MEDDRA-PT-ID E57 10012378
+A245	CUI E58 C0085633
+A246	UMLS-Preferred-Name E58 Mood swings
+A247	MEDDRA-PT E58 Mood swings
+A248	MEDDRA-PT-ID E58 10027951
+A249	CUI E59 C0344315
+A250	UMLS-Preferred-Name E59 Depressed mood
+A251	MEDDRA-PT E59 Depressed mood
+A252	MEDDRA-PT-ID E59 10012374
+A253	CUI E60 C0085633
+A254	UMLS-Preferred-Name E60 Mood swings
+A255	MEDDRA-PT E60 Mood altered
+A256	MEDDRA-PT-ID E60 10027940
+A257	CUI E61 C0233472
+A258	UMLS-Preferred-Name E61 Labile affect
+A259	MEDDRA-PT E61 Affect lability
+A260	MEDDRA-PT-ID E61 10054196
+A261	CUI E62 C0013415
+A262	UMLS-Preferred-Name E62 Dysthymic Disorder
+A263	MEDDRA-PT E62 Dysthymic disorder
+A264	MEDDRA-PT-ID E62 10013982
+A265	CUI E63 C0235939
+A266	UMLS-Preferred-Name E63 Crying abnormal
+A267	MEDDRA-PT E63 Crying
+A268	MEDDRA-PT-ID E63 10011469
+A269	LLT E63 Crying abnormal
+A270	LLT-ID E63 10011470
+A271	CUI E64 C0043094
+A272	UMLS-Preferred-Name E64 Weight Gain
+A273	MEDDRA-PT E64 Weight increased
+A274	MEDDRA-PT-ID E64 10047899
+A275	CUI E65 C0027051
+A276	UMLS-Preferred-Name E65 Myocardial Infarction
+A277	MEDDRA-PT E65 Myocardial infarction
+A278	MEDDRA-PT-ID E65 10028596
+A279	CUI E66 C0404478
+A280	UMLS-Preferred-Name E66 Ruptured cyst of ovary
+A281	MEDDRA-PT E66 Ovarian cyst ruptured
+A282	MEDDRA-PT-ID E66 10033136
+A283	CUI E67 C0149871
+A284	UMLS-Preferred-Name E67 Deep Vein Thrombosis
+A285	MEDDRA-PT E67 Deep vein thrombosis
+A286	MEDDRA-PT-ID E67 10051055
+A287	CUI E68 C0700636
+A288	UMLS-Preferred-Name E68 Focal nodular hyperplasia of liver
+A289	MEDDRA-PT E68 Focal nodular hyperplasia
+A290	MEDDRA-PT-ID E68 10052285
+A291	LLT E68 Hepatic nodular hyperplasia
+A292	LLT-ID E68 10058959
+A293	CUI E69 C0042133
+A294	UMLS-Preferred-Name E69 Uterine Fibroids
+A295	MEDDRA-PT E69 Uterine leiomyoma
+A296	MEDDRA-PT-ID E69 10046798
+A297	CUI E70 C0149520
+A298	UMLS-Preferred-Name E70 Acute Cholecystitis
+A299	MEDDRA-PT E70 Cholecystitis acute
+A300	MEDDRA-PT-ID E70 10008614
+A301	LLT E70 Acute cholecystitis
+A302	LLT-ID E70 10000691
+A303	CUI E71 C3272619
+A304	UMLS-Preferred-Name E71 Chronic Acalculous Cholecystitis
+A305	MEDDRA-PT E71 Cholecystitis
+A306	MEDDRA-PT-ID E71 10008612
+A307	LLT E71 Acalculous cholecystitis
+A308	LLT-ID E71 10000347
+A309	CUI E72 C1861172
+A310	UMLS-Preferred-Name E72 Venous Thromboembolism
+A311	MEDDRA-PT E72 Embolism venous
+A312	MEDDRA-PT-ID E72 10014522
+A313	LLT E72 Venous thromboembolism
+A314	LLT-ID E72 10066899
+A315	CUI E73 C3544094
+A316	UMLS-Preferred-Name E73 Arterial thromboembolism
+A317	MEDDRA-PT E73 Embolism arterial
+A318	MEDDRA-PT-ID E73 10014513
+A319	LLT E73 Arterial thromboembolism
+A320	LLT-ID E73 10073529
+A321	CUI E74 C0034065
+A322	UMLS-Preferred-Name E74 Pulmonary Embolism
+A323	MEDDRA-PT E74 Pulmonary embolism
+A324	MEDDRA-PT-ID E74 10037377
+A325	LLT E74 Pulmonary embolus
+A326	LLT-ID E74 10037380
+A327	CUI E75 C0149871
+A328	UMLS-Preferred-Name E75 Deep Vein Thrombosis
+A329	MEDDRA-PT E75 Deep vein thrombosis
+A330	MEDDRA-PT-ID E75 10051055
+A331	CUI E76 C0079102
+A332	UMLS-Preferred-Name E76 Cerebral Thrombosis
+A333	MEDDRA-PT E76 Cerebral thrombosis
+A334	MEDDRA-PT-ID E76 10008132
+A335	CUI E77 C0027051
+A336	UMLS-Preferred-Name E77 Myocardial Infarction
+A337	MEDDRA-PT E77 Myocardial infarction
+A338	MEDDRA-PT-ID E77 10028596
+A339	CUI E78 C0038454
+A340	UMLS-Preferred-Name E78 Cerebrovascular accident
+A341	MEDDRA-PT E78 Cerebrovascular accident
+A342	MEDDRA-PT-ID E78 10008190
+A343	LLT E78 Stroke
+A344	LLT-ID E78 10042244
+A345	CUI E79 C0020538
+A346	UMLS-Preferred-Name E79 Hypertensive disease
+A347	MEDDRA-PT E79 Hypertension
+A348	MEDDRA-PT-ID E79 10020772
+A349	CUI E80 C0016977
+A350	UMLS-Preferred-Name E80 Gall Bladder Diseases
+A351	MEDDRA-PT E80 Gallbladder disorder
+A352	MEDDRA-PT-ID E80 10017626
+A353	LLT E80 Gallbladder disease
+A354	LLT-ID E80 10017641
+A355	CUI E81 C0019158
+A356	UMLS-Preferred-Name E81 Hepatitis
+A357	MEDDRA-PT E81 Hepatitis
+A358	MEDDRA-PT-ID E81 10019717
+A359	CUI E82 C0020517
+A360	UMLS-Preferred-Name E82 Hypersensitivity
+A361	MEDDRA-PT E82 Hypersensitivity
+A362	MEDDRA-PT-ID E82 10020751
+A363	CUI E83 C0268000
+A364	UMLS-Preferred-Name E83 Body fluid retention
+A365	MEDDRA-PT E83 Fluid retention
+A366	MEDDRA-PT-ID E83 10016807
+A367	CUI E84 C0020557
+A368	UMLS-Preferred-Name E84 Hypertriglyceridemia
+A369	MEDDRA-PT E84 Hypertriglyceridaemia
+A370	MEDDRA-PT-ID E84 10020869
+A371	LLT E84 Hypertriglyceridemia
+A372	LLT-ID E84 10020870
+A373	CUI E85 C0012833
+A374	UMLS-Preferred-Name E85 Dizziness
+A375	MEDDRA-PT E85 Dizziness
+A376	MEDDRA-PT-ID E85 10013573
+A377	CUI E86 C0025218
+A378	UMLS-Preferred-Name E86 Chloasma
+A379	MEDDRA-PT E86 Chloasma
+A380	MEDDRA-PT-ID E86 10008570
+A381	CUI E87 C0002994
+A382	UMLS-Preferred-Name E87 Angioedema
+A383	MEDDRA-PT E87 Angioedema
+A384	MEDDRA-PT-ID E87 10002424
+A385	CUI E88 C0014743
+A386	UMLS-Preferred-Name E88 Erythema Nodosum
+A387	MEDDRA-PT E88 Erythema nodosum
+A388	MEDDRA-PT-ID E88 10015226
+A389	CUI E89 C0014742
+A390	UMLS-Preferred-Name E89 Erythema Multiforme
+A391	MEDDRA-PT E89 Erythema multiforme
+A392	MEDDRA-PT-ID E89 10015218
+A393	CUI E90 C0426576
+A394	UMLS-Preferred-Name E90 Gastrointestinal symptom
+A395	MEDDRA-PT E90 Gastrointestinal disorder
+A396	MEDDRA-PT-ID E90 10017944
+A397	LLT E90 Gastrointestinal symptom NOS
+A398	LLT-ID E90 10018011
+A399	CUI E91 C0000737
+A400	UMLS-Preferred-Name E91 Abdominal Pain
+A401	MEDDRA-PT E91 Abdominal pain
+A402	MEDDRA-PT-ID E91 10000081
+A403	CUI E92 C0700345
+A404	UMLS-Preferred-Name E92 Candidiasis, Vulvovaginal
+A405	MEDDRA-PT E92 Vulvovaginal candidiasis
+A406	MEDDRA-PT-ID E92 10047784
+A407	CUI E5 C0025874
+A408	UMLS-Preferred-Name E5 Metrorrhagia
+A409	MEDDRA-PT E5 Dysfunctional uterine bleeding
+A410	MEDDRA-PT-ID E5 10013908
+A411	CUI E10 C0025874
+A412	UMLS-Preferred-Name E10 Metrorrhagia
+A413	MEDDRA-PT E10 Dysfunctional uterine bleeding
+A414	MEDDRA-PT-ID E10 10013908

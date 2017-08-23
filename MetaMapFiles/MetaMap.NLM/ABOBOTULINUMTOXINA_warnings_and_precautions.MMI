@@ -1,0 +1,70 @@
+00000000|AA|CJD|Creutzfeldt-Jakob disease|1|3|5|25|710:3
+00000000|MMI|126.04|Creutzfeldt-Jakob disease|C0022336|[dsyn]|["Creutzfeld-Jacob disease"-tx-30-"CJD"-noun-1,"Creutzfeld-Jacob disease"-tx-29-"CJD"-noun-0,"Creutzfeld-Jacob disease"-tx-29-"Creutzfeldt-Jakob disease"-noun-0,"Creutzfeldt-Jakob"-tx-29-"Creutzfeldt-Jakob"-noun-0,"Creutzfeld-Jacob disease"-tx-2-"CJD"-noun-1,"Creutzfeld-Jacob disease"-tx-2-"Creutzfeldt-Jakob disease"-noun-0,"Creutzfeldt-Jakob"-tx-2-"Creutzfeldt-Jakob"-noun-0]|TX|5783/3;5695/3;5668/25;5668/17;770/3;683/25;683/17|C10.228.140.380.165;C10.228.228.800.230;F03.615.400.300
+00000000|MMI|102.32|Deglutition Disorders|C0011168|[dsyn]|["DYSPHAGIA"-tx-26-"dysphagia"-noun-0,"DYSPHAGIA"-tx-16-"dysphagia"-noun-0,"DYSPHAGIA"-tx-15-"Dysphagia"-noun-0,"DYSPHAGIA"-tx-14-"dysphagia"-noun-0,"DYSPHAGIA"-tx-10-"Dysphagia"-noun-0,"DYSPHAGIA"-tx-5-"dysphagia"-noun-0,"Swallowing difficulties"-tx-1-"swallowing difficulties"-noun-0]|TX|5287/9;3254/9;3099/9;3032/9;2472/9;1680/9;481/23|C06.405.117.119;C09.775.174
+00000000|MMI|69.69|Dyspnea|C0013404|[sosy]|["Breathing Difficulties"-tx-19-"breathing difficulties"-noun-0,"Breathing Difficulties"-tx-11-"breathing difficulties"-noun-0,"Breathing Difficulties"-tx-10-"breathing difficulties"-noun-0,"Breathing Difficulties"-tx-7-"breathing difficulties"-noun-0,"Breathing Difficulties"-tx-5-"breathing difficulties"-noun-0]|TX|3714/22;2674/22;2608/22;1844/22;1739/22|C08.618.326;C23.888.852.371
+00000000|MMI|63.02|disease transmission|C0242781|[patf]|["diseases of transmission"-tx-30-"of transmission diseases"-noun-1,"Transmission"-tx-29-"transmission"-noun-0,"transmission of disease"-tx-29-"transmission of disease"-noun-0,"Transmission"-tx-2-"transmission"-noun-0,"diseases of transmission"-tx-2-"of transmission diseases"-noun-1,"transmission of disease"-tx-2-"transmission of disease"-noun-0]|TX|5746/15,5771/8;5652/12;5652/15,5686/7;667/12;733/15,758/8;667/15,701/7|N06.850.310
+00000000|MMI|59.00|Muscle Spasticity|C0026838|[sosy]|["SPASTICITY"-tx-9-"spasticity"-noun-0,"SPASTICITY"-tx-8-"spasticity"-noun-0]|TX|2270/10;[2034/10],[2095/10]|C05.651.512;C10.597.613.550.550;C23.888.592.608.550.550
+00000000|MMI|30.56|Blepharoptosis|C0005745|[anab]|["Ptosis of eyelid"-tx-24-"of eyelid ptosis"-noun-0,"PTOSIS"-tx-22-"ptosis"-noun-0,"PTOSIS"-tx-5-"ptosis"-noun-0]|TX|4862/16;4418/6;1672/6|C11.338.204
+00000000|MMI|30.42|Dysarthria|C0013362|[mobd]|["DYSARTHRIA"-tx-5-"dysarthria"-noun-0]|TX|1702/10|C10.597.606.150.500.800.150.200;C23.888.592.604.150.500.800.150.200
+00000000|MMI|24.16|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-9-"symptoms"-noun-0,"SYMPTOMS"-tx-8-"symptoms"-noun-0,"SYMPTOMS"-tx-6-"symptoms"-noun-0,"SYMPTOMS"-tx-5-"symptoms"-noun-0]|TX|2322/8;[1980/8],[2049/8],[2230/8];1769/8;1519/8|
+00000000|MMI|23.12|Ptosis|C0033377|[dsyn]|["PTOSIS"-tx-22-"ptosis"-noun-0,"PTOSIS"-tx-5-"ptosis"-noun-0]|TX|4418/6;1672/6|C23.300.842
+00000000|MMI|20.95|Diplopia|C0012569|[fndg]|["DIPLOPIA"-tx-5-"diplopia"-noun-0]|TX|1646/8|C10.597.751.941.339;C11.966.339;C23.888.592.763.941.339
+00000000|MMI|20.34|Neuromuscular Diseases|C0027868|[dsyn]|["Neuromuscular Disorders"-tx-26-"neuromuscular disorders"-noun-0,"Neuromuscular Disorders"-tx-25-"Neuromuscular Disorders"-noun-0,"Neuromuscular disorder"-tx-1-"neuromuscular disorder"-noun-0]|TX|5187/23;4903/23;528/22|C10.668
+00000000|MMI|20.22|Disease|C0012634|[dsyn]|["condition"-tx-8-"conditions"-noun-0]|TX|[2116/10],[2183/10]|C23.550.288
+00000000|MMI|19.25|Cervical Dystonia|C0949445|[sosy]|["Cervical Dystonia"-tx-17-"cervical dystonia"-noun-0]|TX|3396/17|C10.228.662.300.750;C10.597.350.300.800;C23.888.592.350.300.800
+00000000|MMI|18.88|Does swallow|C0740170|[fndg]|["Swallowing"-tx-16-"swallowing"-noun-0,"Swallowing"-tx-12-"swallowing"-noun-0,"Swallowing"-tx-11-"swallowing"-noun-0,"Swallowing"-tx-10-"swallowing"-noun-0,"Swallowing"-tx-7-"Swallowing"-noun-0]|TX|3320/10;2865/10;2660/10;2594/10;1829/10|
+00000000|MMI|17.80|Amyotrophic Lateral Sclerosis|C0002736|[dsyn]|["AMYOTROPHIC LATERAL SCLEROSIS"-tx-25-"amyotrophic lateral sclerosis"-noun-0]|TX|4986/29|C10.228.854.139;C10.574.562.250;C10.574.950.050;C10.668.467.250;C18.452.845.800.050
+00000000|MMI|17.80|Dysphonia|C1527344|[fndg]|["DYSPHONIA"-tx-5-"dysphonia"-noun-0]|TX|1691/9|C08.360.940.325;C09.400.940.325;C10.597.975.325;C23.888.592.979.325
+00000000|MMI|17.80|Hoarseness|C0019825|[sosy]|["Dysphonia"-tx-5-"dysphonia"-noun-0]|TX|1691/9|C08.360.940.490;C08.618.490;C09.400.940.490;C10.597.975.550;C23.888.592.979.550;C23.888.852.490
+00000000|MMI|17.80|Lambert-Eaton Myasthenic Syndrome|C0022972|[dsyn]|["LAMBERT EATON SYNDROME"-tx-25-"Lambert-Eaton syndrome"-noun-0]|TX|5080/22|C04.588.614.550.225;C04.730.856.225;C10.114.468;C10.574.781.500;C10.668.758.450;C20.111.258.350
+00000000|MMI|17.80|Urinary Incontinence|C0042024|[patf]|["URINARY INCONTINENCE"-tx-5-"urinary incontinence"-noun-0]|TX|1714/20|C12.777.934.852;C13.351.968.934.814;C23.888.942.343.800
+00000000|MMI|16.32|Cicatrization|C0008767|[patf]|["SKIN SCARRING"-tx-22-"dermal scarring"-noun-0]|TX|4458/15|A10.165.450.300;C23.550.355.274;G16.100.856.891.249
+00000000|MMI|16.21|Muscular Atrophy|C0026846|[patf]|["Atrophy, Muscle"-tx-22-"atrophy muscle"-noun-0]|TX|4321/7,4343/6|C10.597.613.612;C23.300.070.500;C23.888.592.608.612
+00000000|MMI|14.64|Myasthenia Gravis|C0026896|[dsyn]|["MYASTHENIA GRAVIS"-tx-25-"myasthenia gravis"-noun-0]|TX|5059/17|C10.114.656;C10.668.758.725;C20.111.258.500
+00000000|MMI|13.63|Respiration Disorders|C0035204|[dsyn]|["respiratory disorders"-tx-20-"respiratory disorders"-noun-0,"respiratory disorders"-tx-18-"respiratory disorders"-noun-0]|TX|3907/21;3582/21|C08.618
+00000000|MMI|13.14|Cutis Laxa|C0010495|[dsyn]|["Dermatochalasis"-tx-22-"dermatochalasis"-noun-0]|TX|4436/15|C16.320.850.180;C17.300.230;C17.800.827.180
+00000000|MMI|13.14|Nutritional status|C0392209|[fndg]|["nutrition"-tx-15-"nutrition"-noun-0]|TX|3195/9|G07.203.650.650;N01.224.425.525
+00000000|MMI|12.89|Hyperhidrosis disorder|C0020458|[fndg]|["HYPERHIDROSIS"-tx-32-"hyperhidrosis"-noun-0]|TX|5996/13|C17.800.946.350
+00000000|MMI|11.49|Asthenia|C0004093|[sosy]|["ASTHENIA"-tx-5-"asthenia"-noun-0]|TX|1607/8|C23.888.089
+00000000|MMI|11.49|Facial asymmetry|C1306710|[anab]|["FACIAL ASYMMETRY"-tx-22-"facial asymmetry"-noun-0]|TX|4361/16|C23.300.505
+00000000|MMI|11.49|Neuromuscular Junction Diseases|C0751950|[dsyn]|["Neuromuscular Junction Disorders"-tx-25-"neuromuscular junction disorders"-noun-0]|TX|5019/32|C10.668.758
+00000000|MMI|11.49|Respiratory Failure|C1145670|[dsyn]|["Failure, Respiratory"-tx-19-"respiratory failure"-noun-0]|TX|3748/19|C08.618.846
+00000000|MMI|10.87|Experimental Result|C2825142|[fndg]|["Result"-tx-18-"result"-verb-0,"Result"-tx-16-"result"-verb-0,"Result"-tx-10-"result"-verb-0]|TX|3517/6;3235/6;2584/6|
+00000000|MMI|9.74|Complication Aspects|C1171258|[patf]|["complications"-tx-11-"complications"-noun-0]|TX|2730/13|x.x.x
+00000000|MMI|9.73|Peripheral Neuropathy|C0031117|[dsyn]|["peripheral; neuropathic"-tx-25-"peripheral neuropathic"-adj-0]|TX|4947/10,4964/11|C10.668.829
+00000000|MMI|7.47|Received therapy or drug for|C0332154|[fndg]|["Treated for"-tx-8-"treated for"-verb-0]|TX|[2022/11],[2083/11]|
+00000000|MMI|7.39|compromise|C2945640|[fndg]|["compromise"-tx-26-"compromise"-noun-0,"compromise"-tx-16-"compromised"-verb-0]|TX|5313/10;3366/11|
+00000000|MMI|7.36|5-6|C3843715|[fndg]|["5-6"-tx-27-"5.6"-real_number-0,"5-6"-tx-2-"5.6"-real_number-0]|TX|5404/3;813/3|
+00000000|MMI|7.36|6/5|C0442749|[fndg]|["5 6"-tx-27-"5.6"-real_number-0,"5 6"-tx-2-"5.6"-real_number-0]|TX|5404/3;813/3|
+00000000|MMI|7.08|Accessory skeletal muscle|C0158784|[cgab]|["accessory muscles"-tx-18-"accessory muscles"-noun-0,"accessory muscles"-tx-17-"accessory muscles"-noun-0]|TX|3645/17;3474/17|
+00000000|MMI|7.03|Death (finding)|C1306577|[fndg]|["DEATHS"-tx-14-"Deaths"-noun-0,"Death"-tx-7-"death"-noun-0]|TX|2997/6;1922/5|
+00000000|MMI|6.89|Complication|C0009566|[patf]|["Complication"-tx-14-"complication"-noun-0,"Complications"-tx-11-"complications"-noun-0]|TX|3009/12;2730/13|
+00000000|MMI|6.89|Activity (animal life circumstance)|C3668946|[fndg]|["Activity"-tx-3-"activity"-noun-0,"Activity"-tx-1-"activity"-noun-0]|TX|1105/8;197/8|
+00000000|MMI|6.89|Endurance of activity|C0600075|[fndg]|["Activity"-tx-3-"activity"-noun-0,"Activity"-tx-1-"activity"-noun-0]|TX|1105/8;197/8|
+00000000|MMI|5.18|Actual Aspiration|C2712334|[fndg]|["Aspiration"-tx-16-"Aspiration"-noun-0]|TX|3220/10|
+00000000|MMI|5.18|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-21-"Adverse Reactions"-noun-0]|TX|4052/17|
+00000000|MMI|5.18|Blurred vision|C0344232|[sosy]|["BLURRED VISION"-tx-5-"blurred vision"-noun-0]|TX|1656/14|
+00000000|MMI|5.18|Congenital facial asymmetry|C0546952|[cgab]|["Facial asymmetry"-tx-22-"facial asymmetry"-noun-0]|TX|4361/16|
+00000000|MMI|5.18|Does carry|C0699809|[fndg]|["carry"-tx-28-"carries"-verb-0]|TX|5560/7|
+00000000|MMI|5.18|Generalized muscle weakness|C0746674|[sosy]|["Generalized Muscle Weakness"-tx-5-"generalized muscle weakness"-noun-0]|TX|1617/27|
+00000000|MMI|5.18|Hydration status|C1321013|[fndg]|["Hydration"-tx-15-"hydration"-noun-0]|TX|3209/9|
+00000000|MMI|5.18|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-7-"life threatening"-adj-0]|TX|1874/16|
+00000000|MMI|5.18|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-7-"life threatening"-adj-0]|TX|1874/16|
+00000000|MMI|5.18|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-7-"life threatening"-adj-0]|TX|1874/16|
+00000000|MMI|5.18|Pulmonary aspiration|C0700198|[patf]|["ASPIRATION"-tx-16-"Aspiration"-noun-0]|TX|3220/10|
+00000000|MMI|5.18|Related personal status|C0445223|[fndg]|["Related"-tx-7-"related"-verb-0]|TX|1928/7|
+00000000|MMI|5.18|Symptom aggravating factors|C0436331|[fndg]|["exacerbate"-tx-1-"exacerbate"-verb-0]|TX|555/10|
+00000000|MMI|5.18|Unintentional Material Aspiration|C2827071|[fndg]|["Aspiration"-tx-16-"Aspiration"-noun-0]|TX|3220/10|
+00000000|MMI|5.18|Urinary Incontinence Adverse Event|C1962973|[fndg]|["Incontinence, urinary"-tx-5-"urinary incontinence"-noun-0]|TX|1714/20|
+00000000|MMI|4.19|Swallowing problem|C0392678|[sosy]|["problem with swallowing"-tx-20-"problems with swallowing"-noun-0]|TX|3871/24|
+00000000|MMI|3.78|Thick skin|C0241165|[sosy]|["Thick skin"-tx-22-"thick skin"-noun-0]|TX|4475/5,4491/4|
+00000000|MMI|3.78|concomitant disease|C0243087|[patf]|["concomitant Disorder"-tx-1-"Concomitant disorder"-noun-0]|TX|516/11,542/8|
+00000000|MMI|3.70|Scar Tissue|C0241158|[fndg]|["Skin scarring"-tx-22-"dermal scarring"-noun-0]|TX|4458/15|
+00000000|MMI|3.68|Excess skin of eyelid|C0423124|[fndg]|["Dermatochalasis"-tx-22-"dermatochalasis"-noun-0]|TX|4436/15|
+00000000|MMI|3.68|Weakness|C3714552|[sosy]|["WEAKNESS"-tx-22-"weakness"-noun-0]|TX|4309/8|
+00000000|MMI|3.65|Injection site inflammation|C0151734|[patf]|["INJECTION SITE INFLAMMATION"-tx-22-"inflammation injection site"-noun-0]|TX|4379/12,4399/14|
+00000000|MMI|3.60|Skeletal muscle atrophy|C0541794|[patf]|["Muscle atrophy"-tx-22-"atrophy muscle"-noun-0]|TX|4321/7,4343/6|
+00000000|MMI|3.59|Container status - Identified|C1550043|[fndg]|["Identified"-tx-2-"identified"-verb-0]|TX|789/10|
+00000000|MMI|3.57|At risk of disease|C1281905|[fndg]|["Risk For Disease"-tx-28-"risk for diseases"-noun-0]|TX|5588/8,5619/8|
+00000000|MMI|3.56|effect increased|C0595938|[patf]|["effects increased"-tx-26-"increased effects"-noun-0]|TX|5221/9,5262/7|
+00000000|MMI|3.42|Line 4|C3843263|[fndg]|["Line 4"-tx-22-"4 Lines"-noun-0]|TX|4117/1,4164/5|

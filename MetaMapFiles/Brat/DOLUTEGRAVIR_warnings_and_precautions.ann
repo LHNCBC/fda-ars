@@ -1,0 +1,256 @@
+T1	AdverseReaction 54 80	Hypersensitivity reactions
+T2	AdverseReaction 98 102	rash
+T3	AdverseReaction 143 160	organ dysfunction
+T4	AdverseReaction 172 184	liver injury
+T5	AdverseReaction 515 538	transaminase elevations
+T6	AdverseReaction 783 797;811 822	Redistribution of body fat
+T7	AdverseReaction 798 822	accumulation of body fat
+T8	AdverseReaction 827 857	immune reconstitution syndrome
+T9	DrugClass 902 936	combination antiretroviral therapy
+T10	AdverseReaction 1004 1020	Hypersensitivity
+T11	AdverseReaction 1076 1080	rash
+T12	AdverseReaction 1121 1138	organ dysfunction
+T13	AdverseReaction 1150 1162	liver injury
+T14	AdverseReaction 2216 2239	transaminase elevations
+T15	AdverseReaction 2311 2338	elevations in transaminases
+T16	AdverseReaction 2360 2390	immune reconstitution syndrome
+T17	AdverseReaction 2394 2418	hepatitis B reactivation
+T18	AdverseReaction 2733 2747;2761 2772	Redistribution of body fat
+T19	AdverseReaction 2748 2772	accumulation of body fat
+T20	AdverseReaction 2784 2799	central obesity
+T21	AdverseReaction 2801 2830	dorsocervical fat enlargement
+T22	AdverseReaction 2832 2844	buffalo hump
+T23	AdverseReaction 2764 2772;2847 2865	body fat peripheral wasting
+T24	AdverseReaction 2867 2881	facial wasting
+T25	AdverseReaction 2883 2901	breast enlargement
+T26	AdverseReaction 2908 2929	cushingoid appearance
+T27	DrugClass 2972 2994	antiretroviral therapy
+T28	AdverseReaction 3171 3201	Immune reconstitution syndrome
+T29	AdverseReaction 3419 3440	inflammatory response
+T30	AdverseReaction 3456 3489	residual opportunistic infections
+T31	AdverseReaction 3499 3529	Mycobacterium avium  infection
+T32	AdverseReaction 3531 3546	cytomegalovirus
+T33	AdverseReaction 3548 3581	Pneumocystis jirovecii  pneumonia
+T34	AdverseReaction 3583 3586	PCP
+T35	AdverseReaction 3592 3604	tuberculosis
+T36	AdverseReaction 3697 3712	Graves' disease
+T37	AdverseReaction 3667 3687	Autoimmune disorders
+T38	AdverseReaction 3714 3726	polymyositis
+T39	AdverseReaction 3732 3755	Guillain-Barre syndrome
+T41	Factor 478 482	risk
+T42	Factor 2179 2183	risk
+T43	Factor 3404 3407	may
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E41
+E6	AdverseReaction:T6 Hypothetical:E9
+E7	AdverseReaction:T7 Hypothetical:E9
+E8	AdverseReaction:T8 Hypothetical:E9
+E9	DrugClass:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14 Hypothetical:E42
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18 Hypothetical:E27
+E19	AdverseReaction:T19 Hypothetical:E27
+E20	AdverseReaction:T20 Hypothetical:E27
+E21	AdverseReaction:T21 Hypothetical:E27
+E22	AdverseReaction:T22 Hypothetical:E27
+E23	AdverseReaction:T23 Hypothetical:E27
+E24	AdverseReaction:T24 Hypothetical:E27
+E25	AdverseReaction:T25 Hypothetical:E27
+E26	AdverseReaction:T26 Hypothetical:E27
+E27	DrugClass:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29 Hypothetical:E43
+E30	AdverseReaction:T30 Hypothetical:E43
+E31	AdverseReaction:T31 Hypothetical:E43
+E32	AdverseReaction:T32 Hypothetical:E43
+E33	AdverseReaction:T33 Hypothetical:E43
+E34	AdverseReaction:T34 Hypothetical:E43
+E35	AdverseReaction:T35 Hypothetical:E43
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E41	Factor:T41
+E42	Factor:T42
+E43	Factor:T43
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	LLT E1 Hypersensitivity reaction
+A6	LLT-ID E1 10020756
+A7	CUI E2 C0015230
+A8	UMLS-Preferred-Name E2 Exanthema
+A9	MEDDRA-PT E2 Rash
+A10	MEDDRA-PT-ID E2 10037844
+A11	CUI E3 C0349410
+A12	UMLS-Preferred-Name E3 Single organ dysfunction
+A13	MEDDRA-PT E3 Organ failure
+A14	MEDDRA-PT-ID E3 10053159
+A15	CUI E4 C0160390
+A16	UMLS-Preferred-Name E4 Injury of liver
+A17	MEDDRA-PT E4 Liver injury
+A18	MEDDRA-PT-ID E4 10067125
+A19	CUI E5 C0438717
+A20	UMLS-Preferred-Name E5 Transaminases increased
+A21	MEDDRA-PT E5 Transaminases increased
+A22	MEDDRA-PT-ID E5 10054889
+A23	CUI E6 C0856151
+A24	UMLS-Preferred-Name E6 Fat redistribution
+A25	MEDDRA-PT E6 Fat redistribution
+A26	MEDDRA-PT-ID E6 10048474
+A27	CUI E7 C1096393
+A28	UMLS-Preferred-Name E7 Body fat disorder
+A29	MEDDRA-PT E7 Body fat disorder
+A30	MEDDRA-PT-ID E7 10055164
+A31	CUI E8 C1096197
+A32	UMLS-Preferred-Name E8 Immune reconstitution syndrome
+A33	MEDDRA-PT E8 Immune reconstitution inflammatory syndrome
+A34	MEDDRA-PT-ID E8 10065042
+A35	LLT E8 Immune reconstitution syndrome
+A36	LLT-ID E8 10054014
+A37	CUI E10 C0020517
+A38	UMLS-Preferred-Name E10 Hypersensitivity
+A39	MEDDRA-PT E10 Hypersensitivity
+A40	MEDDRA-PT-ID E10 10020751
+A41	CUI E11 C0015230
+A42	UMLS-Preferred-Name E11 Exanthema
+A43	MEDDRA-PT E11 Rash
+A44	MEDDRA-PT-ID E11 10037844
+A45	CUI E12 C0349410
+A46	UMLS-Preferred-Name E12 Single organ dysfunction
+A47	MEDDRA-PT E12 Organ failure
+A48	MEDDRA-PT-ID E12 10053159
+A49	CUI E13 C0160390
+A50	UMLS-Preferred-Name E13 Injury of liver
+A51	MEDDRA-PT E13 Liver injury
+A52	MEDDRA-PT-ID E13 10067125
+A53	CUI E14 C0438717
+A54	UMLS-Preferred-Name E14 Transaminases increased
+A55	MEDDRA-PT E14 Transaminases increased
+A56	MEDDRA-PT-ID E14 10054889
+A57	CUI E15 C0438717
+A58	UMLS-Preferred-Name E15 Transaminases increased
+A59	MEDDRA-PT E15 Transaminases increased
+A60	MEDDRA-PT-ID E15 10054889
+A61	CUI E16 C1096197
+A62	UMLS-Preferred-Name E16 Immune reconstitution syndrome
+A63	MEDDRA-PT E16 Immune reconstitution inflammatory syndrome
+A64	MEDDRA-PT-ID E16 10065042
+A65	LLT E16 Immune reconstitution syndrome
+A66	LLT-ID E16 10054014
+A67	CUI E17 C1142420
+A68	UMLS-Preferred-Name E17 Hepatitis B reactivation
+A69	MEDDRA-PT E17 Hepatitis B
+A70	MEDDRA-PT-ID E17 10019731
+A71	LLT E17 Hepatitis B reactivation
+A72	LLT-ID E17 10058827
+A73	CUI E18 C0856151
+A74	UMLS-Preferred-Name E18 Fat redistribution
+A75	MEDDRA-PT E18 Fat redistribution
+A76	MEDDRA-PT-ID E18 10048474
+A77	CUI E19 C1096393
+A78	UMLS-Preferred-Name E19 Body fat disorder
+A79	MEDDRA-PT E19 Body fat disorder
+A80	MEDDRA-PT-ID E19 10055164
+A81	CUI E20 C0311277
+A82	UMLS-Preferred-Name E20 Obesity, Abdominal
+A83	MEDDRA-PT E20 Central obesity
+A84	MEDDRA-PT-ID E20 10065941
+A85	CUI E21 C0520573
+A86	UMLS-Preferred-Name E21 Buffalo hump
+A87	MEDDRA-PT E21 Lipohypertrophy
+A88	MEDDRA-PT-ID E21 10062315
+A89	LLT E21 Buffalo hump
+A90	LLT-ID E21 10006539
+A91	CUI E22 C0520573
+A92	UMLS-Preferred-Name E22 Buffalo hump
+A93	MEDDRA-PT E22 Lipohypertrophy
+A94	MEDDRA-PT-ID E22 10062315
+A95	LLT E22 Buffalo hump
+A96	LLT-ID E22 10006539
+A97	CUI E23 C0333650
+A98	UMLS-Preferred-Name E23 Adipose Tissue Atrophy
+A99	MEDDRA-PT E23 Lipoatrophy
+A100	MEDDRA-PT-ID E23 10024604
+A101	LLT E23 Fat atrophy NOS
+A102	LLT-ID E23 10016242
+A103	CUI E24 C1112303
+A104	UMLS-Preferred-Name E24 Facial wasting
+A105	MEDDRA-PT E24 Facial wasting
+A106	MEDDRA-PT-ID E24 10056866
+A107	CUI E25 C2225524
+A108	UMLS-Preferred-Name E25 Macromastia
+A109	MEDDRA-PT E25 Breast enlargement
+A110	MEDDRA-PT-ID E25 10006242
+A111	CUI E26 C0742929
+A112	UMLS-Preferred-Name E26 CUSHINGOID APPEARANCE
+A113	MEDDRA-PT E26 Cushingoid
+A114	MEDDRA-PT-ID E26 10011655
+A115	LLT E26 Cushingoid facies
+A116	LLT-ID E26 10011656
+A117	CUI E28 C1096197
+A118	UMLS-Preferred-Name E28 Immune reconstitution syndrome
+A119	MEDDRA-PT E28 Immune reconstitution inflammatory syndrome
+A120	MEDDRA-PT-ID E28 10065042
+A121	LLT E28 Immune reconstitution syndrome
+A122	LLT-ID E28 10054014
+A123	CUI E29 C1155266
+A124	UMLS-Preferred-Name E29 inflammatory response
+A125	MEDDRA-PT E29 Inflammation
+A126	MEDDRA-PT-ID E29 10061218
+A127	LLT E29 Inflammatory reaction
+A128	LLT-ID E29 10021995
+A129	CUI E30 C0029118
+A130	UMLS-Preferred-Name E30 Opportunistic Infections
+A131	MEDDRA-PT E30 Opportunistic infection
+A132	MEDDRA-PT-ID E30 10030901
+A133	CUI E31 C1411980
+A134	UMLS-Preferred-Name E31 Mycobacterium avium infection
+A135	MEDDRA-PT E31 Mycobacterium avium complex infection
+A136	MEDDRA-PT-ID E31 10058806
+A137	LLT E31 Infection mycobacterium avium
+A138	LLT-ID E31 10021840
+A139	CUI E32 C0010823
+A140	UMLS-Preferred-Name E32 Cytomegalovirus Infections
+A141	MEDDRA-PT E32 Cytomegalovirus infection
+A142	MEDDRA-PT-ID E32 10011831
+A143	CUI E33 C1535939
+A144	UMLS-Preferred-Name E33 Pneumocystis jiroveci pneumonia
+A145	MEDDRA-PT E33 Pneumocystis jirovecii pneumonia
+A146	MEDDRA-PT-ID E33 10073755
+A147	CUI E34 C1535939
+A148	UMLS-Preferred-Name E34 Pneumocystis jiroveci pneumonia
+A149	MEDDRA-PT E34 Pneumocystis jirovecii pneumonia
+A150	MEDDRA-PT-ID E34 10073755
+A151	CUI E35 C0041296
+A152	UMLS-Preferred-Name E35 Tuberculosis
+A153	MEDDRA-PT E35 Tuberculosis
+A154	MEDDRA-PT-ID E35 10044755
+A155	CUI E36 C0018213
+A156	UMLS-Preferred-Name E36 Graves Disease
+A157	MEDDRA-PT E36 Basedow's disease
+A158	MEDDRA-PT-ID E36 10004161
+A159	LLT E36 Graves' disease
+A160	LLT-ID E36 10018706
+A161	CUI E37 C0004364
+A162	UMLS-Preferred-Name E37 Autoimmune Diseases
+A163	MEDDRA-PT E37 Autoimmune disorder
+A164	MEDDRA-PT-ID E37 10061664
+A165	CUI E38 C0085655
+A166	UMLS-Preferred-Name E38 Polymyositis
+A167	MEDDRA-PT E38 Polymyositis
+A168	MEDDRA-PT-ID E38 10036102
+A169	CUI E39 C0018378
+A170	UMLS-Preferred-Name E39 Guillain-Barre Syndrome
+A171	MEDDRA-PT E39 Guillain-Barre syndrome
+A172	MEDDRA-PT-ID E39 10018767

@@ -1,0 +1,76 @@
+T1	AdverseReaction 30 72	PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY
+T2	AdverseReaction 74 77	PML
+T3	AdverseReaction 93 135	PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY
+T4	AdverseReaction 137 140	PML
+T5	AdverseReaction 149 167	JC virus infection
+T6	Factor 195 198	can
+T7	AdverseReaction 181 184	PML
+T8	AdverseReaction 189 194	death
+T9	AdverseReaction 368 410	PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY
+T10	AdverseReaction 412 415	PML
+T11	AdverseReaction 498 516	JC virus infection
+T12	AdverseReaction 530 533	PML
+T13	AdverseReaction 538 543	death
+T14	Factor 544 547	can
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E6
+E6	Factor:T6
+E7	AdverseReaction:T7 Hypothetical:E6
+E8	AdverseReaction:T8 Hypothetical:E6
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11 Hypothetical:E14
+E12	AdverseReaction:T12 Hypothetical:E14
+E13	AdverseReaction:T13 Hypothetical:E14
+E14	Factor:T14
+A1	CUI E1 C0023524
+A2	UMLS-Preferred-Name E1 Leukoencephalopathy, Progressive Multifocal
+A3	MEDDRA-PT E1 Progressive multifocal leukoencephalopathy
+A4	MEDDRA-PT-ID E1 10036807
+A5	CUI E2 C0023524
+A6	UMLS-Preferred-Name E2 Leukoencephalopathy, Progressive Multifocal
+A7	MEDDRA-PT E2 Progressive multifocal leukoencephalopathy
+A8	MEDDRA-PT-ID E2 10036807
+A9	CUI E3 C0023524
+A10	UMLS-Preferred-Name E3 Leukoencephalopathy, Progressive Multifocal
+A11	MEDDRA-PT E3 Progressive multifocal leukoencephalopathy
+A12	MEDDRA-PT-ID E3 10036807
+A13	CUI E4 C0023524
+A14	UMLS-Preferred-Name E4 Leukoencephalopathy, Progressive Multifocal
+A15	MEDDRA-PT E4 Progressive multifocal leukoencephalopathy
+A16	MEDDRA-PT-ID E4 10036807
+A17	CUI E5 C0857836
+A18	UMLS-Preferred-Name E5 JC virus infection
+A19	MEDDRA-PT E5 JC virus infection
+A20	MEDDRA-PT-ID E5 10023163
+A21	CUI E7 C0023524
+A22	UMLS-Preferred-Name E7 Leukoencephalopathy, Progressive Multifocal
+A23	MEDDRA-PT E7 Progressive multifocal leukoencephalopathy
+A24	MEDDRA-PT-ID E7 10036807
+A25	CUI E8 C1306577
+A26	UMLS-Preferred-Name E8 Death (finding)
+A27	MEDDRA-PT E8 Death
+A28	MEDDRA-PT-ID E8 10011906
+A29	CUI E9 C0023524
+A30	UMLS-Preferred-Name E9 Leukoencephalopathy, Progressive Multifocal
+A31	MEDDRA-PT E9 Progressive multifocal leukoencephalopathy
+A32	MEDDRA-PT-ID E9 10036807
+A33	CUI E10 C0023524
+A34	UMLS-Preferred-Name E10 Leukoencephalopathy, Progressive Multifocal
+A35	MEDDRA-PT E10 Progressive multifocal leukoencephalopathy
+A36	MEDDRA-PT-ID E10 10036807
+A37	CUI E11 C0857836
+A38	UMLS-Preferred-Name E11 JC virus infection
+A39	MEDDRA-PT E11 JC virus infection
+A40	MEDDRA-PT-ID E11 10023163
+A41	CUI E12 C0023524
+A42	UMLS-Preferred-Name E12 Leukoencephalopathy, Progressive Multifocal
+A43	MEDDRA-PT E12 Progressive multifocal leukoencephalopathy
+A44	MEDDRA-PT-ID E12 10036807
+A45	CUI E13 C1306577
+A46	UMLS-Preferred-Name E13 Death (finding)
+A47	MEDDRA-PT E13 Death
+A48	MEDDRA-PT-ID E13 10011906

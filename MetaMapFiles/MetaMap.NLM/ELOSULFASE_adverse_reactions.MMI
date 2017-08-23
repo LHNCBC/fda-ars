@@ -1,0 +1,26 @@
+00000000|MMI|48.15|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-16-"adverse reactions"-noun-1,"ADVERSE REACTION"-tx-15-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-15-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-14-"adverse reactions"-noun-0,"Adverse reactions"-tx-7-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-6-"adverse reactions"-noun-0,"Adverse reactions"-tx-4-"adverse reactions"-noun-0,"Adverse reactions"-tx-2-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-1-"adverse reaction"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0]|TX|2987/17;2304/16;2107/17;1878/17;1131/17;904/17;504/17;317/17;98/16;6/17|
+00000000|MMI|33.22|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-15-"Abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-6-"abdominal pain"-noun-0]|TX|2647/14;1058/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|33.08|Headache|C0018681|[sosy]|["HEADACHE"-tx-15-"Headache"-noun-0,"HEADACHE"-tx-6-"headache"-noun-0]|TX|2539/8;1040/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|29.46|Vomiting|C0042963|[sosy]|["VOMITING"-tx-15-"Vomiting"-verb-0,"VOMITING"-tx-6-"vomiting"-verb-0]|TX|2485/8;1030/8|C23.888.821.937
+00000000|MMI|26.74|Fever|C0015967|[fndg]|["PYREXIA"-tx-15-"Pyrexia"-noun-0,"PYREXIA"-tx-6-"pyrexia"-noun-0]|TX|2431/7;1021/7|C23.888.119.344
+00000000|MMI|26.74|Nausea|C0027497|[sosy]|["NAUSEA"-tx-15-"Nausea"-noun-0,"NAUSEA"-tx-6-"nausea"-noun-0]|TX|2593/6;1050/6|C23.888.821.712
+00000000|MMI|26.28|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-20-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-3-"Anaphylaxis"-noun-0]|TX|3490/11;392/11|C20.543.480.099
+00000000|MMI|20.39|Chills|C0085593|[sosy]|["CHILLS"-tx-15-"Chills"-noun-0,"CHILLS"-tx-6-"chills"-noun-0]|TX|2702/6;1074/6|C23.888.208
+00000000|MMI|20.39|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-15-"Fatigue"-noun-0,"FATIGUE"-tx-6-"fatigue"-noun-0]|TX|2756/7;1086/7|C23.888.369
+00000000|MMI|19.92|Disease|C0012634|[dsyn]|["DISEASE"-tx-26-"disease"-noun-0,"condition"-tx-1-"conditions"-noun-0]|TX|4442/7;86/10|C23.550.288
+00000000|MMI|19.35|10%|C3842590|[fndg]|["10%"-tx-15-"10"-percentage-0,"10%"-tx-14-"10"-percentage-0,"10%"-tx-10-"10"-percentage-0,"10%"-tx-6-"10"-percentage-0,"10%"-tx-4-"10"-percentage-0]|TX|2183/2;1966/2;1545/2;925/2;525/2|
+00000000|MMI|16.77|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-20-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-3-"hypersensitivity reactions"-noun-0]|TX|3511/26;408/26|C20.543
+00000000|MMI|10.42|1+|C3816745|[fndg]|["1+"-tx-15-"1"-integer-0]|TX|[2682/1],[2736/1]|
+00000000|MMI|10.42|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-15-"Vomiting"-verb-0,"Vomiting"-tx-6-"vomiting"-verb-0]|TX|2485/8;1030/8|
+00000000|MMI|7.70|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-15-"Headache"-noun-0,"headache"-tx-6-"headache"-noun-0]|TX|2539/8;1040/8|
+00000000|MMI|7.70|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-15-"Nausea"-noun-0,"Nausea"-tx-6-"nausea"-noun-0]|TX|2593/6;1050/6|
+00000000|MMI|7.70|Outcome of Therapy|C1518681|[fndg]|["Treatment Effect"-tx-24-"treatment effect"-noun-0,"Treatment Effect"-tx-20-"treatment effect"-noun-0]|TX|4024/16;3452/16|
+00000000|MMI|7.47|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-12-"randomized"-verb-0,"RANDOMIZED"-tx-8-"randomized"-verb-0]|TX|1626/10;1290/10|
+00000000|MMI|7.25|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-20-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-3-"Anaphylaxis"-noun-0]|TX|3490/11;392/11|
+00000000|MMI|5.18|2+|C3833492|[fndg]|["2+"-tx-15-"2"-integer-0]|TX|2790/1|
+00000000|MMI|5.18|3-4|C3840617|[fndg]|["3-4"-tx-15-"3.4"-percentage-0]|TX|2793/3|
+00000000|MMI|5.18|3/4|C0442757|[fndg]|["3 4"-tx-15-"3.4"-percentage-0]|TX|2793/3|
+00000000|MMI|5.18|65+|C3843765|[fndg]|["65+"-tx-10-"65"-percentage-0]|TX|1504/2|
+00000000|MMI|5.18|Mucopolysaccharidosis, MPS-IV-A|C0086651|[dsyn]|["MPS IVA"-tx-8-"MPS IVA"-noun-0]|TX|1396/7|
+00000000|MMI|3.50|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-10-"3"-percentage-0]|TX|1531/1|
+00000000|MMI|3.48|Discontinued|C1444662|[fndg]|["Discontinue"-tx-5-"discontinuing"-adj-0]|TX|769/13|

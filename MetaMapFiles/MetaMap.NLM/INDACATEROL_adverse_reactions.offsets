@@ -1,0 +1,89 @@
+158,164|C0004096|asthma|dsyn
+165,172|C0445223|related|fndg
+173,178|C1306577|death|fndg
+214,223|C1444656|indicated|fndg
+425,430|C0010200|cough|sosy
+425,430|C1961131|cough|fndg
+432,450|C2363731|oropharyngeal pain|sosy
+452,467|C0027441|nasopharyngitis|dsyn
+469,477|C0018681|headache|sosy
+469,477|C2096315|headache|fndg
+482,488|C0027497|nausea|sosy
+482,488|C1963179|nausea|patf
+705,742|C0024117|Chronic Obstructive Pulmonary Disease|dsyn
+805,815|C0012634|conditions|dsyn
+1178,1188|C3815594|randomized|fndg
+1386,1390|C0024117|COPD|dsyn
+1386,1390|C3714496|COPD|dsyn
+1562,1566|C1561566|FEV1|fndg
+1562,1566|C0429706|FEV1|fndg
+1920,1932|C1444662|discontinued|fndg
+1974,1977;1995,2002|C0332154|for treated|fndg
+2019,2022;2031,2038|C0332154|for treated|fndg
+2096,2111|C1444662|discontinuation|fndg
+2137,2141|C0024117|COPD|dsyn
+2137,2141|C3714496|COPD|dsyn
+2146,2153|C0013404|dyspnea|sosy
+2206,2223|C0740304|COPD exacerbation|dsyn
+2225,2234|C0032285|pneumonia|dsyn
+2236,2251|C0002962|angina pectoris|fndg
+2257,2276|C0004238|atrial fibrillation|dsyn
+2257,2276|C1963067|atrial fibrillation|fndg
+2748,2752|C0024117|COPD|dsyn
+2748,2752|C3714496|COPD|dsyn
+3063,3084|C0025061|mediastinal disorders|dsyn
+3091,3096|C0010200|Cough|sosy
+3091,3096|C1961131|Cough|fndg
+3145,3163|C2363731|Oropharyngeal pain|sosy
+3202,3212|C3714514|Infections|patf
+3217,3229|C0851341|infestations|dsyn
+3236,3251|C0027441|Nasopharyngitis|dsyn
+3321,3329|C0018681|Headache|sosy
+3321,3329|C2096315|Headache|fndg
+3373,3399|C0017178|Gastrointestinal disorders|dsyn
+3406,3412|C0027497|Nausea|sosy
+3406,3412|C1963179|Nausea|patf
+3987,4014|C0009782|connective tissue disorders|dsyn
+4016,4028|C0037763|muscle spasm|sosy
+4016,4028|C0700153|muscle spasm|sosy
+4030,4050|C0026858|musculoskeletal pain|fndg
+4066,4075|C0012634|disorders|dsyn
+4100,4110|C0012634|conditions|dsyn
+4112,4117|C0013604|edema|fndg
+4149,4167|C3714509|nutrition disorder|dsyn
+4169,4186|C0011849|diabetes mellitus|dsyn
+4188,4201|C0020456|hyperglycemia|dsyn
+4207,4217|C3714514|Infections|patf
+4222,4234|C0851341|infestations|dsyn
+4236,4245|C0037199|sinusitis|dsyn
+4247,4280|C0041912|upper respiratory tract infection|dsyn
+4475,4480|C0010200|cough|sosy
+4475,4480|C1961131|cough|fndg
+4629,4634|C0010200|cough|sosy
+4629,4634|C1961131|cough|fndg
+4731,4736|C0010200|Cough|sosy
+4731,4736|C1961131|Cough|fndg
+4801,4813|C0006266|bronchospasm|dsyn
+4921,4927|C0004096|Asthma|dsyn
+4944,4954|C3815594|randomized|fndg
+4974,4980|C0004096|asthma|dsyn
+5031,5055|C1960048|severe persistent asthma|dsyn
+5230,5240|C3815594|randomized|fndg
+5286,5293|C0445223|related|fndg
+5294,5300|C1306577|deaths|fndg
+5478,5485|C0445223|related|fndg
+5489,5508|C0349790|asthma exacerbation|fndg
+5761,5783|C1960046|mild persistent asthma|dsyn
+6013,6023|C1550043|identified|fndg
+6188,6197|C0087130|uncertain|fndg
+6349,6375|C0020517|hypersensitivity reactions|patf
+6377,6401|C0236072|paradoxical bronchospasm|patf
+6403,6414|C0039231|tachycardia|patf
+6403,6414|C3827868|tachycardia|fndg
+6415,6434|C0039231|heart rate increase|patf
+6435,6447|C0030252|palpitations|fndg
+6435,6447|C3160712|palpitations|fndg
+6449,6462|C0033771|pruritus/rash|dsyn
+6467,6476|C0012833|dizziness|sosy
+6467,6476|C0042571|dizziness|sosy
+6467,6476|C1963093|dizziness|fndg

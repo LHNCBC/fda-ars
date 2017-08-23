@@ -1,0 +1,24 @@
+00000000|MMI|126.16|Neutropenia|C0027947|[dsyn]|["NEUTROPENIA"-tx-9-"neutropenia"-noun-0,"NEUTROPENIA"-tx-8-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-3-"neutropenia"-noun-0,"NEUTROPENIA"-tx-1-"NEUTROPENIA"-noun-0]|TX|873/11;781/11;335/11;[30/11],[77/11],[137/11]|C15.378.553.546.184.564
+00000000|MMI|85.39|Leukopenia|C0023530|[dsyn]|["NEUTROPENIA"-tx-9-"neutropenia"-noun-0,"NEUTROPENIA"-tx-8-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-3-"neutropenia"-noun-0,"NEUTROPENIA"-tx-1-"NEUTROPENIA"-noun-0]|TX|873/11;781/11;335/11;[30/11],[77/11],[137/11]|C15.378.553.546
+00000000|MMI|24.23|Neutrophil count decreased|C0853697|[fndg]|["Neutropenia"-tx-9-"neutropenia"-noun-0,"Neutropenia"-tx-8-"Neutropenia"-noun-0,"Neutropenia"-tx-3-"neutropenia"-noun-0,"Neutropenia"-tx-1-"NEUTROPENIA"-noun-0]|TX|873/11;781/11;335/11;[30/11],[77/11],[137/11]|
+00000000|MMI|24.16|severe allergic reaction|C2220378|[fndg]|["severe Hypersensitivity reactions"-tx-14-"severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-12-"Severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity"-tx-11-"Severe hypersensitivity"-noun-0,"severe Hypersensitivity reactions"-tx-11-"Severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-7-"severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity"-tx-5-"Severe hypersensitivity"-noun-0]|TX|1526/33;1291/33;1147/23;1174/33;673/33;426/23|
+00000000|MMI|24.16|severe allergy|C2945656|[fndg]|["severe Hypersensitivity reactions"-tx-14-"severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-12-"Severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity"-tx-11-"Severe hypersensitivity"-noun-0,"severe Hypersensitivity reactions"-tx-11-"Severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-7-"severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity"-tx-5-"Severe hypersensitivity"-noun-0]|TX|1526/33;1291/33;1147/23;1174/33;673/33;426/23|
+00000000|MMI|23.12|Bronchial Spasm|C0006266|[dsyn]|["BRONCHOSPASM"-tx-11-"bronchospasm"-noun-0,"BRONCHOSPASM"-tx-5-"bronchospasm"-noun-0]|TX|1277/12;519/12|C08.127.321
+00000000|MMI|23.12|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-11-"hypotension"-noun-0,"HYPOTENSION"-tx-5-"hypotension"-noun-0]|TX|1261/11;503/11|C14.907.514
+00000000|MMI|20.57|Hypersensitivity|C0020517|[patf]|["HYPERSENSITIVITY"-tx-1-"HYPERSENSITIVITY"-noun-0]|TX|[46/16],[93/16],[153/16]|C20.543
+00000000|MMI|20.00|Erythema|C0041834|[dsyn]|["ERYTHEMA"-tx-11-"erythema"-noun-0,"ERYTHEMA"-tx-5-"erythema"-noun-0]|TX|1251/8;493/8|C17.800.229
+00000000|MMI|19.68|Exanthema|C0015230|[sosy]|["RASH"-tx-11-"rash"-noun-0,"RASH"-tx-5-"rash"-noun-0]|TX|1246/4;488/4|C17.800.257
+00000000|MMI|11.21|Contraindicated|C1444657|[fndg]|["Contraindicated"-tx-14-"contraindicated"-verb-0,"Contraindicated"-tx-10-"contraindicated"-verb-0,"Contraindicated"-tx-7-"Contraindicated"-noun-0]|TX|1476/15;979/15;643/15|
+00000000|MMI|10.96|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-1-"HYPERSENSITIVITY"-noun-0]|TX|[46/16],[93/16],[153/16]|
+00000000|MMI|10.42|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-11-"hypotension"-noun-0,"Hypotension"-tx-5-"hypotension"-noun-0]|TX|1261/11;503/11|
+00000000|MMI|7.61|Generalised erythema|C0849916|[sosy]|["Generalized erythema"-tx-11-"generalized erythema"-noun-0,"Generalized erythema"-tx-5-"generalized erythema"-noun-0]|TX|1234/11,1251/8;476/11,493/8|
+00000000|MMI|7.55|Rash erythematous|C0234913|[fndg]|["rash; erythema"-tx-11-"rash/erythema"-noun-0,"rash; erythema"-tx-5-"rash/erythema"-noun-0]|TX|1246/13;488/13|
+00000000|MMI|7.46|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-12-"discontinuation"-noun-0,"Discontinue"-tx-6-"Discontinue"-verb-0]|TX|1343/15;533/11|
+00000000|MMI|7.40|Death (finding)|C1306577|[fndg]|["DEATHS"-tx-8-"deaths"-noun-0,"DEATHS"-tx-2-"deaths"-noun-0]|TX|808/6;264/6|
+00000000|MMI|7.24|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-14-"history of"-noun-0,"HISTORY OF"-tx-7-"history of"-noun-0]|TX|1515/10;662/10|
+00000000|MMI|7.11|Rash generalised|C0497365|[fndg]|["GENERALIZED RASH"-tx-11-"generalized rash"-noun-0,"GENERALIZED RASH"-tx-5-"generalized rash"-noun-0]|TX|1234/16;476/16|
+00000000|MMI|7.11|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-12-"therapy"-noun-0,"Therapy"-tx-6-"therapy"-noun-0]|TX|1417/7;618/7|
+00000000|MMI|3.74|1 - 3|C3843504|[fndg]|["1 - 3"-tx-10-"1 3"-comma_integer-0]|TX|1035/1,1051/1|
+00000000|MMI|3.68|2+|C3833492|[fndg]|["2+"-tx-5-"2"-real_number-0]|TX|413/1|
+00000000|MMI|3.47|Therapy Appropriate|C1555288|[fndg]|["Therapy Appropriate"-tx-12-"appropriate therapy"-noun-0]|TX|1405/19|
+00000000|MMI|3.47|1+|C3816745|[fndg]|["1+"-tx-4-"1"-comma_integer-1]|TX|395/1|

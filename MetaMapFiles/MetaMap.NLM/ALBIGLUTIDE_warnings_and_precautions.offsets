@@ -1,0 +1,91 @@
+68,74|C0027651|Tumors|neop
+109,121|C0030305|Pancreatitis|dsyn
+109,121|C1963198|Pancreatitis|fndg
+123,134|C1444662|Discontinue|fndg
+244,267|C3887021|history of pancreatitis|fndg
+283,295|C0020615|Hypoglycemia|dsyn
+312,316|C1273517|used|fndg
+320,331|C3811910|combination|fndg
+479,505|C0020517|Hypersensitivity Reactions|patf
+507,518|C1444662|Discontinue|fndg
+595,600|C0311392|signs|fndg
+605,613|C1457887|symptoms|sosy
+637,653|C1565489|Renal Impairment|dsyn
+695,711|C1565489|renal impairment|dsyn
+972,982;990,996|C0040136|of Thyroid Tumors|neop
+1002,1017|C0858970|Carcinogenicity|neop
+1221,1228|C0445223|related|fndg
+1277,1283|C0027651|tumors|neop
+1285,1293|C0001430|adenomas|neop
+1297,1307|C0007097|carcinomas|neop
+1371,1384|C0334689|C-cell tumors|neop
+1473,1479|C0027651|tumors|neop
+2078,2093|C1444657|contraindicated|fndg
+2125,2142|C0241889|family history of|fndg
+2268,2270;2283,2297|C0040136|of thyroid tumors|neop
+2271,2279|C1457887|symptoms|sosy
+2307,2311;2319,2323|C2137078|mass neck|fndg
+2307,2311;2319,2323|C0149736|mass neck|fndg
+2325,2334|C0011168|dysphagia|dsyn
+2336,2343|C0013404|dyspnea|sosy
+2359,2369|C0019825|hoarseness|sosy
+2453,2462|C0087130|uncertain|fndg
+2606,2609;2631,2641|C0860982|low calcitonin|fndg
+2693,2708|C0040128|thyroid disease|dsyn
+2693,2708|C2186538|thyroid disease|fndg
+2724,2732;2739,2749|C1868394|elevated calcitonin|fndg
+2943,2958|C0040137|thyroid nodules|neop
+3049,3050;3076,3091|C3842777|2 clinical trials|fndg
+3051,3069|C0001339|Acute Pancreatitis|dsyn
+3093,3111|C0001339|acute pancreatitis|dsyn
+3230,3242|C0030305|pancreatitis|dsyn
+3230,3242|C1963198|pancreatitis|fndg
+3265,3272|C0445223|related|fndg
+3276,3283|C1363945|therapy|fndg
+3517,3522|C0311392|signs|fndg
+3527,3535|C1457887|symptoms|sosy
+3539,3551|C0030305|pancreatitis|dsyn
+3539,3551|C1963198|pancreatitis|fndg
+3574,3595|C1411946|severe abdominal pain|sosy
+3672,3680|C0042963|vomiting|sosy
+3672,3680|C1963281|vomiting|patf
+3686,3698|C0030305|pancreatitis|dsyn
+3686,3698|C1963198|pancreatitis|fndg
+3722,3733|C1444662|discontinue|fndg
+3746,3758|C0030305|pancreatitis|dsyn
+3746,3758|C1963198|pancreatitis|fndg
+4015,4038|C3887021|history of pancreatitis|fndg
+4050,4062;4087,4094|C0858734|Hypoglycemia Insulin|dsyn
+4135,4147|C0020615|hypoglycemia|dsyn
+4177,4181|C1273517|used|fndg
+4185,4196|C3811910|combination|fndg
+4352,4364|C0020615|hypoglycemia|dsyn
+4458,4484|C0020517|Hypersensitivity Reactions|patf
+4565,4590|C0020517|hypersensitivity reaction|patf
+4596,4604|C0033774|pruritus|sosy
+4606,4610|C0015230|rash|sosy
+4616,4623|C0013404|dyspnea|sosy
+4671,4697|C0020517|hypersensitivity reactions|patf
+4705,4716|C1444662|discontinue|fndg
+4787,4792|C0311392|signs|fndg
+4797,4805|C1457887|symptoms|sosy
+4858,4874|C1565489|Renal Impairment|dsyn
+4969,4988|C0022660|acute renal failure|dsyn
+4969,4988|C3854173|acute renal failure|dsyn
+4993,5002|C1457868|worsening|fndg
+5006,5027|C0022661|chronic renal failure|dsyn
+5006,5027|C1561643|chronic renal failure|dsyn
+5006,5027|C2316810|chronic renal failure|dsyn
+5143,5156|C0022658|renal disease|dsyn
+5229,5235|C0027497|nausea|sosy
+5229,5235|C1963179|nausea|patf
+5237,5245|C0042963|vomiting|sosy
+5237,5245|C1963281|vomiting|patf
+5247,5255|C0011991|diarrhea|sosy
+5247,5255|C1963091|diarrhea|fndg
+5260,5271|C0011175|dehydration|dsyn
+5312,5328|C1565489|renal impairment|dsyn
+5385,5411|C0542184|gastrointestinal reactions|fndg
+5412,5421;5425,5439|C0232806|increased renal function|fndg
+5521,5527|C1457868|worsen|fndg
+5620,5636|C1565489|renal impairment|dsyn

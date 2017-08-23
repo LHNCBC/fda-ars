@@ -1,0 +1,104 @@
+52,70|C0001339|Acute pancreatitis|dsyn
+113,131|C0001339|acute pancreatitis|dsyn
+136,148|C0030305|pancreatitis|dsyn
+136,148|C1963198|pancreatitis|fndg
+172,183|C1444662|discontinue|fndg
+205,221|C0020517|Hypersensitivity|patf
+205,221|C0520946|Hypersensitivity|fndg
+272,298|C0020517|hypersensitivity reactions|patf
+339,350|C0002792|anaphylaxis|patf
+339,350|C0850803|anaphylaxis|dsyn
+352,362|C0002994|angioedema|patf
+427,438|C1444662|discontinue|fndg
+568,576|C0011860|diabetes|dsyn
+568,576|C0011849|diabetes|dsyn
+568,576|C0011847|diabetes|dsyn
+633,648|C0085605|hepatic failure|dsyn
+660,665|C1705232|fatal|fndg
+700,712|C0160390|liver injury|inpo
+716,724|C0442726|detected|fndg
+824,834|C1514893|resolution|patf
+959,971|C0020615|Hypoglycemia|dsyn
+1037,1041|C1273517|used|fndg
+1045,1056|C3811910|combination|fndg
+1162,1174|C0020615|hypoglycemia|dsyn
+1189,1199|C0003862|Arthralgia|sosy
+1222,1232|C0003862|arthralgia|sosy
+1328,1338|C0003862|joint pain|sosy
+1328,1338|C1963066|joint pain|fndg
+1343,1354|C1444662|discontinue|fndg
+1577,1589|C0030305|Pancreatitis|dsyn
+1577,1589|C1963198|Pancreatitis|fndg
+1634,1652|C0001339|acute pancreatitis|dsyn
+1750,1755|C0311392|signs|fndg
+1760,1768|C1457887|symptoms|sosy
+1772,1784|C0030305|pancreatitis|dsyn
+1772,1784|C1963198|pancreatitis|fndg
+1789,1801|C0030305|pancreatitis|dsyn
+1789,1801|C1963198|pancreatitis|fndg
+1842,1854|C1444662|discontinued|fndg
+1941,1964|C3887021|history of pancreatitis|fndg
+2010,2022|C0030305|pancreatitis|dsyn
+2010,2022|C1963198|pancreatitis|fndg
+2053,2079|C0020517|Hypersensitivity Reactions|patf
+2132,2158|C0020517|hypersensitivity reactions|patf
+2216,2227|C0002792|anaphylaxis|patf
+2216,2227|C0850803|anaphylaxis|dsyn
+2229,2239|C0002994|angioedema|patf
+2290,2314|C0038325|Stevens-Johnson syndrome|dsyn
+2329,2354|C0020517|hypersensitivity reaction|patf
+2369,2380|C1444662|discontinue|fndg
+2477,2485|C0011860|diabetes|dsyn
+2477,2485|C0011849|diabetes|dsyn
+2477,2485|C0011847|diabetes|dsyn
+2551,2572|C3266719|history of angioedema|fndg
+2669,2679|C0002994|angioedema|patf
+2763,2768|C1705232|fatal|fndg
+2782,2797|C0085605|hepatic failure|dsyn
+2862,2886|C4062889|insufficient information|fndg
+2965,2975|C3815594|randomized|fndg
+3028,3031|C1266129|ALT|neop
+3215,3230|C0011860|type 2 diabetes|dsyn
+3240,3251|C0015695|fatty liver|dsyn
+3240,3251|C2711227|fatty liver|dsyn
+3246,3259|C0023895|liver disease|dsyn
+3246,3259|C2186532|liver disease|fndg
+3252,3259|C0012634|disease|dsyn
+3277,3282;3288,3301|C0266257|liver abnormalities|cgab
+3277,3282;3288,3301|C0478037|liver abnormalities|cgab
+3283,3287|C0456984|test|fndg
+3338,3354|C0023895|of liver disease|dsyn
+3426,3430|C0456984|test|fndg
+3488,3495|C1363945|therapy|fndg
+3529,3549|C0745768|abnormal liver tests|fndg
+3610,3615|C0456984|tests|fndg
+3648,3656|C1457887|symptoms|sosy
+3675,3687|C0160390|liver injury|inpo
+3699,3706|C0015672|fatigue|sosy
+3708,3716|C0003123|anorexia|dsyn
+3708,3716|C0426579|anorexia|sosy
+3708,3716|C1971624|anorexia|fndg
+3724,3750|C1868919|upper abdominal discomfort|sosy
+3752,3762|C0426396|dark urine|sosy
+3766,3774|C0022346|jaundice|patf
+3766,3774|C2010848|jaundice|fndg
+3766,3774|C2203646|jaundice|sosy
+3888,3908|C0745768|abnormal liver tests|fndg
+3920,3926|C1457868|worsen|fndg
+4134,4137;4143,4154|C0240320|Use Medications|fndg
+4170,4182;4186,4193|C0858734|Hypoglycemia Insulin|dsyn
+4263,4275|C0020615|hypoglycemia|dsyn
+4376,4388|C0020615|hypoglycemia|dsyn
+4394,4398|C1273517|used|fndg
+4402,4413|C3811910|combination|fndg
+4460,4470|C0003862|Arthralgia|sosy
+4540,4550|C0003862|arthralgia|sosy
+4592,4596;4600,4617|C1320528|time onset of symptoms|fndg
+4667,4674|C3844320|one day|fndg
+4706,4712|C0564405|relief|fndg
+4716,4724|C1457887|symptoms|sosy
+4730,4745|C1444662|discontinuation|fndg
+4814,4822|C1457887|symptoms|sosy
+4942,4952|C0003862|joint pain|sosy
+4942,4952|C1963066|joint pain|fndg
+4957,4968|C1444662|discontinue|fndg

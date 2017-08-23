@@ -1,0 +1,25 @@
+00000000|MMI|535.46|Seizures|C0036572|[sosy]|["SEIZURE"-tx-13-"seizure"-noun-0,"SEIZURE"-tx-12-"seizure"-adj-0,"SEIZURE"-tx-10-"seizure"-noun-0,"SEIZURE"-tx-9-"seizure"-noun-0,"SEIZURE"-tx-8-"seizure"-noun-1,"SEIZURE"-tx-7-"seizure"-noun-0,"SEIZURE"-tx-6-"seizure"-noun-0,"SEIZURE"-tx-5-"Seizure"-noun-0,"SEIZURE"-tx-4-"Seizure"-noun-0,"SEIZURE"-tx-4-"seizure"-noun-0,"SEIZURE"-tx-4-"seizure"-noun-1,"SEIZURE"-tx-3-"seizure"-noun-0,"SEIZURE"-tx-2-"seizure"-noun-1,"SEIZURE"-tx-1-"Seizure"-noun-0]|TX|1834/7;1589/7;1215/7;1096/7;1004/7;[830/7],[889/7];799/7;594/7;382/7;[526/7],[585/7];[526/7],[585/7];331/7;265/7;47/7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|120.65|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-13-"seizure"-noun-0,"Seizure"-tx-12-"seizure"-adj-0,"Seizure"-tx-10-"seizure"-noun-0,"Seizure"-tx-9-"seizure"-noun-0,"Seizure"-tx-8-"seizure"-noun-1,"Seizure"-tx-7-"seizure"-noun-0,"Seizure"-tx-6-"seizure"-noun-0,"Seizure"-tx-5-"Seizure"-noun-0,"Seizure"-tx-4-"Seizure"-noun-0,"Seizure"-tx-4-"seizure"-noun-0,"Seizure"-tx-4-"seizure"-noun-1,"Seizure"-tx-3-"seizure"-noun-0,"Seizure"-tx-2-"seizure"-noun-1,"Seizure"-tx-1-"Seizure"-noun-0]|TX|1834/7;1589/7;1215/7;1096/7;1004/7;[830/7],[889/7];799/7;594/7;382/7;[526/7],[585/7];[526/7],[585/7];331/7;265/7;47/7|
+00000000|MMI|33.59|Unconscious State|C0041657|[fndg]|["LOSS OF CONSCIOUSNESS"-tx-12-"loss of consciousness"-noun-0,"LOSS OF CONSCIOUSNESS"-tx-10-"loss of consciousness"-noun-0]|TX|1705/21;1253/21|C10.597.606.358.800;C23.888.592.604.359.800
+00000000|MMI|16.78|Transient Cerebral Ischemia|C0917805|[dsyn]|["Transient ischemic attack"-tx-10-"transient ischemic attack"-noun-0]|TX|1276/25|C10.228.140.300.150.836;C14.907.253.092.836
+00000000|MMI|16.78|Transient Ischemic Attack|C0007787|[dsyn]|["TRANSIENT ISCHAEMIC ATTACK"-tx-10-"transient ischemic attack"-noun-0]|TX|1276/25|C10.228.140.300.150.836;C14.907.253.092.836
+00000000|MMI|15.42|Cerebrovascular accident|C0038454|[dsyn]|["CEREBRAL VASCULAR ACCIDENT"-tx-10-"cerebral vascular accident"-noun-0]|TX|1329/26|C10.228.140.300.775;C14.907.253.855
+00000000|MMI|14.18|Congenital arteriovenous malformation|C0003857|[cgab,dsyn]|["Arteriovenous Malformation"-tx-10-"arteriovenous malformation"-noun-0]|TX|1385/26|C14.240.850.750;C14.907.150;C16.131.240.850.750
+00000000|MMI|12.90|0%|C3842591|[fndg]|["0%"-tx-6-"0"-percentage-0,"0%"-tx-4-"0"-percentage-0,"0%"-tx-1-"0"-percentage-0]|TX|[681/1],[749/1];477/1;142/1|
+00000000|MMI|11.31|Brain Injuries|C0270611|[inpo]|["Brain Injury"-tx-10-"brain injury"-noun-0]|TX|1235/12|C10.228.140.199;C10.900.300.087;C26.915.300.200
+00000000|MMI|10.06|Discontinued|C1444662|[fndg]|["Discontinue"-tx-13-"discontinue"-verb-0,"Discontinued"-tx-7-"discontinued"-verb-0,"Discontinue"-tx-3-"discontinue"-verb-0]|TX|1789/11;855/12;286/11|
+00000000|MMI|6.24|1+|C3816745|[fndg]|["1+"-tx-6-"1"-integer-0]|TX|[671/1],[739/1]|
+00000000|MMI|4.49|Convulsion threshold|C0520967|[fndg]|["Seizure threshold"-tx-11-"seizure threshold"-noun-0]|TX|1484/17|
+00000000|MMI|4.49|Metastatic malignant neoplasm to brain|C0220650|[neop]|["BRAIN METASTASES"-tx-10-"brain metastases"-noun-0]|TX|1357/16|
+00000000|MMI|4.49|Others - Allergy|C1955473|[fndg]|["Others"-tx-12-"others"-noun-0]|TX|1769/6|
+00000000|MMI|4.49|Resolved|C3714811|[fndg]|["RESOLVED"-tx-7-"resolved"-verb-0]|TX|904/8|
+00000000|MMI|4.49|physiologic resolution|C1514893|[patf]|["Resolved"-tx-7-"resolved"-verb-0]|TX|904/8|
+00000000|MMI|3.28|Congenital anomaly of brain|C0266449|[cgab]|["BRAIN MALFORMATION"-tx-10-"brain malformation"-noun-0]|TX|1379/5,1399/12|
+00000000|MMI|3.25|Arteriovenous hemangioma|C0334533|[neop]|["Arteriovenous Malformation"-tx-10-"arteriovenous malformation"-noun-0]|TX|1385/26|
+00000000|MMI|3.15|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-10-"history of"-noun-0]|TX|1204/10|
+00000000|MMI|3.12|medication use|C0240320|[fndg]|["medications use"-tx-11-"use medications"-noun-0]|TX|1533/3,1546/11|
+00000000|MMI|3.11|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-7-"therapy"-noun-0]|TX|873/7|
+00000000|MMI|3.08|Engaged to be married|C0425152|[fndg]|["engaging"-tx-12-"engaging"-noun-0]|TX|1667/8|
+00000000|MMI|3.01|Limited Walking Ability|C2674459|[fndg]|["Limited"-tx-9-"Limited"-adj-0]|TX|1020/7|
+00000000|MMI|2.96|Activity (animal life circumstance)|C3668946|[fndg]|["Activity"-tx-12-"activity"-noun-0]|TX|1683/8|
+00000000|MMI|2.96|Endurance of activity|C0600075|[fndg]|["Activity"-tx-12-"activity"-noun-0]|TX|1683/8|

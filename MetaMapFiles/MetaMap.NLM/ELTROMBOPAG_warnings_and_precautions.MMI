@@ -1,0 +1,70 @@
+00000000|AA|UGT|UDP-glucuronosyltransferase|1|3|3|27|1437:3
+00000000|AA|OATP|organic anion-transporting polypeptide|1|4|7|38|1489:4
+00000000|AA|PVT|portal vein thrombosis|1|3|5|22|4324:3
+00000000|MMI|204.64|Thrombus|C0087086|[patf]|["Thrombotic"-tx-29-"thrombotic"-adj-0,"Thrombotic"-tx-27-"thrombotic"-adj-0,"Thrombotic"-tx-26-"thrombotic"-adj-0,"Thrombotic"-tx-25-"thrombotic"-adj-0,"Thrombotic"-tx-23-"thrombotic"-adj-0,"Thrombotic"-tx-21-"thrombotic"-adj-0,"Thrombotic"-tx-20-"Thrombotic"-adj-0,"Thrombotic"-tx-18-"Thrombotic"-adj-0,"Thrombotic"-tx-18-"thrombotic"-adj-0,"Thrombotic"-tx-2-"Thrombotic"-adj-0]|TX|4478/10;4225/10;[4038/10],[4138/10];3945/10;3536/10;3129/10;3020/10;2648/10;2834/10;137/10|C14.907.355.830
+00000000|MMI|102.55|Hepatitis C, Chronic|C0524910|[dsyn]|["Chronic hepatitis C"-tx-33-"chronic hepatitis C"-noun-0,"Chronic hepatitis C"-tx-18-"chronic hepatitis C"-noun-0,"Chronic hepatitis C"-tx-5-"chronic hepatitis C"-noun-0,"Chronic hepatitis C"-tx-4-"Chronic Hepatitis C"-noun-0,"Chronic hepatitis C"-tx-4-"chronic hepatitis C"-noun-0]|TX|5215/19;2744/19;596/19;379/19;421/19|C02.440.440.120;C02.782.350.350.120;C06.552.380.350.120;C06.552.380.705.440.120
+00000000|MMI|91.54|Complication Aspects|C1171258|[patf]|["complications"-tx-27-"complications"-noun-0,"complications"-tx-26-"complications"-noun-0,"complications"-tx-23-"complications"-noun-0,"complications"-tx-21-"complications"-noun-0,"complications"-tx-20-"complications"-noun-0,"complications"-tx-18-"Complications"-noun-0,"complications"-tx-2-"Complications"-noun-0]|TX|4236/13;[4049/13],[4149/13];3562/13;3155/13;3046/13;2674/13;163/13|x.x.x
+00000000|MMI|60.37|Thrombocytopenia|C0040034|[fndg]|["Thrombocytopaenia"-tx-33-"thrombocytopenia"-noun-0,"Thrombocytopaenia"-tx-25-"thrombocytopenia"-noun-0,"Thrombocytopaenia"-tx-18-"thrombocytopenia"-noun-0,"Thrombocytopaenia"-tx-5-"thrombocytopenia"-noun-0]|TX|5239/16;3846/16;2768/16;620/16|C15.378.140.855
+00000000|MMI|53.57|Cataract|C0086543|[acab]|["CATARACTS"-tx-34-"Cataracts"-noun-0,"CATARACTS"-tx-33-"cataracts"-noun-0,"CATARACTS"-tx-32-"cataracts"-noun-0,"CATARACTS"-tx-31-"Cataracts"-noun-0,"CATARACTS"-tx-31-"cataracts"-noun-0]|TX|5368/9;5257/9;5045/9;4814/9;4897/9|C11.510.245
+00000000|MMI|45.11|Immune thrombocytopenic purpura|C0398650|[dsyn]|["ITP"-tx-31-"ITP"-noun-0,"ITP"-tx-25-"ITP"-noun-1]|TX|4892/3;3878/3|C15.378.100.802.687.600;C15.378.140.855.925.750.600;C15.378.463.740;C20.111.759;C20.841.600;C23.550.414.950.687.600;C23.888.885.687.687.600
+00000000|MMI|33.10|Complication|C0009566|[patf]|["Complications"-tx-27-"complications"-noun-0,"Complications"-tx-26-"complications"-noun-0,"Complications"-tx-23-"complications"-noun-0,"Complications"-tx-21-"complications"-noun-0,"Complications"-tx-20-"complications"-noun-0,"Complications"-tx-18-"Complications"-noun-0,"Complications"-tx-2-"Complications"-noun-0]|TX|4236/13;[4049/13],[4149/13];3562/13;3155/13;3046/13;2674/13;163/13|
+00000000|MMI|25.92|Thromboembolism|C0040038|[patf]|["THROMBOEMBOLISM"-tx-22-"thromboembolism"-noun-0]|TX|[3318/15],[3402/15]|C14.907.355.590
+00000000|MMI|21.36|Discontinued|C1444662|[fndg]|["Discontinue"-tx-17-"discontinue"-verb-0,"Discontinue"-tx-14-"Discontinue"-verb-0,"Discontinue"-tx-7-"Discontinue"-verb-0,"Discontinued"-tx-7-"discontinued"-verb-0]|TX|2615/11;1770/11;1051/11;1096/12|
+00000000|MMI|20.44|Bilateral cataracts (disorder)|C0521707|[acab]|["Cataracts"-tx-34-"Cataracts"-noun-0,"Cataracts"-tx-33-"cataracts"-noun-0,"Cataracts"-tx-32-"cataracts"-noun-0,"Cataracts"-tx-31-"Cataracts"-noun-0,"Cataracts"-tx-31-"cataracts"-noun-0]|TX|5368/9;5257/9;5045/9;4814/9;4897/9|
+00000000|MMI|17.80|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-28-"abdominal pain"-noun-0]|TX|4355/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|17.80|Antithrombin III Deficiency|C0272375|[dsyn]|["ATIII deficiency"-tx-22-"ATIII deficiency"-noun-0]|TX|3442/16|C15.378.100.100.075;C15.378.147.150;C15.378.925.075;C16.320.099.075
+00000000|MMI|16.12|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-14-"ALT"-noun-0]|TX|1794/3|C04.557.450.550.400
+00000000|MMI|15.76|Chronic liver disease|C0341439|[dsyn]|["Chronic Liver Disease"-tx-30-"chronic liver disease"-noun-0,"Chronic Liver Disease"-tx-25-"chronic liver disease"-noun-0,"Chronic Liver Disease"-tx-22-"chronic liver disease"-noun-0,"Chronic Liver Disease"-tx-2-"chronic liver disease"-noun-0]|TX|4687/21;3820/21;3487/21;236/21|
+00000000|MMI|14.99|Worse|C1457868|[fndg]|["Worsened"-tx-33-"worsened"-verb-0,"Worsened"-tx-32-"worsened"-verb-0,"Worsened"-tx-31-"worsened"-verb-0,"worsen"-tx-17-"worsen"-verb-0]|TX|5280/8;5068/8;4920/8;2581/6|
+00000000|MMI|14.90|Hepatotoxicity|C0235378|[inpo]|["HEPATOTOXICITY"-tx-16-"Hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-15-"hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-8-"Hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-1-"Hepatotoxicity"-noun-0]|TX|2489/14;2354/14;1121/14;54/14|
+00000000|MMI|14.64|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-28-"diarrhea"-noun-0]|TX|4393/8|C23.888.821.214
+00000000|MMI|14.64|Nausea|C0027497|[sosy]|["NAUSEA"-tx-28-"nausea"-noun-0]|TX|4371/6|C23.888.821.712
+00000000|MMI|14.64|Vomiting|C0042963|[sosy]|["VOMITING"-tx-28-"vomiting"-verb-0]|TX|4379/8|C23.888.821.937
+00000000|MMI|14.39|Hepatic decompensation|C1394798|[patf]|["Hepatic decompensation"-tx-14-"hepatic decompensation"-noun-0,"Hepatic decompensation"-tx-6-"hepatic decompensation"-noun-0,"Hepatic decompensation"-tx-4-"Hepatic Decompensation"-noun-0,"Hepatic decompensation"-tx-4-"hepatic decompensation"-noun-0]|TX|2220/22;966/22;339/22;521/22|
+00000000|MMI|13.95|Congenital Abnormality|C0000768|[cgab]|["Abnormalities"-tx-17-"abnormalities"-noun-0,"Abnormalities"-tx-13-"abnormalities"-noun-0]|TX|2558/13;1678/13|C16.131
+00000000|MMI|11.51|Portal vein thrombosis|C0155773|[dsyn]|["thrombosis of portal vein"-tx-28-"of PVT"-noun-0,"Portal Vein Thrombosis"-tx-27-"portal vein thrombosis"-noun-0,"Portal Vein Thrombosis"-tx-2-"Portal vein thrombosis"-noun-0]|TX|4339/6;4300/22;178/22|
+00000000|MMI|11.49|Antiphospholipid Syndrome|C0085278|[dsyn]|["Antiphospholipid Syndrome"-tx-22-"antiphospholipid syndrome"-noun-0]|TX|3460/25|C20.111.197
+00000000|MMI|11.49|Ascites|C0003962|[fndg]|["ASCITES"-tx-5-"ascites"-noun-0]|TX|638/7|C23.550.081
+00000000|MMI|11.49|Brain Diseases|C0006111|[dsyn]|["Encephalopathy"-tx-5-"encephalopathy"-noun-0]|TX|650/14|C10.228.140
+00000000|MMI|11.49|Encephalopathies|C0085584|[dsyn]|["ENCEPHALOPATHY"-tx-5-"encephalopathy"-noun-0]|TX|650/14|C10.228.140
+00000000|MMI|11.35|Test Result|C0456984|[fndg]|["Test"-tx-17-"test"-noun-0,"Test"-tx-15-"tests"-verb-0,"Test"-tx-13-"tests"-verb-0]|TX|2553/4;2442/5;1727/5|
+00000000|MMI|10.73|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-35-"therapy"-noun-0,"Therapy"-tx-32-"therapy"-noun-0,"Therapy"-tx-1-"therapy"-noun-0]|TX|5565/7;5137/7;111/7|
+00000000|MMI|10.18|Cardiac Arrest|C0018790|[dsyn]|["arrested"-tx-10-"inhibits"-verb-0]|TX|1399/8|C14.280.383
+00000000|MMI|7.15|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-28-"Symptoms"-noun-0,"SYMPTOMS"-tx-14-"symptoms"-noun-0]|TX|4330/8;2179/8|
+00000000|MMI|7.14|75%)|C4015571|[fndg]|["75%)"-tx-30-"75"-integer-0,"75%)"-tx-25-"75"-integer-0]|TX|4722/2;4002/2|
+00000000|MMI|7.09|10%|C3842590|[fndg]|["10%"-tx-29-"10"-integer-0,"10%"-tx-6-"10"-integer-0]|TX|4591/2;928/2|
+00000000|MMI|5.18|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-18-"3"-percentage-0]|TX|2786/1|
+00000000|MMI|5.18|4+ Answer to question|C3838679|[fndg]|["4+"-tx-5-"4"-percentage-0]|TX|794/1|
+00000000|MMI|5.18|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-8-"Adverse Reactions"-noun-0]|TX|1189/17|
+00000000|MMI|5.18|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-28-"diarrhea"-noun-0]|TX|4393/8|
+00000000|MMI|5.18|Encephalopathy Adverse Event|C1963101|[fndg]|["Encephalopathy"-tx-5-"encephalopathy"-noun-0]|TX|650/14|
+00000000|MMI|5.18|Factor V Leiden mutation|C0584960|[dsyn]|["Factor V Leiden"-tx-22-"Factor V Leiden"-noun-0]|TX|3425/15|
+00000000|MMI|5.18|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-28-"nausea"-noun-0]|TX|4371/6|
+00000000|MMI|5.18|Resolved|C3714811|[fndg]|["RESOLVED"-tx-13-"resolved"-verb-0]|TX|1746/8|
+00000000|MMI|5.18|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-28-"vomiting"-verb-0]|TX|4379/8|
+00000000|MMI|5.18|physiologic resolution|C1514893|[patf]|["Resolved"-tx-13-"resolved"-verb-0]|TX|1746/8|
+00000000|MMI|3.87|Mental blocking|C0233660|[mobd]|["Blocking"-tx-10-"inhibits"-verb-0]|TX|1399/8|
+00000000|MMI|3.87|Obstruction|C0028778|[patf]|["blocks"-tx-10-"inhibits"-verb-0]|TX|1399/8|
+00000000|MMI|3.81|3 to 5 days|C3843196|[fndg]|["3 to 5 days"-tx-12-"3 to 5 days"-noun-0]|TX|1658/11|
+00000000|MMI|3.78|Congenital anomaly of liver|C0266257|[cgab]|["liver Abnormalities"-tx-17-"liver abnormalities"-noun-0]|TX|2547/5,2558/13|
+00000000|MMI|3.78|Other congenital malformations of liver|C0478037|[cgab]|["Liver abnormalities"-tx-17-"liver abnormalities"-noun-0]|TX|2547/5,2558/13|
+00000000|MMI|3.78|liver abnormal|C0745738|[fndg]|["abnormal liver"-tx-12-"abnormal liver"-noun-0]|TX|1604/8,1619/5|
+00000000|MMI|3.68|Bilirubin conjugated increased|C0855625|[fndg]|["Increased Direct bilirubin"-tx-14-"increased direct bilirubin"-noun-0]|TX|2117/26|
+00000000|MMI|3.68|Platelet count normal|C0427564|[fndg]|["Normal platelet counts"-tx-21-"normal platelet counts"-noun-0]|TX|3242/22|
+00000000|MMI|3.68|2+|C3833492|[fndg]|["2+"-tx-24-"2"-real_number-0]|TX|3763/1|
+00000000|MMI|3.68|cataract symptoms|C0742003|[dsyn]|["cataracts symptoms"-tx-35-"symptoms cataracts"-noun-0]|TX|5629/8,5641/9|
+00000000|MMI|3.64|Unconjugated hyperbilirubinemia|C0268306|[dsyn]|["Indirect hyperbilirubinaemia"-tx-10-"indirect hyperbilirubinemia"-noun-0]|TX|1517/27|
+00000000|MMI|3.60|Injury of liver|C0160390|[inpo]|["Injury of liver"-tx-14-"of liver injury"-noun-0]|TX|2188/15|
+00000000|MMI|3.59|1+|C3816745|[fndg]|["1+"-tx-19-"1"-percentage-0]|TX|2945/1|
+00000000|MMI|3.59|Experimental Result|C2825142|[fndg]|["Result"-tx-20-"result"-verb-0]|TX|3064/6|
+00000000|MMI|3.59|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-22-"risk factors"-noun-0]|TX|3385/12|
+00000000|MMI|3.59|Related personal status|C0445223|[fndg]|["Related"-tx-25-"related"-verb-1]|TX|3867/7|
+00000000|MMI|3.58|Complications of treatment|C0679861|[patf]|["complication of treatment"-tx-29-"complication of treatment"-noun-0]|TX|4489/12,4517/2,4531/9|
+00000000|MMI|3.48|Hepatic venous thrombosis|C2674823|[fndg]|["Portal venous thrombosis"-tx-30-"portal venous thrombosis"-noun-0]|TX|4614/24|
+00000000|MMI|3.48|Normal liver function|C1848676|[fndg]|["Normal liver function"-tx-14-"normal liver function"-noun-0]|TX|1867/21|
+00000000|MMI|3.46|Decreased albumin|C0860864|[fndg]|["low albumin"-tx-6-"low albumin"-noun-0]|TX|813/11|
+00000000|MMI|3.45|Physical findings|C0311392|[fndg]|["SIGNS"-tx-35-"signs"-noun-0]|TX|5619/5|
+00000000|MMI|3.45|combination - answer to question|C3811910|[fndg]|["Combination"-tx-4-"combination"-noun-0]|TX|454/11|
+00000000|MMI|3.44|50%|C3842586|[fndg]|["50%"-tx-31-"50"-integer-0]|TX|4962/2|
+00000000|MMI|3.44|<50|C3843766|[fndg]|["<50"-tx-31-"50"-integer-0]|TX|4962/2|
+00000000|MMI|3.43|Invasive Lesion|C1334278|[fndg]|["Invasive"-tx-30-"invasive"-adj-0]|TX|4782/8|

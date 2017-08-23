@@ -1,0 +1,395 @@
+137,157|C1306459|Primary Malignancies|neop
+203,218|C1519689|Tumor Promotion|neop
+237,245|C0025202|Melanoma|neop
+291,301|C0019080|Hemorrhage|patf
+347,369|C1861172|Venous Thromboembolism|patf
+415,429|C0878544|Cardiomyopathy|dsyn
+475,492|C1262036|Ocular Toxicities|inpo
+546,563|C0235723|Febrile Reactions|patf
+617,630|C1167791|Skin Toxicity|dsyn
+676,689|C0020456|Hyperglycemia|dsyn
+735,779|C2939465|Glucose-6-Phosphate Dehydrogenase Deficiency|dsyn
+884,890|C0087136|single|fndg
+901,915|C0870082|hyperkeratosis|dsyn
+917,925|C0018681|headache|sosy
+917,925|C2096315|headache|fndg
+927,934|C0015967|pyrexia|fndg
+936,946|C0003862|arthralgia|sosy
+948,957|C0030354|papilloma|neop
+959,967|C0002170|alopecia|dsyn
+973,1015|C0549410|palmar-plantar erythrodysesthesia syndrome|dsyn
+1088,1099|C3811910|combination|fndg
+1120,1127|C0015967|pyrexia|fndg
+1129,1135|C0085593|chills|sosy
+1137,1144|C0015672|fatigue|sosy
+1146,1150|C0015230|rash|sosy
+1152,1158|C0027497|nausea|sosy
+1152,1158|C1963179|nausea|patf
+1160,1168|C0042963|vomiting|sosy
+1160,1168|C1963281|vomiting|patf
+1170,1178|C0011991|diarrhea|sosy
+1170,1178|C1963091|diarrhea|fndg
+1180,1194|C0000737|abdominal pain|sosy
+1196,1212|C0085649|peripheral edema|fndg
+1214,1219|C0010200|cough|sosy
+1214,1219|C1961131|cough|fndg
+1221,1229|C0018681|headache|sosy
+1221,1229|C2096315|headache|fndg
+1231,1241|C0003862|arthralgia|sosy
+1243,1255|C0028081|night sweats|sosy
+1257,1275|C0232462|decreased appetite|sosy
+1277,1289|C0009806|constipation|sosy
+1277,1289|C1963087|constipation|fndg
+1295,1302|C0231528|myalgia|sosy
+1571,1581|C0012634|conditions|dsyn
+1883,1889|C0087136|single|fndg
+1903,1914|C3811910|combination|fndg
+1938,1948|C3273990|BRAF V600E|comd
+1965,1984|C0278883|Metastatic Melanoma|neop
+2020,2026|C0087136|single|fndg
+2068,2086|C3811884|BRAF V600 mutation|comd
+2068,2086|C3812172|BRAF V600 mutation|comd
+2087,2095|C1514241|positive|fndg
+2112,2131|C0278883|metastatic melanoma|neop
+2155,2164|C0332155|untreated|fndg
+2256,2264|C0600688|toxicity|inpo
+2289,2300|C0332154|treated for|fndg
+2346,2357|C0332154|treated for|fndg
+2455,2465|C3815594|randomized|fndg
+2645,2655|C1550043|identified|fndg
+2673,2680|C3840593|Trial 1|fndg
+2714,2721|C3840593|Trial 1|fndg
+2765,2775|C3815594|randomized|fndg
+2844,2854;2884,2892|C0278883|metastatic melanoma|neop
+2855,2883|C3888915|BRAF V600E mutation-positive|comd
+3111,3121|C0700329|morphology|fndg
+3125,3132|C3889824|Grade 2|fndg
+3179,3196|C0013798|electrocardiogram|fndg
+3209,3216|C0262926|history|fndg
+3209,3216|C2004062|history|fndg
+3217,3264|C2939465|of glucose-6-phosphate dehydrogenase deficiency|dsyn
+3364,3367;3380,3387|C0332154|for treated|fndg
+3624,3638|C0870082|hyperkeratosis|dsyn
+3640,3648|C0018681|headache|sosy
+3640,3648|C2096315|headache|fndg
+3650,3657|C0015967|pyrexia|fndg
+3659,3669|C0003862|arthralgia|sosy
+3671,3680|C0030354|papilloma|neop
+3682,3690|C0002170|alopecia|dsyn
+3696,3738|C0549410|palmar-plantar erythrodysesthesia syndrome|dsyn
+3806,3821|C1444662|discontinuation|fndg
+3845,3852|C3840593|Trial 1|fndg
+3984,3991;4000,4009|C0861063|leading reduction|fndg
+4027,4034|C0015967|pyrexia|fndg
+4041,4045|C0549410|PPES|dsyn
+4052,4058|C0085593|chills|sosy
+4065,4072|C0015672|fatigue|sosy
+4083,4091|C0018681|headache|sosy
+4083,4091|C2096315|headache|fndg
+4169,4175|C3244287|Grades|fndg
+4186,4194|C3889290|Grades 3|fndg
+4426,4432|C3244287|Grades|fndg
+4456,4462|C3244287|Grades|fndg
+4470,4476|C3244287|Grades|fndg
+4506,4518;4526,4535|C0549584|subcutaneous disorders|dsyn
+4526,4535|C0012634|disorders|dsyn
+4670,4684|C0870082|Hyperkeratosis|dsyn
+4969,4977|C0002170|Alopecia|dsyn
+5268,5310|C0549410|Palmar-plantar erythrodysesthesia syndrome|dsyn
+5567,5571|C0015230|Rash|sosy
+5978,5986|C0018681|Headache|sosy
+5978,5986|C2096315|Headache|fndg
+6224,6233|C0012634|disorders|dsyn
+6258,6268|C0012634|conditions|dsyn
+6389,6396|C0015967|Pyrexia|fndg
+6647,6674|C0009782|connective tissue disorders|dsyn
+6800,6810|C0003862|Arthralgia|sosy
+7099,7108|C0004604|Back pain|sosy
+7099,7108|C1963071|Back pain|fndg
+7398,7405|C0231528|Myalgia|sosy
+7636,7645;7654,7663|C0006826|Neoplasms malignant|neop
+7636,7645|C0027651|Neoplasms|neop
+7669,7680|C4048188|unspecified|fndg
+7669,7680|C2983689|unspecified|fndg
+7692,7697|C0010709|cysts|dsyn
+7702,7708|C0032584|polyps|anab
+7824,7833|C0030354|Papilloma|neop
+8388,8409|C0025061|mediastinal disorders|dsyn
+8534,8539|C0010200|Cough|sosy
+8534,8539|C1961131|Cough|fndg
+8772,8798|C0017178|Gastrointestinal disorders|dsyn
+8945,8957|C0009806|Constipation|sosy
+8945,8957|C1963087|Constipation|fndg
+9183,9193|C3714514|Infections|patf
+9198,9210|C0851341|infestations|dsyn
+9356,9371|C0027441|Nasopharyngitis|dsyn
+9658,9664|C3244287|graded|fndg
+9671,9676;9685,9686|C3537125|CTCAE 4|fndg
+9687,9688;9726,9731|C2699517|0 Grade|fndg
+9687,9688;9726,9731|C3890401|0 Grade|fndg
+9707,9715|C0600688|toxicity|inpo
+9752,9759|C2674459|limited|fndg
+9763,9777|C0870082|hyperkeratosis|dsyn
+9790,9802|C0009806|constipation|sosy
+9790,9802|C1963087|constipation|fndg
+9830,9844|C0347390|skin papilloma|neop
+9849,9858|C0030354|papilloma|neop
+9878,9913|C0553723|squamous cell carcinoma of the skin|neop
+9918,9933|C0022572|keratoacanthoma|neop
+9950,9986|C0553723|of cutaneous squamous cell carcinoma|neop
+10019,10026|C3889290|Grade 3|fndg
+10215,10222|C3840593|Trial 1|fndg
+10260,10266|C3244287|Grades|fndg
+10277,10285|C3889290|Grades 3|fndg
+10296,10300|C0456984|Test|fndg
+10430,10436|C3244287|Grades|fndg
+10459,10465|C3244287|Grades|fndg
+10474,10480|C3244287|Grades|fndg
+10501,10514|C0020456|Hyperglycemia|dsyn
+10615,10631|C0085682|Hypophosphatemia|patf
+10615,10631|C0595888|Hypophosphatemia|fndg
+10729,10759|C0151849|Increased alkaline phosphatase|fndg
+10843,10855|C0020625|Hyponatremia|dsyn
+10979,11001|C4021768|laboratory abnormality|fndg
+11002,11009|C2674459|limited|fndg
+11013,11029|C0085682|hypophosphatemia|patf
+11013,11029|C0595888|hypophosphatemia|fndg
+11161,11187|C0017178|Gastrointestinal Disorders|dsyn
+11190,11202|C0030305|Pancreatitis|dsyn
+11190,11202|C1963198|Pancreatitis|fndg
+11210,11233|C0021053|Immune System Disorders|dsyn
+11236,11252|C0020517|Hypersensitivity|patf
+11236,11252|C0520946|Hypersensitivity|fndg
+11268,11280|C0235818|bullous rash|fndg
+11268,11280|C0235819|bullous rash|fndg
+11298,11315|C0042075|Urinary Disorders|dsyn
+11318,11340|C0027707|Interstitial nephritis|dsyn
+11318,11340|C0041349|Interstitial nephritis|dsyn
+11348,11358|C3273990|BRAF V600E|comd
+11384,11403|C0278883|Metastatic Melanoma|neop
+11437,11448|C3811910|combination|fndg
+11482,11489|C3842777|Trial 2|fndg
+11550,11568|C3811884|BRAF V600 mutation|comd
+11550,11568|C3812172|BRAF V600 mutation|comd
+11569,11577|C1514241|positive|fndg
+11594,11613|C0278883|metastatic melanoma|neop
+11665,11676|C3811910|combination|fndg
+11758,11766|C0600688|toxicity|inpo
+12116,12123|C3842777|Trial 2|fndg
+12190,12200|C3273990|BRAF V600E|comd
+12210,12218|C1705285|mutation|comd
+12219,12227|C1514241|positive|fndg
+12228,12236|C0025202|melanoma|neop
+12278,12289|C3811910|combination|fndg
+12377,12388|C3811910|combination|fndg
+12449,12455|C0087136|single|fndg
+12560,12570|C0262926|history of|fndg
+12571,12594|C0948089|acute coronary syndrome|dsyn
+12632,12640|C2698968|Class II|fndg
+12652,12676|C0018802|congestive heart failure|dsyn
+12707,12714|C0262926|history|fndg
+12707,12714|C2004062|history|fndg
+12763,12786|C0860493|refractory hypertension|fndg
+12801,12812|C0003811|arrhythmias|fndg
+12814,12824|C0262926|history of|fndg
+12825,12836|C0032285|pneumonitis|dsyn
+12825,12836|C3714636|pneumonitis|dsyn
+12840,12865|C0206062|interstitial lung disease|dsyn
+12870,12871;12889,12893|C4016511|a G6PD|fndg
+12870,12871;12889,12893|C3890594|a G6PD|fndg
+12878,12888|C0262926|history of|fndg
+12894,12904|C0162429|deficiency|dsyn
+13048,13052|C1273517|used|fndg
+13056,13067|C3811910|combination|fndg
+13160,13164|C1273517|used|fndg
+13168,13179|C3811910|combination|fndg
+13214,13220|C0087136|single|fndg
+13235,13242|C3842777|Trial 2|fndg
+13282,13293|C3811910|combination|fndg
+13363,13378|C1444662|discontinuation|fndg
+13459,13474|C1444662|discontinuation|fndg
+13479,13486|C0015967|pyrexia|fndg
+13511,13514;13523,13533|C0861063|led reductions|fndg
+13608,13619|C3811910|combination|fndg
+13637,13644|C0015967|Pyrexia|fndg
+13646,13652|C0085593|chills|sosy
+13658,13664|C0027497|nausea|sosy
+13658,13664|C1963179|nausea|patf
+13724,13731|C0015967|pyrexia|fndg
+13733,13739|C0085593|chills|sosy
+13745,13772|C0743400|decreased ejection fraction|fndg
+13863,13867|C1273517|used|fndg
+13871,13882|C3811910|combination|fndg
+13954,13960|C3244287|Grades|fndg
+13971,13979|C3889290|Grades 3|fndg
+14023,14034|C3811910|Combination|fndg
+14224,14230|C3244287|Grades|fndg
+14258,14264|C3244287|Grades|fndg
+14293,14299|C3244287|Grades|fndg
+14323,14332|C0012634|disorders|dsyn
+14337,14351|C3845829|administrative|fndg
+14357,14367|C0012634|conditions|dsyn
+14400,14407|C0015967|Pyrexia|fndg
+14599,14605|C0085593|Chills|sosy
+14798,14805|C0015672|Fatigue|sosy
+14997,15013|C0085649|Edema peripheral|fndg
+15179,15191;15199,15208|C0549584|subcutaneous disorders|dsyn
+15199,15208|C0012634|disorders|dsyn
+15241,15245|C0015230|Rash|sosy
+15440,15452|C0028081|Night Sweats|sosy
+15639,15647|C0151908|Dry skin|sosy
+15838,15858|C0234894|Dermatitis acneiform|dsyn
+16037,16054|C0022602|Actinic keratosis|neop
+16236,16244|C0041834|Erythema|dsyn
+16435,16443|C0033774|Pruritus|sosy
+16608,16634|C0017178|Gastrointestinal disorders|dsyn
+16667,16673|C0027497|Nausea|sosy
+16667,16673|C1963179|Nausea|patf
+16866,16874|C0042963|Vomiting|sosy
+16866,16874|C1963281|Vomiting|patf
+17065,17073|C0011991|Diarrhea|sosy
+17065,17073|C1963091|Diarrhea|fndg
+17264,17278|C0000737|Abdominal pain|sosy
+17463,17475|C0009806|Constipation|sosy
+17463,17475|C1963087|Constipation|fndg
+17662,17671|C0043352|Dry mouth|dsyn
+17892,17900|C0018681|Headache|sosy
+17892,17900|C2096315|Headache|fndg
+18091,18100|C0012833|Dizziness|sosy
+18091,18100|C0042571|Dizziness|sosy
+18091,18100|C1963093|Dizziness|fndg
+18291,18312|C0025061|mediastinal disorders|dsyn
+18345,18350|C0010200|Cough|sosy
+18345,18350|C1961131|Cough|fndg
+18544,18562|C2363731|Oropharyngeal pain|sosy
+18757,18771|C0005940|bone disorders|dsyn
+18804,18814|C0003862|Arthralgia|sosy
+19003,19010|C0231528|Myalgia|sosy
+19202,19211|C0004604|Back pain|sosy
+19202,19211|C1963071|Back pain|fndg
+19401,19414|C0037763|Muscle spasms|sosy
+19600,19617|C0030196|Pain in extremity|sosy
+19788,19809|C3714509|nutritional disorders|dsyn
+20041,20052|C0011175|Dehydration|dsyn
+20270,20278|C0917801|Insomnia|sosy
+20270,20278|C1963237|Insomnia|fndg
+20443,20451;20499,20509|C0264940|Vascular Hemorrhage|patf
+20443,20461|C0042373|Vascular disorders|dsyn
+20452,20461|C0012634|disorders|dsyn
+20499,20509|C0019080|Hemorrhage|patf
+20672,20682|C3714514|Infections|patf
+20687,20699|C0851341|infestations|dsyn
+20732,20755|C0042029|Urinary tract infection|dsyn
+20732,20755|C0262655|Urinary tract infection|dsyn
+20915,20932|C0042075|urinary disorders|dsyn
+20965,20978|C0035078|Renal failure|dsyn
+20965,20978|C1963154|Renal failure|patf
+21278,21294|C0085649|peripheral edema|fndg
+21296,21301|C0013604|edema|fndg
+21307,21317|C0024236|lymphedema|dsyn
+21358,21362|C0015230|rash|sosy
+21364,21368|C0015230|rash|sosy
+21382,21386;21421,21428|C1519353|rash papular|fndg
+21382,21386;21402,21414|C0234913|rash erythematous|fndg
+21421,21428|C0332563|papular|fndg
+21435,21444;21446,21450|C0263237|vesicular rash|dsyn
+21435,21444;21446,21450|C0221203|vesicular rash|fndg
+21464,21483|C0423791|rash maculo-papular|fndg
+21524,21538|C0000737|abdominal pain|sosy
+21540,21560|C0232492|abdominal pain upper|sosy
+21588,21608|C0232487|abdominal discomfort|sosy
+21649,21670|C0521540|brain stem hemorrhage|patf
+21672,21691|C2937358|cerebral hemorrhage|fndg
+21693,21711|C0235325|gastric hemorrhage|dsyn
+21713,21722|C0014591|epistaxis|patf
+21713,21722|C2228238|epistaxis|fndg
+21724,21743|C0017565|gingival hemorrhage|fndg
+21745,21754|C0018965|hematuria|fndg
+21756,21774|C2979982|vaginal hemorrhage|dsyn
+21776,21786;21801,21804|C0015402|hemorrhage eye|patf
+21776,21799|C0151699|hemorrhage intracranial|patf
+21821,21840|C0042909|vitreous hemorrhage|patf
+21821,21840|C1963280|vitreous hemorrhage|fndg
+21881,21894|C0035078|renal failure|dsyn
+21881,21894|C1963154|renal failure|patf
+21899,21912|C0035078|renal failure|dsyn
+21899,21912|C1963154|renal failure|patf
+22033,22044|C3811910|combination|fndg
+22073,22086|C0015397|Eye Disorders|dsyn
+22089,22103|C0344232|Vision blurred|sosy
+22105,22124|C0155003|transient blindness|patf
+22132,22158|C0017178|Gastrointestinal Disorders|dsyn
+22161,22171|C0038362|Stomatitis|dsyn
+22173,22185|C0030305|pancreatitis|dsyn
+22173,22185|C1963198|pancreatitis|fndg
+22201,22210|C0012634|Disorders|dsyn
+22235,22245|C0012634|Conditions|dsyn
+22248,22256|C0004093|Asthenia|sosy
+22264,22274|C3714514|Infections|patf
+22279,22291|C0851341|Infestations|dsyn
+22294,22304|C0007642|Cellulitis|patf
+22294,22304|C2025995|Cellulitis|fndg
+22306,22318|C0016436|folliculitis|dsyn
+22320,22330|C0030578|paronychia|dsyn
+22332,22336|C0015230|rash|sosy
+22353,22362;22371,22380|C0006826|Neoplasms Malignant|neop
+22353,22362|C0027651|Neoplasms|neop
+22386,22397|C4048188|Unspecified|fndg
+22386,22397|C2983689|Unspecified|fndg
+22409,22414|C0010709|cysts|dsyn
+22419,22425|C0032584|polyps|anab
+22429,22443|C0347390|Skin papilloma|neop
+22460,22472;22480,22489|C0549584|Subcutaneous Disorders|dsyn
+22480,22489|C0012634|Disorders|dsyn
+22492,22534|C0549410|Palmar-plantar erythrodysesthesia syndrome|dsyn
+22536,22550|C0870082|hyperkeratosis|dsyn
+22552,22565|C0020458|hyperhidrosis|fndg
+22573,22591|C0042373|Vascular Disorders|dsyn
+22594,22606|C0020538|Hypertension|dsyn
+22594,22606|C1963138|Hypertension|fndg
+22689,22695|C3244287|Grades|fndg
+22706,22714|C3889290|Grades 3|fndg
+22759,22770|C3811910|Combination|fndg
+22790,22797|C3842777|Trial 2|fndg
+22801,22806|C0456984|Tests|fndg
+22948,22954|C3244287|Grades|fndg
+22980,22986|C3244287|Grades|fndg
+23004,23010|C3244287|Grades|fndg
+23014,23020|C3244287|Grades|fndg
+23038,23044|C3244287|Grades|fndg
+23048,23054|C3244287|Grades|fndg
+23147,23157|C0023530|Leukopenia|dsyn
+23147,23157|C0750394|Leukopenia|fndg
+23376,23387|C0024312|Lymphopenia|dsyn
+23376,23387|C0853986|Lymphopenia|fndg
+23376,23387|C1963164|Lymphopenia|fndg
+23605,23616|C0023530|Neutropenia|dsyn
+23605,23616|C0027947|Neutropenia|dsyn
+23605,23616|C0853697|Neutropenia|fndg
+23834,23840|C0002871|Anemia|dsyn
+24063,24079|C0040034|Thrombocytopenia|fndg
+24561,24591|C0151849|Increased alkaline phosphatase|fndg
+24790,24803|C0151905|Increased ALT|fndg
+25019,25037|C0020433|Hyperbilirubinemia|dsyn
+25019,25037|C0311468|Hyperbilirubinemia|fndg
+25288,25301|C0020456|Hyperglycemia|dsyn
+25517,25530|C0151662|Increased GGT|fndg
+25746,25758|C0020625|Hyponatremia|dsyn
+25975,25990|C0239981|Hypoalbuminemia|dsyn
+26204,26220|C0085682|Hypophosphatemia|patf
+26204,26220|C0595888|Hypophosphatemia|fndg
+26433,26444|C0020621|Hypokalemia|fndg
+26662,26682|C0151578|Increased creatinine|fndg
+26662,26682|C0700225|Increased creatinine|fndg
+26891,26905|C0151723|Hypomagnesemia|fndg
+27120,27132|C0020461|Hyperkalemia|fndg
+27349,27362|C0020437|Hypercalcemia|dsyn
+27578,27590|C0020598|Hypocalcemia|dsyn
+27873,27876|C1266129|ALT|neop
+27978,27993|C0151878|QT Prolongation|fndg
+27999,28006|C3842777|Trial 2|fndg
+28008,28025|C3828431|QTcF prolongation|fndg
+28098,28109|C3811910|combination|fndg
+28182,28188|C0087136|single|fndg
+28302,28313|C3811910|combination|fndg
+28383,28389|C0087136|single|fndg

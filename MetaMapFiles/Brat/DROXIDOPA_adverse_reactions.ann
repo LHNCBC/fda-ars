@@ -1,0 +1,173 @@
+T1	AdverseReaction 162 181	Supine Hypertension
+T2	AdverseReaction 229 241	Hyperpyrexia
+T3	AdverseReaction 246 255	Confusion
+T4	AdverseReaction 307 317;351 362	exacerbate arrhythmias
+T5	AdverseReaction 307 317;327 349	exacerbate ischemic heart disease
+T6	AdverseReaction 307 317;368 392	exacerbate congestive heart failure
+T7	Factor 303 306	May
+T8	AdverseReaction 453 461	Headache
+T9	AdverseReaction 463 472	dizziness
+T10	AdverseReaction 474 480	nausea
+T11	AdverseReaction 482 494	hypertension
+T12	AdverseReaction 500 507	fatigue
+T13	AdverseReaction 1892 1900	headache
+T14	AdverseReaction 1902 1911	dizziness
+T15	AdverseReaction 1913 1919	nausea
+T16	AdverseReaction 1921 1933	hypertension
+T17	AdverseReaction 2016 2028	hypertension
+T18	AdverseReaction 2032 2056	increased blood pressure
+T19	AdverseReaction 2061 2067	nausea
+T20	AdverseReaction 2474 2482	Headache
+T21	AdverseReaction 2562 2571	Dizziness
+T22	AdverseReaction 2650 2656	Nausea
+T23	AdverseReaction 2738 2750	Hypertension
+T24	AdverseReaction 3325 3330	falls
+T25	AdverseReaction 3338 3362	urinary tract infections
+T26	AdverseReaction 3370 3378	headache
+T27	AdverseReaction 3386 3393	syncope
+T28	AdverseReaction 3405 3414	dizziness
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4 Hypothetical:E7
+E5	AdverseReaction:T5 Hypothetical:E7
+E6	AdverseReaction:T6 Hypothetical:E7
+E7	Factor:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+A1	flag E1 underspecified
+A2	CUI E1 C0020538
+A3	UMLS-Preferred-Name E1 Hypertensive disease
+A4	MEDDRA-PT E1 Hypertension
+A5	MEDDRA-PT-ID E1 10020772
+A6	CUI E2 C0392676
+A7	UMLS-Preferred-Name E2 Hyperpyrexia
+A8	MEDDRA-PT E2 Hyperpyrexia
+A9	MEDDRA-PT-ID E2 10020741
+A10	CUI E3 C0009676
+A11	UMLS-Preferred-Name E3 Confusion
+A12	MEDDRA-PT E3 Confusional state
+A13	MEDDRA-PT-ID E3 10010305
+A14	LLT E3 Confusion
+A15	LLT-ID E3 10010300
+A16	CUI E4 C0003811
+A17	UMLS-Preferred-Name E4 Cardiac Arrhythmia
+A18	MEDDRA-PT E4 Arrhythmia
+A19	MEDDRA-PT-ID E4 10003119
+A20	CUI E5 C0151744
+A21	UMLS-Preferred-Name E5 Myocardial Ischemia
+A22	MEDDRA-PT E5 Myocardial ischaemia
+A23	MEDDRA-PT-ID E5 10028600
+A24	LLT E5 Ischaemic heart disease
+A25	LLT-ID E5 10023024
+A26	CUI E6 C3532952
+A27	UMLS-Preferred-Name E6 Exacerbation of congestive heart failure
+A28	MEDDRA-PT E6 Cardiac failure congestive
+A29	MEDDRA-PT-ID E6 10007559
+A30	LLT E6 Congestive cardiac failure aggravated
+A31	LLT-ID E6 10048565
+A32	CUI E8 C0018681
+A33	UMLS-Preferred-Name E8 Headache
+A34	MEDDRA-PT E8 Headache
+A35	MEDDRA-PT-ID E8 10019211
+A36	CUI E9 C0012833
+A37	UMLS-Preferred-Name E9 Dizziness
+A38	MEDDRA-PT E9 Dizziness
+A39	MEDDRA-PT-ID E9 10013573
+A40	CUI E10 C0027497
+A41	UMLS-Preferred-Name E10 Nausea
+A42	MEDDRA-PT E10 Nausea
+A43	MEDDRA-PT-ID E10 10028813
+A44	CUI E11 C0020538
+A45	UMLS-Preferred-Name E11 Hypertensive disease
+A46	MEDDRA-PT E11 Hypertension
+A47	MEDDRA-PT-ID E11 10020772
+A48	CUI E12 C0015672
+A49	UMLS-Preferred-Name E12 Fatigue
+A50	MEDDRA-PT E12 Fatigue
+A51	MEDDRA-PT-ID E12 10016256
+A52	CUI E13 C0018681
+A53	UMLS-Preferred-Name E13 Headache
+A54	MEDDRA-PT E13 Headache
+A55	MEDDRA-PT-ID E13 10019211
+A56	CUI E14 C0012833
+A57	UMLS-Preferred-Name E14 Dizziness
+A58	MEDDRA-PT E14 Dizziness
+A59	MEDDRA-PT-ID E14 10013573
+A60	CUI E15 C0027497
+A61	UMLS-Preferred-Name E15 Nausea
+A62	MEDDRA-PT E15 Nausea
+A63	MEDDRA-PT-ID E15 10028813
+A64	CUI E16 C0020538
+A65	UMLS-Preferred-Name E16 Hypertensive disease
+A66	MEDDRA-PT E16 Hypertension
+A67	MEDDRA-PT-ID E16 10020772
+A68	CUI E17 C0020538
+A69	UMLS-Preferred-Name E17 Hypertensive disease
+A70	MEDDRA-PT E17 Hypertension
+A71	MEDDRA-PT-ID E17 10020772
+A72	CUI E18 C0497247
+A73	UMLS-Preferred-Name E18 Increase in blood pressure
+A74	MEDDRA-PT E18 Blood pressure increased
+A75	MEDDRA-PT-ID E18 10005750
+A76	LLT E18 Increased blood pressure
+A77	LLT-ID E18 10021655
+A78	CUI E19 C0027497
+A79	UMLS-Preferred-Name E19 Nausea
+A80	MEDDRA-PT E19 Nausea
+A81	MEDDRA-PT-ID E19 10028813
+A82	CUI E20 C0018681
+A83	UMLS-Preferred-Name E20 Headache
+A84	MEDDRA-PT E20 Headache
+A85	MEDDRA-PT-ID E20 10019211
+A86	CUI E21 C0012833
+A87	UMLS-Preferred-Name E21 Dizziness
+A88	MEDDRA-PT E21 Dizziness
+A89	MEDDRA-PT-ID E21 10013573
+A90	CUI E22 C0027497
+A91	UMLS-Preferred-Name E22 Nausea
+A92	MEDDRA-PT E22 Nausea
+A93	MEDDRA-PT-ID E22 10028813
+A94	CUI E23 C0020538
+A95	UMLS-Preferred-Name E23 Hypertensive disease
+A96	MEDDRA-PT E23 Hypertension
+A97	MEDDRA-PT-ID E23 10020772
+A98	CUI E24 C0085639
+A99	UMLS-Preferred-Name E24 Falls
+A100	MEDDRA-PT E24 Fall
+A101	MEDDRA-PT-ID E24 10016173
+A102	CUI E25 C0042029
+A103	UMLS-Preferred-Name E25 Urinary tract infection
+A104	MEDDRA-PT E25 Urinary tract infection
+A105	MEDDRA-PT-ID E25 10046571
+A106	CUI E26 C0018681
+A107	UMLS-Preferred-Name E26 Headache
+A108	MEDDRA-PT E26 Headache
+A109	MEDDRA-PT-ID E26 10019211
+A110	CUI E27 C0039070
+A111	UMLS-Preferred-Name E27 Syncope
+A112	MEDDRA-PT E27 Syncope
+A113	MEDDRA-PT-ID E27 10042772
+A114	CUI E28 C0012833
+A115	UMLS-Preferred-Name E28 Dizziness
+A116	MEDDRA-PT E28 Dizziness
+A117	MEDDRA-PT-ID E28 10013573

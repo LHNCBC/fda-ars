@@ -1,0 +1,156 @@
+55,65|C0013144|Somnolence|fndg
+55,65|C2830004|Somnolence|fndg
+69,77|C0235195|Sedation|fndg
+91,113;120,130|C0151559|central nervous system depression|dsyn
+224,234|C2825032|Withdrawal|mobd
+224,234|C3812880|Withdrawal|fndg
+236,244|C1457887|Symptoms|sosy
+284,299|C1444662|discontinuation|fndg
+301,312|C1444662|Discontinue|fndg
+387,411|C0038325|Stevens-Johnson syndrome|dsyn
+416,442|C0014518|toxic epidermal necrolysis|dsyn
+444,455|C1444662|Discontinue|fndg
+478,482|C0015230|rash|sosy
+494,498|C0015230|rash|sosy
+543,551|C1509143|Physical|fndg
+556,580|C0278079|Psychological Dependence|mobd
+606,632|C1299544|history of substance abuse|fndg
+637,642|C0311392|signs|fndg
+646,657|C0013170|habituation|mobd
+694,711|C1760428|Suicidal Behavior|fndg
+738,755|C0424000|suicidal thoughts|fndg
+759,768|C0677505|behaviors|fndg
+796,806|C0013144|Somnolence|fndg
+796,806|C2830004|Somnolence|fndg
+810,818|C0235195|Sedation|fndg
+838,848|C0013144|somnolence|fndg
+838,848|C2830004|somnolence|fndg
+853,861|C0235195|sedation|fndg
+883,893|C0013144|somnolence|fndg
+883,893|C2830004|somnolence|fndg
+897,905|C0235195|sedation|fndg
+955,962|C0445223|related|fndg
+980,990|C0013144|somnolence|fndg
+980,990|C2830004|somnolence|fndg
+995,1003|C0235195|sedation|fndg
+1129,1139|C0013144|somnolence|fndg
+1129,1139|C2830004|somnolence|fndg
+1144,1152|C0235195|sedation|fndg
+1277,1285|C0425152|engaging|fndg
+1299,1309|C2239122|activities|fndg
+1320,1336|C0549164|mental alertness|fndg
+1366,1375|C0337246|machinery|inpo
+1458,1466|C0235195|Sedation|fndg
+1822,1841|C0087169|Withdrawal Symptoms|sosy
+1856,1871|C1444662|discontinuation|fndg
+1959,1960;1967,1970|C3842674|5 day|fndg
+1977,1992|C1444662|discontinuation|fndg
+2042,2061|C0087169|Withdrawal symptoms|sosy
+2088,2103|C1444662|discontinuation|fndg
+2125,2144|C0087169|withdrawal symptoms|sosy
+2227,2236|C2825032|withdrawn|mobd
+2227,2236|C0424092|withdrawn|fndg
+2285,2293|C0036572|seizures|sosy
+2295,2302|C0036572|seizure|sosy
+2295,2302|C1959629|seizure|fndg
+2320,2338|C0038220|status epilepticus|dsyn
+2344,2363|C0087169|Withdrawal symptoms|sosy
+2371,2382|C0036572|convulsions|sosy
+2371,2382|C4048158|convulsions|sosy
+2384,2393|C0033975|psychosis|mobd
+2384,2393|C0349204|psychosis|mobd
+2395,2409|C0018524|hallucinations|mobd
+2411,2430|C0004930|behavioral disorder|mobd
+2411,2430|C0481391|behavioral disorder|inpo
+2432,2438|C0040822|tremor|sosy
+2432,2438|C1963252|tremor|fndg
+2444,2451|C0003467|anxiety|mobd
+2444,2451|C0003469|anxiety|mobd
+2444,2451|C0860603|anxiety|fndg
+2533,2539;2551,2559|C0436345|severe symptoms|fndg
+2540,2559|C0087169|withdrawal symptoms|sosy
+2540,2550|C2825032|withdrawal|mobd
+2540,2550|C3812880|withdrawal|fndg
+2578,2585|C2674459|limited|fndg
+2682,2697|C1444662|discontinuation|fndg
+2709,2715;2727,2735|C0436343|milder symptoms|fndg
+2716,2726|C2825032|withdrawal|mobd
+2716,2726|C3812880|withdrawal|fndg
+2743,2752|C0233477|dysphoria|mobd
+2754,2761|C0003467|anxiety|mobd
+2754,2761|C0003469|anxiety|mobd
+2754,2761|C0860603|anxiety|fndg
+2767,2775|C0917801|insomnia|sosy
+2767,2775|C1963237|insomnia|fndg
+2993,3017|C0038325|Stevens-Johnson syndrome|dsyn
+3019,3022|C0036391|SJS|cgab,dsyn
+3028,3054|C0014518|toxic epidermal necrolysis|dsyn
+3195,3200|C0311392|signs|fndg
+3204,3212|C1457887|symptoms|sosy
+3216,3219|C0036391|SJS|cgab,dsyn
+3220,3223|C0014518|TEN|dsyn
+3308,3315|C1363945|therapy|fndg
+3332,3344|C1444662|discontinued|fndg
+3366,3370|C0015230|rash|sosy
+3383,3387|C0015230|rash|sosy
+3420,3425|C0311392|signs|fndg
+3429,3437|C1457887|symptoms|sosy
+3446,3449|C0036391|SJS|cgab,dsyn
+3450,3453|C0014518|TEN|dsyn
+3455,3458;3467,3471|C0242510|use drug|mobd
+3455,3458;3467,3471|C2239127|use drug|fndg
+3586,3594|C1509143|Physical|fndg
+3599,3623|C0278079|Psychological Dependence|mobd
+3647,3673|C1299544|history of substance abuse|fndg
+3810,3821|C0013170|habituation|mobd
+3844,3854|C0013146|Drug Abuse|mobd
+3894,3911|C1760428|Suicidal Behavior|fndg
+3997,4014|C0424000|suicidal thoughts|fndg
+4168,4177|C1457868|worsening|fndg
+4181,4191|C0011570|depression|mobd
+4181,4191|C0011581|depression|mobd
+4181,4191|C1579931|depression|sosy
+4181,4191|C0344315|depression|fndg
+4193,4210|C0424000|suicidal thoughts|fndg
+4243,4258|C0085633|changes in mood|mobd
+4407,4417|C3815594|randomized|fndg
+4542,4550|C0438696|suicidal|fndg
+4551,4559|C0233629|thinking|mobd
+4593,4603|C3815594|randomized|fndg
+4716,4733|C1760428|suicidal behavior|fndg
+4902,4910|C0438696|suicidal|fndg
+4911,4919|C0233629|thinking|mobd
+4980,4988|C0038661|suicides|fndg
+5084,5093|C3843661|too small|fndg
+5124,5135|C0728867|drug effect|patf
+5139,5146|C0038661|suicide|fndg
+5174,5191|C0424000|suicidal thoughts|fndg
+5516,5533|C0424000|suicidal thoughts|fndg
+5609,5616|C0037088|finding|sosy
+5609,5616|C2825141|finding|fndg
+5609,5616|C0243095|finding|fndg
+6203,6207;6254,6258|C0184544|Drug Risk|fndg
+6338,6346|C0014544|Epilepsy|dsyn
+6721,6738|C0424000|suicidal thoughts|fndg
+6785,6793|C0014544|epilepsy|dsyn
+6843,6853|C0012634|conditions|dsyn
+6910,6918|C0014544|epilepsy|dsyn
+7010,7017|C0560184|balance|fndg
+7030,7047|C0424000|suicidal thoughts|fndg
+7077,7086|C0332155|untreated|fndg
+7096,7104|C0014544|Epilepsy|dsyn
+7120,7129|C0221423|illnesses|sosy
+7240,7257|C0424000|suicidal thoughts|fndg
+7279,7296|C0424000|suicidal thoughts|fndg
+7399,7407|C1457887|symptoms|sosy
+7436,7443|C0445223|related|fndg
+7451,7458|C0221423|illness|sosy
+7569,7586|C0424000|suicidal thoughts|fndg
+7640,7645|C0239110|alert|fndg
+7667,7676|C1457868|worsening|fndg
+7684,7689|C0311392|signs|fndg
+7694,7716|C0086132|symptoms of depression|sosy
+7730,7745|C0085633|changes in mood|mobd
+7779,7796|C0424000|suicidal thoughts|fndg
+7826,7835|C0424366|self-harm|inpo
+7837,7846|C0677505|Behaviors|fndg

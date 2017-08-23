@@ -1,0 +1,40 @@
+00000000|AA|CDAD|Clostridium difficile -associated diarrhea|1|4|8|42|513:4
+00000000|AA|ULN|upper limit of normal|1|3|7|21|1844:3
+00000000|MMI|49.68|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-13-"ALT"-noun-0,"ALT"-tx-12-"ALT"-noun-0,"ALT"-tx-3-"ALT"-noun-0]|TX|1889/3;1781/3;380/3|C04.557.450.550.400
+00000000|MMI|39.78|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-18-"diarrhea"-noun-0,"DIARRHOEA"-tx-14-"diarrhea"-noun-0,"DIARRHOEA"-tx-5-"diarrhea"-noun-0]|TX|2724/8;2253/8;616/8|C23.888.821.214
+00000000|MMI|35.53|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-8-"hypersensitivity reactions"-noun-0,"Sensitivity"-tx-8-"sensitivity"-noun-0,"ALLERGIC REACTION"-tx-7-"allergic reaction"-noun-0,"Hypersensitivity reactions"-tx-6-"Hypersensitivity Reactions"-noun-0,"HYPERSENSITIVITY"-tx-1-"hypersensitivity"-noun-0]|TX|940/26;1021/11;810/17;659/26;60/16|C20.543
+00000000|MMI|28.70|Clostridium difficile diarrhea|C0235952|[dsyn]|["Clostridium difficile diarrhoea"-tx-20-"CDAD"-noun-0,"Clostridium difficile diarrhoea"-tx-19-"CDAD"-noun-0,"Clostridium difficile diarrhoea"-tx-18-"CDAD"-noun-0,"Clostridium difficile diarrhoea"-tx-16-"CDAD"-noun-0,"Clostridium difficile diarrhoea"-tx-14-"CDAD"-noun-0,"Clostridium difficile diarrhoea"-tx-14-"Clostridium difficile Diarrhea"-noun-0,"Clostridium difficile diarrhoea"-tx-4-"Clostridium difficile diarrhea"-noun-0]|TX|2915/4;2807/4;2667/4;2484/4;2124/4;2031/21,2064/8;469/21,503/8|
+00000000|MMI|22.61|Alveolar rhabdomyosarcoma|C0206655|[neop]|["ARMS"-tx-13-"arms"-noun-0]|TX|1978/4|C04.557.450.590.550.660.665;C04.557.450.795.550.660.665
+00000000|MMI|14.64|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-10-"pruritus"-noun-0]|TX|1482/8|C17.800.685;C23.888.885.625
+00000000|MMI|14.64|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-10-"urticaria"-noun-0]|TX|1471/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|13.01|Cross syndrome|C2936910|[dsyn]|["Cross"-tx-8-"cross"-noun-0]|TX|1015/5|x.x.x.x
+00000000|MMI|11.49|Exanthema|C0015230|[sosy]|["RASH"-tx-10-"rash"-noun-0]|TX|1499/4|C17.800.257
+00000000|MMI|10.94|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-18-"diarrhea"-noun-0,"Diarrhea"-tx-14-"diarrhea"-noun-0,"Diarrhea"-tx-5-"diarrhea"-noun-0]|TX|2724/8;2253/8;616/8|
+00000000|MMI|10.42|Discontinued|C1444662|[fndg]|["Discontinued"-tx-20-"discontinued"-verb-1,"Discontinued"-tx-7-"discontinued"-verb-0]|TX|3018/12;870/12|
+00000000|MMI|9.87|Flushing|C0016382|[sosy]|["FLUSHING"-tx-10-"flushing"-noun-0]|TX|1443/8|C23.888.388
+00000000|MMI|8.34|Allergic Reaction|C1527304|[patf]|["Allergic Reaction"-tx-7-"allergic reaction"-noun-0]|TX|810/17|C20.543
+00000000|MMI|8.34|Bacterial Infections|C0004623|[dsyn]|["BACTERIAL INFECTION"-tx-22-"bacterial infection"-noun-1]|TX|3371/19|C01.252
+00000000|MMI|8.34|Infection|C3714514|[patf]|["Infections"-tx-17-"infections"-noun-0]|TX|2586/10|C01.539
+00000000|MMI|7.01|Infusion related reaction|C0948715|[sosy]|["Infusion related reaction"-tx-9-"Infusion-Related Reactions"-noun-0,"Infusion related reaction"-tx-9-"infusion-related reactions"-noun-0]|TX|1162/26;1311/26|
+00000000|MMI|6.72|Congenital Abnormality|C0000768|[cgab]|["Abnormalities"-tx-13-"abnormalities"-noun-0]|TX|1859/13|C16.131
+00000000|MMI|5.18|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-13-"Adverse Reactions"-noun-0]|TX|1988/17|
+00000000|MMI|5.18|CTCAE Grade 5 Colitis|C1559281|[fndg]|["Fatal Colitis"-tx-14-"fatal colitis"-noun-0]|TX|2265/13|
+00000000|MMI|5.18|Indicated|C1444656|[fndg]|["Indicated"-tx-21-"indicated"-verb-0]|TX|3235/9|
+00000000|MMI|5.18|Red man syndrome|C1306792|[dsyn]|["RED MAN SYNDROME"-tx-10-"Red-Man Syndrome"-noun-0]|TX|1414/16|
+00000000|MMI|5.18|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-10-"urticaria"-noun-0]|TX|1471/9|
+00000000|MMI|3.75|Medical History|C0262926|[fndg]|["Medical History"-tx-19-"medical history"-noun-0]|TX|2770/15|
+00000000|MMI|3.68|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-1-"hypersensitivity"-noun-0]|TX|60/16|
+00000000|MMI|3.62|History of allergies|C0489531|[fndg]|["History of allergy"-tx-8-"history of allergy"-noun-0]|TX|1070/10,1094/7|
+00000000|MMI|3.62|Congenital anomaly of liver|C0266257|[cgab]|["liver Abnormalities"-tx-13-"abnormalities liver"-noun-0]|TX|1859/13,1876/5|
+00000000|MMI|3.62|Other congenital malformations of liver|C0478037|[cgab]|["Liver abnormalities"-tx-13-"abnormalities liver"-noun-0]|TX|1859/13,1876/5|
+00000000|MMI|3.61|Known allergy|C3845888|[fndg]|["Known Hypersensitivity"-tx-1-"known hypersensitivity"-noun-0]|TX|224/22|
+00000000|MMI|3.57|Overgrowth|C1849265|[fndg]|["Overgrowth"-tx-15-"overgrowth"-noun-0]|TX|2372/10|
+00000000|MMI|3.56|Flushing Adverse Event|C1962957|[fndg]|["Flushing"-tx-10-"flushing"-noun-0]|TX|1443/8|
+00000000|MMI|3.55|Experimental Result|C2825142|[fndg]|["Result"-tx-11-"result"-verb-0]|TX|1542/6|
+00000000|MMI|3.54|Antimicrobial susceptibility|C0427965|[fndg]|["Sensitivity"-tx-8-"sensitivity"-noun-0]|TX|1021/11|
+00000000|MMI|3.54|Muscle strain|C0080194|[inpo]|["Strains"-tx-17-"strains"-noun-0]|TX|2511/7|
+00000000|MMI|3.48|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-12-"3"-integer-0]|TX|1629/1|
+00000000|MMI|3.48|Encounter due to counseling|C0740209|[fndg]|["Counseling NOS"-tx-8-"Counseling"-adj-0]|TX|1115/10|
+00000000|MMI|3.44|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-17-"therapy"-noun-0]|TX|2632/7|
+00000000|MMI|3.42|30%|C3842588|[fndg]|["30%"-tx-9-"30"-integer-0]|TX|1276/2|
+00000000|MMI|3.42|Gait normal|C0231683|[fndg]|["Normal"-tx-12-"normal"-adj-0]|TX|1701/6|

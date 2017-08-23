@@ -1,0 +1,105 @@
+00000000|AA|LVEF|left ventricular ejection fraction|1|4|7|34|3427:4
+00000000|MMI|118.64|0%|C3842591|[fndg]|["0%"-tx-22-"0"-integer-0,"0%"-tx-22-"0"-percentage-0,"0%"-tx-21-"0"-percentage-0,"0%"-tx-18-"0"-percentage-0,"0%"-tx-14-"0"-percentage-0]|TX|[4076/1],[4998/1],[5032/1],[5242/1],[5276/1],[5330/1],[5364/1],[5477/1],[5582/1],[5832/1],[5921/1],[5955/1],[6188/1],[6222/1],[6303/1],[6337/1],[6843/1];[4076/1],[4998/1],[5032/1],[5242/1],[5276/1],[5330/1],[5364/1],[5477/1],[5582/1],[5832/1],[5921/1],[5955/1],[6188/1],[6222/1],[6303/1],[6337/1],[6843/1];3884/1;[3294/1],[3317/1];[2775/1],[2798/1]|
+00000000|MMI|60.60|Adverse reactions|C0559546|[patf]|["ADVERSE REACTION"-tx-22-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-22-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-22-"adverse reactions"-noun-0,"Adverse reactions"-tx-18-"adverse reactions"-noun-0,"Adverse reactions"-tx-17-"adverse reactions"-noun-0,"Adverse reactions"-tx-16-"adverse reactions"-noun-0,"Adverse reactions"-tx-15-"adverse reactions"-noun-0,"Adverse reactions"-tx-14-"adverse reactions"-noun-0,"Adverse reactions"-tx-13-"adverse reactions"-noun-0,"Adverse reactions"-tx-12-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-2-"adverse reaction"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|[4476/16],[6657/16];[3908/17],[6369/17];[4000/17],[7114/17];3192/17;3145/17;2920/17;2833/17;[2646/17],[2741/17];2489/17;2389/17;929/16;[7/17],[655/17];[42/17],[475/17]|
+00000000|MMI|48.82|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-22-"Diarrhea"-noun-0,"DIARRHOEA"-tx-18-"diarrhea"-noun-0,"DIARRHOEA"-tx-16-"diarrhea"-noun-0,"DIARRHOEA"-tx-13-"diarrhea"-noun-0,"DIARRHOEA"-tx-1-"Diarrhea"-noun-0,"DIARRHOEA"-tx-1-"diarrhea"-noun-0]|TX|4612/8;3272/8;3008/8;2555/8;134/8;505/8|C23.888.821.214
+00000000|MMI|40.30|Paronychia Inflammation|C0030578|[dsyn]|["PARONYCHIA"-tx-22-"Paronychia"-noun-0,"PARONYCHIA"-tx-22-"paronychia"-noun-0,"PARONYCHIA"-tx-18-"paronychia"-noun-0,"PARONYCHIA"-tx-16-"paronychia"-noun-0,"PARONYCHIA"-tx-1-"paronychia"-noun-0]|TX|5426/10;4350/10;3305/10;3041/10;554/10|C01.539.800.460;C17.800.529.639;C17.800.838.486
+00000000|MMI|30.41|Non-Small Cell Lung Carcinoma|C0007131|[neop]|["NSCLC"-tx-4-"NSCLC"-noun-1,"NSCLC"-tx-3-"NSCLC"-noun-0]|TX|1483/5;1226/5|C04.588.894.797.520.109.220.249;C08.381.540.140.500;C08.785.520.100.220.500
+00000000|MMI|29.90|Stomatitis|C0038362|[dsyn]|["STOMATITIS"-tx-22-"Stomatitis"-noun-0,"STOMATITIS"-tx-22-"stomatitis"-noun-0,"STOMATITIS"-tx-16-"stomatitis"-noun-0,"STOMATITIS"-tx-1-"stomatitis"-noun-0]|TX|4700/10;[4039/10],[4121/10];3063/10;542/10|C07.465.864
+00000000|MMI|26.07|Vomiting|C0042963|[sosy]|["VOMITING"-tx-22-"Vomiting"-verb-0,"VOMITING"-tx-13-"vomiting"-noun-0,"VOMITING"-tx-1-"vomiting"-verb-0]|TX|4882/8;2572/8;604/8|C23.888.821.937
+00000000|MMI|23.74|Disease|C0012634|[dsyn]|["Disorders"-tx-22-"disorders"-noun-0,"condition"-tx-22-"conditions"-verb-0,"condition"-tx-2-"conditions"-noun-0]|TX|[5083/9],[6103/9];6137/10;917/10|C23.550.288
+00000000|MMI|23.73|Hypokalemia|C0020621|[fndg]|["HYPOKALEMIA"-tx-22-"Hypokalemia"-noun-0,"HYPOKALEMIA"-tx-22-"hypokalemia"-noun-0,"HYPOKALEMIA"-tx-13-"hypokalemia"-noun-0]|TX|6863/11;6517/11;2615/11|C18.452.950.565
+00000000|MMI|23.37|Exanthema|C0015230|[sosy]|["RASH"-tx-22-"Rash"-noun-0,"RASH"-tx-22-"rash"-noun-0,"RASH"-tx-16-"rash"-noun-0,"RASH"-tx-1-"rash"-noun-0]|TX|5105/4;4273/4;3024/4;515/4|C17.800.257
+00000000|MMI|17.77|Lung Diseases, Interstitial|C0206062|[dsyn]|["ILD"-tx-18-"ILD"-noun-0,"ILD"-tx-14-"ILD"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-1-"Interstitial Lung Disease"-noun-0]|TX|3289/3;2732/3;268/25|C08.381.483
+00000000|MMI|15.72|Acne|C0702166|[dsyn]|["ACNE"-tx-22-"acne"-noun-0,"ACNE"-tx-16-"acne"-noun-0]|TX|4295/4;3029/4|C17.800.030.150;C17.800.794.111
+00000000|MMI|15.72|Acne Vulgaris|C0001144|[dsyn]|["Acne"-tx-22-"acne"-noun-0,"Acne"-tx-16-"acne"-noun-0]|TX|4295/4;3029/4|C17.800.030.150;C17.800.794.111
+00000000|MMI|15.64|Nausea|C0027497|[sosy]|["NAUSEA"-tx-22-"Nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|4794/6;596/6|C23.888.821.712
+00000000|MMI|15.64|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-22-"Pruritus"-noun-0,"PRURITUS"-tx-1-"pruritus"-noun-0]|TX|5214/8;614/8|C17.800.685;C23.888.885.625
+00000000|MMI|14.49|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-22-"Diarrhea"-noun-0,"Diarrhea"-tx-18-"diarrhea"-noun-0,"Diarrhea"-tx-16-"diarrhea"-noun-0,"Diarrhea"-tx-13-"diarrhea"-noun-0,"Diarrhea"-tx-1-"Diarrhea"-noun-0,"Diarrhea"-tx-1-"diarrhea"-noun-0]|TX|4612/8;3272/8;3008/8;2555/8;134/8;505/8|
+00000000|MMI|12.36|School Grade|C3244287|[fndg]|["grade"-tx-22-"Grades"-verb-0]|TX|[4538/6],[6698/6],[6721/6],[6736/6]|
+00000000|MMI|11.68|Acneiform Eruptions|C0175167|[fndg]|["RASH ACNEIFORM"-tx-22-"Rash acneiform"-noun-0,"RASH ACNEIFORM"-tx-1-"rash acneiform"-noun-0]|TX|5105/4,5121/9;515/4,531/9|C17.800.030
+00000000|MMI|11.63|Dermatitis|C0011603|[dsyn]|["DERMATITIS"-tx-22-"Dermatitis"-noun-0,"DERMATITIS"-tx-1-"dermatitis"-noun-0]|TX|5110/10;520/10|C17.800.174
+00000000|MMI|11.40|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-23-"uncertain"-adj-0]|TX|7261/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|11.08|1+|C3816745|[fndg]|["1+"-tx-22-"1"-integer-0,"1+"-tx-21-"1"-integer-0]|TX|[5866/1],[6039/1],[6073/1],[6505/1];3892/1|
+00000000|MMI|10.87|4+ Answer to question|C3838679|[fndg]|["4+"-tx-22-"4"-integer-0,"4+"-tx-13-"4"-percentage-0]|TX|[4822/1],[4910/1],[5688/1],[5722/1];2582/1|
+00000000|MMI|10.73|Dermatitis acneiform|C0234894|[dsyn]|["Dermatitis acneiform"-tx-22-"Dermatitis acneiform"-noun-0,"Dermatitis acneiform"-tx-22-"dermatitis acneiform"-noun-0,"Rash acneiform"-tx-22-"Rash acneiform"-noun-0,"Dermatitis acneiform"-tx-1-"dermatitis acneiform"-noun-0,"Rash acneiform"-tx-1-"rash acneiform"-noun-0]|TX|5110/20;4316/20;5105/4,5121/9;520/20;515/4,531/9|
+00000000|MMI|10.50|Sepsis|C0243026|[dsyn]|["SEPSIS"-tx-14-"sepsis"-noun-0]|TX|2767/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|10.50|Septicemia|C0036690|[dsyn]|["Sepsis"-tx-14-"sepsis"-noun-0]|TX|2767/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|9.58|Cystitis|C0010692|[dsyn]|["CYSTITIS"-tx-22-"Cystitis"-noun-0]|TX|5520/8|C12.777.829.495;C13.351.968.829.495
+00000000|MMI|9.22|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-22-"Vomiting"-verb-0,"Vomiting"-tx-13-"vomiting"-noun-0,"Vomiting"-tx-1-"vomiting"-verb-0]|TX|4882/8;2572/8;604/8|
+00000000|MMI|9.22|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-22-"Grade 3"-noun-0,"GRADE 3"-tx-21-"Grade 3"-noun-0]|TX|[4517/7],[4553/7];3832/7|
+00000000|MMI|8.75|2+|C3833492|[fndg]|["2+"-tx-22-"2"-integer-0,"2+"-tx-21-"2"-percentage-0,"2+"-tx-4-"2"-integer-0]|TX|[6809/1],[7007/1];3689/1;1355/1|
+00000000|MMI|8.64|Aphthous Stomatitis|C0038363|[dsyn]|["APHTHOUS STOMATITIS"-tx-22-"aphthous stomatitis"-noun-0]|TX|4133/19|C07.465.864.750
+00000000|MMI|8.64|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-13-"dyspnea"-noun-0]|TX|2593/7|C08.618.326;C23.888.852.371
+00000000|MMI|8.64|Inflammatory disease of mucous membrane|C0333355|[patf]|["MUCOSAL INFLAMMATION"-tx-22-"mucosal inflammation"-noun-0]|TX|4154/20|C06.405.205.798;C07.465.584
+00000000|MMI|8.64|Ventricular Dysfunction, Left|C0242698|[patf]|["Left Ventricular Dysfunction"-tx-21-"left ventricular dysfunction"-noun-0]|TX|3771/28|C14.280.945.900
+00000000|MMI|7.76|Fever|C0015967|[fndg]|["PYREXIA"-tx-22-"Pyrexia"-noun-0]|TX|6160/7|C23.888.119.344
+00000000|MMI|7.73|Cheilitis|C0007971|[dsyn]|["CHELITIS"-tx-22-"Cheilitis"-noun-0]|TX|4970/9|C07.465.409.215
+00000000|MMI|7.72|Epistaxis|C0014591|[patf]|["EPISTAXIS"-tx-22-"Epistaxis"-noun-0]|TX|5804/9|C08.460.261;C09.603.261;C23.550.414.712
+00000000|MMI|7.61|Disease Progression|C0242656|[patf]|["Disease Progression"-tx-5-"disease progression"-noun-0]|TX|1612/19|C23.550.291.656
+00000000|MMI|6.78|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-13-"fatigue"-noun-0]|TX|2602/7|C23.888.369
+00000000|MMI|6.78|Keratitis|C0022568|[dsyn]|["KERATITIS"-tx-1-"Keratitis"-noun-0]|TX|397/9|C11.204.564
+00000000|MMI|6.78|Oral Ulcer|C0149745|[dsyn]|["MOUTH ULCERATION"-tx-22-"mouth ulceration"-noun-0]|TX|4176/16|C07.465.672
+00000000|MMI|6.78|Pancreatitis|C0030305|[dsyn]|["PANCREATITIS"-tx-24-"Pancreatitis"-noun-0]|TX|7400/12|C06.689.750
+00000000|MMI|6.78|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-14-"pneumonia"-noun-0]|TX|2787/9|C08.381.677;C08.730.610
+00000000|MMI|6.78|Ventricular Dysfunction|C0242973|[patf]|["Ventricular Dysfunction"-tx-21-"ventricular dysfunction"-noun-0]|TX|3712/23|C14.280.945
+00000000|MMI|6.61|3-4|C3840617|[fndg]|["3-4"-tx-22-"3-4"-integer-0,"3-4"-tx-8-"3.4"-real_number-0]|TX|[6705/3],[6743/3];1960/3|
+00000000|MMI|6.61|3/4|C0442757|[fndg]|["3 4"-tx-22-"3-4"-integer-0,"3 4"-tx-8-"3.4"-real_number-0]|TX|[6705/3],[6743/3];1960/3|
+00000000|MMI|6.13|1 - 3|C3843504|[fndg]|["1 - 3"-tx-18-"1.3"-percentage-0,"1 - 3"-tx-14-"1.3"-percentage-0]|TX|3282/3;2760/3|
+00000000|MMI|6.13|20%|C3842589|[fndg]|["20%"-tx-16-"20"-percentage-0,"20%"-tx-1-"20"-percentage-0]|TX|3018/2;496/2|
+00000000|MMI|5.89|Mediastinal Diseases|C0025061|[dsyn]|["Mediastinal Disorders"-tx-22-"mediastinal disorders"-noun-0]|TX|5770/21|C08.846.187
+00000000|MMI|5.85|Conjunctivitis|C0009763|[dsyn]|["CONJUNCTIVITIS"-tx-22-"Conjunctivitis"-noun-0]|TX|6270/14|C11.187.183
+00000000|MMI|4.92|Nutrition Disorders|C3714509|[dsyn]|["Nutrition Disorders"-tx-22-"nutrition disorders"-noun-0]|TX|5619/19|C18.654
+00000000|MMI|4.53|Dry skin|C0151908|[sosy]|["DRY SKIN"-tx-22-"Dry skin"-noun-0,"DRY SKIN"-tx-1-"dry skin"-noun-0]|TX|5302/8;566/8|
+00000000|MMI|4.45|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-22-"Nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|4794/6;596/6|
+00000000|MMI|4.37|10%|C3842590|[fndg]|["10%"-tx-22-"10"-percentage-0,"10%"-tx-16-"10"-percentage-0]|TX|3940/2;3075/2|
+00000000|MMI|4.27|29+|C3843708|[fndg]|["29+"-tx-22-"29"-integer-0,"29+"-tx-12-"29"-percentage-0]|TX|5671/2;2424/2|
+00000000|MMI|4.26|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-8-"exposure"-noun-0,"Exposure NOS"-tx-4-"exposure"-noun-0]|TX|1896/8;1371/8|
+00000000|MMI|4.26|exposure history|C2220266|[fndg]|["exposure"-tx-8-"exposure"-noun-0,"exposure"-tx-4-"exposure"-noun-0]|TX|1896/8;1371/8|
+00000000|MMI|4.24|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-18-"discontinuation"-noun-0,"Discontinuation"-tx-17-"Discontinuation"-noun-0]|TX|3222/15;3085/15|
+00000000|MMI|4.08|Dermatologic disorders|C0037274|[dsyn]|["SKIN DISORDERS"-tx-1-"Skin Disorders"-noun-0]|TX|210/14|C17.800
+00000000|MMI|4.07|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-17-"therapy"-noun-0,"Therapy"-tx-5-"therapy"-noun-0]|TX|3104/7;1654/7|
+00000000|MMI|4.03|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-22-"Gastrointestinal disorders"-noun-0]|TX|4573/26|C06.405
+00000000|MMI|4.03|Infection|C3714514|[patf]|["Infections"-tx-22-"Infections"-noun-0]|TX|5386/10|C01.539
+00000000|MMI|3.06|Decrease in appetite|C0232462|[sosy]|["Decreased appetite"-tx-1-"decreased appetite"-noun-0]|TX|576/18|
+00000000|MMI|3.06|Dilated ventricles (finding)|C3278923|[fndg]|["Ventricular dilation"-tx-21-"ventricular dilation"-noun-0]|TX|3804/20|
+00000000|MMI|3.06|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-4-"Controlled"-verb-0]|TX|1312/10|
+00000000|MMI|3.06|Distance vision 6/6|C0442750|[fndg]|["6/6"-tx-13-"6.6"-percentage-0]|TX|2565/3|
+00000000|MMI|3.06|Erosion of oral mucosa|C0399461|[patf]|["Oral mucosa erosion"-tx-22-"oral mucosa erosion"-noun-0]|TX|4194/19|
+00000000|MMI|3.06|Infection of nail|C0343026|[dsyn]|["NAIL INFECTION"-tx-22-"nail infection"-noun-0]|TX|4362/14|
+00000000|MMI|3.06|Minor oral aphthous ulceration|C0585213|[dsyn]|["aphthous stomatitis"-tx-22-"aphthous stomatitis"-noun-0]|TX|4133/19|
+00000000|MMI|3.06|Mucosal erosion|C0546343|[acab]|["Mucosal erosion"-tx-22-"mucosal erosion"-noun-0]|TX|4215/15|
+00000000|MMI|3.06|Pancreatitis Adverse Event|C1963198|[fndg]|["Pancreatitis"-tx-24-"Pancreatitis"-noun-0]|TX|7400/12|
+00000000|MMI|3.06|Special screening finding|C1409616|[fndg]|["screening"-tx-20-"screening"-noun-0]|TX|3539/9|
+00000000|MMI|3.06|Toxic liver disease|C0348754|[dsyn]|["Hepatic toxicity"-tx-1-"Hepatic Toxicity"-noun-0]|TX|337/16|
+00000000|MMI|3.06|Ventricular dilatation (disorder)|C0264733|[dsyn]|["Ventricular dilation"-tx-21-"ventricular dilation"-noun-0]|TX|3804/20|
+00000000|MMI|2.23|3/12|C0442761|[fndg]|["3/12"-tx-22-"3 12"-integer-0]|TX|4944/1,4981/2|
+00000000|MMI|2.22|Mucosal ulcer|C0236053|[acab]|["MUCOSAL ULCERATION"-tx-22-"mucosal ulceration"-noun-0]|TX|4232/18|
+00000000|MMI|2.17|70%|C3842584|[fndg]|["70%"-tx-11-"70"-percentage-0]|TX|2345/2|
+00000000|MMI|2.17|90%|C3842582|[fndg]|["90%"-tx-22-"90"-integer-0]|TX|5137/2|
+00000000|MMI|2.15|Disorder of eye|C0015397|[dsyn]|["Eye Disorders"-tx-22-"Eye disorders"-noun-0]|TX|6244/13|C11
+00000000|MMI|2.15|Pustular acne|C0263443|[dsyn]|["ACNE PUSTULAR"-tx-22-"acne pustular"-noun-0]|TX|4301/13|
+00000000|MMI|2.15|Diastolic dysfunction|C0520863|[patf]|["DIASTOLIC DYSFUNCTION"-tx-21-"diastolic dysfunction"-noun-0]|TX|3748/21|
+00000000|MMI|2.15|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-22-"subcutaneous disorders"-noun-0]|TX|5063/12,5083/9|
+00000000|MMI|2.14|Cheilitis Adverse Event|C1962954|[fndg]|["Cheilitis"-tx-22-"Cheilitis"-noun-0]|TX|4970/9|
+00000000|MMI|2.14|Infestation|C0851341|[dsyn]|["infestations"-tx-22-"infestations"-noun-0]|TX|5401/12|
+00000000|MMI|2.14|Positive Finding|C1514241|[fndg]|["POSITIVE"-tx-4-"positive"-noun-0]|TX|1447/8|
+00000000|MMI|2.14|Rhinorrhea|C1260880|[sosy]|["RHINORRHOEA"-tx-22-"Rhinorrhea"-noun-0]|TX|5892/10|
+00000000|MMI|2.14|Weight symptom (finding)|C0424653|[sosy]|["weight"-tx-22-"Weight"-noun-0]|TX|6004/6|
+00000000|MMI|2.13|Cystitis Adverse Event|C1963088|[fndg]|["Cystitis"-tx-22-"Cystitis"-noun-0]|TX|5520/8|
+00000000|MMI|2.13|Epistaxis on exam|C2228238|[fndg]|["epistaxis"-tx-22-"Epistaxis"-noun-0]|TX|5804/9|
+00000000|MMI|2.13|Infective cystitis|C0600041|[dsyn]|["Cystitis"-tx-22-"Cystitis"-noun-0]|TX|5520/8|
+00000000|MMI|2.13|Lead low|C0861063|[fndg]|["Lead Reduction"-tx-16-"led reduction"-noun-0]|TX|2943/3,2955/9|
+00000000|MMI|2.12|60%|C3842585|[fndg]|["60%"-tx-9-"60"-percentage-0]|TX|2118/2|
+00000000|MMI|2.11|intolerance to substance|C1744706|[fndg]|["intolerance"-tx-5-"intolerance"-noun-0]|TX|1635/11|
+00000000|MMI|2.10|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-4-"randomized"-adj-1]|TX|1503/10|
+00000000|MMI|2.10|Nail bed infection|C0521476|[dsyn]|["Nail bed infection"-tx-22-"nail bed infection"-noun-0]|TX|4378/18|
+00000000|MMI|2.09|Container status - Identified|C1550043|[fndg]|["Identified"-tx-22-"identified"-verb-0]|TX|7142/10|
+00000000|MMI|2.07|1-2|C3843716|[fndg]|["1-2"-tx-22-"1 2"-integer-0]|TX|7041/1,7070/1|
+00000000|MMI|2.05|Mutation Abnormality|C1705285|[comd]|["Mutation"-tx-4-"mutation"-noun-0]|TX|1438/8|
+00000000|MMI|2.05|75%)|C4015571|[fndg]|["75%)"-tx-7-"75"-integer-0]|TX|1814/2|
+00000000|MMI|2.03|Received therapy or drug for|C0332154|[fndg]|["Treated for"-tx-17-"treated for"-adj-0]|TX|3124/7,3141/3|
+00000000|MMI|2.03|65+|C3843765|[fndg]|["65+"-tx-9-"65"-integer-0]|TX|2184/2|
+00000000|MMI|2.03|Death Adverse Event Due to Disease Progression Not Associated with More Specific CTCAE Term|C1947900|[fndg]|["Disease progression NOS"-tx-5-"disease progression"-noun-0]|TX|1612/19|
+00000000|MMI|2.02|Pulmonary toxicity|C0919924|[patf]|["Pulmonary toxicity"-tx-14-"pulmonary toxicity"-noun-0]|TX|2713/18|
+00000000|MMI|2.02|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-14-"Fatal"-adj-0]|TX|2640/5|
+00000000|MMI|2.02|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-14-"toxicity"-noun-0]|TX|2723/8|

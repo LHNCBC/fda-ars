@@ -1,0 +1,421 @@
+T1	AdverseReaction 52 69	Thrombotic Events
+T2	AdverseReaction 204 223	Wound Complications
+T3	AdverseReaction 322 334	Hypertension
+T4	AdverseReaction 431 455	Osteonecrosis of the jaw
+T5	AdverseReaction 495 537	Palmar-plantar Erythrodysesthesia syndrome
+T6	AdverseReaction 539 543	PPES
+T7	AdverseReaction 596 607	Proteinuria
+T8	AdverseReaction 683 732	Reversible posterior leukoencephalopathy syndrome
+T9	AdverseReaction 734 738	RPLS
+T10	AdverseReaction 810 820	fetal harm
+T11	Factor 800 803	Can
+T12	AdverseReaction 931 947;953 965	Gastrointestinal perforations
+T13	AdverseReaction 931 947;970 978	Gastrointestinal fistulas
+T14	AdverseReaction 1075 1085	GI fistula
+T15	AdverseReaction 1090 1095	fatal
+T16	AdverseReaction 1104 1119	Non-GI fistulas
+T17	AdverseReaction 1111 1119;1130 1138	fistulas tracheal
+T18	AdverseReaction 1111 1119;1139 1149	fistulas esophageal
+T19	AdverseReaction 1419 1424	fatal
+T20	AdverseReaction 1425 1435	hemorrhage
+T21	Severity 1397 1404	Serious
+T22	AdverseReaction 1487 1505	hemorrhagic events
+T23	Severity 1477 1482;1485 1486	Grade 3
+T24	AdverseReaction 1765 1782	thrombotic events
+T25	AdverseReaction 1784 1806	venous thromboembolism
+T26	AdverseReaction 1822 1846	arterial thromboembolism
+T27	AdverseReaction 2113 2132	Wound complications
+T28	AdverseReaction 2546 2558	hypertension
+T29	AdverseReaction 2701 2713	hypertension
+T30	Severity 2688 2695	stage 1
+T31	Severity 2688 2693;2699 2700	stage 2
+T32	AdverseReaction 3206 3230	Osteonecrosis of the jaw
+T33	AdverseReaction 3232 3235	ONJ
+T34	AdverseReaction 3282 3285	ONJ
+T35	AdverseReaction 3302 3310	jaw pain
+T36	AdverseReaction 3312 3325	osteomyelitis
+T37	AdverseReaction 3327 3335	osteitis
+T38	AdverseReaction 3337 3349	bone erosion
+T39	AdverseReaction 3351 3356;3372 3381	tooth infection
+T40	AdverseReaction 3360 3381	periodontal infection
+T41	AdverseReaction 3383 3392	toothache
+T42	AdverseReaction 3394 3413	gingival ulceration
+T43	AdverseReaction 3394 3402;3417 3424	gingival erosion
+T44	AdverseReaction 3426 3445	persistent jaw pain
+T46	AdverseReaction 3449 3474;3482 3502	slow healing of the mouth after dental surgery
+T47	AdverseReaction 3449 3468;3478 3502	slow healing of the jaw after dental surgery
+T48	Factor 3286 3289	can
+T49	AdverseReaction 3842 3884	Palmar-plantar erythrodysesthesia syndrome
+T50	AdverseReaction 3886 3890	PPES
+T51	Severity 3950 3956	severe
+T52	AdverseReaction 4168 4179	Proteinuria
+T53	AdverseReaction 4254 4272	nephrotic syndrome
+T54	AdverseReaction 4519 4568	Reversible Posterior Leukoencephalopathy Syndrome
+T55	AdverseReaction 4570 4574	RPLS
+T56	AdverseReaction 4591 4618	subcortical vasogenic edema
+T57	AdverseReaction 5342 5352	fetal harm
+T58	Factor 5332 5335	can
+T59	AdverseReaction 5409 5421	embryolethal
+T60	Animal 5425 5429	rats
+T61	AdverseReaction 5506 5525	skeletal variations
+T62	Animal 5529 5533	rats
+T63	AdverseReaction 5538 5557	visceral variations
+T64	AdverseReaction 5538 5546;5562 5575	visceral malformations
+T65	Animal 5579 5586	rabbits
+T66	Severity 3961 3968	Grade 3
+T67	AdverseReaction 778 798	Embryofetal toxicity
+T68	AdverseReaction 949 951;953 965	GI perforations
+T69	AdverseReaction 949 951;970 978	GI fistulas
+T70	Severity 1059 1066	serious
+T71	AdverseReaction 1223 1228	fatal
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10 Hypothetical:E11
+E11	Factor:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14 Effect:E73
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T20 Effect:E22
+E22	Severity:T21
+E23	AdverseReaction:T22 Effect:E24
+E24	Severity:T23
+E25	AdverseReaction:T24
+E26	AdverseReaction:T25
+E27	AdverseReaction:T26
+E28	AdverseReaction:T27
+E29	AdverseReaction:T28
+E30	AdverseReaction:T29 Effect:E32 Effect2:E31
+E31	Severity:T30
+E32	Severity:T31
+E33	AdverseReaction:T32
+E34	AdverseReaction:T33
+E35	AdverseReaction:T34
+E36	AdverseReaction:T35 Hypothetical:E49
+E37	AdverseReaction:T36 Hypothetical:E49
+E38	AdverseReaction:T37 Hypothetical:E49
+E39	AdverseReaction:T38 Hypothetical:E49
+E40	AdverseReaction:T39 Hypothetical:E49
+E41	AdverseReaction:T40 Hypothetical:E49
+E42	AdverseReaction:T41 Hypothetical:E49
+E43	AdverseReaction:T42 Hypothetical:E49
+E44	AdverseReaction:T43 Hypothetical:E49
+E45	AdverseReaction:T44 Hypothetical:E49
+E47	AdverseReaction:T46 Hypothetical:E49
+E48	AdverseReaction:T47 Hypothetical:E49
+E49	Factor:T48
+E50	AdverseReaction:T49
+E51	AdverseReaction:T50
+E52	Severity:T51
+E53	AdverseReaction:T49 Effect:E69 Effect2:E52
+E54	AdverseReaction:T50 Effect:E52 Effect2:E69
+E55	AdverseReaction:T52
+E56	AdverseReaction:T53
+E57	AdverseReaction:T54
+E58	AdverseReaction:T55
+E59	AdverseReaction:T56
+E60	AdverseReaction:T57 Hypothetical:E61
+E61	Factor:T58
+E62	AdverseReaction:T59 Hypothetical:E63
+E63	Animal:T60
+E64	AdverseReaction:T61 Hypothetical:E65
+E65	Animal:T62
+E66	AdverseReaction:T63 Hypothetical:E68
+E67	AdverseReaction:T64 Hypothetical:E68
+E68	Animal:T65
+E69	Severity:T66
+E70	AdverseReaction:T67
+E71	AdverseReaction:T68
+E72	AdverseReaction:T69
+E73	Severity:T70
+E74	AdverseReaction:T71
+A1	CUI E1 C0040053
+A2	UMLS-Preferred-Name E1 Thrombosis
+A3	MEDDRA-PT E1 Thrombosis
+A4	MEDDRA-PT-ID E1 10043607
+A5	CUI E2 C1096106
+A6	UMLS-Preferred-Name E2 Wound complication
+A7	MEDDRA-PT E2 Wound complication
+A8	MEDDRA-PT-ID E2 10053692
+A9	CUI E3 C0020538
+A10	UMLS-Preferred-Name E3 Hypertensive disease
+A11	MEDDRA-PT E3 Hypertension
+A12	MEDDRA-PT-ID E3 10020772
+A13	CUI E4 C2902031
+A14	UMLS-Preferred-Name E4 Osteonecrosis of jaw caused by drug
+A15	MEDDRA-PT E4 Osteonecrosis of jaw
+A16	MEDDRA-PT-ID E4 10064658
+A17	CUI E5 C0549410
+A18	UMLS-Preferred-Name E5 Palmar-plantar erythrodysesthesia syndrome
+A19	MEDDRA-PT E5 Palmar-plantar erythrodysaesthesia syndrome
+A20	MEDDRA-PT-ID E5 10033553
+A21	LLT E5 Palmar-plantar erythrodysesthesia syndrome
+A22	LLT-ID E5 10054524
+A23	CUI E6 C0549410
+A24	UMLS-Preferred-Name E6 Palmar-plantar erythrodysesthesia syndrome
+A25	MEDDRA-PT E6 Palmar-plantar erythrodysaesthesia syndrome
+A26	MEDDRA-PT-ID E6 10033553
+A27	LLT E6 Palmar-plantar erythrodysesthesia syndrome
+A28	LLT-ID E6 10054524
+A29	CUI E7 C0033687
+A30	UMLS-Preferred-Name E7 Proteinuria
+A31	MEDDRA-PT E7 Proteinuria
+A32	MEDDRA-PT-ID E7 10037032
+A33	CUI E8 C3160858
+A34	UMLS-Preferred-Name E8 Posterior reversible encephalopathy syndrome
+A35	MEDDRA-PT E8 Posterior reversible encephalopathy syndrome
+A36	MEDDRA-PT-ID E8 10071066
+A37	LLT E8 Reversible posterior leukoencephalopathy syndrome
+A38	LLT-ID E8 10063761
+A39	CUI E9 C3160858
+A40	UMLS-Preferred-Name E9 Posterior reversible encephalopathy syndrome
+A41	MEDDRA-PT E9 Posterior reversible encephalopathy syndrome
+A42	MEDDRA-PT-ID E9 10071066
+A43	LLT E9 Reversible posterior leukoencephalopathy syndrome
+A44	LLT-ID E9 10063761
+A45	CUI E10 C0854268
+A46	UMLS-Preferred-Name E10 Foetal damage
+A47	MEDDRA-PT E10 Foetal damage
+A48	MEDDRA-PT-ID E10 10016852
+A49	LLT E10 Fetal damage
+A50	LLT-ID E10 10054743
+A51	CUI E12 C0151664
+A52	UMLS-Preferred-Name E12 Gastrointestinal perforation
+A53	MEDDRA-PT E12 Gastrointestinal perforation
+A54	MEDDRA-PT-ID E12 10018001
+A55	CUI E13 C0079238
+A56	UMLS-Preferred-Name E13 Digestive System Fistula
+A57	MEDDRA-PT E13 Gastrointestinal fistula
+A58	MEDDRA-PT-ID E13 10017877
+A59	CUI E14 C0079238
+A60	UMLS-Preferred-Name E14 Digestive System Fistula
+A61	MEDDRA-PT E14 Gastrointestinal fistula
+A62	MEDDRA-PT-ID E14 10017877
+A63	CUI E15 C1306577
+A64	UMLS-Preferred-Name E15 Death (finding)
+A65	MEDDRA-PT E15 Death
+A66	MEDDRA-PT-ID E15 10011906
+A67	CUI E16 C0016169
+A68	UMLS-Preferred-Name E16 pathologic fistula
+A69	MEDDRA-PT E16 Fistula
+A70	MEDDRA-PT-ID E16 10016717
+A71	CUI E17 C0340214
+A72	UMLS-Preferred-Name E17 Tracheal fistula
+A73	MEDDRA-PT E17 Tracheal fistula
+A74	MEDDRA-PT-ID E17 10065787
+A75	CUI E18 C0014856
+A76	UMLS-Preferred-Name E18 Esophageal Fistula
+A77	MEDDRA-PT E18 Oesophageal fistula
+A78	MEDDRA-PT-ID E18 10065835
+A79	LLT E18 Esophageal fistula
+A80	LLT-ID E18 10065851
+A81	CUI E19 C1306577
+A82	UMLS-Preferred-Name E19 Death (finding)
+A83	MEDDRA-PT E19 Death
+A84	MEDDRA-PT-ID E19 10011906
+A85	CUI E20 C0019080
+A86	UMLS-Preferred-Name E20 Hemorrhage
+A87	MEDDRA-PT E20 Haemorrhage
+A88	MEDDRA-PT-ID E20 10055798
+A89	LLT E20 Hemorrhage
+A90	LLT-ID E20 10019524
+A91	CUI E23 C0019080
+A92	UMLS-Preferred-Name E23 Hemorrhage
+A93	MEDDRA-PT E23 Haemorrhage
+A94	MEDDRA-PT-ID E23 10055798
+A95	LLT E23 Hemorrhage
+A96	LLT-ID E23 10019524
+A97	CUI E25 C0040053
+A98	UMLS-Preferred-Name E25 Thrombosis
+A99	MEDDRA-PT E25 Thrombosis
+A100	MEDDRA-PT-ID E25 10043607
+A101	CUI E26 C1861172
+A102	UMLS-Preferred-Name E26 Venous Thromboembolism
+A103	MEDDRA-PT E26 Embolism venous
+A104	MEDDRA-PT-ID E26 10014522
+A105	LLT E26 Venous thromboembolism
+A106	LLT-ID E26 10066899
+A107	CUI E27 C3544094
+A108	UMLS-Preferred-Name E27 Arterial thromboembolism
+A109	MEDDRA-PT E27 Embolism arterial
+A110	MEDDRA-PT-ID E27 10014513
+A111	LLT E27 Arterial thromboembolism
+A112	LLT-ID E27 10073529
+A113	CUI E28 C1096106
+A114	UMLS-Preferred-Name E28 Wound complication
+A115	MEDDRA-PT E28 Wound complication
+A116	MEDDRA-PT-ID E28 10053692
+A117	CUI E29 C0020538
+A118	UMLS-Preferred-Name E29 Hypertensive disease
+A119	MEDDRA-PT E29 Hypertension
+A120	MEDDRA-PT-ID E29 10020772
+A121	CUI E30 C0020538
+A122	UMLS-Preferred-Name E30 Hypertensive disease
+A123	MEDDRA-PT E30 Hypertension
+A124	MEDDRA-PT-ID E30 10020772
+A125	CUI E33 C2902031
+A126	UMLS-Preferred-Name E33 Osteonecrosis of jaw caused by drug
+A127	MEDDRA-PT E33 Osteonecrosis of jaw
+A128	MEDDRA-PT-ID E33 10064658
+A129	CUI E34 C2902031
+A130	UMLS-Preferred-Name E34 Osteonecrosis of jaw caused by drug
+A131	MEDDRA-PT E34 Osteonecrosis of jaw
+A132	MEDDRA-PT-ID E34 10064658
+A133	CUI E35 C2902031
+A134	UMLS-Preferred-Name E35 Osteonecrosis of jaw caused by drug
+A135	MEDDRA-PT E35 Osteonecrosis of jaw
+A136	MEDDRA-PT-ID E35 10064658
+A137	CUI E36 C0236000
+A138	UMLS-Preferred-Name E36 Jaw pain
+A139	MEDDRA-PT E36 Pain in jaw
+A140	MEDDRA-PT-ID E36 10033433
+A141	LLT E36 Jaw pain
+A142	LLT-ID E36 10023157
+A143	CUI E37 C0029443
+A144	UMLS-Preferred-Name E37 Osteomyelitis
+A145	MEDDRA-PT E37 Osteomyelitis
+A146	MEDDRA-PT-ID E37 10031252
+A147	CUI E38 C0029400
+A148	UMLS-Preferred-Name E38 Osteitis
+A149	MEDDRA-PT E38 Osteitis
+A150	MEDDRA-PT-ID E38 10031149
+A151	CUI E39 C0587240
+A152	UMLS-Preferred-Name E39 Bone erosion
+A153	MEDDRA-PT E39 Bone erosion
+A154	MEDDRA-PT-ID E39 10051728
+A155	CUI E40 C0877046
+A156	UMLS-Preferred-Name E40 Infection of tooth
+A157	MEDDRA-PT E40 Tooth infection
+A158	MEDDRA-PT-ID E40 10048762
+A159	CUI E41 C0747479
+A160	UMLS-Preferred-Name E41 Periodontal infection
+A161	MEDDRA-PT E41 Periodontitis
+A162	MEDDRA-PT-ID E41 10034539
+A163	LLT E41 Periodontal infection
+A164	LLT-ID E41 10034538
+A165	CUI E42 C0040460
+A166	UMLS-Preferred-Name E42 Toothache
+A167	MEDDRA-PT E42 Toothache
+A168	MEDDRA-PT-ID E42 10044055
+A169	CUI E43 C0392378
+A170	UMLS-Preferred-Name E43 Ulceration of gingivae
+A171	MEDDRA-PT E43 Gingival ulceration
+A172	MEDDRA-PT-ID E43 10049398
+A173	CUI E44 C0235346
+A174	UMLS-Preferred-Name E44 Superficial gingival ulcer
+A175	MEDDRA-PT E44 Gingival erosion
+A176	MEDDRA-PT-ID E44 10018282
+A177	CUI E45 C0236000
+A178	UMLS-Preferred-Name E45 Jaw pain
+A179	MEDDRA-PT E45 Pain in jaw
+A180	MEDDRA-PT-ID E45 10033433
+A181	LLT E45 Jaw pain
+A182	LLT-ID E45 10023157
+A183	flag E47 underspecified
+A184	CUI E47 C0151692
+A185	UMLS-Preferred-Name E47 Impaired wound healing
+A186	MEDDRA-PT E47 Impaired healing
+A187	MEDDRA-PT-ID E47 10021519
+A188	LLT E47 Delayed healing of wound
+A189	LLT-ID E47 10012200
+A190	flag E48 underspecified
+A191	CUI E48 C0151692
+A192	UMLS-Preferred-Name E48 Impaired wound healing
+A193	MEDDRA-PT E48 Impaired healing
+A194	MEDDRA-PT-ID E48 10021519
+A195	LLT E48 Delayed healing of wound
+A196	LLT-ID E48 10012200
+A197	CUI E50 C0549410
+A198	UMLS-Preferred-Name E50 Palmar-plantar erythrodysesthesia syndrome
+A199	MEDDRA-PT E50 Palmar-plantar erythrodysaesthesia syndrome
+A200	MEDDRA-PT-ID E50 10033553
+A201	LLT E50 Palmar-plantar erythrodysesthesia syndrome
+A202	LLT-ID E50 10054524
+A203	CUI E51 C0549410
+A204	UMLS-Preferred-Name E51 Palmar-plantar erythrodysesthesia syndrome
+A205	MEDDRA-PT E51 Palmar-plantar erythrodysaesthesia syndrome
+A206	MEDDRA-PT-ID E51 10033553
+A207	LLT E51 Palmar-plantar erythrodysesthesia syndrome
+A208	LLT-ID E51 10054524
+A209	CUI E55 C0033687
+A210	UMLS-Preferred-Name E55 Proteinuria
+A211	MEDDRA-PT E55 Proteinuria
+A212	MEDDRA-PT-ID E55 10037032
+A213	CUI E56 C0027726
+A214	UMLS-Preferred-Name E56 Nephrotic Syndrome
+A215	MEDDRA-PT E56 Nephrotic syndrome
+A216	MEDDRA-PT-ID E56 10029164
+A217	CUI E57 C3160858
+A218	UMLS-Preferred-Name E57 Posterior reversible encephalopathy syndrome
+A219	MEDDRA-PT E57 Posterior reversible encephalopathy syndrome
+A220	MEDDRA-PT-ID E57 10071066
+A221	LLT E57 Reversible posterior leukoencephalopathy syndrome
+A222	LLT-ID E57 10063761
+A223	CUI E58 C3160858
+A224	UMLS-Preferred-Name E58 Posterior reversible encephalopathy syndrome
+A225	MEDDRA-PT E58 Posterior reversible encephalopathy syndrome
+A226	MEDDRA-PT-ID E58 10071066
+A227	LLT E58 Reversible posterior leukoencephalopathy syndrome
+A228	LLT-ID E58 10063761
+A229	flag E59 underspecified
+A230	CUI E59 C0472387
+A231	UMLS-Preferred-Name E59 Vasogenic Cerebral Edema
+A232	MEDDRA-PT E59 Vasogenic cerebral oedema
+A233	MEDDRA-PT-ID E59 10067275
+A234	LLT E59 Vasogenic cerebral edema
+A235	LLT-ID E59 10067278
+A236	CUI E60 C0854268
+A237	UMLS-Preferred-Name E60 Foetal damage
+A238	MEDDRA-PT E60 Foetal damage
+A239	MEDDRA-PT-ID E60 10016852
+A240	LLT E60 Fetal damage
+A241	LLT-ID E60 10054743
+A242	CUI E62 C0015927
+A243	UMLS-Preferred-Name E62 Fetal Death
+A244	MEDDRA-PT E62 Foetal death
+A245	MEDDRA-PT-ID E62 10055690
+A246	LLT E62 Fetal death
+A247	LLT-ID E62 10016479
+A248	CUI E64 C0795693
+A249	UMLS-Preferred-Name E64 Skeletal malformation
+A250	MEDDRA-PT E64 Congenital musculoskeletal anomaly
+A251	MEDDRA-PT-ID E64 10062344
+A252	LLT E64 Skeletal malformation
+A253	LLT-ID E64 10040771
+A254	flag E66 unmapped
+A255	CUI E67 C3808677
+A256	UMLS-Preferred-Name E67 Visceral malformations
+A257	MEDDRA-PT E67 Gastrointestinal malformation
+A258	MEDDRA-PT-ID E67 10061596
+A259	CUI E70 C0270009
+A260	UMLS-Preferred-Name E70 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A261	MEDDRA-PT E70 Maternal drugs affecting foetus
+A262	MEDDRA-PT-ID E70 10026923
+A263	LLT E70 Drug toxicity NEC affecting foetus
+A264	LLT-ID E70 10013750
+A265	CUI E71 C0151664
+A266	UMLS-Preferred-Name E71 Gastrointestinal perforation
+A267	MEDDRA-PT E71 Gastrointestinal perforation
+A268	MEDDRA-PT-ID E71 10018001
+A269	LLT E71 GI perforation
+A270	LLT-ID E71 10018242
+A271	CUI E72 C0079238
+A272	UMLS-Preferred-Name E72 Digestive System Fistula
+A273	MEDDRA-PT E72 Gastrointestinal fistula
+A274	MEDDRA-PT-ID E72 10017877
+A275	CUI E74 C1306577
+A276	UMLS-Preferred-Name E74 Death (finding)
+A277	MEDDRA-PT E74 Death
+A278	MEDDRA-PT-ID E74 10011906

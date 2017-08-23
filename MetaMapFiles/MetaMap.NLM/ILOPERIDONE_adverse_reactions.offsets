@@ -1,0 +1,254 @@
+133,142|C0042571|dizziness|sosy
+133,142|C0012833|dizziness|sosy
+133,142|C1963093|dizziness|fndg
+144,153|C0043352|dry mouth|dsyn
+155,162|C0015672|fatigue|sosy
+164,180|C2136984|nasal congestion|patf
+164,180|C0027424|nasal congestion|sosy
+182,205|C0020651|orthostatic hypotension|fndg
+207,217|C0013144|somnolence|fndg
+207,217|C2830004|somnolence|fndg
+219,230|C0039231|tachycardia|patf
+219,230|C3827868|tachycardia|fndg
+236,242|C0424653|weight|sosy
+533,543|C0012634|conditions|dsyn
+922,935|C0036341|schizophrenia|mobd
+1140,1150|C0012634|conditions|dsyn
+1196,1203|C3840786|greatly|fndg
+1972,1980|C1457868|worsened|fndg
+1997,2004|C1363945|therapy|fndg
+2466,2475;2485,2502|C0879626|treatment adverse reactions|patf
+2888,2897;2907,2924|C0879626|Treatment Adverse Reactions|patf
+3286,3296|C0003862|Arthralgia|sosy
+3358,3365|C0015672|Fatigue|sosy
+3429,3454|C0948525|Musculoskeletal Stiffness|sosy
+3516,3522|C0424653|Weight|sosy
+3590,3607|C0018799|Cardiac Disorders|dsyn
+3671,3682|C0039231|Tachycardia|patf
+3671,3682|C3827868|Tachycardia|fndg
+3740,3753|C0015397|Eye Disorders|dsyn
+3817,3831|C0344232|Vision Blurred|sosy
+3889,3915|C0017178|Gastrointestinal Disorders|dsyn
+3979,3985|C0027497|Nausea|sosy
+3979,3985|C1963179|Nausea|patf
+4050,4059|C0043352|Dry Mouth|dsyn
+4121,4129|C0011991|Diarrhea|sosy
+4121,4129|C1963091|Diarrhea|fndg
+4192,4212|C0232487|Abdominal Discomfort|sosy
+4270,4280|C3714514|Infections|patf
+4345,4360|C0027441|Nasopharyngitis|dsyn
+4422,4455|C0041912|Upper Respiratory Tract Infection|dsyn
+4601,4610|C0042571|Dizziness|sosy
+4601,4610|C0012833|Dizziness|sosy
+4601,4610|C1963093|Dizziness|fndg
+4672,4682|C0013144|Somnolence|fndg
+4672,4682|C2830004|Somnolence|fndg
+4744,4767|C0015371|Extrapyramidal Disorder|dsyn
+4829,4835|C0040822|Tremor|sosy
+4829,4835|C1963252|Tremor|fndg
+4900,4908|C0023380|Lethargy|sosy
+4967,4986|C1335757|Reproductive System|fndg
+5050,5069|C0278106|Ejaculation Failure|patf
+5202,5218|C2136984|Nasal Congestion|patf
+5202,5218|C0027424|Nasal Congestion|sosy
+5280,5287|C0013404|Dyspnea|sosy
+5347,5351;5422,5426|C0015230|Skin Rash|sosy
+5489,5507|C0042373|Vascular Disorders|dsyn
+5571,5594|C0020651|Orthostatic Hypotension|fndg
+5656,5667|C0020649|Hypotension|fndg
+5656,5667|C3163620|Hypotension|fndg
+5964,5971|C0445223|Related|fndg
+6380,6400|C0232487|abdominal discomfort|sosy
+6402,6411|C0042571|dizziness|sosy
+6402,6411|C0012833|dizziness|sosy
+6402,6411|C1963093|dizziness|fndg
+6413,6424|C0020649|hypotension|fndg
+6413,6424|C3163620|hypotension|fndg
+6426,6451|C0948525|musculoskeletal stiffness|sosy
+6453,6464|C0039231|tachycardia|patf
+6453,6464|C3827868|tachycardia|fndg
+6470,6476|C0424653|weight|sosy
+6511,6518|C0445223|Related|fndg
+6813,6822|C0042571|dizziness|sosy
+6813,6822|C0012833|dizziness|sosy
+6813,6822|C1963093|dizziness|fndg
+6824,6833|C0043352|dry mouth|dsyn
+6835,6842|C0015672|fatigue|sosy
+6844,6860|C2136984|nasal congestion|patf
+6844,6860|C0027424|nasal congestion|sosy
+6862,6872|C0013144|somnolence|fndg
+6862,6872|C2830004|somnolence|fndg
+6874,6885|C0039231|tachycardia|patf
+6874,6885|C3827868|tachycardia|fndg
+6887,6910|C0020651|orthostatic hypotension|fndg
+6916,6922|C0424653|weight|sosy
+6934,6943|C0042571|Dizziness|sosy
+6934,6943|C0012833|Dizziness|sosy
+6934,6943|C1963093|Dizziness|fndg
+6945,6956|C0039231|tachycardia|patf
+6945,6956|C3827868|tachycardia|fndg
+6962,6968|C0424653|weight|sosy
+7057,7080|C0234133|Extrapyramidal Symptoms|sosy
+7251,7254|C0234133|EPS|sosy
+7333,7336|C0234133|EPS|sosy
+7337,7344|C0445223|related|fndg
+7408,7411|C0234133|EPS|sosy
+7611,7614|C0234133|EPS|sosy
+7679,7688|C0392156|Akathisia|sosy
+7750,7762|C0233565|Bradykinesia|sosy
+7821,7831|C0013384|Dyskinesia|dsyn
+7892,7900|C0013421|Dystonia|sosy
+7892,7900|C0393593|Dystonia|dsyn
+7963,7975|C0242422|Parkinsonism|dsyn
+8034,8040|C0040822|Tremor|sosy
+8034,8040|C1963252|Tremor|fndg
+8150,8165|C1444662|Discontinuation|fndg
+8347,8362|C1444662|discontinuation|fndg
+8488,8503|C1444662|discontinuation|fndg
+8889,8918|C0438215|Laboratory Test Abnormalities|fndg
+9216,9226|C0518014|hematocrit|fndg
+9364,9370;9389,9399|C0740316|normal hematocrit|fndg
+9389,9399|C0518014|hematocrit|fndg
+9463,9469|C0231683|normal|fndg
+9516,9520|C1273517|used|fndg
+9662,9671;9681,9698|C0879626|treatment adverse reactions|patf
+10297,10304|C0445223|related|fndg
+10890,10909|C0024228|Lymphatic Disorders|dsyn
+10925,10931|C0002871|anemia|dsyn
+10933,10955|C0162316|iron deficiency anemia|dsyn
+10958,10962;10991,11000|C0678236|Rare Disorders|dsyn
+10966,10976|C0023530|leukopenia|dsyn
+10966,10976|C0750394|leukopenia|fndg
+10983,11000|C0018799|Cardiac Disorders|dsyn
+11014,11026|C0030252|palpitations|fndg
+11014,11026|C3160712|palpitations|fndg
+11037,11047|C0003811|arrhythmia|fndg
+11049,11084|C0085614|atrioventricular block first degree|dsyn
+11086,11101|C0018801|cardiac failure|dsyn
+11086,11101|C0018802|cardiac failure|dsyn
+11149,11168|C0022890|Labyrinth Disorders|dsyn
+11185,11192|C0042571|vertigo|sosy
+11194,11202|C0040264|tinnitus|fndg
+11194,11202|C1963249|tinnitus|fndg
+11209,11228|C0014130|Endocrine Disorders|dsyn
+11244,11258|C0020676|hypothyroidism|dsyn
+11265,11278|C0015397|Eye Disorders|dsyn
+11292,11306|C0009763|conjunctivitis|dsyn
+11344,11351|C0013238|dry eye|dsyn
+11344,11351|C0314719|dry eye|sosy
+11353,11364|C0005741|blepharitis|dsyn
+11366,11378|C0162285|eyelid edema|fndg
+11380,11392|C0270996|eye swelling|sosy
+11394,11414|C1510497|lenticular opacities|acab
+11416,11424|C0086543|cataract|acab
+11426,11435|C0020452|hyperemia|dsyn
+11467,11493|C0017178|Gastrointestinal Disorders|dsyn
+11509,11518|C0017152|gastritis|dsyn
+11520,11543|C0037036|salivary hypersecretion|dsyn
+11545,11563|C0015732|fecal incontinence|dsyn
+11565,11581|C0149745|mouth ulceration|dsyn
+11594,11613|C0038363|aphthous stomatitis|dsyn
+11594,11613|C0585213|aphthous stomatitis|dsyn
+11615,11629|C0013295|duodenal ulcer|dsyn
+11631,11644|C3489393|hiatus hernia|anab
+11646,11662|C0151713|hyperchlorhydria|patf
+11664,11678|C0267033|lip ulceration|dsyn
+11680,11698|C0014869|reflux esophagitis|dsyn
+11680,11698|C0677659|reflux esophagitis|dsyn
+11700,11710;11725,11734|C0038362|stomatitis Disorders|dsyn
+11739,11753|C3845829|Administrative|fndg
+11759,11769|C0012634|Conditions|dsyn
+11785,11790|C0013604|edema|fndg
+11817,11832|C0018799|cardiac disease|dsyn
+11835,11856|C0311394|difficulty in walking|fndg
+11867,11871;11908,11917|C0678236|Rare Disorders|dsyn
+11875,11887|C0015967|hyperthermia|fndg
+11894,11917|C0267792|Hepatobiliary Disorders|dsyn
+11933,11947|C0008350|cholelithiasis|dsyn
+11982,11988|C0424653|weight|sosy
+12015,12025|C1561562|hemoglobin|fndg
+12065,12075|C0518014|hematocrit|fndg
+12107,12126|C3714509|Nutrition Disorders|dsyn
+12146,12164|C0232461|increased appetite|fndg
+12166,12177|C0011175|dehydration|dsyn
+12179,12190|C0020621|hypokalemia|fndg
+12192,12207|C0268000|fluid retention|patf
+12234,12261|C0009782|Connective Tissue Disorders|dsyn
+12275,12282|C0231528|myalgia|sosy
+12284,12297|C0037763|muscle spasms|sosy
+12308,12319|C0040485|torticollis|sosy
+12367,12378|C0030554|paresthesia|dsyn
+12367,12378|C2242996|paresthesia|sosy
+12380,12405|C3887612|psychomotor hyperactivity|fndg
+12407,12419|C3887612|restlessness|fndg
+12407,12419|C3887611|restlessness|sosy
+12407,12419|C0085631|restlessness|sosy
+12421,12428|C0002622|amnesia|mobd
+12430,12439|C0028738|nystagmus|dsyn
+12430,12439|C1963184|nystagmus|fndg
+12442,12446;12491,12500|C0678236|Rare Disorders|dsyn
+12450,12472|C0035258|restless legs syndrome|dsyn
+12514,12526|C3887612|restlessness|fndg
+12514,12526|C3887611|restlessness|sosy
+12514,12526|C0085631|restlessness|sosy
+12528,12538|C0001807|aggression|mobd
+12528,12538|C1457883|aggression|mobd
+12540,12548|C0011253|delusion|mobd
+12576,12582|C0517356|libido|fndg
+12594,12602|C1456784|paranoia|mobd
+12604,12614|C0234022|anorgasmia|mobd
+12616,12633|C0009676|confusional state|mobd
+12635,12640|C0338831|mania|mobd
+12642,12651|C0007398|catatonia|mobd
+12653,12664|C0085633|mood swings|mobd
+12666,12678|C0086769|panic attack|mobd
+12680,12709|C0600104|obsessive-compulsive disorder|mobd
+12680,12709|C0028768|obsessive-compulsive disorder|mobd
+12711,12726|C2267227|bulimia nervosa|mobd
+12728,12736|C0011206|delirium|mobd
+12738,12760|C0395005|polydipsia psychogenic|mobd
+12762,12786|C0021122|impulse-control disorder|mobd
+12788,12804|C1269683|major depression|mobd
+12788,12804|C0041696|major depression|mobd
+12821,12838|C0042075|Urinary Disorders|dsyn
+12852,12872|C0042024|urinary incontinence|patf
+12852,12872|C1962973|urinary incontinence|fndg
+12889,12896|C0013428|dysuria|sosy
+12898,12909|C0042023|pollakiuria|fndg
+12911,12919|C0042024|enuresis|patf
+12911,12919|C0270327|enuresis|mobd
+12911,12919|C0014394|enuresis|sosy
+12921,12936|C0022650|nephrolithiasis|dsyn
+12921,12936|C0392525|nephrolithiasis|dsyn
+12947,12964|C0080274|urinary retention|fndg
+12966,12985|C0022660|renal failure acute|dsyn
+12992,13011|C1335757|Reproductive System|fndg
+13016,13032|C0006145|Breast Disorders|dsyn
+13046,13066|C0242350|erectile dysfunction|dsyn
+13046,13066|C1961100|erectile dysfunction|patf
+13083,13098|C0039591|testicular pain|sosy
+13100,13110|C0002453|amenorrhea|dsyn
+13100,13110|C2219717|amenorrhea|sosy
+13112,13123|C0024902|breast pain|sosy
+13112,13123|C0553713|breast pain|sosy
+13135,13157|C0156404|menstruation irregular|fndg
+13159,13171|C0018418|gynecomastia|dsyn
+13159,13171|C1963120|gynecomastia|fndg
+13173,13184|C0025323|menorrhagia|patf
+13186,13198|C0025874|metrorrhagia|patf
+13186,13198|C2030274|metrorrhagia|sosy
+13200,13225|C0032776|postmenopausal hemorrhage|patf
+13227,13238|C0033581|prostatitis|dsyn
+13272,13293|C0025061|Mediastinal Disorders|dsyn
+13309,13318|C0014591|epistaxis|patf
+13309,13318|C2228238|epistaxis|fndg
+13320,13326|C0004096|asthma|dsyn
+13328,13338|C1260880|rhinorrhea|sosy
+13340,13356|C0152029|sinus congestion|sosy
+13358,13371|C0231919|nasal dryness|fndg
+13382,13392|C0235234|dry throat|sosy
+13394,13414|C0037315|sleep apnea syndrome|dsyn
+13416,13434|C0231807|dyspnea exertional|sosy
+13519,13529|C1550043|identified|fndg
+13566,13588|C0403673|retrograde ejaculation|patf
+13661,13670|C0087130|uncertain|fndg

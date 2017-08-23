@@ -1,0 +1,116 @@
+T1	AdverseReaction 30 74	POST-TRANSPLANT LYMPHOPROLIFERATIVE DISORDER
+T2	AdverseReaction 82 94	MALIGNANCIES
+T3	AdverseReaction 108 118	INFECTIONS
+T4	Severity 100 107	SERIOUS
+T5	AdverseReaction 131 175	POST-TRANSPLANT LYMPHOPROLIFERATIVE DISORDER
+T6	AdverseReaction 183 195	MALIGNANCIES
+T7	AdverseReaction 209 219	INFECTIONS
+T8	Severity 201 208	SERIOUS
+T9	AdverseReaction 255 299	post-transplant lymphoproliferative disorder
+T10	AdverseReaction 301 305	PTLD
+T11	Factor 235 239	risk
+T12	AdverseReaction 1146 1183	Increased susceptibility to infection
+T13	AdverseReaction 1216 1228	malignancies
+T15	Factor 1229 1232	may
+T14	AdverseReaction 1519 1563	POST-TRANSPLANT LYMPHOPROLIFERATIVE DISORDER
+T16	AdverseReaction 1571 1583	MALIGNANCIES
+T17	AdverseReaction 1597 1607	INFECTIONS
+T18	Severity 1589 1596	SERIOUS
+T19	AdverseReaction 1718 1762	post-transplant lymphoproliferative disorder
+T20	AdverseReaction 1764 1768	PTLD
+T21	Factor 1698 1702	risk
+T22	AdverseReaction 2223 2260	Increased susceptibility to infection
+T23	AdverseReaction 2293 2305	malignancies
+T24	Factor 2306 2309	may
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3 Effect:E4
+E4	Severity:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7 Effect:E8
+E8	Severity:T8
+E9	AdverseReaction:T9 Hypothetical:E11
+E10	AdverseReaction:T10
+E11	Factor:T11
+E12	AdverseReaction:T12 Hypothetical:E15
+E13	AdverseReaction:T13 Hypothetical2:E15
+E15	Factor:T15
+E14	AdverseReaction:T14
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17 Effect:E18
+E18	Severity:T18
+E19	AdverseReaction:T19 Hypothetical:E21
+E20	AdverseReaction:T20
+E21	Factor:T21
+E22	AdverseReaction:T22 Hypothetical:E24
+E23	AdverseReaction:T23 Hypothetical:E24
+E24	Factor:T24
+A1	CUI E1 C0432487
+A2	UMLS-Preferred-Name E1 Post-transplant lymphoproliferative disorder
+A3	MEDDRA-PT E1 Post transplant lymphoproliferative disorder
+A4	MEDDRA-PT-ID E1 10051358
+A5	CUI E2 C0006826
+A6	UMLS-Preferred-Name E2 Malignant Neoplasms
+A7	MEDDRA-PT E2 Neoplasm malignant
+A8	MEDDRA-PT-ID E2 10028997
+A9	CUI E3 C3714514
+A10	UMLS-Preferred-Name E3 Infection
+A11	MEDDRA-PT E3 Infection
+A12	MEDDRA-PT-ID E3 10021789
+A13	CUI E5 C0432487
+A14	UMLS-Preferred-Name E5 Post-transplant lymphoproliferative disorder
+A15	MEDDRA-PT E5 Post transplant lymphoproliferative disorder
+A16	MEDDRA-PT-ID E5 10051358
+A17	CUI E6 C0006826
+A18	UMLS-Preferred-Name E6 Malignant Neoplasms
+A19	MEDDRA-PT E6 Neoplasm malignant
+A20	MEDDRA-PT-ID E6 10028997
+A21	CUI E7 C3714514
+A22	UMLS-Preferred-Name E7 Infection
+A23	MEDDRA-PT E7 Infection
+A24	MEDDRA-PT-ID E7 10021789
+A25	CUI E9 C0432487
+A26	UMLS-Preferred-Name E9 Post-transplant lymphoproliferative disorder
+A27	MEDDRA-PT E9 Post transplant lymphoproliferative disorder
+A28	MEDDRA-PT-ID E9 10051358
+A29	CUI E10 C0432487
+A30	UMLS-Preferred-Name E10 Post-transplant lymphoproliferative disorder
+A31	MEDDRA-PT E10 Post transplant lymphoproliferative disorder
+A32	MEDDRA-PT-ID E10 10051358
+A33	CUI E12 C0236171
+A34	UMLS-Preferred-Name E12 Increased susceptibility to infections
+A35	MEDDRA-PT E12 Infection susceptibility increased
+A36	MEDDRA-PT-ID E12 10021866
+A37	CUI E13 C0006826
+A38	UMLS-Preferred-Name E13 Malignant Neoplasms
+A39	MEDDRA-PT E13 Neoplasm malignant
+A40	MEDDRA-PT-ID E13 10028997
+A41	CUI E14 C0432487
+A42	UMLS-Preferred-Name E14 Post-transplant lymphoproliferative disorder
+A43	MEDDRA-PT E14 Post transplant lymphoproliferative disorder
+A44	MEDDRA-PT-ID E14 10051358
+A45	CUI E16 C0006826
+A46	UMLS-Preferred-Name E16 Malignant Neoplasms
+A47	MEDDRA-PT E16 Neoplasm malignant
+A48	MEDDRA-PT-ID E16 10028997
+A49	CUI E17 C3714514
+A50	UMLS-Preferred-Name E17 Infection
+A51	MEDDRA-PT E17 Infection
+A52	MEDDRA-PT-ID E17 10021789
+A53	CUI E19 C0432487
+A54	UMLS-Preferred-Name E19 Post-transplant lymphoproliferative disorder
+A55	MEDDRA-PT E19 Post transplant lymphoproliferative disorder
+A56	MEDDRA-PT-ID E19 10051358
+A57	CUI E20 C0432487
+A58	UMLS-Preferred-Name E20 Post-transplant lymphoproliferative disorder
+A59	MEDDRA-PT E20 Post transplant lymphoproliferative disorder
+A60	MEDDRA-PT-ID E20 10051358
+A61	CUI E22 C0236171
+A62	UMLS-Preferred-Name E22 Increased susceptibility to infections
+A63	MEDDRA-PT E22 Infection susceptibility increased
+A64	MEDDRA-PT-ID E22 10021866
+A65	CUI E23 C0006826
+A66	UMLS-Preferred-Name E23 Malignant Neoplasms
+A67	MEDDRA-PT E23 Neoplasm malignant
+A68	MEDDRA-PT-ID E23 10028997

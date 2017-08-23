@@ -1,0 +1,34 @@
+00000000|AA|UTIs|Urinary tract infections|1|4|5|24|3152:4
+00000000|MMI|531.00|Seizures|C0036572|[sosy]|["Seizures"-tx-13-"seizures"-noun-0,"Seizures"-tx-10-"seizures"-noun-0,"SEIZURE"-tx-9-"seizure"-noun-1,"Seizures"-tx-8-"seizures"-noun-0,"Seizures"-tx-7-"seizures"-noun-1,"Seizures"-tx-6-"seizures"-noun-0,"Seizures"-tx-6-"seizures"-noun-1,"Seizures"-tx-5-"seizures"-noun-0,"Seizures"-tx-4-"seizures"-noun-0,"Seizures"-tx-3-"seizures"-noun-0,"Seizures"-tx-2-"Seizures"-noun-1,"Seizures"-tx-2-"seizures"-noun-1,"SEIZURE"-tx-1-"seizure"-noun-1,"Seizures"-tx-1-"seizures"-noun-0]|TX|2264/8;1624/8;1540/7;1312/8;1184/8;[975/8],[1054/8];[975/8],[1054/8];930/8;730/8;524/8;460/8;491/8;183/7;[69/8],[91/8]|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|46.35|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-18-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-16-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-16-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-1-"anaphylaxis"-noun-0]|TX|2954/11;2708/11;2742/11;368/11|C20.543.480.099
+00000000|MMI|42.47|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-13-"renal impairment"-noun-0,"Renal Impairment"-tx-12-"renal impairment"-noun-0,"Renal Impairment"-tx-11-"Renal Impairment"-noun-0]|TX|2093/16;1855/16;1678/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|23.28|Discontinued|C1444662|[fndg]|["Discontinue"-tx-18-"discontinue"-verb-0,"Discontinue"-tx-15-"discontinue"-verb-0,"Discontinued"-tx-9-"discontinued"-verb-0,"Discontinue"-tx-2-"Discontinue"-verb-0,"Discontinue"-tx-1-"discontinue"-verb-0]|TX|2984/11;2528/11;1480/12;381/11;140/11|
+00000000|MMI|14.02|Angioedema|C0002994|[patf]|["Angiooedema"-tx-17-"angioedema"-noun-0]|TX|2857/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|12.83|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-18-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-16-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-16-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-1-"anaphylaxis"-noun-0]|TX|2954/11;2708/11;2742/11;368/11|
+00000000|MMI|12.69|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-17-"urticaria"-noun-0]|TX|2842/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|12.18|10%|C3842590|[fndg]|["10%"-tx-19-"10"-integer-0,"10%"-tx-12-"10"-integer-0,"10%"-tx-12-"10"-integer-1,"10%"-tx-4-"10"-integer-0]|TX|3260/2;[1922/2],[1969/2];[1922/2],[1969/2];870/2|
+00000000|MMI|11.21|Urinary tract infection|C0042029|[dsyn]|["Urinary Tract Infections"-tx-19-"Urinary Tract Infections"-noun-0]|TX|3096/24|C01.539.895;C12.777.892;C13.351.968.892
+00000000|MMI|10.06|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-18-"symptoms"-noun-0,"SYMPTOMS"-tx-17-"symptoms"-noun-0]|TX|[2942/8],[3058/8];2795/8|
+00000000|MMI|10.01|Physical findings|C0311392|[fndg]|["SIGNS"-tx-18-"signs"-noun-0,"SIGNS"-tx-17-"Signs"-noun-0]|TX|[2932/5],[3048/5];2785/5|
+00000000|MMI|9.48|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-10-"history of"-noun-0,"HISTORY OF"-tx-7-"history of"-noun-1,"HISTORY OF"-tx-6-"history of"-noun-1]|TX|1613/10;1173/10;1043/10|
+00000000|MMI|9.02|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-9-"seizure"-noun-1,"Seizure"-tx-1-"seizure"-noun-1]|TX|1540/7;183/7|
+00000000|MMI|6.30|CREATININE CLEARANCE QUANTITATIVE TRAIT LOCUS|C1846718|[fndg]|["CRCL"-tx-13-"CrCl"-noun-0,"CRCL"-tx-12-"CrCl"-noun-0]|TX|2111/4;1873/4|
+00000000|MMI|6.23|Contraindicated|C1444657|[fndg]|["Contraindicated"-tx-12-"contraindicated"-verb-1,"Contraindicated"-tx-10-"contraindicated"-verb-0]|TX|1999/15;1578/15|
+00000000|MMI|6.11|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-19-"adverse reactions"-noun-0,"Adverse reactions"-tx-15-"adverse reactions"-noun-0]|TX|3191/17;2678/17|
+00000000|MMI|6.06|Activity (animal life circumstance)|C3668946|[fndg]|["Activity"-tx-8-"activity"-noun-0,"Activity"-tx-7-"activity"-noun-0]|TX|1351/8;1226/8|
+00000000|MMI|6.06|Endurance of activity|C0600075|[fndg]|["Activity"-tx-8-"activity"-noun-0,"Activity"-tx-7-"activity"-noun-0]|TX|1351/8;1226/8|
+00000000|MMI|4.49|ENT surgical result tongue|C2137027|[fndg]|["tongue"-tx-17-"tongue"-noun-0]|TX|2889/6|
+00000000|MMI|4.49|Indicated|C1444656|[fndg]|["Indicated"-tx-20-"indicated"-verb-0]|TX|3391/9|
+00000000|MMI|4.49|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-17-"urticaria"-noun-0]|TX|2842/9|
+00000000|MMI|4.49|severe allergy|C2945656|[fndg]|["severe Allergic reactions"-tx-16-"severe allergic reactions"-noun-0]|TX|2758/25|
+00000000|MMI|3.25|Medical care, unspecified|C0496675|[fndg]|["Medical care"-tx-18-"medical care"-noun-0]|TX|3022/12|
+00000000|MMI|3.19|Mouse MIN NOS|C1524029|[neop]|["MIN NOS"-tx-12-"min"-noun-0]|TX|1885/3|
+00000000|MMI|3.15|compromise|C2945640|[fndg]|["compromise"-tx-17-"compromise"-noun-0]|TX|2830/10|
+00000000|MMI|3.08|20%|C3842589|[fndg]|["20%"-tx-3-"20"-integer-0]|TX|554/2|
+00000000|MMI|3.03|No status change|C0442739|[fndg]|["Unchanged"-tx-11-"unchanged"-adj-0]|TX|1754/9|
+00000000|MMI|3.02|Recurrent urinary tract infection|C0262655|[dsyn]|["Urinary tract infections"-tx-19-"Urinary Tract Infections"-noun-0]|TX|3096/24|
+00000000|MMI|3.01|0%|C3842591|[fndg]|["0%"-tx-4-"0"-real_number-0]|TX|889/1|
+00000000|MMI|3.00|80%|C3842583|[fndg]|["80%"-tx-13-"80"-integer-0]|TX|2119/2|
+00000000|MMI|2.97|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-6-"therapy"-noun-1]|TX|1111/7|
+00000000|MMI|2.97|Related personal status|C0445223|[fndg]|["Related"-tx-15-"related"-adj-0]|TX|2670/7|
+00000000|MMI|2.96|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-3-"controlled"-adj-0]|TX|575/10|

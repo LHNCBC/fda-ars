@@ -1,0 +1,84 @@
+88,93|C1705232|fatal|fndg
+152,176|C0038325|Stevens-Johnson syndrome|dsyn
+178,203|C0020517|hypersensitivity reaction|patf
+205,231|C0014518|toxic epidermal necrolysis|dsyn
+236,255|C0014742|erythema multiforme|dsyn
+269,280|C1444662|discontinue|fndg
+326,330|C0015230|rash|sosy
+334,338|C0015230|rash|sosy
+344,361|C2039684|systemic symptoms|sosy
+513,539|C0020517|Hypersensitivity Reactions|patf
+587,592|C1705232|fatal|fndg
+651,675|C0038325|Stevens-Johnson syndrome|dsyn
+677,703|C0014518|toxic epidermal necrolysis|dsyn
+708,727|C0014742|erythema multiforme|dsyn
+729,755|C0020517|Hypersensitivity reactions|patf
+766,815|C3541994|Drug Rash with Eosinophilia and Systemic Symptoms|dsyn
+874,878|C0015230|rash|sosy
+880,903|C0009812|constitutional findings|sosy
+919,936|C0349410|organ dysfunction|sosy
+948,963|C0085605|hepatic failure|dsyn
+993,1000|C3889290|Grade 3|fndg
+1007,1013|C0015230|rashes|sosy
+1137,1145|C0439663|infected|fndg
+1181,1193|C1444662|discontinued|fndg
+1221,1225|C0015230|rash|sosy
+1261,1265|C0015230|Rash|sosy
+1317,1324|C1363945|therapy|fndg
+1343,1347|C0015230|rash|sosy
+1408,1419|C1444662|Discontinue|fndg
+1451,1456|C0311392|signs|fndg
+1460,1468;1472,1478|C0436345|symptoms severe|fndg
+1497,1523|C0020517|hypersensitivity reactions|patf
+1552,1559|C2674459|limited|fndg
+1571,1575|C0015230|rash|sosy
+1579,1583|C0015230|rash|sosy
+1599,1604|C0015967|fever|fndg
+1599,1604|C0424755|fever|fndg
+1606,1621|C0231218|general malaise|sosy
+1623,1630|C0015672|fatigue|sosy
+1642,1653|C0003862|joint aches|sosy
+1655,1663|C0005758|blisters|patf
+1655,1663|C2132198|blisters|fndg
+1665,1677|C0149744|oral lesions|fndg
+1679,1693|C0009763|conjunctivitis|dsyn
+1695,1707|C0542571|facial edema|patf
+1695,1707|C0151602|facial edema|fndg
+1709,1718|C0019159|hepatitis|dsyn
+1709,1718|C0019158|hepatitis|dsyn
+1720,1732|C0014457|eosinophilia|dsyn
+1720,1732|C1306759|eosinophilia|dsyn
+1734,1744|C0002994|angioedema|patf
+1829,1836|C1363945|therapy|fndg
+1918,1922|C0015230|rash|sosy
+1927,1933|C2825142|result|fndg
+1977,1980;2032,2036|C0518026|Fat body|fndg
+1977,1995|C0856151|Fat Redistribution|dsyn
+2016,2028|C4055506|accumulation|fndg
+2052,2067|C0311277|central obesity|fndg
+2083,2098|C0406602|fat enlargement|patf
+2100,2112|C0520573|buffalo hump|acab
+2126,2133|C0006625|wasting|sosy
+2126,2133|C0235394|wasting|dsyn
+2135,2149|C1112303|facial wasting|dsyn
+2151,2169|C0235648|breast enlargement|fndg
+2151,2169|C0020565|breast enlargement|patf
+2151,2169|C2225524|breast enlargement|fndg
+2176,2197|C0742929|cushingoid appearance|dsyn
+2403,2433|C1619738|Immune Reconstitution Syndrome|dsyn
+2403,2433|C1096197|Immune Reconstitution Syndrome|dsyn
+2513,2524|C3811910|combination|fndg
+2605,2616|C3811910|combination|fndg
+2658,2671|C1291764|immune system|fndg
+2696,2717|C1155266|inflammatory response|patf
+2742,2766|C0029118|opportunistic infections|dsyn
+2776,2795;2797,2806|C0026916|Mycobacterium avium infection|dsyn
+2776,2795;2797,2806|C1411980|Mycobacterium avium infection|dsyn
+2825,2846;2848,2857|C1535939|Pneumocystis jiroveci pneumonia|dsyn
+2859,2862|C1535939|PCP|dsyn
+2867,2879|C0041296|tuberculosis|dsyn
+2942,2962|C0004364|Autoimmune disorders|dsyn
+2972,2978;2980,2987|C0018213|Graves disease|dsyn
+2989,3001|C0085655|polymyositis|dsyn
+3007,3030|C3542501|Guillain-Barre syndrome|dsyn
+3007,3030|C0018378|Guillain-Barre syndrome|dsyn

@@ -1,0 +1,40 @@
+00000000|MMI|85.10|Renal Insufficiency|C1565489|[dsyn]|["Impaired renal function"-tx-15-"impaired renal function"-noun-0,"impairment renal"-tx-14-"Impairment Renal"-noun-0,"Impaired renal function"-tx-11-"impaired renal function"-noun-0,"impairment renal"-tx-3-"Impairment renal"-noun-0,"Renal Impairment"-tx-1-"renal impairment"-noun-0]|TX|1838/23;1714/10,1728/5;1389/23;324/10,338/5;173/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|84.16|Hypoglycemia|C0020615|[dsyn]|["HYPOGLYCEMIA"-tx-20-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-19-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-18-"Hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-18-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-4-"Hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-4-"hypoglycemia"-noun-0]|TX|2515/12;2313/12;2135/12;2266/12;410/12;575/12|C18.452.394.984
+00000000|MMI|46.31|Malignant neoplasm of urinary bladder|C0005684|[neop]|["Cancer of Bladder"-tx-32-"of bladder cancer"-noun-0,"BLADDER CANCER"-tx-31-"bladder cancer"-noun-1,"BLADDER CANCER"-tx-28-"Bladder cancer"-noun-0,"Cancer of the Bladder"-tx-27-"the of bladder cancer"-noun-0,"BLADDER CANCER"-tx-26-"Bladder Cancer"-noun-0,"Cancer of Bladder"-tx-26-"of bladder cancer"-noun-0,"BLADDER CANCER"-tx-8-"bladder cancer"-noun-1,"Cancer of Bladder"-tx-8-"of bladder cancer"-noun-0,"BLADDER CANCER"-tx-7-"Bladder Cancer"-noun-0,"Bladder Cancers"-tx-7-"bladder cancers"-noun-0]|TX|3953/17;3906/14;3496/14;3385/3,3394/2,3410/14;3092/14;3162/17;889/14;969/17;757/14;789/15|
+00000000|MMI|40.76|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-13-"hypotension"-noun-0,"HYPOTENSION"-tx-11-"hypotension"-noun-0,"HYPOTENSION"-tx-10-"Hypotension"-noun-0,"HYPOTENSION"-tx-1-"Hypotension"-noun-0]|TX|1665/11;1278/11;1200/11;55/11|C14.907.514
+00000000|MMI|39.03|Carcinoma of bladder|C0699885|[neop]|["Cancer of Bladder"-tx-32-"of bladder cancer"-noun-0,"Bladder Cancer"-tx-31-"bladder cancer"-noun-1,"Bladder Cancer"-tx-28-"Bladder cancer"-noun-0,"Cancer of the Bladder"-tx-27-"the of bladder cancer"-noun-0,"Bladder Cancer"-tx-26-"Bladder Cancer"-noun-0,"Cancer of Bladder"-tx-26-"of bladder cancer"-noun-0,"Bladder Cancer"-tx-8-"bladder cancer"-noun-1,"Cancer of Bladder"-tx-8-"of bladder cancer"-noun-0,"Bladder Cancer"-tx-7-"Bladder Cancer"-noun-0]|TX|3953/17;3906/14;3496/14;3385/3,3394/2,3410/14;3092/14;3162/17;889/14;969/17;757/14|
+00000000|MMI|33.49|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-24-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-22-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-19-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-16-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-16-"Adverse reactions"-noun-0,"Adverse reactions"-tx-11-"Adverse Reactions"-noun-0]|TX|2980/17;2800/17;2386/17;1989/17;1904/17;1331/17|
+00000000|MMI|18.84|Genital infection fungal|C0740330|[dsyn]|["genital mycotic infection"-tx-22-"genital mycotic infections"-noun-0,"genital mycotic infection"-tx-21-"Genital Mycotic Infections"-noun-0,"genital mycotic infection"-tx-21-"genital mycotic infections"-noun-0,"genital mycotic infection"-tx-5-"Genital mycotic infections"-noun-0]|TX|[2712/26],[2767/26];2595/26;2657/26;606/26|
+00000000|MMI|17.80|Hematuria|C0018965|[fndg]|["HEMATURIA"-tx-28-"hematuria"-noun-0]|TX|3528/9|C12.777.934.442;C13.351.968.934.442;C23.550.414.849
+00000000|MMI|16.07|Neoplasms, Unknown Primary|C0027667|[neop]|["Unknown Cancer"-tx-32-"unknown cancer"-noun-0]|TX|4012/7,4030/6|C04.697.650.895;C23.550.727.650.895
+00000000|MMI|16.06|Bladder Neoplasm|C0005695|[neop]|["Bladder Tumors"-tx-30-"bladder tumors"-noun-0]|TX|3825/14|C04.588.945.947.960;C12.758.820.968;C12.777.829.813;C13.351.937.820.945;C13.351.968.829.707
+00000000|MMI|14.76|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-13-"hypotension"-noun-0,"Hypotension"-tx-11-"hypotension"-noun-0,"Hypotension"-tx-10-"Hypotension"-noun-0,"Hypotension"-tx-1-"Hypotension"-noun-0]|TX|1665/11;1278/11;1200/11;55/11|
+00000000|MMI|12.89|Recurrence (disease attribute)|C2825055|[patf]|["RECURRENCE"-tx-32-"recurrence"-noun-0]|TX|4037/10|C23.550.291.937
+00000000|MMI|10.94|Used by|C1273517|[fndg]|["used"-tx-31-"used"-verb-1,"used"-tx-20-"used"-verb-0,"used"-tx-8-"used"-verb-1]|TX|3877/4;2550/4;860/4|
+00000000|MMI|10.68|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-13-"therapy"-noun-0,"Therapy"-tx-3-"therapy"-noun-0,"Therapy"-tx-2-"therapy"-noun-0]|TX|1694/7;384/7;290/7|
+00000000|MMI|9.87|Hypovolemia|C0546884|[fndg]|["HYPOVOLEMIA"-tx-1-"hypovolemia"-noun-0]|TX|128/11|C23.550.455
+00000000|MMI|7.40|0%|C3842591|[fndg]|["0%"-tx-26-"0"-percentage-0]|TX|[3215/1],[3263/1]|
+00000000|MMI|7.25|5-6|C3843715|[fndg]|["5-6"-tx-26-"5.6"-real_number-0,"5-6"-tx-9-"5.6"-real_number-0]|TX|3088/3;990/3|
+00000000|MMI|7.25|6/5|C0442749|[fndg]|["5 6"-tx-26-"5.6"-real_number-0,"5 6"-tx-9-"5.6"-real_number-0]|TX|3088/3;990/3|
+00000000|MMI|7.22|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-13-"symptoms"-noun-0,"SYMPTOMS"-tx-2-"symptoms"-noun-0]|TX|1653/8;274/8|
+00000000|MMI|7.20|Related personal status|C0445223|[fndg]|["Related"-tx-29-"related"-verb-0,"Related"-tx-16-"related"-verb-0]|TX|3714/7;1922/7|
+00000000|MMI|7.16|Impaired health|C0684336|[patf]|["Impairment"-tx-14-"Impairment"-noun-0,"Impairment"-tx-3-"Impairment"-noun-0]|TX|1714/10;324/10|
+00000000|MMI|6.94|Physical findings|C0311392|[fndg]|["SIGNS"-tx-13-"signs"-noun-0,"SIGNS"-tx-2-"signs"-noun-0]|TX|1643/5;264/5|
+00000000|MMI|5.18|Decreased systolic arterial pressure|C0277885|[fndg]|["Low systolic blood pressure"-tx-1-"low systolic blood pressure"-noun-0]|TX|193/27|
+00000000|MMI|5.18|Indicated|C1444656|[fndg]|["Indicated"-tx-5-"indicated"-adj-0]|TX|655/9|
+00000000|MMI|5.18|Serum creatinine level|C0600061|[fndg]|["Serum creatinine"-tx-14-"serum creatinine"-noun-0]|TX|1766/16|
+00000000|MMI|3.75|Low density lipoprotein increased|C0549399|[fndg]|["Increased LDL"-tx-6-"Increased LDL"-noun-0]|TX|683/13|
+00000000|MMI|3.68|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-28-"risk factors"-noun-0]|TX|3511/12|
+00000000|MMI|3.63|Contraction (finding)|C1140999|[patf]|["CONTRACTION"-tx-10-"contraction"-noun-0]|TX|1253/11|
+00000000|MMI|3.59|combination - answer to question|C3811910|[fndg]|["Combination"-tx-20-"combination"-noun-0]|TX|2558/11|
+00000000|MMI|3.56|10%|C3842590|[fndg]|["10%"-tx-26-"10"-fraction-0]|TX|3197/2|
+00000000|MMI|3.56|Imbalance|C1397014|[sosy]|["Imbalance"-tx-7-"imbalance"-noun-0]|TX|776/9|
+00000000|MMI|3.48|1+|C3816745|[fndg]|["1+"-tx-26-"1"-fraction-0]|TX|3247/1|
+00000000|MMI|3.46|cancer recurrence|C0920420|[neop]|["cancer recurrence"-tx-32-"cancer recurrence"-noun-0]|TX|4030/17|
+00000000|MMI|3.44|4+ Answer to question|C3838679|[fndg]|["4+"-tx-27-"4"-integer-0]|TX|3437/1|
+00000000|MMI|3.44|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-22-"history of"-noun-0]|TX|2701/10|
+00000000|MMI|3.43|Recurrent Malignant Neoplasm|C1458156|[neop]|["recurrence"-tx-32-"recurrence"-noun-0]|TX|4037/10|
+00000000|MMI|3.42|Neoplasms|C0027651|[neop]|["Tumors"-tx-28-"tumors"-noun-0]|TX|3577/6|C04
+00000000|MMI|3.42|Diagnosis|C0011900|[fndg]|["DIAGNOSIS"-tx-27-"diagnosis"-noun-0]|TX|3397/9|E01
+00000000|MMI|3.42|60%|C3842585|[fndg]|["60%"-tx-11-"60"-integer-0]|TX|1429/2|
+00000000|MMI|3.42|Mouse MIN NOS|C1524029|[neop]|["MIN NOS"-tx-11-"min"-noun-0]|TX|1435/3|

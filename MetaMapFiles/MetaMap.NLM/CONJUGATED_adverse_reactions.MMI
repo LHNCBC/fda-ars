@@ -1,0 +1,43 @@
+00000000|MMI|66.55|Venous Thromboembolism|C1861172|[patf]|["VENOUS THROMBOEMBOLISM"-tx-13-"venous thromboembolism"-noun-1,"VENOUS THROMBOEMBOLISM"-tx-12-"venous thromboembolism"-noun-0,"VENOUS THROMBOEMBOLISM"-tx-11-"Venous thromboembolism"-noun-0,"VENOUS THROMBOEMBOLISM"-tx-11-"venous thromboembolism"-noun-0]|TX|3990/22;3776/22;3537/22;3624/22|C14.907.355.590.700
+00000000|MMI|58.64|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-12-"Adverse reactions"-noun-0,"Adverse reactions"-tx-11-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-10-"adverse reactions"-noun-0,"Adverse reactions"-tx-9-"adverse reactions"-noun-0,"Adverse reactions"-tx-8-"adverse reactions"-noun-0,"Adverse reactions"-tx-7-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-2-"adverse reaction"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|3755/17;2243/17;2101/17;1975/17;1880/17;1740/17;893/16;[6/17],[671/17];[41/17],[483/17]|
+00000000|MMI|40.57|Nausea|C0027497|[sosy]|["NAUSEA"-tx-11-"Nausea"-noun-0,"NAUSEA"-tx-9-"nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|2502/6;2062/6;539/6|C23.888.821.712
+00000000|MMI|33.22|Neck Pain|C0007859|[sosy]|["NECK PAIN"-tx-11-"Neck pain"-noun-0,"NECK PAIN"-tx-1-"neck pain"-noun-0]|TX|3103/9;625/9|C10.597.617.576;C23.888.592.612.553
+00000000|MMI|32.99|Spasm|C0037763|[sosy]|["Muscle Spasms"-tx-11-"Muscle spasms"-noun-0,"Muscle Spasms"-tx-1-"muscle spasms"-noun-0]|TX|2994/13;524/13|C10.597.613.750;C23.888.592.608.750
+00000000|MMI|32.94|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-11-"Dizziness"-noun-0,"Dizzyness"-tx-1-"dizziness"-noun-0]|TX|3250/9;610/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|32.94|Vertigo|C0042571|[sosy]|["dizziness"-tx-11-"Dizziness"-noun-0,"dizziness"-tx-1-"dizziness"-noun-0]|TX|3250/9;610/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|26.74|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-11-"Diarrhea"-noun-0,"DIARRHOEA"-tx-1-"diarrhea"-noun-0]|TX|2611/8;547/8|C23.888.821.214
+00000000|MMI|26.74|Dyspepsia|C0013395|[sosy]|["DYSPEPSIA"-tx-11-"Dyspepsia"-noun-0,"DYSPEPSIA"-tx-1-"dyspepsia"-noun-0]|TX|2720/9;557/9|C23.888.821.236
+00000000|MMI|20.95|Hypertriglyceridemia|C0020557|[dsyn]|["HYPERTRIGLYCERIDEMIA"-tx-1-"Hypertriglyceridemia"-noun-0]|TX|333/20|C18.452.584.500.500.851
+00000000|MMI|20.95|Retinal Vein Occlusion|C0035328|[dsyn]|["retinal vein thrombosis"-tx-11-"retinal vein thrombosis"-noun-0]|TX|3696/23|C11.768.760;C14.907.355.830.925.650;C14.907.760
+00000000|MMI|17.80|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-9-"abdominal pain"-noun-0]|TX|2036/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|17.80|Deep Vein Thrombosis|C0149871|[dsyn]|["DEEP VENOUS THROMBOSIS"-tx-11-"deep venous thrombosis"-noun-0]|TX|3648/22|C14.907.355.830.925
+00000000|MMI|17.80|Pulmonary Embolism|C0034065|[dsyn]|["PULMONARY EMBOLISM"-tx-11-"pulmonary embolism"-noun-0]|TX|3672/18|C08.381.746;C14.907.355.350.700
+00000000|MMI|11.73|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-11-"Nausea"-noun-0,"Nausea"-tx-9-"nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|2502/6;2062/6;539/6|
+00000000|MMI|11.49|Gall Bladder Diseases|C0016977|[dsyn]|["Gall Bladder Disease"-tx-1-"Gallbladder Disease"-noun-0]|TX|267/19|C06.130.564
+00000000|MMI|11.49|Hot flushes|C0600142|[sosy]|["Hot flush"-tx-9-"hot flush"-noun-0]|TX|2025/9|C23.888.475
+00000000|MMI|10.84|0%|C3842591|[fndg]|["0%"-tx-12-"0"-percentage-0,"0%"-tx-6-"0"-percentage-0]|TX|3857/1;[1659/1],[1688/1]|
+00000000|MMI|9.96|Mediastinal Diseases|C0025061|[dsyn]|["Mediastinal Disorders"-tx-11-"mediastinal disorders"-noun-0]|TX|3388/21|C08.846.187
+00000000|MMI|9.84|Disease|C0012634|[dsyn]|["condition"-tx-2-"conditions"-noun-0]|TX|881/10|C23.550.288
+00000000|MMI|7.84|Neck Pain Adverse Event|C1963180|[fndg]|["Neck pain"-tx-11-"Neck pain"-noun-0,"Neck pain"-tx-1-"neck pain"-noun-0]|TX|3103/9;625/9|
+00000000|MMI|7.70|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-11-"Diarrhea"-noun-0,"Diarrhea"-tx-1-"diarrhea"-noun-0]|TX|2611/8;547/8|
+00000000|MMI|7.55|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-11-"Dizziness"-noun-0,"Dizziness"-tx-1-"dizziness"-noun-0]|TX|3250/9;610/9|
+00000000|MMI|7.29|Upper abdominal pain|C0232492|[sosy]|["ABDOMINAL PAIN UPPER"-tx-11-"Abdominal pain upper"-noun-0,"ABDOMINAL PAIN UPPER"-tx-1-"abdominal pain upper"-noun-0]|TX|2829/20;568/20|
+00000000|MMI|6.83|Connective Tissue Diseases|C0009782|[dsyn]|["Connective Tissue Disorders"-tx-11-"connective tissue disorders"-noun-0]|TX|2960/27|C17.300
+00000000|MMI|6.83|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-11-"Gastrointestinal disorders"-noun-0]|TX|2466/26|C06.405
+00000000|MMI|5.18|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-11-"3"-integer-0]|TX|3338/1|
+00000000|MMI|5.18|Cardiovascular Diseases|C0007222|[dsyn]|["CARDIOVASCULAR DISORDERS"-tx-1-"Cardiovascular Disorders"-noun-0]|TX|130/24|C14
+00000000|MMI|5.18|History of - gallbladder disease|C0558976|[fndg]|["gallbladder disease"-tx-1-"Gallbladder Disease"-noun-0]|TX|267/19|
+00000000|MMI|5.18|Malignant Neoplasms|C0006826|[neop]|["Malignant Neoplasms"-tx-1-"Malignant Neoplasms"-noun-0]|TX|201/19|
+00000000|MMI|5.18|Serum triglycerides raised|C0428478|[fndg]|["Hypertriglyceridemia"-tx-1-"Hypertriglyceridemia"-noun-0]|TX|333/20|
+00000000|MMI|5.18|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-1-"randomized"-verb-0]|TX|434/10|
+00000000|MMI|5.18|Thrombosis of retinal vein|C1527411|[dsyn]|["RETINAL VEIN THROMBOSIS"-tx-11-"retinal vein thrombosis"-noun-0]|TX|3696/23|
+00000000|MMI|3.72|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-11-"Nervous system disorders"-noun-0]|TX|3214/24|C10
+00000000|MMI|3.68|Prospective, NOS|C3846446|[fndg]|["Prospective, NOS"-tx-1-"prospective"-adj-0]|TX|421/11|
+00000000|MMI|3.65|Oropharyngeal pain|C2363731|[sosy]|["Oropharyngeal pain"-tx-11-"Oropharyngeal pain"-noun-0]|TX|3416/18|
+00000000|MMI|3.60|65+|C3843765|[fndg]|["65+"-tx-11-"65"-integer-0]|TX|3299/2|
+00000000|MMI|3.60|80%|C3842583|[fndg]|["80%"-tx-11-"80"-integer-0]|TX|3465/2|
+00000000|MMI|3.59|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-9-"discontinuation"-noun-0]|TX|2004/15|
+00000000|MMI|3.55|10%|C3842590|[fndg]|["10%"-tx-8-"10"-percentage-0]|TX|1931/2|
+00000000|MMI|3.48|1+|C3816745|[fndg]|["1+"-tx-4-"1"-comma_integer-0]|TX|1376/1|
+00000000|MMI|3.48|2+|C3833492|[fndg]|["2+"-tx-5-"2"-integer-0]|TX|1441/1|
+00000000|MMI|3.42|Protocol - answer to question|C3715209|[fndg]|["Protocol"-tx-5-"protocol"-noun-1]|TX|1604/8|

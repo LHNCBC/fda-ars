@@ -1,0 +1,397 @@
+T1	AdverseReaction 55 99	Post-Transplant Lymphoproliferative Disorder
+T2	AdverseReaction 101 105	PTLD
+T3	Factor 119 123	risk
+T4	AdverseReaction 301 313	malignancies
+T5	DrugClass 340 358	immunosuppressants
+T7	AdverseReaction 478 520	Progressive Multifocal Leukoencephalopathy
+T8	AdverseReaction 522 525	PML
+T9	Factor 539 543	risk
+T12	AdverseReaction 795 804;835 845	bacterial infections
+T13	AdverseReaction 806 811;835 845	viral infections
+T14	AdverseReaction 813 819;835 845	fungal infections
+T15	AdverseReaction 825 845	protozoal infections
+T16	Factor 787 791	risk
+T17	AdverseReaction 857 881	opportunistic infections
+T18	AdverseReaction 886 898	tuberculosis
+T19	AdverseReaction 905 915	infections
+T20	AdverseReaction 921 926	fatal
+T21	AdverseReaction 1306 1321;1326 1331	Acute Rejection Graft
+T22	AdverseReaction 1326 1336	Graft Loss
+T23	AdverseReaction 1697 1741	post-transplant lymphoproliferative disorder
+T24	AdverseReaction 1743 1747	PTLD
+T25	Factor 1677 1681	risk
+T26	AdverseReaction 2370 2374	PTLD
+T27	Factor 2362 2366	risk
+T28	AdverseReaction 4338 4350;4387 4391	malignancies skin
+T29	AdverseReaction 4367 4371	PTLD
+T30	AdverseReaction 4338 4350	malignancies
+T31	AdverseReaction 4895 4898	PML
+T32	AdverseReaction 6168 6177;6243 6253	bacterial infections
+T33	Factor 6149 6153	risk
+T34	AdverseReaction 6179 6184;6243 6253	viral infections
+T35	AdverseReaction 6186 6201;6243 6253	cytomegalovirus infections
+T36	AdverseReaction 6203 6206;6243 6253	CMV infections
+T37	AdverseReaction 6212 6218;6243 6253	herpes infections
+T38	AdverseReaction 6233 6253	protozoal infections
+T39	AdverseReaction 6221 6227;6243 6253	fungal infections
+T40	AdverseReaction 6265 6289	opportunistic infections
+T42	AdverseReaction 6297 6307	infections
+T41	Severity 6320 6327	serious
+T43	AdverseReaction 6339 6344	fatal
+T44	AdverseReaction 6613 6625	Tuberculosis
+T45	AdverseReaction 7013 7021	JC virus
+T46	AdverseReaction 7090 7126	polyoma virus-associated nephropathy
+T47	AdverseReaction 7128 7132	PVAN
+T48	AdverseReaction 7149 7167	BK virus infection
+T49	AdverseReaction 7189 7193	PVAN
+T50	AdverseReaction 7241 7269	deteriorating renal function
+T51	AdverseReaction 7274 7291	kidney graft loss
+T52	AdverseReaction 7990 8000	graft loss
+T53	AdverseReaction 8005 8010	death
+T54	AdverseReaction 8078 8082	PTLD
+T55	AdverseReaction 8118 8123	fatal
+T56	AdverseReaction 8133 8138	fatal
+T57	AdverseReaction 8147 8150	PML
+T58	AdverseReaction 8228 8232	PTLD
+T59	AdverseReaction 8299 8304	fatal
+T60	AdverseReaction 8313 8316	PML
+T61	AdverseReaction 8691 8706;8758 8773	post-transplant acute rejection
+T62	Severity 8788 8797	Grade III
+T63	AdverseReaction 8477 8482;8825 8835	Graft rejections
+T64	AdverseReaction 8885 8890;8927 8936	Graft rejection
+T65	AdverseReaction 8885 8895	Graft loss
+T66	AdverseReaction 928 964	Polyoma virus-associated nephropathy
+T67	AdverseReaction 977 994	kidney graft loss
+T68	Factor 965 968	can
+T69	AdverseReaction 8691 8706;8758 8773	post-transplant acute rejection
+T70	Severity 8815 8824	Grade III
+T71	Severity 8917 8926	Grade III
+T10	AdverseReaction 764 774	infections
+T11	Severity 756 763	serious
+T72	AdverseReaction 7033 7036	PML
+E1	AdverseReaction:T1 Hypothetical:E3
+E2	AdverseReaction:T2 Hypothetical:E3
+E3	Factor:T3
+E4	AdverseReaction:T4 Hypothetical:E5
+E5	DrugClass:T5
+E7	AdverseReaction:T7 Hypothetical:E9
+E8	AdverseReaction:T8 Hypothetical:E9
+E9	Factor:T9
+E12	AdverseReaction:T12 Hypothetical:E16
+E13	AdverseReaction:T13 Hypothetical:E16
+E14	AdverseReaction:T14 Hypothetical:E16
+E15	AdverseReaction:T15 Hypothetical:E16
+E16	Factor:T16
+E17	AdverseReaction:T17 Hypothetical:E16
+E18	AdverseReaction:T18 Hypothetical:E16
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23 Hypothetical:E25
+E24	AdverseReaction:T24 Hypothetical:E25
+E25	Factor:T25
+E26	AdverseReaction:T26 Hypothetical:E27
+E27	Factor:T27
+E29	AdverseReaction:T29
+E28	AdverseReaction:T28
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32 Hypothetical:E33
+E33	Factor:T33
+E34	AdverseReaction:T34 Hypothetical:E33
+E35	AdverseReaction:T35 Hypothetical:E33
+E36	AdverseReaction:T36 Hypothetical:E33
+E37	AdverseReaction:T37 Hypothetical:E33
+E38	AdverseReaction:T38 Hypothetical:E33
+E39	AdverseReaction:T39 Hypothetical:E33
+E40	AdverseReaction:T40 Hypothetical:E33
+E41	AdverseReaction:T42
+E42	Severity:T41
+E43	AdverseReaction:T42 Effect:E42
+E44	AdverseReaction:T43
+E45	AdverseReaction:T44
+E46	AdverseReaction:T45
+E47	AdverseReaction:T46
+E48	AdverseReaction:T47
+E49	AdverseReaction:T48
+E50	AdverseReaction:T49
+E51	AdverseReaction:T50
+E52	AdverseReaction:T51
+E53	AdverseReaction:T52
+E54	AdverseReaction:T53
+E55	AdverseReaction:T54
+E56	AdverseReaction:T55
+E57	AdverseReaction:T56
+E58	AdverseReaction:T57
+E59	AdverseReaction:T58
+E60	AdverseReaction:T59
+E61	AdverseReaction:T60
+E62	AdverseReaction:T61 Effect:E63
+E63	Severity:T62
+E64	AdverseReaction:T63 Effect:E71
+E65	AdverseReaction:T64 Effect:E72
+E66	AdverseReaction:T65
+E67	AdverseReaction:T66
+E68	AdverseReaction:T67 Hypothetical:E69
+E69	Factor:T68
+E70	AdverseReaction:T69
+E71	Severity:T70
+E72	Severity:T71
+E10	AdverseReaction:T10 Effect:E11
+E11	Severity:T11
+E73	AdverseReaction:T72
+A1	CUI E1 C0432487
+A2	UMLS-Preferred-Name E1 Post-transplant lymphoproliferative disorder
+A3	MEDDRA-PT E1 Post transplant lymphoproliferative disorder
+A4	MEDDRA-PT-ID E1 10051358
+A5	CUI E2 C0432487
+A6	UMLS-Preferred-Name E2 Post-transplant lymphoproliferative disorder
+A7	MEDDRA-PT E2 Post transplant lymphoproliferative disorder
+A8	MEDDRA-PT-ID E2 10051358
+A9	CUI E4 C0006826
+A10	UMLS-Preferred-Name E4 Malignant Neoplasms
+A11	MEDDRA-PT E4 Neoplasm malignant
+A12	MEDDRA-PT-ID E4 10028997
+A13	CUI E7 C0023524
+A14	UMLS-Preferred-Name E7 Leukoencephalopathy, Progressive Multifocal
+A15	MEDDRA-PT E7 Progressive multifocal leukoencephalopathy
+A16	MEDDRA-PT-ID E7 10036807
+A17	CUI E8 C0023524
+A18	UMLS-Preferred-Name E8 Leukoencephalopathy, Progressive Multifocal
+A19	MEDDRA-PT E8 Progressive multifocal leukoencephalopathy
+A20	MEDDRA-PT-ID E8 10036807
+A21	CUI E12 C0004623
+A22	UMLS-Preferred-Name E12 Bacterial Infections
+A23	MEDDRA-PT E12 Bacterial infection
+A24	MEDDRA-PT-ID E12 10060945
+A25	CUI E13 C0042769
+A26	UMLS-Preferred-Name E13 Virus Diseases
+A27	MEDDRA-PT E13 Viral infection
+A28	MEDDRA-PT-ID E13 10047461
+A29	CUI E14 C0026946
+A30	UMLS-Preferred-Name E14 Mycoses
+A31	MEDDRA-PT E14 Fungal infection
+A32	MEDDRA-PT-ID E14 10017533
+A33	CUI E15 C0033740
+A34	UMLS-Preferred-Name E15 Protozoan Infections
+A35	MEDDRA-PT E15 Infection protozoal
+A36	MEDDRA-PT-ID E15 10021859
+A37	CUI E17 C0029118
+A38	UMLS-Preferred-Name E17 Opportunistic Infections
+A39	MEDDRA-PT E17 Opportunistic infection
+A40	MEDDRA-PT-ID E17 10030901
+A41	CUI E18 C0041296
+A42	UMLS-Preferred-Name E18 Tuberculosis
+A43	MEDDRA-PT E18 Tuberculosis
+A44	MEDDRA-PT-ID E18 10044755
+A45	CUI E19 C3714514
+A46	UMLS-Preferred-Name E19 Infection
+A47	MEDDRA-PT E19 Infection
+A48	MEDDRA-PT-ID E19 10021789
+A49	CUI E20 C1306577
+A50	UMLS-Preferred-Name E20 Death (finding)
+A51	MEDDRA-PT E20 Death
+A52	MEDDRA-PT-ID E20 10011906
+A53	CUI E21 C1736177
+A54	UMLS-Preferred-Name E21 Acute graft rejection
+A55	MEDDRA-PT E21 Transplant rejection
+A56	MEDDRA-PT-ID E21 10044439
+A57	LLT E21 Acute graft rejection
+A58	LLT-ID E21 10066615
+A59	CUI E22 C0877042
+A60	UMLS-Preferred-Name E22 Graft loss
+A61	MEDDRA-PT E22 Graft loss
+A62	MEDDRA-PT-ID E22 10048748
+A63	CUI E23 C0432487
+A64	UMLS-Preferred-Name E23 Post-transplant lymphoproliferative disorder
+A65	MEDDRA-PT E23 Post transplant lymphoproliferative disorder
+A66	MEDDRA-PT-ID E23 10051358
+A67	CUI E24 C0432487
+A68	UMLS-Preferred-Name E24 Post-transplant lymphoproliferative disorder
+A69	MEDDRA-PT E24 Post transplant lymphoproliferative disorder
+A70	MEDDRA-PT-ID E24 10051358
+A71	CUI E26 C0432487
+A72	UMLS-Preferred-Name E26 Post-transplant lymphoproliferative disorder
+A73	MEDDRA-PT E26 Post transplant lymphoproliferative disorder
+A74	MEDDRA-PT-ID E26 10051358
+A75	CUI E28 C0007114
+A76	UMLS-Preferred-Name E28 Malignant neoplasm of skin
+A77	MEDDRA-PT E28 Skin cancer
+A78	MEDDRA-PT-ID E28 10040808
+A79	LLT E28 Skin neoplasm malignant
+A80	LLT-ID E28 10040895
+A81	CUI E29 C0432487
+A82	UMLS-Preferred-Name E29 Post-transplant lymphoproliferative disorder
+A83	MEDDRA-PT E29 Post transplant lymphoproliferative disorder
+A84	MEDDRA-PT-ID E29 10051358
+A85	CUI E30 C0006826
+A86	UMLS-Preferred-Name E30 Malignant Neoplasms
+A87	MEDDRA-PT E30 Neoplasm malignant
+A88	MEDDRA-PT-ID E30 10028997
+A89	CUI E31 C0023524
+A90	UMLS-Preferred-Name E31 Leukoencephalopathy, Progressive Multifocal
+A91	MEDDRA-PT E31 Progressive multifocal leukoencephalopathy
+A92	MEDDRA-PT-ID E31 10036807
+A93	CUI E32 C0004623
+A94	UMLS-Preferred-Name E32 Bacterial Infections
+A95	MEDDRA-PT E32 Bacterial infection
+A96	MEDDRA-PT-ID E32 10060945
+A97	CUI E34 C0042769
+A98	UMLS-Preferred-Name E34 Virus Diseases
+A99	MEDDRA-PT E34 Viral infection
+A100	MEDDRA-PT-ID E34 10047461
+A101	CUI E35 C0010823
+A102	UMLS-Preferred-Name E35 Cytomegalovirus Infections
+A103	MEDDRA-PT E35 Cytomegalovirus infection
+A104	MEDDRA-PT-ID E35 10011831
+A105	CUI E36 C0010823
+A106	UMLS-Preferred-Name E36 Cytomegalovirus Infections
+A107	MEDDRA-PT E36 Cytomegalovirus infection
+A108	MEDDRA-PT-ID E36 10011831
+A109	LLT E36 CMV infection
+A110	LLT-ID E36 10009703
+A111	CUI E37 C0019372
+A112	UMLS-Preferred-Name E37 Herpesviridae Infections
+A113	MEDDRA-PT E37 Herpes virus infection
+A114	MEDDRA-PT-ID E37 10019973
+A115	LLT E37 Herpes infection
+A116	LLT-ID E37 10019941
+A117	CUI E38 C0033740
+A118	UMLS-Preferred-Name E38 Protozoan Infections
+A119	MEDDRA-PT E38 Infection protozoal
+A120	MEDDRA-PT-ID E38 10021859
+A121	CUI E39 C0026946
+A122	UMLS-Preferred-Name E39 Mycoses
+A123	MEDDRA-PT E39 Fungal infection
+A124	MEDDRA-PT-ID E39 10017533
+A125	CUI E40 C0029118
+A126	UMLS-Preferred-Name E40 Opportunistic Infections
+A127	MEDDRA-PT E40 Opportunistic infection
+A128	MEDDRA-PT-ID E40 10030901
+A129	CUI E41 C3714514
+A130	UMLS-Preferred-Name E41 Infection
+A131	MEDDRA-PT E41 Infection
+A132	MEDDRA-PT-ID E41 10021789
+A133	CUI E44 C1306577
+A134	UMLS-Preferred-Name E44 Death (finding)
+A135	MEDDRA-PT E44 Death
+A136	MEDDRA-PT-ID E44 10011906
+A137	CUI E45 C0041296
+A138	UMLS-Preferred-Name E45 Tuberculosis
+A139	MEDDRA-PT E45 Tuberculosis
+A140	MEDDRA-PT-ID E45 10044755
+A141	CUI E46 C0857836
+A142	UMLS-Preferred-Name E46 JC virus infection
+A143	MEDDRA-PT E46 JC virus infection
+A144	MEDDRA-PT-ID E46 10023163
+A145	CUI E47 C1696946
+A146	UMLS-Preferred-Name E47 Polyomavirus-associated nephropathy
+A147	MEDDRA-PT E47 Polyomavirus-associated nephropathy
+A148	MEDDRA-PT-ID E47 10065381
+A149	CUI E48 C1696946
+A150	UMLS-Preferred-Name E48 Polyomavirus-associated nephropathy
+A151	MEDDRA-PT E48 Polyomavirus-associated nephropathy
+A152	MEDDRA-PT-ID E48 10065381
+A153	CUI E49 C1096691
+A154	UMLS-Preferred-Name E49 BK virus infection
+A155	MEDDRA-PT E49 BK virus infection
+A156	MEDDRA-PT-ID E49 10055181
+A157	CUI E50 C1696946
+A158	UMLS-Preferred-Name E50 Polyomavirus-associated nephropathy
+A159	MEDDRA-PT E50 Polyomavirus-associated nephropathy
+A160	MEDDRA-PT-ID E50 10065381
+A161	CUI E51 C1278220
+A162	UMLS-Preferred-Name E51 Deteriorating renal function
+A163	MEDDRA-PT E51 Renal impairment
+A164	MEDDRA-PT-ID E51 10062237
+A165	LLT E51 Function kidney decreased
+A166	LLT-ID E51 10017474
+A167	CUI E52 C0877690
+A168	UMLS-Preferred-Name E52 Renal graft loss
+A169	MEDDRA-PT E52 Renal transplant failure
+A170	MEDDRA-PT-ID E52 10074495
+A171	LLT E52 Renal graft loss
+A172	LLT-ID E52 10048749
+A173	CUI E53 C0877042
+A174	UMLS-Preferred-Name E53 Graft loss
+A175	MEDDRA-PT E53 Graft loss
+A176	MEDDRA-PT-ID E53 10048748
+A177	CUI E54 C1306577
+A178	UMLS-Preferred-Name E54 Death (finding)
+A179	MEDDRA-PT E54 Death
+A180	MEDDRA-PT-ID E54 10011906
+A181	CUI E55 C0432487
+A182	UMLS-Preferred-Name E55 Post-transplant lymphoproliferative disorder
+A183	MEDDRA-PT E55 Post transplant lymphoproliferative disorder
+A184	MEDDRA-PT-ID E55 10051358
+A185	CUI E56 C1306577
+A186	UMLS-Preferred-Name E56 Death (finding)
+A187	MEDDRA-PT E56 Death
+A188	MEDDRA-PT-ID E56 10011906
+A189	CUI E57 C1306577
+A190	UMLS-Preferred-Name E57 Death (finding)
+A191	MEDDRA-PT E57 Death
+A192	MEDDRA-PT-ID E57 10011906
+A193	CUI E58 C0023524
+A194	UMLS-Preferred-Name E58 Leukoencephalopathy, Progressive Multifocal
+A195	MEDDRA-PT E58 Progressive multifocal leukoencephalopathy
+A196	MEDDRA-PT-ID E58 10036807
+A197	CUI E59 C0432487
+A198	UMLS-Preferred-Name E59 Post-transplant lymphoproliferative disorder
+A199	MEDDRA-PT E59 Post transplant lymphoproliferative disorder
+A200	MEDDRA-PT-ID E59 10051358
+A201	CUI E60 C1306577
+A202	UMLS-Preferred-Name E60 Death (finding)
+A203	MEDDRA-PT E60 Death
+A204	MEDDRA-PT-ID E60 10011906
+A205	CUI E61 C0023524
+A206	UMLS-Preferred-Name E61 Leukoencephalopathy, Progressive Multifocal
+A207	MEDDRA-PT E61 Progressive multifocal leukoencephalopathy
+A208	MEDDRA-PT-ID E61 10036807
+A209	CUI E62 C1736177
+A210	UMLS-Preferred-Name E62 Acute graft rejection
+A211	MEDDRA-PT E62 Transplant rejection
+A212	MEDDRA-PT-ID E62 10044439
+A213	LLT E62 Acute graft rejection
+A214	LLT-ID E62 10066615
+A215	CUI E64 C0018129
+A216	UMLS-Preferred-Name E64 Graft Rejection
+A217	MEDDRA-PT E64 Transplant rejection
+A218	MEDDRA-PT-ID E64 10044439
+A219	LLT E64 Graft rejection
+A220	LLT-ID E64 10018650
+A221	CUI E65 C0018129
+A222	UMLS-Preferred-Name E65 Graft Rejection
+A223	MEDDRA-PT E65 Transplant rejection
+A224	MEDDRA-PT-ID E65 10044439
+A225	LLT E65 Graft rejection
+A226	LLT-ID E65 10018650
+A227	CUI E66 C0877042
+A228	UMLS-Preferred-Name E66 Graft loss
+A229	MEDDRA-PT E66 Graft loss
+A230	MEDDRA-PT-ID E66 10048748
+A231	CUI E67 C1696946
+A232	UMLS-Preferred-Name E67 Polyomavirus-associated nephropathy
+A233	MEDDRA-PT E67 Polyomavirus-associated nephropathy
+A234	MEDDRA-PT-ID E67 10065381
+A235	CUI E68 C0877690
+A236	UMLS-Preferred-Name E68 Renal graft loss
+A237	MEDDRA-PT E68 Renal transplant failure
+A238	MEDDRA-PT-ID E68 10074495
+A239	LLT E68 Renal graft loss
+A240	LLT-ID E68 10048749
+A241	CUI E70 C1736177
+A242	UMLS-Preferred-Name E70 Acute graft rejection
+A243	MEDDRA-PT E70 Transplant rejection
+A244	MEDDRA-PT-ID E70 10044439
+A245	LLT E70 Acute graft rejection
+A246	LLT-ID E70 10066615
+A247	CUI E10 C3714514
+A248	UMLS-Preferred-Name E10 Infection
+A249	MEDDRA-PT E10 Infection
+A250	MEDDRA-PT-ID E10 10021789
+A251	CUI E73 C0023524
+A252	UMLS-Preferred-Name E73 Leukoencephalopathy, Progressive Multifocal
+A253	MEDDRA-PT E73 Progressive multifocal leukoencephalopathy
+A254	MEDDRA-PT-ID E73 10036807

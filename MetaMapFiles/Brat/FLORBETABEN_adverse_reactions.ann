@@ -1,0 +1,76 @@
+T1	AdverseReaction 96 119	injection site reaction
+T2	AdverseReaction 134 142;96 110	erythema injection site
+T3	AdverseReaction 152 162;96 110	irritation injection site
+T4	AdverseReaction 176 180;96 110	pain injection site
+T5	AdverseReaction 963 987	injection site reactions
+T6	AdverseReaction 1002 1010;963 977	erythema injection site
+T7	AdverseReaction 1012 1022;963 977	irritation injection site
+T8	AdverseReaction 1027 1031;963 977	pain injection site
+T9	AdverseReaction 1447 1472	application site erythema
+T10	AdverseReaction 1504 1529	Injection site irritation
+T11	AdverseReaction 1561 1580	Injection site pain
+T12	AdverseReaction 1435 1444;1459 1472	Injection site erythema
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+A1	CUI E1 C0151735
+A2	UMLS-Preferred-Name E1 Injection site reaction
+A3	MEDDRA-PT E1 Injection site reaction
+A4	MEDDRA-PT-ID E1 10022095
+A5	CUI E2 C0852625
+A6	UMLS-Preferred-Name E2 Injection site erythema
+A7	MEDDRA-PT E2 Injection site erythema
+A8	MEDDRA-PT-ID E2 10022061
+A9	CUI E3 C0521498
+A10	UMLS-Preferred-Name E3 Injection site irritation
+A11	MEDDRA-PT E3 Injection site irritation
+A12	MEDDRA-PT-ID E3 10022079
+A13	CUI E4 C0151828
+A14	UMLS-Preferred-Name E4 Injection site pain
+A15	MEDDRA-PT E4 Injection site pain
+A16	MEDDRA-PT-ID E4 10022086
+A17	LLT E4 Pain injection site
+A18	LLT-ID E4 10033453
+A19	CUI E5 C0151735
+A20	UMLS-Preferred-Name E5 Injection site reaction
+A21	MEDDRA-PT E5 Injection site reaction
+A22	MEDDRA-PT-ID E5 10022095
+A23	CUI E6 C0852625
+A24	UMLS-Preferred-Name E6 Injection site erythema
+A25	MEDDRA-PT E6 Injection site erythema
+A26	MEDDRA-PT-ID E6 10022061
+A27	CUI E7 C0521498
+A28	UMLS-Preferred-Name E7 Injection site irritation
+A29	MEDDRA-PT E7 Injection site irritation
+A30	MEDDRA-PT-ID E7 10022079
+A31	CUI E8 C0151828
+A32	UMLS-Preferred-Name E8 Injection site pain
+A33	MEDDRA-PT E8 Injection site pain
+A34	MEDDRA-PT-ID E8 10022086
+A35	LLT E8 Pain injection site
+A36	LLT-ID E8 10033453
+A37	CUI E9 C0853700
+A38	UMLS-Preferred-Name E9 Application site erythema
+A39	MEDDRA-PT E9 Application site erythema
+A40	MEDDRA-PT-ID E9 10003041
+A41	CUI E10 C0521498
+A42	UMLS-Preferred-Name E10 Injection site irritation
+A43	MEDDRA-PT E10 Injection site irritation
+A44	MEDDRA-PT-ID E10 10022079
+A45	CUI E11 C0151828
+A46	UMLS-Preferred-Name E11 Injection site pain
+A47	MEDDRA-PT E11 Injection site pain
+A48	MEDDRA-PT-ID E11 10022086
+A49	CUI E12 C0852625
+A50	UMLS-Preferred-Name E12 Injection site erythema
+A51	MEDDRA-PT E12 Injection site erythema
+A52	MEDDRA-PT-ID E12 10022061

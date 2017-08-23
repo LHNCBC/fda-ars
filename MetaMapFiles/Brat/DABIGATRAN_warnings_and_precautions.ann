@@ -1,0 +1,156 @@
+T1	AdverseReaction 99 109	bleeding  
+T2	Severity 81 88	serious
+T3	AdverseReaction 93 98	fatal
+T4	AdverseReaction 723 731	bleeding
+T5	Factor 715 719	risk
+T6	AdverseReaction 774 779	fatal
+T7	AdverseReaction 780 788	bleeding
+T8	Severity 746 757	significant
+T9	AdverseReaction 2300 2308;2319 2327	epidural hematoma
+T11	DrugClass 2250 2270	anticoagulant agents
+T12	AdverseReaction 2312 2327	spinal hematoma
+T13	AdverseReaction 2371 2380	paralysis
+T17	AdverseReaction 4108 4129	thromboembolic events
+T18	AdverseReaction 3637 3653;4131 4147	Prosthetic Heart valve thrombosis
+T19	AdverseReaction 4108 4122;4149 4155	thromboembolic stroke
+T20	AdverseReaction 4157 4182	transient ischemic attack
+T21	AdverseReaction 4188 4209	myocardial infarction
+T22	AdverseReaction 4234 4242	bleeding
+T23	Severity 4228 4233	major
+T24	AdverseReaction 4273 4294	pericardial effusions
+T26	AdverseReaction 4424 4432	bleeding
+T27	AdverseReaction 4437 4458	thromboembolic events
+T28	Factor 71 74	can
+T29	Factor 736 739	can
+T14	AdverseReaction 2361 2380	permanent paralysis
+T15	AdverseReaction 53 61	Bleeding
+E1	AdverseReaction:T1 Effect:E2 Hypothetical:E29
+E2	Severity:T2
+E3	AdverseReaction:T3 Hypothetical:E29
+E4	AdverseReaction:T4 Hypothetical:E5
+E5	Factor:T5
+E6	AdverseReaction:T6 Hypothetical:E31
+E7	AdverseReaction:T7 Hypothetical:E31
+E8	AdverseReaction:T7 Effect:E9 Hypothetical:E31
+E9	Severity:T8
+E10	AdverseReaction:T9 Hypothetical2:E12
+E12	DrugClass:T11
+E13	AdverseReaction:T12 Hypothetical2:E12
+E14	AdverseReaction:T13 Hypothetical2:E12
+E18	AdverseReaction:T17
+E19	AdverseReaction:T18
+E20	AdverseReaction:T19
+E21	AdverseReaction:T20
+E22	AdverseReaction:T21
+E23	AdverseReaction:T22 Effect:E24
+E24	Severity:T23
+E25	AdverseReaction:T24
+E27	AdverseReaction:T26
+E28	AdverseReaction:T27
+E29	Factor:T28
+E30	AdverseReaction:T1 Hypothetical:E29
+E31	Factor:T29
+E15	AdverseReaction:T14 Hypothetical2:E12
+E16	AdverseReaction:T15
+A1	CUI E1 C0019080
+A2	UMLS-Preferred-Name E1 Hemorrhage
+A3	MEDDRA-PT E1 Haemorrhage
+A4	MEDDRA-PT-ID E1 10055798
+A5	LLT E1 Bleeding
+A6	LLT-ID E1 10005103
+A7	CUI E3 C1306577
+A8	UMLS-Preferred-Name E3 Death (finding)
+A9	MEDDRA-PT E3 Death
+A10	MEDDRA-PT-ID E3 10011906
+A11	CUI E4 C0019080
+A12	UMLS-Preferred-Name E4 Hemorrhage
+A13	MEDDRA-PT E4 Haemorrhage
+A14	MEDDRA-PT-ID E4 10055798
+A15	LLT E4 Bleeding
+A16	LLT-ID E4 10005103
+A17	CUI E6 C1306577
+A18	UMLS-Preferred-Name E6 Death (finding)
+A19	MEDDRA-PT E6 Death
+A20	MEDDRA-PT-ID E6 10011906
+A21	CUI E7 C0019080
+A22	UMLS-Preferred-Name E7 Hemorrhage
+A23	MEDDRA-PT E7 Haemorrhage
+A24	MEDDRA-PT-ID E7 10055798
+A25	LLT E7 Bleeding
+A26	LLT-ID E7 10005103
+A27	CUI E10 C0238154
+A28	UMLS-Preferred-Name E10 Hematoma, Epidural, Cranial
+A29	MEDDRA-PT E10 Extradural haematoma
+A30	MEDDRA-PT-ID E10 10015769
+A31	LLT E10 Epidural hematoma
+A32	LLT-ID E10 10015013
+A33	CUI E13 C0856150
+A34	UMLS-Preferred-Name E13 spinal hematoma
+A35	MEDDRA-PT E13 Spinal cord haematoma
+A36	MEDDRA-PT-ID E13 10076051
+A37	LLT E13 Spinal hematoma
+A38	LLT-ID E13 10055382
+A39	CUI E14 C0522224
+A40	UMLS-Preferred-Name E14 Paralysed
+A41	MEDDRA-PT E14 Paralysis
+A42	MEDDRA-PT-ID E14 10033799
+A43	CUI E18 C0040038
+A44	UMLS-Preferred-Name E18 Thromboembolism
+A45	MEDDRA-PT E18 Embolism
+A46	MEDDRA-PT-ID E18 10061169
+A47	LLT E18 Thromboembolic event
+A48	LLT-ID E18 10043565
+A49	CUI E19 C0340885
+A50	UMLS-Preferred-Name E19 Prosthetic cardiac valve thrombosis
+A51	MEDDRA-PT E19 Cardiac valve replacement complication
+A52	MEDDRA-PT-ID E19 10053748
+A53	LLT E19 Prosthetic cardiac valve thrombosis
+A54	LLT-ID E19 10063176
+A55	CUI E20 C1112433
+A56	UMLS-Preferred-Name E20 Thromboembolic stroke
+A57	MEDDRA-PT E20 Embolic stroke
+A58	MEDDRA-PT-ID E20 10014498
+A59	LLT E20 Thromboembolic stroke
+A60	LLT-ID E20 10057613
+A61	CUI E21 C0007787
+A62	UMLS-Preferred-Name E21 Transient Ischemic Attack
+A63	MEDDRA-PT E21 Transient ischaemic attack
+A64	MEDDRA-PT-ID E21 10044390
+A65	LLT E21 Transient ischemic attack
+A66	LLT-ID E21 10072760
+A67	CUI E22 C0027051
+A68	UMLS-Preferred-Name E22 Myocardial Infarction
+A69	MEDDRA-PT E22 Myocardial infarction
+A70	MEDDRA-PT-ID E22 10028596
+A71	CUI E23 C0019080
+A72	UMLS-Preferred-Name E23 Hemorrhage
+A73	MEDDRA-PT E23 Haemorrhage
+A74	MEDDRA-PT-ID E23 10055798
+A75	LLT E23 Bleeding
+A76	LLT-ID E23 10005103
+A77	CUI E25 C0031039
+A78	UMLS-Preferred-Name E25 Pericardial effusion
+A79	MEDDRA-PT E25 Pericardial effusion
+A80	MEDDRA-PT-ID E25 10034474
+A81	CUI E27 C0019080
+A82	UMLS-Preferred-Name E27 Hemorrhage
+A83	MEDDRA-PT E27 Haemorrhage
+A84	MEDDRA-PT-ID E27 10055798
+A85	LLT E27 Bleeding
+A86	LLT-ID E27 10005103
+A87	CUI E28 C0040038
+A88	UMLS-Preferred-Name E28 Thromboembolism
+A89	MEDDRA-PT E28 Embolism
+A90	MEDDRA-PT-ID E28 10061169
+A91	LLT E28 Thromboembolic event
+A92	LLT-ID E28 10043565
+A93	CUI E15 C0522224
+A94	UMLS-Preferred-Name E15 Paralysed
+A95	MEDDRA-PT E15 Paralysis
+A96	MEDDRA-PT-ID E15 10033799
+A97	CUI E16 C0019080
+A98	UMLS-Preferred-Name E16 Hemorrhage
+A99	MEDDRA-PT E16 Haemorrhage
+A100	MEDDRA-PT-ID E16 10055798
+A101	LLT E16 Bleeding
+A102	LLT-ID E16 10005103

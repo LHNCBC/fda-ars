@@ -1,0 +1,88 @@
+00000000|MMI|91.63|Heart failure|C0018801|[dsyn]|["Failure, Heart"-tx-26-"heart failure"-noun-0,"Failure, Heart"-tx-12-"heart failure"-noun-0,"Failure, Heart"-tx-11-"heart failure"-noun-0,"Failure, Heart"-tx-9-"Heart Failure"-noun-0,"Failure, Heart"-tx-9-"heart failure"-noun-0,"Failure, Heart"-tx-3-"Heart Failure"-noun-0,"Failure, Heart"-tx-3-"heart failure"-noun-0,"Failure, Heart"-tx-2-"heart failure"-noun-0]|TX|4937/13;2520/13;2429/13;1929/13;1974/13;1037/13;1145/13;867/13|C14.280.434
+00000000|MMI|49.73|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-30-"discontinuation"-noun-0,"Discontinuation"-tx-27-"discontinuation"-noun-0,"Discontinue"-tx-25-"discontinue"-verb-0,"Discontinued"-tx-21-"discontinued"-verb-0,"Discontinue"-tx-16-"discontinue"-verb-0,"Discontinue"-tx-12-"discontinue"-verb-0,"Discontinue"-tx-5-"discontinue"-verb-0,"Discontinue"-tx-2-"discontinue"-verb-0]|TX|5490/15;5125/15;4733/11;4100/12;3288/11;2584/11;1390/11;[127/11],[317/11],[389/11]|
+00000000|MMI|41.22|Injury of liver|C0160390|[inpo]|["LIVER INJURY"-tx-18-"liver injury"-noun-1,"LIVER INJURY"-tx-17-"liver injury"-noun-0,"Hepatic injury"-tx-16-"hepatic injury"-noun-0,"LIVER INJURY"-tx-16-"liver injury"-noun-0,"Injury of liver"-tx-15-"of liver injury"-noun-1,"Hepatic injury"-tx-14-"hepatic injury"-noun-0,"LIVER INJURY"-tx-13-"Liver Injury"-noun-0,"Hepatic injury"-tx-2-"hepatic injury"-noun-0,"LIVER INJURY"-tx-2-"Liver injury"-noun-0]|TX|3667/12;3497/12;3250/14;3480/12;3223/2,3233/12;2880/14;2615/12;288/14;271/12|
+00000000|MMI|39.82|Hypokalemia|C0020621|[fndg]|["HYPOKALEMIA"-tx-22-"Hypokalemia"-noun-0,"HYPOKALEMIA"-tx-2-"Hypokalemia"-noun-0]|TX|[4125/11],[4196/11];428/11|C18.452.950.565
+00000000|MMI|33.20|Congestive heart failure|C0018802|[dsyn]|["Heart Failure"-tx-26-"heart failure"-noun-0,"Heart Failure"-tx-12-"heart failure"-noun-0,"Heart Failure"-tx-11-"heart failure"-noun-0,"Heart Failure"-tx-9-"Heart Failure"-noun-0,"Heart Failure"-tx-9-"heart failure"-noun-0,"Heart Failure"-tx-3-"Heart Failure"-noun-0,"Heart Failure"-tx-3-"heart failure"-noun-0,"Heart Failure"-tx-2-"heart failure"-noun-0]|TX|4937/13;2520/13;2429/13;1929/13;1974/13;1037/13;1145/13;867/13|
+00000000|MMI|33.08|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-26-"Renal Impairment"-noun-0,"Renal Impairment"-tx-2-"Renal Impairment"-noun-0]|TX|4797/16;541/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|32.38|Cerebrovascular accident|C0038454|[dsyn]|["STROKE"-tx-7-"Stroke"-noun-0,"STROKE"-tx-7-"stroke"-noun-0]|TX|1493/6;1652/6|C10.228.140.300.775;C14.907.253.855
+00000000|MMI|27.26|Weight Gain|C0043094|[fndg]|["Gain, Weight"-tx-11-"weight gain"-noun-0]|TX|2452/11|C23.888.144.243.926;G07.700.320.249.314.120.200.926
+00000000|MMI|26.21|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-20-"dyspnea"-noun-0,"SHORTNESS OF BREATH"-tx-11-"shortness of breath"-noun-0]|TX|3923/7;2496/19|C08.618.326;C23.888.852.371
+00000000|MMI|20.95|Kidney Failure, Acute|C0022660|[dsyn]|["ACUTE RENAL FAILURE"-tx-26-"acute renal failure"-noun-0]|TX|4892/19|C12.777.419.780.050;C13.351.968.419.780.050
+00000000|MMI|17.80|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-16-"ALT"-noun-0]|TX|3391/3|C04.557.450.550.400
+00000000|MMI|16.14|Liver Failure, Acute|C0162557|[dsyn]|["Acute Liver Failure"-tx-13-"acute liver failure"-noun-0]|TX|2680/19|C06.552.308.500.750
+00000000|MMI|15.15|Pulmonary toxicity|C0919924|[patf]|["Pulmonary toxicity"-tx-21-"pulmonary toxicity"-noun-0,"Pulmonary toxicity"-tx-20-"pulmonary toxicity"-noun-1,"Pulmonary toxicity"-tx-19-"Pulmonary Toxicity"-noun-0,"Pulmonary toxicity"-tx-2-"pulmonary toxicity"-noun-0]|TX|4050/18;3973/18;3693/18;356/18|
+00000000|MMI|14.64|Anorexia|C0003123|[dsyn]|["ANOREXIA"-tx-14-"anorexia"-noun-0]|TX|2904/8|C23.888.821.108
+00000000|MMI|14.64|Fever|C0015967|[fndg]|["FEVER"-tx-14-"fever"-noun-0]|TX|2932/5|C23.888.119.344
+00000000|MMI|14.64|Icterus|C0022346|[patf]|["JAUNDICE"-tx-14-"jaundice"-noun-0]|TX|2984/8|C23.550.429.500;C23.888.885.375
+00000000|MMI|14.64|Nausea|C0027497|[sosy]|["NAUSEA"-tx-14-"nausea"-noun-0]|TX|2914/6|C23.888.821.712
+00000000|MMI|14.64|Pruritus|C0033774|[sosy]|["ITCHING"-tx-14-"itching"-noun-0]|TX|3009/7|C17.800.685;C23.888.885.625
+00000000|MMI|14.64|Ventricular Dysfunction, Left|C0242698|[patf]|["Left Ventricular Dysfunction"-tx-10-"left ventricular dysfunction"-noun-1]|TX|2319/28|C14.280.945.900
+00000000|MMI|14.64|Vomiting|C0042963|[sosy]|["VOMITING"-tx-14-"vomiting"-verb-0]|TX|2922/8|C23.888.821.937
+00000000|MMI|14.41|Death (finding)|C1306577|[fndg]|["Death"-tx-3-"Death"-noun-0,"Death"-tx-3-"death"-noun-0,"Death"-tx-2-"Death"-noun-0,"Death"-tx-2-"death"-noun-0]|TX|1027/5;1114/5;751/5;994/5|
+00000000|MMI|13.10|Atrial Fibrillation|C0004238|[dsyn]|["ATRIAL FIBRILLATION"-tx-5-"atrial fibrillation"-noun-0]|TX|1341/19|C14.280.067.198;C23.550.073.198
+00000000|MMI|13.04|Tachycardia|C0039231|[patf]|["Heart Rate, Increased"-tx-10-"increased rates heart"-noun-0]|TX|2125/15,2144/5|C14.280.067.845;C23.550.073.845
+00000000|MMI|11.56|Hypomagnesemia|C0151723|[fndg]|["HYPOMAGNESEMIA"-tx-22-"Hypomagnesemia"-noun-0,"HYPOMAGNESEMIA"-tx-22-"hypomagnesemia"-noun-0,"HYPOMAGNESEMIA"-tx-2-"hypomagnesemia"-noun-0]|TX|4141/14;4211/14;444/14|
+00000000|MMI|11.49|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-14-"fatigue"-noun-0]|TX|2948/7|C23.888.369
+00000000|MMI|11.49|Hypovolemia|C0546884|[fndg]|["HYPOVOLEMIA"-tx-26-"hypovolemia"-noun-0]|TX|5003/11|C23.550.455
+00000000|MMI|11.49|Pneumonia|C0032285|[dsyn]|["Pneumonitis"-tx-19-"pneumonitis"-noun-0]|TX|3762/11|C08.381.677;C08.730.610
+00000000|MMI|11.49|Pneumonitis|C3714636|[dsyn]|["PNEUMONITIS"-tx-19-"pneumonitis"-noun-0]|TX|3762/11|C08.381.677;C08.730.610
+00000000|MMI|11.49|Pulmonary Fibrosis|C0034069|[dsyn]|["PULMONARY FIBROSIS"-tx-19-"pulmonary fibrosis"-noun-0]|TX|3778/18|C08.381.765
+00000000|MMI|11.01|Worse|C1457868|[fndg]|["worsen"-tx-12-"worsens"-verb-0,"Worsening"-tx-9-"Worsening"-adj-0,"Worsening"-tx-9-"worsening"-noun-0]|TX|2546/7;1919/9;1961/9|
+00000000|MMI|10.63|10%|C3842590|[fndg]|["10%"-tx-31-"10"-real_number-0,"10%"-tx-24-"10"-integer-0,"10%"-tx-2-"10"-real_number-0]|TX|5516/2;4545/2;714/2|
+00000000|MMI|7.70|new onset|C0746890|[fndg]|["NEW ONSET"-tx-9-"New Onset"-adj-0,"NEW ONSET"-tx-9-"New onset"-adj-0]|TX|1906/9;1948/9|
+00000000|MMI|7.39|H/O: heart failure|C0455531|[fndg]|["History of - heart failure"-tx-10-"history of heart failure"-noun-1]|TX|[2229/10,2252/13],[2291/24]|
+00000000|MMI|7.36|5 - 9|C3840622|[fndg]|["5 - 9"-tx-26-"5.9"-real_number-0,"5 - 9"-tx-2-"5.9"-real_number-0]|TX|4793/3;598/3|
+00000000|MMI|7.28|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-14-"symptoms"-noun-0,"SYMPTOMS"-tx-11-"symptoms"-noun-0]|TX|2860/8;2417/8|
+00000000|MMI|7.24|5-6|C3843715|[fndg]|["5-6"-tx-19-"5.6"-real_number-0,"5-6"-tx-2-"5.6"-real_number-0]|TX|3689/3;414/3|
+00000000|MMI|7.24|6/5|C0442749|[fndg]|["5 6"-tx-19-"5.6"-real_number-0,"5 6"-tx-2-"5.6"-real_number-0]|TX|3689/3;414/3|
+00000000|MMI|7.21|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-8-"therapy"-noun-0,"Therapy"-tx-7-"therapy"-noun-0]|TX|1850/7;1699/7|
+00000000|MMI|6.76|Transplant|C3841811|[fndg]|["Transplant"-tx-13-"transplant"-noun-0]|TX|2710/10|A01.941
+00000000|MMI|6.60|Lung diseases|C0024115|[dsyn]|["Disease of lung"-tx-19-"of lung disease"-noun-0]|TX|3723/2,3739/12|C08.381
+00000000|MMI|5.18|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-19-"Adverse Reactions"-noun-0]|TX|3884/17|
+00000000|MMI|5.18|Anorexia symptom|C0426579|[sosy]|["anorexia"-tx-14-"anorexia"-noun-0]|TX|2904/8|
+00000000|MMI|5.18|Dependent edema|C0235437|[fndg]|["dependant edema"-tx-11-"dependent edema"-noun-0]|TX|2465/15|
+00000000|MMI|5.18|Detected (finding)|C0442726|[fndg]|["Detected"-tx-2-"detected"-verb-0]|TX|118/8|
+00000000|MMI|5.18|Does reach|C0596012|[fndg]|["Reaches"-tx-30-"reaches"-verb-0]|TX|5435/7|
+00000000|MMI|5.18|Dry cough|C0850149|[sosy]|["Non-productive cough"-tx-20-"non-productive cough"-noun-0]|TX|3934/20|
+00000000|MMI|5.18|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-14-"fever"-noun-0]|TX|2932/5|
+00000000|MMI|5.18|Indicated|C1444656|[fndg]|["Indicated"-tx-5-"indicated"-verb-0]|TX|1376/9|
+00000000|MMI|5.18|Liver damage|C0151763|[patf]|["Hepatocellular Liver Injury"-tx-13-"Hepatocellular liver injury"-noun-0]|TX|2641/27|
+00000000|MMI|5.18|Loss of appetite (finding)|C1971624|[fndg]|["Anorexia"-tx-14-"anorexia"-noun-0]|TX|2904/8|
+00000000|MMI|5.18|Malaise|C0231218|[sosy]|["MALAISE"-tx-14-"malaise"-noun-0]|TX|2939/7|
+00000000|MMI|5.18|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-14-"nausea"-noun-0]|TX|2914/6|
+00000000|MMI|5.18|Physical findings|C0311392|[fndg]|["SIGNS"-tx-11-"signs"-noun-0]|TX|2408/5|
+00000000|MMI|5.18|Pre-renal acute kidney injury|C3854173|[dsyn]|["Acute renal failure"-tx-26-"acute renal failure"-noun-0]|TX|4892/19|
+00000000|MMI|5.18|Rapid onset|C1838994|[fndg]|["Rapid onset"-tx-30-"rapid onset"-noun-0]|TX|5422/11|
+00000000|MMI|5.18|Right upper quadrant pain|C0235299|[sosy]|["RIGHT UPPER QUADRANT PAIN"-tx-14-"right upper quadrant pain"-noun-0]|TX|2957/25|
+00000000|MMI|5.18|Sinus rhythm|C0232201|[fndg]|["SINUS RHYTHM"-tx-8-"sinus rhythm"-noun-0]|TX|1792/12|
+00000000|MMI|5.18|Urine looks dark|C0426396|[sosy]|["Dark urine"-tx-14-"dark urine"-noun-0]|TX|2994/10|
+00000000|MMI|5.18|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-14-"vomiting"-verb-0]|TX|2922/8|
+00000000|MMI|5.18|Weight Gain Adverse Event|C2911647|[fndg]|["Weight gain"-tx-11-"weight gain"-noun-0]|TX|2452/11|
+00000000|MMI|5.18|azotemia pre renal|C0741360|[fndg]|["pre renal azotemia"-tx-26-"pre-renal azotemia"-noun-0]|TX|4869/18|
+00000000|MMI|5.18|electrocardiogram rhythm strip 3-lead: sinus rhythm|C2041122|[fndg]|["sinus rhythm"-tx-8-"sinus rhythm"-noun-0]|TX|1792/12|
+00000000|MMI|5.18|jaundice|C2010848|[fndg]|["jaundice"-tx-14-"jaundice"-noun-0]|TX|2984/8|
+00000000|MMI|5.18|yellow skin or eyes (symptom)|C2203646|[sosy]|["jaundice"-tx-14-"jaundice"-noun-0]|TX|2984/8|
+00000000|MMI|3.81|cardiovascular surgery result: left ventricular function|C2024902|[fndg]|["left ventricular function"-tx-10-"left ventricular function"-noun-0]|TX|2196/25|
+00000000|MMI|3.73|Liver transplant failure|C0400969|[patf]|["failure; transplant, liver"-tx-13-"liver failure transplant"-noun-0]|TX|2686/13,2710/10|
+00000000|MMI|3.64|Atrial Fibrillation Adverse Event|C1963067|[fndg]|["Atrial fibrillation"-tx-5-"atrial fibrillation"-noun-0]|TX|1341/19|
+00000000|MMI|3.63|heart failure; with decompensation|C1399214|[dsyn]|["heart failure; with decompensation"-tx-2-"heart failure with decompensation"-noun-0]|TX|896/18,922/14|
+00000000|MMI|3.62|Cardiovascular symptoms|C0476270|[sosy]|["symptoms heart"-tx-11-"symptoms heart"-noun-0]|TX|2417/8,2429/5|
+00000000|MMI|3.60|Transplanted organ and tissue status|C0478647|[fndg]|["transplant"-tx-13-"transplant"-noun-0]|TX|2710/10|
+00000000|MMI|3.60|Therapy Appropriate|C1555288|[fndg]|["Therapy Appropriate"-tx-2-"appropriate therapy"-noun-0]|TX|184/11,211/7|
+00000000|MMI|3.60|cardiac event|C0741923|[dsyn]|["Heart events"-tx-3-"heart events"-noun-0]|TX|1145/5,1159/6|
+00000000|MMI|3.59|Contraindicated|C1444657|[fndg]|["Contraindicated"-tx-2-"contraindicated"-verb-0]|TX|820/15|
+00000000|MMI|3.58|Less often|C3843156|[fndg]|["Less often"-tx-4-"less often"-adv-1]|TX|1278/10|
+00000000|MMI|3.57|Related personal status|C0445223|[fndg]|["Related"-tx-20-"related"-verb-1]|TX|3962/7|
+00000000|MMI|3.55|Decompensated cardiac failure|C0581377|[dsyn]|["Decompensated heart failure"-tx-2-"Decompensated Heart Failure"-noun-0]|TX|777/27|
+00000000|MMI|3.54|Experimental Result|C2825142|[fndg]|["Result"-tx-29-"result"-noun-0]|TX|5346/6|
+00000000|MMI|3.52|New York Heart Association Class IV|C1882087|[fndg]|["NYHA CLASS IV"-tx-2-"NYHA Class IV"-noun-0]|TX|853/13|
+00000000|MMI|3.48|Prolonged QT interval|C0151878|[fndg]|["QT Prolongation"-tx-24-"QT Prolongation"-noun-0]|TX|4466/2,4478/12|
+00000000|MMI|3.48|Permanent atrial fibrillation|C2586056|[patf]|["Permanent atrial fibrillation"-tx-7-"permanent atrial fibrillation"-noun-0]|TX|1568/29|
+00000000|MMI|3.48|Serum creatinine level|C0600061|[fndg]|["Serum creatinine"-tx-26-"serum creatinine"-noun-0]|TX|4851/16|
+00000000|MMI|3.48|Test Result|C0456984|[fndg]|["Test"-tx-16-"test"-noun-0]|TX|3311/4|
+00000000|MMI|3.47|Gait normal|C0231683|[fndg]|["Normal"-tx-10-"normal"-adj-0]|TX|2189/6|
+00000000|MMI|3.46|Finding of creatinine level|C0428279|[fndg]|["creatinine levels"-tx-29-"creatinine levels"-noun-0]|TX|5243/17|
+00000000|MMI|3.45|New York Heart Association Class I|C1882084|[fndg]|["NYHA Class 1"-tx-2-"1 NYHA Class"-noun-0]|TX|734/1,760/10|
+00000000|MMI|3.44|Day 7|C3842672|[fndg]|["Day 7"-tx-30-"7 days"-noun-0]|TX|5459/6|
+00000000|MMI|3.42|Creatinine finding|C1561535|[fndg]|["Creatinine"-tx-29-"creatinine's"-noun-0]|TX|5370/12|
+00000000|MMI|3.42|Premenopausal symptoms|C1096235|[sosy]|["premenopausal"-tx-31-"Premenopausal"-noun-0]|TX|5556/13|

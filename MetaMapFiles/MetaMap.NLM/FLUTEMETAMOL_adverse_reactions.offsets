@@ -1,0 +1,36 @@
+84,92|C0016382|flushing|sosy
+84,92|C1962957|flushing|fndg
+99,107|C0018681|headache|sosy
+99,107|C2096315|headache|fndg
+114,138|C0020538|increased blood pressure|dsyn
+114,138|C0497247|increased blood pressure|fndg
+114,138|C2917273|increased blood pressure|fndg
+145,151|C0027497|nausea|sosy
+145,151|C1963179|nausea|patf
+162,171|C0012833|dizziness|sosy
+162,171|C0042571|dizziness|sosy
+162,171|C1963093|dizziness|fndg
+415,425|C0012634|conditions|dsyn
+828,831|C1270972|mCi|mobd
+904,929|C0020517|hypersensitivity reaction|patf
+904,920|C0020517|hypersensitivity|patf
+904,920|C0520946|hypersensitivity|fndg
+921,929;935,943|C0016382|reaction flushing|sosy
+935,943|C0016382|flushing|sosy
+935,943|C1962957|flushing|fndg
+945,952|C0013404|dyspnea|sosy
+957,971|C0438716|chest pressure|sosy
+1116,1124|C3714811|resolved|fndg
+1116,1124|C1514893|resolved|patf
+1475,1483|C0016382|Flushing|sosy
+1475,1483|C1962957|Flushing|fndg
+1582,1606|C0020538|Increased blood pressure|dsyn
+1582,1606|C0497247|Increased blood pressure|fndg
+1582,1606|C2917273|Increased blood pressure|fndg
+1689,1697|C0018681|Headache|sosy
+1689,1697|C2096315|Headache|fndg
+1796,1802|C0027497|Nausea|sosy
+1796,1802|C1963179|Nausea|patf
+1903,1912|C0012833|Dizziness|sosy
+1903,1912|C0042571|Dizziness|sosy
+1903,1912|C1963093|Dizziness|fndg

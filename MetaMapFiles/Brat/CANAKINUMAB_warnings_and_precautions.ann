@@ -1,0 +1,169 @@
+T1	AdverseReaction 250 260	infections
+T2	Severity 242 249	serious
+T4	DrugClass 147 195	medications that work through inhibition of IL-1
+T5	AdverseReaction 328 338	infections
+T6	Severity 320 327	serious
+T7	AdverseReaction 991 1001	infections
+T8	Severity 983 990	serious
+T9	AdverseReaction 1394 1404;1420 1450	Infections of the upper respiratory tract
+T10	AdverseReaction 1394 1404;1420 1450	Infections of the upper respiratory tract
+T11	Severity 1470 1477	serious
+T12	AdverseReaction 1394 1404	Infections
+T13	AdverseReaction 1535 1545	infections
+T14	AdverseReaction 1606 1630	opportunistic infections
+T15	AdverseReaction 1638 1651	aspergillosis
+T16	AdverseReaction 1653 1686	atypical mycobacterial infections
+T17	AdverseReaction 1620 1630;1688 1703	infections cytomegalovirus
+T18	AdverseReaction 1705 1718	herpes zoster
+T19	AdverseReaction 1973 1983	infections
+T20	Severity 1965 1972	serious
+T21	DrugClass 2035 2047	IL-1 blocker
+T26	AdverseReaction 2488 2516	reactivation of tuberculosis
+T27	AdverseReaction 2523 2547	opportunistic infections
+T28	Factor 2480 2484	risk
+T33	AdverseReaction 3717 3729	malignancies
+T34	Factor 3709 3713	risk
+T35	AdverseReaction 3768 3794	Hypersensitivity reactions
+T36	AdverseReaction 3862 3884	anaphylactic reactions
+T37	Negation 3859 3861	no
+T38	AdverseReaction 4558 4595	interfere with normal immune response
+T39	Factor 4554 4557	may
+T40	AdverseReaction 5644 5647	MAS
+T41	AdverseReaction 5820 5823	MAS
+T42	Factor 975 979	risk
+T43	AdverseReaction 1595 1602;1620 1630	unusual infections
+T22	Factor 5846 5870	no definitive conclusion
+E1	AdverseReaction:T1 Effect:E2 Hypothetical2:E4
+E2	Severity:T2
+E4	DrugClass:T4
+E5	AdverseReaction:T5 Effect:E6
+E6	Severity:T6
+E7	AdverseReaction:T7 Effect:E8 Hypothetical:E43
+E8	Severity:T8
+E10	AdverseReaction:T9 Effect:E11
+E9	AdverseReaction:T10
+E11	Severity:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T12 Effect:E11
+E14	AdverseReaction:T13
+E15	AdverseReaction:T14
+E16	AdverseReaction:T15
+E17	AdverseReaction:T16
+E18	AdverseReaction:T17
+E19	AdverseReaction:T18
+E20	AdverseReaction:T19 Effect:E21 Hypothetical:E22
+E21	Severity:T20
+E22	DrugClass:T21
+E27	AdverseReaction:T26 Hypothetical:E29
+E28	AdverseReaction:T27 Hypothetical:E29
+E29	Factor:T28
+E34	AdverseReaction:T33 Hypothetical:E35
+E35	Factor:T34
+E36	AdverseReaction:T35
+E37	AdverseReaction:T36 Negated:E38
+E38	Negation:T37
+E39	AdverseReaction:T38 Hypothetical:E40
+E40	Factor:T39
+E41	AdverseReaction:T40
+E42	AdverseReaction:T41 Hypothetical:E23
+E43	Factor:T42
+E44	AdverseReaction:T43
+E23	Factor:T22
+A1	CUI E1 C3714514
+A2	UMLS-Preferred-Name E1 Infection
+A3	MEDDRA-PT E1 Infection
+A4	MEDDRA-PT-ID E1 10021789
+A5	CUI E5 C3714514
+A6	UMLS-Preferred-Name E5 Infection
+A7	MEDDRA-PT E5 Infection
+A8	MEDDRA-PT-ID E5 10021789
+A9	CUI E7 C3714514
+A10	UMLS-Preferred-Name E7 Infection
+A11	MEDDRA-PT E7 Infection
+A12	MEDDRA-PT-ID E7 10021789
+A13	CUI E10 C0041912
+A14	UMLS-Preferred-Name E10 Upper Respiratory Infections
+A15	MEDDRA-PT E10 Upper respiratory tract infection
+A16	MEDDRA-PT-ID E10 10046306
+A17	CUI E9 C0041912
+A18	UMLS-Preferred-Name E9 Upper Respiratory Infections
+A19	MEDDRA-PT E9 Upper respiratory tract infection
+A20	MEDDRA-PT-ID E9 10046306
+A21	CUI E12 C3714514
+A22	UMLS-Preferred-Name E12 Infection
+A23	MEDDRA-PT E12 Infection
+A24	MEDDRA-PT-ID E12 10021789
+A25	CUI E14 C3714514
+A26	UMLS-Preferred-Name E14 Infection
+A27	MEDDRA-PT E14 Infection
+A28	MEDDRA-PT-ID E14 10021789
+A29	CUI E15 C0029118
+A30	UMLS-Preferred-Name E15 Opportunistic Infections
+A31	MEDDRA-PT E15 Opportunistic infection
+A32	MEDDRA-PT-ID E15 10030901
+A33	CUI E16 C0004030
+A34	UMLS-Preferred-Name E16 Aspergillosis
+A35	MEDDRA-PT E16 Aspergillus infection
+A36	MEDDRA-PT-ID E16 10074171
+A37	LLT E16 Aspergillosis
+A38	LLT-ID E16 10003488
+A39	CUI E17 C0026919
+A40	UMLS-Preferred-Name E17 Mycobacterium Infections, Nontuberculous
+A41	MEDDRA-PT E17 Atypical mycobacterial infection
+A42	MEDDRA-PT-ID E17 10061663
+A43	CUI E18 C0010823
+A44	UMLS-Preferred-Name E18 Cytomegalovirus Infections
+A45	MEDDRA-PT E18 Cytomegalovirus infection
+A46	MEDDRA-PT-ID E18 10011831
+A47	CUI E19 C0019360
+A48	UMLS-Preferred-Name E19 Herpes zoster disease
+A49	MEDDRA-PT E19 Herpes zoster
+A50	MEDDRA-PT-ID E19 10019974
+A51	CUI E20 C3714514
+A52	UMLS-Preferred-Name E20 Infection
+A53	MEDDRA-PT E20 Infection
+A54	MEDDRA-PT-ID E20 10021789
+A55	CUI E27 C0275965
+A56	UMLS-Preferred-Name E27 Reactivation tuberculosis
+A57	MEDDRA-PT E27 Tuberculosis
+A58	MEDDRA-PT-ID E27 10044755
+A59	LLT E27 Tuberculosis reactivated
+A60	LLT-ID E27 10045025
+A61	CUI E28 C0029118
+A62	UMLS-Preferred-Name E28 Opportunistic Infections
+A63	MEDDRA-PT E28 Opportunistic infection
+A64	MEDDRA-PT-ID E28 10030901
+A65	CUI E34 C0006826
+A66	UMLS-Preferred-Name E34 Malignant Neoplasms
+A67	MEDDRA-PT E34 Neoplasm malignant
+A68	MEDDRA-PT-ID E34 10028997
+A69	CUI E36 C0020517
+A70	UMLS-Preferred-Name E36 Hypersensitivity
+A71	MEDDRA-PT E36 Hypersensitivity
+A72	MEDDRA-PT-ID E36 10020751
+A73	LLT E36 Hypersensitivity reaction
+A74	LLT-ID E36 10020756
+A75	CUI E37 C0002792
+A76	UMLS-Preferred-Name E37 anaphylaxis
+A77	MEDDRA-PT E37 Anaphylactic reaction
+A78	MEDDRA-PT-ID E37 10002198
+A79	CUI E39 C0863087
+A80	UMLS-Preferred-Name E39 Decreased immune responsiveness
+A81	MEDDRA-PT E39 Decreased immune responsiveness
+A82	MEDDRA-PT-ID E39 10011968
+A83	CUI E41 C1096155
+A84	UMLS-Preferred-Name E41 Macrophage Activation Syndrome
+A85	MEDDRA-PT E41 Histiocytosis haematophagic
+A86	MEDDRA-PT-ID E41 10048595
+A87	LLT E41 Macrophage activation syndrome
+A88	LLT-ID E41 10053867
+A89	CUI E42 C1096155
+A90	UMLS-Preferred-Name E42 Macrophage Activation Syndrome
+A91	MEDDRA-PT E42 Histiocytosis haematophagic
+A92	MEDDRA-PT-ID E42 10048595
+A93	LLT E42 Macrophage activation syndrome
+A94	LLT-ID E42 10053867
+A95	CUI E44 C3714514
+A96	UMLS-Preferred-Name E44 Infection
+A97	MEDDRA-PT E44 Infection
+A98	MEDDRA-PT-ID E44 10021789

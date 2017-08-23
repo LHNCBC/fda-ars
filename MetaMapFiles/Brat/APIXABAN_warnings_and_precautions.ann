@@ -1,0 +1,110 @@
+T1	AdverseReaction 98 106	bleeding
+T2	Factor 61 64	can
+T3	Severity 71 78	serious
+T4	Factor 80 91	potentially
+T5	Factor 457 461	risk
+T6	AdverseReaction 465 482	thrombotic events
+T7	AdverseReaction 505 511	stroke
+T8	AdverseReaction 907 915	bleeding
+T9	AdverseReaction 958 966	bleeding
+T10	Severity 930 937	serious
+T12	Factor 920 923	can
+T13	AdverseReaction 1114 1122	bleeding
+T14	Factor 1106 1110	risk
+T15	AdverseReaction 2932 2940;2951 2959	epidural hematoma
+T16	AdverseReaction 2944 2959	spinal hematoma
+T17	Factor 2910 2914	risk
+T18	AdverseReaction 2993 3012	permanent paralysis
+T19	AdverseReaction 2980 2989;3003 3012	long-term paralysis
+T20	Factor 2966 2969	can
+T21	AdverseReaction 92 97	fatal
+T11	AdverseReaction 951 956	fatal
+T22	Factor 939 950	potentially
+T23	Factor 899 903	risk
+E1	AdverseReaction:T1 Hypothetical:E2 Effect2:E3
+E2	Factor:T2
+E3	Severity:T3
+E4	Factor:T4
+E6	Factor:T5
+E7	AdverseReaction:T6 Hypothetical:E6
+E8	AdverseReaction:T7
+E9	AdverseReaction:T8 Hypothetical:E23
+E11	Severity:T10
+E13	AdverseReaction:T9 Effect:E11 Hypothetical:E14
+E14	Factor:T12
+E15	AdverseReaction:T13 Hypothetical:E16
+E16	Factor:T14
+E17	AdverseReaction:T15 Hypothetical:E19
+E18	AdverseReaction:T16 Hypothetical:E19
+E19	Factor:T17
+E20	AdverseReaction:T18 Hypothetical:E22
+E21	AdverseReaction:T19 Hypothetical:E22
+E22	Factor:T20
+E5	AdverseReaction:T21 Hypothetical:E4
+E10	AdverseReaction:T11 Hypothetical:E12
+E12	Factor:T22
+E23	Factor:T23
+A1	CUI E1 C0019080
+A2	UMLS-Preferred-Name E1 Hemorrhage
+A3	MEDDRA-PT E1 Haemorrhage
+A4	MEDDRA-PT-ID E1 10055798
+A5	LLT E1 Bleeding
+A6	LLT-ID E1 10005103
+A7	CUI E7 C0040053
+A8	UMLS-Preferred-Name E7 Thrombosis
+A9	MEDDRA-PT E7 Thrombosis
+A10	MEDDRA-PT-ID E7 10043607
+A11	CUI E8 C0038454
+A12	UMLS-Preferred-Name E8 Cerebrovascular accident
+A13	MEDDRA-PT E8 Cerebrovascular accident
+A14	MEDDRA-PT-ID E8 10008190
+A15	LLT E8 Stroke
+A16	LLT-ID E8 10042244
+A17	CUI E9 C0019080
+A18	UMLS-Preferred-Name E9 Hemorrhage
+A19	MEDDRA-PT E9 Haemorrhage
+A20	MEDDRA-PT-ID E9 10055798
+A21	LLT E9 Bleeding
+A22	LLT-ID E9 10005103
+A23	CUI E13 C0019080
+A24	UMLS-Preferred-Name E13 Hemorrhage
+A25	MEDDRA-PT E13 Haemorrhage
+A26	MEDDRA-PT-ID E13 10055798
+A27	LLT E13 Bleeding
+A28	LLT-ID E13 10005103
+A29	CUI E15 C0019080
+A30	UMLS-Preferred-Name E15 Hemorrhage
+A31	MEDDRA-PT E15 Haemorrhage
+A32	MEDDRA-PT-ID E15 10055798
+A33	LLT E15 Bleeding
+A34	LLT-ID E15 10005103
+A35	CUI E17 C0238154
+A36	UMLS-Preferred-Name E17 Hematoma, Epidural, Cranial
+A37	MEDDRA-PT E17 Extradural haematoma
+A38	MEDDRA-PT-ID E17 10015769
+A39	LLT E17 Epidural hematoma
+A40	LLT-ID E17 10015013
+A41	CUI E18 C0856150
+A42	UMLS-Preferred-Name E18 spinal hematoma
+A43	MEDDRA-PT E18 Spinal cord haematoma
+A44	MEDDRA-PT-ID E18 10076051
+A45	LLT E18 Spinal hematoma
+A46	LLT-ID E18 10055382
+A47	CUI E20 C0522224
+A48	UMLS-Preferred-Name E20 Paralysed
+A49	MEDDRA-PT E20 Paralysis
+A50	MEDDRA-PT-ID E20 10033799
+A51	CUI E21 C0522224
+A52	UMLS-Preferred-Name E21 Paralysed
+A53	MEDDRA-PT E21 Paralysis
+A54	MEDDRA-PT-ID E21 10033799
+A55	LLT E21 Paralysed
+A56	LLT-ID E21 10033798
+A57	CUI E5 C1306577
+A58	UMLS-Preferred-Name E5 Death (finding)
+A59	MEDDRA-PT E5 Death
+A60	MEDDRA-PT-ID E5 10011906
+A61	CUI E10 C1306577
+A62	UMLS-Preferred-Name E10 Death (finding)
+A63	MEDDRA-PT E10 Death
+A64	MEDDRA-PT-ID E10 10011906

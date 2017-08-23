@@ -1,0 +1,105 @@
+00000000|AA|CLcr|creatinine clearance|1|4|3|20|4520:4
+00000000|AA|ARDS|acute respiratory distress syndrome|1|4|7|35|6545:4
+00000000|AA|TEN|toxic epidermal necrolysis|1|3|5|26|6934:3
+00000000|MMI|94.23|Fatal Outcome|C0206277|[patf]|["Fatal outcomes"-tx-56-"fatal outcomes"-noun-0,"Fatal outcomes"-tx-53-"fatal outcomes"-noun-0,"Fatal outcomes"-tx-42-"fatal outcomes"-noun-0,"Fatal outcomes"-tx-33-"fatal outcomes"-noun-0]|TX|6950/14;6562/14;5122/14;3630/14|E05.318.308.985.550.325;L01.280.975.550.325;N01.224.935.698.201;N06.850.505.400.975.550.325;N06.850.520.308.985.550.325
+00000000|MMI|80.18|Neutropenia|C0027947|[dsyn]|["NEUTROPENIA"-tx-32-"neutropenia"-noun-0,"NEUTROPENIA"-tx-30-"neutropenia"-noun-0,"NEUTROPENIA"-tx-28-"neutropenia"-noun-0,"NEUTROPENIA"-tx-6-"neutropenia"-noun-0]|TX|3266/11;3209/11;2900/11;483/11|C15.378.553.546.184.564
+00000000|MMI|70.58|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-24-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-22-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-22-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-3-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-2-"Anaphylaxis"-noun-0]|TX|2386/11;2229/11;2307/11;269/11;172/11|C20.543.480.099
+00000000|MMI|66.65|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-39-"renal impairment"-noun-0,"Renal Impairment"-tx-38-"renal impairment"-noun-0,"Renal Impairment"-tx-37-"Renal Impairment"-noun-0,"Renal Impairment"-tx-37-"renal impairment"-noun-0]|TX|4480/16;4364/16;4079/16;4196/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|54.24|Toxic Epidermal Necrolysis|C0014518|[dsyn]|["NECROLYSIS, TOXIC EPIDERMAL"-tx-57-"TEN"-noun-0,"NECROLYSIS, TOXIC EPIDERMAL"-tx-56-"toxic epidermal necrolysis"-noun-0,"NECROLYSIS, TOXIC EPIDERMAL"-tx-11-"toxic epidermal necrolysis"-noun-0]|TX|7010/3;6906/26;1113/26|C07.465.864.500;C17.800.174.600.900;C17.800.229.400.683;C17.800.865.475.683;C20.543.206.380.900;C25.100.468.380.900
+00000000|MMI|54.18|Leukopenia|C0023530|[dsyn]|["NEUTROPENIA"-tx-32-"neutropenia"-noun-0,"NEUTROPENIA"-tx-30-"neutropenia"-noun-0,"NEUTROPENIA"-tx-28-"neutropenia"-noun-0,"NEUTROPENIA"-tx-6-"neutropenia"-noun-0]|TX|3266/11;3209/11;2900/11;483/11|C15.378.553.546
+00000000|MMI|52.68|Peripheral Neuropathy|C0031117|[dsyn]|["PERIPHERAL NEUROPATHY"-tx-21-"peripheral neuropathy"-noun-0,"PERIPHERAL NEUROPATHY"-tx-16-"peripheral neuropathy"-noun-0,"PERIPHERAL NEUROPATHY"-tx-14-"Peripheral Neuropathy"-noun-0,"PERIPHERAL NEUROPATHY"-tx-14-"peripheral neuropathy"-noun-0,"PERIPHERAL NEUROPATHY"-tx-1-"Peripheral neuropathy"-noun-0]|TX|2040/21;1484/21;1297/21;1352/21;55/21|C10.668.829
+00000000|MMI|42.94|Discontinued|C1444662|[fndg]|["Discontinue"-tx-57-"discontinue"-verb-0,"Discontinue"-tx-52-"discontinue"-verb-0,"Discontinuation"-tx-47-"discontinuation"-noun-0,"Discontinuation"-tx-32-"discontinuation"-noun-0,"Discontinue"-tx-24-"discontinue"-verb-0,"Discontinuation"-tx-21-"discontinuation"-noun-0,"Discontinue"-tx-11-"Discontinue"-verb-0,"Discontinuation"-tx-6-"discontinuation"-noun-0,"Discontinue"-tx-3-"discontinue"-verb-0]|TX|7022/11;6305/11;5633/15;3322/15;2434/11;2102/15;1070/11;539/15;301/11|
+00000000|MMI|39.87|Tumor Lysis Syndrome|C0041364|[dsyn]|["TUMOUR LYSIS SYNDROME"-tx-35-"Tumor Lysis Syndrome"-noun-0,"TUMOUR LYSIS SYNDROME"-tx-35-"tumor lysis syndrome"-noun-0,"TUMOUR LYSIS SYNDROME"-tx-8-"Tumor lysis syndrome"-noun-0]|TX|3835/20;3953/20;765/20|C15.604.515.880;C20.683.515.950
+00000000|MMI|39.01|Toxic effect|C0600688|[inpo]|["toxicities"-tx-60-"toxicities"-noun-0,"Toxicity"-tx-58-"Toxicity"-noun-0,"Toxicity"-tx-54-"toxicity"-noun-0,"Toxicity"-tx-53-"Toxicity"-noun-0,"Toxicity"-tx-40-"Toxicity"-noun-0,"Toxicity"-tx-37-"Toxicity"-noun-0,"toxicities"-tx-28-"Toxicities"-noun-0,"Toxicity"-tx-12-"toxicity"-noun-0,"toxicities"-tx-4-"toxicities"-noun-0]|TX|7385/10;7114/8;6651/8;6394/8;4622/8;4044/8;2856/10;1177/8;354/10|
+00000000|MMI|33.01|Stevens-Johnson Syndrome|C0038325|[dsyn]|["STEVENS JOHNSON SYNDROME"-tx-56-"Stevens-Johnson syndrome"-noun-0,"STEVENS JOHNSON SYNDROME"-tx-11-"Stevens-Johnson syndrome"-noun-0]|TX|6871/24;1085/24|C07.465.864.500;C17.800.174.600.900;C17.800.229.400.683;C17.800.865.475.683;C20.543.206.380.900;C25.100.468.380.900
+00000000|MMI|30.32|Opportunistic Infections|C0029118|[dsyn]|["Opportunistic Infections"-tx-33-"Opportunistic Infections"-noun-0,"Opportunistic Infections"-tx-33-"opportunistic infections"-noun-0,"Opportunistic Infections"-tx-7-"opportunistic infections"-noun-0]|TX|3483/24;3536/24;638/24|C01.539.597;C02.597;C03.684
+00000000|MMI|29.46|Schwartz-Jampel Syndrome|C0036391|[cgab,dsyn]|["SJS"-tx-57-"SJS"-noun-0,"SJS"-tx-56-"SJS"-noun-0]|TX|7003/3;6897/3|C05.116.099.708;C16.320.728
+00000000|MMI|28.74|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-40-"Grade 3"-noun-0,"GRADE 3"-tx-38-"Grade 3"-noun-0,"GRADE 3"-tx-37-"Grade 3"-noun-0,"GRADE 3"-tx-32-"Grade 3"-noun-0,"GRADE 3"-tx-30-"Grade 3"-noun-0,"GRADE 3"-tx-28-"Grade 3"-noun-0,"GRADE 3"-tx-6-"Grade 3"-noun-0]|TX|4715/7;4293/7;4123/7;3253/7;3196/7;2916/7;470/7|
+00000000|MMI|25.96|Fever|C0015967|[fndg]|["FEVER"-tx-31-"fever"-noun-0,"FEVER"-tx-5-"fever"-noun-0]|TX|3243/5;459/5|C23.888.119.344
+00000000|MMI|24.11|Febrile Neutropenia|C0746883|[dsyn]|["Febrile Neutropenia"-tx-29-"Febrile neutropenia"-noun-0]|TX|2987/19|C15.378.553.546.184.564.750
+00000000|MMI|22.41|Leukoencephalopathy, Progressive Multifocal|C0023524|[dsyn]|["Progressive multifocal leucoencephalopathy"-tx-48-"Progressive Multifocal Leukoencephalopathy"-noun-0]|TX|5676/42|C02.182.525.500;C02.256.721.500;C02.290.575;C02.839.550;C10.228.140.430.520.750.500;C10.228.140.695.750;C10.228.228.245.340.500;C10.228.228.399.750.500;C10.314.450
+00000000|MMI|20.95|Bacteremia|C0004610|[dsyn]|["Bacteraemia"-tx-33-"bacteremia"-noun-0]|TX|3580/10|C01.252.100;C01.539.757.100;C23.550.470.790.500.100
+00000000|MMI|20.95|Gravidity|C0600457|[fndg]|["PREGNANT"-tx-61-"pregnant"-adj-0]|TX|7675/8|G08.686.340;G08.686.785.760.769.213;N06.850.490.812.250
+00000000|MMI|20.95|Hyperesthesia|C0020453|[sosy]|["HYPERESTHESIA"-tx-20-"hyperesthesia"-noun-0]|TX|1909/13|C10.597.751.791.450;C23.888.592.763.770.450
+00000000|MMI|20.95|Hypesthesia|C0020580|[fndg]|["HYPOESTHESIA"-tx-20-"hypoesthesia"-noun-0]|TX|1895/12|C10.597.751.791.500;C23.888.592.763.770.500
+00000000|MMI|20.95|Paresthesia|C0030554|[dsyn]|["Parasthesia"-tx-20-"paresthesia"-noun-0]|TX|1924/11|C10.597.751.791.875;C23.888.592.763.770.875
+00000000|MMI|20.95|Septic Shock|C0036983|[patf]|["SEPTIC SHOCK"-tx-33-"septic shock"-noun-0]|TX|3606/12|C01.539.757.800;C23.550.470.790.500.800;C23.550.835.900.712
+00000000|MMI|20.87|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-24-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-22-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-22-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-3-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-2-"Anaphylaxis"-noun-0]|TX|2386/11;2229/11;2307/11;269/11;172/11|
+00000000|MMI|20.09|Signs and Symptoms, Respiratory|C0037090|[sosy]|["pulmonary symptoms"-tx-55-"pulmonary symptoms"-noun-0,"pulmonary symptoms"-tx-54-"symptoms pulmonary"-noun-0]|TX|6723/18;6629/8,6641/9|C23.888.852
+00000000|MMI|19.92|Pneumonia|C0032285|[dsyn]|["Pneumonitis"-tx-53-"pneumonitis"-noun-0,"PNEUMONIA"-tx-33-"pneumonia"-noun-0]|TX|6464/11;3569/9|C08.381.677;C08.730.610
+00000000|MMI|18.48|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-54-"symptoms"-noun-0,"SYMPTOMS"-tx-51-"symptoms"-noun-0,"SYMPTOMS"-tx-49-"symptoms"-noun-0,"SYMPTOMS"-tx-20-"symptoms"-noun-0,"SYMPTOMS"-tx-10-"symptoms"-noun-0]|TX|6629/8;6200/8;5834/8;1863/8;1011/8|
+00000000|MMI|18.45|Neuropathy|C0442874|[dsyn]|["NEUROPATHY"-tx-20-"neuropathy"-noun-0,"NEUROPATHY"-tx-19-"neuropathy"-noun-0,"NEUROPATHY"-tx-17-"neuropathy"-noun-0,"NEUROPATHY"-tx-1-"neuropathy"-noun-0]|TX|1875/10;[1764/10],[1793/10];1618/10;100/10|
+00000000|MMI|17.80|Immunosuppression|C4048329|[dsyn]|["Immunosuppression"-tx-50-"immunosuppression"-noun-0]|TX|6100/17|E02.095.465.425.450;E05.478.610
+00000000|MMI|17.80|Neuralgia|C0027796|[sosy]|["Neuropathic Pain"-tx-20-"neuropathic pain"-noun-0]|TX|1970/16|C10.597.617.682;C10.668.829.600;C23.888.592.612.664
+00000000|MMI|17.80|Sepsis|C0243026|[dsyn]|["SEPSIS"-tx-33-"sepsis"-noun-0]|TX|3596/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|17.80|Septicemia|C0036690|[dsyn]|["Sepsis"-tx-33-"sepsis"-noun-0]|TX|3596/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|16.08|Maternal Exposure|C0243033|[inpo]|["Maternal Exposures"-tx-60-"maternal exposures"-noun-0]|TX|7487/18|N06.850.460.350.145
+00000000|MMI|15.79|Death (finding)|C1306577|[fndg]|["Death"-tx-48-"death"-noun-0,"DEATHS"-tx-40-"deaths"-noun-0,"DEATHS"-tx-37-"deaths"-noun-0]|TX|5765/5;4745/6;4153/6|
+00000000|MMI|15.43|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-40-"adverse reactions"-noun-0,"Adverse reactions"-tx-38-"adverse reactions"-noun-0,"Adverse reactions"-tx-37-"adverse reactions"-noun-0,"Adverse reactions"-tx-21-"Adverse Reactions"-noun-0]|TX|4723/17;4301/17;4131/17;2188/17|
+00000000|MMI|15.17|Neutrophil count decreased|C0853697|[fndg]|["Neutropenia"-tx-32-"neutropenia"-noun-0,"Neutropenia"-tx-30-"neutropenia"-noun-0,"Neutropenia"-tx-28-"neutropenia"-noun-0,"Neutropenia"-tx-6-"neutropenia"-noun-0]|TX|3266/11;3209/11;2900/11;483/11|
+00000000|MMI|14.64|Coughing|C0010200|[sosy]|["COUGH"-tx-54-"cough"-noun-0]|TX|6671/5|C08.618.248;C23.888.852.293
+00000000|MMI|14.64|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-54-"dyspnea"-noun-0]|TX|6681/7|C08.618.326;C23.888.852.371
+00000000|MMI|14.64|Worse|C1457868|[fndg]|["Worsening"-tx-55-"worsening"-adj-0,"Worsening"-tx-47-"worsening"-verb-0,"Worsening"-tx-21-"worsening"-adj-0,"Worsening"-tx-10-"worsening"-adj-0]|TX|6713/9;5554/9;2030/9;1001/9|
+00000000|MMI|13.68|Infection|C3714514|[patf]|["Infections"-tx-33-"Infections"-noun-0,"Infections"-tx-7-"infections"-noun-0]|TX|3468/10;623/10|C01.539
+00000000|MMI|13.09|Thrombocytopenia|C0040034|[fndg]|["Thrombocytopaenia"-tx-28-"thrombocytopenia"-noun-0]|TX|2935/16|C15.378.140.855
+00000000|MMI|11.70|Hepatic impairment|C0948807|[dsyn]|["Hepatic impairment"-tx-41-"hepatic impairment"-noun-0,"Hepatic impairment"-tx-40-"Hepatic Impairment"-noun-0,"Hepatic impairment"-tx-40-"hepatic impairment"-noun-0]|TX|4963/18;4669/18;4801/18|
+00000000|MMI|11.49|Anemia|C0002871|[dsyn]|["ANEMIA"-tx-28-"anemia"-noun-0]|TX|2955/6|C15.378.071
+00000000|MMI|11.49|Lung Diseases, Interstitial|C0206062|[dsyn]|["INTERSTITIAL LUNG DISEASE"-tx-53-"interstitial lung disease"-noun-0]|TX|6477/25|C08.381.483
+00000000|MMI|11.49|Pneumonitis|C3714636|[dsyn]|["PNEUMONITIS"-tx-53-"pneumonitis"-noun-0]|TX|6464/11|C08.381.677;C08.730.610
+00000000|MMI|11.49|Respiratory Distress Syndrome, Adult|C0035222|[dsyn]|["Acute Respiratory Distress Syndrome"-tx-53-"acute respiratory distress syndrome"-noun-0]|TX|6508/35|C08.381.840;C08.618.840
+00000000|MMI|11.31|Adverse reaction to drug or medicament administered by infusion|C2368034|[patf]|["Infusion reaction"-tx-22-"Infusion Reactions"-noun-0,"Infusion reaction"-tx-2-"infusion reaction"-noun-0,"Infusion reaction"-tx-2-"infusion reactions"-noun-0]|TX|2245/18;215/17;188/18|
+00000000|MMI|11.03|Tumor Lysis Syndrome Adverse Event|C1963254|[fndg]|["Tumor lysis syndrome"-tx-35-"Tumor Lysis Syndrome"-noun-0,"Tumor lysis syndrome"-tx-35-"tumor lysis syndrome"-noun-0,"Tumor lysis syndrome"-tx-8-"Tumor lysis syndrome"-noun-0]|TX|3835/20;3953/20;765/20|
+00000000|MMI|11.02|Hepatotoxicity|C0235378|[inpo]|["HEPATOTOXICITY"-tx-47-"hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-42-"Hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-9-"Hepatotoxicity"-noun-0]|TX|5578/14;5056/14;883/14|
+00000000|MMI|10.86|10%|C3842590|[fndg]|["10%"-tx-53-"10"-real_number-0,"10%"-tx-11-"10"-real_number-0,"10%"-tx-10-"10"-real_number-0]|TX|6381/2;1151/2;1024/2|
+00000000|MMI|10.67|4+ Answer to question|C3838679|[fndg]|["4+"-tx-32-"4"-integer-0,"4+"-tx-30-"4"-integer-0,"4+"-tx-6-"4"-integer-0]|TX|3264/1;3207/1;481/1|
+00000000|MMI|10.42|Neoplasms|C0027651|[neop]|["Tumour NOS"-tx-35-"tumor"-noun-0,"Tumour NOS"-tx-8-"tumor"-noun-0]|TX|3897/5;840/5|C04
+00000000|MMI|10.42|Normal renal function|C0232805|[fndg]|["Normal renal function"-tx-38-"normal renal function"-noun-0,"Normal renal function"-tx-37-"normal renal function"-noun-0]|TX|4407/21;4239/21|
+00000000|MMI|10.42|Tumor Mass|C3273930|[fndg]|["Tumor"-tx-35-"tumor"-noun-0,"Tumor"-tx-8-"tumor"-noun-0]|TX|3897/5;840/5|
+00000000|MMI|10.42|Virus Diseases|C0042769|[dsyn]|["Infections, Viral"-tx-34-"viral infections"-noun-0,"Infections, Viral"-tx-7-"viral infections"-noun-0]|TX|3806/16;732/16|C02
+00000000|MMI|9.99|Disease|C0012634|[dsyn]|["DISEASE"-tx-50-"disease"-noun-0]|TX|6077/7|C23.550.288
+00000000|MMI|7.95|Infusion related reaction|C0948715|[sosy]|["Infusion related reaction"-tx-26-"infusion-related reaction"-noun-0,"Infusion related reaction"-tx-25-"infusion-related reaction"-noun-0]|TX|2677/25;2523/25|
+00000000|MMI|7.40|2+|C3833492|[fndg]|["2+"-tx-32-"2"-real_number-0,"2+"-tx-21-"2"-real_number-0]|TX|3431/1;2170/1|
+00000000|MMI|7.32|Pulmonary toxicity|C0919924|[patf]|["Pulmonary toxicity"-tx-54-"pulmonary toxicity"-noun-0,"Pulmonary toxicity"-tx-10-"Pulmonary Toxicity"-noun-0]|TX|6641/18;952/18|
+00000000|MMI|7.27|Congenital Abnormality|C0000768|[cgab]|["Foetal malformation"-tx-60-"fetal malformations"-noun-0]|TX|7452/19|C16.131
+00000000|MMI|7.21|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-49-"exposure"-noun-0,"Exposure NOS"-tx-38-"exposure"-noun-0]|TX|5959/8;4281/8|
+00000000|MMI|7.21|exposure history|C2220266|[fndg]|["exposure"-tx-49-"exposure"-noun-0,"exposure"-tx-38-"exposure"-noun-0]|TX|5959/8;4281/8|
+00000000|MMI|7.18|Diagnosis|C0011900|[fndg]|["DIAGNOSIS"-tx-52-"diagnosis"-noun-0,"DIAGNOSIS"-tx-51-"diagnosis"-noun-0]|TX|6338/9;6132/9|E01
+00000000|MMI|7.10|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-50-"therapy"-noun-0,"Therapy"-tx-49-"therapy"-noun-0]|TX|5993/7;5897/7|
+00000000|MMI|6.93|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-31-"fever"-noun-0,"Fever"-tx-5-"fever"-noun-0]|TX|3243/5;459/5|
+00000000|MMI|6.90|Physical findings|C0311392|[fndg]|["SIGNS"-tx-54-"signs"-noun-0,"SIGNS"-tx-51-"signs"-noun-0]|TX|6619/5;6190/5|
+00000000|MMI|5.18|20%|C3842589|[fndg]|["20%"-tx-18-"20"-percentage-0]|TX|1711/2|
+00000000|MMI|5.18|Actual Discomfort|C2364135|[sosy]|["Discomfort"-tx-20-"discomfort"-noun-0]|TX|1937/10|
+00000000|MMI|5.18|Burning sensation|C0085624|[sosy]|["BURNING SENSATION"-tx-20-"burning sensation"-noun-0]|TX|1951/17|
+00000000|MMI|5.18|Burning sensation of skin|C0241057|[sosy]|["burning sensation"-tx-20-"burning sensation"-noun-0]|TX|1951/17|
+00000000|MMI|5.18|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-54-"cough"-noun-0]|TX|6671/5|
+00000000|MMI|5.18|Creatinine clearance|C0812399|[fndg]|["Creatinine clearance"-tx-39-"creatinine clearance"-noun-0]|TX|4498/20|
+00000000|MMI|5.18|Decreased Immunologic Activity [PE]|C1373218|[patf]|["Immunosuppression"-tx-50-"immunosuppression"-noun-0]|TX|6100/17|
+00000000|MMI|5.18|Has tingling sensation|C2242996|[sosy]|["paresthesia"-tx-20-"paresthesia"-noun-0]|TX|1924/11|
+00000000|MMI|5.18|Malaise|C0231218|[sosy]|["DISCOMFORT"-tx-20-"discomfort"-noun-0]|TX|1937/10|
+00000000|MMI|5.18|Neuropathic pain|C3714625|[fndg]|["NEUROPATHIC PAIN"-tx-20-"neuropathic pain"-noun-0]|TX|1970/16|
+00000000|MMI|5.18|Patient currently pregnant|C0549206|[fndg]|["Pregnant"-tx-61-"pregnant"-adj-0]|TX|7675/8|
+00000000|MMI|5.18|Weakness|C3714552|[sosy]|["WEAKNESS"-tx-20-"weakness"-noun-0]|TX|1991/8|
+00000000|MMI|3.81|Elevated liver enzymes|C0235996|[fndg]|["ELEVATED LIVER ENZYMES"-tx-45-"elevated liver enzymes"-noun-0]|TX|5401/8,5419/13|
+00000000|MMI|3.78|<30 min|C3842955|[fndg]|["<30 min"-tx-39-"30 min"-noun-0]|TX|4527/2,4533/3|
+00000000|MMI|3.78|Pre-existing condition|C0521987|[fndg]|["Pre-existing disease"-tx-45-"Preexisting disease"-noun-0]|TX|5374/11,5392/7|
+00000000|MMI|3.68|physiologic resolution|C1514893|[patf]|["Resolution"-tx-18-"resolution"-noun-0]|TX|1666/10|
+00000000|MMI|3.64|JC virus infection|C0857836|[dsyn]|["JC virus infection"-tx-48-"JC virus infection"-noun-0]|TX|5725/18|
+00000000|MMI|3.59|Possible pregnancy (finding)|C0425965|[fndg]|["? Pregnancy"-tx-61-"pregnancy"-noun-0]|TX|7638/9|
+00000000|MMI|3.59|Used by|C1273517|[fndg]|["used"-tx-61-"used"-verb-0]|TX|7626/4|
+00000000|MMI|3.58|patient symptoms|C1317600|[fndg]|["patients symptoms"-tx-20-"patients symptoms"-noun-0]|TX|1850/8,1863/8|
+00000000|MMI|3.57|School Grade|C3244287|[fndg]|["grade"-tx-17-"grade"-noun-0]|TX|1609/5|
+00000000|MMI|3.55|Toxic nephropathy|C0595916|[patf]|["TOXICITY RENAL"-tx-37-"Toxicity Renal"-noun-0]|TX|4044/8,4079/5|
+00000000|MMI|3.53|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["Grade 4"-tx-28-"Grade 4"-noun-0]|TX|2927/7|
+00000000|MMI|3.53|West Haven Hepatic Encephalopathy Grade 4|C3889293|[fndg]|["GRADE 4"-tx-28-"Grade 4"-noun-0]|TX|2927/7|
+00000000|MMI|3.52|Congenital anomaly of central nervous system|C0151490|[cgab]|["Central nervous system Abnormalities"-tx-51-"central nervous system abnormalities"-noun-0]|TX|6212/36|
+00000000|MMI|3.50|Peripheral motor neuropathy|C0235025|[dsyn]|["PERIPHERAL MOTOR NEUROPATHY"-tx-15-"peripheral motor neuropathy"-noun-0]|TX|1414/27|
+00000000|MMI|3.48|Liver damage|C0151763|[patf]|["Hepatocellular Injury"-tx-43-"hepatocellular injury"-noun-0]|TX|5211/21|
+00000000|MMI|3.48|30%|C3842588|[fndg]|["30%"-tx-39-"30"-integer-0]|TX|4527/2|
+00000000|MMI|3.48|Gait normal|C0231683|[fndg]|["Normal"-tx-40-"normal"-adj-0]|TX|4846/6|
+00000000|MMI|3.47|5 - 9|C3840622|[fndg]|["5 - 9"-tx-48-"5.9"-real_number-0]|TX|5672/3|
+00000000|MMI|3.46|Related personal status|C0445223|[fndg]|["Related"-tx-22-"related"-adj-0]|TX|2278/7|
+00000000|MMI|3.44|new onset|C0746890|[fndg]|["NEW ONSET"-tx-51-"new-onset"-adj-0]|TX|6180/9|
+00000000|MMI|3.43|5 - Moderate|C4035847|[fndg]|["5 - Moderate"-tx-40-"5 Moderate"-adj-0]|TX|4608/1,4650/8|
+00000000|MMI|3.43|5-6|C3843715|[fndg]|["5-6"-tx-37-"5.6"-real_number-0]|TX|4030/3|
+00000000|MMI|3.43|6/5|C0442749|[fndg]|["5 6"-tx-37-"5.6"-real_number-0]|TX|4030/3|
+00000000|MMI|3.42|Impaired health|C0684336|[patf]|["Impairment"-tx-37-"Impairment"-noun-0]|TX|4085/10|

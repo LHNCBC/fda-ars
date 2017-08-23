@@ -1,0 +1,319 @@
+T1	AdverseReaction 112 139	Application-Associated Pain
+T2	AdverseReaction 188 214	Increase in Blood Pressure
+T3	AdverseReaction 347 372	application site erythema
+T4	AdverseReaction 374 395	application site pain
+T5	AdverseReaction 397 422	application site pruritus
+T6	AdverseReaction 427 451	application site papules
+T7	AdverseReaction 1552 1577	application site erythema
+T8	AdverseReaction 1579 1600	application site pain
+T9	AdverseReaction 1602 1627	application site pruritus
+T10	AdverseReaction 1632 1656	application site papules
+T11	AdverseReaction 1888 1914	application site reactions
+T12	Severity 1920 1929	transient
+T13	AdverseReaction 1958 1975	increases in pain
+T14	Severity 1948 1957	Transient
+T15	AdverseReaction 2057 2071	Pain increases
+T17	AdverseReaction 2868 2893	Application Site Erythema
+T18	AdverseReaction 2977 2998	Application Site Pain
+T19	AdverseReaction 3086 3111	Application Site Pruritus
+T20	AdverseReaction 3195 3219	Application Site Papules
+T21	AdverseReaction 3304 3326	Application Site Edema
+T22	AdverseReaction 3413 3438	Application Site Swelling
+T23	AdverseReaction 3522 3546	Application Site Dryness
+T24	AdverseReaction 3740 3755	Nasopharyngitis
+T25	AdverseReaction 3849 3859	Bronchitis
+T26	AdverseReaction 3958 3967	Sinusitis
+T27	AdverseReaction 4176 4182	Nausea
+T28	AdverseReaction 4285 4293	Vomiting
+T29	AdverseReaction 4503 4511	Pruritus
+T30	AdverseReaction 4721 4733	Hypertension
+T31	AdverseReaction 4974 5000	Application site urticaria
+T32	AdverseReaction 5002 5030	Application site paresthesia
+T33	AdverseReaction 5032 5059	Application site dermatitis
+T34	AdverseReaction 5061 5091	Application site hyperesthesia
+T35	AdverseReaction 5093 5121	Application site excoriation
+T36	AdverseReaction 5123 5146	Application site warmth
+T37	AdverseReaction 5148 5175	Application site anesthesia
+T38	AdverseReaction 5177 5202	Application site bruising
+T39	AdverseReaction 5204 5233	Application site inflammation
+T40	AdverseReaction 5235 5263	Application site exfoliation
+T41	AdverseReaction 5265 5281	Peripheral edema
+T42	AdverseReaction 5312 5320	Headache
+T43	AdverseReaction 5322 5339	Burning sensation
+T44	AdverseReaction 5341 5370	Peripheral sensory neuropathy
+T45	AdverseReaction 5372 5381	Dizziness
+T46	AdverseReaction 5383 5392	Dysgeusia
+T47	AdverseReaction 5394 5407	Hyperesthesia
+T48	AdverseReaction 5409 5421	Hypoesthesia
+T49	AdverseReaction 5475 5480	Cough
+T50	AdverseReaction 5482 5499	Throat irritation
+T51	AdverseReaction 5544 5562	Abnormal skin odor
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11 Effect:E12
+E12	Severity:T12
+E13	AdverseReaction:T11
+E14	AdverseReaction:T13 Effect:E15
+E15	Severity:T14
+E16	AdverseReaction:T15
+E18	AdverseReaction:T17
+E19	AdverseReaction:T18
+E20	AdverseReaction:T19
+E21	AdverseReaction:T20
+E22	AdverseReaction:T21
+E23	AdverseReaction:T22
+E24	AdverseReaction:T23
+E25	AdverseReaction:T24
+E26	AdverseReaction:T25
+E27	AdverseReaction:T26
+E28	AdverseReaction:T27
+E29	AdverseReaction:T28
+E30	AdverseReaction:T29
+E31	AdverseReaction:T30
+E32	AdverseReaction:T31
+E33	AdverseReaction:T32
+E34	AdverseReaction:T33
+E35	AdverseReaction:T34
+E36	AdverseReaction:T35
+E37	AdverseReaction:T36
+E38	AdverseReaction:T37
+E39	AdverseReaction:T38
+E40	AdverseReaction:T39
+E41	AdverseReaction:T40
+E42	AdverseReaction:T41
+E43	AdverseReaction:T42
+E44	AdverseReaction:T43
+E45	AdverseReaction:T44
+E46	AdverseReaction:T45
+E47	AdverseReaction:T46
+E48	AdverseReaction:T47
+E49	AdverseReaction:T48
+E50	AdverseReaction:T49
+E51	AdverseReaction:T50
+E52	AdverseReaction:T51
+A1	CUI E1 C0521491
+A2	UMLS-Preferred-Name E1 Application site pain
+A3	MEDDRA-PT E1 Application site pain
+A4	MEDDRA-PT-ID E1 10003051
+A5	LLT E1 Pain after application
+A6	LLT-ID E1 10033375
+A7	CUI E2 C0497247
+A8	UMLS-Preferred-Name E2 Increase in blood pressure
+A9	MEDDRA-PT E2 Blood pressure increased
+A10	MEDDRA-PT-ID E2 10005750
+A11	CUI E3 C0853700
+A12	UMLS-Preferred-Name E3 Application site erythema
+A13	MEDDRA-PT E3 Application site erythema
+A14	MEDDRA-PT-ID E3 10003041
+A15	CUI E4 C0521491
+A16	UMLS-Preferred-Name E4 Application site pain
+A17	MEDDRA-PT E4 Application site pain
+A18	MEDDRA-PT-ID E4 10003051
+A19	CUI E5 C0853714
+A20	UMLS-Preferred-Name E5 Application site pruritus
+A21	MEDDRA-PT E5 Application site pruritus
+A22	MEDDRA-PT-ID E5 10003053
+A23	CUI E6 C0877127
+A24	UMLS-Preferred-Name E6 Application site papules
+A25	MEDDRA-PT E6 Application site papules
+A26	MEDDRA-PT-ID E6 10049043
+A27	CUI E7 C0853700
+A28	UMLS-Preferred-Name E7 Application site erythema
+A29	MEDDRA-PT E7 Application site erythema
+A30	MEDDRA-PT-ID E7 10003041
+A31	CUI E8 C0521491
+A32	UMLS-Preferred-Name E8 Application site pain
+A33	MEDDRA-PT E8 Application site pain
+A34	MEDDRA-PT-ID E8 10003051
+A35	CUI E9 C0853714
+A36	UMLS-Preferred-Name E9 Application site pruritus
+A37	MEDDRA-PT E9 Application site pruritus
+A38	MEDDRA-PT-ID E9 10003053
+A39	CUI E10 C0877127
+A40	UMLS-Preferred-Name E10 Application site papules
+A41	MEDDRA-PT E10 Application site papules
+A42	MEDDRA-PT-ID E10 10049043
+A43	CUI E11 C0151505
+A44	UMLS-Preferred-Name E11 Application site reaction
+A45	MEDDRA-PT E11 Application site reaction
+A46	MEDDRA-PT-ID E11 10003055
+A47	CUI E14 C0853946
+A48	UMLS-Preferred-Name E14 Pain worsened
+A49	MEDDRA-PT E14 Pain
+A50	MEDDRA-PT-ID E14 10033371
+A51	LLT E14 Exacerbation of pain
+A52	LLT-ID E14 10015579
+A53	CUI E16 C0853946
+A54	UMLS-Preferred-Name E16 Pain worsened
+A55	MEDDRA-PT E16 Pain
+A56	MEDDRA-PT-ID E16 10033371
+A57	LLT E16 Pain worsened
+A58	LLT-ID E16 10033499
+A59	CUI E18 C0853700
+A60	UMLS-Preferred-Name E18 Application site erythema
+A61	MEDDRA-PT E18 Application site erythema
+A62	MEDDRA-PT-ID E18 10003041
+A63	CUI E19 C0521491
+A64	UMLS-Preferred-Name E19 Application site pain
+A65	MEDDRA-PT E19 Application site pain
+A66	MEDDRA-PT-ID E19 10003051
+A67	CUI E20 C0853714
+A68	UMLS-Preferred-Name E20 Application site pruritus
+A69	MEDDRA-PT E20 Application site pruritus
+A70	MEDDRA-PT-ID E20 10003053
+A71	CUI E21 C0877127
+A72	UMLS-Preferred-Name E21 Application site papules
+A73	MEDDRA-PT E21 Application site papules
+A74	MEDDRA-PT-ID E21 10049043
+A75	CUI E22 C0234936
+A76	UMLS-Preferred-Name E22 Application site edema
+A77	MEDDRA-PT E22 Application site oedema
+A78	MEDDRA-PT-ID E22 10003050
+A79	LLT E22 Application site edema
+A80	LLT-ID E22 10003040
+A81	CUI E23 C1096001
+A82	UMLS-Preferred-Name E23 Application site swelling
+A83	MEDDRA-PT E23 Application site swelling
+A84	MEDDRA-PT-ID E23 10053424
+A85	CUI E24 C0877098
+A86	UMLS-Preferred-Name E24 Application site dryness
+A87	MEDDRA-PT E24 Application site dryness
+A88	MEDDRA-PT-ID E24 10048943
+A89	CUI E25 C0027441
+A90	UMLS-Preferred-Name E25 Nasopharyngitis
+A91	MEDDRA-PT E25 Nasopharyngitis
+A92	MEDDRA-PT-ID E25 10028810
+A93	CUI E26 C0006277
+A94	UMLS-Preferred-Name E26 Bronchitis
+A95	MEDDRA-PT E26 Bronchitis
+A96	MEDDRA-PT-ID E26 10006451
+A97	CUI E27 C0037199
+A98	UMLS-Preferred-Name E27 Sinusitis
+A99	MEDDRA-PT E27 Sinusitis
+A100	MEDDRA-PT-ID E27 10040753
+A101	CUI E28 C0027497
+A102	UMLS-Preferred-Name E28 Nausea
+A103	MEDDRA-PT E28 Nausea
+A104	MEDDRA-PT-ID E28 10028813
+A105	CUI E29 C0042963
+A106	UMLS-Preferred-Name E29 Vomiting
+A107	MEDDRA-PT E29 Vomiting
+A108	MEDDRA-PT-ID E29 10047700
+A109	CUI E30 C0033774
+A110	UMLS-Preferred-Name E30 Pruritus
+A111	MEDDRA-PT E30 Pruritus
+A112	MEDDRA-PT-ID E30 10037087
+A113	CUI E31 C0020538
+A114	UMLS-Preferred-Name E31 Hypertensive disease
+A115	MEDDRA-PT E31 Hypertension
+A116	MEDDRA-PT-ID E31 10020772
+A117	CUI E32 C0919603
+A118	UMLS-Preferred-Name E32 Application site urticaria
+A119	MEDDRA-PT E32 Application site urticaria
+A120	MEDDRA-PT-ID E32 10050104
+A121	CUI E33 C0877096
+A122	UMLS-Preferred-Name E33 Application site paraesthesia
+A123	MEDDRA-PT E33 Application site paraesthesia
+A124	MEDDRA-PT-ID E33 10050103
+A125	LLT E33 Application site paresthesia
+A126	LLT-ID E33 10048940
+A127	CUI E34 C0521495
+A128	UMLS-Preferred-Name E34 Application site rash
+A129	MEDDRA-PT E34 Application site dermatitis
+A130	MEDDRA-PT-ID E34 10003036
+A131	CUI E35 C0919600
+A132	UMLS-Preferred-Name E35 Application site hyperaesthesia
+A133	MEDDRA-PT E35 Application site hyperaesthesia
+A134	MEDDRA-PT-ID E35 10050100
+A135	LLT E35 Application site hyperesthesia
+A136	LLT-ID E35 10054328
+A137	CUI E36 C1142498
+A138	UMLS-Preferred-Name E36 Application site excoriation
+A139	MEDDRA-PT E36 Application site erosion
+A140	MEDDRA-PT-ID E36 10065577
+A141	LLT E36 Application site excoriation
+A142	LLT-ID E36 10059006
+A143	CUI E37 C0858794
+A144	UMLS-Preferred-Name E37 Application site warmth
+A145	MEDDRA-PT E37 Application site warmth
+A146	MEDDRA-PT-ID E37 10003060
+A147	CUI E38 C0234943
+A148	UMLS-Preferred-Name E38 Application site anesthesia
+A149	MEDDRA-PT E38 Application site anaesthesia
+A150	MEDDRA-PT-ID E38 10003033
+A151	LLT E38 Application site anesthesia
+A152	LLT-ID E38 10003034
+A153	CUI E39 C0877095
+A154	UMLS-Preferred-Name E39 Application site haematoma
+A155	MEDDRA-PT E39 Application site bruise
+A156	MEDDRA-PT-ID E39 10050114
+A157	LLT E39 Application site bruising
+A158	LLT-ID E39 10048939
+A159	CUI E40 C0877126
+A160	UMLS-Preferred-Name E40 Application site inflammation
+A161	MEDDRA-PT E40 Application site inflammation
+A162	MEDDRA-PT-ID E40 10049042
+A163	CUI E41 C1610049
+A164	UMLS-Preferred-Name E41 Application site exfoliation
+A165	MEDDRA-PT E41 Application site exfoliation
+A166	MEDDRA-PT-ID E41 10064578
+A167	CUI E42 C0085649
+A168	UMLS-Preferred-Name E42 Peripheral edema
+A169	MEDDRA-PT E42 Oedema peripheral
+A170	MEDDRA-PT-ID E42 10030124
+A171	LLT E42 Peripheral edema
+A172	LLT-ID E42 10034570
+A173	CUI E43 C0018681
+A174	UMLS-Preferred-Name E43 Headache
+A175	MEDDRA-PT E43 Headache
+A176	MEDDRA-PT-ID E43 10019211
+A177	CUI E44 C0085624
+A178	UMLS-Preferred-Name E44 Burning sensation
+A179	MEDDRA-PT E44 Burning sensation
+A180	MEDDRA-PT-ID E44 10006784
+A181	CUI E45 C0151313
+A182	UMLS-Preferred-Name E45 Sensory neuropathy
+A183	MEDDRA-PT E45 Peripheral sensory neuropathy
+A184	MEDDRA-PT-ID E45 10034620
+A185	CUI E46 C0012833
+A186	UMLS-Preferred-Name E46 Dizziness
+A187	MEDDRA-PT E46 Dizziness
+A188	MEDDRA-PT-ID E46 10013573
+A189	CUI E47 C0013378
+A190	UMLS-Preferred-Name E47 Dysgeusia
+A191	MEDDRA-PT E47 Dysgeusia
+A192	MEDDRA-PT-ID E47 10013911
+A193	CUI E48 C0020453
+A194	UMLS-Preferred-Name E48 Hyperesthesia
+A195	MEDDRA-PT E48 Hyperaesthesia
+A196	MEDDRA-PT-ID E48 10020568
+A197	LLT E48 Hyperesthesia
+A198	LLT-ID E48 10020622
+A199	CUI E49 C0020580
+A200	UMLS-Preferred-Name E49 Hypesthesia
+A201	MEDDRA-PT E49 Hypoaesthesia
+A202	MEDDRA-PT-ID E49 10020937
+A203	LLT E49 Hypoesthesia
+A204	LLT-ID E49 10020976
+A205	CUI E50 C0010200
+A206	UMLS-Preferred-Name E50 Coughing
+A207	MEDDRA-PT E50 Cough
+A208	MEDDRA-PT-ID E50 10011224
+A209	CUI E51 C0700184
+A210	UMLS-Preferred-Name E51 Throat irritation
+A211	MEDDRA-PT E51 Throat irritation
+A212	MEDDRA-PT-ID E51 10043521
+A213	CUI E52 C0234930
+A214	UMLS-Preferred-Name E52 Skin odour abnormal
+A215	MEDDRA-PT E52 Skin odour abnormal
+A216	MEDDRA-PT-ID E52 10040904
+A217	LLT E52 Skin odor abnormal
+A218	LLT-ID E52 10040903

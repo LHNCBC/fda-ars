@@ -1,0 +1,394 @@
+T1	AdverseReaction 140 166	Hypersensitivity reactions
+T2	AdverseReaction 213 225	Pancreatitis
+T3	AdverseReaction 272 291	Glucose intolerance
+T4	AdverseReaction 338 348	Thrombosis
+T5	AdverseReaction 496 521	systemic hypersensitivity
+T6	AdverseReaction 523 536	hyperglycemia
+T7	AdverseReaction 538 560	transaminases abnormal
+T8	AdverseReaction 562 567	fever
+T9	AdverseReaction 569 581	pancreatitis
+T10	AdverseReaction 583 598	local reactions
+T11	AdverseReaction 600 608	vomiting
+T12	AdverseReaction 610 616	nausea
+T13	AdverseReaction 618 628	thrombosis
+T14	AdverseReaction 630 648	hyperbilirubinemia
+T15	AdverseReaction 650 664	abdominal pain
+T16	AdverseReaction 650 659;665 675	abdominal discomfort
+T17	AdverseReaction 681 689	diarrhea
+T18	AdverseReaction 769 794	systemic hypersensitivity
+T19	AdverseReaction 796 809	hyperglycemia
+T20	AdverseReaction 811 833	transaminases abnormal
+T21	AdverseReaction 835 840	fever
+T22	AdverseReaction 842 854	pancreatitis
+T23	AdverseReaction 856 871	local reactions
+T24	AdverseReaction 873 881	vomiting
+T25	AdverseReaction 883 889	nausea
+T26	AdverseReaction 891 901	thrombosis
+T27	AdverseReaction 903 921	hyperbilirubinemia
+T28	AdverseReaction 923 937	abdominal pain
+T29	AdverseReaction 923 932;938 948	abdominal discomfort
+T30	AdverseReaction 954 962	diarrhea
+T32	AdverseReaction 4798 4805	allergy
+T33	AdverseReaction 4807 4819	pancreatitis
+T34	AdverseReaction 4821 4833	coagulopathy
+T35	AdverseReaction 4835 4845	hemorrhage
+T36	AdverseReaction 4847 4857	thrombosis
+T37	AdverseReaction 4861 4868	infarct
+T38	AdverseReaction 4871 4889	hyperbilirubinemia
+T39	AdverseReaction 4891 4904	hyperglycemia
+T40	AdverseReaction 4906 4920	hyperlipidemia
+T41	AdverseReaction 4922 4934	ketoacidosis
+T42	AdverseReaction 4940 4950	CNS events
+T43	AdverseReaction 4940 4943;4952 4962	CNS hemorrhage
+T44	AdverseReaction 4940 4943;4964 4974	CNS thrombosis
+T45	AdverseReaction 4940 4943;4978 4988	CNS infarction
+T46	AdverseReaction 4994 5020	cerebral venous thrombosis
+T51	AdverseReaction 6131 6156	hypersensitivity reaction
+T52	AdverseReaction 6473 6499	hypersensitivity reactions
+T55	AdverseReaction 6654 6680	hypersensitivity reactions
+T56	Factor 6646 6650	risk
+T57	AdverseReaction 5337 5355	allergic reactions
+T58	AdverseReaction 5357 5374	thrombotic events
+T59	AdverseReaction 5376 5394	hemorrhagic events
+T60	AdverseReaction 5396 5419	hepatobiliary disorders
+T61	AdverseReaction 5421 5441	pancreatic disorders
+T62	AdverseReaction 5447 5460	hyperglycemia
+T63	Factor 5279 5319	forms specifically requested information
+T31	AdverseReaction 2759 2777	allergic reactions
+T47	AdverseReaction 353 363	hemorrhage
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E55	AdverseReaction:T55 Hypothetical:E56
+E56	Factor:T56
+E57	AdverseReaction:T57 Negated:E63
+E58	AdverseReaction:T58 Negated:E63
+E59	AdverseReaction:T59 Negated:E63
+E60	AdverseReaction:T60 Negated:E63
+E61	AdverseReaction:T61 Negated:E63
+E62	AdverseReaction:T62 Negated:E63
+E63	Factor:T63
+E31	AdverseReaction:T31
+E47	AdverseReaction:T47
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	LLT E1 Hypersensitivity reaction
+A6	LLT-ID E1 10020756
+A7	CUI E2 C0030305
+A8	UMLS-Preferred-Name E2 Pancreatitis
+A9	MEDDRA-PT E2 Pancreatitis
+A10	MEDDRA-PT-ID E2 10033645
+A11	CUI E3 C0271650
+A12	UMLS-Preferred-Name E3 Impaired glucose tolerance
+A13	MEDDRA-PT E3 Glucose tolerance impaired
+A14	MEDDRA-PT-ID E3 10018429
+A15	LLT E3 Glucose intolerance
+A16	LLT-ID E3 10052426
+A17	CUI E4 C0040053
+A18	UMLS-Preferred-Name E4 Thrombosis
+A19	MEDDRA-PT E4 Thrombosis
+A20	MEDDRA-PT-ID E4 10043607
+A21	CUI E5 C1736167
+A22	UMLS-Preferred-Name E5 Systemic allergic reaction
+A23	MEDDRA-PT E5 Hypersensitivity
+A24	MEDDRA-PT-ID E5 10020751
+A25	LLT E5 Systemic allergic reaction
+A26	LLT-ID E5 10066472
+A27	CUI E6 C0020456
+A28	UMLS-Preferred-Name E6 Hyperglycemia
+A29	MEDDRA-PT E6 Hyperglycaemia
+A30	MEDDRA-PT-ID E6 10020635
+A31	LLT E6 Hyperglycemia
+A32	LLT-ID E6 10020639
+A33	CUI E7 C1328397
+A34	UMLS-Preferred-Name E7 Transaminases abnormal
+A35	MEDDRA-PT E7 Transaminases abnormal
+A36	MEDDRA-PT-ID E7 10062688
+A37	CUI E8 C0015967
+A38	UMLS-Preferred-Name E8 Fever
+A39	MEDDRA-PT E8 Pyrexia
+A40	MEDDRA-PT-ID E8 10037660
+A41	LLT E8 Fever
+A42	LLT-ID E8 10016558
+A43	CUI E9 C0030305
+A44	UMLS-Preferred-Name E9 Pancreatitis
+A45	MEDDRA-PT E9 Pancreatitis
+A46	MEDDRA-PT-ID E9 10033645
+A47	CUI E10 C0853813
+A48	UMLS-Preferred-Name E10 Local reaction
+A49	MEDDRA-PT E10 Local reaction
+A50	MEDDRA-PT-ID E10 10024769
+A51	CUI E11 C0042963
+A52	UMLS-Preferred-Name E11 Vomiting
+A53	MEDDRA-PT E11 Vomiting
+A54	MEDDRA-PT-ID E11 10047700
+A55	CUI E12 C0027497
+A56	UMLS-Preferred-Name E12 Nausea
+A57	MEDDRA-PT E12 Nausea
+A58	MEDDRA-PT-ID E12 10028813
+A59	CUI E13 C0040053
+A60	UMLS-Preferred-Name E13 Thrombosis
+A61	MEDDRA-PT E13 Thrombosis
+A62	MEDDRA-PT-ID E13 10043607
+A63	CUI E14 C0020433
+A64	UMLS-Preferred-Name E14 Hyperbilirubinemia
+A65	MEDDRA-PT E14 Hyperbilirubinaemia
+A66	MEDDRA-PT-ID E14 10020578
+A67	LLT E14 Hyperbilirubinemia
+A68	LLT-ID E14 10020582
+A69	CUI E15 C0000737
+A70	UMLS-Preferred-Name E15 Abdominal Pain
+A71	MEDDRA-PT E15 Abdominal pain
+A72	MEDDRA-PT-ID E15 10000081
+A73	CUI E16 C0232487
+A74	UMLS-Preferred-Name E16 Abdominal discomfort
+A75	MEDDRA-PT E16 Abdominal discomfort
+A76	MEDDRA-PT-ID E16 10000059
+A77	CUI E17 C0011991
+A78	UMLS-Preferred-Name E17 Diarrhea
+A79	MEDDRA-PT E17 Diarrhoea
+A80	MEDDRA-PT-ID E17 10012735
+A81	LLT E17 Diarrhea
+A82	LLT-ID E17 10012727
+A83	CUI E18 C1736167
+A84	UMLS-Preferred-Name E18 Systemic allergic reaction
+A85	MEDDRA-PT E18 Hypersensitivity
+A86	MEDDRA-PT-ID E18 10020751
+A87	LLT E18 Systemic allergic reaction
+A88	LLT-ID E18 10066472
+A89	CUI E19 C0020456
+A90	UMLS-Preferred-Name E19 Hyperglycemia
+A91	MEDDRA-PT E19 Hyperglycaemia
+A92	MEDDRA-PT-ID E19 10020635
+A93	LLT E19 Hyperglycemia
+A94	LLT-ID E19 10020639
+A95	CUI E20 C1328397
+A96	UMLS-Preferred-Name E20 Transaminases abnormal
+A97	MEDDRA-PT E20 Transaminases abnormal
+A98	MEDDRA-PT-ID E20 10062688
+A99	CUI E21 C0015967
+A100	UMLS-Preferred-Name E21 Fever
+A101	MEDDRA-PT E21 Pyrexia
+A102	MEDDRA-PT-ID E21 10037660
+A103	LLT E21 Fever
+A104	LLT-ID E21 10016558
+A105	CUI E22 C0030305
+A106	UMLS-Preferred-Name E22 Pancreatitis
+A107	MEDDRA-PT E22 Pancreatitis
+A108	MEDDRA-PT-ID E22 10033645
+A109	CUI E23 C0853813
+A110	UMLS-Preferred-Name E23 Local reaction
+A111	MEDDRA-PT E23 Local reaction
+A112	MEDDRA-PT-ID E23 10024769
+A113	CUI E24 C0042963
+A114	UMLS-Preferred-Name E24 Vomiting
+A115	MEDDRA-PT E24 Vomiting
+A116	MEDDRA-PT-ID E24 10047700
+A117	CUI E25 C0027497
+A118	UMLS-Preferred-Name E25 Nausea
+A119	MEDDRA-PT E25 Nausea
+A120	MEDDRA-PT-ID E25 10028813
+A121	CUI E26 C0040053
+A122	UMLS-Preferred-Name E26 Thrombosis
+A123	MEDDRA-PT E26 Thrombosis
+A124	MEDDRA-PT-ID E26 10043607
+A125	CUI E27 C0020433
+A126	UMLS-Preferred-Name E27 Hyperbilirubinemia
+A127	MEDDRA-PT E27 Hyperbilirubinaemia
+A128	MEDDRA-PT-ID E27 10020578
+A129	LLT E27 Hyperbilirubinemia
+A130	LLT-ID E27 10020582
+A131	CUI E28 C0000737
+A132	UMLS-Preferred-Name E28 Abdominal Pain
+A133	MEDDRA-PT E28 Abdominal pain
+A134	MEDDRA-PT-ID E28 10000081
+A135	CUI E29 C0232487
+A136	UMLS-Preferred-Name E29 Abdominal discomfort
+A137	MEDDRA-PT E29 Abdominal discomfort
+A138	MEDDRA-PT-ID E29 10000059
+A139	CUI E30 C0011991
+A140	UMLS-Preferred-Name E30 Diarrhea
+A141	MEDDRA-PT E30 Diarrhoea
+A142	MEDDRA-PT-ID E30 10012735
+A143	LLT E30 Diarrhea
+A144	LLT-ID E30 10012727
+A145	CUI E32 C0020517
+A146	UMLS-Preferred-Name E32 Hypersensitivity
+A147	MEDDRA-PT E32 Hypersensitivity
+A148	MEDDRA-PT-ID E32 10020751
+A149	LLT E32 Allergy
+A150	LLT-ID E32 10001738
+A151	CUI E33 C0030305
+A152	UMLS-Preferred-Name E33 Pancreatitis
+A153	MEDDRA-PT E33 Pancreatitis
+A154	MEDDRA-PT-ID E33 10033645
+A155	CUI E34 C0005779
+A156	UMLS-Preferred-Name E34 Blood Coagulation Disorders
+A157	MEDDRA-PT E34 Coagulopathy
+A158	MEDDRA-PT-ID E34 10009802
+A159	CUI E35 C0019080
+A160	UMLS-Preferred-Name E35 Hemorrhage
+A161	MEDDRA-PT E35 Haemorrhage
+A162	MEDDRA-PT-ID E35 10055798
+A163	LLT E35 Hemorrhage
+A164	LLT-ID E35 10019524
+A165	CUI E36 C0040053
+A166	UMLS-Preferred-Name E36 Thrombosis
+A167	MEDDRA-PT E36 Thrombosis
+A168	MEDDRA-PT-ID E36 10043607
+A169	CUI E37 C0021308
+A170	UMLS-Preferred-Name E37 Infarction
+A171	MEDDRA-PT E37 Infarction
+A172	MEDDRA-PT-ID E37 10061216
+A173	CUI E38 C0020433
+A174	UMLS-Preferred-Name E38 Hyperbilirubinemia
+A175	MEDDRA-PT E38 Hyperbilirubinaemia
+A176	MEDDRA-PT-ID E38 10020578
+A177	LLT E38 Hyperbilirubinemia
+A178	LLT-ID E38 10020582
+A179	CUI E39 C0020456
+A180	UMLS-Preferred-Name E39 Hyperglycemia
+A181	MEDDRA-PT E39 Hyperglycaemia
+A182	MEDDRA-PT-ID E39 10020635
+A183	LLT E39 Hyperglycemia
+A184	LLT-ID E39 10020639
+A185	CUI E40 C0020473
+A186	UMLS-Preferred-Name E40 Hyperlipidemia
+A187	MEDDRA-PT E40 Hyperlipidaemia
+A188	MEDDRA-PT-ID E40 10062060
+A189	LLT E40 Hyperlipidemia
+A190	LLT-ID E40 10020667
+A191	CUI E41 C0220982
+A192	UMLS-Preferred-Name E41 Ketoacidosis
+A193	MEDDRA-PT E41 Ketoacidosis
+A194	MEDDRA-PT-ID E41 10023379
+A195	CUI E42 C0007682
+A196	UMLS-Preferred-Name E42 CNS disorder
+A197	MEDDRA-PT E42 Nervous system disorder
+A198	MEDDRA-PT-ID E42 10029202
+A199	CUI E43 C3267019
+A200	UMLS-Preferred-Name E43 Central nervous system haemorrhage
+A201	MEDDRA-PT E43 Central nervous system haemorrhage
+A202	MEDDRA-PT-ID E43 10072043
+A203	LLT E43 Central nervous system hemorrhage
+A204	LLT-ID E43 10072051
+A205	flag E44 duplicate
+A206	CUI E44 C0040053
+A207	UMLS-Preferred-Name E44 Thrombosis
+A208	MEDDRA-PT E44 Thrombosis
+A209	MEDDRA-PT-ID E44 10043607
+A210	flag E45 duplicate
+A211	CUI E45 C0021308
+A212	UMLS-Preferred-Name E45 Infarction
+A213	MEDDRA-PT E45 Infarction
+A214	MEDDRA-PT-ID E45 10061216
+A215	CUI E46 C0151945
+A216	UMLS-Preferred-Name E46 Thrombosis of cerebral veins
+A217	MEDDRA-PT E46 Cerebral venous thrombosis
+A218	MEDDRA-PT-ID E46 10008138
+A219	CUI E51 C0020517
+A220	UMLS-Preferred-Name E51 Hypersensitivity
+A221	MEDDRA-PT E51 Hypersensitivity
+A222	MEDDRA-PT-ID E51 10020751
+A223	LLT E51 Hypersensitivity reaction
+A224	LLT-ID E51 10020756
+A225	CUI E52 C0020517
+A226	UMLS-Preferred-Name E52 Hypersensitivity
+A227	MEDDRA-PT E52 Hypersensitivity
+A228	MEDDRA-PT-ID E52 10020751
+A229	LLT E52 Hypersensitivity reaction
+A230	LLT-ID E52 10020756
+A231	CUI E55 C0020517
+A232	UMLS-Preferred-Name E55 Hypersensitivity
+A233	MEDDRA-PT E55 Hypersensitivity
+A234	MEDDRA-PT-ID E55 10020751
+A235	LLT E55 Hypersensitivity reaction
+A236	LLT-ID E55 10020756
+A237	CUI E57 C1527304
+A238	UMLS-Preferred-Name E57 Allergic Reaction
+A239	MEDDRA-PT E57 Hypersensitivity
+A240	MEDDRA-PT-ID E57 10020751
+A241	LLT E57 Allergic reaction
+A242	LLT-ID E57 10001718
+A243	CUI E58 C0040053
+A244	UMLS-Preferred-Name E58 Thrombosis
+A245	MEDDRA-PT E58 Thrombosis
+A246	MEDDRA-PT-ID E58 10043607
+A247	CUI E59 C0019080
+A248	UMLS-Preferred-Name E59 Hemorrhage
+A249	MEDDRA-PT E59 Haemorrhage
+A250	MEDDRA-PT-ID E59 10055798
+A251	LLT E59 Hemorrhage
+A252	LLT-ID E59 10019524
+A253	CUI E60 C0267792
+A254	UMLS-Preferred-Name E60 Hepatobiliary disease
+A255	MEDDRA-PT E60 Hepatobiliary disease
+A256	MEDDRA-PT-ID E60 10062000
+A257	CUI E61 C0030286
+A258	UMLS-Preferred-Name E61 Pancreatic Diseases
+A259	MEDDRA-PT E61 Pancreatic disorder
+A260	MEDDRA-PT-ID E61 10033616
+A261	CUI E62 C0020456
+A262	UMLS-Preferred-Name E62 Hyperglycemia
+A263	MEDDRA-PT E62 Hyperglycaemia
+A264	MEDDRA-PT-ID E62 10020635
+A265	LLT E62 Hyperglycemia
+A266	LLT-ID E62 10020639
+A267	CUI E31 C1527304
+A268	UMLS-Preferred-Name E31 Allergic Reaction
+A269	MEDDRA-PT E31 Hypersensitivity
+A270	MEDDRA-PT-ID E31 10020751
+A271	LLT E31 Allergic reaction
+A272	LLT-ID E31 10001718
+A273	CUI E47 C0019080
+A274	UMLS-Preferred-Name E47 Hemorrhage
+A275	MEDDRA-PT E47 Haemorrhage
+A276	MEDDRA-PT-ID E47 10055798
+A277	LLT E47 Hemorrhage
+A278	LLT-ID E47 10019524

@@ -1,0 +1,40 @@
+00000000|AA|TB|tuberculosis|1|2|1|12|2612:2
+00000000|MMI|136.27|Infection|C3714514|[patf]|["INFECTION"-tx-20-"infection"-noun-0,"Infections"-tx-19-"infections"-noun-0,"Infections"-tx-18-"INFECTIONS"-noun-0,"INFECTION"-tx-14-"infection"-noun-0,"INFECTION"-tx-10-"infection"-noun-0,"Infections"-tx-4-"infections"-noun-0,"INFECTION"-tx-3-"infection"-noun-0,"Infections"-tx-2-"infections"-noun-0,"Infections"-tx-1-"INFECTIONS"-noun-0,"Infections"-tx-1-"infections"-noun-0]|TX|2814/9;2541/10;2411/10;1816/9;1305/9;588/10;550/9;385/10;[38/10],[86/10],[127/10];220/10|C01.539
+00000000|MMI|92.54|Latent Tuberculosis|C1609538|[dsyn]|["Latent Tuberculosis"-tx-22-"latent TB"-noun-1,"Latent Tuberculosis"-tx-21-"latent TB"-noun-1,"Latent Tuberculosis Infection"-tx-14-"latent tuberculosis infection"-noun-1,"Latent Tuberculosis"-tx-6-"latent tuberculosis"-noun-0]|TX|3016/9;2863/9;1953/29;813/19|C01.252.410.040.552.846.122
+00000000|MMI|58.85|Tuberculosis|C0041296|[dsyn]|["TUBERCULOSIS"-tx-19-"tuberculosis"-noun-0,"TUBERCULOSIS"-tx-14-"tuberculosis"-noun-0,"TUBERCULOSIS"-tx-5-"tuberculosis"-noun-0]|TX|2598/12;1904/12;699/12|C01.252.410.040.552.846
+00000000|MMI|40.88|Histoplasmosis|C0019655|[dsyn]|["HISTOPLASMOSIS"-tx-19-"histoplasmosis"-noun-0,"HISTOPLASMOSIS"-tx-10-"histoplasmosis"-noun-0,"HISTOPLASMOSIS"-tx-9-"histoplasmosis"-noun-0,"HISTOPLASMOSIS"-tx-8-"histoplasmosis"-noun-0]|TX|2671/14;1245/14;1099/14;986/14|C01.703.450
+00000000|MMI|40.85|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-20-"infection"-noun-0,"Infection, NOS"-tx-14-"infection"-noun-0,"Infection, NOS"-tx-10-"infection"-noun-0,"Infection, NOS"-tx-3-"infection"-noun-0]|TX|2814/9;1816/9;1305/9;550/9|C01.539.221
+00000000|MMI|35.81|Sepsis|C0243026|[dsyn]|["SEPSIS"-tx-20-"sepsis"-noun-0,"SEPSIS"-tx-3-"sepsis"-noun-0]|TX|2827/6;563/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|35.81|Septicemia|C0036690|[dsyn]|["Sepsis"-tx-20-"sepsis"-noun-0,"Sepsis"-tx-3-"sepsis"-noun-0]|TX|2827/6;563/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|26.74|Lymphoma|C0024299|[neop]|["LYMPHOMA"-tx-22-"Lymphoma"-noun-0,"LYMPHOMA"-tx-16-"Lymphoma"-noun-0]|TX|3054/8;2117/8|C04.557.386;C15.604.515.569;C20.683.515.761
+00000000|MMI|20.95|Aspergillosis|C0004030|[dsyn]|["ASPERGILLOSIS"-tx-8-"aspergillosis"-noun-0]|TX|1035/13|C01.539.800.200.383.249;C01.703.295.328.249;C17.800.838.208.416.249
+00000000|MMI|19.48|Malignant Neoplasms|C0006826|[neop]|["MALIGNANCIES"-tx-22-"malignancies"-noun-0,"MALIGNANCY"-tx-18-"MALIGNANCY"-noun-0,"MALIGNANCIES"-tx-16-"malignancies"-noun-0,"MALIGNANCY"-tx-16-"MALIGNANCY"-noun-0,"MALIGNANCY"-tx-1-"MALIGNANCY"-noun-0]|TX|3073/12;2426/10;2136/12;2098/10;53/10|
+00000000|MMI|17.80|Blastomycosis|C0005716|[dsyn]|["BLASTOMYCOSIS"-tx-8-"blastomycosis"-noun-0]|TX|1050/13|C01.539.800.200.055;C01.703.295.055;C01.703.534.395;C08.381.472.350;C08.730.435.395;C17.800.838.208.055
+00000000|MMI|15.79|Invasive mycosis|C1262313|[dsyn]|["Invasive Fungal infections"-tx-19-"invasive fungal infections"-noun-0,"Invasive Fungal infections"-tx-9-"invasive fungal infections"-noun-0,"Invasive Fungal infections"-tx-8-"Invasive fungal infections"-noun-0]|TX|2635/26;1123/26;948/26|
+00000000|MMI|14.87|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-14-"therapy"-noun-1,"Therapy"-tx-13-"therapy"-noun-0,"Therapy"-tx-11-"therapy"-noun-0,"Therapy"-tx-6-"therapy"-noun-0]|TX|2003/7;1669/7;1336/7;862/7|
+00000000|MMI|14.64|Pneumocystis jiroveci pneumonia|C1535939|[dsyn]|["Pneumocystosis"-tx-8-"pneumocystosis"-noun-0]|TX|1069/14|C01.703.534.700;C01.703.770.700;C08.381.472.700;C08.381.677.675;C08.730.435.700;C08.730.610.675
+00000000|MMI|11.49|Candidiasis|C0006840|[dsyn]|["CANDIDIASIS"-tx-8-"candidiasis"-noun-0]|TX|1022/11|C01.703.160
+00000000|MMI|11.49|Coccidioidomycosis|C0009186|[dsyn]|["COCCIDIOIDOMYCOSIS"-tx-8-"coccidioidomycosis"-noun-0]|TX|1002/18|C01.703.203
+00000000|MMI|10.96|Primary malignant neoplasm|C1306459|[neop]|["Malignancy"-tx-18-"MALIGNANCY"-noun-0,"Malignancy"-tx-16-"MALIGNANCY"-noun-0,"Malignancy"-tx-1-"MALIGNANCY"-noun-0]|TX|2426/10;2098/10;53/10|
+00000000|MMI|10.42|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-15-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-1-"Adverse Reactions"-noun-0]|TX|2060/17;321/17|
+00000000|MMI|10.42|Death (finding)|C1306577|[fndg]|["Death"-tx-19-"death"-noun-0,"Death"-tx-1-"death"-noun-0]|TX|2582/5;267/5|
+00000000|MMI|10.42|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-22-"fatal"-adj-0,"FATAL"-tx-16-"fatal"-adj-0]|TX|3092/5;2155/5|
+00000000|MMI|10.42|Discontinued|C1444662|[fndg]|["Discontinued"-tx-20-"discontinued"-verb-0,"Discontinued"-tx-3-"discontinued"-verb-0]|TX|2769/12;505/12|
+00000000|MMI|9.99|Disease|C0012634|[dsyn]|["DISEASE"-tx-5-"disease"-noun-0]|TX|774/7|C23.550.288
+00000000|MMI|9.89|Opportunistic Infections|C0029118|[dsyn]|["infections opportunistic"-tx-12-"infections opportunistic"-noun-0]|TX|1485/10,1503/13|C01.539.597;C02.597;C03.684
+00000000|MMI|7.49|Negative Finding|C1513916|[fndg]|["NEGATIVE"-tx-22-"negative"-adj-0,"NEGATIVE"-tx-10-"negative"-adj-0]|TX|3034/8;1267/8|
+00000000|MMI|7.29|Active tuberculosis|C0151332|[dsyn]|["Active Tuberculosis"-tx-22-"active TB"-noun-0,"Active Tuberculosis"-tx-4-"Active tuberculosis"-noun-0]|TX|2972/9;617/19|
+00000000|MMI|7.22|Test Result|C0456984|[fndg]|["Test"-tx-22-"test"-noun-1,"Test"-tx-21-"test"-noun-0]|TX|3026/4;2854/4|
+00000000|MMI|7.22|Indicated|C1444656|[fndg]|["Indicated"-tx-23-"indicated"-verb-1,"Indicated"-tx-17-"indicated"-verb-1]|TX|3230/9;2332/9|
+00000000|MMI|5.18|Bacterial sepsis|C0684256|[dsyn]|["Bacterial sepsis"-tx-19-"bacterial sepsis"-noun-0]|TX|2617/16|
+00000000|MMI|5.18|Local disease|C0277565|[dsyn]|["Localized Disease"-tx-9-"localized disease"-noun-1]|TX|1193/17|
+00000000|MMI|5.18|Positive Finding|C1514241|[fndg]|["POSITIVE"-tx-21-"positive"-noun-1]|TX|2877/8|
+00000000|MMI|5.18|Recurrent infections|C0239998|[fndg]|["INFECTION, RECURRENT"-tx-13-"recurrent infection"-noun-0]|TX|1705/19|
+00000000|MMI|3.75|Systemic disease|C0442893|[dsyn]|["Systemic illness"-tx-11-"systemic illness"-noun-0]|TX|1435/16|
+00000000|MMI|3.67|At risk of infection|C0582147|[fndg]|["At risk for infection"-tx-11-"at risk for infections"-noun-0]|TX|1377/11,1405/10|
+00000000|MMI|3.62|Reactivation tuberculosis|C0275965|[dsyn]|["TUBERCULOSIS REACTIVATION"-tx-4-"reactivation tuberculosis"-noun-0]|TX|648/12,671/12|
+00000000|MMI|3.59|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-14-"symptoms"-noun-0]|TX|1804/8|
+00000000|MMI|3.56|Infection Other Adverse Event|C1560945|[fndg]|["Infection - Other"-tx-19-"infections other"-noun-0]|TX|2692/10,2710/5|
+00000000|MMI|3.55|Physical findings|C0311392|[fndg]|["SIGNS"-tx-14-"signs"-noun-0]|TX|1794/5|
+00000000|MMI|3.48|latent infection|C0872054|[dsyn]|["Latent Infection"-tx-7-"latent infection"-noun-0]|TX|885/16|
+00000000|MMI|3.43|Invasive Lesion|C1334278|[fndg]|["Invasive"-tx-11-"invasive"-noun-0]|TX|1389/8|

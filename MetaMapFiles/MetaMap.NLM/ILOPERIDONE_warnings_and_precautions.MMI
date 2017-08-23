@@ -1,0 +1,242 @@
+00000000|AA|WBC|white blood cell count|1|3|7|22|1962:3
+00000000|AA|NMS|Neuroleptic Malignant Syndrome|1|3|5|30|6268:3
+00000000|AA|EPS|extrapyramidal signs and symptoms|1|3|7|33|7158:3
+00000000|AA|CNS|central nervous system|1|3|5|22|7328:3
+00000000|MMI|207.17|Hyperglycemia|C0020456|[dsyn]|["HYPERGLYCEMIA"-tx-75-"hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-74-"hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-73-"hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-69-"hyperglycemia"-adj-0,"HYPERGLYCEMIA"-tx-68-"hyperglycemia"-adj-0,"HYPERGLYCEMIA"-tx-66-"Hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-64-"hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-13-"hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-7-"Hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-7-"hyperglycemia"-noun-0]|TX|12436/13;12315/13;12210/13;11438/13;11290/13;[10694/13],[10736/13];10444/13;1527/13;932/13;1002/13|C18.452.394.952
+00000000|MMI|205.71|Leukopenia|C0023530|[dsyn]|["NEUTROPENIA"-tx-100-"neutropenia"-noun-0,"NEUTROPENIA"-tx-99-"neutropenia"-noun-0,"LEUKOPENIA"-tx-97-"leukopenia"-noun-0,"NEUTROPENIA"-tx-97-"neutropenia"-noun-0,"LEUKOPENIA"-tx-95-"Leukopenia"-noun-0,"LEUKOPENIA"-tx-95-"leukopenia"-noun-0,"NEUTROPENIA"-tx-95-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-95-"neutropenia"-noun-0,"LEUKOPENIA"-tx-17-"leukopenia"-noun-0,"LEUKOPENIA"-tx-16-"Leukopenia"-noun-0,"NEUTROPENIA"-tx-16-"Neutropenia"-noun-0]|TX|19763/11;19596/11;19145/10;19156/11;18858/10;18965/10;18870/11;18976/11;1983/10;1820/10;1832/11|C15.378.553.546
+00000000|MMI|170.88|Syndrome|C0039082|[dsyn]|["Syndrome"-tx-62-"syndrome"-noun-0,"Syndrome"-tx-56-"syndrome"-noun-0,"Syndrome"-tx-55-"syndrome"-noun-0,"Syndrome"-tx-54-"syndrome"-noun-0,"Syndrome"-tx-53-"syndrome"-noun-0,"Syndrome"-tx-50-"syndrome"-noun-0,"Syndrome"-tx-49-"syndrome"-noun-0,"Syndrome"-tx-45-"syndrome"-noun-0,"Syndrome"-tx-42-"syndrome"-noun-0]|TX|10236/8;9350/8;9210/8;9016/8;8820/8;[8249/8],[8472/8];8070/8;7371/8;6881/8|C23.550.288.500
+00000000|MMI|167.76|Weight Gain|C0043094|[fndg]|["Gain, Weight"-tx-85-"Weight Gain"-noun-0,"gain body weight"-tx-84-"gain body weight"-noun-0,"Body Weight Gain"-tx-64-"body weight gain"-noun-0,"Gain, Weight"-tx-13-"weight gain"-noun-0,"Gain, Weight"-tx-10-"Weight Gain"-noun-0,"Gain, Weight"-tx-10-"Weight gain"-noun-0]|TX|17061/11;16523/4,16531/11;10477/16;1560/11;1273/11;1286/11|C23.888.144.243.926;G07.700.320.249.314.120.200.926
+00000000|MMI|147.47|Syncope|C0039070|[sosy]|["SYNCOPE"-tx-92-"syncope"-noun-0,"SYNCOPE"-tx-90-"syncope"-noun-0,"SYNCOPE"-tx-88-"Syncope"-noun-0,"SYNCOPE"-tx-88-"syncope"-noun-0,"SYNCOPE"-tx-38-"syncope"-noun-0,"SYNCOPE"-tx-15-"syncope"-noun-0]|TX|18387/7;18036/7;17755/7;17854/7;6130/7;1771/7|C10.597.606.358.800.600;C23.888.592.604.359.800.600
+00000000|MMI|128.24|Neuroleptic Malignant Syndrome|C0027849|[dsyn]|["NEUROLEPTIC MALIGNANT SYNDROME"-tx-48-"NMS"-noun-0,"NEUROLEPTIC MALIGNANT SYNDROME"-tx-47-"NMS"-noun-0,"NEUROLEPTIC MALIGNANT SYNDROME"-tx-46-"NMS"-noun-1,"NEUROLEPTIC MALIGNANT SYNDROME"-tx-39-"NMS"-noun-0,"NEUROLEPTIC MALIGNANT SYNDROME"-tx-39-"Neuroleptic Malignant Syndrome"-noun-0,"NEUROLEPTIC MALIGNANT SYNDROME"-tx-5-"Neuroleptic Malignant Syndrome"-noun-0]|TX|7983/3;7837/3;7757/3;6371/3;[6236/30],[6339/30];738/30|C10.228.140.079.737;C10.720.737;C25.723.705.600
+00000000|MMI|124.78|Neutropenia|C0027947|[dsyn]|["NEUTROPENIA"-tx-100-"neutropenia"-noun-0,"NEUTROPENIA"-tx-99-"neutropenia"-noun-0,"NEUTROPENIA"-tx-97-"neutropenia"-noun-0,"NEUTROPENIA"-tx-95-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-95-"neutropenia"-noun-0,"NEUTROPENIA"-tx-16-"Neutropenia"-noun-0]|TX|19763/11;19596/11;19156/11;18870/11;18976/11;1832/11|C15.378.553.546.184.564
+00000000|MMI|85.98|Hypotension, Orthostatic|C0020651|[fndg]|["HYPOTENSION, ORTHOSTATIC"-tx-92-"orthostatic hypotension"-noun-0,"HYPOTENSION, ORTHOSTATIC"-tx-91-"Orthostatic hypotension"-noun-0,"HYPOTENSION, ORTHOSTATIC"-tx-88-"Orthostatic Hypotension"-noun-0,"HYPOTENSION, ORTHOSTATIC"-tx-88-"orthostatic hypotension"-noun-0,"HYPOTENSION, ORTHOSTATIC"-tx-15-"Orthostatic hypotension"-noun-0]|TX|18359/23;18146/23;17727/23;17786/23;1718/23|C10.177.575.600.450;C14.907.514.482
+00000000|MMI|84.98|Seizures|C0036572|[sosy]|["Seizures"-tx-86-"seizures"-noun-0,"Seizures"-tx-85-"Seizures"-noun-0,"Seizures"-tx-85-"seizures"-noun-0,"Seizures"-tx-14-"Seizures"-noun-0,"Seizures"-tx-14-"seizures"-noun-0]|TX|17505/8;17237/8;17308/8;1589/8;1644/8|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|84.18|Diabetes Mellitus|C0011849|[dsyn]|["DIABETES MELLITUS"-tx-72-"diabetes mellitus"-noun-0,"diabetes mellitus (diagnosis)"-tx-71-"diagnosis diabetes mellitus"-noun-0,"DIABETES MELLITUS"-tx-67-"diabetes mellitus"-noun-0,"DIABETES MELLITUS"-tx-66-"Diabetes Mellitus"-noun-0,"Diabetes"-tx-8-"diabetes"-noun-0,"DIABETES MELLITUS"-tx-7-"diabetes mellitus"-noun-0]|TX|11897/17;11728/9,11741/17;11164/17;10712/17;1124/8;950/17|C18.452.394.750;C19.246
+00000000|MMI|77.58|Cardiac Arrhythmia|C0003811|[fndg]|["Cardiac Dysrhythmia"-tx-40-"cardiac dysrhythmia"-noun-0,"Arrhythmias"-tx-38-"arrhythmias"-noun-0,"Cardiac Arrhythmias"-tx-38-"cardiac arrhythmias"-noun-0,"Arrhythmia, Cardiac"-tx-36-"cardiac arrhythmia"-noun-0,"Arrythmia"-tx-35-"arrhythmia"-noun-0,"Cardiac Arrhythmias"-tx-29-"cardiac arrhythmias"-noun-1,"Arrythmia"-tx-2-"arrhythmia"-noun-0]|TX|6688/19;6083/11;6075/19;5864/18;5670/10;4066/19;333/10|C14.280.067;C23.550.073
+00000000|MMI|76.66|Tardive Dyskinesia|C0686347|[dsyn]|["TARDIVE DYSKINESIA"-tx-61-"tardive dyskinesia"-noun-0,"TARDIVE DYSKINESIA"-tx-57-"tardive dyskinesia"-noun-0,"TARDIVE DYSKINESIA"-tx-54-"tardive dyskinesia"-noun-1,"TARDIVE DYSKINESIA"-tx-52-"tardive dyskinesia"-noun-0,"TARDIVE DYSKINESIA"-tx-51-"tardive dyskinesia"-noun-0,"TARDIVE DYSKINESIA"-tx-49-"Tardive Dyskinesia"-noun-0,"TARDIVE DYSKINESIA"-tx-6-"Tardive dyskinesia"-noun-0]|TX|10058/18;9493/18;8983/18;8611/18;8553/18;8022/18;854/18|C10.228.662
+00000000|MMI|69.02|Hyperprolactinemia|C0020514|[dsyn]|["HYPERPROLACTINEMIA"-tx-105-"hyperprolactinemia"-noun-0,"HYPERPROLACTINEMIA"-tx-102-"Hyperprolactinemia"-noun-0,"HYPERPROLACTINEMIA"-tx-101-"Hyperprolactinemia"-noun-0]|TX|20372/18;20024/18;19902/18|C10.228.140.617.738.250.450;C19.700.355.600
+00000000|MMI|66.46|Fasting|C0015663|[fndg]|["FASTING"-tx-80-"Fasting"-adj-0,"FASTING"-tx-79-"fasting"-noun-0,"FASTING"-tx-77-"Fasting"-noun-0,"FASTING"-tx-76-"fasting"-noun-0]|TX|14039/7;13919/7;12800/7;12717/7|F01.145.407.400;G07.203.650.240.587;G07.203.650.353.400
+00000000|MMI|64.82|Disease|C0012634|[dsyn]|["condition"-tx-114-"conditions"-noun-0,"condition"-tx-93-"conditions"-verb-0,"condition"-tx-87-"Conditions"-verb-0,"condition"-tx-86-"conditions"-verb-0,"condition"-tx-28-"conditions"-noun-0,"condition"-tx-14-"conditions"-noun-0]|TX|22321/10;18606/10;17607/10;17522/10;3860/10;1661/10|C23.550.288
+00000000|MMI|59.56|1+|C3816745|[fndg]|["1+"-tx-91-"1"-percentage-0,"1+"-tx-90-"1"-fraction-0,"1+"-tx-85-"1"-fraction-0,"1+"-tx-80-"1"-fraction-0,"1+"-tx-80-"1"-percentage-0,"1+"-tx-58-"1"-integer-0,"1+"-tx-45-"1"-integer-0,"1+"-tx-32-"1"-integer-0,"1+"-tx-5-"1"-integer-0]|TX|18266/1;18127/1;17335/1;[14889/1],[15015/1],[15068/1],[15085/1];[14889/1],[15015/1],[15068/1],[15085/1];9627/1;7397/1;4898/1;694/1|
+00000000|MMI|54.45|Dyslipidemias|C0242339|[dsyn]|["Dyslipidaemia"-tx-78-"Dyslipidemia"-noun-0,"Dyslipidaemia"-tx-64-"dyslipidemia"-noun-0,"Dyslipidaemia"-tx-13-"dyslipidemia"-noun-0,"Dyslipidaemia"-tx-9-"Dyslipidemia"-noun-0]|TX|13726/12;10459/12;1542/12;1150/12|C18.452.584.500
+00000000|MMI|54.17|Priapism|C0033117|[dsyn]|["PRIAPISM"-tx-123-"priapism"-noun-0,"PRIAPISM"-tx-121-"priapism"-noun-0,"PRIAPISM"-tx-120-"Priapism"-noun-0,"PRIAPISM"-tx-19-"Priapism"-noun-0]|TX|23515/8;23455/8;23293/8;2305/8|C12.294.494.786
+00000000|MMI|53.62|Dementia|C0497327|[mobd]|["-- Dementia"-tx-25-"dementia"-adj-1,"-- Dementia"-tx-24-"dementia"-noun-0,"-- Dementia"-tx-23-"dementia"-adj-1,"-- Dementia"-tx-22-"Dementia"-adj-0]|TX|3374/8;3125/8;2899/8;2631/8|C10.228.140.380;F03.615.400
+00000000|MMI|50.11|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-88-"dizziness"-noun-0,"Dizzyness"-tx-38-"dizziness"-noun-0,"Dizzyness"-tx-15-"Dizziness"-noun-0]|TX|17826/9;6102/9;1743/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|50.11|Vertigo|C0042571|[sosy]|["dizziness"-tx-88-"dizziness"-noun-0,"dizziness"-tx-38-"dizziness"-noun-0,"dizziness"-tx-15-"Dizziness"-noun-0]|TX|17826/9;6102/9;1743/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|50.06|Agranulocytosis|C0001824|[dsyn]|["AGRANULOCYTOSIS"-tx-96-"Agranulocytosis"-noun-0,"AGRANULOCYTOSIS"-tx-95-"Agranulocytosis"-noun-0,"AGRANULOCYTOSIS"-tx-16-"Agranulocytosis"-noun-0]|TX|19051/15;18886/15;1849/15|C15.378.553.546.184
+00000000|MMI|50.03|Cerebrovascular accident|C0038454|[dsyn]|["Cerebrovascular Accidents"-tx-24-"cerebrovascular accidents"-noun-0,"STROKE"-tx-24-"Stroke"-noun-0,"STROKE"-tx-1-"stroke"-noun-0]|TX|3199/25;3011/6;244/6|C10.228.140.300.775;C14.907.253.855
+00000000|MMI|48.78|Discontinued|C1444662|[fndg]|["Discontinue"-tx-100-"discontinue"-verb-0,"Discontinue"-tx-98-"discontinue"-verb-0,"Discontinuation"-tx-75-"discontinuation"-noun-0,"Discontinued"-tx-75-"discontinued"-verb-1,"Discontinuation"-tx-61-"discontinuation"-noun-0,"Discontinuation"-tx-45-"discontinuation"-noun-0,"Discontinued"-tx-37-"discontinued"-verb-0,"Discontinue"-tx-17-"discontinue"-verb-0,"Discontinue"-tx-6-"Discontinue"-verb-0,"Discontinuation"-tx-5-"discontinuation"-noun-0]|TX|19824/11;19478/11;12592/15;12499/12;10113/15;7410/15;5901/12;2122/11;874/11;792/15|
+00000000|MMI|45.34|Body Weight Changes|C0005911|[fndg]|["Change in weight"-tx-85-"Change in Weight"-noun-0,"Change in weight"-tx-84-"Changes in weight"-noun-0]|TX|16673/9,16688/6;16454/10,16470/6|C23.888.144.243;G07.700.320.249.314.120.200
+00000000|MMI|44.63|Tachycardia|C0039231|[patf]|["TACHYCARDIA"-tx-88-"tachycardia"-noun-0,"TACHYCARDIA"-tx-40-"tachycardia"-noun-0,"TACHYCARDIA"-tx-15-"tachycardia"-noun-0]|TX|17837/11;6658/11;1754/11|C14.280.067.845;C23.550.073.845
+00000000|MMI|40.45|Schizophrenia|C0036341|[mobd]|["-- Schizophrenia"-tx-79-"schizophrenia"-noun-0,"-- Schizophrenia"-tx-76-"schizophrenia"-noun-0,"-- Schizophrenia"-tx-67-"schizophrenia"-noun-0,"-- Schizophrenia"-tx-26-"schizophrenia"-noun-0]|TX|13976/13;12693/13;11118/13;3511/13|F03.700.750
+00000000|MMI|39.68|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-99-"symptoms"-noun-0,"SYMPTOMS"-tx-74-"symptoms"-noun-0,"SYMPTOMS"-tx-73-"symptoms"-noun-0,"SYMPTOMS"-tx-61-"symptoms"-noun-0,"SYMPTOMS"-tx-55-"symptoms"-noun-0,"SYMPTOM"-tx-39-"symptom"-noun-0,"SYMPTOMS"-tx-38-"symptoms"-noun-0,"SYMPTOMS"-tx-7-"symptoms"-noun-0]|TX|[19657/8],[19717/8];12303/8;12198/8;10046/8;9194/8;6298/7;6028/8;990/8|
+00000000|MMI|38.73|Torsades de Pointes|C0040479|[dsyn]|["TORSADES DE POINTES"-tx-32-"torsade de pointes"-noun-0,"TORSADES DE POINTES"-tx-29-"torsade de pointes"-noun-1]|TX|4780/18;4031/18|C14.280.067.845.940.700;C23.550.073.845.940.700
+00000000|MMI|38.02|Related personal status|C0445223|[fndg]|["Related"-tx-95-"related"-verb-0,"Related"-tx-69-"related"-adj-0,"Related"-tx-68-"related"-adj-0,"Related"-tx-25-"related"-adj-1,"Related"-tx-23-"related"-adj-1,"Related"-tx-22-"Related"-adj-0,"Related"-tx-22-"related"-adj-0,"Related"-tx-1-"related"-adj-0]|TX|19018/7;11452/7;11304/7;3383/7;2908/7;2640/7;2722/7;[88/7],[210/7]|
+00000000|MMI|35.81|Galactorrhea|C3665358|[dsyn]|["Galactorrhoea"-tx-112-"galactorrhea"-noun-0,"Galactorrhoea"-tx-104-"Galactorrhea"-noun-0]|TX|21952/12;20249/12|C13.703.844.506.389;C17.800.090.937.439
+00000000|MMI|35.81|Polyuria|C0032617|[sosy]|["POLYURIA"-tx-73-"polyuria"-noun-0,"POLYURIA"-tx-7-"polyuria"-noun-0]|TX|12246/8;1038/8|C12.777.934.616;C13.351.968.934.616;C23.888.942.600
+00000000|MMI|32.99|Suicide|C0038661|[fndg]|["-- Suicide"-tx-118-"Suicide"-noun-0,"-- Suicide"-tx-18-"Suicide"-noun-0]|TX|22957/7;2238/7|F01.145.126.980.875;I01.880.735.856
+00000000|MMI|32.94|Alzheimer's Disease|C0002395|[dsyn]|["Alzheimer dementia"-tx-116-"Alzheimer's dementia"-noun-0,"Alzheimer dementia"-tx-86-"Alzheimer's dementia"-noun-0]|TX|22788/20;17585/20|C10.228.140.380.100;C10.574.945.249;F03.615.400.100
+00000000|MMI|32.66|10%|C3842590|[fndg]|["10%"-tx-125-"10"-integer-0,"10%"-tx-113-"10"-real_number-0,"10%"-tx-91-"10"-integer-0,"10%"-tx-85-"10"-integer-0,"10%"-tx-81-"10"-integer-0,"10%"-tx-80-"10"-percentage-0,"10%"-tx-78-"10"-integer-0,"10%"-tx-77-"10"-percentage-0]|TX|23884/2;22081/2;18245/2;16803/2;16063/2;15372/2;13573/2;13222/2|
+00000000|MMI|31.03|Cardiac Arrest|C0018790|[dsyn]|["arrested"-tx-103-"inhibit"-verb-0,"arrested"-tx-33-"inhibit"-verb-0,"arrested"-tx-3-"inhibit"-verb-0]|TX|20149/7;5225/7;576/7|C14.280.383
+00000000|MMI|30.93|Heart failure|C0018801|[dsyn]|["Failure, Heart"-tx-93-"heart failure"-noun-0,"Failure, Heart"-tx-36-"heart failure"-noun-0,"Failure, Heart"-tx-32-"heart failure"-noun-0]|TX|18489/13;5846/13;5144/13|C14.280.434
+00000000|MMI|30.42|Obesity|C0028754|[dsyn]|["OBESITY"-tx-72-"obesity"-noun-0]|TX|11922/7|C18.654.726.500;C23.888.144.699.500;E01.370.600.115.100.160.120.699.500;G07.100.100.160.120.699.500
+00000000|MMI|30.30|Psychotic Disorders|C0033975|[mobd]|["PSYCHOSIS"-tx-25-"psychosis"-noun-1,"PSYCHOSIS"-tx-23-"psychosis"-noun-1,"PSYCHOSIS"-tx-22-"Psychosis"-noun-0]|TX|3391/9;2916/9;2648/9|F03.700.675
+00000000|MMI|29.46|Galactorrhea not associated with childbirth|C0235660|[dsyn]|["GALACTORRHOEA"-tx-112-"galactorrhea"-noun-0,"GALACTORRHOEA"-tx-104-"Galactorrhea"-noun-0]|TX|21952/12;20249/12|x.x.x.x
+00000000|MMI|29.46|Gynecomastia|C0018418|[dsyn]|["GYNECOMASTIA"-tx-112-"gynecomastia"-noun-0,"GYNECOMASTIA"-tx-104-"gynecomastia"-noun-0]|TX|21852/12;20275/12|C17.800.090.875
+00000000|MMI|29.46|Hyperphagia|C0020505|[fndg]|[":: Polyphagia"-tx-73-"polyphagia"-noun-0,":: Polyphagia"-tx-7-"polyphagia"-noun-0]|TX|12256/10;1048/10|C23.888.821.645
+00000000|MMI|29.46|Hypokalemia|C0020621|[fndg]|["HYPOKALEMIA"-tx-35-"Hypokalemia"-noun-0,"HYPOKALEMIA"-tx-32-"hypokalemia"-noun-0]|TX|5589/11;4918/11|C18.452.950.565
+00000000|MMI|27.56|Drug-induced tardive dyskinesia|C3714760|[patf]|["Tardive dyskinesia"-tx-61-"tardive dyskinesia"-noun-0,"Tardive dyskinesia"-tx-57-"tardive dyskinesia"-noun-0,"Tardive dyskinesia"-tx-54-"tardive dyskinesia"-noun-1,"Tardive dyskinesia"-tx-52-"tardive dyskinesia"-noun-0,"Tardive dyskinesia"-tx-51-"tardive dyskinesia"-noun-0,"Tardive dyskinesia"-tx-49-"Tardive Dyskinesia"-noun-0,"Tardive dyskinesia"-tx-6-"Tardive dyskinesia"-noun-0]|TX|10058/18;9493/18;8983/18;8611/18;8553/18;8022/18;854/18|
+00000000|MMI|26.66|Sudden death|C0011071|[patf]|["Death, Sudden"-tx-32-"sudden death"-noun-0,"Death, Sudden"-tx-2-"sudden death"-noun-0]|TX|4806/12;348/12|C23.550.260.322
+00000000|MMI|26.52|Dehydration|C0011175|[dsyn]|["DEHYDRATION"-tx-114-"dehydration"-noun-0,"DEHYDRATION"-tx-93-"dehydration"-noun-0]|TX|22535/11;18661/11|C18.452.950.179;C23.550.274
+00000000|MMI|26.34|Breast Carcinoma|C0678222|[neop]|["Breast Cancer"-tx-106-"breast cancer"-noun-0,"Cancer of Breast"-tx-106-"of breast cancers"-noun-0]|TX|20745/13;20563/2,20572/14|C04.588.180;C17.800.090.500
+00000000|MMI|24.53|Physical findings|C0311392|[fndg]|["SIGNS"-tx-99-"signs"-noun-0,"SIGNS"-tx-61-"signs"-noun-0,"SIGNS"-tx-55-"signs"-noun-0,"SIGNS"-tx-41-"signs"-noun-0,"SIGNS"-tx-40-"signs"-noun-0]|TX|[19669/5],[19729/5];10036/5;9184/5;6721/5;6577/5|
+00000000|MMI|24.14|2+|C3833492|[fndg]|["2+"-tx-85-"2"-fraction-0,"2+"-tx-85-"2"-real_number-0,"2+"-tx-77-"2"-fraction-0,"2+"-tx-58-"2"-integer-0,"2+"-tx-45-"2"-integer-0,"2+"-tx-32-"2"-integer-0]|TX|[17023/1],[17393/1];[17023/1],[17393/1];13272/1;9679/1;7507/1;4915/1|
+00000000|MMI|23.12|Polydipsia|C0085602|[sosy]|["POLYDYPSIA"-tx-73-"polydipsia"-noun-0,"POLYDYPSIA"-tx-7-"polydipsia"-noun-0]|TX|12234/10;1026/10|C23.550.759;C23.888.663
+00000000|MMI|22.85|Neutrophil count decreased|C0853697|[fndg]|["Neutropenia"-tx-100-"neutropenia"-noun-0,"Neutropenia"-tx-99-"neutropenia"-noun-0,"Neutropenia"-tx-97-"neutropenia"-noun-0,"Neutropenia"-tx-95-"Neutropenia"-noun-0,"Neutropenia"-tx-95-"neutropenia"-noun-0,"Neutropenia"-tx-16-"Neutropenia"-noun-0]|TX|19763/11;19596/11;19156/11;18870/11;18976/11;1832/11|
+00000000|MMI|20.95|Kidney Failure, Acute|C0022660|[dsyn]|["ACUTE RENAL FAILURE"-tx-41-"acute renal failure"-noun-0]|TX|6808/19|C12.777.419.780.050;C13.351.968.419.780.050
+00000000|MMI|20.95|Muscle Rigidity|C0026837|[sosy]|["MUSCLE RIGIDITY"-tx-40-"muscle rigidity"-noun-0]|TX|6517/15|C05.651.504;C10.597.613.550.500;C23.888.592.608.550.500
+00000000|MMI|20.95|Transient Cerebral Ischemia|C0917805|[dsyn]|["Transient ischemic attacks"-tx-24-"transient ischemic attacks"-noun-0]|TX|3229/26|C10.228.140.300.150.836;C14.907.253.092.836
+00000000|MMI|20.95|Transient Ischemic Attack|C0007787|[dsyn]|["Transient ischaemic attacks"-tx-24-"transient ischemic attacks"-noun-0]|TX|3229/26|C10.228.140.300.150.836;C14.907.253.092.836
+00000000|MMI|19.92|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-117-"pneumonia"-noun-0,"PNEUMONIA"-tx-43-"pneumonia"-noun-0]|TX|22908/9;7048/9|C08.381.677;C08.730.610
+00000000|MMI|19.75|20%|C3842589|[fndg]|["20%"-tx-81-"20"-integer-0,"20%"-tx-80-"20"-fraction-0,"20%"-tx-78-"20"-integer-0,"20%"-tx-27-"20"-integer-0]|TX|[15890/2],[16195/2];15262/2;13705/2;3785/2|
+00000000|MMI|19.62|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-94-"hypotension"-noun-0,"HYPOTENSION"-tx-93-"hypotension"-noun-0]|TX|18830/11;18648/11|C14.907.514
+00000000|MMI|19.45|Hypertriglyceridemia|C0020557|[dsyn]|["Triglycerides high"-tx-80-"Triglycerides High"-noun-0]|TX|15282/13,15347/4|C18.452.584.500.500.851
+00000000|MMI|19.42|Esophageal spasm|C0014863|[dsyn]|["esophageal dysmotility"-tx-115-"Esophageal dysmotility"-noun-0]|TX|22579/22|C06.405.117.119.500.450
+00000000|MMI|19.22|Suicide attempt|C0038663|[fndg]|["SUICIDE ATTEMPT"-tx-118-"suicide attempt"-noun-0]|TX|22991/15|F01.145.126.980.875.600;I01.880.735.856.600
+00000000|MMI|18.91|Prolonged QT interval|C0151878|[fndg]|["QT Prolongation"-tx-36-"QT prolongation"-noun-0,"QT Prolongation"-tx-35-"QT prolongation"-noun-0,"QT Prolongation"-tx-32-"prolongation QT"-noun-0,"QT Prolongation"-tx-26-"QT Prolongation"-noun-0,"QT Prolongation"-tx-2-"QT prolongation"-noun-0]|TX|5779/15;5650/15;5046/12,5066/2;3446/15;268/15|
+00000000|MMI|18.72|20-24|C3843397|[fndg]|["20-24"-tx-91-"20 24"-integer-0,"20-24"-tx-85-"20-24"-integer-0,"20-24"-tx-81-"20-24"-integer-0,"20-24"-tx-78-"20-24"-integer-0]|TX|18207/2,18213/2;16820/5;[15833/5],[16138/5];13648/5|
+00000000|MMI|18.51|White blood cell count decreased|C0750394|[fndg]|["Leukopenia"-tx-97-"leukopenia"-noun-0,"Leukopenia"-tx-95-"Leukopenia"-noun-0,"Leukopenia"-tx-95-"leukopenia"-noun-0,"Leukopenia"-tx-17-"leukopenia"-noun-0,"Leukopenia"-tx-16-"Leukopenia"-noun-0]|TX|19145/10;18858/10;18965/10;1983/10;1820/10|
+00000000|MMI|17.80|Drowsiness|C0013144|[fndg]|["Somnolence"-tx-125-"somnolence"-noun-0]|TX|23766/10|F02.830.855.796;G11.561.600.815.754
+00000000|MMI|17.80|Hyperglycemic Hyperosmolar Nonketotic Coma|C0020457|[dsyn]|["HYPEROSMOLAR COMA"-tx-66-"hyperosmolar coma"-noun-0]|TX|10809/17|C19.246.099.750.490
+00000000|MMI|17.80|Sepsis|C0243026|[dsyn]|["Infection, systemic"-tx-43-"systemic infection"-noun-0]|TX|7059/18|C01.539.757;C23.550.470.790.500
+00000000|MMI|17.80|Systemic arterial pressure|C1272641|[fndg]|["Blood pressure"-tx-40-"blood pressure"-noun-0]|TX|6642/14|G09.330.380.076.347
+00000000|MMI|16.27|Esophageal motility disorders|C0014858|[dsyn]|["ESOPHAGEAL DYSMOTILITY"-tx-115-"Esophageal dysmotility"-noun-0]|TX|22579/22|C06.405.117.119.500
+00000000|MMI|16.21|Hypokinesia|C0086439|[sosy]|["ACTIVITY Reduced"-tx-33-"reduced activity"-noun-0]|TX|5310/16|C10.597.350.400;C23.888.592.350.400
+00000000|MMI|16.21|Ketoacidosis|C0220982|[patf]|["KETOACIDOSIS"-tx-66-"ketoacidosis"-noun-0]|TX|10793/12|C18.452.076.176.652
+00000000|MMI|16.21|Ketosis|C0022638|[dsyn]|["Ketoacidosis"-tx-66-"ketoacidosis"-noun-0]|TX|10793/12|C18.452.076.176.652
+00000000|MMI|16.21|Neoplastic Cell Transformation|C0007621|[neop]|["Tumorigenesis"-tx-108-"tumorigenesis"-noun-0]|TX|21069/13|C04.697.098.500;C23.550.727.098.500
+00000000|MMI|16.19|Weight Gain Adverse Event|C2911647|[fndg]|["Weight gain"-tx-85-"Weight Gain"-noun-0,"Weight gain"-tx-13-"weight gain"-noun-0,"Weight gain"-tx-10-"Weight Gain"-noun-0,"Weight gain"-tx-10-"Weight gain"-noun-0]|TX|17061/11;1560/11;1273/11;1286/11|
+00000000|MMI|16.17|Pituitary Diseases|C0032002|[dsyn]|["Pituitary"-tx-102-"pituitary"-noun-0]|TX|20096/9|C10.228.140.617.738;C19.700
+00000000|MMI|16.12|Catatonia|C0007398|[mobd]|["Catatonic"-tx-40-"catatonic"-adj-0]|TX|6567/9|C10.597.606.115;C23.888.592.604.115;F01.145.126.156;F01.700.165
+00000000|MMI|16.05|Diabetes Mellitus, Non-Insulin-Dependent|C0011860|[dsyn]|["diabetes"-tx-8-"diabetes"-noun-0]|TX|1124/8|C18.452.394.750.149;C19.246.300
+00000000|MMI|15.79|Convulsion threshold|C0520967|[fndg]|["Seizure threshold"-tx-87-"seizure threshold"-noun-0,"Seizure threshold"-tx-86-"seizure threshold"-noun-0,"Seizure threshold"-tx-14-"seizure threshold"-noun-0]|TX|17633/17;17560/17;1683/17|
+00000000|MMI|15.79|Tachycardia by ECG Finding|C3827868|[fndg]|["TACHYCARDIA"-tx-88-"tachycardia"-noun-0,"TACHYCARDIA"-tx-40-"tachycardia"-noun-0,"TACHYCARDIA"-tx-15-"tachycardia"-noun-0]|TX|17837/11;6658/11;1754/11|
+00000000|MMI|14.88|Adverse event|C0877248|[patf]|["adverse events"-tx-68-"adverse events"-noun-0,"adverse events"-tx-24-"Adverse Events"-noun-0,"adverse events"-tx-24-"adverse events"-noun-0,"adverse events"-tx-1-"adverse events"-noun-0]|TX|11312/14;2985/14;3183/14;218/14|
+00000000|MMI|14.79|Gait normal|C0231683|[fndg]|["Normal"-tx-80-"Normal"-adj-0]|TX|[14801/6],[14980/6],[15159/6],[15337/6]|
+00000000|MMI|14.64|Amenorrhea|C0002453|[dsyn]|["AMENORRHOEA"-tx-104-"amenorrhea"-noun-0]|TX|20263/10|C23.550.568.500
+00000000|MMI|14.64|Aspiration Pneumonia|C0032290|[dsyn]|["ASPIRATION PNEUMONIA"-tx-116-"Aspiration pneumonia"-noun-0]|TX|22667/20|C08.381.677.529;C08.730.610.529
+00000000|MMI|14.64|Bradycardia|C0428977|[patf]|["BRADYCARDIA"-tx-32-"bradycardia"-noun-0]|TX|4901/11|C14.280.067.319;C23.550.073.300
+00000000|MMI|14.64|Cerebrovascular Disorders|C0007820|[dsyn]|["CEREBROVASCULAR DISEASE"-tx-93-"cerebrovascular disease"-noun-0]|TX|18578/23|C10.228.140.300;C14.907.253
+00000000|MMI|14.64|Conduction disorder of the heart|C0264886|[patf]|["CARDIAC Arrythmia"-tx-36-"cardiac arrhythmia"-noun-0]|TX|5864/18|x.x.x.x
+00000000|MMI|14.64|Erectile dysfunction|C0242350|[dsyn]|["IMPOTENCE"-tx-104-"impotence"-noun-0]|TX|20293/9|C12.294.644.486;F03.835.400
+00000000|MMI|14.64|Myoglobinuria|C0027080|[fndg]|["MYOGLOBINURIA"-tx-41-"myoglobinuria"-noun-0]|TX|6772/13|C05.651.807.628
+00000000|MMI|14.61|Presenile dementia|C0011265|[mobd]|["dementia"-tx-25-"dementia"-adj-1,"dementia"-tx-24-"dementia"-noun-0,"dementia"-tx-23-"dementia"-adj-1,"dementia"-tx-22-"Dementia"-adj-0]|TX|3374/8;3125/8;2899/8;2631/8|
+00000000|MMI|13.07|Chronic disease|C0008679|[dsyn]|["Chronic Illness"-tx-58-"chronic illness"-noun-0]|TX|9605/15|C23.550.291.500
+00000000|MMI|13.05|Carcinogenesis|C0596263|[neop]|["Tumorigenesis"-tx-108-"tumorigenesis"-noun-0]|TX|21069/13|C04.697.098;C23.550.727.098
+00000000|MMI|13.05|Fever|C0015967|[fndg]|["FEVER"-tx-99-"fever"-noun-0]|TX|19642/5|C23.888.119.344
+00000000|MMI|13.02|Mental Suffering|C0683278|[mobd]|["suffer"-tx-58-"suffer"-verb-0]|TX|9591/6|F01.145.126.990;F02.830.900
+00000000|MMI|13.02|Recurrence (disease attribute)|C2825055|[patf]|["Recurrences"-tx-48-"recurrences"-noun-0]|TX|7968/11|C23.550.291.937
+00000000|MMI|12.92|Deglutition Disorders|C0011168|[dsyn]|["DYSPHAGIA"-tx-115-"Dysphagia"-noun-0]|TX|22564/9|C06.405.117.119;C09.775.174
+00000000|MMI|12.90|Drug Overdose|C0029944|[inpo]|["OVERDOSE"-tx-119-"overdose"-noun-0]|TX|23267/8|C25.775.383;E02.319.754.500
+00000000|MMI|11.80|Mental blocking|C0233660|[mobd]|["Blocking"-tx-103-"inhibit"-verb-0,"Blocking"-tx-33-"inhibit"-verb-0,"Blocking"-tx-3-"inhibit"-verb-0]|TX|20149/7;5225/7;576/7|
+00000000|MMI|11.80|Obstruction|C0028778|[patf]|["blocks"-tx-103-"inhibit"-verb-0,"blocks"-tx-33-"inhibit"-verb-0,"blocks"-tx-3-"inhibit"-verb-0]|TX|20149/7;5225/7;576/7|
+00000000|MMI|11.70|Congestive heart failure|C0018802|[dsyn]|["Heart Failure"-tx-93-"heart failure"-noun-0,"Heart Failure"-tx-36-"heart failure"-noun-0,"Heart Failure"-tx-32-"heart failure"-noun-0]|TX|18489/13;5846/13;5144/13|
+00000000|MMI|11.66|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-91-"3"-percentage-0,"3+"-tx-45-"3"-integer-0,"3+"-tx-32-"3"-integer-0]|TX|18224/1;7571/1;4950/1|
+00000000|MMI|11.66|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-88-"dizziness"-noun-0,"Dizziness"-tx-38-"dizziness"-noun-0,"Dizziness"-tx-15-"Dizziness"-noun-0]|TX|17826/9;6102/9;1743/9|
+00000000|MMI|11.49|Heat Stroke|C0018843|[inpo]|["Heatstroke"-tx-44-"heat stroke"-noun-0]|TX|7267/11|C26.522.500
+00000000|MMI|11.49|Hypovolemia|C0546884|[fndg]|["HYPOVOLEMIA"-tx-93-"hypovolemia"-noun-0]|TX|18674/11|C23.550.455
+00000000|MMI|11.49|Ischemia|C0022116|[patf]|["Ischaemia"-tx-93-"ischemia"-noun-0]|TX|18538/8|C23.550.513
+00000000|MMI|11.49|Rhabdomyolysis|C0035410|[patf]|["RHABDOMYOLYSIS"-tx-41-"rhabdomyolysis"-noun-0]|TX|6787/14|C05.651.807
+00000000|MMI|11.49|Schizoaffective Disorder|C0036337|[mobd]|["SCHIZOAFFECTIVE DISORDER"-tx-26-"schizoaffective disorder"-noun-0]|TX|3528/24|F03.700.675
+00000000|MMI|11.09|Death (finding)|C1306577|[fndg]|["Death"-tx-66-"death"-noun-0,"Death"-tx-22-"death"-noun-0,"Death"-tx-1-"death"-noun-0]|TX|10830/5;2810/5;184/5|
+00000000|MMI|11.07|Nonorganic psychosis|C0349204|[mobd]|["Psychosis NOS"-tx-25-"psychosis"-noun-1,"Psychosis NOS"-tx-23-"psychosis"-noun-1,"Psychosis NOS"-tx-22-"Psychosis"-noun-0]|TX|3391/9;2916/9;2648/9|
+00000000|MMI|11.05|History of neutropenia|C4040114|[fndg]|["History of neutropenia"-tx-98-"history of neutropenia"-noun-0,"History of neutropenia"-tx-97-"history of neutropenia"-noun-0,"History of neutropenia"-tx-17-"history of neutropenia"-noun-0]|TX|19315/10,19350/11;19225/10,19260/11;1972/10,1994/11|
+00000000|MMI|10.95|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-86-"history of"-noun-0,"HISTORY OF"-tx-36-"histories of"-noun-0,"HISTORY OF"-tx-14-"history of"-noun-0]|TX|17494/10;5724/12;1633/10|
+00000000|MMI|10.93|0%|C3842591|[fndg]|["0%"-tx-112-"0"-percentage-0,"0%"-tx-80-"0"-real_number-0]|TX|[21898/1],[22000/1];14550/1|
+00000000|MMI|10.90|White blood cell count low|C0948695|[fndg]|["low white blood cell count"-tx-98-"low WBC"-noun-0,"low white blood cell count"-tx-97-"low white blood cell count"-noun-0,"low white blood cell count"-tx-17-"low white blood cell count"-noun-0]|TX|19302/7;19188/26;1934/26|
+00000000|MMI|10.82|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-126-"therapy"-noun-0,"Therapy"-tx-98-"therapy"-noun-0,"Therapy"-tx-17-"therapy"-noun-0]|TX|24076/7;19459/7;2103/7|
+00000000|MMI|10.42|Core body temperature|C0456240|[fndg]|["Core body temperature"-tx-114-"core body temperature"-noun-0,"Core body temperature"-tx-113-"core body temperature"-noun-0]|TX|22372/21;22164/21|
+00000000|MMI|10.42|Galactorrhea associated with childbirth|C0269995|[dsyn]|["Galactorrhoea"-tx-112-"galactorrhea"-noun-0,"Galactorrhoea"-tx-104-"Galactorrhea"-noun-0]|TX|21952/12;20249/12|
+00000000|MMI|10.42|Gynecomastia Adverse Event|C1963120|[fndg]|["Gynecomastia"-tx-112-"gynecomastia"-noun-0,"Gynecomastia"-tx-104-"gynecomastia"-noun-0]|TX|21852/12;20275/12|
+00000000|MMI|10.42|Hypomagnesemia|C0151723|[fndg]|["HYPOMAGNESEMIA"-tx-35-"hypomagnesemia"-noun-0,"HYPOMAGNESEMIA"-tx-32-"hypomagnesemia"-noun-0]|TX|5609/14;4933/14|
+00000000|MMI|10.42|Increased appetite (finding)|C0232461|[fndg]|["polyphagia"-tx-73-"polyphagia"-noun-0,"polyphagia"-tx-7-"polyphagia"-noun-0]|TX|12256/10;1048/10|
+00000000|MMI|10.42|Used by|C1273517|[fndg]|["used"-tx-117-"used"-verb-0,"used"-tx-86-"used"-verb-0]|TX|22857/4;17459/4|
+00000000|MMI|10.42|Weakness|C3714552|[sosy]|["WEAKNESS"-tx-73-"weakness"-noun-0,"WEAKNESS"-tx-7-"weakness"-noun-0]|TX|12272/8;1064/8|
+00000000|MMI|9.90|Hypogonadism|C0020619|[dsyn]|["HYPOGONADISM"-tx-105-"hypogonadism"-noun-0]|TX|20412/12|C19.391.482
+00000000|MMI|9.87|Complications of Diabetes Mellitus|C0342257|[patf]|["complicated Diabetes Mellitus"-tx-67-"complicated diabetes mellitus"-noun-0]|TX|11017/11,11083/17|C19.246.099
+00000000|MMI|9.76|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-99-"infection"-noun-0]|TX|19678/9|C01.539.221
+00000000|MMI|7.66|Acute Myocardial Infarction by ECG Finding|C3541950|[fndg]|["Acute Myocardial Infarction"-tx-36-"acute myocardial infarction"-noun-0,"Acute Myocardial Infarction"-tx-32-"acute myocardial infarction"-noun-0]|TX|5803/27;5090/27|
+00000000|MMI|7.66|Acute myocardial infarction|C0155626|[dsyn]|["Acute Myocardial Infarction"-tx-36-"acute myocardial infarction"-noun-0,"Acute Myocardial Infarction"-tx-32-"acute myocardial infarction"-noun-0]|TX|5803/27;5090/27|
+00000000|MMI|7.66|Recent myocardial infarction|C1998297|[fndg]|["Recent myocardial infarction"-tx-36-"recent myocardial infarction"-noun-0,"Recent myocardial infarction"-tx-32-"recent myocardial infarction"-noun-0]|TX|5796/6,5809/21;5083/6,5096/21|
+00000000|MMI|7.62|Sudden Death Adverse Event Not Associated with More Specific CTCAE Term|C1964022|[fndg]|["Sudden death"-tx-32-"sudden death"-noun-0,"Sudden death"-tx-2-"sudden death"-noun-0]|TX|4806/12;348/12|
+00000000|MMI|7.57|4+ Answer to question|C3838679|[fndg]|["4+"-tx-85-"4"-integer-0,"4+"-tx-84-"4"-integer-0]|TX|17292/1;16548/1|
+00000000|MMI|7.45|consideration|C0518609|[fndg]|["considerations"-tx-57-"considerations"-noun-0,"considerations"-tx-44-"considerations"-noun-0]|TX|9387/14;7180/14|
+00000000|MMI|7.40|80%|C3842583|[fndg]|["80%"-tx-80-"80"-fraction-0,"80%"-tx-77-"80"-fraction-0]|TX|15248/2;13274/2|
+00000000|MMI|7.30|Malignant neoplasm of breast|C0006142|[neop]|["-- Breast Cancer"-tx-106-"breast cancer"-noun-0,"Cancer of Breast"-tx-106-"of breast cancers"-noun-0]|TX|20745/13;20563/2,20572/14|
+00000000|MMI|7.29|5-6|C3843715|[fndg]|["5-6"-tx-85-"5.6"-real_number-0,"5-6"-tx-15-"5.6"-real_number-0]|TX|17229/3;1705/3|
+00000000|MMI|7.29|6/5|C0442749|[fndg]|["5 6"-tx-85-"5.6"-real_number-0,"5 6"-tx-15-"5.6"-real_number-0]|TX|17229/3;1705/3|
+00000000|MMI|7.27|Contact with machinery|C0337246|[inpo]|["Machinery"-tx-126-"machinery"-noun-0,"Machinery"-tx-20-"machinery"-noun-0]|TX|24003/9;2468/9|
+00000000|MMI|7.16|Impaired health|C0684336|[patf]|["Impairment"-tx-124-"Impairment"-noun-0,"Impairment"-tx-20-"impairment"-noun-0]|TX|23609/10;2429/10|
+00000000|MMI|7.10|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-97-"risk factors"-noun-0,"risk factors"-tx-72-"risk factors"-noun-0]|TX|19128/12;11880/12|
+00000000|MMI|7.10|Activity (animal life circumstance)|C3668946|[fndg]|["Activity"-tx-122-"activity"-noun-0,"Activity"-tx-114-"activity"-noun-0]|TX|23498/8;22505/8|
+00000000|MMI|7.10|Endurance of activity|C0600075|[fndg]|["Activity"-tx-122-"activity"-noun-0,"Activity"-tx-114-"activity"-noun-0]|TX|23498/8;22505/8|
+00000000|MMI|7.01|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-96-"fatal"-adj-0,"FATAL"-tx-39-"fatal"-adj-0]|TX|19078/5;6292/5|
+00000000|MMI|7.00|Torsade de Pointes Adverse Event|C1963250|[fndg]|["Torsade de pointes"-tx-32-"torsade de pointes"-noun-0,"Torsade de pointes"-tx-29-"torsade de pointes"-noun-1]|TX|4780/18;4031/18|
+00000000|MMI|6.99|Drug-induced neutropenia|C0272178|[dsyn]|["Drug induced Leukopenia"-tx-98-"drug induced leukopenia"-noun-0,"Drug induced Leukopenia"-tx-97-"drug induced leukopenia"-noun-0]|TX|19326/23;19236/23|
+00000000|MMI|6.96|Dementia with psychosis|C0543884|[mobd]|["Dementia with psychosis"-tx-22-"with dementia psychosis"-noun-0,"Dementia with psychosis"-tx-1-"with dementia psychosis"-noun-0]|TX|2708/13,2730/9;74/13,96/9|
+00000000|MMI|6.96|Signs and Symptoms|C0037088|[sosy]|["Signs and Symptoms"-tx-43-"signs and symptoms"-noun-0]|TX|7138/18|C23.888
+00000000|MMI|6.94|Electrolyte imbalance|C0342579|[patf]|["disturbances electrolyte"-tx-34-"electrolyte disturbances"-noun-0,"disturbances electrolyte"-tx-4-"electrolyte disturbances"-noun-0]|TX|5481/24;665/24|
+00000000|MMI|6.93|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-94-"hypotension"-noun-0,"Hypotension"-tx-93-"hypotension"-noun-0]|TX|18830/11;18648/11|
+00000000|MMI|6.90|Diagnosis|C0011900|[fndg]|["DIAGNOSIS"-tx-43-"diagnosis"-noun-0,"Diagnostic"-tx-42-"diagnostic"-adj-0]|TX|6923/9;6837/10|E01
+00000000|MMI|6.83|Congenital Abnormality|C0000768|[cgab]|["Abnormalities"-tx-67-"abnormalities"-noun-0]|TX|11000/13|C16.131
+00000000|MMI|6.73|Metabolic Diseases|C0025517|[dsyn]|["metabolic condition"-tx-28-"conditions metabolic"-noun-0]|TX|3860/10,3874/9|C18.452
+00000000|MMI|6.60|Infection|C3714514|[patf]|["INFECTION"-tx-99-"infection"-noun-0]|TX|19678/9|C01.539
+00000000|MMI|5.18|3/6|C0442759|[fndg]|["3 6"-tx-80-"3.6"-percentage-0]|TX|14836/3|
+00000000|MMI|5.18|3/9|C0442760|[fndg]|["3/9"-tx-81-"3.9"-real_number-0]|TX|15790/3|
+00000000|MMI|5.18|Abnormal cardiac conduction|C0232219|[patf]|["Conduction Abnormalities"-tx-93-"conduction abnormalities"-noun-0]|TX|18551/24|
+00000000|MMI|5.18|Abnormal mental state|C0278061|[mobd]|["Altered Mental Status"-tx-40-"altered mental status"-noun-0]|TX|6534/21|
+00000000|MMI|5.18|Actual Aspiration|C2712334|[fndg]|["Aspiration"-tx-115-"aspiration"-noun-0]|TX|22606/10|
+00000000|MMI|5.18|Adverse Event Associated with Cardiac Arrhythmia|C1560249|[patf]|["CARDIAC ARRHYTHMIA"-tx-36-"cardiac arrhythmia"-noun-0]|TX|5864/18|
+00000000|MMI|5.18|Adverse drug interaction|C0678798|[fndg]|["Drug interaction"-tx-33-"Drug Interaction"-noun-0]|TX|5256/16|
+00000000|MMI|5.18|Aspiration pneumonitis|C1761609|[dsyn]|["Aspiration Pneumonia"-tx-116-"Aspiration pneumonia"-noun-0]|TX|22667/20|
+00000000|MMI|5.18|Blood pressure finding|C1271104|[fndg]|["Blood Pressure"-tx-40-"blood pressure"-noun-0]|TX|6642/14|
+00000000|MMI|5.18|Bradycardia by ECG Finding|C3812171|[fndg]|["BRADYCARDIA"-tx-32-"bradycardia"-noun-0]|TX|4901/11|
+00000000|MMI|5.18|Canadian Cardiovascular Society Grading Scale Class III|C2698969|[fndg]|["Class III"-tx-30-"Class III"-noun-0]|TX|4299/9|
+00000000|MMI|5.18|Congenital long QT syndrome|C1141890|[dsyn]|["Congenital long QT syndrome"-tx-31-"congenital long QT syndrome"-noun-0]|TX|4646/27|
+00000000|MMI|5.18|Did not receive therapy or drug for|C0332155|[fndg]|["untreated"-tx-43-"untreated"-adj-0]|TX|7089/9|
+00000000|MMI|5.18|Drug-induced hyperpyrexia|C1320835|[patf]|["DRUG FEVER"-tx-44-"drug fever"-noun-0]|TX|7280/10|
+00000000|MMI|5.18|Dyskinetic movements|C2678069|[fndg]|["Dyskinetic movements"-tx-49-"dyskinetic movements"-noun-0]|TX|8132/20|
+00000000|MMI|5.18|Family history of diabetes mellitus|C1313937|[fndg]|["Family history of diabetes"-tx-72-"family history of diabetes"-noun-0]|TX|11931/26|
+00000000|MMI|5.18|History of myocardial infarction|C1275835|[fndg]|["History of - myocardial infarction"-tx-93-"history of myocardial infarction"-noun-0]|TX|18504/32|
+00000000|MMI|5.18|Hyperpyrexia|C0392676|[patf]|["HYPERPYREXIA"-tx-40-"hyperpyrexia"-noun-0]|TX|6503/12|
+00000000|MMI|5.18|Increased sweating|C0700590|[sosy]|["DIAPHORESIS"-tx-40-"diaphoresis"-noun-0]|TX|6671/11|
+00000000|MMI|5.18|Limited Walking Ability|C2674459|[fndg]|["Limited"-tx-108-"limited"-verb-0]|TX|21135/7|
+00000000|MMI|5.18|Obesity Adverse Event|C1963185|[fndg]|["Obesity"-tx-72-"obesity"-noun-0]|TX|11922/7|
+00000000|MMI|5.18|Old myocardial infarction|C0155668|[dsyn]|["History of Myocardial Infarction"-tx-93-"history of myocardial infarction"-noun-0]|TX|18504/32|
+00000000|MMI|5.18|Palpitations|C0030252|[fndg]|["PALPITATIONS"-tx-38-"palpitations"-noun-0]|TX|6113/12|
+00000000|MMI|5.18|Palpitations Adverse Event|C3160712|[fndg]|["Palpitations"-tx-38-"palpitations"-noun-0]|TX|6113/12|
+00000000|MMI|5.18|Pre-renal acute kidney injury|C3854173|[dsyn]|["Acute renal failure"-tx-41-"acute renal failure"-noun-0]|TX|6808/19|
+00000000|MMI|5.18|Pulmonary aspiration|C0700198|[patf]|["ASPIRATION"-tx-115-"aspiration"-noun-0]|TX|22606/10|
+00000000|MMI|5.18|Pulse irregular|C0392684|[fndg]|["IRREGULAR PULSE"-tx-40-"irregular pulse"-noun-0]|TX|6623/15|
+00000000|MMI|5.18|Resolved|C3714811|[fndg]|["RESOLVED"-tx-75-"resolved"-verb-0]|TX|12454/8|
+00000000|MMI|5.18|Sedated state|C0235195|[fndg]|["SEDATION"-tx-125-"sedation"-noun-0]|TX|23788/8|
+00000000|MMI|5.18|Somnolence|C2830004|[fndg]|["SOMNOLENCE"-tx-125-"somnolence"-noun-0]|TX|23766/10|
+00000000|MMI|5.18|Surgical intervention (finding)|C0549433|[fndg]|["SURGICAL INTERVENTION"-tx-123-"surgical intervention"-noun-0]|TX|23536/21|
+00000000|MMI|5.18|Thinking and speaking disturbances|C0233629|[mobd]|["Thinking, NOS"-tx-124-"thinking"-verb-0]|TX|23698/8|
+00000000|MMI|5.18|Unable to perform sex|C2187990|[sosy]|["impotence"-tx-104-"impotence"-noun-0]|TX|20293/9|
+00000000|MMI|5.18|Unintentional Material Aspiration|C2827071|[fndg]|["Aspiration"-tx-115-"aspiration"-noun-0]|TX|22606/10|
+00000000|MMI|5.18|Withdrawal (dysfunction)|C2825032|[mobd]|["Withdrawn"-tx-54-"withdrawn"-verb-0]|TX|9091/9|
+00000000|MMI|5.18|Withdrawn|C0424092|[fndg]|["Withdrawn"-tx-54-"withdrawn"-verb-0]|TX|9091/9|
+00000000|MMI|5.18|exposure to extreme heat|C2220321|[fndg]|["exposure to extreme heat"-tx-114-"exposure to extreme heat"-noun-0]|TX|22425/24|
+00000000|MMI|5.18|menstrual periods stopped for over 6 months|C2219717|[sosy]|["Amenorrhea"-tx-104-"amenorrhea"-noun-0]|TX|20263/10|
+00000000|MMI|5.18|physiologic resolution|C1514893|[patf]|["Resolved"-tx-75-"resolved"-verb-0]|TX|12454/8|
+00000000|MMI|4.10|Elevated creatine kinase|C0151576|[fndg]|["Elevated creatine kinase"-tx-41-"elevated creatine phosphokinase"-noun-0]|TX|6739/31|
+00000000|MMI|3.81|At risk for aspiration|C0150012|[fndg]|["At risk for aspiration"-tx-117-"at risk for aspiration"-noun-0]|TX|22885/22|
+00000000|MMI|3.81|Increased prolactin level|C0747979|[fndg]|["Elevated prolactin levels"-tx-110-"elevated prolactin levels"-noun-0]|TX|21440/8,21456/16|
+00000000|MMI|3.78|stress associated with serious illness|C2020635|[fndg]|["serious illness"-tx-43-"serious illness"-noun-0]|TX|7017/7,7033/7|
+00000000|MMI|3.75|Clinical Response|C4055223|[fndg]|["Clinical Response"-tx-59-"clinical response"-noun-0]|TX|9925/17|
+00000000|MMI|3.75|anticholinergic toxicity|C0237996|[inpo]|["ANTICHOLINERGIC TOXICITY"-tx-44-"anticholinergic toxicity"-noun-0]|TX|7241/24|
+00000000|MMI|3.74|Excessive body weight gain|C0000765|[fndg]|["WEIGHT GAIN INCREASED"-tx-81-"Weight Gain gain"-noun-0]|TX|16216/11,16241/4|
+00000000|MMI|3.70|History of cardiac arrhythmia|C3494593|[fndg]|["History of cardiac arrhythmia"-tx-31-"history of cardiac arrhythmias"-noun-0]|TX|4697/30|
+00000000|MMI|3.68|Bone density decreased|C0877225|[fndg]|["Decreased Bone Density"-tx-105-"decreased bone density"-noun-0]|TX|20437/22|
+00000000|MMI|3.68|90%|C3842582|[fndg]|["90%"-tx-80-"90"-fraction-0]|TX|15087/2|
+00000000|MMI|3.68|Does turn (finding)|C0541749|[fndg]|["turn"-tx-103-"turn"-adv-0]|TX|20139/4|
+00000000|MMI|3.68|In care (finding)|C0580931|[fndg]|["care"-tx-114-"care"-noun-0]|TX|22243/4|
+00000000|MMI|3.68|Visual Suppression|C0221103|[patf]|["Suppression"-tx-56-"suppression"-noun-0]|TX|9301/11|
+00000000|MMI|3.68|Weight symptom (finding)|C0424653|[sosy]|["weight"-tx-85-"Weight"-noun-0]|TX|16911/6|
+00000000|MMI|3.67|Serum prolactin increased|C0857980|[fndg]|["Serum prolactin increased"-tx-107-"increases serum prolactin"-noun-0]|TX|20800/9,20813/15|
+00000000|MMI|3.66|Hypercholesterolemia result|C1522133|[fndg]|["Cholesterol high"-tx-80-"Cholesterol High"-noun-0]|TX|14747/11,14811/4|
+00000000|MMI|3.65|treatment need|C0815189|[fndg]|["Need for treatment"-tx-60-"need for treatment"-noun-0]|TX|9965/8,9984/9|
+00000000|MMI|3.64|Serum glucose normal|C0856504|[fndg]|["Serum glucose normal"-tx-77-"Serum Glucose Normal"-noun-0]|TX|13173/20|
+00000000|MMI|3.63|Day 4|C3840892|[fndg]|["Day 4"-tx-81-"day 4"-noun-0]|TX|15842/3,15851/1|
+00000000|MMI|3.63|Day 6|C3842673|[fndg]|["Day 6"-tx-81-"day 6"-noun-0]|TX|16147/3,16156/1|
+00000000|MMI|3.63|Triglycerides normal|C0858310|[fndg]|["Triglycerides normal"-tx-80-"Triglycerides Normal"-noun-0]|TX|15282/13,15337/6|
+00000000|MMI|3.62|Cholesterol total normal|C0858309|[fndg]|["Cholesterol normal"-tx-80-"Cholesterol Normal"-noun-0]|TX|14747/11,14801/6|
+00000000|MMI|3.62|Day 3|C3842675|[fndg]|["Day 3"-tx-78-"day 3"-noun-0]|TX|13657/3,13663/1|
+00000000|MMI|3.61|Drug usage|C0242510|[mobd]|["Drug use"-tx-115-"drug use"-noun-0]|TX|22657/8|
+00000000|MMI|3.61|Drug use history|C2239127|[fndg]|["drug use"-tx-115-"drug use"-noun-0]|TX|22657/8|
+00000000|MMI|3.61|Reported history of chronic illness|C2186378|[fndg]|["chronic illness"-tx-58-"chronic illness"-noun-0]|TX|9605/15|
+00000000|MMI|3.60|Pathology processes|C0677042|[patf]|["pathology"-tx-44-"pathology"-noun-0]|TX|7333/9|
+00000000|MMI|3.60|Cardiac occurrence|C3845749|[fndg]|["Cardiac occurrence"-tx-38-"occurrence cardiac"-noun-0]|TX|6061/10,6075/7|
+00000000|MMI|3.60|Encounter due to drug use|C0476643|[fndg]|["use; drugs"-tx-32-"use drugs"-noun-0]|TX|4843/3,4850/5|
+00000000|MMI|3.60|medication use|C0240320|[fndg]|["use Drugs"-tx-32-"use drugs"-noun-0]|TX|4843/3,4850/5|
+00000000|MMI|3.59|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-99-"fever"-noun-0]|TX|19642/5|
+00000000|MMI|3.59|combination - answer to question|C3811910|[fndg]|["Combination"-tx-30-"combination"-noun-0]|TX|4186/11|
+00000000|MMI|3.58|patient symptoms|C1317600|[fndg]|["patients symptoms"-tx-7-"patients symptoms"-noun-0]|TX|977/8,990/8|
+00000000|MMI|3.58|Electrocardiogram QT corrected interval prolonged|C0855333|[fndg]|["QTC PROLONGATION"-tx-26-"QTc prolongation"-noun-0]|TX|3589/16|
+00000000|MMI|3.56|diabetes mellitus risk|C0743140|[dsyn]|["DIABETES MELLITUS RISK"-tx-67-"risk diabetes mellitus"-noun-0]|TX|11075/4,11083/17|
+00000000|MMI|3.55|Worse|C1457868|[fndg]|["Worsening"-tx-71-"worsening"-noun-0]|TX|11836/9|
+00000000|MMI|3.53|5 - 9|C3840622|[fndg]|["5 - 9"-tx-101-"5.9"-real_number-0]|TX|19894/3|
+00000000|MMI|3.52|Write - language ability|C1576875|[fndg]|["Write"-tx-119-"written"-verb-0]|TX|23151/7|
+00000000|MMI|3.50|Close|C3810854|[fndg]|["Close"-tx-5-"close"-adj-0]|TX|820/5|
+00000000|MMI|3.48|Autonomic nervous system imbalance|C0262385|[dsyn]|["AUTONOMIC INSTABILITY"-tx-40-"autonomic instability"-noun-0]|TX|6600/21|
+00000000|MMI|3.48|Psychotic illness|C1860474|[fndg]|["Psychotic illness"-tx-118-"psychotic illness"-noun-0]|TX|23022/17|
+00000000|MMI|3.48|Encounter due to counseling|C0740209|[fndg]|["Counseling NOS"-tx-64-"Counseling"-adj-0]|TX|10507/10|
+00000000|MMI|3.47|Detected (finding)|C0442726|[fndg]|["Detected"-tx-106-"detected"-adj-0]|TX|20736/8|
+00000000|MMI|3.47|Proliferation (morphologic abnormality)|C0334094|[patf]|["Proliferative"-tx-107-"proliferative"-adj-0]|TX|20774/13|
+00000000|MMI|3.46|Distance vision 6/6|C0442750|[fndg]|["6/6"-tx-77-"6.6"-real_number-0]|TX|13093/3|
+00000000|MMI|3.45|Cardiovascular Diseases|C0007222|[dsyn]|["CARDIOVASCULAR DISEASE"-tx-93-"cardiovascular disease"-noun-0]|TX|18459/22|C14
+00000000|MMI|3.44|Diabetes|C0011847|[dsyn]|["Diabetes"-tx-8-"diabetes"-noun-0]|TX|1124/8|
+00000000|MMI|3.44|Overdose|C4018909|[fndg]|["Overdose"-tx-119-"overdose"-noun-0]|TX|23267/8|
+00000000|MMI|3.43|Illness (finding)|C0221423|[sosy]|["Illness"-tx-36-"illness"-noun-0]|TX|5764/7|
+00000000|MMI|3.42|65+|C3843765|[fndg]|["65+"-tx-87-"65"-integer-0]|TX|17692/2|

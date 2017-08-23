@@ -1,0 +1,218 @@
+T1	AdverseReaction 412 434	cardiovascular effects
+T2	Severity 400 411	significant
+T4	AdverseReaction 446 451	fatal
+T6	Severity 555 571	Life-threatening
+T7	AdverseReaction 572 596	paradoxical bronchospasm
+T8	Factor 597 600	can
+T9	AdverseReaction 1027 1032	death
+T12	AdverseReaction 1400 1406	deaths
+T14	AdverseReaction 1601 1606	death
+T15	Factor 1578 1582	risk
+T17	AdverseReaction 2109 2114	death
+T20	AdverseReaction 4790 4816	hypersensitivity reactions
+T21	Factor 4817 4820	may
+T22	AdverseReaction 5231 5255	paradoxical bronchospasm
+T23	Factor 5219 5222	may
+T24	Severity 5268 5284	life-threatening
+T25	AdverseReaction 5535 5556	cardiovascular effect
+T26	Severity 5523 5534	significant
+T27	AdverseReaction 5589 5612	increases in pulse rate
+T28	AdverseReaction 5589 5601;5614 5622;5636 5650	increases in systolic blood pressure
+T29	AdverseReaction 5589 5601;5626 5650	increases in diastolic blood pressure
+T31	AdverseReaction 5791 5802	ECG changes
+T32	AdverseReaction 5812 5836	flattening of the T wave
+T33	AdverseReaction 5838 5870	prolongation of the QTc interval
+T34	AdverseReaction 5876 5897	ST segment depression
+T35	AdverseReaction 6526 6566	aggravate pre-existing diabetes mellitus
+T36	AdverseReaction 6526 6535;6571 6583	aggravate ketoacidosis
+T37	AdverseReaction 6686 6697	hypokalemia
+T39	Severity 6674 6685	significant
+T40	AdverseReaction 6792 6822	adverse cardiovascular effects
+T41	AdverseReaction 6866 6893	decrease in serum potassium
+T42	AdverseReaction 7013 7040	increases in plasma glucose
+T44	AdverseReaction 7097 7121	changes in blood glucose
+T45	AdverseReaction 7065 7093	decreases in serum potassium
+T47	DrugClass 370 374	LABA
+T48	DrugClass 945 986	long-acting beta  2  -adrenergic agonists
+T49	DrugClass 1255 1295	long-acting beta  2  -adrenergic agonist
+T10	Factor 5498 5501	can
+T18	DrugClass 5747 5760	beta-agonists
+T19	DrugClass 6446 6459	beta2-agonist
+T30	DrugClass 6636 6649	Beta2-agonist
+T50	DrugClass 6975 7000	beta2-adrenergic agonists
+T46	AdverseReaction 477 503	hypersensitivity reactions
+T51	Factor 504 507	may
+E1	AdverseReaction:T1 Effect:E2 Hypothetical2:E47
+E2	Severity:T2
+E4	AdverseReaction:T4 Hypothetical2:E47
+E6	Severity:T6
+E7	AdverseReaction:T7 Hypothetical:E8 Effect:E6
+E8	Factor:T8
+E9	AdverseReaction:T9 Hypothetical2:E48
+E12	AdverseReaction:T12 Hypothetical:E49
+E14	AdverseReaction:T14 Hypothetical:E15
+E15	Factor:T15
+E17	AdverseReaction:T17
+E20	AdverseReaction:T20 Hypothetical:E21
+E21	Factor:T21
+E22	AdverseReaction:T22 Hypothetical:E23 Effect:E24
+E23	Factor:T23
+E24	Severity:T24
+E25	AdverseReaction:T25 Effect:E26 Hypothetical:E10
+E26	Severity:T26
+E27	AdverseReaction:T27 Hypothetical:E10
+E28	AdverseReaction:T28 Hypothetical:E10
+E29	AdverseReaction:T29 Hypothetical:E10
+E31	AdverseReaction:T31 Hypothetical:E18
+E32	AdverseReaction:T32 Hypothetical:E18
+E33	AdverseReaction:T33 Hypothetical:E18
+E34	AdverseReaction:T34 Hypothetical:E18
+E35	AdverseReaction:T35 Hypothetical:E19
+E36	AdverseReaction:T36 Hypothetical:E19
+E37	AdverseReaction:T37 Effect:E39 Hypothetical2:E30
+E39	Severity:T39
+E40	AdverseReaction:T40 Hypothetical:E30
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42 Hypothetical2:E50
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E47	DrugClass:T47
+E48	DrugClass:T48
+E49	DrugClass:T49
+E10	Factor:T10
+E18	DrugClass:T18
+E19	DrugClass:T19
+E30	DrugClass:T30
+E50	DrugClass:T50
+E46	AdverseReaction:T46 Hypothetical:E51
+E51	Factor:T51
+A1	CUI E1 C0476270
+A2	UMLS-Preferred-Name E1 Cardiovascular symptoms
+A3	MEDDRA-PT E1 Cardiovascular symptom
+A4	MEDDRA-PT-ID E1 10075534
+A5	CUI E4 C1306577
+A6	UMLS-Preferred-Name E4 Death (finding)
+A7	MEDDRA-PT E4 Death
+A8	MEDDRA-PT-ID E4 10011906
+A9	CUI E7 C0236072
+A10	UMLS-Preferred-Name E7 Paradoxical bronchospasm
+A11	MEDDRA-PT E7 Bronchospasm paradoxical
+A12	MEDDRA-PT-ID E7 10006486
+A13	LLT E7 Paradoxical bronchospasm
+A14	LLT-ID E7 10033770
+A15	CUI E9 C1306577
+A16	UMLS-Preferred-Name E9 Death (finding)
+A17	MEDDRA-PT E9 Death
+A18	MEDDRA-PT-ID E9 10011906
+A19	CUI E12 C1306577
+A20	UMLS-Preferred-Name E12 Death (finding)
+A21	MEDDRA-PT E12 Death
+A22	MEDDRA-PT-ID E12 10011906
+A23	CUI E14 C1306577
+A24	UMLS-Preferred-Name E14 Death (finding)
+A25	MEDDRA-PT E14 Death
+A26	MEDDRA-PT-ID E14 10011906
+A27	CUI E17 C1306577
+A28	UMLS-Preferred-Name E17 Death (finding)
+A29	MEDDRA-PT E17 Death
+A30	MEDDRA-PT-ID E17 10011906
+A31	CUI E20 C0020517
+A32	UMLS-Preferred-Name E20 Hypersensitivity
+A33	MEDDRA-PT E20 Hypersensitivity
+A34	MEDDRA-PT-ID E20 10020751
+A35	LLT E20 Hypersensitivity reaction
+A36	LLT-ID E20 10020756
+A37	CUI E22 C0236072
+A38	UMLS-Preferred-Name E22 Paradoxical bronchospasm
+A39	MEDDRA-PT E22 Bronchospasm paradoxical
+A40	MEDDRA-PT-ID E22 10006486
+A41	LLT E22 Paradoxical bronchospasm
+A42	LLT-ID E22 10033770
+A43	CUI E25 C0476270
+A44	UMLS-Preferred-Name E25 Cardiovascular symptoms
+A45	MEDDRA-PT E25 Cardiovascular symptom
+A46	MEDDRA-PT-ID E25 10075534
+A47	CUI E27 C0039231
+A48	UMLS-Preferred-Name E27 Tachycardia
+A49	MEDDRA-PT E27 Heart rate increased
+A50	MEDDRA-PT-ID E27 10019303
+A51	LLT E27 Pulse rate increased
+A52	LLT-ID E27 10037490
+A53	CUI E28 C0277884
+A54	UMLS-Preferred-Name E28 Increased systolic arterial pressure
+A55	MEDDRA-PT E28 Blood pressure systolic increased
+A56	MEDDRA-PT-ID E28 10005760
+A57	CUI E29 C0277889
+A58	UMLS-Preferred-Name E29 Increased diastolic arterial pressure
+A59	MEDDRA-PT E29 Blood pressure diastolic increased
+A60	MEDDRA-PT-ID E29 10005739
+A61	CUI E31 C0855329
+A62	UMLS-Preferred-Name E31 Electrocardiographic changes
+A63	MEDDRA-PT E31 Electrocardiogram change
+A64	MEDDRA-PT-ID E31 10061116
+A65	LLT E31 Change in ECG
+A66	LLT-ID E31 10008396
+A67	CUI E32 C0429059
+A68	UMLS-Preferred-Name E32 Flattened T wave (finding)
+A69	MEDDRA-PT E32 Electrocardiogram T wave amplitude decreased
+A70	MEDDRA-PT-ID E32 10014394
+A71	LLT E32 T wave flattening of
+A72	LLT-ID E32 10042965
+A73	CUI E33 C0855333
+A74	UMLS-Preferred-Name E33 Electrocardiogram QT corrected interval prolonged
+A75	MEDDRA-PT E33 Electrocardiogram QT prolonged
+A76	MEDDRA-PT-ID E33 10014387
+A77	LLT E33 Electrocardiogram QTc interval prolonged
+A78	LLT-ID E33 10053698
+A79	CUI E34 C0520887
+A80	UMLS-Preferred-Name E34 ST segment depression (finding)
+A81	MEDDRA-PT E34 Electrocardiogram ST segment depression
+A82	MEDDRA-PT-ID E34 10014391
+A83	LLT E34 ST segment depression
+A84	LLT-ID E34 10041892
+A85	CUI E35 C0235398
+A86	UMLS-Preferred-Name E35 Diabetes mellitus exacerbated
+A87	MEDDRA-PT E35 Diabetes mellitus
+A88	MEDDRA-PT-ID E35 10012601
+A89	LLT E35 Diabetes mellitus aggravated
+A90	LLT-ID E35 10012603
+A91	CUI E36 C0220982
+A92	UMLS-Preferred-Name E36 Ketoacidosis
+A93	MEDDRA-PT E36 Ketoacidosis
+A94	MEDDRA-PT-ID E36 10023379
+A95	CUI E37 C0020621
+A96	UMLS-Preferred-Name E37 Hypokalemia
+A97	MEDDRA-PT E37 Hypokalaemia
+A98	MEDDRA-PT-ID E37 10021015
+A99	LLT E37 Hypokalemia
+A100	LLT-ID E37 10021018
+A101	CUI E40 C0476270
+A102	UMLS-Preferred-Name E40 Cardiovascular symptoms
+A103	MEDDRA-PT E40 Cardiovascular symptom
+A104	MEDDRA-PT-ID E40 10075534
+A105	CUI E41 C0595885
+A106	UMLS-Preferred-Name E41 Serum potassium decreased
+A107	MEDDRA-PT E41 Blood potassium decreased
+A108	MEDDRA-PT-ID E41 10005724
+A109	LLT E41 Serum potassium decreased
+A110	LLT-ID E41 10040378
+A111	CUI E42 C0595877
+A112	UMLS-Preferred-Name E42 Blood glucose increased
+A113	MEDDRA-PT E42 Blood glucose increased
+A114	MEDDRA-PT-ID E42 10005557
+A115	CUI E44 C0877314
+A116	UMLS-Preferred-Name E44 Blood glucose fluctuation
+A117	MEDDRA-PT E44 Blood glucose fluctuation
+A118	MEDDRA-PT-ID E44 10049803
+A119	CUI E45 C0595885
+A120	UMLS-Preferred-Name E45 Serum potassium decreased
+A121	MEDDRA-PT E45 Blood potassium decreased
+A122	MEDDRA-PT-ID E45 10005724
+A123	LLT E45 Serum potassium decreased
+A124	LLT-ID E45 10040378
+A125	CUI E46 C0020517
+A126	UMLS-Preferred-Name E46 Hypersensitivity
+A127	MEDDRA-PT E46 Hypersensitivity
+A128	MEDDRA-PT-ID E46 10020751
+A129	LLT E46 Hypersensitivity reaction
+A130	LLT-ID E46 10020756

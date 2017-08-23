@@ -1,0 +1,18 @@
+T1	AdverseReaction 1052 1083	prolongation of the QT interval
+T4	Factor 3992 3995	may
+T5	AdverseReaction 4080 4095	QT prolongation
+E1	AdverseReaction:T1
+E4	Factor:T4
+E5	AdverseReaction:T5 Hypothetical:E4
+A1	CUI E1 C0151878
+A2	UMLS-Preferred-Name E1 Prolonged QT interval
+A3	MEDDRA-PT E1 Electrocardiogram QT prolonged
+A4	MEDDRA-PT-ID E1 10014387
+A5	LLT E1 QT interval prolonged
+A6	LLT-ID E1 10037703
+A7	CUI E5 C0151878
+A8	UMLS-Preferred-Name E5 Prolonged QT interval
+A9	MEDDRA-PT E5 Electrocardiogram QT prolonged
+A10	MEDDRA-PT-ID E5 10014387
+A11	LLT E5 QT prolonged
+A12	LLT-ID E5 10037705

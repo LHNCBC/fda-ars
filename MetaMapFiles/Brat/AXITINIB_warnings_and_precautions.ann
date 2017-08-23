@@ -1,0 +1,687 @@
+T1	AdverseReaction 50 62	Hypertension
+T2	AdverseReaction 73 92	hypertensive crisis
+T3	AdverseReaction 336 344;356 373	Arterial thrombotic events
+T4	AdverseReaction 349 373	venous thrombotic events
+T5	AdverseReaction 404 409	fatal
+T6	Factor 397 400	can
+T7	AdverseReaction 499 517	Hemorrhagic events
+T8	AdverseReaction 529 534	fatal
+T9	AdverseReaction 743 758	Cardiac failure
+T10	AdverseReaction 788 793	fatal
+T11	Factor 781 784	can
+T12	AdverseReaction 889 917	Gastrointestinal perforation
+T13	AdverseReaction 889 905;922 929	Gastrointestinal fistula
+T14	AdverseReaction 941 946	death
+T15	AdverseReaction 1056 1070	Hypothyroidism
+T16	AdverseReaction 1307 1356	Reversible Posterior Leukoencephalopathy Syndrome
+T17	AdverseReaction 1358 1362	RPLS
+T18	AdverseReaction 1671 1693	Liver enzyme elevation
+T19	AdverseReaction 2066 2076	fetal harm
+T20	Factor 2056 2059	can
+T21	AdverseReaction 2438 2450	hypertension
+T22	AdverseReaction 2565 2577	hypertension
+T23	Severity 2555 2562	Grade 3
+T24	Severity 2555 2560;2563 2564	Grade 4
+T25	AdverseReaction 2680 2699	Hypertensive crisis
+T26	AdverseReaction 2826 2838	hypertension
+T27	AdverseReaction 2977 3001	blood pressure increases
+T28	AdverseReaction 2840 2873	systolic blood pressure >150 mmHg
+T29	AdverseReaction 2877 2911	diastolic blood pressure >100 mmHg
+T30	AdverseReaction 3063 3075	Hypertension
+T31	AdverseReaction 3171 3183	hypertension
+T32	AdverseReaction 4028 4058	arterial thromboembolic events
+T33	AdverseReaction 4089 4095	deaths
+T34	AdverseReaction 4190 4220	arterial thromboembolic events
+T35	Severity 4180 4187	Grade 3
+T36	Severity 4180 4185;4188 4189	Grade 4
+T37	AdverseReaction 4326 4350	cerebrovascular accident
+T38	AdverseReaction 4320 4325	Fatal
+T39	AdverseReaction 4519 4549	arterial thromboembolic events
+T40	AdverseReaction 4715 4721	deaths
+T41	AdverseReaction 4735 4759	cerebrovascular accident
+T42	AdverseReaction 4561 4586	transient ischemic attack
+T43	AdverseReaction 4588 4612	cerebrovascular accident
+T44	AdverseReaction 4614 4635	myocardial infarction
+T45	AdverseReaction 4641 4665	retinal artery occlusion
+T46	AdverseReaction 5036 5064	venous thromboembolic events
+T47	AdverseReaction 5095 5101	deaths
+T48	AdverseReaction 5186 5214	venous thromboembolic events
+T49	AdverseReaction 5325 5353	venous thromboembolic events
+T50	Severity 5315 5320;5323 5324	Grade 4
+T51	Severity 5315 5322	Grade 3
+T52	AdverseReaction 5419 5437	pulmonary embolism
+T53	AdverseReaction 5439 5459	deep vein thrombosis
+T54	AdverseReaction 5461 5483	retinal vein occlusion
+T55	AdverseReaction 5488 5511	retinal vein thrombosis
+T56	AdverseReaction 5564 5582	pulmonary embolism
+T57	AdverseReaction 5558 5563	Fatal
+T58	AdverseReaction 5715 5743	venous thromboembolic events
+T59	AdverseReaction 5792 5798	deaths
+T60	AdverseReaction 5812 5830	pulmonary embolism
+T61	AdverseReaction 6148 6166	hemorrhagic events
+T62	AdverseReaction 6280 6298	hemorrhagic events
+T63	Severity 6270 6277	Grade 3
+T64	Severity 6270 6275;6278 6279	Grade 4
+T65	AdverseReaction 6364 6383	cerebral hemorrhage
+T66	AdverseReaction 6385 6394	hematuria
+T67	AdverseReaction 6396 6406	hemoptysis
+T68	AdverseReaction 6408 6441	lower gastrointestinal hemorrhage
+T69	AdverseReaction 6447 6453	melena
+T70	AdverseReaction 6507 6517	hemorrhage
+T71	AdverseReaction 6501 6506	Fatal
+T72	AdverseReaction 6573 6591	gastric hemorrhage
+T73	AdverseReaction 7015 7030	cardiac failure
+T74	AdverseReaction 7139 7154	cardiac failure
+T75	Severity 7129 7134;7137 7138	Grade 4
+T76	Severity 7129 7136	Grade 3
+T77	AdverseReaction 7260 7275	cardiac failure
+T78	AdverseReaction 7254 7259	Fatal
+T79	AdverseReaction 7686 7714	gastrointestinal perforation
+T80	AdverseReaction 7847 7875	gastrointestinal perforation
+T81	AdverseReaction 7927 7932	death
+T82	AdverseReaction 7958 7986	gastrointestinal perforation
+T83	AdverseReaction 7958 7974;7988 7996	gastrointestinal fistulas
+T84	AdverseReaction 8266 8280	hypothyroidism
+T85	AdverseReaction 8382 8397	Hyperthyroidism
+T86	AdverseReaction 8578 8595	elevations of TSH
+T87	Severity 8600 8610	=10 muU/mL
+T88	AdverseReaction 9413 9462	reversible posterior leukoencephalopathy syndrome
+T89	AdverseReaction 9464 9468	RPLS
+T90	AdverseReaction 9639 9643	RPLS
+T91	AdverseReaction 9686 9690	RPLS
+T92	AdverseReaction 9741 9749	headache
+T93	Factor 9724 9727	can
+T94	AdverseReaction 9751 9758	seizure
+T95	AdverseReaction 9760 9768	lethargy
+T96	AdverseReaction 9770 9779	confusion
+T97	AdverseReaction 9781 9790	blindness
+T98	AdverseReaction 9801 9807;9823 9835	visual disturbances
+T99	AdverseReaction 9812 9835	neurologic disturbances
+T100	AdverseReaction 9852 9864	hypertension
+T101	Severity 9845 9851	severe
+T102	Severity 9837 9841	Mild
+T103	Severity 9837 9851	Mild to severe
+T104	Factor 9865 9868	may
+T105	AdverseReaction 10209 10220	proteinuria
+T106	AdverseReaction 10330 10341	proteinuria
+T107	Severity 10322 10329	Grade 3
+T108	AdverseReaction 10833 10857;10864 10874	alanine aminotransferase elevations
+T109	Severity 10936 10943	Grade 3
+T110	Severity 10936 10941;10944 10945	Grade 4
+T111	AdverseReaction 11727 11737	fetal harm
+T112	Factor 11717 11720	can
+T113	AdverseReaction 11948 11959	teratogenic
+T114	AdverseReaction 11961 11972	embryotoxic
+T115	AdverseReaction 11977 11986	fetotoxic
+T116	Animal 11929 11933	mice
+T117	AdverseReaction 10859 10862;10864 10874	ALT elevations
+T118	AdverseReaction 10859 10862;10864 10874	ALT elevations
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E6
+E6	Factor:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10 Hypothetical:E11
+E11	Factor:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19 Hypothetical:E20
+E20	Factor:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22 Effect:E24 Effect2:E23
+E23	Severity:T23
+E24	Severity:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34 Effect:E36 Effect2:E35
+E35	Severity:T35
+E36	Severity:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49 Effect:E50 Effect2:E51
+E50	Severity:T50
+E51	Severity:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62 Effect:E64 Effect2:E63
+E63	Severity:T63
+E64	Severity:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74 Effect:E75 Effect2:E76
+E75	Severity:T75
+E76	Severity:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86 Effect:E87
+E87	Severity:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91
+E92	AdverseReaction:T92 Hypothetical:E93
+E93	Factor:T93
+E94	AdverseReaction:T94 Hypothetical:E93
+E95	AdverseReaction:T95 Hypothetical:E93
+E96	AdverseReaction:T96 Hypothetical:E93
+E97	AdverseReaction:T97 Hypothetical:E93
+E98	AdverseReaction:T98 Hypothetical:E93
+E99	AdverseReaction:T99 Hypothetical:E93
+E101	Severity:T101
+E102	Severity:T102
+E103	Severity:T103
+E104	Factor:T104
+E105	AdverseReaction:T100 Effect:E101 Effect2:E103 Effect3:E102 Hypothetical:E104
+E100	AdverseReaction:T105
+E106	AdverseReaction:T106 Effect:E107
+E107	Severity:T107
+E108	AdverseReaction:T108 Effect:E109 Effect2:E110
+E109	Severity:T109
+E110	Severity:T110
+E111	AdverseReaction:T108
+E112	AdverseReaction:T111 Hypothetical:E113
+E113	Factor:T112
+E114	AdverseReaction:T113 Hypothetical:E117
+E115	AdverseReaction:T114 Hypothetical:E117
+E116	AdverseReaction:T115 Hypothetical:E117
+E117	Animal:T116
+E118	AdverseReaction:T117 Effect:E109 Effect2:E110
+E119	AdverseReaction:T118
+A1	CUI E1 C0020538
+A2	UMLS-Preferred-Name E1 Hypertensive disease
+A3	MEDDRA-PT E1 Hypertension
+A4	MEDDRA-PT-ID E1 10020772
+A5	CUI E2 C0020546
+A6	UMLS-Preferred-Name E2 Hypertensive crisis
+A7	MEDDRA-PT E2 Hypertensive crisis
+A8	MEDDRA-PT-ID E2 10020802
+A9	CUI E3 C0151942
+A10	UMLS-Preferred-Name E3 Arterial thrombosis
+A11	MEDDRA-PT E3 Arterial thrombosis
+A12	MEDDRA-PT-ID E3 10003178
+A13	CUI E4 C0042487
+A14	UMLS-Preferred-Name E4 Venous Thrombosis
+A15	MEDDRA-PT E4 Venous thrombosis
+A16	MEDDRA-PT-ID E4 10047249
+A17	CUI E5 C1306577
+A18	UMLS-Preferred-Name E5 Death (finding)
+A19	MEDDRA-PT E5 Death
+A20	MEDDRA-PT-ID E5 10011906
+A21	CUI E7 C0019080
+A22	UMLS-Preferred-Name E7 Hemorrhage
+A23	MEDDRA-PT E7 Haemorrhage
+A24	MEDDRA-PT-ID E7 10055798
+A25	LLT E7 Hemorrhage
+A26	LLT-ID E7 10019524
+A27	CUI E8 C1306577
+A28	UMLS-Preferred-Name E8 Death (finding)
+A29	MEDDRA-PT E8 Death
+A30	MEDDRA-PT-ID E8 10011906
+A31	CUI E9 C0018801
+A32	UMLS-Preferred-Name E9 Heart failure
+A33	MEDDRA-PT E9 Cardiac failure
+A34	MEDDRA-PT-ID E9 10007554
+A35	CUI E10 C1306577
+A36	UMLS-Preferred-Name E10 Death (finding)
+A37	MEDDRA-PT E10 Death
+A38	MEDDRA-PT-ID E10 10011906
+A39	CUI E12 C0151664
+A40	UMLS-Preferred-Name E12 Gastrointestinal perforation
+A41	MEDDRA-PT E12 Gastrointestinal perforation
+A42	MEDDRA-PT-ID E12 10018001
+A43	CUI E13 C0079238
+A44	UMLS-Preferred-Name E13 Digestive System Fistula
+A45	MEDDRA-PT E13 Gastrointestinal fistula
+A46	MEDDRA-PT-ID E13 10017877
+A47	CUI E14 C1306577
+A48	UMLS-Preferred-Name E14 Death (finding)
+A49	MEDDRA-PT E14 Death
+A50	MEDDRA-PT-ID E14 10011906
+A51	CUI E15 C0020676
+A52	UMLS-Preferred-Name E15 Hypothyroidism
+A53	MEDDRA-PT E15 Hypothyroidism
+A54	MEDDRA-PT-ID E15 10021114
+A55	CUI E16 C3160858
+A56	UMLS-Preferred-Name E16 Posterior reversible encephalopathy syndrome
+A57	MEDDRA-PT E16 Posterior reversible encephalopathy syndrome
+A58	MEDDRA-PT-ID E16 10071066
+A59	LLT E16 Reversible posterior leukoencephalopathy syndrome
+A60	LLT-ID E16 10063761
+A61	CUI E17 C3160858
+A62	UMLS-Preferred-Name E17 Posterior reversible encephalopathy syndrome
+A63	MEDDRA-PT E17 Posterior reversible encephalopathy syndrome
+A64	MEDDRA-PT-ID E17 10071066
+A65	LLT E17 Reversible posterior leukoencephalopathy syndrome
+A66	LLT-ID E17 10063761
+A67	CUI E18 C0235996
+A68	UMLS-Preferred-Name E18 Elevated liver enzymes
+A69	MEDDRA-PT E18 Hepatic enzyme increased
+A70	MEDDRA-PT-ID E18 10060795
+A71	LLT E18 Elevated liver enzymes
+A72	LLT-ID E18 10014481
+A73	CUI E19 C0854268
+A74	UMLS-Preferred-Name E19 Foetal damage
+A75	MEDDRA-PT E19 Foetal damage
+A76	MEDDRA-PT-ID E19 10016852
+A77	LLT E19 Fetal damage
+A78	LLT-ID E19 10054743
+A79	CUI E21 C0020538
+A80	UMLS-Preferred-Name E21 Hypertensive disease
+A81	MEDDRA-PT E21 Hypertension
+A82	MEDDRA-PT-ID E21 10020772
+A83	CUI E22 C0020538
+A84	UMLS-Preferred-Name E22 Hypertensive disease
+A85	MEDDRA-PT E22 Hypertension
+A86	MEDDRA-PT-ID E22 10020772
+A87	CUI E25 C0020546
+A88	UMLS-Preferred-Name E25 Hypertensive crisis
+A89	MEDDRA-PT E25 Hypertensive crisis
+A90	MEDDRA-PT-ID E25 10020802
+A91	CUI E26 C0020538
+A92	UMLS-Preferred-Name E26 Hypertensive disease
+A93	MEDDRA-PT E26 Hypertension
+A94	MEDDRA-PT-ID E26 10020772
+A95	CUI E27 C0497247
+A96	UMLS-Preferred-Name E27 Increase in blood pressure
+A97	MEDDRA-PT E27 Blood pressure increased
+A98	MEDDRA-PT-ID E27 10005750
+A99	CUI E28 C0277884
+A100	UMLS-Preferred-Name E28 Increased systolic arterial pressure
+A101	MEDDRA-PT E28 Blood pressure systolic increased
+A102	MEDDRA-PT-ID E28 10005760
+A103	LLT E28 Blood pressure systolic high
+A104	LLT-ID E28 10005759
+A105	CUI E29 C0277889
+A106	UMLS-Preferred-Name E29 Increased diastolic arterial pressure
+A107	MEDDRA-PT E29 Blood pressure diastolic increased
+A108	MEDDRA-PT-ID E29 10005739
+A109	LLT E29 Blood pressure diastolic high
+A110	LLT-ID E29 10005738
+A111	CUI E30 C0020538
+A112	UMLS-Preferred-Name E30 Hypertensive disease
+A113	MEDDRA-PT E30 Hypertension
+A114	MEDDRA-PT-ID E30 10020772
+A115	CUI E31 C0020538
+A116	UMLS-Preferred-Name E31 Hypertensive disease
+A117	MEDDRA-PT E31 Hypertension
+A118	MEDDRA-PT-ID E31 10020772
+A119	CUI E32 C3544094
+A120	UMLS-Preferred-Name E32 Arterial thromboembolism
+A121	MEDDRA-PT E32 Embolism arterial
+A122	MEDDRA-PT-ID E32 10014513
+A123	LLT E32 Arterial thromboembolism
+A124	LLT-ID E32 10073529
+A125	CUI E33 C1306577
+A126	UMLS-Preferred-Name E33 Death (finding)
+A127	MEDDRA-PT E33 Death
+A128	MEDDRA-PT-ID E33 10011906
+A129	CUI E34 C3544094
+A130	UMLS-Preferred-Name E34 Arterial thromboembolism
+A131	MEDDRA-PT E34 Embolism arterial
+A132	MEDDRA-PT-ID E34 10014513
+A133	LLT E34 Arterial thromboembolism
+A134	LLT-ID E34 10073529
+A135	CUI E37 C0038454
+A136	UMLS-Preferred-Name E37 Cerebrovascular accident
+A137	MEDDRA-PT E37 Cerebrovascular accident
+A138	MEDDRA-PT-ID E37 10008190
+A139	CUI E38 C1306577
+A140	UMLS-Preferred-Name E38 Death (finding)
+A141	MEDDRA-PT E38 Death
+A142	MEDDRA-PT-ID E38 10011906
+A143	CUI E39 C3544094
+A144	UMLS-Preferred-Name E39 Arterial thromboembolism
+A145	MEDDRA-PT E39 Embolism arterial
+A146	MEDDRA-PT-ID E39 10014513
+A147	LLT E39 Arterial thromboembolism
+A148	LLT-ID E39 10073529
+A149	CUI E40 C1306577
+A150	UMLS-Preferred-Name E40 Death (finding)
+A151	MEDDRA-PT E40 Death
+A152	MEDDRA-PT-ID E40 10011906
+A153	CUI E41 C0038454
+A154	UMLS-Preferred-Name E41 Cerebrovascular accident
+A155	MEDDRA-PT E41 Cerebrovascular accident
+A156	MEDDRA-PT-ID E41 10008190
+A157	CUI E42 C0007787
+A158	UMLS-Preferred-Name E42 Transient Ischemic Attack
+A159	MEDDRA-PT E42 Transient ischaemic attack
+A160	MEDDRA-PT-ID E42 10044390
+A161	LLT E42 Transient ischemic attack
+A162	LLT-ID E42 10072760
+A163	CUI E43 C0038454
+A164	UMLS-Preferred-Name E43 Cerebrovascular accident
+A165	MEDDRA-PT E43 Cerebrovascular accident
+A166	MEDDRA-PT-ID E43 10008190
+A167	CUI E44 C0027051
+A168	UMLS-Preferred-Name E44 Myocardial Infarction
+A169	MEDDRA-PT E44 Myocardial infarction
+A170	MEDDRA-PT-ID E44 10028596
+A171	CUI E45 C0035302
+A172	UMLS-Preferred-Name E45 Retinal Artery Occlusion
+A173	MEDDRA-PT E45 Retinal artery occlusion
+A174	MEDDRA-PT-ID E45 10038827
+A175	CUI E46 C1861172
+A176	UMLS-Preferred-Name E46 Venous Thromboembolism
+A177	MEDDRA-PT E46 Embolism venous
+A178	MEDDRA-PT-ID E46 10014522
+A179	LLT E46 Venous thromboembolism
+A180	LLT-ID E46 10066899
+A181	CUI E47 C1306577
+A182	UMLS-Preferred-Name E47 Death (finding)
+A183	MEDDRA-PT E47 Death
+A184	MEDDRA-PT-ID E47 10011906
+A185	CUI E48 C1861172
+A186	UMLS-Preferred-Name E48 Venous Thromboembolism
+A187	MEDDRA-PT E48 Embolism venous
+A188	MEDDRA-PT-ID E48 10014522
+A189	LLT E48 Venous thromboembolism
+A190	LLT-ID E48 10066899
+A191	CUI E49 C1861172
+A192	UMLS-Preferred-Name E49 Venous Thromboembolism
+A193	MEDDRA-PT E49 Embolism venous
+A194	MEDDRA-PT-ID E49 10014522
+A195	LLT E49 Venous thromboembolism
+A196	LLT-ID E49 10066899
+A197	CUI E52 C0034065
+A198	UMLS-Preferred-Name E52 Pulmonary Embolism
+A199	MEDDRA-PT E52 Pulmonary embolism
+A200	MEDDRA-PT-ID E52 10037377
+A201	CUI E53 C0149871
+A202	UMLS-Preferred-Name E53 Deep Vein Thrombosis
+A203	MEDDRA-PT E53 Deep vein thrombosis
+A204	MEDDRA-PT-ID E53 10051055
+A205	CUI E54 C0035328
+A206	UMLS-Preferred-Name E54 Retinal Vein Occlusion
+A207	MEDDRA-PT E54 Retinal vein occlusion
+A208	MEDDRA-PT-ID E54 10038907
+A209	CUI E55 C1527411
+A210	UMLS-Preferred-Name E55 Thrombosis of retinal vein
+A211	MEDDRA-PT E55 Retinal vein thrombosis
+A212	MEDDRA-PT-ID E55 10038908
+A213	CUI E56 C0034065
+A214	UMLS-Preferred-Name E56 Pulmonary Embolism
+A215	MEDDRA-PT E56 Pulmonary embolism
+A216	MEDDRA-PT-ID E56 10037377
+A217	CUI E57 C1306577
+A218	UMLS-Preferred-Name E57 Death (finding)
+A219	MEDDRA-PT E57 Death
+A220	MEDDRA-PT-ID E57 10011906
+A221	CUI E58 C1861172
+A222	UMLS-Preferred-Name E58 Venous Thromboembolism
+A223	MEDDRA-PT E58 Embolism venous
+A224	MEDDRA-PT-ID E58 10014522
+A225	LLT E58 Venous thromboembolism
+A226	LLT-ID E58 10066899
+A227	CUI E59 C1306577
+A228	UMLS-Preferred-Name E59 Death (finding)
+A229	MEDDRA-PT E59 Death
+A230	MEDDRA-PT-ID E59 10011906
+A231	CUI E60 C0034065
+A232	UMLS-Preferred-Name E60 Pulmonary Embolism
+A233	MEDDRA-PT E60 Pulmonary embolism
+A234	MEDDRA-PT-ID E60 10037377
+A235	CUI E61 C0019080
+A236	UMLS-Preferred-Name E61 Hemorrhage
+A237	MEDDRA-PT E61 Haemorrhage
+A238	MEDDRA-PT-ID E61 10055798
+A239	LLT E61 Hemorrhage
+A240	LLT-ID E61 10019524
+A241	CUI E62 C0019080
+A242	UMLS-Preferred-Name E62 Hemorrhage
+A243	MEDDRA-PT E62 Haemorrhage
+A244	MEDDRA-PT-ID E62 10055798
+A245	LLT E62 Hemorrhage
+A246	LLT-ID E62 10019524
+A247	CUI E65 C2937358
+A248	UMLS-Preferred-Name E65 Cerebral Hemorrhage
+A249	MEDDRA-PT E65 Cerebral haemorrhage
+A250	MEDDRA-PT-ID E65 10008111
+A251	LLT E65 Cerebral hemorrhage
+A252	LLT-ID E65 10008114
+A253	CUI E66 C0018965
+A254	UMLS-Preferred-Name E66 Hematuria
+A255	MEDDRA-PT E66 Haematuria
+A256	MEDDRA-PT-ID E66 10018867
+A257	LLT E66 Hematuria
+A258	LLT-ID E66 10019450
+A259	CUI E67 C0019079
+A260	UMLS-Preferred-Name E67 Hemoptysis
+A261	MEDDRA-PT E67 Haemoptysis
+A262	MEDDRA-PT-ID E67 10018964
+A263	LLT E67 Hemoptysis
+A264	LLT-ID E67 10019523
+A265	CUI E68 C0024050
+A266	UMLS-Preferred-Name E68 Lower gastrointestinal hemorrhage
+A267	MEDDRA-PT E68 Lower gastrointestinal haemorrhage
+A268	MEDDRA-PT-ID E68 10050953
+A269	LLT E68 Lower gastrointestinal hemorrhage
+A270	LLT-ID E68 10051746
+A271	CUI E69 C0025222
+A272	UMLS-Preferred-Name E69 Melena
+A273	MEDDRA-PT E69 Melaena
+A274	MEDDRA-PT-ID E69 10027141
+A275	LLT E69 Melena
+A276	LLT-ID E69 10027162
+A277	CUI E70 C0019080
+A278	UMLS-Preferred-Name E70 Hemorrhage
+A279	MEDDRA-PT E70 Haemorrhage
+A280	MEDDRA-PT-ID E70 10055798
+A281	LLT E70 Hemorrhage
+A282	LLT-ID E70 10019524
+A283	CUI E71 C1306577
+A284	UMLS-Preferred-Name E71 Death (finding)
+A285	MEDDRA-PT E71 Death
+A286	MEDDRA-PT-ID E71 10011906
+A287	CUI E72 C0235325
+A288	UMLS-Preferred-Name E72 Gastric hemorrhage
+A289	MEDDRA-PT E72 Gastric haemorrhage
+A290	MEDDRA-PT-ID E72 10017788
+A291	LLT E72 Gastric hemorrhage
+A292	LLT-ID E72 10017789
+A293	CUI E73 C0018801
+A294	UMLS-Preferred-Name E73 Heart failure
+A295	MEDDRA-PT E73 Cardiac failure
+A296	MEDDRA-PT-ID E73 10007554
+A297	CUI E74 C0018801
+A298	UMLS-Preferred-Name E74 Heart failure
+A299	MEDDRA-PT E74 Cardiac failure
+A300	MEDDRA-PT-ID E74 10007554
+A301	CUI E77 C0018801
+A302	UMLS-Preferred-Name E77 Heart failure
+A303	MEDDRA-PT E77 Cardiac failure
+A304	MEDDRA-PT-ID E77 10007554
+A305	CUI E78 C1306577
+A306	UMLS-Preferred-Name E78 Death (finding)
+A307	MEDDRA-PT E78 Death
+A308	MEDDRA-PT-ID E78 10011906
+A309	CUI E79 C0151664
+A310	UMLS-Preferred-Name E79 Gastrointestinal perforation
+A311	MEDDRA-PT E79 Gastrointestinal perforation
+A312	MEDDRA-PT-ID E79 10018001
+A313	CUI E80 C0151664
+A314	UMLS-Preferred-Name E80 Gastrointestinal perforation
+A315	MEDDRA-PT E80 Gastrointestinal perforation
+A316	MEDDRA-PT-ID E80 10018001
+A317	CUI E81 C1306577
+A318	UMLS-Preferred-Name E81 Death (finding)
+A319	MEDDRA-PT E81 Death
+A320	MEDDRA-PT-ID E81 10011906
+A321	CUI E82 C0151664
+A322	UMLS-Preferred-Name E82 Gastrointestinal perforation
+A323	MEDDRA-PT E82 Gastrointestinal perforation
+A324	MEDDRA-PT-ID E82 10018001
+A325	CUI E83 C0079238
+A326	UMLS-Preferred-Name E83 Digestive System Fistula
+A327	MEDDRA-PT E83 Gastrointestinal fistula
+A328	MEDDRA-PT-ID E83 10017877
+A329	CUI E84 C0020676
+A330	UMLS-Preferred-Name E84 Hypothyroidism
+A331	MEDDRA-PT E84 Hypothyroidism
+A332	MEDDRA-PT-ID E84 10021114
+A333	CUI E85 C0020550
+A334	UMLS-Preferred-Name E85 Hyperthyroidism
+A335	MEDDRA-PT E85 Hyperthyroidism
+A336	MEDDRA-PT-ID E85 10020850
+A337	CUI E86 C0586553
+A338	UMLS-Preferred-Name E86 Raised TSH level
+A339	MEDDRA-PT E86 Blood thyroid stimulating hormone increased
+A340	MEDDRA-PT-ID E86 10005833
+A341	LLT E86 Increased TSH
+A342	LLT-ID E86 10021690
+A343	CUI E88 C3160858
+A344	UMLS-Preferred-Name E88 Posterior reversible encephalopathy syndrome
+A345	MEDDRA-PT E88 Posterior reversible encephalopathy syndrome
+A346	MEDDRA-PT-ID E88 10071066
+A347	LLT E88 Reversible posterior leukoencephalopathy syndrome
+A348	LLT-ID E88 10063761
+A349	CUI E89 C3160858
+A350	UMLS-Preferred-Name E89 Posterior reversible encephalopathy syndrome
+A351	MEDDRA-PT E89 Posterior reversible encephalopathy syndrome
+A352	MEDDRA-PT-ID E89 10071066
+A353	LLT E89 Reversible posterior leukoencephalopathy syndrome
+A354	LLT-ID E89 10063761
+A355	CUI E90 C3160858
+A356	UMLS-Preferred-Name E90 Posterior reversible encephalopathy syndrome
+A357	MEDDRA-PT E90 Posterior reversible encephalopathy syndrome
+A358	MEDDRA-PT-ID E90 10071066
+A359	LLT E90 Reversible posterior leukoencephalopathy syndrome
+A360	LLT-ID E90 10063761
+A361	CUI E91 C3160858
+A362	UMLS-Preferred-Name E91 Posterior reversible encephalopathy syndrome
+A363	MEDDRA-PT E91 Posterior reversible encephalopathy syndrome
+A364	MEDDRA-PT-ID E91 10071066
+A365	LLT E91 Reversible posterior leukoencephalopathy syndrome
+A366	LLT-ID E91 10063761
+A367	CUI E92 C0018681
+A368	UMLS-Preferred-Name E92 Headache
+A369	MEDDRA-PT E92 Headache
+A370	MEDDRA-PT-ID E92 10019211
+A371	CUI E94 C0036572
+A372	UMLS-Preferred-Name E94 Seizures
+A373	MEDDRA-PT E94 Seizure
+A374	MEDDRA-PT-ID E94 10039906
+A375	CUI E95 C0023380
+A376	UMLS-Preferred-Name E95 Lethargy
+A377	MEDDRA-PT E95 Lethargy
+A378	MEDDRA-PT-ID E95 10024264
+A379	CUI E96 C0009676
+A380	UMLS-Preferred-Name E96 Confusion
+A381	MEDDRA-PT E96 Confusional state
+A382	MEDDRA-PT-ID E96 10010305
+A383	LLT E96 Confusion
+A384	LLT-ID E96 10010300
+A385	CUI E97 C0456909
+A386	UMLS-Preferred-Name E97 Blind Vision
+A387	MEDDRA-PT E97 Blindness
+A388	MEDDRA-PT-ID E97 10005169
+A389	CUI E98 C0547030
+A390	UMLS-Preferred-Name E98 Visual disturbance
+A391	MEDDRA-PT E98 Visual impairment
+A392	MEDDRA-PT-ID E98 10047571
+A393	LLT E98 Visual disturbances
+A394	LLT-ID E98 10047545
+A395	CUI E99 C0235030
+A396	UMLS-Preferred-Name E99 Neurologic reaction
+A397	MEDDRA-PT E99 Neurological symptom
+A398	MEDDRA-PT-ID E99 10060860
+A399	LLT E99 Neurologic reaction
+A400	LLT-ID E99 10029290
+A401	CUI E105 C0020538
+A402	UMLS-Preferred-Name E105 Hypertensive disease
+A403	MEDDRA-PT E105 Hypertension
+A404	MEDDRA-PT-ID E105 10020772
+A405	CUI E100 C0033687
+A406	UMLS-Preferred-Name E100 Proteinuria
+A407	MEDDRA-PT E100 Proteinuria
+A408	MEDDRA-PT-ID E100 10037032
+A409	CUI E106 C0033687
+A410	UMLS-Preferred-Name E106 Proteinuria
+A411	MEDDRA-PT E106 Proteinuria
+A412	MEDDRA-PT-ID E106 10037032
+A413	CUI E108 C0151905
+A414	UMLS-Preferred-Name E108 Alanine aminotransferase increased
+A415	MEDDRA-PT E108 Alanine aminotransferase increased
+A416	MEDDRA-PT-ID E108 10001551
+A417	CUI E112 C0854268
+A418	UMLS-Preferred-Name E112 Foetal damage
+A419	MEDDRA-PT E112 Foetal damage
+A420	MEDDRA-PT-ID E112 10016852
+A421	LLT E112 Fetal damage
+A422	LLT-ID E112 10054743
+A423	CUI E114 C0232910
+A424	UMLS-Preferred-Name E114 Teratogenesis
+A425	MEDDRA-PT E114 Teratogenicity
+A426	MEDDRA-PT-ID E114 10043275
+A427	CUI E115 C0270009
+A428	UMLS-Preferred-Name E115 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A429	MEDDRA-PT E115 Maternal drugs affecting foetus
+A430	MEDDRA-PT-ID E115 10026923
+A431	LLT E115 Drug toxicity NEC affecting foetus
+A432	LLT-ID E115 10013750
+A433	CUI E116 C0270009
+A434	UMLS-Preferred-Name E116 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A435	MEDDRA-PT E116 Maternal drugs affecting foetus
+A436	MEDDRA-PT-ID E116 10026923
+A437	LLT E116 Drug toxicity NEC affecting foetus
+A438	LLT-ID E116 10013750
+A439	CUI E118 C0151905
+A440	UMLS-Preferred-Name E118 Alanine aminotransferase increased
+A441	MEDDRA-PT E118 Alanine aminotransferase increased
+A442	MEDDRA-PT-ID E118 10001551
+A443	LLT E118 ALT increased
+A444	LLT-ID E118 10001845
+A445	CUI E119 C0151905
+A446	UMLS-Preferred-Name E119 Alanine aminotransferase increased
+A447	MEDDRA-PT E119 Alanine aminotransferase increased
+A448	MEDDRA-PT-ID E119 10001551
+A449	LLT E119 ALT increased
+A450	LLT-ID E119 10001845

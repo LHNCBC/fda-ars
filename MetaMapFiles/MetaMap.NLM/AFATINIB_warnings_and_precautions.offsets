@@ -1,0 +1,136 @@
+51,59|C0011991|Diarrhea|sosy
+51,59|C1963091|Diarrhea|fndg
+61,69|C0011991|Diarrhea|sosy
+61,69|C1963091|Diarrhea|fndg
+74,80|C2825142|result|fndg
+84,95|C0011175|dehydration|dsyn
+100,113|C0035078|renal failure|dsyn
+100,113|C1963154|renal failure|patf
+158,166|C0011991|diarrhea|sosy
+158,166|C1963091|diarrhea|fndg
+247,261|C0037274|Skin Disorders|dsyn
+279,289|C0005758|blistering|patf
+307,314|C0221198|lesions|fndg
+346,357|C1444662|Discontinue|fndg
+479,504|C0206062|Interstitial lung disease|dsyn
+577,586|C1457868|worsening|fndg
+590,608|C0037090|pulmonary symptoms|sosy
+610,621|C1444662|Discontinue|fndg
+634,637|C0206062|ILD|dsyn
+667,683|C0348754|Hepatic toxicity|dsyn
+685,690|C1705232|Fatal|fndg
+691,709|C0948807|hepatic impairment|dsyn
+788,799|C1444662|discontinue|fndg
+823,832|C1457868|worsening|fndg
+861,870|C0022568|Keratitis|dsyn
+922,931|C0022568|keratitis|dsyn
+956,967|C1444662|discontinue|fndg
+991,1011|C0010043|ulcerative keratitis|dsyn
+1040,1048|C0600688|toxicity|inpo
+1186,1194|C0011991|Diarrhea|sosy
+1186,1194|C1963091|Diarrhea|fndg
+1211,1219|C2825142|resulted|fndg
+1223,1234|C0011175|dehydration|dsyn
+1251,1267|C1565489|renal impairment|dsyn
+1313,1321|C0011991|diarrhea|sosy
+1313,1321|C1963091|diarrhea|fndg
+1398,1405|C3889290|Grade 3|fndg
+1489,1505|C1565489|Renal impairment|dsyn
+1526,1534|C0011991|diarrhea|sosy
+1526,1534|C1963091|diarrhea|fndg
+1614,1621|C3889290|Grade 3|fndg
+1662,1678|C1559309|Grade 2 diarrhea|fndg
+1734,1750|C1559310|Grade 3 diarrhea|fndg
+1776,1784|C0011991|diarrhea|sosy
+1776,1784|C1963091|diarrhea|fndg
+1797,1802|C3244287|Grade|fndg
+2012,2020|C0011991|diarrhea|sosy
+2012,2020|C1963091|diarrhea|fndg
+2070,2077|C1363945|therapy|fndg
+2084,2105|C0011991|loose bowel movements|sosy
+2165,2174|C0012634|Disorders|dsyn
+2178,2185|C3889290|Grade 3|fndg
+2232,2242|C0005758|blistering|patf
+2260,2267|C0221198|lesions|fndg
+2460,2464|C0015230|rash|sosy
+2466,2474|C0041834|erythema|dsyn
+2480,2489|C0549583|acneiform|fndg
+2490,2494|C0015230|rash|sosy
+2525,2532|C3889290|Grade 3|fndg
+2592,2597;2600,2601|C3889290|Grade 3|fndg
+2602,2644|C0549410|palmar-plantar erythrodysesthesia syndrome|dsyn
+2653,2664|C1444662|Discontinue|fndg
+2724,2734|C0005758|blistering|patf
+2751,2758|C0221198|lesions|fndg
+2835,2842|C3889824|Grade 2|fndg
+2889,2895|C3842672|7 days|fndg
+2909,2916|C3889824|Grade 2|fndg
+2921,2928|C3889290|Grade 3|fndg
+3007,3012|C3244287|Grade|fndg
+3128,3153|C0206062|Interstitial Lung Disease|dsyn
+3155,3158|C0206062|ILD|dsyn
+3163,3166|C0206062|ILD|dsyn
+3170,3173|C0206062|ILD|dsyn
+3204,3221|C0235896|lung infiltration|fndg
+3223,3234|C0032285|pneumonitis|dsyn
+3223,3234|C3714636|pneumonitis|dsyn
+3236,3271|C0035222|acute respiratory distress syndrome|dsyn
+3276,3286|C0549493|alveolitis|dsyn
+3401,3406|C1705232|fatal|fndg
+3408,3411;3422,3428|C0024115|The of ILD|dsyn
+3535,3538;3549,3551;3562,3565|C0024115|the of ILD|dsyn
+3552,3557;3560,3561|C3889290|Grade 3|fndg
+3579,3587|C2825142|resulted|fndg
+3591,3596|C1306577|death|fndg
+3700,3703|C0206062|ILD|dsyn
+3709,3720|C1444662|discontinue|fndg
+3757,3760|C0206062|ILD|dsyn
+3813,3829|C0348754|Hepatic Toxicity|dsyn
+3906,3911;3917,3930|C0266257|liver abnormalities|cgab
+3906,3911;3917,3930|C0478037|liver abnormalities|cgab
+3912,3916|C0456984|test|fndg
+3956,3961|C1705232|fatal|fndg
+3975,3980;3986,3999|C0266257|liver abnormalities|cgab
+3975,3980;3986,3999|C0478037|liver abnormalities|cgab
+3981,3985|C0456984|test|fndg
+4007,4012|C3244287|grade|fndg
+4190,4199|C1457868|worsening|fndg
+4291,4309|C0948807|hepatic impairment|dsyn
+4353,4365|C1444662|discontinued|fndg
+4377,4386|C0022568|Keratitis|dsyn
+4427,4436|C1457868|worsening|fndg
+4437,4453|C0014236|eye inflammation|dsyn
+4455,4466|C0423153|lacrimation|fndg
+4468,4485|C0085636|light sensitivity|sosy
+4487,4501|C0344232|blurred vision|sosy
+4503,4511|C0151827|eye pain|sosy
+4503,4511|C1959630|eye pain|fndg
+4520,4527|C0235267|red eye|sosy
+4623,4632|C0022568|Keratitis|dsyn
+4684,4691|C3889290|Grade 3|fndg
+4768,4777|C0022568|keratitis|dsyn
+4786,4795;4810,4819|C0022568|diagnosis keratitis|dsyn
+4799,4819|C0010043|ulcerative keratitis|dsyn
+4799,4809|C0041582|ulcerative|dsyn
+4883,4895|C1444662|discontinued|fndg
+4941,4950|C0022568|keratitis|dsyn
+5100,5110|C0262926|history of|fndg
+5111,5120|C0022568|keratitis|dsyn
+5122,5142|C0010043|ulcerative keratitis|dsyn
+5154,5161|C0013238|dry eye|dsyn
+5154,5161|C0314719|dry eye|sosy
+5196,5212|C0562955|Contact lens use|fndg
+5239,5248|C0022568|keratitis|dsyn
+5253,5263|C0041582|ulceration|dsyn
+5253,5263|C3887532|ulceration|patf
+5253,5263|C1963256|ulceration|fndg
+5287,5295|C0600688|Toxicity|inpo
+5457,5465|C0600688|toxicity|inpo
+5474,5483|C0156543|abortions|fndg
+5654,5658|C1273517|used|fndg
+5666,5675|C0425965|pregnancy|fndg
+5703,5711|C0600457|pregnant|fndg
+5703,5711|C0549206|pregnant|fndg
+6075,6083|C0600457|pregnant|fndg
+6075,6083|C0549206|pregnant|fndg
+6091,6100|C0425965|pregnancy|fndg

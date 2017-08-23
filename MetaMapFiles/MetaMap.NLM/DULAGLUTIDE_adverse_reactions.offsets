@@ -1,0 +1,124 @@
+154,160|C0027651|Tumors|neop
+208,220|C0030305|Pancreatitis|dsyn
+208,220|C1963198|Pancreatitis|fndg
+268,280;305,312|C0858734|Hypoglycemia Insulin|dsyn
+385,411|C0020517|Hypersensitivity reactions|patf
+459,475|C1565489|Renal impairment|dsyn
+523,529;547,554|C1836348|Severe Disease|fndg
+530,554|C0017178|Gastrointestinal Disease|dsyn
+707,713|C0027497|nausea|sosy
+707,713|C1963179|nausea|patf
+715,723|C0011991|diarrhea|sosy
+715,723|C1963091|diarrhea|fndg
+725,733|C0042963|vomiting|sosy
+725,733|C1963281|vomiting|patf
+735,749|C0000737|abdominal pain|sosy
+755,773|C0232462|decreased appetite|sosy
+1049,1059|C0012634|conditions|dsyn
+1605,1613|C3840862|75 years|fndg
+1804,1812|C0011860|diabetes|dsyn
+1804,1812|C0011849|diabetes|dsyn
+1804,1812|C0011847|diabetes|dsyn
+1916,1927|C0035309|retinopathy|dsyn
+1916,1927|C1962966|retinopathy|fndg
+1967,1973|C0231683|normal|fndg
+2119,2131|C0020615|hypoglycemia|dsyn
+2504,2512|C0011991|diarrhea|sosy
+2504,2512|C1963091|diarrhea|fndg
+2538,2562|C0239978|frequent bowel movements|fndg
+2581,2589|C0232602|retching|sosy
+2591,2599|C0042963|vomiting|sosy
+2591,2599|C1963281|vomiting|patf
+2601,2609|C0042963|vomiting|sosy
+2601,2609|C1963281|vomiting|patf
+2639,2659|C0232487|abdominal discomfort|sosy
+2661,2675|C0000737|abdominal pain|sosy
+2677,2691;2714,2719|C0232492|abdominal pain upper|sosy
+2677,2697|C0232495|abdominal pain lower|sosy
+2731,2741|C0234233|tenderness|sosy
+2743,2764|C0687713|gastrointestinal pain|sosy
+2783,2790|C0015672|fatigue|sosy
+2792,2800|C0004093|asthenia|sosy
+2802,2809|C0231218|malaise|sosy
+2849,2867|C2360800|number of patients|fndg
+3093,3099|C0027497|Nausea|sosy
+3093,3099|C1963179|Nausea|patf
+3202,3210|C0011991|Diarrhea|sosy
+3202,3210|C1963091|Diarrhea|fndg
+3311,3319|C0042963|Vomiting|sosy
+3311,3319|C1963281|Vomiting|patf
+3420,3434|C0000737|Abdominal Pain|sosy
+3529,3547|C0232462|Decreased Appetite|sosy
+3638,3647|C0013395|Dyspepsia|sosy
+3747,3754|C0015672|Fatigue|sosy
+4183,4195|C1444662|discontinued|fndg
+4196,4205;4230,4247|C0879626|treatment adverse reactions|patf
+4302,4308|C3244287|graded|fndg
+4773,4785|C0009806|constipation|sosy
+4773,4785|C1963087|constipation|fndg
+4806,4816|C0016204|flatulence|sosy
+4806,4816|C1962956|flatulence|fndg
+4837,4857|C0000731|abdominal distension|fndg
+4878,4909|C0017168|gastroesophageal reflux disease|dsyn
+4934,4944|C0014724|eructation|sosy
+5114,5129|C0011860|type 2 diabetes|dsyn
+5245,5252|C1363945|therapy|fndg
+5365,5380|C0011860|type 2 diabetes|dsyn
+5489,5497|C3840862|75 years|fndg
+5688,5696|C0011860|diabetes|dsyn
+5688,5696|C0011849|diabetes|dsyn
+5688,5696|C0011847|diabetes|dsyn
+5804,5815|C0035309|retinopathy|dsyn
+5804,5815|C1962966|retinopathy|fndg
+5855,5861|C0231683|normal|fndg
+6067,6079|C0020615|hypoglycemia|dsyn
+6167,6179|C0020615|Hypoglycemia|dsyn
+6290,6302|C0020615|hypoglycemia|dsyn
+6411,6423|C0020615|Hypoglycemia|dsyn
+7338,7350|C0020615|Hypoglycemia|dsyn
+7388,7392|C1273517|used|fndg
+7396,7407|C3811910|combination|fndg
+7507,7519|C0020615|hypoglycemia|dsyn
+7653,7665|C0020615|hypoglycemia|dsyn
+7815,7827|C0020615|hypoglycemia|dsyn
+7963,7975|C0020615|hypoglycemia|dsyn
+8114,8133|C0039231|Heart Rate Increase|patf
+8138,8149|C0039231|Tachycardia|patf
+8138,8149|C3827868|Tachycardia|fndg
+8150,8157|C0445223|Related|fndg
+8212,8220|C2825142|resulted|fndg
+8439,8456|C0039239|sinus tachycardia|dsyn
+8439,8456|C1963246|sinus tachycardia|fndg
+8439,8456|C2108109|sinus tachycardia|fndg
+8521,8538|C0039239|Sinus tachycardia|dsyn
+8521,8538|C1963246|Sinus tachycardia|fndg
+8521,8538|C2108109|Sinus tachycardia|fndg
+8678,8695|C0039239|sinus tachycardia|dsyn
+8678,8695|C1963246|sinus tachycardia|fndg
+8678,8695|C2108109|sinus tachycardia|fndg
+8865,8882|C0039239|sinus tachycardia|dsyn
+8865,8882|C1963246|sinus tachycardia|fndg
+8865,8882|C2108109|sinus tachycardia|fndg
+9940,9947|C0012634|disease|dsyn
+10099,10115;10156,10165|C0020517|Hypersensitivity reactions|patf
+10197,10206|C0042109|urticaria|dsyn
+10197,10206|C2186740|urticaria|fndg
+10217,10221|C0015230|rash|sosy
+10223,10235|C0542571|facial edema|patf
+10223,10235|C0151602|facial edema|fndg
+10237,10249|C0240211|lip swelling|sosy
+10347,10371|C0151735|Injection-site Reactions|patf
+10413,10437|C0151735|injection-site reactions|patf
+10445,10464|C0521505|injection-site rash|inpo
+10466,10474|C0041834|erythema|dsyn
+10577,10579;10589,10601|C3715208|PR Prolongation|fndg
+10577,10579;10589,10601|C0600125|PR Prolongation|fndg
+10627,10656;10662,10667|C3715208|First Degree Atrioventricular Block|fndg
+10627,10656;10662,10667|C2108089|First Degree Atrioventricular Block|fndg
+10627,10656;10662,10667|C0085614|First Degree Atrioventricular Block|dsyn
+10707,10718|C0429087|PR interval|fndg
+10885,10906|C3715208|first degree AV block|fndg
+10885,10906|C2108089|first degree AV block|fndg
+10885,10906|C0085614|first degree AV block|dsyn
+11072,11090|C0013798|electrocardiograms|fndg
+11094,11105|C0429087|PR interval|fndg

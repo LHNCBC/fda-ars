@@ -1,0 +1,38 @@
+T1	AdverseReaction 47 54	Seizure
+T2	AdverseReaction 526 533	seizure
+T3	AdverseReaction 585 592	seizure
+T4	Negation 538 540	no
+T5	AdverseReaction 594 601	Seizure
+T6	AdverseReaction 799 806	seizure
+T7	AdverseReaction 830 837	seizure
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3 Negated:E4
+E4	Negation:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+A1	CUI E1 C0036572
+A2	UMLS-Preferred-Name E1 Seizures
+A3	MEDDRA-PT E1 Seizure
+A4	MEDDRA-PT-ID E1 10039906
+A5	CUI E2 C0036572
+A6	UMLS-Preferred-Name E2 Seizures
+A7	MEDDRA-PT E2 Seizure
+A8	MEDDRA-PT-ID E2 10039906
+A9	CUI E3 C0036572
+A10	UMLS-Preferred-Name E3 Seizures
+A11	MEDDRA-PT E3 Seizure
+A12	MEDDRA-PT-ID E3 10039906
+A13	CUI E5 C0036572
+A14	UMLS-Preferred-Name E5 Seizures
+A15	MEDDRA-PT E5 Seizure
+A16	MEDDRA-PT-ID E5 10039906
+A17	CUI E6 C0036572
+A18	UMLS-Preferred-Name E6 Seizures
+A19	MEDDRA-PT E6 Seizure
+A20	MEDDRA-PT-ID E6 10039906
+A21	CUI E7 C0036572
+A22	UMLS-Preferred-Name E7 Seizures
+A23	MEDDRA-PT E7 Seizure
+A24	MEDDRA-PT-ID E7 10039906

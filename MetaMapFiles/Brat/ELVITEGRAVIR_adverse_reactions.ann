@@ -1,0 +1,834 @@
+T1	AdverseReaction 120 135	Lactic Acidosis
+T2	AdverseReaction 143 155	Hepatomegaly
+T3	Severity 136 142	Severe
+T4	AdverseReaction 243 277	Acute Exacerbations of Hepatitis B
+T5	Severity 236 242	Severe
+T6	AdverseReaction 356 382	Worsening Renal Impairment
+T7	AdverseReaction 506 536	Immune Reconstitution Syndrome
+T8	AdverseReaction 701 707	nausea
+T9	AdverseReaction 712 720	diarrhea
+T10	AdverseReaction 2653 2667	Ocular icterus
+T11	AdverseReaction 2875 2883	Diarrhea
+T12	AdverseReaction 2986 2996	Flatulence
+T13	AdverseReaction 3097 3103	Nausea
+T14	AdverseReaction 3322 3329	Fatigue
+T15	AdverseReaction 3544 3552	Jaundice
+T16	AdverseReaction 3766 3776	Somnolence
+T17	AdverseReaction 3877 3885	Headache
+T18	AdverseReaction 3988 3997	Dizziness
+T19	AdverseReaction 4210 4218	Insomnia
+T20	AdverseReaction 4321 4336	Abnormal dreams
+T21	AdverseReaction 4543 4547	Rash
+T22	AdverseReaction 4724 4747	renal adverse reactions
+T23	AdverseReaction 4865 4882	suicidal ideation
+T24	AdverseReaction 4887 4902	suicide attempt
+T25	AdverseReaction 5710 5716	nausea
+T26	AdverseReaction 5723 5733	flatulence
+T27	AdverseReaction 5744 5752	headache
+T28	AdverseReaction 6323 6333	depression
+T29	AdverseReaction 6335 6349	abdominal pain
+T30	AdverseReaction 6351 6360	dyspepsia
+T31	AdverseReaction 6362 6370	vomiting
+T32	AdverseReaction 6372 6377	fever
+T33	AdverseReaction 6379 6383	pain
+T34	AdverseReaction 6385 6400	nasopharyngitis
+T35	AdverseReaction 6402 6411	pneumonia
+T36	AdverseReaction 6413 6422	sinusitis
+T37	AdverseReaction 6424 6457	upper respiratory tract infection
+T38	AdverseReaction 6459 6469	arthralgia
+T39	AdverseReaction 6471 6480	back pain
+T40	AdverseReaction 6482 6489	myalgia
+T41	AdverseReaction 6491 6502	paresthesia
+T42	AdverseReaction 6504 6525	peripheral neuropathy
+T43	AdverseReaction 6537 6556	peripheral neuritis
+T44	AdverseReaction 6537 6547;6561 6571	peripheral neuropathy
+T45	AdverseReaction 6574 6581	anxiety
+T46	AdverseReaction 6583 6598	increased cough
+T47	AdverseReaction 6604 6612	rhinitis
+T48	AdverseReaction 6618 6636	Skin discoloration
+T49	AdverseReaction 6736 6766	hyperpigmentation on the palms
+T50	AdverseReaction 6736 6760;6774 6779	hyperpigmentation on the soles
+T51	AdverseReaction 7442 7445;7447 7457	AST >5.0 * ULN
+T52	AdverseReaction 7553 7556;7558 7568	ALT >3.0 * ULN
+T53	AdverseReaction 7664 7671;7672 7682	Amylase >2.0 * ULN
+T54	AdverseReaction 7775 7790;7792 7805	Creatine Kinase >= 10.0 * ULN
+T55	AdverseReaction 7886 7895	Urine RBC
+T56	AdverseReaction 7897 7906	Hematuria
+T57	AdverseReaction 8407 8421	bone fractures
+T58	AdverseReaction 8726 8737	Proteinuria
+T59	AdverseReaction 8944 8969	increase serum creatinine
+T60	AdverseReaction 8974 9013	decrease estimated creatinine clearance
+T62	AdverseReaction 9075 9110	affecting renal glomerular function
+T63	Negation 9067 9074	without
+T64	AdverseReaction 9136 9165	increases in serum creatinine
+T65	AdverseReaction 9170 9213	decreases in estimated creatinine clearance
+T66	AdverseReaction 9404 9434	elevations in serum creatinine
+T67	AdverseReaction 9959 9989	Elevations in Serum Creatinine
+T68	AdverseReaction 10393 10413	abnormalities of ALT
+T69	Severity 10369 10376	Grade 3
+T70	Severity 10369 10374;10380 10381	Grade 4
+T71	AdverseReaction 10393 10409;10474 10494	abnormalities of alkaline phosphatase
+T79	AdverseReaction 12737 12754	allergic reaction
+T80	AdverseReaction 12766 12776	angioedema
+T81	AdverseReaction 12824 12839	lactic acidosis
+T82	AdverseReaction 12841 12852	hypokalemia
+T83	AdverseReaction 12854 12870	hypophosphatemia
+T84	AdverseReaction 12932 12939	dyspnea
+T85	AdverseReaction 12979 12991	pancreatitis
+T86	AdverseReaction 12993 13010	increased amylase
+T87	AdverseReaction 13012 13026	abdominal pain
+T88	AdverseReaction 13063 13080	hepatic steatosis
+T89	AdverseReaction 13082 13091	hepatitis
+T90	AdverseReaction 13093 13116	increased liver enzymes
+T91	AdverseReaction 13093 13102;13132 13135	increased AST
+T92	AdverseReaction 13093 13102;13137 13140	increased ALT
+T93	AdverseReaction 13093 13102;13141 13149	increased gamma GT
+T94	AdverseReaction 13202 13206	rash
+T95	AdverseReaction 13267 13281	rhabdomyolysis
+T96	AdverseReaction 13283 13295	osteomalacia
+T97	AdverseReaction 13311 13320	bone pain
+T98	AdverseReaction 13349 13358	fractures
+T99	AdverseReaction 13361 13378	muscular weakness
+T100	AdverseReaction 13380 13388	myopathy
+T101	AdverseReaction 13429 13448	acute renal failure
+T102	AdverseReaction 13450 13463	renal failure
+T103	AdverseReaction 13465 13487	acute tubular necrosis
+T104	AdverseReaction 13489 13505	Fanconi syndrome
+T105	AdverseReaction 13507 13533	proximal renal tubulopathy
+T106	AdverseReaction 13535 13557	interstitial nephritis
+T107	AdverseReaction 13583 13613	nephrogenic diabetes insipidus
+T108	AdverseReaction 13615 13634	renal insufficiency
+T109	AdverseReaction 13636 13656	increased creatinine
+T110	AdverseReaction 13658 13669	proteinuria
+T111	AdverseReaction 13671 13679	polyuria
+T112	AdverseReaction 13745 13753	asthenia
+T113	AdverseReaction 13866 13892	proximal renal tubulopathy
+T114	AdverseReaction 13894 13908	rhabdomyolysis
+T115	AdverseReaction 13910 13922	osteomalacia
+T116	AdverseReaction 13924 13935	hypokalemia
+T117	AdverseReaction 13937 13954	muscular weakness
+T118	AdverseReaction 13956 13964	myopathy
+T119	AdverseReaction 13966 13982	hypophosphatemia
+T120	AdverseReaction 161 170	Steatosis
+T121	Severity 6798 6802	mild
+T122	AdverseReaction 8159 8175	decreases in BMD
+T123	AdverseReaction 9528 9553	Elevated Serum Creatinine
+T124	AdverseReaction 13535 13557;13569 13574	interstitial nephritis acute
+T125	AdverseReaction 10393 10409;10523 10532	abnormalities of bilirubin
+T72	AdverseReaction 10393 10409;10559 10572	abnormalities of serum glucose
+T73	AdverseReaction 10393 10409;10619 10629	abnormalities of glycosuria
+T74	AdverseReaction 10393 10409;10661 10672	abnormalities of neutrophils
+T75	AdverseReaction 10393 10409;10702 10721	abnormalities of fasting cholesterol
+T76	AdverseReaction 10393 10409;10756 10777	abnormalities of fasting triglycerides
+T77	Severity 10431 10442	215 U per L
+T78	Severity 10460 10471	170 U per L
+T126	Severity 10509 10520	550 U per L
+T127	Severity 10547 10556	2.5 * ULN
+T128	Severity 10584 10586;10607 10616	40 mg per dL
+T129	Severity 10603 10616	250 mg per dL
+T130	Severity 10656 10658	3+
+T131	Severity 10684 10697	750 per mm  3
+T132	Severity 10736 10749	240 mg per dL
+T133	Severity 10792 10805	750 mg per dL
+T134	AdverseReaction 343 352;366 382	New Onset Renal Impairment
+T135	AdverseReaction 430 442	Bone Effects
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Effect:E3
+E3	Severity:T3
+E4	AdverseReaction:T4 Effect:E5
+E5	Severity:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49 Effect:E121
+E50	AdverseReaction:T50 Effect:E121
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E62	AdverseReaction:T62 Negated:E63
+E63	Negation:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68 Effect:E69 Effect2:E70 Effect3:E77 Effect4:E78
+E69	Severity:T69
+E70	Severity:T70
+E71	AdverseReaction:T71 Effect:E69 Effect2:E70 Effect3:E126
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91
+E92	AdverseReaction:T92
+E93	AdverseReaction:T93
+E94	AdverseReaction:T94
+E95	AdverseReaction:T95
+E96	AdverseReaction:T96
+E97	AdverseReaction:T97
+E98	AdverseReaction:T98
+E99	AdverseReaction:T99
+E100	AdverseReaction:T100
+E101	AdverseReaction:T101
+E102	AdverseReaction:T102
+E103	AdverseReaction:T103
+E104	AdverseReaction:T104
+E105	AdverseReaction:T105
+E106	AdverseReaction:T106
+E107	AdverseReaction:T107
+E108	AdverseReaction:T108
+E109	AdverseReaction:T109
+E110	AdverseReaction:T110
+E111	AdverseReaction:T111
+E112	AdverseReaction:T112
+E113	AdverseReaction:T113
+E114	AdverseReaction:T114
+E115	AdverseReaction:T115
+E116	AdverseReaction:T116
+E117	AdverseReaction:T117
+E118	AdverseReaction:T118
+E119	AdverseReaction:T119
+E120	AdverseReaction:T120
+E121	Severity:T121
+E122	AdverseReaction:T122
+E123	AdverseReaction:T123
+E124	AdverseReaction:T124
+E125	AdverseReaction:T125 Effect:E69 Effect2:E70 Effect3:E127
+E72	AdverseReaction:T72 Effect:E69 Effect2:E70 Effect3:E128 Effect4:E129
+E73	AdverseReaction:T73 Effect:E69 Effect2:E70 Effect3:E130
+E74	AdverseReaction:T74 Effect:E69 Effect2:E70 Effect3:E131
+E75	AdverseReaction:T75 Effect:E69 Effect2:E70 Effect3:E132
+E76	AdverseReaction:T76 Effect:E69 Effect2:E70 Effect3:E133
+E77	Severity:T77
+E78	Severity:T78
+E126	Severity:T126
+E127	Severity:T127
+E128	Severity:T128
+E129	Severity:T129
+E130	Severity:T130
+E131	Severity:T131
+E132	Severity:T132
+E133	Severity:T133
+E134	AdverseReaction:T134
+E135	AdverseReaction:T135
+A1	CUI E1 C0001125
+A2	UMLS-Preferred-Name E1 Acidosis, Lactic
+A3	MEDDRA-PT E1 Lactic acidosis
+A4	MEDDRA-PT-ID E1 10023676
+A5	CUI E2 C0019209
+A6	UMLS-Preferred-Name E2 Hepatomegaly
+A7	MEDDRA-PT E2 Hepatomegaly
+A8	MEDDRA-PT-ID E2 10019842
+A9	CUI E4 C0276609
+A10	UMLS-Preferred-Name E4 Acute type B viral hepatitis
+A11	MEDDRA-PT E4 Acute hepatitis B
+A12	MEDDRA-PT-ID E4 10059193
+A13	CUI E6 C1565489
+A14	UMLS-Preferred-Name E6 Renal Insufficiency
+A15	MEDDRA-PT E6 Renal impairment
+A16	MEDDRA-PT-ID E6 10062237
+A17	CUI E7 C1096197
+A18	UMLS-Preferred-Name E7 Immune reconstitution syndrome
+A19	MEDDRA-PT E7 Immune reconstitution inflammatory syndrome
+A20	MEDDRA-PT-ID E7 10065042
+A21	LLT E7 Immune reconstitution syndrome
+A22	LLT-ID E7 10054014
+A23	CUI E8 C0027497
+A24	UMLS-Preferred-Name E8 Nausea
+A25	MEDDRA-PT E8 Nausea
+A26	MEDDRA-PT-ID E8 10028813
+A27	CUI E9 C0011991
+A28	UMLS-Preferred-Name E9 Diarrhea
+A29	MEDDRA-PT E9 Diarrhoea
+A30	MEDDRA-PT-ID E9 10012735
+A31	LLT E9 Diarrhea
+A32	LLT-ID E9 10012727
+A33	CUI E10 C1141938
+A34	UMLS-Preferred-Name E10 Ocular icterus
+A35	MEDDRA-PT E10 Ocular icterus
+A36	MEDDRA-PT-ID E10 10058117
+A37	CUI E11 C0011991
+A38	UMLS-Preferred-Name E11 Diarrhea
+A39	MEDDRA-PT E11 Diarrhoea
+A40	MEDDRA-PT-ID E11 10012735
+A41	LLT E11 Diarrhea
+A42	LLT-ID E11 10012727
+A43	CUI E12 C0016204
+A44	UMLS-Preferred-Name E12 Flatulence
+A45	MEDDRA-PT E12 Flatulence
+A46	MEDDRA-PT-ID E12 10016766
+A47	CUI E13 C0027497
+A48	UMLS-Preferred-Name E13 Nausea
+A49	MEDDRA-PT E13 Nausea
+A50	MEDDRA-PT-ID E13 10028813
+A51	CUI E14 C0015672
+A52	UMLS-Preferred-Name E14 Fatigue
+A53	MEDDRA-PT E14 Fatigue
+A54	MEDDRA-PT-ID E14 10016256
+A55	CUI E15 C0022346
+A56	UMLS-Preferred-Name E15 Icterus
+A57	MEDDRA-PT E15 Jaundice
+A58	MEDDRA-PT-ID E15 10023126
+A59	CUI E16 C2830004
+A60	UMLS-Preferred-Name E16 Somnolence
+A61	MEDDRA-PT E16 Somnolence
+A62	MEDDRA-PT-ID E16 10041349
+A63	CUI E17 C0018681
+A64	UMLS-Preferred-Name E17 Headache
+A65	MEDDRA-PT E17 Headache
+A66	MEDDRA-PT-ID E17 10019211
+A67	CUI E18 C0012833
+A68	UMLS-Preferred-Name E18 Dizziness
+A69	MEDDRA-PT E18 Dizziness
+A70	MEDDRA-PT-ID E18 10013573
+A71	CUI E19 C0917801
+A72	UMLS-Preferred-Name E19 Sleeplessness
+A73	MEDDRA-PT E19 Insomnia
+A74	MEDDRA-PT-ID E19 10022437
+A75	CUI E20 C0234458
+A76	UMLS-Preferred-Name E20 Dream disorder
+A77	MEDDRA-PT E20 Abnormal dreams
+A78	MEDDRA-PT-ID E20 10000125
+A79	CUI E21 C0015230
+A80	UMLS-Preferred-Name E21 Exanthema
+A81	MEDDRA-PT E21 Rash
+A82	MEDDRA-PT-ID E21 10037844
+A83	CUI E22 C1557806
+A84	UMLS-Preferred-Name E22 Adverse Event Associated with the Kidney and Genitourinary System
+A85	MEDDRA-PT E22 Renal impairment
+A86	MEDDRA-PT-ID E22 10062237
+A87	LLT E22 Renal function disorder
+A88	LLT-ID E22 10038455
+A89	CUI E23 C0424000
+A90	UMLS-Preferred-Name E23 Feeling suicidal (finding)
+A91	MEDDRA-PT E23 Suicidal ideation
+A92	MEDDRA-PT-ID E23 10042458
+A93	CUI E24 C0038663
+A94	UMLS-Preferred-Name E24 Suicide attempt
+A95	MEDDRA-PT E24 Suicide attempt
+A96	MEDDRA-PT-ID E24 10042464
+A97	CUI E25 C0027497
+A98	UMLS-Preferred-Name E25 Nausea
+A99	MEDDRA-PT E25 Nausea
+A100	MEDDRA-PT-ID E25 10028813
+A101	CUI E26 C0016204
+A102	UMLS-Preferred-Name E26 Flatulence
+A103	MEDDRA-PT E26 Flatulence
+A104	MEDDRA-PT-ID E26 10016766
+A105	CUI E27 C0018681
+A106	UMLS-Preferred-Name E27 Headache
+A107	MEDDRA-PT E27 Headache
+A108	MEDDRA-PT-ID E27 10019211
+A109	CUI E28 C0011570
+A110	UMLS-Preferred-Name E28 Mental Depression
+A111	MEDDRA-PT E28 Depression
+A112	MEDDRA-PT-ID E28 10012378
+A113	CUI E29 C0000737
+A114	UMLS-Preferred-Name E29 Abdominal Pain
+A115	MEDDRA-PT E29 Abdominal pain
+A116	MEDDRA-PT-ID E29 10000081
+A117	CUI E30 C0013395
+A118	UMLS-Preferred-Name E30 Dyspepsia
+A119	MEDDRA-PT E30 Dyspepsia
+A120	MEDDRA-PT-ID E30 10013946
+A121	CUI E31 C0042963
+A122	UMLS-Preferred-Name E31 Vomiting
+A123	MEDDRA-PT E31 Vomiting
+A124	MEDDRA-PT-ID E31 10047700
+A125	CUI E32 C0015967
+A126	UMLS-Preferred-Name E32 Fever
+A127	MEDDRA-PT E32 Pyrexia
+A128	MEDDRA-PT-ID E32 10037660
+A129	LLT E32 Fever
+A130	LLT-ID E32 10016558
+A131	CUI E33 C0030193
+A132	UMLS-Preferred-Name E33 Pain
+A133	MEDDRA-PT E33 Pain
+A134	MEDDRA-PT-ID E33 10033371
+A135	CUI E34 C0027441
+A136	UMLS-Preferred-Name E34 Nasopharyngitis
+A137	MEDDRA-PT E34 Nasopharyngitis
+A138	MEDDRA-PT-ID E34 10028810
+A139	CUI E35 C0032285
+A140	UMLS-Preferred-Name E35 Pneumonia
+A141	MEDDRA-PT E35 Pneumonia
+A142	MEDDRA-PT-ID E35 10035664
+A143	CUI E36 C0037199
+A144	UMLS-Preferred-Name E36 Sinusitis
+A145	MEDDRA-PT E36 Sinusitis
+A146	MEDDRA-PT-ID E36 10040753
+A147	CUI E37 C0041912
+A148	UMLS-Preferred-Name E37 Upper Respiratory Infections
+A149	MEDDRA-PT E37 Upper respiratory tract infection
+A150	MEDDRA-PT-ID E37 10046306
+A151	CUI E38 C0003862
+A152	UMLS-Preferred-Name E38 Arthralgia
+A153	MEDDRA-PT E38 Arthralgia
+A154	MEDDRA-PT-ID E38 10003239
+A155	CUI E39 C0004604
+A156	UMLS-Preferred-Name E39 Back Pain
+A157	MEDDRA-PT E39 Back pain
+A158	MEDDRA-PT-ID E39 10003988
+A159	CUI E40 C0231528
+A160	UMLS-Preferred-Name E40 Myalgia
+A161	MEDDRA-PT E40 Myalgia
+A162	MEDDRA-PT-ID E40 10028411
+A163	CUI E41 C0030554
+A164	UMLS-Preferred-Name E41 Paresthesia
+A165	MEDDRA-PT E41 Paraesthesia
+A166	MEDDRA-PT-ID E41 10033775
+A167	LLT E41 Paresthesia
+A168	LLT-ID E41 10033987
+A169	CUI E42 C0031117
+A170	UMLS-Preferred-Name E42 Peripheral Neuropathy
+A171	MEDDRA-PT E42 Neuropathy peripheral
+A172	MEDDRA-PT-ID E42 10029331
+A173	CUI E43 C0027813
+A174	UMLS-Preferred-Name E43 Neuritis
+A175	MEDDRA-PT E43 Neuropathy peripheral
+A176	MEDDRA-PT-ID E43 10029331
+A177	LLT E43 Peripheral neuritis
+A178	LLT-ID E43 10034593
+A179	CUI E44 C0031117
+A180	UMLS-Preferred-Name E44 Peripheral Neuropathy
+A181	MEDDRA-PT E44 Neuropathy peripheral
+A182	MEDDRA-PT-ID E44 10029331
+A183	CUI E45 C0003467
+A184	UMLS-Preferred-Name E45 Anxiety
+A185	MEDDRA-PT E45 Anxiety
+A186	MEDDRA-PT-ID E45 10002855
+A187	CUI E46 C0574067
+A188	UMLS-Preferred-Name E46 Increasing frequency of cough
+A189	MEDDRA-PT E46 Cough
+A190	MEDDRA-PT-ID E46 10011224
+A191	LLT E46 Cough increased
+A192	LLT-ID E46 10011228
+A193	CUI E47 C0035455
+A194	UMLS-Preferred-Name E47 Rhinitis
+A195	MEDDRA-PT E47 Rhinitis
+A196	MEDDRA-PT-ID E47 10039083
+A197	CUI E48 C0151907
+A198	UMLS-Preferred-Name E48 Discoloration of skin
+A199	MEDDRA-PT E48 Skin discolouration
+A200	MEDDRA-PT-ID E48 10040829
+A201	LLT E48 Skin discoloration
+A202	LLT-ID E48 10040828
+A203	flag E49 underspecified
+A204	CUI E49 C0744580
+A205	UMLS-Preferred-Name E49 HAND SKIN HYPERPIGMENTATION
+A206	MEDDRA-PT E49 Skin hyperpigmentation
+A207	MEDDRA-PT-ID E49 10040865
+A208	flag E50 underspecified
+A209	CUI E50 C0162834
+A210	UMLS-Preferred-Name E50 Hyperpigmentation
+A211	MEDDRA-PT E50 Skin hyperpigmentation
+A212	MEDDRA-PT-ID E50 10040865
+A213	CUI E51 C0151904
+A214	UMLS-Preferred-Name E51 Aspartate aminotransferase increased
+A215	MEDDRA-PT E51 Aspartate aminotransferase increased
+A216	MEDDRA-PT-ID E51 10003481
+A217	LLT E51 AST increased
+A218	LLT-ID E51 10003544
+A219	CUI E52 C0151905
+A220	UMLS-Preferred-Name E52 Alanine aminotransferase increased
+A221	MEDDRA-PT E52 Alanine aminotransferase increased
+A222	MEDDRA-PT-ID E52 10001551
+A223	LLT E52 ALT increased
+A224	LLT-ID E52 10001845
+A225	CUI E53 C0151479
+A226	UMLS-Preferred-Name E53 Amylase increased
+A227	MEDDRA-PT E53 Amylase increased
+A228	MEDDRA-PT-ID E53 10002016
+A229	CUI E54 C0151576
+A230	UMLS-Preferred-Name E54 Elevated creatine kinase
+A231	MEDDRA-PT E54 Blood creatine phosphokinase increased
+A232	MEDDRA-PT-ID E54 10005470
+A233	LLT E54 Creatine kinase increased
+A234	LLT-ID E54 10011336
+A235	CUI E55 C0221752
+A236	UMLS-Preferred-Name E55 Hematuria present
+A237	MEDDRA-PT E55 Red blood cells urine
+A238	MEDDRA-PT-ID E55 10050676
+A239	LLT E55 RBC urine
+A240	LLT-ID E55 10037929
+A241	CUI E56 C0018965
+A242	UMLS-Preferred-Name E56 Hematuria
+A243	MEDDRA-PT E56 Haematuria
+A244	MEDDRA-PT-ID E56 10018867
+A245	LLT E56 Hematuria
+A246	LLT-ID E56 10019450
+A247	CUI E57 C0016658
+A248	UMLS-Preferred-Name E57 Fracture
+A249	MEDDRA-PT E57 Fracture
+A250	MEDDRA-PT-ID E57 10017076
+A251	LLT E57 Fracture bone
+A252	LLT-ID E57 10017077
+A253	CUI E58 C0033687
+A254	UMLS-Preferred-Name E58 Proteinuria
+A255	MEDDRA-PT E58 Proteinuria
+A256	MEDDRA-PT-ID E58 10037032
+A257	CUI E59 C0700225
+A258	UMLS-Preferred-Name E59 Serum creatinine raised
+A259	MEDDRA-PT E59 Blood creatinine increased
+A260	MEDDRA-PT-ID E59 10005483
+A261	LLT E59 Serum creatinine increased
+A262	LLT-ID E59 10040233
+A263	CUI E60 C1262229
+A264	UMLS-Preferred-Name E60 Creatinine clearance estimation decreased
+A265	MEDDRA-PT E60 Creatinine renal clearance decreased
+A266	MEDDRA-PT-ID E60 10011372
+A267	LLT E60 Creatinine clearance estimation decreased
+A268	LLT-ID E60 10061436
+A269	CUI E62 C0236152
+A270	UMLS-Preferred-Name E62 Renal function abnormal glomer
+A271	MEDDRA-PT E62 Renal impairment
+A272	MEDDRA-PT-ID E62 10062237
+A273	LLT E62 Renal function abnormal glomer
+A274	LLT-ID E62 10038452
+A275	CUI E64 C0700225
+A276	UMLS-Preferred-Name E64 Serum creatinine raised
+A277	MEDDRA-PT E64 Blood creatinine increased
+A278	MEDDRA-PT-ID E64 10005483
+A279	LLT E64 Serum creatinine increased
+A280	LLT-ID E64 10040233
+A281	CUI E65 C1262229
+A282	UMLS-Preferred-Name E65 Creatinine clearance estimation decreased
+A283	MEDDRA-PT E65 Creatinine renal clearance decreased
+A284	MEDDRA-PT-ID E65 10011372
+A285	LLT E65 Creatinine clearance estimation decreased
+A286	LLT-ID E65 10061436
+A287	CUI E66 C0700225
+A288	UMLS-Preferred-Name E66 Serum creatinine raised
+A289	MEDDRA-PT E66 Blood creatinine increased
+A290	MEDDRA-PT-ID E66 10005483
+A291	LLT E66 Raised serum creatinine
+A292	LLT-ID E66 10037825
+A293	CUI E67 C0700225
+A294	UMLS-Preferred-Name E67 Serum creatinine raised
+A295	MEDDRA-PT E67 Blood creatinine increased
+A296	MEDDRA-PT-ID E67 10005483
+A297	LLT E67 Raised serum creatinine
+A298	LLT-ID E67 10037825
+A299	CUI E68 C0855619
+A300	UMLS-Preferred-Name E68 Alanine aminotransferase abnormal
+A301	MEDDRA-PT E68 Alanine aminotransferase abnormal
+A302	MEDDRA-PT-ID E68 10001547
+A303	CUI E71 C0877171
+A304	UMLS-Preferred-Name E71 Blood alkaline phosphatase abnormal
+A305	MEDDRA-PT E71 Blood alkaline phosphatase abnormal
+A306	MEDDRA-PT-ID E71 10059571
+A307	CUI E79 C0020517
+A308	UMLS-Preferred-Name E79 Hypersensitivity
+A309	MEDDRA-PT E79 Hypersensitivity
+A310	MEDDRA-PT-ID E79 10020751
+A311	LLT E79 Allergic reaction
+A312	LLT-ID E79 10001718
+A313	CUI E80 C0002994
+A314	UMLS-Preferred-Name E80 Angioedema
+A315	MEDDRA-PT E80 Angioedema
+A316	MEDDRA-PT-ID E80 10002424
+A317	CUI E81 C0001125
+A318	UMLS-Preferred-Name E81 Acidosis, Lactic
+A319	MEDDRA-PT E81 Lactic acidosis
+A320	MEDDRA-PT-ID E81 10023676
+A321	CUI E82 C0020621
+A322	UMLS-Preferred-Name E82 Hypokalemia
+A323	MEDDRA-PT E82 Hypokalaemia
+A324	MEDDRA-PT-ID E82 10021015
+A325	LLT E82 Hypokalemia
+A326	LLT-ID E82 10021018
+A327	CUI E83 C0085682
+A328	UMLS-Preferred-Name E83 Hypophosphatemia
+A329	MEDDRA-PT E83 Hypophosphataemia
+A330	MEDDRA-PT-ID E83 10021058
+A331	LLT E83 Hypophosphatemia
+A332	LLT-ID E83 10021059
+A333	CUI E84 C0013404
+A334	UMLS-Preferred-Name E84 Dyspnea
+A335	MEDDRA-PT E84 Dyspnoea
+A336	MEDDRA-PT-ID E84 10013968
+A337	LLT E84 Dyspnea
+A338	LLT-ID E84 10013963
+A339	CUI E85 C0030305
+A340	UMLS-Preferred-Name E85 Pancreatitis
+A341	MEDDRA-PT E85 Pancreatitis
+A342	MEDDRA-PT-ID E85 10033645
+A343	CUI E86 C0151479
+A344	UMLS-Preferred-Name E86 Amylase increased
+A345	MEDDRA-PT E86 Amylase increased
+A346	MEDDRA-PT-ID E86 10002016
+A347	CUI E87 C0000737
+A348	UMLS-Preferred-Name E87 Abdominal Pain
+A349	MEDDRA-PT E87 Abdominal pain
+A350	MEDDRA-PT-ID E87 10000081
+A351	CUI E88 C2711227
+A352	UMLS-Preferred-Name E88 Steatohepatitis
+A353	MEDDRA-PT E88 Hepatic steatosis
+A354	MEDDRA-PT-ID E88 10019708
+A355	CUI E89 C0019158
+A356	UMLS-Preferred-Name E89 Hepatitis
+A357	MEDDRA-PT E89 Hepatitis
+A358	MEDDRA-PT-ID E89 10019717
+A359	CUI E90 C0235996
+A360	UMLS-Preferred-Name E90 Elevated liver enzymes
+A361	MEDDRA-PT E90 Hepatic enzyme increased
+A362	MEDDRA-PT-ID E90 10060795
+A363	LLT E90 Elevated liver enzymes
+A364	LLT-ID E90 10014481
+A365	CUI E91 C0151904
+A366	UMLS-Preferred-Name E91 Aspartate aminotransferase increased
+A367	MEDDRA-PT E91 Aspartate aminotransferase increased
+A368	MEDDRA-PT-ID E91 10003481
+A369	LLT E91 AST increased
+A370	LLT-ID E91 10003544
+A371	CUI E92 C0151905
+A372	UMLS-Preferred-Name E92 Alanine aminotransferase increased
+A373	MEDDRA-PT E92 Alanine aminotransferase increased
+A374	MEDDRA-PT-ID E92 10001551
+A375	LLT E92 ALT increased
+A376	LLT-ID E92 10001845
+A377	CUI E93 C0151662
+A378	UMLS-Preferred-Name E93 Gamma-glutamyl transferase raised
+A379	MEDDRA-PT E93 Gamma-glutamyltransferase increased
+A380	MEDDRA-PT-ID E93 10017693
+A381	LLT E93 Gamma GT increased
+A382	LLT-ID E93 10017670
+A383	CUI E94 C0015230
+A384	UMLS-Preferred-Name E94 Exanthema
+A385	MEDDRA-PT E94 Rash
+A386	MEDDRA-PT-ID E94 10037844
+A387	CUI E95 C0035410
+A388	UMLS-Preferred-Name E95 Rhabdomyolysis
+A389	MEDDRA-PT E95 Rhabdomyolysis
+A390	MEDDRA-PT-ID E95 10039020
+A391	CUI E96 C0029442
+A392	UMLS-Preferred-Name E96 Osteomalacia
+A393	MEDDRA-PT E96 Osteomalacia
+A394	MEDDRA-PT-ID E96 10031250
+A395	CUI E97 C0151825
+A396	UMLS-Preferred-Name E97 Bone pain
+A397	MEDDRA-PT E97 Bone pain
+A398	MEDDRA-PT-ID E97 10006002
+A399	CUI E98 C0016658
+A400	UMLS-Preferred-Name E98 Fracture
+A401	MEDDRA-PT E98 Fracture
+A402	MEDDRA-PT-ID E98 10017076
+A403	CUI E99 C0151786
+A404	UMLS-Preferred-Name E99 Muscle Weakness
+A405	MEDDRA-PT E99 Muscular weakness
+A406	MEDDRA-PT-ID E99 10028372
+A407	CUI E100 C0026848
+A408	UMLS-Preferred-Name E100 Myopathy
+A409	MEDDRA-PT E100 Myopathy
+A410	MEDDRA-PT-ID E100 10028641
+A411	CUI E101 C0022660
+A412	UMLS-Preferred-Name E101 Kidney Failure, Acute
+A413	MEDDRA-PT E101 Acute kidney injury
+A414	MEDDRA-PT-ID E101 10069339
+A415	LLT E101 Acute renal failure
+A416	LLT-ID E101 10001041
+A417	CUI E102 C0035078
+A418	UMLS-Preferred-Name E102 Kidney Failure
+A419	MEDDRA-PT E102 Renal failure
+A420	MEDDRA-PT-ID E102 10038435
+A421	CUI E103 C0022672
+A422	UMLS-Preferred-Name E103 Acute Kidney Tubular Necrosis
+A423	MEDDRA-PT E103 Renal tubular necrosis
+A424	MEDDRA-PT-ID E103 10038540
+A425	LLT E103 Acute tubular necrosis
+A426	LLT-ID E103 10001099
+A427	CUI E104 C0015624
+A428	UMLS-Preferred-Name E104 Fanconi Syndrome
+A429	MEDDRA-PT E104 Fanconi syndrome
+A430	MEDDRA-PT-ID E104 10016219
+A431	CUI E105 C1839603
+A432	UMLS-Preferred-Name E105 Proximal tubulopathy
+A433	MEDDRA-PT E105 Renal tubular disorder
+A434	MEDDRA-PT-ID E105 10038537
+A435	LLT E105 Proximal renal tubular dysfunction
+A436	LLT-ID E105 10037081
+A437	CUI E106 C0027707
+A438	UMLS-Preferred-Name E106 Nephritis, Interstitial
+A439	MEDDRA-PT E106 Tubulointerstitial nephritis
+A440	MEDDRA-PT-ID E106 10048302
+A441	LLT E106 Nephritis interstitial
+A442	LLT-ID E106 10029134
+A443	CUI E107 C0162283
+A444	UMLS-Preferred-Name E107 Nephrogenic Diabetes Insipidus
+A445	MEDDRA-PT E107 Nephrogenic diabetes insipidus
+A446	MEDDRA-PT-ID E107 10029147
+A447	CUI E108 C1565489
+A448	UMLS-Preferred-Name E108 Renal Insufficiency
+A449	MEDDRA-PT E108 Renal failure
+A450	MEDDRA-PT-ID E108 10038435
+A451	LLT E108 Renal insufficiency
+A452	LLT-ID E108 10038474
+A453	CUI E109 C0151578
+A454	UMLS-Preferred-Name E109 Creatinine increased
+A455	MEDDRA-PT E109 Blood creatinine increased
+A456	MEDDRA-PT-ID E109 10005483
+A457	LLT E109 Creatinine increased
+A458	LLT-ID E109 10011368
+A459	CUI E110 C0033687
+A460	UMLS-Preferred-Name E110 Proteinuria
+A461	MEDDRA-PT E110 Proteinuria
+A462	MEDDRA-PT-ID E110 10037032
+A463	CUI E111 C0032617
+A464	UMLS-Preferred-Name E111 Polyuria
+A465	MEDDRA-PT E111 Polyuria
+A466	MEDDRA-PT-ID E111 10036142
+A467	CUI E112 C0004093
+A468	UMLS-Preferred-Name E112 Asthenia
+A469	MEDDRA-PT E112 Asthenia
+A470	MEDDRA-PT-ID E112 10003549
+A471	CUI E113 C1839603
+A472	UMLS-Preferred-Name E113 Proximal tubulopathy
+A473	MEDDRA-PT E113 Renal tubular disorder
+A474	MEDDRA-PT-ID E113 10038537
+A475	LLT E113 Proximal renal tubular dysfunction
+A476	LLT-ID E113 10037081
+A477	CUI E114 C0035410
+A478	UMLS-Preferred-Name E114 Rhabdomyolysis
+A479	MEDDRA-PT E114 Rhabdomyolysis
+A480	MEDDRA-PT-ID E114 10039020
+A481	CUI E115 C0029442
+A482	UMLS-Preferred-Name E115 Osteomalacia
+A483	MEDDRA-PT E115 Osteomalacia
+A484	MEDDRA-PT-ID E115 10031250
+A485	CUI E116 C0020621
+A486	UMLS-Preferred-Name E116 Hypokalemia
+A487	MEDDRA-PT E116 Hypokalaemia
+A488	MEDDRA-PT-ID E116 10021015
+A489	LLT E116 Hypokalemia
+A490	LLT-ID E116 10021018
+A491	CUI E117 C0151786
+A492	UMLS-Preferred-Name E117 Muscle Weakness
+A493	MEDDRA-PT E117 Muscular weakness
+A494	MEDDRA-PT-ID E117 10028372
+A495	CUI E118 C0026848
+A496	UMLS-Preferred-Name E118 Myopathy
+A497	MEDDRA-PT E118 Myopathy
+A498	MEDDRA-PT-ID E118 10028641
+A499	CUI E119 C0085682
+A500	UMLS-Preferred-Name E119 Hypophosphatemia
+A501	MEDDRA-PT E119 Hypophosphataemia
+A502	MEDDRA-PT-ID E119 10021058
+A503	LLT E119 Hypophosphatemia
+A504	LLT-ID E119 10021059
+A505	CUI E120 C2711227
+A506	UMLS-Preferred-Name E120 Steatohepatitis
+A507	MEDDRA-PT E120 Hepatic steatosis
+A508	MEDDRA-PT-ID E120 10019708
+A509	CUI E122 C0877225
+A510	UMLS-Preferred-Name E122 Bone density decreased
+A511	MEDDRA-PT E122 Bone density decreased
+A512	MEDDRA-PT-ID E122 10049470
+A513	CUI E123 C0700225
+A514	UMLS-Preferred-Name E123 Serum creatinine raised
+A515	MEDDRA-PT E123 Blood creatinine increased
+A516	MEDDRA-PT-ID E123 10005483
+A517	LLT E123 Raised serum creatinine
+A518	LLT-ID E123 10037825
+A519	CUI E124 C0149937
+A520	UMLS-Preferred-Name E124 Acute interstitial nephritis
+A521	MEDDRA-PT E124 Tubulointerstitial nephritis
+A522	MEDDRA-PT-ID E124 10048302
+A523	LLT E124 Interstitial nephritis acute
+A524	LLT-ID E124 10022614
+A525	CUI E125 C1142335
+A526	UMLS-Preferred-Name E125 Bilirubin abnormal
+A527	MEDDRA-PT E125 Blood bilirubin abnormal
+A528	MEDDRA-PT-ID E125 10058477
+A529	LLT E125 Bilirubin abnormal
+A530	LLT-ID E125 10058482
+A531	CUI E72 C0856424
+A532	UMLS-Preferred-Name E72 Serum glucose abnormal
+A533	MEDDRA-PT E72 Blood glucose abnormal
+A534	MEDDRA-PT-ID E72 10005554
+A535	LLT E72 Serum glucose abnormal
+A536	LLT-ID E72 10040267
+A537	CUI E73 C0017979
+A538	UMLS-Preferred-Name E73 Glycosuria
+A539	MEDDRA-PT E73 Glycosuria
+A540	MEDDRA-PT-ID E73 10018473
+A541	CUI E74 C0860747
+A542	UMLS-Preferred-Name E74 Blood neutrophils abnormal
+A543	MEDDRA-PT E74 Neutrophil count abnormal
+A544	MEDDRA-PT-ID E74 10061313
+A545	LLT E74 Blood neutrophils abnormal
+A546	LLT-ID E74 10005675
+A547	CUI E75 C0853595
+A548	UMLS-Preferred-Name E75 Blood cholesterol abnormal
+A549	MEDDRA-PT E75 Blood cholesterol abnormal
+A550	MEDDRA-PT-ID E75 10005423
+A551	CUI E76 C0860922
+A552	UMLS-Preferred-Name E76 Triglycerides abnormal NOS
+A553	MEDDRA-PT E76 Blood triglycerides abnormal
+A554	MEDDRA-PT-ID E76 10005837
+A555	LLT E76 Triglycerides abnormal
+A556	LLT-ID E76 10044661
+A557	CUI E134 C1565489
+A558	UMLS-Preferred-Name E134 Renal Insufficiency
+A559	MEDDRA-PT E134 Renal impairment
+A560	MEDDRA-PT-ID E134 10062237
+A561	CUI E135 C0005940
+A562	UMLS-Preferred-Name E135 Bone Diseases
+A563	MEDDRA-PT E135 Bone disorder
+A564	MEDDRA-PT-ID E135 10005956
+A565	LLT E135 Bone disorder NOS
+A566	LLT-ID E135 10005958

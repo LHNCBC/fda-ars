@@ -1,0 +1,216 @@
+179,203|C0007222|Cardiovascular disorders|dsyn
+215,237|C1861172|venous thromboembolism|patf
+239,257|C0034065|pulmonary embolism|dsyn
+259,265|C0038454|stroke|dsyn
+271,298|C0919714|retinal vascular thrombosis|patf
+322,341|C0006826|Malignant neoplasms|neop
+353,371|C0476089|endometrial cancer|neop
+353,371|C0007103|endometrial cancer|neop
+353,371|C1883486|endometrial cancer|neop
+373,386|C0678222|breast cancer|neop
+373,386|C0006142|breast cancer|neop
+392,406|C1140680|ovarian cancer|neop
+392,406|C0029925|ovarian cancer|neop
+450,472|C0016977|of gallbladder disease|dsyn
+488,499|C1444662|Discontinue|fndg
+512,526|C0456909|loss of vision|fndg
+512,526|C0042798|loss of vision|dsyn
+512,526|C3665347|loss of vision|fndg
+512,526|C3665386|loss of vision|fndg
+512,526|C3665346|loss of vision|sosy
+535,555|C0020557|hypertriglyceridemia|dsyn
+535,555|C0428478|hypertriglyceridemia|fndg
+559,579|C0022354|cholestatic jaundice|dsyn
+1006,1030|C0007222|Cardiovascular Disorders|dsyn
+1204,1210|C0038454|stroke|dsyn
+1215,1218|C0149871|DVT|dsyn
+1326,1338|C1444662|discontinued|fndg
+1356,1360;1369,1372;1391,1398|C1281905|Risk for disease|fndg
+1413,1425|C0020538|hypertension|dsyn
+1413,1425|C1963138|hypertension|fndg
+1427,1444|C0011849|diabetes mellitus|dsyn
+1446,1457|C0040335|tobacco use|fndg
+1446,1457|C0841002|tobacco use|fndg
+1446,1457|C3853727|tobacco use|fndg
+1459,1479|C0020443|hypercholesterolemia|dsyn
+1459,1479|C1522133|hypercholesterolemia|fndg
+1485,1492|C0028754|obesity|dsyn
+1485,1492|C1963185|obesity|fndg
+1519,1535|C0262926|personal history|fndg
+1519,1535|C0424945|personal history|fndg
+1539,1556|C0241889|family history of|fndg
+1562,1569|C0028754|obesity|dsyn
+1562,1569|C1963185|obesity|fndg
+1575,1603|C0024141|systemic lupus erythematosus|dsyn
+1645,1651|C0038454|Stroke|dsyn
+1740,1746|C0038454|stroke|dsyn
+2281,2287|C0038454|stroke|dsyn
+2328,2340|C1444662|discontinued|fndg
+2394,2416|C0010054|Coronary Heart Disease|dsyn
+2394,2416|C1956346|Coronary Heart Disease|dsyn
+2394,2416|C0010068|Coronary Heart Disease|dsyn
+2480,2502|C0010054|coronary heart disease|dsyn
+2480,2502|C1956346|coronary heart disease|dsyn
+2480,2502|C0010068|coronary heart disease|dsyn
+2537,2558|C0027051|myocardial infarction|dsyn
+2560,2588|C0340324|silent myocardial infarction|dsyn
+2593,2596|C0010054|CHD|dsyn
+2593,2596|C1956346|CHD|dsyn
+2593,2596|C0010068|CHD|dsyn
+2597,2602|C1306577|death|fndg
+2905,2914|C0567312|menopause|fndg
+2960,2982|C1861172|Venous Thromboembolism|patf
+3048,3051|C0149871|DVT|dsyn
+3056,3074|C0034065|pulmonary embolism|dsyn
+3254,3257|C0149871|DVT|dsyn
+3467,3479|C1444662|discontinued|fndg
+3566,3581|C0040038|thromboembolism|patf
+3593,3600;3604,3613|C0425945|periods prolonged|fndg
+3676,3704|C1861172|venous thromboembolic events|patf
+3676,3704|C3160733|venous thromboembolic events|fndg
+3676,3704|C1997614|venous thromboembolic events|patf
+3720,3727|C1363945|therapy|fndg
+3746,3758|C1444662|discontinued|fndg
+3779,3803|C0919574|prolonged immobilization|fndg
+3866,3873|C1363945|therapy|fndg
+3990,3994|C0578671|move|fndg
+4038,4062|C0919574|prolonged immobilization|fndg
+4075,4094|C0006826|Malignant Neoplasms|neop
+4101,4119|C0476089|Endometrial Cancer|neop
+4101,4119|C0007103|Endometrial Cancer|neop
+4101,4119|C1883486|Endometrial Cancer|neop
+4147,4165|C0476089|endometrial cancer|neop
+4147,4165|C0007103|endometrial cancer|neop
+4147,4165|C1883486|endometrial cancer|neop
+4264,4282|C0476089|endometrial cancer|neop
+4264,4282|C0007103|endometrial cancer|neop
+4264,4282|C1883486|endometrial cancer|neop
+4328,4329;4336,4341|C0808270|2 times|fndg
+4523,4539|C3843089|less than 1 year|fndg
+4766,4778|C1444662|discontinued|fndg
+4867,4890|C0014173|endometrial hyperplasia|dsyn
+4947,4970|C0014173|Endometrial hyperplasia|dsyn
+4993,5011|C0476089|endometrial cancer|neop
+4993,5011|C0007103|endometrial cancer|neop
+4993,5011|C1883486|endometrial cancer|neop
+5280,5289|C1444656|indicated|fndg
+5324,5334|C1306459|malignancy|neop
+5364,5375|C1408353|undiagnosed|fndg
+5400,5408;5417,5425|C1458140|abnormal bleeding|patf
+5400,5416|C0744356|abnormal genital|fndg
+5409,5425|C0854381|genital bleeding|dsyn
+5417,5425|C0019080|bleeding|patf
+5434,5447|C0678222|Breast Cancer|neop
+5434,5447|C0006142|Breast Cancer|neop
+5473,5483|C3815594|randomized|fndg
+5527,5540|C0678222|breast cancer|neop
+5527,5540|C0006142|breast cancer|neop
+5686,5695;5701,5708|C0420338|follow-up 1 years|fndg
+5798,5820|C0853879|invasive breast cancer|neop
+5899,5905|C2825142|result|fndg
+5924,5943|C0262365|abnormal mammograms|fndg
+5978,5984;5988,5997|C1518681|effect treatment|fndg
+6013,6016;6022,6038|C0678222|the of breast cancer|neop
+6013,6016;6022,6038|C0006142|the of breast cancer|neop
+6258,6270|C0455624|risk factors|fndg
+6282,6291|C0260913|mammogram|fndg
+6292,6299|C2825142|results|fndg
+6308,6322|C1140680|Ovarian Cancer|neop
+6308,6322|C0029925|Ovarian Cancer|neop
+6478,6492|C1140680|ovarian cancer|neop
+6478,6492|C0029925|ovarian cancer|neop
+6647,6653;6657,6666|C1518681|effect treatment|fndg
+6694,6708|C1140680|ovarian cancer|neop
+6694,6708|C0029925|ovarian cancer|neop
+6728,6729;6741,6749|C1853841|5 Dementia|fndg
+6829,6850|C3687561|hysterectomized women|fndg
+6877,6887|C3815594|randomized|fndg
+6950,6959|C0589120|follow-up|fndg
+7074,7082|C0497327|dementia|mobd
+7074,7082|C0011265|dementia|mobd
+7114,7122|C0497327|dementia|mobd
+7114,7122|C0011265|dementia|mobd
+7218,7226|C0497327|dementia|mobd
+7218,7226|C0011265|dementia|mobd
+7388,7407|C0016977|Gallbladder Disease|dsyn
+7388,7407|C0558976|Gallbladder Disease|fndg
+7421,7422;7452,7471|C1969115|4 gallbladder disease|dsyn
+7590,7617|C0919714|Retinal vascular thrombosis|patf
+7669,7680|C1444662|Discontinue|fndg
+7751,7765|C0456909|loss of vision|fndg
+7751,7765|C0042798|loss of vision|dsyn
+7751,7765|C3665347|loss of vision|fndg
+7751,7765|C3665386|loss of vision|fndg
+7751,7765|C3665346|loss of vision|sosy
+7788,7797|C0015300|proptosis|dsyn
+7799,7807|C0012569|diplopia|fndg
+7812,7820|C0149931|migraine|dsyn
+7845,7856|C0030353|papilledema|dsyn
+7860,7884|C1402303|retinal vascular lesions|dsyn
+7915,7927|C1444662|discontinued|fndg
+7940,7963|C0020538|Elevated Blood Pressure|dsyn
+7940,7963|C0497247|Elevated Blood Pressure|fndg
+8045,8072|C0497247|increases in blood pressure|fndg
+8097,8120|C0745213|idiosyncratic reactions|fndg
+8147,8157|C3815594|randomized|fndg
+8208,8214;8218,8227|C0877035|effect estrogens|fndg
+8271,8291|C0020557|Hypertriglyceridemia|dsyn
+8271,8291|C0428478|Hypertriglyceridemia|fndg
+8324,8344|C0020557|hypertriglyceridemia|dsyn
+8324,8344|C0428478|hypertriglyceridemia|fndg
+8440,8452|C0030305|pancreatitis|dsyn
+8440,8452|C1963198|pancreatitis|fndg
+8463,8478|C1444662|discontinuation|fndg
+8492,8504|C0030305|pancreatitis|dsyn
+8492,8504|C1963198|pancreatitis|fndg
+8524,8542|C0948807|Hepatic Impairment|dsyn
+8563,8583|C0022354|Cholestatic Jaundice|dsyn
+8631,8654|C0086565|impaired liver function|patf
+8750,8773|C0086565|impaired liver function|patf
+8802,8820|C0948807|hepatic impairment|dsyn
+9026,9036;9049,9057|C0455551|history of jaundice|fndg
+9079,9091|C0239301|estrogen use|fndg
+9100,9109|C0425965|pregnancy|fndg
+9188,9200|C1444662|discontinued|fndg
+9233,9251|C0948807|hepatic impairment|dsyn
+9255,9270|C1444657|contraindicated|fndg
+9317,9331|C0020676|Hypothyroidism|dsyn
+9370,9404|C0241400|increased thyroid-binding globulin|fndg
+9430,9453|C0740378|normal thyroid function|fndg
+9552,9554;9583,9589|C0853627|T3 normal|fndg
+9899,9914|C0268000|Fluid Retention|patf
+9952,9970|C0268000|of fluid retention|patf
+10007,10017|C0012634|conditions|dsyn
+10067,10086|C3277906|cardiac dysfunction|fndg
+10090,10106|C1565489|renal impairment|dsyn
+10124,10135|C0478530|observation|fndg
+10198,10214|C1565489|renal impairment|dsyn
+10292,10304|C0020598|Hypocalcemia|dsyn
+10369,10387|C0020626|hypoparathyroidism|dsyn
+10408,10420|C0020598|hypocalcemia|dsyn
+10444,10465|C0019243|Hereditary Angioedema|dsyn
+10495,10505|C0436331|exacerbate|fndg
+10506,10514|C1457887|symptoms|sosy
+10518,10528|C0002994|angioedema|patf
+10543,10564|C0019243|hereditary angioedema|dsyn
+10600,10610|C0012634|Conditions|dsyn
+10639,10661|C0349790|exacerbation of asthma|fndg
+10663,10680|C0011849|diabetes mellitus|dsyn
+10682,10690|C0014544|epilepsy|dsyn
+10692,10700|C0149931|migraine|dsyn
+10704,10713|C0032708|porphyria|dsyn
+10715,10743|C0024141|systemic lupus erythematosus|dsyn
+10749,10768|C0238246|hepatic hemangiomas|neop
+10821,10831|C0012634|conditions|dsyn
+10845,10858|C1096235|Premenopausal|sosy
+10897,10910|C1096235|premenopausal|sosy
+10963,10976|C1096235|premenopausal|sosy
+11204,11210;11221,11229|C0436345|severe symptoms|fndg
+11372,11396|C0857460|increased platelet count|fndg
+11599,11625|C0272375|decreased antithrombin III|dsyn
+11599,11625|C0238665|decreased antithrombin III|fndg
+11740,11774|C0241400|Increased thyroid-binding globulin|fndg
+11792,11801;11820,11835|C1328578|increased thyroid hormone|fndg
+12293,12300;12304,12313|C0861064|leading increased|fndg
+12352,12355|C1314687|sex|fndg
+12775,12801|C0271650|Impaired glucose tolerance|dsyn

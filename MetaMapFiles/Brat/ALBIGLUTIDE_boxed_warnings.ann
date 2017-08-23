@@ -1,0 +1,123 @@
+T1	AdverseReaction 38 59	THYROID C-CELL TUMORS
+T2	Factor 30 34	RISK
+T3	AdverseReaction 80 101	THYROID C-CELL TUMORS
+T4	Factor 72 76	RISK
+T5	DrugClass 185 234	glucagon-like peptide-1 (GLP-1) receptor agonists
+T6	AdverseReaction 247 268	thyroid C-cell tumors
+T7	Animal 272 279	rodents
+T8	DrugClass 333 355	GLP-1 receptor agonist
+T9	AdverseReaction 364 377	C-cell tumors
+T10	Animal 381 388	rodents
+T11	AdverseReaction 454 475	thyroid C-cell tumors
+T12	AdverseReaction 487 514	medullary thyroid carcinoma
+T13	AdverseReaction 516 519	MTC
+T14	Factor 420 427	unknown
+T15	AdverseReaction 1203 1224	THYROID C-CELL TUMORS
+T16	Factor 1195 1199	RISK
+T17	DrugClass 1376 1425	glucagon-like peptide-1 (GLP-1) receptor agonists
+T18	AdverseReaction 1438 1459	thyroid C-cell tumors
+T19	Animal 1463 1470	rodents
+T20	DrugClass 1524 1546	GLP-1 receptor agonist
+T21	AdverseReaction 1555 1568	C-cell tumors
+T22	Animal 1572 1579	rodents
+T23	Factor 1611 1618	unknown
+T24	AdverseReaction 1642 1663	thyroid C-cell tumors
+T25	AdverseReaction 1675 1702	medullary thyroid carcinoma
+T26	AdverseReaction 1704 1707	MTC
+E1	AdverseReaction:T1 Hypothetical:E2
+E2	Factor:T2
+E3	AdverseReaction:T3 Hypothetical:E4
+E4	Factor:T4
+E5	DrugClass:T5
+E6	AdverseReaction:T6 Hypothetical:E5 Hypothetical2:E7
+E7	Animal:T7
+E8	DrugClass:T8
+E9	AdverseReaction:T9 Hypothetical:E8 Hypothetical2:E10
+E10	Animal:T10
+E11	AdverseReaction:T11 Hypothetical:E14
+E12	AdverseReaction:T12 Hypothetical:E14
+E13	AdverseReaction:T13 Hypothetical:E14
+E14	Factor:T14
+E15	AdverseReaction:T15 Hypothetical:E16
+E16	Factor:T16
+E17	DrugClass:T17
+E18	AdverseReaction:T18 Hypothetical:E17 Hypothetical2:E19
+E19	Animal:T19
+E20	DrugClass:T20
+E21	AdverseReaction:T21 Hypothetical:E20 Hypothetical2:E22
+E22	Animal:T22
+E23	Factor:T23
+E24	AdverseReaction:T24 Hypothetical:E23
+E25	AdverseReaction:T25 Hypothetical:E23
+E26	AdverseReaction:T26 Hypothetical:E23
+A1	flag E1 duplicate
+A2	CUI E1 C0342190
+A3	UMLS-Preferred-Name E1 C-cell hyperplasia of thyroid
+A4	MEDDRA-PT E1 Thyroid C-cell hyperplasia
+A5	MEDDRA-PT-ID E1 10070568
+A6	flag E3 duplicate
+A7	CUI E3 C0342190
+A8	UMLS-Preferred-Name E3 C-cell hyperplasia of thyroid
+A9	MEDDRA-PT E3 Thyroid C-cell hyperplasia
+A10	MEDDRA-PT-ID E3 10070568
+A11	flag E6 duplicate
+A12	CUI E6 C0342190
+A13	UMLS-Preferred-Name E6 C-cell hyperplasia of thyroid
+A14	MEDDRA-PT E6 Thyroid C-cell hyperplasia
+A15	MEDDRA-PT-ID E6 10070568
+A16	CUI E9 C1709166
+A17	UMLS-Preferred-Name E9 Neoplastic C-Cell Hyperplasia
+A18	MEDDRA-PT E9 Thyroid cancer stage 0
+A19	MEDDRA-PT-ID E9 10070567
+A20	LLT E9 C-cell hyperplasia neoplastic
+A21	LLT-ID E9 10070572
+A22	flag E11 duplicate
+A23	CUI E11 C0342190
+A24	UMLS-Preferred-Name E11 C-cell hyperplasia of thyroid
+A25	MEDDRA-PT E11 Thyroid C-cell hyperplasia
+A26	MEDDRA-PT-ID E11 10070568
+A27	CUI E12 C0238462
+A28	UMLS-Preferred-Name E12 Medullary carcinoma of thyroid
+A29	MEDDRA-PT E12 Medullary thyroid cancer
+A30	MEDDRA-PT-ID E12 10027105
+A31	LLT E12 Medullary carcinoma of thyroid
+A32	LLT-ID E12 10027101
+A33	CUI E13 C0238462
+A34	UMLS-Preferred-Name E13 Medullary carcinoma of thyroid
+A35	MEDDRA-PT E13 Medullary thyroid cancer
+A36	MEDDRA-PT-ID E13 10027105
+A37	LLT E13 Medullary carcinoma of thyroid
+A38	LLT-ID E13 10027101
+A39	flag E15 duplicate
+A40	CUI E15 C0342190
+A41	UMLS-Preferred-Name E15 C-cell hyperplasia of thyroid
+A42	MEDDRA-PT E15 Thyroid C-cell hyperplasia
+A43	MEDDRA-PT-ID E15 10070568
+A44	flag E18 duplicate
+A45	CUI E18 C0342190
+A46	UMLS-Preferred-Name E18 C-cell hyperplasia of thyroid
+A47	MEDDRA-PT E18 Thyroid C-cell hyperplasia
+A48	MEDDRA-PT-ID E18 10070568
+A49	CUI E21 C1709166
+A50	UMLS-Preferred-Name E21 Neoplastic C-Cell Hyperplasia
+A51	MEDDRA-PT E21 Thyroid cancer stage 0
+A52	MEDDRA-PT-ID E21 10070567
+A53	LLT E21 C-cell hyperplasia neoplastic
+A54	LLT-ID E21 10070572
+A55	flag E24 duplicate
+A56	CUI E24 C0342190
+A57	UMLS-Preferred-Name E24 C-cell hyperplasia of thyroid
+A58	MEDDRA-PT E24 Thyroid C-cell hyperplasia
+A59	MEDDRA-PT-ID E24 10070568
+A60	CUI E25 C0238462
+A61	UMLS-Preferred-Name E25 Medullary carcinoma of thyroid
+A62	MEDDRA-PT E25 Medullary thyroid cancer
+A63	MEDDRA-PT-ID E25 10027105
+A64	LLT E25 Medullary carcinoma of thyroid
+A65	LLT-ID E25 10027101
+A66	CUI E26 C0238462
+A67	UMLS-Preferred-Name E26 Medullary carcinoma of thyroid
+A68	MEDDRA-PT E26 Medullary thyroid cancer
+A69	MEDDRA-PT-ID E26 10027105
+A70	LLT E26 Medullary carcinoma of thyroid
+A71	LLT-ID E26 10027101

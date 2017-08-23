@@ -1,0 +1,21 @@
+52,78|TP|Hypersensitivity reactions|C0020517|10020751|52,78|Hypersensitivity reactions|C0020517|10020751|patf
+139,155|FP|hypersensitivity|C0020517|10020751|patf
+410,424|FN|Radiation risk|C4032503
+484,486;520,538|FP|to radiation exposure|C0015333|10073306|inpo
+499,538|FN|long-term cumulative radiation exposure|C0015333
+624,642|FP|radiation exposure|C0015333|10073306|inpo
+677,703|FP|Hypersensitivity Reactions|C0020517|10020751|patf
+709,735|FN|Hypersensitivity reactions|C0020517
+744,752|TP|flushing|C0016382|10016825|744,752|flushing|C0016382,C1962957|10016825,10060933|sosy,fndg
+757,764|TP|dyspnea|C0013404|10013968|757,764|dyspnea|C0013404|10013968|sosy
+1322,1337|FP|neuritic plaque|C0333463|10056677|acab
+1601,1614|FP|brain atrophy|C0235946|10008096|dsyn
+1874,1882;1891,1897|FP|neuritic plaque|C0333463|10056677|acab
+1883,1890|FP|amyloid|C0011560,C0002726|10021425,10002022|patf,dsyn
+2014,2021|FP|amyloid|C0011560,C0002726|10021425,10002022|patf,dsyn
+2128,2130;2172,2190|FP|to radiation exposure|C0015333|10073306|inpo
+2151,2190|FN|long-term cumulative radiation exposure|C0015333
+2192,2231|FN|Long-term cumulative radiation exposure|C0015333
+2213,2231|FP|radiation exposure|C0015333|10073306|inpo
+2272,2278|FN|cancer|C0006826
+2364,2382|FP|radiation exposure|C0015333|10073306|inpo

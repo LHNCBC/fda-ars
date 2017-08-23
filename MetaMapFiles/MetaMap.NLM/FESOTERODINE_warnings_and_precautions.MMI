@@ -1,0 +1,42 @@
+00000000|AA|CNS|central nervous sytem|1|3|5|21|2266:3
+00000000|MMI|58.64|Bladder neck obstruction|C0005694|[dsyn]|["Bladder Outlet Obstruction"-tx-11-"Bladder Outlet Obstruction"-noun-0,"Bladder Outlet Obstruction"-tx-11-"bladder outlet obstruction"-noun-0,"Bladder Outlet Obstruction"-tx-3-"bladder outlet obstruction"-noun-0]|TX|1492/26;1607/26;244/26|C12.777.767.700.962;C12.777.829.760;C13.351.968.767.700.850;C13.351.968.829.601
+00000000|MMI|40.38|Nervousness|C0027769|[sosy]|["Nervous"-tx-18-"CNS"-adj-0,"Nervous"-tx-16-"CNS"-adj-0,"Nervous"-tx-15-"CNS"-adj-0,"Nervous"-tx-14-"nervous"-adj-0]|TX|2693/3;2479/3;2326/3;2251/7|F01.470.132
+00000000|MMI|39.91|Angle Closure Glaucoma|C0017605|[dsyn]|["GLAUCOMA, NARROW ANGLE"-tx-13-"Narrow-Angle Glaucoma"-noun-0,"GLAUCOMA, NARROW ANGLE"-tx-13-"narrow-angle glaucoma"-noun-0,"GLAUCOMA, NARROW ANGLE"-tx-5-"narrow-angle glaucoma"-noun-0]|TX|1947/21;2039/21;575/21|C11.525.381.056
+00000000|MMI|39.41|Myasthenia Gravis|C0026896|[dsyn]|["MYASTHENIA GRAVIS"-tx-24-"Myasthenia Gravis"-noun-0,"MYASTHENIA GRAVIS"-tx-24-"myasthenia gravis"-noun-0,"MYASTHENIA GRAVIS"-tx-6-"myasthenia gravis"-noun-0]|TX|3928/17;4003/17;911/17|C10.114.656;C10.668.758.725;C20.111.258.500
+00000000|MMI|35.81|Drowsiness|C0013144|[fndg]|["Somnolence"-tx-15-"somnolence"-noun-0,"Somnolence"-tx-5-"Somnolence"-noun-0]|TX|2409/10;704/10|F02.830.855.796;G11.561.600.815.754
+00000000|MMI|33.08|Angioedema|C0002994|[patf]|["Angiooedema"-tx-9-"Angioedema"-noun-0,"Angiooedema"-tx-8-"angioedema"-noun-0]|TX|1206/10;1164/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|32.53|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-20-"Renal Impairment"-noun-0,"Renal Impairment"-tx-20-"renal impairment"-noun-1]|TX|3035/16;3135/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|32.31|Urinary Retention|C0080274|[fndg]|["URINARY RETENTION"-tx-11-"urinary retention"-noun-0,"URINARY RETENTION"-tx-3-"urinary retention"-noun-0]|TX|1657/17;294/17|C12.777.934.880;C13.351.968.934.880
+00000000|MMI|23.12|Disease|C0012634|[dsyn]|["DISEASE"-tx-24-"disease"-noun-0,"DISEASE"-tx-6-"disease"-noun-0]|TX|4024/7;932/7|C23.550.288
+00000000|MMI|17.80|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-15-"dizziness"-noun-0]|TX|2394/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|17.80|Headache|C0018681|[sosy]|["HEADACHE"-tx-15-"headache"-noun-0]|TX|2384/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|17.80|Vertigo|C0042571|[sosy]|["dizziness"-tx-15-"dizziness"-noun-0]|TX|2394/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|15.79|2+|C3833492|[fndg]|["2+"-tx-23-"2"-integer-0,"2+"-tx-20-"2"-integer-0,"2+"-tx-19-"2"-integer-0]|TX|3908/1;3226/1;3015/1|
+00000000|MMI|11.25|ENT surgical result tongue|C2137027|[fndg]|["tongue"-tx-10-"tongue"-noun-0,"tongue"-tx-7-"tongue"-noun-0,"tongue"-tx-1-"tongue"-noun-0]|TX|1302/6;1091/6;84/6|
+00000000|MMI|10.42|Somnolence|C2830004|[fndg]|["SOMNOLENCE"-tx-15-"somnolence"-noun-0,"SOMNOLENCE"-tx-5-"Somnolence"-noun-0]|TX|2409/10;704/10|
+00000000|MMI|9.87|Edema|C0013604|[fndg]|["SWELLING"-tx-9-"swelling"-noun-0]|TX|1246/8|C23.888.277
+00000000|MMI|7.70|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-18-"discontinuation"-noun-0,"Discontinued"-tx-10-"discontinued"-verb-0]|TX|2729/15;1373/12|
+00000000|MMI|7.55|Severe constipation|C1855664|[fndg]|["Severe constipation"-tx-12-"severe constipation"-noun-0,"Severe constipation"-tx-4-"severe constipation"-noun-0]|TX|1904/19;472/19|
+00000000|MMI|7.33|5 - 9|C3840622|[fndg]|["5 - 9"-tx-24-"5.9"-real_number-0,"5 - 9"-tx-7-"5.9"-real_number-0]|TX|3924/3;1022/3|
+00000000|MMI|7.26|Received therapy or drug for|C0332154|[fndg]|["Treated for"-tx-13-"treated for"-verb-0,"Treated for"-tx-5-"treated for"-verb-0]|TX|2027/11;563/11|
+00000000|MMI|7.21|Hepatic impairment|C0948807|[dsyn]|["Hepatic impairment"-tx-19-"Hepatic Impairment"-noun-0,"Hepatic impairment"-tx-19-"hepatic impairment"-noun-1]|TX|2778/18;2854/18|
+00000000|MMI|7.16|Activity (animal life circumstance)|C3668946|[fndg]|["Activity"-tx-24-"activity"-noun-0,"Activity"-tx-6-"activity"-noun-0]|TX|4071/8;979/8|
+00000000|MMI|7.16|Endurance of activity|C0600075|[fndg]|["Activity"-tx-24-"activity"-noun-0,"Activity"-tx-6-"activity"-noun-0]|TX|4071/8;979/8|
+00000000|MMI|7.07|FACE ANGIOEDEMA|C0743747|[dsyn]|["FACE ANGIOEDEMA"-tx-7-"Angioedema face"-noun-0,"FACE ANGIOEDEMA"-tx-1-"Angioedema face"-noun-0]|TX|1045/10,1079/4;54/10,72/4|
+00000000|MMI|7.02|Decrease in gastrointestinal motility|C4062687|[fndg]|["Decrease in gastrointestinal motility"-tx-12-"in decreased gastrointestinal motility"-noun-0,"Decrease in gastrointestinal motility"-tx-4-"in decreased gastrointestinal motility"-noun-0]|TX|1831/2,1848/35;399/2,416/35|
+00000000|MMI|5.18|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-14-"Adverse Reactions"-noun-0]|TX|2285/17|
+00000000|MMI|5.18|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-13-"Controlled"-verb-0]|TX|1936/10|
+00000000|MMI|5.18|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-15-"dizziness"-noun-0]|TX|2394/9|
+00000000|MMI|5.18|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-15-"headache"-noun-0]|TX|2384/8|
+00000000|MMI|5.18|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-9-"life-threatening"-adj-0]|TX|1262/16|
+00000000|MMI|5.18|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-9-"life-threatening"-adj-0]|TX|1262/16|
+00000000|MMI|5.18|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-9-"life-threatening"-adj-0]|TX|1262/16|
+00000000|MMI|5.18|No obstruction of airway|C0425452|[fndg]|["Patent airway"-tx-10-"patent airway"-noun-0]|TX|1438/13|
+00000000|MMI|3.68|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-10-"therapy"-noun-0]|TX|1402/7|
+00000000|MMI|3.61|Airway edema|C2939065|[patf]|["Airway swelling"-tx-9-"airway swelling"-noun-0]|TX|1239/15|
+00000000|MMI|3.57|Examined|C0332128|[fndg]|["Examined"-tx-23-"examined"-verb-1]|TX|3707/8|
+00000000|MMI|3.56|Swelling|C0038999|[fndg]|["SWELLING"-tx-9-"swelling"-noun-0]|TX|1246/8|
+00000000|MMI|3.54|Physical findings|C0311392|[fndg]|["SIGNS"-tx-16-"signs"-noun-0]|TX|2454/5|
+00000000|MMI|3.49|5-6|C3843715|[fndg]|["5-6"-tx-19-"5.6"-real_number-0]|TX|2774/3|
+00000000|MMI|3.49|6/5|C0442749|[fndg]|["5 6"-tx-19-"5.6"-real_number-0]|TX|2774/3|
+00000000|MMI|3.43|Weakness|C3714552|[sosy]|["Weak"-tx-23-"weak"-adj-0]|TX|3658/4|

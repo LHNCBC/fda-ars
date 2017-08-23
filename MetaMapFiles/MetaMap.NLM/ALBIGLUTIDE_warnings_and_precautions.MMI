@@ -1,0 +1,65 @@
+00000000|MMI|85.27|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-40-"renal impairment"-noun-0,"Renal Impairment"-tx-39-"renal impairment"-noun-0,"Renal Impairment"-tx-36-"Renal Impairment"-noun-0,"Renal Impairment"-tx-9-"Renal Impairment"-noun-0,"Renal Impairment"-tx-9-"renal impairment"-noun-0]|TX|5620/16;5312/16;4858/16;637/16;695/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|65.65|Pancreatitis|C0030305|[dsyn]|["PANCREATITIS"-tx-30-"pancreatitis"-noun-1,"PANCREATITIS"-tx-29-"pancreatitis"-noun-0,"PANCREATITIS"-tx-28-"pancreatitis"-noun-0,"PANCREATITIS"-tx-27-"pancreatitis"-noun-0,"PANCREATITIS"-tx-26-"pancreatitis"-noun-0,"PANCREATITIS"-tx-2-"Pancreatitis"-noun-0]|TX|3944/12;3746/12;3686/12;3539/12;3230/12;109/12|C06.689.750
+00000000|MMI|39.62|Hypoglycemia|C0020615|[dsyn]|["HYPOGLYCEMIA"-tx-33-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-32-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-5-"Hypoglycemia"-noun-0]|TX|4352/12;4135/12;283/12|C18.452.394.984
+00000000|MMI|29.46|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-34-"dyspnea"-noun-0,"DYSPNOEA"-tx-19-"dyspnea"-noun-0]|TX|4616/7;2336/7|C08.618.326;C23.888.852.371
+00000000|MMI|28.36|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-35-"hypersensitivity reactions"-noun-0,"HYPERSENSITIVITY REACTION (NOS)"-tx-34-"hypersensitivity reaction"-noun-0,"Hypersensitivity reactions"-tx-34-"Hypersensitivity Reactions"-noun-0,"Hypersensitivity reactions"-tx-7-"Hypersensitivity Reactions"-noun-0]|TX|4671/26;4565/25;4458/26;479/26|C20.543
+00000000|MMI|26.56|Vomiting|C0042963|[sosy]|["VOMITING"-tx-38-"vomiting"-verb-0,"VOMITING"-tx-27-"vomiting"-noun-1]|TX|5237/8;3672/8|C23.888.821.937
+00000000|MMI|26.09|Thyroid Neoplasm|C0040136|[neop]|["Tumor of Thyroid"-tx-19-"of thyroid tumors"-noun-0,"Tumor of Thyroid"-tx-11-"of Thyroid Tumors"-noun-0]|TX|2268/2,2283/14;972/10,990/6|C04.588.322.894;C04.588.443.915;C19.344.894;C19.874.788
+00000000|MMI|24.88|Pancreatitis Adverse Event|C1963198|[fndg]|["Pancreatitis"-tx-30-"pancreatitis"-noun-1,"Pancreatitis"-tx-29-"pancreatitis"-noun-0,"Pancreatitis"-tx-28-"pancreatitis"-noun-0,"Pancreatitis"-tx-27-"pancreatitis"-noun-0,"Pancreatitis"-tx-26-"pancreatitis"-noun-0,"Pancreatitis"-tx-2-"Pancreatitis"-noun-0]|TX|3944/12;3746/12;3686/12;3539/12;3230/12;109/12|
+00000000|MMI|22.43|Kidney Failure, Chronic|C0022661|[dsyn]|["CHRONIC RENAL FAILURE"-tx-36-"chronic renal failure"-noun-0]|TX|5006/21|C12.777.419.780.750.500;C13.351.968.419.780.750.500
+00000000|MMI|21.36|Discontinued|C1444662|[fndg]|["Discontinue"-tx-35-"discontinue"-verb-0,"Discontinue"-tx-28-"discontinue"-verb-0,"Discontinue"-tx-7-"Discontinue"-verb-0,"Discontinue"-tx-2-"Discontinue"-verb-0]|TX|4705/11;3722/11;507/11;123/11|
+00000000|MMI|19.34|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-20-"uncertain"-adj-0]|TX|2453/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|19.27|Chronic Kidney Diseases|C1561643|[dsyn]|["Chronic Renal Failure"-tx-36-"chronic renal failure"-noun-0]|TX|5006/21|C12.777.419.780.750;C13.351.968.419.780.750
+00000000|MMI|19.25|Kidney Failure, Acute|C0022660|[dsyn]|["ACUTE RENAL FAILURE"-tx-36-"acute renal failure"-noun-0]|TX|4969/19|C12.777.419.780.050;C13.351.968.419.780.050
+00000000|MMI|17.80|Multiple Endocrine Neoplasia Type 2a|C0025268|[neop]|["MEN 2"-tx-18-"MEN 2"-noun-0]|TX|2167/5|C04.588.322.400.505;C04.651.600.505;C04.700.630.505;C16.320.700.630.505;C19.344.400.505
+00000000|MMI|16.30|Hoarseness|C0019825|[sosy]|["HOARSENESS"-tx-19-"hoarseness"-noun-0]|TX|2359/10|C08.360.940.490;C08.618.490;C09.400.940.490;C10.597.975.550;C23.888.592.979.550;C23.888.852.490
+00000000|MMI|16.10|Thyroid Nodule|C0040137|[neop]|["Thyroid Nodules"-tx-24-"thyroid nodules"-noun-0]|TX|2943/15|C04.588.322.894.800;C04.588.443.915.800;C19.344.894.800;C19.874.788.800
+00000000|MMI|15.35|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-35-"symptoms"-noun-0,"SYMPTOMS"-tx-27-"symptoms"-noun-0,"SYMPTOMS"-tx-19-"symptoms"-noun-0,"SYMPTOMS"-tx-8-"symptoms"-noun-0]|TX|4797/8;3527/8;2271/8;605/8|
+00000000|MMI|15.29|0%|C3842591|[fndg]|["0%"-tx-26-"0"-integer-0,"0%"-tx-26-"0"-percentage-0]|TX|[3352/1],[3395/1],[3405/1],[3445/1];[3352/1],[3395/1],[3405/1],[3445/1]|
+00000000|MMI|14.64|Adenoma|C0001430|[neop]|["Adenomas"-tx-12-"adenomas"-noun-0]|TX|1285/8|C04.557.470.035
+00000000|MMI|14.64|Carcinoma|C0007097|[neop]|["Carcinomas"-tx-12-"carcinomas"-noun-0]|TX|1297/10|C04.557.470.200
+00000000|MMI|14.64|Deglutition Disorders|C0011168|[dsyn]|["DYSPHAGIA"-tx-19-"dysphagia"-noun-0]|TX|2325/9|C06.405.117.119;C09.775.174
+00000000|MMI|14.64|Dehydration|C0011175|[dsyn]|["DEHYDRATION"-tx-38-"dehydration"-noun-0]|TX|5260/11|C18.452.950.179;C23.550.274
+00000000|MMI|14.64|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-38-"diarrhea"-noun-0]|TX|5247/8|C23.888.821.214
+00000000|MMI|13.14|Kidney Diseases|C0022658|[dsyn]|["RENAL DISEASE"-tx-37-"renal disease"-noun-1]|TX|5143/13|C12.777.419;C13.351.968.419
+00000000|MMI|13.14|Nausea|C0027497|[sosy]|["NAUSEA"-tx-38-"nausea"-noun-0]|TX|5229/6|C23.888.821.712
+00000000|MMI|12.89|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-34-"pruritus"-noun-0]|TX|4596/8|C17.800.685;C23.888.885.625
+00000000|MMI|11.49|Exanthema|C0015230|[sosy]|["RASH"-tx-34-"rash"-noun-0]|TX|4606/4|C17.800.257
+00000000|MMI|11.22|History of pancreatitis|C3887021|[fndg]|["History of pancreatitis"-tx-31-"history of pancreatitis"-noun-0,"History of pancreatitis"-tx-30-"history of pancreatitis"-noun-1,"History of pancreatitis"-tx-4-"history of pancreatitis"-noun-0]|TX|4015/23;3858/23;244/23|
+00000000|MMI|10.99|Neoplasms|C0027651|[neop]|["Tumors"-tx-14-"tumors"-noun-0,"Tumors"-tx-12-"tumors"-noun-0,"Tumors"-tx-1-"Tumors"-noun-0]|TX|1473/6;1277/6;68/6|C04
+00000000|MMI|10.79|Physical findings|C0311392|[fndg]|["SIGNS"-tx-35-"signs"-noun-0,"SIGNS"-tx-27-"signs"-noun-0,"SIGNS"-tx-8-"signs"-noun-0]|TX|4787/5;3517/5;595/5|
+00000000|MMI|7.75|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-33-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-9-"adverse reactions"-noun-0]|TX|4420/17;729/7,754/9|
+00000000|MMI|7.53|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-38-"vomiting"-verb-0,"Vomiting"-tx-27-"vomiting"-noun-1]|TX|5237/8;3672/8|
+00000000|MMI|7.50|Acute pancreatitis|C0001339|[dsyn]|["Acute Pancreatitis"-tx-25-"Acute Pancreatitis"-noun-0,"Acute Pancreatitis"-tx-25-"acute pancreatitis"-noun-0]|TX|3051/18;3093/18|
+00000000|MMI|7.47|Worse|C1457868|[fndg]|["worsen"-tx-40-"worsen"-verb-0,"Worsening"-tx-36-"worsening"-noun-0]|TX|5521/6;4993/9|
+00000000|MMI|7.40|4+ Answer to question|C3838679|[fndg]|["4+"-tx-35-"4"-real_number-0,"4+"-tx-14-"4"-real_number-0]|TX|4839/1;1546/1|
+00000000|MMI|7.36|5-6|C3843715|[fndg]|["5-6"-tx-41-"5.6"-real_number-0,"5-6"-tx-11-"5.6"-real_number-0]|TX|5720/3;949/3|
+00000000|MMI|7.36|6/5|C0442749|[fndg]|["5 6"-tx-41-"5.6"-real_number-0,"5 6"-tx-11-"5.6"-real_number-0]|TX|5720/3;949/3|
+00000000|MMI|7.28|2+|C3833492|[fndg]|["2+"-tx-33-"2"-real_number-0,"2+"-tx-26-"2"-comma_integer-0]|TX|4414/1;3433/1|
+00000000|MMI|7.26|Related personal status|C0445223|[fndg]|["Related"-tx-26-"related"-verb-0,"Related"-tx-12-"related"-adj-0]|TX|3265/7;1221/7|
+00000000|MMI|7.22|Used by|C1273517|[fndg]|["used"-tx-32-"used"-verb-0,"used"-tx-5-"used"-verb-0]|TX|4177/4;312/4|
+00000000|MMI|7.22|combination - answer to question|C3811910|[fndg]|["Combination"-tx-32-"combination"-noun-0,"Combination"-tx-5-"combination"-noun-0]|TX|4185/11;320/11|
+00000000|MMI|6.60|Thyroid Diseases|C0040128|[dsyn]|["THYROID DISEASE"-tx-21-"thyroid disease"-noun-0]|TX|2693/15|C19.874
+00000000|MMI|5.18|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-38-"diarrhea"-noun-0]|TX|5247/8|
+00000000|MMI|3.81|pain; abdominal, severe|C1411946|[sosy]|["abdominal; pain, severe"-tx-27-"severe abdominal pain"-noun-0]|TX|3574/21|
+00000000|MMI|3.77|Family history|C0241889|[fndg]|["FAMILY HISTORY OF"-tx-18-"family history of"-noun-0]|TX|2125/17|
+00000000|MMI|3.71|Increased renal function|C0232806|[fndg]|["Increased renal function"-tx-39-"increased renal function"-noun-0]|TX|5412/9,5425/14|
+00000000|MMI|3.70|Elevated calcitonin|C1868394|[fndg]|["Elevated calcitonin"-tx-22-"elevated calcitonin"-noun-0]|TX|2724/8,2739/10|
+00000000|MMI|3.68|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-38-"nausea"-noun-0]|TX|5229/6|
+00000000|MMI|3.66|C cell tumor|C0334689|[neop]|["C cell tumor"-tx-13-"C-cell tumors"-noun-0]|TX|1371/13|
+00000000|MMI|3.60|ENT surgical result - neck mass|C2137078|[fndg]|["neck mass"-tx-19-"mass neck"-noun-0]|TX|2307/4,2319/4|
+00000000|MMI|3.60|Mass of neck|C0149736|[fndg]|["mass; neck"-tx-19-"mass neck"-noun-0]|TX|2307/4,2319/4|
+00000000|MMI|3.59|Contraindicated|C1444657|[fndg]|["Contraindicated"-tx-18-"contraindicated"-verb-0]|TX|2078/15|
+00000000|MMI|3.59|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-26-"therapy"-noun-0]|TX|3276/7|
+00000000|MMI|3.56|Insulin hypoglycemia|C0858734|[dsyn]|["hypoglycemia insulin"-tx-32-"Hypoglycemia Insulin"-noun-0]|TX|4050/12,4087/7|
+00000000|MMI|3.55|Diagnosis|C0011900|[fndg]|["DIAGNOSED"-tx-15-"diagnosed"-verb-0]|TX|1638/9|E01
+00000000|MMI|3.50|Chronic kidney disease stage 5|C2316810|[dsyn]|["Chronic renal failure"-tx-36-"chronic renal failure"-noun-0]|TX|5006/21|
+00000000|MMI|3.48|Pre-renal acute kidney injury|C3854173|[dsyn]|["Acute renal failure"-tx-36-"acute renal failure"-noun-0]|TX|4969/19|
+00000000|MMI|3.48|50%|C3842586|[fndg]|["50%"-tx-22-"50"-integer-0]|TX|2821/2|
+00000000|MMI|3.48|<50|C3843766|[fndg]|["<50"-tx-22-"50"-integer-0]|TX|2821/2|
+00000000|MMI|3.47|1+|C3816745|[fndg]|["1+"-tx-15-"1"-integer-0]|TX|1683/1|
+00000000|MMI|3.45|Trial 2|C3842777|[fndg]|["Clinical trial 2"-tx-25-"2 clinical trials"-noun-0]|TX|3049/1,3076/15|
+00000000|MMI|3.44|reported prior thyroid disease (history)|C2186538|[fndg]|["thyroid disease"-tx-21-"thyroid disease"-noun-0]|TX|2693/15|
+00000000|MMI|3.44|Reaction gastrointestinal|C0542184|[fndg]|["REACTION GASTROINTESTINAL"-tx-39-"gastrointestinal reactions"-noun-0]|TX|5385/26|
+00000000|MMI|3.43|Calcitonin low|C0860982|[fndg]|["Low calcitonin"-tx-21-"low calcitonin"-noun-0]|TX|2606/3,2631/10|
+00000000|MMI|3.42|Carcinogenicity|C0858970|[neop]|["Carcinogenicity"-tx-11-"Carcinogenicity"-noun-0]|TX|1002/15|

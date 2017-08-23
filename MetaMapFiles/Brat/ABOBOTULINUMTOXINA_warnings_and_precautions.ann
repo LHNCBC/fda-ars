@@ -1,0 +1,319 @@
+T1	AdverseReaction 458 469;492 504	respiratory difficulties
+T2	AdverseReaction 471 477;492 504	speech difficulties
+T3	AdverseReaction 481 504	swallowing difficulties
+T4	AdverseReaction 683 708	Creutzfeldt-Jakob disease
+T5	AdverseReaction 710 713	CJD
+T6	Negation 724 726;736 748	no transmission
+T7	AdverseReaction 2347 2369	spread of toxin effect
+T8	AdverseReaction 770 773	CJD
+T9	AdverseReaction 1433 1446;1479 1513	toxin effects beyond the site of local injection
+T11	AdverseReaction 1607 1615	asthenia
+T12	AdverseReaction 1617 1644	generalized muscle weakness
+T13	AdverseReaction 1646 1654	diplopia
+T14	AdverseReaction 1656 1670	blurred vision
+T15	AdverseReaction 1672 1678	ptosis
+T16	AdverseReaction 1680 1689	dysphagia
+T17	AdverseReaction 1691 1700	dysphonia
+T18	AdverseReaction 1702 1712	dysarthria
+T19	AdverseReaction 1714 1734	urinary incontinence
+T20	AdverseReaction 1739 1761	breathing difficulties
+T21	AdverseReaction 1829 1839;1854 1866	Swallowing difficulties
+T22	AdverseReaction 1844 1866	breathing difficulties
+T23	AdverseReaction 1922 1927	death
+T24	AdverseReaction 1939 1962	spread of toxin effects
+T27	AdverseReaction 2594 2604;2618 2630	swallowing difficulties
+T28	AdverseReaction 2608 2630	breathing difficulties
+T32	AdverseReaction 2997 3003	Deaths
+T33	AdverseReaction 3032 3041	dysphagia
+T34	AdverseReaction 3099 3108	Dysphagia
+T35	AdverseReaction 3220 3230	Aspiration
+T36	AdverseReaction 3254 3263	dysphagia
+T37	AdverseReaction 3440 3459	weaken neck muscles
+T38	AdverseReaction 3538 3564	loss of breathing capacity
+T39	AdverseReaction 3714 3736	breathing difficulties
+T40	Severity 3706 3713	serious
+T41	Severity 3529 3537	critical
+T42	AdverseReaction 3748 3767	respiratory failure
+T46	AdverseReaction 4865 4878	eyelid ptosis
+T47	AdverseReaction 5287 5296	dysphagia
+T48	Severity 5280 5286	severe
+T49	Severity 3025 3031	severe
+T50	Severity 3247 3253	severe
+T51	AdverseReaction 5301 5323	respiratory compromise
+T52	AdverseReaction 5613 5627	viral diseases
+T53	AdverseReaction 5668 5693	Creutzfeldt-Jakob disease
+T55	AdverseReaction 5765 5779	viral diseases
+T56	AdverseReaction 5783 5786	CJD
+T57	Negation 5737 5739;5749 5761	No transmission
+T58	Factor 658 662	risk
+T29	Factor 3436 3439	may
+T30	Factor 3513 3516	may
+T60	Factor 5588 5592	risk
+T61	Factor 5643 5647	risk
+T62	AdverseReaction 752 766	viral diseases
+T54	AdverseReaction 5695 5698	CJD
+T10	Factor 3231 3234	may
+T25	Factor 2580 2583	can
+T26	Factor 1595 1598	may
+T63	Factor 1447 1450	may
+T59	Factor 5231 5235	risk
+T31	Factor 3773 3781	Patients
+T43	Factor 4738 4745	DYSPORT
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4 Hypothetical:E58
+E5	AdverseReaction:T5
+E6	Negation:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8 Negated:E6
+E9	AdverseReaction:T9 Hypothetical:E63
+E11	AdverseReaction:T11 Hypothetical:E26
+E12	AdverseReaction:T12 Hypothetical:E26
+E13	AdverseReaction:T13 Hypothetical:E26
+E14	AdverseReaction:T14 Hypothetical:E26
+E15	AdverseReaction:T15 Hypothetical:E26
+E16	AdverseReaction:T16 Hypothetical:E26
+E17	AdverseReaction:T17 Hypothetical:E26
+E18	AdverseReaction:T18 Hypothetical:E26
+E19	AdverseReaction:T19 Hypothetical:E26
+E20	AdverseReaction:T20 Hypothetical:E26
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E27	AdverseReaction:T27 Hypothetical:E25
+E28	AdverseReaction:T28 Hypothetical:E25
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33 Effect:E49
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35 Hypothetical:E10
+E36	AdverseReaction:T36 Effect:E50
+E37	AdverseReaction:T37 Hypothetical:E29
+E38	AdverseReaction:T38 Effect:E41 Hypothetical:E30
+E39	AdverseReaction:T39 Effect:E40
+E40	Severity:T40
+E41	Severity:T41
+E42	AdverseReaction:T42
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47 Effect:E48 Hypothetical:E59
+E48	Severity:T48
+E49	Severity:T49
+E50	Severity:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52 Hypothetical:E60
+E53	AdverseReaction:T53 Hypothetical:E61
+E55	AdverseReaction:T55 Negated:E57
+E56	AdverseReaction:T56 Negated:E57
+E57	Negation:T57
+E58	Factor:T58
+E29	Factor:T29
+E30	Factor:T30
+E60	Factor:T60
+E61	Factor:T61
+E62	AdverseReaction:T62 Negated:E6
+E54	AdverseReaction:T54
+E10	Factor:T10
+E25	Factor:T25
+E26	Factor:T26
+E63	Factor:T63
+E59	Factor:T59
+E31	Factor:T31
+E43	Factor:T43
+A1	CUI E1 C0013404
+A2	UMLS-Preferred-Name E1 Dyspnea
+A3	MEDDRA-PT E1 Dyspnoea
+A4	MEDDRA-PT-ID E1 10013968
+A5	LLT E1 Difficulty breathing
+A6	LLT-ID E1 10012791
+A7	CUI E2 C0233715
+A8	UMLS-Preferred-Name E2 Speech impairment
+A9	MEDDRA-PT E2 Speech disorder
+A10	MEDDRA-PT-ID E2 10041466
+A11	CUI E3 C0011168
+A12	UMLS-Preferred-Name E3 Deglutition Disorders
+A13	MEDDRA-PT E3 Dysphagia
+A14	MEDDRA-PT-ID E3 10013950
+A15	LLT E3 Swallowing difficult
+A16	LLT-ID E3 10042645
+A17	CUI E4 C0022336
+A18	UMLS-Preferred-Name E4 Creutzfeldt-Jakob disease
+A19	MEDDRA-PT E4 Creutzfeldt-Jakob disease
+A20	MEDDRA-PT-ID E4 10011384
+A21	CUI E5 C0022336
+A22	UMLS-Preferred-Name E5 Creutzfeldt-Jakob disease
+A23	MEDDRA-PT E5 Creutzfeldt-Jakob disease
+A24	MEDDRA-PT-ID E5 10011384
+A25	LLT E5 CJD
+A26	LLT-ID E5 10009217
+A27	flag E7 unmapped
+A28	CUI E8 C0022336
+A29	UMLS-Preferred-Name E8 Creutzfeldt-Jakob disease
+A30	MEDDRA-PT E8 Creutzfeldt-Jakob disease
+A31	MEDDRA-PT-ID E8 10011384
+A32	LLT E8 CJD
+A33	LLT-ID E8 10009217
+A34	flag E9 unmapped
+A35	CUI E11 C0004093
+A36	UMLS-Preferred-Name E11 Asthenia
+A37	MEDDRA-PT E11 Asthenia
+A38	MEDDRA-PT-ID E11 10003549
+A39	CUI E12 C0746674
+A40	UMLS-Preferred-Name E12 Generalized muscle weakness
+A41	MEDDRA-PT E12 Muscular weakness
+A42	MEDDRA-PT-ID E12 10028372
+A43	LLT E12 Generalized muscle weakness
+A44	LLT-ID E12 10062572
+A45	CUI E13 C0012569
+A46	UMLS-Preferred-Name E13 Diplopia
+A47	MEDDRA-PT E13 Diplopia
+A48	MEDDRA-PT-ID E13 10013036
+A49	CUI E14 C0344232
+A50	UMLS-Preferred-Name E14 Blurred vision
+A51	MEDDRA-PT E14 Vision blurred
+A52	MEDDRA-PT-ID E14 10047513
+A53	LLT E14 Blurred vision
+A54	LLT-ID E14 10005886
+A55	CUI E15 C0033377
+A56	UMLS-Preferred-Name E15 Ptosis
+A57	MEDDRA-PT E15 Eyelid ptosis
+A58	MEDDRA-PT-ID E15 10015995
+A59	LLT E15 Ptosis
+A60	LLT-ID E15 10037272
+A61	CUI E16 C0011168
+A62	UMLS-Preferred-Name E16 Deglutition Disorders
+A63	MEDDRA-PT E16 Dysphagia
+A64	MEDDRA-PT-ID E16 10013950
+A65	CUI E17 C1527344
+A66	UMLS-Preferred-Name E17 Dysphonia
+A67	MEDDRA-PT E17 Dysphonia
+A68	MEDDRA-PT-ID E17 10013952
+A69	CUI E18 C0013362
+A70	UMLS-Preferred-Name E18 Dysarthria
+A71	MEDDRA-PT E18 Dysarthria
+A72	MEDDRA-PT-ID E18 10013887
+A73	CUI E19 C0042024
+A74	UMLS-Preferred-Name E19 Urinary Incontinence
+A75	MEDDRA-PT E19 Urinary incontinence
+A76	MEDDRA-PT-ID E19 10046543
+A77	CUI E20 C0013404
+A78	UMLS-Preferred-Name E20 Dyspnea
+A79	MEDDRA-PT E20 Dyspnoea
+A80	MEDDRA-PT-ID E20 10013968
+A81	LLT E20 Difficulty breathing
+A82	LLT-ID E20 10012791
+A83	CUI E21 C0011168
+A84	UMLS-Preferred-Name E21 Deglutition Disorders
+A85	MEDDRA-PT E21 Dysphagia
+A86	MEDDRA-PT-ID E21 10013950
+A87	LLT E21 Swallowing difficult
+A88	LLT-ID E21 10042645
+A89	CUI E22 C0013404
+A90	UMLS-Preferred-Name E22 Dyspnea
+A91	MEDDRA-PT E22 Dyspnoea
+A92	MEDDRA-PT-ID E22 10013968
+A93	LLT E22 Difficulty breathing
+A94	LLT-ID E22 10012791
+A95	CUI E23 C1306577
+A96	UMLS-Preferred-Name E23 Death (finding)
+A97	MEDDRA-PT E23 Death
+A98	MEDDRA-PT-ID E23 10011906
+A99	flag E24 unmapped
+A100	CUI E27 C0011168
+A101	UMLS-Preferred-Name E27 Deglutition Disorders
+A102	MEDDRA-PT E27 Dysphagia
+A103	MEDDRA-PT-ID E27 10013950
+A104	LLT E27 Swallowing difficult
+A105	LLT-ID E27 10042645
+A106	CUI E28 C0013404
+A107	UMLS-Preferred-Name E28 Dyspnea
+A108	MEDDRA-PT E28 Dyspnoea
+A109	MEDDRA-PT-ID E28 10013968
+A110	LLT E28 Difficulty breathing
+A111	LLT-ID E28 10012791
+A112	CUI E32 C1306577
+A113	UMLS-Preferred-Name E32 Death (finding)
+A114	MEDDRA-PT E32 Death
+A115	MEDDRA-PT-ID E32 10011906
+A116	CUI E33 C0011168
+A117	UMLS-Preferred-Name E33 Deglutition Disorders
+A118	MEDDRA-PT E33 Dysphagia
+A119	MEDDRA-PT-ID E33 10013950
+A120	CUI E34 C0011168
+A121	UMLS-Preferred-Name E34 Deglutition Disorders
+A122	MEDDRA-PT E34 Dysphagia
+A123	MEDDRA-PT-ID E34 10013950
+A124	CUI E35 C0700198
+A125	UMLS-Preferred-Name E35 Pulmonary aspiration
+A126	MEDDRA-PT E35 Aspiration
+A127	MEDDRA-PT-ID E35 10003504
+A128	CUI E36 C0011168
+A129	UMLS-Preferred-Name E36 Deglutition Disorders
+A130	MEDDRA-PT E36 Dysphagia
+A131	MEDDRA-PT-ID E36 10013950
+A132	flag E37 underspecified
+A133	CUI E37 C4022584
+A134	UMLS-Preferred-Name E37 Fatigable weakness of neck muscles
+A135	MEDDRA-PT E37 Muscular weakness
+A136	MEDDRA-PT-ID E37 10028372
+A137	LLT E37 Localised muscle weakness
+A138	LLT-ID E37 10059002
+A139	CUI E38 C0520829
+A140	UMLS-Preferred-Name E38 Decreased total lung capacity
+A141	MEDDRA-PT E38 Total lung capacity decreased
+A142	MEDDRA-PT-ID E38 10044100
+A143	CUI E39 C0013404
+A144	UMLS-Preferred-Name E39 Dyspnea
+A145	MEDDRA-PT E39 Dyspnoea
+A146	MEDDRA-PT-ID E39 10013968
+A147	LLT E39 Difficulty breathing
+A148	LLT-ID E39 10012791
+A149	CUI E42 C1145670
+A150	UMLS-Preferred-Name E42 Respiratory Failure
+A151	MEDDRA-PT E42 Respiratory failure
+A152	MEDDRA-PT-ID E42 10038695
+A153	CUI E46 C0005745
+A154	UMLS-Preferred-Name E46 Blepharoptosis
+A155	MEDDRA-PT E46 Eyelid ptosis
+A156	MEDDRA-PT-ID E46 10015995
+A157	CUI E47 C0011168
+A158	UMLS-Preferred-Name E47 Deglutition Disorders
+A159	MEDDRA-PT E47 Dysphagia
+A160	MEDDRA-PT-ID E47 10013950
+A161	CUI E51 C0035229
+A162	UMLS-Preferred-Name E51 Respiratory Insufficiency
+A163	MEDDRA-PT E51 Respiratory failure
+A164	MEDDRA-PT-ID E51 10038695
+A165	LLT E51 Respiratory insufficiency
+A166	LLT-ID E51 10038701
+A167	flag E52 HLGT
+A168	CUI E52 C0042769
+A169	UMLS-Preferred-Name E52 Virus Diseases
+A170	MEDDRA-PT E52 Viral infection
+A171	MEDDRA-PT-ID E52 10047461
+A172	CUI E53 C0022336
+A173	UMLS-Preferred-Name E53 Creutzfeldt-Jakob disease
+A174	MEDDRA-PT E53 Creutzfeldt-Jakob disease
+A175	MEDDRA-PT-ID E53 10011384
+A176	flag E55 HLGT
+A177	CUI E55 C0042769
+A178	UMLS-Preferred-Name E55 Virus Diseases
+A179	MEDDRA-PT E55 Viral infection
+A180	MEDDRA-PT-ID E55 10047461
+A181	CUI E56 C0022336
+A182	UMLS-Preferred-Name E56 Creutzfeldt-Jakob disease
+A183	MEDDRA-PT E56 Creutzfeldt-Jakob disease
+A184	MEDDRA-PT-ID E56 10011384
+A185	LLT E56 CJD
+A186	LLT-ID E56 10009217
+A187	flag E62 HLGT
+A188	CUI E62 C0042769
+A189	UMLS-Preferred-Name E62 Virus Diseases
+A190	MEDDRA-PT E62 Viral infection
+A191	MEDDRA-PT-ID E62 10047461
+A192	CUI E54 C0022336
+A193	UMLS-Preferred-Name E54 Creutzfeldt-Jakob disease
+A194	MEDDRA-PT E54 Creutzfeldt-Jakob disease
+A195	MEDDRA-PT-ID E54 10011384
+A196	LLT E54 CJD
+A197	LLT-ID E54 10009217

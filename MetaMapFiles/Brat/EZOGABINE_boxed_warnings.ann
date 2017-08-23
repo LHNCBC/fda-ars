@@ -1,0 +1,162 @@
+T1	AdverseReaction 30 51	RETINAL ABNORMALITIES
+T2	AdverseReaction 66 77	VISION LOSS
+T3	Factor 56 65	POTENTIAL
+T4	AdverseReaction 90 111	RETINAL ABNORMALITIES
+T5	AdverseReaction 126 137	VISION LOSS
+T6	Factor 116 125	POTENTIAL
+T7	AdverseReaction 160 181	retinal abnormalities
+T8	AdverseReaction 160 181;208 218;233 260	retinal abnormalities similar to retinal pigment dystrophies
+T9	AdverseReaction 291 319	damage to the photoreceptors
+T10	AdverseReaction 324 335	vision loss
+T12	AdverseReaction 493 516	decreased visual acuity
+T13	Factor 440 465	not possible to determine
+T14	AdverseReaction 723 755	retinal pigmentary abnormalities
+T15	AdverseReaction 819 840	retinal abnormalities
+T16	AdverseReaction 926 947	retinal abnormalities
+T17	AdverseReaction 1901 1922	RETINAL ABNORMALITIES
+T18	AdverseReaction 1937 1948	VISION LOSS
+T19	Factor 1927 1936	POTENTIAL
+T20	AdverseReaction 2042 2063	retinal abnormalities
+T21	AdverseReaction 2042 2063;2090 2100;2123 2142	retinal abnormalities similar to pigment dystrophies
+T22	AdverseReaction 2173 2201	damage to the photoreceptors
+T23	AdverseReaction 2206 2217	vision loss
+T11	AdverseReaction 2378 2401	decreased visual acuity
+T24	Factor 2325 2350	not possible to determine
+T25	Factor 150 153	can
+T26	AdverseReaction 364 385	retinal abnormalities
+T27	AdverseReaction 410 432	abnormal visual acuity
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Hypothetical:E3
+E3	Factor:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E6
+E6	Factor:T6
+E7	AdverseReaction:T7 Hypothetical:E25
+E8	AdverseReaction:T8 Hypothetical:E25
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E12	AdverseReaction:T12 Negated:E13
+E13	Factor:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18 Hypothetical:E19
+E19	Factor:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E11	AdverseReaction:T11 Negated:E24
+E24	Factor:T24
+E25	Factor:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+A1	CUI E1 C0035300
+A2	UMLS-Preferred-Name E1 Abnormality of the retina
+A3	MEDDRA-PT E1 Retinal disorder
+A4	MEDDRA-PT-ID E1 10038853
+A5	CUI E2 C3665386
+A6	UMLS-Preferred-Name E2 Abnormal vision
+A7	MEDDRA-PT E2 Blindness
+A8	MEDDRA-PT-ID E2 10005169
+A9	LLT E2 Vision loss
+A10	LLT-ID E2 10047522
+A11	CUI E4 C0035300
+A12	UMLS-Preferred-Name E4 Abnormality of the retina
+A13	MEDDRA-PT E4 Retinal disorder
+A14	MEDDRA-PT-ID E4 10038853
+A15	CUI E5 C3665386
+A16	UMLS-Preferred-Name E5 Abnormal vision
+A17	MEDDRA-PT E5 Blindness
+A18	MEDDRA-PT-ID E5 10005169
+A19	LLT E5 Vision loss
+A20	LLT-ID E5 10047522
+A21	CUI E7 C0035300
+A22	UMLS-Preferred-Name E7 Abnormality of the retina
+A23	MEDDRA-PT E7 Retinal disorder
+A24	MEDDRA-PT-ID E7 10038853
+A25	CUI E8 C0854723
+A26	UMLS-Preferred-Name E8 Retinal Dystrophies
+A27	MEDDRA-PT E8 Retinal dystrophy
+A28	MEDDRA-PT-ID E8 10038857
+A29	LLT E8 Pigmentary retinal dystrophy
+A30	LLT-ID E8 10035017
+A31	CUI E9 C0235272
+A32	UMLS-Preferred-Name E9 Retinal damage
+A33	MEDDRA-PT E9 Retinal injury
+A34	MEDDRA-PT-ID E9 10057430
+A35	LLT E9 Retinal damage
+A36	LLT-ID E9 10038841
+A37	CUI E10 C3665386
+A38	UMLS-Preferred-Name E10 Abnormal vision
+A39	MEDDRA-PT E10 Blindness
+A40	MEDDRA-PT-ID E10 10005169
+A41	LLT E10 Vision loss
+A42	LLT-ID E10 10047522
+A43	CUI E12 C0234632
+A44	UMLS-Preferred-Name E12 Reduced visual acuity
+A45	MEDDRA-PT E12 Visual acuity reduced
+A46	MEDDRA-PT-ID E12 10047531
+A47	LLT E12 Visual acuity decreased
+A48	LLT-ID E12 10049061
+A49	CUI E14 C0151891
+A50	UMLS-Preferred-Name E14 Retinal depigmentation
+A51	MEDDRA-PT E14 Retinal degeneration
+A52	MEDDRA-PT-ID E14 10038845
+A53	LLT E14 Retinal pigment degeneration
+A54	LLT-ID E14 10038892
+A55	CUI E15 C0035300
+A56	UMLS-Preferred-Name E15 Abnormality of the retina
+A57	MEDDRA-PT E15 Retinal disorder
+A58	MEDDRA-PT-ID E15 10038853
+A59	CUI E16 C0035300
+A60	UMLS-Preferred-Name E16 Abnormality of the retina
+A61	MEDDRA-PT E16 Retinal disorder
+A62	MEDDRA-PT-ID E16 10038853
+A63	CUI E17 C0035300
+A64	UMLS-Preferred-Name E17 Abnormality of the retina
+A65	MEDDRA-PT E17 Retinal disorder
+A66	MEDDRA-PT-ID E17 10038853
+A67	CUI E18 C3665386
+A68	UMLS-Preferred-Name E18 Abnormal vision
+A69	MEDDRA-PT E18 Blindness
+A70	MEDDRA-PT-ID E18 10005169
+A71	LLT E18 Vision loss
+A72	LLT-ID E18 10047522
+A73	CUI E20 C0035300
+A74	UMLS-Preferred-Name E20 Abnormality of the retina
+A75	MEDDRA-PT E20 Retinal disorder
+A76	MEDDRA-PT-ID E20 10038853
+A77	CUI E21 C0854723
+A78	UMLS-Preferred-Name E21 Retinal Dystrophies
+A79	MEDDRA-PT E21 Retinal dystrophy
+A80	MEDDRA-PT-ID E21 10038857
+A81	LLT E21 Pigmentary retinal dystrophy
+A82	LLT-ID E21 10035017
+A83	CUI E22 C0235272
+A84	UMLS-Preferred-Name E22 Retinal damage
+A85	MEDDRA-PT E22 Retinal injury
+A86	MEDDRA-PT-ID E22 10057430
+A87	LLT E22 Retinal damage
+A88	LLT-ID E22 10038841
+A89	CUI E23 C3665386
+A90	UMLS-Preferred-Name E23 Abnormal vision
+A91	MEDDRA-PT E23 Blindness
+A92	MEDDRA-PT-ID E23 10005169
+A93	LLT E23 Vision loss
+A94	LLT-ID E23 10047522
+A95	CUI E11 C0234632
+A96	UMLS-Preferred-Name E11 Reduced visual acuity
+A97	MEDDRA-PT E11 Visual acuity reduced
+A98	MEDDRA-PT-ID E11 10047531
+A99	LLT E11 Visual acuity decreased
+A100	LLT-ID E11 10049061
+A101	CUI E26 C0035300
+A102	UMLS-Preferred-Name E26 Abnormality of the retina
+A103	MEDDRA-PT E26 Retinal disorder
+A104	MEDDRA-PT-ID E26 10038853
+A105	CUI E27 C0234632
+A106	UMLS-Preferred-Name E27 Reduced visual acuity
+A107	MEDDRA-PT E27 Visual acuity reduced
+A108	MEDDRA-PT-ID E27 10047531

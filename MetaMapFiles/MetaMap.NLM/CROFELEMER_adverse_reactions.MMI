@@ -1,0 +1,60 @@
+00000000|MMI|121.80|2+|C3833492|[fndg]|["2+"-tx-5-"2"-integer-0,"2+"-tx-5-"2"-percentage-0,"2+"-tx-5-"2"-real_number-0]|TX|[1617/1],[1671/1],[1725/1],[1789/1],[1803/1],[1845/1],[1859/1],[1906/1],[1960/1],[2014/1],[2068/1],[2143/1],[2204/1],[2315/1];[1617/1],[1671/1],[1725/1],[1789/1],[1803/1],[1845/1],[1859/1],[1906/1],[1960/1],[2014/1],[2068/1],[2143/1],[2204/1],[2315/1];[1617/1],[1671/1],[1725/1],[1789/1],[1803/1],[1845/1],[1859/1],[1906/1],[1960/1],[2014/1],[2068/1],[2143/1],[2204/1],[2315/1]|
+00000000|MMI|35.86|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-8-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-7-"adverse reactions"-noun-0,"Adverse reactions"-tx-6-"Adverse reactions"-noun-0,"ADVERSE REACTION"-tx-5-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-5-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-5-"Adverse reactions"-noun-0,"Adverse reactions"-tx-4-"Adverse reactions"-noun-0,"ADVERSE REACTION"-tx-1-"adverse reaction"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0]|TX|3026/17;2862/17;2744/17;1217/16;1122/17;2265/17;954/17;150/16;6/17|
+00000000|MMI|28.03|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-7-"3"-percentage-0,"3+"-tx-5-"3"-integer-0,"3+"-tx-5-"3"-real_number-0]|TX|2894/1;[1463/1],[1503/1],[1517/1],[1563/1],[1577/1],[2157/1];[1463/1],[1503/1],[1517/1],[1563/1],[1577/1],[2157/1]|
+00000000|MMI|27.01|1+|C3816745|[fndg]|["1+"-tx-5-"1"-integer-0,"1+"-tx-5-"1"-real_number-0]|TX|[1466/1],[1520/1],[1580/1],[1920/1],[2082/1],[2160/1],[2218/1];[1466/1],[1520/1],[1580/1],[1920/1],[2082/1],[2160/1],[2218/1]|
+00000000|MMI|24.80|Bronchitis|C0006277|[dsyn]|["BRONCHITIS"-tx-7-"bronchitis"-noun-0,"BRONCHITIS"-tx-5-"Bronchitis"-noun-0]|TX|2937/10;1375/10|C08.127.446;C08.381.495.146;C08.730.099
+00000000|MMI|24.80|Flatulence|C0016204|[sosy]|["FLATULENCE"-tx-7-"flatulence"-noun-0,"FLATULENCE"-tx-5-"Flatulence"-noun-0]|TX|2956/10;1483/10|C23.888.821.360
+00000000|MMI|24.71|Coughing|C0010200|[sosy]|["COUGH"-tx-7-"cough"-noun-0,"COUGH"-tx-5-"Cough"-noun-0]|TX|2949/5;1429/5|C08.618.248;C23.888.852.293
+00000000|MMI|21.78|0%|C3842591|[fndg]|["0%"-tx-5-"0"-integer-0,"0%"-tx-5-"0"-real_number-0]|TX|[1409/1],[1806/1],[1862/1],[1923/1],[2085/1],[2221/1];[1409/1],[1806/1],[1862/1],[1923/1],[2085/1],[2221/1]|
+00000000|MMI|19.45|Hay fever|C0018621|[dsyn]|["Seasonal allergy"-tx-5-"seasonal allergy"-noun-0]|TX|2674/16|C08.460.799.315.750;C08.674.453.750;C09.603.799.315.750;C20.543.480.680.443.750
+00000000|MMI|19.45|Kidney Calculi|C0022650|[dsyn]|["Nephrolithiasis"-tx-5-"nephrolithiasis"-noun-0]|TX|2608/15|C12.777.419.600.500;C12.777.967.249.500;C12.777.967.500.503;C13.351.968.419.600.500;C13.351.968.967.249.500;C13.351.968.967.500.503;C23.300.175.850.550
+00000000|MMI|19.22|Upper Respiratory Infections|C0041912|[dsyn]|["Infection, Upper Respiratory Tract"-tx-7-"upper respiratory tract infection"-noun-0,"Infection, Upper Respiratory Tract"-tx-5-"Upper respiratory tract infection"-noun-0]|TX|2902/33;1301/33|C01.539.739;C08.730
+00000000|MMI|18.06|Arthralgia|C0003862|[sosy]|["ARTHRALGIA"-tx-5-"Arthralgia"-noun-0]|TX|1705/10|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|16.52|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-5-"abdominal pain"-noun-0]|TX|2373/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|16.52|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-5-"dizziness"-noun-0]|TX|2543/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|16.52|Nephrolithiasis|C0392525|[dsyn]|["NEPHROLITHIASIS"-tx-5-"nephrolithiasis"-noun-0]|TX|2608/15|C12.777.419.600;C12.777.967.249;C13.351.968.419.600;C13.351.968.967.249
+00000000|MMI|16.52|Vertigo|C0042571|[sosy]|["dizziness"-tx-5-"dizziness"-noun-0]|TX|2543/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|15.20|Back Pain|C0004604|[sosy]|["BACKPAIN"-tx-5-"Back pain"-noun-0]|TX|1651/9|C10.597.617.140;C23.888.592.612.107
+00000000|MMI|15.20|Musculoskeletal Pain|C0026858|[fndg]|["MUSCULOSKELETAL PAIN"-tx-5-"Musculoskeletal pain"-noun-0]|TX|1879/20|C05.651.538;C10.597.617.231;C23.888.592.612.547;F02.830.816.353;G11.561.600.810.353
+00000000|MMI|15.13|Hemorrhoids|C0019112|[dsyn]|["HEMORRHOIDS"-tx-5-"Hemorrhoids"-noun-0]|TX|1940/11|C06.405.469.860.401;C14.907.449
+00000000|MMI|15.08|Giardiasis|C0017536|[dsyn]|["GIARDIASIS"-tx-5-"Giardiasis"-noun-0]|TX|1994/10|C03.432.481;C03.752.400;C06.405.469.452.481
+00000000|MMI|13.60|Acne|C0702166|[dsyn]|["ACNE"-tx-5-"acne"-noun-0]|TX|2389/4|C17.800.030.150;C17.800.794.111
+00000000|MMI|13.60|Acne Vulgaris|C0001144|[dsyn]|["Acne"-tx-5-"acne"-noun-0]|TX|2389/4|C17.800.030.150;C17.800.794.111
+00000000|MMI|13.60|Constipation|C0009806|[sosy]|["CONSTIPATION"-tx-5-"constipation"-noun-0]|TX|2505/12|C23.888.821.150
+00000000|MMI|13.60|Dyspepsia|C0013395|[sosy]|["DYSPEPSIA"-tx-5-"dyspepsia"-noun-0]|TX|2565/9|C23.888.821.236
+00000000|MMI|13.60|Herpes zoster disease|C0019360|[dsyn]|["HERPES ZOSTER"-tx-5-"herpes zoster"-noun-0]|TX|2593/13|C02.256.466.423
+00000000|MMI|13.60|Mental Depression|C0011570|[mobd]|["DEPRESSION"-tx-5-"depression"-noun-0]|TX|2519/10|F01.145.126.350
+00000000|MMI|13.60|Sinusitis|C0037199|[dsyn]|["SINUSITIS"-tx-5-"sinusitis"-noun-0]|TX|2692/9|C08.460.692.752;C08.730.749;C09.603.692.752
+00000000|MMI|13.60|Xerostomia|C0043352|[dsyn]|["DRY MOUTH"-tx-5-"dry mouth"-noun-0]|TX|2554/9|C07.465.815.929
+00000000|MMI|12.24|Urinary tract infection|C0042029|[dsyn]|["URINARY TRACT INFECTION"-tx-5-"Urinary tract infection"-noun-0]|TX|1759/23|C01.539.895;C12.777.892;C13.351.968.892
+00000000|MMI|12.20|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-5-"Nasopharyngitis"-noun-0]|TX|1823/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|12.20|Nausea|C0027497|[sosy]|["NAUSEA"-tx-5-"Nausea"-noun-0]|TX|1597/6|C23.888.821.712
+00000000|MMI|10.67|Depressive disorder|C0011581|[mobd]|["-- Depression"-tx-5-"depression"-noun-0]|TX|2519/10|F03.600.300
+00000000|MMI|10.67|Dermatitis|C0011603|[dsyn]|["DERMATITIS"-tx-5-"dermatitis"-noun-0]|TX|2531/10|C17.800.174
+00000000|MMI|10.67|Gastroenteritis|C0017160|[dsyn]|["GASTROENTERITIS"-tx-5-"gastroenteritis"-noun-0]|TX|2576/15|C06.405.205
+00000000|MMI|9.23|Anxiety|C0003467|[mobd]|["-- Anxiety"-tx-5-"Anxiety"-noun-0]|TX|2048/7|F01.470.132
+00000000|MMI|9.13|Disease|C0012634|[dsyn]|["condition"-tx-1-"conditions"-noun-0]|TX|138/10|C23.550.288
+00000000|MMI|7.28|Elevated total bilirubin|C0741494|[fndg]|["Increased bilirubin"-tx-7-"increased bilirubin"-noun-0,"Increased bilirubin"-tx-5-"Increased bilirubin"-noun-0]|TX|2971/19;1537/19|
+00000000|MMI|7.28|Increased bilirubin level (finding)|C0311468|[fndg]|["Increased bilirubin"-tx-7-"increased bilirubin"-noun-0,"Increased bilirubin"-tx-5-"Increased bilirubin"-noun-0]|TX|2971/19;1537/19|
+00000000|MMI|7.14|Acute bronchitis|C0149514|[dsyn]|["bronchitis"-tx-7-"bronchitis"-noun-0,"bronchitis"-tx-5-"Bronchitis"-noun-0]|TX|2937/10;1375/10|
+00000000|MMI|7.14|Flatulence Adverse Event|C1962956|[fndg]|["Flatulence"-tx-7-"flatulence"-noun-0,"Flatulence"-tx-5-"Flatulence"-noun-0]|TX|2956/10;1483/10|
+00000000|MMI|7.06|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-7-"cough"-noun-0,"Cough"-tx-5-"Cough"-noun-0]|TX|2949/5;1429/5|
+00000000|MMI|6.30|Anxiety Disorders|C0003469|[mobd]|["Anxiety"-tx-5-"Anxiety"-noun-0]|TX|2048/7|F03.080
+00000000|MMI|4.81|3/9|C0442760|[fndg]|["3/9"-tx-5-"3.9"-real_number-0]|TX|1395/3|
+00000000|MMI|4.81|Constipation Adverse Event|C1963087|[fndg]|["Constipation"-tx-5-"constipation"-noun-0]|TX|2505/12|
+00000000|MMI|4.81|Depressed - symptom|C1579931|[sosy]|["depression"-tx-5-"depression"-noun-0]|TX|2519/10|
+00000000|MMI|4.81|Depressed mood|C0344315|[fndg]|["depression"-tx-5-"depression"-noun-0]|TX|2519/10|
+00000000|MMI|4.81|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-5-"dizziness"-noun-0]|TX|2543/9|
+00000000|MMI|4.81|Increased frequency of micturition|C0042023|[fndg]|["Pollakiuria"-tx-5-"pollakiuria"-noun-0]|TX|2644/11|
+00000000|MMI|4.81|Pain in limb|C0030196|[sosy]|["Pain in Extremity"-tx-5-"pain in extremity"-noun-0]|TX|2625/17|
+00000000|MMI|4.81|Procedural pain|C1619712|[sosy]|["Procedural pain"-tx-5-"procedural pain"-noun-0]|TX|2657/15|
+00000000|MMI|4.81|White blood cell count decreased|C0750394|[fndg]|["Decreased white blood cell count"-tx-5-"decreased white blood cell count"-noun-0]|TX|2706/32|
+00000000|MMI|3.53|Alanine aminotransferase increased|C0151905|[fndg]|["Increased alanine aminotransferase"-tx-5-"Increased alanine aminotransferase"-noun-0]|TX|2102/34|
+00000000|MMI|3.51|Transaminases increased|C0438717|[fndg]|["Increased Aminotransferase"-tx-5-"increased aminotransferase"-noun-0]|TX|2395/9,2415/16|
+00000000|MMI|3.48|Abdomen distended|C0000731|[fndg]|["ABDOMINAL DISTENTION"-tx-5-"Abdominal distension"-noun-0]|TX|2177/20|
+00000000|MMI|3.48|Back Pain Adverse Event|C1963071|[fndg]|["Back pain"-tx-5-"Back pain"-noun-0]|TX|1651/9|
+00000000|MMI|3.45|Recurrent urinary tract infection|C0262655|[dsyn]|["Urinary tract infection"-tx-5-"Urinary tract infection"-noun-0]|TX|1759/23|
+00000000|MMI|3.42|Hemorrhoids Adverse Event|C1963134|[fndg]|["Hemorrhoids"-tx-5-"Hemorrhoids"-noun-0]|TX|1940/11|
+00000000|MMI|3.42|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-5-"Nausea"-noun-0]|TX|1597/6|
+00000000|MMI|3.37|Anxiety symptoms|C0860603|[fndg]|["Anxiety"-tx-5-"Anxiety"-noun-0]|TX|2048/7|
+00000000|MMI|3.24|Distance vision 6/6|C0442750|[fndg]|["6/6"-tx-1-"6 6"-integer-0]|TX|4/1,29/1|

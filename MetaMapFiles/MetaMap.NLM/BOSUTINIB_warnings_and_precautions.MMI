@@ -1,0 +1,72 @@
+00000000|AA|eGFR|estimated glomerular filtration rate|1|4|7|36|4104:4
+00000000|MMI|60.24|1+|C3816745|[fndg]|["1+"-tx-39-"1"-integer-0,"1+"-tx-30-"1"-integer-0,"1+"-tx-20-"1"-integer-0]|TX|[5336/1],[5340/1],[5350/1],[5354/1],[5473/1],[5665/1],[5708/1],[5949/1];[3722/1],[3788/1];2341/1|
+00000000|MMI|54.09|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-13-"diarrhea"-noun-0,"DIARRHOEA"-tx-12-"diarrhea"-noun-0,"DIARRHOEA"-tx-10-"Diarrhea"-noun-0]|TX|[1275/8],[1318/8];1162/8;897/8|C23.888.821.214
+00000000|MMI|49.42|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-40-"renal impairment"-noun-0,"Renal Impairment"-tx-39-"renal impairment"-noun-0,"Renal dysfunction"-tx-39-"renal dysfunction"-noun-0]|TX|6238/16;6108/16;6145/17|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|49.21|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-22-"ALT"-noun-0,"ALT"-tx-21-"ALT"-noun-0,"ALT"-tx-18-"ALT"-noun-0]|TX|2575/3;2461/3;2067/3|C04.557.450.550.400
+00000000|MMI|44.98|Unmarried|C0087136|[fndg]|["single"-tx-29-"single"-adj-0,"single"-tx-12-"single"-adj-0]|TX|3432/6;1096/6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+00000000|MMI|42.15|Gravidity|C0600457|[fndg]|["PREGNANT"-tx-45-"pregnant"-adj-0,"PREGNANT"-tx-9-"pregnant"-adj-0]|TX|6823/8;797/8|G08.686.340;G08.686.785.760.769.213;N06.850.490.812.250
+00000000|MMI|37.33|Discontinued|C1444662|[fndg]|["Discontinue"-tx-32-"discontinue"-verb-0,"Discontinue"-tx-27-"discontinue"-verb-0,"Discontinuation"-tx-19-"discontinuation"-noun-0,"Discontinue"-tx-17-"discontinue"-verb-0,"Discontinue"-tx-14-"discontinue"-verb-0,"Discontinue"-tx-7-"discontinue"-verb-0,"Discontinue"-tx-5-"discontinue"-verb-0,"Discontinue"-tx-2-"discontinue"-verb-0]|TX|3902/11;3146/11;2291/15;1841/11;1453/11;543/11;394/11;138/11|
+00000000|MMI|32.67|Kidney Failure|C0035078|[dsyn]|["Failure, Kidney"-tx-38-"Kidney Failure"-noun-0,"Failure, Kidney"-tx-37-"kidney failure"-noun-1]|TX|5191/14;4695/14|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|28.11|0%|C3842591|[fndg]|["0%"-tx-39-"0"-integer-0,"0%"-tx-35-"0"-real_number-0]|TX|[5523/1],[5591/1],[5642/1],[5761/1],[5786/1],[5814/1];4415/1|
+00000000|MMI|23.12|Pulmonary Edema|C0034063|[dsyn]|["PULMONARY OEDEMA"-tx-30-"pulmonary edema"-noun-0,"PULMONARY OEDEMA"-tx-28-"pulmonary edema"-noun-0]|TX|3767/15;3379/15|C08.381.742
+00000000|MMI|21.36|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-32-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-27-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-17-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-14-"Adverse Reactions"-noun-0]|TX|3979/17;3223/17;1918/17;1530/17|
+00000000|MMI|20.95|Neutropenia|C0027947|[dsyn]|["NEUTROPENIA"-tx-15-"neutropenia"-noun-0]|TX|1620/11|C15.378.553.546.184.564
+00000000|MMI|20.53|Pleural effusion disorder|C0032227|[dsyn]|["PLEURAL EFFUSION"-tx-30-"pleural effusion"-noun-0,"PLEURAL EFFUSION"-tx-28-"pleural effusion"-noun-0]|TX|3622/16;3361/16|C08.528.652
+00000000|MMI|20.31|Pericardial effusion|C0031039|[dsyn]|["Pericardial Effusions"-tx-30-"pericardial effusions"-noun-0,"Effusion, Pericardial"-tx-28-"pericardial effusion"-noun-0]|TX|3699/21;3339/20|C14.280.695
+00000000|MMI|19.91|2+|C3833492|[fndg]|["2+"-tx-40-"2"-real_number-0,"2+"-tx-39-"2"-integer-0,"2+"-tx-17-"2"-real_number-0,"2+"-tx-4-"2"-real_number-0]|TX|6288/1;[5406/1],[5470/1];1907/1;249/1|
+00000000|MMI|18.67|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-39-"therapy"-noun-0,"Therapy"-tx-36-"therapy"-adj-0,"Therapy"-tx-34-"therapy"-noun-0,"Therapy"-tx-16-"therapy"-noun-0,"Therapy"-tx-8-"therapy"-noun-0]|TX|6021/7;4658/7;4278/7;1722/7;661/7|
+00000000|MMI|17.80|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-10-"abdominal pain"-noun-0]|TX|929/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|17.80|Maternal Exposure|C0243033|[inpo]|["Maternal Exposures"-tx-43-"maternal exposures"-noun-0]|TX|6540/18|N06.850.460.350.145
+00000000|MMI|16.02|30%|C3842588|[fndg]|["30%"-tx-39-"30"-integer-0,"30%"-tx-38-"30"-integer-0,"30%"-tx-24-"30"-integer-0]|TX|5307/2;[5143/2],[5187/2];2845/2|
+00000000|MMI|15.82|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-30-"Grade 3"-noun-0]|TX|[3609/7],[3668/7],[3744/7],[3804/7]|
+00000000|MMI|15.70|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-39-"3"-integer-0,"3+"-tx-30-"3"-integer-0,"3+"-tx-29-"3"-percentage-0,"3+"-tx-13-"3"-integer-0]|TX|5459/1;3640/1;3573/1;1373/1|
+00000000|MMI|15.08|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-13-"diarrhea"-noun-0,"Diarrhea"-tx-12-"diarrhea"-noun-0,"Diarrhea"-tx-10-"Diarrhea"-noun-0]|TX|[1275/8],[1318/8];1162/8;897/8|
+00000000|MMI|14.65|Toxic effect|C0600688|[inpo]|["toxicities"-tx-43-"toxicities"-noun-0,"Toxicity"-tx-41-"Toxicity"-noun-0,"Toxicity"-tx-8-"Toxicity"-noun-0]|TX|6515/10;6324/8;[593/8],[709/8]|
+00000000|MMI|14.64|Leukopenia|C0023530|[dsyn]|["NEUTROPENIA"-tx-15-"neutropenia"-noun-0]|TX|1620/11|C15.378.553.546
+00000000|MMI|14.64|Nausea|C0027497|[sosy]|["NAUSEA"-tx-10-"nausea"-noun-0]|TX|907/6|C23.888.821.712
+00000000|MMI|14.64|Vomiting|C0042963|[sosy]|["VOMITING"-tx-10-"vomiting"-verb-0]|TX|915/8|C23.888.821.937
+00000000|MMI|13.08|Thrombocytopenia|C0040034|[fndg]|["Thrombocytopaenia"-tx-15-"Thrombocytopenia"-noun-0]|TX|1591/16|C15.378.140.855
+00000000|MMI|11.49|Anemia|C0002871|[dsyn]|["ANEMIA"-tx-15-"anemia"-noun-0]|TX|1609/6|C15.378.071
+00000000|MMI|11.38|Gastrointestinal toxicity|C1142499|[fndg]|["Gastrointestinal toxicity"-tx-14-"gastrointestinal toxicity"-noun-0,"Gastrointestinal toxicity"-tx-10-"Gastrointestinal Toxicity"-noun-0,"Gastrointestinal toxicity"-tx-1-"Gastrointestinal Toxicity"-noun-0]|TX|1400/25;866/25;52/25|
+00000000|MMI|11.32|Myelosuppression|C0854467|[fndg]|["Myelosuppression"-tx-17-"myelosuppression"-noun-0,"Myelosuppression"-tx-15-"Myelosuppression"-noun-0,"Myelosuppression"-tx-3-"Myelosuppression"-noun-0]|TX|1797/16;1569/16;182/16|
+00000000|MMI|11.18|Body fluid retention|C0268000|[patf]|["FLUID RETENTION"-tx-29-"fluid retention"-noun-0,"FLUID RETENTION"-tx-28-"Fluid Retention"-noun-0,"FLUID RETENTION"-tx-6-"Fluid Retention"-noun-0]|TX|3528/15;3262/15;438/15|
+00000000|MMI|10.42|Indicated|C1444656|[fndg]|["Indicated"-tx-25-"indicated"-verb-0,"Indicated"-tx-16-"indicated"-verb-0]|TX|3028/9;1776/9|
+00000000|MMI|10.42|Patient currently pregnant|C0549206|[fndg]|["Pregnant"-tx-45-"pregnant"-adj-0,"Pregnant"-tx-9-"pregnant"-adj-0]|TX|6823/8;797/8|
+00000000|MMI|9.94|Edema|C0013604|[fndg]|["OEDEMA"-tx-30-"edema"-noun-0]|TX|3812/5|C23.888.277
+00000000|MMI|9.83|Drug-Induced Liver Injury|C0860207|[patf]|["Drug Induced Liver Injury"-tx-18-"drug induced liver injury"-noun-0]|TX|2004/25|C06.552.195;C25.100.562;C25.723.260
+00000000|MMI|9.77|leukemia|C0023418|[neop]|["LEUKAEMIA"-tx-34-"Leukemia"-noun-0]|TX|4317/8|C04.557.337
+00000000|MMI|7.84|x-ray of chest: pleural effusion|C2073625|[fndg]|["pleural effusion"-tx-30-"pleural effusion"-noun-0,"pleural effusion"-tx-28-"pleural effusion"-noun-0]|TX|3622/16;3361/16|
+00000000|MMI|7.70|Gait normal|C0231683|[fndg]|["Normal"-tx-39-"Normal"-adj-0,"Normal"-tx-38-"Normal"-adj-0]|TX|5248/6;5022/6|
+00000000|MMI|7.53|60%|C3842585|[fndg]|["60%"-tx-38-"60"-integer-0]|TX|[5065/2],[5119/2]|
+00000000|MMI|7.53|Possible pregnancy (finding)|C0425965|[fndg]|["? Pregnancy"-tx-45-"pregnancy"-noun-0,"? Pregnancy"-tx-44-"pregnancy"-noun-0]|TX|6786/9;6714/9|
+00000000|MMI|7.36|5-6|C3843715|[fndg]|["5-6"-tx-41-"5.6"-real_number-0,"5-6"-tx-10-"5.6"-real_number-0]|TX|6308/3;843/3|
+00000000|MMI|7.36|6/5|C0442749|[fndg]|["5 6"-tx-41-"5.6"-real_number-0,"5 6"-tx-10-"5.6"-real_number-0]|TX|6308/3;843/3|
+00000000|MMI|7.31|Toxic liver disease|C0348754|[dsyn]|["Hepatic toxicity"-tx-18-"Hepatic Toxicity"-noun-0,"Hepatic toxicity"-tx-4-"Hepatic Toxicity"-noun-0]|TX|1957/16;269/16|
+00000000|MMI|7.27|90%|C3842582|[fndg]|["90%"-tx-38-"90"-integer-0]|TX|[5055/2],[5081/2]|
+00000000|MMI|7.23|School Grade|C3244287|[fndg]|["grade"-tx-23-"grade"-noun-0,"grade"-tx-12-"grades"-verb-0]|TX|2713/5;1176/6|
+00000000|MMI|7.11|Toxic nephropathy|C0595916|[patf]|["RENAL TOXICITY"-tx-33-"Renal Toxicity"-noun-0,"RENAL TOXICITY"-tx-8-"Renal Toxicity"-noun-0]|TX|4018/14;587/14|
+00000000|MMI|5.18|29+|C3843708|[fndg]|["29+"-tx-39-"29"-integer-0]|TX|5907/2|
+00000000|MMI|5.18|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-10-"nausea"-noun-0]|TX|907/6|
+00000000|MMI|5.18|Neutrophil count decreased|C0853697|[fndg]|["Neutropenia"-tx-15-"neutropenia"-noun-0]|TX|1620/11|
+00000000|MMI|5.18|Peripheral edema|C0085649|[fndg]|["Peripheral Oedema"-tx-28-"peripheral edema"-noun-0]|TX|3403/16|
+00000000|MMI|5.18|Test Result|C0456984|[fndg]|["Test"-tx-25-"tests"-verb-0]|TX|2948/5|
+00000000|MMI|5.18|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-10-"vomiting"-verb-0]|TX|915/8|
+00000000|MMI|3.62|FUNCTION BASELINE|C0744226|[fndg]|["FUNCTION BASELINE"-tx-39-"function baseline"-noun-0]|TX|5989/8,6001/8|
+00000000|MMI|3.61|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-39-"risk factors"-noun-0]|TX|6128/12|
+00000000|MMI|3.59|80%|C3842583|[fndg]|["80%"-tx-23-"80"-percentage-0]|TX|2730/2|
+00000000|MMI|3.59|Used by|C1273517|[fndg]|["used"-tx-45-"used"-verb-0]|TX|6774/4|
+00000000|MMI|3.57|Container status - Missing|C1551393|[fndg]|["Missing"-tx-36-"missing"-noun-0]|TX|4618/7|
+00000000|MMI|3.57|combination - answer to question|C3811910|[fndg]|["Combination"-tx-18-"combination"-noun-0]|TX|2225/11|
+00000000|MMI|3.54|Mouse MIN NOS|C1524029|[neop]|["MIN NOS"-tx-38-"min"-noun-0]|TX|5223/3|
+00000000|MMI|3.53|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["Grade 4"-tx-30-"Grade 4"-noun-0]|TX|3679/7|
+00000000|MMI|3.53|West Haven Hepatic Encephalopathy Grade 4|C3889293|[fndg]|["GRADE 4"-tx-30-"Grade 4"-noun-0]|TX|3679/7|
+00000000|MMI|3.50|Follow-up status|C0589120|[fndg]|["Follow-up status"-tx-38-"Follow Up Status"-noun-0]|TX|4747/9,4778/6|
+00000000|MMI|3.48|4+ Answer to question|C3838679|[fndg]|["4+"-tx-30-"4"-integer-0]|TX|3620/1|
+00000000|MMI|3.47|Infusion pump Alert priority PH|C4049686|[fndg]|["PH"-tx-34-"Ph"-adj-0]|TX|4313/2|
+00000000|MMI|3.47|ph+|C0450407|[fndg]|["ph+"-tx-34-"Ph"-adj-0]|TX|4313/2|
+00000000|MMI|3.47|ph++|C0450408|[fndg]|["ph++"-tx-34-"Ph"-adj-0]|TX|4313/2|
+00000000|MMI|3.47|ph+++|C0450409|[fndg]|["ph+++"-tx-34-"Ph"-adj-0]|TX|4313/2|
+00000000|MMI|3.46|Renal dysfunction|C3279454|[fndg]|["Renal dysfunction"-tx-39-"renal dysfunction"-noun-0]|TX|6145/17|
+00000000|MMI|3.44|Alanine aminotransferase increased|C0151905|[fndg]|["Increased ALT"-tx-24-"increased ALT"-noun-0]|TX|2819/13|
+00000000|MMI|3.43|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-43-"exposure"-noun-0]|TX|6595/8|
+00000000|MMI|3.43|exposure history|C2220266|[fndg]|["exposure"-tx-43-"exposure"-noun-0]|TX|6595/8|

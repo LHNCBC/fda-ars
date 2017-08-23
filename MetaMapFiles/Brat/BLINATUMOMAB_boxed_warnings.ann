@@ -1,0 +1,122 @@
+T1	AdverseReaction 30 55	CYTOKINE RELEASE SYNDROME
+T2	AdverseReaction 61 84	NEUROLOGICAL TOXICITIES
+T3	AdverseReaction 99 124	CYTOKINE RELEASE SYNDROME
+T4	AdverseReaction 130 153	NEUROLOGICAL TOXICITIES
+T5	AdverseReaction 164 189	Cytokine Release Syndrome
+T6	AdverseReaction 191 194	CRS
+T7	AdverseReaction 230 235	fatal
+T8	Factor 203 206	may
+T9	AdverseReaction 408 431	Neurological toxicities
+T10	AdverseReaction 475 480	fatal
+T11	Factor 439 442	may
+T12	AdverseReaction 673 698	CYTOKINE RELEASE SYNDROME
+T13	AdverseReaction 703 726	NEUROLOGICAL TOXICITIES
+T14	AdverseReaction 804 829	Cytokine Release Syndrome
+T15	AdverseReaction 831 834	CRS
+T16	AdverseReaction 870 875	fatal
+T17	Factor 843 846	may
+T18	AdverseReaction 986 1009	Neurological toxicities
+T19	Severity 210 226	life-threatening
+T20	Severity 446 452	severe
+T21	Severity 454 470	life-threatening
+T22	Severity 850 866	life-threatening
+T23	Severity 1024 1030	severe
+T24	Severity 1032 1048	life-threatening
+T25	AdverseReaction 1053 1058	fatal
+T26	Factor 1017 1020	may
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7 Hypothetical:E8
+E8	Factor:T8
+E9	AdverseReaction:T9 Effect:E22 Effect2:E23
+E10	AdverseReaction:T10 Hypothetical:E11
+E11	Factor:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14 Effect:E26
+E15	AdverseReaction:T15 Effect:E26
+E16	AdverseReaction:T16 Hypothetical:E17
+E17	Factor:T17
+E18	AdverseReaction:T18 Effect:E29 Effect2:E30
+E19	AdverseReaction:T5 Effect:E20
+E20	Severity:T19
+E21	AdverseReaction:T6 Effect:E20
+E22	Severity:T20
+E23	Severity:T21
+E24	AdverseReaction:T9
+E26	Severity:T22
+E27	AdverseReaction:T14
+E28	AdverseReaction:T15
+E29	Severity:T23
+E30	Severity:T24
+E31	AdverseReaction:T25 Hypothetical:E32
+E32	Factor:T26
+E34	AdverseReaction:T18
+A1	CUI E1 C0948245
+A2	UMLS-Preferred-Name E1 Cytokine release syndrome
+A3	MEDDRA-PT E1 Cytokine release syndrome
+A4	MEDDRA-PT-ID E1 10052015
+A5	CUI E2 C0235032
+A6	UMLS-Preferred-Name E2 Neurotoxicity Syndromes
+A7	MEDDRA-PT E2 Neurotoxicity
+A8	MEDDRA-PT-ID E2 10029350
+A9	CUI E3 C0948245
+A10	UMLS-Preferred-Name E3 Cytokine release syndrome
+A11	MEDDRA-PT E3 Cytokine release syndrome
+A12	MEDDRA-PT-ID E3 10052015
+A13	CUI E4 C0235032
+A14	UMLS-Preferred-Name E4 Neurotoxicity Syndromes
+A15	MEDDRA-PT E4 Neurotoxicity
+A16	MEDDRA-PT-ID E4 10029350
+A17	CUI E5 C0948245
+A18	UMLS-Preferred-Name E5 Cytokine release syndrome
+A19	MEDDRA-PT E5 Cytokine release syndrome
+A20	MEDDRA-PT-ID E5 10052015
+A21	CUI E6 C0948245
+A22	UMLS-Preferred-Name E6 Cytokine release syndrome
+A23	MEDDRA-PT E6 Cytokine release syndrome
+A24	MEDDRA-PT-ID E6 10052015
+A25	CUI E7 C1306577
+A26	UMLS-Preferred-Name E7 Death (finding)
+A27	MEDDRA-PT E7 Death
+A28	MEDDRA-PT-ID E7 10011906
+A29	CUI E9 C0235032
+A30	UMLS-Preferred-Name E9 Neurotoxicity Syndromes
+A31	MEDDRA-PT E9 Neurotoxicity
+A32	MEDDRA-PT-ID E9 10029350
+A33	CUI E10 C1306577
+A34	UMLS-Preferred-Name E10 Death (finding)
+A35	MEDDRA-PT E10 Death
+A36	MEDDRA-PT-ID E10 10011906
+A37	CUI E12 C0948245
+A38	UMLS-Preferred-Name E12 Cytokine release syndrome
+A39	MEDDRA-PT E12 Cytokine release syndrome
+A40	MEDDRA-PT-ID E12 10052015
+A41	CUI E13 C0235032
+A42	UMLS-Preferred-Name E13 Neurotoxicity Syndromes
+A43	MEDDRA-PT E13 Neurotoxicity
+A44	MEDDRA-PT-ID E13 10029350
+A45	CUI E14 C0948245
+A46	UMLS-Preferred-Name E14 Cytokine release syndrome
+A47	MEDDRA-PT E14 Cytokine release syndrome
+A48	MEDDRA-PT-ID E14 10052015
+A49	CUI E15 C0948245
+A50	UMLS-Preferred-Name E15 Cytokine release syndrome
+A51	MEDDRA-PT E15 Cytokine release syndrome
+A52	MEDDRA-PT-ID E15 10052015
+A53	CUI E16 C1306577
+A54	UMLS-Preferred-Name E16 Death (finding)
+A55	MEDDRA-PT E16 Death
+A56	MEDDRA-PT-ID E16 10011906
+A57	CUI E18 C0235032
+A58	UMLS-Preferred-Name E18 Neurotoxicity Syndromes
+A59	MEDDRA-PT E18 Neurotoxicity
+A60	MEDDRA-PT-ID E18 10029350
+A61	CUI E31 C1306577
+A62	UMLS-Preferred-Name E31 Death (finding)
+A63	MEDDRA-PT E31 Death
+A64	MEDDRA-PT-ID E31 10011906

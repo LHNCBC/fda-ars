@@ -1,0 +1,425 @@
+T1	AdverseReaction 580 605	Cytokine Release Syndrome
+T2	AdverseReaction 607 610	CRS
+T3	Severity 626 642	life-threatening
+T4	AdverseReaction 646 651	fatal
+T5	Factor 619 622	may
+T6	AdverseReaction 699 717	Infusion reactions
+T7	AdverseReaction 899 906	pyrexia
+T8	AdverseReaction 908 916	headache
+T9	AdverseReaction 918 924	nausea
+T10	AdverseReaction 926 934	asthenia
+T11	AdverseReaction 936 947	hypotension
+T12	AdverseReaction 949 983	increased alanine aminotransferase
+T13	AdverseReaction 985 1021	increased aspartate aminotransferase
+T14	AdverseReaction 1027 1052	increased total bilirubin
+T15	AdverseReaction 1133 1138	fatal
+T16	AdverseReaction 1139 1142	CRS
+T17	Severity 1113 1129	Life-threatening
+T18	AdverseReaction 1216 1254	disseminated intravascular coagulation
+T19	AdverseReaction 1256 1259	DIC
+T20	AdverseReaction 1262 1285	capillary leak syndrome
+T21	AdverseReaction 1287 1290	CLS
+T22	AdverseReaction 1297 1331	hemophagocytic lymphohistiocytosis
+T23	AdverseReaction 1332 1362	macrophage activation syndrome
+T24	AdverseReaction 1364 1367	HLH
+T25	AdverseReaction 1368 1371	MAS
+T26	AdverseReaction 1410 1413	CRS
+T27	AdverseReaction 1736 1759	neurological toxicities
+T28	AdverseReaction 1929 1952	neurological toxicities
+T29	Severity 1893 1899	severe
+T30	Severity 1901 1917	life-threatening
+T31	Severity 1874 1881	Grade 3
+T32	AdverseReaction 1922 1927	fatal
+T33	AdverseReaction 2056 2070	encephalopathy
+T34	AdverseReaction 2072 2083	convulsions
+T35	AdverseReaction 2085 2101	speech disorders
+T36	AdverseReaction 2103 2132	disturbances in consciousness
+T37	AdverseReaction 2134 2143	confusion
+T38	AdverseReaction 2148 2162	disorientation
+T40	AdverseReaction 2168 2180;2193 2202	coordination disorders
+T41	AdverseReaction 2185 2202	balance disorders
+T39	AdverseReaction 2603 2613	infections
+T42	Severity 2595 2602	serious
+T43	AdverseReaction 2622 2628	sepsis
+T44	AdverseReaction 2630 2639	pneumonia
+T45	AdverseReaction 2641 2651	bacteremia
+T46	AdverseReaction 2795 2800	fatal
+T47	AdverseReaction 2653 2677	opportunistic infections
+T48	AdverseReaction 2683 2707	catheter-site infections
+T49	Severity 2775 2791	life-threatening
+T50	AdverseReaction 3038 3058	Tumor lysis syndrome
+T51	AdverseReaction 3060 3063	TLS
+T52	Severity 3079 3095	life-threatening
+T53	AdverseReaction 3099 3104	fatal
+T54	Factor 3072 3075	may
+T55	AdverseReaction 3572 3583	Neutropenia
+T56	AdverseReaction 3588 3607	febrile neutropenia
+T57	Severity 3619 3635	life-threatening
+T58	AdverseReaction 3979 3996	neurologic events
+T59	Factor 3965 3974	potential
+T60	AdverseReaction 4008 4016	seizures
+T61	AdverseReaction 4062 4083	loss of consciousness
+T62	Factor 4053 4057	risk
+T63	AdverseReaction 4415 4442	elevations in liver enzymes
+T64	AdverseReaction 4514 4517	CRS
+T65	AdverseReaction 4690 4717	elevations in liver enzymes
+T66	Severity 4671 4678	Grade 3
+T67	AdverseReaction 5313 5332	leukoencephalopathy
+T68	AdverseReaction 53 63	Infections
+T69	AdverseReaction 144 171	Effects on Ability to Drive
+T70	AdverseReaction 144 165;176 188	Effects on Ability to Use Machines
+T71	Severity 4405 4414	transient
+T73	AdverseReaction 886 889	CRS
+T72	AdverseReaction 4782 4785	CRS
+T74	Negation 4759 4766	outside
+E1	AdverseReaction:T1 Effect:E3
+E2	AdverseReaction:T2 Effect:E3
+E3	Severity:T3
+E4	AdverseReaction:T4 Hypothetical:E5
+E5	Factor:T5
+E6	AdverseReaction:T1
+E7	AdverseReaction:T2
+E8	AdverseReaction:T6
+E9	AdverseReaction:T7
+E10	AdverseReaction:T8
+E11	AdverseReaction:T9
+E12	AdverseReaction:T10
+E13	AdverseReaction:T11
+E14	AdverseReaction:T12
+E15	AdverseReaction:T13
+E16	AdverseReaction:T14
+E17	AdverseReaction:T15
+E18	AdverseReaction:T16
+E19	AdverseReaction:T16 Effect:E20
+E20	Severity:T17
+E21	AdverseReaction:T18
+E22	AdverseReaction:T19
+E23	AdverseReaction:T20
+E24	AdverseReaction:T21
+E25	AdverseReaction:T22
+E26	AdverseReaction:T23
+E27	AdverseReaction:T24
+E28	AdverseReaction:T25
+E29	AdverseReaction:T26
+E30	AdverseReaction:T27
+E33	Severity:T29
+E34	Severity:T30
+E35	Severity:T31
+E36	AdverseReaction:T32
+E37	AdverseReaction:T28 Effect:E34 Effect2:E33 Effect3:E35
+E39	AdverseReaction:T33
+E40	AdverseReaction:T34
+E41	AdverseReaction:T35
+E42	AdverseReaction:T36
+E43	AdverseReaction:T37
+E44	AdverseReaction:T38
+E46	AdverseReaction:T40
+E47	AdverseReaction:T41
+E45	AdverseReaction:T39 Effect:E48
+E48	Severity:T42
+E49	AdverseReaction:T43
+E50	AdverseReaction:T44
+E51	AdverseReaction:T45
+E52	AdverseReaction:T46
+E53	AdverseReaction:T47
+E54	AdverseReaction:T48
+E55	Severity:T49
+E56	AdverseReaction:T43 Effect:E55
+E57	AdverseReaction:T44 Effect:E55
+E58	AdverseReaction:T45 Effect:E55
+E59	AdverseReaction:T47 Effect:E55
+E60	AdverseReaction:T48 Effect:E55
+E61	AdverseReaction:T50 Effect:E63
+E62	AdverseReaction:T51 Effect:E63
+E63	Severity:T52
+E64	AdverseReaction:T53 Hypothetical:E65
+E65	Factor:T54
+E66	AdverseReaction:T50
+E67	AdverseReaction:T51
+E68	AdverseReaction:T55
+E69	AdverseReaction:T56
+E70	AdverseReaction:T55 Effect:E72
+E71	AdverseReaction:T56 Effect:E72
+E72	Severity:T57
+E73	AdverseReaction:T58 Hypothetical:E74
+E74	Factor:T59
+E75	AdverseReaction:T60 Hypothetical:E74
+E76	AdverseReaction:T61 Hypothetical:E77
+E77	Factor:T62
+E78	AdverseReaction:T63 Effect:E31
+E79	AdverseReaction:T64
+E81	AdverseReaction:T65 Effect:E82
+E82	Severity:T66
+E83	AdverseReaction:T67
+E84	AdverseReaction:T68
+E85	AdverseReaction:T69
+E86	AdverseReaction:T70
+E31	Severity:T71
+E38	AdverseReaction:T73
+E32	AdverseReaction:T72 Negated:E80
+E80	Negation:T74
+A1	CUI E1 C0948245
+A2	UMLS-Preferred-Name E1 Cytokine release syndrome
+A3	MEDDRA-PT E1 Cytokine release syndrome
+A4	MEDDRA-PT-ID E1 10052015
+A5	CUI E2 C0948245
+A6	UMLS-Preferred-Name E2 Cytokine release syndrome
+A7	MEDDRA-PT E2 Cytokine release syndrome
+A8	MEDDRA-PT-ID E2 10052015
+A9	CUI E4 C1306577
+A10	UMLS-Preferred-Name E4 Death (finding)
+A11	MEDDRA-PT E4 Death
+A12	MEDDRA-PT-ID E4 10011906
+A13	CUI E8 C0948715
+A14	UMLS-Preferred-Name E8 Infusion related reaction
+A15	MEDDRA-PT E8 Infusion related reaction
+A16	MEDDRA-PT-ID E8 10051792
+A17	CUI E9 C0015967
+A18	UMLS-Preferred-Name E9 Fever
+A19	MEDDRA-PT E9 Pyrexia
+A20	MEDDRA-PT-ID E9 10037660
+A21	CUI E10 C0018681
+A22	UMLS-Preferred-Name E10 Headache
+A23	MEDDRA-PT E10 Headache
+A24	MEDDRA-PT-ID E10 10019211
+A25	CUI E11 C0027497
+A26	UMLS-Preferred-Name E11 Nausea
+A27	MEDDRA-PT E11 Nausea
+A28	MEDDRA-PT-ID E11 10028813
+A29	CUI E12 C0004093
+A30	UMLS-Preferred-Name E12 Asthenia
+A31	MEDDRA-PT E12 Asthenia
+A32	MEDDRA-PT-ID E12 10003549
+A33	CUI E13 C0020649
+A34	UMLS-Preferred-Name E13 Hypotension
+A35	MEDDRA-PT E13 Hypotension
+A36	MEDDRA-PT-ID E13 10021097
+A37	CUI E14 C0151905
+A38	UMLS-Preferred-Name E14 Alanine aminotransferase increased
+A39	MEDDRA-PT E14 Alanine aminotransferase increased
+A40	MEDDRA-PT-ID E14 10001551
+A41	CUI E15 C0151904
+A42	UMLS-Preferred-Name E15 Aspartate aminotransferase increased
+A43	MEDDRA-PT E15 Aspartate aminotransferase increased
+A44	MEDDRA-PT-ID E15 10003481
+A45	CUI E16 C0741494
+A46	UMLS-Preferred-Name E16 Elevated total bilirubin
+A47	MEDDRA-PT E16 Blood bilirubin increased
+A48	MEDDRA-PT-ID E16 10005364
+A49	LLT E16 Bilirubin total increased
+A50	LLT-ID E16 10056806
+A51	CUI E17 C1306577
+A52	UMLS-Preferred-Name E17 Death (finding)
+A53	MEDDRA-PT E17 Death
+A54	MEDDRA-PT-ID E17 10011906
+A55	CUI E18 C0948245
+A56	UMLS-Preferred-Name E18 Cytokine release syndrome
+A57	MEDDRA-PT E18 Cytokine release syndrome
+A58	MEDDRA-PT-ID E18 10052015
+A59	CUI E21 C0012739
+A60	UMLS-Preferred-Name E21 Disseminated Intravascular Coagulation
+A61	MEDDRA-PT E21 Disseminated intravascular coagulation
+A62	MEDDRA-PT-ID E21 10013442
+A63	CUI E22 C0012739
+A64	UMLS-Preferred-Name E22 Disseminated Intravascular Coagulation
+A65	MEDDRA-PT E22 Disseminated intravascular coagulation
+A66	MEDDRA-PT-ID E22 10013442
+A67	LLT E22 DIC
+A68	LLT-ID E22 10012769
+A69	CUI E23 C0343084
+A70	UMLS-Preferred-Name E23 Capillary Leak Syndrome
+A71	MEDDRA-PT E23 Capillary leak syndrome
+A72	MEDDRA-PT-ID E23 10007196
+A73	CUI E24 C0343084
+A74	UMLS-Preferred-Name E24 Capillary Leak Syndrome
+A75	MEDDRA-PT E24 Capillary leak syndrome
+A76	MEDDRA-PT-ID E24 10007196
+A77	CUI E25 C0024291
+A78	UMLS-Preferred-Name E25 Lymphohistiocytosis, Hemophagocytic
+A79	MEDDRA-PT E25 Histiocytosis haematophagic
+A80	MEDDRA-PT-ID E25 10048595
+A81	LLT E25 Hemophagocytic lymphohistiocytosis
+A82	LLT-ID E25 10071580
+A83	CUI E26 C1096155
+A84	UMLS-Preferred-Name E26 Macrophage Activation Syndrome
+A85	MEDDRA-PT E26 Histiocytosis haematophagic
+A86	MEDDRA-PT-ID E26 10048595
+A87	LLT E26 Macrophage activation syndrome
+A88	LLT-ID E26 10053867
+A89	CUI E27 C0024291
+A90	UMLS-Preferred-Name E27 Lymphohistiocytosis, Hemophagocytic
+A91	MEDDRA-PT E27 Histiocytosis haematophagic
+A92	MEDDRA-PT-ID E27 10048595
+A93	LLT E27 Hemophagocytic lymphohistiocytosis
+A94	LLT-ID E27 10071580
+A95	CUI E28 C1096155
+A96	UMLS-Preferred-Name E28 Macrophage Activation Syndrome
+A97	MEDDRA-PT E28 Histiocytosis haematophagic
+A98	MEDDRA-PT-ID E28 10048595
+A99	LLT E28 Macrophage activation syndrome
+A100	LLT-ID E28 10053867
+A101	CUI E29 C0948245
+A102	UMLS-Preferred-Name E29 Cytokine release syndrome
+A103	MEDDRA-PT E29 Cytokine release syndrome
+A104	MEDDRA-PT-ID E29 10052015
+A105	CUI E30 C0235032
+A106	UMLS-Preferred-Name E30 Neurotoxicity Syndromes
+A107	MEDDRA-PT E30 Neurotoxicity
+A108	MEDDRA-PT-ID E30 10029350
+A109	CUI E37 C0235032
+A110	UMLS-Preferred-Name E37 Neurotoxicity Syndromes
+A111	MEDDRA-PT E37 Neurotoxicity
+A112	MEDDRA-PT-ID E37 10029350
+A113	CUI E36 C1306577
+A114	UMLS-Preferred-Name E36 Death (finding)
+A115	MEDDRA-PT E36 Death
+A116	MEDDRA-PT-ID E36 10011906
+A117	CUI E39 C0085584
+A118	UMLS-Preferred-Name E39 Encephalopathies
+A119	MEDDRA-PT E39 Encephalopathy
+A120	MEDDRA-PT-ID E39 10014625
+A121	CUI E40 C0036572
+A122	UMLS-Preferred-Name E40 Seizures
+A123	MEDDRA-PT E40 Seizure
+A124	MEDDRA-PT-ID E40 10039906
+A125	LLT E40 Convulsions
+A126	LLT-ID E40 10010914
+A127	CUI E41 C0037822
+A128	UMLS-Preferred-Name E41 Speech Disorders
+A129	MEDDRA-PT E41 Speech disorder
+A130	MEDDRA-PT-ID E41 10041466
+A131	CUI E42 C0234428
+A132	UMLS-Preferred-Name E42 Disturbance of consciousness
+A133	MEDDRA-PT E42 Altered state of consciousness
+A134	MEDDRA-PT-ID E42 10001854
+A135	LLT E42 Consciousness disturbed
+A136	LLT-ID E42 10010770
+A137	CUI E43 C0009676
+A138	UMLS-Preferred-Name E43 Confusion
+A139	MEDDRA-PT E43 Confusional state
+A140	MEDDRA-PT-ID E43 10010305
+A141	LLT E43 Confusion
+A142	LLT-ID E43 10010300
+A143	CUI E44 C0233407
+A144	UMLS-Preferred-Name E44 Disorientation
+A145	MEDDRA-PT E44 Disorientation
+A146	MEDDRA-PT-ID E44 10013395
+A147	CUI E46 C0520966
+A148	UMLS-Preferred-Name E46 Abnormal coordination
+A149	MEDDRA-PT E46 Coordination abnormal
+A150	MEDDRA-PT-ID E46 10010947
+A151	LLT E46 Coordination impaired
+A152	LLT-ID E46 10010950
+A153	CUI E47 C0575090
+A154	UMLS-Preferred-Name E47 Equilibration disorder
+A155	MEDDRA-PT E47 Balance disorder
+A156	MEDDRA-PT-ID E47 10049848
+A157	CUI E45 C3714514
+A158	UMLS-Preferred-Name E45 Infection
+A159	MEDDRA-PT E45 Infection
+A160	MEDDRA-PT-ID E45 10021789
+A161	CUI E49 C0243026
+A162	UMLS-Preferred-Name E49 Sepsis
+A163	MEDDRA-PT E49 Sepsis
+A164	MEDDRA-PT-ID E49 10040047
+A165	CUI E50 C0032285
+A166	UMLS-Preferred-Name E50 Pneumonia
+A167	MEDDRA-PT E50 Pneumonia
+A168	MEDDRA-PT-ID E50 10035664
+A169	CUI E51 C0004610
+A170	UMLS-Preferred-Name E51 Bacteremia
+A171	MEDDRA-PT E51 Bacteraemia
+A172	MEDDRA-PT-ID E51 10003997
+A173	LLT E51 Bacteremia
+A174	LLT-ID E51 10003999
+A175	CUI E52 C1306577
+A176	UMLS-Preferred-Name E52 Death (finding)
+A177	MEDDRA-PT E52 Death
+A178	MEDDRA-PT-ID E52 10011906
+A179	CUI E53 C0029118
+A180	UMLS-Preferred-Name E53 Opportunistic Infections
+A181	MEDDRA-PT E53 Opportunistic infection
+A182	MEDDRA-PT-ID E53 10030901
+A183	CUI E54 C1112210
+A184	UMLS-Preferred-Name E54 Catheter site infection
+A185	MEDDRA-PT E54 Catheter site infection
+A186	MEDDRA-PT-ID E54 10056520
+A187	CUI E61 C0041364
+A188	UMLS-Preferred-Name E61 Tumor Lysis Syndrome
+A189	MEDDRA-PT E61 Tumour lysis syndrome
+A190	MEDDRA-PT-ID E61 10045170
+A191	LLT E61 Tumor lysis syndrome
+A192	LLT-ID E61 10045152
+A193	CUI E62 C0041364
+A194	UMLS-Preferred-Name E62 Tumor Lysis Syndrome
+A195	MEDDRA-PT E62 Tumour lysis syndrome
+A196	MEDDRA-PT-ID E62 10045170
+A197	LLT E62 Tumor lysis syndrome
+A198	LLT-ID E62 10045152
+A199	CUI E64 C1306577
+A200	UMLS-Preferred-Name E64 Death (finding)
+A201	MEDDRA-PT E64 Death
+A202	MEDDRA-PT-ID E64 10011906
+A203	CUI E68 C0027947
+A204	UMLS-Preferred-Name E68 Neutropenia
+A205	MEDDRA-PT E68 Neutropenia
+A206	MEDDRA-PT-ID E68 10029354
+A207	CUI E69 C0746883
+A208	UMLS-Preferred-Name E69 Febrile Neutropenia
+A209	MEDDRA-PT E69 Febrile neutropenia
+A210	MEDDRA-PT-ID E69 10016288
+A211	CUI E73 C0235030
+A212	UMLS-Preferred-Name E73 Neurologic reaction
+A213	MEDDRA-PT E73 Neurological symptom
+A214	MEDDRA-PT-ID E73 10060860
+A215	LLT E73 Neurologic reaction
+A216	LLT-ID E73 10029290
+A217	CUI E75 C0036572
+A218	UMLS-Preferred-Name E75 Seizures
+A219	MEDDRA-PT E75 Seizure
+A220	MEDDRA-PT-ID E75 10039906
+A221	LLT E75 Seizures
+A222	LLT-ID E75 10039910
+A223	CUI E76 C0041657
+A224	UMLS-Preferred-Name E76 Unconscious State
+A225	MEDDRA-PT E76 Loss of consciousness
+A226	MEDDRA-PT-ID E76 10024855
+A227	CUI E78 C0235996
+A228	UMLS-Preferred-Name E78 Elevated liver enzymes
+A229	MEDDRA-PT E78 Hepatic enzyme increased
+A230	MEDDRA-PT-ID E78 10060795
+A231	LLT E78 Elevated liver enzymes
+A232	LLT-ID E78 10014481
+A233	CUI E79 C0948245
+A234	UMLS-Preferred-Name E79 Cytokine release syndrome
+A235	MEDDRA-PT E79 Cytokine release syndrome
+A236	MEDDRA-PT-ID E79 10052015
+A237	CUI E81 C0235996
+A238	UMLS-Preferred-Name E81 Elevated liver enzymes
+A239	MEDDRA-PT E81 Hepatic enzyme increased
+A240	MEDDRA-PT-ID E81 10060795
+A241	LLT E81 Elevated liver enzymes
+A242	LLT-ID E81 10014481
+A243	CUI E83 C0270612
+A244	UMLS-Preferred-Name E83 Leukoencephalopathies
+A245	MEDDRA-PT E83 Leukoencephalopathy
+A246	MEDDRA-PT-ID E83 10024382
+A247	CUI E84 C3714514
+A248	UMLS-Preferred-Name E84 Infection
+A249	MEDDRA-PT E84 Infection
+A250	MEDDRA-PT-ID E84 10021789
+A251	CUI E85 C0877256
+A252	UMLS-Preferred-Name E85 Impaired driving ability
+A253	MEDDRA-PT E85 Impaired driving ability
+A254	MEDDRA-PT-ID E85 10049564
+A255	LLT E85 Driving ability disturbed
+A256	LLT-ID E85 10050503
+A257	flag E86 unmapped
+A258	CUI E38 C0948245
+A259	UMLS-Preferred-Name E38 Cytokine release syndrome
+A260	MEDDRA-PT E38 Cytokine release syndrome
+A261	MEDDRA-PT-ID E38 10052015
+A262	CUI E32 C0948245
+A263	UMLS-Preferred-Name E32 Cytokine release syndrome
+A264	MEDDRA-PT E32 Cytokine release syndrome
+A265	MEDDRA-PT-ID E32 10052015

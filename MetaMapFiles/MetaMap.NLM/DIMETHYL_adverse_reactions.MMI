@@ -1,0 +1,44 @@
+00000000|AA|ULN|upper limit of normal|1|3|7|21|3973:3
+00000000|MMI|68.38|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-11-"Abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-11-"abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-8-"abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-5-"abdominal pain"-noun-0]|TX|1994/14;3268/14;1090/14;489/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|57.73|Adverse reactions|C0559546|[patf]|["ADVERSE REACTION"-tx-22-"adverse reaction"-noun-0,"Adverse reactions"-tx-20-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-11-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-10-"adverse reactions"-noun-0,"Adverse reactions"-tx-9-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-8-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-7-"adverse reaction"-noun-0,"Adverse reactions"-tx-6-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-5-"adverse reactions"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|4930/16;4569/17;1562/17;1376/17;1136/17;998/17;780/16;563/17;421/17;6/17;51/17|
+00000000|MMI|55.19|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-11-"Diarrhea"-noun-0,"DIARRHOEA"-tx-11-"diarrhea"-noun-0,"DIARRHOEA"-tx-8-"diarrhea"-noun-0,"DIARRHOEA"-tx-5-"diarrhea"-noun-0]|TX|2101/8;3258/8;1106/8;505/8|C23.888.821.214
+00000000|MMI|55.19|Nausea|C0027497|[sosy]|["NAUSEA"-tx-11-"Nausea"-noun-0,"NAUSEA"-tx-11-"nausea"-noun-0,"NAUSEA"-tx-8-"nausea"-noun-0,"NAUSEA"-tx-5-"nausea"-noun-0]|TX|2208/6;3240/6;1120/6;519/6|C23.888.821.712
+00000000|MMI|42.19|Flushing|C0016382|[sosy]|["FLUSHING"-tx-11-"Flushing"-noun-0,"FLUSHING"-tx-8-"flushing"-adv-0,"FLUSHING"-tx-5-"flushing"-adv-0,"FLUSHING"-tx-4-"Flushing"-noun-0]|TX|1887/8;1080/8;479/8;339/8|C23.888.388
+00000000|MMI|32.99|Lymphopenia|C0024312|[dsyn]|["LYMPHOPENIA"-tx-11-"Lymphopenia"-noun-0,"LYMPHOPENIA"-tx-3-"Lymphopenia"-noun-0]|TX|3064/11;279/11|C15.378.553.546.605;C20.673.627
+00000000|MMI|29.46|Vomiting|C0042963|[sosy]|["VOMITING"-tx-11-"Vomiting"-verb-0,"VOMITING"-tx-11-"vomiting"-verb-0]|TX|2315/8;3248/8|C23.888.821.937
+00000000|MMI|26.64|Dyspepsia|C0013395|[sosy]|["DYSPEPSIA"-tx-11-"Dyspepsia"-noun-0,"DYSPEPSIA"-tx-11-"dyspepsia"-noun-0]|TX|2850/9;3288/9|C23.888.821.236
+00000000|MMI|24.11|Leukoencephalopathy, Progressive Multifocal|C0023524|[dsyn]|["Progressive multifocal leucoencephalopathy"-tx-2-"Progressive multifocal leukoencephalopathy"-noun-0]|TX|188/42|C02.182.525.500;C02.256.721.500;C02.290.575;C02.839.550;C10.228.140.430.520.750.500;C10.228.140.695.750;C10.228.228.245.340.500;C10.228.228.399.750.500;C10.314.450
+00000000|MMI|17.80|Angioedema|C0002994|[patf]|["Angiooedema"-tx-1-"Angioedema"-noun-0]|TX|129/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|16.19|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-11-"Diarrhea"-noun-0,"Diarrhea"-tx-11-"diarrhea"-noun-0,"Diarrhea"-tx-8-"diarrhea"-noun-0,"Diarrhea"-tx-5-"diarrhea"-noun-0]|TX|2101/8;3258/8;1106/8;505/8|
+00000000|MMI|16.19|Flushing Adverse Event|C1962957|[fndg]|["Flushing"-tx-11-"Flushing"-noun-0,"Flushing"-tx-8-"flushing"-adv-0,"Flushing"-tx-5-"flushing"-adv-0,"Flushing"-tx-4-"Flushing"-noun-0]|TX|1887/8;1080/8;479/8;339/8|
+00000000|MMI|16.19|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-11-"Nausea"-noun-0,"Nausea"-tx-11-"nausea"-noun-0,"Nausea"-tx-8-"nausea"-noun-0,"Nausea"-tx-5-"nausea"-noun-0]|TX|2208/6;3240/6;1120/6;519/6|
+00000000|MMI|15.79|3 times|C4035626|[fndg]|["3 times"-tx-17-"3 times"-noun-1,"3 times"-tx-16-"3 times"-noun-0,"3 times"-tx-15-"3 times"-noun-0]|TX|4229/7;4055/7;3938/7|
+00000000|MMI|14.95|2+|C3833492|[fndg]|["2+"-tx-11-"2"-integer-0,"2+"-tx-8-"2"-percentage-0,"2+"-tx-5-"2"-percentage-0]|TX|[1595/1],[3034/1];1039/1;462/1|
+00000000|MMI|14.64|Eosinophilia|C0014457|[dsyn]|["EOSINOPHILIA"-tx-19-"Eosinophilia"-noun-0]|TX|4448/12|C15.378.553.231
+00000000|MMI|14.64|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-1-"Anaphylaxis"-noun-0]|TX|113/11|C20.543.480.099
+00000000|MMI|13.09|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-11-"Pruritus"-noun-0]|TX|2422/8|C17.800.685;C23.888.885.625
+00000000|MMI|11.03|1+|C3816745|[fndg]|["1+"-tx-18-"1"-percentage-0,"1+"-tx-14-"1"-percentage-0,"1+"-tx-11-"1"-integer-0]|TX|4373/1;3658/1;3142/1|
+00000000|MMI|10.42|10%|C3842590|[fndg]|["10%"-tx-8-"10"-percentage-0,"10%"-tx-5-"10"-percentage-0]|TX|1029/2;452/2|
+00000000|MMI|10.42|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-11-"Vomiting"-verb-0,"Vomiting"-tx-11-"vomiting"-verb-0]|TX|2315/8;3248/8|
+00000000|MMI|9.94|Erythema|C0041834|[dsyn]|["ERYTHEMA"-tx-11-"Erythema"-noun-0]|TX|2743/8|C17.800.229
+00000000|MMI|9.94|Exanthema|C0015230|[sosy]|["RASH"-tx-11-"Rash"-noun-0]|TX|2529/4|C17.800.257
+00000000|MMI|9.84|Disease|C0012634|[dsyn]|["condition"-tx-7-"conditions"-noun-0]|TX|768/10|C23.550.288
+00000000|MMI|7.61|4+ Answer to question|C3838679|[fndg]|["4+"-tx-13-"4"-percentage-0,"4+"-tx-11-"4"-integer-0]|TX|3498/1;2499/1|
+00000000|MMI|7.61|Lymphocyte count decreased|C0853986|[fndg]|["Lymphopenia"-tx-11-"Lymphopenia"-noun-0,"Lymphopenia"-tx-3-"Lymphopenia"-noun-0]|TX|3064/11;279/11|
+00000000|MMI|7.61|Lymphopenia Adverse Event|C1963164|[fndg]|["Lymphopenia"-tx-11-"Lymphopenia"-noun-0,"Lymphopenia"-tx-3-"Lymphopenia"-noun-0]|TX|3064/11;279/11|
+00000000|MMI|6.88|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-20-"exposure"-noun-0,"Exposure NOS"-tx-9-"exposure"-noun-0]|TX|4806/8;1302/8|
+00000000|MMI|6.88|exposure history|C2220266|[fndg]|["exposure"-tx-20-"exposure"-noun-0,"exposure"-tx-9-"exposure"-noun-0]|TX|4806/8;1302/8|
+00000000|MMI|5.18|2 times|C4035627|[fndg]|["2 times"-tx-17-"2 times"-noun-0]|TX|4294/7|
+00000000|MMI|5.18|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-1-"Anaphylaxis"-noun-0]|TX|113/11|
+00000000|MMI|5.18|Eosinophilic disorder|C1306759|[dsyn]|["Eosinophilia"-tx-19-"Eosinophilia"-noun-0]|TX|4448/12|
+00000000|MMI|3.78|10-14|C3840694|[fndg]|["10-14"-tx-11-"10 14"-integer-0]|TX|2071/2,2150/2|
+00000000|MMI|3.78|11-12|C3843712|[fndg]|["11-12"-tx-11-"11 12"-integer-0]|TX|2178/2,2257/2|
+00000000|MMI|3.76|Distance vision 6/18|C0442753|[fndg]|["6/18"-tx-11-"6 18"-integer-0]|TX|1964/1,2043/2|
+00000000|MMI|3.74|3/6|C0442759|[fndg]|["3 6"-tx-11-"3 6"-integer-0]|TX|2606/1,2685/1|
+00000000|MMI|3.62|Number of patients|C2360800|[fndg]|["Number of patients"-tx-16-"number of patients"-noun-0]|TX|4091/18|
+00000000|MMI|3.56|Discontinued|C1444662|[fndg]|["Discontinued"-tx-13-"discontinued"-verb-0]|TX|3574/12|
+00000000|MMI|3.54|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-19-"therapy"-noun-0]|TX|4552/7|
+00000000|MMI|3.48|Elevated hepatic transaminases|C1848701|[fndg]|["Elevated hepatic transaminases"-tx-18-"elevated hepatic transaminases"-noun-0]|TX|4335/30|
+00000000|MMI|3.48|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-11-"3"-integer-0]|TX|2927/1|
+00000000|MMI|3.44|Transaminases increased|C0438717|[fndg]|["Transaminases increased"-tx-15-"increased transaminases"-noun-0]|TX|3736/9,3781/13|
+00000000|MMI|3.43|Person 4|C3841840|[fndg]|["Person 4"-tx-20-"4 person"-noun-0]|TX|4782/1,4823/6|

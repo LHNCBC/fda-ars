@@ -1,0 +1,31 @@
+T1	AdverseReaction 215 254	long-term cumulative radiation exposure
+T2	AdverseReaction 1386 1425	long-term cumulative radiation exposure
+T3	AdverseReaction 1427 1466	Long-term cumulative radiation exposure
+T4	AdverseReaction 1507 1513	cancer
+T5	Factor 1499 1503	risk
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4 Hypothetical:E5
+E5	Factor:T5
+A1	flag E1 underspecified
+A2	CUI E1 C0015333
+A3	UMLS-Preferred-Name E1 Exposure to radiation
+A4	MEDDRA-PT E1 Exposure to radiation
+A5	MEDDRA-PT-ID E1 10073306
+A6	flag E2 underspecified
+A7	CUI E2 C0015333
+A8	UMLS-Preferred-Name E2 Exposure to radiation
+A9	MEDDRA-PT E2 Exposure to radiation
+A10	MEDDRA-PT-ID E2 10073306
+A11	flag E3 underspecified
+A12	CUI E3 C0015333
+A13	UMLS-Preferred-Name E3 Exposure to radiation
+A14	MEDDRA-PT E3 Exposure to radiation
+A15	MEDDRA-PT-ID E3 10073306
+A16	CUI E4 C0006826
+A17	UMLS-Preferred-Name E4 Malignant Neoplasms
+A18	MEDDRA-PT E4 Neoplasm malignant
+A19	MEDDRA-PT-ID E4 10028997
+A20	LLT E4 Cancer
+A21	LLT-ID E4 10007050

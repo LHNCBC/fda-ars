@@ -1,0 +1,241 @@
+130,142|C0020598|Hypocalcemia|dsyn
+198,208|C3714514|Infections|patf
+334,350;355,358|C2711248|Osteonecrosis of Jaw|dsyn
+406,414|C0741302|Atypical|fndg
+446,463|C0015802|Femoral Fractures|inpo
+583,610|C0029458|postmenopausal osteoporosis|dsyn
+615,624|C0004604|back pain|sosy
+615,624|C1963071|back pain|fndg
+626,643|C0030196|pain in extremity|sosy
+645,665|C0026858|musculoskeletal pain|fndg
+667,687|C0020443|hypercholesterolemia|dsyn
+667,687|C1522133|hypercholesterolemia|fndg
+693,701|C0010692|cystitis|dsyn
+693,701|C1963088|cystitis|fndg
+693,701|C0600041|cystitis|dsyn
+774,786|C0029456|osteoporosis|dsyn
+791,800|C0004604|back pain|sosy
+791,800|C1963071|back pain|fndg
+802,812|C0003862|arthralgia|sosy
+818,833|C0027441|nasopharyngitis|dsyn
+942,951|C0029453|bone loss|dsyn
+995,1010|C0376358|prostate cancer|neop
+995,1010|C0600139|prostate cancer|neop
+1073,1083|C0003862|arthralgia|sosy
+1088,1097|C0004604|back pain|sosy
+1088,1097|C1963071|back pain|fndg
+1100,1117|C0030196|Pain in extremity|sosy
+1122,1142|C0026858|musculoskeletal pain|fndg
+1237,1252|C1444662|discontinuation|fndg
+1280,1307|C0029458|postmenopausal osteoporosis|dsyn
+1312,1321|C0004604|back pain|sosy
+1312,1321|C1963071|back pain|fndg
+1326,1338|C0009806|constipation|sosy
+1326,1338|C1963087|constipation|fndg
+1605,1632|C0029458|Postmenopausal osteoporosis|dsyn
+1706,1715|C0004604|back pain|sosy
+1706,1715|C1963071|back pain|fndg
+1717,1734|C0030196|pain in extremity|sosy
+1736,1756|C0020443|hypercholesterolemia|dsyn
+1736,1756|C1522133|hypercholesterolemia|fndg
+1758,1778|C0026858|musculoskeletal pain|fndg
+1784,1792|C0010692|cystitis|dsyn
+1784,1792|C1963088|cystitis|fndg
+1784,1792|C0600041|cystitis|dsyn
+1794,1806|C0030305|Pancreatitis|dsyn
+1794,1806|C1963198|Pancreatitis|fndg
+1864,1876|C0029456|Osteoporosis|dsyn
+1950,1959|C0004604|back pain|sosy
+1950,1959|C1963071|back pain|fndg
+1961,1971|C0003862|arthralgia|sosy
+1977,1992|C0027441|nasopharyngitis|dsyn
+2008,2012;2033,2041|C0238790|Bone ablation|dsyn
+2008,2017|C0029453|Bone loss|dsyn
+2046,2052|C0006826|cancer|neop
+2046,2052|C1306459|cancer|neop
+2128,2138|C0003862|arthralgia|sosy
+2143,2152|C0004604|back pain|sosy
+2143,2152|C1963071|back pain|fndg
+2154,2171|C0030196|Pain in extremity|sosy
+2176,2196|C0026858|musculoskeletal pain|fndg
+2517,2527|C0012634|conditions|dsyn
+2779,2791|C0029456|Osteoporosis|dsyn
+2839,2866|C0029458|postmenopausal osteoporosis|dsyn
+2893,2903|C3815594|randomized|fndg
+3146,3152|C0087136|single|fndg
+3421,3443|C1519255|serious adverse events|fndg
+3719,3731|C0029456|osteoporosis|dsyn
+3911,3923|C0029456|Osteoporosis|dsyn
+4093,4119|C0024228|LYMPHATIC SYSTEM DISORDERS|dsyn
+4130,4136|C0002871|Anemia|dsyn
+4168,4185|C0018799|CARDIAC DISORDERS|dsyn
+4196,4211|C0002962|Angina pectoris|fndg
+4243,4262|C0004238|Atrial fibrillation|dsyn
+4243,4262|C1963067|Atrial fibrillation|fndg
+4300,4319|C0022890|LABYRINTH DISORDERS|dsyn
+4330,4337|C0042571|Vertigo|sosy
+4369,4395|C0017178|GASTROINTESTINAL DISORDERS|dsyn
+4406,4426|C0232492|Abdominal pain upper|sosy
+4459,4469|C0016204|Flatulence|sosy
+4459,4469|C1962956|Flatulence|fndg
+4500,4531|C0017168|Gastroesophageal reflux disease|dsyn
+4569,4578|C0012634|DISORDERS|dsyn
+4603,4613|C0012634|CONDITIONS|dsyn
+4624,4640|C0085649|Edema peripheral|fndg
+4673,4681|C0004093|Asthenia|sosy
+4711,4721|C3714514|INFECTIONS|patf
+4726,4738|C0851341|INFESTATIONS|dsyn
+4749,4757|C0010692|Cystitis|dsyn
+4749,4757|C1963088|Cystitis|fndg
+4749,4757|C0600041|Cystitis|dsyn
+4790,4823|C0041912|Upper respiratory tract infection|dsyn
+4856,4865|C0032285|Pneumonia|dsyn
+4898,4909|C0031350|Pharyngitis|dsyn
+4940,4953|C0019360|Herpes zoster|dsyn
+4998,5017|C3714509|NUTRITION DISORDERS|dsyn
+5028,5048|C0020443|Hypercholesterolemia|dsyn
+5028,5048|C1522133|Hypercholesterolemia|fndg
+5100,5127|C0009782|CONNECTIVE TISSUE DISORDERS|dsyn
+5138,5147|C0004604|Back pain|sosy
+5138,5147|C1963071|Back pain|fndg
+5184,5201|C0030196|Pain in extremity|sosy
+5236,5256|C0026858|Musculoskeletal pain|fndg
+5289,5298|C1963077|Bone pain|fndg
+5289,5298|C0151825|Bone pain|sosy
+5331,5338|C0231528|Myalgia|sosy
+5370,5391|C2350242|Spinal osteoarthritis|dsyn
+5370,5391|C0949690|Spinal osteoarthritis|dsyn
+5456,5464|C0036396|Sciatica|sosy
+5528,5536|C0917801|Insomnia|sosy
+5528,5536|C1963237|Insomnia|fndg
+5577,5589;5597,5606|C0549584|SUBCUTANEOUS DISORDERS|dsyn
+5597,5606|C0012634|DISORDERS|dsyn
+5617,5621|C0015230|Rash|sosy
+5652,5660|C0033774|Pruritus|sosy
+5697,5709|C0020598|Hypocalcemia|dsyn
+5967,5988|C0232805|normal renal function|fndg
+6029,6052|C1565489|impaired renal function|dsyn
+6147,6168|C0232805|normal renal function|fndg
+6284,6296|C0020598|hypocalcemia|dsyn
+6360,6366|C0231683|normal|fndg
+6479,6499|C0812399|creatinine clearance|fndg
+6502,6504;6508,6511|C3842955|30 min|fndg
+6681,6693|C0029456|osteoporosis|dsyn
+6803,6823|C0812399|creatinine clearance|fndg
+6826,6828;6832,6835|C3842955|30 min|fndg
+6863,6883|C0812399|creatinine clearance|fndg
+6887,6889;6893,6896|C3842955|30 min|fndg
+6913,6923|C3714514|Infections|patf
+7193,7205|C0029456|osteoporosis|dsyn
+7224,7234|C3714514|infections|patf
+7248,7253|C1306577|death|fndg
+7351,7361|C3714514|infections|patf
+7449,7459|C3714514|infections|patf
+7607,7619|C0014118|Endocarditis|dsyn
+7693,7708|C0037278|Skin infections|dsyn
+7693,7708|C1853193|Skin infections|fndg
+7720,7730|C0014733|erysipelas|dsyn
+7735,7745|C0007642|cellulitis|patf
+7735,7745|C2025995|cellulitis|fndg
+7891,7915|C0029118|opportunistic infections|dsyn
+8012,8030|C2360800|number of patients|fndg
+8106,8116|C0011603|dermatitis|dsyn
+8118,8124|C0013595|eczema|dsyn
+8130,8136|C0015230|rashes|sosy
+8346,8362;8367,8370|C2711248|Osteonecrosis of Jaw|dsyn
+8372,8375|C2711248|ONJ|dsyn
+8401,8413|C0029456|osteoporosis|dsyn
+8520,8528|C0741302|Atypical|fndg
+8560,8569;8578,8590|C0521170|Fractures osteoporosis|dsyn
+8615,8623|C0741302|atypical|fndg
+8624,8641|C0015802|femoral fractures|inpo
+8732,8740;8749,8757|C3495700|atypical fracture|inpo
+8732,8740|C0741302|atypical|fndg
+8741,8757|C0015802|femoral fracture|inpo
+8846,8858|C0030305|Pancreatitis|dsyn
+8846,8858|C1963198|Pancreatitis|fndg
+9088,9093|C1306577|death|fndg
+9144,9167|C3887021|history of pancreatitis|fndg
+9250,9262|C0006826|Malignancies|neop
+9293,9305|C0006826|malignancies|neop
+9365,9377|C0006826|malignancies|neop
+9378,9385|C0445223|related|fndg
+9432,9451|C1335757|reproductive system|fndg
+9488,9511|C1333803|gastrointestinal system|fndg
+9676,9688|C0029456|Osteoporosis|dsyn
+9745,9757|C0029456|osteoporosis|dsyn
+9783,9793|C3815594|randomized|fndg
+9966,9972|C0087136|single|fndg
+10237,10259|C1519255|serious adverse events|fndg
+10514,10526|C0029456|osteoporosis|dsyn
+10602,10611|C0004604|back pain|sosy
+10602,10611|C1963071|back pain|fndg
+10644,10654|C0003862|arthralgia|sosy
+10691,10706|C0027441|nasopharyngitis|dsyn
+10753,10763|C3714514|Infections|patf
+10791,10799;10805,10812|C0747307|reported patient|fndg
+10953,10963|C0011603|dermatitis|dsyn
+10965,10971|C0013595|eczema|dsyn
+10977,10983|C0015230|rashes|sosy
+11090,11106;11111,11114|C2711248|Osteonecrosis of Jaw|dsyn
+11153,11165|C0030305|Pancreatitis|dsyn
+11153,11165|C1963198|Pancreatitis|fndg
+11184,11192;11198,11205|C0747307|reported patient|fndg
+11287,11299|C0006826|Malignancies|neop
+11393,11409|C0376358|prostate cancers|neop
+11413,11433|C0007117|basal cell carcinoma|neop
+11413,11433|C3811653|basal cell carcinoma|neop
+11475,11484|C0029453|Bone Loss|dsyn
+11540,11555|C0376358|Prostate Cancer|neop
+11540,11555|C0600139|Prostate Cancer|neop
+11661,11670|C0029453|bone loss|dsyn
+11697,11712|C0376358|prostate cancer|neop
+11697,11712|C0600139|prostate cancer|neop
+11784,11794|C3815594|randomized|fndg
+11999,12005|C0087136|single|fndg
+12161,12183|C1519255|serious adverse events|fndg
+12435,12444|C0029453|bone loss|dsyn
+12448,12453;12473,12486|C0007104|women breast cancer|neop
+12448,12453;12473,12486|C0235653|women breast cancer|neop
+12523,12530|C1363945|therapy|fndg
+12557,12567|C3815594|randomized|fndg
+12792,12798|C0087136|single|fndg
+12956,12978|C1519255|serious adverse events|fndg
+13270,13285|C0376358|prostate cancer|neop
+13270,13285|C0600139|prostate cancer|neop
+13391,13401|C0003862|arthralgia|sosy
+13439,13448|C0004604|back pain|sosy
+13439,13448|C1963071|back pain|fndg
+13483,13500|C0030196|Pain in extremity|sosy
+13536,13556|C0026858|musculoskeletal pain|fndg
+13686,13701|C0376358|prostate cancer|neop
+13686,13701|C0600139|prostate cancer|neop
+13740,13749|C0086543|cataracts|acab
+13740,13749|C0521707|cataracts|acab
+13795,13807|C0020598|Hypocalcemia|dsyn
+14033,14042|C0087130|uncertain|fndg
+14211,14221|C1550043|identified|fndg
+14265,14269;14278,14304|C0013182|Drug hypersensitivity reactions|dsyn
+14265,14269;14278,14304|C3662272|Drug hypersensitivity reactions|dsyn
+14265,14269;14278,14304|C0455589|Drug hypersensitivity reactions|fndg
+14270,14277|C0445223|related|fndg
+14306,14317|C0002792|anaphylaxis|patf
+14306,14317|C0850803|anaphylaxis|dsyn
+14319,14323|C0015230|rash|sosy
+14325,14334|C0042109|urticaria|dsyn
+14325,14334|C2186740|urticaria|fndg
+14336,14351|C0151602|facial swelling|fndg
+14357,14365|C0041834|erythema|dsyn
+14373,14385|C0020598|Hypocalcemia|dsyn
+14406,14418|C0020598|hypocalcemia|dsyn
+14424,14444|C0026858|Musculoskeletal pain|fndg
+14555,14571|C1565489|renal impairment|dsyn
+14573,14593|C0812399|creatinine clearance|fndg
+14596,14598;14602,14605|C3842955|30 min|fndg
+14680,14690|C0746619|monoclonal|fndg
+15205,15213|C0600688|toxicity|inpo
+15226,15243|C4055223|clinical response|fndg
+15445,15453|C1514241|positive|fndg
+15497,15501|C0456984|test|fndg
+15502,15508|C2825142|result|fndg
+15662,15669|C0012634|disease|dsyn

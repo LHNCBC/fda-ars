@@ -1,0 +1,107 @@
+139,165|C0020517|Hypersensitivity reactions|patf
+213,234;247,255|C0235952|Clostridium difficile diarrhea|dsyn
+381,387|C0027497|nausea|sosy
+381,387|C1963179|nausea|patf
+389,397|C0011991|diarrhea|sosy
+389,397|C1963091|diarrhea|fndg
+399,407|C0018681|headache|sosy
+399,407|C2096315|headache|fndg
+412,419|C0015967|pyrexia|fndg
+711,721|C0012634|conditions|dsyn
+965,975|C2911690|controlled|fndg
+1374,1382;1386,1389|C4062450|65 years age|fndg
+1726,1732|C0027497|nausea|sosy
+1726,1732|C1963179|nausea|patf
+1734,1742|C0011991|diarrhea|sosy
+1734,1742|C1963091|diarrhea|fndg
+1744,1752|C0018681|headache|sosy
+1744,1752|C2096315|headache|fndg
+1758,1765|C0015967|pyrexia|fndg
+2035,2061|C1112209|Intra-abdominal Infections|dsyn
+2075,2099|C0042029|Urinary Tract Infections|dsyn
+2075,2099|C0262655|Urinary Tract Infections|dsyn
+2111,2125|C0034186|Pyelonephritis|dsyn
+2224,2230|C0027497|Nausea|sosy
+2224,2230|C1963179|Nausea|patf
+2337,2345|C0018681|Headache|sosy
+2337,2345|C2096315|Headache|fndg
+2450,2458|C0011991|Diarrhea|sosy
+2450,2458|C1963091|Diarrhea|fndg
+2563,2570|C0015967|Pyrexia|fndg
+2676,2688|C0009806|Constipation|sosy
+2676,2688|C1963087|Constipation|fndg
+2789,2797|C0917801|Insomnia|sosy
+2789,2797|C1963237|Insomnia|fndg
+2902,2910|C0042963|Vomiting|sosy
+2902,2910|C1963281|Vomiting|patf
+3015,3026|C0020621|Hypokalemia|fndg
+3128,3131|C1266129|ALT|neop
+3354,3360|C0002871|Anemia|dsyn
+3467,3481|C0836924|Thrombocytosis|dsyn
+3580,3594|C0000737|Abdominal pain|sosy
+3693,3700|C0003467|Anxiety|mobd
+3693,3700|C0003469|Anxiety|mobd
+3693,3700|C0860603|Anxiety|fndg
+3806,3815|C0012833|Dizziness|sosy
+3806,3815|C0042571|Dizziness|sosy
+3806,3815|C1963093|Dizziness|fndg
+3919,3930|C0020649|Hypotension|fndg
+3919,3930|C3163620|Hypotension|fndg
+4032,4051|C0004238|Atrial fibrillation|dsyn
+4032,4051|C1963067|Atrial fibrillation|fndg
+4145,4149|C0015230|Rash|sosy
+4278,4293|C1444662|discontinuation|fndg
+4432,4448|C1565489|Renal impairment|dsyn
+4470,4486|C1565489|renal impairment|dsyn
+4488,4501|C0035078|renal failure|dsyn
+4488,4501|C1963154|renal failure|patf
+4507,4520|C0035078|renal failure|dsyn
+4507,4520|C1963154|renal failure|patf
+4535,4550|C1444662|discontinuation|fndg
+4711,4716|C1306577|death|fndg
+4830,4845|C0007465|causes of death|fndg
+4866,4875|C1457868|worsening|fndg
+4883,4896;4900,4909|C0940933|complications infection|dsyn
+4934,4944|C0012634|conditions|dsyn
+5111,5128|C0018799|Cardiac disorders|dsyn
+5130,5141|C0039231|tachycardia|patf
+5130,5141|C3827868|tachycardia|fndg
+5143,5158|C0002962|angina pectoris|fndg
+5168,5194|C0017178|Gastrointestinal disorders|dsyn
+5196,5201|C1258215|ileus|dsyn
+5196,5201|C4019039|ileus|dsyn
+5203,5212|C0017152|gastritis|dsyn
+5214,5234|C0000731|abdominal distension|fndg
+5236,5245|C0013395|dyspepsia|sosy
+5247,5257|C0016204|flatulence|sosy
+5247,5257|C1962956|flatulence|fndg
+5259,5264|C1258215|ileus|dsyn
+5259,5264|C4019039|ileus|dsyn
+5292,5301|C0012634|disorders|dsyn
+5326,5336|C0012634|conditions|dsyn
+5338,5361|C2609445|infusion site reactions|patf
+5371,5381|C3714514|Infections|patf
+5386,5398|C0851341|infestations|dsyn
+5400,5411|C0006840|candidiasis|dsyn
+5435,5458|C0042029|urinary tract infection|dsyn
+5435,5458|C0262655|urinary tract infection|dsyn
+5620,5639|C3714509|nutrition disorders|dsyn
+5641,5654|C0020456|hyperglycemia|dsyn
+5656,5670|C0151723|hypomagnesemia|fndg
+5672,5688|C0085682|hypophosphatemia|patf
+5672,5688|C0595888|hypophosphatemia|fndg
+5724,5739|C3272363|ischemic stroke|dsyn
+5724,5739|C0948008|ischemic stroke|dsyn
+5759,5773|C1291658|urinary system|fndg
+5775,5791|C1565489|renal impairment|dsyn
+5793,5806|C0035078|renal failure|dsyn
+5793,5806|C1963154|renal failure|patf
+5842,5863|C0025061|mediastinal disorders|dsyn
+5865,5872|C0013404|dyspnea|sosy
+5891,5903;5911,5920|C0549584|subcutaneous disorders|dsyn
+5911,5920|C0012634|disorders|dsyn
+5922,5931|C0042109|urticaria|dsyn
+5922,5931|C2186740|urticaria|fndg
+5941,5959|C0042373|Vascular disorders|dsyn
+5961,5978|C0042487|venous thrombosis|patf
+5961,5978|C0517555|venous thrombosis|fndg

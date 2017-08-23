@@ -1,0 +1,674 @@
+T1	AdverseReaction 54 72	Cardiac toxicities
+T2	AdverseReaction 81 96	cardiac failure
+T3	AdverseReaction 101 122	myocardial infarction
+T4	AdverseReaction 128 133	fatal
+T5	AdverseReaction 147 166	myocardial ischemia
+T6	AdverseReaction 226 245	Acute Renal Failure
+T7	AdverseReaction 299 319	Tumor Lysis Syndrome
+T8	AdverseReaction 321 324	TLS
+T9	AdverseReaction 454 472	Pulmonary Toxicity
+T10	AdverseReaction 484 519	Acute Respiratory Distress Syndrome
+T11	AdverseReaction 521 546	acute respiratory failure
+T12	AdverseReaction 552 596	acute diffuse infiltrative pulmonary disease
+T13	AdverseReaction 655 677	Pulmonary Hypertension
+T14	AdverseReaction 727 734	Dyspnea
+T15	AdverseReaction 825 837	Hypertension
+T16	AdverseReaction 848 867	hypertensive crisis
+T17	AdverseReaction 1034 1051	Venous Thrombosis
+T18	AdverseReaction 1105 1123	Infusion Reactions
+T19	AdverseReaction 1183 1199	Thrombocytopenia
+T20	AdverseReaction 1313 1329	Hepatic Toxicity
+T21	AdverseReaction 1334 1349	Hepatic Failure
+T22	AdverseReaction 1424 1459	Thrombotic thrombocytopenic purpura
+T23	AdverseReaction 1460 1485	hemolytic uremic syndrome
+T24	AdverseReaction 1487 1490	TTP
+T25	AdverseReaction 1491 1494	HUS
+T26	AdverseReaction 1593 1637	Posterior reversible encephalopathy syndrome
+T27	AdverseReaction 1639 1643	PRES
+T29	AdverseReaction 1829 1839	fetal harm
+T30	Factor 1819 1822	can
+T31	AdverseReaction 1990 1999;2029 2044	New onset cardiac failure
+T32	AdverseReaction 2003 2044	worsening of pre-existing cardiac failure
+T33	AdverseReaction 2052 2076	congestive heart failure
+T34	AdverseReaction 2078 2093	pulmonary edema
+T35	AdverseReaction 2095 2122	decreased ejection fraction
+T36	AdverseReaction 2125 2151	restrictive cardiomyopathy
+T37	AdverseReaction 2153 2172	myocardial ischemia
+T38	AdverseReaction 2178 2199	myocardial infarction
+T39	AdverseReaction 2210 2220	fatalities
+T40	AdverseReaction 2394 2399	Death
+T41	AdverseReaction 2407 2421	cardiac arrest
+T42	AdverseReaction 3520 3539	acute renal failure
+T43	AdverseReaction 3586 3620	Renal insufficiency adverse events
+T44	AdverseReaction 3622 3638	renal impairment
+T45	AdverseReaction 3640 3659	acute renal failure
+T46	AdverseReaction 3661 3674	renal failure
+T47	AdverseReaction 3762 3781	Acute renal failure
+T48	AdverseReaction 4297 4317	tumor lysis syndrome
+T49	AdverseReaction 4319 4322	TLS
+T50	AdverseReaction 4335 4340	fatal
+T51	AdverseReaction 4946 4981	Acute Respiratory Distress Syndrome
+T52	AdverseReaction 4983 4987	ARDS
+T53	AdverseReaction 4990 5015	acute respiratory failure
+T54	AdverseReaction 5021 5065	acute diffuse infiltrative pulmonary disease
+T55	AdverseReaction 5074 5085	pneumonitis
+T56	AdverseReaction 5090 5115	interstitial lung disease
+T57	AdverseReaction 5200 5205	fatal
+T58	AdverseReaction 5366 5397	Pulmonary arterial hypertension
+T59	AdverseReaction 5399 5402	PAH
+T60	Severity 5479 5486	Grade 3
+T61	AdverseReaction 5824 5831	Dyspnea
+T62	Severity 5894 5901	Grade 3
+T67	AdverseReaction 6400 6412	Hypertension
+T68	AdverseReaction 6424 6443	hypertensive crisis
+T69	AdverseReaction 6448 6470	hypertensive emergency
+T70	AdverseReaction 6536 6541	fatal
+T71	AdverseReaction 6830 6858	Venous thromboembolic events
+T72	AdverseReaction 6870 6892	deep venous thrombosis
+T73	AdverseReaction 6897 6915	pulmonary embolism
+T74	AdverseReaction 6994 7022	venous thromboembolic events
+T75	AdverseReaction 7160 7188	venous thromboembolic events
+T76	AdverseReaction 7384 7402	Infusion reactions
+T77	Severity 7414 7430	life-threatening
+T78	AdverseReaction 7505 7510	fever
+T79	AdverseReaction 7512 7518	chills
+T80	AdverseReaction 7520 7530	arthralgia
+T81	AdverseReaction 7532 7539	myalgia
+T82	AdverseReaction 7541 7556	facial flushing
+T83	AdverseReaction 7558 7570	facial edema
+T84	AdverseReaction 7572 7580	vomiting
+T85	AdverseReaction 7582 7590	weakness
+T86	AdverseReaction 7592 7611	shortness of breath
+T87	AdverseReaction 7613 7624	hypotension
+T88	AdverseReaction 7626 7633	syncope
+T89	AdverseReaction 7635 7650	chest tightness
+T90	AdverseReaction 7655 7661	angina
+T91	AdverseReaction 8140 8156	thrombocytopenia
+T92	AdverseReaction 8349 8365	Thrombocytopenia
+T93	AdverseReaction 8665 8680	hepatic failure
+T94	AdverseReaction 8692 8697	fatal
+T95	AdverseReaction 8782 8811	increased serum transaminases
+T96	Factor 8772 8775	can
+T97	AdverseReaction 9053 9088	thrombotic thrombocytopenic purpura
+T98	AdverseReaction 9089 9114	hemolytic uremic syndrome
+T99	AdverseReaction 9116 9119	TTP
+T100	AdverseReaction 9120 9123	HUS
+T101	AdverseReaction 9135 9140	fatal
+T102	AdverseReaction 9559 9563	PRES
+T117	AdverseReaction 10226 10236	fetal harm
+T118	Factor 10216 10219	can
+T119	AdverseReaction 10436 10457	embryo-fetal toxicity
+T120	Animal 10470 10477	rabbits
+T28	AdverseReaction 8162 8177	platelet nadirs
+T63	AdverseReaction 1787 1808	Embryo-fetal Toxicity
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E29	AdverseReaction:T29 Hypothetical:E30
+E30	Factor:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58 Effect:E60
+E59	AdverseReaction:T59 Effect:E60
+E60	Severity:T60
+E61	AdverseReaction:T58
+E62	AdverseReaction:T59
+E63	AdverseReaction:T61 Effect:E64
+E64	Severity:T62
+E65	AdverseReaction:T61
+E70	AdverseReaction:T67
+E71	AdverseReaction:T68
+E72	AdverseReaction:T69
+E73	AdverseReaction:T70
+E74	AdverseReaction:T71
+E75	AdverseReaction:T72
+E76	AdverseReaction:T73
+E77	AdverseReaction:T74
+E78	AdverseReaction:T75
+E79	AdverseReaction:T76 Effect:E80
+E80	Severity:T77
+E81	AdverseReaction:T76
+E82	AdverseReaction:T78
+E83	AdverseReaction:T79
+E84	AdverseReaction:T80
+E85	AdverseReaction:T81
+E86	AdverseReaction:T82
+E87	AdverseReaction:T83
+E88	AdverseReaction:T84
+E89	AdverseReaction:T85
+E90	AdverseReaction:T86
+E91	AdverseReaction:T87
+E92	AdverseReaction:T88
+E93	AdverseReaction:T89
+E94	AdverseReaction:T90
+E95	AdverseReaction:T91
+E96	AdverseReaction:T92
+E97	AdverseReaction:T93
+E98	AdverseReaction:T94
+E99	AdverseReaction:T95 Hypothetical:E100
+E100	Factor:T96
+E101	AdverseReaction:T97
+E102	AdverseReaction:T98
+E103	AdverseReaction:T99
+E104	AdverseReaction:T100
+E105	AdverseReaction:T101
+E106	AdverseReaction:T102
+E121	AdverseReaction:T117 Hypothetical:E122
+E122	Factor:T118
+E123	AdverseReaction:T119 Hypothetical:E124
+E124	Animal:T120
+E28	AdverseReaction:T28
+E66	AdverseReaction:T63
+A1	CUI E1 C0876994
+A2	UMLS-Preferred-Name E1 Cardiotoxicity
+A3	MEDDRA-PT E1 Cardiotoxicity
+A4	MEDDRA-PT-ID E1 10048610
+A5	CUI E2 C0018801
+A6	UMLS-Preferred-Name E2 Heart failure
+A7	MEDDRA-PT E2 Cardiac failure
+A8	MEDDRA-PT-ID E2 10007554
+A9	CUI E3 C0027051
+A10	UMLS-Preferred-Name E3 Myocardial Infarction
+A11	MEDDRA-PT E3 Myocardial infarction
+A12	MEDDRA-PT-ID E3 10028596
+A13	CUI E4 C1306577
+A14	UMLS-Preferred-Name E4 Death (finding)
+A15	MEDDRA-PT E4 Death
+A16	MEDDRA-PT-ID E4 10011906
+A17	CUI E5 C0151744
+A18	UMLS-Preferred-Name E5 Myocardial Ischemia
+A19	MEDDRA-PT E5 Myocardial ischaemia
+A20	MEDDRA-PT-ID E5 10028600
+A21	LLT E5 Myocardial ischemia
+A22	LLT-ID E5 10028601
+A23	CUI E6 C0022660
+A24	UMLS-Preferred-Name E6 Kidney Failure, Acute
+A25	MEDDRA-PT E6 Acute kidney injury
+A26	MEDDRA-PT-ID E6 10069339
+A27	LLT E6 Acute renal failure
+A28	LLT-ID E6 10001041
+A29	CUI E7 C0041364
+A30	UMLS-Preferred-Name E7 Tumor Lysis Syndrome
+A31	MEDDRA-PT E7 Tumour lysis syndrome
+A32	MEDDRA-PT-ID E7 10045170
+A33	LLT E7 Tumor lysis syndrome
+A34	LLT-ID E7 10045152
+A35	CUI E8 C0041364
+A36	UMLS-Preferred-Name E8 Tumor Lysis Syndrome
+A37	MEDDRA-PT E8 Tumour lysis syndrome
+A38	MEDDRA-PT-ID E8 10045170
+A39	LLT E8 Tumor lysis syndrome
+A40	LLT-ID E8 10045152
+A41	CUI E9 C0919924
+A42	UMLS-Preferred-Name E9 Pulmonary toxicity
+A43	MEDDRA-PT E9 Pulmonary toxicity
+A44	MEDDRA-PT-ID E9 10061924
+A45	CUI E10 C0035222
+A46	UMLS-Preferred-Name E10 Respiratory Distress Syndrome, Adult
+A47	MEDDRA-PT E10 Acute respiratory distress syndrome
+A48	MEDDRA-PT-ID E10 10001052
+A49	CUI E11 C0264490
+A50	UMLS-Preferred-Name E11 Acute respiratory failure
+A51	MEDDRA-PT E11 Acute respiratory failure
+A52	MEDDRA-PT-ID E11 10001053
+A53	CUI E12 C1735346
+A54	UMLS-Preferred-Name E12 Acute diffuse infiltrative lung disease
+A55	MEDDRA-PT E12 Interstitial lung disease
+A56	MEDDRA-PT-ID E12 10022611
+A57	LLT E12 Acute diffuse infiltrative lung disease
+A58	LLT-ID E12 10066153
+A59	CUI E13 C0020542
+A60	UMLS-Preferred-Name E13 Pulmonary Hypertension
+A61	MEDDRA-PT E13 Pulmonary hypertension
+A62	MEDDRA-PT-ID E13 10037400
+A63	CUI E14 C0013404
+A64	UMLS-Preferred-Name E14 Dyspnea
+A65	MEDDRA-PT E14 Dyspnoea
+A66	MEDDRA-PT-ID E14 10013968
+A67	LLT E14 Dyspnea
+A68	LLT-ID E14 10013963
+A69	CUI E15 C0020538
+A70	UMLS-Preferred-Name E15 Hypertensive disease
+A71	MEDDRA-PT E15 Hypertension
+A72	MEDDRA-PT-ID E15 10020772
+A73	CUI E16 C0020546
+A74	UMLS-Preferred-Name E16 Hypertensive crisis
+A75	MEDDRA-PT E16 Hypertensive crisis
+A76	MEDDRA-PT-ID E16 10020802
+A77	CUI E17 C0042487
+A78	UMLS-Preferred-Name E17 Venous Thrombosis
+A79	MEDDRA-PT E17 Venous thrombosis
+A80	MEDDRA-PT-ID E17 10047249
+A81	CUI E18 C0948715
+A82	UMLS-Preferred-Name E18 Infusion related reaction
+A83	MEDDRA-PT E18 Infusion related reaction
+A84	MEDDRA-PT-ID E18 10051792
+A85	CUI E19 C0040034
+A86	UMLS-Preferred-Name E19 Thrombocytopenia
+A87	MEDDRA-PT E19 Thrombocytopenia
+A88	MEDDRA-PT-ID E19 10043554
+A89	CUI E20 C0348754
+A90	UMLS-Preferred-Name E20 Toxic liver disease
+A91	MEDDRA-PT E20 Hepatotoxicity
+A92	MEDDRA-PT-ID E20 10019851
+A93	CUI E21 C0085605
+A94	UMLS-Preferred-Name E21 Liver Failure
+A95	MEDDRA-PT E21 Hepatic failure
+A96	MEDDRA-PT-ID E21 10019663
+A97	CUI E22 C0034155
+A98	UMLS-Preferred-Name E22 Purpura, Thrombotic Thrombocytopenic
+A99	MEDDRA-PT E22 Thrombotic thrombocytopenic purpura
+A100	MEDDRA-PT-ID E22 10043648
+A101	CUI E23 C0019061
+A102	UMLS-Preferred-Name E23 Hemolytic-Uremic Syndrome
+A103	MEDDRA-PT E23 Haemolytic uraemic syndrome
+A104	MEDDRA-PT-ID E23 10018932
+A105	LLT E23 Hemolytic uremic syndrome
+A106	LLT-ID E23 10019515
+A107	CUI E24 C0034155
+A108	UMLS-Preferred-Name E24 Purpura, Thrombotic Thrombocytopenic
+A109	MEDDRA-PT E24 Thrombotic thrombocytopenic purpura
+A110	MEDDRA-PT-ID E24 10043648
+A111	CUI E25 C0019061
+A112	UMLS-Preferred-Name E25 Hemolytic-Uremic Syndrome
+A113	MEDDRA-PT E25 Haemolytic uraemic syndrome
+A114	MEDDRA-PT-ID E25 10018932
+A115	LLT E25 HUS
+A116	LLT-ID E25 10020472
+A117	CUI E26 C3160858
+A118	UMLS-Preferred-Name E26 Posterior reversible encephalopathy syndrome
+A119	MEDDRA-PT E26 Posterior reversible encephalopathy syndrome
+A120	MEDDRA-PT-ID E26 10071066
+A121	CUI E27 C3160858
+A122	UMLS-Preferred-Name E27 Posterior reversible encephalopathy syndrome
+A123	MEDDRA-PT E27 Posterior reversible encephalopathy syndrome
+A124	MEDDRA-PT-ID E27 10071066
+A125	CUI E29 C0854268
+A126	UMLS-Preferred-Name E29 Foetal damage
+A127	MEDDRA-PT E29 Foetal damage
+A128	MEDDRA-PT-ID E29 10016852
+A129	LLT E29 Fetal damage
+A130	LLT-ID E29 10054743
+A131	CUI E31 C0018801
+A132	UMLS-Preferred-Name E31 Heart failure
+A133	MEDDRA-PT E31 Cardiac failure
+A134	MEDDRA-PT-ID E31 10007554
+A135	CUI E32 C0235875
+A136	UMLS-Preferred-Name E32 Cardiac failure aggravated
+A137	MEDDRA-PT E32 Cardiac failure
+A138	MEDDRA-PT-ID E32 10007554
+A139	LLT E32 Cardiac failure aggravated
+A140	LLT-ID E32 10007557
+A141	CUI E33 C0018802
+A142	UMLS-Preferred-Name E33 Congestive heart failure
+A143	MEDDRA-PT E33 Cardiac failure congestive
+A144	MEDDRA-PT-ID E33 10007559
+A145	LLT E33 Congestive heart failure
+A146	LLT-ID E33 10010684
+A147	CUI E34 C0034063
+A148	UMLS-Preferred-Name E34 Pulmonary Edema
+A149	MEDDRA-PT E34 Pulmonary oedema
+A150	MEDDRA-PT-ID E34 10037423
+A151	LLT E34 Pulmonary edema
+A152	LLT-ID E34 10037375
+A153	CUI E35 C0743400
+A154	UMLS-Preferred-Name E35 Ejection fraction decreased
+A155	MEDDRA-PT E35 Ejection fraction decreased
+A156	MEDDRA-PT-ID E35 10050528
+A157	CUI E36 C0007196
+A158	UMLS-Preferred-Name E36 Restrictive cardiomyopathy
+A159	MEDDRA-PT E36 Restrictive cardiomyopathy
+A160	MEDDRA-PT-ID E36 10038748
+A161	CUI E37 C0151744
+A162	UMLS-Preferred-Name E37 Myocardial Ischemia
+A163	MEDDRA-PT E37 Myocardial ischaemia
+A164	MEDDRA-PT-ID E37 10028600
+A165	LLT E37 Myocardial ischemia
+A166	LLT-ID E37 10028601
+A167	CUI E38 C0027051
+A168	UMLS-Preferred-Name E38 Myocardial Infarction
+A169	MEDDRA-PT E38 Myocardial infarction
+A170	MEDDRA-PT-ID E38 10028596
+A171	CUI E39 C1306577
+A172	UMLS-Preferred-Name E39 Death (finding)
+A173	MEDDRA-PT E39 Death
+A174	MEDDRA-PT-ID E39 10011906
+A175	CUI E40 C1306577
+A176	UMLS-Preferred-Name E40 Death (finding)
+A177	MEDDRA-PT E40 Death
+A178	MEDDRA-PT-ID E40 10011906
+A179	CUI E41 C0018790
+A180	UMLS-Preferred-Name E41 Cardiac Arrest
+A181	MEDDRA-PT E41 Cardiac arrest
+A182	MEDDRA-PT-ID E41 10007515
+A183	CUI E42 C0022660
+A184	UMLS-Preferred-Name E42 Kidney Failure, Acute
+A185	MEDDRA-PT E42 Acute kidney injury
+A186	MEDDRA-PT-ID E42 10069339
+A187	LLT E42 Acute renal failure
+A188	LLT-ID E42 10001041
+A189	CUI E43 C1565489
+A190	UMLS-Preferred-Name E43 Renal Insufficiency
+A191	MEDDRA-PT E43 Renal failure
+A192	MEDDRA-PT-ID E43 10038435
+A193	LLT E43 Renal insufficiency
+A194	LLT-ID E43 10038474
+A195	CUI E44 C1565489
+A196	UMLS-Preferred-Name E44 Renal Insufficiency
+A197	MEDDRA-PT E44 Renal impairment
+A198	MEDDRA-PT-ID E44 10062237
+A199	CUI E45 C0022660
+A200	UMLS-Preferred-Name E45 Kidney Failure, Acute
+A201	MEDDRA-PT E45 Acute kidney injury
+A202	MEDDRA-PT-ID E45 10069339
+A203	LLT E45 Acute renal failure
+A204	LLT-ID E45 10001041
+A205	CUI E46 C0035078
+A206	UMLS-Preferred-Name E46 Kidney Failure
+A207	MEDDRA-PT E46 Renal failure
+A208	MEDDRA-PT-ID E46 10038435
+A209	CUI E47 C0022660
+A210	UMLS-Preferred-Name E47 Kidney Failure, Acute
+A211	MEDDRA-PT E47 Acute kidney injury
+A212	MEDDRA-PT-ID E47 10069339
+A213	LLT E47 Acute renal failure
+A214	LLT-ID E47 10001041
+A215	CUI E48 C0041364
+A216	UMLS-Preferred-Name E48 Tumor Lysis Syndrome
+A217	MEDDRA-PT E48 Tumour lysis syndrome
+A218	MEDDRA-PT-ID E48 10045170
+A219	LLT E48 Tumor lysis syndrome
+A220	LLT-ID E48 10045152
+A221	CUI E49 C0041364
+A222	UMLS-Preferred-Name E49 Tumor Lysis Syndrome
+A223	MEDDRA-PT E49 Tumour lysis syndrome
+A224	MEDDRA-PT-ID E49 10045170
+A225	LLT E49 Tumor lysis syndrome
+A226	LLT-ID E49 10045152
+A227	CUI E50 C1306577
+A228	UMLS-Preferred-Name E50 Death (finding)
+A229	MEDDRA-PT E50 Death
+A230	MEDDRA-PT-ID E50 10011906
+A231	CUI E51 C0035222
+A232	UMLS-Preferred-Name E51 Respiratory Distress Syndrome, Adult
+A233	MEDDRA-PT E51 Acute respiratory distress syndrome
+A234	MEDDRA-PT-ID E51 10001052
+A235	CUI E52 C0035222
+A236	UMLS-Preferred-Name E52 Respiratory Distress Syndrome, Adult
+A237	MEDDRA-PT E52 Acute respiratory distress syndrome
+A238	MEDDRA-PT-ID E52 10001052
+A239	LLT E52 ARDS
+A240	LLT-ID E52 10003083
+A241	CUI E53 C0264490
+A242	UMLS-Preferred-Name E53 Acute respiratory failure
+A243	MEDDRA-PT E53 Acute respiratory failure
+A244	MEDDRA-PT-ID E53 10001053
+A245	CUI E54 C1735346
+A246	UMLS-Preferred-Name E54 Acute diffuse infiltrative lung disease
+A247	MEDDRA-PT E54 Interstitial lung disease
+A248	MEDDRA-PT-ID E54 10022611
+A249	LLT E54 Acute diffuse infiltrative lung disease
+A250	LLT-ID E54 10066153
+A251	CUI E55 C3714636
+A252	UMLS-Preferred-Name E55 Pneumonitis
+A253	MEDDRA-PT E55 Pneumonitis
+A254	MEDDRA-PT-ID E55 10035742
+A255	CUI E56 C0206062
+A256	UMLS-Preferred-Name E56 Lung Diseases, Interstitial
+A257	MEDDRA-PT E56 Interstitial lung disease
+A258	MEDDRA-PT-ID E56 10022611
+A259	CUI E57 C1306577
+A260	UMLS-Preferred-Name E57 Death (finding)
+A261	MEDDRA-PT E57 Death
+A262	MEDDRA-PT-ID E57 10011906
+A263	CUI E58 C2973725
+A264	UMLS-Preferred-Name E58 Pulmonary arterial hypertension
+A265	MEDDRA-PT E58 Pulmonary arterial hypertension
+A266	MEDDRA-PT-ID E58 10064911
+A267	CUI E59 C2973725
+A268	UMLS-Preferred-Name E59 Pulmonary arterial hypertension
+A269	MEDDRA-PT E59 Pulmonary arterial hypertension
+A270	MEDDRA-PT-ID E59 10064911
+A271	CUI E63 C0013404
+A272	UMLS-Preferred-Name E63 Dyspnea
+A273	MEDDRA-PT E63 Dyspnoea
+A274	MEDDRA-PT-ID E63 10013968
+A275	LLT E63 Dyspnea
+A276	LLT-ID E63 10013963
+A277	CUI E70 C0020538
+A278	UMLS-Preferred-Name E70 Hypertensive disease
+A279	MEDDRA-PT E70 Hypertension
+A280	MEDDRA-PT-ID E70 10020772
+A281	CUI E71 C0020546
+A282	UMLS-Preferred-Name E71 Hypertensive crisis
+A283	MEDDRA-PT E71 Hypertensive crisis
+A284	MEDDRA-PT-ID E71 10020802
+A285	CUI E72 C0745136
+A286	UMLS-Preferred-Name E72 Hypertensive emergency
+A287	MEDDRA-PT E72 Hypertensive emergency
+A288	MEDDRA-PT-ID E72 10058179
+A289	CUI E73 C1306577
+A290	UMLS-Preferred-Name E73 Death (finding)
+A291	MEDDRA-PT E73 Death
+A292	MEDDRA-PT-ID E73 10011906
+A293	CUI E74 C1861172
+A294	UMLS-Preferred-Name E74 Venous Thromboembolism
+A295	MEDDRA-PT E74 Embolism venous
+A296	MEDDRA-PT-ID E74 10014522
+A297	LLT E74 Venous thromboembolism
+A298	LLT-ID E74 10066899
+A299	CUI E75 C0149871
+A300	UMLS-Preferred-Name E75 Deep Vein Thrombosis
+A301	MEDDRA-PT E75 Deep vein thrombosis
+A302	MEDDRA-PT-ID E75 10051055
+A303	LLT E75 Thrombosis venous deep
+A304	LLT-ID E75 10043642
+A305	CUI E76 C0034065
+A306	UMLS-Preferred-Name E76 Pulmonary Embolism
+A307	MEDDRA-PT E76 Pulmonary embolism
+A308	MEDDRA-PT-ID E76 10037377
+A309	CUI E77 C1861172
+A310	UMLS-Preferred-Name E77 Venous Thromboembolism
+A311	MEDDRA-PT E77 Embolism venous
+A312	MEDDRA-PT-ID E77 10014522
+A313	LLT E77 Venous thromboembolism
+A314	LLT-ID E77 10066899
+A315	CUI E78 C1861172
+A316	UMLS-Preferred-Name E78 Venous Thromboembolism
+A317	MEDDRA-PT E78 Embolism venous
+A318	MEDDRA-PT-ID E78 10014522
+A319	LLT E78 Venous thromboembolism
+A320	LLT-ID E78 10066899
+A321	CUI E79 C0948715
+A322	UMLS-Preferred-Name E79 Infusion related reaction
+A323	MEDDRA-PT E79 Infusion related reaction
+A324	MEDDRA-PT-ID E79 10051792
+A325	CUI E82 C0015967
+A326	UMLS-Preferred-Name E82 Fever
+A327	MEDDRA-PT E82 Pyrexia
+A328	MEDDRA-PT-ID E82 10037660
+A329	LLT E82 Fever
+A330	LLT-ID E82 10016558
+A331	CUI E83 C0085593
+A332	UMLS-Preferred-Name E83 Chills
+A333	MEDDRA-PT E83 Chills
+A334	MEDDRA-PT-ID E83 10008531
+A335	CUI E84 C0003862
+A336	UMLS-Preferred-Name E84 Arthralgia
+A337	MEDDRA-PT E84 Arthralgia
+A338	MEDDRA-PT-ID E84 10003239
+A339	CUI E85 C0231528
+A340	UMLS-Preferred-Name E85 Myalgia
+A341	MEDDRA-PT E85 Myalgia
+A342	MEDDRA-PT-ID E85 10028411
+A343	CUI E86 C0016382
+A344	UMLS-Preferred-Name E86 Flushing
+A345	MEDDRA-PT E86 Flushing
+A346	MEDDRA-PT-ID E86 10016825
+A347	LLT E86 Facial flushing
+A348	LLT-ID E86 10016046
+A349	CUI E87 C0542571
+A350	UMLS-Preferred-Name E87 Facial edema
+A351	MEDDRA-PT E87 Face oedema
+A352	MEDDRA-PT-ID E87 10016029
+A353	LLT E87 Face edema
+A354	LLT-ID E87 10016025
+A355	CUI E88 C0042963
+A356	UMLS-Preferred-Name E88 Vomiting
+A357	MEDDRA-PT E88 Vomiting
+A358	MEDDRA-PT-ID E88 10047700
+A359	CUI E89 C3714552
+A360	UMLS-Preferred-Name E89 Weakness
+A361	MEDDRA-PT E89 Asthenia
+A362	MEDDRA-PT-ID E89 10003549
+A363	LLT E89 Weakness
+A364	LLT-ID E89 10047862
+A365	CUI E90 C0013404
+A366	UMLS-Preferred-Name E90 Dyspnea
+A367	MEDDRA-PT E90 Dyspnoea
+A368	MEDDRA-PT-ID E90 10013968
+A369	LLT E90 Shortness of breath
+A370	LLT-ID E90 10040604
+A371	CUI E91 C0020649
+A372	UMLS-Preferred-Name E91 Hypotension
+A373	MEDDRA-PT E91 Hypotension
+A374	MEDDRA-PT-ID E91 10021097
+A375	CUI E92 C0039070
+A376	UMLS-Preferred-Name E92 Syncope
+A377	MEDDRA-PT E92 Syncope
+A378	MEDDRA-PT-ID E92 10042772
+A379	CUI E93 C0232292
+A380	UMLS-Preferred-Name E93 Chest tightness
+A381	MEDDRA-PT E93 Chest discomfort
+A382	MEDDRA-PT-ID E93 10008469
+A383	LLT E93 Chest tightness
+A384	LLT-ID E93 10008492
+A385	CUI E94 C0002962
+A386	UMLS-Preferred-Name E94 Angina Pectoris
+A387	MEDDRA-PT E94 Angina pectoris
+A388	MEDDRA-PT-ID E94 10002383
+A389	LLT E94 Angina
+A390	LLT-ID E94 10002372
+A391	CUI E95 C0040034
+A392	UMLS-Preferred-Name E95 Thrombocytopenia
+A393	MEDDRA-PT E95 Thrombocytopenia
+A394	MEDDRA-PT-ID E95 10043554
+A395	CUI E96 C0040034
+A396	UMLS-Preferred-Name E96 Thrombocytopenia
+A397	MEDDRA-PT E96 Thrombocytopenia
+A398	MEDDRA-PT-ID E96 10043554
+A399	CUI E97 C0085605
+A400	UMLS-Preferred-Name E97 Liver Failure
+A401	MEDDRA-PT E97 Hepatic failure
+A402	MEDDRA-PT-ID E97 10019663
+A403	CUI E98 C1306577
+A404	UMLS-Preferred-Name E98 Death (finding)
+A405	MEDDRA-PT E98 Death
+A406	MEDDRA-PT-ID E98 10011906
+A407	CUI E99 C0859350
+A408	UMLS-Preferred-Name E99 Serum transaminase increased
+A409	MEDDRA-PT E99 Transaminases increased
+A410	MEDDRA-PT-ID E99 10054889
+A411	LLT E99 Serum transaminase increased
+A412	LLT-ID E99 10040421
+A413	CUI E101 C0034155
+A414	UMLS-Preferred-Name E101 Purpura, Thrombotic Thrombocytopenic
+A415	MEDDRA-PT E101 Thrombotic thrombocytopenic purpura
+A416	MEDDRA-PT-ID E101 10043648
+A417	CUI E102 C0019061
+A418	UMLS-Preferred-Name E102 Hemolytic-Uremic Syndrome
+A419	MEDDRA-PT E102 Haemolytic uraemic syndrome
+A420	MEDDRA-PT-ID E102 10018932
+A421	LLT E102 Hemolytic uremic syndrome
+A422	LLT-ID E102 10019515
+A423	CUI E103 C0034155
+A424	UMLS-Preferred-Name E103 Purpura, Thrombotic Thrombocytopenic
+A425	MEDDRA-PT E103 Thrombotic thrombocytopenic purpura
+A426	MEDDRA-PT-ID E103 10043648
+A427	CUI E104 C0019061
+A428	UMLS-Preferred-Name E104 Hemolytic-Uremic Syndrome
+A429	MEDDRA-PT E104 Haemolytic uraemic syndrome
+A430	MEDDRA-PT-ID E104 10018932
+A431	LLT E104 HUS
+A432	LLT-ID E104 10020472
+A433	CUI E105 C1306577
+A434	UMLS-Preferred-Name E105 Death (finding)
+A435	MEDDRA-PT E105 Death
+A436	MEDDRA-PT-ID E105 10011906
+A437	CUI E106 C3160858
+A438	UMLS-Preferred-Name E106 Posterior reversible encephalopathy syndrome
+A439	MEDDRA-PT E106 Posterior reversible encephalopathy syndrome
+A440	MEDDRA-PT-ID E106 10071066
+A441	CUI E121 C0854268
+A442	UMLS-Preferred-Name E121 Foetal damage
+A443	MEDDRA-PT E121 Foetal damage
+A444	MEDDRA-PT-ID E121 10016852
+A445	LLT E121 Fetal damage
+A446	LLT-ID E121 10054743
+A447	CUI E123 C0270009
+A448	UMLS-Preferred-Name E123 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A449	MEDDRA-PT E123 Maternal drugs affecting foetus
+A450	MEDDRA-PT-ID E123 10026923
+A451	LLT E123 Drug toxicity NEC affecting foetus
+A452	LLT-ID E123 10013750
+A453	CUI E28 C0392386
+A454	UMLS-Preferred-Name E28 Decreased platelet count
+A455	MEDDRA-PT E28 Platelet count decreased
+A456	MEDDRA-PT-ID E28 10035528
+A457	LLT E28 Low platelets
+A458	LLT-ID E28 10024922
+A459	CUI E66 C0270009
+A460	UMLS-Preferred-Name E66 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A461	MEDDRA-PT E66 Maternal drugs affecting foetus
+A462	MEDDRA-PT-ID E66 10026923
+A463	LLT E66 Drug toxicity NEC affecting foetus
+A464	LLT-ID E66 10013750

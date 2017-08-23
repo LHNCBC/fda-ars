@@ -1,0 +1,223 @@
+T1	AdverseReaction 53 74	Thyroid C-cell Tumors
+T2	AdverseReaction 111 123	Pancreatitis
+T3	AdverseReaction 355 367	Hypoglycemia
+T4	AdverseReaction 566 582	Hypersensitivity
+T5	AdverseReaction 728 744	Renal Impairment
+T6	Animal 1118 1122	rats
+T7	AdverseReaction 1220 1241	thyroid C-cell tumors
+T8	AdverseReaction 1220 1234;1243 1251	thyroid C-cell adenomas
+T9	AdverseReaction 1220 1234;1256 1266	thyroid C-cell carcinomas
+T10	AdverseReaction 1396 1419	thyroid C-cell adenomas
+T11	AdverseReaction 1396 1410;1424 1434	thyroid C-cell carcinomas
+T12	Animal 1438 1442	mice
+T13	AdverseReaction 1529 1550	thyroid C-cell tumors
+T14	AdverseReaction 1562 1589	medullary thyroid carcinoma
+T15	AdverseReaction 1591 1594	MTC
+T16	Animal 1654 1660	rodent
+T17	AdverseReaction 1661 1682	thyroid C-cell tumors
+T18	AdverseReaction 1727 1730	MTC
+T19	AdverseReaction 1893 1896	MTC
+T20	DrugClass 1943 1965	GLP-1 receptor agonist
+T21	AdverseReaction 2112 2115	MTC
+T22	AdverseReaction 3242 3254	pancreatitis
+T23	AdverseReaction 3465 3477	pancreatitis
+T24	AdverseReaction 4161 4173	hypoglycemia
+T25	AdverseReaction 4478 4503	Systemic hypersensitivity
+T26	AdverseReaction 4853 4872	acute renal failure
+T27	AdverseReaction 4890 4911	chronic renal failure
+T28	DrugClass 4787 4810	GLP-1 receptor agonists
+T29	AdverseReaction 5113 5119	nausea
+T30	AdverseReaction 5121 5129	vomiting
+T31	AdverseReaction 5131 5139	diarrhea
+T32	AdverseReaction 5144 5155	dehydration
+T33	AdverseReaction 5585 5619	gastrointestinal adverse reactions
+T34	Severity 5631 5637	severe
+T35	Animal 1447 1451	rats
+T36	Factor 4153 4157	risk
+T37	Factor 1492 1499	unknown
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	Animal:T6
+E7	AdverseReaction:T7 Hypothetical:E6
+E8	AdverseReaction:T8 Hypothetical:E6
+E9	AdverseReaction:T9 Hypothetical:E6
+E10	AdverseReaction:T10 Hypothetical:E12
+E11	AdverseReaction:T11 Hypothetical:E12 Hypothetical2:E36 Hypothetical3:E36
+E12	Animal:T12
+E13	AdverseReaction:T13 Hypothetical:E16 Hypothetical2:E38
+E14	AdverseReaction:T14 Hypothetical:E16 Hypothetical2:E38
+E15	AdverseReaction:T15 Hypothetical:E16 Hypothetical2:E38
+E16	Animal:T16
+E17	AdverseReaction:T17 Hypothetical:E16
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19 Hypothetical:E20
+E20	DrugClass:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24 Hypothetical:E37
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26 Hypothetical:E28
+E27	AdverseReaction:T27 Hypothetical:E28
+E28	DrugClass:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T33 Effect:E35
+E35	Severity:T34
+E36	Animal:T35
+E37	Factor:T36
+E38	Factor:T37
+A1	flag E1 duplicate
+A2	CUI E1 C0342190
+A3	UMLS-Preferred-Name E1 C-cell hyperplasia of thyroid
+A4	MEDDRA-PT E1 Thyroid C-cell hyperplasia
+A5	MEDDRA-PT-ID E1 10070568
+A6	CUI E2 C0030305
+A7	UMLS-Preferred-Name E2 Pancreatitis
+A8	MEDDRA-PT E2 Pancreatitis
+A9	MEDDRA-PT-ID E2 10033645
+A10	CUI E3 C0020615
+A11	UMLS-Preferred-Name E3 Hypoglycemia
+A12	MEDDRA-PT E3 Hypoglycaemia
+A13	MEDDRA-PT-ID E3 10020993
+A14	LLT E3 Hypoglycemia
+A15	LLT-ID E3 10021005
+A16	CUI E4 C0020517
+A17	UMLS-Preferred-Name E4 Hypersensitivity
+A18	MEDDRA-PT E4 Hypersensitivity
+A19	MEDDRA-PT-ID E4 10020751
+A20	CUI E5 C1565489
+A21	UMLS-Preferred-Name E5 Renal Insufficiency
+A22	MEDDRA-PT E5 Renal impairment
+A23	MEDDRA-PT-ID E5 10062237
+A24	flag E7 duplicate
+A25	CUI E7 C0342190
+A26	UMLS-Preferred-Name E7 C-cell hyperplasia of thyroid
+A27	MEDDRA-PT E7 Thyroid C-cell hyperplasia
+A28	MEDDRA-PT-ID E7 10070568
+A29	flag E8 duplicate
+A30	CUI E8 C0342190
+A31	UMLS-Preferred-Name E8 C-cell hyperplasia of thyroid
+A32	MEDDRA-PT E8 Thyroid C-cell hyperplasia
+A33	MEDDRA-PT-ID E8 10070568
+A34	flag E9 duplicate
+A35	CUI E9 C0549473
+A36	UMLS-Preferred-Name E9 Thyroid carcinoma
+A37	MEDDRA-PT E9 Thyroid cancer
+A38	MEDDRA-PT-ID E9 10066474
+A39	LLT E9 Thyroid carcinoma
+A40	LLT-ID E9 10043702
+A41	flag E10 duplicate
+A42	CUI E10 C0342190
+A43	UMLS-Preferred-Name E10 C-cell hyperplasia of thyroid
+A44	MEDDRA-PT E10 Thyroid C-cell hyperplasia
+A45	MEDDRA-PT-ID E10 10070568
+A46	flag E11 duplicate
+A47	CUI E11 C0549473
+A48	UMLS-Preferred-Name E11 Thyroid carcinoma
+A49	MEDDRA-PT E11 Thyroid cancer
+A50	MEDDRA-PT-ID E11 10066474
+A51	LLT E11 Thyroid carcinoma
+A52	LLT-ID E11 10043702
+A53	flag E13 duplicate
+A54	CUI E13 C0342190
+A55	UMLS-Preferred-Name E13 C-cell hyperplasia of thyroid
+A56	MEDDRA-PT E13 Thyroid C-cell hyperplasia
+A57	MEDDRA-PT-ID E13 10070568
+A58	CUI E14 C0238462
+A59	UMLS-Preferred-Name E14 Medullary carcinoma of thyroid
+A60	MEDDRA-PT E14 Medullary thyroid cancer
+A61	MEDDRA-PT-ID E14 10027105
+A62	LLT E14 Medullary carcinoma of thyroid
+A63	LLT-ID E14 10027101
+A64	CUI E15 C0238462
+A65	UMLS-Preferred-Name E15 Medullary carcinoma of thyroid
+A66	MEDDRA-PT E15 Medullary thyroid cancer
+A67	MEDDRA-PT-ID E15 10027105
+A68	LLT E15 Medullary carcinoma of thyroid
+A69	LLT-ID E15 10027101
+A70	flag E17 duplicate
+A71	CUI E17 C0342190
+A72	UMLS-Preferred-Name E17 C-cell hyperplasia of thyroid
+A73	MEDDRA-PT E17 Thyroid C-cell hyperplasia
+A74	MEDDRA-PT-ID E17 10070568
+A75	CUI E18 C0238462
+A76	UMLS-Preferred-Name E18 Medullary carcinoma of thyroid
+A77	MEDDRA-PT E18 Medullary thyroid cancer
+A78	MEDDRA-PT-ID E18 10027105
+A79	LLT E18 Medullary carcinoma of thyroid
+A80	LLT-ID E18 10027101
+A81	CUI E19 C0238462
+A82	UMLS-Preferred-Name E19 Medullary carcinoma of thyroid
+A83	MEDDRA-PT E19 Medullary thyroid cancer
+A84	MEDDRA-PT-ID E19 10027105
+A85	LLT E19 Medullary carcinoma of thyroid
+A86	LLT-ID E19 10027101
+A87	CUI E21 C0238462
+A88	UMLS-Preferred-Name E21 Medullary carcinoma of thyroid
+A89	MEDDRA-PT E21 Medullary thyroid cancer
+A90	MEDDRA-PT-ID E21 10027105
+A91	LLT E21 Medullary carcinoma of thyroid
+A92	LLT-ID E21 10027101
+A93	CUI E22 C0030305
+A94	UMLS-Preferred-Name E22 Pancreatitis
+A95	MEDDRA-PT E22 Pancreatitis
+A96	MEDDRA-PT-ID E22 10033645
+A97	CUI E23 C0030305
+A98	UMLS-Preferred-Name E23 Pancreatitis
+A99	MEDDRA-PT E23 Pancreatitis
+A100	MEDDRA-PT-ID E23 10033645
+A101	CUI E24 C0020615
+A102	UMLS-Preferred-Name E24 Hypoglycemia
+A103	MEDDRA-PT E24 Hypoglycaemia
+A104	MEDDRA-PT-ID E24 10020993
+A105	LLT E24 Hypoglycemia
+A106	LLT-ID E24 10021005
+A107	CUI E25 C1736167
+A108	UMLS-Preferred-Name E25 Systemic allergic reaction
+A109	MEDDRA-PT E25 Hypersensitivity
+A110	MEDDRA-PT-ID E25 10020751
+A111	LLT E25 Systemic allergic reaction
+A112	LLT-ID E25 10066472
+A113	CUI E26 C0022660
+A114	UMLS-Preferred-Name E26 Kidney Failure, Acute
+A115	MEDDRA-PT E26 Acute kidney injury
+A116	MEDDRA-PT-ID E26 10069339
+A117	LLT E26 Acute renal failure
+A118	LLT-ID E26 10001041
+A119	CUI E27 C0022661
+A120	UMLS-Preferred-Name E27 Kidney Failure, Chronic
+A121	MEDDRA-PT E27 Chronic kidney disease
+A122	MEDDRA-PT-ID E27 10064848
+A123	LLT E27 Chronic renal failure
+A124	LLT-ID E27 10009119
+A125	CUI E29 C0027497
+A126	UMLS-Preferred-Name E29 Nausea
+A127	MEDDRA-PT E29 Nausea
+A128	MEDDRA-PT-ID E29 10028813
+A129	CUI E30 C0042963
+A130	UMLS-Preferred-Name E30 Vomiting
+A131	MEDDRA-PT E30 Vomiting
+A132	MEDDRA-PT-ID E30 10047700
+A133	CUI E31 C0011991
+A134	UMLS-Preferred-Name E31 Diarrhea
+A135	MEDDRA-PT E31 Diarrhoea
+A136	MEDDRA-PT-ID E31 10012735
+A137	LLT E31 Diarrhea
+A138	LLT-ID E31 10012727
+A139	CUI E32 C0011175
+A140	UMLS-Preferred-Name E32 Dehydration
+A141	MEDDRA-PT E32 Dehydration
+A142	MEDDRA-PT-ID E32 10012174
+A143	CUI E33 C0426576
+A144	UMLS-Preferred-Name E33 Gastrointestinal symptom
+A145	MEDDRA-PT E33 Gastrointestinal disorder
+A146	MEDDRA-PT-ID E33 10017944
+A147	LLT E33 Gastrointestinal symptom NOS
+A148	LLT-ID E33 10018011

@@ -1,0 +1,24 @@
+00000000|MMI|79.81|Muscle Spasticity|C0026838|[sosy]|["SPASTICITY"-tx-11-"spasticity"-noun-0,"SPASTICITY"-tx-6-"spasticity"-noun-0,"SPASTICITY"-tx-5-"spasticity"-noun-0]|TX|1702/10;941/10;[709/10],[770/10]|C05.651.512;C10.597.613.550.550;C23.888.592.608.550.550
+00000000|MMI|48.39|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-11-"symptoms"-noun-0,"SYMPTOMS"-tx-9-"symptoms"-noun-0,"SYMPTOMS"-tx-8-"symptoms"-noun-0,"SYMPTOMS"-tx-5-"symptoms"-noun-0,"SYMPTOMS"-tx-3-"symptoms"-noun-0,"SYMPTOMS"-tx-1-"symptoms"-noun-0]|TX|[1648/8],[1717/8],[1850/8];1476/8;1420/8;[655/8],[724/8],[901/8];483/8;253/8|
+00000000|MMI|44.63|Dyspnea|C0013404|[sosy]|["Breathing Difficulties"-tx-10-"breathing difficulties"-noun-0,"Breathing Difficulties"-tx-4-"breathing difficulties"-noun-0,"Breathing Difficulties"-tx-2-"breathing difficulties"-noun-0]|TX|1551/22;558/22;453/22|C08.618.326;C23.888.852.371
+00000000|MMI|30.50|Disease|C0012634|[dsyn]|["condition"-tx-11-"conditions"-noun-0,"condition"-tx-5-"conditions"-noun-0]|TX|1803/10;[791/10],[854/10]|C23.550.288
+00000000|MMI|30.42|Dysarthria|C0013362|[mobd]|["DYSARTHRIA"-tx-2-"dysarthria"-noun-0]|TX|416/10|C10.597.606.150.500.800.150.200;C23.888.592.604.150.500.800.150.200
+00000000|MMI|20.95|Cervical Dystonia|C0949445|[sosy]|["Cervical Dystonia"-tx-6-"cervical dystonia"-noun-0]|TX|1093/17|C10.228.662.300.750;C10.597.350.300.800;C23.888.592.350.300.800
+00000000|MMI|20.95|Diplopia|C0012569|[fndg]|["DIPLOPIA"-tx-2-"diplopia"-noun-0]|TX|360/8|C10.597.751.941.339;C11.966.339;C23.888.592.763.941.339
+00000000|MMI|17.80|Dysphonia|C1527344|[fndg]|["DYSPHONIA"-tx-2-"dysphonia"-noun-0]|TX|405/9|C08.360.940.325;C09.400.940.325;C10.597.975.325;C23.888.592.979.325
+00000000|MMI|17.80|Hoarseness|C0019825|[sosy]|["Dysphonia"-tx-2-"dysphonia"-noun-0]|TX|405/9|C08.360.940.490;C08.618.490;C09.400.940.490;C10.597.975.550;C23.888.592.979.550;C23.888.852.490
+00000000|MMI|17.80|Urinary Incontinence|C0042024|[patf]|["URINARY INCONTINENCE"-tx-2-"urinary incontinence"-noun-0]|TX|428/20|C12.777.934.852;C13.351.968.934.814;C23.888.942.343.800
+00000000|MMI|14.64|Deglutition Disorders|C0011168|[dsyn]|["DYSPHAGIA"-tx-2-"dysphagia"-noun-0]|TX|394/9|C06.405.117.119;C09.775.174
+00000000|MMI|11.49|Asthenia|C0004093|[sosy]|["ASTHENIA"-tx-2-"asthenia"-noun-0]|TX|321/8|C23.888.089
+00000000|MMI|11.49|Blepharoptosis|C0005745|[anab]|["PTOSIS"-tx-2-"ptosis"-noun-0]|TX|386/6|C11.338.204
+00000000|MMI|11.49|Ptosis|C0033377|[dsyn]|["PTOSIS"-tx-2-"ptosis"-noun-0]|TX|386/6|C23.300.842
+00000000|MMI|11.32|Received therapy or drug for|C0332154|[fndg]|["Treated for"-tx-11-"treated for"-verb-0,"Treated for"-tx-5-"treated for"-verb-0]|TX|1690/11;[697/11],[758/11]|
+00000000|MMI|10.42|Does swallow|C0740170|[fndg]|["Swallowing"-tx-10-"Swallowing"-noun-0,"Swallowing"-tx-4-"Swallowing"-noun-0]|TX|1536/10;543/10|
+00000000|MMI|10.42|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-10-"life threatening"-adj-0,"Life Threatening"-tx-4-"life threatening"-adj-0]|TX|1581/16;588/16|
+00000000|MMI|10.42|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-10-"life threatening"-adj-0,"LIFE THREATENING"-tx-4-"life threatening"-adj-0]|TX|1581/16;588/16|
+00000000|MMI|10.42|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-10-"life threatening"-adj-0,"LIFE THREATENING"-tx-4-"life threatening"-adj-0]|TX|1581/16;588/16|
+00000000|MMI|6.94|Death (finding)|C1306577|[fndg]|["Death"-tx-10-"death"-noun-0,"Death"-tx-4-"death"-noun-0]|TX|1629/5;636/5|
+00000000|MMI|5.18|Blurred vision|C0344232|[sosy]|["BLURRED VISION"-tx-2-"blurred vision"-noun-0]|TX|370/14|
+00000000|MMI|5.18|Generalized muscle weakness|C0746674|[sosy]|["Generalized Muscle Weakness"-tx-2-"generalized muscle weakness"-noun-0]|TX|331/27|
+00000000|MMI|5.18|Urinary Incontinence Adverse Event|C1962973|[fndg]|["Incontinence, urinary"-tx-2-"urinary incontinence"-noun-0]|TX|428/20|
+00000000|MMI|3.44|Used by|C1273517|[fndg]|["used"-tx-6-"used"-adj-0]|TX|1079/4|

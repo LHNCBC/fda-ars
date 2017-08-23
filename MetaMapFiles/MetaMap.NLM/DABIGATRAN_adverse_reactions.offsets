@@ -1,0 +1,181 @@
+90,97|C0445223|related|fndg
+101,109|C0019080|bleeding|patf
+212,221|C0017152|gastritis|dsyn
+227,235|C1457887|symptoms|sosy
+240,248|C0019080|bleeding|patf
+558,568|C0012634|conditions|dsyn
+793,799|C0038454|Stroke|dsyn
+813,821|C0013922|Embolism|patf
+813,821|C1704212|Embolism|fndg
+838,857|C0004238|Atrial Fibrillation|dsyn
+838,857|C1963067|Atrial Fibrillation|fndg
+877,887|C3815594|Randomized|fndg
+1058,1077|C2360800|numbers of patients|fndg
+1124,1131|C2674459|Limited|fndg
+1996,2011|C1444662|Discontinuation|fndg
+2083,2098|C1444662|discontinuation|fndg
+2196,2211|C1444662|discontinuation|fndg
+2228,2236|C0019080|bleeding|patf
+2272,2281|C0013395|dyspepsia|sosy
+2283,2289|C0027497|nausea|sosy
+2283,2289|C1963179|nausea|patf
+2291,2311|C0232492|upper abdominal pain|sosy
+2313,2340|C0017181|gastrointestinal hemorrhage|patf
+2346,2354|C0011991|diarrhea|sosy
+2346,2354|C1963091|diarrhea|fndg
+2373,2381|C0019080|Bleeding|patf
+2479,2493|C3160769|major bleeding|patf
+2558,2566|C0019080|bleeding|patf
+2605,2613|C0019080|bleeding|patf
+2628,2636|C0019080|bleeding|patf
+2684,2706|C0162119|decrease in hemoglobin|fndg
+2774,2785;2797,2801|C1820679|bleeding at site|fndg
+2812,2825|C0206277|fatal outcome|patf
+2827,2850|C0151699|Intracranial hemorrhage|patf
+2875,2893|C0553692|hemorrhagic stroke|dsyn
+2914,2929|C0018946|subdural bleeds|patf
+2955,2969|C3160769|Major Bleeding|patf
+3074,3088|C3160769|Major bleeding|patf
+3414,3418;3428,3429|C3840903|drug 2|fndg
+3610,3618|C0019080|bleeding|patf
+3666,3688|C0162119|decrease in hemoglobin|fndg
+3762,3773;3785,3789|C1820679|bleeding at site|fndg
+3798,3811|C0206277|fatal outcome|patf
+3828,3833|C0019080|bleed|patf
+3858,3876|C0553692|hemorrhagic stroke|dsyn
+3897,3912|C0018946|subdural bleeds|patf
+4045,4050|C0019080|bleed|patf
+4064,4075|C3160769|major bleed|patf
+4120,4133|C0206277|fatal outcome|patf
+4150,4155;4169,4174|C0007465|death cause|fndg
+4180,4188|C0019080|bleeding|patf
+4196,4208;4215,4220|C0151699|intracranial bleed|patf
+4209,4214|C1705232|fatal|fndg
+4234,4245|C3160769|major bleed|patf
+4279,4284;4298,4303|C0007465|death cause|fndg
+4309,4317|C0019080|bleeding|patf
+4342,4360|C0151699|intracranial bleed|patf
+4455,4458|C0017665|mgN|dsyn
+4568,4582|C3160769|Major Bleeding|patf
+4682,4705|C0151699|Intracranial Hemorrhage|patf
+4808,4826|C0553692|Hemorrhagic Stroke|dsyn
+4929,4932|C0151699|ICH|patf
+5142,5147|C1705232|Fatal|fndg
+5148,5156|C0019080|Bleeding|patf
+5256,5259|C0151699|ICH|patf
+5510,5533|C0017181|gastrointestinal bleeds|patf
+5654,5666|C3160769|major bleeds|patf
+5874,5882|C0019080|bleeding|patf
+5948,5956|C3840862|75 years|fndg
+5998,6006|C0019080|Bleeding|patf
+6045,6063|C0553692|Hemorrhagic Stroke|dsyn
+6712,6721|C0013395|dyspepsia|sosy
+6733,6753|C0232492|abdominal pain upper|sosy
+6771,6791|C0232487|abdominal discomfort|sosy
+6797,6818|C1291078|epigastric discomfort|sosy
+6797,6818|C0232570|epigastric discomfort|fndg
+6824,6833|C0017152|gastritis|dsyn
+6839,6847|C1457887|symptoms|sosy
+6859,6863|C0017168|GERD|dsyn
+6865,6876|C0014868|esophagitis|dsyn
+6865,6876|C1963106|esophagitis|fndg
+6878,6895|C0267112|erosive gastritis|dsyn
+6878,6895|C2243088|erosive gastritis|dsyn
+6878,6895|C3854048|erosive gastritis|dsyn
+6897,6915|C0235325|gastric hemorrhage|dsyn
+6917,6938|C0267112|hemorrhagic gastritis|dsyn
+6917,6938|C2243088|hemorrhagic gastritis|dsyn
+6917,6938|C2010560|hemorrhagic gastritis|dsyn
+6940,6969|C2242494|hemorrhagic erosive gastritis|dsyn
+6975,6997|C0237938|gastrointestinal ulcer|dsyn
+7016,7042|C0020517|Hypersensitivity Reactions|patf
+7073,7094|C0013182|drug hypersensitivity|dsyn
+7106,7115|C0042109|urticaria|dsyn
+7106,7115|C2186740|urticaria|fndg
+7117,7121|C0015230|rash|sosy
+7127,7135|C0033774|pruritus|sosy
+7138,7152|C0847033|allergic edema|dsyn
+7154,7175|C0002792|anaphylactic reaction|patf
+7181,7199|C0002792|anaphylactic shock|patf
+7321,7343|C0149871|Deep Venous Thrombosis|dsyn
+7348,7366|C0034065|Pulmonary Embolism|dsyn
+7436,7446|C3815594|randomized|fndg
+7503,7513|C2911690|controlled|fndg
+7924,7928|C1846718|CrCl|fndg
+7950,7958|C0019080|Bleeding|patf
+8011,8025|C3160769|major bleeding|patf
+8084,8089|C1705232|fatal|fndg
+8090,8098|C0019080|bleeding|patf
+8090,8098|C0019080|bleeding|patf
+8112,8120|C0019080|bleeding|patf
+8112,8120|C0019080|bleeding|patf
+8211,8231|C0009492|compartment syndrome|dsyn
+8233,8257|C0151705|retroperitoneal bleeding|fndg
+8259,8283|C0018924|intra-articular bleeding|patf
+8288,8308|C0019064|pericardial bleeding|patf
+8311,8319|C0019080|bleeding|patf
+8311,8319|C0019080|bleeding|patf
+8330,8334|C0085639|fall|fndg
+8568,8570;8576,8591|C0042487|of vein thrombosis|patf
+8596,8614|C0034065|pulmonary embolism|dsyn
+8837,8855|C2360800|number of patients|fndg
+8869,8877|C0019080|bleeding|patf
+9056,9064|C0019080|Bleeding|patf
+9208,9216|C0019080|Bleeding|patf
+9296,9304|C0019080|bleeding|patf
+9487,9495|C0019080|Bleeding|patf
+9707,9715|C0019080|bleeding|patf
+9950,9953;9975,9979;9997,10017|C1279805|for risk deep vein thrombosis|fndg
+10022,10040|C0034065|pulmonary embolism|dsyn
+10068,10078|C2911690|controlled|fndg
+10249,10255|C3841382|rolled|fndg
+10396,10414|C2360800|number of patients|fndg
+10428,10436|C0019080|bleeding|patf
+10470,10478|C0019080|Bleeding|patf
+10605,10613|C0019080|Bleeding|patf
+10693,10701|C0019080|bleeding|patf
+10864,10872|C0019080|Bleeding|patf
+11104,11112|C0019080|bleeding|patf
+11162,11185|C0017181|gastrointestinal bleeds|patf
+11449,11455|C3841382|rolled|fndg
+11584,11602|C2360800|number of patients|fndg
+11616,11624|C0019080|bleeding|patf
+11658,11666|C0019080|Bleeding|patf
+11795,11803|C0019080|Bleeding|patf
+11883,11891|C0019080|bleeding|patf
+12064,12072|C0019080|bleeding|patf
+12082,12090|C0019080|bleeding|patf
+12142,12165|C0017181|gastrointestinal bleeds|patf
+12246,12267|C0027051|Myocardial Infarction|dsyn
+12290,12300|C2911690|controlled|fndg
+12340,12361|C0027051|myocardial infarction|dsyn
+12952,12961|C0013395|Dyspepsia|sosy
+12973,12993|C0232492|abdominal pain upper|sosy
+13011,13031|C0232487|abdominal discomfort|sosy
+13037,13058|C1291078|epigastric discomfort|sosy
+13037,13058|C0232570|epigastric discomfort|fndg
+13126,13135|C0017152|gastritis|dsyn
+13141,13149|C1457887|symptoms|sosy
+13161,13170|C0017152|gastritis|dsyn
+13172,13176|C0017168|GERD|dsyn
+13178,13189|C0014868|esophagitis|dsyn
+13178,13189|C1963106|esophagitis|fndg
+13191,13208|C0267112|erosive gastritis|dsyn
+13191,13208|C2243088|erosive gastritis|dsyn
+13191,13208|C3854048|erosive gastritis|dsyn
+13213,13231|C0235325|gastric hemorrhage|dsyn
+13280,13306|C0020517|Hypersensitivity Reactions|patf
+13334,13355|C0013182|drug hypersensitivity|dsyn
+13367,13376|C0042109|urticaria|dsyn
+13367,13376|C2186740|urticaria|fndg
+13378,13382|C0015230|rash|sosy
+13388,13396|C0033774|pruritus|sosy
+13399,13413|C0847033|allergic edema|dsyn
+13415,13436|C0002792|anaphylactic reaction|patf
+13442,13460|C0002792|anaphylactic shock|patf
+13594,13604|C1550043|identified|fndg
+13712,13721|C0087130|uncertain|fndg
+13886,13896|C1550043|identified|fndg
+13934,13944|C0002994|angioedema|patf
+13946,13962|C0040034|thrombocytopenia|fndg
+13964,13980|C0151970|esophageal ulcer|dsyn

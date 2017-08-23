@@ -1,0 +1,371 @@
+64,73|C1457868|Worsening|fndg
+74,86|C0563664|Suicide Risk|fndg
+109,118|C1457868|worsening|fndg
+123,135|C0563664|suicide risk|fndg
+155,173|C0024586|Serotonin Syndrome|dsyn
+155,173|C0699828|Serotonin Syndrome|inpo
+175,193|C0024586|Serotonin syndrome|dsyn
+175,193|C0699828|Serotonin syndrome|inpo
+478,486|C1457887|symptoms|sosy
+494,505|C1444662|discontinue|fndg
+698,716|C0024586|serotonin syndrome|dsyn
+698,716|C0699828|serotonin syndrome|inpo
+797,820|C0020538|Elevated Blood Pressure|dsyn
+797,820|C0497247|Elevated Blood Pressure|fndg
+941,958|C1458140|Abnormal Bleeding|patf
+989,997|C0019080|bleeding|patf
+1037,1045|C0019080|bleeding|patf
+1168,1190|C0017605|Angle Closure Glaucoma|dsyn
+1192,1214|C0017605|Angle closure glaucoma|dsyn
+1245,1254|C0332155|untreated|fndg
+1268,1281|C1410927|narrow angles|dsyn
+1344,1349|C0338831|Mania|mobd
+1350,1359|C0241934|Hypomania|fndg
+1393,1409|C0005586|Bipolar Disorder|mobd
+1456,1461|C0338831|mania|mobd
+1462,1471|C0241934|hypomania|fndg
+1491,1506|C1444662|Discontinuation|fndg
+1507,1515|C0039082|Syndrome|dsyn
+1558,1573|C1444662|discontinuation|fndg
+1574,1582|C1457887|symptoms|sosy
+1602,1609|C0036572|Seizure|sosy
+1602,1609|C1959629|Seizure|fndg
+1654,1670|C0014544|seizure disorder|dsyn
+1690,1702|C0020625|Hyponatremia|dsyn
+1734,1739|C0021141|SIADH|patf
+1759,1784|C0206062|Interstitial Lung Disease|dsyn
+1789,1811|C1527407|Eosinophilic Pneumonia|dsyn
+1789,1811|C0034068|Eosinophilic Pneumonia|dsyn
+1851,1868|C0424000|Suicidal Thoughts|fndg
+1944,1969|C1269683|major depressive disorder|mobd
+1944,1969|C0041696|major depressive disorder|mobd
+2018,2027|C1457868|worsening|fndg
+2037,2047|C0011570|depression|mobd
+2037,2047|C0011581|depression|mobd
+2037,2047|C1579931|depression|sosy
+2037,2047|C0344315|depression|fndg
+2072,2089|C0424000|suicidal ideation|fndg
+2120,2147|C1997335|unusual changes in behavior|fndg
+2173,2194|C2054147|taking antidepressant|fndg
+2252,2261|C0687702|remission|neop
+2252,2261|C0544452|remission|fndg
+2270,2277|C0038661|Suicide|fndg
+2297,2307|C0011570|depression|mobd
+2297,2307|C0011581|depression|mobd
+2297,2307|C1579931|depression|sosy
+2297,2307|C0344315|depression|fndg
+2359,2368|C0012634|disorders|dsyn
+2412,2419|C0038661|suicide|fndg
+2519,2528|C1457868|worsening|fndg
+2532,2542|C0011570|depression|mobd
+2532,2542|C0011581|depression|mobd
+2532,2542|C1579931|depression|sosy
+2532,2542|C0344315|depression|fndg
+2779,2787|C0438696|suicidal|fndg
+2788,2796|C0233629|thinking|mobd
+2888,2913|C1269683|major depressive disorder|mobd
+2888,2913|C0041696|major depressive disorder|mobd
+2915,2918|C1269683|MDD|mobd
+2915,2918|C0041696|MDD|mobd
+3269,3272|C1269683|MDD|mobd
+3269,3272|C0041696|MDD|mobd
+3274,3303|C0600104|obsessive compulsive disorder|mobd
+3274,3303|C0028768|obsessive compulsive disorder|mobd
+3499,3502|C1269683|MDD|mobd
+3499,3502|C0041696|MDD|mobd
+3545,3550;3569,3576|C0947343|total studies|fndg
+3935,3938|C1269683|MDD|mobd
+3935,3938|C0041696|MDD|mobd
+4204,4205;4229,4233|C3843494|1 Drug|fndg
+4959,4967|C0038661|suicides|fndg
+5054,5065|C0728867|drug effect|patf
+5280,5290|C0011570|depression|mobd
+5280,5290|C0011581|depression|mobd
+5280,5290|C1579931|depression|sosy
+5280,5290|C0344315|depression|fndg
+5351,5361|C0011570|depression|mobd
+5351,5361|C0011581|depression|mobd
+5351,5361|C1579931|depression|sosy
+5351,5361|C0344315|depression|fndg
+5503,5512|C1457868|worsening|fndg
+5531,5558|C1997335|unusual changes in behavior|fndg
+5659,5665|C3844638|either|fndg
+5710,5718|C1457887|symptoms|sosy
+5720,5727|C0003467|anxiety|mobd
+5720,5727|C0003469|anxiety|mobd
+5720,5727|C0860603|anxiety|fndg
+5729,5738|C0085631|agitation|sosy
+5740,5753|C0086769|panic attacks|mobd
+5755,5763|C0917801|insomnia|sosy
+5755,5763|C1963237|insomnia|fndg
+5765,5777|C0022107|irritability|fndg
+5790,5804|C0001807|aggressiveness|mobd
+5790,5804|C1457883|aggressiveness|mobd
+5819,5828|C0392156|akathisia|sosy
+5830,5854|C3887612|psychomotor restlessness|fndg
+5857,5866|C0241934|hypomania|fndg
+5872,5877|C0338831|mania|mobd
+5969,5994|C1269683|major depressive disorder|mobd
+5969,5994|C0041696|major depressive disorder|mobd
+6119,6127|C1457887|symptoms|sosy
+6132,6138|C3844638|either|fndg
+6143,6152|C1457868|worsening|fndg
+6156,6166|C0011570|depression|mobd
+6156,6166|C0011581|depression|mobd
+6156,6166|C1579931|depression|sosy
+6156,6166|C0344315|depression|fndg
+6191,6208|C0850336|suicidal impulses|mobd
+6262,6270|C1457887|symptoms|sosy
+6325,6338|C0518609|Consideration|fndg
+6411,6424|C1444662|discontinuing|fndg
+6459,6469|C0011570|depression|mobd
+6459,6469|C0011581|depression|mobd
+6459,6469|C1579931|depression|sosy
+6459,6469|C0344315|depression|fndg
+6486,6491|C1457868|worse|fndg
+6486,6491|C1279889|worse|fndg
+6541,6549|C1457887|symptoms|sosy
+6578,6587|C1457868|worsening|fndg
+6588,6598|C0011570|depression|mobd
+6588,6598|C0011581|depression|mobd
+6588,6598|C1579931|depression|sosy
+6588,6598|C0344315|depression|fndg
+6635,6643|C1457887|symptoms|sosy
+6681,6684;6707,6726|C0231221|not presenting symptoms|fndg
+6765,6776|C1444662|discontinue|fndg
+6878,6893|C1444662|discontinuation|fndg
+6901,6911;6925,6933|C0521989|associated symptoms|sosy
+7044,7059|C1444662|discontinuation|fndg
+7155,7180|C1269683|major depressive disorder|mobd
+7155,7180|C0041696|major depressive disorder|mobd
+7250,7257|C0239110|alerted|fndg
+7314,7323|C0085631|agitation|sosy
+7325,7337|C0022107|irritability|fndg
+7339,7366|C1997335|unusual changes in behavior|fndg
+7382,7390|C1457887|symptoms|sosy
+7468,7476|C1457887|symptoms|sosy
+7551,7562|C0478530|observation|fndg
+7633,7640|C1576875|written|fndg
+7815,7839|C0024517|major depressive episode|mobd
+7875,7891|C0005586|bipolar disorder|mobd
+8074,8079|C3160715|mixed|fndg
+8080,8085|C0338831|manic|mobd
+8080,8085|C0564408|manic|fndg
+8118,8134|C0005586|bipolar disorder|mobd
+8155,8163|C1457887|symptoms|sosy
+8384,8400|C0005586|bipolar disorder|mobd
+8407,8416|C1409616|screening|fndg
+8443,8462|C0748059|psychiatric history|fndg
+8476,8501|C0455386|family history of suicide|fndg
+8503,8519|C0005586|bipolar disorder|mobd
+8525,8535|C0011570|depression|mobd
+8525,8535|C0011581|depression|mobd
+8525,8535|C1579931|depression|sosy
+8525,8535|C0344315|depression|fndg
+8605,8623|C0005587|bipolar depression|mobd
+8636,8654|C0024586|Serotonin Syndrome|dsyn
+8636,8654|C0699828|Serotonin Syndrome|inpo
+8710,8728|C0024586|serotonin syndrome|dsyn
+8710,8728|C0699828|serotonin syndrome|inpo
+9067,9075|C1551357|intended|fndg
+9179,9197|C0024586|Serotonin syndrome|dsyn
+9179,9197|C0699828|Serotonin syndrome|inpo
+9198,9206|C1457887|symptoms|sosy
+9219,9240|C0856054|mental status changes|mobd
+9248,9257|C0085631|agitation|sosy
+9259,9273|C0018524|hallucinations|mobd
+9275,9283|C0011206|delirium|mobd
+9289,9293|C0009421|coma|dsyn
+9289,9293|C0543874|coma|cgab
+9296,9317|C0262385|autonomic instability|dsyn
+9325,9336|C0039231|tachycardia|patf
+9325,9336|C3827868|tachycardia|fndg
+9338,9359|C0428895|labile blood pressure|fndg
+9361,9370|C0012833|dizziness|sosy
+9361,9370|C0042571|dizziness|sosy
+9361,9370|C1963093|dizziness|fndg
+9372,9383|C0700590|diaphoresis|sosy
+9385,9393|C0016382|flushing|sosy
+9385,9393|C1962957|flushing|fndg
+9395,9407|C0015967|hyperthermia|fndg
+9410,9432|C0746868|neuromuscular symptoms|sosy
+9440,9446|C0040822|tremor|sosy
+9440,9446|C1963252|tremor|fndg
+9448,9456|C0026837|rigidity|sosy
+9458,9467|C0027066|myoclonus|sosy
+9469,9482|C0151889|hyperreflexia|fndg
+9484,9498|C0520966|incoordination|sosy
+9501,9509|C0036572|seizures|sosy
+9518,9543|C0426576|gastrointestinal symptoms|sosy
+9551,9557|C0027497|nausea|sosy
+9551,9557|C1963179|nausea|patf
+9559,9567|C0042963|vomiting|sosy
+9559,9567|C1963281|vomiting|patf
+9569,9577|C0011991|diarrhea|sosy
+9569,9577|C1963091|diarrhea|fndg
+9630,9648|C0024586|serotonin syndrome|dsyn
+9630,9648|C0699828|serotonin syndrome|inpo
+9696,9704|C1551357|intended|fndg
+9739,9754|C1444657|contraindicated|fndg
+10369,10381|C1444662|discontinued|fndg
+10771,10789|C0024586|serotonin syndrome|dsyn
+10771,10789|C0699828|serotonin syndrome|inpo
+10929,10941|C1444662|discontinued|fndg
+11049,11072|C0020538|Elevated Blood Pressure|dsyn
+11049,11072|C0497247|Elevated Blood Pressure|fndg
+11160,11187|C0497247|increases in blood pressure|fndg
+11271,11283|C0020538|hypertension|dsyn
+11271,11283|C1963138|hypertension|fndg
+11294,11304|C2911690|controlled|fndg
+11414,11426|C0020538|hypertension|dsyn
+11414,11426|C1963138|hypertension|fndg
+11447,11473|C0007820|cerebrovascular conditions|dsyn
+11488,11499|C2945640|compromised|fndg
+11541,11564|C0020538|elevated blood pressure|dsyn
+11541,11564|C0497247|elevated blood pressure|fndg
+11642,11666|C0497247|blood pressure increases|fndg
+11740,11766|C0497247|increase in blood pressure|fndg
+11792,11798|C3844638|either|fndg
+11817,11832|C1444662|discontinuation|fndg
+11901,11918|C1458140|Abnormal Bleeding|patf
+11985,11993|C0019080|bleeding|patf
+12314,12339|C0017181|gastrointestinal bleeding|patf
+12341,12349|C0019080|Bleeding|patf
+12357,12364|C0445223|related|fndg
+12401,12411|C0013491|ecchymosis|patf
+12413,12421|C0018944|hematoma|patf
+12413,12421|C1962958|hematoma|fndg
+12423,12432|C0014591|epistaxis|patf
+12423,12432|C2228238|epistaxis|fndg
+12438,12447|C0031256|petechiae|dsyn
+12468,12479|C0019080|hemorrhages|patf
+12520,12524;12528,12536|C3251812|risk bleeding|fndg
+12647,12655|C0019080|bleeding|patf
+12668,12690|C0017605|Angle Closure Glaucoma|dsyn
+12725,12743|C0026961|pupillary dilation|sosy
+12832,12845|C0429528|angle closure|fndg
+12846,12852|C1304680|attack|fndg
+12884,12897|C1410927|narrow angles|dsyn
+12964,12969|C0338831|Mania|mobd
+12970,12979|C0241934|Hypomania|fndg
+12996,12999;13006,13007|C1837529|MDD 2|dsyn
+13029,13034|C0338831|mania|mobd
+13120,13125|C0338831|mania|mobd
+13126,13135|C0241934|hypomania|fndg
+13198,13222|C0302847|major affective disorder|mobd
+13324,13328|C1273517|used|fndg
+13359,13366|C0262926|history|fndg
+13359,13366|C2004062|history|fndg
+13370,13387|C0241889|family history of|fndg
+13388,13393|C0338831|mania|mobd
+13397,13406|C0241934|hypomania|fndg
+13419,13434|C1444662|Discontinuation|fndg
+13435,13443|C0039082|Syndrome|dsyn
+13465,13473|C1457887|symptoms|sosy
+13587,13612|C1269683|Major Depressive Disorder|mobd
+13587,13612|C0041696|Major Depressive Disorder|mobd
+13621,13636|C1444662|discontinuation|fndg
+13702,13710|C1457887|symptoms|sosy
+13724,13733|C0012833|dizziness|sosy
+13724,13733|C0042571|dizziness|sosy
+13724,13733|C1963093|dizziness|fndg
+13735,13741|C0027497|nausea|sosy
+13735,13741|C1963179|nausea|patf
+13743,13751|C0018681|headache|sosy
+13743,13751|C2096315|headache|fndg
+13753,13765|C0022107|irritability|fndg
+13767,13775|C0917801|insomnia|sosy
+13767,13775|C1963237|insomnia|fndg
+13777,13785|C0011991|diarrhea|sosy
+13777,13785|C1963091|diarrhea|fndg
+13787,13794|C0003467|anxiety|mobd
+13787,13794|C0003469|anxiety|mobd
+13787,13794|C0860603|anxiety|fndg
+13796,13803|C0015672|fatigue|sosy
+13805,13820|C0234458|abnormal dreams|mobd
+13826,13839|C0020458|hyperhidrosis|fndg
+13853,13868|C1444662|discontinuation|fndg
+14138,14153|C1444662|discontinuation|fndg
+14221,14235|C0233477|dysphoric mood|mobd
+14237,14249|C0022107|irritability|fndg
+14251,14260|C0085631|agitation|sosy
+14262,14271|C0012833|dizziness|sosy
+14262,14271|C0042571|dizziness|sosy
+14262,14271|C1963093|dizziness|fndg
+14273,14293|C0152027|sensory disturbances|dsyn
+14301,14312|C0030554|paresthesia|dsyn
+14301,14312|C2242996|paresthesia|sosy
+14322,14347|C0549248|electric shock sensations|sosy
+14350,14357|C0003467|anxiety|mobd
+14350,14357|C0003469|anxiety|mobd
+14350,14357|C0860603|anxiety|fndg
+14359,14368|C0009676|confusion|mobd
+14359,14368|C0683369|confusion|sosy
+14359,14368|C1963086|confusion|fndg
+14370,14378|C0018681|headache|sosy
+14370,14378|C2096315|headache|fndg
+14380,14388|C0023380|lethargy|sosy
+14390,14408|C0085633|emotional lability|mobd
+14410,14418|C0917801|insomnia|sosy
+14410,14418|C1963237|insomnia|fndg
+14420,14429|C0241934|hypomania|fndg
+14431,14439|C0040264|tinnitus|fndg
+14431,14439|C1963249|tinnitus|fndg
+14445,14453|C0036572|seizures|sosy
+14538,14553|C1444662|discontinuation|fndg
+14554,14562|C1457887|symptoms|sosy
+14607,14615|C1457887|symptoms|sosy
+14621,14634|C1444662|discontinuing|fndg
+14769,14777|C1457887|symptoms|sosy
+14825,14840|C1444662|discontinuation|fndg
+15093,15100|C0036572|Seizure|sosy
+15093,15100|C1959629|Seizure|fndg
+15289,15299|C0262926|history of|fndg
+15300,15308|C0036572|seizures|sosy
+15421,15437|C0014544|seizure disorder|dsyn
+15450,15462|C0020625|Hyponatremia|dsyn
+15577,15589|C0020625|hyponatremia|dsyn
+15608,15614|C2825142|result|fndg
+15615,15617;15622,15678|C0021141|of syndrome of inappropriate antidiuretic hormone secretion|patf
+15680,15685|C0021141|SIADH|patf
+15808,15820|C0020625|hyponatremia|dsyn
+16013,16028|C1444662|Discontinuation|fndg
+16090,16102|C0020625|hyponatremia|dsyn
+16166,16171|C0311392|Signs|fndg
+16176,16184|C1457887|symptoms|sosy
+16188,16200|C0020625|hyponatremia|dsyn
+16209,16217|C0018681|headache|sosy
+16209,16217|C2096315|headache|fndg
+16245,16262|C1963167|memory impairment|patf
+16245,16262|C0233794|memory impairment|mobd
+16264,16273|C0009676|confusion|mobd
+16264,16273|C0683369|confusion|sosy
+16264,16273|C1963086|confusion|fndg
+16275,16283|C3714552|weakness|sosy
+16289,16301|C0427108|unsteadiness|fndg
+16321,16326|C0000921|falls|inpo
+16321,16326|C0085639|falls|fndg
+16328,16333|C0311392|Signs|fndg
+16338,16346|C1457887|symptoms|sosy
+16408,16421|C0018524|hallucination|mobd
+16423,16430|C0039070|syncope|sosy
+16432,16439|C0036572|seizure|sosy
+16432,16439|C1959629|seizure|fndg
+16441,16445|C0009421|coma|dsyn
+16441,16445|C0543874|coma|cgab
+16447,16465|C0003578|respiratory arrest|patf
+16447,16465|C0162297|respiratory arrest|patf
+16471,16476|C1306577|death|fndg
+16490,16515|C0206062|Interstitial Lung Disease|dsyn
+16520,16542|C1527407|Eosinophilic Pneumonia|dsyn
+16520,16542|C0034068|Eosinophilic Pneumonia|dsyn
+16548,16573|C0206062|Interstitial lung disease|dsyn
+16578,16600|C1527407|eosinophilic pneumonia|dsyn
+16578,16600|C0034068|eosinophilic pneumonia|dsyn
+16658,16665|C1363945|therapy|fndg
+16804,16823|C0239202|progressive dyspnea|fndg
+16804,16823|C3806899|progressive dyspnea|fndg
+16825,16830|C0010200|cough|sosy
+16825,16830|C1961131|cough|fndg
+16835,16851|C0235710|chest discomfort|sosy
+16915,16930|C1444662|discontinuation|fndg

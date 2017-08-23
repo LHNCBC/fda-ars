@@ -1,0 +1,106 @@
+00000000|AA|AED|antiepileptic drug|1|3|3|18|523:3
+00000000|AA|CI|confidence interval|1|2|3|19|4857:2
+00000000|AA|DRESS|Drug Reaction With Eosinophilia and Systemic Symptoms|1|5|13|53|8463:5
+00000000|MMI|634.19|Feeling suicidal (finding)|C0424000|[fndg]|["Suicidal thoughts"-tx-52-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-51-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-50-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-49-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-48-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-43-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-42-"suicidal thoughts"-noun-1,"Suicidal thoughts"-tx-41-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-37-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-35-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-6-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-5-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-4-"Suicidal thoughts"-noun-0]|TX|[8052/17],[8262/17];7757/17;7718/17;7508/17;7212/17;5846/17;5761/17;5506/17;4522/17;4246/17;599/17;555/17;431/17|F01.145.126.980.875.149;I01.880.735.856.149
+00000000|MMI|334.45|Drowsiness|C0013144|[fndg]|["Somnolence"-tx-28-"Somnolence"-noun-0,"Somnolence"-tx-24-"somnolence"-noun-0,"Somnolence"-tx-22-"somnolence"-noun-0,"Somnolence"-tx-19-"Somnolence"-noun-0,"Somnolence"-tx-15-"somnolence"-noun-0,"Somnolence"-tx-14-"somnolence"-noun-0,"Somnolence"-tx-12-"Somnolence"-noun-0,"Somnolence"-tx-12-"somnolence"-noun-0,"Somnolence"-tx-11-"somnolence"-noun-0,"Somnolence"-tx-10-"somnolence"-noun-0,"Somnolence"-tx-2-"Somnolence"-noun-0]|TX|3389/10;[2986/10],[3008/10];2642/10;2304/10;[1929/10],[1945/10];1736/10;1354/10;1409/10;1249/10;1163/10;235/10|F02.830.855.796;G11.561.600.815.754
+00000000|MMI|163.34|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-29-"Dizziness"-noun-0,"Dizzyness"-tx-27-"dizziness"-noun-0,"Dizzyness"-tx-26-"Dizziness"-noun-0,"Dizzyness"-tx-20-"Dizziness"-noun-0,"Dizzyness"-tx-18-"dizziness"-noun-0,"Dizzyness"-tx-17-"Dizziness"-noun-0,"Dizzyness"-tx-12-"Dizziness"-noun-0,"Dizzyness"-tx-12-"dizziness"-noun-0,"Dizzyness"-tx-2-"dizziness"-noun-0]|TX|3524/9;3329/9;3126/9;2398/9;2243/9;2063/9;1378/9;1433/9;259/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|163.34|Vertigo|C0042571|[sosy]|["dizziness"-tx-29-"Dizziness"-noun-0,"dizziness"-tx-27-"dizziness"-noun-0,"dizziness"-tx-26-"Dizziness"-noun-0,"dizziness"-tx-20-"Dizziness"-noun-0,"dizziness"-tx-18-"dizziness"-noun-0,"dizziness"-tx-17-"Dizziness"-noun-0,"dizziness"-tx-12-"Dizziness"-noun-0,"dizziness"-tx-12-"dizziness"-noun-0,"dizziness"-tx-2-"dizziness"-noun-0]|TX|3524/9;3329/9;3126/9;2398/9;2243/9;2063/9;1378/9;1433/9;259/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|77.11|Epilepsy|C0014544|[dsyn]|["EPILEPSY"-tx-68-"epilepsy"-noun-0,"EPILEPSY"-tx-50-"Epilepsy"-noun-0,"EPILEPSY"-tx-48-"Epilepsy"-noun-0,"EPILEPSY"-tx-48-"epilepsy"-noun-0,"EPILEPSY"-tx-33-"epilepsy"-noun-0]|TX|10473/8;7574/8;6633/8;[7276/8],[7401/8];4052/8|C10.228.140.490
+00000000|MMI|74.86|Somnolence|C2830004|[fndg]|["SOMNOLENCE"-tx-28-"Somnolence"-noun-0,"SOMNOLENCE"-tx-24-"somnolence"-noun-0,"SOMNOLENCE"-tx-22-"somnolence"-noun-0,"SOMNOLENCE"-tx-19-"Somnolence"-noun-0,"SOMNOLENCE"-tx-15-"somnolence"-noun-0,"SOMNOLENCE"-tx-14-"somnolence"-noun-0,"SOMNOLENCE"-tx-12-"Somnolence"-noun-0,"SOMNOLENCE"-tx-12-"somnolence"-noun-0,"SOMNOLENCE"-tx-11-"somnolence"-noun-0,"SOMNOLENCE"-tx-10-"somnolence"-noun-0,"SOMNOLENCE"-tx-2-"Somnolence"-noun-0]|TX|3389/10;[2986/10],[3008/10];2642/10;2304/10;[1929/10],[1945/10];1736/10;1354/10;1409/10;1249/10;1163/10;235/10|
+00000000|MMI|47.42|1+|C3816745|[fndg]|["1+"-tx-68-"1"-integer-0,"1+"-tx-68-"1"-integer-1,"1+"-tx-48-"1"-real_number-0,"1+"-tx-29-"1"-comma_integer-0,"1+"-tx-28-"1"-comma_integer-0,"1+"-tx-28-"1"-percentage-0,"1+"-tx-26-"1"-comma_integer-0,"1+"-tx-21-"1"-comma_integer-0,"1+"-tx-20-"1"-percentage-0]|TX|[10623/1],[10660/1],[10751/1],[10761/1];[10623/1],[10660/1],[10751/1],[10761/1];6936/1;3580/1;[3422/1],[3447/1];[3422/1],[3447/1];3178/1;2561/1;2429/1|
+00000000|MMI|46.44|Drug Hypersensitivity Syndrome|C3541994|[dsyn]|["Drug Reaction with Eosinophilia and Systemic Symptoms"-tx-57-"DRESS"-noun-0,"Drug Reaction with Eosinophilia and Systemic Symptoms"-tx-54-"DRESS"-noun-0,"Drug Reaction with Eosinophilia and Systemic Symptoms"-tx-54-"Drug Reaction With Eosinophilia and Systemic Symptoms"-noun-0]|TX|8784/5;8558/5;8408/53|C17.800.174.600.262;C20.543.206.380.262;C25.100.468.380.262
+00000000|MMI|39.14|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-29-"Dizziness"-noun-0,"Dizziness"-tx-27-"dizziness"-noun-0,"Dizziness"-tx-26-"Dizziness"-noun-0,"Dizziness"-tx-20-"Dizziness"-noun-0,"Dizziness"-tx-18-"dizziness"-noun-0,"Dizziness"-tx-17-"Dizziness"-noun-0,"Dizziness"-tx-12-"Dizziness"-noun-0,"Dizziness"-tx-12-"dizziness"-noun-0,"Dizziness"-tx-2-"dizziness"-noun-0]|TX|3524/9;3329/9;3126/9;2398/9;2243/9;2063/9;1378/9;1433/9;259/9|
+00000000|MMI|36.12|Postherpetic neuralgia|C0032768|[dsyn]|["PHN"-tx-65-"PHN"-noun-0,"PHN"-tx-22-"PHN"-noun-0]|TX|9902/3;2637/3|C10.597.617.682.550;C10.668.829.600.550;C23.888.592.612.664.550
+00000000|MMI|30.46|Suicide|C0038661|[fndg]|["-- Suicide"-tx-40-"suicide"-noun-0,"SUICIDES"-tx-40-"suicides"-noun-0]|TX|5471/7;5312/8|F01.145.126.980.875;I01.880.735.856
+00000000|MMI|30.28|Restless Legs Syndrome|C0035258|[dsyn]|["RLS"-tx-63-"RLS"-noun-0,"RLS"-tx-14-"RLS"-noun-0]|TX|9633/3;1731/3|C10.803;C10.886.425.800.700;C10.886.659.634;F03.870.400.800.700;F03.870.664.634
+00000000|MMI|27.47|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-62-"symptoms"-noun-0,"SYMPTOMS"-tx-61-"symptoms"-noun-0,"SYMPTOMS"-tx-51-"symptoms"-noun-0,"SYMPTOMS"-tx-27-"symptoms"-noun-0,"SYMPTOMS"-tx-25-"symptoms"-noun-0,"SYMPTOMS"-tx-18-"symptoms"-noun-0,"SYMPTOMS"-tx-16-"symptoms"-noun-0]|TX|9514/8;9371/8;7877/8;3340/8;3087/8;2254/8;2024/8|
+00000000|MMI|27.33|Eosinophilia|C0014457|[dsyn]|["EOSINOPHILIA"-tx-58-"Eosinophilia"-noun-0,"EOSINOPHILIA"-tx-54-"Eosinophilia"-noun-0]|TX|9061/12;8522/12|C15.378.553.231
+00000000|MMI|26.28|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-68-"discontinuation"-noun-0,"Discontinuation"-tx-65-"discontinuation"-noun-0,"Discontinuation"-tx-64-"discontinuation"-noun-0,"Discontinuation"-tx-63-"Discontinuation"-noun-0,"Discontinue"-tx-63-"discontinue"-verb-0,"Discontinue"-tx-63-"discontinuing"-verb-0,"Discontinued"-tx-62-"discontinued"-verb-0]|TX|10807/15;9999/15;9816/15;9557/15;9677/11;9595/13;9457/12|
+00000000|MMI|24.64|Fever|C0015967|[fndg]|["FEVER"-tx-60-"fever"-noun-0,"FEVER"-tx-57-"fever"-noun-1]|TX|9280/5;8841/5|C23.888.119.344
+00000000|MMI|21.44|Exanthema|C0015230|[sosy]|["RASH"-tx-60-"rash"-noun-0,"RASH"-tx-57-"rash"-noun-1]|TX|9333/4;8848/4|C17.800.257
+00000000|MMI|21.20|2+|C3833492|[fndg]|["2+"-tx-68-"2"-integer-0,"2+"-tx-48-"2"-real_number-0,"2+"-tx-38-"2"-real_number-0,"2+"-tx-29-"2"-percentage-0,"2+"-tx-19-"2"-percentage-0]|TX|[10596/1],[10615/1];6879/1;4867/1;3555/1;2345/1|
+00000000|MMI|19.46|Disease|C0012634|[dsyn]|["Disorder"-tx-59-"disorder"-noun-0,"condition"-tx-48-"conditions"-noun-0]|TX|9105/8;7334/10|C23.550.288
+00000000|MMI|18.70|Signs and Symptoms|C0037088|[sosy]|["Clinical finding"-tx-67-"clinical finding"-noun-0,"Finding"-tx-67-"finding"-noun-0,"Finding"-tx-44-"finding"-noun-0]|TX|10360/8,10390/7;10390/7;5939/7|C23.888
+00000000|MMI|18.13|Endometrial Carcinoma|C0476089|[neop]|["ENDOMETRIAL CARCINOMA"-tx-68-"endometrial carcinoma"-noun-1]|TX|10662/21|C04.588.945.418.948.585;C13.351.500.852.762.200;C13.351.937.418.875.200
+00000000|MMI|17.75|Sedated state|C0235195|[fndg]|["SEDATION"-tx-19-"sedation"-noun-0,"SEDATION"-tx-14-"sedation"-noun-0,"SEDATION"-tx-12-"Sedation"-noun-0,"SEDATION"-tx-12-"sedation"-noun-0,"SEDATION"-tx-2-"sedation"-noun-0]|TX|2315/8;1747/8;1365/8;1420/8;246/8|
+00000000|MMI|16.52|Hepatitis A|C0019159|[dsyn]|["Hepatitis"-tx-57-"hepatitis"-noun-0]|TX|8938/9|C02.440.420;C02.782.687.359.500;C06.552.380.705.422
+00000000|MMI|16.52|Nephritis|C0027697|[dsyn]|["-- Nephritis"-tx-57-"nephritis"-noun-0]|TX|8949/9|C12.777.419.570;C13.351.968.419.570
+00000000|MMI|15.56|Lymphadenopathy|C0497156|[fndg]|["LYMPHADENOPATHY"-tx-60-"lymphadenopathy"-noun-0,"LYMPHADENOPATHY"-tx-57-"lymphadenopathy"-noun-1]|TX|9289/15;8861/15|C15.604
+00000000|MMI|15.13|Lymphoma, Non-Hodgkin|C0024305|[neop]|["Lymphoma, Nonhodgkin's"-tx-68-"non-Hodgkin's lymphoma"-noun-0]|TX|10636/22|C04.557.386.480;C15.604.515.569.480;C20.683.515.761.480
+00000000|MMI|14.81|Behaviors and observations relating to behavior|C0677505|[fndg]|["Behaviors"-tx-53-"Behaviors"-noun-0,"Behaviors"-tx-6-"behaviors"-noun-0,"Behaviors"-tx-5-"behaviors"-noun-0,"Behaviors"-tx-4-"behaviors"-noun-0]|TX|8320/9;620/9;576/9;452/9|
+00000000|MMI|13.81|Impaired health|C0684336|[patf]|["Impairment"-tx-11-"impairment"-noun-0,"Impairment"-tx-8-"impairment"-noun-0,"Impairment"-tx-7-"impairment"-noun-0,"Impairment"-tx-1-"impairment"-noun-0]|TX|1224/10;794/10;722/10;63/10|
+00000000|MMI|13.67|Withdrawal (dysfunction)|C2825032|[mobd]|["Withdrawal"-tx-29-"withdrawal"-noun-0,"Withdrawal"-tx-28-"withdrawal"-noun-0,"Withdrawal"-tx-20-"withdrawal"-noun-0,"Withdrawal"-tx-19-"withdrawal"-noun-0]|TX|3541/10;3407/10;2415/10;2331/10|
+00000000|MMI|13.67|Withdrawal - birth control|C3812880|[fndg]|["Withdrawal"-tx-29-"withdrawal"-noun-0,"Withdrawal"-tx-28-"withdrawal"-noun-0,"Withdrawal"-tx-20-"withdrawal"-noun-0,"Withdrawal"-tx-19-"withdrawal"-noun-0]|TX|3541/10;3407/10;2415/10;2331/10|
+00000000|MMI|13.60|Depressive Symptoms|C0086132|[sosy]|["Symptoms of depression"-tx-52-"symptoms of depression"-noun-0]|TX|8177/22|F01.145.126.350
+00000000|MMI|13.60|Myocarditis|C0027059|[dsyn]|["MYOCARDITIS"-tx-57-"myocarditis"-noun-0]|TX|8989/11|C14.280.238.625
+00000000|MMI|13.60|Myositis|C0027121|[dsyn]|["MYOSITIS"-tx-57-"myositis"-noun-0]|TX|9005/8|C05.651.594;C10.668.491.562
+00000000|MMI|12.38|Hypersensitivity|C0020517|[patf]|["HYPERSENSITIVITY"-tx-60-"hypersensitivity"-noun-0,"HYPERSENSITIVITY"-tx-54-"Hypersensitivity"-noun-0]|TX|9254/16;8481/16|C20.543
+00000000|MMI|12.12|Carcinoma|C0007097|[neop]|["CARCINOMA"-tx-66-"carcinoma"-noun-0]|TX|10279/9|C04.557.470.200
+00000000|MMI|12.09|Recurrence (disease attribute)|C2825055|[patf]|["RECURRENCE"-tx-69-"recurrence"-noun-1]|TX|10888/10|C23.550.291.937
+00000000|MMI|11.99|Mental Depression|C0011570|[mobd]|["DEPRESSION"-tx-37-"depression"-noun-0]|TX|4510/10|F01.145.126.350
+00000000|MMI|11.96|Adenoma|C0001430|[neop]|["ADENOMA"-tx-66-"adenoma"-noun-0]|TX|10267/7|C04.557.470.035
+00000000|MMI|10.67|Hepatitis|C0019158|[dsyn]|["HEPATITIS"-tx-57-"hepatitis"-noun-0]|TX|8938/9|C06.552.380
+00000000|MMI|10.32|10%|C3842590|[fndg]|["10%"-tx-68-"10"-integer-0,"10%"-tx-24-"10"-percentage-0,"10%"-tx-22-"10"-percentage-0]|TX|10583/2;2998/2;2669/2|
+00000000|MMI|10.09|Worse|C1457868|[fndg]|["Worsened"-tx-68-"worsened"-verb-0,"Worsening"-tx-52-"worsening"-noun-0,"Worsening"-tx-37-"worsening"-noun-0]|TX|10717/8;8150/9;4497/9|
+00000000|MMI|9.97|Physical findings|C0311392|[fndg]|["SIGNS"-tx-62-"signs"-noun-0,"SIGNS"-tx-61-"signs"-noun-0,"SIGNS"-tx-52-"signs"-noun-0]|TX|9505/5;9362/5;8167/5|
+00000000|MMI|9.67|Eosinophilic disorder|C1306759|[dsyn]|["Eosinophilia"-tx-58-"Eosinophilia"-noun-0,"Eosinophilia"-tx-54-"Eosinophilia"-noun-0]|TX|9061/12;8522/12|
+00000000|MMI|9.27|Asthenia|C0004093|[sosy]|["ASTHENIA"-tx-23-"asthenia"-noun-0]|TX|2783/8|C23.888.089
+00000000|MMI|9.11|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-23-"Fatigue"-noun-0]|TX|2775/7|C23.888.369
+00000000|MMI|9.06|Depressive disorder|C0011581|[mobd]|["-- Depression"-tx-37-"depression"-noun-0]|TX|4510/10|F03.600.300
+00000000|MMI|7.28|1 - 9%|C3842508|[fndg]|["1 - 9%"-tx-48-"1 9"-real_number-0,"1 - 9%"-tx-48-"1.9"-real_number-0]|TX|6963/1,6992/1;7155/3|
+00000000|MMI|6.98|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-60-"fever"-noun-0,"Fever"-tx-57-"fever"-noun-1]|TX|9280/5;8841/5|
+00000000|MMI|6.87|Contact with machinery|C0337246|[inpo]|["Machinery"-tx-13-"machinery"-noun-1,"Machinery"-tx-2-"machinery"-noun-0]|TX|1541/9;322/9|
+00000000|MMI|6.87|Neoplasms|C0027651|[neop]|["Tumors"-tx-68-"tumors"-noun-0,"Tumors"-tx-68-"tumors"-noun-1]|TX|[10559/6],[10710/6];[10559/6],[10710/6]|C04
+00000000|MMI|6.84|Mood swings|C0085633|[mobd]|["Change in mood"-tx-52-"changes in mood"-noun-0,"Change in mood"-tx-37-"changes in mood"-noun-0]|TX|8213/15;4572/15|
+00000000|MMI|6.79|0%|C3842591|[fndg]|["0%"-tx-48-"0"-real_number-0,"0%"-tx-39-"0"-percentage-0]|TX|7017/1;5119/1|
+00000000|MMI|6.74|20%|C3842589|[fndg]|["20%"-tx-18-"20"-percentage-0,"20%"-tx-14-"20"-percentage-0]|TX|2299/2;1772/2|
+00000000|MMI|6.70|Resolved|C3714811|[fndg]|["RESOLVED"-tx-25-"resolved"-verb-0,"RESOLVED"-tx-16-"resolved"-verb-0]|TX|3096/8;2033/8|
+00000000|MMI|6.70|physiologic resolution|C1514893|[patf]|["Resolved"-tx-25-"resolved"-verb-0,"Resolved"-tx-16-"resolved"-verb-0]|TX|3096/8;2033/8|
+00000000|MMI|6.69|PULMONARY HYPERTENSION, NEONATAL, SUSCEPTIBILITY TO|C3714958|[fndg]|["PHN"-tx-65-"PHN"-noun-0,"PHN"-tx-22-"PHN"-noun-0]|TX|9902/3;2637/3|
+00000000|MMI|6.68|Related personal status|C0445223|[fndg]|["Related"-tx-51-"related"-verb-0,"Related"-tx-11-"related"-verb-0]|TX|7914/7;1238/7|
+00000000|MMI|6.66|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-38-"randomized"-verb-0]|TX|[4742/10],[4928/10]|
+00000000|MMI|6.64|Illness (finding)|C0221423|[sosy]|["Illness"-tx-51-"illness"-noun-0,"illnesses"-tx-50-"illnesses"-noun-0]|TX|7929/7;7598/9|
+00000000|MMI|6.60|Suicidal behavior|C1760428|[fndg]|["Suicidal behaviour"-tx-39-"suicidal behavior"-noun-0,"Suicidal behaviour"-tx-34-"Suicidal Behavior"-noun-0]|TX|5051/17;4095/17|
+00000000|MMI|6.57|Thinking and speaking disturbances|C0233629|[mobd]|["Thinking, NOS"-tx-39-"thinking"-noun-0,"Thinking, NOS"-tx-38-"thinking"-noun-0]|TX|5246/8;4884/8|
+00000000|MMI|6.54|4+ Answer to question|C3838679|[fndg]|["4+"-tx-48-"4"-real_number-0,"4+"-tx-40-"4"-integer-0]|TX|7101/1;5310/1|
+00000000|MMI|6.50|Experimental Finding|C2825141|[fndg]|["Finding"-tx-67-"finding"-noun-0,"Finding"-tx-44-"finding"-noun-0]|TX|10390/7;5939/7|
+00000000|MMI|6.50|Finding|C0243095|[fndg]|["Finding"-tx-67-"finding"-noun-0,"Finding"-tx-44-"finding"-noun-0]|TX|10390/7;5939/7|
+00000000|MMI|6.49|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-60-"hypersensitivity"-noun-0,"Hypersensitivity"-tx-54-"Hypersensitivity"-noun-0]|TX|9254/16;8481/16|
+00000000|MMI|6.46|Withdrawal seizures|C0235097|[patf]|["WITHDRAWAL SEIZURE"-tx-65-"withdrawal seizure"-noun-0,"WITHDRAWAL SEIZURE"-tx-64-"withdrawal seizure"-noun-0]|TX|10044/18;9861/18|
+00000000|MMI|6.45|Suicidal|C0438696|[fndg]|["SUICIDAL"-tx-39-"suicidal"-adj-0,"SUICIDAL"-tx-38-"suicidal"-adj-0]|TX|5237/8;4875/8|
+00000000|MMI|4.81|1-2|C3843716|[fndg]|["1-2"-tx-38-"1.2"-real_number-0]|TX|4862/3|
+00000000|MMI|4.81|Ability to balance|C0560184|[fndg]|["Balance"-tx-49-"balance"-noun-0]|TX|7488/7|
+00000000|MMI|4.81|Acute viral disease|C1443953|[dsyn]|["Acute Viral infection"-tx-57-"acute viral infection"-noun-0]|TX|9038/21|
+00000000|MMI|4.81|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-56-"fatal"-adj-0]|TX|8757/5|
+00000000|MMI|4.81|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-56-"life-threatening"-adj-0]|TX|8766/16|
+00000000|MMI|4.81|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-56-"life-threatening"-adj-0]|TX|8766/16|
+00000000|MMI|4.81|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-56-"life-threatening"-adj-0]|TX|8766/16|
+00000000|MMI|4.81|Myocarditis Adverse Event|C1962971|[fndg]|["Myocarditis"-tx-57-"myocarditis"-noun-0]|TX|8989/11|
+00000000|MMI|4.81|Self-harm|C0424366|[inpo]|["Self-Harm"-tx-52-"self-harm"-verb-0]|TX|8309/9|
+00000000|MMI|4.81|Too little|C3843661|[fndg]|["Too Small"-tx-40-"too small"-adj-0]|TX|5416/9|
+00000000|MMI|4.81|systemic symptoms|C2039684|[sosy]|["systemic symptoms"-tx-54-"Systemic Symptoms"-noun-0]|TX|8539/17|
+00000000|MMI|3.82|Abnormality of blood and blood-forming tissues|C0850715|[dsyn]|["haematological abnormality"-tx-57-"hematological abnormalities"-noun-0]|TX|8960/27|
+00000000|MMI|3.42|30%|C3842588|[fndg]|["30%"-tx-15-"30"-percentage-0]|TX|1992/2|
+00000000|MMI|3.36|Known allergy|C3845888|[fndg]|["Known Hypersensitivity"-tx-54-"known hypersensitivity"-noun-0]|TX|8571/5,8591/16|
+00000000|MMI|3.36|Variable expression|C1868500|[fndg]|["Variable Expression"-tx-59-"variable expression"-noun-0]|TX|9117/8,9133/10|
+00000000|MMI|3.34|Mg reduced|C0240291|[fndg]|["Mg reduced"-tx-64-"reduced mg"-noun-0]|TX|9772/7,9787/2|
+00000000|MMI|3.33|Clinical Significance|C2826293|[fndg]|["Clinical Significance"-tx-67-"clinical significance"-noun-0]|TX|10360/21|
+00000000|MMI|3.32|> 2 years|C3843647|[fndg]|["> 2 years"-tx-68-"2 years"-noun-0]|TX|10493/1,10507/5|
+00000000|MMI|3.31|Consciousness clear|C0239110|[fndg]|["ALERT"-tx-52-"alert"-adj-0]|TX|8123/5|
+00000000|MMI|3.30|Recurrent Malignant Neoplasm|C1458156|[neop]|["recurrence"-tx-69-"recurrence"-noun-1]|TX|10888/10|
+00000000|MMI|3.30|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-8-"therapy"-noun-0]|TX|820/7|
+00000000|MMI|3.30|KNOWLEDGE (recall and interpretation ability)|C1948177|[fndg]|["KNOWLEDGE"-tx-69-"knowledge"-noun-1]|TX|10846/9|
+00000000|MMI|3.29|Experimental Result|C2825142|[fndg]|["Result"-tx-31-"results"-verb-0]|TX|3852/7|
+00000000|MMI|3.25|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-68-"3"-integer-0]|TX|10606/1|
+00000000|MMI|3.22|Acinar cell adenoma|C0334389|[neop]|["Acinar Cell Adenoma"-tx-66-"acinar cell adenoma"-noun-0]|TX|10255/19|
+00000000|MMI|3.21|5-6|C3843715|[fndg]|["5-6"-tx-63-"5.6"-real_number-0]|TX|9553/3|
+00000000|MMI|3.21|6/5|C0442749|[fndg]|["5 6"-tx-63-"5.6"-real_number-0]|TX|9553/3|
+00000000|MMI|3.21|Drug effect disorder|C0728867|[patf]|["Drug effect"-tx-40-"drug effect"-noun-0]|TX|5456/11|
+00000000|MMI|3.20|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-21-"adverse reactions"-noun-0]|TX|2505/17|
+00000000|MMI|3.20|Depressed - symptom|C1579931|[sosy]|["depression"-tx-37-"depression"-noun-0]|TX|4510/10|
+00000000|MMI|3.20|Depressed mood|C0344315|[fndg]|["depression"-tx-37-"depression"-noun-0]|TX|4510/10|
+00000000|MMI|3.20|Sign or Symptom|C3540840|[fndg]|["CLINICAL FINDING"-tx-67-"clinical finding"-noun-0]|TX|10360/8,10390/7|
+00000000|MMI|3.18|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-68-"exposure"-noun-0]|TX|10516/8|
+00000000|MMI|3.18|exposure history|C2220266|[fndg]|["exposure"-tx-68-"exposure"-noun-0]|TX|10516/8|
+00000000|MMI|3.18|Did not receive therapy or drug for|C0332155|[fndg]|["untreated"-tx-49-"untreated"-adj-0]|TX|7555/9|
+00000000|MMI|3.17|Carcinogenicity|C0858970|[neop]|["Carcinogenicity"-tx-66-"carcinogenicity"-noun-0]|TX|10173/15|

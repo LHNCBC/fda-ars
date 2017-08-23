@@ -1,0 +1,65 @@
+28,54|C0020517|Hypersensitivity reactions|patf
+66,77|C0002792|anaphylaxis|patf
+66,77|C0850803|anaphylaxis|dsyn
+336,344|C0018681|headache|sosy
+336,344|C2096315|headache|fndg
+346,352|C0027497|nausea|sosy
+346,352|C1963179|nausea|patf
+354,362|C0011991|diarrhea|sosy
+354,362|C1963091|diarrhea|fndg
+364,371|C0015967|pyrexia|fndg
+373,397|C0151735|injection site reactions|patf
+403,418|C0027441|nasopharyngitis|dsyn
+664,674|C0012634|conditions|dsyn
+955,958|C0019243|HAE|dsyn
+1231,1234|C0019243|HAE|dsyn
+1240,1248|C0018681|headache|sosy
+1240,1248|C2096315|headache|fndg
+1256,1262|C0027497|nausea|sosy
+1256,1262|C1963179|nausea|patf
+1270,1277|C0015672|fatigue|sosy
+1285,1293|C0011991|diarrhea|sosy
+1285,1293|C1963091|diarrhea|fndg
+1301,1334|C0041912|upper respiratory tract infection|dsyn
+1341,1365|C0151735|injection site reactions|patf
+1372,1387|C0027441|nasopharyngitis|dsyn
+1394,1402|C0042963|vomiting|sosy
+1394,1402|C1963281|vomiting|patf
+1409,1417|C0033774|pruritus|sosy
+1424,1444|C0232492|upper abdominal pain|sosy
+1455,1462|C0015967|pyrexia|fndg
+1473,1484|C0002792|Anaphylaxis|patf
+1473,1484|C0850803|Anaphylaxis|dsyn
+1521,1524|C0019243|HAE|dsyn
+1526,1550|C0151735|Injection site reactions|patf
+1579,1587|C0033774|pruritus|sosy
+1589,1597|C0041834|erythema|dsyn
+1599,1603|C0030193|pain|sosy
+1599,1603|C1962977|pain|fndg
+1617,1626|C0042109|urticaria|dsyn
+1617,1626|C2186740|urticaria|fndg
+1635,1643|C0009938|bruising|inpo
+1635,1643|C2136686|bruising|fndg
+1704,1705;1726,1741|C3842777|2 clinical trials|fndg
+1814,1817|C0019243|HAE|dsyn
+2470,2471;2491,2506|C3842777|2 Clinical Trials|fndg
+2524,2527|C0019243|HAE|dsyn
+2932,2940|C0018681|Headache|sosy
+2932,2940|C2096315|Headache|fndg
+3016,3022|C0027497|Nausea|sosy
+3016,3022|C1963179|Nausea|patf
+3100,3108|C0011991|Diarrhea|sosy
+3100,3108|C1963091|Diarrhea|fndg
+3184,3191|C0015967|Pyrexia|fndg
+3268,3292|C0151735|Injection site reactions|patf
+3352,3367|C0027441|Nasopharyngitis|dsyn
+3759,3765|C0087136|single|fndg
+3817,3820|C0019243|HAE|dsyn
+4205,4213|C0442726|detected|fndg
+4302,4310|C0442726|detected|fndg
+4385,4410|C0020517|hypersensitivity reaction|patf
+4483,4487|C0456984|test|fndg
+4488,4495|C2825142|results|fndg
+5087,5094|C0012634|disease|dsyn
+5448,5457|C0087130|uncertain|fndg
+5564,5577|C0743284|drug exposure|fndg

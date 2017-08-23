@@ -1,0 +1,415 @@
+T1	AdverseReaction 160 187	Ophthalmic Adverse Reaction
+T2	AdverseReaction 235 261	Hypersensitivity Reactions
+T3	AdverseReaction 373 393	local skin reactions
+T4	AdverseReaction 395 416	application site pain
+T5	AdverseReaction 418 443	application site pruritus
+T6	AdverseReaction 445 472	application site irritation
+T7	AdverseReaction 474 500	application site infection
+T8	AdverseReaction 502 519	periorbital edema
+T9	AdverseReaction 521 536	nasopharyngitis
+T10	AdverseReaction 541 549	headache
+T11	AdverseReaction 1512 1532	Local skin reactions
+T12	AdverseReaction 1512 1522;1544 1552	Local skin erythema
+T13	AdverseReaction 1512 1522;1554 1561	Local skin flaking
+T14	AdverseReaction 1512 1522;1562 1569	Local skin scaling
+T15	AdverseReaction 1512 1522;1571 1579	Local skin crusting
+T16	AdverseReaction 1512 1522;1581 1589	Local skin swelling
+T17	AdverseReaction 1512 1522;1591 1603	Local skin vesiculation
+T18	AdverseReaction 1512 1522;1604 1615	Local skin pustulation
+T19	AdverseReaction 1512 1522;1621 1628	Local skin erosion
+T20	AdverseReaction 1512 1522;1629 1639	Local skin ulceration
+T21	AdverseReaction 2149 2153;2372 2380	Skin Erythema
+T22	AdverseReaction 2149 2153;2510 2517	Skin Flaking
+T23	AdverseReaction 2149 2153;2518 2525	Skin Scaling
+T24	AdverseReaction 2149 2153;2648 2656	Skin Crusting
+T26	AdverseReaction 2149 2153;2786 2794	Skin Swelling
+T27	AdverseReaction 2149 2153;2924 2936	Skin Vesiculation
+T28	AdverseReaction 2149 2153;2937 2948	Skin Pustulation
+T29	AdverseReaction 2149 2153;3063 3070	Skin Erosion
+T30	AdverseReaction 2149 2153;3071 3081	Skin Ulceration
+T31	AdverseReaction 3322 3342	Local Skin Reactions
+T32	AdverseReaction 3522 3526;3744 3752	Skin Erythema
+T33	AdverseReaction 3522 3526;3882 3889	Skin Flaking
+T34	AdverseReaction 3522 3526;3890 3897	Skin Scaling
+T35	AdverseReaction 3522 3526;4020 4028	Skin Crusting
+T36	AdverseReaction 3522 3526;4158 4166	Skin Swelling
+T37	AdverseReaction 3522 3526;4296 4308	Skin Vesiculation
+T38	AdverseReaction 3522 3526;4309 4320	Skin Pustulation
+T39	AdverseReaction 3522 3526;4435 4442	Skin Erosion
+T40	AdverseReaction 3522 3526;4443 4453	Skin Ulceration
+T41	AdverseReaction 4649 4669	Local skin reactions
+T42	AdverseReaction 5417 5438	Application Site Pain
+T43	AdverseReaction 5501 5526	Application Site Pruritus
+T44	AdverseReaction 5587 5613	Application Site Infection
+T45	AdverseReaction 5674 5691	Periorbital Edema
+T46	AdverseReaction 5758 5766	Headache
+T47	AdverseReaction 6159 6184	Application Site Pruritus
+T48	AdverseReaction 6245 6272	Application Site Irritation
+T49	AdverseReaction 6333 6348	Nasopharyngitis
+T50	AdverseReaction 6417 6438	Application Site Pain
+T51	AdverseReaction 6588 6600	eyelid edema
+T52	AdverseReaction 6602 6610	eye pain
+T53	AdverseReaction 6612 6626	conjunctivitis
+T54	AdverseReaction 7043 7059	hypersensitivity
+T55	AdverseReaction 7061 7088	allergic contact dermatitis
+T56	AdverseReaction 7090 7103	herpes zoster
+T57	AdverseReaction 7105 7128	chemical conjunctivitis
+T58	AdverseReaction 7134 7146	corneal burn
+T59	AdverseReaction 1962 1982	Local Skin Reactions
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+A1	CUI E1 C1557306
+A2	UMLS-Preferred-Name E1 Adverse Event Associated with Ocular and Visual Systems
+A3	MEDDRA-PT E1 Eye symptom
+A4	MEDDRA-PT-ID E1 10075536
+A5	CUI E2 C0020517
+A6	UMLS-Preferred-Name E2 Hypersensitivity
+A7	MEDDRA-PT E2 Hypersensitivity
+A8	MEDDRA-PT-ID E2 10020751
+A9	LLT E2 Hypersensitivity reaction
+A10	LLT-ID E2 10020756
+A11	CUI E3 C0549452
+A12	UMLS-Preferred-Name E3 Localised skin reaction
+A13	MEDDRA-PT E3 Skin reaction
+A14	MEDDRA-PT-ID E3 10040914
+A15	LLT E3 Localised skin reaction
+A16	LLT-ID E3 10024777
+A17	CUI E4 C0521491
+A18	UMLS-Preferred-Name E4 Application site pain
+A19	MEDDRA-PT E4 Application site pain
+A20	MEDDRA-PT-ID E4 10003051
+A21	CUI E5 C0853714
+A22	UMLS-Preferred-Name E5 Application site pruritus
+A23	MEDDRA-PT E5 Application site pruritus
+A24	MEDDRA-PT-ID E5 10003053
+A25	CUI E6 C0521490
+A26	UMLS-Preferred-Name E6 Application site irritation
+A27	MEDDRA-PT E6 Application site irritation
+A28	MEDDRA-PT-ID E6 10003046
+A29	CUI E7 C0521496
+A30	UMLS-Preferred-Name E7 Application site infection
+A31	MEDDRA-PT E7 Application site infection
+A32	MEDDRA-PT-ID E7 10049041
+A33	CUI E8 C0151205
+A34	UMLS-Preferred-Name E8 Periorbital edema
+A35	MEDDRA-PT E8 Periorbital oedema
+A36	MEDDRA-PT-ID E8 10034545
+A37	LLT E8 Periorbital edema
+A38	LLT-ID E8 10054541
+A39	CUI E9 C0027441
+A40	UMLS-Preferred-Name E9 Nasopharyngitis
+A41	MEDDRA-PT E9 Nasopharyngitis
+A42	MEDDRA-PT-ID E9 10028810
+A43	CUI E10 C0018681
+A44	UMLS-Preferred-Name E10 Headache
+A45	MEDDRA-PT E10 Headache
+A46	MEDDRA-PT-ID E10 10019211
+A47	CUI E11 C0549452
+A48	UMLS-Preferred-Name E11 Localised skin reaction
+A49	MEDDRA-PT E11 Skin reaction
+A50	MEDDRA-PT-ID E11 10040914
+A51	LLT E11 Localised skin reaction
+A52	LLT-ID E11 10024777
+A53	CUI E12 C0041834
+A54	UMLS-Preferred-Name E12 Erythema
+A55	MEDDRA-PT E12 Erythema
+A56	MEDDRA-PT-ID E12 10015150
+A57	LLT E12 Skin erythema
+A58	LLT-ID E12 10040842
+A59	CUI E13 C0237849
+A60	UMLS-Preferred-Name E13 Peeling of skin
+A61	MEDDRA-PT E13 Skin exfoliation
+A62	MEDDRA-PT-ID E13 10040844
+A63	LLT E13 Flaking skin
+A64	LLT-ID E13 10016749
+A65	CUI E14 C0237849
+A66	UMLS-Preferred-Name E14 Peeling of skin
+A67	MEDDRA-PT E14 Skin exfoliation
+A68	MEDDRA-PT-ID E14 10040844
+A69	LLT E14 Flaking skin
+A70	LLT-ID E14 10016749
+A71	flag E15 duplicate
+A72	CUI E15 C0549452
+A73	UMLS-Preferred-Name E15 Localised skin reaction
+A74	MEDDRA-PT E15 Skin reaction
+A75	MEDDRA-PT-ID E15 10040914
+A76	LLT E15 Localised skin reaction
+A77	LLT-ID E15 10024777
+A78	CUI E16 C0281982
+A79	UMLS-Preferred-Name E16 Swelling of skin
+A80	MEDDRA-PT E16 Skin swelling
+A81	MEDDRA-PT-ID E16 10053262
+A82	flag E17 duplicate
+A83	CUI E17 C0858702
+A84	UMLS-Preferred-Name E17 Drug eruption vesicular
+A85	MEDDRA-PT E17 Drug eruption
+A86	MEDDRA-PT-ID E17 10013687
+A87	LLT E17 Drug eruption vesicular
+A88	LLT-ID E17 10013694
+A89	flag E18 duplicate
+A90	CUI E18 C0549452
+A91	UMLS-Preferred-Name E18 Localised skin reaction
+A92	MEDDRA-PT E18 Skin reaction
+A93	MEDDRA-PT-ID E18 10040914
+A94	LLT E18 Localised skin reaction
+A95	LLT-ID E18 10024777
+A96	CUI E19 C3887524
+A97	UMLS-Preferred-Name E19 Skin Erosion
+A98	MEDDRA-PT E19 Skin erosion
+A99	MEDDRA-PT-ID E19 10040840
+A100	CUI E20 C0037299
+A101	UMLS-Preferred-Name E20 Skin Ulcer
+A102	MEDDRA-PT E20 Skin ulcer
+A103	MEDDRA-PT-ID E20 10040943
+A104	CUI E21 C0041834
+A105	UMLS-Preferred-Name E21 Erythema
+A106	MEDDRA-PT E21 Erythema
+A107	MEDDRA-PT-ID E21 10015150
+A108	LLT E21 Skin erythema
+A109	LLT-ID E21 10040842
+A110	CUI E22 C0237849
+A111	UMLS-Preferred-Name E22 Peeling of skin
+A112	MEDDRA-PT E22 Skin exfoliation
+A113	MEDDRA-PT-ID E22 10040844
+A114	LLT E22 Flaking skin
+A115	LLT-ID E22 10016749
+A116	CUI E23 C0237849
+A117	UMLS-Preferred-Name E23 Peeling of skin
+A118	MEDDRA-PT E23 Skin exfoliation
+A119	MEDDRA-PT-ID E23 10040844
+A120	LLT E23 Skin peeling
+A121	LLT-ID E23 10040908
+A122	CUI E24 C0423777
+A123	UMLS-Preferred-Name E24 Crust on skin
+A124	MEDDRA-PT E24 Scab
+A125	MEDDRA-PT-ID E24 10039509
+A126	LLT E24 Crust
+A127	LLT-ID E24 10011468
+A128	CUI E26 C0281982
+A129	UMLS-Preferred-Name E26 Swelling of skin
+A130	MEDDRA-PT E26 Skin swelling
+A131	MEDDRA-PT-ID E26 10053262
+A132	CUI E27 C3814530
+A133	UMLS-Preferred-Name E27 Skin Vesicle
+A134	MEDDRA-PT E27 Blister
+A135	MEDDRA-PT-ID E27 10005191
+A136	LLT E27 Vesicles
+A137	LLT-ID E27 10047368
+A138	CUI E28 C0241157
+A139	UMLS-Preferred-Name E28 pustule
+A140	MEDDRA-PT E28 Rash pustular
+A141	MEDDRA-PT-ID E28 10037888
+A142	LLT E28 Pustule
+A143	LLT-ID E28 10037578
+A144	CUI E29 C3887524
+A145	UMLS-Preferred-Name E29 Skin Erosion
+A146	MEDDRA-PT E29 Skin erosion
+A147	MEDDRA-PT-ID E29 10040840
+A148	CUI E30 C0037299
+A149	UMLS-Preferred-Name E30 Skin Ulcer
+A150	MEDDRA-PT E30 Skin ulcer
+A151	MEDDRA-PT-ID E30 10040943
+A152	LLT E30 Skin ulceration
+A153	LLT-ID E30 10040947
+A154	CUI E31 C0549452
+A155	UMLS-Preferred-Name E31 Localised skin reaction
+A156	MEDDRA-PT E31 Skin reaction
+A157	MEDDRA-PT-ID E31 10040914
+A158	LLT E31 Localised skin reaction
+A159	LLT-ID E31 10024777
+A160	CUI E32 C0041834
+A161	UMLS-Preferred-Name E32 Erythema
+A162	MEDDRA-PT E32 Erythema
+A163	MEDDRA-PT-ID E32 10015150
+A164	LLT E32 Skin erythema
+A165	LLT-ID E32 10040842
+A166	CUI E33 C0237849
+A167	UMLS-Preferred-Name E33 Peeling of skin
+A168	MEDDRA-PT E33 Skin exfoliation
+A169	MEDDRA-PT-ID E33 10040844
+A170	LLT E33 Flaking skin
+A171	LLT-ID E33 10016749
+A172	CUI E34 C0237849
+A173	UMLS-Preferred-Name E34 Peeling of skin
+A174	MEDDRA-PT E34 Skin exfoliation
+A175	MEDDRA-PT-ID E34 10040844
+A176	LLT E34 Skin peeling
+A177	LLT-ID E34 10040908
+A178	CUI E35 C0423777
+A179	UMLS-Preferred-Name E35 Crust on skin
+A180	MEDDRA-PT E35 Scab
+A181	MEDDRA-PT-ID E35 10039509
+A182	LLT E35 Crust
+A183	LLT-ID E35 10011468
+A184	CUI E36 C0281982
+A185	UMLS-Preferred-Name E36 Swelling of skin
+A186	MEDDRA-PT E36 Skin swelling
+A187	MEDDRA-PT-ID E36 10053262
+A188	CUI E37 C3814530
+A189	UMLS-Preferred-Name E37 Skin Vesicle
+A190	MEDDRA-PT E37 Blister
+A191	MEDDRA-PT-ID E37 10005191
+A192	LLT E37 Vesicles
+A193	LLT-ID E37 10047368
+A194	CUI E38 C0241157
+A195	UMLS-Preferred-Name E38 pustule
+A196	MEDDRA-PT E38 Rash pustular
+A197	MEDDRA-PT-ID E38 10037888
+A198	LLT E38 Pustule
+A199	LLT-ID E38 10037578
+A200	CUI E39 C3887524
+A201	UMLS-Preferred-Name E39 Skin Erosion
+A202	MEDDRA-PT E39 Skin erosion
+A203	MEDDRA-PT-ID E39 10040840
+A204	CUI E40 C0037299
+A205	UMLS-Preferred-Name E40 Skin Ulcer
+A206	MEDDRA-PT E40 Skin ulcer
+A207	MEDDRA-PT-ID E40 10040943
+A208	LLT E40 Skin ulceration
+A209	LLT-ID E40 10040947
+A210	CUI E41 C0549452
+A211	UMLS-Preferred-Name E41 Localised skin reaction
+A212	MEDDRA-PT E41 Skin reaction
+A213	MEDDRA-PT-ID E41 10040914
+A214	LLT E41 Localised skin reaction
+A215	LLT-ID E41 10024777
+A216	CUI E42 C0521491
+A217	UMLS-Preferred-Name E42 Application site pain
+A218	MEDDRA-PT E42 Application site pain
+A219	MEDDRA-PT-ID E42 10003051
+A220	CUI E43 C0853714
+A221	UMLS-Preferred-Name E43 Application site pruritus
+A222	MEDDRA-PT E43 Application site pruritus
+A223	MEDDRA-PT-ID E43 10003053
+A224	CUI E44 C0521496
+A225	UMLS-Preferred-Name E44 Application site infection
+A226	MEDDRA-PT E44 Application site infection
+A227	MEDDRA-PT-ID E44 10049041
+A228	CUI E45 C0151205
+A229	UMLS-Preferred-Name E45 Periorbital edema
+A230	MEDDRA-PT E45 Periorbital oedema
+A231	MEDDRA-PT-ID E45 10034545
+A232	LLT E45 Periorbital edema
+A233	LLT-ID E45 10054541
+A234	CUI E46 C0018681
+A235	UMLS-Preferred-Name E46 Headache
+A236	MEDDRA-PT E46 Headache
+A237	MEDDRA-PT-ID E46 10019211
+A238	CUI E47 C0853714
+A239	UMLS-Preferred-Name E47 Application site pruritus
+A240	MEDDRA-PT E47 Application site pruritus
+A241	MEDDRA-PT-ID E47 10003053
+A242	CUI E48 C0521490
+A243	UMLS-Preferred-Name E48 Application site irritation
+A244	MEDDRA-PT E48 Application site irritation
+A245	MEDDRA-PT-ID E48 10003046
+A246	CUI E49 C0027441
+A247	UMLS-Preferred-Name E49 Nasopharyngitis
+A248	MEDDRA-PT E49 Nasopharyngitis
+A249	MEDDRA-PT-ID E49 10028810
+A250	CUI E50 C0521491
+A251	UMLS-Preferred-Name E50 Application site pain
+A252	MEDDRA-PT E50 Application site pain
+A253	MEDDRA-PT-ID E50 10003051
+A254	CUI E51 C0162285
+A255	UMLS-Preferred-Name E51 Edema of eyelid
+A256	MEDDRA-PT E51 Eyelid oedema
+A257	MEDDRA-PT-ID E51 10015993
+A258	LLT E51 Eyelid edema
+A259	LLT-ID E51 10015985
+A260	CUI E52 C0151827
+A261	UMLS-Preferred-Name E52 Eye pain
+A262	MEDDRA-PT E52 Eye pain
+A263	MEDDRA-PT-ID E52 10015958
+A264	CUI E53 C0009763
+A265	UMLS-Preferred-Name E53 Conjunctivitis
+A266	MEDDRA-PT E53 Conjunctivitis
+A267	MEDDRA-PT-ID E53 10010741
+A268	CUI E54 C0020517
+A269	UMLS-Preferred-Name E54 Hypersensitivity
+A270	MEDDRA-PT E54 Hypersensitivity
+A271	MEDDRA-PT-ID E54 10020751
+A272	CUI E55 C0162820
+A273	UMLS-Preferred-Name E55 Dermatitis, Allergic Contact
+A274	MEDDRA-PT E55 Dermatitis contact
+A275	MEDDRA-PT-ID E55 10012442
+A276	LLT E55 Allergic contact dermatitis
+A277	LLT-ID E55 10056265
+A278	CUI E56 C0019360
+A279	UMLS-Preferred-Name E56 Herpes zoster disease
+A280	MEDDRA-PT E56 Herpes zoster
+A281	MEDDRA-PT-ID E56 10019974
+A282	CUI E57 C0149866
+A283	UMLS-Preferred-Name E57 Chemical conjunctivitis
+A284	MEDDRA-PT E57 Chemical eye injury
+A285	MEDDRA-PT-ID E57 10055116
+A286	LLT E57 Chemical conjunctivitis
+A287	LLT-ID E57 10055119
+A288	CUI E58 C0239116
+A289	UMLS-Preferred-Name E58 Corneal burn
+A290	MEDDRA-PT E58 Eye burns
+A291	MEDDRA-PT-ID E58 10015911
+A292	LLT E58 Corneal burn
+A293	LLT-ID E58 10068161
+A294	CUI E59 C0549452
+A295	UMLS-Preferred-Name E59 Localised skin reaction
+A296	MEDDRA-PT E59 Skin reaction
+A297	MEDDRA-PT-ID E59 10040914
+A298	LLT E59 Localised skin reaction
+A299	LLT-ID E59 10024777

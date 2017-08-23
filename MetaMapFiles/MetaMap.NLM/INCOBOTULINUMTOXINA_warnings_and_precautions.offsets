@@ -1,0 +1,148 @@
+412,435|C0011168|swallowing difficulties|dsyn
+530,539|C0011168|dysphagia|dsyn
+556,567;582,591|C0243087|Concomitant disorders|patf
+568,591|C0027868|neuromuscular disorders|dsyn
+596,606|C0436331|exacerbate|fndg
+654,671|C0949445|Cervical Dystonia|sosy
+706,718|C0575165|smaller neck|fndg
+719,730|C0240417|muscle mass|fndg
+837,846|C0011168|dysphagia|dsyn
+947,956|C0011168|dysphagia|dsyn
+964,977|C0005747|Blepharospasm|dsyn
+998,1014|C1282542|Corneal exposure|fndg
+1019,1029|C0041582|ulceration|dsyn
+1019,1029|C3887532|ulceration|patf
+1019,1029|C1963256|ulceration|fndg
+1093,1097;1101,1108|C0861063|lead reduced|fndg
+1101,1117|C1562406|reduced blinking|fndg
+1122,1129;1153,1163|C0010043|corneal ulceration|dsyn
+1122,1138|C1282542|corneal exposure|fndg
+1153,1163|C0041582|ulceration|dsyn
+1153,1163|C3887532|ulceration|patf
+1153,1163|C1963256|ulceration|fndg
+1167,1178|C1881710|perforation|patf
+1167,1178|C0549099|perforation|fndg
+1232,1240|C0012569|diplopia|fndg
+1342,1348|C0005745|ptosis|anab
+1342,1348|C0033377|ptosis|dsyn
+1587,1595|C1457887|symptoms|sosy
+1675,1683|C0004093|asthenia|sosy
+1685,1712|C0746674|generalized muscle weakness|sosy
+1714,1722|C0012569|diplopia|fndg
+1724,1738|C0344232|blurred vision|sosy
+1740,1746|C0005745|ptosis|anab
+1740,1746|C0033377|ptosis|dsyn
+1748,1757|C0011168|dysphagia|dsyn
+1759,1768|C1527344|dysphonia|fndg
+1759,1768|C0019825|dysphonia|sosy
+1770,1780|C0013362|dysarthria|mobd
+1782,1802|C0042024|urinary incontinence|patf
+1782,1802|C1962973|urinary incontinence|fndg
+1808,1830|C0013404|breathing difficulties|sosy
+1838,1846|C1457887|symptoms|sosy
+1898,1908|C0740170|Swallowing|fndg
+1913,1935|C0013404|breathing difficulties|sosy
+1991,1996|C1306577|death|fndg
+1997,2004|C0445223|related|fndg
+2049,2057|C1457887|symptoms|sosy
+2091,2102|C0332154|treated for|fndg
+2103,2113|C0026838|spasticity|sosy
+2118,2126|C1457887|symptoms|sosy
+2147,2158|C0332154|treated for|fndg
+2159,2169|C0026838|spasticity|sosy
+2180,2190|C0012634|conditions|dsyn
+2247,2257|C0012634|conditions|dsyn
+2294,2302|C1457887|symptoms|sosy
+2334,2344|C0026838|spasticity|sosy
+2398,2406|C1457887|symptoms|sosy
+2508,2512|C1273517|used|fndg
+2522,2539|C0949445|cervical dystonia|sosy
+2612,2616|C0580931|care|fndg
+2620,2630|C0740170|swallowing|fndg
+2643,2664|C0035204|respiratory disorders|dsyn
+3145,3171|C0020517|Hypersensitivity Reactions|patf
+3254,3265|C0002792|anaphylaxis|patf
+3254,3265|C0850803|anaphylaxis|dsyn
+3267,3281|C0036830|serum sickness|dsyn
+3267,3281|C1963234|serum sickness|fndg
+3283,3292|C0042109|urticaria|dsyn
+3283,3292|C2186740|urticaria|fndg
+3294,3311|C0037580|soft tissue edema|dsyn
+3317,3324|C0013404|dyspnea|sosy
+3345,3381|C0020523|immediate hypersensitivity reactions|patf
+3426,3438|C1444662|discontinued|fndg
+3506,3515|C0011168|Dysphagia|dsyn
+3520,3542|C0013404|Breathing Difficulties|sosy
+3559,3576|C0949445|Cervical Dystonia|sosy
+3643,3649|C2825142|result|fndg
+3653,3663|C0740170|swallowing|fndg
+3667,3689|C0013404|breathing difficulties|sosy
+3718,3728|C0740170|swallowing|fndg
+3732,3754|C0013404|breathing difficulties|sosy
+3788,3801|C0009566|complications|patf
+3788,3801|C1171258|complications|patf
+3923,3933|C0740170|swallowing|fndg
+4057,4063|C1306577|Deaths|fndg
+4069,4081|C0009566|complication|patf
+4092,4101|C0011168|dysphagia|dsyn
+4159,4168|C0011168|Dysphagia|dsyn
+4256,4265|C0392209|nutrition|fndg
+4270,4279|C1321013|hydration|fndg
+4281,4291|C2712334|Aspiration|fndg
+4281,4291|C0700198|Aspiration|patf
+4281,4291|C2827071|Aspiration|fndg
+4296,4302|C2825142|result|fndg
+4315,4324|C0011168|dysphagia|dsyn
+4381,4391|C0740170|swallowing|fndg
+4427,4438|C2945640|compromised|fndg
+4457,4474|C0949445|cervical dystonia|sosy
+4535,4552|C0158784|accessory muscles|cgab
+4578,4584|C2825142|result|fndg
+4641,4662|C0035204|respiratory disorders|dsyn
+4704,4721|C0158784|accessory muscles|cgab
+4773,4795|C0013404|breathing difficulties|sosy
+4807,4826|C1145670|respiratory failure|dsyn
+4845,4862|C0949445|cervical dystonia|sosy
+4920,4932|C0575165|smaller neck|fndg
+4933,4944|C0240417|muscle mass|fndg
+5072,5081|C0011168|dysphagia|dsyn
+5189,5198|C0011168|dysphagia|dsyn
+5302,5326|C0392678|problems with swallowing|sosy
+5338,5359|C0035204|respiratory disorders|dsyn
+5619,5629;5636,5647|C0031117|peripheral neuropathic|dsyn
+5648,5656|C0012634|diseases|dsyn
+5658,5687|C0002736|amyotrophic lateral sclerosis|dsyn
+5692,5705;5717,5726|C0027868|neuromuscular disorders|dsyn
+5734,5751|C0026896|myasthenia gravis|dsyn
+5755,5777|C0022972|Lambert-Eaton syndrome|dsyn
+5862,5885|C0027868|neuromuscular disorders|dsyn
+5896,5905;5937,5944|C0595938|increased effects|patf
+5962,5971|C0011168|dysphagia|dsyn
+5988,5998|C2945640|compromise|fndg
+6075,6091|C1282542|Corneal Exposure|fndg
+6093,6111|C0010043|Corneal Ulceration|dsyn
+6117,6126|C0013592|Ectropion|anab
+6163,6176|C0005747|Blepharospasm|dsyn
+6272,6279;6288,6296|C2220426|lead to exposure|fndg
+6331,6349|C0010043|corneal ulceration|dsyn
+6383,6398|C0442874|nerve disorders|dsyn
+6527,6536|C0013592|ectropion|anab
+6596,6604|C0557351|employed|fndg
+6663,6667|C3542022|soft|dsyn
+6843,6864|C0017605|narrow angle glaucoma|dsyn
+6877,6886|C0013592|ectropion|anab
+6975,6985|C0013491|Ecchymosis|patf
+7052,7060|C0460139|pressure|fndg
+7068,7082|C0221208|injection site|inpo
+7123,7129|C0005745|Ptosis|anab
+7123,7129|C0033377|Ptosis|dsyn
+7294,7306|C0009566|complication|patf
+7310,7316|C0005745|ptosis|anab
+7310,7316|C0033377|ptosis|dsyn
+7602,7617;7624,7632|C0242781|Transmission of Diseases|patf
+7773,7780|C0699809|carries|fndg
+7801,7809;7832,7840|C1281905|risk for diseases|fndg
+7865,7880;7899,7906|C0242781|transmission of disease|patf
+7865,7877|C0242781|transmission|patf
+7881,7906|C0022336|Creutzfeldt-Jakob disease|dsyn
+7881,7898|C0022336|Creutzfeldt-Jakob|dsyn

@@ -1,0 +1,174 @@
+00000000|AA|ADRs|adverse drug reactions|1|4|5|22|1464:4
+00000000|MMI|230.86|Exanthema|C0015230|[sosy]|["RASH"-tx-31-"Rash"-noun-0,"RASH"-tx-30-"rash"-noun-0,"RASH"-tx-29-"Rash"-noun-0,"RASH"-tx-28-"Rash"-noun-0,"RASH"-tx-28-"rash"-noun-0,"RASH"-tx-27-"rash"-noun-0,"RASH"-tx-26-"rash"-noun-0,"RASH"-tx-19-"Rash"-noun-0,"RASH"-tx-15-"rash"-noun-0,"RASH"-tx-15-"rash"-noun-1,"RASH"-tx-14-"rash"-noun-0,"RASH"-tx-13-"Rash"-noun-0,"RASH"-tx-12-"rash"-noun-0,"RASH"-tx-11-"rash"-noun-0,"RASH"-tx-9-"rash"-noun-0,"RASH"-tx-3-"rash"-noun-0,"RASH"-tx-2-"rash"-noun-0]|TX|14843/4;14747/4;14642/4;14395/4;[14471/4],[14575/4];14376/4;14232/4;4029/4;[2521/4],[2613/4],[2674/4];[2521/4],[2613/4],[2674/4];[2177/4],[2268/4],[2369/4];2094/4;1984/4;1946/4;1606/4;491/4;365/4|C17.800.257
+00000000|MMI|121.88|School Grade|C3244287|[fndg]|["grade"-tx-29-"Grade"-verb-0,"grade"-tx-21-"Grade"-noun-0,"grade"-tx-21-"Grade"-verb-0,"grade"-tx-20-"Grade"-verb-0,"grade"-tx-19-"Grade"-verb-0,"grade"-tx-16-"Grade"-verb-0,"grade"-tx-9-"Grade"-verb-0]|TX|14673/5;[7071/5],[7293/5],[7404/5],[7737/5],[8736/5],[8847/5],[8958/5],[9180/5],[9291/5],[9402/5],[9624/5],[10519/5],[10856/5],[11093/5],[11317/5],[11889/5],[12336/5];[7071/5],[7293/5],[7404/5],[7737/5],[8736/5],[8847/5],[8958/5],[9180/5],[9291/5],[9402/5],[9624/5],[10519/5],[10856/5],[11093/5],[11317/5],[11889/5],[12336/5];6085/5;4346/5;2792/5;1582/5|
+00000000|MMI|60.06|1+|C3816745|[fndg]|["1+"-tx-23-"1"-percentage-0,"1+"-tx-21-"1"-percentage-0,"1+"-tx-21-"1"-real_number-0,"1+"-tx-4-"1"-integer-0]|TX|13310/1;[7164/1],[7609/1],[7773/1],[7941/1],[8053/1],[8497/1],[8608/1],[8914/1],[9025/1],[9052/1],[9802/1],[9914/1],[9940/1],[11649/1],[12205/1],[12626/1],[12652/1];[7164/1],[7609/1],[7773/1],[7941/1],[8053/1],[8497/1],[8608/1],[8914/1],[9025/1],[9052/1],[9802/1],[9914/1],[9940/1],[11649/1],[12205/1],[12626/1],[12652/1];615/1|
+00000000|MMI|39.79|2+|C3833492|[fndg]|["2+"-tx-29-"2"-integer-0,"2+"-tx-28-"2"-fraction-0,"2+"-tx-21-"2"-integer-0,"2+"-tx-21-"2"-percentage-0,"2+"-tx-19-"2"-integer-0,"2+"-tx-19-"2"-percentage-0,"2+"-tx-16-"2"-integer-0,"2+"-tx-9-"2"-integer-0,"2+"-tx-8-"2"-percentage-0]|TX|14679/1;14532/1;[7497/1],[9186/1],[10862/1],[11323/1],[11536/1],[12093/1],[12540/1];[7497/1],[9186/1],[10862/1],[11323/1],[11536/1],[12093/1],[12540/1];[3917/1],[4229/1],[4352/1];[3917/1],[4229/1],[4352/1];2798/1;1588/1;1511/1|
+00000000|MMI|38.40|Hepatitis B|C0019163|[dsyn]|["HEPATITIS B"-tx-24-"hepatitis B"-noun-0,"HEPATITIS B"-tx-24-"hepatitis B"-noun-1,"HEPATITIS B"-tx-22-"hepatitis B"-noun-0,"HEPATITIS B"-tx-21-"hepatitis B"-noun-0]|TX|[13447/11],[13555/11];[13447/11],[13555/11];12983/11;12708/11|C02.256.430.400;C02.440.435;C06.552.380.705.437
+00000000|MMI|38.01|Adverse reaction to drug|C0041755|[inpo]|["Reactions, Adverse Drug"-tx-27-"adverse drug reactions"-noun-0,"Reactions, Adverse Drug"-tx-26-"adverse drug reactions"-noun-0,"Reactions, Adverse Drug"-tx-19-"ADRs"-noun-0,"Reactions, Adverse Drug"-tx-19-"Adverse ADRs"-noun-0,"Reactions, Adverse Drug"-tx-17-"ADRs"-noun-0,"Reactions, Adverse Drug"-tx-16-"Adverse Reactions ADRs"-noun-0,"Adverse reaction to drug"-tx-8-"to adverse drug reactions"-noun-0,"Reactions, Adverse Drug"-tx-3-"adverse drug reactions"-noun-0,"Reactions, Adverse Drug"-tx-2-"adverse drug reactions"-noun-0]|TX|14311/22;14123/22;5788/4;4158/7,4201/4;2998/4;2695/17,2728/4;1437/25;427/22;237/22|C25.100
+00000000|MMI|29.71|Disease|C0012634|[dsyn]|["Disorders"-tx-36-"Disorders"-noun-0,"Disorders"-tx-19-"Disorders"-noun-0,"condition"-tx-19-"Conditions"-noun-0,"condition"-tx-5-"conditions"-noun-0]|TX|15683/9;[3973/9],[5681/9];4793/10;795/10|C23.550.288
+00000000|MMI|29.52|West Haven Hepatic Encephalopathy Grade 2|C3889824|[fndg]|["GRADE 2"-tx-28-"Grade 2"-noun-0,"GRADE 2"-tx-23-"Grade 2"-noun-0,"GRADE 2"-tx-21-"Grade 2"-noun-0,"GRADE 2"-tx-20-"Grade 2"-noun-0,"GRADE 2"-tx-19-"Grades 2"-noun-0,"GRADE 2"-tx-14-"Grade 2"-noun-0]|TX|14479/7;13068/7;[6263/7],[6849/7],[7293/7],[7737/7],[8292/7],[8736/7],[10179/7];6074/7;3377/8;2276/7|
+00000000|MMI|29.11|Hepatitis C|C0019196|[dsyn]|["Hepatitis C virus infection"-tx-24-"hepatitis C virus infection"-noun-0,"Hepatitis C virus infection"-tx-24-"hepatitis C virus infection"-noun-1,"Hepatitis C virus infection"-tx-21-"hepatitis C virus infection"-noun-0]|TX|[13466/17,13487/9],[13574/17,13595/9];[13466/17,13487/9],[13574/17,13595/9];12851/17,12872/9|C02.440.440;C02.782.350.350;C06.552.380.705.440
+00000000|MMI|23.59|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["Grade 4"-tx-21-"Grade 4"-noun-0]|TX|[6263/5,6274/1],[7071/7],[7515/7],[7959/7],[8514/7],[9846/7],[11434/5,11510/1],[11554/7],[12111/7],[12558/7]|
+00000000|MMI|23.59|West Haven Hepatic Encephalopathy Grade 4|C3889293|[fndg]|["GRADE 4"-tx-21-"Grade 4"-noun-0]|TX|[6263/5,6274/1],[7071/7],[7515/7],[7959/7],[8514/7],[9846/7],[11434/5,11510/1],[11554/7],[12111/7],[12558/7]|
+00000000|MMI|21.05|Confusion|C0009676|[mobd]|["CONFUSIONAL STATE"-tx-19-"confusional state"-noun-0,"Disorientation"-tx-19-"disorientation"-noun-0]|TX|5379/17;5398/14|C10.597.606.337;C23.888.592.604.339;F01.700.250
+00000000|MMI|19.25|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-23-"ALT"-noun-0,"ALT"-tx-22-"ALT"-noun-0]|TX|13160/3;12937/3|C04.557.450.550.400
+00000000|MMI|17.32|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-27-"diarrhea"-noun-0,"DIARRHOEA"-tx-3-"diarrhea"-noun-0]|TX|14385/8;500/8|C23.888.821.214
+00000000|MMI|17.32|Erythema Multiforme|C0014742|[dsyn]|["ERYTHEMA MULTIFORME"-tx-19-"erythema multiforme"-noun-0,"ERYTHEMA MULTIFORME"-tx-10-"erythema multiforme"-noun-0]|TX|5899/19;1681/19|C17.800.229.400;C17.800.865.475
+00000000|MMI|15.50|Liver Failure|C0085605|[dsyn]|["HEPATIC FAILURE"-tx-35-"hepatic failure"-noun-0,"HEPATIC FAILURE"-tx-19-"hepatic failure"-noun-0]|TX|15496/15;4901/15|C06.552.308.500
+00000000|MMI|14.23|Syncope|C0039070|[sosy]|["SYNCOPE"-tx-19-"syncope"-noun-0]|TX|5250/7|C10.597.606.358.800.600;C23.888.592.604.359.800.600
+00000000|MMI|13.59|Drug Allergy|C0013182|[dsyn]|["Drug Hypersensitivity"-tx-19-"drug hypersensitivity"-noun-0,"drug Hypersensitivity reaction"-tx-10-"drug hypersensitivity reaction"-noun-0]|TX|5015/21;1646/30|C20.543.206;C25.100.468
+00000000|MMI|13.26|Unmarried|C0087136|[fndg]|["single"-tx-25-"single"-adj-0]|TX|13795/6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+00000000|MMI|12.56|Infected|C0439663|[fndg]|["Infected"-tx-25-"infected"-adj-0,"Infected"-tx-23-"infected"-adj-0,"Infected"-tx-22-"infected"-adj-0,"Infected"-tx-21-"infected"-adj-0,"Infected"-tx-11-"infected"-adj-0,"Infected"-tx-6-"infected"-adj-0]|TX|13889/8;13262/8;13023/8;12694/8;1864/8;1193/8|
+00000000|MMI|12.37|Amnesia|C0002622|[mobd]|["AMNESIA"-tx-19-"amnesia"-noun-0]|TX|5241/7|C10.597.606.525.100;C23.888.592.604.529.100;F01.700.625.100;F03.615.200
+00000000|MMI|12.37|Angina Pectoris|C0002962|[fndg]|["ANGINA PECTORIS"-tx-19-"angina pectoris"-noun-0]|TX|4438/15|C10.597.617.192.500;C14.280.647.187;C14.907.585.187;C23.888.592.612.233.500
+00000000|MMI|12.37|Gastroesophageal reflux disease|C0017168|[dsyn]|["Gastrooesophageal reflux disease"-tx-19-"gastroesophageal reflux disease"-noun-0]|TX|4594/31|C06.405.117.119.500.484
+00000000|MMI|12.37|Hepatitis B, Chronic|C0524909|[dsyn]|["Chronic hepatitis B"-tx-21-"chronic hepatitis B"-noun-0]|TX|12824/19|C02.256.430.400.100;C02.440.435.100;C06.552.380.350.100;C06.552.380.705.437.100
+00000000|MMI|12.37|Hypesthesia|C0020580|[fndg]|["HYPOESTHESIA"-tx-19-"hypoesthesia"-noun-0]|TX|5227/12|C10.597.751.791.500;C23.888.592.763.770.500
+00000000|MMI|12.37|Paresthesia|C0030554|[dsyn]|["Parasthesia"-tx-19-"paraesthesia"-noun-0]|TX|5189/12|C10.597.751.791.875;C23.888.592.763.770.875
+00000000|MMI|11.91|Peripheral Neuropathy|C0031117|[dsyn]|["PERIPHERAL NEUROPATHY"-tx-19-"Peripheral neuropathy"-noun-0,"PERIPHERAL NEUROPATHY"-tx-2-"peripheral neuropathy"-noun-0]|TX|3835/21;374/21|C10.668.829
+00000000|MMI|11.38|Kidney Failure, Acute|C0022660|[dsyn]|["ACUTE RENAL FAILURE"-tx-19-"acute renal failure"-noun-0]|TX|5474/19|C12.777.419.780.050;C13.351.968.419.780.050
+00000000|MMI|11.29|10%|C3842590|[fndg]|["10%"-tx-21-"10"-integer-0,"10%"-tx-19-"10"-percentage-0,"10%"-tx-14-"10"-fraction-0,"10%"-tx-9-"10"-percentage-0]|TX|[12150/2],[12597/2];4075/2;2416/2;1612/2|
+00000000|MMI|11.26|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-21-"Grade 3"-noun-0]|TX|[6960/7],[7404/7],[7848/7],[10297/7],[10634/7]|
+00000000|MMI|10.64|4+ Answer to question|C3838679|[fndg]|["4+"-tx-21-"4"-integer-0,"4+"-tx-21-"4"-real_number-0,"4+"-tx-20-"4"-integer-0]|TX|[9358/1],[10549/1],[10666/1],[11075/1];[9358/1],[10549/1],[10666/1],[11075/1];6091/1|
+00000000|MMI|10.50|Angioedema|C0002994|[patf]|["ANGIONEUROTIC OEDEMA"-tx-19-"angioneurotic edema"-noun-0]|TX|5878/19|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|10.50|Convulsions|C4048158|[sosy]|["Convulsion"-tx-19-"convulsion"-noun-0]|TX|5215/10|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|10.50|Disorientation|C0233407|[mobd]|["DISORIENTATION"-tx-19-"disorientation"-noun-0]|TX|5398/14|C10.597.606.337;C23.888.592.604.339;F01.700.250
+00000000|MMI|10.50|Drowsiness|C0013144|[fndg]|["Somnolence"-tx-19-"somnolence"-noun-0]|TX|5203/10|F02.830.855.796;G11.561.600.815.754
+00000000|MMI|10.50|Drug Hypersensitivity Syndrome|C3541994|[dsyn]|["DRESS"-tx-35-"DRESS"-noun-0]|TX|15477/5|C17.800.174.600.262;C20.543.206.380.262;C25.100.468.380.262
+00000000|MMI|10.50|Hematemesis|C0018926|[sosy]|["HEMATEMESIS"-tx-19-"hematemesis"-noun-0]|TX|4711/11|C06.405.227.400;C23.550.414.788.400;C23.888.821.937.019
+00000000|MMI|10.50|Hypersomnia|C0917799|[dsyn]|["HYPERSOMNIA"-tx-19-"hypersomnia"-noun-0]|TX|5285/11|C10.886.425.800.200;F03.870.400.800.200
+00000000|MMI|10.50|Nightmares|C0028084|[sosy]|["NIGHTMARES"-tx-19-"nightmares"-noun-0]|TX|5427/10|F02.463.188.634.309;F02.830.855.268
+00000000|MMI|10.50|Seizures|C0036572|[sosy]|["CONVULSION (NOS)"-tx-19-"convulsion"-noun-0]|TX|5215/10|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|10.50|Stevens-Johnson Syndrome|C0038325|[dsyn]|["STEVENS JOHNSON SYNDROME"-tx-10-"Stevens-Johnson syndrome"-noun-0]|TX|1620/24|C07.465.864.500;C17.800.174.600.900;C17.800.229.400.683;C17.800.865.475.683;C20.543.206.380.900;C25.100.468.380.900
+00000000|MMI|9.50|Toxic Epidermal Necrolysis|C0014518|[dsyn]|["NECROLYSIS, TOXIC EPIDERMAL"-tx-36-"toxic epidermal necrolysis"-noun-0]|TX|15711/26|C07.465.864.500;C17.800.174.600.900;C17.800.229.400.683;C17.800.865.475.683;C20.543.206.380.900;C25.100.468.380.900
+00000000|MMI|9.50|Tremor|C0040822|[sosy]|["TREMOR"-tx-19-"tremor"-noun-0]|TX|5298/6|C10.597.350.850;C23.888.592.350.850
+00000000|MMI|9.50|Vertigo|C0042571|[sosy]|["VERTIGO"-tx-19-"vertigo"-noun-0]|TX|4512/7|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|9.49|Hepatitis A|C0019159|[dsyn]|["Hepatitis"-tx-19-"hepatitis"-noun-0]|TX|4972/9|C02.440.420;C02.782.687.359.500;C06.552.380.705.422
+00000000|MMI|9.46|HIV Infections|C0019693|[dsyn]|["HIV"-tx-25-"HIV"-noun-0]|TX|13883/3|C02.782.815.616.400;C02.800.801.400;C20.673.480
+00000000|MMI|8.96|1-2|C3843716|[fndg]|["1-2"-tx-21-"1 2"-integer-0]|TX|[6886/1,6890/1],[7164/1,7299/1],[7609/1,7743/1],[8608/1,8742/1]|
+00000000|MMI|8.93|1 - 3|C3843504|[fndg]|["1 - 3"-tx-21-"1 3"-comma_integer-0,"1 - 3"-tx-21-"1 3"-integer-0,"1 - 3"-tx-21-"1 3"-real_number-0]|TX|[7330/1,7334/1],[7884/1,7888/1],[8768/1,8784/1],[8994/1,9004/1];[7330/1,7334/1],[7884/1,7888/1],[8768/1,8784/1],[8994/1,9004/1];[7330/1,7334/1],[7884/1,7888/1],[8768/1,8784/1],[8994/1,9004/1]|
+00000000|MMI|8.77|Adverse reactions|C0559546|[patf]|["ADVERSE REACTION"-tx-5-"adverse reaction"-noun-0,"Adverse reactions"-tx-4-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|807/16;546/17;6/17;41/17|
+00000000|MMI|8.64|Anorexia|C0003123|[dsyn]|["ANOREXIA"-tx-19-"anorexia"-noun-0]|TX|5132/8|C23.888.821.108
+00000000|MMI|8.64|Constipation|C0009806|[sosy]|["CONSTIPATION"-tx-19-"constipation"-noun-0]|TX|4686/12|C23.888.821.150
+00000000|MMI|8.64|Diabetes Mellitus|C0011849|[dsyn]|["DIABETES MELLITUS"-tx-19-"diabetes mellitus"-noun-0]|TX|5113/17|C18.452.394.750;C19.246
+00000000|MMI|8.64|Flatulence|C0016204|[sosy]|["FLATULENCE"-tx-19-"flatulence"-noun-0]|TX|4627/10|C23.888.821.360
+00000000|MMI|8.64|Gastritis|C0017152|[dsyn]|["GASTRITIS"-tx-19-"gastritis"-noun-0]|TX|4639/9|C06.405.205.697;C06.405.748.398
+00000000|MMI|8.64|Hepatomegaly|C0019209|[sosy]|["HEPATOMEGALY"-tx-19-"hepatomegaly"-noun-0]|TX|4918/12|C06.552.416;C23.300.775.525
+00000000|MMI|8.64|Hyperhidrosis disorder|C0020458|[fndg]|["HYPERHIDROSIS"-tx-19-"hyperhidrosis"-noun-0]|TX|5734/13|C17.800.946.350
+00000000|MMI|8.64|Lipodystrophy|C0023787|[dsyn]|["LIPODYSTROPHY"-tx-19-"lipodystrophy"-noun-0]|TX|5863/13|C17.800.849.391;C18.452.584.625;C18.452.880.391
+00000000|MMI|8.64|Myocardial Infarction|C0027051|[dsyn]|["Infarction, Myocardial"-tx-19-"myocardial infarction"-noun-0]|TX|4415/21|C14.280.647.500;C14.907.585.500
+00000000|MMI|8.64|Sleep Disorders|C0851578|[dsyn]|["SLEEP DISORDERS"-tx-19-"sleep disorders"-noun-0]|TX|5345/15|C10.886;C23.888.592.796;F03.870
+00000000|MMI|8.64|Xerostomia|C0043352|[dsyn]|["DRY MOUTH"-tx-19-"dry mouth"-noun-0]|TX|4700/9|C07.465.815.929
+00000000|MMI|8.43|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-31-"therapy"-noun-1,"Therapy"-tx-30-"therapy"-noun-0,"Therapy"-tx-13-"therapy"-noun-1,"Therapy"-tx-12-"therapy"-noun-0]|TX|14916/7;14834/7;2151/7;2052/7|
+00000000|MMI|8.26|Related personal status|C0445223|[fndg]|["Related"-tx-18-"related"-verb-0,"Related"-tx-15-"related"-adj-0,"Related"-tx-15-"related"-adj-1]|TX|3148/7;[2513/7],[2605/7],[2666/7];[2513/7],[2605/7],[2666/7]|
+00000000|MMI|7.81|Anemia, Hemolytic|C0002878|[dsyn]|["Hemolytic anemia (disorder)"-tx-19-"hemolytic anemia Disorders"-noun-0]|TX|4851/16,4888/9|C15.378.071.141
+00000000|MMI|7.80|Abnormal behavior|C0233514|[mobd]|["Psychiatric disorders"-tx-19-"Psychiatric Disorders"-noun-0]|TX|5311/21|F01.145.126.972;F01.145.179.750
+00000000|MMI|7.76|Hyperglycemia|C0020456|[dsyn]|["elevated glucose"-tx-21-"Elevated glucose"-noun-0]|TX|11208/16|C18.452.394.952
+00000000|MMI|7.67|Atrial Fibrillation|C0004238|[dsyn]|["ATRIAL FIBRILLATION"-tx-19-"atrial fibrillation"-noun-0]|TX|4455/19|C14.280.067.198;C23.550.073.198
+00000000|MMI|7.64|Gynecomastia|C0018418|[dsyn]|["GYNECOMASTIA"-tx-19-"gynecomastia"-noun-0]|TX|5544/12|C17.800.090.875
+00000000|MMI|7.63|Dyslipidemias|C0242339|[dsyn]|["Dyslipidaemia"-tx-19-"dyslipidemia"-noun-0]|TX|5142/12|C18.452.584.500
+00000000|MMI|6.78|Anxiety|C0003467|[mobd]|["-- Anxiety"-tx-19-"anxiety"-noun-0]|TX|5336/7|F01.470.132
+00000000|MMI|6.78|Breast Diseases|C0006145|[dsyn]|["BREAST DISORDERS"-tx-19-"Breast Disorders"-noun-0]|TX|5524/16|C17.800.090
+00000000|MMI|6.78|Edema|C0013604|[fndg]|["SWELLING"-tx-19-"swelling"-verb-0]|TX|5759/8|C23.888.277
+00000000|MMI|6.78|Fatty Liver|C0015695|[dsyn]|["hepatic steatosis"-tx-19-"hepatic steatosis"-noun-0]|TX|4953/17|C06.552.241
+00000000|MMI|6.78|Labyrinthine disorder|C0022890|[dsyn]|["Labyrinth Disorders"-tx-19-"Labyrinth Disorders"-noun-0]|TX|4489/19|C09.218.568
+00000000|MMI|6.78|Mediastinal Diseases|C0025061|[dsyn]|["Mediastinal Disorders"-tx-19-"Mediastinal Disorders"-noun-0]|TX|5588/21|C08.846.187
+00000000|MMI|6.78|Nervousness|C0027769|[sosy]|["NERVOUSNESS"-tx-19-"nervousness"-noun-0]|TX|5414/11|F01.470.132
+00000000|MMI|6.78|Pancreatitis|C0030305|[dsyn]|["PANCREATITIS"-tx-19-"pancreatitis"-noun-0]|TX|4672/12|C06.689.750
+00000000|MMI|6.78|Prurigo|C0033771|[dsyn]|["Prurigo"-tx-19-"prurigo"-noun-0]|TX|5725/7|C17.800.674
+00000000|MMI|6.78|Steatohepatitis|C2711227|[dsyn]|["Hepatic steatosis"-tx-19-"hepatic steatosis"-noun-0]|TX|4953/17|C06.552.241
+00000000|MMI|6.78|Urologic Diseases|C0042075|[dsyn]|["Urinary disorders"-tx-19-"Urinary Disorders"-noun-0]|TX|5454/17|C12.777;C13.351.968
+00000000|MMI|6.65|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-36-"Subcutaneous Disorders"-noun-0,"Subcutaneous Disorders"-tx-19-"Subcutaneous Disorders"-noun-0]|TX|15663/12,15683/9;[3953/12,3973/9],[5661/12,5681/9]|
+00000000|MMI|6.62|6/3|C1630409|[fndg]|["6/3"-tx-33-"6.3"-real_number-0,"6/3"-tx-28-"6.3"-percentage-0,"6/3"-tx-21-"6 3"-noun-0]|TX|15083/3;14603/3;7386/1,7410/1|
+00000000|MMI|6.59|0%|C3842591|[fndg]|["0%"-tx-28-"0"-fraction-0,"0%"-tx-28-"0"-percentage-0,"0%"-tx-10-"0"-percentage-0]|TX|[14624/1],[14630/1];[14624/1],[14630/1];1728/1|
+00000000|MMI|6.13|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-27-"diarrhea"-noun-0,"Diarrhea"-tx-3-"diarrhea"-noun-0]|TX|14385/8;500/8|
+00000000|MMI|5.93|Stomatitis|C0038362|[dsyn]|["Stomatitis (disorder)"-tx-19-"stomatitis Disorders"-noun-0]|TX|4734/10,4759/9|C07.465.864
+00000000|MMI|5.79|Bronchial Spasm|C0006266|[dsyn]|["BRONCHOSPASM"-tx-19-"bronchospasm"-noun-0]|TX|5633/12|C08.127.321
+00000000|MMI|5.79|Rhabdomyolysis|C0035410|[patf]|["RHABDOMYOLYSIS"-tx-36-"rhabdomyolysis"-noun-0]|TX|15633/14|C05.651.807
+00000000|MMI|5.77|Hepatitis|C0019158|[dsyn]|["HEPATITIS"-tx-19-"hepatitis"-noun-0]|TX|4972/9|C06.552.380
+00000000|MMI|4.92|Anxiety Disorders|C0003469|[mobd]|["Anxiety"-tx-19-"anxiety"-noun-0]|TX|5336/7|F03.080
+00000000|MMI|4.92|Connective Tissue Diseases|C0009782|[dsyn]|["Connective Tissue Disorders"-tx-36-"Connective Tissue Disorders"-noun-0]|TX|15602/27|C17.300
+00000000|MMI|4.92|Heart Diseases|C0018799|[dsyn]|["Cardiac Disorders"-tx-19-"Cardiac Disorders"-noun-0]|TX|4394/17|C14.280
+00000000|MMI|4.92|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-1-"hypersensitivity reactions"-noun-0]|TX|133/26|C20.543
+00000000|MMI|4.92|Nutrition Disorders|C3714509|[dsyn]|["Nutrition Disorders"-tx-19-"Nutrition Disorders"-noun-0]|TX|5090/19|C18.654
+00000000|MMI|4.67|Immune System Diseases|C0021053|[dsyn]|["Immune system disorders"-tx-35-"Immune System Disorders"-noun-0,"Immune system disorders"-tx-19-"Immune System Disorders"-noun-0]|TX|15406/23;4988/23|C20
+00000000|MMI|4.39|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-19-"Nervous System Disorders"-noun-0]|TX|[3761/24],[5161/24]|C10
+00000000|MMI|4.23|Resolved|C3714811|[fndg]|["RESOLVED"-tx-31-"resolved"-verb-0,"RESOLVED"-tx-13-"resolved"-verb-0]|TX|14880/8;2109/8|
+00000000|MMI|4.23|physiologic resolution|C1514893|[patf]|["Resolved"-tx-31-"resolved"-verb-0,"Resolved"-tx-13-"resolved"-verb-0]|TX|14880/8;2109/8|
+00000000|MMI|4.22|60%|C3842585|[fndg]|["60%"-tx-14-"60"-fraction-0]|TX|[2302/2],[2393/2]|
+00000000|MMI|4.21|Worse|C1457868|[fndg]|["Worsening"-tx-23-"worsening"-noun-0,"Worsening"-tx-20-"worsening"-noun-0]|TX|13128/9;6135/9|
+00000000|MMI|4.18|Activity (animal life circumstance)|C3668946|[fndg]|["Activity"-tx-18-"activity"-noun-0]|TX|[3296/8],[3365/8]|
+00000000|MMI|4.18|Endurance of activity|C0600075|[fndg]|["Activity"-tx-18-"activity"-noun-0]|TX|[3296/8],[3365/8]|
+00000000|MMI|4.16|75%)|C4015571|[fndg]|["75%)"-tx-21-"75"-real_number-0]|TX|[11473/2],[11589/2]|
+00000000|MMI|4.14|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-15-"history of"-noun-0,"HISTORY OF"-tx-15-"history of"-noun-1]|TX|[2496/10],[2649/10];[2496/10],[2649/10]|
+00000000|MMI|4.09|70%|C3842584|[fndg]|["70%"-tx-21-"70"-integer-0]|TX|[8440/2],[8554/2]|
+00000000|MMI|4.08|Hematological Disease|C0018939|[dsyn]|["Haematologic Disorders"-tx-19-"Hematologic Disorders"-noun-0]|TX|4826/21|C15.378
+00000000|MMI|4.03|Congenital Abnormality|C0000768|[cgab]|["Abnormalities"-tx-22-"abnormalities"-noun-0]|TX|12941/13|C16.131
+00000000|MMI|4.03|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-19-"Gastrointestinal Disorders"-noun-0]|TX|4564/26|C06.405
+00000000|MMI|3.96|Immune Reconstitution Inflammatory Syndrome|C1619738|[dsyn]|["Immune Reconstitution Syndrome"-tx-19-"immune reconstitution syndrome"-noun-0]|TX|5038/30|C20.608
+00000000|MMI|3.06|1 - 9%|C3842508|[fndg]|["1 - 9%"-tx-14-"1.9"-percentage-0]|TX|2424/3|
+00000000|MMI|3.06|3-4|C3840617|[fndg]|["3-4"-tx-21-"3.4"-real_number-0]|TX|7997/3|
+00000000|MMI|3.06|3/4|C0442757|[fndg]|["3 4"-tx-21-"3.4"-real_number-0]|TX|7997/3|
+00000000|MMI|3.06|Abdomen distended|C0000731|[fndg]|["ABDOMINAL DISTENTION"-tx-19-"abdominal distension"-noun-0]|TX|4650/20|
+00000000|MMI|3.06|Anorexia symptom|C0426579|[sosy]|["anorexia"-tx-19-"anorexia"-noun-0]|TX|5132/8|
+00000000|MMI|3.06|Anxiety symptoms|C0860603|[fndg]|["Anxiety"-tx-19-"anxiety"-noun-0]|TX|5336/7|
+00000000|MMI|3.06|Brain hemorrhage|C0553692|[dsyn]|["Haemorrhagic stroke"-tx-19-"haemorrhagic stroke"-noun-0]|TX|5923/19|
+00000000|MMI|3.06|Constipation Adverse Event|C1963087|[fndg]|["Constipation"-tx-19-"constipation"-noun-0]|TX|4686/12|
+00000000|MMI|3.06|Cytolytic hepatitis|C0919823|[dsyn]|["Cytolytic hepatitis"-tx-19-"cytolytic hepatitis"-noun-0]|TX|4932/19|
+00000000|MMI|3.06|Disturbance of attention|C0233414|[mobd]|["Disturbance in attention"-tx-19-"disturbance in attention"-noun-0]|TX|5259/24|
+00000000|MMI|3.06|Dream disorder|C0234458|[mobd]|["ABNORMAL DREAMS"-tx-19-"abnormal dreams"-noun-0]|TX|5362/15|
+00000000|MMI|3.06|Drug pseudoallergy|C3662272|[dsyn]|["Drug Hypersensitivity reaction"-tx-10-"drug hypersensitivity reaction"-noun-0]|TX|1646/30|
+00000000|MMI|3.06|Dry skin|C0151908|[sosy]|["DRY SKIN"-tx-19-"dry skin"-noun-0]|TX|5749/8|
+00000000|MMI|3.06|Dyspnea on exertion|C0231807|[sosy]|["Exertional dyspnoea"-tx-19-"exertional dyspnea"-noun-0]|TX|5613/18|
+00000000|MMI|3.06|Feeling nervous|C0849963|[sosy]|["Nervousness"-tx-19-"nervousness"-noun-0]|TX|5414/11|
+00000000|MMI|3.06|Flatulence Adverse Event|C1962956|[fndg]|["Flatulence"-tx-19-"flatulence"-noun-0]|TX|4627/10|
+00000000|MMI|3.06|Has tingling sensation|C2242996|[sosy]|["paresthesia"-tx-19-"paraesthesia"-noun-0]|TX|5189/12|
+00000000|MMI|3.06|History of - drug allergy|C0455589|[fndg]|["drug Hypersensitivity reaction"-tx-10-"drug hypersensitivity reaction"-noun-0]|TX|1646/30|
+00000000|MMI|3.06|Lipohypertrophy|C1262113|[dsyn]|["Lipohypertrophy"-tx-19-"lipohypertrophy"-noun-0]|TX|5708/15|
+00000000|MMI|3.06|Loss of appetite (finding)|C1971624|[fndg]|["Anorexia"-tx-19-"anorexia"-noun-0]|TX|5132/8|
+00000000|MMI|3.06|Night sweats|C0028081|[sosy]|["NIGHT SWEATS"-tx-19-"night sweats"-noun-0]|TX|5694/12|
+00000000|MMI|3.06|Nightmare Disorder|C3887605|[mobd]|["Nightmares"-tx-19-"nightmares"-noun-0]|TX|5427/10|
+00000000|MMI|3.06|Pancreatitis Adverse Event|C1963198|[fndg]|["Pancreatitis"-tx-19-"pancreatitis"-noun-0]|TX|4672/12|
+00000000|MMI|3.06|Retching|C0232602|[sosy]|["RETCHING"-tx-19-"retching"-verb-0]|TX|4724/8|
+00000000|MMI|3.06|Sleep disturbances|C0037317|[sosy]|["sleep disorders"-tx-19-"sleep disorders"-noun-0]|TX|5345/15|
+00000000|MMI|3.06|Somnolence|C2830004|[fndg]|["SOMNOLENCE"-tx-19-"somnolence"-noun-0]|TX|5203/10|
+00000000|MMI|3.06|Swelling|C0038999|[fndg]|["SWELLING"-tx-19-"swelling"-verb-0]|TX|5759/8|
+00000000|MMI|3.06|severe allergic reaction|C2220378|[fndg]|["severe Hypersensitivity reactions"-tx-35-"Severe hypersensitivity reactions"-noun-0]|TX|15433/33|
+00000000|MMI|3.06|severe allergy|C2945656|[fndg]|["severe Hypersensitivity reactions"-tx-35-"Severe hypersensitivity reactions"-noun-0]|TX|15433/33|
+00000000|MMI|2.22|Adverse event|C0877248|[patf]|["adverse events"-tx-24-"adverse events"-noun-0]|TX|13381/14|
+00000000|MMI|2.22|Disorder of eye|C0015397|[dsyn]|["Eye Disorders"-tx-19-"Eye Disorders"-noun-0]|TX|4526/13|C11
+00000000|MMI|2.22|Mental disorders|C0004936|[mobd]|["PSYCHIATRIC DISORDERS"-tx-19-"Psychiatric Disorders"-noun-0]|TX|5311/21|F03
+00000000|MMI|2.20|5 - 9|C3840622|[fndg]|["5 - 9"-tx-21-"5 9"-percentage-0]|TX|10886/1,10929/1|
+00000000|MMI|2.19|2 mm|C3842089|[fndg]|["2 mm"-tx-21-"2 mm"-noun-0]|TX|8803/1,8891/2|
+00000000|MMI|2.19|5 mm|C3840882|[fndg]|["5 mm"-tx-21-"5 mm"-noun-0]|TX|9247/1,9333/2|
+00000000|MMI|2.19|West Haven Hepatic Encephalopathy Grade 1|C3889292|[fndg]|["GRADE 1"-tx-21-"Grade 1"-noun-0]|TX|8403/5,8471/1|
+00000000|MMI|2.17|20%|C3842589|[fndg]|["20%"-tx-28-"20"-percentage-0]|TX|14510/2|
+00000000|MMI|2.17|Actual Discomfort|C2364135|[sosy]|["Discomfort"-tx-18-"discomfort"-noun-0]|TX|3245/10|
+00000000|MMI|2.17|Malaise|C0231218|[sosy]|["DISCOMFORT"-tx-18-"discomfort"-noun-0]|TX|3245/10|
+00000000|MMI|2.17|Adverse effects|C0879626|[patf]|["treatment Adverse reactions"-tx-18-"Treatment Adverse reactions"-noun-0]|TX|3041/9,3060/7,3094/9|
+00000000|MMI|2.15|90-99%|C4068975|[fndg]|["90-99%"-tx-21-"90-99"-integer-0]|TX|8329/5|
+00000000|MMI|2.15|Reproductive System Finding|C1335757|[fndg]|["REPRODUCTIVE SYSTEM"-tx-19-"Reproductive System"-noun-0]|TX|5500/19|
+00000000|MMI|2.14|Hemoglobin finding|C1561562|[fndg]|["Hemoglobin"-tx-21-"hemoglobin"-noun-0]|TX|8193/10|
+00000000|MMI|2.13|25-49%|C4068973|[fndg]|["25-49%"-tx-21-"25 49"-comma_integer-0]|TX|9766/2,9773/2|
+00000000|MMI|2.13|Creatinine finding|C1561535|[fndg]|["Creatinine"-tx-21-"Creatinine"-noun-0]|TX|7628/10|
+00000000|MMI|2.12|50%|C3842586|[fndg]|["50%"-tx-21-"50"-comma_integer-0]|TX|9655/2|
+00000000|MMI|2.12|<50|C3843766|[fndg]|["<50"-tx-21-"50"-comma_integer-0]|TX|9655/2|
+00000000|MMI|2.12|Observation parameter|C0449381|[fndg]|["Parameters"-tx-21-"PARAMETERS"-noun-0]|TX|11676/10|
+00000000|MMI|2.12|65+|C3843765|[fndg]|["65+"-tx-21-"65"-real_number-0]|TX|10888/2|
+00000000|MMI|2.11|Discontinued|C1444662|[fndg]|["Discontinued"-tx-11-"discontinued"-verb-0]|TX|1926/12|
+00000000|MMI|2.10|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-7-"exposure"-noun-0]|TX|1312/8|
+00000000|MMI|2.10|exposure history|C2220266|[fndg]|["exposure"-tx-7-"exposure"-noun-0]|TX|1312/8|
+00000000|MMI|2.10|Immune reconstitution syndrome|C1096197|[dsyn]|["Immune reconstitution syndrome"-tx-19-"immune reconstitution syndrome"-noun-0]|TX|5038/30|
+00000000|MMI|2.10|Container status - Identified|C1550043|[fndg]|["Identified"-tx-33-"identified"-verb-0]|TX|15146/10|
+00000000|MMI|2.09|combination - answer to question|C3811910|[fndg]|["Combination"-tx-25-"combination"-noun-0]|TX|14000/11|
+00000000|MMI|2.09|Atrial Fibrillation Adverse Event|C1963067|[fndg]|["Atrial fibrillation"-tx-19-"atrial fibrillation"-noun-0]|TX|4455/19|
+00000000|MMI|2.08|Pre-renal acute kidney injury|C3854173|[dsyn]|["Acute renal failure"-tx-19-"acute renal failure"-noun-0]|TX|5474/19|
+00000000|MMI|2.07|Blurred vision|C0344232|[sosy]|["BLURRED VISION"-tx-19-"blurred vision"-noun-0]|TX|4543/14|
+00000000|MMI|2.05|Gynecomastia Adverse Event|C1963120|[fndg]|["Gynecomastia"-tx-19-"gynecomastia"-noun-0]|TX|5544/12|
+00000000|MMI|2.05|Papule|C0332563|[fndg]|["Papular"-tx-30-"papular"-adj-0]|TX|14785/7|
+00000000|MMI|2.05|Sluggishness|C0920289|[sosy]|["SLUGGISHNESS"-tx-19-"sluggishness"-noun-0]|TX|4807/12|
+00000000|MMI|2.05|Tremor Adverse Event|C1963252|[fndg]|["Tremor"-tx-19-"tremor"-noun-0]|TX|5298/6|
+00000000|MMI|2.05|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-21-"Toxicity"-noun-0]|TX|6494/8|
+00000000|MMI|2.04|safety of children|C0516535|[fndg]|["safety children"-tx-25-"safety children"-noun-0]|TX|13709/6,13730/8|
+00000000|MMI|2.04|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-19-"3"-percentage-0]|TX|4111/1|
+00000000|MMI|2.02|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-36-"Fatal"-adj-0]|TX|15696/5|

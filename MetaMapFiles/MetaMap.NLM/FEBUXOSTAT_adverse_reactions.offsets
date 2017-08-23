@@ -1,0 +1,311 @@
+153,158;168,181|C0266257|liver abnormalities|cgab
+153,158;168,181|C0478037|liver abnormalities|cgab
+183,189|C0027497|nausea|sosy
+183,189|C1963179|nausea|patf
+191,201|C0003862|arthralgia|sosy
+207,211|C0015230|rash|sosy
+497,507|C0012634|conditions|dsyn
+736,749|C0740394|hyperuricemia|dsyn
+754,758|C0018099|gout|dsyn
+862,873|C0332154|treated for|fndg
+923,934|C0332154|treated for|fndg
+965,976|C0332154|treated for|fndg
+1008,1019|C0332154|treated for|fndg
+1022,1029|C3843647|2 years|fndg
+1082,1092|C3815594|randomized|fndg
+1094,1104|C2911690|controlled|fndg
+1260,1267|C0445223|related|fndg
+1808,1824|C1565489|renal impairment|dsyn
+1936,1941;1951,1964|C0266257|Liver Abnormalities|cgab
+1936,1941;1951,1964|C0478037|Liver Abnormalities|cgab
+2051,2057|C0027497|Nausea|sosy
+2051,2057|C1963179|Nausea|patf
+2165,2175|C0003862|Arthralgia|sosy
+2279,2283|C0015230|Rash|sosy
+2446,2461|C1444662|discontinuation|fndg
+2467,2474|C1363945|therapy|fndg
+2479,2484;2494,2507|C0266257|liver abnormalities|cgab
+2479,2484;2494,2507|C0478037|liver abnormalities|cgab
+2663,2672|C0042571|dizziness|sosy
+2663,2672|C0012833|dizziness|sosy
+2663,2672|C1963093|dizziness|fndg
+3168,3194|C0024228|Lymphatic System Disorders|dsyn
+3198,3204|C0002871|anemia|dsyn
+3206,3241|C0398650|idiopathic thrombocytopenic purpura|dsyn
+3243,3255|C0023518|leukocytosis|patf
+3243,3255|C0750426|leukocytosis|fndg
+3256,3266|C0023530|leukopenia|dsyn
+3256,3266|C0750394|leukopenia|fndg
+3268,3279|C0023530|neutropenia|dsyn
+3268,3279|C0027947|neutropenia|dsyn
+3268,3279|C0853697|neutropenia|fndg
+3281,3293|C0030312|pancytopenia|dsyn
+3295,3307|C0038002|splenomegaly|fndg
+3309,3325|C0040034|thrombocytopenia|fndg
+3333,3350|C0018799|Cardiac Disorders|dsyn
+3354,3369|C0002962|angina pectoris|fndg
+3371,3398|C0155709|atrial fibrillation/flutter|patf
+3400,3414|C0018808|cardiac murmur|fndg
+3416,3428|C0522055|ECG abnormal|fndg
+3420,3428;3430,3442|C0849793|abnormal palpitations|fndg
+3430,3442|C0030252|palpitations|fndg
+3430,3442|C3160712|palpitations|fndg
+3444,3461|C1963175|sinus bradycardia|fndg
+3444,3461|C0085610|sinus bradycardia|patf
+3444,3461|C2108107|sinus bradycardia|fndg
+3463,3474|C0039231|tachycardia|patf
+3463,3474|C3827868|tachycardia|fndg
+3490,3509|C0022890|Labyrinth Disorders|dsyn
+3513,3521|C0011053|deafness|fndg
+3513,3521|C0018772|deafness|fndg
+3523,3531|C0040264|tinnitus|fndg
+3523,3531|C1963249|tinnitus|fndg
+3533,3540|C0042571|vertigo|sosy
+3548,3561|C0015397|Eye Disorders|dsyn
+3587,3613|C0017178|Gastrointestinal Disorders|dsyn
+3617,3637|C0000731|abdominal distention|fndg
+3639,3653|C0000737|abdominal pain|sosy
+3655,3667|C0009806|constipation|sosy
+3655,3667|C1963087|constipation|fndg
+3669,3678|C0043352|dry mouth|dsyn
+3680,3689|C0013395|dyspepsia|sosy
+3691,3701|C0016204|flatulence|sosy
+3691,3701|C1962956|flatulence|fndg
+3703,3718|C0011991|frequent stools|sosy
+3703,3718|C0848342|frequent stools|sosy
+3720,3729|C0017152|gastritis|dsyn
+3731,3762|C0017168|gastroesophageal reflux disease|dsyn
+3764,3791|C1096250|gastrointestinal discomfort|sosy
+3793,3806|C0239739|gingival pain|sosy
+3808,3820|C0018926|haematemesis|sosy
+3822,3838|C0151713|hyperchlorhydria|patf
+3840,3852|C0018932|hematochezia|fndg
+3854,3870|C0149745|mouth ulceration|dsyn
+3872,3884|C0030305|pancreatitis|dsyn
+3872,3884|C1963198|pancreatitis|fndg
+3886,3898|C0030920|peptic ulcer|dsyn
+3900,3908|C0042963|vomiting|sosy
+3900,3908|C1963281|vomiting|patf
+3924,3933|C0012634|Disorders|dsyn
+3958,3968|C0012634|Conditions|dsyn
+3972,3980|C0004093|asthenia|sosy
+3982,3987;3993,4003|C0235710|chest discomfort|sosy
+3982,3992|C0008031|chest pain|sosy
+3988,3992|C0030193|pain|sosy
+3988,3992|C1962977|pain|fndg
+4005,4010|C0013604|edema|fndg
+4012,4019|C0015672|fatigue|sosy
+4029,4037;4039,4043|C0575081|abnormal gait|fndg
+4039,4055|C0575081|gait disturbance|fndg
+4057,4080|C0392171|influenza-like symptoms|sosy
+4082,4086|C1096155|mass|dsyn
+4082,4086|C0577573|mass|sosy
+4082,4086|C0577559|mass|fndg
+4088,4092|C0030193|pain|sosy
+4088,4092|C1962977|pain|fndg
+4108,4131|C0267792|Hepatobiliary Disorders|dsyn
+4135,4163|C0267853|cholelithiasis/cholecystitis|dsyn
+4165,4182|C0015695|hepatic steatosis|dsyn
+4165,4182|C2711227|hepatic steatosis|dsyn
+4184,4193|C0019159|hepatitis|dsyn
+4184,4193|C0019158|hepatitis|dsyn
+4195,4207|C0019209|hepatomegaly|sosy
+4215,4237|C0021053|Immune System Disorder|dsyn
+4215,4237|C1532237|Immune System Disorder|dsyn
+4241,4257|C0020517|hypersensitivity|patf
+4241,4257|C0520946|hypersensitivity|fndg
+4265,4275|C3714514|Infections|patf
+4280,4292|C0851341|Infestations|dsyn
+4296,4309|C0019360|herpes zoster|dsyn
+4345,4354|C0009938|contusion|inpo
+4377,4396|C3714509|Nutrition Disorders|dsyn
+4400,4408|C0003123|anorexia|dsyn
+4400,4408|C0426579|anorexia|sosy
+4400,4408|C1971624|anorexia|fndg
+4440,4451|C0011175|dehydration|dsyn
+4453,4470|C0011849|diabetes mellitus|dsyn
+4472,4492|C0020443|hypercholesterolemia|dsyn
+4472,4492|C1522133|hypercholesterolemia|fndg
+4494,4507|C0020456|hyperglycemia|dsyn
+4509,4523|C0020473|hyperlipidemia|dsyn
+4509,4523|C0428465|hyperlipidemia|fndg
+4525,4545|C0020557|hypertriglyceridemia|dsyn
+4525,4545|C0428478|hypertriglyceridemia|fndg
+4547,4558|C0020621|hypokalemia|fndg
+4560,4566|C0424653|weight|sosy
+4614,4641|C0009782|Connective Tissue Disorders|dsyn
+4645,4654|C0003864|arthritis|dsyn
+4656,4671|C0162298|joint stiffness|sosy
+4673,4687|C0152031|joint swelling|sosy
+4689,4695;4723,4731|C0151786|muscle weakness|sosy
+4689,4695;4723,4731|C0030552|muscle weakness|sosy
+4689,4695;4713,4722|C0877322|muscle tightness|dsyn
+4689,4695;4703,4712|C0015644|muscle twitching|sosy
+4689,4695;4703,4712|C0231530|muscle twitching|fndg
+4689,4702|C0037763|muscle spasms|sosy
+4696,4702|C0037763|spasms|sosy
+4703,4712|C0231530|twitching|fndg
+4723,4731|C3714552|weakness|sosy
+4733,4748;4754,4763|C0948525|musculoskeletal stiffness|sosy
+4733,4753|C0026858|musculoskeletal pain|fndg
+4749,4753|C0030193|pain|sosy
+4749,4753|C1962977|pain|fndg
+4754,4763|C0427008|stiffness|sosy
+4765,4772|C0231528|myalgia|sosy
+4808,4821|C0740425|altered taste|sosy
+4823,4839|C0575090|balance disorder|sosy
+4841,4865|C0038454|cerebrovascular accident|dsyn
+4867,4890|C3542501|Guillain-Barre syndrome|dsyn
+4867,4890|C0018378|Guillain-Barre syndrome|dsyn
+4892,4900|C0018681|headache|sosy
+4892,4900|C2096315|headache|fndg
+4902,4913|C0018989|hemiparesis|sosy
+4915,4927|C0020580|hypoesthesia|fndg
+4929,4937|C2364082|hyposmia|sosy
+4939,4957|C0333559|lacunar infarction|dsyn
+4959,4967|C0023380|lethargy|sosy
+4969,4986|C0278061|mental impairment|mobd
+4969,4986|C1306341|mental impairment|mobd
+4969,4986|C0683322|mental impairment|mobd
+4988,4996|C0149931|migraine|dsyn
+4998,5009|C0030554|paresthesia|dsyn
+4998,5009|C2242996|paresthesia|sosy
+5011,5021|C0013144|somnolence|fndg
+5011,5021|C2830004|somnolence|fndg
+5023,5048|C0917805|transient ischemic attack|dsyn
+5023,5048|C0007787|transient ischemic attack|dsyn
+5050,5056|C0040822|tremor|sosy
+5050,5056|C1963252|tremor|fndg
+5089,5098|C0085631|agitation|sosy
+5100,5107|C0003467|anxiety|mobd
+5100,5107|C0003469|anxiety|mobd
+5100,5107|C0860603|anxiety|fndg
+5109,5119|C0011570|depression|mobd
+5109,5119|C0011581|depression|mobd
+5109,5119|C1579931|depression|sosy
+5109,5119|C0344315|depression|fndg
+5121,5129|C0917801|insomnia|sosy
+5121,5129|C1963237|insomnia|fndg
+5131,5143|C0022107|irritability|fndg
+5145,5151|C0517356|libido|fndg
+5163,5174|C0027769|nervousness|sosy
+5163,5174|C0849963|nervousness|sosy
+5176,5188|C0086769|panic attack|mobd
+5190,5208|C0240735|personality change|sosy
+5226,5243|C0042075|Urinary Disorders|dsyn
+5247,5256|C0018965|hematuria|fndg
+5258,5273|C0022650|nephrolithiasis|dsyn
+5258,5273|C0392525|nephrolithiasis|dsyn
+5275,5286|C0042023|pollakiuria|fndg
+5288,5299|C0033687|proteinuria|fndg
+5288,5299|C1962972|proteinuria|fndg
+5288,5299|C1279888|proteinuria|dsyn
+5301,5314|C0035078|renal failure|dsyn
+5301,5314|C1963154|renal failure|patf
+5316,5335|C0035078|renal insufficiency|dsyn
+5316,5335|C1565489|renal insufficiency|dsyn
+5346,5358|C0021167|incontinence|dsyn
+5366,5385|C1335757|Reproductive System|fndg
+5390,5404|C0558236|Breast Changes|fndg
+5408,5419|C0024902|breast pain|sosy
+5408,5419|C0553713|breast pain|sosy
+5421,5441|C0242350|erectile dysfunction|dsyn
+5421,5441|C1961100|erectile dysfunction|patf
+5443,5455|C0018418|gynecomastia|dsyn
+5443,5455|C1963120|gynecomastia|fndg
+5489,5510|C0025061|Mediastinal Disorders|dsyn
+5514,5524|C0006277|bronchitis|dsyn
+5514,5524|C0149514|bronchitis|dsyn
+5526,5531|C0010200|cough|sosy
+5526,5531|C1961131|cough|fndg
+5533,5540|C0013404|dyspnea|sosy
+5542,5551|C0014591|epistaxis|patf
+5542,5551|C2228238|epistaxis|fndg
+5553,5566|C0231919|nasal dryness|fndg
+5568,5598|C1112369|paranasal sinus hypersecretion|dsyn
+5600,5616|C0236024|pharyngeal edema|fndg
+5618,5646|C0948349|respiratory tract congestion|dsyn
+5648,5656|C0037383|sneezing|fndg
+5658,5675|C0700184|throat irritation|sosy
+5677,5710|C0041912|upper respiratory tract infection|dsyn
+5727,5739;5747,5756|C0549584|Subcutaneous Disorders|dsyn
+5747,5756|C0012634|Disorders|dsyn
+5760,5768|C0002170|alopecia|dsyn
+5770,5781|C0002994|angio-edema|patf
+5783,5793|C0011603|dermatitis|dsyn
+5795,5808|C0343065|dermographism|dsyn
+5810,5820|C0013491|ecchymosis|patf
+5822,5828|C0013595|eczema|dsyn
+5830,5848|C0474378|hair color changes|fndg
+5850,5870|C0232409|hair growth abnormal|fndg
+5872,5885|C0020458|hyperhidrosis|fndg
+5890,5902|C0237849|peeling skin|fndg
+5904,5913|C0031256|petechiae|dsyn
+5915,5931|C2362621|photosensitivity|fndg
+5915,5931|C0349506|photosensitivity|patf
+5933,5941|C0033774|pruritus|sosy
+5943,5950|C0034150|purpura|dsyn
+5952,5956;5979,5991|C1269684|skin pigmentation|fndg
+5952,5970|C0151907|skin discoloration|patf
+5957,5970|C0332572|discoloration|fndg
+5979,5991|C3665492|pigmentation|patf
+5993,6004|C0037284|skin lesion|dsyn
+6006,6024|C0234930|skin odor abnormal|fndg
+6026,6035|C0042109|urticaria|dsyn
+6026,6035|C2186740|urticaria|fndg
+6043,6061|C0042373|Vascular Disorders|dsyn
+6065,6073|C0016382|flushing|sosy
+6065,6073|C1962957|flushing|fndg
+6075,6084|C0600142|hot flush|sosy
+6086,6098|C0020538|hypertension|dsyn
+6086,6098|C1963138|hypertension|fndg
+6100,6111|C0020649|hypotension|fndg
+6100,6111|C3163620|hypotension|fndg
+6130,6140|C0449381|Parameters|fndg
+6253,6265|C0151611|EEG abnormal|fndg
+6257,6265;6267,6274|C0580546|abnormal glucose|fndg
+6415,6425|C0518014|hematocrit|fndg
+6437,6447|C1561562|hemoglobin|fndg
+6667,6679|C1287298|urine output|fndg
+6690,6699;6701,6717|C0853986|decreased lymphocyte count|fndg
+6794,6798|C0456984|test|fndg
+6839,6848;6850,6866|C0151872|increased prothrombin time|fndg
+6878,6891|C0151990|urinary casts|fndg
+6893,6907;6912,6929|C0555120|urine positive white blood cells|fndg
+6949,6963;6992,6998|C1320716|Cardiovascular events|fndg
+7003,7009|C1306577|deaths|fndg
+7135,7140|C1306577|death|fndg
+7146,7151|C1705232|fatal|fndg
+7152,7173|C0027051|myocardial infarction|dsyn
+7183,7188|C1705232|fatal|fndg
+7274,7284|C3815594|randomized|fndg
+7285,7295|C2911690|controlled|fndg
+7873,7878|C0311392|signs|fndg
+7883,7891|C1457887|symptoms|sosy
+7902,7908|C0038454|stroke|dsyn
+7976,7986|C1550043|identified|fndg
+8092,8101|C0087130|uncertain|fndg
+8213,8236|C0267792|Hepatobiliary Disorders|dsyn
+8239,8254|C0085605|hepatic failure|dsyn
+8261,8266|C1705232|fatal|fndg
+8269,8277|C0022346|jaundice|patf
+8269,8277|C2010848|jaundice|fndg
+8269,8277|C2203646|jaundice|sosy
+8296,8324|C0151766|abnormal liver function test|fndg
+8325,8332|C2825142|results|fndg
+8334,8348|C0023895|liver disorder|dsyn
+8356,8379|C0021053|Immune System Disorders|dsyn
+8382,8393|C0002792|anaphylaxis|patf
+8382,8393|C0850803|anaphylaxis|dsyn
+8395,8416|C0002792|anaphylactic reaction|patf
+8444,8471|C0009782|Connective Tissue Disorders|dsyn
+8474,8488|C0035410|rhabdomyolysis|patf
+8520,8538|C0740409|psychotic behavior|mobd
+8586,8603|C0042075|Urinary Disorders|dsyn
+8606,8634|C0027707|tubulointerstitial nephritis|dsyn
+8606,8634|C0041349|tubulointerstitial nephritis|dsyn
+8651,8663;8671,8680|C0549584|Subcutaneous Disorders|dsyn
+8671,8680|C0012634|Disorders|dsyn
+8683,8699|C0497365|generalized rash|fndg
+8701,8725|C0038325|Stevens Johnson Syndrome|dsyn
+8727,8743;8749,8758|C0020517|hypersensitivity reactions|patf

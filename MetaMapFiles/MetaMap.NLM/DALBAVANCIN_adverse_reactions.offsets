@@ -1,0 +1,87 @@
+86,96|C0012634|conditions|dsyn
+375,381|C0027497|nausea|sosy
+375,381|C1963179|nausea|patf
+390,398|C0018681|headache|sosy
+390,398|C2096315|headache|fndg
+411,419|C0011991|diarrhea|sosy
+411,419|C1963091|diarrhea|fndg
+599,600;622,637|C3840593|1 Clinical Trials|fndg
+1160,1175|C1444662|Discontinuation|fndg
+1342,1354|C1444662|discontinued|fndg
+1430,1442|C1444662|discontinued|fndg
+1613,1619|C0027497|nausea|sosy
+1613,1619|C1963179|nausea|patf
+1628,1636|C0018681|headache|sosy
+1628,1636|C2096315|headache|fndg
+1649,1657|C0011991|diarrhea|sosy
+1649,1657|C1963091|diarrhea|fndg
+2074,2080|C0027497|Nausea|sosy
+2074,2080|C1963179|Nausea|patf
+2128,2136|C0042963|Vomiting|sosy
+2128,2136|C1963281|Vomiting|patf
+2182,2190|C0011991|Diarrhea|sosy
+2182,2190|C1963091|Diarrhea|fndg
+2236,2244|C0018681|Headache|sosy
+2236,2244|C2096315|Headache|fndg
+2290,2294|C0015230|Rash|sosy
+2344,2352|C0033774|Pruritus|sosy
+2591,2592;2603,2618|C3842777|2 clinical trials|fndg
+2636,2662|C0024228|lymphatic system disorders|dsyn
+2666,2672|C0002871|anemia|dsyn
+2674,2692|C0948824|hemorrhagic anemia|dsyn
+2694,2704|C0023530|leucopenia|dsyn
+2694,2704|C0750394|leucopenia|fndg
+2706,2717|C0023530|neutropenia|dsyn
+2706,2717|C0027947|neutropenia|dsyn
+2706,2717|C0853697|neutropenia|fndg
+2719,2735|C0040034|thrombocytopenia|fndg
+2737,2746|C0031256|petechiae|dsyn
+2748,2760|C0014457|eosinophilia|dsyn
+2748,2760|C1306759|eosinophilia|dsyn
+2762,2776|C0836924|thrombocytosis|dsyn
+2783,2809|C0017178|Gastrointestinal disorders|dsyn
+2813,2840|C0017181|gastrointestinal hemorrhage|patf
+2842,2848|C0025222|melena|patf
+2850,2862|C0018932|hematochezia|fndg
+2864,2873;2893,2902|C1290864|abdominal disorders|dsyn
+2874,2878;2885,2892|C0281856|pain General|sosy
+2927,2937|C0012634|conditions|dsyn
+2941,2967|C0948715|infusion-related reactions|sosy
+2974,2997|C0267792|Hepatobiliary disorders|dsyn
+3001,3015|C0235378|hepatotoxicity|inpo
+3022,3045|C0021053|Immune system disorders|dsyn
+3049,3071|C0340865|anaphylactoid reaction|patf
+3078,3088|C3714514|Infections|patf
+3093,3105|C0851341|infestations|dsyn
+3110,3131;3133,3140|C0238106|Clostridium difficile colitis|dsyn
+3110,3131;3133,3140|C0343386|Clostridium difficile colitis|dsyn
+3142,3158|C0006849|oral candidiasis|dsyn
+3160,3190|C1609512|vulvovaginal mycotic infection|dsyn
+3348,3367|C3714509|nutrition disorders|dsyn
+3371,3383|C0020615|hypoglycemia|dsyn
+3418,3427|C0012833|dizziness|sosy
+3418,3427|C0042571|dizziness|sosy
+3418,3427|C1963093|dizziness|fndg
+3460,3481|C0025061|mediastinal disorders|dsyn
+3485,3497|C0006266|bronchospasm|dsyn
+3513,3525;3533,3542|C0549584|Subcutaneous disorders|dsyn
+3533,3542|C0012634|disorders|dsyn
+3546,3555|C0042109|urticaria|dsyn
+3546,3555|C2186740|urticaria|fndg
+3562,3580|C0042373|Vascular disorders|dsyn
+3584,3592|C0016382|flushing|sosy
+3584,3592|C1962957|flushing|fndg
+3594,3603|C0031542|phlebitis|dsyn
+3605,3621|C0241742|wound hemorrhage|patf
+3623,3643|C1697453|spontaneous hematoma|dsyn
+3682,3685|C1266129|ALT|neop
+3724,3730|C0231683|normal|fndg
+3740,3743|C1266129|ALT|neop
+3818,3821|C1266129|ALT|neop
+3968,3971|C1266129|ALT|neop
+4091,4101|C0012634|conditions|dsyn
+4146,4169|C0276623|chronic viral hepatitis|dsyn
+4176,4200|C0221628|history of alcohol abuse|fndg
+4255,4262|C3840593|1 trial|fndg
+4281,4284|C1266129|ALT|neop
+4323,4326|C1266129|ALT|neop

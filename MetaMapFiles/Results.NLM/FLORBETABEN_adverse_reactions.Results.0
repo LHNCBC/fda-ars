@@ -1,0 +1,16 @@
+96,119|TP|injection site reaction|C0151735|10022095|96,119|injection site reaction|C0151735|10022095|patf
+134,142|FP|erythema|C0041834|10015150|dsyn
+134,142;96,110|FN|erythema injection site|C0852625
+152,162;96,110|FN|irritation injection site|C0521498
+176,180|FP|pain|C1962977,C0030193|10060933,10033371|fndg,sosy
+176,180;96,110|FN|pain injection site|C0151828
+963,987|TP|injection site reactions|C0151735|10022095|963,987|injection site reactions|C0151735|10022095|patf
+1002,1010|FP|erythema|C0041834|10015150|dsyn
+1002,1010;963,977|FN|erythema injection site|C0852625
+1012,1022;963,977|FN|irritation injection site|C0521498
+1027,1031|FP|pain|C1962977,C0030193|10060933,10033371|fndg,sosy
+1027,1031;963,977|FN|pain injection site|C0151828
+1435,1444;1459,1472|TP|Injection site erythema|C0852625|10022061|1435,1444;1459,1472|Injection site erythema|C0852625|10022061|fndg
+1447,1472|TP|application site erythema|C0853700|10003041|1447,1472|application site erythema|C0853700|10003041|inpo
+1504,1529|TP|Injection site irritation|C0521498|10022079|1504,1529|Injection site irritation|C0521498|10022079|patf
+1561,1580|TP|Injection site pain|C0151828|10022086|1561,1580|Injection site pain|C0151828|10022086|sosy

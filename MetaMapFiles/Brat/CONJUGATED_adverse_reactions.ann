@@ -1,0 +1,202 @@
+T1	AdverseReaction 130 154	Cardiovascular Disorders
+T2	AdverseReaction 201 220	Malignant Neoplasms
+T3	AdverseReaction 267 286	Gallbladder Disease
+T4	AdverseReaction 333 353	Hypertriglyceridemia
+T5	AdverseReaction 524 537	muscle spasms
+T6	AdverseReaction 539 545	nausea
+T7	AdverseReaction 547 555	diarrhea
+T8	AdverseReaction 557 566	dyspepsia
+T9	AdverseReaction 568 588	abdominal pain upper
+T10	AdverseReaction 590 608	oropharyngeal pain
+T11	AdverseReaction 610 619	dizziness
+T12	AdverseReaction 625 634	neck pain
+T13	AdverseReaction 1645 1654	mortality
+T14	Negation 1659 1663	0.0%
+T15	AdverseReaction 2025 2034	hot flush
+T16	AdverseReaction 2036 2056	abdominal pain upper
+T17	AdverseReaction 2062 2068	nausea
+T18	AdverseReaction 2502 2508	Nausea
+T19	AdverseReaction 2611 2619	Diarrhea
+T20	AdverseReaction 2720 2729	Dyspepsia
+T21	AdverseReaction 2829 2849	Abdominal pain upper
+T22	AdverseReaction 2994 3007	Muscle spasms
+T23	AdverseReaction 3103 3112	Neck pain
+T24	AdverseReaction 3250 3259	Dizziness
+T25	AdverseReaction 3416 3434	Oropharyngeal pain
+T26	AdverseReaction 3624 3646	venous thromboembolism
+T27	AdverseReaction 3648 3670	deep venous thrombosis
+T28	AdverseReaction 3672 3690	pulmonary embolism
+T29	AdverseReaction 3696 3719	retinal vein thrombosis
+T30	AdverseReaction 3776 3798	venous thromboembolism
+T31	Negation 3816 3820	0.0%
+T32	AdverseReaction 3990 4012	venous thromboembolism
+T33	Factor 3982 3986	risk
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13 Negated:E14
+E14	Negation:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30 Negated:E31
+E31	Negation:T31
+E32	AdverseReaction:T32 Hypothetical:E33
+E33	Factor:T33
+A1	CUI E1 C0007222
+A2	UMLS-Preferred-Name E1 Cardiovascular Diseases
+A3	MEDDRA-PT E1 Cardiovascular disorder
+A4	MEDDRA-PT-ID E1 10007649
+A5	CUI E2 C0006826
+A6	UMLS-Preferred-Name E2 Malignant Neoplasms
+A7	MEDDRA-PT E2 Neoplasm malignant
+A8	MEDDRA-PT-ID E2 10028997
+A9	CUI E3 C0016977
+A10	UMLS-Preferred-Name E3 Gall Bladder Diseases
+A11	MEDDRA-PT E3 Gallbladder disorder
+A12	MEDDRA-PT-ID E3 10017626
+A13	LLT E3 Gallbladder disease
+A14	LLT-ID E3 10017641
+A15	CUI E4 C0020557
+A16	UMLS-Preferred-Name E4 Hypertriglyceridemia
+A17	MEDDRA-PT E4 Hypertriglyceridaemia
+A18	MEDDRA-PT-ID E4 10020869
+A19	LLT E4 Hypertriglyceridemia
+A20	LLT-ID E4 10020870
+A21	CUI E5 C0037763
+A22	UMLS-Preferred-Name E5 Spasm
+A23	MEDDRA-PT E5 Muscle spasms
+A24	MEDDRA-PT-ID E5 10028334
+A25	CUI E6 C0027497
+A26	UMLS-Preferred-Name E6 Nausea
+A27	MEDDRA-PT E6 Nausea
+A28	MEDDRA-PT-ID E6 10028813
+A29	CUI E7 C0011991
+A30	UMLS-Preferred-Name E7 Diarrhea
+A31	MEDDRA-PT E7 Diarrhoea
+A32	MEDDRA-PT-ID E7 10012735
+A33	LLT E7 Diarrhea
+A34	LLT-ID E7 10012727
+A35	CUI E8 C0013395
+A36	UMLS-Preferred-Name E8 Dyspepsia
+A37	MEDDRA-PT E8 Dyspepsia
+A38	MEDDRA-PT-ID E8 10013946
+A39	CUI E9 C0232492
+A40	UMLS-Preferred-Name E9 Upper abdominal pain
+A41	MEDDRA-PT E9 Abdominal pain upper
+A42	MEDDRA-PT-ID E9 10000087
+A43	CUI E10 C2363731
+A44	UMLS-Preferred-Name E10 Oropharyngeal pain
+A45	MEDDRA-PT E10 Oropharyngeal pain
+A46	MEDDRA-PT-ID E10 10068319
+A47	CUI E11 C0012833
+A48	UMLS-Preferred-Name E11 Dizziness
+A49	MEDDRA-PT E11 Dizziness
+A50	MEDDRA-PT-ID E11 10013573
+A51	CUI E12 C0007859
+A52	UMLS-Preferred-Name E12 Neck Pain
+A53	MEDDRA-PT E12 Neck pain
+A54	MEDDRA-PT-ID E12 10028836
+A55	CUI E13 C1306577
+A56	UMLS-Preferred-Name E13 Death (finding)
+A57	MEDDRA-PT E13 Death
+A58	MEDDRA-PT-ID E13 10011906
+A59	CUI E15 C0600142
+A60	UMLS-Preferred-Name E15 Hot flushes
+A61	MEDDRA-PT E15 Hot flush
+A62	MEDDRA-PT-ID E15 10060800
+A63	CUI E16 C0232492
+A64	UMLS-Preferred-Name E16 Upper abdominal pain
+A65	MEDDRA-PT E16 Abdominal pain upper
+A66	MEDDRA-PT-ID E16 10000087
+A67	CUI E17 C0027497
+A68	UMLS-Preferred-Name E17 Nausea
+A69	MEDDRA-PT E17 Nausea
+A70	MEDDRA-PT-ID E17 10028813
+A71	CUI E18 C0027497
+A72	UMLS-Preferred-Name E18 Nausea
+A73	MEDDRA-PT E18 Nausea
+A74	MEDDRA-PT-ID E18 10028813
+A75	CUI E19 C0011991
+A76	UMLS-Preferred-Name E19 Diarrhea
+A77	MEDDRA-PT E19 Diarrhoea
+A78	MEDDRA-PT-ID E19 10012735
+A79	LLT E19 Diarrhea
+A80	LLT-ID E19 10012727
+A81	CUI E20 C0013395
+A82	UMLS-Preferred-Name E20 Dyspepsia
+A83	MEDDRA-PT E20 Dyspepsia
+A84	MEDDRA-PT-ID E20 10013946
+A85	CUI E21 C0232492
+A86	UMLS-Preferred-Name E21 Upper abdominal pain
+A87	MEDDRA-PT E21 Abdominal pain upper
+A88	MEDDRA-PT-ID E21 10000087
+A89	CUI E22 C0037763
+A90	UMLS-Preferred-Name E22 Spasm
+A91	MEDDRA-PT E22 Muscle spasms
+A92	MEDDRA-PT-ID E22 10028334
+A93	CUI E23 C0007859
+A94	UMLS-Preferred-Name E23 Neck Pain
+A95	MEDDRA-PT E23 Neck pain
+A96	MEDDRA-PT-ID E23 10028836
+A97	CUI E24 C0012833
+A98	UMLS-Preferred-Name E24 Dizziness
+A99	MEDDRA-PT E24 Dizziness
+A100	MEDDRA-PT-ID E24 10013573
+A101	CUI E25 C2363731
+A102	UMLS-Preferred-Name E25 Oropharyngeal pain
+A103	MEDDRA-PT E25 Oropharyngeal pain
+A104	MEDDRA-PT-ID E25 10068319
+A105	CUI E26 C1861172
+A106	UMLS-Preferred-Name E26 Venous Thromboembolism
+A107	MEDDRA-PT E26 Embolism venous
+A108	MEDDRA-PT-ID E26 10014522
+A109	LLT E26 Venous thromboembolism
+A110	LLT-ID E26 10066899
+A111	CUI E27 C0149871
+A112	UMLS-Preferred-Name E27 Deep Vein Thrombosis
+A113	MEDDRA-PT E27 Deep vein thrombosis
+A114	MEDDRA-PT-ID E27 10051055
+A115	LLT E27 Thrombosis venous deep
+A116	LLT-ID E27 10043642
+A117	CUI E28 C0034065
+A118	UMLS-Preferred-Name E28 Pulmonary Embolism
+A119	MEDDRA-PT E28 Pulmonary embolism
+A120	MEDDRA-PT-ID E28 10037377
+A121	CUI E29 C1527411
+A122	UMLS-Preferred-Name E29 Thrombosis of retinal vein
+A123	MEDDRA-PT E29 Retinal vein thrombosis
+A124	MEDDRA-PT-ID E29 10038908
+A125	CUI E30 C1861172
+A126	UMLS-Preferred-Name E30 Venous Thromboembolism
+A127	MEDDRA-PT E30 Embolism venous
+A128	MEDDRA-PT-ID E30 10014522
+A129	LLT E30 Venous thromboembolism
+A130	LLT-ID E30 10066899
+A131	CUI E32 C1861172
+A132	UMLS-Preferred-Name E32 Venous Thromboembolism
+A133	MEDDRA-PT E32 Embolism venous
+A134	MEDDRA-PT-ID E32 10014522
+A135	LLT E32 Venous thromboembolism
+A136	LLT-ID E32 10066899

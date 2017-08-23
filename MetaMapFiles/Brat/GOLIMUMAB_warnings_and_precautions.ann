@@ -1,0 +1,623 @@
+T1	AdverseReaction 60 70	infections
+T2	AdverseReaction 239 265	Invasive fungal infections
+T3	AdverseReaction 452 476	Hepatitis B reactivation
+T4	AdverseReaction 628 640	Malignancies
+T5	AdverseReaction 870 883;886 895	Heart failure Worsening
+T6	AdverseReaction 870 883;900 909	Heart failure new onset
+T7	AdverseReaction 991 1012	Demyelinating disease
+T8	AdverseReaction 870 883	Heart failure
+T9	AdverseReaction 1030 1039;991 1012	new onset Demyelinating disease
+T10	AdverseReaction 1067 1093	Hypersensitivity reactions
+T11	AdverseReaction 1103 1138	systemic hypersensitivity reactions
+T12	Severity 1095 1102	Serious
+T13	AdverseReaction 1149 1160	anaphylaxis
+T14	AdverseReaction 1303 1313	infections
+T15	Severity 1295 1302	serious
+T16	Factor 1275 1279	risk
+T17	AdverseReaction 1392 1397	death
+T18	AdverseReaction 1403 1427	Opportunistic infections
+T19	AdverseReaction 1403 1427;1435 1444	Opportunistic infections bacterial
+T20	AdverseReaction 1403 1427;1446 1459	Opportunistic infections mycobacterial
+T21	AdverseReaction 1403 1427;1461 1476	Opportunistic infections invasive fungal
+T22	AdverseReaction 1403 1427;1478 1483	Opportunistic infections viral
+T23	AdverseReaction 1403 1427;1488 1497	Opportunistic infections parasitic
+T24	AdverseReaction 1518 1531	aspergillosis
+T25	AdverseReaction 1533 1546	blastomycosis
+T26	AdverseReaction 1548 1559	candidiasis
+T27	AdverseReaction 1561 1579	coccidioidomycosis
+T28	AdverseReaction 1581 1595	histoplasmosis
+T29	AdverseReaction 1597 1610	legionellosis
+T30	AdverseReaction 1612 1623	listeriosis
+T31	AdverseReaction 1625 1639	pneumocystosis
+T32	AdverseReaction 1645 1657	tuberculosis
+T33	DrugClass 1682 1694	TNF-blockers
+T34	Severity 52 59	Serious
+T35	AdverseReaction 657 665	lymphoma
+T36	AdverseReaction 784 796	malignancies
+T37	Factor 911 914	may
+T38	AdverseReaction 1014 1026;991 1012	exacerbation Demyelinating disease
+T39	Factor 1041 1044	may
+T40	Factor 1161 1164	may
+T41	Factor 1361 1364	may
+T42	AdverseReaction 3417 3445	reactivation of tuberculosis
+T43	AdverseReaction 3449 3476	new tuberculosis infections
+T44	AdverseReaction 6268 6301	reactivation of hepatitis B virus
+T45	AdverseReaction 6268 6283;6303 6306	reactivation of HBV
+T46	AdverseReaction 6486 6491	fatal
+T47	AdverseReaction 6410 6426	HBV reactivation
+T48	AdverseReaction 7882 7894	Malignancies
+T49	AdverseReaction 7901 7906	fatal
+T50	AdverseReaction 8134 8143	lymphomas
+T51	AdverseReaction 8155 8164;8183 8191	Hodgkin's lymphoma
+T52	AdverseReaction 8169 8191	non-Hodgkin's lymphoma
+T53	AdverseReaction 8234 8246	malignancies
+T54	AdverseReaction 8258 8275	rare malignancies
+T55	AdverseReaction 8309 8326	immunosuppression
+T56	AdverseReaction 9300 9308	lymphoma
+T57	Factor 9598 9602	risk
+T58	AdverseReaction 9675 9683	lymphoma
+T59	AdverseReaction 9739 9744;9757 9765	acute leukemia
+T60	AdverseReaction 9749 9765	chronic leukemia
+T61	AdverseReaction 10089 10118	hepatosplenic T-cell lymphoma
+T62	AdverseReaction 10120 10125	HSTCL
+T63	AdverseReaction 10278 10283	fatal
+T64	AdverseReaction 10197 10225	rare type of T-cell lymphoma
+T65	AdverseReaction 10750 10758	Melanoma
+T66	AdverseReaction 10876 10897	Merkel cell carcinoma
+T68	AdverseReaction 11563 11575	malignancies
+T69	AdverseReaction 11296 11308	malignancies
+T67	AdverseReaction 11749 11761	malignancies
+T70	AdverseReaction 12007 12041	worsening congestive heart failure
+T71	AdverseReaction 12007 12016;12043 12046	worsening CHF
+T72	AdverseReaction 12052 12065	new onset CHF
+T73	AdverseReaction 12276 12293	CHF exacerbations
+T74	AdverseReaction 12323 12342	increased mortality
+T75	AdverseReaction 12831 12840;12860 12882;12889 12912	new onset central nervous system demyelinating disorders
+T76	AdverseReaction 12924 12942	multiple sclerosis
+T77	AdverseReaction 12944 12946	MS
+T78	AdverseReaction 12952 12986	peripheral demyelinating disorders
+T79	AdverseReaction 12998 13021	Guillain-Barre syndrome
+T80	AdverseReaction 13032 13053	central demyelination
+T81	AdverseReaction 13055 13057	MS
+T82	AdverseReaction 13059 13073	optic neuritis
+T83	AdverseReaction 13079 13118	peripheral demyelinating polyneuropathy
+T84	AdverseReaction 14725 14737	pancytopenia
+T85	AdverseReaction 14739 14749	leukopenia
+T86	AdverseReaction 14751 14762	neutropenia
+T87	AdverseReaction 14764 14779	aplastic anemia
+T88	AdverseReaction 14785 14801	thrombocytopenia
+T89	AdverseReaction 14868 14880	pancytopenia
+T90	AdverseReaction 14882 14892	leukopenia
+T91	AdverseReaction 14894 14905	neutropenia
+T92	AdverseReaction 14911 14927	thrombocytopenia
+T93	AdverseReaction 16035 16056	anaphylactic reaction
+T94	AdverseReaction 15997 16023	hypersensitivity reactions
+T95	Severity 15980 15987	serious
+T96	AdverseReaction 12831 12840;12884 12887;12889 12912	new onset CNS demyelinating disorders
+T97	AdverseReaction 12844 12882;12889 12912	exacerbation of central nervous system demyelinating disorders
+T98	AdverseReaction 12844 12859;12884 12887;12889 12912	exacerbation of CNS demyelinating disorders
+E1	AdverseReaction:T1 Effect:E35
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E38
+E6	AdverseReaction:T6 Hypothetical:E38
+E8	AdverseReaction:T8 Hypothetical:E38
+E9	AdverseReaction:T7 Hypothetical:E39
+E10	AdverseReaction:T9 Hypothetical:E39
+E11	AdverseReaction:T10
+E12	AdverseReaction:T11 Effect:E13 Hypothetical:E40
+E13	Severity:T12
+E14	AdverseReaction:T13 Hypothetical:E40
+E15	AdverseReaction:T14 Effect:E16 Hypothetical:E17
+E16	Severity:T15
+E17	Factor:T16
+E18	AdverseReaction:T17 Hypothetical:E41
+E19	AdverseReaction:T18
+E20	AdverseReaction:T19 Hypothetical:E34
+E21	AdverseReaction:T20 Hypothetical:E34
+E22	AdverseReaction:T21 Hypothetical:E34
+E23	AdverseReaction:T22 Hypothetical:E34
+E24	AdverseReaction:T23 Hypothetical:E34
+E25	AdverseReaction:T24 Hypothetical:E34
+E26	AdverseReaction:T25 Hypothetical:E34
+E27	AdverseReaction:T26 Hypothetical:E34
+E28	AdverseReaction:T27 Hypothetical:E34
+E29	AdverseReaction:T28 Hypothetical:E34
+E30	AdverseReaction:T29 Hypothetical:E34
+E31	AdverseReaction:T30 Hypothetical:E34
+E32	AdverseReaction:T31 Hypothetical:E34
+E33	AdverseReaction:T32 Hypothetical:E34
+E34	DrugClass:T33
+E35	Severity:T34
+E36	AdverseReaction:T35
+E37	AdverseReaction:T36
+E38	Factor:T37
+E7	AdverseReaction:T38 Hypothetical:E39
+E39	Factor:T39
+E40	Factor:T40
+E41	Factor:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	Factor:T57
+E58	AdverseReaction:T58 Hypothetical:E57
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E67	AdverseReaction:T67
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91
+E92	AdverseReaction:T92
+E93	AdverseReaction:T93
+E94	AdverseReaction:T94 Effect:E95
+E95	Severity:T95
+E96	AdverseReaction:T96
+E97	AdverseReaction:T97
+E98	AdverseReaction:T98
+A1	CUI E1 C3714514
+A2	UMLS-Preferred-Name E1 Infection
+A3	MEDDRA-PT E1 Infection
+A4	MEDDRA-PT-ID E1 10021789
+A5	CUI E2 C1262313
+A6	UMLS-Preferred-Name E2 Invasive mycosis
+A7	MEDDRA-PT E2 Systemic mycosis
+A8	MEDDRA-PT-ID E2 10052366
+A9	LLT E2 Invasive mycosis
+A10	LLT-ID E2 10062642
+A11	CUI E3 C1142420
+A12	UMLS-Preferred-Name E3 Hepatitis B reactivation
+A13	MEDDRA-PT E3 Hepatitis B
+A14	MEDDRA-PT-ID E3 10019731
+A15	LLT E3 Hepatitis B reactivation
+A16	LLT-ID E3 10058827
+A17	CUI E4 C0006826
+A18	UMLS-Preferred-Name E4 Malignant Neoplasms
+A19	MEDDRA-PT E4 Neoplasm malignant
+A20	MEDDRA-PT-ID E4 10028997
+A21	CUI E5 C0235875
+A22	UMLS-Preferred-Name E5 Cardiac failure aggravated
+A23	MEDDRA-PT E5 Cardiac failure
+A24	MEDDRA-PT-ID E5 10007554
+A25	LLT E5 Cardiac failure aggravated
+A26	LLT-ID E5 10007557
+A27	CUI E6 C0018801
+A28	UMLS-Preferred-Name E6 Heart failure
+A29	MEDDRA-PT E6 Cardiac failure
+A30	MEDDRA-PT-ID E6 10007554
+A31	CUI E9 C0011303
+A32	UMLS-Preferred-Name E9 Demyelinating Diseases
+A33	MEDDRA-PT E9 Demyelination
+A34	MEDDRA-PT-ID E9 10012305
+A35	LLT E9 Demyelination disorder NOS
+A36	LLT-ID E9 10048425
+A37	CUI E8 C0018801
+A38	UMLS-Preferred-Name E8 Heart failure
+A39	MEDDRA-PT E8 Cardiac failure
+A40	MEDDRA-PT-ID E8 10007554
+A41	LLT E8 Heart failure
+A42	LLT-ID E8 10019279
+A43	CUI E10 C0011303
+A44	UMLS-Preferred-Name E10 Demyelinating Diseases
+A45	MEDDRA-PT E10 Demyelination
+A46	MEDDRA-PT-ID E10 10012305
+A47	LLT E10 Demyelination disorder NOS
+A48	LLT-ID E10 10048425
+A49	CUI E11 C0020517
+A50	UMLS-Preferred-Name E11 Hypersensitivity
+A51	MEDDRA-PT E11 Hypersensitivity
+A52	MEDDRA-PT-ID E11 10020751
+A53	LLT E11 Hypersensitivity reaction
+A54	LLT-ID E11 10020756
+A55	CUI E12 C1736167
+A56	UMLS-Preferred-Name E12 Systemic allergic reaction
+A57	MEDDRA-PT E12 Hypersensitivity
+A58	MEDDRA-PT-ID E12 10020751
+A59	LLT E12 Systemic allergic reaction
+A60	LLT-ID E12 10066472
+A61	CUI E14 C0002792
+A62	UMLS-Preferred-Name E14 anaphylaxis
+A63	MEDDRA-PT E14 Anaphylactic reaction
+A64	MEDDRA-PT-ID E14 10002198
+A65	LLT E14 Anaphylaxis
+A66	LLT-ID E14 10002218
+A67	CUI E15 C3714514
+A68	UMLS-Preferred-Name E15 Infection
+A69	MEDDRA-PT E15 Infection
+A70	MEDDRA-PT-ID E15 10021789
+A71	CUI E18 C1306577
+A72	UMLS-Preferred-Name E18 Death (finding)
+A73	MEDDRA-PT E18 Death
+A74	MEDDRA-PT-ID E18 10011906
+A75	CUI E19 C0029118
+A76	UMLS-Preferred-Name E19 Opportunistic Infections
+A77	MEDDRA-PT E19 Opportunistic infection
+A78	MEDDRA-PT-ID E19 10030901
+A79	flag E20 duplicate
+A80	CUI E20 C0029118
+A81	UMLS-Preferred-Name E20 Opportunistic Infections
+A82	MEDDRA-PT E20 Opportunistic infection
+A83	MEDDRA-PT-ID E20 10030901
+A84	flag E21 duplicate
+A85	CUI E21 C0029118
+A86	UMLS-Preferred-Name E21 Opportunistic Infections
+A87	MEDDRA-PT E21 Opportunistic infection
+A88	MEDDRA-PT-ID E21 10030901
+A89	flag E22 duplicate
+A90	CUI E22 C1262313
+A91	UMLS-Preferred-Name E22 Invasive mycosis
+A92	MEDDRA-PT E22 Systemic mycosis
+A93	MEDDRA-PT-ID E22 10052366
+A94	LLT E22 Invasive mycosis
+A95	LLT-ID E22 10062642
+A96	flag E23 duplicate
+A97	CUI E23 C0042769
+A98	UMLS-Preferred-Name E23 Virus Diseases
+A99	MEDDRA-PT E23 Viral infection
+A100	MEDDRA-PT-ID E23 10047461
+A101	flag E24 duplicate
+A102	CUI E24 C0747256
+A103	UMLS-Preferred-Name E24 Parasitic infection
+A104	MEDDRA-PT E24 Infection parasitic
+A105	MEDDRA-PT-ID E24 10021857
+A106	CUI E25 C0004030
+A107	UMLS-Preferred-Name E25 Aspergillosis
+A108	MEDDRA-PT E25 Aspergillus infection
+A109	MEDDRA-PT-ID E25 10074171
+A110	LLT E25 Aspergillosis
+A111	LLT-ID E25 10003488
+A112	CUI E26 C0005716
+A113	UMLS-Preferred-Name E26 Blastomycosis
+A114	MEDDRA-PT E26 Blastomycosis
+A115	MEDDRA-PT-ID E26 10005098
+A116	CUI E27 C0006840
+A117	UMLS-Preferred-Name E27 Candidiasis
+A118	MEDDRA-PT E27 Candida infection
+A119	MEDDRA-PT-ID E27 10074170
+A120	LLT E27 Candidiasis
+A121	LLT-ID E27 10007152
+A122	CUI E28 C0009186
+A123	UMLS-Preferred-Name E28 Coccidioidomycosis
+A124	MEDDRA-PT E28 Coccidioidomycosis
+A125	MEDDRA-PT-ID E28 10009825
+A126	CUI E29 C0019655
+A127	UMLS-Preferred-Name E29 Histoplasmosis
+A128	MEDDRA-PT E29 Histoplasmosis
+A129	MEDDRA-PT-ID E29 10020141
+A130	CUI E30 C0023240
+A131	UMLS-Preferred-Name E30 Legionellosis
+A132	MEDDRA-PT E30 Legionella infection
+A133	MEDDRA-PT-ID E30 10061266
+A134	CUI E31 C0023860
+A135	UMLS-Preferred-Name E31 Listeriosis
+A136	MEDDRA-PT E31 Listeriosis
+A137	MEDDRA-PT-ID E31 10024641
+A138	CUI E32 C1535939
+A139	UMLS-Preferred-Name E32 Pneumocystis jiroveci pneumonia
+A140	MEDDRA-PT E32 Pneumocystis jirovecii pneumonia
+A141	MEDDRA-PT-ID E32 10073755
+A142	LLT E32 Pneumocystosis
+A143	LLT-ID E32 10035662
+A144	CUI E33 C0041296
+A145	UMLS-Preferred-Name E33 Tuberculosis
+A146	MEDDRA-PT E33 Tuberculosis
+A147	MEDDRA-PT-ID E33 10044755
+A148	CUI E36 C0024299
+A149	UMLS-Preferred-Name E36 Lymphoma
+A150	MEDDRA-PT E36 Lymphoma
+A151	MEDDRA-PT-ID E36 10025310
+A152	CUI E37 C0006826
+A153	UMLS-Preferred-Name E37 Malignant Neoplasms
+A154	MEDDRA-PT E37 Neoplasm malignant
+A155	MEDDRA-PT-ID E37 10028997
+A156	CUI E7 C0011303
+A157	UMLS-Preferred-Name E7 Demyelinating Diseases
+A158	MEDDRA-PT E7 Demyelination
+A159	MEDDRA-PT-ID E7 10012305
+A160	LLT E7 Demyelination disorder NOS
+A161	LLT-ID E7 10048425
+A162	CUI E42 C0275965
+A163	UMLS-Preferred-Name E42 Reactivation tuberculosis
+A164	MEDDRA-PT E42 Tuberculosis
+A165	MEDDRA-PT-ID E42 10044755
+A166	LLT E42 Tuberculosis reactivated
+A167	LLT-ID E42 10045025
+A168	CUI E43 C0041296
+A169	UMLS-Preferred-Name E43 Tuberculosis
+A170	MEDDRA-PT E43 Tuberculosis
+A171	MEDDRA-PT-ID E43 10044755
+A172	LLT E43 Infection tuberculosis
+A173	LLT-ID E43 10021870
+A174	CUI E44 C1142420
+A175	UMLS-Preferred-Name E44 Hepatitis B reactivation
+A176	MEDDRA-PT E44 Hepatitis B
+A177	MEDDRA-PT-ID E44 10019731
+A178	LLT E44 Hepatitis B reactivation
+A179	LLT-ID E44 10058827
+A180	CUI E45 C1142420
+A181	UMLS-Preferred-Name E45 Hepatitis B reactivation
+A182	MEDDRA-PT E45 Hepatitis B
+A183	MEDDRA-PT-ID E45 10019731
+A184	LLT E45 Hepatitis B reactivation
+A185	LLT-ID E45 10058827
+A186	CUI E46 C1306577
+A187	UMLS-Preferred-Name E46 Death (finding)
+A188	MEDDRA-PT E46 Death
+A189	MEDDRA-PT-ID E46 10011906
+A190	CUI E47 C1142420
+A191	UMLS-Preferred-Name E47 Hepatitis B reactivation
+A192	MEDDRA-PT E47 Hepatitis B
+A193	MEDDRA-PT-ID E47 10019731
+A194	LLT E47 Hepatitis B reactivation
+A195	LLT-ID E47 10058827
+A196	CUI E48 C0006826
+A197	UMLS-Preferred-Name E48 Malignant Neoplasms
+A198	MEDDRA-PT E48 Neoplasm malignant
+A199	MEDDRA-PT-ID E48 10028997
+A200	CUI E49 C1306577
+A201	UMLS-Preferred-Name E49 Death (finding)
+A202	MEDDRA-PT E49 Death
+A203	MEDDRA-PT-ID E49 10011906
+A204	CUI E50 C0024299
+A205	UMLS-Preferred-Name E50 Lymphoma
+A206	MEDDRA-PT E50 Lymphoma
+A207	MEDDRA-PT-ID E50 10025310
+A208	CUI E51 C0019829
+A209	UMLS-Preferred-Name E51 Hodgkin Disease
+A210	MEDDRA-PT E51 Hodgkin's disease
+A211	MEDDRA-PT-ID E51 10020206
+A212	LLT E51 Hodgkin's lymphoma
+A213	LLT-ID E51 10020328
+A214	CUI E52 C0024305
+A215	UMLS-Preferred-Name E52 Lymphoma, Non-Hodgkin
+A216	MEDDRA-PT E52 Non-Hodgkin's lymphoma
+A217	MEDDRA-PT-ID E52 10029547
+A218	CUI E53 C0006826
+A219	UMLS-Preferred-Name E53 Malignant Neoplasms
+A220	MEDDRA-PT E53 Neoplasm malignant
+A221	MEDDRA-PT-ID E53 10028997
+A222	CUI E54 C0006826
+A223	UMLS-Preferred-Name E54 Malignant Neoplasms
+A224	MEDDRA-PT E54 Neoplasm malignant
+A225	MEDDRA-PT-ID E54 10028997
+A226	CUI E55 C1373218
+A227	UMLS-Preferred-Name E55 Decreased Immunologic Activity [PE]
+A228	MEDDRA-PT E55 Immunosuppression
+A229	MEDDRA-PT-ID E55 10062016
+A230	CUI E56 C0024299
+A231	UMLS-Preferred-Name E56 Lymphoma
+A232	MEDDRA-PT E56 Lymphoma
+A233	MEDDRA-PT-ID E56 10025310
+A234	CUI E58 C0024299
+A235	UMLS-Preferred-Name E58 Lymphoma
+A236	MEDDRA-PT E58 Lymphoma
+A237	MEDDRA-PT-ID E58 10025310
+A238	CUI E59 C0085669
+A239	UMLS-Preferred-Name E59 Acute leukemia
+A240	MEDDRA-PT E59 Acute leukaemia
+A241	MEDDRA-PT-ID E59 10000830
+A242	LLT E59 Acute leukemia
+A243	LLT-ID E59 10000835
+A244	CUI E60 C1279296
+A245	UMLS-Preferred-Name E60 Chronic leukemia (category)
+A246	MEDDRA-PT E60 Chronic leukaemia
+A247	MEDDRA-PT-ID E60 10008943
+A248	LLT E60 Chronic leukemia
+A249	LLT-ID E60 10008948
+A250	CUI E61 C1333984
+A251	UMLS-Preferred-Name E61 Hepatosplenic T-cell lymphoma
+A252	MEDDRA-PT E61 Hepatosplenic T-cell lymphoma
+A253	MEDDRA-PT-ID E61 10066957
+A254	CUI E62 C1333984
+A255	UMLS-Preferred-Name E62 Hepatosplenic T-cell lymphoma
+A256	MEDDRA-PT E62 Hepatosplenic T-cell lymphoma
+A257	MEDDRA-PT-ID E62 10066957
+A258	CUI E63 C1306577
+A259	UMLS-Preferred-Name E63 Death (finding)
+A260	MEDDRA-PT E63 Death
+A261	MEDDRA-PT-ID E63 10011906
+A262	CUI E64 C0079772
+A263	UMLS-Preferred-Name E64 T-Cell Lymphoma
+A264	MEDDRA-PT E64 T-cell lymphoma
+A265	MEDDRA-PT-ID E64 10042971
+A266	CUI E65 C0025202
+A267	UMLS-Preferred-Name E65 melanoma
+A268	MEDDRA-PT E65 Malignant melanoma
+A269	MEDDRA-PT-ID E65 10025650
+A270	LLT E65 Melanoma
+A271	LLT-ID E65 10053571
+A272	CUI E66 C0007129
+A273	UMLS-Preferred-Name E66 Merkel cell carcinoma
+A274	MEDDRA-PT E66 Neuroendocrine carcinoma of the skin
+A275	MEDDRA-PT-ID E66 10029266
+A276	LLT E66 Merkel cell carcinoma
+A277	LLT-ID E66 10064025
+A278	CUI E68 C0006826
+A279	UMLS-Preferred-Name E68 Malignant Neoplasms
+A280	MEDDRA-PT E68 Neoplasm malignant
+A281	MEDDRA-PT-ID E68 10028997
+A282	CUI E69 C0006826
+A283	UMLS-Preferred-Name E69 Malignant Neoplasms
+A284	MEDDRA-PT E69 Neoplasm malignant
+A285	MEDDRA-PT-ID E69 10028997
+A286	CUI E67 C0006826
+A287	UMLS-Preferred-Name E67 Malignant Neoplasms
+A288	MEDDRA-PT E67 Neoplasm malignant
+A289	MEDDRA-PT-ID E67 10028997
+A290	CUI E70 C3532952
+A291	UMLS-Preferred-Name E70 Exacerbation of congestive heart failure
+A292	MEDDRA-PT E70 Cardiac failure congestive
+A293	MEDDRA-PT-ID E70 10007559
+A294	LLT E70 Congestive cardiac failure aggravated
+A295	LLT-ID E70 10048565
+A296	CUI E71 C3532952
+A297	UMLS-Preferred-Name E71 Exacerbation of congestive heart failure
+A298	MEDDRA-PT E71 Cardiac failure congestive
+A299	MEDDRA-PT-ID E71 10007559
+A300	LLT E71 Congestive cardiac failure aggravated
+A301	LLT-ID E71 10048565
+A302	CUI E72 C0742752
+A303	UMLS-Preferred-Name E72 CONGESTIVE HEART FAILURE NEW ONSET
+A304	MEDDRA-PT E72 Cardiac failure congestive
+A305	MEDDRA-PT-ID E72 10007559
+A306	LLT E72 CHF
+A307	LLT-ID E72 10008502
+A308	CUI E73 C3532952
+A309	UMLS-Preferred-Name E73 Exacerbation of congestive heart failure
+A310	MEDDRA-PT E73 Cardiac failure congestive
+A311	MEDDRA-PT-ID E73 10007559
+A312	LLT E73 Congestive cardiac failure aggravated
+A313	LLT-ID E73 10048565
+A314	CUI E74 C1306577
+A315	UMLS-Preferred-Name E74 Death (finding)
+A316	MEDDRA-PT E74 Death
+A317	MEDDRA-PT-ID E74 10011906
+A318	CUI E75 C0011302
+A319	UMLS-Preferred-Name E75 Demyelinating disease of central nervous system
+A320	MEDDRA-PT E75 Demyelination
+A321	MEDDRA-PT-ID E75 10012305
+A322	LLT E75 Demyelinating disease of central nervous system, unspecified
+A323	LLT-ID E75 10012301
+A324	CUI E76 C0026769
+A325	UMLS-Preferred-Name E76 Multiple Sclerosis
+A326	MEDDRA-PT E76 Multiple sclerosis
+A327	MEDDRA-PT-ID E76 10028245
+A328	CUI E77 C0026769
+A329	UMLS-Preferred-Name E77 Multiple Sclerosis
+A330	MEDDRA-PT E77 Multiple sclerosis
+A331	MEDDRA-PT-ID E77 10028245
+A332	LLT E77 MS
+A333	LLT-ID E77 10028053
+A334	CUI E78 C0270922
+A335	UMLS-Preferred-Name E78 Peripheral demyelinating neuropathy
+A336	MEDDRA-PT E78 Demyelinating polyneuropathy
+A337	MEDDRA-PT-ID E78 10061811
+A338	CUI E79 C0018378
+A339	UMLS-Preferred-Name E79 Guillain-Barre Syndrome
+A340	MEDDRA-PT E79 Guillain-Barre syndrome
+A341	MEDDRA-PT-ID E79 10018767
+A342	CUI E80 C0338474
+A343	UMLS-Preferred-Name E80 Central nervous system demyelination
+A344	MEDDRA-PT E80 Demyelination
+A345	MEDDRA-PT-ID E80 10012305
+A346	LLT E80 Demyelinating disease of central nervous system, unspecified
+A347	LLT-ID E80 10012301
+A348	CUI E81 C0026769
+A349	UMLS-Preferred-Name E81 Multiple Sclerosis
+A350	MEDDRA-PT E81 Multiple sclerosis
+A351	MEDDRA-PT-ID E81 10028245
+A352	LLT E81 MS
+A353	LLT-ID E81 10028053
+A354	CUI E82 C0029134
+A355	UMLS-Preferred-Name E82 Optic Neuritis
+A356	MEDDRA-PT E82 Optic neuritis
+A357	MEDDRA-PT-ID E82 10030942
+A358	CUI E83 C4015271
+A359	UMLS-Preferred-Name E83 Peripheral demyelinating polyneuropathy
+A360	MEDDRA-PT E83 Demyelinating polyneuropathy
+A361	MEDDRA-PT-ID E83 10061811
+A362	CUI E84 C0030312
+A363	UMLS-Preferred-Name E84 Pancytopenia
+A364	MEDDRA-PT E84 Pancytopenia
+A365	MEDDRA-PT-ID E84 10033661
+A366	CUI E85 C0023530
+A367	UMLS-Preferred-Name E85 Leukopenia
+A368	MEDDRA-PT E85 Leukopenia
+A369	MEDDRA-PT-ID E85 10024384
+A370	CUI E86 C0027947
+A371	UMLS-Preferred-Name E86 Neutropenia
+A372	MEDDRA-PT E86 Neutropenia
+A373	MEDDRA-PT-ID E86 10029354
+A374	CUI E87 C0002874
+A375	UMLS-Preferred-Name E87 Aplastic Anemia
+A376	MEDDRA-PT E87 Aplastic anaemia
+A377	MEDDRA-PT-ID E87 10002967
+A378	LLT E87 Aplastic anemia
+A379	LLT-ID E87 10002969
+A380	CUI E88 C0040034
+A381	UMLS-Preferred-Name E88 Thrombocytopenia
+A382	MEDDRA-PT E88 Thrombocytopenia
+A383	MEDDRA-PT-ID E88 10043554
+A384	CUI E89 C0030312
+A385	UMLS-Preferred-Name E89 Pancytopenia
+A386	MEDDRA-PT E89 Pancytopenia
+A387	MEDDRA-PT-ID E89 10033661
+A388	CUI E90 C0023530
+A389	UMLS-Preferred-Name E90 Leukopenia
+A390	MEDDRA-PT E90 Leukopenia
+A391	MEDDRA-PT-ID E90 10024384
+A392	CUI E91 C0027947
+A393	UMLS-Preferred-Name E91 Neutropenia
+A394	MEDDRA-PT E91 Neutropenia
+A395	MEDDRA-PT-ID E91 10029354
+A396	CUI E92 C0040034
+A397	UMLS-Preferred-Name E92 Thrombocytopenia
+A398	MEDDRA-PT E92 Thrombocytopenia
+A399	MEDDRA-PT-ID E92 10043554
+A400	CUI E93 C0002792
+A401	UMLS-Preferred-Name E93 anaphylaxis
+A402	MEDDRA-PT E93 Anaphylactic reaction
+A403	MEDDRA-PT-ID E93 10002198
+A404	CUI E94 C0020517
+A405	UMLS-Preferred-Name E94 Hypersensitivity
+A406	MEDDRA-PT E94 Hypersensitivity
+A407	MEDDRA-PT-ID E94 10020751
+A408	LLT E94 Hypersensitivity reaction
+A409	LLT-ID E94 10020756
+A410	CUI E96 C0011302
+A411	UMLS-Preferred-Name E96 Demyelinating disease of central nervous system
+A412	MEDDRA-PT E96 Demyelination
+A413	MEDDRA-PT-ID E96 10012305
+A414	LLT E96 Demyelinating disease of central nervous system, unspecified
+A415	LLT-ID E96 10012301
+A416	CUI E97 C0011302
+A417	UMLS-Preferred-Name E97 Demyelinating disease of central nervous system
+A418	MEDDRA-PT E97 Demyelination
+A419	MEDDRA-PT-ID E97 10012305
+A420	LLT E97 Demyelinating disease of central nervous system, unspecified
+A421	LLT-ID E97 10012301
+A422	CUI E98 C0011302
+A423	UMLS-Preferred-Name E98 Demyelinating disease of central nervous system
+A424	MEDDRA-PT E98 Demyelination
+A425	MEDDRA-PT-ID E98 10012305
+A426	LLT E98 Demyelinating disease of central nervous system, unspecified
+A427	LLT-ID E98 10012301

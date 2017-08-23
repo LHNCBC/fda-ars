@@ -1,0 +1,100 @@
+52,77|C1142499|Gastrointestinal Toxicity|fndg
+138,149|C1444662|discontinue|fndg
+182,198|C0854467|Myelosuppression|fndg
+269,285|C0348754|Hepatic Toxicity|dsyn
+394,405|C1444662|discontinue|fndg
+438,453|C0268000|Fluid Retention|patf
+543,554|C1444662|discontinue|fndg
+587,601|C0595916|Renal Toxicity|patf
+593,601|C0600688|Toxicity|inpo
+661,668|C1363945|therapy|fndg
+709,717|C0600688|Toxicity|inpo
+797,805|C0600457|pregnant|fndg
+797,805|C0549206|pregnant|fndg
+866,891|C1142499|Gastrointestinal Toxicity|fndg
+897,905|C0011991|Diarrhea|sosy
+897,905|C1963091|Diarrhea|fndg
+907,913|C0027497|nausea|sosy
+907,913|C1963179|nausea|patf
+915,923|C0042963|vomiting|sosy
+915,923|C1963281|vomiting|patf
+929,943|C0000737|abdominal pain|sosy
+1096,1102|C0087136|single|fndg
+1162,1170|C0011991|diarrhea|sosy
+1162,1170|C1963091|diarrhea|fndg
+1176,1182|C3244287|grades|fndg
+1275,1283|C0011991|diarrhea|sosy
+1275,1283|C1963091|diarrhea|fndg
+1318,1326|C0011991|diarrhea|sosy
+1318,1326|C1963091|diarrhea|fndg
+1400,1425|C1142499|gastrointestinal toxicity|fndg
+1453,1464|C1444662|discontinue|fndg
+1569,1585|C0854467|Myelosuppression|fndg
+1591,1607|C0040034|Thrombocytopenia|fndg
+1609,1615|C0002871|anemia|dsyn
+1620,1631|C0027947|neutropenia|dsyn
+1620,1631|C0023530|neutropenia|dsyn
+1620,1631|C0853697|neutropenia|fndg
+1722,1729|C1363945|therapy|fndg
+1776,1785|C1444656|indicated|fndg
+1797,1813|C0854467|myelosuppression|fndg
+1841,1852|C1444662|discontinue|fndg
+1957,1973|C0348754|Hepatic Toxicity|dsyn
+2004,2029|C0860207|drug induced liver injury|patf
+2067,2070|C1266129|ALT|neop
+2225,2236|C3811910|combination|fndg
+2291,2306|C1444662|discontinuation|fndg
+2461,2464|C1266129|ALT|neop
+2575,2578|C1266129|ALT|neop
+2713,2718|C3244287|grade|fndg
+2819,2832|C0151905|increased ALT|fndg
+2948,2953|C0456984|tests|fndg
+3028,3037|C1444656|indicated|fndg
+3146,3157|C1444662|discontinue|fndg
+3262,3277|C0268000|Fluid Retention|patf
+3339,3359|C0031039|pericardial effusion|dsyn
+3361,3377|C0032227|pleural effusion|dsyn
+3361,3377|C2073625|pleural effusion|fndg
+3379,3394|C0034063|pulmonary edema|dsyn
+3403,3419|C0085649|peripheral edema|fndg
+3432,3438|C0087136|single|fndg
+3528,3543|C0268000|fluid retention|patf
+3609,3616|C3889290|Grade 3|fndg
+3622,3638|C0032227|pleural effusion|dsyn
+3622,3638|C2073625|pleural effusion|fndg
+3668,3675|C3889290|Grade 3|fndg
+3699,3720|C0031039|pericardial effusions|dsyn
+3744,3751|C3889290|Grade 3|fndg
+3767,3782|C0034063|pulmonary edema|dsyn
+3804,3811|C3889290|Grade 3|fndg
+3812,3817|C0013604|edema|fndg
+3902,3913|C1444662|discontinue|fndg
+4018,4032|C0595916|Renal Toxicity|patf
+4278,4285|C1363945|therapy|fndg
+4313,4315|C4049686|Ph|fndg
+4313,4315|C0450407|Ph|fndg
+4313,4315|C0450408|Ph|fndg
+4313,4315|C0450409|Ph|fndg
+4317,4325|C0023418|Leukemia|neop
+4618,4625|C1551393|missing|fndg
+4658,4665|C1363945|therapy|fndg
+4695,4709|C0035078|kidney failure|dsyn
+4747,4756;4778,4784|C0589120|Follow Up Status|fndg
+5022,5028|C0231683|Normal|fndg
+5191,5205|C0035078|Kidney Failure|dsyn
+5223,5226|C1524029|min|neop
+5248,5254|C0231683|Normal|fndg
+5989,5997;6001,6009|C0744226|function baseline|fndg
+6021,6028|C1363945|therapy|fndg
+6108,6124|C1565489|renal impairment|dsyn
+6128,6140|C0455624|risk factors|fndg
+6145,6162|C1565489|renal dysfunction|dsyn
+6145,6162|C3279454|renal dysfunction|fndg
+6238,6254|C1565489|renal impairment|dsyn
+6324,6332|C0600688|Toxicity|inpo
+6540,6558|C0243033|maternal exposures|inpo
+6714,6723|C0425965|pregnancy|fndg
+6774,6778|C1273517|used|fndg
+6786,6795|C0425965|pregnancy|fndg
+6823,6831|C0600457|pregnant|fndg
+6823,6831|C0549206|pregnant|fndg

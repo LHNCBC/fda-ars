@@ -1,0 +1,162 @@
+00000000|AA|BCG|Bacille Calmette-Guerin|1|3|5|23|3450:3
+00000000|AA|HSTCL|hepatosplenic T-cell lymphoma|1|5|7|29|8714:5
+00000000|AA|CHF|congestive heart failure|1|3|5|24|9982:3
+00000000|AA|HBV|hepatitis B virus|1|3|5|17|11209:3
+00000000|AA|Biological DMARDs|Biological Disease-Modifying Antirheumatic Drugs|3|17|9|48|14246:17
+00000000|MMI|173.14|Tuberculosis|C0041296|[dsyn]|["TUBERCULOSIS"-tx-16-"tuberculosis"-noun-0,"TUBERCULOSIS"-tx-15-"Tuberculosis"-noun-0,"TUBERCULOSIS"-tx-15-"tuberculosis"-noun-0,"TUBERCULOSIS"-tx-14-"tuberculosis"-noun-0,"TUBERCULOSIS"-tx-13-"tuberculosis"-noun-0,"INFECTION TUBERCULOSIS"-tx-9-"infection Tuberculosis"-noun-0,"TUBERCULOSIS"-tx-9-"tuberculosis"-noun-0,"tuberculosis infection"-tx-9-"tuberculosis infections"-noun-0,"TUBERCULOSIS"-tx-5-"tuberculosis"-noun-0]|TX|4472/12;3992/12;4203/12;3925/12;[3465/12],[3758/12];2620/9,2638/12;[2349/12],[2466/12],[2702/12];2702/23;1695/12|C01.252.410.040.552.846
+00000000|MMI|124.32|Infection|C3714514|[patf]|["Infections"-tx-87-"infections"-noun-0,"INFECTION"-tx-83-"infection"-noun-0,"Infections"-tx-77-"infections"-noun-0,"Infections"-tx-76-"infections"-noun-0,"INFECTION"-tx-74-"infection"-noun-0,"INFECTION"-tx-60-"infection"-noun-0,"INFECTION"-tx-22-"infection"-noun-0,"INFECTION"-tx-18-"infection"-noun-0,"INFECTION"-tx-16-"infection"-noun-0,"INFECTION"-tx-8-"infection"-noun-0,"INFECTION"-tx-7-"infection"-noun-1,"Infections"-tx-4-"Infections"-noun-0,"Infections"-tx-4-"infections"-noun-0,"INFECTION"-tx-2-"infection"-noun-0,"INFECTION"-tx-2-"infection"-noun-1,"INFECTION"-tx-1-"infection"-noun-1,"Infections"-tx-1-"infections"-noun-0]|TX|16280/10;15411/9;14495/10;14278/10;13987/9;11566/9;5417/9;4745/9;4393/9;2167/9;1907/9;1210/10;1333/10;[127/9],[185/9],[718/9];[127/9],[185/9],[718/9];110/9;60/10|C01.539
+00000000|MMI|116.81|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-75-"therapy"-noun-0,"Therapy"-tx-66-"therapy"-noun-0,"Therapy"-tx-65-"therapy"-noun-0,"Therapy"-tx-63-"therapy"-noun-0,"Therapy"-tx-58-"therapy"-noun-0,"Therapy"-tx-55-"therapy"-noun-0,"Therapy"-tx-48-"therapy"-noun-1,"Therapy"-tx-41-"therapy"-noun-0,"Therapy"-tx-40-"therapy"-noun-1,"Therapy"-tx-30-"therapy"-noun-0,"Therapy"-tx-27-"therapy"-noun-0,"Therapy"-tx-19-"therapy"-noun-0,"Therapy"-tx-17-"therapy"-adj-0,"Therapy"-tx-16-"therapy"-noun-1,"Therapy"-tx-14-"therapy"-noun-0,"Therapy"-tx-13-"therapy"-noun-0,"Therapy"-tx-11-"therapy"-noun-0,"Therapy"-tx-10-"therapy"-noun-0,"Therapy"-tx-9-"therapy"-noun-0]|TX|14102/7;12491/7;12366/7;[12120/7],[12176/7];11344/7;10836/7;9651/7;8588/7;8510/7;7045/7;6624/7;4987/7;4658/7;4571/7;3938/7;3478/7;3178/7;3010/7;2255/7|
+00000000|MMI|88.45|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-83-"infection"-noun-0,"Infection, NOS"-tx-74-"infection"-noun-0,"Infection, NOS"-tx-60-"infection"-noun-0,"Infection, NOS"-tx-22-"infection"-noun-0,"Infection, NOS"-tx-18-"infection"-noun-0,"Infection, NOS"-tx-16-"infection"-noun-0,"Infection, NOS"-tx-8-"infection"-noun-0,"Infection, NOS"-tx-7-"infection"-noun-1,"Infection, NOS"-tx-2-"infection"-noun-0,"Infection, NOS"-tx-2-"infection"-noun-1,"Infection, NOS"-tx-1-"infection"-noun-1]|TX|15411/9;13987/9;11566/9;5417/9;4745/9;4393/9;2167/9;1907/9;[127/9],[185/9],[718/9];[127/9],[185/9],[718/9];110/9|C01.539.221
+00000000|MMI|74.22|Latent Tuberculosis|C1609538|[dsyn]|["Latent Tuberculosis Infection"-tx-17-"latent tuberculosis infection"-noun-0,"Latent Tuberculosis Infection"-tx-16-"latent tuberculosis infection"-noun-1,"Latent Tuberculosis"-tx-13-"latent tuberculosis"-noun-1,"Latent Tuberculosis"-tx-12-"latent tuberculosis"-noun-0,"Latent Tuberculosis Infection"-tx-11-"latent tuberculosis infection"-noun-0]|TX|4590/29;4521/29;3710/19;3322/19;3036/29|C01.252.410.040.552.846.122
+00000000|MMI|61.26|Lymphoma|C0024299|[neop]|["LYMPHOMA"-tx-40-"lymphoma"-noun-0,"LYMPHOMA"-tx-38-"lymphoma"-noun-0,"LYMPHOMA"-tx-36-"lymphoma"-noun-0,"LYMPHOMA"-tx-35-"lymphoma"-noun-0,"LYMPHOMA"-tx-34-"lymphoma"-noun-0,"Lymphomas"-tx-28-"lymphomas"-noun-0,"LYMPHOMA"-tx-2-"lymphoma"-noun-0]|TX|8465/8;8085/8;7854/8;7637/8;7435/8;6716/9;438/8|C04.557.386;C15.604.515.569;C20.683.515.761
+00000000|MMI|53.63|Crohn Disease|C0010346|[dsyn]|["-- Crohn's Disease"-tx-43-"Crohn's disease"-noun-0,"-- Crohn's Disease"-tx-40-"Crohn's disease"-noun-0,"-- Crohn's Disease"-tx-35-"Crohn's disease"-noun-0,"-- Crohn's Disease"-tx-25-"Crohn's disease"-noun-0,"Crohn"-tx-25-"Crohn's"-noun-0]|TX|8986/15;8315/15;7567/15;6020/15;6020/7|C06.405.205.731.500;C06.405.469.432.500
+00000000|MMI|32.56|Malignant Neoplasms|C0006826|[neop]|["MALIGNANCIES"-tx-88-"malignancies"-noun-0,"MALIGNANCIES"-tx-87-"malignancies"-noun-0,"MALIGNANCIES"-tx-41-"malignancies"-noun-0,"MALIGNANCIES"-tx-30-"malignancies"-noun-0,"MALIGNANCIES"-tx-29-"malignancies"-noun-0,"MALIGNANCIES"-tx-27-"Malignancies"-noun-0,"MALIGNANCIES"-tx-25-"malignancies"-noun-0,"MALIGNANCIES"-tx-24-"Malignancies"-noun-0,"MALIGNANCIES"-tx-24-"malignancies"-noun-0,"MALIGNANCIES"-tx-2-"malignancies"-noun-0]|TX|16378/12;16295/12;8618/12;6992/12;[6826/12],[6857/12],[6916/12];6470/12;6056/12;5754/12;5855/12;457/12|
+00000000|MMI|31.68|Immunosuppression|C4048329|[dsyn]|["Immunosuppression"-tx-89-"immunosuppression"-noun-0,"Immunosuppression"-tx-87-"Immunosuppression"-noun-0,"Immunosuppression"-tx-29-"immunosuppression"-noun-0]|TX|16601/17;16093/17;6894/17|E02.095.465.425.450;E05.478.610
+00000000|MMI|26.08|Congestive heart failure|C0018802|[dsyn]|["Heart Failure"-tx-52-"heart failure"-noun-0,"CONGESTIVE HEART FAILURE"-tx-51-"CHF"-noun-0,"CONGESTIVE HEART FAILURE"-tx-51-"CHF"-noun-1,"CONGESTIVE HEART FAILURE"-tx-51-"congestive heart failure"-noun-0,"CONGESTIVE HEART FAILURE"-tx-50-"CHF"-noun-0,"CONGESTIVE HEART FAILURE"-tx-50-"Heart Failure congestive"-noun-0,"Heart Failure"-tx-50-"Heart Failure"-noun-0,"Heart Failure"-tx-2-"Heart failure"-noun-0]|TX|10321/13;[10115/3],[10166/3],[10232/3],[10268/3];[10115/3],[10166/3],[10232/3],[10268/3];10206/24;10001/3;9918/13,9956/10;9918/13;542/13|
+00000000|MMI|26.08|Disease|C0012634|[dsyn]|["DISEASE"-tx-42-"disease"-noun-0,"DISEASE"-tx-38-"disease"-noun-0,"Diseases"-tx-25-"diseases"-noun-0,"condition"-tx-9-"conditions"-noun-0]|TX|8780/7;8032/7;6046/8;2581/10|C23.550.288
+00000000|MMI|23.17|Blastomycosis|C0005716|[dsyn]|["BLASTOMYCOSIS"-tx-9-"blastomycosis"-noun-0,"BLASTOMYCOSIS"-tx-5-"blastomycosis"-noun-0]|TX|2546/13;1584/13|C01.539.800.200.055;C01.703.295.055;C01.703.534.395;C08.381.472.350;C08.730.435.395;C17.800.838.208.055
+00000000|MMI|22.11|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-88-"Adverse Reactions"-noun-1,"Adverse reactions"-tx-81-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-71-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-71-"Adverse reactions"-noun-0,"Adverse reactions"-tx-69-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-56-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-52-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-40-"Adverse Reactions"-noun-1]|TX|16520/17;15158/17;13583/17;13395/17;13230/17;11031/17;10369/17;8524/17|
+00000000|MMI|21.14|Hodgkin Disease|C0019829|[neop]|["HODGKIN LYMPHOMA"-tx-35-"Hodgkin's lymphoma"-noun-0,"Hodgkin"-tx-28-"Hodgkin's"-noun-0]|TX|7698/18;6737/9|C04.557.386.355;C15.604.515.569.355;C20.683.515.761.355
+00000000|MMI|19.61|Histoplasmosis|C0019655|[dsyn]|["HISTOPLASMOSIS"-tx-22-"histoplasmosis"-noun-0,"HISTOPLASMOSIS"-tx-9-"histoplasmosis"-noun-0,"HISTOPLASMOSIS"-tx-5-"histoplasmosis"-noun-0]|TX|5357/14;2507/14;1632/14|C01.703.450
+00000000|MMI|19.59|Heart failure|C0018801|[dsyn]|["Failure, Heart"-tx-52-"heart failure"-noun-0,"Failure, Heart"-tx-50-"Heart Failure"-noun-0,"Failure, Heart"-tx-2-"Heart failure"-noun-0]|TX|10321/13;9918/13;542/13|C14.280.434
+00000000|MMI|19.58|Pancytopenia|C0030312|[dsyn]|["PANCYTOPENIA"-tx-71-"pancytopenia"-noun-0,"PANCYTOPENIA"-tx-70-"pancytopenia"-noun-0,"PANCYTOPENIA"-tx-4-"pancytopenia"-noun-0]|TX|13501/12;13316/12;981/12|C15.378.700
+00000000|MMI|18.99|Virus Diseases|C0042769|[dsyn]|["virus"-tx-65-"HBV"-noun-0,"virus"-tx-64-"HBV"-noun-0,"virus"-tx-63-"HBV"-noun-0,"virus"-tx-62-"HBV"-noun-0,"virus"-tx-59-"HBV"-noun-0,"virus"-tx-58-"HBV"-noun-0,"virus"-tx-57-"virus"-noun-0]|TX|12380/3;12213/3;11985/3;[11859/3],[11938/3];11522/3;11285/3;11259/5|C02
+00000000|MMI|14.96|Coccidioidomycosis|C0009186|[dsyn]|["COCCIDIOIDOMYCOSIS"-tx-9-"coccidioidomycosis"-noun-0,"COCCIDIOIDOMYCOSIS"-tx-5-"coccidioidomycosis"-noun-0]|TX|2523/18;1612/18|C01.703.203
+00000000|MMI|13.60|Acute inflammatory demyelinating polyneuropathy|C3542501|[dsyn]|["Guillain-Barre Syndrome"-tx-67-"Guillain-Barre syndrome"-noun-0]|TX|12881/23|C10.114.750.100;C10.314.750.450;C10.668.829.350;C10.668.829.800.750.300;C20.111.258.750.400
+00000000|MMI|13.60|Aspergillosis|C0004030|[dsyn]|["ASPERGILLOSIS"-tx-5-"aspergillosis"-noun-0]|TX|1569/13|C01.539.800.200.383.249;C01.703.295.328.249;C17.800.838.208.416.249
+00000000|MMI|13.60|Guillain-Barre Syndrome|C0018378|[dsyn]|["GUILLAIN BARRE SYNDROME"-tx-67-"Guillain-Barre syndrome"-noun-0]|TX|12881/23|C10.114.750.100;C10.314.750.450;C10.668.829.350;C10.668.829.800.750.300;C20.111.258.750.400
+00000000|MMI|13.60|Ulcerative Colitis|C0009324|[dsyn]|["COLITIS, ULCERATIVE"-tx-43-"ulcerative colitis"-noun-0]|TX|9005/18|C06.405.205.265.231;C06.405.205.731.249;C06.405.469.158.188.231;C06.405.469.432.249
+00000000|MMI|13.60|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-45-"uncertain"-adj-0]|TX|9214/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|13.39|Peripheral Neuropathy|C0031117|[dsyn]|["PERIPHERAL NEUROPATHY"-tx-69-"peripheral neuropathy"-noun-0,"Peripheral Nervous System Disorders"-tx-68-"peripheral nervous system disorders"-noun-0]|TX|13151/21;13014/25,13054/9|C10.668.829
+00000000|MMI|13.26|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-53-"Hypersensitivity Reactions"-noun-0,"Hypersensitivity reactions"-tx-53-"hypersensitivity reactions"-noun-0,"Allergic reactions"-tx-2-"allergic reactions"-noun-0]|TX|10410/26;10496/26;628/18|C20.543
+00000000|MMI|13.03|Mycoses|C0026946|[dsyn]|["MYCOSES"-tx-20-"mycoses"-noun-0,"MYCOSES"-tx-9-"mycoses"-noun-0,"MYCOSES"-tx-2-"mycoses"-noun-0]|TX|5107/7;2490/7;394/7|C01.703
+00000000|MMI|12.96|Discontinued|C1444662|[fndg]|["Discontinue"-tx-81-"discontinue"-verb-0,"Discontinuation"-tx-75-"discontinuation"-noun-0,"Discontinue"-tx-64-"discontinue"-verb-0,"Discontinue"-tx-55-"discontinue"-verb-0,"Discontinued"-tx-18-"discontinued"-verb-0]|TX|15130/11;14076/15;12231/11;10765/11;4700/12|
+00000000|MMI|12.87|disease transmission|C0242781|[patf]|["Transmission"-tx-83-"transmission"-noun-0,"Transmission, Infection"-tx-83-"transmission infection"-noun-0]|TX|15395/12;15395/12,15411/9|N06.850.310
+00000000|MMI|12.84|Genetic Carriers|C0007294|[fndg]|["carriers"-tx-57-"carriers"-noun-0,"carriers"-tx-3-"carriers"-noun-0]|TX|11242/8;764/8|G05.380.383
+00000000|MMI|12.68|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-81-"symptoms"-noun-0,"SYMPTOMS"-tx-74-"symptoms"-noun-0,"SYMPTOMS"-tx-53-"symptoms"-noun-0,"SYMPTOMS"-tx-16-"symptoms"-noun-0,"SYMPTOMS"-tx-4-"symptoms"-noun-0]|TX|15052/8;13944/8;10457/8;4381/8;1051/8|
+00000000|MMI|12.44|Hepatitis B reactivation|C1142420|[dsyn]|["Hepatitis B reactivation"-tx-65-"HBV reactivation"-noun-0,"Hepatitis B reactivation"-tx-64-"HBV reactivation"-noun-0,"Hepatitis B reactivation"-tx-62-"HBV reactivation"-noun-0,"Hepatitis B reactivation"-tx-59-"HBV reactivation"-noun-0,"Hepatitis B reactivation"-tx-58-"HBV reactivation"-noun-0]|TX|12380/16;12213/16;11938/16;11522/16;11285/16|
+00000000|MMI|11.72|combination - answer to question|C3811910|[fndg]|["Combination"-tx-79-"combination"-noun-0,"Combination"-tx-78-"combination"-noun-0,"Combination"-tx-77-"combination"-noun-0,"Combination"-tx-46-"combination"-noun-0,"Combination"-tx-45-"combination"-noun-0]|TX|14780/11;14735/11;14527/11;9405/11;9311/11|
+00000000|MMI|11.56|Angioedema|C0002994|[patf]|["Angiooedema"-tx-53-"angioedema"-noun-0]|TX|10594/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|11.56|Lymphoma, Non-Hodgkin|C0024305|[neop]|["Lymphoma, Nonhodgkin's"-tx-28-"non-Hodgkin's lymphoma"-noun-0]|TX|6751/22|C04.557.386.480;C15.604.515.569.480;C20.683.515.761.480
+00000000|MMI|11.56|Multiple Sclerosis|C0026769|[dsyn]|["MULTIPLE SCLEROSIS"-tx-67-"multiple sclerosis"-noun-0]|TX|12808/18|C10.114.375.500;C10.314.350.500;C20.111.258.250.500
+00000000|MMI|11.56|Sepsis|C0243026|[dsyn]|["SEPSIS"-tx-18-"sepsis"-noun-0]|TX|4758/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|11.56|Septicemia|C0036690|[dsyn]|["Sepsis"-tx-18-"sepsis"-noun-0]|TX|4758/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|11.56|Serum Sickness|C0036830|[dsyn]|["SERUM SICKNESS"-tx-53-"serum sickness"-noun-0]|TX|10634/14|C17.800.174.600.800;C20.543.206.380.800;C20.543.520.770;C25.100.468.380.800
+00000000|MMI|10.42|Hepatitis B|C0019163|[dsyn]|["HEPATITIS B"-tx-61-"hepatitis B"-noun-0]|TX|11732/11|C02.256.430.400;C02.440.435;C06.552.380.705.437
+00000000|MMI|9.72|Invasive mycosis|C1262313|[dsyn]|["Invasive Fungal infections"-tx-23-"invasive fungal infections"-noun-0,"Invasive Fungal infection"-tx-20-"invasive fungal infection"-noun-0,"Invasive Fungal infections"-tx-20-"Invasive Fungal Infections"-noun-0,"Invasive Fungal infections"-tx-2-"Invasive fungal infections"-noun-0]|TX|5612/26;5128/25;5023/26;226/26|
+00000000|MMI|9.51|Aplastic Anemia|C0002874|[dsyn]|["Aplastic anaemia"-tx-70-"aplastic anemia"-noun-0]|TX|13340/15|C15.378.071.085;C15.378.190.196
+00000000|MMI|9.51|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-53-"dyspnea"-noun-0]|TX|10606/7|C08.618.326;C23.888.852.371
+00000000|MMI|9.51|Epilepsy|C0014544|[dsyn]|["SEIZURE DISORDER"-tx-69-"seizure disorder"-noun-0]|TX|13113/16|C10.228.140.490
+00000000|MMI|9.51|Legionellosis|C0023240|[dsyn]|["Legionellosis"-tx-5-"legionellosis"-noun-0]|TX|1648/13|C01.252.400.500;C08.730.382
+00000000|MMI|9.51|Leukopenia|C0023530|[dsyn]|["LEUKOPENIA"-tx-71-"leukopenia"-noun-0]|TX|13489/10|C15.378.553.546
+00000000|MMI|9.51|Listeriosis|C0023860|[dsyn]|["LISTERIOSIS"-tx-5-"listeriosis"-noun-0]|TX|1663/11|C01.252.410.514
+00000000|MMI|9.51|Optic Neuritis|C0029134|[dsyn]|["Neuritis, Optic"-tx-69-"optic neuritis"-noun-0]|TX|13131/14|C10.292.700.550;C11.640.576
+00000000|MMI|9.51|Pallor|C0030232|[fndg]|["PALLOR"-tx-74-"pallor"-noun-0]|TX|14042/6|C23.888.885.500
+00000000|MMI|9.51|Pneumocystis jiroveci pneumonia|C1535939|[dsyn]|["Pneumocystosis"-tx-5-"pneumocystosis"-noun-0]|TX|1676/14|C01.703.534.700;C01.703.770.700;C08.381.472.700;C08.381.677.675;C08.730.435.700;C08.730.610.675
+00000000|MMI|9.51|Rheumatoid Arthritis|C0003873|[dsyn]|["RHEUMATOID ARTHRITIS"-tx-84-"rheumatoid arthritis"-noun-0]|TX|15528/20|C05.550.114.154;C05.799.114;C17.300.775.099;C20.111.199
+00000000|MMI|9.51|Syndrome|C0039082|[dsyn]|["Syndrome"-tx-4-"syndrome"-noun-0]|TX|1150/8|C23.550.288.500
+00000000|MMI|9.51|Thrombocytopenia|C0040034|[fndg]|["Thrombocytopaenia"-tx-71-"thrombocytopenia"-noun-0]|TX|13515/16|C15.378.140.855
+00000000|MMI|9.51|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-53-"urticaria"-noun-0]|TX|10654/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|9.51|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-2-"Anaphylaxis"-noun-0]|TX|605/11|C20.543.480.099
+00000000|MMI|9.42|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-65-"controlled"-verb-0,"Controlled"-tx-26-"controlled"-adj-0,"Controlled"-tx-25-"controlled"-adj-0,"Controlled"-tx-24-"controlled"-adj-0]|TX|12400/10;6382/10;5962/10;5779/10|
+00000000|MMI|9.37|Test Result|C0456984|[fndg]|["Test"-tx-61-"test"-verb-0,"Test"-tx-60-"Test"-noun-0,"Test"-tx-13-"test"-noun-0,"Test"-tx-2-"test"-noun-0]|TX|11634/4;11544/4;3701/4;705/4|
+00000000|MMI|9.00|Demyelinating Diseases|C0011303|[dsyn]|["Demyelinating Disease"-tx-67-"demyelinating disease"-noun-0,"Demyelinating Disease"-tx-4-"Demyelinating disease"-noun-0]|TX|12848/21;894/21|C10.314
+00000000|MMI|8.67|Congenital Abnormality|C0000768|[cgab]|["Abnormalities"-tx-75-"abnormalities"-noun-0,"Abnormalities"-tx-73-"abnormalities"-noun-0]|TX|14161/13;13847/13|C16.131
+00000000|MMI|8.53|Disease Progression|C0242656|[patf]|["Disease Course"-tx-42-"disease course"-noun-0]|TX|8780/14|C23.550.291.656
+00000000|MMI|8.39|Aggressive behavior|C0001807|[mobd]|["Aggressive"-tx-42-"aggressive"-adj-0]|TX|8769/10|F01.145.126.125;F01.145.813.045
+00000000|MMI|8.39|Rare Diseases|C0678236|[dsyn]|["Rare Disorders"-tx-69-"Rare disorders"-noun-0]|TX|13065/4,13092/9|C23.550.291.906
+00000000|MMI|8.37|Neoplasm Metastasis|C0027627|[neop]|["secondary"-tx-83-"secondary"-adj-0]|TX|15385/9|C04.697.650;C23.550.727.650
+00000000|MMI|7.60|Active tuberculosis|C0151332|[dsyn]|["Active Tuberculosis"-tx-15-"active tuberculosis"-noun-0,"Active Tuberculosis"-tx-13-"active tuberculosis"-noun-0,"Active Tuberculosis"-tx-9-"active tuberculosis"-noun-0]|TX|4266/19;3587/19;2847/19|
+00000000|MMI|7.46|Candidiasis|C0006840|[dsyn]|["CANDIDIASIS"-tx-5-"candidiasis"-noun-0]|TX|1599/11|C01.703.160
+00000000|MMI|7.46|Contusions|C0009938|[inpo]|["BRUISING"-tx-74-"bruising"-verb-0]|TX|14022/8|C26.974.250
+00000000|MMI|7.46|Exanthema|C0015230|[sosy]|["RASH"-tx-53-"rash"-noun-0]|TX|10628/4|C17.800.257
+00000000|MMI|7.46|Hemorrhage|C0019080|[patf]|["BLEEDING"-tx-74-"bleeding"-verb-0]|TX|14032/8|C23.550.414
+00000000|MMI|7.46|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-53-"hypotension"-noun-0]|TX|10615/11|C14.907.514
+00000000|MMI|7.46|Inflammation|C0021368|[patf]|["INFLAMMATION"-tx-87-"inflammation"-noun-0]|TX|16135/12|C23.550.470
+00000000|MMI|7.32|new onset|C0746890|[fndg]|["NEW ONSET"-tx-50-"new onset"-adj-0,"NEW ONSET"-tx-4-"new onset"-adj-0,"NEW ONSET"-tx-2-"new onset"-adj-0]|TX|9991/9;933/9;570/9|
+00000000|MMI|7.22|0%|C3842591|[fndg]|["0%"-tx-25-"0"-real_number-0]|TX|[6164/1],[6169/1],[6254/1]|
+00000000|MMI|7.21|Worse|C1457868|[fndg]|["Worsening"-tx-51-"worsening"-verb-0,"Worsening"-tx-50-"worsening"-noun-0,"Worsening"-tx-2-"worsening"-verb-0]|TX|10196/9;9946/9;557/9|
+00000000|MMI|7.13|Physical findings|C0311392|[fndg]|["SIGNS"-tx-74-"signs"-noun-0,"SIGNS"-tx-63-"signs"-noun-0,"SIGNS"-tx-16-"signs"-noun-0]|TX|13934/5;12079/5;4371/5|
+00000000|MMI|7.02|Diagnosis|C0011900|[fndg]|["DIAGNOSIS"-tx-23-"diagnosis"-noun-0,"Diagnostic"-tx-21-"diagnostic"-adj-0,"Diagnostic"-tx-19-"diagnostic"-adj-0]|TX|5585/9;5286/10;4893/10|E01
+00000000|MMI|6.94|Decreased Immunologic Activity [PE]|C1373218|[patf]|["Immunosuppression"-tx-89-"immunosuppression"-noun-0,"Immunosuppression"-tx-87-"Immunosuppression"-noun-0,"Immunosuppression"-tx-29-"immunosuppression"-noun-0]|TX|16601/17;16093/17;6894/17|
+00000000|MMI|6.83|Lupus-like syndrome|C0919715|[dsyn]|["Lupus-like syndrome"-tx-81-"lupus-like syndrome"-noun-0,"Lupus-like syndrome"-tx-80-"lupus-like syndrome"-noun-0,"Lupus-like syndrome"-tx-4-"Lupus-like syndrome"-noun-0]|TX|15077/19;15009/19;1113/19|
+00000000|MMI|6.75|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-58-"fatal"-adj-0,"FATAL"-tx-27-"fatal"-adj-0]|TX|11361/5;6489/5|
+00000000|MMI|6.75|Living Alone|C0439044|[fndg]|["Alone"-tx-85-"alone"-adj-0,"Alone"-tx-76-"alone"-adj-1]|TX|16028/5;14463/5|
+00000000|MMI|6.47|Focal Infection|C0016397|[dsyn]|["Infection, localized"-tx-7-"localized infections"-noun-1]|TX|1949/20|C01.539.392
+00000000|MMI|6.34|Secondary Infections|C0442886|[dsyn]|["Secondary Infection"-tx-83-"secondary infection"-noun-0]|TX|15385/9,15411/9|C01.539.218;C02.219;C03.202
+00000000|MMI|6.32|Autoimmune state|C0004368|[patf]|["Autoimmunity"-tx-80-"Autoimmunity"-noun-0]|TX|14887/12|G12.450.192
+00000000|MMI|6.32|leukemia|C0023418|[neop]|["LEUKAEMIA"-tx-48-"leukemia"-noun-0]|TX|9775/8|C04.557.337
+00000000|MMI|4.93|Hepatitis B carrier (finding)|C0262505|[fndg]|["Carrier of hepatitis B"-tx-63-"carriers of HBV"-noun-0,"Carrier of hepatitis B"-tx-62-"carriers of HBV"-noun-0]|TX|11973/15;11847/15|
+00000000|MMI|4.92|Cytopenia|C0010828|[patf]|["CYTOPENIA"-tx-71-"cytopenia"-noun-0,"Cytopenias"-tx-4-"Cytopenias"-noun-0]|TX|13472/9;969/10|
+00000000|MMI|4.78|Systemic disease|C0442893|[dsyn]|["Systemic illness"-tx-20-"systemic illness"-noun-0,"Systemic illness"-tx-2-"systemic illness"-noun-0]|TX|5200/16;282/16|
+00000000|MMI|4.76|5-6|C3843715|[fndg]|["5-6"-tx-67-"5.6"-real_number-0,"5-6"-tx-4-"5.6"-real_number-0]|TX|12554/3;957/3|
+00000000|MMI|4.76|6/5|C0442749|[fndg]|["5 6"-tx-67-"5.6"-real_number-0,"5 6"-tx-4-"5.6"-real_number-0]|TX|12554/3;957/3|
+00000000|MMI|4.71|Negative Finding|C1513916|[fndg]|["NEGATIVE"-tx-22-"negative"-adj-0,"NEGATIVE"-tx-17-"negative"-adj-0]|TX|5379/8;4640/8|
+00000000|MMI|4.70|5 - 9|C3840622|[fndg]|["5 - 9"-tx-80-"5.9"-real_number-0,"5 - 9"-tx-4-"5.9"-real_number-0]|TX|14883/3;1171/3|
+00000000|MMI|4.65|Reactivation of hepatitis B viral hepatitis|C2960634|[dsyn]|["reactivation of hepatitis B virus"-tx-57-"Hepatitis B Virus Reactivation of"-noun-0,"reactivation of hepatitis B virus"-tx-57-"reactivation of hepatitis B virus"-noun-0]|TX|11074/30,11114/2;11174/33|
+00000000|MMI|4.62|Experimental Result|C2825142|[fndg]|["Result"-tx-80-"result"-verb-0,"Result"-tx-78-"result"-verb-0]|TX|14931/6;14697/6|
+00000000|MMI|4.58|Disease Response|C1704632|[fndg]|["Response"-tx-85-"response"-noun-0,"Response"-tx-83-"response"-noun-1]|TX|15979/8;15348/8|
+00000000|MMI|4.55|Hepatosplenic T-cell lymphoma|C1333984|[neop]|["Hepatosplenic T-Cell Lymphoma"-tx-45-"HSTCL"-noun-0,"Hepatosplenic T-Cell Lymphoma"-tx-42-"hepatosplenic T-cell lymphoma"-noun-0]|TX|9250/5;8683/29|
+00000000|MMI|4.48|Allergic Reaction|C1527304|[patf]|["Reactions, Allergic"-tx-2-"allergic reactions"-noun-0]|TX|628/18|C20.543
+00000000|MMI|4.47|General development|C0424601|[fndg]|["General development"-tx-48-"general development"-noun-0,"General development"-tx-40-"general development"-noun-0]|TX|9733/7,9760/11;8423/7,8450/11|
+00000000|MMI|4.46|Mental blocking|C0233660|[mobd]|["Blocking"-tx-27-"blocking"-noun-0,"Blocking"-tx-11-"blocking"-noun-0]|TX|6593/8;3092/8|
+00000000|MMI|4.31|Hematological Disease|C0018939|[dsyn]|["blood dyscrasias"-tx-74-"blood dyscrasias"-noun-0]|TX|13967/16|C15.378
+00000000|MMI|4.30|Immunocompromised Host|C0085393|[fndg]|["Immunocompromised Patient"-tx-19-"immunocompromised patient"-noun-0]|TX|4930/25|G12.470
+00000000|MMI|4.27|Autoimmune Diseases|C0004364|[dsyn]|["Autoimmunity"-tx-80-"Autoimmunity"-noun-0]|TX|14887/12|C20.111
+00000000|MMI|3.36|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-2-"Anaphylaxis"-noun-0]|TX|605/11|
+00000000|MMI|3.36|Chronic infectious disease|C0151317|[dsyn]|["chronic infections"-tx-88-"chronic infections"-noun-0]|TX|16417/18|
+00000000|MMI|3.36|Chronic leukemia (category)|C1279296|[neop]|["Chronic leukaemia NOS"-tx-47-"chronic leukemia"-noun-0]|TX|9500/16|
+00000000|MMI|3.36|Container status - Identified|C1550043|[fndg]|["Identified"-tx-73-"identified"-verb-1]|TX|13721/10|
+00000000|MMI|3.36|Death (finding)|C1306577|[fndg]|["Death"-tx-4-"death"-noun-0]|TX|1422/5|
+00000000|MMI|3.36|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-53-"hypotension"-noun-0]|TX|10615/11|
+00000000|MMI|3.36|Immune System Finding|C1291764|[fndg]|["IMMUNE SYSTEM"-tx-59-"immune system"-noun-0]|TX|11478/13|
+00000000|MMI|3.36|Local disease|C0277565|[dsyn]|["Localized Disease"-tx-6-"localized disease"-noun-1]|TX|1811/17|
+00000000|MMI|3.36|Malignant neoplasm of skin|C0007114|[neop]|["-- Skin Cancer"-tx-49-"skin cancer"-noun-0]|TX|9892/11|
+00000000|MMI|3.36|Pallor of skin|C0241137|[fndg]|["pallor"-tx-74-"pallor"-noun-0]|TX|14042/6|
+00000000|MMI|3.36|Persistent fever|C0476474|[patf]|["Persistent fever"-tx-74-"persistent fever"-noun-0]|TX|14004/16|
+00000000|MMI|3.36|Positive Laboratory Test Result|C1335447|[fndg]|["positive test result"-tx-12-"positive test result"-noun-0]|TX|3269/20|
+00000000|MMI|3.36|Recurrent infections|C0239998|[fndg]|["INFECTION, RECURRENT"-tx-9-"recurrent infection"-noun-0]|TX|2299/19|
+00000000|MMI|3.36|Related personal status|C0445223|[fndg]|["Related"-tx-45-"related"-verb-0]|TX|9259/7|
+00000000|MMI|3.36|Serum Sickness Adverse Event|C1963234|[fndg]|["Serum sickness"-tx-53-"serum sickness"-noun-0]|TX|10634/14|
+00000000|MMI|3.36|Skin carcinoma|C0699893|[neop]|["Skin Cancer, Non-Melanoma"-tx-25-"non-melanoma skin cancer"-noun-0]|TX|6080/24|
+00000000|MMI|3.36|Usually fatal|C1843223|[fndg]|["Usually fatal"-tx-42-"usually fatal"-adj-0]|TX|8802/13|
+00000000|MMI|3.36|White blood cell count decreased|C0750394|[fndg]|["Leukopenia"-tx-71-"leukopenia"-noun-0]|TX|13489/10|
+00000000|MMI|3.36|reported bruising (history)|C2136686|[fndg]|["bruising"-tx-74-"bruising"-verb-0]|TX|14022/8|
+00000000|MMI|3.36|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-53-"urticaria"-noun-0]|TX|10654/9|
+00000000|MMI|2.45|stress associated with serious illness|C2020635|[fndg]|["serious illness"-tx-20-"serious illness"-noun-0]|TX|5192/7,5209/7|
+00000000|MMI|2.42|infection risk factor|C0850774|[fndg]|["risk factor for infection"-tx-13-"risk factors for infection"-noun-0]|TX|3741/16,3771/9|
+00000000|MMI|2.41|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-73-"history of"-noun-0]|TX|13811/10|
+00000000|MMI|2.41|Exacerbation of symptoms|C4062989|[fndg]|["Exacerbation of symptoms"-tx-67-"exacerbation of symptoms"-noun-0]|TX|12686/15,12711/8|
+00000000|MMI|2.39|Toxic effect|C0600688|[inpo]|["toxicities"-tx-78-"toxicities"-noun-0]|TX|14677/10|
+00000000|MMI|2.37|tuberculosis risk factor|C0749721|[dsyn]|["TUBERCULOSIS RISK FACTOR"-tx-10-"tuberculosis risk factors"-noun-0]|TX|2901/25|
+00000000|MMI|2.37|Neurologic reaction|C0235030|[fndg]|["NEUROLOGIC REACTION"-tx-67-"Neurologic Reactions"-noun-0]|TX|12558/20|
+00000000|MMI|2.36|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-49-"risk factors"-noun-0]|TX|9875/12|
+00000000|MMI|2.36|latent infection|C0872054|[dsyn]|["Latent Infection"-tx-10-"latent infection"-noun-0]|TX|2942/16|
+00000000|MMI|2.34|Clinical Significance|C2826293|[fndg]|["Clinical Significance"-tx-86-"clinical significance"-noun-0]|TX|16039/21|
+00000000|MMI|2.34|Secondary transmission|C0948191|[patf]|["Secondary transmission"-tx-83-"secondary transmission"-noun-0]|TX|15385/22|
+00000000|MMI|2.34|At risk of infection|C0582147|[fndg]|["Risk For Infection"-tx-23-"risk for infection"-noun-0]|TX|5677/8,5700/9|
+00000000|MMI|2.34|history of infection|C2049826|[fndg]|["history of infection"-tx-9-"history of infection"-noun-0]|TX|2374/10,2402/9|
+00000000|MMI|2.34|severe allergic reaction|C2220378|[fndg]|["severe Hypersensitivity reaction"-tx-56-"severe hypersensitivity reaction"-noun-0]|TX|10927/32|
+00000000|MMI|2.34|severe allergy|C2945656|[fndg]|["severe Hypersensitivity reaction"-tx-56-"severe hypersensitivity reaction"-noun-0]|TX|10927/32|
+00000000|MMI|2.33|Indicated|C1444656|[fndg]|["Indicated"-tx-33-"indicated"-verb-1]|TX|7303/9|
+00000000|MMI|2.32|Opportunistic mycosis|C0029119|[dsyn]|["Opportunistic Fungal infections"-tx-5-"Opportunistic infections fungal"-noun-0]|TX|1433/24,1500/6|
+00000000|MMI|2.32|Detected (finding)|C0442726|[fndg]|["Detected"-tx-84-"detected"-verb-1]|TX|15568/8|
+00000000|MMI|2.32|Induration|C0332534|[patf]|["Induration"-tx-12-"Induration"-noun-0]|TX|3187/10|
+00000000|MMI|2.31|Therapy Appropriate|C1555288|[fndg]|["Therapy Appropriate"-tx-64-"therapy appropriate"-noun-0]|TX|12284/7,12297/11|
+00000000|MMI|2.31|Vaccinated (qualifier)|C1519885|[fndg]|["Vaccinated"-tx-12-"vaccinated"-verb-0]|TX|3409/10|
+00000000|MMI|2.31|Vaccinated at|C1116171|[fndg]|["vaccinated"-tx-12-"vaccinated"-verb-0]|TX|3409/10|
+00000000|MMI|2.31|Source|C0449416|[fndg]|["sources"-tx-32-"sources"-noun-0]|TX|7220/7|
+00000000|MMI|2.31|Used by|C1273517|[fndg]|["used"-tx-39-"used"-verb-1]|TX|8263/4|
+00000000|MMI|2.30|30%|C3842588|[fndg]|["30%"-tx-30-"30"-integer-0]|TX|7032/2|
+00000000|MMI|2.28|Demyelinating disease of central nervous system|C0011302|[dsyn]|["Demyelinating Disease of Central Nervous System"-tx-67-"of central nervous system demyelinating disease"-noun-0]|TX|12749/47|
+00000000|MMI|2.27|Co-morbid conditions|C1275743|[fndg]|["Co-morbid conditions"-tx-8-"co-morbid conditions"-noun-0]|TX|2024/20|
+00000000|MMI|2.25|Age >= 65 years|C4062450|[fndg]|["Age >= 65 years"-tx-8-"65 years age"-noun-0]|TX|1993/8,2005/3|
+00000000|MMI|2.25|10%|C3842590|[fndg]|["10%"-tx-82-"10"-real_number-0]|TX|15197/2|
+00000000|MMI|2.25|Reactivation tuberculosis|C0275965|[dsyn]|["TUBERCULOSIS REACTIVATION"-tx-11-"tuberculosis reactivation"-noun-0]|TX|3145/25|
+00000000|MMI|2.25|nervous system disorder|C0027765|[dsyn]|["Disorders, Neurological"-tx-69-"neurological disorders"-noun-0]|TX|13079/22|C10
+00000000|MMI|2.25|1+|C3816745|[fndg]|["1+"-tx-35-"1"-comma_integer-0]|TX|7723/1|
+00000000|MMI|2.25|2+|C3833492|[fndg]|["2+"-tx-35-"2"-comma_integer-0]|TX|7652/1|
+00000000|MMI|2.23|Adverse event|C0877248|[patf]|["adverse events"-tx-78-"adverse events"-noun-0]|TX|14618/14|
+00000000|MMI|2.23|Close|C3810854|[fndg]|["Close"-tx-15-"close"-adj-0]|TX|4233/5|
+00000000|MMI|2.22|Limited Walking Ability|C2674459|[fndg]|["Limited"-tx-26-"limited"-adj-0]|TX|6358/7|
+00000000|MMI|2.22|Invasive Lesion|C1334278|[fndg]|["Invasive"-tx-5-"invasive"-adj-0]|TX|1491/8|

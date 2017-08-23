@@ -1,0 +1,407 @@
+T2	AdverseReaction 61 69	Diarrhea
+T3	AdverseReaction 84 95	dehydration
+T4	AdverseReaction 100 113	renal failure
+T10	AdverseReaction 247 251;270 277;307 314	Skin bullous lesions
+T11	AdverseReaction 247 251;279 289;307 314	Skin blistering lesions
+T12	AdverseReaction 247 251;295 306;307 314	Skin exfoliating lesions
+T13	Severity 263 269	Severe
+T25	AdverseReaction 691 709	hepatic impairment
+T31	AdverseReaction 861 870	Keratitis
+T34	AdverseReaction 1060 1070	fetal harm
+T37	AdverseReaction 1198 1206	Diarrhea
+T38	AdverseReaction 1223 1234	dehydration
+T39	AdverseReaction 1294 1299	fatal
+T40	AdverseReaction 1251 1267	renal impairment
+T41	AdverseReaction 1313 1321	diarrhea
+T43	AdverseReaction 1489 1505	Renal impairment
+T44	AdverseReaction 1526 1534	diarrhea
+T45	Severity 1614 1621	Grade 3
+T55	AdverseReaction 2186 2205	cutaneous reactions
+T56	Severity 2178 2185	Grade 3
+T57	AdverseReaction 2223 2230;2260 2267	bullous lesions
+T58	AdverseReaction 2232 2242;2260 2267	blistering lesions
+T59	AdverseReaction 2248 2267	exfoliating lesions
+T60	AdverseReaction 2426 2445	cutaneous reactions
+T61	AdverseReaction 2460 2464	rash
+T62	AdverseReaction 2466 2474	erythema
+T63	AdverseReaction 2480 2494	acneiform rash
+T64	AdverseReaction 2533 2552	cutaneous reactions
+T65	Severity 2525 2532	Grade 3
+T66	AdverseReaction 2602 2644	palmar-plantar erythrodysesthesia syndrome
+T67	Severity 2592 2601	Grade 1-3
+T77	AdverseReaction 3163 3166	ILD
+T78	AdverseReaction 3170 3196	ILD-like adverse reactions
+T79	AdverseReaction 3204 3221	lung infiltration
+T82	AdverseReaction 3223 3234	pneumonitis
+T83	AdverseReaction 3236 3271	acute respiratory distress syndrome
+T84	AdverseReaction 3276 3295	alveolitis allergic
+T85	AdverseReaction 3401 3406	fatal
+T86	AdverseReaction 3591 3596	death
+T87	AdverseReaction 3562 3565	ILD
+T88	Severity 3552 3557;3560 3561	Grade 3
+T92	AdverseReaction 3906 3930	liver test abnormalities
+T93	AdverseReaction 3956 3961	fatal
+T94	AdverseReaction 3975 3999	liver test abnormalities
+T101	AdverseReaction 4390 4399	Keratitis
+T102	AdverseReaction 4427 4453	worsening eye inflammation
+T105	AdverseReaction 4455 4466	lacrimation
+T106	AdverseReaction 4468 4485	light sensitivity
+T107	AdverseReaction 4487 4501	blurred vision
+T108	AdverseReaction 4503 4511	eye pain
+T109	AdverseReaction 4520 4527	red eye
+T110	AdverseReaction 4623 4632	Keratitis
+T111	Severity 4684 4691	Grade 3
+T116	AdverseReaction 5352 5362	fetal harm
+T117	AdverseReaction 5415 5426	embryotoxic
+T118	AdverseReaction 5474 5510	abortions at late gestational stages
+T119	Animal 5514 5521	rabbits
+T120	Factor 70 73	may
+T27	AdverseReaction 3425 3428	ILD
+T80	Factor 5342 5345	can
+T1	AdverseReaction 479 504	Interstitial lung disease
+T5	AdverseReaction 506 509	ILD
+T6	Factor 1050 1053	Can
+T7	Severity 1398 1405	Grade 3
+T8	Severity 2592 2599	Grade 1
+T9	Severity 2592 2597;2600 2601	Grade 3
+T14	AdverseReaction 4418 4423;4437 4453	acute eye inflammation
+T15	AdverseReaction 685 690	Fatal
+T17	AdverseReaction 667 683	Hepatic toxicity
+T18	AdverseReaction 1028 1048	Embryofetal toxicity
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3 Hypothetical:E123
+E4	AdverseReaction:T4 Hypothetical:E123
+E10	AdverseReaction:T10 Effect:E13
+E11	AdverseReaction:T11 Effect:E13
+E12	AdverseReaction:T12 Effect:E13
+E13	Severity:T13
+E25	AdverseReaction:T25
+E31	AdverseReaction:T31
+E34	AdverseReaction:T34 Hypothetical:E6
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E43	AdverseReaction:T41 Effect:E7
+E45	AdverseReaction:T44
+E46	Severity:T45
+E47	AdverseReaction:T43 Effect:E46
+E57	AdverseReaction:T55 Effect:E58
+E58	Severity:T56
+E59	AdverseReaction:T57
+E60	AdverseReaction:T58
+E61	AdverseReaction:T59
+E62	AdverseReaction:T60
+E63	AdverseReaction:T61
+E64	AdverseReaction:T62
+E65	AdverseReaction:T63
+E66	AdverseReaction:T64 Effect:E67
+E67	Severity:T65
+E68	AdverseReaction:T66 Effect:E69 Effect2:E14 Effect3:E15
+E69	Severity:T67
+E79	AdverseReaction:T77
+E80	AdverseReaction:T78
+E81	AdverseReaction:T79
+E84	AdverseReaction:T82
+E85	AdverseReaction:T83
+E86	AdverseReaction:T84
+E87	AdverseReaction:T85
+E88	AdverseReaction:T86
+E89	AdverseReaction:T87 Effect:E90
+E90	Severity:T88
+E94	AdverseReaction:T92
+E95	AdverseReaction:T93
+E96	AdverseReaction:T94
+E103	AdverseReaction:T101
+E104	AdverseReaction:T102
+E107	AdverseReaction:T105
+E108	AdverseReaction:T106
+E109	AdverseReaction:T107
+E110	AdverseReaction:T108
+E111	AdverseReaction:T109
+E112	AdverseReaction:T110 Effect:E113
+E113	Severity:T111
+E119	AdverseReaction:T116 Hypothetical:E55
+E120	AdverseReaction:T117
+E121	AdverseReaction:T118 Hypothetical:E122
+E122	Animal:T119
+E123	Factor:T120
+E27	AdverseReaction:T27
+E55	Factor:T80
+E1	AdverseReaction:T1
+E5	AdverseReaction:T5
+E6	Factor:T6
+E7	Severity:T7
+E8	AdverseReaction:T41
+E9	AdverseReaction:T43
+E14	Severity:T8
+E15	Severity:T9
+E16	AdverseReaction:T14
+E17	AdverseReaction:T110
+E18	AdverseReaction:T15
+E20	AdverseReaction:T17
+E21	AdverseReaction:T18
+A1	CUI E2 C0011991
+A2	UMLS-Preferred-Name E2 Diarrhea
+A3	MEDDRA-PT E2 Diarrhoea
+A4	MEDDRA-PT-ID E2 10012735
+A5	LLT E2 Diarrhea
+A6	LLT-ID E2 10012727
+A7	CUI E3 C0011175
+A8	UMLS-Preferred-Name E3 Dehydration
+A9	MEDDRA-PT E3 Dehydration
+A10	MEDDRA-PT-ID E3 10012174
+A11	CUI E4 C0035078
+A12	UMLS-Preferred-Name E4 Kidney Failure
+A13	MEDDRA-PT E4 Renal failure
+A14	MEDDRA-PT-ID E4 10038435
+A15	CUI E10 C0085932
+A16	UMLS-Preferred-Name E10 Skin Diseases, Bullous
+A17	MEDDRA-PT E10 Dermatitis bullous
+A18	MEDDRA-PT-ID E10 10012441
+A19	LLT E10 Bullous dermatitis
+A20	LLT-ID E10 10006556
+A21	CUI E11 C2220104
+A22	UMLS-Preferred-Name E11 Blister of skin
+A23	MEDDRA-PT E11 Blister
+A24	MEDDRA-PT-ID E11 10005191
+A25	CUI E12 C0011606
+A26	UMLS-Preferred-Name E12 Exfoliative dermatitis
+A27	MEDDRA-PT E12 Dermatitis exfoliative
+A28	MEDDRA-PT-ID E12 10012455
+A29	LLT E12 Exfoliative dermatitis
+A30	LLT-ID E12 10015665
+A31	CUI E25 C0948807
+A32	UMLS-Preferred-Name E25 Hepatic impairment
+A33	MEDDRA-PT E25 Liver disorder
+A34	MEDDRA-PT-ID E25 10024670
+A35	LLT E25 Hepatic impairment
+A36	LLT-ID E25 10052254
+A37	CUI E31 C0022568
+A38	UMLS-Preferred-Name E31 Keratitis
+A39	MEDDRA-PT E31 Keratitis
+A40	MEDDRA-PT-ID E31 10023332
+A41	CUI E34 C0854268
+A42	UMLS-Preferred-Name E34 Foetal damage
+A43	MEDDRA-PT E34 Foetal damage
+A44	MEDDRA-PT-ID E34 10016852
+A45	LLT E34 Fetal damage
+A46	LLT-ID E34 10054743
+A47	CUI E37 C0011991
+A48	UMLS-Preferred-Name E37 Diarrhea
+A49	MEDDRA-PT E37 Diarrhoea
+A50	MEDDRA-PT-ID E37 10012735
+A51	LLT E37 Diarrhea
+A52	LLT-ID E37 10012727
+A53	CUI E38 C0011175
+A54	UMLS-Preferred-Name E38 Dehydration
+A55	MEDDRA-PT E38 Dehydration
+A56	MEDDRA-PT-ID E38 10012174
+A57	CUI E39 C1306577
+A58	UMLS-Preferred-Name E39 Death (finding)
+A59	MEDDRA-PT E39 Death
+A60	MEDDRA-PT-ID E39 10011906
+A61	CUI E40 C1565489
+A62	UMLS-Preferred-Name E40 Renal Insufficiency
+A63	MEDDRA-PT E40 Renal impairment
+A64	MEDDRA-PT-ID E40 10062237
+A65	CUI E43 C0011991
+A66	UMLS-Preferred-Name E43 Diarrhea
+A67	MEDDRA-PT E43 Diarrhoea
+A68	MEDDRA-PT-ID E43 10012735
+A69	LLT E43 Diarrhea
+A70	LLT-ID E43 10012727
+A71	CUI E47 C1565489
+A72	UMLS-Preferred-Name E47 Renal Insufficiency
+A73	MEDDRA-PT E47 Renal impairment
+A74	MEDDRA-PT-ID E47 10062237
+A75	CUI E45 C0011991
+A76	UMLS-Preferred-Name E45 Diarrhea
+A77	MEDDRA-PT E45 Diarrhoea
+A78	MEDDRA-PT-ID E45 10012735
+A79	LLT E45 Diarrhea
+A80	LLT-ID E45 10012727
+A81	CUI E57 C0221743
+A82	UMLS-Preferred-Name E57 Skin reaction
+A83	MEDDRA-PT E57 Skin reaction
+A84	MEDDRA-PT-ID E57 10040914
+A85	CUI E59 C0005758
+A86	UMLS-Preferred-Name E59 Bulla
+A87	MEDDRA-PT E59 Dermatitis bullous
+A88	MEDDRA-PT-ID E59 10012441
+A89	LLT E59 Bullous lesions
+A90	LLT-ID E59 10006565
+A91	CUI E60 C0005758
+A92	UMLS-Preferred-Name E60 Bulla
+A93	MEDDRA-PT E60 Blister
+A94	MEDDRA-PT-ID E60 10005191
+A95	LLT E60 Blistering
+A96	LLT-ID E60 10005214
+A97	CUI E61 C0237849
+A98	UMLS-Preferred-Name E61 Peeling of skin
+A99	MEDDRA-PT E61 Skin exfoliation
+A100	MEDDRA-PT-ID E61 10040844
+A101	CUI E62 C0221743
+A102	UMLS-Preferred-Name E62 Skin reaction
+A103	MEDDRA-PT E62 Skin reaction
+A104	MEDDRA-PT-ID E62 10040914
+A105	CUI E63 C0015230
+A106	UMLS-Preferred-Name E63 Exanthema
+A107	MEDDRA-PT E63 Rash
+A108	MEDDRA-PT-ID E63 10037844
+A109	CUI E64 C0041834
+A110	UMLS-Preferred-Name E64 Erythema
+A111	MEDDRA-PT E64 Erythema
+A112	MEDDRA-PT-ID E64 10015150
+A113	CUI E65 C0175167
+A114	UMLS-Preferred-Name E65 Acneiform Eruptions
+A115	MEDDRA-PT E65 Dermatitis acneiform
+A116	MEDDRA-PT-ID E65 10012432
+A117	LLT E65 Rash acneiform
+A118	LLT-ID E65 10037847
+A119	CUI E66 C0221743
+A120	UMLS-Preferred-Name E66 Skin reaction
+A121	MEDDRA-PT E66 Skin reaction
+A122	MEDDRA-PT-ID E66 10040914
+A123	CUI E68 C0549410
+A124	UMLS-Preferred-Name E68 Palmar-plantar erythrodysesthesia syndrome
+A125	MEDDRA-PT E68 Palmar-plantar erythrodysaesthesia syndrome
+A126	MEDDRA-PT-ID E68 10033553
+A127	LLT E68 Palmar-plantar erythrodysesthesia syndrome
+A128	LLT-ID E68 10054524
+A129	CUI E79 C0206062
+A130	UMLS-Preferred-Name E79 Lung Diseases, Interstitial
+A131	MEDDRA-PT E79 Interstitial lung disease
+A132	MEDDRA-PT-ID E79 10022611
+A133	CUI E80 C0206062
+A134	UMLS-Preferred-Name E80 Lung Diseases, Interstitial
+A135	MEDDRA-PT E80 Interstitial lung disease
+A136	MEDDRA-PT-ID E80 10022611
+A137	CUI E81 C0235896
+A138	UMLS-Preferred-Name E81 Infiltrate of lung
+A139	MEDDRA-PT E81 Lung infiltration
+A140	MEDDRA-PT-ID E81 10025102
+A141	CUI E84 C3714636
+A142	UMLS-Preferred-Name E84 Pneumonitis
+A143	MEDDRA-PT E84 Pneumonitis
+A144	MEDDRA-PT-ID E84 10035742
+A145	CUI E85 C0035222
+A146	UMLS-Preferred-Name E85 Respiratory Distress Syndrome, Adult
+A147	MEDDRA-PT E85 Acute respiratory distress syndrome
+A148	MEDDRA-PT-ID E85 10001052
+A149	CUI E86 C0002390
+A150	UMLS-Preferred-Name E86 Extrinsic allergic alveolitis
+A151	MEDDRA-PT E86 Alveolitis allergic
+A152	MEDDRA-PT-ID E86 10001890
+A153	CUI E87 C1306577
+A154	UMLS-Preferred-Name E87 Death (finding)
+A155	MEDDRA-PT E87 Death
+A156	MEDDRA-PT-ID E87 10011906
+A157	CUI E88 C1306577
+A158	UMLS-Preferred-Name E88 Death (finding)
+A159	MEDDRA-PT E88 Death
+A160	MEDDRA-PT-ID E88 10011906
+A161	CUI E89 C0206062
+A162	UMLS-Preferred-Name E89 Lung Diseases, Interstitial
+A163	MEDDRA-PT E89 Interstitial lung disease
+A164	MEDDRA-PT-ID E89 10022611
+A165	CUI E94 C0151766
+A166	UMLS-Preferred-Name E94 Liver function tests abnormal finding
+A167	MEDDRA-PT E94 Liver function test abnormal
+A168	MEDDRA-PT-ID E94 10024690
+A169	LLT E94 Liver function tests multiple abnorm
+A170	LLT-ID E94 10024694
+A171	CUI E95 C1306577
+A172	UMLS-Preferred-Name E95 Death (finding)
+A173	MEDDRA-PT E95 Death
+A174	MEDDRA-PT-ID E95 10011906
+A175	CUI E96 C0151766
+A176	UMLS-Preferred-Name E96 Liver function tests abnormal finding
+A177	MEDDRA-PT E96 Liver function test abnormal
+A178	MEDDRA-PT-ID E96 10024690
+A179	LLT E96 Liver function tests multiple abnorm
+A180	LLT-ID E96 10024694
+A181	CUI E103 C0022568
+A182	UMLS-Preferred-Name E103 Keratitis
+A183	MEDDRA-PT E103 Keratitis
+A184	MEDDRA-PT-ID E103 10023332
+A185	CUI E104 C0014236
+A186	UMLS-Preferred-Name E104 Endophthalmitis
+A187	MEDDRA-PT E104 Eye inflammation
+A188	MEDDRA-PT-ID E104 10015943
+A189	CUI E107 C0423153
+A190	UMLS-Preferred-Name E107 Lacrimation
+A191	MEDDRA-PT E107 Lacrimation increased
+A192	MEDDRA-PT-ID E107 10023644
+A193	LLT E107 Lacrimation
+A194	LLT-ID E107 10023639
+A195	CUI E108 C0085636
+A196	UMLS-Preferred-Name E108 Photophobia
+A197	MEDDRA-PT E108 Photophobia
+A198	MEDDRA-PT-ID E108 10034960
+A199	CUI E109 C0344232
+A200	UMLS-Preferred-Name E109 Blurred vision
+A201	MEDDRA-PT E109 Vision blurred
+A202	MEDDRA-PT-ID E109 10047513
+A203	LLT E109 Blurred vision
+A204	LLT-ID E109 10005886
+A205	CUI E110 C0151827
+A206	UMLS-Preferred-Name E110 Eye pain
+A207	MEDDRA-PT E110 Eye pain
+A208	MEDDRA-PT-ID E110 10015958
+A209	CUI E111 C0235267
+A210	UMLS-Preferred-Name E111 Redness of eye
+A211	MEDDRA-PT E111 Ocular hyperaemia
+A212	MEDDRA-PT-ID E111 10030041
+A213	LLT E111 Red eye
+A214	LLT-ID E111 10038189
+A215	CUI E112 C0022568
+A216	UMLS-Preferred-Name E112 Keratitis
+A217	MEDDRA-PT E112 Keratitis
+A218	MEDDRA-PT-ID E112 10023332
+A219	CUI E119 C0854268
+A220	UMLS-Preferred-Name E119 Foetal damage
+A221	MEDDRA-PT E119 Foetal damage
+A222	MEDDRA-PT-ID E119 10016852
+A223	LLT E119 Fetal damage
+A224	LLT-ID E119 10054743
+A225	CUI E120 C0270009
+A226	UMLS-Preferred-Name E120 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A227	MEDDRA-PT E120 Maternal drugs affecting foetus
+A228	MEDDRA-PT-ID E120 10026923
+A229	LLT E120 Drug toxicity NEC affecting foetus
+A230	LLT-ID E120 10013750
+A231	CUI E121 C0948496
+A232	UMLS-Preferred-Name E121 Abortion late
+A233	MEDDRA-PT E121 Abortion late
+A234	MEDDRA-PT-ID E121 10052847
+A235	CUI E27 C0206062
+A236	UMLS-Preferred-Name E27 Lung Diseases, Interstitial
+A237	MEDDRA-PT E27 Interstitial lung disease
+A238	MEDDRA-PT-ID E27 10022611
+A239	CUI E1 C0206062
+A240	UMLS-Preferred-Name E1 Lung Diseases, Interstitial
+A241	MEDDRA-PT E1 Interstitial lung disease
+A242	MEDDRA-PT-ID E1 10022611
+A243	CUI E5 C0206062
+A244	UMLS-Preferred-Name E5 Lung Diseases, Interstitial
+A245	MEDDRA-PT E5 Interstitial lung disease
+A246	MEDDRA-PT-ID E5 10022611
+A247	CUI E16 C0014236
+A248	UMLS-Preferred-Name E16 Endophthalmitis
+A249	MEDDRA-PT E16 Eye inflammation
+A250	MEDDRA-PT-ID E16 10015943
+A251	CUI E18 C1306577
+A252	UMLS-Preferred-Name E18 Death (finding)
+A253	MEDDRA-PT E18 Death
+A254	MEDDRA-PT-ID E18 10011906
+A255	CUI E20 C0348754
+A256	UMLS-Preferred-Name E20 Toxic liver disease
+A257	MEDDRA-PT E20 Hepatotoxicity
+A258	MEDDRA-PT-ID E20 10019851
+A259	CUI E21 C0270009
+A260	UMLS-Preferred-Name E21 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A261	MEDDRA-PT E21 Maternal drugs affecting foetus
+A262	MEDDRA-PT-ID E21 10026923
+A263	LLT E21 Drug toxicity NEC affecting foetus
+A264	LLT-ID E21 10013750

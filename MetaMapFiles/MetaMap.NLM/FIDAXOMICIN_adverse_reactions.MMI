@@ -1,0 +1,46 @@
+00000000|AA|AR|adverse reactions|1|2|3|17|997:2
+00000000|MMI|44.63|Vomiting|C0042963|[sosy]|["VOMITING"-tx-9-"Vomiting"-verb-0,"VOMITING"-tx-7-"Vomiting"-noun-0,"VOMITING"-tx-1-"vomiting"-verb-0]|TX|2041/8;1078/8;90/8|C23.888.821.937
+00000000|MMI|39.66|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-9-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-9-"Adverse reactions"-noun-0,"Adverse reactions"-tx-9-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-7-"adverse reaction"-noun-0,"Adverse reactions"-tx-6-"AR"-noun-0,"Adverse reactions"-tx-5-"adverse reactions"-noun-0,"Adverse reactions"-tx-2-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|1286/17;2972/17;2386/17;1103/16;1015/2;978/17;229/17;6/17;54/17|
+00000000|MMI|39.43|Neutropenia|C0027947|[dsyn]|["NEUTROPENIA"-tx-9-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-1-"neutropenia"-noun-0]|TX|1768/11;177/11|C15.378.553.546.184.564
+00000000|MMI|37.33|2+|C3833492|[fndg]|["2+"-tx-9-"2"-percentage-0,"2+"-tx-1-"2"-percentage-0]|TX|[1327/1],[1720/1],[1747/1],[1829/1],[2347/1],[2422/1];[168/1],[190/1]|
+00000000|MMI|33.22|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-9-"Abdominal Pain"-noun-0,"ABDOMINAL PAIN"-tx-1-"abdominal pain"-noun-0]|TX|2150/14;105/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|29.46|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-11-"pruritus"-noun-0,"PRURITUS"-tx-9-"pruritus"-noun-0]|TX|3294/8;2918/8|C17.800.685;C23.888.885.625
+00000000|MMI|26.88|Gastrointestinal Hemorrhage|C0017181|[patf]|["Gastrointestinal haemorrhage"-tx-9-"Gastrointestinal Hemorrhage"-noun-0,"Gastrointestinal haemorrhage"-tx-1-"gastrointestinal hemorrhage"-noun-0]|TX|2259/27;126/27|C06.405.227;C23.550.414.788
+00000000|MMI|26.74|Leukopenia|C0023530|[dsyn]|["NEUTROPENIA"-tx-9-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-1-"neutropenia"-noun-0]|TX|1768/11;177/11|C15.378.553.546
+00000000|MMI|26.61|Nausea|C0027497|[sosy]|["NAUSEA"-tx-9-"Nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|1932/6;76/6|C23.888.821.712
+00000000|MMI|20.25|Anemia|C0002871|[dsyn]|["ANEMIA"-tx-9-"Anemia"-noun-0,"ANEMIA"-tx-1-"anemia"-noun-0]|TX|1659/6;160/6|C15.378.071
+00000000|MMI|19.98|Exanthema|C0015230|[sosy]|["RASH"-tx-11-"rash"-noun-0,"RASH"-tx-9-"rash"-noun-0]|TX|3284/4;2928/4|C17.800.257
+00000000|MMI|19.88|Disease|C0012634|[dsyn]|["Disorders"-tx-9-"Disorders"-noun-0,"condition"-tx-3-"conditions"-noun-0]|TX|2889/9;472/10|C23.550.288
+00000000|MMI|17.80|Angioedema|C0002994|[patf]|["Angiooedema"-tx-11-"angioedema"-noun-0]|TX|3272/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|16.12|Megacolon|C0025160|[dsyn]|["MEGACOLON"-tx-9-"megacolon"-noun-0]|TX|2621/9|C06.405.469.158.701
+00000000|MMI|15.79|4+ Answer to question|C3838679|[fndg]|["4+"-tx-9-"4"-percentage-0,"4+"-tx-1-"4"-percentage-0]|TX|[2238/1],[2320/1];155/1|
+00000000|MMI|15.79|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-9-"Vomiting"-verb-0,"Vomiting"-tx-7-"Vomiting"-noun-0,"Vomiting"-tx-1-"vomiting"-verb-0]|TX|2041/8;1078/8;90/8|
+00000000|MMI|14.64|Deglutition Disorders|C0011168|[dsyn]|["DYSPHAGIA"-tx-9-"dysphagia"-noun-0]|TX|2574/9|C06.405.117.119;C09.775.174
+00000000|MMI|14.64|Drug Eruptions|C0011609|[dsyn]|["DRUG ERUPTION"-tx-9-"drug eruption"-noun-0]|TX|2903/13|C17.800.174.600;C20.543.206.380;C25.100.468.380
+00000000|MMI|14.64|Dyspepsia|C0013395|[sosy]|["DYSPEPSIA"-tx-9-"dyspepsia"-noun-0]|TX|2563/9|C23.888.821.236
+00000000|MMI|14.64|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-11-"dyspnea"-noun-0]|TX|3263/7|C08.618.326;C23.888.852.371
+00000000|MMI|14.64|Flatulence|C0016204|[sosy]|["FLATULENCE"-tx-9-"flatulence"-noun-0]|TX|2585/10|C23.888.821.360
+00000000|MMI|14.64|Hyperglycemia|C0020456|[dsyn]|["HYPERGLYCEMIA"-tx-9-"hyperglycemia"-noun-0]|TX|2820/13|C18.452.394.952
+00000000|MMI|14.64|Intestinal Obstruction|C0021843|[dsyn]|["INTESTINAL OBSTRUCTION"-tx-9-"intestinal obstruction"-noun-0]|TX|2597/22|C06.405.469.531
+00000000|MMI|14.05|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-9-"Gastrointestinal Disorders"-noun-0]|TX|[1873/26],[2488/26]|C06.405
+00000000|MMI|8.34|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-11-"Hypersensitivity reactions"-noun-0]|TX|3235/26|C20.543
+00000000|MMI|8.34|Nutrition Disorders|C3714509|[dsyn]|["Nutrition Disorders"-tx-9-"Nutrition Disorders"-noun-0]|TX|2796/19|C18.654
+00000000|MMI|7.70|Neutrophil count decreased|C0853697|[fndg]|["Neutropenia"-tx-9-"Neutropenia"-noun-0,"Neutropenia"-tx-1-"neutropenia"-noun-0]|TX|1768/11;177/11|
+00000000|MMI|7.57|1+|C3816745|[fndg]|["1+"-tx-9-"1"-percentage-0,"1+"-tx-2-"1"-integer-0]|TX|1855/1;298/1|
+00000000|MMI|7.57|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-9-"Nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|1932/6;76/6|
+00000000|MMI|6.84|Lymphatic Diseases|C0024228|[dsyn]|["lymphatic system disorder"-tx-9-"Lymphatic System Disorders"-noun-0]|TX|1610/26|C15.604
+00000000|MMI|5.18|5 - 9|C3840622|[fndg]|["5 - 9"-tx-5-"5.9"-percentage-0]|TX|936/3|
+00000000|MMI|5.18|Abdomen distended|C0000731|[fndg]|["ABDOMINAL DISTENTION"-tx-9-"abdominal distension"-noun-0]|TX|2519/20|
+00000000|MMI|5.18|Abdominal tenderness|C0232498|[sosy]|["ABDOMINAL TENDERNESS"-tx-9-"abdominal tenderness"-noun-0]|TX|2541/20|
+00000000|MMI|5.18|Flatulence Adverse Event|C1962956|[fndg]|["Flatulence"-tx-9-"flatulence"-noun-0]|TX|2585/10|
+00000000|MMI|3.81|Alkaline phosphatase raised|C0151849|[fndg]|["Increased alkaline phosphatase"-tx-9-"increased alkaline phosphatase"-noun-0]|TX|2656/9,2672/20|
+00000000|MMI|3.78|BICARBONATE, DECREASED|C0238762|[fndg]|["BICARBONATE, DECREASED"-tx-9-"decreased bicarbonate"-noun-0]|TX|2694/9,2710/11|
+00000000|MMI|3.78|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-9-"Subcutaneous Disorders"-noun-0]|TX|2869/12,2889/9|
+00000000|MMI|3.75|Adverse event|C0877248|[patf]|["ADVERSE EVENT"-tx-3-"adverse event"-noun-0]|TX|484/13|
+00000000|MMI|3.63|20%|C3842589|[fndg]|["20%"-tx-9-"20"-integer-0]|TX|2316/2|
+00000000|MMI|3.59|Withdrawal (dysfunction)|C2825032|[mobd]|["Withdrawal"-tx-6-"withdrawal"-noun-0]|TX|1031/10|
+00000000|MMI|3.59|Withdrawal - birth control|C3812880|[fndg]|["Withdrawal"-tx-6-"withdrawal"-noun-0]|TX|1031/10|
+00000000|MMI|3.56|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-7-"discontinuation"-noun-0]|TX|1131/15|
+00000000|MMI|3.55|Decreased platelet count|C0392386|[fndg]|["DECREASED PLATELET COUNT"-tx-9-"decreased platelet count"-noun-0]|TX|2750/24|
+00000000|MMI|3.55|Experimental Result|C2825142|[fndg]|["Result"-tx-5-"result"-noun-0]|TX|968/6|
+00000000|MMI|3.53|Metabolic acidosis|C0220981|[patf]|["Acidosis, Metabolic"-tx-9-"metabolic acidosis"-noun-0]|TX|2835/18|

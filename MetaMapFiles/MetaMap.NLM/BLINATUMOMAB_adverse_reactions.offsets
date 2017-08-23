@@ -1,0 +1,225 @@
+135,160|C0948245|Cytokine Release Syndrome|dsyn
+279,289|C3714514|Infections|patf
+337,357|C0041364|Tumor Lysis Syndrome|dsyn
+337,357|C1963254|Tumor Lysis Syndrome|fndg
+405,416|C0027947|Neutropenia|dsyn
+405,416|C0023530|Neutropenia|dsyn
+405,416|C0853697|Neutropenia|fndg
+421,440|C0746883|Febrile Neutropenia|dsyn
+580,602|C0235996|Elevated Liver Enzymes|fndg
+650,669|C0270612|Leukoencephalopathy|dsyn
+733,754|C0679862|Administration Errors|patf
+853,860|C0015967|pyrexia|fndg
+862,870|C0018681|headache|sosy
+862,870|C2096315|headache|fndg
+872,888|C0085649|peripheral edema|fndg
+890,909|C0746883|febrile neutropenia|dsyn
+911,917|C0027497|nausea|sosy
+911,917|C1963179|nausea|patf
+919,930|C0020621|hypokalemia|fndg
+932,938|C0040822|tremor|sosy
+932,938|C1963252|tremor|fndg
+940,944|C0015230|rash|sosy
+950,962|C0009806|constipation|sosy
+950,962|C1963087|constipation|fndg
+1261,1271|C0012634|conditions|dsyn
+1909,1916|C0015967|pyrexia|fndg
+1924,1932|C0018681|headache|sosy
+1924,1932|C2096315|headache|fndg
+1940,1956|C0085649|peripheral edema|fndg
+1964,1983|C0746883|febrile neutropenia|dsyn
+1991,1997|C0027497|nausea|sosy
+1991,1997|C1963179|nausea|patf
+2005,2016|C0020621|hypokalemia|fndg
+2028,2040|C0009806|constipation|sosy
+2028,2040|C1963087|constipation|fndg
+2171,2190|C0746883|febrile neutropenia|dsyn
+2192,2199|C0015967|pyrexia|fndg
+2201,2210|C0032285|pneumonia|dsyn
+2212,2218|C0243026|sepsis|dsyn
+2212,2218|C0036690|sepsis|dsyn
+2220,2231|C0027947|neutropenia|dsyn
+2220,2231|C0023530|neutropenia|dsyn
+2220,2231|C0853697|neutropenia|fndg
+2233,2257|C0085073|device-related infection|patf
+2233,2257|C1619702|device-related infection|patf
+2259,2265|C0040822|tremor|sosy
+2259,2265|C1963252|tremor|fndg
+2267,2281|C0006111|encephalopathy|dsyn
+2267,2281|C0085584|encephalopathy|dsyn
+2267,2281|C1963101|encephalopathy|fndg
+2283,2292|C3714514|infection|patf
+2283,2292|C0009450|infection|dsyn
+2304,2313|C0009676|confusion|mobd
+2304,2313|C0683369|confusion|sosy
+2304,2313|C1963086|confusion|fndg
+2316,2330;2332,2342|C0152965|Staphylococcal bacteremia|dsyn
+2348,2356|C0018681|headache|sosy
+2348,2356|C2096315|headache|fndg
+2383,2390|C3889290|Grade 3|fndg
+2435,2450|C1444662|Discontinuation|fndg
+2454,2461|C1363945|therapy|fndg
+2603,2618|C1444662|discontinuation|fndg
+2641,2655|C0006111|encephalopathy|dsyn
+2641,2655|C0085584|encephalopathy|dsyn
+2641,2655|C1963101|encephalopathy|fndg
+2660,2666|C0243026|sepsis|dsyn
+2660,2666|C0036690|sepsis|dsyn
+2668,2673|C1705232|Fatal|fndg
+2752,2762|C3714514|infections|patf
+2828,2837|C0687702|remission|neop
+2828,2837|C0544452|remission|fndg
+2924,2931|C3889290|Grade 3|fndg
+3059,3066|C3889290|Grade 3|fndg
+3136,3139;3159,3167|C2347315|NCI Criteria|sosy
+3213,3220|C3889290|Grade 3|fndg
+3253,3279|C0024228|lymphatic system disorders|dsyn
+3286,3293;3358,3368|C1960456|Febrile Leukopenia|dsyn
+3286,3305|C0746883|Febrile neutropenia|dsyn
+3294,3305|C0027947|neutropenia|dsyn
+3294,3305|C0023530|neutropenia|dsyn
+3294,3305|C0853697|neutropenia|fndg
+3310,3316|C0002871|Anemia|dsyn
+3337,3353|C0040034|Thrombocytopenia|fndg
+3358,3368|C0023530|Leukopenia|dsyn
+3358,3368|C0750394|Leukopenia|fndg
+3414,3440|C0017178|Gastrointestinal disorders|dsyn
+3447,3453|C0027497|Nausea|sosy
+3447,3453|C1963179|Nausea|patf
+3458,3470|C0009806|Constipation|sosy
+3458,3470|C1963087|Constipation|fndg
+3522,3529|C0009319|colitis|dsyn
+3522,3529|C1963084|colitis|fndg
+3531,3539|C0011991|diarrhea|sosy
+3531,3539|C1963091|diarrhea|fndg
+3541,3550|C0014335|enteritis|dsyn
+3556,3575|C0267537|neutropenic colitis|dsyn
+3556,3575|C0400823|neutropenic colitis|dsyn
+3581,3595|C0000737|Abdominal pain|sosy
+3600,3608|C0042963|Vomiting|sosy
+3600,3608|C1963281|Vomiting|patf
+3661,3670|C0012634|disorders|dsyn
+3695,3705|C0012634|conditions|dsyn
+3712,3719|C0015967|Pyrexia|fndg
+3724,3740|C0085649|Peripheral edema|fndg
+3745,3752|C0015672|Fatigue|sosy
+3757,3763|C0085593|Chills|sosy
+3768,3778|C0008031|Chest pain|sosy
+3824,3847|C0021053|Immune system disorders|dsyn
+3854,3879|C0948245|Cytokine release syndrome|dsyn
+3910,3920|C3714514|Infections|patf
+3925,3937|C0851341|infestations|dsyn
+3959,3969|C3714514|infections|patf
+3974,3994|C0004623|Bacterial infections|dsyn
+3999,4005;4056,4062|C0744235|Fungal Sepsis|dsyn
+3999,4005;4042,4051|C0339961|Fungal Pneumonia|dsyn
+4021,4037|C0042769|Viral infections|dsyn
+4042,4051|C0032285|Pneumonia|dsyn
+4056,4062|C0243026|Sepsis|dsyn
+4056,4062|C0036690|Sepsis|dsyn
+4212,4218|C0424653|weight|sosy
+4265,4284|C3714509|nutrition disorders|dsyn
+4291,4302|C0020621|Hypokalemia|fndg
+4307,4321|C0151723|Hypomagnesemia|fndg
+4326,4339|C0020456|Hyperglycemia|dsyn
+4367,4383|C0085682|Hypophosphatemia|patf
+4367,4383|C0595888|Hypophosphatemia|fndg
+4449,4476|C0009782|connective tissue disorders|dsyn
+4483,4487;4533,4543|C0849800|Back Arthralgia|sosy
+4488,4492;4519,4523|C1963077|pain Bone|fndg
+4488,4492;4519,4523|C0151825|pain Bone|sosy
+4488,4492;4502,4514|C0030196|pain in extremity|sosy
+4614,4622|C0018681|Headache|sosy
+4614,4622|C2096315|Headache|fndg
+4670,4684|C0234379|resting tremor|fndg
+4689,4695|C0040822|tremor|sosy
+4689,4695|C1963252|tremor|fndg
+4701,4710|C0012833|Dizziness|sosy
+4701,4710|C0042571|Dizziness|sosy
+4701,4710|C1963093|Dizziness|fndg
+4775,4783|C0917801|Insomnia|sosy
+4775,4783|C1963237|Insomnia|fndg
+4840,4861|C0025061|mediastinal disorders|dsyn
+4868,4873|C0010200|Cough|sosy
+4868,4873|C1961131|Cough|fndg
+4923,4948|C0264490|acute respiratory failure|dsyn
+4950,4973|C0085129|bronchial hyperactivity|dsyn
+4975,4987|C0006266|bronchospasm|dsyn
+4989,4996|C0013404|dyspnea|sosy
+4998,5016|C0231807|dyspnea exertional|sosy
+5018,5038|C0476273|respiratory distress|sosy
+5040,5059|C1145670|respiratory failure|dsyn
+5065,5073|C0043144|wheezing|sosy
+5118,5130;5138,5147|C0549584|subcutaneous disorders|dsyn
+5138,5147|C0012634|disorders|dsyn
+5193,5201|C0041834|erythema|dsyn
+5203,5207|C0015230|rash|sosy
+5209,5226|C0234913|erythematous rash|fndg
+5228,5244|C0497365|generalized rash|fndg
+5246,5258|C0221201|macular rash|sosy
+5260,5279|C0423791|maculo-papular rash|fndg
+5281,5293|C1519353|papular rash|fndg
+5299,5313|C0263237|vesicular rash|dsyn
+5299,5313|C0221203|vesicular rash|fndg
+5339,5347;5380,5392|C0020538|Vascular Hypertension|dsyn
+5339,5347;5364,5375|C0020649|Vascular Hypotension|fndg
+5339,5357|C0042373|Vascular disorders|dsyn
+5348,5357|C0012634|disorders|dsyn
+5364,5375|C0020649|Hypotension|fndg
+5364,5375|C3163620|Hypotension|fndg
+5380,5392|C0020538|Hypertension|dsyn
+5380,5392|C1963138|Hypertension|fndg
+5556,5582|C0024228|lymphatic system disorders|dsyn
+5585,5597|C0023518|leukocytosis|patf
+5585,5597|C0750426|leukocytosis|fndg
+5604,5615|C0024312|lymphopenia|dsyn
+5604,5615|C0853986|lymphopenia|fndg
+5604,5615|C1963164|lymphopenia|fndg
+5627,5644|C0018799|Cardiac disorders|dsyn
+5647,5658|C0039231|tachycardia|patf
+5647,5658|C3827868|tachycardia|fndg
+5678,5687|C0012634|disorders|dsyn
+5712,5722|C0012634|conditions|dsyn
+5725,5730|C0013604|edema|fndg
+5742,5765|C0021053|Immune system disorders|dsyn
+5768,5782|C0919747|cytokine storm|dsyn
+5811,5836|C0151728|decreased immunoglobulins|fndg
+5843,5852;5859,5868|C0741494|increased bilirubin|fndg
+5843,5852;5859,5868|C0311468|increased bilirubin|fndg
+5918,5941|C0235996|increased liver enzymes|fndg
+5968,5987|C3714509|nutrition disorders|dsyn
+5990,6010|C0041364|tumor lysis syndrome|dsyn
+5990,6010|C1963254|tumor lysis syndrome|fndg
+6017,6032|C0239981|hypoalbuminemia|dsyn
+6071,6085|C0006111|encephalopathy|dsyn
+6071,6085|C0085584|encephalopathy|dsyn
+6071,6085|C1963101|encephalopathy|fndg
+6092,6103|C0030554|paresthesia|dsyn
+6092,6103|C2242996|paresthesia|sosy
+6110,6117|C0003537|aphasia|mobd
+6124,6134|C4048158|convulsion|sosy
+6124,6134|C0036572|convulsion|sosy
+6141,6158|C1963167|memory impairment|patf
+6141,6158|C0233794|memory impairment|mobd
+6165,6183|C0009241|cognitive disorder|mobd
+6190,6205|C0037822|speech disorder|dsyn
+6190,6205|C1527347|speech disorder|fndg
+6243,6252|C0009676|confusion|mobd
+6243,6252|C0683369|confusion|sosy
+6243,6252|C1963086|confusion|fndg
+6259,6273|C0009676|disorientation|mobd
+6259,6273|C0233407|disorientation|mobd
+6285,6303|C0042373|Vascular disorders|dsyn
+6310,6333|C0343084|capillary leak syndrome|dsyn
+6346,6372|C0020517|Hypersensitivity reactions|patf
+6373,6380|C0445223|related|fndg
+6408,6424|C0020517|hypersensitivity|patf
+6408,6424|C0520946|hypersensitivity|fndg
+6434,6446|C0006266|bronchospasm|dsyn
+6616,6622|C3844638|either|fndg
+6726,6735|C1409616|screening|fndg
+6838,6846|C1514241|positive|fndg
+6854,6863|C1409616|screening|fndg
+6925,6931|C0442726|detect|fndg
+7113,7121|C1514241|positive|fndg
+7948,7955|C0012634|disease|dsyn

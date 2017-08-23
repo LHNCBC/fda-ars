@@ -1,0 +1,232 @@
+T1	AdverseReaction 54 69	Splenic Rupture
+T2	AdverseReaction 120 155	Acute Respiratory Distress Syndrome
+T3	AdverseReaction 157 161	ARDS
+T4	AdverseReaction 249 267	Allergic reactions
+T5	AdverseReaction 269 288	angioneurotic edema
+T6	AdverseReaction 290 309	dermatitis allergic
+T7	AdverseReaction 311 332	drug hypersensitivity
+T8	AdverseReaction 334 350	hypersensitivity
+T9	AdverseReaction 352 356	rash
+T10	AdverseReaction 358 371	pruritic rash
+T11	AdverseReaction 376 385	urticaria
+T12	AdverseReaction 404 422	Sickle cell crisis
+T13	AdverseReaction 445 450	fatal
+T14	Severity 424 430	Severe
+T15	AdverseReaction 518 541	Capillary Leak Syndrome
+T16	AdverseReaction 660 675	Splenic rupture
+T17	AdverseReaction 687 692	fatal
+T18	Factor 700 703	can
+T19	AdverseReaction 998 1033	Acute respiratory distress syndrome
+T20	AdverseReaction 1035 1039	ARDS
+T22	DrugClass 1073 1117	human granulocyte colony-stimulating factors
+T23	AdverseReaction 1319 1337	allergic reactions
+T24	Severity 1311 1318	Serious
+T25	AdverseReaction 1348 1359	anaphylaxis
+T27	DrugClass 1392 1436	human granulocyte colony-stimulating factors
+T28	AdverseReaction 1873 1878	fatal
+T29	AdverseReaction 1879 1897	sickle cell crises
+T30	AdverseReaction 2261 2284	Capillary leak syndrome
+T31	AdverseReaction 2286 2289	CLS
+T32	AdverseReaction 2392 2403	hypotension
+T33	AdverseReaction 2405 2420	hypoalbuminemia
+T34	AdverseReaction 2422 2427	edema
+T35	AdverseReaction 2432 2449	hemoconcentration
+T36	DrugClass 2323 2367	human granulocyte colony-stimulating factors
+T39	AdverseReaction 2956 2973;2978 2983	growth factor for tumor
+T40	AdverseReaction 3000 3020	myeloid malignancies
+T41	AdverseReaction 3025 3039	myelodysplasia
+T42	Factor 2922 2933	possibility
+T37	Factor 458 461	can
+T38	Factor 1898 1901	can
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12 Effect:E14 Hypothetical:E37
+E13	AdverseReaction:T13 Hypothetical:E37
+E14	Severity:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16 Hypothetical:E18
+E17	AdverseReaction:T17 Hypothetical:E18
+E18	Factor:T18
+E19	AdverseReaction:T19 Hypothetical2:E22
+E20	AdverseReaction:T20 Hypothetical2:E22
+E22	DrugClass:T22
+E23	AdverseReaction:T23 Effect:E24 Hypothetical:E27
+E24	Severity:T24
+E25	AdverseReaction:T25 Hypothetical:E27
+E27	DrugClass:T27
+E28	AdverseReaction:T28 Hypothetical:E38
+E29	AdverseReaction:T29 Hypothetical:E38
+E30	AdverseReaction:T30 Hypothetical:E36
+E31	AdverseReaction:T31 Hypothetical:E36
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	DrugClass:T36
+E39	AdverseReaction:T39 Hypothetical:E42
+E40	AdverseReaction:T40 Hypothetical:E42
+E41	AdverseReaction:T41 Hypothetical:E42
+E42	Factor:T42
+E37	Factor:T37
+E38	Factor:T38
+A1	CUI E1 C0038000
+A2	UMLS-Preferred-Name E1 Splenic Rupture
+A3	MEDDRA-PT E1 Splenic rupture
+A4	MEDDRA-PT-ID E1 10041658
+A5	CUI E2 C0035222
+A6	UMLS-Preferred-Name E2 Respiratory Distress Syndrome, Adult
+A7	MEDDRA-PT E2 Acute respiratory distress syndrome
+A8	MEDDRA-PT-ID E2 10001052
+A9	CUI E3 C0035222
+A10	UMLS-Preferred-Name E3 Respiratory Distress Syndrome, Adult
+A11	MEDDRA-PT E3 Acute respiratory distress syndrome
+A12	MEDDRA-PT-ID E3 10001052
+A13	LLT E3 ARDS
+A14	LLT-ID E3 10003083
+A15	CUI E4 C1527304
+A16	UMLS-Preferred-Name E4 Allergic Reaction
+A17	MEDDRA-PT E4 Hypersensitivity
+A18	MEDDRA-PT-ID E4 10020751
+A19	LLT E4 Allergic reaction
+A20	LLT-ID E4 10001718
+A21	CUI E5 C0002994
+A22	UMLS-Preferred-Name E5 Angioedema
+A23	MEDDRA-PT E5 Angioedema
+A24	MEDDRA-PT-ID E5 10002424
+A25	LLT E5 Angioneurotic edema
+A26	LLT-ID E5 10002471
+A27	CUI E6 C0011615
+A28	UMLS-Preferred-Name E6 Dermatitis, Atopic
+A29	MEDDRA-PT E6 Dermatitis allergic
+A30	MEDDRA-PT-ID E6 10012434
+A31	CUI E7 C0013182
+A32	UMLS-Preferred-Name E7 Drug Allergy
+A33	MEDDRA-PT E7 Drug hypersensitivity
+A34	MEDDRA-PT-ID E7 10013700
+A35	CUI E8 C0020517
+A36	UMLS-Preferred-Name E8 Hypersensitivity
+A37	MEDDRA-PT E8 Hypersensitivity
+A38	MEDDRA-PT-ID E8 10020751
+A39	CUI E9 C0015230
+A40	UMLS-Preferred-Name E9 Exanthema
+A41	MEDDRA-PT E9 Rash
+A42	MEDDRA-PT-ID E9 10037844
+A43	CUI E10 C0033771
+A44	UMLS-Preferred-Name E10 Prurigo
+A45	MEDDRA-PT E10 Rash pruritic
+A46	MEDDRA-PT-ID E10 10037884
+A47	LLT E10 Pruritic rash
+A48	LLT-ID E10 10037085
+A49	CUI E11 C0042109
+A50	UMLS-Preferred-Name E11 Urticaria
+A51	MEDDRA-PT E11 Urticaria
+A52	MEDDRA-PT-ID E11 10046735
+A53	CUI E12 C0238425
+A54	UMLS-Preferred-Name E12 Hemoglobin SS disease with crisis
+A55	MEDDRA-PT E12 Sickle cell anaemia with crisis
+A56	MEDDRA-PT-ID E12 10040642
+A57	LLT E12 Sickle cell crisis
+A58	LLT-ID E12 10040643
+A59	CUI E13 C1306577
+A60	UMLS-Preferred-Name E13 Death (finding)
+A61	MEDDRA-PT E13 Death
+A62	MEDDRA-PT-ID E13 10011906
+A63	CUI E15 C0343084
+A64	UMLS-Preferred-Name E15 Capillary Leak Syndrome
+A65	MEDDRA-PT E15 Capillary leak syndrome
+A66	MEDDRA-PT-ID E15 10007196
+A67	CUI E16 C0038000
+A68	UMLS-Preferred-Name E16 Splenic Rupture
+A69	MEDDRA-PT E16 Splenic rupture
+A70	MEDDRA-PT-ID E16 10041658
+A71	CUI E17 C1306577
+A72	UMLS-Preferred-Name E17 Death (finding)
+A73	MEDDRA-PT E17 Death
+A74	MEDDRA-PT-ID E17 10011906
+A75	CUI E19 C0035222
+A76	UMLS-Preferred-Name E19 Respiratory Distress Syndrome, Adult
+A77	MEDDRA-PT E19 Acute respiratory distress syndrome
+A78	MEDDRA-PT-ID E19 10001052
+A79	CUI E20 C0035222
+A80	UMLS-Preferred-Name E20 Respiratory Distress Syndrome, Adult
+A81	MEDDRA-PT E20 Acute respiratory distress syndrome
+A82	MEDDRA-PT-ID E20 10001052
+A83	LLT E20 ARDS
+A84	LLT-ID E20 10003083
+A85	CUI E23 C1527304
+A86	UMLS-Preferred-Name E23 Allergic Reaction
+A87	MEDDRA-PT E23 Hypersensitivity
+A88	MEDDRA-PT-ID E23 10020751
+A89	LLT E23 Allergic reaction
+A90	LLT-ID E23 10001718
+A91	CUI E25 C0002792
+A92	UMLS-Preferred-Name E25 anaphylaxis
+A93	MEDDRA-PT E25 Anaphylactic reaction
+A94	MEDDRA-PT-ID E25 10002198
+A95	LLT E25 Anaphylaxis
+A96	LLT-ID E25 10002218
+A97	CUI E28 C1306577
+A98	UMLS-Preferred-Name E28 Death (finding)
+A99	MEDDRA-PT E28 Death
+A100	MEDDRA-PT-ID E28 10011906
+A101	CUI E29 C0238425
+A102	UMLS-Preferred-Name E29 Hemoglobin SS disease with crisis
+A103	MEDDRA-PT E29 Sickle cell anaemia with crisis
+A104	MEDDRA-PT-ID E29 10040642
+A105	LLT E29 Sickle cell crisis
+A106	LLT-ID E29 10040643
+A107	CUI E30 C0343084
+A108	UMLS-Preferred-Name E30 Capillary Leak Syndrome
+A109	MEDDRA-PT E30 Capillary leak syndrome
+A110	MEDDRA-PT-ID E30 10007196
+A111	CUI E31 C0343084
+A112	UMLS-Preferred-Name E31 Capillary Leak Syndrome
+A113	MEDDRA-PT E31 Capillary leak syndrome
+A114	MEDDRA-PT-ID E31 10007196
+A115	CUI E32 C0020649
+A116	UMLS-Preferred-Name E32 Hypotension
+A117	MEDDRA-PT E32 Hypotension
+A118	MEDDRA-PT-ID E32 10021097
+A119	CUI E33 C0239981
+A120	UMLS-Preferred-Name E33 Hypoalbuminemia
+A121	MEDDRA-PT E33 Hypoalbuminaemia
+A122	MEDDRA-PT-ID E33 10020942
+A123	LLT E33 Hypoalbuminemia
+A124	LLT-ID E33 10020943
+A125	CUI E34 C0013604
+A126	UMLS-Preferred-Name E34 Edema
+A127	MEDDRA-PT E34 Oedema
+A128	MEDDRA-PT-ID E34 10030095
+A129	LLT E34 Edema
+A130	LLT-ID E34 10014210
+A131	CUI E35 C0854379
+A132	UMLS-Preferred-Name E35 Haemoconcentration
+A133	MEDDRA-PT E35 Haemoconcentration
+A134	MEDDRA-PT-ID E35 10018873
+A135	LLT E35 Hemoconcentration
+A136	LLT-ID E35 10019479
+A137	CUI E39 C0549387
+A138	UMLS-Preferred-Name E39 Neoplasm growth accelerated
+A139	MEDDRA-PT E39 Neoplasm
+A140	MEDDRA-PT-ID E39 10028980
+A141	LLT E39 Neoplasm growth accelerated
+A142	LLT-ID E39 10028994
+A143	CUI E40 C2939461
+A144	UMLS-Preferred-Name E40 Myeloid neoplasm
+A145	MEDDRA-PT E40 Myeloid metaplasia
+A146	MEDDRA-PT-ID E40 10028561
+A147	CUI E41 C0026985
+A148	UMLS-Preferred-Name E41 Myelodysplasia
+A149	MEDDRA-PT E41 Myelodysplastic syndrome
+A150	MEDDRA-PT-ID E41 10028533
+A151	LLT E41 Myelodysplasia
+A152	LLT-ID E41 10028532

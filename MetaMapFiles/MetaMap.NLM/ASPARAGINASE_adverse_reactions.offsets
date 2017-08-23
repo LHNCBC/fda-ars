@@ -1,0 +1,119 @@
+140,166|C0020517|Hypersensitivity reactions|patf
+213,225|C0030305|Pancreatitis|dsyn
+213,225|C1963198|Pancreatitis|fndg
+272,291|C0271650|Glucose intolerance|dsyn
+338,348|C0040053|Thrombosis|patf
+338,348|C2586211|Thrombosis|patf
+353,363|C0019080|hemorrhage|patf
+496,521|C1736167|systemic hypersensitivity|patf
+523,536|C0020456|hyperglycemia|dsyn
+538,560|C1328397|transaminases abnormal|fndg
+562,567|C0015967|fever|fndg
+562,567|C0424755|fever|fndg
+569,581|C0030305|pancreatitis|dsyn
+569,581|C1963198|pancreatitis|fndg
+583,598|C0853813|local reactions|sosy
+600,608|C0042963|vomiting|sosy
+600,608|C1963281|vomiting|patf
+610,616|C0027497|nausea|sosy
+610,616|C1963179|nausea|patf
+618,628|C0040053|thrombosis|patf
+618,628|C2586211|thrombosis|patf
+630,648|C0020433|hyperbilirubinemia|dsyn
+630,648|C0311468|hyperbilirubinemia|fndg
+650,659;665,675|C0232487|abdominal discomfort|sosy
+650,664|C0000737|abdominal pain|sosy
+660,664|C0030193|pain|sosy
+660,664|C1962977|pain|fndg
+681,689|C0011991|diarrhea|sosy
+681,689|C1963091|diarrhea|fndg
+769,794|C1736167|systemic hypersensitivity|patf
+796,809|C0020456|hyperglycemia|dsyn
+811,833|C1328397|transaminases abnormal|fndg
+835,840|C0015967|fever|fndg
+835,840|C0424755|fever|fndg
+842,854|C0030305|pancreatitis|dsyn
+842,854|C1963198|pancreatitis|fndg
+856,871|C0853813|local reactions|sosy
+873,881|C0042963|vomiting|sosy
+873,881|C1963281|vomiting|patf
+883,889|C0027497|nausea|sosy
+883,889|C1963179|nausea|patf
+891,901|C0040053|thrombosis|patf
+891,901|C2586211|thrombosis|patf
+903,921|C0020433|hyperbilirubinemia|dsyn
+903,921|C0311468|hyperbilirubinemia|fndg
+923,932;938,948|C0232487|abdominal discomfort|sosy
+923,937|C0000737|abdominal pain|sosy
+933,937|C0030193|pain|sosy
+933,937|C1962977|pain|fndg
+954,962|C0011991|diarrhea|sosy
+954,962|C1963091|diarrhea|fndg
+1185,1201|C2911690|under controlled|fndg
+1222,1232|C0012634|conditions|dsyn
+1504,1510|C0087136|single|fndg
+1522,1528|C3810851|center|fndg
+1774,1780|C0087136|single|fndg
+1792,1798|C3810851|center|fndg
+2010,2016|C1299582|unable|fndg
+2060,2086|C0020517|hypersensitivity reactions|patf
+2396,2397;2404,2409|C3843647|2 years|fndg
+2676,2683|C1363945|therapy|fndg
+2717,2724|C1363945|therapy|fndg
+2759,2777|C0020517|allergic reactions|patf
+2759,2777|C1527304|allergic reactions|patf
+2804,2818|C3841966|patient choice|fndg
+2867,2882|C1444662|discontinuation|fndg
+2900,2908|C3715209|protocol|fndg
+3083,3094|C0332154|treated for|fndg
+3111,3133|C1961102|lymphoblastic lymphoma|neop
+3111,3133|C0079748|lymphoblastic lymphoma|neop
+3151,3158|C0020517|allergy|patf
+3151,3158|C1527304|allergy|patf
+3151,3158|C3539909|allergy|dsyn
+3151,3158|C0489531|allergy|fndg
+3447,3448;3492,3495;3501,3506|C4061124|2 age years|fndg
+3779,3801|C1961102|lymphoblastic lymphoma|neop
+3779,3801|C0079748|lymphoblastic lymphoma|neop
+3841,3866|C1736167|systemic hypersensitivity|patf
+4043,4051|C0023418|leukemia|neop
+4061,4069|C0024299|lymphoma|neop
+4185,4191|C3810851|center|fndg
+4512,4516|C1299581|able|fndg
+4705,4711|C3244287|Grades|fndg
+4798,4805|C0020517|allergy|patf
+4798,4805|C1527304|allergy|patf
+4798,4805|C3539909|allergy|dsyn
+4798,4805|C0489531|allergy|fndg
+4807,4819|C0030305|pancreatitis|dsyn
+4807,4819|C1963198|pancreatitis|fndg
+4821,4833|C0005779|coagulopathy|dsyn
+4835,4845|C0019080|hemorrhage|patf
+4847,4857|C0040053|thrombosis|patf
+4847,4857|C2586211|thrombosis|patf
+4861,4868|C0021308|infarct|patf
+4871,4889|C0020433|hyperbilirubinemia|dsyn
+4871,4889|C0311468|hyperbilirubinemia|fndg
+4891,4904|C0020456|hyperglycemia|dsyn
+4906,4920|C0020473|hyperlipidemia|dsyn
+4906,4920|C0428465|hyperlipidemia|fndg
+4922,4934|C0220982|ketoacidosis|patf
+4922,4934|C0022638|ketoacidosis|dsyn
+4952,4962|C0019080|hemorrhage|patf
+4964,4974|C0040053|thrombosis|patf
+4964,4974|C2586211|thrombosis|patf
+4978,4988|C0021308|infarction|patf
+4994,5020|C0151945|cerebral venous thrombosis|dsyn
+5031,5038|C3889290|Grade 3|fndg
+5337,5355|C0020517|allergic reactions|patf
+5337,5355|C1527304|allergic reactions|patf
+5357,5367|C0087086|thrombotic|patf
+5396,5419|C0267792|hepatobiliary disorders|dsyn
+5421,5441|C0030286|pancreatic disorders|dsyn
+5447,5460|C0020456|hyperglycemia|dsyn
+5629,5636|C3889290|Grade 3|fndg
+6094,6102|C1514241|positive|fndg
+6131,6156|C0020517|hypersensitivity reaction|patf
+6473,6499|C0020517|hypersensitivity reactions|patf
+6654,6680|C0020517|hypersensitivity reactions|patf
+7042,7049|C0012634|disease|dsyn

@@ -1,0 +1,675 @@
+T1	AdverseReaction 128 139	Hypotension
+T2	AdverseReaction 187 215	Impairment in Renal Function
+T3	AdverseReaction 263 275	Hypoglycemia
+T4	AdverseReaction 383 409	Genital Mycotic Infections
+T5	AdverseReaction 457 481	Urinary Tract Infections
+T6	AdverseReaction 529 574	Increased Low-Density Lipoprotein Cholesterol
+T7	AdverseReaction 723 747	urinary tract infections
+T8	AdverseReaction 759 785	genital mycotic infections
+T9	AdverseReaction 2527 2539	hypoglycemia
+T10	AdverseReaction 3062 3085	urinary tract infection
+T11	AdverseReaction 3087 3111	asymptomatic bacteriuria
+T12	AdverseReaction 3113 3121	cystitis
+T13	AdverseReaction 3131 3164	Female genital mycotic infections
+T14	AdverseReaction 3206 3236	vulvovaginal mycotic infection
+T15	AdverseReaction 3238 3255	vaginal infection
+T16	AdverseReaction 3257 3265	vulvitis
+T17	AdverseReaction 3267 3291	vulvovaginal candidiasis
+T18	AdverseReaction 3293 3310	genital infection
+T19	AdverseReaction 3312 3331	genital candidiasis
+T20	AdverseReaction 3333 3357	genital infection fungal
+T21	AdverseReaction 3359 3388	genitourinary tract infection
+T22	AdverseReaction 3390 3404	vulvovaginitis
+T23	AdverseReaction 3406 3416	cervicitis
+T24	AdverseReaction 3418 3445	urogenital infection fungal
+T25	AdverseReaction 3447 3466	vaginitis bacterial
+T26	AdverseReaction 3698 3706	polyuria
+T27	AdverseReaction 3708 3719	pollakiuria
+T28	AdverseReaction 3725 3733	nocturia
+T29	AdverseReaction 3816 3831	balanoposthitis
+T30	AdverseReaction 3833 3842	balanitis
+T31	AdverseReaction 3844 3869	genital infections fungal
+T32	AdverseReaction 3871 3900	genitourinary tract infection
+T33	AdverseReaction 3902 3919	balanitis candida
+T34	AdverseReaction 3921 3936	scrotal abscess
+T35	AdverseReaction 3938 3954	penile infection
+T36	AdverseReaction 4274 4297	Urinary tract infection
+T37	AdverseReaction 4385 4418	Female genital mycotic infections
+T38	AdverseReaction 4500 4533	Upper respiratory tract infection
+T39	AdverseReaction 4611 4630	Increased urination
+T40	AdverseReaction 4722 4734	Dyslipidemia
+T41	AdverseReaction 4833 4843	Arthralgia
+T42	AdverseReaction 4944 4975	Male genital mycotic infections
+T43	AdverseReaction 5057 5063	Nausea
+T44	AdverseReaction 5173 5179	Thirst
+T45	AdverseReaction 5191 5201	polydipsia
+T46	AdverseReaction 5383 5415	intravascular volume contraction
+T47	AdverseReaction 5449 5465	volume depletion
+T48	AdverseReaction 5552 5568	volume depletion
+T49	AdverseReaction 5576 5590;5604 5613	blood pressure decreased
+T50	AdverseReaction 5615 5648	blood pressure systolic decreased
+T51	AdverseReaction 5650 5661	dehydration
+T52	AdverseReaction 5663 5674	hypotension
+T53	AdverseReaction 5676 5687	hypovolemia
+T54	AdverseReaction 5689 5712	orthostatic hypotension
+T55	AdverseReaction 5718 5725	syncope
+T56	AdverseReaction 5885 5896	hypotension
+T57	Factor 5877 5881	risk
+T58	AdverseReaction 6041 6060	Increased Urination
+T59	AdverseReaction 6139 6158	increased urination
+T60	AdverseReaction 6166 6174	polyuria
+T61	AdverseReaction 6176 6187	pollakiuria
+T62	AdverseReaction 6193 6201	nocturia
+T63	AdverseReaction 6286 6294	nocturia
+T64	AdverseReaction 6424 6452	Impairment in Renal Function
+T65	AdverseReaction 6491 6520	increases in serum creatinine
+T66	AdverseReaction 6525 6542	decreases in eGFR
+T67	AdverseReaction 9362 9374	Hypoglycemia
+T68	AdverseReaction 9393 9405	hypoglycemia
+T69	AdverseReaction 9453 9465	hypoglycemia
+T70	AdverseReaction 9628 9647	Hypoglycemic Events
+T71	AdverseReaction 9702 9721	hypoglycemic events
+T72	AdverseReaction 9723 9729;9743 9784	plasma glucose of less than or equal to 70 mg/dL
+T73	AdverseReaction 9733 9784	capillary glucose of less than or equal to 70 mg/dL
+T74	AdverseReaction 9801 9820	hypoglycemic events
+T75	Severity 9794 9800	Severe
+T76	AdverseReaction 12269 12295	Genital Mycotic Infections
+T77	AdverseReaction 12370 12396	genital mycotic infections
+T78	AdverseReaction 12404 12429	vaginal mycotic infection
+T79	AdverseReaction 12431 12448	vaginal infection
+T80	AdverseReaction 12450 12474	genital infection fungal
+T81	AdverseReaction 12476 12500	vulvovaginal candidiasis
+T82	AdverseReaction 12506 12514	vulvitis
+T83	AdverseReaction 12741 12758	genital infection
+T84	AdverseReaction 12870 12895	Genital mycotic infection
+T85	AdverseReaction 12970 12978	Phimosis
+T86	AdverseReaction 13119 13143	Urinary Tract Infections
+T87	AdverseReaction 13218 13242	urinary tract infections
+T88	AdverseReaction 13250 13273	urinary tract infection
+T89	AdverseReaction 13275 13299	asymptomatic bacteriuria
+T90	AdverseReaction 13305 13313	cystitis
+T91	AdverseReaction 13575 13599	urinary tract infections
+T92	AdverseReaction 13694 13718	Urinary tract infections
+T93	AdverseReaction 13781 13805	urinary tract infections
+T94	AdverseReaction 13945 13969	urinary tract infections
+T95	AdverseReaction 14199 14246	Increase in Low-Density Lipoprotein Cholesterol
+T96	AdverseReaction 14269 14317	increases in low-density lipoprotein cholesterol
+T97	AdverseReaction 14376 14391	LDL-C increased
+T98	AdverseReaction 14640 14662	Increase in Hematocrit
+T99	AdverseReaction 14717 14737	hematocrit decreased
+T100	Factor 14749 14756	placebo
+T101	AdverseReaction 14717 14727;14761 14770	hematocrit increased
+T102	Factor 5371 5374	may
+T103	AdverseReaction 5347 5363	osmotic diuresis
+T105	Severity 9620 9626	Severe
+T106	AdverseReaction 13505 13528	urinary tract infection
+T107	AdverseReaction 6933 6973	eGFR 30 to less than 60 mL/min/1.73 m  2
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46 Hypothetical:E102
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56 Hypothetical:E57
+E57	Factor:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74 Effect:E75
+E75	Severity:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91
+E92	AdverseReaction:T92
+E93	AdverseReaction:T93
+E94	AdverseReaction:T94
+E95	AdverseReaction:T95
+E96	AdverseReaction:T96
+E97	AdverseReaction:T97
+E98	AdverseReaction:T98
+E99	AdverseReaction:T99 Negated:E100
+E100	Factor:T100
+E101	AdverseReaction:T101
+E102	Factor:T102
+E103	AdverseReaction:T103
+E105	Severity:T105
+E106	AdverseReaction:T70 Effect:E105
+E107	AdverseReaction:T106
+E108	AdverseReaction:T107
+A1	CUI E1 C0020649
+A2	UMLS-Preferred-Name E1 Hypotension
+A3	MEDDRA-PT E1 Hypotension
+A4	MEDDRA-PT-ID E1 10021097
+A5	CUI E2 C1565489
+A6	UMLS-Preferred-Name E2 Renal Insufficiency
+A7	MEDDRA-PT E2 Renal impairment
+A8	MEDDRA-PT-ID E2 10062237
+A9	LLT E2 Impaired renal function
+A10	LLT-ID E2 10021523
+A11	CUI E3 C0020615
+A12	UMLS-Preferred-Name E3 Hypoglycemia
+A13	MEDDRA-PT E3 Hypoglycaemia
+A14	MEDDRA-PT-ID E3 10020993
+A15	LLT E3 Hypoglycemia
+A16	LLT-ID E3 10021005
+A17	CUI E4 C0740330
+A18	UMLS-Preferred-Name E4 Genital infection fungal
+A19	MEDDRA-PT E4 Genital infection fungal
+A20	MEDDRA-PT-ID E4 10061180
+A21	CUI E5 C0042029
+A22	UMLS-Preferred-Name E5 Urinary tract infection
+A23	MEDDRA-PT E5 Urinary tract infection
+A24	MEDDRA-PT-ID E5 10046571
+A25	CUI E6 C0549399
+A26	UMLS-Preferred-Name E6 Low density lipoprotein increased
+A27	MEDDRA-PT E6 Low density lipoprotein increased
+A28	MEDDRA-PT-ID E6 10024910
+A29	CUI E7 C0042029
+A30	UMLS-Preferred-Name E7 Urinary tract infection
+A31	MEDDRA-PT E7 Urinary tract infection
+A32	MEDDRA-PT-ID E7 10046571
+A33	CUI E8 C0740330
+A34	UMLS-Preferred-Name E8 Genital infection fungal
+A35	MEDDRA-PT E8 Genital infection fungal
+A36	MEDDRA-PT-ID E8 10061180
+A37	CUI E9 C0020615
+A38	UMLS-Preferred-Name E9 Hypoglycemia
+A39	MEDDRA-PT E9 Hypoglycaemia
+A40	MEDDRA-PT-ID E9 10020993
+A41	LLT E9 Hypoglycemia
+A42	LLT-ID E9 10021005
+A43	CUI E10 C0042029
+A44	UMLS-Preferred-Name E10 Urinary tract infection
+A45	MEDDRA-PT E10 Urinary tract infection
+A46	MEDDRA-PT-ID E10 10046571
+A47	CUI E11 C0262380
+A48	UMLS-Preferred-Name E11 Asymptomatic bacteriuria
+A49	MEDDRA-PT E11 Asymptomatic bacteriuria
+A50	MEDDRA-PT-ID E11 10056396
+A51	CUI E12 C0010692
+A52	UMLS-Preferred-Name E12 Cystitis
+A53	MEDDRA-PT E12 Cystitis
+A54	MEDDRA-PT-ID E12 10011781
+A55	flag E13 duplicate
+A56	CUI E13 C0740330
+A57	UMLS-Preferred-Name E13 Genital infection fungal
+A58	MEDDRA-PT E13 Genital infection fungal
+A59	MEDDRA-PT-ID E13 10061180
+A60	CUI E14 C1609512
+A61	UMLS-Preferred-Name E14 Vulvovaginal mycotic infection
+A62	MEDDRA-PT E14 Vulvovaginal mycotic infection
+A63	MEDDRA-PT-ID E14 10064899
+A64	CUI E15 C0404521
+A65	UMLS-Preferred-Name E15 Infective vaginitis
+A66	MEDDRA-PT E15 Vaginal infection
+A67	MEDDRA-PT-ID E15 10046914
+A68	CUI E16 C0042996
+A69	UMLS-Preferred-Name E16 Vulvitis
+A70	MEDDRA-PT E16 Vulvitis
+A71	MEDDRA-PT-ID E16 10047780
+A72	CUI E17 C0700345
+A73	UMLS-Preferred-Name E17 Candidiasis, Vulvovaginal
+A74	MEDDRA-PT E17 Vulvovaginal candidiasis
+A75	MEDDRA-PT-ID E17 10047784
+A76	CUI E18 C0729552
+A77	UMLS-Preferred-Name E18 Genital infection
+A78	MEDDRA-PT E18 Genital infection
+A79	MEDDRA-PT-ID E18 10048461
+A80	CUI E19 C0343863
+A81	UMLS-Preferred-Name E19 Candida infection of genital region
+A82	MEDDRA-PT E19 Genital candidiasis
+A83	MEDDRA-PT-ID E19 10018143
+A84	CUI E20 C0740330
+A85	UMLS-Preferred-Name E20 Genital infection fungal
+A86	MEDDRA-PT E20 Genital infection fungal
+A87	MEDDRA-PT-ID E20 10061180
+A88	CUI E21 C1279247
+A89	UMLS-Preferred-Name E21 Genitourinary tract infection
+A90	MEDDRA-PT E21 Genitourinary tract infection
+A91	MEDDRA-PT-ID E21 10061182
+A92	CUI E22 C0042998
+A93	UMLS-Preferred-Name E22 Vulvovaginitis
+A94	MEDDRA-PT E22 Vulvovaginitis
+A95	MEDDRA-PT-ID E22 10047794
+A96	CUI E23 C0007860
+A97	UMLS-Preferred-Name E23 Uterine Cervicitis
+A98	MEDDRA-PT E23 Cervicitis
+A99	MEDDRA-PT-ID E23 10008323
+A100	CUI E24 C1698399
+A101	UMLS-Preferred-Name E24 Urogenital infection fungal
+A102	MEDDRA-PT E24 Urogenital infection fungal
+A103	MEDDRA-PT-ID E24 10065582
+A104	CUI E25 C0085166
+A105	UMLS-Preferred-Name E25 Bacterial Vaginosis
+A106	MEDDRA-PT E25 Vaginitis bacterial
+A107	MEDDRA-PT-ID E25 10062167
+A108	CUI E26 C0032617
+A109	UMLS-Preferred-Name E26 Polyuria
+A110	MEDDRA-PT E26 Polyuria
+A111	MEDDRA-PT-ID E26 10036142
+A112	CUI E27 C0042023
+A113	UMLS-Preferred-Name E27 Increased frequency of micturition
+A114	MEDDRA-PT E27 Pollakiuria
+A115	MEDDRA-PT-ID E27 10036018
+A116	CUI E28 C0028734
+A117	UMLS-Preferred-Name E28 Nocturia
+A118	MEDDRA-PT E28 Nocturia
+A119	MEDDRA-PT-ID E28 10029446
+A120	CUI E29 C0004691
+A121	UMLS-Preferred-Name E29 Balanoposthitis
+A122	MEDDRA-PT E29 Balanoposthitis
+A123	MEDDRA-PT-ID E29 10004078
+A124	CUI E30 C0004690
+A125	UMLS-Preferred-Name E30 Balanitis
+A126	MEDDRA-PT E30 Balanoposthitis
+A127	MEDDRA-PT-ID E30 10004078
+A128	LLT E30 Balanitis
+A129	LLT-ID E30 10004073
+A130	CUI E31 C0740330
+A131	UMLS-Preferred-Name E31 Genital infection fungal
+A132	MEDDRA-PT E31 Genital infection fungal
+A133	MEDDRA-PT-ID E31 10061180
+A134	CUI E32 C1279247
+A135	UMLS-Preferred-Name E32 Genitourinary tract infection
+A136	MEDDRA-PT E32 Genitourinary tract infection
+A137	MEDDRA-PT-ID E32 10061182
+A138	CUI E33 C0276684
+A139	UMLS-Preferred-Name E33 Candidal balanitis
+A140	MEDDRA-PT E33 Balanitis candida
+A141	MEDDRA-PT-ID E33 10004074
+A142	CUI E34 C0238418
+A143	UMLS-Preferred-Name E34 Abscess of scrotum
+A144	MEDDRA-PT E34 Scrotal abscess
+A145	MEDDRA-PT-ID E34 10049571
+A146	CUI E35 C0581395
+A147	UMLS-Preferred-Name E35 Infection of penis
+A148	MEDDRA-PT E35 Penile infection
+A149	MEDDRA-PT-ID E35 10061912
+A150	CUI E36 C0042029
+A151	UMLS-Preferred-Name E36 Urinary tract infection
+A152	MEDDRA-PT E36 Urinary tract infection
+A153	MEDDRA-PT-ID E36 10046571
+A154	flag E37 duplicate
+A155	CUI E37 C0740330
+A156	UMLS-Preferred-Name E37 Genital infection fungal
+A157	MEDDRA-PT E37 Genital infection fungal
+A158	MEDDRA-PT-ID E37 10061180
+A159	CUI E38 C0041912
+A160	UMLS-Preferred-Name E38 Upper Respiratory Infections
+A161	MEDDRA-PT E38 Upper respiratory tract infection
+A162	MEDDRA-PT-ID E38 10046306
+A163	CUI E39 C0042023
+A164	UMLS-Preferred-Name E39 Increased frequency of micturition
+A165	MEDDRA-PT E39 Pollakiuria
+A166	MEDDRA-PT-ID E39 10036018
+A167	LLT E39 Micturition frequency increased
+A168	LLT-ID E39 10071065
+A169	CUI E40 C0242339
+A170	UMLS-Preferred-Name E40 Dyslipidemias
+A171	MEDDRA-PT E40 Dyslipidaemia
+A172	MEDDRA-PT-ID E40 10058108
+A173	LLT E40 Dyslipidemia
+A174	LLT-ID E40 10058110
+A175	CUI E41 C0003862
+A176	UMLS-Preferred-Name E41 Arthralgia
+A177	MEDDRA-PT E41 Arthralgia
+A178	MEDDRA-PT-ID E41 10003239
+A179	flag E42 duplicate
+A180	CUI E42 C0740330
+A181	UMLS-Preferred-Name E42 Genital infection fungal
+A182	MEDDRA-PT E42 Genital infection fungal
+A183	MEDDRA-PT-ID E42 10061180
+A184	CUI E43 C0027497
+A185	UMLS-Preferred-Name E43 Nausea
+A186	MEDDRA-PT E43 Nausea
+A187	MEDDRA-PT-ID E43 10028813
+A188	CUI E44 C0039971
+A189	UMLS-Preferred-Name E44 Thirst
+A190	MEDDRA-PT E44 Thirst
+A191	MEDDRA-PT-ID E44 10043458
+A192	CUI E45 C0085602
+A193	UMLS-Preferred-Name E45 Polydipsia
+A194	MEDDRA-PT E45 Polydipsia
+A195	MEDDRA-PT-ID E45 10036067
+A196	CUI E46 C0750310
+A197	UMLS-Preferred-Name E46 Intravascular depletion
+A198	MEDDRA-PT E46 Hypovolaemia
+A199	MEDDRA-PT-ID E46 10021137
+A200	LLT E46 Intravascular depletion
+A201	LLT-ID E46 10074191
+A202	CUI E47 C0546884
+A203	UMLS-Preferred-Name E47 Hypovolemia
+A204	MEDDRA-PT E47 Hypovolaemia
+A205	MEDDRA-PT-ID E47 10021137
+A206	LLT E47 Volume depletion
+A207	LLT-ID E47 10047691
+A208	CUI E48 C0546884
+A209	UMLS-Preferred-Name E48 Hypovolemia
+A210	MEDDRA-PT E48 Hypovolaemia
+A211	MEDDRA-PT-ID E48 10021137
+A212	LLT E48 Volume depletion
+A213	LLT-ID E48 10047691
+A214	CUI E49 C0020649
+A215	UMLS-Preferred-Name E49 Hypotension
+A216	MEDDRA-PT E49 Blood pressure decreased
+A217	MEDDRA-PT-ID E49 10005734
+A218	CUI E50 C0277885
+A219	UMLS-Preferred-Name E50 Decreased systolic arterial pressure
+A220	MEDDRA-PT E50 Blood pressure systolic decreased
+A221	MEDDRA-PT-ID E50 10005758
+A222	CUI E51 C0011175
+A223	UMLS-Preferred-Name E51 Dehydration
+A224	MEDDRA-PT E51 Dehydration
+A225	MEDDRA-PT-ID E51 10012174
+A226	CUI E52 C0020649
+A227	UMLS-Preferred-Name E52 Hypotension
+A228	MEDDRA-PT E52 Hypotension
+A229	MEDDRA-PT-ID E52 10021097
+A230	CUI E53 C0546884
+A231	UMLS-Preferred-Name E53 Hypovolemia
+A232	MEDDRA-PT E53 Hypovolaemia
+A233	MEDDRA-PT-ID E53 10021137
+A234	LLT E53 Hypovolemia
+A235	LLT-ID E53 10021139
+A236	CUI E54 C0020651
+A237	UMLS-Preferred-Name E54 Hypotension, Orthostatic
+A238	MEDDRA-PT E54 Orthostatic hypotension
+A239	MEDDRA-PT-ID E54 10031127
+A240	CUI E55 C0039070
+A241	UMLS-Preferred-Name E55 Syncope
+A242	MEDDRA-PT E55 Syncope
+A243	MEDDRA-PT-ID E55 10042772
+A244	CUI E56 C0020649
+A245	UMLS-Preferred-Name E56 Hypotension
+A246	MEDDRA-PT E56 Hypotension
+A247	MEDDRA-PT-ID E56 10021097
+A248	CUI E58 C0042023
+A249	UMLS-Preferred-Name E58 Increased frequency of micturition
+A250	MEDDRA-PT E58 Pollakiuria
+A251	MEDDRA-PT-ID E58 10036018
+A252	LLT E58 Micturition frequency increased
+A253	LLT-ID E58 10071065
+A254	CUI E59 C0042023
+A255	UMLS-Preferred-Name E59 Increased frequency of micturition
+A256	MEDDRA-PT E59 Pollakiuria
+A257	MEDDRA-PT-ID E59 10036018
+A258	LLT E59 Micturition frequency increased
+A259	LLT-ID E59 10071065
+A260	CUI E60 C0032617
+A261	UMLS-Preferred-Name E60 Polyuria
+A262	MEDDRA-PT E60 Polyuria
+A263	MEDDRA-PT-ID E60 10036142
+A264	CUI E61 C0042023
+A265	UMLS-Preferred-Name E61 Increased frequency of micturition
+A266	MEDDRA-PT E61 Pollakiuria
+A267	MEDDRA-PT-ID E61 10036018
+A268	CUI E62 C0028734
+A269	UMLS-Preferred-Name E62 Nocturia
+A270	MEDDRA-PT E62 Nocturia
+A271	MEDDRA-PT-ID E62 10029446
+A272	CUI E63 C0028734
+A273	UMLS-Preferred-Name E63 Nocturia
+A274	MEDDRA-PT E63 Nocturia
+A275	MEDDRA-PT-ID E63 10029446
+A276	CUI E64 C1565489
+A277	UMLS-Preferred-Name E64 Renal Insufficiency
+A278	MEDDRA-PT E64 Renal impairment
+A279	MEDDRA-PT-ID E64 10062237
+A280	LLT E64 Impaired renal function
+A281	LLT-ID E64 10021523
+A282	CUI E65 C0700225
+A283	UMLS-Preferred-Name E65 Serum creatinine raised
+A284	MEDDRA-PT E65 Blood creatinine increased
+A285	MEDDRA-PT-ID E65 10005483
+A286	LLT E65 Serum creatinine increased
+A287	LLT-ID E65 10040233
+A288	CUI E66 C0853068
+A289	UMLS-Preferred-Name E66 Decreased glomerular filtration rate
+A290	MEDDRA-PT E66 Glomerular filtration rate decreased
+A291	MEDDRA-PT-ID E66 10018358
+A292	LLT E66 GFR decreased
+A293	LLT-ID E66 10018214
+A294	CUI E67 C0020615
+A295	UMLS-Preferred-Name E67 Hypoglycemia
+A296	MEDDRA-PT E67 Hypoglycaemia
+A297	MEDDRA-PT-ID E67 10020993
+A298	LLT E67 Hypoglycemia
+A299	LLT-ID E67 10021005
+A300	CUI E68 C0020615
+A301	UMLS-Preferred-Name E68 Hypoglycemia
+A302	MEDDRA-PT E68 Hypoglycaemia
+A303	MEDDRA-PT-ID E68 10020993
+A304	LLT E68 Hypoglycemia
+A305	LLT-ID E68 10021005
+A306	CUI E69 C0020615
+A307	UMLS-Preferred-Name E69 Hypoglycemia
+A308	MEDDRA-PT E69 Hypoglycaemia
+A309	MEDDRA-PT-ID E69 10020993
+A310	LLT E69 Hypoglycemia
+A311	LLT-ID E69 10021005
+A312	CUI E70 C0020615
+A313	UMLS-Preferred-Name E70 Hypoglycemia
+A314	MEDDRA-PT E70 Hypoglycaemia
+A315	MEDDRA-PT-ID E70 10020993
+A316	CUI E71 C0020615
+A317	UMLS-Preferred-Name E71 Hypoglycemia
+A318	MEDDRA-PT E71 Hypoglycaemia
+A319	MEDDRA-PT-ID E71 10020993
+A320	CUI E72 C0860802
+A321	UMLS-Preferred-Name E72 Plasma glucose decreased
+A322	MEDDRA-PT E72 Blood glucose decreased
+A323	MEDDRA-PT-ID E72 10005555
+A324	LLT E72 Plasma glucose decreased
+A325	LLT-ID E72 10035305
+A326	CUI E73 C0595883
+A327	UMLS-Preferred-Name E73 Blood glucose decreased
+A328	MEDDRA-PT E73 Blood glucose decreased
+A329	MEDDRA-PT-ID E73 10005555
+A330	CUI E74 C0020615
+A331	UMLS-Preferred-Name E74 Hypoglycemia
+A332	MEDDRA-PT E74 Hypoglycaemia
+A333	MEDDRA-PT-ID E74 10020993
+A334	CUI E76 C0740330
+A335	UMLS-Preferred-Name E76 Genital infection fungal
+A336	MEDDRA-PT E76 Genital infection fungal
+A337	MEDDRA-PT-ID E76 10061180
+A338	CUI E77 C0740330
+A339	UMLS-Preferred-Name E77 Genital infection fungal
+A340	MEDDRA-PT E77 Genital infection fungal
+A341	MEDDRA-PT-ID E77 10061180
+A342	CUI E78 C1609512
+A343	UMLS-Preferred-Name E78 Vulvovaginal mycotic infection
+A344	MEDDRA-PT E78 Vulvovaginal mycotic infection
+A345	MEDDRA-PT-ID E78 10064899
+A346	CUI E79 C0404521
+A347	UMLS-Preferred-Name E79 Infective vaginitis
+A348	MEDDRA-PT E79 Vaginal infection
+A349	MEDDRA-PT-ID E79 10046914
+A350	CUI E80 C0740330
+A351	UMLS-Preferred-Name E80 Genital infection fungal
+A352	MEDDRA-PT E80 Genital infection fungal
+A353	MEDDRA-PT-ID E80 10061180
+A354	CUI E81 C0700345
+A355	UMLS-Preferred-Name E81 Candidiasis, Vulvovaginal
+A356	MEDDRA-PT E81 Vulvovaginal candidiasis
+A357	MEDDRA-PT-ID E81 10047784
+A358	CUI E82 C0042996
+A359	UMLS-Preferred-Name E82 Vulvitis
+A360	MEDDRA-PT E82 Vulvitis
+A361	MEDDRA-PT-ID E82 10047780
+A362	CUI E83 C0729552
+A363	UMLS-Preferred-Name E83 Genital infection
+A364	MEDDRA-PT E83 Genital infection
+A365	MEDDRA-PT-ID E83 10048461
+A366	CUI E84 C0740330
+A367	UMLS-Preferred-Name E84 Genital infection fungal
+A368	MEDDRA-PT E84 Genital infection fungal
+A369	MEDDRA-PT-ID E84 10061180
+A370	CUI E85 C0345326
+A371	UMLS-Preferred-Name E85 Congenital phimosis
+A372	MEDDRA-PT E85 Phimosis
+A373	MEDDRA-PT-ID E85 10034878
+A374	CUI E86 C0042029
+A375	UMLS-Preferred-Name E86 Urinary tract infection
+A376	MEDDRA-PT E86 Urinary tract infection
+A377	MEDDRA-PT-ID E86 10046571
+A378	CUI E87 C0042029
+A379	UMLS-Preferred-Name E87 Urinary tract infection
+A380	MEDDRA-PT E87 Urinary tract infection
+A381	MEDDRA-PT-ID E87 10046571
+A382	CUI E88 C0042029
+A383	UMLS-Preferred-Name E88 Urinary tract infection
+A384	MEDDRA-PT E88 Urinary tract infection
+A385	MEDDRA-PT-ID E88 10046571
+A386	CUI E89 C0262380
+A387	UMLS-Preferred-Name E89 Asymptomatic bacteriuria
+A388	MEDDRA-PT E89 Asymptomatic bacteriuria
+A389	MEDDRA-PT-ID E89 10056396
+A390	CUI E90 C0010692
+A391	UMLS-Preferred-Name E90 Cystitis
+A392	MEDDRA-PT E90 Cystitis
+A393	MEDDRA-PT-ID E90 10011781
+A394	CUI E91 C0042029
+A395	UMLS-Preferred-Name E91 Urinary tract infection
+A396	MEDDRA-PT E91 Urinary tract infection
+A397	MEDDRA-PT-ID E91 10046571
+A398	CUI E92 C0042029
+A399	UMLS-Preferred-Name E92 Urinary tract infection
+A400	MEDDRA-PT E92 Urinary tract infection
+A401	MEDDRA-PT-ID E92 10046571
+A402	CUI E93 C0042029
+A403	UMLS-Preferred-Name E93 Urinary tract infection
+A404	MEDDRA-PT E93 Urinary tract infection
+A405	MEDDRA-PT-ID E93 10046571
+A406	CUI E94 C0042029
+A407	UMLS-Preferred-Name E94 Urinary tract infection
+A408	MEDDRA-PT E94 Urinary tract infection
+A409	MEDDRA-PT-ID E94 10046571
+A410	CUI E95 C0549399
+A411	UMLS-Preferred-Name E95 Low density lipoprotein increased
+A412	MEDDRA-PT E95 Low density lipoprotein increased
+A413	MEDDRA-PT-ID E95 10024910
+A414	LLT E95 LDL cholesterol increased
+A415	LLT-ID E95 10024055
+A416	CUI E96 C0549399
+A417	UMLS-Preferred-Name E96 Low density lipoprotein increased
+A418	MEDDRA-PT E96 Low density lipoprotein increased
+A419	MEDDRA-PT-ID E96 10024910
+A420	LLT E96 LDL cholesterol increased
+A421	LLT-ID E96 10024055
+A422	CUI E97 C0549399
+A423	UMLS-Preferred-Name E97 Low density lipoprotein increased
+A424	MEDDRA-PT E97 Low density lipoprotein increased
+A425	MEDDRA-PT-ID E97 10024910
+A426	LLT E97 LDL cholesterol increased
+A427	LLT-ID E97 10024055
+A428	CUI E98 C0239935
+A429	UMLS-Preferred-Name E98 Hematocrit increased
+A430	MEDDRA-PT E98 Haematocrit increased
+A431	MEDDRA-PT-ID E98 10018840
+A432	LLT E98 Hematocrit increased
+A433	LLT-ID E98 10019424
+A434	CUI E99 C0744727
+A435	UMLS-Preferred-Name E99 Hematocrit decreased
+A436	MEDDRA-PT E99 Haematocrit decreased
+A437	MEDDRA-PT-ID E99 10018838
+A438	LLT E99 Hematocrit decreased
+A439	LLT-ID E99 10019423
+A440	CUI E101 C0239935
+A441	UMLS-Preferred-Name E101 Hematocrit increased
+A442	MEDDRA-PT E101 Haematocrit increased
+A443	MEDDRA-PT-ID E101 10018840
+A444	LLT E101 Hematocrit increased
+A445	LLT-ID E101 10019424
+A446	flag E103 underspecified
+A447	CUI E103 C0032617
+A448	UMLS-Preferred-Name E103 Polyuria
+A449	MEDDRA-PT E103 Polyuria
+A450	MEDDRA-PT-ID E103 10036142
+A451	LLT E103 Diuresis
+A452	LLT-ID E103 10013523
+A453	CUI E107 C0042029
+A454	UMLS-Preferred-Name E107 Urinary tract infection
+A455	MEDDRA-PT E107 Urinary tract infection
+A456	MEDDRA-PT-ID E107 10046571
+A457	CUI E108 C0853068
+A458	UMLS-Preferred-Name E108 Decreased glomerular filtration rate
+A459	MEDDRA-PT E108 Glomerular filtration rate decreased
+A460	MEDDRA-PT-ID E108 10018358
+A461	LLT E108 GFR decreased
+A462	LLT-ID E108 10018214

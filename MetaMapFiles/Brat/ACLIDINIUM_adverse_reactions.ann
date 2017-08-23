@@ -1,0 +1,216 @@
+T1	AdverseReaction 119 143	Paradoxical bronchospasm
+T2	AdverseReaction 189 223	Worsening of narrow-angle glaucoma
+T3	AdverseReaction 269 299	Worsening of urinary retention
+T4	AdverseReaction 345 381	Immediate Hypersensitivity Reactions
+T5	AdverseReaction 515 523	headache
+T6	AdverseReaction 525 540	nasopharyngitis
+T7	AdverseReaction 545 550	cough
+T8	AdverseReaction 2433 2441	Headache
+T9	AdverseReaction 2542 2557	Nasopharyngitis
+T10	AdverseReaction 2651 2656	Cough
+T11	AdverseReaction 2760 2768	Diarrhea
+T12	AdverseReaction 2869 2878	Sinusitis
+T13	AdverseReaction 2978 2986	Rhinitis
+T14	AdverseReaction 3087 3096	Toothache
+T15	AdverseReaction 3196 3200	Fall
+T16	AdverseReaction 3305 3313	Vomiting
+T17	AdverseReaction 3533 3550	diabetes mellitus
+T18	AdverseReaction 3552 3561	dry mouth
+T19	AdverseReaction 3574 3582	AV block
+T20	Severity 3563 3573	1st degree
+T21	AdverseReaction 3584 3598	osteoarthritis
+T22	AdverseReaction 3600 3615	cardiac failure
+T23	AdverseReaction 3621 3646	cardio-respiratory arrest
+T24	AdverseReaction 4832 4868	immediate hypersensitivity reactions
+T25	AdverseReaction 4880 4891	anaphylaxis
+T26	AdverseReaction 4893 4903	angioedema
+T27	AdverseReaction 4915 4935	swelling of the lips
+T28	AdverseReaction 4915 4930;4948 4954	swelling of the throat
+T29	AdverseReaction 4915 4930;4937 4943	swelling of the tongue
+T30	AdverseReaction 4957 4966	urticaria
+T31	AdverseReaction 4968 4972	rash
+T32	AdverseReaction 4974 4986	bronchospasm
+T33	AdverseReaction 4991 4998	itching
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19 Effect:E20
+E20	Severity:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+A1	CUI E1 C0236072
+A2	UMLS-Preferred-Name E1 Paradoxical bronchospasm
+A3	MEDDRA-PT E1 Bronchospasm paradoxical
+A4	MEDDRA-PT-ID E1 10006486
+A5	LLT E1 Paradoxical bronchospasm
+A6	LLT-ID E1 10033770
+A7	CUI E2 C0154941
+A8	UMLS-Preferred-Name E2 Anatomical narrow angle borderline glaucoma
+A9	MEDDRA-PT E2 Angle closure glaucoma
+A10	MEDDRA-PT-ID E2 10002500
+A11	LLT E2 Anatomical narrow angle borderline glaucoma
+A12	LLT-ID E2 10002251
+A13	CUI E3 C0080274
+A14	UMLS-Preferred-Name E3 Urinary Retention
+A15	MEDDRA-PT E3 Urinary retention
+A16	MEDDRA-PT-ID E3 10046555
+A17	CUI E4 C0020523
+A18	UMLS-Preferred-Name E4 Immediate hypersensitivity
+A19	MEDDRA-PT E4 Type I hypersensitivity
+A20	MEDDRA-PT-ID E4 10045240
+A21	LLT E4 Immediate hypersensitivity reaction
+A22	LLT-ID E4 10021414
+A23	CUI E5 C0018681
+A24	UMLS-Preferred-Name E5 Headache
+A25	MEDDRA-PT E5 Headache
+A26	MEDDRA-PT-ID E5 10019211
+A27	CUI E6 C0027441
+A28	UMLS-Preferred-Name E6 Nasopharyngitis
+A29	MEDDRA-PT E6 Nasopharyngitis
+A30	MEDDRA-PT-ID E6 10028810
+A31	CUI E7 C0010200
+A32	UMLS-Preferred-Name E7 Coughing
+A33	MEDDRA-PT E7 Cough
+A34	MEDDRA-PT-ID E7 10011224
+A35	CUI E8 C0018681
+A36	UMLS-Preferred-Name E8 Headache
+A37	MEDDRA-PT E8 Headache
+A38	MEDDRA-PT-ID E8 10019211
+A39	CUI E9 C0027441
+A40	UMLS-Preferred-Name E9 Nasopharyngitis
+A41	MEDDRA-PT E9 Nasopharyngitis
+A42	MEDDRA-PT-ID E9 10028810
+A43	CUI E10 C0010200
+A44	UMLS-Preferred-Name E10 Coughing
+A45	MEDDRA-PT E10 Cough
+A46	MEDDRA-PT-ID E10 10011224
+A47	CUI E11 C0011991
+A48	UMLS-Preferred-Name E11 Diarrhea
+A49	MEDDRA-PT E11 Diarrhoea
+A50	MEDDRA-PT-ID E11 10012735
+A51	LLT E11 Diarrhea
+A52	LLT-ID E11 10012727
+A53	CUI E12 C0037199
+A54	UMLS-Preferred-Name E12 Sinusitis
+A55	MEDDRA-PT E12 Sinusitis
+A56	MEDDRA-PT-ID E12 10040753
+A57	CUI E13 C0035455
+A58	UMLS-Preferred-Name E13 Rhinitis
+A59	MEDDRA-PT E13 Rhinitis
+A60	MEDDRA-PT-ID E13 10039083
+A61	CUI E14 C0040460
+A62	UMLS-Preferred-Name E14 Toothache
+A63	MEDDRA-PT E14 Toothache
+A64	MEDDRA-PT-ID E14 10044055
+A65	CUI E15 C0085639
+A66	UMLS-Preferred-Name E15 Falls
+A67	MEDDRA-PT E15 Fall
+A68	MEDDRA-PT-ID E15 10016173
+A69	CUI E16 C0042963
+A70	UMLS-Preferred-Name E16 Vomiting
+A71	MEDDRA-PT E16 Vomiting
+A72	MEDDRA-PT-ID E16 10047700
+A73	CUI E17 C0011849
+A74	UMLS-Preferred-Name E17 Diabetes Mellitus
+A75	MEDDRA-PT E17 Diabetes mellitus
+A76	MEDDRA-PT-ID E17 10012601
+A77	CUI E18 C0043352
+A78	UMLS-Preferred-Name E18 Xerostomia
+A79	MEDDRA-PT E18 Dry mouth
+A80	MEDDRA-PT-ID E18 10013781
+A81	CUI E19 C0004245
+A82	UMLS-Preferred-Name E19 Atrioventricular Block
+A83	MEDDRA-PT E19 Atrioventricular block
+A84	MEDDRA-PT-ID E19 10003671
+A85	LLT E19 AV block
+A86	LLT-ID E19 10003846
+A87	CUI E21 C0029408
+A88	UMLS-Preferred-Name E21 Degenerative polyarthritis
+A89	MEDDRA-PT E21 Osteoarthritis
+A90	MEDDRA-PT-ID E21 10031161
+A91	CUI E22 C0018801
+A92	UMLS-Preferred-Name E22 Heart failure
+A93	MEDDRA-PT E22 Cardiac failure
+A94	MEDDRA-PT-ID E22 10007554
+A95	CUI E23 C0600228
+A96	UMLS-Preferred-Name E23 Cardiopulmonary Arrest
+A97	MEDDRA-PT E23 Cardio-respiratory arrest
+A98	MEDDRA-PT-ID E23 10007617
+A99	CUI E24 C0020523
+A100	UMLS-Preferred-Name E24 Immediate hypersensitivity
+A101	MEDDRA-PT E24 Type I hypersensitivity
+A102	MEDDRA-PT-ID E24 10045240
+A103	LLT E24 Immediate hypersensitivity reaction
+A104	LLT-ID E24 10021414
+A105	CUI E25 C0002792
+A106	UMLS-Preferred-Name E25 anaphylaxis
+A107	MEDDRA-PT E25 Anaphylactic reaction
+A108	MEDDRA-PT-ID E25 10002198
+A109	LLT E25 Anaphylaxis
+A110	LLT-ID E25 10002218
+A111	CUI E26 C0002994
+A112	UMLS-Preferred-Name E26 Angioedema
+A113	MEDDRA-PT E26 Angioedema
+A114	MEDDRA-PT-ID E26 10002424
+A115	CUI E27 C0240211
+A116	UMLS-Preferred-Name E27 Lip swelling
+A117	MEDDRA-PT E27 Lip swelling
+A118	MEDDRA-PT-ID E27 10024570
+A119	LLT E27 Swelling of lips
+A120	LLT-ID E27 10042703
+A121	CUI E28 C0559687
+A122	UMLS-Preferred-Name E28 Congestion of throat
+A123	MEDDRA-PT E28 Pharyngeal oedema
+A124	MEDDRA-PT-ID E28 10034829
+A125	LLT E28 Throat swelling
+A126	LLT-ID E28 10043525
+A127	CUI E29 C0236068
+A128	UMLS-Preferred-Name E29 Tongue swelling
+A129	MEDDRA-PT E29 Swollen tongue
+A130	MEDDRA-PT-ID E29 10042727
+A131	LLT E29 Swelling of tongue
+A132	LLT-ID E29 10042706
+A133	CUI E30 C0042109
+A134	UMLS-Preferred-Name E30 Urticaria
+A135	MEDDRA-PT E30 Urticaria
+A136	MEDDRA-PT-ID E30 10046735
+A137	CUI E31 C0015230
+A138	UMLS-Preferred-Name E31 Exanthema
+A139	MEDDRA-PT E31 Rash
+A140	MEDDRA-PT-ID E31 10037844
+A141	CUI E32 C0006266
+A142	UMLS-Preferred-Name E32 Bronchial Spasm
+A143	MEDDRA-PT E32 Bronchospasm
+A144	MEDDRA-PT-ID E32 10006482
+A145	CUI E33 C0033774
+A146	UMLS-Preferred-Name E33 Pruritus
+A147	MEDDRA-PT E33 Pruritus
+A148	MEDDRA-PT-ID E33 10037087
+A149	LLT E33 Itching
+A150	LLT-ID E33 10023084

@@ -1,0 +1,110 @@
+70,73|C3888044|NSF|dsyn
+119,122|C3888044|NSF|dsyn
+164,169|C1709157|clear|fndg
+170,180|C0262926|history of|fndg
+212,238|C0020517|Hypersensitivity reactions|patf
+243,262|C2609414|acute kidney injury|inpo
+243,262|C0022660|acute kidney injury|dsyn
+458,464|C0027497|nausea|sosy
+458,464|C1963179|nausea|patf
+466,474|C0018681|headache|sosy
+466,474|C2096315|headache|fndg
+476,495|C0151828|injection site pain|sosy
+497,520|C0919593|injection site coldness|inpo
+526,543|C0085624|burning sensation|sosy
+526,543|C0241057|burning sensation|sosy
+781,791|C0012634|conditions|dsyn
+1211,1217|C0680174|ethnic|fndg
+1451,1463|C3845714|several days|fndg
+1832,1838|C0027497|Nausea|sosy
+1832,1838|C1963179|Nausea|patf
+1939,1947|C0018681|Headache|sosy
+1939,1947|C2096315|Headache|fndg
+2046,2060;2386,2395|C0151735|Injection Site reactions|patf
+2061,2065;2260,2267|C0234230|Pain Burning|sosy
+2061,2065|C0030193|Pain|sosy
+2061,2065|C1962977|Pain|fndg
+2168,2176|C0812387|Coldness|fndg
+2260,2277|C0085624|Burning Sensation|sosy
+2260,2277|C0241057|Burning Sensation|sosy
+2260,2267|C0085624|Burning|sosy
+2268,2277|C0542538|Sensation|fndg
+2490,2494|C0015230|rash|sosy
+2496,2506|C0013144|somnolence|fndg
+2496,2506|C2830004|somnolence|fndg
+2508,2515|C0015672|fatigue|sosy
+2517,2526|C0012833|dizziness|sosy
+2517,2526|C0042571|dizziness|sosy
+2517,2526|C1963093|dizziness|fndg
+2528,2536|C0042963|vomiting|sosy
+2528,2536|C1963281|vomiting|patf
+2538,2546|C0033774|pruritus|sosy
+2548,2559|C0030554|paresthesia|dsyn
+2548,2559|C2242996|paresthesia|sosy
+2561,2570|C0013378|dysgeusia|fndg
+2572,2589|C0030196|pain in extremity|sosy
+2591,2598|C0003467|anxiety|mobd
+2591,2598|C0003469|anxiety|mobd
+2591,2598|C0860603|anxiety|fndg
+2600,2612|C0020538|hypertension|dsyn
+2600,2612|C1963138|hypertension|fndg
+2614,2626|C0030252|palpitations|fndg
+2614,2626|C3160712|palpitations|fndg
+2628,2652|C2363730|oropharyngeal discomfort|sosy
+2654,2670|C0600061|serum creatinine|fndg
+2685,2709|C0151735|injection site reactions|patf
+2740,2753|C0015376|extravasation|patf
+2755,2763|C0033774|pruritus|sosy
+2769,2775|C0518610|warmth|fndg
+2900,2906;2911,2916|C4061124|aged 2 years|fndg
+3138,3146|C0018681|headache|sosy
+3138,3146|C2096315|headache|fndg
+3359,3369|C1550043|identified|fndg
+3477,3486|C0087130|uncertain|fndg
+3827,3838|C0428977|bradycardia|patf
+3827,3838|C3812171|bradycardia|fndg
+3840,3851|C0039231|tachycardia|patf
+3840,3851|C3827868|tachycardia|fndg
+3853,3863|C0003811|arrhythmia|fndg
+3892,3915|C0021053|Immune System Disorders|dsyn
+3934,3950|C0520946|hypersensitivity|fndg
+3952,3975|C0340865|anaphylactoid reactions|patf
+3986,4000|C0018790|cardiac arrest|dsyn
+4002,4020|C0003578|respiratory arrest|patf
+4002,4020|C0162297|respiratory arrest|patf
+4022,4030|C0010520|cyanosis|sosy
+4031,4047|C0236024|pharyngeal edema|fndg
+4049,4061|C0023066|laryngospasm|dsyn
+4063,4075|C0006266|bronchospasm|dsyn
+4077,4087|C0002994|angioedema|patf
+4089,4103|C0009763|conjunctivitis|dsyn
+4105,4121|C0155169|ocular hyperemia|dsyn
+4123,4135|C0162285|eyelid edema|fndg
+4137,4148|C0423153|lacrimation|fndg
+4160,4173|C0020458|hyperhidrosis|fndg
+4175,4184|C0042109|urticaria|dsyn
+4175,4184|C2186740|urticaria|fndg
+4233,4237|C0009421|coma|dsyn
+4233,4237|C0543874|coma|cgab
+4239,4249|C4048158|convulsion|sosy
+4239,4249|C0036572|convulsion|sosy
+4251,4258|C0039070|syncope|sosy
+4260,4270|C0700200|presyncope|sosy
+4272,4280|C0235287|parosmia|dsyn
+4272,4280|C1510410|parosmia|fndg
+4282,4288|C0040822|tremor|sosy
+4282,4288|C1963252|tremor|fndg
+4318,4345|C0009782|Connective Tissue Disorders|dsyn
+4349,4367|C0009917|muscle contracture|acab
+4369,4384|C0151786|muscle weakness|sosy
+4369,4384|C0030552|muscle weakness|sosy
+4414,4440|C0017178|Gastrointestinal Disorders|dsyn
+4456,4464|C0011991|diarrhea|sosy
+4456,4464|C1963091|diarrhea|fndg
+4466,4489|C0037036|salivary hypersecretion|dsyn
+4577,4584|C0231218|malaise|sosy
+4586,4591|C0015967|fever|fndg
+4586,4591|C0424755|fever|fndg
+4651,4663;4671,4680|C0549584|Subcutaneous Disorders|dsyn
+4900,4918|C0042373|Vascular Disorders|dsyn
+4942,4963|C0750876|superficial phlebitis|dsyn

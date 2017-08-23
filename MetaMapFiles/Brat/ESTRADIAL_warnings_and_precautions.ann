@@ -1,0 +1,451 @@
+T1	AdverseReaction 55 69;90 100	Vascular risks thrombotic
+T2	AdverseReaction 301 314	Liver disease
+T3	AdverseReaction 375 394	High blood pressure
+T4	AdverseReaction 721 729	Headache
+T5	AdverseReaction 829 845	Uterine bleeding
+T6	DrugClass 1328 1332	COCs
+T7	AdverseReaction 1355 1377	venous thromboembolism
+T8	AdverseReaction 1420 1442	venous thromboembolism
+T9	Factor 1388 1397	pregnancy
+T10	AdverseReaction 1493 1496	VTE
+T11	DrugClass 1512 1516	COCs
+T12	AdverseReaction 1585 1588	VTE
+T13	AdverseReaction 1882 1885	VTE
+T14	DrugClass 1924 1927	COC
+T15	AdverseReaction 2065 2084	arterial thromboses
+T16	DrugClass 2033 2037	COCs
+T17	AdverseReaction 2093 2100	strokes
+T18	AdverseReaction 2105 2127	myocardial infarctions
+T19	AdverseReaction 2207 2229	thromboembolic disease
+T20	DrugClass 2237 2256	oral contraceptives
+T21	AdverseReaction 2803 2825	cerebrovascular events
+T22	AdverseReaction 2827 2837;2854 2861	thrombotic strokes
+T23	AdverseReaction 2842 2861	hemorrhagic strokes
+T24	AdverseReaction 3638 3651	breast cancer
+T25	Negation 3608 3611	not
+T26	AdverseReaction 3737 3750	breast cancer
+T27	Negation 3777 3790	not confirmed
+T28	AdverseReaction 3888 3903	cervical cancer
+T29	AdverseReaction 3888 3896;3907 3932	cervical intraepithelial neoplasia
+T30	DrugClass 3836 3840	COCs
+T31	AdverseReaction 4622 4638	Hepatic adenomas
+T32	AdverseReaction 4737 4764	Rupture of hepatic adenomas
+T33	AdverseReaction 4775 4780	death
+T34	AdverseReaction 4789 4815	intra-abdominal hemorrhage
+T35	AdverseReaction 4872 4896	hepatocellular carcinoma
+T36	DrugClass 4659 4662	COC
+T37	DrugClass 4922 4925	COC
+T38	AdverseReaction 4967 4980	liver cancers
+T39	DrugClass 4984 4987	COC
+T40	AdverseReaction 5066 5077	cholestasis
+T41	AdverseReaction 5511 5537	increase in blood pressure
+T42	DrugClass 5572 5576	COCs
+T43	AdverseReaction 5678 5690	hypertension
+T44	AdverseReaction 5843 5862	gallbladder disease
+T45	DrugClass 5869 5872	COC
+T46	AdverseReaction 6019 6045	decrease glucose tolerance
+T47	DrugClass 6010 6014	COCs
+T48	AdverseReaction 6326 6338	pancreatitis
+T49	DrugClass 6350 6354	COCs
+T51	AdverseReaction 6420 6429;6439 6448	headaches recurrent
+T50	Severity 6465 6471	severe
+T52	AdverseReaction 6420 6429;6450 6460	headaches persistent
+T53	AdverseReaction 6574 6582	migraine
+T54	DrugClass 6590 6593	COC
+T55	AdverseReaction 6627 6648	cerebrovascular event
+T56	Factor 6605 6608	may
+T57	AdverseReaction 6748 6769	Breakthrough bleeding
+T58	AdverseReaction 6774 6782	spotting
+T59	AdverseReaction 7408 7418	amenorrhea
+T60	AdverseReaction 7422 7436	oligomenorrhea
+T61	AdverseReaction 7658 7678	intracyclic bleeding
+T62	AdverseReaction 7816 7829	birth defects
+T63	Negation 7795 7797	no
+T64	AdverseReaction 7923 7941	teratogenic effect
+T65	Negation 7909 7912	not
+T66	AdverseReaction 7969 7986	cardiac anomalies
+T67	AdverseReaction 7991 8013	limb-reduction defects
+T68	AdverseReaction 8795 8828	thyroid-binding globulin increase
+T69	AdverseReaction 9659 9669	angioedema
+T70	Factor 9622 9625	may
+T71	AdverseReaction 9671 9679	Chloasma
+T72	Factor 9680 9683	may
+T75	Factor 1577 1581	risk
+T78	DrugClass 2726 2730	COCs
+T79	AdverseReaction 3006 3012	stroke
+T80	DrugClass 2974 2978	COCs
+T81	Factor 4765 4768	may
+T82	DrugClass 5039 5057	Oral contraceptive
+T83	AdverseReaction 5182 5193	cholestasis
+T84	DrugClass 5170 5173	COC
+T85	AdverseReaction 6192 6213	adverse lipid changes
+T86	DrugClass 6223 6227	COCs
+T88	DrugClass 6814 6818	COCs
+T89	AdverseReaction 7170 7180	amenorrhea
+T90	Factor 7155 7158	may
+T91	Factor 7394 7397	may
+T92	DrugClass 8841 8845	COCs
+T93	AdverseReaction 520 532;543 560	Carbohydrate metabolic effects
+T94	AdverseReaction 537 560	lipid metabolic effects
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	DrugClass:T6
+E7	AdverseReaction:T7 Hypothetical:E6
+E8	AdverseReaction:T8 Negated:E9
+E9	Factor:T9
+E10	AdverseReaction:T10 Hypothetical:E11
+E11	DrugClass:T11
+E12	AdverseReaction:T12 Hypothetical:E76
+E13	AdverseReaction:T13 Hypothetical:E14
+E14	DrugClass:T14
+E15	AdverseReaction:T15 Hypothetical:E16
+E16	DrugClass:T16
+E17	AdverseReaction:T17 Hypothetical:E16
+E18	AdverseReaction:T18 Hypothetical:E16
+E19	AdverseReaction:T19 Hypothetical:E20
+E20	DrugClass:T20
+E21	AdverseReaction:T21 Hypothetical:E79
+E22	AdverseReaction:T22 Hypothetical:E79
+E23	AdverseReaction:T23 Hypothetical:E79
+E24	AdverseReaction:T24 Negated:E25
+E25	Negation:T25
+E26	AdverseReaction:T26 Negated:E27
+E27	Negation:T27
+E28	AdverseReaction:T28 Hypothetical:E30
+E29	AdverseReaction:T29 Hypothetical:E30
+E30	DrugClass:T30
+E31	AdverseReaction:T31 Hypothetical:E36
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33 Hypothetical:E82
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35 Hypothetical:E37
+E36	DrugClass:T36
+E37	DrugClass:T37
+E38	AdverseReaction:T38 Hypothetical:E39
+E39	DrugClass:T39
+E40	AdverseReaction:T40 Hypothetical:E83
+E41	AdverseReaction:T41 Hypothetical:E42
+E42	DrugClass:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44 Hypothetical:E45
+E45	DrugClass:T45
+E46	AdverseReaction:T46 Hypothetical:E47
+E47	DrugClass:T47
+E48	AdverseReaction:T48 Hypothetical:E49
+E49	DrugClass:T49
+E51	AdverseReaction:T51 Effect:E50
+E50	Severity:T50
+E52	AdverseReaction:T51
+E53	AdverseReaction:T52
+E54	AdverseReaction:T53 Hypothetical:E55
+E55	DrugClass:T54
+E56	AdverseReaction:T55 Hypothetical:E57
+E57	Factor:T56
+E58	AdverseReaction:T57 Hypothetical:E89
+E59	AdverseReaction:T58 Hypothetical:E89
+E60	AdverseReaction:T59 Hypothetical:E92
+E61	AdverseReaction:T60 Hypothetical:E92
+E62	AdverseReaction:T61
+E63	AdverseReaction:T62 Negated:E64
+E64	Negation:T63
+E65	AdverseReaction:T64 Negated:E66
+E66	Negation:T65
+E67	AdverseReaction:T66 Negated:E66
+E68	AdverseReaction:T67 Negated:E66
+E69	AdverseReaction:T68 Hypothetical:E93
+E70	AdverseReaction:T69 Hypothetical:E71
+E71	Factor:T70
+E72	AdverseReaction:T71 Hypothetical:E73
+E73	Factor:T72
+E76	Factor:T75
+E79	DrugClass:T78
+E80	AdverseReaction:T79 Hypothetical:E81
+E81	DrugClass:T80
+E82	Factor:T81
+E83	DrugClass:T82
+E84	AdverseReaction:T83 Hypothetical:E85
+E85	DrugClass:T84
+E86	AdverseReaction:T85 Hypothetical:E87
+E87	DrugClass:T86
+E89	DrugClass:T88
+E90	AdverseReaction:T89 Hypothetical:E91
+E91	Factor:T90
+E92	Factor:T91
+E93	DrugClass:T92
+E94	AdverseReaction:T93
+E95	AdverseReaction:T94
+A1	CUI E1 C0040053
+A2	UMLS-Preferred-Name E1 Thrombosis
+A3	MEDDRA-PT E1 Thrombosis
+A4	MEDDRA-PT-ID E1 10043607
+A5	CUI E2 C0023895
+A6	UMLS-Preferred-Name E2 Liver diseases
+A7	MEDDRA-PT E2 Liver disorder
+A8	MEDDRA-PT-ID E2 10024670
+A9	LLT E2 Hepatic disease
+A10	LLT-ID E2 10019650
+A11	CUI E3 C0020538
+A12	UMLS-Preferred-Name E3 Hypertensive disease
+A13	MEDDRA-PT E3 Hypertension
+A14	MEDDRA-PT-ID E3 10020772
+A15	LLT E3 Blood pressure high
+A16	LLT-ID E3 10005747
+A17	CUI E4 C0018681
+A18	UMLS-Preferred-Name E4 Headache
+A19	MEDDRA-PT E4 Headache
+A20	MEDDRA-PT-ID E4 10019211
+A21	CUI E5 C0042134
+A22	UMLS-Preferred-Name E5 Uterine hemorrhage
+A23	MEDDRA-PT E5 Uterine haemorrhage
+A24	MEDDRA-PT-ID E5 10046788
+A25	LLT E5 Uterine bleeding
+A26	LLT-ID E5 10046765
+A27	CUI E7 C1861172
+A28	UMLS-Preferred-Name E7 Venous Thromboembolism
+A29	MEDDRA-PT E7 Embolism venous
+A30	MEDDRA-PT-ID E7 10014522
+A31	LLT E7 Venous thromboembolism
+A32	LLT-ID E7 10066899
+A33	CUI E8 C1861172
+A34	UMLS-Preferred-Name E8 Venous Thromboembolism
+A35	MEDDRA-PT E8 Embolism venous
+A36	MEDDRA-PT-ID E8 10014522
+A37	LLT E8 Venous thromboembolism
+A38	LLT-ID E8 10066899
+A39	CUI E10 C1861172
+A40	UMLS-Preferred-Name E10 Venous Thromboembolism
+A41	MEDDRA-PT E10 Embolism venous
+A42	MEDDRA-PT-ID E10 10014522
+A43	LLT E10 Venous thromboembolism
+A44	LLT-ID E10 10066899
+A45	CUI E12 C1861172
+A46	UMLS-Preferred-Name E12 Venous Thromboembolism
+A47	MEDDRA-PT E12 Embolism venous
+A48	MEDDRA-PT-ID E12 10014522
+A49	LLT E12 Venous thromboembolism
+A50	LLT-ID E12 10066899
+A51	CUI E13 C1861172
+A52	UMLS-Preferred-Name E13 Venous Thromboembolism
+A53	MEDDRA-PT E13 Embolism venous
+A54	MEDDRA-PT-ID E13 10014522
+A55	LLT E13 Venous thromboembolism
+A56	LLT-ID E13 10066899
+A57	CUI E15 C0151942
+A58	UMLS-Preferred-Name E15 Arterial thrombosis
+A59	MEDDRA-PT E15 Arterial thrombosis
+A60	MEDDRA-PT-ID E15 10003178
+A61	CUI E17 C0038454
+A62	UMLS-Preferred-Name E17 Cerebrovascular accident
+A63	MEDDRA-PT E17 Cerebrovascular accident
+A64	MEDDRA-PT-ID E17 10008190
+A65	LLT E17 Stroke
+A66	LLT-ID E17 10042244
+A67	CUI E18 C0027051
+A68	UMLS-Preferred-Name E18 Myocardial Infarction
+A69	MEDDRA-PT E18 Myocardial infarction
+A70	MEDDRA-PT-ID E18 10028596
+A71	CUI E19 C0040038
+A72	UMLS-Preferred-Name E19 Thromboembolism
+A73	MEDDRA-PT E19 Embolism
+A74	MEDDRA-PT-ID E19 10061169
+A75	LLT E19 Thromboembolism
+A76	LLT-ID E19 10043566
+A77	CUI E21 C0007820
+A78	UMLS-Preferred-Name E21 Cerebrovascular Disorders
+A79	MEDDRA-PT E21 Cerebrovascular disorder
+A80	MEDDRA-PT-ID E21 10008196
+A81	CUI E22 C0242129
+A82	UMLS-Preferred-Name E22 Thrombotic stroke
+A83	MEDDRA-PT E22 Thrombotic stroke
+A84	MEDDRA-PT-ID E22 10043647
+A85	CUI E23 C0553692
+A86	UMLS-Preferred-Name E23 Brain hemorrhage
+A87	MEDDRA-PT E23 Haemorrhagic stroke
+A88	MEDDRA-PT-ID E23 10019016
+A89	LLT E23 Hemorrhagic stroke
+A90	LLT-ID E23 10048863
+A91	CUI E24 C0006142
+A92	UMLS-Preferred-Name E24 Malignant neoplasm of breast
+A93	MEDDRA-PT E24 Breast cancer
+A94	MEDDRA-PT-ID E24 10006187
+A95	CUI E26 C0006142
+A96	UMLS-Preferred-Name E26 Malignant neoplasm of breast
+A97	MEDDRA-PT E26 Breast cancer
+A98	MEDDRA-PT-ID E26 10006187
+A99	CUI E28 C0302592
+A100	UMLS-Preferred-Name E28 Cervix carcinoma
+A101	MEDDRA-PT E28 Cervix carcinoma
+A102	MEDDRA-PT-ID E28 10008342
+A103	LLT E28 Cervical cancer
+A104	LLT-ID E28 10008229
+A105	CUI E29 C0206708
+A106	UMLS-Preferred-Name E29 Cervical Intraepithelial Neoplasia
+A107	MEDDRA-PT E29 Cervical dysplasia
+A108	MEDDRA-PT-ID E29 10008263
+A109	LLT E29 Cervical intraepithelial neoplasia
+A110	LLT-ID E29 10056576
+A111	CUI E31 C0206669
+A112	UMLS-Preferred-Name E31 Hepatocellular Adenoma
+A113	MEDDRA-PT E31 Hepatic adenoma
+A114	MEDDRA-PT-ID E31 10019629
+A115	flag E32 duplicate
+A116	CUI E32 C0341444
+A117	UMLS-Preferred-Name E32 Rupture of liver
+A118	MEDDRA-PT E32 Hepatic rupture
+A119	MEDDRA-PT-ID E32 10019707
+A120	CUI E33 C1306577
+A121	UMLS-Preferred-Name E33 Death (finding)
+A122	MEDDRA-PT E33 Death
+A123	MEDDRA-PT-ID E33 10011906
+A124	CUI E34 C0236178
+A125	UMLS-Preferred-Name E34 Intraabdominal hemorrhage
+A126	MEDDRA-PT E34 Intra-abdominal haemorrhage
+A127	MEDDRA-PT-ID E34 10061249
+A128	LLT E34 Intra-abdominal hemorrhage
+A129	LLT-ID E34 10055291
+A130	CUI E35 C2239176
+A131	UMLS-Preferred-Name E35 Liver carcinoma
+A132	MEDDRA-PT E35 Hepatocellular carcinoma
+A133	MEDDRA-PT-ID E35 10073071
+A134	CUI E38 C0345904
+A135	UMLS-Preferred-Name E38 Malignant neoplasm of liver
+A136	MEDDRA-PT E38 Hepatic cancer
+A137	MEDDRA-PT-ID E38 10073069
+A138	LLT E38 Liver, cancer of
+A139	LLT-ID E38 10024720
+A140	CUI E40 C0008370
+A141	UMLS-Preferred-Name E40 Cholestasis
+A142	MEDDRA-PT E40 Cholestasis
+A143	MEDDRA-PT-ID E40 10008635
+A144	CUI E41 C0497247
+A145	UMLS-Preferred-Name E41 Increase in blood pressure
+A146	MEDDRA-PT E41 Blood pressure increased
+A147	MEDDRA-PT-ID E41 10005750
+A148	CUI E43 C0020538
+A149	UMLS-Preferred-Name E43 Hypertensive disease
+A150	MEDDRA-PT E43 Hypertension
+A151	MEDDRA-PT-ID E43 10020772
+A152	CUI E44 C0016977
+A153	UMLS-Preferred-Name E44 Gall Bladder Diseases
+A154	MEDDRA-PT E44 Gallbladder disorder
+A155	MEDDRA-PT-ID E44 10017626
+A156	LLT E44 Gallbladder disease
+A157	LLT-ID E44 10017641
+A158	CUI E46 C0151671
+A159	UMLS-Preferred-Name E46 Glucose tolerance decreased
+A160	MEDDRA-PT E46 Glucose tolerance decreased
+A161	MEDDRA-PT-ID E46 10018428
+A162	CUI E48 C0030305
+A163	UMLS-Preferred-Name E48 Pancreatitis
+A164	MEDDRA-PT E48 Pancreatitis
+A165	MEDDRA-PT-ID E48 10033645
+A166	CUI E51 C0239888
+A167	UMLS-Preferred-Name E51 Headache recurrent
+A168	MEDDRA-PT E51 Headache
+A169	MEDDRA-PT-ID E51 10019211
+A170	LLT E51 Headache recurrent
+A171	LLT-ID E51 10066618
+A172	flag E53 underspecified
+A173	CUI E53 C0744648
+A174	UMLS-Preferred-Name E53 headache persistent
+A175	MEDDRA-PT E53 Headache
+A176	MEDDRA-PT-ID E53 10019211
+A177	CUI E54 C0149931
+A178	UMLS-Preferred-Name E54 Migraine Disorders
+A179	MEDDRA-PT E54 Migraine
+A180	MEDDRA-PT-ID E54 10027599
+A181	CUI E56 C0007820
+A182	UMLS-Preferred-Name E56 Cerebrovascular Disorders
+A183	MEDDRA-PT E56 Cerebrovascular disorder
+A184	MEDDRA-PT-ID E56 10008196
+A185	CUI E58 C3495440
+A186	UMLS-Preferred-Name E58 Break-through bleeding (finding)
+A187	MEDDRA-PT E58 Metrorrhagia
+A188	MEDDRA-PT-ID E58 10027514
+A189	LLT E58 Bleeding breakthrough
+A190	LLT-ID E58 10005105
+A191	CUI E59 C0025874
+A192	UMLS-Preferred-Name E59 Metrorrhagia
+A193	MEDDRA-PT E59 Vaginal haemorrhage
+A194	MEDDRA-PT-ID E59 10046910
+A195	LLT E59 Spotting vaginal
+A196	LLT-ID E59 10048821
+A197	CUI E60 C0002453
+A198	UMLS-Preferred-Name E60 Amenorrhea
+A199	MEDDRA-PT E60 Amenorrhoea
+A200	MEDDRA-PT-ID E60 10001928
+A201	LLT E60 Amenorrhea
+A202	LLT-ID E60 10001927
+A203	CUI E61 C0028949
+A204	UMLS-Preferred-Name E61 Oligomenorrhea
+A205	MEDDRA-PT E61 Oligomenorrhoea
+A206	MEDDRA-PT-ID E61 10030295
+A207	LLT E61 Oligomenorrhea
+A208	LLT-ID E61 10030294
+A209	CUI E62 C0025874
+A210	UMLS-Preferred-Name E62 Metrorrhagia
+A211	MEDDRA-PT E62 Metrorrhagia
+A212	MEDDRA-PT-ID E62 10027514
+A213	CUI E63 C0000768
+A214	UMLS-Preferred-Name E63 Congenital Abnormality
+A215	MEDDRA-PT E63 Congenital anomaly
+A216	MEDDRA-PT-ID E63 10010356
+A217	LLT E63 Birth defects
+A218	LLT-ID E63 10048305
+A219	CUI E65 C0232910
+A220	UMLS-Preferred-Name E65 Teratogenesis
+A221	MEDDRA-PT E65 Teratogenicity
+A222	MEDDRA-PT-ID E65 10043275
+A223	CUI E67 C0018798
+A224	UMLS-Preferred-Name E67 Congenital Heart Defects
+A225	MEDDRA-PT E67 Heart disease congenital
+A226	MEDDRA-PT-ID E67 10019273
+A227	LLT E67 Anomaly cardiac
+A228	LLT-ID E67 10002616
+A229	CUI E68 C0265547
+A230	UMLS-Preferred-Name E68 Longitudinal deficiency of limb
+A231	MEDDRA-PT E68 Limb reduction defect
+A232	MEDDRA-PT-ID E68 10024503
+A233	CUI E69 C0241400
+A234	UMLS-Preferred-Name E69 Thyroxin binding globulin increased
+A235	MEDDRA-PT E69 Thyroxin binding globulin increased
+A236	MEDDRA-PT-ID E69 10051420
+A237	CUI E70 C0002994
+A238	UMLS-Preferred-Name E70 Angioedema
+A239	MEDDRA-PT E70 Angioedema
+A240	MEDDRA-PT-ID E70 10002424
+A241	CUI E72 C0025218
+A242	UMLS-Preferred-Name E72 Chloasma
+A243	MEDDRA-PT E72 Chloasma
+A244	MEDDRA-PT-ID E72 10008570
+A245	CUI E80 C0038454
+A246	UMLS-Preferred-Name E80 Cerebrovascular accident
+A247	MEDDRA-PT E80 Cerebrovascular accident
+A248	MEDDRA-PT-ID E80 10008190
+A249	LLT E80 Stroke
+A250	LLT-ID E80 10042244
+A251	CUI E84 C0008370
+A252	UMLS-Preferred-Name E84 Cholestasis
+A253	MEDDRA-PT E84 Cholestasis
+A254	MEDDRA-PT-ID E84 10008635
+A255	CUI E86 C0549634
+A256	UMLS-Preferred-Name E86 Lipids abnormal
+A257	MEDDRA-PT E86 Lipids abnormal
+A258	MEDDRA-PT-ID E86 10024588
+A259	CUI E90 C0002453
+A260	UMLS-Preferred-Name E90 Amenorrhea
+A261	MEDDRA-PT E90 Amenorrhoea
+A262	MEDDRA-PT-ID E90 10001928
+A263	LLT E90 Amenorrhea
+A264	LLT-ID E90 10001927
+A265	CUI E94 C0149670
+A266	UMLS-Preferred-Name E94 Disorder of carbohydrate metabolism
+A267	MEDDRA-PT E94 Carbohydrate metabolism disorder
+A268	MEDDRA-PT-ID E94 10061023
+A269	CUI E95 C0154251
+A270	UMLS-Preferred-Name E95 Lipid Metabolism Disorders
+A271	MEDDRA-PT E95 Lipids abnormal
+A272	MEDDRA-PT-ID E95 10024588

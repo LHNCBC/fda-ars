@@ -1,0 +1,202 @@
+T1	AdverseReaction 115 134	Increased mortality
+T2	AdverseReaction 181 196	QT Prolongation
+T3	AdverseReaction 280 294	Hepatotoxicity
+T4	AdverseReaction 503 509	nausea
+T5	AdverseReaction 511 521	arthralgia
+T6	AdverseReaction 523 531	headache
+T7	AdverseReaction 533 543	hemoptysis
+T8	AdverseReaction 548 558	chest pain
+T9	AdverseReaction 2343 2349	Nausea
+T10	AdverseReaction 2452 2462	Arthralgia
+T11	AdverseReaction 2561 2569	Headache
+T12	AdverseReaction 2670 2680	Hemoptysis
+T13	AdverseReaction 2779 2789	Chest Pain
+T14	AdverseReaction 2888 2896	Anorexia
+T15	AdverseReaction 2997 3020	Transaminases Increased
+T16	AdverseReaction 3106 3110	Rash
+T17	AdverseReaction 3215 3238	Blood Amylase Increased
+T18	AdverseReaction 3447 3474	aminotransferase elevations
+T19	Severity 3487 3520	3 times the upper limit of normal
+T20	AdverseReaction 3687 3711;3767 3800	alanine aminotransferase 3 times the upper limit of normal
+T21	AdverseReaction 3715 3741;3767 3800	aspartate aminotransferase 3 times the upper limit of normal
+T23	AdverseReaction 3922 3941	increased mortality
+T24	Factor 3942 3946	risk
+T25	AdverseReaction 4167 4173	deaths
+T26	AdverseReaction 4192 4198	deaths
+T27	Factor 4184 4191	placebo
+T29	AdverseReaction 4230 4235	death
+T30	AdverseReaction 4309 4314	death
+T31	AdverseReaction 4439 4445	deaths
+T32	AdverseReaction 4493 4498	death
+T33	AdverseReaction 4690 4694	died
+T34	AdverseReaction 4721 4726	death
+T37	AdverseReaction 4864 4869	death
+T22	AdverseReaction 4804 4808	died
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18 Effect:E19
+E19	Severity:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E23	AdverseReaction:T23 Hypothetical:E24
+E24	Factor:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26 Negated:E27
+E27	Factor:T27
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E37	AdverseReaction:T37
+E22	AdverseReaction:T22
+A1	CUI E1 C1306577
+A2	UMLS-Preferred-Name E1 Death (finding)
+A3	MEDDRA-PT E1 Death
+A4	MEDDRA-PT-ID E1 10011906
+A5	CUI E2 C0151878
+A6	UMLS-Preferred-Name E2 Prolonged QT interval
+A7	MEDDRA-PT E2 Electrocardiogram QT prolonged
+A8	MEDDRA-PT-ID E2 10014387
+A9	LLT E2 QT prolonged
+A10	LLT-ID E2 10037705
+A11	CUI E3 C0235378
+A12	UMLS-Preferred-Name E3 Hepatotoxicity
+A13	MEDDRA-PT E3 Hepatotoxicity
+A14	MEDDRA-PT-ID E3 10019851
+A15	CUI E4 C0027497
+A16	UMLS-Preferred-Name E4 Nausea
+A17	MEDDRA-PT E4 Nausea
+A18	MEDDRA-PT-ID E4 10028813
+A19	CUI E5 C0003862
+A20	UMLS-Preferred-Name E5 Arthralgia
+A21	MEDDRA-PT E5 Arthralgia
+A22	MEDDRA-PT-ID E5 10003239
+A23	CUI E6 C0018681
+A24	UMLS-Preferred-Name E6 Headache
+A25	MEDDRA-PT E6 Headache
+A26	MEDDRA-PT-ID E6 10019211
+A27	CUI E7 C0019079
+A28	UMLS-Preferred-Name E7 Hemoptysis
+A29	MEDDRA-PT E7 Haemoptysis
+A30	MEDDRA-PT-ID E7 10018964
+A31	LLT E7 Hemoptysis
+A32	LLT-ID E7 10019523
+A33	CUI E8 C0008031
+A34	UMLS-Preferred-Name E8 Chest Pain
+A35	MEDDRA-PT E8 Chest pain
+A36	MEDDRA-PT-ID E8 10008479
+A37	CUI E9 C0027497
+A38	UMLS-Preferred-Name E9 Nausea
+A39	MEDDRA-PT E9 Nausea
+A40	MEDDRA-PT-ID E9 10028813
+A41	CUI E10 C0003862
+A42	UMLS-Preferred-Name E10 Arthralgia
+A43	MEDDRA-PT E10 Arthralgia
+A44	MEDDRA-PT-ID E10 10003239
+A45	CUI E11 C0018681
+A46	UMLS-Preferred-Name E11 Headache
+A47	MEDDRA-PT E11 Headache
+A48	MEDDRA-PT-ID E11 10019211
+A49	CUI E12 C0019079
+A50	UMLS-Preferred-Name E12 Hemoptysis
+A51	MEDDRA-PT E12 Haemoptysis
+A52	MEDDRA-PT-ID E12 10018964
+A53	LLT E12 Hemoptysis
+A54	LLT-ID E12 10019523
+A55	CUI E13 C0008031
+A56	UMLS-Preferred-Name E13 Chest Pain
+A57	MEDDRA-PT E13 Chest pain
+A58	MEDDRA-PT-ID E13 10008479
+A59	CUI E14 C0003123
+A60	UMLS-Preferred-Name E14 Anorexia
+A61	MEDDRA-PT E14 Decreased appetite
+A62	MEDDRA-PT-ID E14 10061428
+A63	LLT E14 Anorexia
+A64	LLT-ID E14 10002646
+A65	CUI E15 C0438717
+A66	UMLS-Preferred-Name E15 Transaminases increased
+A67	MEDDRA-PT E15 Transaminases increased
+A68	MEDDRA-PT-ID E15 10054889
+A69	CUI E16 C0015230
+A70	UMLS-Preferred-Name E16 Exanthema
+A71	MEDDRA-PT E16 Rash
+A72	MEDDRA-PT-ID E16 10037844
+A73	CUI E17 C0852913
+A74	UMLS-Preferred-Name E17 Blood amylase increased
+A75	MEDDRA-PT E17 Amylase increased
+A76	MEDDRA-PT-ID E17 10002016
+A77	LLT E17 Blood amylase increased
+A78	LLT-ID E17 10005328
+A79	CUI E18 C0438717
+A80	UMLS-Preferred-Name E18 Transaminases increased
+A81	MEDDRA-PT E18 Transaminases increased
+A82	MEDDRA-PT-ID E18 10054889
+A83	CUI E20 C0151905
+A84	UMLS-Preferred-Name E20 Alanine aminotransferase increased
+A85	MEDDRA-PT E20 Alanine aminotransferase increased
+A86	MEDDRA-PT-ID E20 10001551
+A87	CUI E21 C0151904
+A88	UMLS-Preferred-Name E21 Aspartate aminotransferase increased
+A89	MEDDRA-PT E21 Aspartate aminotransferase increased
+A90	MEDDRA-PT-ID E21 10003481
+A91	CUI E23 C1306577
+A92	UMLS-Preferred-Name E23 Death (finding)
+A93	MEDDRA-PT E23 Death
+A94	MEDDRA-PT-ID E23 10011906
+A95	CUI E25 C1306577
+A96	UMLS-Preferred-Name E25 Death (finding)
+A97	MEDDRA-PT E25 Death
+A98	MEDDRA-PT-ID E25 10011906
+A99	CUI E26 C1306577
+A100	UMLS-Preferred-Name E26 Death (finding)
+A101	MEDDRA-PT E26 Death
+A102	MEDDRA-PT-ID E26 10011906
+A103	CUI E29 C1306577
+A104	UMLS-Preferred-Name E29 Death (finding)
+A105	MEDDRA-PT E29 Death
+A106	MEDDRA-PT-ID E29 10011906
+A107	CUI E30 C1306577
+A108	UMLS-Preferred-Name E30 Death (finding)
+A109	MEDDRA-PT E30 Death
+A110	MEDDRA-PT-ID E30 10011906
+A111	CUI E31 C1306577
+A112	UMLS-Preferred-Name E31 Death (finding)
+A113	MEDDRA-PT E31 Death
+A114	MEDDRA-PT-ID E31 10011906
+A115	CUI E32 C1306577
+A116	UMLS-Preferred-Name E32 Death (finding)
+A117	MEDDRA-PT E32 Death
+A118	MEDDRA-PT-ID E32 10011906
+A119	CUI E33 C1306577
+A120	UMLS-Preferred-Name E33 Death (finding)
+A121	MEDDRA-PT E33 Death
+A122	MEDDRA-PT-ID E33 10011906
+A123	CUI E34 C1306577
+A124	UMLS-Preferred-Name E34 Death (finding)
+A125	MEDDRA-PT E34 Death
+A126	MEDDRA-PT-ID E34 10011906
+A127	CUI E37 C1306577
+A128	UMLS-Preferred-Name E37 Death (finding)
+A129	MEDDRA-PT E37 Death
+A130	MEDDRA-PT-ID E37 10011906
+A131	CUI E22 C1306577
+A132	UMLS-Preferred-Name E22 Death (finding)
+A133	MEDDRA-PT E22 Death
+A134	MEDDRA-PT-ID E22 10011906

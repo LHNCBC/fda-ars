@@ -1,0 +1,78 @@
+38,49|C0002792|ANAPHYLAXIS|patf
+38,49|C0850803|ANAPHYLAXIS|dsyn
+72,83|C0002792|ANAPHYLAXIS|patf
+72,83|C0850803|ANAPHYLAXIS|dsyn
+108,130|C0002792|anaphylactic reactions|patf
+188,199|C0002792|Anaphylaxis|patf
+188,199|C0850803|Anaphylaxis|dsyn
+215,220|C0010200|cough|sosy
+215,220|C1961131|cough|fndg
+222,230|C0041834|erythema|dsyn
+232,248|C0236071|throat tightness|fndg
+250,259|C0042109|urticaria|dsyn
+250,259|C2186740|urticaria|fndg
+261,269|C0016382|flushing|sosy
+261,269|C1962957|flushing|fndg
+271,279|C0010520|cyanosis|sosy
+281,292|C0020649|hypotension|fndg
+281,292|C3163620|hypotension|fndg
+294,298|C0015230|rash|sosy
+300,307|C0013404|dyspnea|sosy
+309,325|C0235710|chest discomfort|sosy
+331,356|C0426576|gastrointestinal symptoms|sosy
+364,370|C0027497|nausea|sosy
+364,370|C1963179|nausea|patf
+372,386|C0000737|abdominal pain|sosy
+388,396|C0232602|retching|sosy
+402,410|C0042963|vomiting|sosy
+402,410|C1963281|vomiting|patf
+432,441|C0042109|urticaria|dsyn
+432,441|C2186740|urticaria|fndg
+620,628|C4082130|prepared|fndg
+639,650|C0002792|anaphylaxis|patf
+639,650|C0850803|anaphylaxis|dsyn
+675,680|C0311392|signs|fndg
+685,693|C1457887|symptoms|sosy
+697,708|C0002792|anaphylaxis|patf
+697,708|C0850803|anaphylaxis|dsyn
+738,750|C0496675|medical care|fndg
+758,766|C1457887|symptoms|sosy
+789,794;807,814|C4061114|acute illness|patf
+841,859|C0743630|acute exacerbation|fndg
+881,891|C2945640|compromise|fndg
+899,925|C0020517|hypersensitivity reactions|patf
+1084,1095|C0002792|ANAPHYLAXIS|patf
+1084,1095|C0850803|ANAPHYLAXIS|dsyn
+1194,1216|C0002792|anaphylactic reactions|patf
+1274,1285|C0002792|Anaphylaxis|patf
+1274,1285|C0850803|Anaphylaxis|dsyn
+1301,1306|C0010200|cough|sosy
+1301,1306|C1961131|cough|fndg
+1308,1316|C0041834|erythema|dsyn
+1318,1334|C0236071|throat tightness|fndg
+1336,1345|C0042109|urticaria|dsyn
+1336,1345|C2186740|urticaria|fndg
+1347,1355|C0016382|flushing|sosy
+1347,1355|C1962957|flushing|fndg
+1357,1365|C0010520|cyanosis|sosy
+1367,1378|C0020649|hypotension|fndg
+1367,1378|C3163620|hypotension|fndg
+1380,1384|C0015230|rash|sosy
+1386,1393|C0013404|dyspnea|sosy
+1395,1411|C0235710|chest discomfort|sosy
+1417,1442|C0426576|gastrointestinal symptoms|sosy
+1463,1472|C0042109|urticaria|dsyn
+1463,1472|C2186740|urticaria|fndg
+1643,1651|C4082130|prepared|fndg
+1662,1673|C0002792|anaphylaxis|patf
+1662,1673|C0850803|anaphylaxis|dsyn
+1698,1703|C0311392|signs|fndg
+1708,1716|C1457887|symptoms|sosy
+1720,1731|C0002792|anaphylaxis|patf
+1720,1731|C0850803|anaphylaxis|dsyn
+1761,1773|C0496675|medical care|fndg
+1781,1789|C1457887|symptoms|sosy
+1812,1817;1830,1837|C4061114|acute illness|patf
+1864,1882|C0743630|acute exacerbation|fndg
+1904,1914|C2945640|compromise|fndg
+1922,1948|C0020517|hypersensitivity reactions|patf

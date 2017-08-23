@@ -1,0 +1,315 @@
+T1	AdverseReaction 52 62	Hemorrhage
+T2	AdverseReaction 101 111	Infections
+T3	AdverseReaction 193 203	Cytopenias
+T4	AdverseReaction 257 276	Atrial Fibrillation
+T5	AdverseReaction 335 362	Second Primary Malignancies
+T6	AdverseReaction 420 432	skin cancers
+T7	AdverseReaction 444 454	carcinomas
+T8	AdverseReaction 471 491	Tumor Lysis Syndrome
+T9	AdverseReaction 493 496	TLS
+T10	AdverseReaction 573 594	Embryo-Fetal Toxicity
+T11	AdverseReaction 606 616	fetal harm
+T12	Factor 596 599	Can
+T13	AdverseReaction 759 774	bleeding events
+T14	AdverseReaction 843 858	bleeding events
+T15	Severity 825 832	Grade 3
+T17	AdverseReaction 860 877	subdural hematoma
+T18	AdverseReaction 879 904	gastrointestinal bleeding
+T19	AdverseReaction 906 915	hematuria
+T20	AdverseReaction 920 946	post procedural hemorrhage
+T21	AdverseReaction 987 995	Bleeding
+T22	AdverseReaction 1027 1035	bruising
+T23	AdverseReaction 1040 1049	petechiae
+T24	Factor 1200 1203	may
+T25	AdverseReaction 1225 1235	hemorrhage
+T26	AdverseReaction 1521 1526	Fatal
+T27	AdverseReaction 1541 1551	infections
+T28	AdverseReaction 1609 1619	infections
+T29	Severity 1590 1597	Grade 3
+T31	AdverseReaction 1701 1743	progressive multifocal leukoencephalopathy
+T32	AdverseReaction 1745 1748	PML
+T33	AdverseReaction 1924 1934	cytopenias
+T34	Severity 1911 1918	Grade 3
+T35	Severity 1911 1916;1922 1923	Grade 4
+T37	AdverseReaction 1945 1956	neutropenia
+T38	AdverseReaction 1977 1993	thrombocytopenia
+T39	AdverseReaction 2017 2023	anemia
+T40	AdverseReaction 2165 2184	Atrial fibrillation
+T41	AdverseReaction 2189 2203	atrial flutter
+T42	AdverseReaction 2788 2800	malignancies
+T43	AdverseReaction 2829 2848	non-skin carcinomas
+T44	AdverseReaction 2964 2988	non-melanoma skin cancer
+T45	AdverseReaction 3047 3067	Tumor lysis syndrome
+T46	Animal 3300 3307	animals
+T47	AdverseReaction 3329 3339	fetal harm
+T48	AdverseReaction 3396 3409	malformations
+T49	Animal 3413 3417	rats
+T50	AdverseReaction 3613 3634	Reduced fetal weights
+T51	AdverseReaction 370 382	malignancies
+T52	AdverseReaction 753 758	Fatal
+T16	AdverseReaction 2934 2959	second primary malignancy
+T36	Severity 1531 1540	non-fatal
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11 Hypothetical:E12
+E12	Factor:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14 Effect:E15
+E15	Severity:T15
+E18	AdverseReaction:T17 Effect:E15
+E19	AdverseReaction:T18 Effect:E15
+E20	AdverseReaction:T19 Effect:E15
+E21	AdverseReaction:T20 Effect:E15
+E22	AdverseReaction:T21
+E23	AdverseReaction:T22
+E24	AdverseReaction:T23
+E25	Factor:T24
+E26	AdverseReaction:T25 Hypothetical:E25
+E27	AdverseReaction:T26
+E28	AdverseReaction:T27 Effect:E30
+E29	AdverseReaction:T28 Effect:E32
+E32	Severity:T29
+E34	AdverseReaction:T31
+E35	AdverseReaction:T32
+E36	AdverseReaction:T33 Effect:E39
+E38	AdverseReaction:T33 Effect:E40
+E39	Severity:T34
+E40	Severity:T35
+E42	AdverseReaction:T37 Effect:E40 Effect2:E39
+E43	AdverseReaction:T38 Effect:E40 Effect2:E39
+E44	AdverseReaction:T39 Effect:E40 Effect2:E39
+E45	AdverseReaction:T40
+E46	AdverseReaction:T41
+E47	AdverseReaction:T42
+E48	AdverseReaction:T43
+E49	AdverseReaction:T44
+E50	AdverseReaction:T45
+E51	Animal:T46
+E52	AdverseReaction:T47 Hypothetical:E51
+E53	AdverseReaction:T48 Hypothetical:E54
+E54	Animal:T49
+E55	AdverseReaction:T50
+E56	AdverseReaction:T51
+E57	AdverseReaction:T52
+E16	AdverseReaction:T16
+E30	Severity:T36
+A1	CUI E1 C0019080
+A2	UMLS-Preferred-Name E1 Hemorrhage
+A3	MEDDRA-PT E1 Haemorrhage
+A4	MEDDRA-PT-ID E1 10055798
+A5	LLT E1 Hemorrhage
+A6	LLT-ID E1 10019524
+A7	CUI E2 C3714514
+A8	UMLS-Preferred-Name E2 Infection
+A9	MEDDRA-PT E2 Infection
+A10	MEDDRA-PT-ID E2 10021789
+A11	CUI E3 C0010828
+A12	UMLS-Preferred-Name E3 Cytopenia
+A13	MEDDRA-PT E3 Cytopenia
+A14	MEDDRA-PT-ID E3 10066274
+A15	CUI E4 C0004238
+A16	UMLS-Preferred-Name E4 Atrial Fibrillation
+A17	MEDDRA-PT E4 Atrial fibrillation
+A18	MEDDRA-PT-ID E4 10003658
+A19	CUI E5 C0751623
+A20	UMLS-Preferred-Name E5 Second Primary Cancers
+A21	MEDDRA-PT E5 Second primary malignancy
+A22	MEDDRA-PT-ID E5 10039801
+A23	CUI E6 C0007114
+A24	UMLS-Preferred-Name E6 Malignant neoplasm of skin
+A25	MEDDRA-PT E6 Skin cancer
+A26	MEDDRA-PT-ID E6 10040808
+A27	CUI E7 C0007097
+A28	UMLS-Preferred-Name E7 Carcinoma
+A29	MEDDRA-PT E7 Neoplasm malignant
+A30	MEDDRA-PT-ID E7 10028997
+A31	LLT E7 Carcinoma
+A32	LLT-ID E7 10007284
+A33	CUI E8 C0041364
+A34	UMLS-Preferred-Name E8 Tumor Lysis Syndrome
+A35	MEDDRA-PT E8 Tumour lysis syndrome
+A36	MEDDRA-PT-ID E8 10045170
+A37	LLT E8 Tumor lysis syndrome
+A38	LLT-ID E8 10045152
+A39	CUI E9 C0041364
+A40	UMLS-Preferred-Name E9 Tumor Lysis Syndrome
+A41	MEDDRA-PT E9 Tumour lysis syndrome
+A42	MEDDRA-PT-ID E9 10045170
+A43	LLT E9 Tumor lysis syndrome
+A44	LLT-ID E9 10045152
+A45	CUI E10 C0270009
+A46	UMLS-Preferred-Name E10 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A47	MEDDRA-PT E10 Maternal drugs affecting foetus
+A48	MEDDRA-PT-ID E10 10026923
+A49	LLT E10 Drug toxicity NEC affecting foetus
+A50	LLT-ID E10 10013750
+A51	CUI E11 C0854268
+A52	UMLS-Preferred-Name E11 Foetal damage
+A53	MEDDRA-PT E11 Foetal damage
+A54	MEDDRA-PT-ID E11 10016852
+A55	LLT E11 Fetal damage
+A56	LLT-ID E11 10054743
+A57	CUI E13 C0019080
+A58	UMLS-Preferred-Name E13 Hemorrhage
+A59	MEDDRA-PT E13 Haemorrhage
+A60	MEDDRA-PT-ID E13 10055798
+A61	LLT E13 Bleeding
+A62	LLT-ID E13 10005103
+A63	CUI E14 C0019080
+A64	UMLS-Preferred-Name E14 Hemorrhage
+A65	MEDDRA-PT E14 Haemorrhage
+A66	MEDDRA-PT-ID E14 10055798
+A67	LLT E14 Bleeding
+A68	LLT-ID E14 10005103
+A69	CUI E18 C0018946
+A70	UMLS-Preferred-Name E18 Hematoma, Subdural
+A71	MEDDRA-PT E18 Subdural haematoma
+A72	MEDDRA-PT-ID E18 10042361
+A73	LLT E18 Subdural hematoma
+A74	LLT-ID E18 10042380
+A75	CUI E19 C0017181
+A76	UMLS-Preferred-Name E19 Gastrointestinal Hemorrhage
+A77	MEDDRA-PT E19 Gastrointestinal haemorrhage
+A78	MEDDRA-PT-ID E19 10017955
+A79	LLT E19 Gastrointestinal bleeding
+A80	LLT-ID E19 10017936
+A81	CUI E20 C0018965
+A82	UMLS-Preferred-Name E20 Hematuria
+A83	MEDDRA-PT E20 Haematuria
+A84	MEDDRA-PT-ID E20 10018867
+A85	LLT E20 Hematuria
+A86	LLT-ID E20 10019450
+A87	CUI E21 C0919874
+A88	UMLS-Preferred-Name E21 Post procedural hemorrhage
+A89	MEDDRA-PT E21 Post procedural haemorrhage
+A90	MEDDRA-PT-ID E21 10051077
+A91	LLT E21 Post procedural hemorrhage
+A92	LLT-ID E21 10055320
+A93	CUI E22 C0019080
+A94	UMLS-Preferred-Name E22 Hemorrhage
+A95	MEDDRA-PT E22 Haemorrhage
+A96	MEDDRA-PT-ID E22 10055798
+A97	LLT E22 Bleeding
+A98	LLT-ID E22 10005103
+A99	CUI E23 C0009938
+A100	UMLS-Preferred-Name E23 Contusions
+A101	MEDDRA-PT E23 Contusion
+A102	MEDDRA-PT-ID E23 10050584
+A103	LLT E23 Bruising
+A104	LLT-ID E23 10006504
+A105	CUI E24 C0031256
+A106	UMLS-Preferred-Name E24 Petechiae
+A107	MEDDRA-PT E24 Petechiae
+A108	MEDDRA-PT-ID E24 10034754
+A109	CUI E26 C0019080
+A110	UMLS-Preferred-Name E26 Hemorrhage
+A111	MEDDRA-PT E26 Haemorrhage
+A112	MEDDRA-PT-ID E26 10055798
+A113	LLT E26 Hemorrhage
+A114	LLT-ID E26 10019524
+A115	CUI E27 C1306577
+A116	UMLS-Preferred-Name E27 Death (finding)
+A117	MEDDRA-PT E27 Death
+A118	MEDDRA-PT-ID E27 10011906
+A119	CUI E28 C3714514
+A120	UMLS-Preferred-Name E28 Infection
+A121	MEDDRA-PT E28 Infection
+A122	MEDDRA-PT-ID E28 10021789
+A123	CUI E29 C3714514
+A124	UMLS-Preferred-Name E29 Infection
+A125	MEDDRA-PT E29 Infection
+A126	MEDDRA-PT-ID E29 10021789
+A127	CUI E34 C0023524
+A128	UMLS-Preferred-Name E34 Leukoencephalopathy, Progressive Multifocal
+A129	MEDDRA-PT E34 Progressive multifocal leukoencephalopathy
+A130	MEDDRA-PT-ID E34 10036807
+A131	CUI E35 C0023524
+A132	UMLS-Preferred-Name E35 Leukoencephalopathy, Progressive Multifocal
+A133	MEDDRA-PT E35 Progressive multifocal leukoencephalopathy
+A134	MEDDRA-PT-ID E35 10036807
+A135	CUI E36 C0010828
+A136	UMLS-Preferred-Name E36 Cytopenia
+A137	MEDDRA-PT E36 Cytopenia
+A138	MEDDRA-PT-ID E36 10066274
+A139	CUI E42 C0027947
+A140	UMLS-Preferred-Name E42 Neutropenia
+A141	MEDDRA-PT E42 Neutropenia
+A142	MEDDRA-PT-ID E42 10029354
+A143	CUI E43 C0040034
+A144	UMLS-Preferred-Name E43 Thrombocytopenia
+A145	MEDDRA-PT E43 Thrombocytopenia
+A146	MEDDRA-PT-ID E43 10043554
+A147	CUI E44 C0002871
+A148	UMLS-Preferred-Name E44 Anemia
+A149	MEDDRA-PT E44 Anaemia
+A150	MEDDRA-PT-ID E44 10002034
+A151	LLT E44 Anemia
+A152	LLT-ID E44 10002272
+A153	CUI E45 C0004238
+A154	UMLS-Preferred-Name E45 Atrial Fibrillation
+A155	MEDDRA-PT E45 Atrial fibrillation
+A156	MEDDRA-PT-ID E45 10003658
+A157	CUI E46 C0004239
+A158	UMLS-Preferred-Name E46 Atrial Flutter
+A159	MEDDRA-PT E46 Atrial flutter
+A160	MEDDRA-PT-ID E46 10003662
+A161	CUI E47 C0006826
+A162	UMLS-Preferred-Name E47 Malignant Neoplasms
+A163	MEDDRA-PT E47 Neoplasm malignant
+A164	MEDDRA-PT-ID E47 10028997
+A165	CUI E48 C0007097
+A166	UMLS-Preferred-Name E48 Carcinoma
+A167	MEDDRA-PT E48 Neoplasm malignant
+A168	MEDDRA-PT-ID E48 10028997
+A169	LLT E48 Carcinoma
+A170	LLT-ID E48 10007284
+A171	CUI E49 C0699893
+A172	UMLS-Preferred-Name E49 Skin carcinoma
+A173	MEDDRA-PT E49 Skin cancer
+A174	MEDDRA-PT-ID E49 10040808
+A175	LLT E49 Cancer of skin (excl melanoma)
+A176	LLT-ID E49 10007116
+A177	CUI E50 C0041364
+A178	UMLS-Preferred-Name E50 Tumor Lysis Syndrome
+A179	MEDDRA-PT E50 Tumour lysis syndrome
+A180	MEDDRA-PT-ID E50 10045170
+A181	LLT E50 Tumor lysis syndrome
+A182	LLT-ID E50 10045152
+A183	CUI E52 C0854268
+A184	UMLS-Preferred-Name E52 Foetal damage
+A185	MEDDRA-PT E52 Foetal damage
+A186	MEDDRA-PT-ID E52 10016852
+A187	LLT E52 Fetal damage
+A188	LLT-ID E52 10054743
+A189	CUI E53 C0000768
+A190	UMLS-Preferred-Name E53 Congenital Abnormality
+A191	MEDDRA-PT E53 Foetal malformation
+A192	MEDDRA-PT-ID E53 10060919
+A193	LLT E53 Fetal malformation
+A194	LLT-ID E53 10060920
+A195	CUI E55 C0015934
+A196	UMLS-Preferred-Name E55 Fetal Growth Retardation
+A197	MEDDRA-PT E55 Foetal growth restriction
+A198	MEDDRA-PT-ID E55 10070531
+A199	LLT E55 Fetal growth restriction
+A200	LLT-ID E55 10070532
+A201	CUI E56 C0006826
+A202	UMLS-Preferred-Name E56 Malignant Neoplasms
+A203	MEDDRA-PT E56 Neoplasm malignant
+A204	MEDDRA-PT-ID E56 10028997
+A205	CUI E57 C1306577
+A206	UMLS-Preferred-Name E57 Death (finding)
+A207	MEDDRA-PT E57 Death
+A208	MEDDRA-PT-ID E57 10011906
+A209	CUI E16 C0751623
+A210	UMLS-Preferred-Name E16 Second Primary Cancers
+A211	MEDDRA-PT E16 Second primary malignancy
+A212	MEDDRA-PT-ID E16 10039801

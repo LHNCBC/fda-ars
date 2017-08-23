@@ -1,0 +1,80 @@
+T1	AdverseReaction 156 164	coughing
+T2	AdverseReaction 168 176	sneezing
+T3	Factor 142 145	can
+T4	AdverseReaction 499 526	increases in blood pressure
+T5	Severity 489 498	Transient
+T6	Factor 527 530	may
+T7	AdverseReaction 1523 1531	sneezing
+T8	AdverseReaction 1511 1519	coughing
+T9	Factor 1497 1500	can
+T10	AdverseReaction 2005 2020	procedural pain
+T11	Severity 1993 2004	substantial
+T12	Factor 1978 1981	may
+T13	AdverseReaction 2374 2401	increases in blood pressure
+T14	AdverseReaction 2616 2643	Increases in blood pressure
+T15	AdverseReaction 2732 2749	increases in pain
+T16	AdverseReaction 3019 3049	adverse cardiovascular effects
+T17	Factor 3011 3015	risk
+E1	AdverseReaction:T1 Hypothetical:E3
+E2	AdverseReaction:T2 Hypothetical:E3
+E3	Factor:T3
+E4	AdverseReaction:T4 Effect:E5 Hypothetical:E6
+E5	Severity:T5
+E6	Factor:T6
+E7	AdverseReaction:T7 Hypothetical:E9
+E8	AdverseReaction:T8 Hypothetical:E9
+E9	Factor:T9
+E10	AdverseReaction:T10 Effect:E11 Hypothetical:E12
+E11	Severity:T11
+E12	Factor:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16 Hypothetical:E17
+E17	Factor:T17
+A1	CUI E1 C0010200
+A2	UMLS-Preferred-Name E1 Coughing
+A3	MEDDRA-PT E1 Cough
+A4	MEDDRA-PT-ID E1 10011224
+A5	LLT E1 Coughing
+A6	LLT-ID E1 10011232
+A7	CUI E2 C0037383
+A8	UMLS-Preferred-Name E2 Sneezing
+A9	MEDDRA-PT E2 Sneezing
+A10	MEDDRA-PT-ID E2 10041232
+A11	CUI E4 C0497247
+A12	UMLS-Preferred-Name E4 Increase in blood pressure
+A13	MEDDRA-PT E4 Blood pressure increased
+A14	MEDDRA-PT-ID E4 10005750
+A15	CUI E7 C0037383
+A16	UMLS-Preferred-Name E7 Sneezing
+A17	MEDDRA-PT E7 Sneezing
+A18	MEDDRA-PT-ID E7 10041232
+A19	CUI E8 C0010200
+A20	UMLS-Preferred-Name E8 Coughing
+A21	MEDDRA-PT E8 Cough
+A22	MEDDRA-PT-ID E8 10011224
+A23	LLT E8 Coughing
+A24	LLT-ID E8 10011232
+A25	CUI E10 C1619712
+A26	UMLS-Preferred-Name E10 Procedural pain
+A27	MEDDRA-PT E10 Procedural pain
+A28	MEDDRA-PT-ID E10 10064882
+A29	CUI E13 C0497247
+A30	UMLS-Preferred-Name E13 Increase in blood pressure
+A31	MEDDRA-PT E13 Blood pressure increased
+A32	MEDDRA-PT-ID E13 10005750
+A33	CUI E14 C0497247
+A34	UMLS-Preferred-Name E14 Increase in blood pressure
+A35	MEDDRA-PT E14 Blood pressure increased
+A36	MEDDRA-PT-ID E14 10005750
+A37	CUI E15 C0853946
+A38	UMLS-Preferred-Name E15 Pain worsened
+A39	MEDDRA-PT E15 Pain
+A40	MEDDRA-PT-ID E15 10033371
+A41	LLT E15 Exacerbation of pain
+A42	LLT-ID E15 10015579
+A43	CUI E16 C0476270
+A44	UMLS-Preferred-Name E16 Cardiovascular symptoms
+A45	MEDDRA-PT E16 Cardiovascular symptom
+A46	MEDDRA-PT-ID E16 10075534

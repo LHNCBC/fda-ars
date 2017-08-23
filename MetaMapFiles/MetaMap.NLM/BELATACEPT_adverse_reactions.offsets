@@ -1,0 +1,323 @@
+98,102|C0432487|PTLD|neop
+122,126|C0432487|PTLD|neop
+138,150|C0006826|malignancies|neop
+238,248|C3714514|infections|patf
+280,283|C0023524|PML|dsyn
+302,313|C0022658|nephropathy|dsyn
+453,459|C0002871|anemia|dsyn
+461,469|C0011991|diarrhea|sosy
+461,469|C1963091|diarrhea|fndg
+471,494|C0042029|urinary tract infection|dsyn
+471,494|C0262655|urinary tract infection|dsyn
+496,512|C0085649|peripheral edema|fndg
+514,526|C0009806|constipation|sosy
+514,526|C1963087|constipation|fndg
+528,540|C0020538|hypertension|dsyn
+528,540|C1963138|hypertension|fndg
+542,549|C0015967|pyrexia|fndg
+551,568|C1167870|graft dysfunction|patf
+570,575|C0010200|cough|sosy
+570,575|C1961131|cough|fndg
+577,583|C0027497|nausea|sosy
+577,583|C1963179|nausea|patf
+585,593|C0042963|vomiting|sosy
+585,593|C1963281|vomiting|patf
+595,603|C0018681|headache|sosy
+595,603|C2096315|headache|fndg
+605,616|C0020621|hypokalemia|fndg
+618,630|C0020461|hyperkalemia|fndg
+636,646|C0023530|leukopenia|dsyn
+636,646|C0750394|leukopenia|fndg
+902,912|C3815594|randomized|fndg
+1569,1573|C0432487|PTLD|neop
+1575,1578|C0023524|PML|dsyn
+1590,1604|C0007684|CNS infections|dsyn
+2325,2335|C0012634|conditions|dsyn
+2631,2637|C0002871|anemia|dsyn
+2639,2647|C0011991|diarrhea|sosy
+2639,2647|C1963091|diarrhea|fndg
+2649,2672|C0042029|urinary tract infection|dsyn
+2649,2672|C0262655|urinary tract infection|dsyn
+2674,2690|C0085649|peripheral edema|fndg
+2692,2704|C0009806|constipation|sosy
+2692,2704|C1963087|constipation|fndg
+2706,2718|C0020538|hypertension|dsyn
+2706,2718|C1963138|hypertension|fndg
+2720,2727|C0015967|pyrexia|fndg
+2729,2746|C1167870|graft dysfunction|patf
+2748,2753|C0010200|cough|sosy
+2748,2753|C1961131|cough|fndg
+2755,2761|C0027497|nausea|sosy
+2755,2761|C1963179|nausea|patf
+2763,2771|C0042963|vomiting|sosy
+2763,2771|C1963281|vomiting|patf
+2773,2781|C0018681|headache|sosy
+2773,2781|C2096315|headache|fndg
+2783,2794|C0020621|hypokalemia|fndg
+2796,2808|C0020461|hyperkalemia|fndg
+2814,2824|C0023530|leukopenia|dsyn
+2814,2824|C0750394|leukopenia|fndg
+2861,2873|C1444662|discontinued|fndg
+2874,2883;2891,2908|C0879626|treatment adverse reactions|patf
+3073,3088|C1444662|discontinuation|fndg
+3122,3147|C0010823|cytomegalovirus infection|dsyn
+3159,3195|C1261281|complications of transplanted kidney|patf
+3321,3365;3423,3431|C0432487|Post-Transplant Lymphoproliferative Disorder disorder|neop
+3445,3454|C3843385|36 months|fndg
+3460,3470|C3841811|transplant|fndg
+3460,3470|C0478647|transplant|fndg
+3785,3794;3803,3811|C2360800|number of patients|fndg
+4443,4447|C0432487|PTLD|neop
+4858,4862|C0432487|PTLD|neop
+4872,4887|C0686377|CNS involvement|neop
+4872,4887|C4050309|CNS involvement|fndg
+4906,4910|C0432487|PTLD|neop
+4926,4935|C3843385|36 months|fndg
+4941,4951|C3841811|transplant|fndg
+4941,4951|C0478647|transplant|fndg
+5069,5073|C0432487|PTLD|neop
+5447,5451|C0432487|PTLD|neop
+5703,5711|C1514241|Positive|fndg
+5735,5743|C1513916|Negative|fndg
+5796,5804|C1514241|Positive|fndg
+5828,5836|C1513916|Negative|fndg
+5889,5897|C1514241|Positive|fndg
+5921,5929|C1513916|Negative|fndg
+6236,6240|C0432487|PTLD|neop
+6502,6506|C0432487|PTLD|neop
+6744,6749;7010,7015|C0947343|Study Total|fndg
+6768,6772|C0432487|PTLD|neop
+7078,7079|C3838679|4|fndg
+7329,7330|C3838679|4|fndg
+7375,7379|C0432487|PTLD|neop
+7539,7543|C0432487|PTLD|neop
+7555,7563|C0442726|detected|fndg
+7555,7563|C0442726|detected|fndg
+7626,7634|C0442726|detected|fndg
+7626,7634|C0442726|detected|fndg
+7676,7697|C2826293|clinical significance|fndg
+7735,7739|C0432487|PTLD|neop
+7893,7905|C0006826|Malignancies|neop
+7933,7957|C0699893|non-melanoma skin cancer|neop
+8156,8180|C0699893|Non-melanoma skin cancer|neop
+8377,8419|C0023524|Progressive Multifocal Leukoencephalopathy|dsyn
+8427,8432|C1705232|fatal|fndg
+9070,9096|C0455647|liver transplant recipient|fndg
+9070,9096|C3811922|liver transplant recipient|fndg
+9381,9398|C0026946|Fungal Infections|dsyn
+9549,9559|C1550043|identified|fndg
+9614,9624|C3714514|infections|patf
+9634,9644|C3714514|infections|patf
+9657,9667|C3714514|infections|patf
+9673,9683|C1550043|identified|fndg
+9828,9845|C0026946|Fungal infections|dsyn
+9977,9994|C0026946|fungal infections|dsyn
+9996,10008|C0041296|Tuberculosis|dsyn
+10013,10030|C0019372|herpes infections|dsyn
+10140,10152|C0041296|tuberculosis|dsyn
+10243,10255|C0041296|tuberculosis|dsyn
+10322,10332|C3714514|Infections|patf
+10344,10354|C3714514|Infections|patf
+10360,10370|C1550043|Identified|fndg
+11032,11042|C3714514|infections|patf
+11287,11293|C2825142|result|fndg
+11297,11302|C1306577|death|fndg
+11367,11377|C3714514|Infections|patf
+11439,11447;11459,11470|C1697878|BK virus nephropathy|dsyn
+11518,11526|C2825142|resulted|fndg
+11530,11540|C0877042|graft loss|patf
+11585,11593|C2825142|resulted|fndg
+11597,11607|C0877042|graft loss|patf
+11631,11648|C0019372|herpes infections|dsyn
+11718,11728|C3714514|infections|patf
+12166,12172|C0019340|Herpes|dsyn
+12279,12291|C0041296|Tuberculosis|dsyn
+12403,12413|C3714514|Infections|patf
+12492,12515|C0085436|cryptococcal meningitis|dsyn
+12520,12528;12536,12543|C0747307|reported patient|fndg
+12893,12907|C0007684|CNS infections|dsyn
+12930,12953|C0085436|cryptococcal meningitis|dsyn
+12967,12973|C0041234|Chagas|dsyn
+12974,12986|C0014038|encephalitis|dsyn
+12992,13015|C0085436|cryptococcal meningitis|dsyn
+13029,13051|C0948691|cerebral aspergillosis|dsyn
+13065,13087|C0751583|West Nile encephalitis|dsyn
+13105,13108|C0023524|PML|dsyn
+13134,13152|C2368034|Infusion Reactions|patf
+13181,13192|C0002792|anaphylaxis|patf
+13181,13192|C0850803|anaphylaxis|dsyn
+13196,13217|C0013182|drug hypersensitivity|dsyn
+13268,13269;13284,13289|C3843647|2 years|fndg
+13295,13321|C0948715|Infusion-related reactions|sosy
+13538,13549|C0020649|hypotension|fndg
+13538,13549|C3163620|hypotension|fndg
+13554,13566|C0020538|hypertension|dsyn
+13554,13566|C1963138|hypertension|fndg
+13574,13585|C0033687|Proteinuria|fndg
+13574,13585|C1962972|Proteinuria|fndg
+13574,13585|C1279888|Proteinuria|dsyn
+13662,13673|C0033687|proteinuria|fndg
+13662,13673|C1962972|proteinuria|fndg
+13662,13673|C1279888|proteinuria|dsyn
+13864,13875|C0033687|proteinuria|fndg
+13864,13875|C1962972|proteinuria|fndg
+13864,13875|C1279888|proteinuria|dsyn
+14146,14167|C2826293|clinical significance|fndg
+14194,14205|C0033687|proteinuria|fndg
+14194,14205|C1962972|proteinuria|fndg
+14194,14205|C1279888|proteinuria|dsyn
+14299,14307;14315,14323|C1555289|assessed patients|fndg
+14416,14427|C0332154|treated for|fndg
+15927,15931|C0456984|test|fndg
+15932,15939|C2825142|results|fndg
+16282,16289|C0012634|disease|dsyn
+16442,16451|C0746890|New-Onset|fndg
+16452,16460|C0011860|Diabetes|dsyn
+16452,16460|C0011849|Diabetes|dsyn
+16452,16460|C0011847|Diabetes|dsyn
+16513,16521|C0011860|diabetes|dsyn
+16513,16521|C0011849|diabetes|dsyn
+16513,16521|C0011847|diabetes|dsyn
+16797,16802|C0011860|NODAT|dsyn
+16797,16802|C0011849|NODAT|dsyn
+16797,16802|C0011847|NODAT|dsyn
+16797,16802|C0746890|NODAT|fndg
+16967,16972|C0011860|NODAT|dsyn
+16967,16972|C0011849|NODAT|dsyn
+16967,16972|C0011847|NODAT|dsyn
+17120,17132|C0020538|Hypertension|dsyn
+17120,17132|C1963138|Hypertension|fndg
+17793,17805|C0020538|Hypertension|dsyn
+17793,17805|C1963138|Hypertension|fndg
+17939,17951|C0242339|Dyslipidemia|dsyn
+18636,18657|C2826293|clinical significance|fndg
+18954,18955;18970,18975|C3843647|2 years|fndg
+19199,19200;19215,19220|C3843647|2 Years|fndg
+19367,19377|C3815594|randomized|fndg
+19561,19571|C3714514|Infections|patf
+19576,19588|C0851341|Infestations|dsyn
+19674,19697|C0042029|Urinary tract infection|dsyn
+19674,19697|C0262655|Urinary tract infection|dsyn
+19783,19810|C0041912|Upper respiratory infection|dsyn
+19892,19907|C0027441|Nasopharyngitis|dsyn
+20001,20026|C0010823|Cytomegalovirus infection|dsyn
+20110,20119|C0021400|Influenza|dsyn
+20219,20229|C0006277|Bronchitis|dsyn
+20219,20229|C0149514|Bronchitis|dsyn
+20324,20350|C0017178|Gastrointestinal Disorders|dsyn
+20437,20445|C0011991|Diarrhea|sosy
+20437,20445|C1963091|Diarrhea|fndg
+20546,20558|C0009806|Constipation|sosy
+20546,20558|C1963087|Constipation|fndg
+20655,20661|C0027497|Nausea|sosy
+20655,20661|C1963179|Nausea|patf
+20764,20772|C0042963|Vomiting|sosy
+20764,20772|C1963281|Vomiting|patf
+20873,20887|C0000737|Abdominal pain|sosy
+20982,21002|C0232492|Abdominal pain upper|sosy
+21102,21121|C3714509|Nutrition Disorders|dsyn
+21200,21212|C0020461|Hyperkalemia|fndg
+21309,21320|C0020621|Hypokalemia|fndg
+21418,21434|C0085682|Hypophosphatemia|patf
+21418,21434|C0595888|Hypophosphatemia|fndg
+21527,21539|C0242339|Dyslipidemia|dsyn
+21636,21649|C0020456|Hyperglycemia|dsyn
+21745,21757|C0020598|Hypocalcemia|dsyn
+21854,21874|C0020443|Hypercholesterolemia|dsyn
+21854,21874|C1522133|Hypercholesterolemia|fndg
+21963,21977|C0151723|Hypomagnesemia|fndg
+22072,22085|C0740394|Hyperuricemia|dsyn
+22296,22307|C3887505|dysfunction|dsyn
+22296,22307|C0277785|dysfunction|patf
+22395,22402;22519,22524|C0151603|General edema|patf
+22403,22412|C0012634|Disorders|dsyn
+22508,22524|C0085649|Peripheral edema|fndg
+22617,22624|C0015967|Pyrexia|fndg
+22732,22758|C0024228|Lymphatic System Disorders|dsyn
+22835,22841|C0002871|Anemia|dsyn
+22944,22954|C0023530|Leukopenia|dsyn
+22944,22954|C0750394|Leukopenia|fndg
+23059,23076|C0042075|Urinary Disorders|dsyn
+23162,23171|C0018965|Hematuria|fndg
+23271,23282|C0033687|Proteinuria|fndg
+23271,23282|C1962972|Proteinuria|fndg
+23271,23282|C1279888|Proteinuria|dsyn
+23380,23387|C0013428|Dysuria|sosy
+23489,23511|C0022672|Renal tubular necrosis|dsyn
+23489,23511|C1720775|Renal tubular necrosis|dsyn
+23594,23602;23707,23719|C0020538|Vascular Hypertension|dsyn
+23594,23612|C0042373|Vascular Disorders|dsyn
+23603,23612|C0012634|Disorders|dsyn
+23707,23719|C0020538|Hypertension|dsyn
+23707,23719|C1963138|Hypertension|fndg
+23816,23827|C0020649|Hypotension|fndg
+23816,23827|C3163620|Hypotension|fndg
+23948,23969|C0025061|Mediastinal Disorders|dsyn
+24038,24043|C0010200|Cough|sosy
+24038,24043|C1961131|Cough|fndg
+24147,24154|C0013404|Dyspnea|sosy
+24490,24517|C0009782|Connective Tissue Disorders|dsyn
+24586,24596|C0003862|Arthralgia|sosy
+24695,24704|C0004604|Back pain|sosy
+24695,24704|C1963071|Back pain|fndg
+24913,24921|C0018681|Headache|sosy
+24913,24921|C2096315|Headache|fndg
+25022,25031|C0012833|Dizziness|sosy
+25022,25031|C0042571|Dizziness|sosy
+25022,25031|C1963093|Dizziness|fndg
+25131,25137|C0040822|Tremor|sosy
+25131,25137|C1963252|Tremor|fndg
+25245,25257;25265,25274|C0549584|Subcutaneous Disorders|dsyn
+25265,25274|C0012634|Disorders|dsyn
+25349,25353|C0702166|Acne|dsyn
+25349,25353|C0001144|Acne|dsyn
+25567,25575|C0917801|Insomnia|sosy
+25567,25575|C1963237|Insomnia|fndg
+25676,25683|C0003467|Anxiety|mobd
+25676,25683|C0003469|Anxiety|mobd
+25676,25683|C0860603|Anxiety|fndg
+25866,25872|C3844638|either|fndg
+25944,25967|C0021053|Immune System Disorders|dsyn
+25970,25993|C3542501|Guillain-Barre syndrome|dsyn
+25970,25993|C0018378|Guillain-Barre syndrome|dsyn
+26000,26010|C3714514|Infections|patf
+26015,26027|C0851341|Infestations|dsyn
+26048,26074|C0017178|Gastrointestinal Disorders|dsyn
+26077,26087|C0038362|stomatitis|dsyn
+26099,26118|C0038363|aphthous stomatitis|dsyn
+26099,26118|C0585213|aphthous stomatitis|dsyn
+26133,26142|C0032343|Poisoning|inpo
+26175,26204|C0403592|chronic allograft nephropathy|dsyn
+26206,26242|C1261281|complications of transplanted kidney|patf
+26254,26270|C0259768|wound dehiscence|acab
+26272,26304|C0340909|arteriovenous fistula thrombosis|dsyn
+26321,26347|C0024228|Lymphatic System Disorders|dsyn
+26350,26361|C0023530|neutropenia|dsyn
+26350,26361|C0027947|neutropenia|dsyn
+26350,26361|C0853697|neutropenia|fndg
+26378,26395|C0042075|Urinary Disorders|dsyn
+26398,26414|C1565489|renal impairment|dsyn
+26426,26445|C0022660|acute renal failure|dsyn
+26426,26445|C3854173|acute renal failure|dsyn
+26447,26468|C0035067|renal artery stenosis|dsyn
+26470,26490|C0042024|urinary incontinence|patf
+26470,26490|C1962973|urinary incontinence|fndg
+26492,26506|C0020295|hydronephrosis|dsyn
+26513,26531|C0042373|Vascular Disorders|dsyn
+26534,26542|C0018944|hematoma|patf
+26534,26542|C1962958|hematoma|fndg
+26544,26554|C0024248|lymphocele|dsyn
+26544,26554|C1963162|lymphocele|patf
+26581,26608|C0009782|Connective Tissue Disorders|dsyn
+26611,26626;26638,26642|C3841735|musculoskeletal Skin|fndg
+26611,26631|C0026858|musculoskeletal pain|fndg
+26627,26631;26638,26642|C0241136|pain Skin|sosy
+26627,26631|C0030193|pain|sosy
+26627,26631|C1962977|pain|fndg
+26647,26659;26667,26676|C0549584|Subcutaneous Disorders|dsyn
+26667,26676|C0012634|Disorders|dsyn
+26679,26687|C0002170|alopecia|dsyn
+26689,26702|C0020458|hyperhidrosis|fndg
+26709,26726|C0018799|Cardiac Disorders|dsyn
+26729,26748|C0004238|atrial fibrillation|dsyn
+26729,26748|C1963067|atrial fibrillation|fndg

@@ -1,0 +1,46 @@
+00000000|MMI|125.72|Angioedemas, Hereditary|C0019243|[dsyn]|["HAE"-tx-18-"HAE"-noun-0,"HAE"-tx-15-"HAE"-noun-0,"HAE"-tx-11-"HAE"-noun-0,"HAE"-tx-9-"HAE"-noun-0,"HAE"-tx-8-"HAE"-noun-0,"HAE"-tx-5-"HAE"-noun-0]|TX|3817/3;2524/3;1814/3;1521/3;1231/3;955/3|C14.907.079.500;C16.320.078;C17.800.862.945.066.500;C20.543.480.904.066.500
+00000000|MMI|58.07|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-30-"adverse reactions"-noun-0,"Adverse reactions"-tx-17-"Adverse reactions"-noun-0,"Adverse reactions"-tx-16-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-15-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-14-"adverse reactions"-noun-0,"Adverse reactions"-tx-11-"adverse reactions"-noun-0,"Adverse reactions"-tx-8-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-4-"adverse reaction"-noun-0,"Adverse reactions"-tx-3-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-2-"adverse reactions"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0]|TX|5286/17;3586/17;2766/17;2407/17;2175/17;1666/17;1192/17;676/16;454/17;242/17;7/17|
+00000000|MMI|50.16|Headache|C0018681|[sosy]|["HEADACHE"-tx-16-"Headache"-noun-0,"HEADACHE"-tx-8-"headache"-noun-0,"HEADACHE"-tx-2-"headache"-noun-0]|TX|2932/8;1240/8;336/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|40.76|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-16-"Diarrhea"-noun-0,"DIARRHOEA"-tx-8-"diarrhea"-noun-0,"DIARRHOEA"-tx-2-"diarrhea"-noun-0]|TX|3100/8;1285/8;354/8|C23.888.821.214
+00000000|MMI|40.76|Fever|C0015967|[fndg]|["PYREXIA"-tx-16-"Pyrexia"-noun-0,"PYREXIA"-tx-8-"pyrexia"-noun-0,"PYREXIA"-tx-2-"pyrexia"-noun-0]|TX|3184/7;1455/7;364/7|C23.888.119.344
+00000000|MMI|40.76|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-16-"Nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-8-"nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-2-"nasopharyngitis"-noun-0]|TX|3352/15;1372/15;403/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|40.76|Nausea|C0027497|[sosy]|["NAUSEA"-tx-16-"Nausea"-noun-0,"NAUSEA"-tx-8-"nausea"-noun-0,"NAUSEA"-tx-2-"nausea"-noun-0]|TX|3016/6;1256/6;346/6|C23.888.821.712
+00000000|MMI|29.46|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-9-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-1-"anaphylaxis"-noun-0]|TX|1473/11;66/11|C20.543.480.099
+00000000|MMI|26.52|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-10-"pruritus"-noun-0,"PRURITUS"-tx-8-"pruritus"-noun-0]|TX|1579/8;1409/8|C17.800.685;C23.888.885.625
+00000000|MMI|24.55|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-16-"3"-integer-0,"3+"-tx-16-"3"-percentage-0,"3+"-tx-15-"3"-percentage-0,"3+"-tx-14-"3"-percentage-0,"3+"-tx-2-"3"-percentage-0]|TX|[3154/1],[3298/1],[3382/1];[3154/1],[3298/1],[3382/1];2440/1;2208/1;275/1|
+00000000|MMI|22.61|Unmarried|C0087136|[fndg]|["single"-tx-17-"single"-adj-0]|TX|3759/6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+00000000|MMI|21.36|1+|C3816745|[fndg]|["1+"-tx-16-"1"-integer-0,"1+"-tx-16-"1"-percentage-0]|TX|[3070/1],[3073/1],[3322/1],[3325/1];[3070/1],[3073/1],[3322/1],[3325/1]|
+00000000|MMI|19.92|Disease|C0012634|[dsyn]|["DISEASE"-tx-28-"disease"-noun-0,"condition"-tx-4-"conditions"-noun-0]|TX|5087/7;664/10|C23.550.288
+00000000|MMI|19.32|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-31-"uncertain"-adj-0]|TX|5448/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|17.80|Pain|C0030193|[sosy]|["PAIN"-tx-10-"pain"-noun-0]|TX|1599/4|C10.597.617;C23.888.592.612;F02.830.816.444;G11.561.600.810.444
+00000000|MMI|16.53|Injection site reaction|C0151735|[patf]|["Injection site reactions"-tx-16-"Injection site reactions"-noun-0,"Injection site reactions"-tx-10-"Injection site reactions"-noun-0,"Injection site reactions"-tx-8-"injection site reactions"-noun-0,"Injection site reactions"-tx-2-"injection site reactions"-noun-0]|TX|3268/24;1526/24;1341/24;373/24|
+00000000|MMI|15.79|4+ Answer to question|C3838679|[fndg]|["4+"-tx-16-"4"-percentage-0]|TX|[3130/1],[3157/1],[3214/1]|
+00000000|MMI|14.64|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-10-"urticaria"-noun-0]|TX|1617/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|14.64|Vomiting|C0042963|[sosy]|["VOMITING"-tx-8-"vomiting"-verb-0]|TX|1394/8|C23.888.821.937
+00000000|MMI|14.27|30%|C3842588|[fndg]|["30%"-tx-17-"30"-integer-0,"30%"-tx-16-"30"-integer-0,"30%"-tx-14-"30"-integer-0,"30%"-tx-12-"30"-integer-0]|TX|3659/2;3506/2;2369/2;1855/2|
+00000000|MMI|13.59|Hypersensitivity|C0020517|[patf]|["HYPERSENSITIVITY REACTION (NOS)"-tx-23-"hypersensitivity reaction"-noun-0,"Hypersensitivity reactions"-tx-1-"Hypersensitivity reactions"-noun-0]|TX|4385/25;28/26|C20.543
+00000000|MMI|11.92|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-16-"Diarrhea"-noun-0,"Diarrhea"-tx-8-"diarrhea"-noun-0,"Diarrhea"-tx-2-"diarrhea"-noun-0]|TX|3100/8;1285/8;354/8|
+00000000|MMI|11.92|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-16-"Nausea"-noun-0,"Nausea"-tx-8-"nausea"-noun-0,"Nausea"-tx-2-"nausea"-noun-0]|TX|3016/6;1256/6;346/6|
+00000000|MMI|11.71|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-16-"Headache"-noun-0,"headache"-tx-8-"headache"-noun-0,"headache"-tx-2-"headache"-noun-0]|TX|2932/8;1240/8;336/8|
+00000000|MMI|11.49|Contusions|C0009938|[inpo]|["BRUISING"-tx-10-"bruising"-noun-0]|TX|1635/8|C26.974.250
+00000000|MMI|11.49|Erythema|C0041834|[dsyn]|["ERYTHEMA"-tx-10-"erythema"-noun-0]|TX|1589/8|C17.800.229
+00000000|MMI|11.49|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-8-"fatigue"-noun-0]|TX|1270/7|C23.888.369
+00000000|MMI|11.49|Upper Respiratory Infections|C0041912|[dsyn]|["Infection, Upper Respiratory Tract"-tx-8-"upper respiratory tract infection"-noun-0]|TX|1301/33|C01.539.739;C08.730
+00000000|MMI|10.94|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-19-"exposure"-noun-0,"Exposure NOS"-tx-13-"exposure"-noun-0]|TX|3912/8;[2002/8],[2099/8]|
+00000000|MMI|10.94|exposure history|C2220266|[fndg]|["exposure"-tx-19-"exposure"-noun-0,"exposure"-tx-13-"exposure"-noun-0]|TX|3912/8;[2002/8],[2099/8]|
+00000000|MMI|10.42|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-9-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-1-"anaphylaxis"-noun-0]|TX|1473/11;66/11|
+00000000|MMI|7.55|0%|C3842591|[fndg]|["0%"-tx-16-"0"-integer-0]|TX|[3238/1],[3406/1]|
+00000000|MMI|7.20|Trial 2|C3842777|[fndg]|["Clinical trial 2"-tx-15-"2 Clinical Trials"-noun-0,"Clinical trial 2"-tx-11-"2 clinical trials"-noun-0]|TX|2470/1,2491/15;1704/1,1726/15|
+00000000|MMI|7.16|20%|C3842589|[fndg]|["20%"-tx-22-"20"-percentage-0,"20%"-tx-20-"20"-percentage-0]|TX|4324/2;3953/2|
+00000000|MMI|7.14|Detected (finding)|C0442726|[fndg]|["Detected"-tx-22-"detected"-verb-0]|TX|[4205/8],[4302/8]|
+00000000|MMI|5.18|Irritation (finding)|C1706307|[fndg]|["Irritation"-tx-10-"irritation"-noun-0]|TX|1605/10|
+00000000|MMI|5.18|Pain NOS Adverse Event|C1962977|[fndg]|["Pain NOS"-tx-10-"pain"-noun-0]|TX|1599/4|
+00000000|MMI|5.18|Test Result|C0456984|[fndg]|["Test"-tx-25-"test"-noun-0]|TX|4483/4|
+00000000|MMI|5.18|Upper abdominal pain|C0232492|[sosy]|["ABDOMINAL PAIN, UPPER"-tx-8-"upper abdominal pain"-noun-0]|TX|1424/20|
+00000000|MMI|5.18|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-8-"vomiting"-verb-0]|TX|1394/8|
+00000000|MMI|5.18|reported bruising (history)|C2136686|[fndg]|["bruising"-tx-10-"bruising"-noun-0]|TX|1635/8|
+00000000|MMI|5.18|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-10-"urticaria"-noun-0]|TX|1617/9|
+00000000|MMI|3.56|Experimental Result|C2825142|[fndg]|["Result"-tx-25-"results"-verb-0]|TX|4488/7|
+00000000|MMI|3.55|10%|C3842590|[fndg]|["10%"-tx-7-"10"-integer-0]|TX|1146/2|
+00000000|MMI|3.53|6/3|C1630409|[fndg]|["6/3"-tx-30-"6.3"-real_number-0]|TX|5245/3|
+00000000|MMI|3.45|drug exposure|C0743284|[fndg]|["DRUG EXPOSURE"-tx-31-"drug exposure"-noun-1]|TX|5564/13|

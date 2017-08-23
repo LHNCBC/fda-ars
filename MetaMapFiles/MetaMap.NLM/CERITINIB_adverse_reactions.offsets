@@ -1,0 +1,142 @@
+162,187|C1142499|Gastrointestinal Toxicity|fndg
+231,245|C0235378|Hepatotoxicity|inpo
+289,314|C0206062|Interstitial Lung Disease|dsyn
+315,326|C0032285|Pneumonitis|dsyn
+315,326|C3714636|Pneumonitis|dsyn
+370,372;382,394|C0151878|QT Prolongation|fndg
+471,484|C0020456|Hyperglycemia|dsyn
+528,539|C0428977|Bradycardia|patf
+528,539|C3812171|Bradycardia|fndg
+616,628|C0030305|Pancreatitis|dsyn
+616,628|C1963198|Pancreatitis|fndg
+751,759|C0011991|diarrhea|sosy
+751,759|C1963091|diarrhea|fndg
+761,767|C0027497|nausea|sosy
+761,767|C1963179|nausea|patf
+769,791|C0438717|elevated transaminases|fndg
+793,801|C0042963|vomiting|sosy
+793,801|C1963281|vomiting|patf
+803,817|C0000737|abdominal pain|sosy
+819,826|C0015672|fatigue|sosy
+828,846|C0232462|decreased appetite|sosy
+852,864|C0009806|constipation|sosy
+852,864|C1963087|constipation|fndg
+1142,1152|C0012634|conditions|dsyn
+1404,1412|C1514241|positive|fndg
+1452,1457|C0007131|NSCLC|neop
+1730,1735|C0007131|NSCLC|neop
+1736,1750|C0001418|adenocarcinoma|neop
+1777,1790|C0337671|former smoker|fndg
+1820,1836|C0220650|brain metastasis|neop
+2066,2069;2078,2088|C0861063|led reductions|fndg
+2112,2125|C0151905|increased ALT|fndg
+2133,2139|C0027497|nausea|sosy
+2133,2139|C1963179|nausea|patf
+2168,2176|C0011991|diarrhea|sosy
+2168,2176|C1963091|diarrhea|fndg
+2188,2196|C0042963|vomiting|sosy
+2188,2196|C1963281|vomiting|patf
+2286,2296|C4048158|convulsion|sosy
+2286,2296|C0036572|convulsion|sosy
+2298,2307|C0032285|pneumonia|dsyn
+2309,2312|C0206062|ILD|dsyn
+2313,2324|C0032285|pneumonitis|dsyn
+2313,2324|C3714636|pneumonitis|dsyn
+2326,2333|C0013404|dyspnea|sosy
+2335,2346|C0011175|dehydration|dsyn
+2348,2361|C0020456|hyperglycemia|dsyn
+2367,2373|C0027497|nausea|sosy
+2367,2373|C1963179|nausea|patf
+2375,2380|C1705232|Fatal|fndg
+2475,2484|C0032285|pneumonia|dsyn
+2499,2518|C1145670|respiratory failure|dsyn
+2520,2523|C0206062|ILD|dsyn
+2524,2535|C0032285|pneumonitis|dsyn
+2524,2535|C3714636|pneumonitis|dsyn
+2537,2549|C0032326|pneumothorax|dsyn
+2537,2549|C1963215|pneumothorax|fndg
+2551,2569|C0235325|gastric hemorrhage|dsyn
+2571,2608|C0877211|general physical health deterioration|fndg
+2610,2632|C0041327|pulmonary tuberculosis|dsyn
+2634,2651|C0007177|cardiac tamponade|dsyn
+2657,2663|C0243026|sepsis|dsyn
+2657,2663|C0036690|sepsis|dsyn
+2682,2697|C1444662|Discontinuation|fndg
+2701,2708|C1363945|therapy|fndg
+2837,2852|C1444662|discontinuation|fndg
+2895,2904|C0032285|pneumonia|dsyn
+2906,2909|C0206062|ILD|dsyn
+2910,2921|C0032285|pneumonitis|dsyn
+2910,2921|C3714636|pneumonitis|dsyn
+2927,2945|C0232462|decreased appetite|sosy
+3166,3174|C1514241|Positive|fndg
+3311,3325|C0000737|Abdominal pain|sosy
+3327,3341|C0000737|abdominal pain|sosy
+3343,3363|C0232492|upper abdominal pain|sosy
+3365,3385|C0232487|abdominal discomfort|sosy
+3387,3408|C1291078|epigastric discomfort|sosy
+3387,3408|C0232570|epigastric discomfort|fndg
+3414,3433|C0014852|Esophageal disorder|dsyn
+3435,3444|C0013395|dyspepsia|sosy
+3446,3477|C0017168|gastroesophageal reflux disease|dsyn
+3479,3488|C0011168|dysphagia|dsyn
+3494,3501|C0015672|Fatigue|sosy
+3494,3501|C0015672|Fatigue|sosy
+3503,3510|C0015672|fatigue|sosy
+3512,3520|C0004093|asthenia|sosy
+3526,3530|C0015230|Rash|sosy
+3532,3536|C0015230|rash|sosy
+3538,3556|C0423791|maculopapular rash|fndg
+3558,3578|C0234894|acneiform dermatitis|dsyn
+3648,3654|C3244287|Grades|fndg
+3661,3666;3669,3670;3806,3814|C1559311|Grade 4 Diarrhea|fndg
+3735,3761|C0017178|Gastrointestinal disorders|dsyn
+3860,3866|C0027497|Nausea|sosy
+3860,3866|C1963179|Nausea|patf
+3914,3922|C0042963|Vomiting|sosy
+3914,3922|C1963281|Vomiting|patf
+3968,3982|C0000737|Abdominal pain|sosy
+4030,4042|C0009806|Constipation|sosy
+4030,4042|C1963087|Constipation|fndg
+4085,4104|C0014852|Esophageal disorder|dsyn
+4158,4167|C0012634|disorders|dsyn
+4192,4202|C0012634|conditions|dsyn
+4247,4254|C0015672|Fatigue|sosy
+4247,4254|C0015672|Fatigue|sosy
+4315,4334|C3714509|nutrition disorders|dsyn
+4447,4459;4467,4476|C0549584|subcutaneous disorders|dsyn
+4467,4476|C0012634|disorders|dsyn
+4521,4525|C0015230|Rash|sosy
+4599,4620|C0025061|mediastinal disorders|dsyn
+4611,4620;4678,4682|C0024115|disorders lung|dsyn
+4691,4702|C0032285|pneumonitis|dsyn
+4691,4702|C3714636|pneumonitis|dsyn
+4867,4877|C0442874|neuropathy|dsyn
+4897,4908|C0030554|paresthesia|dsyn
+4897,4908|C2242996|paresthesia|sosy
+4910,4927|C0151786|muscular weakness|sosy
+4929,4945|C0575081|gait disturbance|fndg
+4947,4968|C0031117|peripheral neuropathy|dsyn
+4970,4982|C0020580|hypoesthesia|fndg
+4984,5013|C0151313|peripheral sensory neuropathy|dsyn
+5015,5026|C0392699|dysesthesia|sosy
+5015,5026|C0241057|dysesthesia|sosy
+5028,5037|C0027796|neuralgia|sosy
+5039,5066|C0235025|peripheral motor neuropathy|dsyn
+5068,5077|C0026827|hypotonia|fndg
+5082,5096|C0152025|polyneuropathy|dsyn
+5099,5114|C0042790|vision disorder|fndg
+5133,5150|C3665347|vision impairment|fndg
+5152,5166|C0344232|blurred vision|sosy
+5168,5177|C1705500|photopsia|sosy
+5168,5177|C0085635|photopsia|sosy
+5179,5201|C0152198|accommodation disorder|dsyn
+5203,5213|C0033075|presbyopia|dsyn
+5218,5239|C0234632|reduced visual acuity|fndg
+5242,5263|C0151878|prolonged QT interval|fndg
+5274,5285|C0428977|bradycardia|patf
+5274,5285|C3812171|bradycardia|fndg
+5382,5390|C1514241|Positive|fndg
+5495,5501|C3244287|Grades|fndg
+5508,5515;5584,5594|C1560206|Grade 3 Hemoglobin|fndg
+5508,5513;5516,5517;5584,5594|C1560207|Grade 4 Hemoglobin|fndg

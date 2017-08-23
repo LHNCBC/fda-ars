@@ -1,0 +1,16 @@
+T1	AdverseReaction 73 96	injection site reaction
+T2	Severity 68 72	mild
+T3	AdverseReaction 205 228	injection site reaction
+T4	Severity 200 204	mild
+E1	AdverseReaction:T1 Effect:E2
+E2	Severity:T2
+E3	AdverseReaction:T3 Effect:E4
+E4	Severity:T4
+A1	CUI E1 C0151735
+A2	UMLS-Preferred-Name E1 Injection site reaction
+A3	MEDDRA-PT E1 Injection site reaction
+A4	MEDDRA-PT-ID E1 10022095
+A5	CUI E3 C0151735
+A6	UMLS-Preferred-Name E3 Injection site reaction
+A7	MEDDRA-PT E3 Injection site reaction
+A8	MEDDRA-PT-ID E3 10022095

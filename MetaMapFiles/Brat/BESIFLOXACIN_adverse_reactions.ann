@@ -1,0 +1,54 @@
+T1	AdverseReaction 549 569	conjunctival redness
+T2	AdverseReaction 736 750	blurred vision
+T3	AdverseReaction 752 760	eye pain
+T4	AdverseReaction 762 776	eye irritation
+T5	AdverseReaction 778 790	eye pruritus
+T6	AdverseReaction 795 803	headache
+T7	AdverseReaction 909 929	conjunctival redness
+T8	AdverseReaction 521 544	ocular adverse reaction
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+A1	CUI E1 C1761613
+A2	UMLS-Preferred-Name E1 Conjunctival hyperemia
+A3	MEDDRA-PT E1 Conjunctival hyperaemia
+A4	MEDDRA-PT-ID E1 10051625
+A5	LLT E1 Conjunctival redness
+A6	LLT-ID E1 10010731
+A7	CUI E2 C0344232
+A8	UMLS-Preferred-Name E2 Blurred vision
+A9	MEDDRA-PT E2 Vision blurred
+A10	MEDDRA-PT-ID E2 10047513
+A11	LLT E2 Blurred vision
+A12	LLT-ID E2 10005886
+A13	CUI E3 C0151827
+A14	UMLS-Preferred-Name E3 Eye pain
+A15	MEDDRA-PT E3 Eye pain
+A16	MEDDRA-PT-ID E3 10015958
+A17	CUI E4 C0235266
+A18	UMLS-Preferred-Name E4 Eye irritation
+A19	MEDDRA-PT E4 Eye irritation
+A20	MEDDRA-PT-ID E4 10015946
+A21	CUI E5 C0022281
+A22	UMLS-Preferred-Name E5 Itching of eye
+A23	MEDDRA-PT E5 Eye pruritus
+A24	MEDDRA-PT-ID E5 10052140
+A25	CUI E6 C0018681
+A26	UMLS-Preferred-Name E6 Headache
+A27	MEDDRA-PT E6 Headache
+A28	MEDDRA-PT-ID E6 10019211
+A29	CUI E7 C1761613
+A30	UMLS-Preferred-Name E7 Conjunctival hyperemia
+A31	MEDDRA-PT E7 Conjunctival hyperaemia
+A32	MEDDRA-PT-ID E7 10051625
+A33	LLT E7 Conjunctival redness
+A34	LLT-ID E7 10010731
+A35	CUI E8 C1557306
+A36	UMLS-Preferred-Name E8 Adverse Event Associated with Ocular and Visual Systems
+A37	MEDDRA-PT E8 Eye symptom
+A38	MEDDRA-PT-ID E8 10075536

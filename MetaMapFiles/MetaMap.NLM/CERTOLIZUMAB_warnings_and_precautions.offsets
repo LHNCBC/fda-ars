@@ -1,0 +1,292 @@
+60,70|C3714514|infections|patf
+110,119|C0009450|infection|dsyn
+127,136|C3714514|infection|patf
+127,136|C0009450|infection|dsyn
+185,194|C3714514|infection|patf
+185,194|C0009450|infection|dsyn
+226,252|C1262313|Invasive fungal infections|dsyn
+394,401|C0026946|mycoses|dsyn
+438,446|C0024299|lymphoma|neop
+457,469|C0006826|malignancies|neop
+542,555|C0018802|Heart failure|dsyn
+542,555|C0018801|Heart failure|dsyn
+557,566|C1457868|worsening|fndg
+570,579|C0746890|new onset|fndg
+605,616|C0002792|Anaphylaxis|patf
+605,616|C0850803|Anaphylaxis|dsyn
+628,646|C0020517|allergic reactions|patf
+628,646|C1527304|allergic reactions|patf
+705,709|C0456984|test|fndg
+718,727|C3714514|infection|patf
+718,727|C0009450|infection|dsyn
+764,772|C0007294|carriers|fndg
+894,915|C0011303|Demyelinating disease|dsyn
+933,942|C0746890|new onset|fndg
+969,979|C0010828|Cytopenias|patf
+981,993|C0030312|pancytopenia|dsyn
+1051,1059|C1457887|symptoms|sosy
+1113,1132|C0919715|Lupus-like syndrome|dsyn
+1150,1158|C0039082|syndrome|dsyn
+1210,1220|C3714514|Infections|patf
+1333,1343|C3714514|infections|patf
+1422,1427|C1306577|death|fndg
+1433,1457;1500,1506|C0029119|Opportunistic infections fungal|dsyn
+1491,1499|C1334278|invasive|fndg
+1569,1582|C0004030|aspergillosis|dsyn
+1584,1597|C0005716|blastomycosis|dsyn
+1599,1610|C0006840|candidiasis|dsyn
+1612,1630|C0009186|coccidioidomycosis|dsyn
+1632,1646|C0019655|histoplasmosis|dsyn
+1648,1661|C0023240|legionellosis|dsyn
+1663,1674|C0023860|listeriosis|dsyn
+1676,1690|C1535939|pneumocystosis|dsyn
+1695,1707|C0041296|tuberculosis|dsyn
+1993,2001;2005,2008|C4062450|65 years age|fndg
+2024,2044|C1275743|co-morbid conditions|fndg
+2167,2176|C3714514|infection|patf
+2167,2176|C0009450|infection|dsyn
+2255,2262|C1363945|therapy|fndg
+2299,2318|C0239998|recurrent infection|fndg
+2349,2361|C0041296|tuberculosis|dsyn
+2374,2384;2402,2411|C2049826|history of infection|fndg
+2466,2478|C0041296|tuberculosis|dsyn
+2490,2497|C0026946|mycoses|dsyn
+2507,2521|C0019655|histoplasmosis|dsyn
+2523,2541|C0009186|coccidioidomycosis|dsyn
+2546,2559|C0005716|blastomycosis|dsyn
+2581,2591|C0012634|conditions|dsyn
+2620,2629;2638,2650|C0041296|infection Tuberculosis|dsyn
+2702,2725|C0041296|tuberculosis infections|dsyn
+2702,2714|C0041296|tuberculosis|dsyn
+2847,2866|C0151332|active tuberculosis|dsyn
+2901,2926|C0749721|tuberculosis risk factors|dsyn
+2942,2958|C0872054|latent infection|dsyn
+3010,3017|C1363945|therapy|fndg
+3036,3065|C1609538|latent tuberculosis infection|dsyn
+3092,3100|C0233660|blocking|mobd
+3145,3170|C0275965|tuberculosis reactivation|dsyn
+3178,3185|C1363945|therapy|fndg
+3187,3197|C0332534|Induration|patf
+3322,3341|C1609538|latent tuberculosis|dsyn
+3409,3419|C1519885|vaccinated|fndg
+3409,3419|C1116171|vaccinated|fndg
+3465,3477|C0041296|tuberculosis|dsyn
+3478,3485|C1363945|therapy|fndg
+3587,3606|C0151332|active tuberculosis|dsyn
+3701,3705|C0456984|test|fndg
+3741,3757;3771,3780|C0850774|risk factors for infection|fndg
+3758,3770|C0041296|tuberculosis|dsyn
+3925,3937|C0041296|tuberculosis|dsyn
+3938,3945|C1363945|therapy|fndg
+3992,4004|C0041296|Tuberculosis|dsyn
+4203,4215|C0041296|tuberculosis|dsyn
+4233,4238|C3810854|close|fndg
+4266,4285|C0151332|active tuberculosis|dsyn
+4371,4376|C0311392|signs|fndg
+4381,4389|C1457887|symptoms|sosy
+4393,4402|C3714514|infection|patf
+4393,4402|C0009450|infection|dsyn
+4472,4484|C0041296|tuberculosis|dsyn
+4590,4619|C1609538|latent tuberculosis infection|dsyn
+4640,4648|C1513916|negative|fndg
+4658,4665|C1363945|therapy|fndg
+4700,4712|C1444662|discontinued|fndg
+4745,4754|C3714514|infection|patf
+4745,4754|C0009450|infection|dsyn
+4758,4764|C0243026|sepsis|dsyn
+4758,4764|C0036690|sepsis|dsyn
+4930,4955|C0085393|immunocompromised patient|fndg
+4987,4994|C1363945|therapy|fndg
+5023,5049|C1262313|Invasive Fungal Infections|dsyn
+5107,5114|C0026946|mycoses|dsyn
+5128,5153|C1262313|invasive fungal infection|dsyn
+5357,5371|C0019655|histoplasmosis|dsyn
+5379,5387|C1513916|negative|fndg
+5417,5426|C3714514|infection|patf
+5417,5426|C0009450|infection|dsyn
+5612,5638|C1262313|invasive fungal infections|dsyn
+5677,5685;5700,5709|C0582147|risk for infection|fndg
+5754,5766|C0006826|Malignancies|neop
+5779,5789|C2911690|controlled|fndg
+5855,5867|C0006826|malignancies|neop
+5962,5972|C2911690|controlled|fndg
+6020,6035|C0010346|Crohn's disease|dsyn
+6020,6027|C0010346|Crohn's|dsyn
+6046,6054|C0012634|diseases|dsyn
+6056,6068|C0006826|malignancies|neop
+6080,6104|C0699893|non-melanoma skin cancer|neop
+6358,6365|C2674459|limited|fndg
+6382,6392|C2911690|controlled|fndg
+6470,6482|C0006826|Malignancies|neop
+6489,6494|C1705232|fatal|fndg
+6593,6601|C0233660|blocking|mobd
+6624,6631|C1363945|therapy|fndg
+6716,6725|C0024299|lymphomas|neop
+6737,6746|C0019829|Hodgkin's|neop
+6751,6773|C0024305|non-Hodgkin's lymphoma|neop
+6826,6838|C0006826|malignancies|neop
+6857,6869|C0006826|malignancies|neop
+6894,6911|C4048329|immunosuppression|dsyn
+6894,6911|C1373218|immunosuppression|patf
+6916,6928|C0006826|malignancies|neop
+6992,7004|C0006826|malignancies|neop
+7045,7052|C1363945|therapy|fndg
+7220,7227|C0449416|sources|fndg
+7303,7312|C1444656|indicated|fndg
+7435,7443|C0024299|lymphoma|neop
+7567,7582|C0010346|Crohn's disease|dsyn
+7637,7645|C0024299|lymphoma|neop
+7698,7716|C0019829|Hodgkin's lymphoma|neop
+7854,7862|C0024299|lymphoma|neop
+8032,8039|C0012634|disease|dsyn
+8085,8093|C0024299|lymphoma|neop
+8263,8267|C1273517|used|fndg
+8315,8330|C0010346|Crohn's disease|dsyn
+8423,8430;8450,8461|C0424601|general development|fndg
+8465,8473|C0024299|lymphoma|neop
+8588,8595|C1363945|therapy|fndg
+8618,8630|C0006826|malignancies|neop
+8683,8712|C1333984|hepatosplenic T-cell lymphoma|neop
+8780,8787|C0012634|disease|dsyn
+8802,8815|C1843223|usually fatal|fndg
+8986,9001|C0010346|Crohn's disease|dsyn
+9005,9023|C0009324|ulcerative colitis|dsyn
+9214,9223|C0087130|uncertain|fndg
+9250,9255|C1333984|HSTCL|neop
+9259,9266|C0445223|related|fndg
+9311,9322|C3811910|combination|fndg
+9405,9416|C3811910|combination|fndg
+9500,9516|C1279296|chronic leukemia|neop
+9733,9740;9760,9771|C0424601|general development|fndg
+9775,9783|C0023418|leukemia|neop
+9875,9887|C0455624|risk factors|fndg
+9892,9903|C0007114|skin cancer|neop
+9918,9931;9956,9966|C0018802|Heart Failure congestive|dsyn
+9918,9931|C0018802|Heart Failure|dsyn
+9918,9931|C0018801|Heart Failure|dsyn
+9946,9955|C1457868|worsening|fndg
+9991,10000|C0746890|new onset|fndg
+10001,10004|C0018802|CHF|dsyn
+10115,10118|C0018802|CHF|dsyn
+10166,10169|C0018802|CHF|dsyn
+10196,10205|C1457868|worsening|fndg
+10206,10230|C0018802|congestive heart failure|dsyn
+10232,10235|C0018802|CHF|dsyn
+10268,10271|C0018802|CHF|dsyn
+10321,10334|C0018802|heart failure|dsyn
+10321,10334|C0018801|heart failure|dsyn
+10410,10436|C0020517|Hypersensitivity Reactions|patf
+10457,10465|C1457887|symptoms|sosy
+10496,10522|C0020517|hypersensitivity reactions|patf
+10594,10604|C0002994|angioedema|patf
+10606,10613|C0013404|dyspnea|sosy
+10615,10626|C0020649|hypotension|fndg
+10615,10626|C3163620|hypotension|fndg
+10628,10632|C0015230|rash|sosy
+10634,10648|C0036830|serum sickness|dsyn
+10634,10648|C1963234|serum sickness|fndg
+10654,10663|C0042109|urticaria|dsyn
+10654,10663|C2186740|urticaria|fndg
+10765,10776|C1444662|discontinue|fndg
+10836,10843|C1363945|therapy|fndg
+10927,10959|C2220378|severe hypersensitivity reaction|fndg
+10927,10959|C2945656|severe hypersensitivity reaction|fndg
+11074,11104;11114,11116|C2960634|Hepatitis B Virus Reactivation of|dsyn
+11174,11207|C2960634|reactivation of hepatitis B virus|dsyn
+11242,11250|C0007294|carriers|fndg
+11285,11301|C1142420|HBV reactivation|dsyn
+11285,11288|C0042769|HBV|dsyn
+11344,11351|C1363945|therapy|fndg
+11361,11366|C1705232|fatal|fndg
+11478,11491|C1291764|immune system|fndg
+11522,11538|C1142420|HBV reactivation|dsyn
+11522,11525|C0042769|HBV|dsyn
+11544,11548|C0456984|Test|fndg
+11566,11575|C3714514|infection|patf
+11566,11575|C0009450|infection|dsyn
+11634,11638|C0456984|test|fndg
+11732,11743|C0019163|hepatitis B|dsyn
+11847,11862|C0262505|carriers of HBV|fndg
+11859,11862|C0042769|HBV|dsyn
+11938,11954|C1142420|HBV reactivation|dsyn
+11938,11941|C0042769|HBV|dsyn
+11973,11988|C0262505|carriers of HBV|fndg
+11985,11988|C0042769|HBV|dsyn
+12079,12084|C0311392|signs|fndg
+12120,12127|C1363945|therapy|fndg
+12176,12183|C1363945|therapy|fndg
+12213,12229|C1142420|HBV reactivation|dsyn
+12213,12216|C0042769|HBV|dsyn
+12231,12242|C1444662|discontinue|fndg
+12284,12291;12297,12308|C1555288|therapy appropriate|fndg
+12366,12373|C1363945|therapy|fndg
+12380,12396|C1142420|HBV reactivation|dsyn
+12380,12383|C0042769|HBV|dsyn
+12400,12410|C2911690|controlled|fndg
+12491,12498|C1363945|therapy|fndg
+12558,12578|C0235030|Neurologic Reactions|fndg
+12686,12701;12711,12719|C4062989|exacerbation of symptoms|fndg
+12749,12796|C0011302|of central nervous system demyelinating disease|dsyn
+12808,12826|C0026769|multiple sclerosis|dsyn
+12848,12869|C0011303|demyelinating disease|dsyn
+12881,12904|C3542501|Guillain-Barre syndrome|dsyn
+12881,12904|C0018378|Guillain-Barre syndrome|dsyn
+13014,13039;13054,13063|C0031117|peripheral nervous system disorders|dsyn
+13065,13069;13092,13101|C0678236|Rare disorders|dsyn
+13079,13101|C0027765|neurological disorders|dsyn
+13113,13129|C0014544|seizure disorder|dsyn
+13131,13145|C0029134|optic neuritis|dsyn
+13151,13172|C0031117|peripheral neuropathy|dsyn
+13316,13328|C0030312|pancytopenia|dsyn
+13340,13355|C0002874|aplastic anemia|dsyn
+13472,13481|C0010828|cytopenia|patf
+13489,13499|C0023530|leukopenia|dsyn
+13489,13499|C0750394|leukopenia|fndg
+13501,13513|C0030312|pancytopenia|dsyn
+13515,13531|C0040034|thrombocytopenia|fndg
+13721,13731|C1550043|identified|fndg
+13811,13821|C0262926|history of|fndg
+13934,13939|C0311392|signs|fndg
+13944,13952|C1457887|symptoms|sosy
+13967,13983|C0018939|blood dyscrasias|dsyn
+13987,13996|C3714514|infection|patf
+13987,13996|C0009450|infection|dsyn
+14004,14020|C0476474|persistent fever|patf
+14022,14030|C0009938|bruising|inpo
+14022,14030|C2136686|bruising|fndg
+14032,14040|C0019080|bleeding|patf
+14042,14048|C0030232|pallor|fndg
+14042,14048|C0241137|pallor|fndg
+14076,14091|C1444662|discontinuation|fndg
+14102,14109|C1363945|therapy|fndg
+14278,14288|C3714514|infections|patf
+14495,14505|C3714514|infections|patf
+14527,14538|C3811910|combination|fndg
+14697,14703|C2825142|result|fndg
+14735,14746|C3811910|combination|fndg
+14780,14791|C3811910|combination|fndg
+14887,14899|C0004368|Autoimmunity|patf
+14887,14899|C0004364|Autoimmunity|dsyn
+14931,14937|C2825142|result|fndg
+15009,15028|C0919715|lupus-like syndrome|dsyn
+15052,15060|C1457887|symptoms|sosy
+15077,15096|C0919715|lupus-like syndrome|dsyn
+15130,15141|C1444662|discontinue|fndg
+15348,15356|C1704632|response|fndg
+15385,15394;15411,15420|C0442886|secondary infection|dsyn
+15385,15407|C0948191|secondary transmission|patf
+15395,15407;15411,15420|C0242781|transmission infection|patf
+15395,15407|C0242781|transmission|patf
+15411,15420|C3714514|infection|patf
+15411,15420|C0009450|infection|dsyn
+15528,15548|C0003873|rheumatoid arthritis|dsyn
+15568,15576|C0442726|detected|fndg
+15979,15987|C1704632|response|fndg
+16039,16060|C2826293|clinical significance|fndg
+16093,16110|C4048329|Immunosuppression|dsyn
+16093,16110|C1373218|Immunosuppression|patf
+16280,16290|C3714514|infections|patf
+16295,16307|C0006826|malignancies|neop
+16378,16390|C0006826|malignancies|neop
+16601,16618|C4048329|immunosuppression|dsyn
+16601,16618|C1373218|immunosuppression|patf

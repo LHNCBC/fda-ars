@@ -1,0 +1,40 @@
+00000000|AA|ACE|angiotensin-converting-enzyme|1|3|5|29|1615:3
+00000000|AA|ARBs|angiotensin receptor blockers|1|4|5|29|1663:4
+00000000|MMI|127.26|Renal Insufficiency|C1565489|[dsyn]|["Impaired renal function"-tx-13-"impaired renal function"-noun-0,"Renal Impairment"-tx-12-"renal impairment"-noun-0,"impairment renal"-tx-7-"Impairment Renal"-noun-0,"Impaired renal function"-tx-4-"impaired renal function"-noun-0,"Impaired renal function"-tx-3-"impaired renal function"-noun-0,"impairment renal"-tx-2-"Impairment Renal"-noun-0,"Renal Impairment"-tx-1-"renal impairment"-noun-0]|TX|2785/23;2370/16;1915/10,1929/5;1390/23;556/23;327/10,341/5;155/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|84.37|Hyperkalemia|C0020461|[fndg]|["HYPERKALEMIA"-tx-13-"hyperkalemia"-noun-0,"HYPERKALEMIA"-tx-12-"hyperkalemia"-noun-0,"HYPERKALEMIA"-tx-11-"Hyperkalemia"-noun-0,"HYPERKALEMIA"-tx-11-"hyperkalemia"-noun-0,"HYPERKALEMIA"-tx-3-"Hyperkalemia"-noun-0,"HYPERKALEMIA"-tx-3-"hyperkalemia"-noun-0]|TX|2840/12;2607/12;2294/12;2333/12;500/12;611/12|C18.452.950.396
+00000000|MMI|84.16|Hypoglycemia|C0020615|[dsyn]|["HYPOGLYCEMIA"-tx-16-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-15-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-14-"Hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-14-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-3-"Hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-3-"hypoglycemia"-noun-0]|TX|3293/12;3091/12;2912/12;3043/12;663/12;760/12|C18.452.394.984
+00000000|MMI|48.00|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-24-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-23-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-21-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-18-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-15-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-12-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-9-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-4-"Adverse Reactions"-noun-0]|TX|4471/17;4320/17;4038/17;3587/17;3164/17;2664/17;2144/17;1332/17|
+00000000|MMI|35.68|Fracture|C0016658|[inpo]|["FRACTURE"-tx-23-"fracture"-noun-0,"FRACTURE"-tx-22-"Fracture"-verb-0,"Fracture of Bone"-tx-22-"of bone fracture"-noun-0,"BONE FRACTURE"-tx-3-"Bone fracture"-noun-0,"FRACTURE"-tx-3-"fracture"-noun-0]|TX|4271/8;4084/8;4117/16;1010/13;1061/8|C26.404
+00000000|MMI|30.33|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-4-"hypotension"-noun-0,"HYPOTENSION"-tx-3-"Hypotension"-noun-0,"HYPOTENSION"-tx-1-"Hypotension"-noun-0]|TX|1278/11;1199/11;52/11|C14.907.514
+00000000|MMI|20.96|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-21-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-20-"Hypersensitivity Reactions"-noun-0,"Hypersensitivity reactions"-tx-3-"Hypersensitivity reactions"-noun-0]|TX|3890/26;3661/26;901/26|C20.543
+00000000|MMI|19.74|Hypovolemia|C0546884|[fndg]|["HYPOVOLEMIA"-tx-8-"hypovolemia"-noun-0,"HYPOVOLEMIA"-tx-1-"hypovolemia"-noun-0]|TX|2019/11;126/11|C23.550.455
+00000000|MMI|18.84|Genital infection fungal|C0740330|[dsyn]|["genital mycotic infection"-tx-18-"genital mycotic infections"-noun-0,"genital mycotic infection"-tx-17-"Genital Mycotic Infections"-noun-0,"genital mycotic infection"-tx-17-"genital mycotic infections"-noun-0,"genital mycotic infection"-tx-3-"Genital mycotic infections"-noun-0]|TX|[3475/26],[3554/26];3357/26;3420/26;827/26|
+00000000|MMI|15.38|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-21-"symptoms"-noun-0,"SYMPTOMS"-tx-6-"symptoms"-noun-0,"SYMPTOMS"-tx-3-"symptoms"-noun-0,"SYMPTOMS"-tx-2-"symptoms"-noun-0]|TX|3987/8;1869/8;978/8;288/8|
+00000000|MMI|14.22|Physical findings|C0311392|[fndg]|["SIGNS"-tx-21-"signs"-noun-0,"SIGNS"-tx-6-"signs"-noun-0,"SIGNS"-tx-3-"signs"-noun-0,"SIGNS"-tx-2-"signs"-noun-0]|TX|3977/5;1859/5;968/5;278/5|
+00000000|MMI|11.10|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-4-"hypotension"-noun-0,"Hypotension"-tx-3-"Hypotension"-noun-0,"Hypotension"-tx-1-"Hypotension"-noun-0]|TX|1278/11;1199/11;52/11|
+00000000|MMI|10.49|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-6-"therapy"-noun-0,"Therapy"-tx-2-"therapy"-noun-0]|TX|1895/7;[304/7],[387/7]|
+00000000|MMI|10.42|Discontinued|C1444662|[fndg]|["Discontinue"-tx-21-"discontinue"-verb-0,"Discontinue"-tx-3-"Discontinue"-verb-0]|TX|3924/11;929/11|
+00000000|MMI|10.42|60%|C3842585|[fndg]|["60%"-tx-10-"60"-integer-0,"60%"-tx-4-"60"-integer-0,"60%"-tx-3-"60"-integer-0]|TX|2260/2;1430/2;464/2|
+00000000|MMI|10.42|Mouse MIN NOS|C1524029|[neop]|["MIN NOS"-tx-10-"min"-noun-0,"MIN NOS"-tx-4-"min"-noun-0,"MIN NOS"-tx-3-"min"-noun-0]|TX|2266/3;1436/3;470/3|
+00000000|MMI|9.94|Disease|C0012634|[dsyn]|["condition"-tx-13-"conditions"-noun-0]|TX|2889/10|C23.550.288
+00000000|MMI|7.40|2+|C3833492|[fndg]|["2+"-tx-12-"2"-real_number-0,"2+"-tx-3-"2"-real_number-0]|TX|2653/1;627/1|
+00000000|MMI|7.31|5-6|C3843715|[fndg]|["5-6"-tx-20-"5.6"-real_number-0,"5-6"-tx-3-"5.6"-real_number-0]|TX|3657/3;998/3|
+00000000|MMI|7.31|6/5|C0442749|[fndg]|["5 6"-tx-20-"5.6"-real_number-0,"5 6"-tx-3-"5.6"-real_number-0]|TX|3657/3;998/3|
+00000000|MMI|7.22|Used by|C1273517|[fndg]|["used"-tx-16-"used"-verb-0,"used"-tx-3-"used"-verb-0]|TX|3311/4;778/4|
+00000000|MMI|7.22|combination - answer to question|C3811910|[fndg]|["Combination"-tx-16-"combination"-noun-0,"Combination"-tx-3-"combination"-noun-0]|TX|3319/11;786/11|
+00000000|MMI|7.16|Impaired health|C0684336|[patf]|["Impairment"-tx-7-"Impairment"-noun-0,"Impairment"-tx-2-"Impairment"-noun-0]|TX|1915/10;327/10|
+00000000|MMI|7.06|Decreased systolic arterial pressure|C0277885|[fndg]|["Low systolic blood pressure"-tx-4-"low systolic blood pressure"-noun-0,"Low systolic blood pressure"-tx-1-"low systolic blood pressure"-noun-0]|TX|1688/27;203/27|
+00000000|MMI|6.79|Congenital Abnormality|C0000768|[cgab]|["Abnormalities"-tx-9-"abnormalities"-noun-0]|TX|2088/13|C16.131
+00000000|MMI|5.18|BESTROPHINOPATHY, AUTOSOMAL RECESSIVE|C3888198|[dsyn]|["ARB"-tx-1-"ARB"-noun-0]|TX|261/3|
+00000000|MMI|5.18|Generalized urticaria|C0750016|[sosy]|["Generalized urticaria"-tx-20-"generalized urticaria"-noun-0]|TX|3727/21|
+00000000|MMI|5.18|Indicated|C1444656|[fndg]|["Indicated"-tx-3-"indicated"-adj-0]|TX|876/9|
+00000000|MMI|5.18|Serum creatinine level|C0600061|[fndg]|["Serum creatinine"-tx-7-"serum creatinine"-noun-0]|TX|1968/16|
+00000000|MMI|4.12|uncircumcised male|C2188001|[fndg]|["uncircumcised male"-tx-18-"uncircumcised males"-noun-0]|TX|3506/19|
+00000000|MMI|3.78|Congenital anomaly of the kidney|C0266292|[cgab]|["Renal abnormalities"-tx-9-"Renal abnormalities"-noun-0]|TX|2073/5,2088/13|
+00000000|MMI|3.78|Renal abnormalities|C4014891|[fndg]|["Renal abnormalities"-tx-9-"Renal abnormalities"-noun-0]|TX|2073/5,2088/13|
+00000000|MMI|3.78|Renal dysgenesis|C0235964|[cgab]|["Renal Abnormalities"-tx-9-"Renal abnormalities"-noun-0]|TX|2073/5,2088/13|
+00000000|MMI|3.75|Low density lipoprotein increased|C0549399|[fndg]|["Increased LDL"-tx-3-"Increased LDL"-noun-0]|TX|1117/13|
+00000000|MMI|3.63|Contraction (finding)|C1140999|[patf]|["CONTRACTION"-tx-3-"contraction"-noun-0]|TX|1253/11|
+00000000|MMI|3.50|5 - 9|C3840622|[fndg]|["5 - 9"-tx-26-"5.9"-real_number-0]|TX|4574/3|
+00000000|MMI|3.44|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-18-"history of"-noun-0]|TX|3464/10|
+00000000|MMI|3.43|Related personal status|C0445223|[fndg]|["Related"-tx-24-"related"-adj-0]|TX|4418/7|

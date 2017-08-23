@@ -1,0 +1,57 @@
+00000000|AA|CPAP|continuous positive airway pressure|1|4|7|35|3751:4
+00000000|AA|SCC|Spinal or cervical cord compression|1|3|9|35|4015:3
+00000000|MMI|429.76|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-18-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-17-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-16-"anaphylaxis"-noun-0,"Reactions, Anaphylactic"-tx-15-"anaphylactic reactions"-noun-0,"ANAPHYLAXIS"-tx-13-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-12-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-11-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-9-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-8-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-3-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-2-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-2-"anaphylaxis"-noun-0]|TX|2438/11;2343/11;2111/11;1999/22;1762/11;1579/11;1469/11;1107/11;[836/11],[884/11];223/11;49/11;110/11|C20.543.480.099
+00000000|MMI|108.63|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-23-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-20-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-19-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-15-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-14-"Hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-13-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-8-"Hypersensitivity Reactions"-noun-0,"Hypersensitivity reactions"-tx-8-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-6-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-2-"Hypersensitivity Reactions"-noun-0,"Hypersensitivity reactions"-tx-2-"hypersensitivity reactions"-noun-0]|TX|3352/26;2683/26;2567/26;1927/26;1775/26;1724/26;852/26;900/26;633/26;65/26;126/26|C20.543
+00000000|MMI|72.33|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-18-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-17-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-16-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-13-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-12-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-11-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-9-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-8-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-3-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-2-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-2-"anaphylaxis"-noun-0]|TX|2438/11;2343/11;2111/11;1762/11;1579/11;1469/11;1107/11;[836/11],[884/11];223/11;49/11;110/11|
+00000000|MMI|44.63|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-15-"urticaria"-noun-0,"URTICARIA"-tx-10-"urticaria"-noun-0]|TX|2023/9;[1261/9],[1443/9]|C17.800.862.945;C20.543.480.904
+00000000|MMI|29.46|Coughing|C0010200|[sosy]|["COUGH"-tx-15-"cough"-noun-0,"COUGH"-tx-10-"cough"-noun-0]|TX|2052/5;1226/5|C08.618.248;C23.888.852.293
+00000000|MMI|29.46|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-15-"dyspnea"-noun-0,"DYSPNOEA"-tx-10-"dyspnea"-noun-0]|TX|2059/7;1311/7|C08.618.326;C23.888.852.371
+00000000|MMI|26.63|Compression of spinal cord|C0037926|[dsyn]|["Compression, Spinal Cord"-tx-29-"SCC"-noun-0,"Compression, Spinal Cord"-tx-28-"Spinal cord compression"-noun-0]|TX|4148/3;3978/6,3997/16|C10.228.854.761;C26.819.678
+00000000|MMI|26.14|Fever|C0015967|[fndg]|["Febrile"-tx-23-"febrile"-adj-0,"Febrile"-tx-6-"febrile"-adj-0]|TX|3228/7;541/7|C23.888.119.344
+00000000|MMI|24.03|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-30-"symptoms"-noun-0,"SYMPTOMS"-tx-18-"symptoms"-noun-0,"SYMPTOMS"-tx-15-"symptoms"-noun-0,"SYMPTOMS"-tx-10-"symptoms"-noun-0,"SYMPTOMS"-tx-9-"symptoms"-noun-0]|TX|4289/8;[2426/8],[2517/8];1915/8;1207/8;1082/8|
+00000000|MMI|23.12|Flushing|C0016382|[sosy]|["FLUSHING"-tx-15-"flushing"-noun-0,"FLUSHING"-tx-10-"flushing"-verb-0]|TX|2072/8;1272/8|C23.888.388
+00000000|MMI|19.82|Complication Aspects|C1171258|[patf]|["complications"-tx-23-"complications"-noun-0,"complications"-tx-6-"complications"-noun-0]|TX|3333/13;614/13|x.x.x
+00000000|MMI|19.11|Physical findings|C0311392|[fndg]|["SIGNS"-tx-30-"signs"-noun-0,"SIGNS"-tx-18-"signs"-noun-0,"SIGNS"-tx-10-"signs"-noun-0,"SIGNS"-tx-9-"signs"-noun-0]|TX|4279/5;[2416/5],[2507/5];1197/5;1072/5|
+00000000|MMI|17.80|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-10-"abdominal pain"-noun-0]|TX|1383/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|17.80|Back Pain|C0004604|[sosy]|["BACKPAIN"-tx-30-"back pain"-noun-0]|TX|4316/9|C10.597.617.140;C23.888.592.612.107
+00000000|MMI|17.80|Fecal Incontinence|C0015732|[dsyn]|["FECAL INCONTINENCE"-tx-30-"fecal incontinence"-noun-0]|TX|4390/18|C06.405.469.860.300
+00000000|MMI|17.80|Sleep Apnea Syndromes|C0037315|[dsyn]|["SLEEP APNOEA"-tx-25-"Sleep apnea"-noun-0]|TX|3534/11|C08.618.085.852;C10.886.425.800.750
+00000000|MMI|16.09|Drowsiness|C0013144|[fndg]|["DROWSINESS"-tx-27-"drowsiness"-noun-0]|TX|3879/10|F02.830.855.796;G11.561.600.815.754
+00000000|MMI|15.79|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-15-"urticaria"-noun-0,"urticaria"-tx-10-"urticaria"-noun-0]|TX|2023/9;[1261/9],[1443/9]|
+00000000|MMI|14.64|Nausea|C0027497|[sosy]|["NAUSEA"-tx-10-"nausea"-noun-0]|TX|1375/6|C23.888.821.712
+00000000|MMI|14.64|Vomiting|C0042963|[sosy]|["VOMITING"-tx-10-"vomiting"-noun-0]|TX|1413/8|C23.888.821.937
+00000000|MMI|11.49|Cyanosis|C0010520|[sosy]|["CYANOSIS"-tx-10-"cyanosis"-noun-0]|TX|1282/8|C23.888.248
+00000000|MMI|11.49|Erythema|C0041834|[dsyn]|["ERYTHEMA"-tx-10-"erythema"-noun-0]|TX|1233/8|C17.800.229
+00000000|MMI|11.49|Exanthema|C0015230|[sosy]|["RASH"-tx-10-"rash"-noun-0]|TX|1305/4|C17.800.257
+00000000|MMI|11.49|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-10-"hypotension"-noun-0]|TX|1292/11|C14.907.514
+00000000|MMI|11.01|Cervical cord compression|C0852866|[fndg]|["Cervical cord compression"-tx-29-"SCC"-noun-0,"Cervical cord compression"-tx-28-"Cervical Cord Compression"-noun-0,"Cervical cord compression"-tx-28-"cervical cord compression"-noun-0]|TX|4148/3;3947/25;3988/25|
+00000000|MMI|10.84|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-23-"life-threatening"-adj-0,"Life Threatening"-tx-6-"life-threatening"-adj-0,"Life Threatening"-tx-2-"Life-threatening"-adj-0]|TX|3316/16;597/16;93/16|
+00000000|MMI|10.84|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-23-"life-threatening"-adj-0,"LIFE THREATENING"-tx-6-"life-threatening"-adj-0,"LIFE THREATENING"-tx-2-"Life-threatening"-adj-0]|TX|3316/16;597/16;93/16|
+00000000|MMI|10.84|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-23-"life-threatening"-adj-0,"LIFE THREATENING"-tx-6-"life-threatening"-adj-0,"LIFE THREATENING"-tx-2-"Life-threatening"-adj-0]|TX|3316/16;597/16;93/16|
+00000000|MMI|10.81|Complication|C0009566|[patf]|["Complication"-tx-28-"complication"-noun-0,"Complications"-tx-23-"complications"-noun-0,"Complications"-tx-6-"complications"-noun-0]|TX|4043/12;3333/13;614/13|
+00000000|MMI|10.57|Mucopolysaccharidosis, MPS-IV-A|C0086651|[dsyn]|["MPS IVA"-tx-30-"MPS IVA"-noun-0,"MPS IVA"-tx-28-"MPS IVA"-noun-0,"MPS IVA"-tx-25-"MPS IVA"-noun-0]|TX|4247/7;4059/7;3559/7|
+00000000|MMI|10.42|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-15-"cough"-noun-0,"Cough"-tx-10-"cough"-noun-0]|TX|2052/5;1226/5|
+00000000|MMI|10.42|Flushing Adverse Event|C1962957|[fndg]|["Flushing"-tx-15-"flushing"-noun-0,"Flushing"-tx-10-"flushing"-verb-0]|TX|2072/8;1272/8|
+00000000|MMI|10.42|severe allergic reaction|C2220378|[fndg]|["severe Hypersensitivity reactions"-tx-21-"severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-3-"severe hypersensitivity reactions"-noun-0]|TX|2941/33;238/33|
+00000000|MMI|10.42|severe allergy|C2945656|[fndg]|["severe Hypersensitivity reactions"-tx-21-"severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-3-"severe hypersensitivity reactions"-noun-0]|TX|2941/33;238/33|
+00000000|MMI|7.40|consideration|C0518609|[fndg]|["CONSIDERATION"-tx-24-"consideration"-noun-0,"CONSIDERATION"-tx-7-"consideration"-noun-0]|TX|3388/13;669/13|
+00000000|MMI|7.25|Illness (finding)|C0221423|[sosy]|["Illness"-tx-23-"illness"-noun-0,"Illness"-tx-6-"illness"-noun-0]|TX|3251/7;564/7|
+00000000|MMI|7.20|Patient status|C0449437|[fndg]|["Patient status"-tx-24-"patient's status"-noun-0,"Patient status"-tx-7-"patient's status"-noun-0]|TX|3425/9,3444/6;706/9,725/6|
+00000000|MMI|6.94|Respiratory complication|C0161818|[patf]|["Respiratory complications"-tx-23-"Respiratory Complications"-noun-0,"Respiratory complications"-tx-6-"Respiratory Complications"-noun-0]|TX|3177/25;494/25|
+00000000|MMI|5.18|Back Pain Adverse Event|C1963071|[fndg]|["Back pain"-tx-30-"back pain"-noun-0]|TX|4316/9|
+00000000|MMI|5.18|Chest discomfort|C0235710|[sosy]|["CHEST DISCOMFORT"-tx-10-"chest discomfort"-noun-0]|TX|1320/16|
+00000000|MMI|5.18|Feeling of throat tightness|C0236071|[fndg]|["THROAT TIGHTNESS"-tx-10-"throat tightness"-noun-0]|TX|1243/16|
+00000000|MMI|5.18|Gastrointestinal symptom|C0426576|[sosy]|["Gastrointestinal symptoms"-tx-10-"gastrointestinal symptoms"-noun-0]|TX|1342/25|
+00000000|MMI|5.18|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-10-"hypotension"-noun-0]|TX|1292/11|
+00000000|MMI|5.18|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-10-"nausea"-noun-0]|TX|1375/6|
+00000000|MMI|5.18|Peripheral edema|C0085649|[fndg]|["Peripheral Oedema"-tx-15-"peripheral edema"-noun-0]|TX|2034/16|
+00000000|MMI|5.18|Retching|C0232602|[sosy]|["RETCHING"-tx-10-"retching"-verb-0]|TX|1399/8|
+00000000|MMI|5.18|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-10-"vomiting"-noun-0]|TX|1413/8|
+00000000|MMI|3.75|Medical care, unspecified|C0496675|[fndg]|["Medical care"-tx-18-"medical care"-noun-0]|TX|2487/12|
+00000000|MMI|3.68|Limb paralysis|C1397097|[fndg]|["Limbs PARALYSIS"-tx-30-"paralysis limbs"-noun-0]|TX|4327/9,4340/5|
+00000000|MMI|3.61|In care (finding)|C0580931|[fndg]|["care"-tx-30-"care"-noun-0]|TX|4441/4|
+00000000|MMI|3.59|natural history of disease|C0599879|[fndg]|["natural history of disease"-tx-28-"of natural history disease"-noun-0]|TX|4089/2,4096/15,4119/7|
+00000000|MMI|3.58|Adverse reaction to drug or medicament administered by infusion|C2368034|[patf]|["Infusion reaction"-tx-10-"reactions infusion"-noun-0]|TX|1166/9,1183/8|
+00000000|MMI|3.50|2+|C3833492|[fndg]|["2+"-tx-15-"2"-integer-0]|TX|1978/1|
+00000000|MMI|3.48|Cervical spondylosis with myelopathy|C0158242|[dsyn]|["CERVICAL SPINAL CORD COMPRESSION"-tx-30-"SCC"-noun-0]|TX|4301/3|
+00000000|MMI|3.48|Somnolence|C2830004|[fndg]|["DROWSINESS"-tx-27-"drowsiness"-noun-0]|TX|3879/10|

@@ -1,0 +1,42 @@
+00000000|AA|IOP|Intraocular pressure|1|3|3|20|75:3
+00000000|MMI|66.90|Herpes Simplex Infections|C0019348|[dsyn]|["HERPES SIMPLEX"-tx-26-"herpes simplex"-noun-0,"HERPES SIMPLEX"-tx-25-"herpes simplex"-noun-0,"HERPES SIMPLEX"-tx-11-"herpes simplex"-noun-0,"HERPES SIMPLEX"-tx-10-"herpes simplex"-noun-0]|TX|3606/14;3442/14;1576/14;1412/14|C02.256.466.382;C02.825.320;C17.800.838.790.320
+00000000|MMI|41.78|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-23-"infection"-noun-0,"Infection, NOS"-tx-8-"infection"-noun-0]|TX|[3191/9],[3221/9];[1156/9],[1186/9]|C01.539.221
+00000000|MMI|32.67|Optic Nerve Injuries|C0161398|[inpo]|["Optic Nerve damage"-tx-15-"damage optic nerve"-noun-0,"Optic Nerve damage"-tx-1-"damage optic nerve"-noun-0]|TX|2124/6,2138/11;151/6,165/11|C10.292.262.750;C10.292.700.475;C10.900.300.218.550;C11.640.530;C26.915.300.400.650
+00000000|MMI|32.67|Visual Impairment|C3665347|[fndg]|["defects visual"-tx-15-"defects visual"-noun-0,"defects visual"-tx-1-"defects visual"-noun-0]|TX|2151/7,2162/6;178/7,189/6|C10.597.751.941;C11.966;C23.888.592.763.941
+00000000|MMI|29.97|Glaucoma|C0017601|[dsyn]|["GLAUCOMA"-tx-16-"glaucoma"-noun-0,"GLAUCOMA"-tx-15-"glaucoma"-noun-0,"GLAUCOMA"-tx-1-"glaucoma"-noun-0]|TX|2254/8;2110/8;137/8|C11.525.381
+00000000|MMI|28.78|Infection|C3714514|[patf]|["INFECTION"-tx-23-"infection"-noun-0,"INFECTION"-tx-8-"infection"-noun-0]|TX|[3191/9],[3221/9];[1156/9],[1186/9]|C01.539
+00000000|MMI|26.57|Acute Disease|C0001314|[dsyn]|["acute condition"-tx-23-"acute conditions"-noun-0,"acute condition"-tx-8-"acute conditions"-noun-0]|TX|3146/5,3161/10;1111/5,1126/10|C23.550.291.125
+00000000|MMI|26.23|Corneal Ulcer|C0010043|[dsyn]|["CORNEAL ULCERATION"-tx-28-"corneal ulceration"-noun-0,"CORNEAL ULCERATION"-tx-13-"corneal ulceration"-noun-0]|TX|3833/18;1808/18|C01.539.375.177;C11.204.564.225;C11.294.177
+00000000|MMI|25.96|After-cataract|C1306068|[acab]|["Aftercataract"-tx-19-"after cataract"-noun-0,"Aftercataract"-tx-4-"after cataract"-noun-0]|TX|2510/14;470/14|C11.510.245.500
+00000000|MMI|25.94|Bulla|C0005758|[patf]|["Bleb"-tx-19-"bleb"-noun-0,"Bleb"-tx-4-"bleb"-noun-0]|TX|2581/4;541/4|C17.800.865.187;C23.300.122
+00000000|MMI|25.93|Neoplasm Metastasis|C0027627|[neop]|["secondary"-tx-22-"secondary"-adj-0,"secondary"-tx-7-"secondary"-adj-0]|TX|3114/9;1079/9|C04.697.650;C23.550.727.650
+00000000|MMI|23.12|Disease|C0012634|[dsyn]|["Diseases"-tx-20-"diseases"-noun-0,"Diseases"-tx-5-"diseases"-noun-0]|TX|2606/8;566/8|C23.550.288
+00000000|MMI|19.76|Cataract|C0086543|[acab]|["CATARACTS"-tx-18-"Cataracts"-noun-0,"CATARACTS"-tx-3-"Cataracts"-noun-0]|TX|2364/9;323/9|C11.510.245
+00000000|MMI|19.64|Eye Infections, Viral|C0015407|[dsyn]|["Viral infection of eye"-tx-26-"of viral infections eye"-noun-0,"Viral infection of eye"-tx-11-"of viral infections eye"-noun-0]|TX|3559/2,3567/16,3591/3;1529/2,1537/16,1561/3|C02.325;C11.294.800
+00000000|MMI|19.63|Eye Infections|C0015403|[dsyn]|["Ocular Infections"-tx-22-"ocular infections"-noun-0,"Ocular Infections"-tx-7-"ocular infections"-noun-0]|TX|3124/17;1089/17|C01.539.375;C11.294
+00000000|MMI|19.62|Secondary Infections|C0442886|[dsyn]|["infections secondary"-tx-22-"secondary infections"-noun-0,"infections secondary"-tx-7-"secondary infections"-noun-0]|TX|3114/9,3131/10;1079/9,1096/10|C01.539.218;C02.219;C03.202
+00000000|MMI|14.71|Experimental Result|C2825142|[fndg]|["Result"-tx-18-"result"-verb-0,"Result"-tx-15-"result"-verb-0,"Result"-tx-3-"result"-verb-0,"Result"-tx-1-"result"-verb-0]|TX|2406/6;2100/6;361/6;127/6|
+00000000|MMI|13.46|Bacterial Infections|C0004623|[dsyn]|["Bacterial Infections"-tx-22-"Bacterial Infections"-noun-0,"Bacterial Infections"-tx-7-"Bacterial infections"-noun-0]|TX|2992/20;961/20|C01.252
+00000000|MMI|10.75|Glaucoma Adverse Event|C1962986|[fndg]|["Glaucoma"-tx-16-"glaucoma"-noun-0,"Glaucoma"-tx-15-"glaucoma"-noun-0,"Glaucoma"-tx-1-"glaucoma"-noun-0]|TX|2254/8;2110/8;137/8|
+00000000|MMI|10.42|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-tx-17-"intraocular pressure"-noun-0,"INTRAOCULAR PRESSURE"-tx-2-"IOP"-noun-0]|TX|2311/20;272/3|
+00000000|MMI|10.42|Perforation (observation)|C0549099|[fndg]|["Perforations"-tx-20-"perforations"-noun-0,"Perforations"-tx-5-"perforations"-noun-0]|TX|2657/12;617/12|
+00000000|MMI|10.42|Physical findings|C0311392|[fndg]|["SIGNS"-tx-24-"signs"-noun-0,"SIGNS"-tx-9-"signs"-noun-0]|TX|3235/5;1200/5|
+00000000|MMI|10.42|Symptom aggravating factors|C0436331|[fndg]|["exacerbate"-tx-26-"exacerbate"-verb-0,"exacerbate"-tx-11-"exacerbate"-verb-0]|TX|3535/10;1505/10|
+00000000|MMI|10.42|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-24-"symptoms"-noun-0,"SYMPTOMS"-tx-9-"symptoms"-noun-0]|TX|3245/8;1210/8|
+00000000|MMI|10.42|Used by|C1273517|[fndg]|["used"-tx-28-"used"-verb-0,"used"-tx-13-"used"-verb-0]|TX|3877/4;1852/4|
+00000000|MMI|7.40|Cell Invasion|C2699153|[patf]|["Invasion"-tx-28-"invasion"-noun-0,"Invasion"-tx-13-"invasion"-noun-0]|TX|3787/8;1762/8|
+00000000|MMI|7.40|Tumor Cell Invasion|C1269955|[fndg]|["Invasion"-tx-28-"invasion"-noun-0,"Invasion"-tx-13-"invasion"-noun-0]|TX|3787/8;1762/8|
+00000000|MMI|7.32|Posterior subcapsular cataract|C0858617|[dsyn]|["Posterior subcapsular cataract"-tx-18-"posterior subcapsular cataract"-noun-0,"Posterior subcapsular cataract"-tx-3-"posterior subcapsular cataract"-noun-0]|TX|2416/30;371/30|
+00000000|MMI|7.25|Corneal thinning|C1096274|[dsyn]|["Thin cornea"-tx-20-"thinning cornea"-noun-0,"Thin cornea"-tx-5-"thinning cornea"-noun-0]|TX|2623/8,2639/6;583/8,599/6|
+00000000|MMI|7.25|Day 2|C3842676|[fndg]|["Day 2"-tx-24-"2 days"-noun-0,"Day 2"-tx-9-"2 days"-noun-0]|TX|3276/6;1241/6|
+00000000|MMI|7.24|5-6|C3843715|[fndg]|["5-6"-tx-27-"5.6"-real_number-0,"5-6"-tx-14-"5.6"-real_number-0]|TX|3630/3;1874/3|
+00000000|MMI|7.24|6/5|C0442749|[fndg]|["5 6"-tx-27-"5.6"-real_number-0,"5 6"-tx-14-"5.6"-real_number-0]|TX|3630/3;1874/3|
+00000000|MMI|7.22|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-25-"history of"-noun-0,"HISTORY OF"-tx-10-"history of"-noun-0]|TX|3431/10;1401/10|
+00000000|MMI|7.07|Bilateral cataracts (disorder)|C0521707|[acab]|["Cataracts"-tx-18-"Cataracts"-noun-0,"Cataracts"-tx-3-"Cataracts"-noun-0]|TX|2364/9;323/9|
+00000000|MMI|6.96|Raised intraocular pressure|C0234708|[fndg]|["INTRAOCULAR PRESSURE INCREASE"-tx-15-"IOP Increase"-noun-0,"INTRAOCULAR PRESSURE INCREASE"-tx-1-"Intraocular pressure increase"-noun-0]|TX|2045/12;53/20,80/8|
+00000000|MMI|6.96|Fungal keratitis|C1262117|[dsyn]|["Fungal infection of cornea"-tx-27-"Fungal Infections of cornea"-noun-0,"Fungal infection of cornea"-tx-12-"Fungal infections of cornea"-noun-0]|TX|3634/17,3675/2,3682/6;1613/17,1650/2,1657/6|
+00000000|MMI|6.91|Virus Diseases|C0042769|[dsyn]|["Infections, Viral"-tx-25-"Viral Infections"-noun-0,"Infections, Viral"-tx-10-"Viral infections"-noun-0]|TX|3331/16;1305/16|C02
+00000000|MMI|6.90|Filtering bleb|C3714607|[patf]|["Bleb"-tx-19-"bleb"-noun-0,"Bleb"-tx-4-"bleb"-noun-0]|TX|2581/4;541/4|
+00000000|MMI|3.75|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-14-"ADVERSE REACTIONS"-noun-0]|TX|1908/17|
+00000000|MMI|3.75|Impaired wound healing|C0151692|[patf]|["delayed healing"-tx-4-"Delayed healing"-noun-0]|TX|433/15|
+00000000|MMI|3.57|Indicated|C1444656|[fndg]|["Indicated"-tx-30-"indicated"-verb-1]|TX|4004/9|

@@ -1,0 +1,120 @@
+54,68|C0235378|Hepatotoxicity|inpo
+111,118|C1363945|therapy|fndg
+137,147|C0087086|Thrombotic|patf
+163,176|C1171258|Complications|patf
+163,176|C0009566|Complications|patf
+178,200|C0155773|Portal vein thrombosis|dsyn
+236,257|C0341439|chronic liver disease|dsyn
+339,361|C1394798|Hepatic Decompensation|patf
+379,398|C0524910|Chronic Hepatitis C|dsyn
+421,440|C0524910|chronic hepatitis C|dsyn
+454,465|C3811910|combination|fndg
+521,543|C1394798|hepatic decompensation|patf
+596,615|C0524910|chronic hepatitis C|dsyn
+620,636|C0040034|thrombocytopenia|fndg
+638,645|C0003962|ascites|fndg
+650,664|C0006111|encephalopathy|dsyn
+650,664|C0085584|encephalopathy|dsyn
+650,664|C1963101|encephalopathy|fndg
+813,824|C0860864|low albumin|fndg
+966,988|C1394798|hepatic decompensation|patf
+1051,1062|C1444662|Discontinue|fndg
+1096,1108|C1444662|discontinued|fndg
+1121,1135|C0235378|Hepatotoxicity|inpo
+1399,1407|C0018790|inhibits|dsyn
+1399,1407|C0233660|inhibits|mobd
+1399,1407|C0028778|inhibits|patf
+1517,1544|C0268306|indirect hyperbilirubinemia|dsyn
+1604,1612;1619,1624|C0745738|abnormal liver|fndg
+1658,1669|C3843196|3 to 5 days|fndg
+1727,1732|C0456984|tests|fndg
+1746,1754|C3714811|resolved|fndg
+1746,1754|C1514893|resolved|patf
+1770,1781|C1444662|Discontinue|fndg
+1794,1797|C1266129|ALT|neop
+1867,1888|C1848676|normal liver function|fndg
+2117,2143|C0855625|increased direct bilirubin|fndg
+2179,2187|C1457887|symptoms|sosy
+2188,2203|C0160390|of liver injury|inpo
+2220,2242|C1394798|hepatic decompensation|patf
+2354,2368|C0235378|hepatotoxicity|inpo
+2442,2447|C0456984|tests|fndg
+2489,2503|C0235378|Hepatotoxicity|inpo
+2547,2552;2558,2571|C0266257|liver abnormalities|cgab
+2547,2552;2558,2571|C0478037|liver abnormalities|cgab
+2553,2557|C0456984|test|fndg
+2581,2587|C1457868|worsen|fndg
+2615,2626|C1444662|discontinue|fndg
+2648,2658|C0087086|Thrombotic|patf
+2674,2687|C1171258|Complications|patf
+2674,2687|C0009566|Complications|patf
+2744,2763|C0524910|chronic hepatitis C|dsyn
+2768,2784|C0040034|thrombocytopenia|fndg
+2834,2844|C0087086|thrombotic|patf
+3020,3030|C0087086|Thrombotic|patf
+3046,3059|C1171258|complications|patf
+3046,3059|C0009566|complications|patf
+3064,3070|C2825142|result|fndg
+3129,3139|C0087086|thrombotic|patf
+3155,3168|C1171258|complications|patf
+3155,3168|C0009566|complications|patf
+3242,3264|C0427564|normal platelet counts|fndg
+3318,3333|C0040038|thromboembolism|patf
+3385,3397|C0455624|risk factors|fndg
+3402,3417|C0040038|thromboembolism|patf
+3425,3440|C0584960|Factor V Leiden|dsyn
+3442,3458|C0272375|ATIII deficiency|dsyn
+3460,3485|C0085278|antiphospholipid syndrome|dsyn
+3487,3508|C0341439|chronic liver disease|dsyn
+3536,3546|C0087086|thrombotic|patf
+3562,3575|C1171258|complications|patf
+3562,3575|C0009566|complications|patf
+3820,3841|C0341439|chronic liver disease|dsyn
+3846,3862|C0040034|thrombocytopenia|fndg
+3867,3874|C0445223|related|fndg
+3878,3881|C0398650|ITP|dsyn
+3945,3955|C0087086|thrombotic|patf
+4038,4048|C0087086|thrombotic|patf
+4049,4062|C1171258|complications|patf
+4049,4062|C0009566|complications|patf
+4138,4148|C0087086|thrombotic|patf
+4149,4162|C1171258|complications|patf
+4149,4162|C0009566|complications|patf
+4225,4235|C0087086|thrombotic|patf
+4236,4249|C1171258|complications|patf
+4236,4249|C0009566|complications|patf
+4300,4322|C0155773|portal vein thrombosis|dsyn
+4330,4338|C1457887|Symptoms|sosy
+4339,4345|C0155773|of PVT|dsyn
+4355,4369|C0000737|abdominal pain|sosy
+4371,4377|C0027497|nausea|sosy
+4371,4377|C1963179|nausea|patf
+4379,4387|C0042963|vomiting|sosy
+4379,4387|C1963281|vomiting|patf
+4393,4401|C0011991|diarrhea|sosy
+4393,4401|C1963091|diarrhea|fndg
+4478,4488|C0087086|thrombotic|patf
+4489,4501;4517,4519;4531,4540|C0679861|complication of treatment|patf
+4614,4638|C2674823|portal venous thrombosis|fndg
+4687,4708|C0341439|chronic liver disease|dsyn
+4782,4790|C1334278|invasive|fndg
+4814,4823|C0086543|Cataracts|acab
+4814,4823|C0521707|Cataracts|acab
+4892,4895|C0398650|ITP|dsyn
+4897,4906|C0086543|cataracts|acab
+4897,4906|C0521707|cataracts|acab
+4920,4928|C1457868|worsened|fndg
+5045,5054|C0086543|cataracts|acab
+5045,5054|C0521707|cataracts|acab
+5068,5076|C1457868|worsened|fndg
+5137,5144|C1363945|therapy|fndg
+5215,5234|C0524910|chronic hepatitis C|dsyn
+5239,5255|C0040034|thrombocytopenia|fndg
+5257,5266|C0086543|cataracts|acab
+5257,5266|C0521707|cataracts|acab
+5280,5288|C1457868|worsened|fndg
+5368,5377|C0086543|Cataracts|acab
+5368,5377|C0521707|Cataracts|acab
+5565,5572|C1363945|therapy|fndg
+5619,5624|C0311392|signs|fndg
+5629,5637;5641,5650|C0742003|symptoms cataracts|dsyn

@@ -1,0 +1,60 @@
+235,261|C0020517|Hypersensitivity Reactions|patf
+373,378;384,393|C0853813|local reactions|sosy
+395,416|C0521491|application site pain|sosy
+418,443|C0853714|application site pruritus|sosy
+445,472|C0521490|application site irritation|fndg
+474,500|C0521496|application site infection|dsyn
+502,519|C0151205|periorbital edema|sosy
+521,536|C0027441|nasopharyngitis|dsyn
+541,549|C0018681|headache|sosy
+541,549|C2096315|headache|fndg
+808,818|C0012634|conditions|dsyn
+1114,1131|C0022602|actinic keratosis|neop
+1512,1517;1523,1532|C0853813|Local reactions|sosy
+1544,1552|C0041834|erythema|dsyn
+1562,1569|C0237849|scaling|fndg
+1571,1579|C0205204|crusting|acab
+1621,1639|C4055054|erosion/ulceration|fndg
+1693,1699|C3244287|graded|fndg
+1825,1834|C1444656|indicated|fndg
+1962,1967;1973,1982|C0853813|Local Reactions|sosy
+2136,2142|C3842675|3 days|fndg
+2372,2380|C0041834|Erythema|dsyn
+2518,2525|C0237849|Scaling|fndg
+2648,2656|C0205204|Crusting|acab
+3063,3081|C4055054|Erosion/Ulceration|fndg
+3216,3223|C3889292|grade 1|fndg
+3322,3327;3333,3342|C0853813|Local Reactions|sosy
+3509,3515|C3842676|2 days|fndg
+3744,3752|C0041834|Erythema|dsyn
+3890,3897|C0237849|Scaling|fndg
+4020,4028|C0205204|Crusting|acab
+4435,4453|C4055054|Erosion/Ulceration|fndg
+4588,4595|C3889292|grade 1|fndg
+4649,4654;4660,4669|C0853813|Local reactions|sosy
+4770,4780;4784,4793|C0580352|completion treatment|fndg
+4799,4807|C3714811|resolved|fndg
+4799,4807|C1514893|resolved|patf
+5417,5438|C0521491|Application Site Pain|sosy
+5501,5526|C0853714|Application Site Pruritus|sosy
+5587,5613|C0521496|Application Site Infection|dsyn
+5674,5691|C0151205|Periorbital Edema|sosy
+5758,5766|C0018681|Headache|sosy
+5758,5766|C2096315|Headache|fndg
+6159,6184|C0853714|Application Site Pruritus|sosy
+6245,6272|C0521490|Application Site Irritation|fndg
+6333,6348|C0027441|Nasopharyngitis|dsyn
+6417,6438|C0521491|Application Site Pain|sosy
+6588,6600|C0162285|eyelid edema|fndg
+6602,6610|C0151827|eye pain|sosy
+6602,6610|C1959630|eye pain|fndg
+6612,6626|C0009763|conjunctivitis|dsyn
+6787,6794;6806,6813|C0683954|Results studies|fndg
+6949,6959|C1550043|identified|fndg
+7043,7059|C0020517|hypersensitivity|patf
+7043,7059|C0520946|hypersensitivity|fndg
+7061,7088|C0162820|allergic contact dermatitis|dsyn
+7090,7103|C0019360|herpes zoster|dsyn
+7105,7128|C0149866|chemical conjunctivitis|dsyn
+7134,7146|C0239116|corneal burn|inpo
+7222,7231|C0087130|uncertain|fndg

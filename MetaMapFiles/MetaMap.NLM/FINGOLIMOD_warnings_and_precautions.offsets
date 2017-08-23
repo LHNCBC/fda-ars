@@ -1,0 +1,293 @@
+56,67|C0428977|Bradycardia|patf
+56,67|C3812171|Bradycardia|fndg
+160,170|C3714514|Infections|patf
+291,300|C3714514|infection|patf
+291,300|C0009450|infection|dsyn
+341,356|C1444662|discontinuation|fndg
+422,464|C0023524|Progressive multifocal leukoencephalopathy|dsyn
+510,517|C1457887|symptom|sosy
+532,535|C0023524|PML|dsyn
+552,565|C0024440|Macular edema|dsyn
+552,565|C0271051|Macular edema|dsyn
+689,706|C0011849|diabetes mellitus|dsyn
+712,722|C0262926|history of|fndg
+723,730|C0042164|uveitis|dsyn
+723,730|C1963266|uveitis|fndg
+769,813|C3160858|Posterior reversible encephalopathy syndrome|dsyn
+836,847|C1444662|discontinue|fndg
+943,952|C1444656|indicated|fndg
+969,981|C0160390|Liver injury|inpo
+996,1003|C2825142|results|fndg
+1043,1054|C1444662|Discontinue|fndg
+1070,1082|C0160390|liver injury|inpo
+1316,1331|C0428977|Bradyarrhythmia|patf
+1316,1331|C0079035|Bradyarrhythmia|dsyn
+1336,1359|C0004245|Atrioventricular Blocks|dsyn
+1387,1402|C0428977|bradyarrhythmia|patf
+1387,1402|C0079035|bradyarrhythmia|dsyn
+1407,1423;1429,1435|C0004245|atrioventricular blocks|dsyn
+1547,1556;1560,1570|C0428977|Reduction Heart Rate|patf
+1674,1681;1693,1703|C0744679|maximum heart rate|fndg
+2183,2206|C0741627|symptomatic bradycardia|dsyn
+2352,2363|C0428977|bradycardia|patf
+2352,2363|C3812171|bradycardia|fndg
+2379,2391|C0231221|asymptomatic|fndg
+2423,2434|C0020649|hypotension|fndg
+2423,2434|C3163620|hypotension|fndg
+2436,2445|C0012833|dizziness|sosy
+2436,2445|C0042571|dizziness|sosy
+2436,2445|C1963093|dizziness|fndg
+2447,2454|C0015672|fatigue|sosy
+2456,2468|C0030252|palpitations|fndg
+2456,2468|C3160712|palpitations|fndg
+2477,2487|C0008031|chest pain|sosy
+2501,2509|C1514893|resolved|patf
+2501,2509|C3714811|resolved|fndg
+2593,2615|C0428977|decrease in heart rate|patf
+2872,2895|C0004245|Atrioventricular Blocks|dsyn
+2941,2949|C2825142|resulted|fndg
+3016,3037|C3715208|first-degree AV block|fndg
+3016,3037|C2108089|first-degree AV block|fndg
+3016,3037|C0085614|first-degree AV block|dsyn
+3283,3306|C0155700|second-degree AV blocks|dsyn
+3283,3306|C0264906|second-degree AV blocks|dsyn
+3308,3322|C0264907|Mobitz Types I|patf
+3324,3334|C0264907|Wenckebach|patf
+3324,3334|C3811814|Wenckebach|fndg
+3343,3352|C0004245|AV blocks|dsyn
+3500,3508|C0004245|AV block|dsyn
+3599,3622|C0155700|second degree AV blocks|dsyn
+3599,3622|C0264906|second degree AV blocks|dsyn
+3639,3652|C0264907|Mobitz Type I|patf
+3705,3729|C0232219|conduction abnormalities|patf
+3757,3769|C0231221|asymptomatic|fndg
+3775,3783|C1514893|resolved|patf
+3775,3783|C3714811|resolved|fndg
+3965,3986|C0151517|third-degree AV block|dsyn
+3965,3986|C2215935|third-degree AV block|fndg
+3991,3999|C0004245|AV block|dsyn
+4005,4022|C0745502|junctional escape|dsyn
+4071,4082|C0478530|observation|fndg
+4155,4163|C0018790|asystole|dsyn
+4155,4163|C1963122|asystole|patf
+4155,4163|C3890580|asystole|fndg
+4168,4185|C0277589|unexplained death|fndg
+4355,4364|C0087130|uncertain|fndg
+4375,4382|C0039070|syncope|sosy
+4450,4460|C3714514|Infections|patf
+4475,4485|C3714514|Infections|patf
+4524,4533;4548,4564|C0853986|reduction lymphocyte count|fndg
+4875,4890|C1444662|discontinuation|fndg
+5005,5014|C3714514|infection|patf
+5005,5014|C0009450|infection|dsyn
+5077,5084|C1363945|therapy|fndg
+5130,5145|C1444662|discontinuation|fndg
+5195,5205|C3714514|infections|patf
+5276,5284|C1457887|symptoms|sosy
+5288,5298|C3714514|infections|patf
+5417,5425|C1514893|resolved|patf
+5417,5425|C3714811|resolved|fndg
+5479,5483;5487,5497|C2015938|rate infections|fndg
+5550,5560|C0006277|bronchitis|dsyn
+5550,5560|C0149514|bronchitis|dsyn
+5562,5575|C0019360|herpes zoster|dsyn
+5577,5586|C0021400|influenza|dsyn
+5588,5597|C0037199|sinusitis|dsyn
+5603,5612|C0032285|pneumonia|dsyn
+5667,5677|C3714514|infections|patf
+5768,5791|C0019372|Herpes Viral Infections|dsyn
+5835,5839;5852,5862|C2015938|rate infections|fndg
+5946,5950|C1306577|died|fndg
+5946,5950|C1546956|died|fndg
+5963,5973|C3714514|infections|patf
+6004,6009|C1306577|death|fndg
+6021,6033;6042,6055|C0276248|disseminated herpes zoster|dsyn
+6073,6100|C0276226|herpes simplex encephalitis|dsyn
+6338,6367|C0750128|disseminated varicella zoster|dsyn
+6372,6397|C0019348|herpes simplex infections|dsyn
+6418,6430|C0014038|encephalitis|dsyn
+6435,6453|C0026766|multiorgan failure|patf
+6435,6453|C1963169|multiorgan failure|fndg
+6543,6548|C1705232|fatal|fndg
+6580,6590|C3714514|infections|patf
+6679,6687|C0741302|atypical|fndg
+6691,6698|C0277556|relapse|dsyn
+6702,6720|C0026766|multiorgan failure|patf
+6702,6720|C1963169|multiorgan failure|fndg
+6730,6753|C0740272|Cryptococcal infections|dsyn
+6807,6830|C0085436|cryptococcal meningitis|dsyn
+6921,6926|C0311392|signs|fndg
+6943,6966|C0085436|cryptococcal meningitis|dsyn
+7480,7497|C4048329|immunosuppression|dsyn
+7480,7497|C1373218|immunosuppression|patf
+7747,7763|C0740380|Varicella Zoster|dsyn
+7872,7882|C0008049|chickenpox|dsyn
+8071,8079|C1513916|negative|fndg
+8300,8342|C0023524|Progressive Multifocal Leukoencephalopathy|dsyn
+8359,8401|C0023524|progressive multifocal leukoencephalopathy|dsyn
+8403,8406|C0023524|PML|dsyn
+8431,8434|C0023524|PML|dsyn
+8516,8519|C0023524|PML|dsyn
+8540,8555|C0042769|viral infection|dsyn
+8546,8555;8563,8568|C1264609|infection brain|dsyn
+8645,8662|C0085393|immunocompromised|fndg
+8690,8695|C1306577|death|fndg
+8706,8716|C0231170|disability|fndg
+8740,8743|C0023524|PML|dsyn
+8831,8834|C0023524|PML|dsyn
+8887,8896;8909,8912|C0023524|diagnosis PML|dsyn
+8986,8996;9006,9011|C0277791|absence of signs|fndg
+9067,9077|C1550043|identified|fndg
+9131,9144|C1291764|immune system|fndg
+9379,9386|C1457887|symptom|sosy
+9401,9404|C0023524|PML|dsyn
+9477,9482|C0311392|signs|fndg
+9515,9523|C1457887|symptoms|sosy
+9533,9541|C1457887|symptoms|sosy
+9558,9561|C0023524|PML|dsyn
+9628,9636;9640,9648;9656,9660|C0018989|weakness one side body|sosy
+9685,9696;9700,9706|C3665347|disturbance vision|fndg
+9723,9731|C0233629|thinking|mobd
+9733,9739|C0700327|memory|fndg
+9768,9777|C0009676|confusion|mobd
+9768,9777|C0683369|confusion|sosy
+9768,9777|C1963086|confusion|fndg
+9782,9801|C0240735|personality changes|sosy
+9820,9833|C0024440|Macular Edema|dsyn
+9820,9833|C0271051|Macular Edema|dsyn
+9873,9886|C0024440|macular edema|dsyn
+9873,9886|C0271051|macular edema|dsyn
+10078,10097|C0547030|visual disturbances|sosy
+10115,10122|C1363945|therapy|fndg
+10138,10147;10164,10171;10180,10185|C0548832|dependent risk of edema|fndg
+10316,10334|C0026769|multiple sclerosis|dsyn
+10336,10349|C0024440|macular edema|dsyn
+10336,10349|C0271051|macular edema|dsyn
+10366,10381|C0422943|visual symptoms|sosy
+10471,10472|C3838679|4|fndg
+10528,10529|C3838680|3|fndg
+10557,10570|C0024440|Macular edema|dsyn
+10557,10570|C0271051|Macular edema|dsyn
+10628,10635|C1363945|therapy|fndg
+10682,10699|C0011849|diabetes mellitus|dsyn
+10725,10738|C0024440|macular edema|dsyn
+10725,10738|C0271051|macular edema|dsyn
+10750,10763|C0024440|Macular Edema|dsyn
+10750,10763|C0271051|Macular Edema|dsyn
+10781,10791|C0262926|History of|fndg
+10792,10799|C0042164|Uveitis|dsyn
+10792,10799|C1963266|Uveitis|fndg
+10803,10820|C0011849|Diabetes Mellitus|dsyn
+10825,10833|C1457887|Symptoms|sosy
+10837,10850|C0024440|macular edema|dsyn
+10837,10850|C0271051|macular edema|dsyn
+10860,10874|C0344232|blurred vision|sosy
+10879,10902|C0234632|decreased visual acuity|fndg
+10941,10949|C0442726|detected|fndg
+10950,10980|C3552988|macular edema in some patients|fndg
+11006,11019|C0024440|Macular edema|dsyn
+11006,11019|C0271051|Macular edema|dsyn
+11054,11062|C1514893|resolved|patf
+11054,11062|C3714811|resolved|fndg
+11144,11162|C0234632|visual acuity loss|fndg
+11174,11184|C1514893|resolution|patf
+11188,11201|C0024440|macular edema|dsyn
+11188,11201|C0271051|macular edema|dsyn
+11203,11216|C0024440|Macular edema|dsyn
+11203,11216|C0271051|Macular edema|dsyn
+11406,11419|C0024440|macular edema|dsyn
+11406,11419|C0271051|macular edema|dsyn
+11667,11680|C0024440|Macular Edema|dsyn
+11667,11680|C0271051|Macular Edema|dsyn
+11698,11708|C0262926|History of|fndg
+11709,11716|C0042164|Uveitis|dsyn
+11709,11716|C1963266|Uveitis|fndg
+11720,11737;11761,11771|C0455488|Diabetes Mellitus history of|fndg
+11772,11779|C0042164|uveitis|dsyn
+11772,11779|C1963266|uveitis|fndg
+11798,11815|C0011849|diabetes mellitus|dsyn
+11841,11854|C0024440|macular edema|dsyn
+11841,11854|C0271051|macular edema|dsyn
+11870,11877|C1363945|therapy|fndg
+11896,11909|C0024440|macular edema|dsyn
+11896,11909|C0271051|macular edema|dsyn
+11950,11960|C0262926|history of|fndg
+11961,11968|C0042164|uveitis|dsyn
+11961,11968|C1963266|uveitis|fndg
+12054,12067|C0024440|macular edema|dsyn
+12054,12067|C0271051|macular edema|dsyn
+12112,12122|C0262926|history of|fndg
+12123,12130|C0042164|uveitis|dsyn
+12123,12130|C1963266|uveitis|fndg
+12162,12172|C0262926|history of|fndg
+12173,12180|C0042164|uveitis|dsyn
+12173,12180|C1963266|uveitis|fndg
+12395,12412|C0011849|diabetes mellitus|dsyn
+12418,12428|C0262926|history of|fndg
+12429,12436|C0042164|uveitis|dsyn
+12429,12436|C1963266|uveitis|fndg
+12457,12479|C0260832|follow-up examinations|fndg
+12498,12542|C3160858|Posterior Reversible Encephalopathy Syndrome|dsyn
+12578,12622|C3160858|posterior reversible encephalopathy syndrome|dsyn
+12624,12628|C3160858|PRES|dsyn
+12670,12678|C1457887|Symptoms|sosy
+12713,12728|C2957106|severe headache|sosy
+12730,12751|C0278061|altered mental status|mobd
+12753,12772|C0547030|visual disturbances|sosy
+12778,12785|C0036572|seizure|sosy
+12778,12785|C1959629|seizure|fndg
+12787,12795|C1457887|Symptoms|sosy
+12799,12803|C3160858|PRES|dsyn
+12847,12862|C3272363|ischemic stroke|dsyn
+12847,12862|C0948008|ischemic stroke|dsyn
+12866,12885|C2937358|cerebral hemorrhage|fndg
+12887,12892;12896,12905|C0026562|Delay diagnosis|fndg
+12955,12963|C0543419|sequelae|fndg
+12955,12963|C0243088|sequelae|patf
+12968,12972|C3160858|PRES|dsyn
+13005,13017|C1444662|discontinued|fndg
+13129,13133|C1561566|FEV1|fndg
+13389,13393|C1561566|FEV1|fndg
+13389,13393|C0429706|FEV1|fndg
+13701,13716|C1444662|discontinuation|fndg
+13727,13751|C4062889|insufficient information|fndg
+13818,13833|C1444662|discontinuation|fndg
+13868,13875|C0013404|dyspnea|sosy
+13987,13999|C1444662|discontinued|fndg
+14031,14038|C0013404|dyspnea|sosy
+14269,14276|C1363945|therapy|fndg
+14304,14313|C1444656|indicated|fndg
+14330,14342;14359,14361|C0160390|Liver Injury of|inpo
+14536,14543|C1363945|therapy|fndg
+14967,14979|C1444662|discontinued|fndg
+15061,15067|C0231683|normal|fndg
+15104,15119|C1444662|discontinuation|fndg
+15284,15292|C1457887|symptoms|sosy
+15307,15326|C0086565|hepatic dysfunction|patf
+15348,15354|C0027497|nausea|sosy
+15348,15354|C1963179|nausea|patf
+15356,15364|C0042963|vomiting|sosy
+15356,15364|C1963281|vomiting|patf
+15366,15380|C0000737|abdominal pain|sosy
+15382,15389|C0015672|fatigue|sosy
+15391,15399|C0003123|anorexia|dsyn
+15391,15399|C0426579|anorexia|sosy
+15391,15399|C1971624|anorexia|fndg
+15404,15412|C0022346|jaundice|patf
+15404,15412|C2010848|jaundice|fndg
+15404,15412|C2203646|jaundice|sosy
+15420,15430|C0426396|dark urine|sosy
+15450,15462|C1444662|discontinued|fndg
+15478,15490|C0160390|liver injury|inpo
+15555,15564;15593,15606|C0235996|increased liver enzymes|fndg
+15584,15606|C0235996|elevated liver enzymes|fndg
+15692,15710|C0948807|hepatic impairment|dsyn
+16111,16120|C0425965|pregnancy|fndg
+16430,16438|C0442726|detected|fndg
+16533,16545|C0020538|Hypertension|dsyn
+16533,16545|C1963138|Hypertension|fndg
+16734,16747|C1291764|Immune System|fndg
+16774,16789|C1444662|Discontinuation|fndg
+16870,16897|C0853986|decreased lymphocyte counts|fndg
+17039,17046|C1363945|therapy|fndg
+17210,17224|C0518609|considerations|fndg

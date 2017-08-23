@@ -1,0 +1,152 @@
+T1	AdverseReaction 180 190	fetal harm
+T2	Factor 170 173	can
+T3	AdverseReaction 357 372	agranulocytosis
+T4	AdverseReaction 351 356	Fatal
+T5	Factor 373 376	can
+T6	AdverseReaction 428 439	neutropenia
+T7	Factor 413 416	can
+T8	AdverseReaction 462 477	agranulocytosis
+T9	Factor 447 450	may
+T10	AdverseReaction 966 981	agranulocytosis
+T11	AdverseReaction 1042 1057	agranulocytosis
+T12	AdverseReaction 1070 1085	Agranulocytosis
+T13	AdverseReaction 1090 1101	neutropenia
+T14	AdverseReaction 1184 1199	agranulocytosis
+T15	AdverseReaction 1211 1216	death
+T16	AdverseReaction 2221 2233	genotoxicity
+T17	AdverseReaction 2174 2185;2238 2260	Embryofetal developmental toxicity
+T18	Animal 2264 2270	animal
+T19	AdverseReaction 2300 2310	fetal harm
+T20	Factor 2290 2293	can
+T21	AdverseReaction 2446 2463	embryofetal death
+T22	AdverseReaction 2446 2457;2468 2481	embryofetal malformations
+T23	Animal 2353 2359	animal
+T24	AdverseReaction 3025 3045	increased ALT values
+T25	AdverseReaction 3116 3135	increased serum ALT
+T26	AdverseReaction 3167 3178;3184 3187	increase in ALT
+T27	AdverseReaction 3167 3178;3192 3195	increase in AST
+T28	AdverseReaction 3410 3446	Decreased plasma zinc concentrations
+E1	AdverseReaction:T1 Hypothetical:E2
+E2	Factor:T2
+E3	AdverseReaction:T3 Hypothetical:E5
+E4	AdverseReaction:T4 Hypothetical:E5
+E5	Factor:T5
+E6	AdverseReaction:T6 Hypothetical:E7
+E7	Factor:T7
+E8	AdverseReaction:T8 Hypothetical:E9
+E9	Factor:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16 Hypothetical:E18
+E17	AdverseReaction:T17 Hypothetical:E18
+E18	Animal:T18
+E19	AdverseReaction:T19 Hypothetical:E20
+E20	Factor:T20
+E21	AdverseReaction:T21 Hypothetical:E23
+E22	AdverseReaction:T22 Hypothetical:E23
+E23	Animal:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+A1	CUI E1 C0854268
+A2	UMLS-Preferred-Name E1 Foetal damage
+A3	MEDDRA-PT E1 Foetal damage
+A4	MEDDRA-PT-ID E1 10016852
+A5	LLT E1 Fetal damage
+A6	LLT-ID E1 10054743
+A7	CUI E3 C0001824
+A8	UMLS-Preferred-Name E3 Agranulocytosis
+A9	MEDDRA-PT E3 Agranulocytosis
+A10	MEDDRA-PT-ID E3 10001507
+A11	CUI E4 C1306577
+A12	UMLS-Preferred-Name E4 Death (finding)
+A13	MEDDRA-PT E4 Death
+A14	MEDDRA-PT-ID E4 10011906
+A15	CUI E6 C0027947
+A16	UMLS-Preferred-Name E6 Neutropenia
+A17	MEDDRA-PT E6 Neutropenia
+A18	MEDDRA-PT-ID E6 10029354
+A19	CUI E8 C0001824
+A20	UMLS-Preferred-Name E8 Agranulocytosis
+A21	MEDDRA-PT E8 Agranulocytosis
+A22	MEDDRA-PT-ID E8 10001507
+A23	CUI E10 C0001824
+A24	UMLS-Preferred-Name E10 Agranulocytosis
+A25	MEDDRA-PT E10 Agranulocytosis
+A26	MEDDRA-PT-ID E10 10001507
+A27	CUI E11 C0001824
+A28	UMLS-Preferred-Name E11 Agranulocytosis
+A29	MEDDRA-PT E11 Agranulocytosis
+A30	MEDDRA-PT-ID E11 10001507
+A31	CUI E12 C0001824
+A32	UMLS-Preferred-Name E12 Agranulocytosis
+A33	MEDDRA-PT E12 Agranulocytosis
+A34	MEDDRA-PT-ID E12 10001507
+A35	CUI E13 C0027947
+A36	UMLS-Preferred-Name E13 Neutropenia
+A37	MEDDRA-PT E13 Neutropenia
+A38	MEDDRA-PT-ID E13 10029354
+A39	CUI E14 C0001824
+A40	UMLS-Preferred-Name E14 Agranulocytosis
+A41	MEDDRA-PT E14 Agranulocytosis
+A42	MEDDRA-PT-ID E14 10001507
+A43	CUI E15 C1306577
+A44	UMLS-Preferred-Name E15 Death (finding)
+A45	MEDDRA-PT E15 Death
+A46	MEDDRA-PT-ID E15 10011906
+A47	flag E16 unmapped
+A48	CUI E16 C0598309
+A49	UMLS-Preferred-Name E16 genotoxicity
+A50	flag E17 unmapped
+A51	CUI E19 C0854268
+A52	UMLS-Preferred-Name E19 Foetal damage
+A53	MEDDRA-PT E19 Foetal damage
+A54	MEDDRA-PT-ID E19 10016852
+A55	LLT E19 Fetal damage
+A56	LLT-ID E19 10054743
+A57	CUI E21 C0015927
+A58	UMLS-Preferred-Name E21 Fetal Death
+A59	MEDDRA-PT E21 Foetal death
+A60	MEDDRA-PT-ID E21 10055690
+A61	LLT E21 Fetal death
+A62	LLT-ID E21 10016479
+A63	CUI E22 C0000768
+A64	UMLS-Preferred-Name E22 Congenital Abnormality
+A65	MEDDRA-PT E22 Congenital anomaly
+A66	MEDDRA-PT-ID E22 10010356
+A67	CUI E24 C0151905
+A68	UMLS-Preferred-Name E24 Alanine aminotransferase increased
+A69	MEDDRA-PT E24 Alanine aminotransferase increased
+A70	MEDDRA-PT-ID E24 10001551
+A71	LLT E24 ALT increased
+A72	LLT-ID E24 10001845
+A73	CUI E25 C0151905
+A74	UMLS-Preferred-Name E25 Alanine aminotransferase increased
+A75	MEDDRA-PT E25 Alanine aminotransferase increased
+A76	MEDDRA-PT-ID E25 10001551
+A77	LLT E25 ALT increased
+A78	LLT-ID E25 10001845
+A79	CUI E26 C0151905
+A80	UMLS-Preferred-Name E26 Alanine aminotransferase increased
+A81	MEDDRA-PT E26 Alanine aminotransferase increased
+A82	MEDDRA-PT-ID E26 10001551
+A83	LLT E26 ALT increased
+A84	LLT-ID E26 10001845
+A85	CUI E27 C0151904
+A86	UMLS-Preferred-Name E27 Aspartate aminotransferase increased
+A87	MEDDRA-PT E27 Aspartate aminotransferase increased
+A88	MEDDRA-PT-ID E27 10003481
+A89	LLT E27 AST increased
+A90	LLT-ID E27 10003544
+A91	CUI E28 C0855675
+A92	UMLS-Preferred-Name E28 Blood zinc decreased
+A93	MEDDRA-PT E28 Blood zinc decreased
+A94	MEDDRA-PT-ID E28 10005867
+A95	LLT E28 Zinc decreased
+A96	LLT-ID E28 10048258

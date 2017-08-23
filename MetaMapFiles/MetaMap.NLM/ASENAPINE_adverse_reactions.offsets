@@ -1,0 +1,522 @@
+159,167|C0497327|Dementia|mobd
+159,167|C0011265|Dementia|mobd
+168,175|C0445223|Related|fndg
+176,185|C0033975|Psychosis|mobd
+176,185|C0349204|Psychosis|mobd
+251,281|C0027849|Neuroleptic Malignant Syndrome|dsyn
+325,343|C0686347|Tardive Dyskinesia|dsyn
+325,343|C3714760|Tardive Dyskinesia|patf
+448,474|C0020517|Hypersensitivity Reactions|patf
+542,552|C0740209|Counseling|fndg
+577,603|C0151505|Application site reactions|fndg
+614,625|C0149745|oral ulcers|dsyn
+627,635|C0005758|blisters|patf
+627,635|C2132198|blisters|fndg
+637,644|C0520893|peeling|patf
+637,644|C0237849|peeling|fndg
+645,654|C0027544|sloughing|patf
+708,731|C0020651|Orthostatic Hypotension|fndg
+733,740|C0039070|Syncope|sosy
+815,825|C0023530|Leukopenia|dsyn
+815,825|C0750394|Leukopenia|fndg
+827,838|C0023530|Neutropenia|dsyn
+827,838|C0027947|Neutropenia|dsyn
+827,838|C0853697|Neutropenia|fndg
+844,859|C0001824|Agranulocytosis|dsyn
+903,905;915,927|C0151878|QT Prolongation|fndg
+971,989|C0020514|Hyperprolactinemia|dsyn
+1034,1042|C0036572|Seizures|sosy
+1121,1131|C0684336|Impairment|patf
+1248,1255|C0038661|Suicide|fndg
+1300,1309|C0011168|Dysphagia|dsyn
+1387,1394|C0221423|Illness|sosy
+1564,1577|C0036341|schizophrenia|mobd
+1583,1592|C0392156|akathisia|sosy
+1594,1611|C0521592|oral hypoesthesia|sosy
+1617,1627|C0013144|somnolence|fndg
+1617,1627|C2830004|somnolence|fndg
+1691,1704|C0036341|schizophrenia|mobd
+1891,1896|C0338831|manic|mobd
+1891,1896|C0564408|manic|fndg
+1900,1905|C3160715|mixed|fndg
+1931,1949|C0853193|bipolar I disorder|mobd
+1965,1975|C0013144|somnolence|fndg
+1965,1975|C2830004|somnolence|fndg
+1977,1986|C0012833|dizziness|sosy
+1977,1986|C0042571|dizziness|sosy
+1977,1986|C1963093|dizziness|fndg
+1988,2011|C0234133|extrapyramidal symptoms|sosy
+2023,2032|C0392156|akathisia|sosy
+2038,2054|C0043094|increased weight|fndg
+2098,2116|C0853193|bipolar I disorder|mobd
+2132,2142|C0013144|somnolence|fndg
+2132,2142|C2830004|somnolence|fndg
+2147,2164|C0521592|oral hypoesthesia|sosy
+2407,2418|C0332154|treated for|fndg
+2677,2695|C0853193|bipolar I disorder|mobd
+2722,2732|C0013144|somnolence|fndg
+2722,2732|C2830004|somnolence|fndg
+2734,2743|C0012833|dizziness|sosy
+2734,2743|C0042571|dizziness|sosy
+2734,2743|C1963093|dizziness|fndg
+2745,2754|C0013378|dysgeusia|fndg
+2756,2772|C0521591|oral paresthesia|sosy
+2774,2780|C0027497|nausea|sosy
+2774,2780|C1963179|nausea|patf
+2782,2800|C0232461|increased appetite|fndg
+2802,2809|C0015672|fatigue|sosy
+2815,2831|C0043094|increased weight|fndg
+2836,2839;2853,2861|C1268649|new findings|fndg
+2846,2861|C0581560|safety findings|fndg
+3233,3251|C0853193|bipolar I disorder|mobd
+3658,3666|C1457868|worsened|fndg
+3683,3690|C1363945|therapy|fndg
+3848,3861|C0036341|Schizophrenia|mobd
+3870,3879|C0392156|akathisia|sosy
+3881,3898|C0521592|oral hypoesthesia|sosy
+3900,3910|C0013144|somnolence|fndg
+3900,3910|C2830004|somnolence|fndg
+3918,3934|C0005586|Bipolar Disorder|mobd
+3957,3967|C0013144|somnolence|fndg
+3957,3967|C2830004|somnolence|fndg
+3969,3978|C0012833|dizziness|sosy
+3969,3978|C0042571|dizziness|sosy
+3969,3978|C1963093|dizziness|fndg
+3980,4003|C0234133|extrapyramidal symptoms|sosy
+4015,4024|C0392156|akathisia|sosy
+4026,4042|C0043094|increased weight|fndg
+4050,4066|C0005586|Bipolar Disorder|mobd
+4058,4076|C0679381|Disorder Pediatric|dsyn
+4101,4111|C0013144|somnolence|fndg
+4101,4111|C2830004|somnolence|fndg
+4113,4122|C0012833|dizziness|sosy
+4113,4122|C0042571|dizziness|sosy
+4113,4122|C1963093|dizziness|fndg
+4124,4133|C0013378|dysgeusia|fndg
+4135,4151|C0521591|oral paresthesia|sosy
+4153,4159|C0027497|nausea|sosy
+4153,4159|C1963179|nausea|patf
+4161,4179|C0232461|increased appetite|fndg
+4181,4188|C0015672|fatigue|sosy
+4190,4206|C0043094|increased weight|fndg
+4214,4230|C0005586|Bipolar Disorder|mobd
+4252,4262|C0013144|somnolence|fndg
+4252,4262|C2830004|somnolence|fndg
+4264,4281|C0521592|oral hypoesthesia|sosy
+4534,4544|C0012634|conditions|dsyn
+4767,4780|C0036341|Schizophrenia|mobd
+4878,4891|C0036341|schizophrenia|mobd
+5103,5118|C1444662|Discontinuation|fndg
+5212,5224|C1444662|discontinued|fndg
+5524,5537|C0036341|Schizophrenia|mobd
+5725,5732|C1363945|therapy|fndg
+5765,5778|C0036341|schizophrenia|mobd
+5979,5992|C0036341|Schizophrenia|mobd
+6005,6014|C0392156|Akathisia|sosy
+6025,6034|C0392156|akathisia|sosy
+6039,6051|C0424295|hyperkinesia|mobd
+6039,6051|C3887506|hyperkinesia|fndg
+6060,6083|C0234133|Extrapyramidal symptoms|sosy
+6093,6101|C0013421|dystonia|sosy
+6093,6101|C0393593|dystonia|dsyn
+6103,6116|C1262064|oculogyration|dsyn
+6118,6128|C0013384|dyskinesia|dsyn
+6130,6148|C0686347|tardive dyskinesia|dsyn
+6130,6148|C3714760|tardive dyskinesia|patf
+6150,6165|C0026837|muscle rigidity|sosy
+6167,6179|C0242422|parkinsonism|dsyn
+6181,6187|C0040822|tremor|sosy
+6181,6187|C1963252|tremor|fndg
+6193,6216|C0015371|extrapyramidal disorder|dsyn
+6228,6237|C0392156|akathisia|sosy
+6248,6258|C0013144|Somnolence|fndg
+6248,6258|C2830004|Somnolence|fndg
+6290,6300|C0013144|somnolence|fndg
+6290,6300|C2830004|somnolence|fndg
+6302,6310|C0235195|sedation|fndg
+6316,6327|C0917799|hypersomnia|dsyn
+6620,6646|C0017178|Gastrointestinal disorders|dsyn
+6734,6746|C0009806|Constipation|sosy
+6734,6746|C1963087|Constipation|fndg
+6845,6854|C0043352|Dry mouth|dsyn
+6956,6973|C0521592|Oral hypoesthesia|sosy
+7067,7090|C0037036|Salivary hypersecretion|dsyn
+7178,7196|C0235309|Stomach discomfort|sosy
+7289,7297|C0042963|Vomiting|sosy
+7289,7297|C1963281|Vomiting|patf
+7405,7414|C0012634|disorders|dsyn
+7511,7518|C0015672|Fatigue|sosy
+7622,7634|C0022107|Irritability|fndg
+7854,7860|C0424653|weight|sosy
+7952,7972|C0025517|Metabolism disorders|dsyn
+8288,8297|C0392156|Akathisia|sosy
+8399,8408|C0012833|Dizziness|sosy
+8399,8408|C0042571|Dizziness|sosy
+8399,8408|C1963093|Dizziness|fndg
+8510,8533|C0234133|Extrapyramidal symptoms|sosy
+8545,8554|C0392156|akathisia|sosy
+8637,8647|C0013144|Somnolence|fndg
+8637,8647|C2830004|Somnolence|fndg
+8859,8867|C0917801|Insomnia|sosy
+8859,8867|C1963237|Insomnia|fndg
+8967,8975;9081,9093|C0020538|Vascular Hypertension|dsyn
+8967,8985|C0042373|Vascular disorders|dsyn
+8976,8985|C0012634|disorders|dsyn
+9081,9093|C0020538|Hypertension|dsyn
+9081,9093|C1963138|Hypertension|fndg
+9206,9213|C0445223|Related|fndg
+9252,9265|C0036341|schizophrenia|mobd
+9290,9299|C0392156|akathisia|sosy
+9320,9327|C0445223|related|fndg
+9393,9398|C0338831|Mania|mobd
+9490,9495|C0338831|mania|mobd
+9666,9681|C1444662|Discontinuation|fndg
+9793,9805|C1444662|discontinued|fndg
+9938,9953|C1444662|discontinuation|fndg
+10048,10055|C0003467|anxiety|mobd
+10048,10055|C0003469|anxiety|mobd
+10048,10055|C0860603|anxiety|fndg
+10067,10084|C0521592|oral hypoesthesia|sosy
+10234,10252|C0853193|Bipolar I Disorder|mobd
+10492,10497|C0338831|mania|mobd
+10706,10711|C0338831|Mania|mobd
+10787,10810|C0234133|Extrapyramidal symptoms|sosy
+10821,10829|C0013421|dystonia|sosy
+10821,10829|C0393593|dystonia|dsyn
+10831,10844|C0005747|blepharospasm|dsyn
+10846,10857|C0040485|torticollis|sosy
+10859,10869|C0013384|dyskinesia|dsyn
+10871,10889|C0686347|tardive dyskinesia|dsyn
+10871,10889|C3714760|tardive dyskinesia|patf
+10891,10906|C0026837|muscle rigidity|sosy
+10908,10920|C0242422|parkinsonism|dsyn
+10922,10938|C0575081|gait disturbance|fndg
+10940,10953|C0424448|masked facies|fndg
+10959,10965|C0040822|tremor|sosy
+10959,10965|C1963252|tremor|fndg
+10977,10986|C0392156|akathisia|sosy
+10997,11007|C0013144|Somnolence|fndg
+10997,11007|C2830004|Somnolence|fndg
+11039,11049|C0013144|somnolence|fndg
+11039,11049|C2830004|somnolence|fndg
+11051,11059|C0235195|sedation|fndg
+11065,11076|C0917799|hypersomnia|dsyn
+11224,11250|C0017178|Gastrointestinal disorders|dsyn
+11279,11288|C0043352|Dry mouth|dsyn
+11386,11395|C0013395|Dyspepsia|sosy
+11493,11510|C0521592|Oral hypoesthesia|sosy
+11600,11609|C0040460|Toothache|sosy
+11712,11721|C0012634|disorders|dsyn
+11759,11766|C0015672|Fatigue|sosy
+11928,11934|C0424653|weight|sosy
+12022,12042|C0025517|Metabolism disorders|dsyn
+12201,12228|C0009782|connective tissue disorders|dsyn
+12240,12250|C0003862|Arthralgia|sosy
+12347,12364|C0030196|Pain in extremity|sosy
+12506,12515|C0392156|Akathisia|sosy
+12613,12622|C0012833|Dizziness|sosy
+12613,12622|C0042571|Dizziness|sosy
+12613,12622|C1963093|Dizziness|fndg
+12720,12729|C0013378|Dysgeusia|fndg
+12827,12835|C0018681|Headache|sosy
+12827,12835|C2096315|Headache|fndg
+12940,12963|C0234133|extrapyramidal symptoms|sosy
+12975,12984|C0392156|akathisia|sosy
+13054,13064|C0013144|Somnolence|fndg
+13054,13064|C2830004|Somnolence|fndg
+13213,13220|C0003467|Anxiety|mobd
+13213,13220|C0003469|Anxiety|mobd
+13213,13220|C0860603|Anxiety|fndg
+13320,13330|C0011570|Depression|mobd
+13320,13330|C0011581|Depression|mobd
+13320,13330|C1579931|Depression|sosy
+13320,13330|C0344315|Depression|fndg
+13427,13435|C0917801|Insomnia|sosy
+13427,13435|C1963237|Insomnia|fndg
+13588,13593|C0338831|Mania|mobd
+13680,13685|C0338831|mania|mobd
+13805,13820|C1444662|Discontinuation|fndg
+14043,14055|C1444662|discontinued|fndg
+14107,14108|C3838679|4|fndg
+14172,14187|C1444662|discontinuation|fndg
+14311,14321|C0013144|somnolence|fndg
+14311,14321|C2830004|somnolence|fndg
+14430,14444|C0000737|abdominal pain|sosy
+14485,14491|C0027497|nausea|sosy
+14485,14491|C1963179|nausea|patf
+14853,14860|C1363945|therapy|fndg
+15098,15103|C0338831|Mania|mobd
+15143,15154|C0039231|tachycardia|patf
+15143,15154|C3827868|tachycardia|fndg
+15217,15234|C0521592|oral hypoesthesia|sosy
+15236,15252|C0521591|oral paresthesia|sosy
+15258,15274|C0006430|oral dysesthesia|dsyn
+15312,15326|C0000737|abdominal pain|sosy
+15328,15348|C0232492|abdominal pain upper|sosy
+15376,15396|C0232487|abdominal discomfort|sosy
+15434,15441|C0015672|fatigue|sosy
+15446,15454|C0023380|lethargy|sosy
+15492,15508|C0020459|hyperinsulinemia|dsyn
+15574,15584|C0013144|somnolence|fndg
+15574,15584|C2830004|somnolence|fndg
+15586,15594|C0235195|sedation|fndg
+15600,15611|C0917799|hypersomnia|dsyn
+16004,16021|C0018799|Cardiac Disorders|dsyn
+16096,16107|C0039231|Tachycardia|patf
+16096,16107|C3827868|Tachycardia|fndg
+16208,16234|C0017178|Gastrointestinal Disorders|dsyn
+16300,16317|C0521591|Oral paraesthesia|sosy
+16413,16419|C0027497|Nausea|sosy
+16413,16419|C1963179|Nausea|patf
+16526,16534|C0042963|Vomiting|sosy
+16526,16534|C1963281|Vomiting|patf
+16639,16653|C0000737|Abdominal pain|sosy
+16752,16763|C0017672|Glossodynia|sosy
+16872,16881|C0012634|Disorders|dsyn
+16886,16900|C3845829|Administrative|fndg
+16906,16915|C0012634|Disorders|dsyn
+16977,16984|C0015672|Fatigue|sosy
+17090,17102|C0022107|Irritability|fndg
+17210,17219|C0032343|Poisoning|inpo
+17311,17324|C0080194|Muscle strain|inpo
+17547,17553|C0424653|weight|sosy
+17650,17666|C0020459|Hyperinsulinemia|dsyn
+17763,17766|C1266129|ALT|neop
+18003,18022|C3714509|Nutrition Disorders|dsyn
+18219,18230|C0011175|Dehydration|dsyn
+18351,18378|C0009782|Connective Tissue Disorders|dsyn
+18440,18447|C0231528|Myalgia|sosy
+18644,18654|C0013144|Somnolence|fndg
+18644,18654|C2830004|Somnolence|fndg
+18757,18765|C0018681|Headache|sosy
+18757,18765|C2096315|Headache|fndg
+18870,18879|C0012833|Dizziness|sosy
+18870,18879|C0042571|Dizziness|sosy
+18870,18879|C1963093|Dizziness|fndg
+18983,18992|C0013378|Dysgeusia|fndg
+19096,19105|C0392156|Akathisia|sosy
+19209,19221|C0242422|Parkinsonism|dsyn
+19413,19421|C0917801|Insomnia|sosy
+19413,19421|C1963237|Insomnia|fndg
+19526,19543|C0424000|Suicidal ideation|fndg
+19751,19770|C1335757|Reproductive System|fndg
+19775,19791|C0006145|Breast Disorders|dsyn
+19853,19865|C0013390|Dysmenorrhea|patf
+19992,20013|C0025061|Mediastinal Disorders|dsyn
+20097,20115|C2363731|Oropharyngeal pain|sosy
+20210,20226|C2136984|Nasal congestion|patf
+20210,20226|C0027424|Nasal congestion|sosy
+20323,20330|C0013404|Dyspnea|sosy
+20444,20456;20464,20473|C0549584|Subcutaneous Disorders|dsyn
+20464,20473|C0012634|Disorders|dsyn
+20535,20539|C0015230|Rash|sosy
+20665,20672|C0445223|Related|fndg
+20753,20760|C0015672|fatigue|sosy
+20781,20788|C0445223|related|fndg
+20865,20870|C0338831|Mania|mobd
+21009,21014|C0338831|mania|mobd
+21189,21204|C1444662|Discontinuation|fndg
+21275,21287|C1444662|discontinued|fndg
+21421,21436|C1444662|discontinuation|fndg
+21531,21541|C0011570|depression|mobd
+21531,21541|C0011581|depression|mobd
+21531,21541|C1579931|depression|sosy
+21531,21541|C0344315|depression|fndg
+21550,21567|C0424000|suicidal ideation|fndg
+21576,21594|C0853193|bipolar I disorder|mobd
+21603,21611|C0917801|insomnia|sosy
+21603,21611|C1963237|insomnia|fndg
+21623,21642|C0086132|depressive symptoms|sosy
+22283,22288|C0338831|Mania|mobd
+22364,22387|C0234133|Extrapyramidal symptoms|sosy
+22398,22406|C0013421|dystonia|sosy
+22398,22406|C0393593|dystonia|dsyn
+22408,22420|C0242422|parkinsonism|dsyn
+22422,22435|C1262064|oculogyration|dsyn
+22441,22447|C0040822|tremor|sosy
+22441,22447|C1963252|tremor|fndg
+22459,22468|C0392156|akathisia|sosy
+22479,22489|C0013144|Somnolence|fndg
+22479,22489|C2830004|Somnolence|fndg
+22521,22531|C0013144|somnolence|fndg
+22521,22531|C2830004|somnolence|fndg
+22536,22544|C0235195|sedation|fndg
+22692,22718|C0017178|Gastrointestinal disorders|dsyn
+22745,22754|C0013395|Dyspepsia|sosy
+22853,22870|C0521592|Oral hypoesthesia|sosy
+22968,22977|C0012634|disorders|dsyn
+23013,23020|C0015672|Fatigue|sosy
+23121,23126|C0013604|Edema|fndg
+23291,23297|C0424653|weight|sosy
+23441,23450|C0012833|Dizziness|sosy
+23441,23450|C0042571|Dizziness|sosy
+23441,23450|C1963093|Dizziness|fndg
+23555,23578|C0234133|extrapyramidal symptoms|sosy
+23590,23599|C0392156|akathisia|sosy
+23668,23678|C0013144|Somnolence|fndg
+23668,23678|C2830004|Somnolence|fndg
+23828,23836|C0917801|Insomnia|sosy
+23828,23836|C1963237|Insomnia|fndg
+23935,23943;23988,24000|C0020538|Vascular Hypertension|dsyn
+23935,23953|C0042373|Vascular disorders|dsyn
+23944,23953|C0012634|disorders|dsyn
+23988,24000|C0020538|Hypertension|dsyn
+23988,24000|C1963138|Hypertension|fndg
+24105,24113|C0013421|Dystonia|sosy
+24105,24113|C0393593|Dystonia|dsyn
+24116,24124|C1457887|Symptoms|sosy
+24128,24136|C0013421|dystonia|sosy
+24128,24136|C0393593|dystonia|dsyn
+24274,24282|C1457887|symptoms|sosy
+24292,24297;24305,24317|C0795701|spasm neck muscles|sosy
+24344,24353;24361,24367|C0236071|tightness throat|fndg
+24369,24379|C0740170|swallowing|fndg
+24380,24390|C1299586|difficulty|fndg
+24392,24412|C0013404|difficulty breathing|sosy
+24421,24434;24439,24445|C0241442|protrusion of tongue|fndg
+24459,24467|C1457887|symptoms|sosy
+24644,24658|C1735368|acute dystonia|sosy
+24684,24695|C4061789|younger age|fndg
+24822,24845|C0234133|Extrapyramidal Symptoms|sosy
+24886,24899|C0036341|schizophrenia|mobd
+24912,24917|C0338831|mania|mobd
+25001,25024|C0234133|extrapyramidal symptoms|sosy
+25043,25052|C0392156|Akathisia|sosy
+25064,25073|C0392156|akathisia|sosy
+25098,25118|C0427086|Involuntary Movement|sosy
+25131,25142|C0013384|dyskinesias|dsyn
+25339,25352|C0036341|schizophrenia|mobd
+25393,25396|C0234133|EPS|sosy
+25397,25404|C0445223|related|fndg
+25397,25404|C0445223|related|fndg
+25430,25437|C0445223|related|fndg
+25430,25437|C0445223|related|fndg
+25441,25450|C0392156|akathisia|sosy
+25533,25542|C0392156|akathisia|sosy
+25543,25550|C0445223|related|fndg
+25543,25550|C0445223|related|fndg
+25658,25663|C0338831|mania|mobd
+25695,25698|C0234133|EPS|sosy
+25699,25706|C0445223|related|fndg
+25699,25706|C0445223|related|fndg
+25732,25739|C0445223|related|fndg
+25732,25739|C0445223|related|fndg
+25743,25752|C0392156|akathisia|sosy
+25834,25843|C0392156|akathisia|sosy
+25844,25851|C0445223|related|fndg
+25844,25851|C0445223|related|fndg
+25975,25993|C0853193|bipolar I disorder|mobd
+26013,26016|C0234133|EPS|sosy
+26017,26024|C0445223|related|fndg
+26017,26024|C0445223|related|fndg
+26050,26057|C0445223|related|fndg
+26050,26057|C0445223|related|fndg
+26061,26070|C0392156|akathisia|sosy
+26225,26228|C0234133|EPS|sosy
+26229,26236|C0445223|related|fndg
+26253,26265|C0233565|bradykinesia|sosy
+26267,26277|C0013384|dyskinesia|dsyn
+26279,26287|C0013421|dystonia|sosy
+26279,26287|C0393593|dystonia|dsyn
+26289,26311|C2242577|oromandibular dystonia|sosy
+26346,26362|C0015644|muscle twitching|sosy
+26346,26362|C0231530|muscle twitching|fndg
+26364,26389|C0948525|musculoskeletal stiffness|sosy
+26391,26403|C0242422|parkinsonism|dsyn
+26405,26422|C0241442|protrusion tongue|fndg
+26424,26438|C0234379|resting tremor|fndg
+26444,26450|C0040822|tremor|sosy
+26444,26450|C1963252|tremor|fndg
+26470,26479|C0392156|akathisia|sosy
+26670,26687|C0521592|Oral hypoesthesia|sosy
+26695,26711|C0521591|oral paresthesia|sosy
+26807,26836|C0438215|Laboratory Test Abnormalities|fndg
+26919,26922|C1266129|ALT|neop
+26942,26955|C0036341|schizophrenia|mobd
+26968,26973|C0338831|mania|mobd
+27059,27072|C0036341|schizophrenia|mobd
+27299,27306|C4035626|3 times|fndg
+27334,27337;27346,27353|C0332154|for treated|fndg
+27375,27378;27387,27394|C0332154|for treated|fndg
+27453,27458|C0338831|mania|mobd
+27678,27685|C4035626|3 times|fndg
+27737,27740;27749,27756|C0332154|for treated|fndg
+27778,27781;27790,27797|C0332154|for treated|fndg
+27912,27925|C0036341|schizophrenia|mobd
+27962,27965|C1266129|ALT|neop
+28040,28058|C0853193|bipolar I disorder|mobd
+28115,28118|C1266129|ALT|neop
+28200,28203|C1266129|ALT|neop
+28217,28224|C4035626|3 times|fndg
+28450,28463|C0036341|schizophrenia|mobd
+28526,28529;28538,28545|C0332154|for treated|fndg
+28699,28702;28711,28718|C0332154|for treated|fndg
+28740,28743;28752,28759|C0332154|for treated|fndg
+28812,28817|C0338831|mania|mobd
+28884,28887;28896,28903|C0332154|for treated|fndg
+29070,29073;29082,29089|C0332154|for treated|fndg
+29111,29114;29123,29130|C0332154|for treated|fndg
+29257,29270|C0036341|schizophrenia|mobd
+29317,29320;29329,29336|C0332154|for treated|fndg
+29419,29437|C0853193|bipolar I disorder|mobd
+29876,29888|C3665358|Galactorrhea|dsyn
+29876,29888|C0235660|Galactorrhea|dsyn
+29876,29888|C0269995|Galactorrhea|dsyn
+29892,29904|C0013390|dysmenorrhea|patf
+30159,30171|C0018418|gynecomastia|dsyn
+30159,30171|C1963120|gynecomastia|fndg
+30271,30278|C4035626|3 times|fndg
+30488,30501|C0036341|schizophrenia|mobd
+30514,30519|C0338831|mania|mobd
+30525,30533;30552,30559|C0037088|clinical finding|sosy
+30525,30533;30552,30559|C3540840|clinical finding|fndg
+30624,30631|C4035626|3 times|fndg
+30671,30689|C0853193|bipolar I disorder|mobd
+30817,30820;30829,30836|C0332154|for treated|fndg
+31277,31284|C0445223|related|fndg
+31794,31801|C2825142|results|fndg
+31995,32014|C0024228|lymphatic disorders|dsyn
+32029,32035|C0002871|anemia|dsyn
+32043,32059|C0040034|thrombocytopenia|fndg
+32069,32086|C0018799|Cardiac disorders|dsyn
+32111,32130|C0006384|bundle branch block|dsyn
+32111,32130|C1879286|bundle branch block|dsyn
+32140,32153|C0015397|Eye disorders|dsyn
+32168,32190|C0152198|accommodation disorder|dsyn
+32200,32226|C0017178|Gastrointestinal disorders|dsyn
+32241,32255|C0236068|swollen tongue|patf
+32273,32282|C0012634|disorders|dsyn
+32291,32318|C0277580|idiosyncratic drug reaction|dsyn
+32291,32318|C0919578|idiosyncratic drug reaction|fndg
+32357,32369|C0020625|hyponatremia|dsyn
+32418,32428|C0013362|dysarthria|mobd
+32489,32495|C3844638|either|fndg
+32916,32929|C0015397|Eye disorders|dsyn
+32944,32952|C0012569|diplopia|fndg
+32978,33004|C0017178|Gastrointestinal disorders|dsyn
+33019,33050|C0017168|gastroesophageal reflux disease|dsyn
+33068,33077|C0032343|Poisoning|inpo
+33123,33127|C0085639|fall|fndg
+33146,33158;33166,33175|C0549584|subcutaneous disorders|dsyn
+33166,33175|C0012634|disorders|dsyn
+33190,33215|C0162830|photosensitivity reaction|dsyn
+33235,33252|C0042075|urinary disorders|dsyn
+33267,33275|C0270327|enuresis|mobd
+33267,33275|C0014394|enuresis|sosy
+33267,33275|C0042024|enuresis|patf
+33358,33368|C1550043|identified|fndg
+33476,33485|C0087130|uncertain|fndg
+33635,33650|C1444662|discontinuation|fndg
+33670,33696|C0151505|Application site reactions|fndg
+33758,33784|C0151505|application site reactions|fndg
+33794,33805|C0149745|oral ulcers|dsyn
+33807,33815|C0005758|blisters|patf
+33807,33815|C2132198|blisters|fndg
+33817,33824|C0520893|peeling|patf
+33817,33824|C0237849|peeling|fndg
+33825,33834|C0027544|sloughing|patf
+33859,33866|C0008301|Choking|patf
+33859,33866|C2051649|Choking|fndg
+33960,33971|C3887505|dysfunction|dsyn
+33960,33971|C0277785|dysfunction|patf
+33975,33987|C0020580|hypoesthesia|fndg

@@ -1,0 +1,66 @@
+T1	AdverseReaction 45 50	DEATH
+T2	AdverseReaction 78 83	DEATH
+T3	AdverseReaction 238 243	death
+T4	AdverseReaction 425 431	deaths
+T5	AdverseReaction 729 734	death
+T6	AdverseReaction 1728 1733	DEATH
+T7	AdverseReaction 1912 1917	death
+T8	AdverseReaction 2014 2020	deaths
+T9	DrugClass 1959 1963	LABA
+T10	AdverseReaction 2289 2294	death
+T12	DrugClass 128 132	LABA
+T13	DrugClass 327 331	LABA
+T14	DrugClass 740 744	LABA
+T15	DrugClass 1849 1853	LABA
+T16	DrugClass 2300 2304	LABA
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3 Hypothetical:E12
+E4	AdverseReaction:T4 Hypothetical:E13
+E5	AdverseReaction:T5 Hypothetical:E14
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7 Hypothetical:E15
+E8	AdverseReaction:T8 Hypothetical:E9
+E9	DrugClass:T9
+E10	AdverseReaction:T10 Hypothetical:E16
+E12	DrugClass:T12
+E13	DrugClass:T13
+E14	DrugClass:T14
+E15	DrugClass:T15
+E16	DrugClass:T16
+A1	CUI E1 C1306577
+A2	UMLS-Preferred-Name E1 Death (finding)
+A3	MEDDRA-PT E1 Death
+A4	MEDDRA-PT-ID E1 10011906
+A5	CUI E2 C1306577
+A6	UMLS-Preferred-Name E2 Death (finding)
+A7	MEDDRA-PT E2 Death
+A8	MEDDRA-PT-ID E2 10011906
+A9	CUI E3 C1306577
+A10	UMLS-Preferred-Name E3 Death (finding)
+A11	MEDDRA-PT E3 Death
+A12	MEDDRA-PT-ID E3 10011906
+A13	CUI E4 C1306577
+A14	UMLS-Preferred-Name E4 Death (finding)
+A15	MEDDRA-PT E4 Death
+A16	MEDDRA-PT-ID E4 10011906
+A17	CUI E5 C1306577
+A18	UMLS-Preferred-Name E5 Death (finding)
+A19	MEDDRA-PT E5 Death
+A20	MEDDRA-PT-ID E5 10011906
+A21	CUI E6 C1306577
+A22	UMLS-Preferred-Name E6 Death (finding)
+A23	MEDDRA-PT E6 Death
+A24	MEDDRA-PT-ID E6 10011906
+A25	CUI E7 C1306577
+A26	UMLS-Preferred-Name E7 Death (finding)
+A27	MEDDRA-PT E7 Death
+A28	MEDDRA-PT-ID E7 10011906
+A29	CUI E8 C1306577
+A30	UMLS-Preferred-Name E8 Death (finding)
+A31	MEDDRA-PT E8 Death
+A32	MEDDRA-PT-ID E8 10011906
+A33	CUI E10 C1306577
+A34	UMLS-Preferred-Name E10 Death (finding)
+A35	MEDDRA-PT E10 Death
+A36	MEDDRA-PT-ID E10 10011906

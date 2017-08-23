@@ -1,0 +1,229 @@
+132,148|C0020517|Hypersensitivity|patf
+132,148|C0520946|Hypersensitivity|fndg
+188,205|C0424000|Suicidal Thoughts|fndg
+300,318|C0024586|Serotonin Syndrome|dsyn
+300,318|C0699828|Serotonin Syndrome|inpo
+367,390|C0020538|Elevated Blood Pressure|dsyn
+367,390|C0497247|Elevated Blood Pressure|fndg
+439,456|C1458140|Abnormal Bleeding|patf
+505,527|C0017605|Angle Closure Glaucoma|dsyn
+591,596|C0338831|Mania|mobd
+597,606|C0241934|Hypomania|fndg
+655,670|C1444662|Discontinuation|fndg
+671,679|C0039082|Syndrome|dsyn
+728,735|C0036572|Seizure|sosy
+728,735|C1959629|Seizure|fndg
+784,796|C0020625|Hyponatremia|dsyn
+845,870|C0206062|Interstitial Lung Disease|dsyn
+875,897|C1527407|Eosinophilic Pneumonia|dsyn
+875,897|C0034068|Eosinophilic Pneumonia|dsyn
+1073,1079|C0027497|nausea|sosy
+1073,1079|C1963179|nausea|patf
+1081,1090|C0042571|dizziness|sosy
+1081,1090|C0012833|dizziness|sosy
+1081,1090|C1963093|dizziness|fndg
+1092,1100|C0917801|insomnia|sosy
+1092,1100|C1963237|insomnia|fndg
+1102,1115|C0020458|hyperhidrosis|fndg
+1117,1129|C0009806|constipation|sosy
+1117,1129|C1963087|constipation|fndg
+1131,1141|C0013144|somnolence|fndg
+1131,1141|C2830004|somnolence|fndg
+1143,1161|C0232462|decreased appetite|sosy
+1163,1170|C0003467|anxiety|mobd
+1163,1170|C0003469|anxiety|mobd
+1163,1170|C0860603|anxiety|fndg
+1185,1196;1206,1215|C1112443|male sexual disorders|dsyn
+1206,1215|C0012634|disorders|dsyn
+1508,1518|C0012634|conditions|dsyn
+1820,1845|C1269683|major depressive disorder|mobd
+1820,1845|C0041696|major depressive disorder|mobd
+1916,1917;1930,1935|C3843647|2 years|fndg
+2237,2252|C1444662|discontinuation|fndg
+2351,2354|C1269683|MDD|mobd
+2351,2354|C3812244|MDD|fndg
+2438,2450|C1444662|discontinued|fndg
+2583,2598|C1444662|discontinuation|fndg
+2729,2744|C1444662|discontinuation|fndg
+2836,2851|C1444662|discontinuation|fndg
+2982,2988|C0027497|nausea|sosy
+2982,2988|C1963179|nausea|patf
+2995,3004|C0042571|dizziness|sosy
+2995,3004|C0012833|dizziness|sosy
+2995,3004|C1963093|dizziness|fndg
+3006,3014|C0018681|headache|sosy
+3006,3014|C2096315|headache|fndg
+3019,3027|C0042963|vomiting|sosy
+3019,3027|C1963281|vomiting|patf
+3099,3107|C0042963|vomiting|sosy
+3099,3107|C1963281|vomiting|patf
+3169,3172|C1269683|MDD|mobd
+3169,3172|C3812244|MDD|fndg
+3251,3254|C1269683|MDD|mobd
+3251,3254|C3812244|MDD|fndg
+3430,3436|C0027497|nausea|sosy
+3430,3436|C1963179|nausea|patf
+3438,3447|C0042571|dizziness|sosy
+3438,3447|C0012833|dizziness|sosy
+3438,3447|C1963093|dizziness|fndg
+3449,3457|C0917801|insomnia|sosy
+3449,3457|C1963237|insomnia|fndg
+3459,3472|C0020458|hyperhidrosis|fndg
+3474,3486|C0009806|constipation|sosy
+3474,3486|C1963087|constipation|fndg
+3488,3498|C0013144|somnolence|fndg
+3488,3498|C2830004|somnolence|fndg
+3500,3518|C0232462|decreased appetite|sosy
+3520,3527|C0003467|anxiety|mobd
+3520,3527|C0003469|anxiety|mobd
+3520,3527|C0860603|anxiety|fndg
+3542,3553;3563,3572|C1112443|male sexual disorders|dsyn
+3563,3572|C0012634|disorders|dsyn
+3676,3679|C1269683|MDD|mobd
+3676,3679|C3812244|MDD|fndg
+3939,3942|C1269683|MDD|mobd
+3939,3942|C3812244|MDD|fndg
+4284,4301|C0018799|Cardiac disorders|dsyn
+4432,4458|C0017178|Gastrointestinal disorders|dsyn
+4467,4473|C0027497|Nausea|sosy
+4467,4473|C1963179|Nausea|patf
+4582,4591|C0043352|Dry mouth|dsyn
+4697,4709|C0009806|Constipation|sosy
+4697,4709|C1963087|Constipation|fndg
+4812,4820|C0042963|Vomiting|sosy
+4812,4820|C1963281|Vomiting|patf
+4933,4942|C0012634|disorders|dsyn
+4967,4977|C0012634|conditions|dsyn
+4986,4993|C0015672|Fatigue|sosy
+5101,5107|C0085593|Chills|sosy
+5216,5231|C0027769|Feeling jittery|sosy
+5216,5231|C0849963|Feeling jittery|sosy
+5216,5231|C0549209|Feeling jittery|sosy
+5344,5363|C3714509|nutrition disorders|dsyn
+5518,5527|C0042571|Dizziness|sosy
+5518,5527|C0012833|Dizziness|sosy
+5518,5527|C1963093|Dizziness|fndg
+5633,5643|C0013144|Somnolence|fndg
+5633,5643|C2830004|Somnolence|fndg
+5748,5754|C0040822|Tremor|sosy
+5748,5754|C1963252|Tremor|fndg
+5863,5887|C0233414|Disturbance in attention|mobd
+6011,6019|C0917801|Insomnia|sosy
+6011,6019|C1963237|Insomnia|fndg
+6126,6133|C0003467|Anxiety|mobd
+6126,6133|C0003469|Anxiety|mobd
+6126,6133|C0860603|Anxiety|fndg
+6241,6252|C0027769|Nervousness|sosy
+6241,6252|C0849963|Nervousness|sosy
+6356,6371|C0234458|Abnormal dreams|mobd
+6479,6496|C0042075|urinary disorders|dsyn
+6644,6665|C0025061|mediastinal disorders|dsyn
+6674,6681|C0043387|Yawning|fndg
+6796,6808;6816,6825|C0549584|subcutaneous disorders|dsyn
+6816,6825|C0012634|disorders|dsyn
+6834,6847|C0020458|Hyperhidrosis|fndg
+7094,7103|C0026961|Mydriasis|sosy
+7209,7216|C0042571|Vertigo|sosy
+7324,7332|C0040264|Tinnitus|fndg
+7324,7332|C1963249|Tinnitus|fndg
+7439,7448|C0013378|Dysgeusia|fndg
+7552,7570|C0042373|Vascular disorders|dsyn
+7584,7593|C0600142|Hot flush|sosy
+7858,7861|C1269683|MDD|mobd
+7858,7861|C3812244|MDD|fndg
+8028,8029;8034,8037|C0025268|2 Men|neop
+8083,8090|C1363945|Therapy|fndg
+8304,8314|C0234022|Anorgasmia|mobd
+8419,8425|C0517356|Libido|fndg
+8534,8549|C0029261|Orgasm abnormal|mobd
+8767,8787|C0242350|Erectile dysfunction|dsyn
+8767,8787|C1961100|Erectile dysfunction|patf
+8886,8906|C0235969|Ejaculation disorder|dsyn
+9005,9024|C0278106|Ejaculation failure|patf
+9123,9141|C0549622|Sexual dysfunction|dsyn
+9441,9451|C0234022|Anorgasmia|mobd
+9769,9772|C1269683|MDD|mobd
+9769,9772|C3812244|MDD|fndg
+9817,9834|C0018799|Cardiac disorders|dsyn
+9840,9851|C0039231|Tachycardia|patf
+9840,9851|C3827868|Tachycardia|fndg
+9869,9878|C0012634|disorders|dsyn
+9903,9913|C0012634|conditions|dsyn
+9919,9927|C0004093|Asthenia|sosy
+9957,9963|C0424653|Weight|sosy
+9975,10003|C0151766|liver function test abnormal|fndg
+10060,10087|C0009782|connective tissue disorders|dsyn
+10093,10118|C0948525|Musculoskeletal stiffness|sosy
+10158,10165|C0039070|Syncope|sosy
+10167,10177|C0036572|convulsion|sosy
+10167,10177|C4048158|convulsion|sosy
+10179,10187|C0013421|dystonia|sosy
+10179,10187|C0393593|dystonia|dsyn
+10224,10241|C0011551|Depersonalization|mobd
+10243,10250|C0006325|bruxism|mobd
+10270,10277;10301,10310|C0080274|urinary retention|fndg
+10270,10287|C0042075|urinary disorders|dsyn
+10278,10287|C0012634|disorders|dsyn
+10301,10310|C0080274|retention|fndg
+10329,10341;10349,10358|C0549584|subcutaneous disorders|dsyn
+10349,10358|C0012634|disorders|dsyn
+10363,10367|C0015230|Rash|sosy
+10369,10377|C0002170|alopecia|dsyn
+10379,10404|C0162830|photosensitivity reaction|dsyn
+10406,10416|C0002994|angioedema|patf
+10520,10539|C0010054|myocardial ischemia|dsyn
+10520,10539|C0151744|myocardial ischemia|dsyn
+10541,10562|C0027051|myocardial infarction|dsyn
+10568,10586|C0151814|coronary occlusion|dsyn
+10577,10586|C1110554|occlusion|patf
+10577,10586|C0028778|occlusion|patf
+10635,10643;10655,10675|C2321260|multiple cardiac risk factors|fndg
+10826,10829|C1269683|MDD|mobd
+10826,10829|C3812244|MDD|fndg
+10939,10942|C1269683|MDD|mobd
+10939,10942|C3812244|MDD|fndg
+11356,11375|C0549634|Lipid Abnormalities|fndg
+11389,11410|C2826293|Clinical Significance|fndg
+12045,12056|C0033687|Proteinuria|fndg
+12045,12056|C1962972|Proteinuria|fndg
+12045,12056|C1279888|Proteinuria|dsyn
+12197,12208|C0033687|proteinuria|fndg
+12197,12208|C1962972|proteinuria|fndg
+12197,12208|C1279888|proteinuria|dsyn
+12337,12348|C0033687|Proteinuria|fndg
+12337,12348|C1962972|Proteinuria|fndg
+12337,12348|C1279888|Proteinuria|dsyn
+12557,12568|C0033687|Proteinuria|fndg
+12557,12568|C1962972|Proteinuria|fndg
+12557,12568|C1279888|Proteinuria|dsyn
+12846,12849|C1269683|MDD|mobd
+12846,12849|C3812244|MDD|fndg
+12925,12932|C1363945|Therapy|fndg
+12964,12974|C2911690|Controlled|fndg
+13551,13557|C0424653|Weight|sosy
+13795,13807|C0020538|hypertension|dsyn
+13795,13807|C1963138|hypertension|fndg
+13839,13870|C1319896|supine diastolic blood pressure|fndg
+13940,13947|C1363945|therapy|fndg
+14053,14056|C0268621|met|dsyn
+14080,14092|C0020538|hypertension|dsyn
+14080,14092|C1963138|hypertension|fndg
+14178,14190|C0020538|hypertension|dsyn
+14178,14190|C1963138|hypertension|fndg
+14324,14333;14344,14368|C0741568|Elevation Diastolic Blood Pressure|fndg
+14324,14333;14344,14368|C0277889|Elevation Diastolic Blood Pressure|fndg
+14337,14368|C1319896|Supine Diastolic Blood Pressure|fndg
+14450,14462|C0020538|Hypertension|dsyn
+14450,14462|C1963138|Hypertension|fndg
+14691,14694;14713,14714|C3842672|day 7|fndg
+14889,14892;14911,14912|C3842675|day 3|fndg
+14981,15004|C0020651|Orthostatic hypotension|fndg
+15110,15118;15131,15142|C0277885|systolic hypotension|fndg
+15119,15142|C0020651|orthostatic hypotension|fndg
+15237,15245;15249,15252|C4062450|65 years age|fndg
+15333,15341;15345,15348|C4062450|65 years age|fndg
+15494,15504|C1550043|identified|fndg
+15612,15621|C0087130|uncertain|fndg
+15761,15773;15781,15790|C0549584|subcutaneous disorders|dsyn
+15781,15790|C0012634|disorders|dsyn
+15796,15820|C0038325|Stevens-Johnson syndrome|dsyn

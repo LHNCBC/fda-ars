@@ -1,0 +1,191 @@
+T1	AdverseReaction 54 83	Nephrogenic Systemic Fibrosis
+T2	AdverseReaction 259 272;290 299	anaphylactoid reactions
+T3	AdverseReaction 273 289;290 299	hypersensitivity reactions
+T4	AdverseReaction 305 319;347 361	cardiovascular manifestations
+T5	AdverseReaction 321 332;347 361	respiratory manifestations
+T6	AdverseReaction 337 361	cutaneous manifestations
+T7	Severity 376 380	mild
+T8	Severity 384 390	severe
+T9	AdverseReaction 411 416	shock
+T10	DrugClass 568 600	Gadolinium-based contrast agents
+T11	AdverseReaction 631 660	nephrogenic systemic fibrosis
+T12	AdverseReaction 662 665	NSF
+T13	AdverseReaction 899 902	NSF
+T14	DrugClass 883 887	GBCA
+T16	AdverseReaction 1256 1259	NSF
+T17	Factor 1260 1263	may
+T18	AdverseReaction 1274 1279	fatal
+T19	AdverseReaction 1296 1304	fibrosis
+T23	AdverseReaction 2166 2169	NSF
+T24	Factor 2157 2161	risk
+T25	AdverseReaction 2912 2924;2952 2961	Anaphylactic reactions
+T26	AdverseReaction 2967 2981;3009 3023	cardiovascular manifestations
+T27	AdverseReaction 2983 2994;3009 3023	respiratory manifestations
+T28	AdverseReaction 2999 3023	cutaneous manifestations
+T29	Severity 3038 3042	mild
+T30	Severity 3046 3052	severe
+T31	AdverseReaction 3064 3069	shock
+T32	AdverseReaction 3606 3622;3699 3716	hypersensitivity Delayed reactions
+T33	Factor 3717 3720	can
+T34	DrugClass 4056 4061	GBCAs
+T35	AdverseReaction 3968 3987	acute kidney injury
+T36	Factor 4457 4460	may
+T37	AdverseReaction 4304 4318;4471 4493	Injection Site local tissue reactions
+T38	Factor 622 626	risk
+T39	Factor 417 420	can
+T20	AdverseReaction 2935 2961	hypersensitivity reactions
+T21	AdverseReaction 3359 3384	hypersensitivity reaction
+T22	Factor 3348 3352	risk
+T40	Factor 4067 4071	risk
+T41	AdverseReaction 4075 4094	acute kidney injury
+T42	Severity 1283 1295	debilitating
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Hypothetical:E39
+E3	AdverseReaction:T3 Hypothetical:E39
+E4	AdverseReaction:T4 Effect:E7 Effect2:E8 Hypothetical:E39
+E5	AdverseReaction:T5 Effect:E7 Effect2:E8 Hypothetical:E39
+E6	AdverseReaction:T6 Effect:E7 Effect2:E8 Hypothetical:E39
+E7	Severity:T7
+E8	Severity:T8
+E9	AdverseReaction:T9 Hypothetical:E39
+E10	DrugClass:T10
+E11	AdverseReaction:T11 Hypothetical:E10
+E12	AdverseReaction:T12 Hypothetical:E10
+E13	AdverseReaction:T13 Hypothetical2:E14
+E14	DrugClass:T14
+E16	AdverseReaction:T16 Hypothetical:E17
+E17	Factor:T17
+E18	AdverseReaction:T18 Hypothetical:E17
+E19	AdverseReaction:T19 Hypothetical:E17 Effect:E42
+E23	AdverseReaction:T23 Hypothetical:E24
+E24	Factor:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26 Effect:E29 Effect2:E30
+E27	AdverseReaction:T27 Effect:E29 Effect2:E30
+E28	AdverseReaction:T28 Effect:E29 Effect2:E30
+E29	Severity:T29
+E30	Severity:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32 Hypothetical:E33
+E33	Factor:T33
+E34	DrugClass:T34
+E35	AdverseReaction:T35 Hypothetical:E34
+E36	Factor:T36
+E37	AdverseReaction:T37 Hypothetical:E36
+E38	Factor:T38
+E39	Factor:T39
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21 Hypothetical:E22
+E22	Factor:T22
+E40	Factor:T40
+E41	AdverseReaction:T41 Hypothetical:E40
+E42	Severity:T42
+A1	CUI E1 C3888044
+A2	UMLS-Preferred-Name E1 Nephrogenic Systemic Fibrosis
+A3	MEDDRA-PT E1 Nephrogenic systemic fibrosis
+A4	MEDDRA-PT-ID E1 10067467
+A5	CUI E2 C0340865
+A6	UMLS-Preferred-Name E2 Anaphylactoid reaction
+A7	MEDDRA-PT E2 Anaphylactoid reaction
+A8	MEDDRA-PT-ID E2 10002216
+A9	CUI E3 C0020517
+A10	UMLS-Preferred-Name E3 Hypersensitivity
+A11	MEDDRA-PT E3 Hypersensitivity
+A12	MEDDRA-PT-ID E3 10020751
+A13	LLT E3 Hypersensitivity reaction
+A14	LLT-ID E3 10020756
+A15	CUI E4 C0476270
+A16	UMLS-Preferred-Name E4 Cardiovascular symptoms
+A17	MEDDRA-PT E4 Cardiovascular symptom
+A18	MEDDRA-PT-ID E4 10075534
+A19	CUI E5 C0037090
+A20	UMLS-Preferred-Name E5 Signs and Symptoms, Respiratory
+A21	MEDDRA-PT E5 Respiratory symptom
+A22	MEDDRA-PT-ID E5 10075535
+A23	CUI E6 C0037285
+A24	UMLS-Preferred-Name E6 Skin Manifestations
+A25	MEDDRA-PT E6 Cutaneous symptom
+A26	MEDDRA-PT-ID E6 10075531
+A27	CUI E9 C0036974
+A28	UMLS-Preferred-Name E9 Shock
+A29	MEDDRA-PT E9 Shock
+A30	MEDDRA-PT-ID E9 10040560
+A31	CUI E11 C3888044
+A32	UMLS-Preferred-Name E11 Nephrogenic Systemic Fibrosis
+A33	MEDDRA-PT E11 Nephrogenic systemic fibrosis
+A34	MEDDRA-PT-ID E11 10067467
+A35	CUI E12 C3888044
+A36	UMLS-Preferred-Name E12 Nephrogenic Systemic Fibrosis
+A37	MEDDRA-PT E12 Nephrogenic systemic fibrosis
+A38	MEDDRA-PT-ID E12 10067467
+A39	CUI E13 C3888044
+A40	UMLS-Preferred-Name E13 Nephrogenic Systemic Fibrosis
+A41	MEDDRA-PT E13 Nephrogenic systemic fibrosis
+A42	MEDDRA-PT-ID E13 10067467
+A43	CUI E16 C3888044
+A44	UMLS-Preferred-Name E16 Nephrogenic Systemic Fibrosis
+A45	MEDDRA-PT E16 Nephrogenic systemic fibrosis
+A46	MEDDRA-PT-ID E16 10067467
+A47	CUI E18 C1306577
+A48	UMLS-Preferred-Name E18 Death (finding)
+A49	MEDDRA-PT E18 Death
+A50	MEDDRA-PT-ID E18 10011906
+A51	CUI E19 C0016059
+A52	UMLS-Preferred-Name E19 Fibrosis
+A53	MEDDRA-PT E19 Fibrosis
+A54	MEDDRA-PT-ID E19 10016642
+A55	CUI E23 C3888044
+A56	UMLS-Preferred-Name E23 Nephrogenic Systemic Fibrosis
+A57	MEDDRA-PT E23 Nephrogenic systemic fibrosis
+A58	MEDDRA-PT-ID E23 10067467
+A59	CUI E25 C0002792
+A60	UMLS-Preferred-Name E25 anaphylaxis
+A61	MEDDRA-PT E25 Anaphylactic reaction
+A62	MEDDRA-PT-ID E25 10002198
+A63	CUI E26 C0476270
+A64	UMLS-Preferred-Name E26 Cardiovascular symptoms
+A65	MEDDRA-PT E26 Cardiovascular symptom
+A66	MEDDRA-PT-ID E26 10075534
+A67	CUI E27 C0037090
+A68	UMLS-Preferred-Name E27 Signs and Symptoms, Respiratory
+A69	MEDDRA-PT E27 Respiratory symptom
+A70	MEDDRA-PT-ID E27 10075535
+A71	CUI E28 C0037285
+A72	UMLS-Preferred-Name E28 Skin Manifestations
+A73	MEDDRA-PT E28 Cutaneous symptom
+A74	MEDDRA-PT-ID E28 10075531
+A75	CUI E31 C0036974
+A76	UMLS-Preferred-Name E31 Shock
+A77	MEDDRA-PT E31 Shock
+A78	MEDDRA-PT-ID E31 10040560
+A79	CUI E32 C0020522
+A80	UMLS-Preferred-Name E32 Delayed Hypersensitivity
+A81	MEDDRA-PT E32 Type IV hypersensitivity reaction
+A82	MEDDRA-PT-ID E32 10053613
+A83	LLT E32 Delayed type hypersensitivity
+A84	LLT-ID E32 10012210
+A85	CUI E35 C2609414
+A86	UMLS-Preferred-Name E35 Acute kidney injury
+A87	MEDDRA-PT E35 Acute kidney injury
+A88	MEDDRA-PT-ID E35 10069339
+A89	flag E37 duplicate
+A90	CUI E37 C0853813
+A91	UMLS-Preferred-Name E37 Local reaction
+A92	MEDDRA-PT E37 Local reaction
+A93	MEDDRA-PT-ID E37 10024769
+A94	CUI E20 C0020517
+A95	UMLS-Preferred-Name E20 Hypersensitivity
+A96	MEDDRA-PT E20 Hypersensitivity
+A97	MEDDRA-PT-ID E20 10020751
+A98	LLT E20 Hypersensitivity reaction
+A99	LLT-ID E20 10020756
+A100	CUI E21 C0020517
+A101	UMLS-Preferred-Name E21 Hypersensitivity
+A102	MEDDRA-PT E21 Hypersensitivity
+A103	MEDDRA-PT-ID E21 10020751
+A104	LLT E21 Hypersensitivity reaction
+A105	LLT-ID E21 10020756
+A106	CUI E41 C2609414
+A107	UMLS-Preferred-Name E41 Acute kidney injury
+A108	MEDDRA-PT E41 Acute kidney injury
+A109	MEDDRA-PT-ID E41 10069339

@@ -1,0 +1,274 @@
+T1	AdverseReaction 49 60	Anaphylaxis
+T2	AdverseReaction 65 91	Hypersensitivity Reactions
+T3	AdverseReaction 110 121	anaphylaxis
+T4	Severity 93 109	Life-threatening
+T5	AdverseReaction 126 142	hypersensitivity
+T6	AdverseReaction 488 519	Acute Respiratory Complications
+T7	AdverseReaction 884 895	Anaphylaxis
+T8	AdverseReaction 900 916	hypersensitivity
+T9	AdverseReaction 1107 1118	anaphylaxis
+T10	AdverseReaction 1153 1175	anaphylactic reactions
+T11	AdverseReaction 1226 1231	cough
+T12	AdverseReaction 1233 1241	erythema
+T13	AdverseReaction 1243 1259	throat tightness
+T14	AdverseReaction 1261 1270	urticaria
+T15	AdverseReaction 1272 1280	flushing
+T16	AdverseReaction 1282 1290	cyanosis
+T17	AdverseReaction 1292 1303	hypotension
+T18	AdverseReaction 1305 1309	rash
+T19	AdverseReaction 1311 1318	dyspnea
+T20	AdverseReaction 1320 1336	chest discomfort
+T21	AdverseReaction 1342 1367	gastrointestinal symptoms
+T22	AdverseReaction 1375 1381	nausea
+T23	AdverseReaction 1383 1397	abdominal pain
+T24	AdverseReaction 1399 1407	retching
+T25	AdverseReaction 1413 1421	vomiting
+T26	AdverseReaction 1443 1452	urticaria
+T27	AdverseReaction 1469 1480	anaphylaxis
+T28	AdverseReaction 1579 1590	Anaphylaxis
+T29	AdverseReaction 1724 1740	hypersensitivity
+T30	AdverseReaction 1762 1773	anaphylaxis
+T31	AdverseReaction 1775 1791	Hypersensitivity
+T32	AdverseReaction 1927 1943	hypersensitivity
+T33	AdverseReaction 1999 2021	anaphylactic reactions
+T34	AdverseReaction 2023 2032	urticaria
+T35	AdverseReaction 2034 2050	peripheral edema
+T36	AdverseReaction 2052 2057	cough
+T37	AdverseReaction 2059 2066	dyspnea
+T38	AdverseReaction 2072 2080	flushing
+T39	AdverseReaction 3352 3378	hypersensitivity reactions
+T40	Factor 480 484	Risk
+T41	AdverseReaction 633 659	hypersensitivity reactions
+T42	Severity 597 613	life-threatening
+T43	Severity 3316 3332	life-threatening
+T44	Factor 3308 3312	risk
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3 Effect:E4
+E4	Severity:T4
+E5	AdverseReaction:T5 Effect:E4
+E6	AdverseReaction:T6 Hypothetical:E40
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39 Effect:E43 Hypothetical:E44
+E40	Factor:T40
+E41	AdverseReaction:T41 Effect:E42
+E42	Severity:T42
+E43	Severity:T43
+E44	Factor:T44
+A1	CUI E1 C0002792
+A2	UMLS-Preferred-Name E1 anaphylaxis
+A3	MEDDRA-PT E1 Anaphylactic reaction
+A4	MEDDRA-PT-ID E1 10002198
+A5	LLT E1 Anaphylaxis
+A6	LLT-ID E1 10002218
+A7	CUI E2 C0020517
+A8	UMLS-Preferred-Name E2 Hypersensitivity
+A9	MEDDRA-PT E2 Hypersensitivity
+A10	MEDDRA-PT-ID E2 10020751
+A11	LLT E2 Hypersensitivity reaction
+A12	LLT-ID E2 10020756
+A13	CUI E3 C0002792
+A14	UMLS-Preferred-Name E3 anaphylaxis
+A15	MEDDRA-PT E3 Anaphylactic reaction
+A16	MEDDRA-PT-ID E3 10002198
+A17	LLT E3 Anaphylaxis
+A18	LLT-ID E3 10002218
+A19	CUI E5 C0020517
+A20	UMLS-Preferred-Name E5 Hypersensitivity
+A21	MEDDRA-PT E5 Hypersensitivity
+A22	MEDDRA-PT-ID E5 10020751
+A23	CUI E6 C0161818
+A24	UMLS-Preferred-Name E6 Respiratory complication
+A25	MEDDRA-PT E6 Post procedural complication
+A26	MEDDRA-PT-ID E6 10058046
+A27	LLT E6 Respiratory complications, not elsewhere classified
+A28	LLT-ID E6 10038671
+A29	CUI E7 C0002792
+A30	UMLS-Preferred-Name E7 anaphylaxis
+A31	MEDDRA-PT E7 Anaphylactic reaction
+A32	MEDDRA-PT-ID E7 10002198
+A33	LLT E7 Anaphylaxis
+A34	LLT-ID E7 10002218
+A35	CUI E8 C0020517
+A36	UMLS-Preferred-Name E8 Hypersensitivity
+A37	MEDDRA-PT E8 Hypersensitivity
+A38	MEDDRA-PT-ID E8 10020751
+A39	CUI E9 C0002792
+A40	UMLS-Preferred-Name E9 anaphylaxis
+A41	MEDDRA-PT E9 Anaphylactic reaction
+A42	MEDDRA-PT-ID E9 10002198
+A43	LLT E9 Anaphylaxis
+A44	LLT-ID E9 10002218
+A45	CUI E10 C0002792
+A46	UMLS-Preferred-Name E10 anaphylaxis
+A47	MEDDRA-PT E10 Anaphylactic reaction
+A48	MEDDRA-PT-ID E10 10002198
+A49	CUI E11 C0010200
+A50	UMLS-Preferred-Name E11 Coughing
+A51	MEDDRA-PT E11 Cough
+A52	MEDDRA-PT-ID E11 10011224
+A53	CUI E12 C0041834
+A54	UMLS-Preferred-Name E12 Erythema
+A55	MEDDRA-PT E12 Erythema
+A56	MEDDRA-PT-ID E12 10015150
+A57	CUI E13 C0236071
+A58	UMLS-Preferred-Name E13 Feeling of throat tightness
+A59	MEDDRA-PT E13 Throat tightness
+A60	MEDDRA-PT-ID E13 10043528
+A61	CUI E14 C0042109
+A62	UMLS-Preferred-Name E14 Urticaria
+A63	MEDDRA-PT E14 Urticaria
+A64	MEDDRA-PT-ID E14 10046735
+A65	CUI E15 C0016382
+A66	UMLS-Preferred-Name E15 Flushing
+A67	MEDDRA-PT E15 Flushing
+A68	MEDDRA-PT-ID E15 10016825
+A69	CUI E16 C0010520
+A70	UMLS-Preferred-Name E16 Cyanosis
+A71	MEDDRA-PT E16 Cyanosis
+A72	MEDDRA-PT-ID E16 10011703
+A73	CUI E17 C0020649
+A74	UMLS-Preferred-Name E17 Hypotension
+A75	MEDDRA-PT E17 Hypotension
+A76	MEDDRA-PT-ID E17 10021097
+A77	CUI E18 C0015230
+A78	UMLS-Preferred-Name E18 Exanthema
+A79	MEDDRA-PT E18 Rash
+A80	MEDDRA-PT-ID E18 10037844
+A81	CUI E19 C0013404
+A82	UMLS-Preferred-Name E19 Dyspnea
+A83	MEDDRA-PT E19 Dyspnoea
+A84	MEDDRA-PT-ID E19 10013968
+A85	LLT E19 Dyspnea
+A86	LLT-ID E19 10013963
+A87	CUI E20 C0235710
+A88	UMLS-Preferred-Name E20 Chest discomfort
+A89	MEDDRA-PT E20 Chest discomfort
+A90	MEDDRA-PT-ID E20 10008469
+A91	CUI E21 C0426576
+A92	UMLS-Preferred-Name E21 Gastrointestinal symptom
+A93	MEDDRA-PT E21 Gastrointestinal disorder
+A94	MEDDRA-PT-ID E21 10017944
+A95	LLT E21 Gastrointestinal symptom NOS
+A96	LLT-ID E21 10018011
+A97	CUI E22 C0027497
+A98	UMLS-Preferred-Name E22 Nausea
+A99	MEDDRA-PT E22 Nausea
+A100	MEDDRA-PT-ID E22 10028813
+A101	CUI E23 C0000737
+A102	UMLS-Preferred-Name E23 Abdominal Pain
+A103	MEDDRA-PT E23 Abdominal pain
+A104	MEDDRA-PT-ID E23 10000081
+A105	CUI E24 C0232602
+A106	UMLS-Preferred-Name E24 Retching
+A107	MEDDRA-PT E24 Retching
+A108	MEDDRA-PT-ID E24 10038776
+A109	CUI E25 C0042963
+A110	UMLS-Preferred-Name E25 Vomiting
+A111	MEDDRA-PT E25 Vomiting
+A112	MEDDRA-PT-ID E25 10047700
+A113	CUI E26 C0042109
+A114	UMLS-Preferred-Name E26 Urticaria
+A115	MEDDRA-PT E26 Urticaria
+A116	MEDDRA-PT-ID E26 10046735
+A117	CUI E27 C0002792
+A118	UMLS-Preferred-Name E27 anaphylaxis
+A119	MEDDRA-PT E27 Anaphylactic reaction
+A120	MEDDRA-PT-ID E27 10002198
+A121	LLT E27 Anaphylaxis
+A122	LLT-ID E27 10002218
+A123	CUI E28 C0002792
+A124	UMLS-Preferred-Name E28 anaphylaxis
+A125	MEDDRA-PT E28 Anaphylactic reaction
+A126	MEDDRA-PT-ID E28 10002198
+A127	LLT E28 Anaphylaxis
+A128	LLT-ID E28 10002218
+A129	CUI E29 C0020517
+A130	UMLS-Preferred-Name E29 Hypersensitivity
+A131	MEDDRA-PT E29 Hypersensitivity
+A132	MEDDRA-PT-ID E29 10020751
+A133	CUI E30 C0002792
+A134	UMLS-Preferred-Name E30 anaphylaxis
+A135	MEDDRA-PT E30 Anaphylactic reaction
+A136	MEDDRA-PT-ID E30 10002198
+A137	LLT E30 Anaphylaxis
+A138	LLT-ID E30 10002218
+A139	CUI E31 C0020517
+A140	UMLS-Preferred-Name E31 Hypersensitivity
+A141	MEDDRA-PT E31 Hypersensitivity
+A142	MEDDRA-PT-ID E31 10020751
+A143	CUI E32 C0020517
+A144	UMLS-Preferred-Name E32 Hypersensitivity
+A145	MEDDRA-PT E32 Hypersensitivity
+A146	MEDDRA-PT-ID E32 10020751
+A147	CUI E33 C0002792
+A148	UMLS-Preferred-Name E33 anaphylaxis
+A149	MEDDRA-PT E33 Anaphylactic reaction
+A150	MEDDRA-PT-ID E33 10002198
+A151	CUI E34 C0042109
+A152	UMLS-Preferred-Name E34 Urticaria
+A153	MEDDRA-PT E34 Urticaria
+A154	MEDDRA-PT-ID E34 10046735
+A155	CUI E35 C0085649
+A156	UMLS-Preferred-Name E35 Peripheral edema
+A157	MEDDRA-PT E35 Oedema peripheral
+A158	MEDDRA-PT-ID E35 10030124
+A159	LLT E35 Peripheral edema
+A160	LLT-ID E35 10034570
+A161	CUI E36 C0010200
+A162	UMLS-Preferred-Name E36 Coughing
+A163	MEDDRA-PT E36 Cough
+A164	MEDDRA-PT-ID E36 10011224
+A165	CUI E37 C0013404
+A166	UMLS-Preferred-Name E37 Dyspnea
+A167	MEDDRA-PT E37 Dyspnoea
+A168	MEDDRA-PT-ID E37 10013968
+A169	LLT E37 Dyspnea
+A170	LLT-ID E37 10013963
+A171	CUI E38 C0016382
+A172	UMLS-Preferred-Name E38 Flushing
+A173	MEDDRA-PT E38 Flushing
+A174	MEDDRA-PT-ID E38 10016825
+A175	CUI E39 C0020517
+A176	UMLS-Preferred-Name E39 Hypersensitivity
+A177	MEDDRA-PT E39 Hypersensitivity
+A178	MEDDRA-PT-ID E39 10020751
+A179	LLT E39 Hypersensitivity reaction
+A180	LLT-ID E39 10020756
+A181	CUI E41 C0020517
+A182	UMLS-Preferred-Name E41 Hypersensitivity
+A183	MEDDRA-PT E41 Hypersensitivity
+A184	MEDDRA-PT-ID E41 10020751
+A185	LLT E41 Hypersensitivity reaction
+A186	LLT-ID E41 10020756

@@ -1,0 +1,136 @@
+00000000|AA|VTE|venous thrombotic event|1|3|5|23|1300:3
+00000000|AA|CYP3A4|cytochrome P450 3A4|1|6|5|19|9161:6
+00000000|MMI|91.81|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-49-"hypertension"-noun-0,"HYPERTENSION"-tx-47-"hypertension"-noun-0,"vascular hypertension"-tx-47-"hypertension vascular"-noun-0,"Blood Pressure, High"-tx-46-"High Blood Pressure"-noun-0,"HYPERTENSION"-tx-46-"hypertension"-noun-0,"Blood Pressure, High"-tx-5-"High blood pressure"-noun-0,"HYPERTENSION"-tx-5-"hypertension"-noun-1,"vascular hypertension"-tx-5-"hypertension vascular"-noun-1]|TX|5678/12;5448/12;5448/12,5466/8;5259/19;5315/12;375/19;466/12;466/12,484/8|C14.907.489
+00000000|MMI|83.88|Thrombus|C0087086|[patf]|["Thrombotic"-tx-23-"thrombotic"-adj-0,"Thrombotic"-tx-17-"VTE"-noun-1,"Thrombotic"-tx-15-"VTE"-noun-0,"Thrombotic"-tx-14-"VTE"-noun-0,"Thrombotic"-tx-11-"thrombotic"-noun-0,"Thrombotic"-tx-1-"thrombotic"-adj-0]|TX|2827/10;1882/3;1585/3;1493/3;1282/10;90/10|C14.907.355.830
+00000000|MMI|70.19|Amenorrhea|C0002453|[dsyn]|["AMENORRHOEA"-tx-64-"amenorrhea"-noun-0,"AMENORRHOEA"-tx-63-"amenorrhea"-noun-0,"AMENORRHOEA"-tx-62-"amenorrhea"-noun-0,"AMENORRHOEA"-tx-61-"amenorrhea"-noun-1,"AMENORRHOEA"-tx-9-"amenorrhea"-noun-0]|TX|7408/10;7327/10;7208/10;7170/10;879/10|C23.550.568.500
+00000000|MMI|69.01|Breast Carcinoma|C0678222|[neop]|["Cancer of the Breast"-tx-31-"the of breast cancer"-noun-0,"Cancer of the Breast"-tx-30-"the of breast cancer"-noun-1,"Breast Cancer"-tx-29-"breast cancer"-noun-0,"Breast Cancer"-tx-29-"breast cancer"-noun-1,"Carcinoma of the Breast"-tx-29-"Carcinoma of the Breasts"-noun-0]|TX|3720/3,3734/16;3621/3,3635/16;[3469/13],[3514/13];[3469/13],[3514/13];3378/24|C04.588.180;C17.800.090.500
+00000000|MMI|66.96|Headache|C0018681|[sosy]|["HEADACHE"-tx-56-"Headache"-noun-0,"Headaches"-tx-56-"headaches"-noun-0,"HEADACHE"-tx-8-"Headache"-noun-0,"Headaches"-tx-8-"headaches"-noun-0]|TX|6367/8;6420/9;721/8;763/9|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|53.37|Thromboembolism|C0040038|[patf]|["THROMBOEMBOLISM"-tx-22-"thromboembolism"-noun-0,"THROMBOEMBOLISM"-tx-20-"thromboembolism"-noun-0,"THROMBOEMBOLIC DISEASE"-tx-19-"thromboembolic disease"-noun-0,"Thromboembolic Disorders"-tx-11-"Thromboembolic Disorders"-noun-0]|TX|2590/15;2456/15;2207/22;1186/24|C14.907.355.590
+00000000|MMI|51.98|Disease|C0012634|[dsyn]|["condition"-tx-76-"Conditions"-noun-0,"condition"-tx-64-"condition"-noun-0,"DISEASE"-tx-47-"disease"-noun-0,"condition"-tx-45-"condition"-noun-0,"DISEASE"-tx-5-"disease"-noun-1]|TX|9549/10;7481/9;5475/7;5207/9;493/7|C23.550.288
+00000000|MMI|49.31|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-74-"discontinuation"-noun-0,"Discontinued"-tx-70-"discontinued"-verb-0,"Discontinued"-tx-68-"discontinued"-verb-0,"Discontinuation"-tx-57-"discontinuation"-noun-0,"Discontinue"-tx-56-"discontinue"-verb-0,"Discontinuation"-tx-38-"discontinuation"-noun-0,"Discontinue"-tx-36-"Discontinue"-verb-0,"Discontinued"-tx-19-"discontinued"-verb-0,"Discontinue"-tx-8-"discontinue"-verb-0,"Discontinue"-tx-4-"Discontinue"-verb-0]|TX|9363/15;8421/12;8111/12;6680/15;6496/11;4505/15;4310/11;2295/12;777/11;317/11|
+00000000|MMI|39.37|Metrorrhagia|C0025874|[patf]|["BLEEDING BREAKTHROUGH"-tx-58-"Bleeding Breakthrough"-noun-0,"Spotting"-tx-58-"spotting"-adj-0]|TX|6719/8,6748/12;6774/8|C13.351.500.852.691.622;C23.550.414.993.700
+00000000|MMI|35.81|Chloasma|C0025218|[dsyn]|["CHLOASMA"-tx-78-"chloasma"-noun-0,"CHLOASMA"-tx-77-"Chloasma"-noun-0]|TX|9788/8;9671/8|C17.800.621.430.530
+00000000|MMI|35.81|Prediabetes syndrome|C0362046|[dsyn]|["Pre-diabetic"-tx-51-"prediabetic"-adj-0,"Pre-diabetic"-tx-6-"prediabetic"-adj-0]|TX|5955/11;571/11|C18.452.394.750.774;C19.246.774
+00000000|MMI|33.49|Possible pregnancy (finding)|C0425965|[fndg]|["? Pregnancy"-tx-69-"pregnancy"-noun-1,"? Pregnancy"-tx-68-"pregnancy"-noun-0,"? Pregnancy"-tx-63-"Pregnancy"-noun-1,"? Pregnancy"-tx-60-"pregnancy"-noun-0,"? Pregnancy"-tx-59-"pregnancy"-noun-0,"? Pregnancy"-tx-13-"pregnancy"-noun-0]|TX|8260/9;8127/9;7281/9;7000/9;6958/9;1388/9|
+00000000|MMI|32.64|Hepatocellular Adenoma|C0206669|[neop]|["adenomas hepatic"-tx-41-"hepatic adenomas"-noun-0,"Hepatic adenoma"-tx-39-"Hepatic adenomas"-noun-0]|TX|4748/16;4622/16|C04.557.470.035.120;C04.588.274.623.040;C06.301.623.040;C06.552.697.040
+00000000|MMI|32.35|Venous Thromboembolism|C1861172|[patf]|["VENOUS THROMBOEMBOLISM"-tx-13-"venous thromboembolism"-noun-0,"VENOUS THROMBOEMBOLISM"-tx-12-"venous thromboembolism"-noun-0]|TX|1420/22;1355/22|C14.907.355.590.700
+00000000|MMI|30.83|Hemorrhage|C0019080|[patf]|["BLEEDING"-tx-65-"bleeding"-noun-0,"BLEEDING"-tx-60-"bleeding"-verb-0,"BLEEDING"-tx-59-"bleeding"-noun-0]|TX|7670/8;7024/8;6872/8|C23.550.414
+00000000|MMI|29.46|Icterus|C0022346|[patf]|["JAUNDICE"-tx-36-"jaundice"-noun-0,"JAUNDICE"-tx-4-"jaundice"-noun-0]|TX|4333/8;340/8|C23.550.429.500;C23.888.885.375
+00000000|MMI|26.44|Dyslipidemias|C0242339|[dsyn]|["Dyslipidaemia"-tx-53-"dyslipidemia"-noun-0,"Dyslipidaemia"-tx-7-"dyslipidemia"-noun-0]|TX|6140/12;689/12|C18.452.584.500
+00000000|MMI|26.08|Cholestasis|C0008370|[dsyn]|["CHOLESTASIS"-tx-45-"cholestasis"-noun-0,"CHOLESTASIS"-tx-44-"cholestasis"-noun-0]|TX|5182/11;5066/11|C06.130.120.135
+00000000|MMI|20.95|Angioedemas, Hereditary|C0019243|[dsyn]|["Hereditary angio oedema"-tx-76-"hereditary angioedema"-noun-0]|TX|9579/21|C14.907.079.500;C16.320.078;C17.800.862.945.066.500;C20.543.480.904.066.500
+00000000|MMI|20.95|Diplopia|C0012569|[fndg]|["DIPLOPIA"-tx-26-"diplopia"-noun-0]|TX|3227/8|C10.597.751.941.339;C11.966.339;C23.888.592.763.941.339
+00000000|MMI|20.49|Vascular Diseases|C0042373|[dsyn]|["Disease, Vascular"-tx-47-"vascular disease"-noun-0,"VASCULAR PROBLEM, NOS"-tx-11-"Vascular Problems"-noun-0,"Disease, Vascular"-tx-5-"vascular disease"-noun-1]|TX|5466/16;1221/17;484/16|C14.907
+00000000|MMI|20.48|menstrual periods stopped for over 6 months|C2219717|[sosy]|["Amenorrhea"-tx-64-"amenorrhea"-noun-0,"Amenorrhea"-tx-63-"amenorrhea"-noun-0,"Amenorrhea"-tx-62-"amenorrhea"-noun-0,"Amenorrhea"-tx-61-"amenorrhea"-noun-1,"Amenorrhea"-tx-9-"amenorrhea"-noun-0]|TX|7408/10;7327/10;7208/10;7170/10;879/10|
+00000000|MMI|19.66|Gall Bladder Diseases|C0016977|[dsyn]|["Disease of gallbladder"-tx-50-"of gallbladder disease"-noun-0,"Gall Bladder Disease"-tx-50-"Gallbladder Disease"-noun-0]|TX|5829/2,5843/19;5756/19|C06.130.564
+00000000|MMI|19.54|Blind Vision|C0456909|[fndg]|["Loss of vision"-tx-26-"loss of vision"-noun-0]|TX|3200/14|C10.597.751.941.162;C11.966.075;C23.888.592.763.941.162
+00000000|MMI|19.54|Low Vision|C0042798|[dsyn]|["loss of vision"-tx-26-"loss of vision"-noun-0]|TX|3200/14|C10.597.751.941.905;C11.966.905;C23.888.592.763.941.848
+00000000|MMI|19.41|Retinal Vein Occlusion|C0035328|[dsyn]|["retinal vein thrombosis"-tx-27-"retinal vein thrombosis"-noun-1]|TX|3292/23|C11.768.760;C14.907.355.830.925.650;C14.907.760
+00000000|MMI|19.22|Hypertriglyceridemia|C0020557|[dsyn]|["HYPERTRIGLYCERIDEMIA"-tx-55-"hypertriglyceridemia"-noun-0]|TX|6244/20|C18.452.584.500.500.851
+00000000|MMI|19.22|Migraine Disorders|C0149931|[dsyn]|["MIGRAINE"-tx-57-"migraine"-noun-0]|TX|6574/8|C10.228.140.546.399.750
+00000000|MMI|17.80|Cerebrovascular accident|C0038454|[dsyn]|["Strokes"-tx-18-"strokes"-noun-0]|TX|2093/7|C10.228.140.300.775;C14.907.253.855
+00000000|MMI|17.80|Systemic arterial pressure|C1272641|[fndg]|["Blood pressure"-tx-46-"blood pressure"-noun-0]|TX|5372/14|G09.330.380.076.347
+00000000|MMI|17.80|Uterine hemorrhage|C0042134|[patf]|["Bleeding, Uterine"-tx-9-"Uterine bleeding"-noun-0]|TX|829/16|C13.351.500.852.691;C23.550.414.993
+00000000|MMI|16.39|Visual Impairment|C3665347|[fndg]|["Loss of vision"-tx-26-"loss of vision"-noun-0]|TX|3200/14|C10.597.751.941;C11.966;C23.888.592.763.941
+00000000|MMI|16.07|Angioedema|C0002994|[patf]|["Angiooedema"-tx-76-"angioedema"-noun-0]|TX|9659/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|15.12|Malignant neoplasm of breast|C0006142|[neop]|["Cancer of the Breast"-tx-31-"the of breast cancer"-noun-0,"Cancer of the Breast"-tx-30-"the of breast cancer"-noun-1,"-- Breast Cancer"-tx-29-"breast cancer"-noun-0,"-- Breast Cancer"-tx-29-"breast cancer"-noun-1]|TX|3720/3,3734/16;3621/3,3635/16;[3469/13],[3514/13];[3469/13],[3514/13]|
+00000000|MMI|14.64|Congenital Heart Defects|C0018798|[cgab]|["Cardiac anomalies"-tx-67-"cardiac anomalies"-noun-1]|TX|7969/17|C14.240.400;C14.280.400;C16.131.240.400
+00000000|MMI|14.64|Mental Depression|C0011570|[mobd]|["DEPRESSION"-tx-70-"depression"-noun-0]|TX|8437/10|F01.145.126.350
+00000000|MMI|14.64|Myocardial Infarction|C0027051|[dsyn]|["Myocardial Infarctions"-tx-18-"myocardial infarctions"-noun-0]|TX|2105/22|C14.280.647.500;C14.907.585.500
+00000000|MMI|14.64|Papilledema|C0030353|[dsyn]|["PAPILLOEDEMA"-tx-26-"papilledema"-noun-0]|TX|3237/11|C10.292.700.900;C11.640.710
+00000000|MMI|14.60|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-49-"hypertension"-noun-0,"Hypertension"-tx-47-"hypertension"-noun-0,"Hypertension"-tx-46-"hypertension"-noun-0,"Hypertension"-tx-5-"hypertension"-noun-1]|TX|5678/12;5448/12;5315/12;466/12|
+00000000|MMI|14.05|Liver diseases|C0023895|[dsyn]|["LIVER DISEASE"-tx-36-"Liver Disease"-noun-0,"LIVER DISEASE"-tx-4-"Liver disease"-noun-0]|TX|4291/13;301/13|C06.552
+00000000|MMI|13.03|Oligomenorrhea|C0028949|[patf]|["OLIGOMENORRHOEA"-tx-64-"oligomenorrhea"-noun-0]|TX|7422/14|C23.550.568.937
+00000000|MMI|12.96|Hemoperitoneum|C0019065|[patf]|["Intraabdominal hemorrhage"-tx-41-"intra-abdominal hemorrhage"-noun-0]|TX|4789/26|C06.844.400;C23.550.414.888
+00000000|MMI|12.93|Cholestasis of pregnancy|C0268318|[dsyn]|["Pregnancy-Related Cholestasis"-tx-44-"pregnancy-related cholestasis"-noun-0]|TX|5115/29|x.x.x.x
+00000000|MMI|12.90|Adenoma|C0001430|[neop]|["Adenomas"-tx-41-"adenomas"-noun-0]|TX|4756/8|C04.557.470.035
+00000000|MMI|11.58|Indicated|C1444656|[fndg]|["Indicated"-tx-73-"indicated"-adj-0,"Indicated"-tx-56-"indicated"-verb-0,"Indicated"-tx-8-"indicated"-verb-0]|TX|9040/9;6519/9;800/9|
+00000000|MMI|11.49|Depressive disorder|C0011581|[mobd]|["-- Depression"-tx-70-"depression"-noun-0]|TX|8437/10|F03.600.300
+00000000|MMI|11.49|Exophthalmos|C0015300|[dsyn]|["PROPTOSIS"-tx-26-"proptosis"-noun-0]|TX|3216/9|C11.675.349
+00000000|MMI|11.49|Teratogenesis|C0232910|[patf]|["Teratogenic Effect"-tx-67-"teratogenic effect"-noun-1]|TX|7923/18|C23.550.863
+00000000|MMI|10.74|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-77-"history of"-noun-0,"HISTORY OF"-tx-45-"history of"-noun-0,"HISTORY OF"-tx-44-"history of"-noun-0]|TX|9731/10;5159/10;5104/10|
+00000000|MMI|10.60|10%|C3842590|[fndg]|["10%"-tx-70-"10"-real_number-0,"10%"-tx-65-"10"-integer-0,"10%"-tx-14-"10"-comma_integer-0]|TX|8326/2;7630/2;1553/2|
+00000000|MMI|10.47|Related personal status|C0445223|[fndg]|["Related"-tx-52-"related"-adj-0,"Related"-tx-45-"related"-adj-0,"Related"-tx-44-"related"-adj-0]|TX|6056/7;5174/7;5058/7|
+00000000|MMI|10.42|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-35-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-28-"Adverse Reactions"-noun-0]|TX|4248/17;3334/17|
+00000000|MMI|10.42|History of delivery|C2053584|[fndg]|["delivery"-tx-21-"delivery"-noun-1,"delivery"-tx-3-"delivery"-noun-1]|TX|2521/8;237/8|
+00000000|MMI|10.42|jaundice|C2010848|[fndg]|["jaundice"-tx-36-"jaundice"-noun-0,"jaundice"-tx-4-"jaundice"-noun-0]|TX|4333/8;340/8|
+00000000|MMI|10.42|yellow skin or eyes (symptom)|C2203646|[sosy]|["jaundice"-tx-36-"jaundice"-noun-0,"jaundice"-tx-4-"jaundice"-noun-0]|TX|4333/8;340/8|
+00000000|MMI|9.86|Pancreatitis|C0030305|[dsyn]|["PANCREATITIS"-tx-55-"pancreatitis"-noun-0]|TX|6326/12|C06.689.750
+00000000|MMI|8.34|Liver Dysfunction|C0086565|[patf]|["Impaired liver function"-tx-37-"impaired liver function"-noun-0]|TX|4412/23|C06.552
+00000000|MMI|7.70|reported prior liver disease (history)|C2186532|[fndg]|["liver disease"-tx-36-"Liver Disease"-noun-0,"liver disease"-tx-4-"Liver disease"-noun-0]|TX|4291/13;301/13|
+00000000|MMI|7.61|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-56-"Headache"-noun-0,"headache"-tx-8-"Headache"-noun-0]|TX|6367/8;721/8|
+00000000|MMI|7.49|Used by|C1273517|[fndg]|["used"-tx-69-"used"-verb-1,"used"-tx-66-"used"-verb-1]|TX|8241/4;7848/4|
+00000000|MMI|7.42|5-6|C3843715|[fndg]|["5-6"-tx-51-"5.6"-real_number-0,"5-6"-tx-8-"5.6"-real_number-0]|TX|5887/3;706/3|
+00000000|MMI|7.42|6/5|C0442749|[fndg]|["5 6"-tx-51-"5.6"-real_number-0,"5 6"-tx-8-"5.6"-real_number-0]|TX|5887/3;706/3|
+00000000|MMI|7.40|Breastfeeding (infant)|C1623041|[fndg]|["Breast feeding"-tx-21-"breastfeeding"-noun-1,"Breast feeding"-tx-3-"breastfeeding"-noun-1]|TX|2552/13;268/13|
+00000000|MMI|7.40|Breastfeeding (mother)|C1623040|[fndg]|["Breast feeding"-tx-21-"breastfeeding"-noun-1,"Breast feeding"-tx-3-"breastfeeding"-noun-1]|TX|2552/13;268/13|
+00000000|MMI|7.32|Uncontrolled hypertension|C1868885|[dsyn]|["Uncontrolled hypertension"-tx-47-"uncontrolled hypertension"-noun-0,"Uncontrolled hypertension"-tx-5-"uncontrolled hypertension"-noun-1]|TX|5419/25;437/25|
+00000000|MMI|7.25|early pregnancy|C0747845|[dsyn]|["early pregnancy"-tx-67-"early pregnancy"-noun-0,"early pregnancy"-tx-66-"Early Pregnancy"-noun-0]|TX|8061/15;7726/15|
+00000000|MMI|7.04|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-24-"risk factors"-noun-0,"risk factors"-tx-18-"risk factors"-noun-0]|TX|3044/12;2160/12|
+00000000|MMI|7.04|Diabetic|C0241863|[fndg]|["DIABETIC"-tx-51-"diabetic"-adj-0,"DIABETIC"-tx-6-"diabetic"-adj-0]|TX|5971/8;587/8|
+00000000|MMI|6.72|Rupture|C3203359|[inpo]|["Rupture"-tx-41-"Rupture"-noun-0]|TX|4737/7|C26.761
+00000000|MMI|6.63|Hypersensitivity|C0020517|[patf]|["Sensitive"-tx-29-"sensitive"-adj-1]|TX|3544/9|C20.543
+00000000|MMI|6.60|Congenital Abnormality|C0000768|[cgab]|["BIRTH DEFECTS"-tx-66-"birth defects"-noun-1]|TX|7816/13|C16.131
+00000000|MMI|5.18|Blood pressure finding|C1271104|[fndg]|["Blood Pressure"-tx-46-"blood pressure"-noun-0]|TX|5372/14|
+00000000|MMI|5.18|Brain hemorrhage|C0553692|[dsyn]|["hemorrhagic strokes"-tx-23-"hemorrhagic strokes"-noun-0]|TX|2842/19|
+00000000|MMI|5.18|Depressed - symptom|C1579931|[sosy]|["depression"-tx-70-"depression"-noun-0]|TX|8437/10|
+00000000|MMI|5.18|Depressed mood|C0344315|[fndg]|["depression"-tx-70-"depression"-noun-0]|TX|8437/10|
+00000000|MMI|5.18|Finding relating to sexuality and sexual activity|C3495422|[fndg]|["Sexual behaviour, NOS"-tx-33-"sexual behavior"-noun-0]|TX|4034/15|
+00000000|MMI|5.18|Gait normal|C0231683|[fndg]|["Normal"-tx-38-"normal"-adj-0]|TX|4574/6|
+00000000|MMI|5.18|Hemorrhagic cerebral infarction|C0472369|[dsyn]|["Haemorrhagic Strokes"-tx-23-"hemorrhagic strokes"-noun-0]|TX|2842/19|
+00000000|MMI|5.18|Intraepithelial Neoplasia|C0878500|[neop]|["Intraepithelial Neoplasia"-tx-32-"intraepithelial neoplasia"-noun-0]|TX|3907/25|
+00000000|MMI|5.18|Malignant Neoplasms|C0006826|[neop]|["MALIGNANCY"-tx-59-"malignancy"-noun-0]|TX|6971/10|
+00000000|MMI|5.18|Menstrual spotting|C0312414|[sosy]|["SPOTTING"-tx-58-"spotting"-adj-0]|TX|6774/8|
+00000000|MMI|5.18|Mixed Population Pregnancy Status|C2826362|[fndg]|["NOT PREGNANT"-tx-61-"not pregnant"-adj-0]|TX|7125/12|
+00000000|MMI|5.18|Not pregnant (finding)|C0232973|[fndg]|["NOT PREGNANT"-tx-61-"not pregnant"-adj-0]|TX|7125/12|
+00000000|MMI|5.18|Pathology processes|C0677042|[patf]|["pathology"-tx-60-"pathology"-noun-0]|TX|6986/9|
+00000000|MMI|5.18|Primary malignant neoplasm|C1306459|[neop]|["Malignancy"-tx-59-"malignancy"-noun-0]|TX|6971/10|
+00000000|MMI|5.18|Symptom aggravating factors|C0436331|[fndg]|["exacerbate"-tx-76-"exacerbate"-verb-0]|TX|9636/10|
+00000000|MMI|5.18|Withdrawal bleeding|C0152010|[dsyn]|["WITHDRAWAL BLEEDING"-tx-69-"withdrawal bleeding"-noun-0]|TX|8207/19|
+00000000|MMI|5.18|birth control pill use|C0240604|[fndg]|["Oral contraceptive use"-tx-68-"Oral contraceptive use"-noun-0]|TX|8078/22|
+00000000|MMI|5.18|irregular bleeding|C0745411|[sosy]|["IRREGULAR BLEEDING"-tx-9-"irregular bleeding"-noun-0]|TX|857/18|
+00000000|MMI|4.19|vascular; lesion, retina|C1402303|[dsyn]|["RETINAL VASCULAR LESION"-tx-26-"retinal vascular lesions"-noun-0]|TX|3253/24|
+00000000|MMI|4.12|Longitudinal deficiency of limb|C0265547|[cgab]|["Limb reduction defect"-tx-67-"limb-reduction defects"-noun-0]|TX|7991/22|
+00000000|MMI|3.81|Increase in blood pressure|C0497247|[fndg]|["Increase in blood pressure"-tx-48-"increase in blood pressure"-noun-0]|TX|5511/26|
+00000000|MMI|3.77|Abnormal vision|C3665386|[fndg]|["Loss of vision"-tx-26-"loss of vision"-noun-0]|TX|3200/14|
+00000000|MMI|3.77|Unspecified visual loss|C3665346|[sosy]|["Loss Of Vision"-tx-26-"loss of vision"-noun-0]|TX|3200/14|
+00000000|MMI|3.75|Family history|C0241889|[fndg]|["FAMILY HISTORY"-tx-55-"family history"-noun-0]|TX|6271/14|
+00000000|MMI|3.70|Carcinoma of Male Breast|C0238033|[neop]|["carcinoma of the breast"-tx-29-"Carcinoma of the Breasts"-noun-0]|TX|3378/24|
+00000000|MMI|3.70|Female Breast Carcinoma|C0007104|[neop]|["carcinoma of the breast"-tx-29-"Carcinoma of the Breasts"-noun-0]|TX|3378/24|
+00000000|MMI|3.70|Laboratory test interference|C0151749|[fndg]|["Interference with laboratory test"-tx-71-"Interference with Laboratory Tests"-noun-0]|TX|8491/34|
+00000000|MMI|3.69|Increased hepatocellular carcinoma risk|C1862761|[fndg]|["Increased risk of hepatocellular carcinoma"-tx-42-"increased risk of hepatocellular carcinoma"-noun-0]|TX|4843/17,4872/24|
+00000000|MMI|3.68|Adverse Event Associated with Vascular|C1558950|[fndg]|["VASCULAR"-tx-1-"Vascular"-noun-0]|TX|55/8|
+00000000|MMI|3.68|3/9|C0442760|[fndg]|["3/9"-tx-14-"3 9"-integer-0]|TX|1542/1,1547/1|
+00000000|MMI|3.65|Break-through bleeding (finding)|C3495440|[fndg]|["Bleeding breakthrough"-tx-58-"Bleeding Breakthrough"-noun-0]|TX|6719/8,6748/12|
+00000000|MMI|3.64|Pregnancy on oral contraceptive|C0235673|[fndg]|["contraceptives oral pregnancy"-tx-66-"oral contraceptives pregnancy"-noun-1]|TX|7853/19,7882/9|
+00000000|MMI|3.64|Thrombosis of retinal vein|C1527411|[dsyn]|["RETINAL VEIN THROMBOSIS"-tx-27-"retinal vein thrombosis"-noun-1]|TX|3292/23|
+00000000|MMI|3.63|Neoplasms|C0027651|[neop]|["Tumour NOS"-tx-29-"tumor"-noun-1]|TX|3554/5|C04
+00000000|MMI|3.63|Tumor Mass|C3273930|[fndg]|["Tumor"-tx-29-"tumor"-noun-1]|TX|3554/5|
+00000000|MMI|3.62|Rupture of liver|C0341444|[inpo]|["rupture hepatic"-tx-41-"Rupture hepatic"-noun-0]|TX|4737/7,4748/7|
+00000000|MMI|3.62|Sun Exposure|C1456711|[fndg]|["Sun Exposure"-tx-78-"exposure sun"-noun-0]|TX|9810/8,9826/3|
+00000000|MMI|3.60|Laboratory test finding|C0587081|[fndg]|["Laboratory test results"-tx-71-"results laboratory tests"-noun-0]|TX|8562/7,8578/16|
+00000000|MMI|3.59|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-76-"symptoms"-noun-0]|TX|9647/8|
+00000000|MMI|3.57|Test Result|C0456984|[fndg]|["Test"-tx-69-"test"-noun-1]|TX|8251/4|
+00000000|MMI|3.56|Death (finding)|C1306577|[fndg]|["Death"-tx-41-"death"-noun-0]|TX|4775/5|
+00000000|MMI|3.55|Pancreatitis Adverse Event|C1963198|[fndg]|["Pancreatitis"-tx-55-"pancreatitis"-noun-0]|TX|6326/12|
+00000000|MMI|3.50|Before pregnancy|C3840692|[fndg]|["Prior to pregnancy"-tx-66-"prior to pregnancy"-noun-1]|TX|7873/18|
+00000000|MMI|3.50|Intraabdominal hemorrhage|C0236178|[patf]|["Intraabdominal hemorrhage"-tx-41-"intra-abdominal hemorrhage"-noun-0]|TX|4789/26|
+00000000|MMI|3.50|4+ Answer to question|C3838679|[fndg]|["4+"-tx-17-"4"-integer-1]|TX|1955/1|
+00000000|MMI|3.50|Hypertensive (finding)|C0857121|[fndg]|["Hypertensive"-tx-23-"hypertensive"-adj-0]|TX|2939/12|
+00000000|MMI|3.49|Liver and Intrahepatic Biliary Tract Carcinoma|C0279000|[neop]|["Cancer of the Liver"-tx-43-"the of liver cancers"-noun-0]|TX|4942/3,4964/16|
+00000000|MMI|3.49|Malignant neoplasm of liver|C0345904|[neop]|["Cancer of the Liver"-tx-43-"the of liver cancers"-noun-0]|TX|4942/3,4964/16|
+00000000|MMI|3.49|LIVER FUNCTION CHRONIC|C0745748|[fndg]|["LIVER FUNCTION CHRONIC"-tx-38-"chronic liver function"-noun-0]|TX|4446/7,4470/14|
+00000000|MMI|3.49|Thyroid hormones increased|C1328578|[fndg]|["Increased thyroid hormone"-tx-72-"increased thyroid hormone"-noun-0]|TX|8728/9,8747/15|
+00000000|MMI|3.49|History of - gallbladder disease|C0558976|[fndg]|["gallbladder disease"-tx-50-"Gallbladder Disease"-noun-0]|TX|5756/19|
+00000000|MMI|3.47|Risk factor for cardiovascular disease|C0847284|[fndg]|["Risk factor cardiovascular disease"-tx-25-"cardiovascular disease risk factors"-noun-0]|TX|3122/35|
+00000000|MMI|3.46|5 - 9|C3840622|[fndg]|["5 - 9"-tx-66-"5.9"-real_number-0]|TX|7697/3|
+00000000|MMI|3.45|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-40-"3"-real_number-0]|TX|4708/1|
+00000000|MMI|3.45|Arterial thrombosis|C0151942|[patf]|["ARTERIAL THROMBOSIS"-tx-18-"arterial thromboses"-noun-0]|TX|2065/19|
+00000000|MMI|3.45|Cervix carcinoma|C0302592|[neop]|["CERVICAL CANCER"-tx-32-"cervical cancer"-noun-0]|TX|3888/15|
+00000000|MMI|3.45|Congenital defects|C0220810|[cgab]|["Birth Defects"-tx-66-"birth defects"-noun-1]|TX|7816/13|
+00000000|MMI|3.45|Malignant tumor of cervix|C0007847|[neop]|["Cervical cancer"-tx-32-"cervical cancer"-noun-0]|TX|3888/15|
+00000000|MMI|3.45|Melasma gravidarum|C0263571|[sosy]|["Chloasma gravidarum"-tx-77-"chloasma gravidarum"-noun-0]|TX|9742/19|
+00000000|MMI|3.45|Serum triglycerides raised|C0428478|[fndg]|["Hypertriglyceridemia"-tx-55-"hypertriglyceridemia"-noun-0]|TX|6244/20|
+00000000|MMI|3.45|cervical cancer|C4048328|[neop]|["CERVICAL CANCER"-tx-32-"cervical cancer"-noun-0]|TX|3888/15|
+00000000|MMI|3.45|reported family history of birth defects (history)|C2186260|[fndg]|["birth defects"-tx-66-"birth defects"-noun-1]|TX|7816/13|
+00000000|MMI|3.45|H/O: depression|C0455503|[fndg]|["History of depression"-tx-70-"Depression history of"-noun-0]|TX|8329/10,8358/10|

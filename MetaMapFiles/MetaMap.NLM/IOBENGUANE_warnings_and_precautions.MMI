@@ -1,0 +1,67 @@
+00000000|MMI|66.78|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-29-"renal impairment"-noun-0,"Renal Impairment"-tx-27-"renal impairment"-noun-0,"Renal Impairment"-tx-26-"Renal Impairment"-noun-0,"Renal Impairment"-tx-6-"renal impairment"-noun-0]|TX|5051/16;4740/16;4607/16;640/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|32.72|Exposure to radiation|C0015333|[inpo]|["RADIATION EXPOSURE"-tx-26-"Radiation Exposure"-noun-0,"RADIATION EXPOSURE"-tx-6-"radiation exposure"-noun-0]|TX|4564/18;676/18|G01.750.748;N06.850.460.350.850
+00000000|MMI|25.58|Neuroblastoma|C0027819|[neop]|["NEUROBLASTOMA"-tx-15-"Neuroblastoma"-noun-0]|TX|2640/13|C04.557.465.625.600.590.650.550;C04.557.470.670.590.650.550;C04.557.580.625.600.590.650.550
+00000000|MMI|24.11|Pheochromocytoma|C0031511|[neop]|["PHEOCHROMOCYTOMA"-tx-15-"Pheochromocytoma"-noun-0]|TX|2619/16|C04.557.465.625.650.700.725;C04.557.580.625.650.700.725
+00000000|MMI|21.34|Obstruction|C0028778|[patf]|["BLOCK"-tx-32-"block"-verb-0,"blocks"-tx-13-"inhibit"-verb-0,"BLOCK"-tx-7-"block"-verb-0,"BLOCK"-tx-3-"block"-verb-0]|TX|5561/5;[2134/7],[2202/7];763/5;247/5|
+00000000|MMI|20.95|Shy-Drager Syndrome|C0037019|[dsyn]|["Multiple System Atrophy"-tx-31-"multiple system atrophy"-noun-0]|TX|5409/23|C10.177.575.550.750;C10.228.140.079.612.700;C10.228.662.550.700;C10.574.625.700;C14.907.514.741
+00000000|MMI|20.60|Hypersensitivity|C0020517|[patf]|["HYPERSENSITIVITY"-tx-10-"hypersensitivity"-noun-0,"Hypersensitivity reactions"-tx-8-"Hypersensitivity Reactions"-noun-0,"Hypersensitivity reactions"-tx-1-"Hypersensitivity reactions"-noun-0]|TX|1424/16;871/26;52/26|C20.543
+00000000|MMI|20.48|Cardiac Arrest|C0018790|[dsyn]|["arrested"-tx-13-"inhibit"-verb-0]|TX|[2134/7],[2202/7]|C14.280.383
+00000000|MMI|19.22|Parkinson Disease|C0030567|[dsyn]|["PARKINSON DISEASE"-tx-31-"Parkinson's disease"-noun-0]|TX|5386/19|C10.228.140.079.862.500;C10.228.662.600.400;C10.574.812
+00000000|MMI|17.80|Infant, Premature|C0021294|[dsyn]|["Premature infants"-tx-21-"premature infants"-noun-0]|TX|3880/17|M01.060.703.520.520
+00000000|MMI|17.80|Multiple System Atrophy|C0393571|[dsyn]|["Multiple System Atrophy"-tx-31-"multiple system atrophy"-noun-0]|TX|5409/23|C10.177.575.550;C10.228.140.079.612;C10.228.662.550;C10.574.625
+00000000|MMI|17.80|Neuroendocrine Tumors|C0206754|[neop]|["Neuroendocrine Tumors"-tx-15-"neuroendocrine tumors"-noun-0]|TX|2715/21|C04.557.465.625.650;C04.557.580.625.650
+00000000|MMI|16.37|Chest Pain|C0008031|[sosy]|["CHEST PAIN"-tx-19-"chest pain"-noun-1]|TX|3604/10|C10.597.617.192;C23.888.592.612.233
+00000000|MMI|16.33|Systemic arterial pressure|C1272641|[fndg]|["Blood pressure"-tx-33-"blood pressure"-noun-0]|TX|5767/14|G09.330.380.076.347
+00000000|MMI|16.21|Parkinsonian Disorders|C0242422|[dsyn]|["Parkinsonian Syndromes"-tx-31-"Parkinsonian syndromes"-noun-0]|TX|5355/22|C10.228.140.079.862;C10.228.662.600
+00000000|MMI|16.05|Premature Birth|C0151526|[fndg]|["Premature"-tx-5-"premature"-adj-0]|TX|565/9|C13.703.420.491.500
+00000000|MMI|16.05|Kernicterus|C0022610|[dsyn]|["KERNICTERUS"-tx-22-"kernicterus"-noun-0]|TX|4104/11|C10.228.140.163.480;C15.378.295.502;C16.614.304.502;C18.452.132.480;C20.306.502;C23.550.429.750
+00000000|MMI|14.64|Emergencies [Disease/Finding]|C2745965|[patf]|["Emergency"-tx-35-"emergency"-noun-0]|TX|6073/9|C23.550.291.781;N06.230.100.083;N06.850.376
+00000000|MMI|14.64|Thyroid Neoplasm|C0040136|[neop]|["Thyroid neoplasia"-tx-32-"thyroid neoplasia"-noun-0]|TX|5642/17|C04.588.322.894;C04.588.443.915;C19.344.894;C19.874.788
+00000000|MMI|11.49|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-22-"hypotension"-noun-0]|TX|4014/11|C14.907.514
+00000000|MMI|10.76|Withdrawal (dysfunction)|C2825032|[mobd]|["Withdrawal"-tx-19-"withdrawal"-noun-0,"Withdrawal"-tx-13-"withdrawal"-noun-0,"Withdrawal"-tx-4-"withdrawal"-noun-0]|TX|3506/10;2039/10;436/10|
+00000000|MMI|10.76|Withdrawal - birth control|C3812880|[fndg]|["Withdrawal"-tx-19-"withdrawal"-noun-0,"Withdrawal"-tx-13-"withdrawal"-noun-0,"Withdrawal"-tx-4-"withdrawal"-noun-0]|TX|3506/10;2039/10;436/10|
+00000000|MMI|10.74|Drug withdrawal syndrome|C0152128|[dsyn]|["Medication withdrawal"-tx-19-"medication withdrawal"-noun-0,"Medication withdrawal"-tx-13-"withdrawal medications"-noun-0,"Medication withdrawal"-tx-12-"Withdrawal Medications"-noun-0]|TX|3495/21;1978/10,2020/11;1669/10,1683/11|
+00000000|MMI|10.65|Experimental Result|C2825142|[fndg]|["Result"-tx-32-"result"-verb-0,"Result"-tx-12-"results"-noun-0,"Result"-tx-7-"result"-verb-0]|TX|5600/6;1888/7;795/6|
+00000000|MMI|10.58|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-24-"toxicity"-noun-0,"Toxicity"-tx-22-"toxicity"-noun-0,"Toxicity"-tx-20-"Toxicity"-noun-0]|TX|4380/8;4004/8;3718/8|
+00000000|MMI|9.94|Cardiac Arrhythmia|C0003811|[fndg]|["Arrythmia"-tx-19-"arrhythmia"-noun-1]|TX|3667/10|C14.280.067;C23.550.073
+00000000|MMI|9.94|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-33-"Hypertension"-noun-0]|TX|5718/12|C14.907.489
+00000000|MMI|9.74|Withdrawal Symptoms|C0087169|[sosy]|["WITHDRAWAL SYMPTOMS"-tx-16-"withdrawal symptoms"-noun-0]|TX|2920/19|C25.775.835;F03.900.825
+00000000|MMI|9.71|Disease|C0012634|[dsyn]|["condition"-tx-31-"Conditions"-noun-0]|TX|5217/10|C23.550.288
+00000000|MMI|8.34|Heart Diseases|C0018799|[dsyn]|["HEART DISEASE"-tx-31-"heart disease"-noun-0]|TX|5495/13|C14.280
+00000000|MMI|7.79|Mental blocking|C0233660|[mobd]|["Blocking"-tx-13-"inhibit"-verb-0]|TX|[2134/7],[2202/7]|
+00000000|MMI|7.49|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-18-"discontinuation"-noun-1,"Discontinue"-tx-14-"discontinue"-verb-0]|TX|3247/15;2488/11|
+00000000|MMI|7.47|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-24-"symptoms"-noun-0,"SYMPTOMS"-tx-4-"symptoms"-noun-0]|TX|4353/8;457/8|
+00000000|MMI|7.33|5-6|C3843715|[fndg]|["5-6"-tx-32-"5.6"-real_number-0,"5-6"-tx-8-"5.6"-real_number-0]|TX|5519/3;848/3|
+00000000|MMI|7.33|6/5|C0442749|[fndg]|["5 6"-tx-32-"5.6"-real_number-0,"5 6"-tx-8-"5.6"-real_number-0]|TX|5519/3;848/3|
+00000000|MMI|7.05|Accumulation|C4055506|[fndg]|["ACCUMULATION"-tx-32-"Accumulation"-noun-0,"ACCUMULATION"-tx-7-"accumulation"-noun-0]|TX|5531/12;816/12|
+00000000|MMI|6.92|Physical findings|C0311392|[fndg]|["SIGNS"-tx-24-"signs"-noun-0,"SIGNS"-tx-4-"signs"-noun-0]|TX|4344/5;447/5|
+00000000|MMI|5.18|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-11-"Adverse Reactions"-noun-0]|TX|1556/17|
+00000000|MMI|5.18|Congestive heart failure|C0018802|[dsyn]|["CONGESTIVE HEART FAILURE"-tx-17-"Congestive Heart Failure"-noun-0]|TX|3045/24|
+00000000|MMI|5.18|Hemodynamic instability|C0948268|[dsyn]|["Hemodynamic Instability"-tx-19-"hemodynamic instability"-noun-1]|TX|3616/23|
+00000000|MMI|5.18|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-22-"hypotension"-noun-0]|TX|4014/11|
+00000000|MMI|5.18|Metabolic acidosis|C0220981|[patf]|["Acidosis, Metabolic"-tx-22-"metabolic acidosis"-noun-0]|TX|4027/18|
+00000000|MMI|5.18|Used by|C1273517|[fndg]|["used"-tx-17-"used"-verb-0]|TX|3093/4|
+00000000|MMI|3.72|Blood pressure finding|C1271104|[fndg]|["Blood Pressure"-tx-33-"blood pressure"-noun-0]|TX|5767/14|
+00000000|MMI|3.68|2+|C3833492|[fndg]|["2+"-tx-32-"2"-real_number-0]|TX|5694/1|
+00000000|MMI|3.68|Iodine allergy|C0571818|[dsyn]|["Iodine Hypersensitivity"-tx-10-"hypersensitivity iodine"-noun-0]|TX|1201/16,1221/6|
+00000000|MMI|3.68|iodine allergic reaction|C0850094|[inpo]|["iodine Hypersensitivity"-tx-10-"hypersensitivity iodine"-noun-0]|TX|1201/16,1221/6|
+00000000|MMI|3.64|Not Eligible|C1555471|[fndg]|["Not Eligible"-tx-19-"not eligible"-adj-0]|TX|3384/12|
+00000000|MMI|3.63|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-33-"Hypertension"-noun-0]|TX|5718/12|
+00000000|MMI|3.60|False Negative Result Medical Device Problem|C1880722|[fndg]|["False Negative Result"-tx-15-"false negative results"-noun-0]|TX|2749/14,2772/7|
+00000000|MMI|3.60|Medication Risk|C0184544|[fndg]|["medication risks"-tx-19-"risks medication"-noun-0]|TX|3485/5,3495/10|
+00000000|MMI|3.59|Gasping syndrome|C2609173|[sosy]|["Gasping Syndrome"-tx-21-"Gasping Syndrome"-noun-0]|TX|3859/16|
+00000000|MMI|3.59|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-23-"exposure"-noun-0]|TX|4242/8|
+00000000|MMI|3.59|exposure history|C2220266|[fndg]|["exposure"-tx-23-"exposure"-noun-0]|TX|4242/8|
+00000000|MMI|3.56|Increased excretory function|C0311428|[fndg]|["Increased Elimination"-tx-27-"increased elimination"-noun-0]|TX|4764/9,4793/11|
+00000000|MMI|3.55|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-21-"fatal"-adj-0]|TX|3852/5|
+00000000|MMI|3.55|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-10-"hypersensitivity"-noun-0]|TX|1424/16|
+00000000|MMI|3.55|Patient reaction finding|C0521985|[fndg]|["Patient reaction"-tx-9-"patient reactions"-noun-0]|TX|1022/7,1053/9|
+00000000|MMI|3.50|Central neuroblastoma|C0700095|[neop]|["Neuroblastoma"-tx-15-"Neuroblastoma"-noun-0]|TX|2640/13|
+00000000|MMI|3.46|Elevated circulating catecholamine level|C4025629|[fndg]|["Elevated circulating catecholamine level"-tx-16-"elevated levels circulating catecholamines"-noun-0]|TX|2966/15,2985/26|
+00000000|MMI|3.46|Transient hypertension|C0152170|[dsyn]|["Hypertension, transient"-tx-34-"transient hypertension"-noun-0]|TX|5941/9,5962/12|
+00000000|MMI|3.45|nervous system disorder|C0027765|[dsyn]|["nervous system condition"-tx-31-"Nervous System conditions"-noun-0]|TX|5256/14,5294/10|C10
+00000000|MMI|3.44|Death (finding)|C1306577|[fndg]|["DEATHS"-tx-23-"deaths"-noun-0]|TX|4188/6|
+00000000|MMI|3.44|In care (finding)|C0580931|[fndg]|["care"-tx-13-"care"-noun-0]|TX|1959/4|
+00000000|MMI|3.44|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-9-"history of"-noun-0]|TX|1036/10|
+00000000|MMI|3.43|Diagnosis|C0011900|[fndg]|["Diagnostic"-tx-29-"diagnostic"-adj-0]|TX|5005/10|E01
+00000000|MMI|3.43|Medication 2|C3840903|[fndg]|["Medication 2"-tx-12-"2 Medications"-noun-0]|TX|1595/1,1631/11|

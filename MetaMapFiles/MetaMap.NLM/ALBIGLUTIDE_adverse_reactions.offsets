@@ -1,0 +1,141 @@
+156,162|C0027651|Tumors|neop
+208,226|C0001339|Acute Pancreatitis|dsyn
+272,284;309,316|C0858734|Hypoglycemia Insulin|dsyn
+387,413|C0020517|Hypersensitivity Reactions|patf
+459,475|C1565489|Renal Impairment|dsyn
+655,688|C0041912|upper respiratory tract infection|dsyn
+690,698|C0011991|diarrhea|sosy
+690,698|C1963091|diarrhea|fndg
+700,706|C0027497|nausea|sosy
+700,706|C1963179|nausea|patf
+708,731|C0151735|injection site reaction|patf
+733,738|C0010200|cough|sosy
+733,738|C1961131|cough|fndg
+740,749|C0004604|back pain|sosy
+740,749|C1963071|back pain|fndg
+751,761|C0003862|arthralgia|sosy
+763,772|C0037199|sinusitis|dsyn
+778,787|C0021400|influenza|dsyn
+1033,1043|C0012634|conditions|dsyn
+1364,1368|C1273517|used|fndg
+1409,1416|C1363945|therapy|fndg
+1639,1647|C3840862|75 years|fndg
+1836,1851|C0011860|type 2 diabetes|dsyn
+1969,1990|C0031117|peripheral neuropathy|dsyn
+2007,2018|C0035309|retinopathy|dsyn
+2007,2018|C1962966|retinopathy|fndg
+2058,2064|C0231683|normal|fndg
+2187,2190|C1524029|min|neop
+2264,2276|C0020615|hypoglycemia|dsyn
+2758,2791|C0041912|Upper respiratory tract infection|dsyn
+2867,2875|C0011991|Diarrhea|sosy
+2867,2875|C1963091|Diarrhea|fndg
+2976,2982|C0027497|Nausea|sosy
+2976,2982|C1963179|Nausea|patf
+3085,3099|C0221208|Injection site|inpo
+3194,3199|C0010200|Cough|sosy
+3194,3199|C1961131|Cough|fndg
+3303,3312|C0004604|Back pain|sosy
+3303,3312|C1963071|Back pain|fndg
+3412,3422|C0003862|Arthralgia|sosy
+3521,3530|C0037199|Sinusitis|dsyn
+3630,3639|C0021400|Influenza|dsyn
+3829,3832;3852,3863|C0240320|use medications|fndg
+4021,4045|C0151735|injection site reactions|patf
+4163,4173|C0277786|complaints|fndg
+4292,4300|C0011991|diarrhea|sosy
+4292,4300|C1963091|diarrhea|fndg
+4305,4311|C0027497|nausea|sosy
+4305,4311|C1963179|nausea|patf
+4437,4445|C0042963|vomiting|sosy
+4437,4445|C1963281|vomiting|patf
+4493,4524|C0017168|gastroesophageal reflux disease|dsyn
+4576,4585|C0013395|dyspepsia|sosy
+4633,4645|C0009806|Constipation|sosy
+4633,4645|C1963087|Constipation|fndg
+4750,4756|C3244287|graded|fndg
+4870,4885|C1444662|Discontinuation|fndg
+4926,4927;4932,4943|C3841842|2 individuals|fndg
+5046,5070|C0151735|injection site reactions|patf
+5159,5182|C0151735|injection site reaction|patf
+5227,5251|C0151735|injection site reactions|patf
+5294,5317|C0542008|injection site hematoma|fndg
+5366,5389|C0852625|injection site erythema|fndg
+5437,5456|C0521505|injection site rash|inpo
+5502,5533|C0151726|injection site hypersensitivity|sosy
+5583,5608|C0151698|injection site hemorrhage|patf
+5656,5679|C0852995|Injection site pruritus|sosy
+5751,5775|C0151735|injection site reactions|patf
+5914,5926|C1444662|discontinued|fndg
+5937,5960|C0151735|injection site reaction|patf
+6339,6354|C0011860|type 2 diabetes|dsyn
+6485,6492|C1363945|therapy|fndg
+6536,6543|C1363945|therapy|fndg
+6638,6653|C0011860|type 2 diabetes|dsyn
+6817,6825|C3840862|75 years|fndg
+7016,7024|C0011860|diabetes|dsyn
+7016,7024|C0011849|diabetes|dsyn
+7016,7024|C0011847|diabetes|dsyn
+7125,7146|C0031117|peripheral neuropathy|dsyn
+7163,7174|C0035309|retinopathy|dsyn
+7163,7174|C1962966|retinopathy|fndg
+7214,7220|C0231683|normal|fndg
+7337,7340|C1524029|min|neop
+7499,7511|C0020615|hypoglycemia|dsyn
+7591,7603|C0020615|Hypoglycemia|dsyn
+7686,7706|C0745153|hypoglycemic episode|dsyn
+7782,7802|C0745153|hypoglycemic episode|dsyn
+7884,7896|C0020615|Hypoglycemia|dsyn
+8038,8050|C0020615|Hypoglycemia|dsyn
+8642,8653|C3811910|Combination|fndg
+8939,8940;8966,8972|C3842510|3 Severe|fndg
+9078,9089|C3811910|Combination|fndg
+9375,9376;9402,9408|C3842510|3 Severe|fndg
+9514,9525|C3811910|Combination|fndg
+9950,9961|C3811910|Combination|fndg
+10386,10397|C3811910|Combination|fndg
+10822,10833|C3811910|Combination|fndg
+10847,10852;10928,10938|C1565489|Renal Impairment|dsyn
+11119,11121;11146,11152|C3843616|10 Severe|fndg
+11405,11415|C3815594|randomized|fndg
+11464,11467;11487,11498|C0240320|use medications|fndg
+11704,11732|C2584434|Plasma glucose concentration|fndg
+11773,11781|C1457887|symptoms|sosy
+11897,11921|C0745152|symptomatic hypoglycemia|dsyn
+11989,11998|C0032285|Pneumonia|dsyn
+12085,12094|C0032285|pneumonia|dsyn
+12229,12238|C0032285|pneumonia|dsyn
+12341,12360|C0004238|Atrial Fibrillation|dsyn
+12341,12360|C1963067|Atrial Fibrillation|fndg
+12452,12471|C0004238|atrial fibrillation|dsyn
+12452,12471|C1963067|atrial fibrillation|fndg
+12483,12497|C0004239|atrial flutter|patf
+12483,12497|C1963068|atrial flutter|patf
+12685,12701|C1565489|renal impairment|dsyn
+12705,12720|C0018799|cardiac disease|dsyn
+12728,12738|C0262926|history of|fndg
+12739,12749|C0003811|arrhythmia|fndg
+12751,12763|C0030252|palpitations|fndg
+12751,12763|C3160712|palpitations|fndg
+12765,12789|C0018802|congestive heart failure|dsyn
+12791,12805|C0878544|cardiomyopathy|dsyn
+12820,12832|C0003615|Appendicitis|dsyn
+12911,12923|C0003615|appendicitis|dsyn
+13628,13636|C1514241|positive|fndg
+13742,13750|C1514241|positive|fndg
+14216,14223|C0012634|disease|dsyn
+14373,14378;14386,14399;14409,14412;14418,14420|C4021780|Liver Abnormalities the of|anab
+14553,14556|C1266129|ALT|neop
+14776,14779|C1266129|ALT|neop
+14895,14905|C1550043|identified|fndg
+14943,14964|C0276622|acute viral hepatitis|dsyn
+14980,15004|C4062889|insufficient information|fndg
+15048,15055|C0445223|related|fndg
+15099,15102|C1266129|ALT|neop
+15283,15291;15310,15316|C0552510|etiology injury|fndg
+15295,15316|C0151763|hepatocellular injury|patf
+15330,15337|C0445223|related|fndg
+15417,15434|C0008350|gallstone disease|dsyn
+15604,15617|C0151662|increased GGT|fndg
+15604,15617|C0239702|increased GGT|fndg
+15727,15746;15753,15755|C0039231|Heart Rate Increase In|patf

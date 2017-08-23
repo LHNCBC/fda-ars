@@ -1,0 +1,28 @@
+T1	AdverseReaction 67 85	allergic reactions
+T2	AdverseReaction 97 119	anaphylactic reactions
+T3	Factor 121 124	may
+T4	AdverseReaction 850 868	allergic reactions
+T5	Severity 59 66	Serious
+T6	Severity 842 849	Serious
+E1	AdverseReaction:T1 Hypothetical:E3 Effect:E5
+E2	AdverseReaction:T2 Hypothetical:E3
+E3	Factor:T3
+E4	AdverseReaction:T4 Effect:E6
+E5	Severity:T5
+E6	Severity:T6
+A1	CUI E1 C1527304
+A2	UMLS-Preferred-Name E1 Allergic Reaction
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	LLT E1 Allergic reaction
+A6	LLT-ID E1 10001718
+A7	CUI E2 C0002792
+A8	UMLS-Preferred-Name E2 anaphylaxis
+A9	MEDDRA-PT E2 Anaphylactic reaction
+A10	MEDDRA-PT-ID E2 10002198
+A11	CUI E4 C1527304
+A12	UMLS-Preferred-Name E4 Allergic Reaction
+A13	MEDDRA-PT E4 Hypersensitivity
+A14	MEDDRA-PT-ID E4 10020751
+A15	LLT E4 Allergic reaction
+A16	LLT-ID E4 10001718

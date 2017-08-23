@@ -1,0 +1,102 @@
+00000000|AA|TB|tuberculosis|1|2|1|12|2188:2
+00000000|AA|NSAIDs|nonsteroidal anti-inflammatory drugs|1|6|7|36|4505:6
+00000000|AA|MTX|methotrexate|1|3|1|12|4528:3
+00000000|MMI|120.76|0%|C3842591|[fndg]|["0%"-tx-20-"0"-percentage-0,"0%"-tx-18-"0"-real_number-0,"0%"-tx-16-"0"-real_number-0,"0%"-tx-14-"0"-integer-0,"0%"-tx-14-"0"-real_number-0,"0%"-tx-13-"0"-percentage-0]|TX|4195/1;[3824/1],[3834/1],[3840/1],[3876/1],[3889/1],[3895/1];[3331/1],[3345/1],[3351/1],[3435/1],[3449/1];[2839/1],[2842/1];[2839/1],[2842/1];2657/1|
+00000000|MMI|68.30|Tuberculosis|C0041296|[dsyn]|["TUBERCULOSIS"-tx-12-"TB"-noun-0,"TUBERCULOSIS"-tx-11-"TB"-noun-0,"TUBERCULOSIS"-tx-10-"tuberculosis"-noun-0]|TX|[2299/2],[2360/2];2234/2;2174/12|C01.252.410.040.552.846
+00000000|MMI|54.65|Disease|C0012634|[dsyn]|["Disorders"-tx-39-"disorders"-noun-0,"Disorders"-tx-36-"disorders"-noun-0,"condition"-tx-36-"conditions"-verb-0,"DISEASE"-tx-33-"disease"-noun-0,"condition"-tx-3-"conditions"-noun-0]|TX|10537/9;[8142/9],[8577/9];8611/10;6626/7;626/10|C23.550.288
+00000000|MMI|51.91|Infection|C3714514|[patf]|["Infections"-tx-36-"Infections"-noun-0,"Infections"-tx-15-"infections"-noun-0,"Infections"-tx-14-"infections"-noun-0,"Infections"-tx-13-"infections"-noun-0,"Infections"-tx-10-"Infections"-noun-0,"Infections"-tx-1-"Infections"-noun-0]|TX|[7502/10],[9350/10];3072/10;2733/10;[2463/10],[2587/10];2021/10;83/10|C01.539
+00000000|MMI|37.00|Upper Respiratory Infections|C0041912|[dsyn]|["Infection, Upper Respiratory Tract"-tx-36-"Upper respiratory tract infection"-noun-0,"Infection, Upper Respiratory Tract"-tx-36-"upper respiratory tract infection"-noun-0,"Infection, Upper Respiratory Tract"-tx-9-"Upper respiratory tract infection"-noun-0,"Infection, Upper Respiratory Tract"-tx-1-"upper respiratory tract infection"-noun-0]|TX|7612/33;7655/33;1788/33;264/33|C01.539.739;C08.730
+00000000|MMI|36.42|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-35-"controlled"-adj-0,"Controlled"-tx-25-"controlled"-adj-0,"Controlled"-tx-20-"controlled"-adj-0,"Controlled"-tx-18-"controlled"-adj-0,"Controlled"-tx-17-"controlled"-adj-0,"Controlled"-tx-16-"controlled"-adj-0,"Controlled"-tx-15-"controlled"-adj-0,"Controlled"-tx-13-"controlled"-adj-0,"Controlled"-tx-8-"controlled"-adj-0,"Controlled"-tx-4-"controlled"-adj-0]|TX|7004/10;5192/10;4069/10;3635/10;3599/10;3195/10;2884/10;2418/10;1662/10;920/10|
+00000000|MMI|32.75|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-37-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-36-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-35-"Adverse Reactions"-noun-0,"ADVERSE REACTION"-tx-9-"adverse reaction"-noun-0,"ADVERSE REACTION"-tx-3-"adverse reaction"-noun-0,"Adverse reactions"-tx-2-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|9843/17;7445/16;6796/17;1842/16;638/16;388/17;6/17;[44/17],[224/17]|
+00000000|MMI|30.97|Abscess|C0000833|[dsyn]|["ABSCESS"-tx-36-"abscess"-noun-0,"ABSCESS"-tx-10-"abscess"-noun-0]|TX|9422/7;2139/7|C01.539.830.025;C23.550.470.756.100
+00000000|MMI|28.52|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-36-"3"-percentage-0,"3+"-tx-28-"3"-percentage-0,"3+"-tx-20-"3"-integer-0,"3+"-tx-14-"3"-real_number-0,"3+"-tx-1-"3"-percentage-0]|TX|[7867/1],[8112/1],[8330/1],[8548/1];5563/1;4248/1;2848/1;255/1|
+00000000|MMI|28.05|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-20-"ALT"-noun-0]|TX|[4115/3],[4230/3]|C04.557.450.550.400
+00000000|MMI|27.74|Trial 1|C3840593|[fndg]|["Trial 1"-tx-36-"Trial 1"-adj-0,"Trial 1"-tx-36-"Trial 1"-noun-0,"Trial 1"-tx-28-"Trial 1"-noun-0,"Trial 1"-tx-23-"Trial 1"-adj-0,"Trial 1"-tx-16-"Trial 1"-noun-0,"Trial 1"-tx-15-"Trial 1"-noun-0,"Trial 1"-tx-7-"Trial 1"-noun-0,"Trial 1"-tx-4-"Trial 1"-noun-0]|TX|[7198/7],[9201/7];[7198/7],[9201/7];5681/7;4889/7;3235/7;2924/7;1409/7;1013/7|
+00000000|MMI|26.71|Exanthema|C0015230|[sosy]|["RASH"-tx-36-"Rash"-noun-0,"RASH"-tx-26-"rash"-noun-0,"RASH"-tx-1-"rash"-noun-0]|TX|8461/4;5435/4;346/4|C17.800.257
+00000000|MMI|26.38|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-36-"Hypertension"-noun-0,"vascular hypertension"-tx-36-"Vascular Hypertension"-noun-0,"HYPERTENSION"-tx-1-"hypertension"-noun-0]|TX|8243/12;8133/8,8243/12;328/12|C14.907.489
+00000000|MMI|25.48|Lymphoma|C0024299|[neop]|["LYMPHOMA"-tx-18-"lymphoma"-noun-0,"LYMPHOMA"-tx-17-"lymphoma"-noun-0]|TX|3768/8;3523/8|C04.557.386;C15.604.515.569;C20.683.515.761
+00000000|MMI|23.74|1+|C3816745|[fndg]|["1+"-tx-36-"1"-percentage-0,"1+"-tx-36-"1"-percentage-1,"1+"-tx-25-"1"-percentage-0,"1+"-tx-16-"1"-real_number-0,"1+"-tx-2-"1"-integer-0]|TX|[7101/1],[8003/1],[8990/1],[9158/1];[7101/1],[8003/1],[8990/1],[9158/1];5237/1;3455/1;454/1|
+00000000|MMI|23.05|Bronchitis|C0006277|[dsyn]|["BRONCHITIS"-tx-36-"Bronchitis"-noun-0,"BRONCHITIS"-tx-1-"bronchitis"-noun-0]|TX|8025/10;316/10|C08.127.446;C08.381.495.146;C08.730.099
+00000000|MMI|19.99|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-36-"pneumonia"-noun-0,"PNEUMONIA"-tx-10-"pneumonia"-noun-0]|TX|9466/9;2116/9|C08.381.677;C08.730.610
+00000000|MMI|19.43|Pyelonephritis|C0034186|[dsyn]|["PYELONEPHRITIS"-tx-36-"pyelonephritis"-noun-0]|TX|9478/14|C12.777.419.570.643.790;C12.777.419.570.821.717;C13.351.968.419.570.643.790;C13.351.968.419.570.821.717
+00000000|MMI|18.15|melanoma|C0025202|[neop]|["MELANOMA"-tx-39-"Melanoma"-noun-0]|TX|10199/8|C04.557.465.625.650.510;C04.557.580.625.650.510;C04.557.665.510
+00000000|MMI|17.26|Opportunistic Infections|C0029118|[dsyn]|["Opportunistic Infections"-tx-16-"opportunistic infections"-noun-0,"Opportunistic Infections"-tx-10-"opportunistic infections"-noun-0]|TX|3384/24;2148/24|C01.539.597;C02.597;C03.684
+00000000|MMI|16.73|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-38-"uncertain"-adj-0]|TX|10023/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|16.67|Paresthesia|C0030554|[dsyn]|["Parasthesia"-tx-36-"paresthesia"-noun-0]|TX|9663/11|C10.597.751.791.875;C23.888.592.763.770.875
+00000000|MMI|15.42|Cellulitis|C0007642|[patf]|["CELLULITIS"-tx-10-"cellulitis"-noun-0]|TX|2127/10|C01.539.800.130;C01.539.830.200;C17.300.185;C23.550.470.756.200
+00000000|MMI|15.42|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-36-"Dizziness"-noun-0]|TX|9652/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|15.42|Sepsis|C0243026|[dsyn]|["SEPSIS"-tx-10-"sepsis"-noun-0]|TX|2108/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|15.42|Septicemia|C0036690|[dsyn]|["Sepsis"-tx-10-"sepsis"-noun-0]|TX|2108/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|15.42|Vertigo|C0042571|[sosy]|["dizziness"-tx-36-"Dizziness"-noun-0]|TX|9652/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|14.51|Adverse reaction to drug|C0041755|[inpo]|["Reactions, Adverse Drug"-tx-36-"Adverse Drug Reactions"-noun-0,"Reactions, Adverse Drug"-tx-35-"adverse drug reactions"-noun-0]|TX|7063/22;6843/22|C25.100
+00000000|MMI|14.12|Liver Failure, Acute|C0162557|[dsyn]|["Acute Liver Failure"-tx-19-"acute liver failure"-noun-0]|TX|4002/19|C06.552.308.500.750
+00000000|MMI|12.69|Influenza|C0021400|[dsyn]|["INFLUENZA"-tx-36-"influenza"-noun-0]|TX|7833/9|C02.782.620.365;C08.730.310
+00000000|MMI|12.69|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-36-"nasopharyngitis"-noun-0]|TX|7690/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|12.69|Sinusitis|C0037199|[dsyn]|["SINUSITIS"-tx-36-"sinusitis"-noun-0]|TX|9411/9|C08.460.692.752;C08.730.749;C09.603.692.752
+00000000|MMI|12.69|anaphylaxis|C0002792|[patf]|["ANAPHYLACTIC REACTION"-tx-39-"anaphylactic reaction"-noun-0]|TX|10339/21|C20.543.480.099
+00000000|MMI|11.39|Fever|C0015967|[fndg]|["PYREXIA"-tx-36-"Pyrexia"-noun-0]|TX|8685/7|C23.888.119.344
+00000000|MMI|11.33|Leukopenia|C0023530|[dsyn]|["LEUKOPENIA"-tx-36-"Leukopenia"-noun-0]|TX|8903/10|C15.378.553.546
+00000000|MMI|11.21|Sarcoidosis|C0036202|[dsyn]|["SARCOIDOSIS"-tx-39-"sarcoidosis"-noun-0]|TX|10407/11|C15.604.515.827
+00000000|MMI|11.19|Constipation|C0009806|[sosy]|["CONSTIPATION"-tx-36-"Constipation"-noun-0]|TX|9711/12|C23.888.821.150
+00000000|MMI|9.95|Laryngitis|C0023067|[dsyn]|["LARYNGITIS"-tx-36-"laryngitis"-noun-0]|TX|7720/10|C08.360.535;C08.730.368;C09.400.535
+00000000|MMI|9.95|Mediastinal Diseases|C0025061|[dsyn]|["Mediastinal Disorders"-tx-39-"mediastinal disorders"-noun-0]|TX|10451/21|C08.846.187
+00000000|MMI|9.95|Pharyngitis|C0031350|[dsyn]|["PHARYNGITIS"-tx-36-"pharyngitis"-noun-0]|TX|7707/11|C07.550.781;C08.730.561;C09.775.649
+00000000|MMI|9.95|Rhinitis|C0035455|[dsyn]|["RHINITIS"-tx-36-"rhinitis"-noun-0]|TX|7736/8|C08.460.799;C08.730.674;C09.603.799
+00000000|MMI|9.52|Adverse reaction to drug or medicament administered by infusion|C2368034|[patf]|["Infusion reaction"-tx-27-"infusion reactions"-noun-1,"Infusion reaction"-tx-26-"infusion reaction"-noun-0,"Infusion reaction"-tx-25-"infusion reaction"-noun-0]|TX|5452/18;5380/17;5292/17|
+00000000|MMI|9.48|2+|C3833492|[fndg]|["2+"-tx-36-"2"-percentage-0,"2+"-tx-15-"2"-real_number-0,"2+"-tx-14-"2"-real_number-0]|TX|8772/1;3097/1;2783/1|
+00000000|MMI|9.29|Malignant Neoplasms|C0006826|[neop]|["MALIGNANCIES"-tx-18-"malignancies"-noun-0,"MALIGNANCIES"-tx-17-"Malignancies"-noun-0,"MALIGNANCIES"-tx-1-"Malignancies"-noun-0]|TX|3721/12;3470/12;140/12|
+00000000|MMI|9.16|Follow-up status|C0589120|[fndg]|["Follow-up"-tx-15-"follow-up"-adj-0,"Follow-up"-tx-14-"follow-up"-adj-0]|TX|[2960/9],[2984/9];2769/9|
+00000000|MMI|8.54|Lung Diseases, Interstitial|C0206062|[dsyn]|["INTERSTITIAL LUNG DISEASE"-tx-39-"Interstitial lung disease"-noun-0]|TX|10476/25|C08.381.483
+00000000|MMI|7.22|Autoimmune Diseases|C0004364|[dsyn]|["Autoimmune Disorders"-tx-22-"Autoimmune Disorders"-noun-0]|TX|4648/20|C20.111
+00000000|MMI|6.92|Experimental Result|C2825142|[fndg]|["Result"-tx-32-"results"-noun-0,"Result"-tx-31-"results"-noun-0]|TX|6268/7;6105/7|
+00000000|MMI|6.78|Virus Diseases|C0042769|[dsyn]|["Infections, Viral"-tx-36-"Viral infections"-noun-0,"Infection, Viral"-tx-1-"viral infection"-noun-0]|TX|7807/16;299/15|C02
+00000000|MMI|6.58|Acute bronchitis|C0149514|[dsyn]|["bronchitis"-tx-36-"Bronchitis"-noun-0,"bronchitis"-tx-1-"bronchitis"-noun-0]|TX|8025/10;316/10|
+00000000|MMI|6.53|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-36-"Hypertension"-noun-0,"Hypertension"-tx-1-"hypertension"-noun-0]|TX|8243/12;328/12|
+00000000|MMI|6.48|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-39-"subcutaneous disorders"-noun-0,"Subcutaneous Disorders"-tx-36-"subcutaneous disorders"-noun-0]|TX|10517/12,10537/9;8360/22|
+00000000|MMI|6.34|4+ Answer to question|C3838679|[fndg]|["4+"-tx-36-"4"-percentage-0,"4+"-tx-15-"4"-real_number-0]|TX|7894/1;3087/1|
+00000000|MMI|6.30|Infestation|C0851341|[dsyn]|["infestations"-tx-36-"Infestations"-noun-0]|TX|[7517/12],[9365/12]|
+00000000|MMI|6.22|Received therapy or drug for|C0332154|[fndg]|["Treated for"-tx-8-"for treated"-adj-0]|TX|[1715/3,1732/7],[1758/3,1770/7]|
+00000000|MMI|5.99|Positive Finding|C1514241|[fndg]|["POSITIVE"-tx-30-"positive"-noun-0,"POSITIVE"-tx-24-"positive"-adj-1]|TX|5849/8;5114/8|
+00000000|MMI|5.98|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-36-"Gastrointestinal disorders"-noun-0]|TX|9681/26|C06.405
+00000000|MMI|5.92|Bacterial Infections|C0004623|[dsyn]|["Bacterial Infections"-tx-36-"Bacterial infections"-noun-0]|TX|7916/20|C01.252
+00000000|MMI|5.92|Lymphatic Diseases|C0024228|[dsyn]|["Lymphatic Disorders"-tx-36-"lymphatic disorders"-noun-0]|TX|8803/19|C15.604
+00000000|MMI|5.89|Vascular Diseases|C0042373|[dsyn]|["Vascular Disorders"-tx-36-"Vascular disorders"-noun-0]|TX|8133/18|C14.907
+00000000|MMI|4.49|Acute laryngitis|C0001327|[dsyn]|["Laryngitis"-tx-36-"laryngitis"-noun-0]|TX|7720/10|
+00000000|MMI|4.49|Adverse event|C0877248|[patf]|["adverse events"-tx-5-"adverse events"-noun-0]|TX|1235/14|
+00000000|MMI|4.49|Discontinued|C1444662|[fndg]|["Discontinued"-tx-8-"discontinued"-verb-0]|TX|1607/12|
+00000000|MMI|4.49|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-36-"Dizziness"-noun-0]|TX|9652/9|
+00000000|MMI|4.49|Herpes NOS|C0019340|[dsyn]|["HERPES"-tx-36-"herpes"-noun-0]|TX|7847/6|
+00000000|MMI|4.49|Immune System Diseases|C0021053|[dsyn]|["Immune system disorders"-tx-39-"Immune System Disorders"-noun-0]|TX|10257/23|C20
+00000000|MMI|4.49|Invasive mycosis|C1262313|[dsyn]|["Invasive Fungal infections"-tx-10-"invasive fungal infections"-noun-0]|TX|2197/26|
+00000000|MMI|4.49|Lower respiratory tract infection|C0149725|[dsyn]|["Lower Respiratory Tract Infection"-tx-36-"lower respiratory tract infection"-noun-0]|TX|9431/33|
+00000000|MMI|4.49|Negative Surgical Margin|C1709157|[fndg]|["Clear"-tx-21-"clear"-verb-1]|TX|4633/5|
+00000000|MMI|4.49|Neoplasms|C0027651|[neop]|["NEOPLASM"-tx-39-"Neoplasm"-noun-0]|TX|10166/8|C04
+00000000|MMI|4.49|Neoplastic disease|C1882062|[neop]|["Neoplasm"-tx-39-"Neoplasm"-noun-0]|TX|10166/8|
+00000000|MMI|4.49|Peeling of skin|C0237849|[fndg]|["SKIN EXFOLIATION"-tx-39-"Skin exfoliation"-noun-0]|TX|10550/16|
+00000000|MMI|4.49|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-4-"randomized"-verb-0]|TX|894/10|
+00000000|MMI|4.49|Superficial mycosis|C2980104|[dsyn]|["Superficial Fungal infection"-tx-36-"Superficial fungal infection"-noun-0]|TX|9381/28|
+00000000|MMI|4.49|Test Result|C0456984|[fndg]|["Test"-tx-31-"test"-verb-0]|TX|6100/4|
+00000000|MMI|4.49|Tuberculosis, extrapulmonary|C0679362|[dsyn]|["extra-pulmonary tuberculosis"-tx-11-"extrapulmonary TB"-noun-0]|TX|2260/17|
+00000000|MMI|4.49|cellulitis on exam (physical finding)|C2025995|[fndg]|["cellulitis"-tx-10-"cellulitis"-noun-0]|TX|2127/10|
+00000000|MMI|4.49|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-36-"Nervous system disorders"-noun-0]|TX|9624/24|C10
+00000000|MMI|3.30|Systemic allergic reaction|C1736167|[patf]|["Systemic Hypersensitivity reactions"-tx-39-"systemic hypersensitivity reactions"-noun-0]|TX|10292/35|
+00000000|MMI|3.19|10%|C3842590|[fndg]|["10%"-tx-39-"10"-real_number-0]|TX|10397/2|
+00000000|MMI|3.19|90%|C3842582|[fndg]|["90%"-tx-15-"90"-real_number-0]|TX|3099/2|
+00000000|MMI|3.17|Adverse effects|C0879626|[patf]|["treatment Adverse reactions"-tx-8-"treatment adverse reactions"-noun-0]|TX|1620/9,1637/17|
+00000000|MMI|3.15|Number of patients|C2360800|[fndg]|["Number of patients"-tx-30-"number of patients"-noun-0]|TX|5830/18|
+00000000|MMI|3.14|Drug-drug|C4036061|[fndg]|["Drug-drug"-tx-36-"drug drug"-noun-0]|TX|9066/4,9095/4|
+00000000|MMI|3.13|White blood cell count decreased|C0750394|[fndg]|["Leukopenia"-tx-36-"Leukopenia"-noun-0]|TX|8903/10|
+00000000|MMI|3.12|20%|C3842589|[fndg]|["20%"-tx-23-"20"-integer-0]|TX|4883/2|
+00000000|MMI|3.12|Treatment given|C0580351|[fndg]|["Treatment given"-tx-5-"given treatment"-noun-1]|TX|1297/15|
+00000000|MMI|3.11|Detected (finding)|C0442726|[fndg]|["Detected"-tx-28-"detected"-verb-0]|TX|5547/8|
+00000000|MMI|3.09|combination - answer to question|C3811910|[fndg]|["Combination"-tx-28-"combination"-noun-0]|TX|5641/11|
+00000000|MMI|3.08|Disease Response|C1704632|[fndg]|["Response"-tx-5-"response"-noun-0]|TX|1163/8|
+00000000|MMI|3.07|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-6-"exposure"-noun-0]|TX|1395/8|
+00000000|MMI|3.07|exposure history|C2220266|[fndg]|["exposure"-tx-6-"exposure"-noun-0]|TX|1395/8|
+00000000|MMI|3.06|Container status - Identified|C1550043|[fndg]|["Identified"-tx-37-"identified"-verb-0]|TX|9871/10|
+00000000|MMI|3.01|Has tingling sensation|C2242996|[sosy]|["paresthesia"-tx-36-"paresthesia"-noun-0]|TX|9663/11|
+00000000|MMI|3.01|SARCOIDOSIS, SUSCEPTIBILITY TO, 1 (finding)|C2697310|[fndg]|["SARCOIDOSIS"-tx-39-"sarcoidosis"-noun-0]|TX|10407/11|
+00000000|MMI|3.00|Active tuberculosis|C0151332|[dsyn]|["Active Tuberculosis"-tx-16-"active TB"-noun-0]|TX|3295/9|
+00000000|MMI|2.99|Lupus-like syndrome|C0919715|[dsyn]|["Lupus-like syndrome"-tx-22-"lupus-like syndrome"-noun-0]|TX|4850/19|
+00000000|MMI|2.99|Constipation Adverse Event|C1963087|[fndg]|["Constipation"-tx-36-"Constipation"-noun-0]|TX|9711/12|
+00000000|MMI|2.97|Protocol - answer to question|C3715209|[fndg]|["Protocol"-tx-5-"protocol"-noun-0]|TX|1027/8|

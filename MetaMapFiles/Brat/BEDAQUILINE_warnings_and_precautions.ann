@@ -1,0 +1,68 @@
+T1	AdverseReaction 52 67	QT prolongation
+T2	Factor 68 71	can
+T3	AdverseReaction 218 232	Hepatotoxicity
+T4	Factor 233 236	may
+T5	AdverseReaction 417 422	death
+T6	Factor 409 413	risk
+T7	AdverseReaction 604 609	death
+T8	AdverseReaction 686 692	deaths
+T9	AdverseReaction 740 745	death
+T11	AdverseReaction 1051 1075	prolongs the QT interval
+T10	AdverseReaction 1547 1562	QT prolongation
+T12	Factor 1538 1542	risk
+T13	AdverseReaction 2523 2556	hepatic-related adverse reactions
+E1	AdverseReaction:T1 Hypothetical:E2
+E2	Factor:T2
+E3	AdverseReaction:T3 Hypothetical:E4
+E4	Factor:T4
+E5	AdverseReaction:T5 Hypothetical:E6
+E6	Factor:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E11	AdverseReaction:T11
+E10	AdverseReaction:T10 Hypothetical:E12
+E12	Factor:T12
+E13	AdverseReaction:T13
+A1	CUI E1 C0151878
+A2	UMLS-Preferred-Name E1 Prolonged QT interval
+A3	MEDDRA-PT E1 Electrocardiogram QT prolonged
+A4	MEDDRA-PT-ID E1 10014387
+A5	LLT E1 QT prolonged
+A6	LLT-ID E1 10037705
+A7	CUI E3 C0235378
+A8	UMLS-Preferred-Name E3 Hepatotoxicity
+A9	MEDDRA-PT E3 Hepatotoxicity
+A10	MEDDRA-PT-ID E3 10019851
+A11	CUI E5 C1306577
+A12	UMLS-Preferred-Name E5 Death (finding)
+A13	MEDDRA-PT E5 Death
+A14	MEDDRA-PT-ID E5 10011906
+A15	CUI E7 C1306577
+A16	UMLS-Preferred-Name E7 Death (finding)
+A17	MEDDRA-PT E7 Death
+A18	MEDDRA-PT-ID E7 10011906
+A19	CUI E8 C1306577
+A20	UMLS-Preferred-Name E8 Death (finding)
+A21	MEDDRA-PT E8 Death
+A22	MEDDRA-PT-ID E8 10011906
+A23	CUI E9 C1306577
+A24	UMLS-Preferred-Name E9 Death (finding)
+A25	MEDDRA-PT E9 Death
+A26	MEDDRA-PT-ID E9 10011906
+A27	CUI E11 C0151878
+A28	UMLS-Preferred-Name E11 Prolonged QT interval
+A29	MEDDRA-PT E11 Electrocardiogram QT prolonged
+A30	MEDDRA-PT-ID E11 10014387
+A31	LLT E11 QT interval prolonged
+A32	LLT-ID E11 10037703
+A33	CUI E10 C0151878
+A34	UMLS-Preferred-Name E10 Prolonged QT interval
+A35	MEDDRA-PT E10 Electrocardiogram QT prolonged
+A36	MEDDRA-PT-ID E10 10014387
+A37	LLT E10 QT prolonged
+A38	LLT-ID E10 10037705
+A39	CUI E13 C0086565
+A40	UMLS-Preferred-Name E13 Liver Dysfunction
+A41	MEDDRA-PT E13 Hepatic function abnormal
+A42	MEDDRA-PT-ID E13 10019670

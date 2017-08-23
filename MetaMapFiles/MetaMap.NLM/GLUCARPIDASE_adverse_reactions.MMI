@@ -1,0 +1,76 @@
+00000000|AA|NCI|National Cancer Institute|1|3|5|25|2468:3
+00000000|AA|ELISA|enzyme-linked immunosorbent assay|1|5|7|33|7232:5
+00000000|MMI|118.94|Adverse reactions|C0559546|[patf]|["ADVERSE REACTION"-tx-37-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-35-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-34-"adverse reactions"-noun-0,"Adverse reactions"-tx-31-"adverse reactions"-noun-0,"Adverse reactions"-tx-29-"adverse reactions"-noun-0,"Adverse reactions"-tx-15-"adverse reactions"-noun-0,"Adverse reactions"-tx-7-"Adverse reactions"-noun-0,"Adverse reactions"-tx-6-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-5-"adverse reaction"-noun-0,"Adverse reactions"-tx-4-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-2-"adverse reactions"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0]|TX|5936/16;[5624/17],[5749/17];5398/17;5232/17;4921/17;[3056/17],[3125/17];1111/17;923/17;711/16;475/17;122/17;12/17|
+00000000|MMI|75.23|Paresthesia|C0030554|[dsyn]|["PARESTHESIAS"-tx-37-"Paresthesias"-noun-0,"Parasthesia"-tx-34-"paresthesia"-noun-1,"Parasthesia"-tx-3-"paraesthesia"-noun-0,"Paraesthesias"-tx-2-"paraesthesias"-noun-0]|TX|5991/12;5472/11;362/12;174/13|C10.597.751.791.875;C23.888.592.763.770.875
+00000000|MMI|67.10|1+|C3816745|[fndg]|["1+"-tx-38-"1"-integer-0,"1+"-tx-37-"1"-percentage-0,"1+"-tx-3-"1"-percentage-0,"1+"-tx-2-"1"-percentage-0]|TX|6874/1;[6192/1],[6249/1],[6307/1],[6364/1],[6421/1],[6478/1],[6535/1],[6601/1],[6658/1];341/1;152/1|
+00000000|MMI|63.47|Unmarried|C0087136|[fndg]|["single"-tx-42-"single"-adj-0,"single"-tx-39-"single"-adj-0,"single"-tx-8-"single"-adj-0]|TX|7448/6;7086/6;1379/6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+00000000|MMI|60.44|Flushing|C0016382|[sosy]|["FLUSHING"-tx-37-"Flushing"-noun-0,"FLUSHING"-tx-35-"flushing"-noun-0,"FLUSHING"-tx-34-"flushing"-verb-1,"FLUSHING"-tx-33-"flushing"-noun-0,"FLUSHING"-tx-3-"flushing"-verb-0,"FLUSHING"-tx-2-"flushing"-verb-0]|TX|6048/8;5819/8;5485/8;5364/8;376/8;189/8|C23.888.388
+00000000|MMI|54.39|Osteosarcoma|C0029463|[neop]|["OSTEOGENIC SARCOMA"-tx-26-"osteogenic sarcoma"-noun-0,"OSTEOSARCOMA"-tx-18-"osteosarcoma"-noun-0,"OSTEOSARCOMA"-tx-9-"osteosarcoma"-noun-0]|TX|4611/18;3599/12;1535/12|C04.557.450.565.575.650;C04.557.450.795.620
+00000000|MMI|46.66|Headache|C0018681|[sosy]|["HEADACHE"-tx-37-"Headache"-noun-0,"HEADACHE"-tx-3-"headache"-noun-0,"HEADACHE"-tx-2-"headache"-noun-0]|TX|6162/8;426/8;240/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|46.14|Renal Insufficiency|C1565489|[dsyn]|["Renal dysfunction"-tx-8-"renal dysfunction"-noun-0,"Renal dysfunction"-tx-7-"renal dysfunction"-noun-0,"Impaired renal function"-tx-6-"impaired renal function"-noun-0]|TX|1502/17;1264/17;1086/23|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|42.48|2+|C3833492|[fndg]|["2+"-tx-37-"2"-integer-0,"2+"-tx-37-"2"-percentage-0,"2+"-tx-36-"2"-integer-0,"2+"-tx-35-"2"-integer-0,"2+"-tx-32-"2"-integer-0,"2+"-tx-27-"2"-integer-0,"2+"-tx-19-"2"-integer-0,"2+"-tx-9-"2"-integer-0]|TX|[6021/1],[6060/1],[6078/1],[6135/1];[6021/1],[6060/1],[6078/1],[6135/1];5862/1;5622/1;5314/1;4698/1;3689/1;1850/1|
+00000000|MMI|41.34|Nausea|C0027497|[sosy]|["NAUSEA"-tx-34-"nausea"-noun-1,"NAUSEA"-tx-3-"nausea"-noun-0,"NAUSEA"-tx-2-"nausea"-noun-0]|TX|5499/6;386/6;199/6|C23.888.821.712
+00000000|MMI|41.34|Vomiting|C0042963|[sosy]|["VOMITING"-tx-34-"vomiting"-noun-0,"VOMITING"-tx-3-"vomiting"-noun-0,"VOMITING"-tx-2-"vomiting"-noun-0]|TX|5513/8;400/8;213/8|C23.888.821.937
+00000000|MMI|34.49|Related personal status|C0445223|[fndg]|["Related"-tx-35-"Related"-verb-0,"Related"-tx-34-"related"-adj-0,"Related"-tx-33-"related"-adj-0,"Related"-tx-31-"related"-adj-0,"Related"-tx-30-"related"-verb-1,"Related"-tx-29-"related"-adj-0,"Related"-tx-15-"related"-adj-0,"Related"-tx-7-"related"-verb-0,"Related"-tx-3-"related"-adj-0]|TX|5688/7;5390/7;5348/7;5272/7;5156/7;4913/7;3048/7;1129/7;303/7|
+00000000|MMI|28.85|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-37-"Hypotension"-noun-0,"HYPOTENSION"-tx-3-"hypotension"-noun-0,"HYPOTENSION"-tx-2-"hypotension"-noun-0]|TX|6219/11;410/11;223/11|C14.907.514
+00000000|MMI|24.30|Lymphoma|C0024299|[neop]|["LYMPHOMA"-tx-26-"lymphoma"-noun-0,"LYMPHOMA"-tx-18-"lymphoma"-noun-0]|TX|4654/8;3645/8|C04.557.386;C15.604.515.569;C20.683.515.761
+00000000|MMI|23.01|Flushing Adverse Event|C1962957|[fndg]|["Flushing"-tx-37-"Flushing"-noun-0,"Flushing"-tx-35-"flushing"-noun-0,"Flushing"-tx-34-"flushing"-verb-1,"Flushing"-tx-33-"flushing"-noun-0,"Flushing"-tx-3-"flushing"-verb-0,"Flushing"-tx-2-"flushing"-verb-0]|TX|6048/8;5819/8;5485/8;5364/8;376/8;189/8|
+00000000|MMI|21.44|leukemia|C0023418|[neop]|["LEUKAEMIA"-tx-26-"leukemia"-noun-0,"LEUKAEMIA"-tx-18-"leukemia"-noun-0]|TX|4642/8;3633/8|C04.557.337
+00000000|MMI|19.11|Hypersensitivity|C0020517|[patf]|["Sensitivity"-tx-43-"sensitivity"-noun-0,"HYPERSENSITIVITY"-tx-37-"Hypersensitivity"-noun-0,"Allergic reactions"-tx-1-"allergic reactions"-noun-0]|TX|7567/11;6390/16;41/18|C20.543
+00000000|MMI|18.55|Disease|C0012634|[dsyn]|["DISEASE"-tx-45-"disease"-noun-0,"condition"-tx-5-"conditions"-noun-0]|TX|7953/7;699/10|C23.550.288
+00000000|MMI|15.13|Tremor|C0040822|[sosy]|["TREMOR"-tx-37-"Tremor"-noun-0]|TX|6627/6|C10.597.350.850;C23.888.592.350.850
+00000000|MMI|14.63|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-34-"nausea"-noun-1,"Nausea"-tx-3-"nausea"-noun-0,"Nausea"-tx-2-"nausea"-noun-0]|TX|5499/6;386/6;199/6|
+00000000|MMI|14.63|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-34-"vomiting"-noun-0,"Vomiting"-tx-3-"vomiting"-noun-0,"Vomiting"-tx-2-"vomiting"-noun-0]|TX|5513/8;400/8;213/8|
+00000000|MMI|13.60|Inflammatory disease of mucous membrane|C0333355|[patf]|["MUCOSITIS"-tx-7-"mucositis"-noun-0]|TX|1232/9|C06.405.205.798;C07.465.584
+00000000|MMI|13.60|anaphylaxis|C0002792|[patf]|["Reactions, Anaphylactic"-tx-1-"anaphylactic reactions"-noun-0]|TX|71/22|C20.543.480.099
+00000000|MMI|12.20|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-37-"Diarrhea"-noun-0]|TX|6333/8|C23.888.821.214
+00000000|MMI|12.10|Sarcoma|C1261473|[neop]|["Sarcomas"-tx-18-"sarcomas"-noun-0]|TX|3612/8|C04.557.450.795
+00000000|MMI|11.04|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-37-"Headache"-noun-0,"headache"-tx-3-"headache"-noun-0,"headache"-tx-2-"headache"-noun-0]|TX|6162/8;426/8;240/8|
+00000000|MMI|11.04|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-37-"Hypotension"-noun-0,"Hypotension"-tx-3-"hypotension"-noun-0,"Hypotension"-tx-2-"hypotension"-noun-0]|TX|6219/11;410/11;223/11|
+00000000|MMI|9.91|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-15-"toxicity"-noun-0,"toxic"-tx-7-"toxic"-adj-0,"toxic"-tx-6-"toxic"-adj-0]|TX|3174/8;1140/5;1046/5|
+00000000|MMI|9.87|50%|C3842586|[fndg]|["50%"-tx-28-"50"-integer-0,"50%"-tx-23-"50"-integer-0,"50%"-tx-12-"50"-integer-0]|TX|4871/2;4063/2;2579/2|
+00000000|MMI|9.87|<50|C3843766|[fndg]|["<50"-tx-28-"50"-integer-0,"<50"-tx-23-"50"-integer-0,"<50"-tx-12-"50"-integer-0]|TX|4871/2;4063/2;2579/2|
+00000000|MMI|9.67|Has tingling sensation|C2242996|[sosy]|["paresthesia"-tx-34-"paresthesia"-noun-1,"paresthesia"-tx-3-"paraesthesia"-noun-0]|TX|5472/11;362/12|
+00000000|MMI|9.27|Exanthema|C0015230|[sosy]|["RASH"-tx-37-"Rash"-noun-0]|TX|6504/4|C17.800.257
+00000000|MMI|9.27|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-37-"Hypertension"-noun-0]|TX|6447/12|C14.907.489
+00000000|MMI|6.87|Hydration status|C1321013|[fndg]|["Hydration"-tx-25-"hydration"-noun-0,"Hydration"-tx-14-"hydration"-noun-0]|TX|4296/9;2844/9|
+00000000|MMI|6.87|Malignant Neoplasms|C0006826|[neop]|["MALIGNANCIES"-tx-26-"malignancies"-noun-0,"MALIGNANCIES"-tx-18-"malignancies"-noun-0]|TX|4593/12;3581/12|
+00000000|MMI|6.87|Protocol - answer to question|C3715209|[fndg]|["Protocol"-tx-25-"protocol"-adj-0,"Protocol"-tx-14-"protocol"-adj-0]|TX|4232/8;2780/8|
+00000000|MMI|6.79|Renal dysfunction|C3279454|[fndg]|["Renal dysfunction"-tx-8-"renal dysfunction"-noun-0,"Renal dysfunction"-tx-7-"renal dysfunction"-noun-0]|TX|1502/17;1264/17|
+00000000|MMI|6.76|Serum creatinine level|C0600061|[fndg]|["Serum creatinine"-tx-10-"serum creatinine"-noun-0,"Serum creatinine"-tx-9-"serum creatinine"-noun-0]|TX|2232/16;1880/16|
+00000000|MMI|6.74|West Haven Hepatic Encephalopathy Grade 1|C3889292|[fndg]|["GRADE 1"-tx-35-"Grade 1"-noun-0,"GRADE 1"-tx-32-"Grade 1"-noun-0]|TX|5610/7;5303/7|
+00000000|MMI|6.65|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-36-"Grade 3"-noun-0,"GRADE 3"-tx-33-"Grade 3"-noun-0]|TX|5906/7;5356/7|
+00000000|MMI|6.43|Osteosarcoma of bone|C0585442|[neop]|["osteosarcoma"-tx-18-"osteosarcoma"-noun-0,"osteosarcoma"-tx-9-"osteosarcoma"-noun-0]|TX|3599/12;1535/12|
+00000000|MMI|6.30|Allergic Reaction|C1527304|[patf]|["Reactions, Allergic"-tx-1-"allergic reactions"-noun-0]|TX|41/18|C20.543
+00000000|MMI|4.81|30%|C3842588|[fndg]|["30%"-tx-19-"30"-integer-0]|TX|3695/2|
+00000000|MMI|4.81|Acute hepatitis|C0267797|[dsyn]|["Acute Hepatitis"-tx-7-"acute hepatitis"-noun-0]|TX|1243/15|
+00000000|MMI|4.81|Burning sensation|C0085624|[sosy]|["Burning"-tx-35-"burning"-verb-0]|TX|5842/7|
+00000000|MMI|4.81|Creatinine clearance|C0812399|[fndg]|["Creatinine clearance"-tx-10-"creatinine clearance"-noun-0]|TX|2309/20|
+00000000|MMI|4.81|Gastrointestinal mucositis|C0521585|[dsyn]|["Mucositis"-tx-7-"mucositis"-noun-0]|TX|1232/9|
+00000000|MMI|4.81|Myelosuppression|C0854467|[fndg]|["Myelosuppression"-tx-7-"myelosuppression"-noun-0]|TX|1214/16|
+00000000|MMI|4.81|Observation of Sensation|C0542538|[fndg]|["Sensation"-tx-35-"sensation"-noun-0]|TX|5850/9|
+00000000|MMI|3.82|Disease Controlled|C2911690|[fndg]|["Under Control"-tx-5-"under controlled"-adj-0]|TX|663/16|
+00000000|MMI|3.48|Blurred vision|C0344232|[sosy]|["BLURRED VISION"-tx-37-"Blurred Vision"-noun-0]|TX|6276/14|
+00000000|MMI|3.48|Nausea and vomiting|C0027498|[sosy]|["NAUSEA VOMITING"-tx-37-"Nausea/Vomiting"-noun-0]|TX|6105/15|
+00000000|MMI|3.44|Feeling of throat tightness|C0236071|[fndg]|["THROAT TIGHTNESS"-tx-37-"Throat tightness"-noun-0]|TX|6561/6,6586/9|
+00000000|MMI|3.42|More than 50|C3842480|[fndg]|["Greater Than 50"-tx-9-"greater than 50"-adj-0]|TX|1625/15|
+00000000|MMI|3.42|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-37-"Diarrhea"-noun-0]|TX|6333/8|
+00000000|MMI|3.42|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-37-"Hypersensitivity"-noun-0]|TX|6390/16|
+00000000|MMI|3.42|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-37-"Hypertension"-noun-0]|TX|6447/12|
+00000000|MMI|3.42|Tremor Adverse Event|C1963252|[fndg]|["Tremor"-tx-37-"Tremor"-noun-0]|TX|6627/6|
+00000000|MMI|3.39|Adverse event|C0877248|[patf]|["adverse events"-tx-3-"adverse events"-noun-0]|TX|311/14|
+00000000|MMI|3.39|Throat irritation|C0700184|[sosy]|["THROAT IRRITATION"-tx-37-"Throat irritation"-noun-0]|TX|6561/17|
+00000000|MMI|3.38|Progressive Disease|C1335499|[fndg]|["PROGRESSIVE DISEASE"-tx-30-"progressive disease"-noun-1]|TX|5167/19|
+00000000|MMI|3.38|Progressive Neoplastic Disease|C0677932|[neop]|["progressive disease"-tx-30-"progressive disease"-noun-1]|TX|5167/19|
+00000000|MMI|3.38|Progressive cGVHD|C3539781|[dsyn]|["Progressive Disease"-tx-30-"progressive disease"-noun-1]|TX|5167/19|
+00000000|MMI|3.35|Precursor B-cell lymphoblastic leukemia|C1292769|[neop]|["c all"-tx-4-"call"-noun-0]|TX|494/4|
+00000000|MMI|3.35|Irritation (finding)|C1706307|[fndg]|["Irritation"-tx-37-"irritation"-noun-0]|TX|6568/10|
+00000000|MMI|3.31|Grade 3 Severe Adverse Event|C1519275|[fndg]|["CTCAE Grade 3"-tx-29-"graded CTCAE 3"-noun-0]|TX|4971/6,4995/5,5009/1|
+00000000|MMI|3.29|Antimicrobial susceptibility|C0427965|[fndg]|["Sensitivity"-tx-43-"sensitivity"-noun-0]|TX|7567/11|
+00000000|MMI|3.29|Detected (finding)|C0442726|[fndg]|["Detected"-tx-41-"detected"-verb-0]|TX|7310/8|
+00000000|MMI|3.29|Death (finding)|C1306577|[fndg]|["DEATHS"-tx-30-"deaths"-noun-0]|TX|5099/6|
+00000000|MMI|3.29|60%|C3842585|[fndg]|["60%"-tx-10-"60"-integer-0]|TX|2344/2|
+00000000|MMI|3.19|Age <= 2 years|C4061124|[fndg]|["Age <= 2 years"-tx-26-"2 age years"-noun-0]|TX|4485/1,4519/3,4529/5|
+00000000|MMI|3.18|10%|C3842590|[fndg]|["10%"-tx-10-"10"-integer-0]|TX|2014/2|
+00000000|MMI|3.18|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-30-"exposure"-noun-0]|TX|5133/8|
+00000000|MMI|3.18|exposure history|C2220266|[fndg]|["exposure"-tx-30-"exposure"-noun-0]|TX|5133/8|

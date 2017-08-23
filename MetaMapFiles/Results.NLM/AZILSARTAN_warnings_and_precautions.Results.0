@@ -1,0 +1,39 @@
+183,199|FP|renal impairment|C1565489|10062237|dsyn
+226,234|FP|Toxicity|C0600688|10022116|inpo
+344,372|FN|reduces fetal renal function|C0232807
+387,392;420,425|FN|fetal death|C0015927
+387,392;406,415|FN|fetal morbidity|C0015929
+397,405;420,425|FN|neonatal death|C0410916
+397,415|FN|neonatal morbidity|C0848898
+420,425|FP|death|C1306577|10011906|fndg
+437,452|TP|oligohydramnios|C0079924|10030289|437,452|oligohydramnios|C0079924|10030289|patf
+476,481;502,523|FN|fetal skeletal deformations|C0000768
+476,497|FN|fetal lung hypoplasia|C0265783
+482,497|FP|lung hypoplasia|C0265783|10037407|cgab
+487,497|FP|hypoplasia|C0243069|10060919|patf
+535,543;626,631|FN|neonatal death|C0410916
+535,543;607,620|FN|neonatal renal failure|C0854351
+535,543;594,605|FN|neonatal hypotension|C0455995
+535,543;586,592|FN|neonatal anuria|C0877643
+535,543;568,584|FN|neonatal skull hypoplasia|C1390484
+535,559|FN|neonatal adverse effects|C0549411
+586,592|FP|anuria|C0003460,C2188545|10002847,10002847|dsyn,fndg
+594,605|FP|hypotension|C3163620,C0020649|10060933,10005734|fndg,fndg
+607,620|FP|renal failure|C1963154,C0035078|10060933,10038435|patf,dsyn
+626,631|FP|death|C1306577|10011906|fndg
+753,764|FP|Hypotension|C3163620,C0020649|10060933,10005734|fndg,fndg
+965,988|FN|symptomatic hypotension|C0863113
+977,988|FP|hypotension|C3163620,C0020649|10060933,10005734|fndg,fndg
+1142,1153|FP|hypotension|C3163620,C0020649|10060933,10005734|fndg,fndg
+1469,1492|FP|Impaired Renal Function|C1565489|10062237|dsyn
+1557,1582|FN|changes in renal function|C1565489
+1770,1794|FP|congestive heart failure|C0018802|10007559|dsyn
+1796,1817|FP|renal artery stenosis|C0035067|10038378|dsyn
+1822,1838|FP|volume depletion|C0546884|10021137|fndg
+1956,1964|TP|oliguria|C0028961|10030302|1956,1964|oliguria|C0028961|10030302|dsyn
+1968,1988|FN|progressive azotemia|C0242528
+1980,1988|FP|azotemia|C0242528|10003885|dsyn
+2005,2024|FN|acute renal failure|C0022660
+2029,2034|TP|death|C1306577|10011906|2029,2034|death|C1306577|10011906|fndg
+2298,2310;2331,2350|FN|increases in blood urea nitrogen|C0151539
+2298,2327|FN|increases in serum creatinine|C0700225

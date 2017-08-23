@@ -1,0 +1,111 @@
+41,59|C0020517|allergic reactions|patf
+41,59|C1527304|allergic reactions|patf
+71,93|C0002792|anaphylactic reactions|patf
+174,187|C0030554|paraesthesias|dsyn
+189,197|C0016382|flushing|sosy
+189,197|C1962957|flushing|fndg
+199,205|C0027497|nausea|sosy
+199,205|C1963179|nausea|patf
+213,221|C0042963|vomiting|sosy
+213,221|C1963281|vomiting|patf
+223,234|C0020649|hypotension|fndg
+223,234|C3163620|hypotension|fndg
+240,248|C0018681|headache|sosy
+240,248|C2096315|headache|fndg
+303,310|C0445223|related|fndg
+362,374|C0030554|paraesthesia|dsyn
+362,374|C2242996|paraesthesia|sosy
+376,384|C0016382|flushing|sosy
+376,384|C1962957|flushing|fndg
+386,392|C0027497|nausea|sosy
+386,392|C1963179|nausea|patf
+400,408|C0042963|vomiting|sosy
+400,408|C1963281|vomiting|patf
+410,421|C0020649|hypotension|fndg
+410,421|C3163620|hypotension|fndg
+426,434|C0018681|headache|sosy
+426,434|C2096315|headache|fndg
+663,679|C2911690|under controlled|fndg
+699,709|C0012634|conditions|dsyn
+1046,1051|C0600688|toxic|inpo
+1086,1109|C1565489|impaired renal function|dsyn
+1129,1136|C0445223|related|fndg
+1140,1145|C0600688|toxic|inpo
+1214,1230|C0854467|myelosuppression|fndg
+1232,1241|C0333355|mucositis|patf
+1232,1241|C0521585|mucositis|dsyn
+1243,1258|C0267797|acute hepatitis|dsyn
+1264,1281|C1565489|renal dysfunction|dsyn
+1264,1281|C3279454|renal dysfunction|fndg
+1379,1385|C0087136|single|fndg
+1502,1519|C1565489|renal dysfunction|dsyn
+1502,1519|C3279454|renal dysfunction|fndg
+1535,1547|C0029463|osteosarcoma|neop
+1535,1547|C0585442|osteosarcoma|neop
+1625,1640|C3842480|greater than 50|fndg
+1880,1896|C0600061|serum creatinine|fndg
+2232,2248|C0600061|serum creatinine|fndg
+2309,2329|C0812399|creatinine clearance|fndg
+2780,2788|C3715209|protocol|fndg
+2844,2853|C1321013|hydration|fndg
+3048,3055|C0445223|related|fndg
+3174,3182|C0600688|toxicity|inpo
+3581,3593|C0006826|malignancies|neop
+3599,3611|C0029463|osteosarcoma|neop
+3599,3611|C0585442|osteosarcoma|neop
+3612,3620|C1261473|sarcomas|neop
+3633,3641|C0023418|leukemia|neop
+3645,3653|C0024299|lymphoma|neop
+4232,4240|C3715209|protocol|fndg
+4296,4305|C1321013|hydration|fndg
+4485,4486;4519,4522;4529,4534|C4061124|2 age years|fndg
+4593,4605|C0006826|malignancies|neop
+4611,4629|C0029463|osteogenic sarcoma|neop
+4642,4650|C0023418|leukemia|neop
+4654,4662|C0024299|lymphoma|neop
+4913,4920|C0445223|related|fndg
+4971,4977;4995,5000;5009,5010|C1519275|graded CTCAE 3|fndg
+5099,5105|C1306577|deaths|fndg
+5167,5186|C1335499|progressive disease|fndg
+5167,5186|C0677932|progressive disease|neop
+5167,5186|C3539781|progressive disease|dsyn
+5272,5279|C0445223|related|fndg
+5303,5310|C3889292|Grade 1|fndg
+5348,5355|C0445223|related|fndg
+5356,5363|C3889290|Grade 3|fndg
+5364,5372|C0016382|flushing|sosy
+5364,5372|C1962957|flushing|fndg
+5390,5397|C0445223|related|fndg
+5513,5521|C0042963|vomiting|sosy
+5513,5521|C1963281|vomiting|patf
+5610,5617|C3889292|Grade 1|fndg
+5688,5695|C0445223|Related|fndg
+5819,5827|C0016382|flushing|sosy
+5819,5827|C1962957|flushing|fndg
+5842,5849|C0085624|burning|sosy
+5850,5859|C0542538|sensation|fndg
+5906,5913|C3889290|Grade 3|fndg
+5991,6003|C0030554|Paresthesias|dsyn
+6048,6056|C0016382|Flushing|sosy
+6048,6056|C1962957|Flushing|fndg
+6105,6120|C0027498|Nausea/Vomiting|sosy
+6162,6170|C0018681|Headache|sosy
+6162,6170|C2096315|Headache|fndg
+6219,6230|C0020649|Hypotension|fndg
+6219,6230|C3163620|Hypotension|fndg
+6276,6290|C0344232|Blurred Vision|sosy
+6333,6341|C0011991|Diarrhea|sosy
+6333,6341|C1963091|Diarrhea|fndg
+6390,6406|C0020517|Hypersensitivity|patf
+6390,6406|C0520946|Hypersensitivity|fndg
+6447,6459|C0020538|Hypertension|dsyn
+6447,6459|C1963138|Hypertension|fndg
+6504,6508|C0015230|Rash|sosy
+6561,6567;6586,6595|C0236071|Throat tightness|fndg
+6561,6578|C0700184|Throat irritation|sosy
+6627,6633|C0040822|Tremor|sosy
+6627,6633|C1963252|Tremor|fndg
+7086,7092|C0087136|single|fndg
+7310,7318|C0442726|detected|fndg
+7448,7454|C0087136|single|fndg
+7953,7960|C0012634|disease|dsyn

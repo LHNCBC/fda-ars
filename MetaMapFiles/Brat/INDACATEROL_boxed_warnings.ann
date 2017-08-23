@@ -1,0 +1,62 @@
+T1	AdverseReaction 84 89	DEATH
+T2	AdverseReaction 206 211	death
+T6	AdverseReaction 439 445	deaths
+T7	AdverseReaction 966 971	DEATH
+T11	AdverseReaction 1130 1135	death
+T12	AdverseReaction 1276 1282	deaths
+T14	AdverseReaction 1380 1385	death
+T15	Factor 1357 1361	risk
+T4	AdverseReaction 45 50	DEATH
+T5	DrugClass 97 150	L    ong-acting beta    2    -adrenergic agonist    s
+T8	DrugClass 160 164	LABA
+T9	DrugClass 303 347	long-acting beta    2    -adrenergic agonist
+T13	DrugClass 1049 1086	Long-acting beta2-adrenergic agonists
+T16	DrugClass 1088 1092	LABA
+T17	DrugClass 1189 1225	long-acting beta2-adrenergic agonist
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Hypothetical2:E5 Hypothetical3:E8
+E6	AdverseReaction:T6 Hypothetical:E9
+E7	AdverseReaction:T7
+E11	AdverseReaction:T11 Hypothetical2:E16 Hypothetical3:E13
+E12	AdverseReaction:T12 Hypothetical:E17
+E14	AdverseReaction:T14 Hypothetical:E15
+E15	Factor:T15
+E4	AdverseReaction:T4
+E5	DrugClass:T5
+E8	DrugClass:T8
+E9	DrugClass:T9
+E13	DrugClass:T13
+E16	DrugClass:T16
+E17	DrugClass:T17
+A1	CUI E1 C1306577
+A2	UMLS-Preferred-Name E1 Death (finding)
+A3	MEDDRA-PT E1 Death
+A4	MEDDRA-PT-ID E1 10011906
+A5	CUI E2 C1306577
+A6	UMLS-Preferred-Name E2 Death (finding)
+A7	MEDDRA-PT E2 Death
+A8	MEDDRA-PT-ID E2 10011906
+A9	CUI E6 C1306577
+A10	UMLS-Preferred-Name E6 Death (finding)
+A11	MEDDRA-PT E6 Death
+A12	MEDDRA-PT-ID E6 10011906
+A13	CUI E7 C1306577
+A14	UMLS-Preferred-Name E7 Death (finding)
+A15	MEDDRA-PT E7 Death
+A16	MEDDRA-PT-ID E7 10011906
+A17	CUI E11 C1306577
+A18	UMLS-Preferred-Name E11 Death (finding)
+A19	MEDDRA-PT E11 Death
+A20	MEDDRA-PT-ID E11 10011906
+A21	CUI E12 C1306577
+A22	UMLS-Preferred-Name E12 Death (finding)
+A23	MEDDRA-PT E12 Death
+A24	MEDDRA-PT-ID E12 10011906
+A25	CUI E14 C1306577
+A26	UMLS-Preferred-Name E14 Death (finding)
+A27	MEDDRA-PT E14 Death
+A28	MEDDRA-PT-ID E14 10011906
+A29	CUI E4 C1306577
+A30	UMLS-Preferred-Name E4 Death (finding)
+A31	MEDDRA-PT E4 Death
+A32	MEDDRA-PT-ID E4 10011906

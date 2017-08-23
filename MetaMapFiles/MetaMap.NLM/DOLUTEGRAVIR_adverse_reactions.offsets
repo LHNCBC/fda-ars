@@ -1,0 +1,169 @@
+101,108|C0445223|related|fndg
+132,136|C0041755|ADRs|inpo
+196,222|C0020517|Hypersensitivity reactions|patf
+324,335|C0019163|hepatitis B|dsyn
+341,353|C0275524|co-infection|dsyn
+400,418|C0856151|Fat Redistribution|dsyn
+465,495|C1619738|Immune Reconstitution Syndrome|dsyn
+465,495|C1096197|Immune Reconstitution Syndrome|dsyn
+599,609|C0012634|conditions|dsyn
+971,979|C0917801|insomnia|sosy
+971,979|C1963237|insomnia|fndg
+981,988|C0015672|fatigue|sosy
+994,1002|C0018681|headache|sosy
+994,1002|C2096315|headache|fndg
+1217,1226;1240,1247;1253,1262|C0879626|Treatment Adverse Reactions|patf
+1348,1356|C0439663|infected|fndg
+1504,1510|C0087136|SINGLE|fndg
+1651,1661|C3815594|randomized|fndg
+1769,1780|C3811910|combination|fndg
+1863,1869|C3844638|either|fndg
+2091,2106|C1444662|discontinuation|fndg
+2145,2151|C0087136|SINGLE|fndg
+2171,2181|C3815594|randomized|fndg
+2438,2453|C1444662|discontinuation|fndg
+2573,2582;2592,2596|C0879626|Treatment ADRs|patf
+2592,2596|C0041755|ADRs|inpo
+2668,2674|C3844638|either|fndg
+2705,2711|C0087136|SINGLE|fndg
+2894,2903;2913,2920;2926,2935|C0879626|Treatment Adverse Reactions|patf
+2968,2976|C3889824|Grades 2|fndg
+3053,3059|C0087136|SINGLE|fndg
+3150,3156|C0087136|SINGLE|fndg
+3469,3477|C0917801|Insomnia|sosy
+3469,3477|C1963237|Insomnia|fndg
+3582,3592|C0011570|Depression|mobd
+3582,3592|C0011581|Depression|mobd
+3582,3592|C1579931|Depression|sosy
+3582,3592|C0344315|Depression|fndg
+3695,3710|C0234458|Abnormal dreams|mobd
+3808,3822|C0422837|Nervous System|fndg
+3921,3930|C0042571|Dizziness|sosy
+3921,3930|C0012833|Dizziness|sosy
+3921,3930|C1963093|Dizziness|fndg
+4034,4042|C0018681|Headache|sosy
+4034,4042|C2096315|Headache|fndg
+4260,4266|C0027497|Nausea|sosy
+4260,4266|C1963179|Nausea|patf
+4373,4381|C0011991|Diarrhea|sosy
+4373,4381|C1963091|Diarrhea|fndg
+4727,4736|C0012634|Disorders|dsyn
+4832,4839|C0015672|Fatigue|sosy
+5058,5065|C0042571|Vertigo|sosy
+5208,5212|C0015230|rash|sosy
+5214,5218|C0015230|rash|sosy
+5232,5236;5251,5265|C0423791|rash maculo-papular|fndg
+5286,5299|C0011609|drug eruption|dsyn
+5318,5334|C1556376|Grade 1 insomnia|fndg
+5456,5462|C0087136|SINGLE|fndg
+5754,5765|C3811910|combination|fndg
+5818,5824|C3844638|either|fndg
+5973,5988|C1444662|discontinuation|fndg
+6081,6085|C0041755|ADRs|inpo
+6165,6171|C0087136|SINGLE|fndg
+6341,6349|C0439663|infected|fndg
+6400,6410|C3815594|randomized|fndg
+6424,6430|C3844638|either|fndg
+6661,6676|C1444662|discontinuation|fndg
+6933,6939|C3844638|either|fndg
+6960,6968|C0011991|diarrhea|sosy
+6960,6968|C1963091|diarrhea|fndg
+7264,7270|C0087136|single|fndg
+7314,7322|C0439663|infected|fndg
+7339,7348;7385,7392|C0162643|treatment failure|fndg
+7339,7348;7385,7392|C0235828|treatment failure|fndg
+7408,7418|C2004062|historical|fndg
+7594,7601|C1363945|therapy|fndg
+7652,7667|C1444662|discontinuation|fndg
+7703,7712;7722,7726|C0879626|Treatment ADRs|patf
+7722,7726|C0041755|ADRs|inpo
+7962,7966|C0041755|ADRs|inpo
+8068,8079|C3811910|combination|fndg
+8222,8248|C0017178|Gastrointestinal Disorders|dsyn
+8251,8265|C0000737|Abdominal pain|sosy
+8267,8287|C0232487|abdominal discomfort|sosy
+8289,8299|C0016204|flatulence|sosy
+8289,8299|C1962956|flatulence|fndg
+8301,8321|C0232492|upper abdominal pain|sosy
+8323,8331|C0042963|vomiting|sosy
+8323,8331|C1963281|vomiting|patf
+8339,8362|C0267792|Hepatobiliary Disorders|dsyn
+8365,8374|C0019159|Hepatitis|dsyn
+8365,8374|C0019158|Hepatitis|dsyn
+8382,8407|C0026857|Musculoskeletal Disorders|dsyn
+8410,8418|C0027121|Myositis|dsyn
+8450,8467|C0424000|Suicidal ideation|fndg
+8572,8593|C0455503|history of depression|fndg
+8640,8657|C0042075|Urinary Disorders|dsyn
+8661,8677|C1565489|Renal impairment|dsyn
+8694,8706;8714,8723|C0549584|Subcutaneous Disorders|dsyn
+8714,8723|C0012634|Disorders|dsyn
+8726,8734|C0033774|Pruritus|sosy
+8838,8846|C3889824|Grades 2|fndg
+8860,8869|C1457868|worsening|fndg
+9260,9268|C3889824|Grades 2|fndg
+9319,9325|C0087136|SINGLE|fndg
+9417,9423|C0087136|SINGLE|fndg
+9634,9637|C1266129|ALT|neop
+10990,11003|C0020456|Hyperglycemia|dsyn
+12151,12157|C0087136|SINGLE|fndg
+12253,12259|C0087136|SINGLE|fndg
+13090,13096|C0087136|SINGLE|fndg
+13278,13282|C1273517|used|fndg
+13302,13314|C1444662|discontinued|fndg
+13371,13377|C0087136|SINGLE|fndg
+13536,13542|C0087136|SINGLE|fndg
+13764,13770|C0087136|SINGLE|fndg
+13950,13958|C3889824|Grades 2|fndg
+14020,14023|C1266129|ALT|neop
+14081,14094|C0020456|hyperglycemia|dsyn
+14193,14214|C3845859|hematology laboratory|fndg
+14204,14226|C4021768|laboratory abnormality|fndg
+14233,14244|C0027947|neutropenia|dsyn
+14233,14244|C0023530|neutropenia|dsyn
+14233,14244|C0853697|neutropenia|fndg
+14303,14314|C0019163|Hepatitis B|dsyn
+14322,14339;14343,14352|C0019196|Hepatitis C Virus infection|dsyn
+14389,14400|C0019163|hepatitis B|dsyn
+14410,14415;14419,14428|C0042769|virus infection|dsyn
+14416,14428|C0275524|co-infection|dsyn
+14594,14605|C0019163|hepatitis B|dsyn
+14615,14620;14624,14633|C0042769|virus infection|dsyn
+14621,14633|C0275524|co-infection|dsyn
+14683,14694|C0019163|hepatitis B|dsyn
+14700,14712|C0275524|co-infection|dsyn
+14744,14747|C1266129|ALT|neop
+14795,14806|C0019163|hepatitis B|dsyn
+14816,14821;14825,14834|C0042769|virus infection|dsyn
+14822,14834|C0275524|co-infection|dsyn
+14825,14834|C0009450|infection|dsyn
+14825,14834|C3714514|infection|patf
+14861,14867|C3244287|Grades|fndg
+14875,14878|C1266129|ALT|neop
+14896,14907|C0019163|hepatitis B|dsyn
+14920,14928|C0439663|infected|fndg
+14943,14946|C0019693|HIV|dsyn
+14952,14960|C0439663|infected|fndg
+15138,15168|C1619738|immune reconstitution syndrome|dsyn
+15138,15168|C1096197|immune reconstitution syndrome|dsyn
+15205,15216|C0019163|hepatitis B|dsyn
+15242,15249|C1363945|therapy|fndg
+15303,15312|C0019159|hepatitis|dsyn
+15303,15312|C0019158|hepatitis|dsyn
+15313,15320|C1363945|therapy|fndg
+15325,15334|C2825032|withdrawn|mobd
+15325,15334|C0424092|withdrawn|fndg
+15393,15409|C0600061|Serum Creatinine|fndg
+15456,15472|C0600061|serum creatinine|fndg
+15550,15560|C0268731|glomerular|dsyn
+15622,15638|C0600061|serum creatinine|fndg
+16130,16135;16161,16162|C3840593|trial 1|fndg
+16461,16468|C3889824|Grade 2|fndg
+16469,16473|C0041755|ADRs|inpo
+16510,16514|C0015230|rash|sosy
+16524,16538|C0000737|abdominal pain|sosy
+16552,16560|C0011991|diarrhea|sosy
+16552,16560|C1963091|diarrhea|fndg
+16573,16580|C3889290|Grade 3|fndg
+16610,16617|C3889290|Grade 3|fndg
+16783,16799|C0600061|serum creatinine|fndg

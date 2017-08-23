@@ -1,0 +1,150 @@
+T1	AdverseReaction 93 104	Hypotension
+T2	AdverseReaction 109 127	Reflex Tachycardia
+T3	AdverseReaction 228 236	headache
+T4	AdverseReaction 238 244	nausea
+T5	AdverseReaction 250 258	vomiting
+T6	AdverseReaction 2183 2202	Acute renal failure
+T7	AdverseReaction 2321 2340	Atrial fibrillation
+T8	AdverseReaction 2459 2465	Nausea
+T9	AdverseReaction 4317 4325	headache
+T10	AdverseReaction 4334 4340	nausea
+T11	AdverseReaction 4353 4361	vomiting
+T12	AdverseReaction 4691 4712	myocardial infarction
+T13	AdverseReaction 4714 4728	cardiac arrest
+T14	AdverseReaction 4744 4751	syncope
+T15	AdverseReaction 4764 4771	dyspnea
+T16	AdverseReaction 5129 5158	increased blood triglycerides
+T17	AdverseReaction 5160 5165	ileus
+T18	AdverseReaction 5167 5183	hypersensitivity
+T19	AdverseReaction 5185 5196	hypotension
+T20	AdverseReaction 5198 5204	nausea
+T21	AdverseReaction 5206 5233	decreased oxygen saturation
+T22	AdverseReaction 5244 5262	pulmonary shunting
+T23	Factor 5235 5243	possible
+T24	AdverseReaction 5268 5286	reflex tachycardia
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22 Hypothetical:E23
+E23	Factor:T23
+E24	AdverseReaction:T24
+A1	CUI E1 C0020649
+A2	UMLS-Preferred-Name E1 Hypotension
+A3	MEDDRA-PT E1 Hypotension
+A4	MEDDRA-PT-ID E1 10021097
+A5	CUI E2 C1328539
+A6	UMLS-Preferred-Name E2 Reflex tachycardia
+A7	MEDDRA-PT E2 Tachycardia
+A8	MEDDRA-PT-ID E2 10043071
+A9	LLT E2 Reflex tachycardia
+A10	LLT-ID E2 10063096
+A11	CUI E3 C0018681
+A12	UMLS-Preferred-Name E3 Headache
+A13	MEDDRA-PT E3 Headache
+A14	MEDDRA-PT-ID E3 10019211
+A15	CUI E4 C0027497
+A16	UMLS-Preferred-Name E4 Nausea
+A17	MEDDRA-PT E4 Nausea
+A18	MEDDRA-PT-ID E4 10028813
+A19	CUI E5 C0042963
+A20	UMLS-Preferred-Name E5 Vomiting
+A21	MEDDRA-PT E5 Vomiting
+A22	MEDDRA-PT-ID E5 10047700
+A23	CUI E6 C0022660
+A24	UMLS-Preferred-Name E6 Kidney Failure, Acute
+A25	MEDDRA-PT E6 Acute kidney injury
+A26	MEDDRA-PT-ID E6 10069339
+A27	LLT E6 Acute renal failure
+A28	LLT-ID E6 10001041
+A29	CUI E7 C0004238
+A30	UMLS-Preferred-Name E7 Atrial Fibrillation
+A31	MEDDRA-PT E7 Atrial fibrillation
+A32	MEDDRA-PT-ID E7 10003658
+A33	CUI E8 C0027497
+A34	UMLS-Preferred-Name E8 Nausea
+A35	MEDDRA-PT E8 Nausea
+A36	MEDDRA-PT-ID E8 10028813
+A37	CUI E9 C0018681
+A38	UMLS-Preferred-Name E9 Headache
+A39	MEDDRA-PT E9 Headache
+A40	MEDDRA-PT-ID E9 10019211
+A41	CUI E10 C0027497
+A42	UMLS-Preferred-Name E10 Nausea
+A43	MEDDRA-PT E10 Nausea
+A44	MEDDRA-PT-ID E10 10028813
+A45	CUI E11 C0042963
+A46	UMLS-Preferred-Name E11 Vomiting
+A47	MEDDRA-PT E11 Vomiting
+A48	MEDDRA-PT-ID E11 10047700
+A49	CUI E12 C0027051
+A50	UMLS-Preferred-Name E12 Myocardial Infarction
+A51	MEDDRA-PT E12 Myocardial infarction
+A52	MEDDRA-PT-ID E12 10028596
+A53	CUI E13 C0018790
+A54	UMLS-Preferred-Name E13 Cardiac Arrest
+A55	MEDDRA-PT E13 Cardiac arrest
+A56	MEDDRA-PT-ID E13 10007515
+A57	CUI E14 C0039070
+A58	UMLS-Preferred-Name E14 Syncope
+A59	MEDDRA-PT E14 Syncope
+A60	MEDDRA-PT-ID E14 10042772
+A61	CUI E15 C0013404
+A62	UMLS-Preferred-Name E15 Dyspnea
+A63	MEDDRA-PT E15 Dyspnoea
+A64	MEDDRA-PT-ID E15 10013968
+A65	LLT E15 Dyspnea
+A66	LLT-ID E15 10013963
+A67	CUI E16 C0853692
+A68	UMLS-Preferred-Name E16 Blood triglycerides increased
+A69	MEDDRA-PT E16 Blood triglycerides increased
+A70	MEDDRA-PT-ID E16 10005839
+A71	CUI E17 C1258215
+A72	UMLS-Preferred-Name E17 Ileus
+A73	MEDDRA-PT E17 Ileus
+A74	MEDDRA-PT-ID E17 10021328
+A75	CUI E18 C0020517
+A76	UMLS-Preferred-Name E18 Hypersensitivity
+A77	MEDDRA-PT E18 Hypersensitivity
+A78	MEDDRA-PT-ID E18 10020751
+A79	CUI E19 C0020649
+A80	UMLS-Preferred-Name E19 Hypotension
+A81	MEDDRA-PT E19 Hypotension
+A82	MEDDRA-PT-ID E19 10021097
+A83	CUI E20 C0027497
+A84	UMLS-Preferred-Name E20 Nausea
+A85	MEDDRA-PT E20 Nausea
+A86	MEDDRA-PT-ID E20 10028813
+A87	CUI E21 C0746961
+A88	UMLS-Preferred-Name E21 Oxygen saturation below reference range
+A89	MEDDRA-PT E21 Oxygen saturation decreased
+A90	MEDDRA-PT-ID E21 10033318
+A91	CUI E22 C0489642
+A92	UMLS-Preferred-Name E22 Intrapulmonary shunt
+A93	MEDDRA-PT E22 Ventilation perfusion mismatch
+A94	MEDDRA-PT-ID E22 10069675
+A95	LLT E22 Intrapulmonary shunt
+A96	LLT-ID E22 10072687
+A97	CUI E24 C1328539
+A98	UMLS-Preferred-Name E24 Reflex tachycardia
+A99	MEDDRA-PT E24 Tachycardia
+A100	MEDDRA-PT-ID E24 10043071
+A101	LLT E24 Reflex tachycardia
+A102	LLT-ID E24 10063096

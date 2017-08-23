@@ -1,0 +1,96 @@
+T1	AdverseReaction 31 50	INCREASED MORTALITY
+T2	AdverseReaction 52 67	QT PROLONGATION
+T3	AdverseReaction 81 100	INCREASED MORTALITY
+T4	AdverseReaction 102 117	QT PROLONGATION
+T5	AdverseReaction 142 161	INCREASED MORTALITY
+T6	AdverseReaction 163 178	QT PROLONGATION
+T7	AdverseReaction 304 309	death
+T8	Factor 296 300	risk
+T9	AdverseReaction 571 586	QT prolongation
+T10	Factor 587 590	can
+T11	AdverseReaction 867 872	death
+T12	Factor 859 863	risk
+T13	AdverseReaction 1197 1212	QT prolongation
+T14	Factor 1213 1216	can
+T16	Factor 1281 1284	may
+T17	AdverseReaction 1291 1315	additive QT prolongation
+T18	AdverseReaction 674 689	QT prolongation
+T19	Factor 655 658	may
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7 Hypothetical:E8
+E8	Factor:T8
+E9	AdverseReaction:T9 Hypothetical:E10
+E10	Factor:T10
+E11	AdverseReaction:T11 Hypothetical:E12
+E12	Factor:T12
+E13	AdverseReaction:T13 Hypothetical:E14
+E14	Factor:T14
+E16	Factor:T16
+E17	AdverseReaction:T17 Hypothetical:E16
+E18	AdverseReaction:T18 Hypothetical:E19
+E19	Factor:T19
+A1	CUI E1 C1306577
+A2	UMLS-Preferred-Name E1 Death (finding)
+A3	MEDDRA-PT E1 Death
+A4	MEDDRA-PT-ID E1 10011906
+A5	CUI E2 C0151878
+A6	UMLS-Preferred-Name E2 Prolonged QT interval
+A7	MEDDRA-PT E2 Electrocardiogram QT prolonged
+A8	MEDDRA-PT-ID E2 10014387
+A9	LLT E2 QT prolonged
+A10	LLT-ID E2 10037705
+A11	CUI E3 C1306577
+A12	UMLS-Preferred-Name E3 Death (finding)
+A13	MEDDRA-PT E3 Death
+A14	MEDDRA-PT-ID E3 10011906
+A15	CUI E4 C0151878
+A16	UMLS-Preferred-Name E4 Prolonged QT interval
+A17	MEDDRA-PT E4 Electrocardiogram QT prolonged
+A18	MEDDRA-PT-ID E4 10014387
+A19	LLT E4 QT prolonged
+A20	LLT-ID E4 10037705
+A21	CUI E5 C1306577
+A22	UMLS-Preferred-Name E5 Death (finding)
+A23	MEDDRA-PT E5 Death
+A24	MEDDRA-PT-ID E5 10011906
+A25	CUI E6 C0151878
+A26	UMLS-Preferred-Name E6 Prolonged QT interval
+A27	MEDDRA-PT E6 Electrocardiogram QT prolonged
+A28	MEDDRA-PT-ID E6 10014387
+A29	LLT E6 QT prolonged
+A30	LLT-ID E6 10037705
+A31	CUI E7 C1306577
+A32	UMLS-Preferred-Name E7 Death (finding)
+A33	MEDDRA-PT E7 Death
+A34	MEDDRA-PT-ID E7 10011906
+A35	CUI E9 C0151878
+A36	UMLS-Preferred-Name E9 Prolonged QT interval
+A37	MEDDRA-PT E9 Electrocardiogram QT prolonged
+A38	MEDDRA-PT-ID E9 10014387
+A39	LLT E9 QT prolonged
+A40	LLT-ID E9 10037705
+A41	CUI E11 C1306577
+A42	UMLS-Preferred-Name E11 Death (finding)
+A43	MEDDRA-PT E11 Death
+A44	MEDDRA-PT-ID E11 10011906
+A45	CUI E13 C0151878
+A46	UMLS-Preferred-Name E13 Prolonged QT interval
+A47	MEDDRA-PT E13 Electrocardiogram QT prolonged
+A48	MEDDRA-PT-ID E13 10014387
+A49	LLT E13 QT prolonged
+A50	LLT-ID E13 10037705
+A51	CUI E17 C0151878
+A52	UMLS-Preferred-Name E17 Prolonged QT interval
+A53	MEDDRA-PT E17 Electrocardiogram QT prolonged
+A54	MEDDRA-PT-ID E17 10014387
+A55	CUI E18 C0151878
+A56	UMLS-Preferred-Name E18 Prolonged QT interval
+A57	MEDDRA-PT E18 Electrocardiogram QT prolonged
+A58	MEDDRA-PT-ID E18 10014387
+A59	LLT E18 QT prolonged
+A60	LLT-ID E18 10037705

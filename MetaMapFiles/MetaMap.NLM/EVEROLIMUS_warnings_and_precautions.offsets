@@ -1,0 +1,196 @@
+60,82|C2721563|infectious pneumonitis|dsyn
+105,113|C1457887|symptoms|sosy
+139,144|C1705232|fatal|fndg
+194,209|C1444662|discontinuation|fndg
+216,224|C1457887|symptoms|sosy
+286,296|C3714514|Infections|patf
+316,326|C3714514|infections|patf
+333,338|C1705232|fatal|fndg
+352,357|C0311392|signs|fndg
+362,370|C1457887|symptoms|sosy
+407,417|C0002994|Angioedema|patf
+498,508|C0002994|angioedema|patf
+525,540|C0149745|Oral ulceration|dsyn
+542,554|C0149745|Mouth ulcers|dsyn
+556,566|C0038362|stomatitis|dsyn
+572,586|C0038362|oral mucositis|dsyn
+572,586|C1568868|oral mucositis|dsyn
+670,683|C0035078|Renal failure|dsyn
+670,683|C1963154|Renal failure|patf
+694,707|C0035078|renal failure|dsyn
+694,707|C1963154|renal failure|patf
+719,738|C0022660|acute renal failure|dsyn
+719,738|C3854173|acute renal failure|dsyn
+753,766|C0206277|fatal outcome|patf
+803,825|C0151692|Impaired wound healing|patf
+845,850;859,872|C1096106|wound complications|inpo
+851,858|C0445223|related|fndg
+882,887|C0311392|signs|fndg
+892,900|C1457887|symptoms|sosy
+1006,1022|C0600061|serum creatinine|fndg
+1078,1101|C0162119|Decreases in hemoglobin|fndg
+1209,1219|C0449381|parameters|fndg
+1321,1326|C3810854|close|fndg
+1408,1416|C0600688|toxicity|inpo
+1844,1851|C3889290|Grade 3|fndg
+1983,1997|C0206277|Fatal outcomes|patf
+2153,2160|C0242184|hypoxia|patf
+2153,2160|C1963140|hypoxia|fndg
+2162,2178|C0032227|pleural effusion|dsyn
+2162,2178|C2073625|pleural effusion|fndg
+2180,2185|C0010200|cough|sosy
+2180,2185|C1961131|cough|fndg
+2190,2197|C0013404|dyspnea|sosy
+2325,2335;2344,2356;2366,2375|C0851886|infections pneumocystis pneumonia|dsyn
+2377,2380|C1535939|PJP|dsyn
+2480,2489|C1457868|worsening|fndg
+2490,2510|C0037090|respiratory symptoms|sosy
+2649,2656|C1363945|therapy|fndg
+2731,2751|C0543829|clinical pneumonitis|dsyn
+2760,2768|C1457887|symptoms|sosy
+2805,2812|C1363945|therapy|fndg
+2819,2827|C1457887|symptoms|sosy
+2871,2880|C1444656|indicated|fndg
+3118,3128|C1514893|resolution|patf
+3154,3159|C3244287|Grade|fndg
+3366,3374|C0600688|toxicity|inpo
+3385,3392|C3889290|Grade 3|fndg
+3403,3418|C1444662|discontinuation|fndg
+3526,3535|C1444656|indicated|fndg
+3551,3559|C1457887|symptoms|sosy
+3720,3731|C0032285|pneumonitis|dsyn
+3720,3731|C3714636|pneumonitis|dsyn
+3789,3799|C3714514|Infections|patf
+3907,3927|C0033740|protozoal infections|dsyn
+3939,3949;3955,3968|C0029118|infections opportunistic|dsyn
+4077,4086|C0032285|pneumonia|dsyn
+4088,4112|C0026918|mycobacterial infections|dsyn
+4120,4140|C0004623|bacterial infections|dsyn
+4142,4168|C1262313|invasive fungal infections|dsyn
+4178,4191|C0004030|aspergillosis|dsyn
+4193,4204|C0006840|candidiasis|dsyn
+4209,4240|C1535939|pneumocystis jiroveci pneumonia|dsyn
+4242,4245|C1535939|PJP|dsyn
+4251,4267|C0042769|viral infections|dsyn
+4278,4311|C2960634|reactivation of hepatitis B virus|dsyn
+4369,4379|C3714514|infections|patf
+4415,4421|C0243026|sepsis|dsyn
+4415,4421|C0036690|sepsis|dsyn
+4438,4453|C0085605|hepatic failure|dsyn
+4458,4463|C1705232|fatal|fndg
+4530,4539|C3714514|infection|patf
+4530,4539|C0009450|infection|dsyn
+4590,4616|C1262313|invasive fungal infections|dsyn
+4699,4704|C0311392|signs|fndg
+4709,4717|C1457887|symptoms|sosy
+4721,4730|C3714514|infection|patf
+4721,4730|C0009450|infection|dsyn
+4753,4762|C3714514|infection|patf
+4753,4762|C0009450|infection|dsyn
+4842,4857|C1444662|discontinuation|fndg
+4876,4885;4907,4923|C0026946|diagnosis fungal infection|dsyn
+4889,4897;4907,4923|C1262313|invasive fungal infection|dsyn
+4889,4897|C1334278|invasive|fndg
+4898,4923|C0553576|systemic fungal infection|dsyn
+4933,4944|C1444662|discontinue|fndg
+4969,4980;4992,4999|C1555288|appropriate therapy|fndg
+5005,5036|C1535939|Pneumocystis jiroveci pneumonia|dsyn
+5050,5063|C0206277|fatal outcome|patf
+5234,5237|C1535939|PJP|dsyn
+5362,5372|C0002994|Angioedema|patf
+5529,5539|C0002994|angioedema|patf
+5547,5555;5563,5570|C2939065|swelling airways|patf
+5574,5580|C2137027|tongue|fndg
+5598,5620|C0035229|respiratory impairment|patf
+5671,5679|C0027651|oncology|neop
+5714,5724|C0002994|angioedema|patf
+5854,5855;5889,5895|C3845175|5 ulcers|fndg
+5862,5866;5889,5895|C0149745|Oral ulcers|dsyn
+5862,5877|C0149745|Oral Ulceration|dsyn
+5867,5877;5883,5888|C0149745|Ulceration Mouth|dsyn
+5883,5895|C0149745|Mouth ulcers|dsyn
+5897,5907|C0038362|stomatitis|dsyn
+5913,5927|C0038362|oral mucositis|dsyn
+5913,5927|C1568868|oral mucositis|dsyn
+6051,6058|C3889290|Grade 3|fndg
+6064,6074|C0038362|stomatitis|dsyn
+6319,6329|C0436331|exacerbate|fndg
+6334,6343|C0012634|condition|dsyn
+6377,6381|C1273517|used|fndg
+6473,6486|C0035078|Renal Failure|dsyn
+6473,6486|C1963154|Renal Failure|patf
+6526,6545|C0022660|acute renal failure|dsyn
+6526,6545|C3854173|acute renal failure|dsyn
+6560,6573|C0206277|fatal outcome|patf
+6690,6712|C0151692|Impaired Wound Healing|patf
+6782,6787;6796,6809|C1096106|wound complications|inpo
+6788,6795|C0445223|related|fndg
+6815,6831|C0259768|wound dehiscence|acab
+6833,6848|C0043241|wound infection|patf
+6850,6867|C0267716|incisional hernia|patf
+6869,6879|C0024248|lymphocele|dsyn
+6869,6879|C1963162|lymphocele|patf
+6885,6891|C0262627|seroma|patf
+6885,6891|C1963233|seroma|fndg
+6899,6904;6913,6926|C1096106|wound complications|inpo
+6905,6912|C0445223|related|fndg
+6939,6960|C0549433|surgical intervention|fndg
+7079,7089|C3815594|randomized|fndg
+7116,7124|C1514241|positive|fndg
+7131,7139|C1513916|negative|fndg
+7140,7153|C0678222|breast cancer|neop
+7140,7153|C0006142|breast cancer|neop
+7178,7184|C1306577|deaths|fndg
+7265,7273;7277,7280|C4062450|65 years age|fndg
+7310,7318;7322,7325|C4062450|65 years age|fndg
+7376,7391|C1444662|discontinuation|fndg
+7423,7431;7435,7438|C4062450|65 years age|fndg
+7469,7477;7481,7484|C4062450|65 years age|fndg
+7740,7756|C0600061|serum creatinine|fndg
+7761,7772|C0033687|proteinuria|fndg
+7761,7772|C1962972|proteinuria|fndg
+7761,7772|C1279888|proteinuria|dsyn
+7975,7991|C0600061|serum creatinine|fndg
+8039,8046|C1363945|therapy|fndg
+8167,8179|C0455624|risk factors|fndg
+8256,8269|C0020456|Hyperglycemia|dsyn
+8271,8285|C0020473|hyperlipidemia|dsyn
+8271,8285|C0428465|hyperlipidemia|fndg
+8291,8311|C0020557|hypertriglyceridemia|dsyn
+8291,8311|C0428478|hypertriglyceridemia|fndg
+8512,8519|C1363945|therapy|fndg
+8575,8586;8595,8602|C1555288|appropriate therapy|fndg
+8710,8723|C0020456|hyperglycemia|dsyn
+8849,8859|C0449381|Parameters|fndg
+8876,8886|C1561562|hemoglobin|fndg
+9109,9116|C1363945|therapy|fndg
+9770,9788|C0948807|Hepatic Impairment|dsyn
+9848,9866|C0948807|hepatic impairment|dsyn
+9955,9958|C0279702|RCC|neop
+9964,9984|C0241961|renal angiomyolipoma|neop
+10015,10033|C0948807|hepatic impairment|dsyn
+10072,10076|C1273517|used|fndg
+10215,10233|C0948807|hepatic impairment|dsyn
+10363,10367|C0205768|SEGA|neop
+10389,10407|C0948807|hepatic impairment|dsyn
+10521,10525|C0205768|SEGA|neop
+10537,10555|C0948807|hepatic impairment|dsyn
+10856,10861|C3810854|close|fndg
+10937,10946|C0021400|influenza|dsyn
+10948,10955|C0025007|measles|dsyn
+10957,10962|C0026780|mumps|dsyn
+10964,10971|C0035920|rubella|dsyn
+10978,10983|C0032371|polio|dsyn
+10990,11002|C0043395|yellow fever|dsyn
+11004,11013|C0008049|varicella|dsyn
+11076,11080|C0205768|SEGA|neop
+11147,11156;11172,11177|C3272758|childhood virus|dsyn
+11287,11294|C1363945|therapy|fndg
+11381,11389|C0600688|Toxicity|inpo
+11516,11534|C0243033|maternal exposures|inpo
+11589,11593|C1273517|used|fndg
+11601,11610|C0425965|pregnancy|fndg
+11637,11645|C0600457|pregnant|fndg
+11637,11645|C0549206|pregnant|fndg
+11850,11858|C0600457|pregnant|fndg
+11850,11858|C0549206|pregnant|fndg

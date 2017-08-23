@@ -1,0 +1,870 @@
+T2	AdverseReaction 184 189	death
+T3	AdverseReaction 194 232	cerebrovascular-related adverse events
+T4	AdverseReaction 244 250	stroke
+T5	AdverseReaction 268 283	QT prolongation
+T6	AdverseReaction 285 305	Prolongs QT interval
+T7	AdverseReaction 333 343	arrhythmia
+T8	Factor 310 313	may
+T9	AdverseReaction 348 360	sudden death
+T10	AdverseReaction 738 768	Neuroleptic Malignant Syndrome
+T11	AdverseReaction 854 872	Tardive dyskinesia
+T12	AdverseReaction 932 945	Hyperglycemia
+T13	AdverseReaction 950 967	diabetes mellitus
+T14	AdverseReaction 1150 1162	Dyslipidemia
+T15	AdverseReaction 1273 1284	Weight Gain
+T17	AdverseReaction 1458 1472;1489 1493	cardiovascular risk
+T18	AdverseReaction 1473 1488;1489 1493	cerebrovascular risk
+T19	AdverseReaction 1527 1540	hyperglycemia
+T20	AdverseReaction 1542 1554	dyslipidemia
+T21	AdverseReaction 1560 1571	weight gain
+T22	AdverseReaction 1589 1597	Seizures
+T23	AdverseReaction 1718 1741	Orthostatic hypotension
+T24	AdverseReaction 1820 1830	Leukopenia
+T25	AdverseReaction 1832 1843	Neutropenia
+T26	AdverseReaction 1849 1864	Agranulocytosis
+T27	AdverseReaction 2238 2245	Suicide
+T28	AdverseReaction 2305 2313	Priapism
+T29	AdverseReaction 2409 2418;2429 2439	cognitive impairment
+T30	AdverseReaction 2423 2439	motor impairment
+T31	Factor 2395 2404	Potential
+T34	AdverseReaction 2810 2815	death
+T35	AdverseReaction 3167 3197	cerebrovascular adverse events
+T36	AdverseReaction 3199 3224	cerebrovascular accidents
+T37	AdverseReaction 3229 3255	transient ischemic attacks
+T38	AdverseReaction 3267 3277	fatalities
+T39	AdverseReaction 3589 3605	QTc prolongation
+T41	AdverseReaction 3969 3982	QTcF increase
+T43	AdverseReaction 4031 4049	torsade de pointes
+T44	Negation 4019 4021	No
+T45	AdverseReaction 4066 4085	cardiac arrhythmias
+T46	Severity 4059 4065	severe
+T53	AdverseReaction 6339 6369	Neuroleptic Malignant Syndrome
+T54	AdverseReaction 6371 6374	NMS
+T55	AdverseReaction 6503 6515	hyperpyrexia
+T56	AdverseReaction 6517 6532	muscle rigidity
+T57	AdverseReaction 6534 6555	altered mental status
+T58	AdverseReaction 6567 6582	catatonic signs
+T59	AdverseReaction 6600 6621	autonomic instability
+T60	AdverseReaction 6623 6632;6633 6638	irregular pulse
+T61	AdverseReaction 6623 6632;6642 6656	irregular blood pressure
+T62	AdverseReaction 6658 6669	tachycardia
+T63	AdverseReaction 6671 6682	diaphoresis
+T64	AdverseReaction 6688 6707	cardiac dysrhythmia
+T65	AdverseReaction 6739 6770	elevated creatine phosphokinase
+T66	AdverseReaction 6772 6785	myoglobinuria
+T67	AdverseReaction 6787 6801	rhabdomyolysis
+T68	AdverseReaction 6808 6827	acute renal failure
+T69	AdverseReaction 8046 8064	Tardive dyskinesia
+T71	AdverseReaction 8119 8152	involuntary, dyskinetic movements
+T80	AdverseReaction 10366 10389;10406 10410	increase cardiovascular risk
+T82	AdverseReaction 10366 10374;10390 10410	increase cerebrovascular risk
+T83	AdverseReaction 10444 10457	hyperglycemia
+T84	AdverseReaction 10459 10471	dyslipidemia
+T85	AdverseReaction 10477 10493	body weight gain
+T86	AdverseReaction 10736 10749	Hyperglycemia
+T87	AdverseReaction 10793 10805	ketoacidosis
+T88	Severity 10765 10772	extreme
+T89	AdverseReaction 10809 10826	hyperosmolar coma
+T90	AdverseReaction 10830 10835	death
+T92	AdverseReaction 11438 11474	hyperglycemia-related adverse events
+T94	AdverseReaction 13745 13778	Undesirable alterations in lipids
+T95	AdverseReaction 16234 16245	Weight gain
+T101	AdverseReaction 17308 17316	seizures
+T102	AdverseReaction 17786 17809	orthostatic hypotension
+T103	Factor 17775 17778	can
+T104	AdverseReaction 17826 17835	dizziness
+T105	AdverseReaction 17837 17848	tachycardia
+T106	AdverseReaction 17854 17861	syncope
+T107	AdverseReaction 18036 18043	syncope
+T108	AdverseReaction 18146 18169	Orthostatic hypotension
+T109	AdverseReaction 18965 18975	leukopenia
+T110	AdverseReaction 18976 18987	neutropenia
+T111	AdverseReaction 19051 19066	Agranulocytosis
+T112	AdverseReaction 19145 19155	leukopenia
+T113	AdverseReaction 19156 19167	neutropenia
+T114	AdverseReaction 19992 20017	elevates prolactin levels
+T115	AdverseReaction 20024 20042	Hyperprolactinemia
+T116	AdverseReaction 20149 20178	inhibit reproductive function
+T117	AdverseReaction 20249 20261	Galactorrhea
+T118	AdverseReaction 20263 20273	amenorrhea
+T119	AdverseReaction 20275 20287	gynecomastia
+T120	AdverseReaction 20293 20302	impotence
+T121	AdverseReaction 20358 20390	Long-standing hyperprolactinemia
+T122	Factor 20425 20428	may
+T123	AdverseReaction 20437 20459	decreased bone density
+T124	AdverseReaction 20800 20828	increases in serum prolactin
+T125	AdverseReaction 20760 20795	Mammary gland proliferative changes
+T126	Animal 20842 20846	mice
+T127	Animal 20851 20855	rats
+T128	AdverseReaction 21440 21472	elevated plasma prolactin levels
+T129	AdverseReaction 21275 21298;21345 21353	plasma prolactin levels increase
+T130	Severity 21357 21366	2.6 ng/mL
+T131	AdverseReaction 21632 21651	prolactin elevation
+T132	AdverseReaction 21852 21864	gynecomastia
+T133	AdverseReaction 21952 21964	galactorrhea
+T134	AdverseReaction 22121 22185	Disruption of the body's ability to reduce core body temperature
+T135	DrugClass 22209 22229	antipsychotic agents
+T136	AdverseReaction 22579 22601	Esophageal dysmotility
+T137	AdverseReaction 22606 22616	aspiration
+T138	DrugClass 22643 22661	antipsychotic drug
+T140	AdverseReaction 23322 23330	priapism
+T141	DrugClass 23381 23425	Drugs with alpha-adrenergic blocking effects
+T142	AdverseReaction 23455 23463	priapism
+T143	AdverseReaction 23515 23523	priapism
+T144	Severity 23508 23514	Severe
+T145	AdverseReaction 23681 23696	impair judgment
+T146	AdverseReaction 23681 23687;23698 23706	impair thinking
+T147	AdverseReaction 23681 23687;23710 23722	impair motor skills
+T148	AdverseReaction 23766 23776	somnolence
+T149	AdverseReaction 23788 23796	sedation
+T150	DrugClass 127 155	atypical antipsychotic drugs
+T151	DrugClass 1367 1395	Atypical antipsychotic drugs
+T152	AdverseReaction 1743 1752	Dizziness
+T153	AdverseReaction 1754 1765	tachycardia
+T154	AdverseReaction 1771 1778	syncope
+T155	Factor 1779 1782	can
+T156	DrugClass 1889 1903	antipsychotics
+T32	DrugClass 2753 2781	atypical antipsychotic drugs
+T48	DrugClass 8197 8216	antipsychotic drugs
+T49	DrugClass 10284 10312	Atypical antipsychotic drugs
+T50	DrugClass 11504 11527	atypical antipsychotics
+T51	DrugClass 13823 13846	atypical antipsychotics
+T52	DrugClass 16269 16291	atypical antipsychotic
+T72	AdverseReaction 16523 16542	gain in body weight
+T73	DrugClass 19029 19049	antipsychotic agents
+T74	AdverseReaction 19078 19083	fatal
+T75	AdverseReaction 20088 20128	reduced pituitary gonadotropin secretion
+T76	AdverseReaction 20047 20073	suppress hypothalamic GnRH
+T77	Factor 20043 20046	may
+T78	AdverseReaction 20412 20424	hypogonadism
+T91	DrugClass 20327 20356	prolactin-elevating compounds
+T96	Severity 21615 21628	modest levels
+T97	AdverseReaction 21672 21692	prolactin elevations
+T98	Severity 21664 21671	greater
+T99	DrugClass 21712 21738	other antipsychotic agents
+T100	Factor 23668 23677	potential
+T40	Factor 20145 20148	may
+T42	AdverseReaction 20182 20214	impairing gonadalsteroidogenesis
+T81	AdverseReaction 1348 1365	Metabolic Changes
+T139	AdverseReaction 1501 1518	metabolic changes
+T157	Factor 6727 6730	may
+E2	AdverseReaction:T2 Hypothetical2:E150
+E3	AdverseReaction:T3 Hypothetical:E150
+E4	AdverseReaction:T4 Hypothetical:E150
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7 Hypothetical:E8
+E8	Factor:T8
+E9	AdverseReaction:T9 Hypothetical:E8
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E17	AdverseReaction:T17 Hypothetical2:E151
+E18	AdverseReaction:T18 Hypothetical2:E151
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24 Hypothetical:E156
+E25	AdverseReaction:T25 Hypothetical:E156
+E26	AdverseReaction:T26 Hypothetical:E156
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29 Hypothetical:E31
+E30	AdverseReaction:T30 Hypothetical:E31
+E31	Factor:T31
+E34	AdverseReaction:T34 Hypothetical2:E32
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E41	AdverseReaction:T41
+E43	AdverseReaction:T43 Negated:E44
+E44	Negation:T44
+E45	AdverseReaction:T45 Effect:E46 Negated:E44
+E46	Severity:T46
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65 Hypothetical:E158
+E66	AdverseReaction:T66 Hypothetical:E158
+E67	AdverseReaction:T67 Hypothetical:E158
+E68	AdverseReaction:T68 Hypothetical:E158
+E69	AdverseReaction:T69
+E71	AdverseReaction:T71 Hypothetical2:E48
+E80	AdverseReaction:T80 Hypothetical2:E49
+E82	AdverseReaction:T82 Hypothetical:E49
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86 Effect:E88
+E87	AdverseReaction:T87
+E88	Severity:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E92	AdverseReaction:T92 Hypothetical2:E51
+E94	AdverseReaction:T94 Hypothetical:E52
+E95	AdverseReaction:T95 Hypothetical:E72
+E101	AdverseReaction:T101
+E102	AdverseReaction:T102 Hypothetical:E103
+E103	Factor:T103
+E104	AdverseReaction:T104 Hypothetical:E103
+E105	AdverseReaction:T105 Hypothetical:E103
+E106	AdverseReaction:T106 Hypothetical:E103
+E107	AdverseReaction:T107
+E108	AdverseReaction:T108
+E109	AdverseReaction:T109 Hypothetical:E74
+E110	AdverseReaction:T110 Hypothetical:E74
+E111	AdverseReaction:T111
+E112	AdverseReaction:T112
+E113	AdverseReaction:T113
+E114	AdverseReaction:T114
+E115	AdverseReaction:T115
+E116	AdverseReaction:T116 Hypothetical:E40
+E117	AdverseReaction:T117 Hypothetical:E96
+E118	AdverseReaction:T118 Hypothetical:E96
+E119	AdverseReaction:T119 Hypothetical:E96
+E120	AdverseReaction:T120 Hypothetical:E96
+E121	AdverseReaction:T121
+E122	Factor:T122
+E123	AdverseReaction:T123 Hypothetical:E122
+E124	AdverseReaction:T124 Hypothetical:E126 Hypothetical2:E127
+E125	AdverseReaction:T125 Hypothetical:E127 Hypothetical2:E126
+E126	Animal:T126
+E127	Animal:T127
+E128	AdverseReaction:T128
+E129	AdverseReaction:T129 Effect:E130
+E130	Severity:T130
+E131	AdverseReaction:T131 Effect:E97
+E132	AdverseReaction:T132
+E133	AdverseReaction:T133
+E134	AdverseReaction:T134 Hypothetical:E135
+E135	DrugClass:T135
+E136	AdverseReaction:T136 Hypothetical:E138
+E137	AdverseReaction:T137 Hypothetical:E138
+E138	DrugClass:T138
+E140	AdverseReaction:T140
+E141	DrugClass:T141
+E142	AdverseReaction:T142 Hypothetical:E141
+E143	AdverseReaction:T143 Effect:E144
+E144	Severity:T144
+E145	AdverseReaction:T145 Hypothetical:E139
+E146	AdverseReaction:T146 Hypothetical:E139
+E147	AdverseReaction:T147 Hypothetical:E139
+E148	AdverseReaction:T148
+E149	AdverseReaction:T149
+E150	DrugClass:T150
+E151	DrugClass:T151
+E152	AdverseReaction:T152 Hypothetical:E155
+E153	AdverseReaction:T153 Hypothetical:E155
+E154	AdverseReaction:T154 Hypothetical:E155
+E155	Factor:T155
+E156	DrugClass:T156
+E32	DrugClass:T32
+E48	DrugClass:T48
+E49	DrugClass:T49
+E50	AdverseReaction:T86
+E51	DrugClass:T50
+E52	DrugClass:T51
+E72	DrugClass:T52
+E73	AdverseReaction:T72
+E74	DrugClass:T73
+E75	AdverseReaction:T74
+E76	AdverseReaction:T75
+E77	AdverseReaction:T76 Hypothetical:E78
+E78	Factor:T77
+E91	AdverseReaction:T78
+E96	DrugClass:T91
+E97	Severity:T96
+E98	AdverseReaction:T97 Effect:E99 Hypothetical:E100
+E99	Severity:T98
+E100	DrugClass:T99
+E139	Factor:T100
+E40	Factor:T40
+E42	AdverseReaction:T42
+E81	AdverseReaction:T81
+E157	AdverseReaction:T139
+E158	Factor:T157
+A1	CUI E2 C1306577
+A2	UMLS-Preferred-Name E2 Death (finding)
+A3	MEDDRA-PT E2 Death
+A4	MEDDRA-PT-ID E2 10011906
+A5	CUI E3 C0007820
+A6	UMLS-Preferred-Name E3 Cerebrovascular Disorders
+A7	MEDDRA-PT E3 Cerebrovascular disorder
+A8	MEDDRA-PT-ID E3 10008196
+A9	CUI E4 C0038454
+A10	UMLS-Preferred-Name E4 Cerebrovascular accident
+A11	MEDDRA-PT E4 Cerebrovascular accident
+A12	MEDDRA-PT-ID E4 10008190
+A13	LLT E4 Stroke
+A14	LLT-ID E4 10042244
+A15	CUI E5 C0151878
+A16	UMLS-Preferred-Name E5 Prolonged QT interval
+A17	MEDDRA-PT E5 Electrocardiogram QT prolonged
+A18	MEDDRA-PT-ID E5 10014387
+A19	LLT E5 QT prolonged
+A20	LLT-ID E5 10037705
+A21	CUI E6 C0151878
+A22	UMLS-Preferred-Name E6 Prolonged QT interval
+A23	MEDDRA-PT E6 Electrocardiogram QT prolonged
+A24	MEDDRA-PT-ID E6 10014387
+A25	LLT E6 QT interval prolonged
+A26	LLT-ID E6 10037703
+A27	CUI E7 C0003811
+A28	UMLS-Preferred-Name E7 Cardiac Arrhythmia
+A29	MEDDRA-PT E7 Arrhythmia
+A30	MEDDRA-PT-ID E7 10003119
+A31	CUI E9 C0011071
+A32	UMLS-Preferred-Name E9 Sudden death
+A33	MEDDRA-PT E9 Sudden death
+A34	MEDDRA-PT-ID E9 10042434
+A35	CUI E10 C0027849
+A36	UMLS-Preferred-Name E10 Neuroleptic Malignant Syndrome
+A37	MEDDRA-PT E10 Neuroleptic malignant syndrome
+A38	MEDDRA-PT-ID E10 10029282
+A39	CUI E11 C0686347
+A40	UMLS-Preferred-Name E11 Tardive Dyskinesia
+A41	MEDDRA-PT E11 Tardive dyskinesia
+A42	MEDDRA-PT-ID E11 10043118
+A43	CUI E12 C0020456
+A44	UMLS-Preferred-Name E12 Hyperglycemia
+A45	MEDDRA-PT E12 Hyperglycaemia
+A46	MEDDRA-PT-ID E12 10020635
+A47	LLT E12 Hyperglycemia
+A48	LLT-ID E12 10020639
+A49	CUI E13 C0011849
+A50	UMLS-Preferred-Name E13 Diabetes Mellitus
+A51	MEDDRA-PT E13 Diabetes mellitus
+A52	MEDDRA-PT-ID E13 10012601
+A53	CUI E14 C0242339
+A54	UMLS-Preferred-Name E14 Dyslipidemias
+A55	MEDDRA-PT E14 Dyslipidaemia
+A56	MEDDRA-PT-ID E14 10058108
+A57	LLT E14 Dyslipidemia
+A58	LLT-ID E14 10058110
+A59	CUI E15 C0043094
+A60	UMLS-Preferred-Name E15 Weight Gain
+A61	MEDDRA-PT E15 Weight increased
+A62	MEDDRA-PT-ID E15 10047899
+A63	LLT E15 Weight gain
+A64	LLT-ID E15 10047896
+A65	CUI E17 C0850624
+A66	UMLS-Preferred-Name E17 cardiovascular risk factor
+A67	MEDDRA-PT E17 Cardiovascular symptom
+A68	MEDDRA-PT-ID E17 10075534
+A69	CUI E18 C0007820
+A70	UMLS-Preferred-Name E18 Cerebrovascular Disorders
+A71	MEDDRA-PT E18 Cerebrovascular disorder
+A72	MEDDRA-PT-ID E18 10008196
+A73	CUI E19 C0020456
+A74	UMLS-Preferred-Name E19 Hyperglycemia
+A75	MEDDRA-PT E19 Hyperglycaemia
+A76	MEDDRA-PT-ID E19 10020635
+A77	LLT E19 Hyperglycemia
+A78	LLT-ID E19 10020639
+A79	CUI E20 C0242339
+A80	UMLS-Preferred-Name E20 Dyslipidemias
+A81	MEDDRA-PT E20 Dyslipidaemia
+A82	MEDDRA-PT-ID E20 10058108
+A83	LLT E20 Dyslipidemia
+A84	LLT-ID E20 10058110
+A85	CUI E21 C0043094
+A86	UMLS-Preferred-Name E21 Weight Gain
+A87	MEDDRA-PT E21 Weight increased
+A88	MEDDRA-PT-ID E21 10047899
+A89	LLT E21 Weight gain
+A90	LLT-ID E21 10047896
+A91	CUI E22 C0036572
+A92	UMLS-Preferred-Name E22 Seizures
+A93	MEDDRA-PT E22 Seizure
+A94	MEDDRA-PT-ID E22 10039906
+A95	LLT E22 Seizures
+A96	LLT-ID E22 10039910
+A97	CUI E23 C0020651
+A98	UMLS-Preferred-Name E23 Hypotension, Orthostatic
+A99	MEDDRA-PT E23 Orthostatic hypotension
+A100	MEDDRA-PT-ID E23 10031127
+A101	CUI E24 C0023530
+A102	UMLS-Preferred-Name E24 Leukopenia
+A103	MEDDRA-PT E24 Leukopenia
+A104	MEDDRA-PT-ID E24 10024384
+A105	CUI E25 C0027947
+A106	UMLS-Preferred-Name E25 Neutropenia
+A107	MEDDRA-PT E25 Neutropenia
+A108	MEDDRA-PT-ID E25 10029354
+A109	CUI E26 C0001824
+A110	UMLS-Preferred-Name E26 Agranulocytosis
+A111	MEDDRA-PT E26 Agranulocytosis
+A112	MEDDRA-PT-ID E26 10001507
+A113	CUI E27 C0038661
+A114	UMLS-Preferred-Name E27 Suicide
+A115	MEDDRA-PT E27 Completed suicide
+A116	MEDDRA-PT-ID E27 10010144
+A117	LLT E27 Suicide
+A118	LLT-ID E27 10042462
+A119	CUI E28 C0033117
+A120	UMLS-Preferred-Name E28 Priapism
+A121	MEDDRA-PT E28 Priapism
+A122	MEDDRA-PT-ID E28 10036661
+A123	CUI E29 C0338656
+A124	UMLS-Preferred-Name E29 Impaired cognition
+A125	MEDDRA-PT E29 Cognitive disorder
+A126	MEDDRA-PT-ID E29 10057668
+A127	LLT E29 Cognitive impairment
+A128	LLT-ID E29 10009846
+A129	CUI E30 C0221163
+A130	UMLS-Preferred-Name E30 Motor Disorders
+A131	MEDDRA-PT E30 Motor dysfunction
+A132	MEDDRA-PT-ID E30 10061296
+A133	CUI E34 C1306577
+A134	UMLS-Preferred-Name E34 Death (finding)
+A135	MEDDRA-PT E34 Death
+A136	MEDDRA-PT-ID E34 10011906
+A137	CUI E35 C0007820
+A138	UMLS-Preferred-Name E35 Cerebrovascular Disorders
+A139	MEDDRA-PT E35 Cerebrovascular disorder
+A140	MEDDRA-PT-ID E35 10008196
+A141	CUI E36 C0038454
+A142	UMLS-Preferred-Name E36 Cerebrovascular accident
+A143	MEDDRA-PT E36 Cerebrovascular accident
+A144	MEDDRA-PT-ID E36 10008190
+A145	CUI E37 C0007787
+A146	UMLS-Preferred-Name E37 Transient Ischemic Attack
+A147	MEDDRA-PT E37 Transient ischaemic attack
+A148	MEDDRA-PT-ID E37 10044390
+A149	LLT E37 Transient ischemic attacks
+A150	LLT-ID E37 10044391
+A151	CUI E38 C1306577
+A152	UMLS-Preferred-Name E38 Death (finding)
+A153	MEDDRA-PT E38 Death
+A154	MEDDRA-PT-ID E38 10011906
+A155	CUI E39 C0855333
+A156	UMLS-Preferred-Name E39 Electrocardiogram QT corrected interval prolonged
+A157	MEDDRA-PT E39 Electrocardiogram QT prolonged
+A158	MEDDRA-PT-ID E39 10014387
+A159	LLT E39 Electrocardiogram QTc interval prolonged
+A160	LLT-ID E39 10053698
+A161	CUI E41 C3828431
+A162	UMLS-Preferred-Name E41 QTcF Prolongation
+A163	MEDDRA-PT E41 Electrocardiogram QT prolonged
+A164	MEDDRA-PT-ID E41 10014387
+A165	LLT E41 Electrocardiogram QTc interval prolonged
+A166	LLT-ID E41 10053698
+A167	CUI E43 C0040479
+A168	UMLS-Preferred-Name E43 Torsades de Pointes
+A169	MEDDRA-PT E43 Torsade de pointes
+A170	MEDDRA-PT-ID E43 10044066
+A171	CUI E45 C0003811
+A172	UMLS-Preferred-Name E45 Cardiac Arrhythmia
+A173	MEDDRA-PT E45 Arrhythmia
+A174	MEDDRA-PT-ID E45 10003119
+A175	LLT E45 Cardiac arrhythmia
+A176	LLT-ID E45 10007518
+A177	CUI E53 C0027849
+A178	UMLS-Preferred-Name E53 Neuroleptic Malignant Syndrome
+A179	MEDDRA-PT E53 Neuroleptic malignant syndrome
+A180	MEDDRA-PT-ID E53 10029282
+A181	CUI E54 C0027849
+A182	UMLS-Preferred-Name E54 Neuroleptic Malignant Syndrome
+A183	MEDDRA-PT E54 Neuroleptic malignant syndrome
+A184	MEDDRA-PT-ID E54 10029282
+A185	LLT E54 NMS
+A186	LLT-ID E54 10029435
+A187	CUI E55 C0392676
+A188	UMLS-Preferred-Name E55 Hyperpyrexia
+A189	MEDDRA-PT E55 Hyperpyrexia
+A190	MEDDRA-PT-ID E55 10020741
+A191	CUI E56 C0026837
+A192	UMLS-Preferred-Name E56 Muscle Rigidity
+A193	MEDDRA-PT E56 Muscle rigidity
+A194	MEDDRA-PT-ID E56 10028330
+A195	CUI E57 C0856054
+A196	UMLS-Preferred-Name E57 Mental status changes
+A197	MEDDRA-PT E57 Mental status changes
+A198	MEDDRA-PT-ID E57 10048294
+A199	CUI E58 C3251821
+A200	UMLS-Preferred-Name E58 Catatonic reaction
+A201	MEDDRA-PT E58 Catatonia
+A202	MEDDRA-PT-ID E58 10007776
+A203	LLT E58 Reaction catatonic
+A204	LLT-ID E58 10037940
+A205	CUI E59 C0262385
+A206	UMLS-Preferred-Name E59 Autonomic nervous system imbalance
+A207	MEDDRA-PT E59 Autonomic nervous system imbalance
+A208	MEDDRA-PT-ID E59 10003840
+A209	LLT E59 Autonomic instability
+A210	LLT-ID E59 10049218
+A211	CUI E60 C0392684
+A212	UMLS-Preferred-Name E60 Pulse irregular
+A213	MEDDRA-PT E60 Heart rate irregular
+A214	MEDDRA-PT-ID E60 10019304
+A215	LLT E60 Irregular pulse
+A216	LLT-ID E60 10022994
+A217	CUI E61 C0549405
+A218	UMLS-Preferred-Name E61 Blood pressure fluctuation
+A219	MEDDRA-PT E61 Blood pressure fluctuation
+A220	MEDDRA-PT-ID E61 10005746
+A221	CUI E62 C0039231
+A222	UMLS-Preferred-Name E62 Tachycardia
+A223	MEDDRA-PT E62 Tachycardia
+A224	MEDDRA-PT-ID E62 10043071
+A225	CUI E63 C0700590
+A226	UMLS-Preferred-Name E63 Increased sweating
+A227	MEDDRA-PT E63 Hyperhidrosis
+A228	MEDDRA-PT-ID E63 10020642
+A229	LLT E63 Diaphoresis
+A230	LLT-ID E63 10012703
+A231	CUI E64 C0003811
+A232	UMLS-Preferred-Name E64 Cardiac Arrhythmia
+A233	MEDDRA-PT E64 Arrhythmia
+A234	MEDDRA-PT-ID E64 10003119
+A235	LLT E64 Cardiac dysrhythmias
+A236	LLT-ID E64 10007545
+A237	CUI E65 C0151576
+A238	UMLS-Preferred-Name E65 Elevated creatine kinase
+A239	MEDDRA-PT E65 Blood creatine phosphokinase increased
+A240	MEDDRA-PT-ID E65 10005470
+A241	LLT E65 Creatine phosphokinase increased
+A242	LLT-ID E65 10011349
+A243	CUI E66 C0027080
+A244	UMLS-Preferred-Name E66 Myoglobinuria
+A245	MEDDRA-PT E66 Myoglobinuria
+A246	MEDDRA-PT-ID E66 10028629
+A247	CUI E67 C0035410
+A248	UMLS-Preferred-Name E67 Rhabdomyolysis
+A249	MEDDRA-PT E67 Rhabdomyolysis
+A250	MEDDRA-PT-ID E67 10039020
+A251	CUI E68 C0022660
+A252	UMLS-Preferred-Name E68 Kidney Failure, Acute
+A253	MEDDRA-PT E68 Acute kidney injury
+A254	MEDDRA-PT-ID E68 10069339
+A255	LLT E68 Acute renal failure
+A256	LLT-ID E68 10001041
+A257	CUI E69 C0686347
+A258	UMLS-Preferred-Name E69 Tardive Dyskinesia
+A259	MEDDRA-PT E69 Tardive dyskinesia
+A260	MEDDRA-PT-ID E69 10043118
+A261	CUI E71 C0427086
+A262	UMLS-Preferred-Name E71 Involuntary Movements
+A263	MEDDRA-PT E71 Dyskinesia
+A264	MEDDRA-PT-ID E71 10013916
+A265	LLT E71 Movements involuntary
+A266	LLT-ID E71 10028041
+A267	flag E80 unmapped
+A268	CUI E80 C0850624
+A269	UMLS-Preferred-Name E80 cardiovascular risk factor
+A270	flag E82 unmapped
+A271	CUI E83 C0020456
+A272	UMLS-Preferred-Name E83 Hyperglycemia
+A273	MEDDRA-PT E83 Hyperglycaemia
+A274	MEDDRA-PT-ID E83 10020635
+A275	LLT E83 Hyperglycemia
+A276	LLT-ID E83 10020639
+A277	CUI E84 C0242339
+A278	UMLS-Preferred-Name E84 Dyslipidemias
+A279	MEDDRA-PT E84 Dyslipidaemia
+A280	MEDDRA-PT-ID E84 10058108
+A281	LLT E84 Dyslipidemia
+A282	LLT-ID E84 10058110
+A283	CUI E85 C0043094
+A284	UMLS-Preferred-Name E85 Weight Gain
+A285	MEDDRA-PT E85 Weight increased
+A286	MEDDRA-PT-ID E85 10047899
+A287	LLT E85 Weight gain
+A288	LLT-ID E85 10047896
+A289	CUI E86 C0020456
+A290	UMLS-Preferred-Name E86 Hyperglycemia
+A291	MEDDRA-PT E86 Hyperglycaemia
+A292	MEDDRA-PT-ID E86 10020635
+A293	LLT E86 Hyperglycemia
+A294	LLT-ID E86 10020639
+A295	CUI E87 C0220982
+A296	UMLS-Preferred-Name E87 Ketoacidosis
+A297	MEDDRA-PT E87 Ketoacidosis
+A298	MEDDRA-PT-ID E87 10023379
+A299	flag E89 duplicate
+A300	CUI E89 C0020457
+A301	UMLS-Preferred-Name E89 Hyperglycemic Hyperosmolar Nonketotic Coma
+A302	MEDDRA-PT E89 Hyperosmolar state
+A303	MEDDRA-PT-ID E89 10020697
+A304	CUI E90 C1306577
+A305	UMLS-Preferred-Name E90 Death (finding)
+A306	MEDDRA-PT E90 Death
+A307	MEDDRA-PT-ID E90 10011906
+A308	CUI E92 C0020456
+A309	UMLS-Preferred-Name E92 Hyperglycemia
+A310	MEDDRA-PT E92 Hyperglycaemia
+A311	MEDDRA-PT-ID E92 10020635
+A312	LLT E92 Hyperglycemia
+A313	LLT-ID E92 10020639
+A314	CUI E94 C0549634
+A315	UMLS-Preferred-Name E94 Lipids abnormal
+A316	MEDDRA-PT E94 Lipids abnormal
+A317	MEDDRA-PT-ID E94 10024588
+A318	CUI E95 C0043094
+A319	UMLS-Preferred-Name E95 Weight Gain
+A320	MEDDRA-PT E95 Weight increased
+A321	MEDDRA-PT-ID E95 10047899
+A322	LLT E95 Weight gain
+A323	LLT-ID E95 10047896
+A324	CUI E101 C0036572
+A325	UMLS-Preferred-Name E101 Seizures
+A326	MEDDRA-PT E101 Seizure
+A327	MEDDRA-PT-ID E101 10039906
+A328	LLT E101 Seizures
+A329	LLT-ID E101 10039910
+A330	CUI E102 C0020651
+A331	UMLS-Preferred-Name E102 Hypotension, Orthostatic
+A332	MEDDRA-PT E102 Orthostatic hypotension
+A333	MEDDRA-PT-ID E102 10031127
+A334	CUI E104 C0012833
+A335	UMLS-Preferred-Name E104 Dizziness
+A336	MEDDRA-PT E104 Dizziness
+A337	MEDDRA-PT-ID E104 10013573
+A338	CUI E105 C0039231
+A339	UMLS-Preferred-Name E105 Tachycardia
+A340	MEDDRA-PT E105 Tachycardia
+A341	MEDDRA-PT-ID E105 10043071
+A342	CUI E106 C0039070
+A343	UMLS-Preferred-Name E106 Syncope
+A344	MEDDRA-PT E106 Syncope
+A345	MEDDRA-PT-ID E106 10042772
+A346	CUI E107 C0039070
+A347	UMLS-Preferred-Name E107 Syncope
+A348	MEDDRA-PT E107 Syncope
+A349	MEDDRA-PT-ID E107 10042772
+A350	CUI E108 C0020651
+A351	UMLS-Preferred-Name E108 Hypotension, Orthostatic
+A352	MEDDRA-PT E108 Orthostatic hypotension
+A353	MEDDRA-PT-ID E108 10031127
+A354	CUI E109 C0023530
+A355	UMLS-Preferred-Name E109 Leukopenia
+A356	MEDDRA-PT E109 Leukopenia
+A357	MEDDRA-PT-ID E109 10024384
+A358	CUI E110 C0027947
+A359	UMLS-Preferred-Name E110 Neutropenia
+A360	MEDDRA-PT E110 Neutropenia
+A361	MEDDRA-PT-ID E110 10029354
+A362	CUI E111 C0001824
+A363	UMLS-Preferred-Name E111 Agranulocytosis
+A364	MEDDRA-PT E111 Agranulocytosis
+A365	MEDDRA-PT-ID E111 10001507
+A366	CUI E112 C0023530
+A367	UMLS-Preferred-Name E112 Leukopenia
+A368	MEDDRA-PT E112 Leukopenia
+A369	MEDDRA-PT-ID E112 10024384
+A370	CUI E113 C0027947
+A371	UMLS-Preferred-Name E113 Neutropenia
+A372	MEDDRA-PT E113 Neutropenia
+A373	MEDDRA-PT-ID E113 10029354
+A374	CUI E114 C0747979
+A375	UMLS-Preferred-Name E114 Increased prolactin level
+A376	MEDDRA-PT E114 Blood prolactin increased
+A377	MEDDRA-PT-ID E114 10005780
+A378	LLT E114 Prolactin levels increased
+A379	LLT-ID E114 10036828
+A380	CUI E115 C0020514
+A381	UMLS-Preferred-Name E115 Hyperprolactinemia
+A382	MEDDRA-PT E115 Hyperprolactinaemia
+A383	MEDDRA-PT-ID E115 10020737
+A384	LLT E115 Hyperprolactinemia
+A385	LLT-ID E115 10020739
+A386	CUI E116 C1558153
+A387	UMLS-Preferred-Name E116 Adverse Event Associated with Sexual and Reproductive Function
+A388	MEDDRA-PT E116 Reproductive toxicity
+A389	MEDDRA-PT-ID E116 10074268
+A390	CUI E117 C3665358
+A391	UMLS-Preferred-Name E117 Galactorrhea
+A392	MEDDRA-PT E117 Galactorrhoea
+A393	MEDDRA-PT-ID E117 10017600
+A394	LLT E117 Galactorrhea
+A395	LLT-ID E117 10017592
+A396	CUI E118 C0002453
+A397	UMLS-Preferred-Name E118 Amenorrhea
+A398	MEDDRA-PT E118 Amenorrhoea
+A399	MEDDRA-PT-ID E118 10001928
+A400	LLT E118 Amenorrhea
+A401	LLT-ID E118 10001927
+A402	CUI E119 C0018418
+A403	UMLS-Preferred-Name E119 Gynecomastia
+A404	MEDDRA-PT E119 Gynaecomastia
+A405	MEDDRA-PT-ID E119 10018800
+A406	LLT E119 Gynecomastia
+A407	LLT-ID E119 10018801
+A408	CUI E120 C0242350
+A409	UMLS-Preferred-Name E120 Erectile dysfunction
+A410	MEDDRA-PT E120 Erectile dysfunction
+A411	MEDDRA-PT-ID E120 10061461
+A412	LLT E120 Impotence
+A413	LLT-ID E120 10021550
+A414	CUI E121 C0020514
+A415	UMLS-Preferred-Name E121 Hyperprolactinemia
+A416	MEDDRA-PT E121 Hyperprolactinaemia
+A417	MEDDRA-PT-ID E121 10020737
+A418	LLT E121 Hyperprolactinemia
+A419	LLT-ID E121 10020739
+A420	CUI E123 C0877225
+A421	UMLS-Preferred-Name E123 Bone density decreased
+A422	MEDDRA-PT E123 Bone density decreased
+A423	MEDDRA-PT-ID E123 10049470
+A424	CUI E124 C0857980
+A425	UMLS-Preferred-Name E124 Serum prolactin increased
+A426	MEDDRA-PT E124 Blood prolactin increased
+A427	MEDDRA-PT-ID E124 10005780
+A428	LLT E124 Serum prolactin increased
+A429	LLT-ID E124 10040384
+A430	flag E125 underspecified
+A431	CUI E125 C0740306
+A432	UMLS-Preferred-Name E125 Biopsy breast abnormal
+A433	MEDDRA-PT E125 Biopsy breast abnormal
+A434	MEDDRA-PT-ID E125 10004745
+A435	CUI E128 C0857716
+A436	UMLS-Preferred-Name E128 Plasma prolactin increased
+A437	MEDDRA-PT E128 Blood prolactin increased
+A438	MEDDRA-PT-ID E128 10005780
+A439	LLT E128 Plasma prolactin increased
+A440	LLT-ID E128 10035415
+A441	CUI E129 C0857716
+A442	UMLS-Preferred-Name E129 Plasma prolactin increased
+A443	MEDDRA-PT E129 Blood prolactin increased
+A444	MEDDRA-PT-ID E129 10005780
+A445	LLT E129 Plasma prolactin increased
+A446	LLT-ID E129 10035415
+A447	CUI E131 C0553731
+A448	UMLS-Preferred-Name E131 PRL increased
+A449	MEDDRA-PT E131 Blood prolactin increased
+A450	MEDDRA-PT-ID E131 10005780
+A451	LLT E131 Prolactin increased
+A452	LLT-ID E131 10036826
+A453	CUI E132 C0018418
+A454	UMLS-Preferred-Name E132 Gynecomastia
+A455	MEDDRA-PT E132 Gynaecomastia
+A456	MEDDRA-PT-ID E132 10018800
+A457	LLT E132 Gynecomastia
+A458	LLT-ID E132 10018801
+A459	CUI E133 C3665358
+A460	UMLS-Preferred-Name E133 Galactorrhea
+A461	MEDDRA-PT E133 Galactorrhoea
+A462	MEDDRA-PT-ID E133 10017600
+A463	LLT E133 Galactorrhea
+A464	LLT-ID E133 10017592
+A465	CUI E134 C0854171
+A466	UMLS-Preferred-Name E134 Temperature regulation disorder
+A467	MEDDRA-PT E134 Temperature regulation disorder
+A468	MEDDRA-PT-ID E134 10061376
+A469	CUI E136 C0014858
+A470	UMLS-Preferred-Name E136 Esophageal motility disorders
+A471	MEDDRA-PT E136 Oesophageal motility disorder
+A472	MEDDRA-PT-ID E136 10072419
+A473	LLT E136 Esophageal motility disorder
+A474	LLT-ID E136 10072420
+A475	CUI E137 C0700198
+A476	UMLS-Preferred-Name E137 Pulmonary aspiration
+A477	MEDDRA-PT E137 Aspiration
+A478	MEDDRA-PT-ID E137 10003504
+A479	CUI E140 C0033117
+A480	UMLS-Preferred-Name E140 Priapism
+A481	MEDDRA-PT E140 Priapism
+A482	MEDDRA-PT-ID E140 10036661
+A483	CUI E142 C0033117
+A484	UMLS-Preferred-Name E142 Priapism
+A485	MEDDRA-PT E142 Priapism
+A486	MEDDRA-PT-ID E142 10036661
+A487	CUI E143 C0033117
+A488	UMLS-Preferred-Name E143 Priapism
+A489	MEDDRA-PT E143 Priapism
+A490	MEDDRA-PT-ID E143 10036661
+A491	CUI E145 C0233818
+A492	UMLS-Preferred-Name E145 Impaired judgement
+A493	MEDDRA-PT E145 Judgement impaired
+A494	MEDDRA-PT-ID E145 10023236
+A495	CUI E146 C0233632
+A496	UMLS-Preferred-Name E146 Disturbance in thinking
+A497	MEDDRA-PT E146 Thinking abnormal
+A498	MEDDRA-PT-ID E146 10043431
+A499	CUI E147 C1963825
+A500	UMLS-Preferred-Name E147 Reduced dexterity
+A501	MEDDRA-PT E147 Motor dysfunction
+A502	MEDDRA-PT-ID E147 10061296
+A503	CUI E148 C2830004
+A504	UMLS-Preferred-Name E148 Somnolence
+A505	MEDDRA-PT E148 Somnolence
+A506	MEDDRA-PT-ID E148 10041349
+A507	CUI E149 C0235195
+A508	UMLS-Preferred-Name E149 Sedated state
+A509	MEDDRA-PT E149 Sedation
+A510	MEDDRA-PT-ID E149 10039897
+A511	CUI E152 C0012833
+A512	UMLS-Preferred-Name E152 Dizziness
+A513	MEDDRA-PT E152 Dizziness
+A514	MEDDRA-PT-ID E152 10013573
+A515	CUI E153 C0039231
+A516	UMLS-Preferred-Name E153 Tachycardia
+A517	MEDDRA-PT E153 Tachycardia
+A518	MEDDRA-PT-ID E153 10043071
+A519	CUI E154 C0039070
+A520	UMLS-Preferred-Name E154 Syncope
+A521	MEDDRA-PT E154 Syncope
+A522	MEDDRA-PT-ID E154 10042772
+A523	CUI E73 C0043094
+A524	UMLS-Preferred-Name E73 Weight Gain
+A525	MEDDRA-PT E73 Weight increased
+A526	MEDDRA-PT-ID E73 10047899
+A527	LLT E73 Weight gain
+A528	LLT-ID E73 10047896
+A529	CUI E75 C1306577
+A530	UMLS-Preferred-Name E75 Death (finding)
+A531	MEDDRA-PT E75 Death
+A532	MEDDRA-PT-ID E75 10011906
+A533	CUI E76 C0151676
+A534	UMLS-Preferred-Name E76 Pituitary gonadotrophin decreased
+A535	MEDDRA-PT E76 Blood gonadotrophin decreased
+A536	MEDDRA-PT-ID E76 10005562
+A537	LLT E76 Pituitary gonadotrophin decreased
+A538	LLT-ID E76 10054718
+A539	CUI E77 C4025644
+A540	UMLS-Preferred-Name E77 Hypothalamic gonadotropin-releasing hormone (GNRH) deficiency
+A541	MEDDRA-PT E77 Blood gonadotrophin decreased
+A542	MEDDRA-PT-ID E77 10005562
+A543	LLT E77 Gonadotropins decreased
+A544	LLT-ID E77 10018546
+A545	CUI E91 C0020619
+A546	UMLS-Preferred-Name E91 Hypogonadism
+A547	MEDDRA-PT E91 Hypogonadism
+A548	MEDDRA-PT-ID E91 10058359
+A549	CUI E98 C0553731
+A550	UMLS-Preferred-Name E98 PRL increased
+A551	MEDDRA-PT E98 Blood prolactin increased
+A552	MEDDRA-PT-ID E98 10005780
+A553	LLT E98 Prolactin increased
+A554	LLT-ID E98 10036826
+A555	flag E42 underspecified
+A556	CUI E42 C2242620
+A557	UMLS-Preferred-Name E42 Gonadal insufficiency
+A558	MEDDRA-PT E42 Hypogonadism
+A559	MEDDRA-PT-ID E42 10058359
+A560	LLT E42 Gonadal insufficiency
+A561	LLT-ID E42 10068037
+A562	CUI E81 C0025517
+A563	UMLS-Preferred-Name E81 Metabolic Diseases
+A564	MEDDRA-PT E81 Metabolic disorder
+A565	MEDDRA-PT-ID E81 10058097
+A566	CUI E157 C0025517
+A567	UMLS-Preferred-Name E157 Metabolic Diseases
+A568	MEDDRA-PT E157 Metabolic disorder
+A569	MEDDRA-PT-ID E157 10058097

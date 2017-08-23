@@ -1,0 +1,30 @@
+T1	AdverseReaction 52 78	Hypersensitivity reactions
+T2	AdverseReaction 373 399	Hypersensitivity reactions
+T3	AdverseReaction 531 544	skin erythema
+T4	AdverseReaction 549 557	pruritis
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	LLT E1 Hypersensitivity reaction
+A6	LLT-ID E1 10020756
+A7	CUI E2 C0020517
+A8	UMLS-Preferred-Name E2 Hypersensitivity
+A9	MEDDRA-PT E2 Hypersensitivity
+A10	MEDDRA-PT-ID E2 10020751
+A11	LLT E2 Hypersensitivity reaction
+A12	LLT-ID E2 10020756
+A13	CUI E3 C0041834
+A14	UMLS-Preferred-Name E3 Erythema
+A15	MEDDRA-PT E3 Erythema
+A16	MEDDRA-PT-ID E3 10015150
+A17	LLT E3 Skin erythema
+A18	LLT-ID E3 10040842
+A19	CUI E4 C0033774
+A20	UMLS-Preferred-Name E4 Pruritus
+A21	MEDDRA-PT E4 Pruritus
+A22	MEDDRA-PT-ID E4 10037087

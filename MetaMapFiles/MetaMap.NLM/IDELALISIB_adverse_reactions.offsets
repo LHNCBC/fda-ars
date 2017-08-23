@@ -1,0 +1,153 @@
+213,227|C0235378|Hepatotoxicity|inpo
+274,289|C1443924|Severe Diarrhea|sosy
+293,300|C0009319|Colitis|dsyn
+293,300|C1963084|Colitis|fndg
+347,358|C0032285|Pneumonitis|dsyn
+347,358|C3714636|Pneumonitis|dsyn
+405,427|C0021845|Intestinal Perforation|dsyn
+547,558|C0002792|Anaphylaxis|patf
+547,558|C0850803|Anaphylaxis|dsyn
+605,616|C0027947|Neutropenia|dsyn
+605,616|C0023530|Neutropenia|dsyn
+605,616|C0853697|Neutropenia|fndg
+732,740|C0011991|diarrhea|sosy
+732,740|C1963091|diarrhea|fndg
+742,749|C0015967|pyrexia|fndg
+751,758|C0015672|fatigue|sosy
+760,766|C0027497|nausea|sosy
+760,766|C1963179|nausea|patf
+768,773|C0010200|cough|sosy
+768,773|C1961131|cough|fndg
+775,784|C0032285|pneumonia|dsyn
+786,800|C0000737|abdominal pain|sosy
+802,808|C0085593|chills|sosy
+814,818|C0015230|rash|sosy
+897,908|C0027947|neutropenia|dsyn
+897,908|C0023530|neutropenia|dsyn
+897,908|C0853697|neutropenia|fndg
+910,930|C0020557|hypertriglyceridemia|dsyn
+910,930|C0428478|hypertriglyceridemia|fndg
+932,945|C0020456|hyperglycemia|dsyn
+947,950|C1266129|ALT|neop
+1237,1247|C0012634|conditions|dsyn
+1482,1510|C0023434|Chronic Lymphocytic Leukemia|neop
+1612,1624|C0854802|relapsed CLL|neop
+1960,1969|C0032285|pneumonia|dsyn
+1977,1984|C0015967|pyrexia|fndg
+1991,1997|C0243026|sepsis|dsyn
+1991,1997|C0036690|sepsis|dsyn
+2004,2023|C0746883|febrile neutropenia|dsyn
+2033,2041|C0011991|diarrhea|sosy
+2033,2041|C1963091|diarrhea|fndg
+2078,2093|C1444662|discontinuation|fndg
+2214,2228|C0235378|hepatotoxicity|inpo
+2233,2241|C0011991|diarrhea|sosy
+2233,2241|C1963091|diarrhea|fndg
+2242,2249|C0009319|colitis|dsyn
+2242,2249|C1963084|colitis|fndg
+2479,2487|C0011991|diarrhea|sosy
+2479,2487|C1963091|diarrhea|fndg
+2491,2498|C0009319|colitis|dsyn
+2491,2498|C1963084|colitis|fndg
+2504,2508|C0015230|rash|sosy
+2711,2714|C0023434|CLL|neop
+2929,2934|C3244287|Grade|fndg
+2942,2947;2950,2951|C3889290|Grade 3|fndg
+2963,2968|C3244287|Grade|fndg
+2976,2981;2984,2985|C3889290|Grade 3|fndg
+3047,3073|C0017178|Gastrointestinal disorders|dsyn
+3094,3100|C0027497|nausea|sosy
+3094,3100|C1963179|nausea|patf
+3207,3215|C0042963|vomiting|sosy
+3207,3215|C1963281|vomiting|patf
+3320,3328|C0011991|diarrhea|sosy
+3320,3328|C1963091|diarrhea|fndg
+3433,3464|C0017168|gastroesophageal reflux disease|dsyn
+3546,3556|C0038362|stomatitis|dsyn
+3704,3712|C0018681|headache|sosy
+3704,3712|C2096315|headache|fndg
+3823,3832|C0012634|disorders|dsyn
+3857,3867|C0012634|conditions|dsyn
+3874,3881|C0015967|pyrexia|fndg
+3987,3993|C0085593|chills|sosy
+4100,4104|C0030193|pain|sosy
+4100,4104|C1962977|pain|fndg
+4220,4232;4240,4249|C0549584|subcutaneous disorders|dsyn
+4240,4249|C0012634|disorders|dsyn
+4258,4262|C0015230|rash|sosy
+4396,4417|C0025061|mediastinal disorders|dsyn
+4424,4433|C0032285|pneumonia|dsyn
+4537,4553|C2136984|nasal congestion|patf
+4537,4553|C0027424|nasal congestion|sosy
+4648,4658|C3714514|Infections|patf
+4663,4675|C0851341|infestations|dsyn
+4695,4701|C0243026|sepsis|dsyn
+4695,4701|C0036690|sepsis|dsyn
+4808,4818|C0006277|bronchitis|dsyn
+4808,4818|C0149514|bronchitis|dsyn
+4921,4930|C0037199|sinusitis|dsyn
+5034,5057|C0042029|urinary tract infection|dsyn
+5034,5057|C0262655|urinary tract infection|dsyn
+5165,5192|C0009782|connective tissue disorders|dsyn
+5199,5209|C0003862|arthralgia|sosy
+5392,5395|C0023434|CLL|neop
+5609,5614|C3244287|Grade|fndg
+5643,5648|C3244287|Grade|fndg
+5656,5663|C3889290|Grade 3|fndg
+5704,5709;5718,5719|C3537125|CTCAE 4|fndg
+6174,6177|C1266129|ALT|neop
+6528,6548|C0020557|hypertriglyceridemia|dsyn
+6528,6548|C0428478|hypertriglyceridemia|fndg
+6626,6639|C0020456|hyperglycemia|dsyn
+6739,6751|C0020615|hypoglycemia|dsyn
+6852,6864|C0020625|hyponatremia|dsyn
+7009,7038|C1334170|Indolent Non-Hodgkin Lymphoma|neop
+7098,7104;7110,7139|C0677728|adults indolent non-Hodgkin lymphoma|neop
+7404,7413|C0032285|pneumonia|dsyn
+7421,7429|C0011991|diarrhea|sosy
+7421,7429|C1963091|diarrhea|fndg
+7441,7448|C0015967|pyrexia|fndg
+7477,7485|C2825142|resulted|fndg
+7505,7520|C1444662|discontinuation|fndg
+7610,7618|C0011991|diarrhea|sosy
+7610,7618|C1963091|diarrhea|fndg
+7626,7635|C0032285|pneumonia|dsyn
+7647,7669|C0438717|elevated transaminases|fndg
+7927,7956|C1334170|Indolent non-Hodgkin Lymphoma|neop
+8132,8137|C3244287|Grade|fndg
+8155,8160;8163,8164;8245,8253|C1559310|Grade 3 diarrhea|fndg
+8188,8214|C0017178|Gastrointestinal disorders|dsyn
+8354,8360|C0027497|nausea|sosy
+8354,8360|C1963179|nausea|patf
+8463,8477|C0000737|abdominal pain|sosy
+8572,8580|C0042963|vomiting|sosy
+8572,8580|C1963281|vomiting|patf
+8687,8696|C0012634|disorders|dsyn
+8721,8731|C0012634|conditions|dsyn
+8738,8745|C0015672|fatigue|sosy
+8847,8854|C0015967|pyrexia|fndg
+8956,8964|C0004093|asthenia|sosy
+9065,9081|C0085649|peripheral edema|fndg
+9172,9182|C3714514|Infections|patf
+9187,9199|C0851341|infestations|dsyn
+9229,9262|C0041912|upper respiratory tract infection|dsyn
+9363,9384|C0025061|mediastinal disorders|dsyn
+9393,9402|C0032285|pneumonia|dsyn
+9502,9507|C0010200|cough|sosy
+9502,9507|C1961131|cough|fndg
+9611,9618|C0013404|dyspnea|sosy
+9727,9749|C0549584|subcutaneous disorders|dsyn
+9775,9779|C0015230|rash|sosy
+9884,9896|C0028081|night sweats|sosy
+10048,10056|C0018681|headache|sosy
+10048,10056|C2096315|headache|fndg
+10170,10189|C3714509|nutrition disorders|dsyn
+10376,10384|C0917801|insomnia|sosy
+10376,10384|C1963237|insomnia|fndg
+10559,10588|C1334170|Indolent non-Hodgkin Lymphoma|neop
+10707,10729|C4021768|Laboratory Abnormality|fndg
+10762,10767|C3244287|Grade|fndg
+10777,10784|C3889290|Grade 3|fndg
+10846,10851;10860,10861|C3537125|CTCAE 4|fndg
+10991,10994|C1266129|ALT|neop
+11378,11388|C1561562|hemoglobin|fndg

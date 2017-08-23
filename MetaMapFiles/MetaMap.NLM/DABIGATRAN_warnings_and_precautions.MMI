@@ -1,0 +1,77 @@
+00000000|MMI|198.71|Hemorrhage|C0019080|[patf]|["BLEEDING"-tx-21-"bleeding"-noun-0,"BLEEDING"-tx-20-"bleeding"-noun-0,"BLEEDING"-tx-19-"Bleeding"-adj-0,"BLEEDING"-tx-14-"bleeding"-noun-0,"BLEEDING"-tx-9-"bleeding"-noun-0,"BLEEDING"-tx-5-"bleeding"-noun-0,"Blood loss of (NOS)"-tx-4-"of blood loss"-noun-0,"BLEEDING"-tx-3-"Bleeding"-adj-0,"BLEEDING"-tx-3-"bleeding"-noun-0,"BLEEDING"-tx-2-"bleeding"-noun-0,"BLEEDING"-tx-1-"Bleeding"-noun-0,"BLEEDING"-tx-1-"bleeding"-noun-0]|TX|4424/8;4234/8;3604/8;2443/8;1576/8;964/8;830/13;679/8;780/8;508/8;53/8;99/8|C23.550.414
+00000000|MMI|85.40|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-28-"renal impairment"-noun-0,"Renal Impairment"-tx-27-"renal impairment"-noun-0,"Renal Impairment"-tx-26-"renal impairment"-noun-0,"Impaired renal function"-tx-25-"impaired renal function"-noun-0,"Renal Impairment"-tx-7-"renal impairment"-noun-0]|TX|6027/16;5924/16;5556/16;5358/23;1294/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|32.62|Cerebrovascular accident|C0038454|[dsyn]|["STROKE"-tx-27-"Stroke"-noun-0,"STROKE"-tx-20-"stroke"-noun-0]|TX|5704/6;4149/6|C10.228.140.300.775;C14.907.253.855
+00000000|MMI|26.50|Thromboembolism|C0040038|[patf]|["Thromboembolic events"-tx-21-"thromboembolic events"-noun-0,"Thromboembolic events"-tx-20-"thromboembolic events"-noun-0]|TX|4437/21;4108/21|C14.907.355.590
+00000000|MMI|25.98|Atrial Fibrillation|C0004238|[dsyn]|["ATRIAL FIBRILLATION"-tx-27-"Atrial Fibrillation"-noun-1,"ATRIAL FIBRILLATION"-tx-23-"atrial fibrillation"-noun-0]|TX|5749/19;4908/19|C14.280.067.198;C23.550.073.198
+00000000|MMI|25.93|Thrombus|C0087086|[patf]|["Thrombotic"-tx-1-"Thrombotic"-adj-1,"Thrombotic"-tx-1-"thrombotic"-adj-1]|TX|221/10;425/10|C14.907.355.830
+00000000|MMI|20.95|Hypesthesia|C0020580|[fndg]|["Numbness"-tx-16-"numbness"-noun-0]|TX|3170/8|C10.597.751.791.500;C23.888.592.763.770.500
+00000000|MMI|20.95|Numbness|C0028643|[sosy]|["NUMBNESS"-tx-16-"numbness"-noun-0]|TX|3170/8|C10.597.751.791.500;C23.888.592.763.770.500
+00000000|MMI|20.95|Transient Cerebral Ischemia|C0917805|[dsyn]|["Transient ischemic attack"-tx-20-"transient ischemic attack"-noun-0]|TX|4157/25|C10.228.140.300.150.836;C14.907.253.092.836
+00000000|MMI|20.95|Transient Ischemic Attack|C0007787|[dsyn]|["TRANSIENT ISCHAEMIC ATTACK"-tx-20-"transient ischemic attack"-noun-0]|TX|4157/25|C10.228.140.300.150.836;C14.907.253.092.836
+00000000|MMI|20.01|Neurologic Deficits|C0521654|[fndg]|["Motor Deficits"-tx-16-"motor deficits"-noun-0,"Neurological impairment"-tx-16-"neurological impairment"-noun-0]|TX|3154/14;3090/23|C10.597;C23.888.592
+00000000|MMI|17.80|Pulmonary Embolism|C0034065|[dsyn]|["PULMONARY EMBOLISM"-tx-29-"Pulmonary Embolism"-noun-0]|TX|6226/18|C08.381.746;C14.907.355.350.700
+00000000|MMI|16.37|Back Pain|C0004604|[sosy]|["BACKPAIN"-tx-16-"back pain"-noun-0]|TX|3131/9|C10.597.617.140;C23.888.592.612.107
+00000000|MMI|16.06|Deep Vein Thrombosis|C0149871|[dsyn]|["DEEP VENOUS THROMBOSIS"-tx-29-"Deep Venous Thrombosis"-noun-0]|TX|6199/22|C14.907.355.830.925
+00000000|MMI|16.04|Premature Birth|C0151526|[fndg]|["Premature"-tx-1-"Premature"-adj-0]|TX|245/9|C13.703.420.491.500
+00000000|MMI|15.91|Physical findings|C0311392|[fndg]|["SIGNS"-tx-18-"signs"-noun-0,"SIGNS"-tx-17-"signs"-noun-0,"SIGNS"-tx-16-"signs"-noun-0,"SIGNS"-tx-4-"signs"-noun-0]|TX|3351/5;3329/5;3069/5;812/5|
+00000000|MMI|15.79|Implanted Medical Device (finding)|C2828363|[fndg]|["IMPLANTED"-tx-21-"implanted"-verb-0,"IMPLANTED"-tx-19-"implanted"-verb-0]|TX|4640/9;[3878/9],[3891/9]|
+00000000|MMI|14.97|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-18-"symptoms"-noun-0,"SYMPTOMS"-tx-17-"symptoms"-noun-0,"SYMPTOMS"-tx-16-"symptoms"-noun-0,"SYMPTOMS"-tx-4-"symptoms"-noun-0]|TX|3360/8;3338/8;3078/8;821/8|
+00000000|MMI|14.64|Myocardial Infarction|C0027051|[dsyn]|["Infarction, Myocardial"-tx-20-"myocardial infarction"-noun-0]|TX|4188/21|C14.280.647.500;C14.907.585.500
+00000000|MMI|13.14|Paralysed|C0522224|[fndg]|["PARALYSIS"-tx-13-"paralysis"-noun-0]|TX|2371/9|C10.597.622;C23.888.592.636
+00000000|MMI|13.14|Thrombosis|C0040053|[patf]|["THROMBOSIS"-tx-20-"thrombosis"-noun-0]|TX|4137/10|C14.907.355.830
+00000000|MMI|13.09|Thrombocytopenia|C0040034|[fndg]|["Thrombocytopaenia"-tx-12-"thrombocytopenia"-noun-0]|TX|2008/16|C15.378.140.855
+00000000|MMI|13.01|Embolism|C0013922|[patf]|["EMBOLISM"-tx-27-"Embolism"-noun-1]|TX|5724/8|C14.907.355.350
+00000000|MMI|13.01|Embolus|C1704212|[fndg]|["Embolism, NOS"-tx-27-"Embolism"-noun-1]|TX|5724/8|C14.907.355.350
+00000000|MMI|12.88|Recurrence (disease attribute)|C2825055|[patf]|["RECURRENCE"-tx-29-"Recurrence"-noun-0]|TX|6185/10|C23.550.291.937
+00000000|MMI|11.49|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-4-"hypotension"-noun-0]|TX|893/11|C14.907.514
+00000000|MMI|11.22|2+|C3833492|[fndg]|["2+"-tx-5-"2"-real_number-0,"2+"-tx-2-"2"-real_number-0]|TX|1007/1;[633/1],[649/1]|
+00000000|MMI|11.12|Bleeding Risk|C3251812|[fndg]|["Bleeding Risk"-tx-6-"risk bleeding"-noun-0,"Risk for bleeding"-tx-6-"Risk for bleeding"-noun-0,"Bleeding Risk"-tx-3-"risk bleeding"-noun-0]|TX|1111/4,1119/8;1024/4,1037/12;715/4,723/8|
+00000000|MMI|10.91|Discontinued|C1444662|[fndg]|["Discontinue"-tx-5-"Discontinue"-verb-0,"Discontinued"-tx-2-"discontinued"-verb-0,"Discontinuation"-tx-1-"Discontinuation"-noun-0]|TX|907/11;458/12;255/15|
+00000000|MMI|10.84|CREATININE CLEARANCE QUANTITATIVE TRAIT LOCUS|C1846718|[fndg]|["CRCL"-tx-29-"CrCl"-noun-0,"CRCL"-tx-28-"CrCl"-noun-0,"CRCL"-tx-27-"CrCl"-noun-0]|TX|6323/4;6045/4;5942/4|
+00000000|MMI|10.75|no feeling or sensation of skin|C2219802|[fndg]|["anesthesia"-tx-16-"anesthesia"-noun-0,"anesthesia"-tx-14-"anesthesia"-noun-0,"anesthesia"-tx-13-"anesthesia"-noun-0]|TX|2995/10;2524/10;2156/10|
+00000000|MMI|10.72|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-26-"exposure"-noun-0,"Exposure NOS"-tx-25-"exposure"-noun-0,"Exposure NOS"-tx-24-"Exposure"-noun-0]|TX|5606/8;5441/8;5149/8|
+00000000|MMI|10.72|exposure history|C2220266|[fndg]|["exposure"-tx-26-"exposure"-noun-0,"exposure"-tx-25-"exposure"-noun-0,"exposure"-tx-24-"Exposure"-noun-0]|TX|5606/8;5441/8;5149/8|
+00000000|MMI|9.96|Pericardial effusion|C0031039|[dsyn]|["Pericardial Effusions"-tx-20-"pericardial effusions"-noun-0]|TX|4273/21|C14.280.695
+00000000|MMI|9.93|Neurologic Symptoms|C0235031|[sosy]|["Neurological symptoms NOS"-tx-16-"symptoms neurological"-noun-0]|TX|3078/8,3090/12|C10.597;C23.888.592
+00000000|MMI|7.41|<30 min|C3842955|[fndg]|["<30 min"-tx-28-"30 min"-noun-0,"<30 min"-tx-27-"30 min"-noun-0]|TX|6053/2,6059/3;5947/2,5956/3|
+00000000|MMI|7.32|spinal hematoma|C0856150|[inpo]|["Spinal hematoma"-tx-18-"spinal hematoma"-noun-0,"Spinal hematoma"-tx-13-"spinal hematoma"-noun-0]|TX|3372/15;2312/15|
+00000000|MMI|7.31|Absence of pain sensation|C0344307|[fndg]|["ANALGESIA"-tx-16-"analgesia"-noun-0,"ANALGESIA"-tx-14-"analgesia"-noun-0]|TX|3006/9;2535/9|
+00000000|MMI|7.18|Experimental Result|C2825142|[fndg]|["Result"-tx-25-"result"-verb-0,"Result"-tx-13-"result"-verb-0]|TX|5421/6;2338/6|
+00000000|MMI|7.04|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-3-"fatal"-adj-0,"FATAL"-tx-1-"fatal"-adj-0]|TX|774/5;93/5|
+00000000|MMI|7.00|ANTICOAGULATION (finding)|C2919015|[fndg]|["ANTICOAGULATION"-tx-16-"anticoagulation"-noun-0,"ANTICOAGULATION"-tx-1-"anticoagulation"-noun-1]|TX|2942/15;387/15|
+00000000|MMI|6.98|50%|C3842586|[fndg]|["50%"-tx-29-"50"-integer-0,"50%"-tx-27-"50"-integer-0]|TX|6329/2;5950/2|
+00000000|MMI|6.98|<50|C3843766|[fndg]|["<50"-tx-29-"50"-integer-0,"<50"-tx-27-"50"-integer-0]|TX|6329/2;5950/2|
+00000000|MMI|6.96|30%|C3842588|[fndg]|["30%"-tx-28-"30"-integer-0,"30%"-tx-27-"30"-integer-0]|TX|6053/2;5947/2|
+00000000|MMI|6.94|Atrial Fibrillation Adverse Event|C1963067|[fndg]|["Atrial fibrillation"-tx-27-"Atrial Fibrillation"-noun-1,"Atrial fibrillation"-tx-23-"atrial fibrillation"-noun-0]|TX|5749/19;4908/19|
+00000000|MMI|6.59|Heart Diseases|C0018799|[dsyn]|["Diseases of the heart"-tx-23-"the of heart disease"-noun-0]|TX|4931/3,4943/2,4970/13|C14.280
+00000000|MMI|5.18|Bladder dysfunction|C0232841|[patf]|["Bladder dysfunction"-tx-16-"bladder dysfunction"-noun-0]|TX|3232/19|
+00000000|MMI|5.18|Detected (finding)|C0442726|[fndg]|["detect"-tx-16-"detect"-verb-0]|TX|3058/6|
+00000000|MMI|5.18|Employed|C0557351|[fndg]|["Employed"-tx-13-"employed"-verb-0]|TX|2218/8|
+00000000|MMI|5.18|Encounter for artificial heart valve|C0481485|[fndg]|["Prosthetic heart valves"-tx-19-"Prosthetic Heart Valves"-noun-0]|TX|3637/23|
+00000000|MMI|5.18|Has tingling sensation|C2242996|[sosy]|["TINGLING"-tx-16-"tingling"-noun-0]|TX|3180/8|
+00000000|MMI|5.18|Hematocrit level|C0518014|[fndg]|["Hematocrit"-tx-4-"hematocrit"-noun-0]|TX|879/10|
+00000000|MMI|5.18|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-4-"hypotension"-noun-0]|TX|893/11|
+00000000|MMI|5.18|Limited Walking Ability|C2674459|[fndg]|["Limited"-tx-9-"limited"-verb-0]|TX|1588/7|
+00000000|MMI|5.18|Living Alone|C0439044|[fndg]|["Alone"-tx-26-"alone"-adj-0]|TX|5670/5|
+00000000|MMI|5.18|Puncture wound|C0033119|[inpo]|["Puncture"-tx-13-"Puncture"-noun-0]|TX|2127/8|
+00000000|MMI|5.18|Used by|C1273517|[fndg]|["used"-tx-12-"used"-verb-0]|TX|2080/4|
+00000000|MMI|3.77|Hemoglobin low|C0162119|[fndg]|["Drop in hemoglobin"-tx-4-"drop in hemoglobin"-noun-0]|TX|853/18|
+00000000|MMI|3.75|Back Pain Adverse Event|C1963071|[fndg]|["Back pain"-tx-16-"back pain"-noun-0]|TX|3131/9|
+00000000|MMI|3.69|Weakness of lower limb|C1836296|[sosy]|["Lower limb weakness"-tx-16-"weakness lower limbs"-noun-0]|TX|3193/8,3205/11|
+00000000|MMI|3.68|Diagnosis|C0011900|[fndg]|["DIAGNOSIS"-tx-18-"diagnosis"-noun-0]|TX|3419/9|E01
+00000000|MMI|3.68|Thrombosis of blood vessel|C2586211|[patf]|["thrombosis"-tx-20-"thrombosis"-noun-0]|TX|4137/10|
+00000000|MMI|3.64|Presence of heart valve NOS|C2911498|[fndg]|["Presence of heart valve NOS"-tx-23-"presence of heart valve"-noun-0]|TX|4999/11,5027/11|
+00000000|MMI|3.63|Sequela of disorder|C0543419|[fndg]|["Sequelae"-tx-18-"sequelae"-noun-1]|TX|3564/8|
+00000000|MMI|3.63|sequelae aspects|C0243088|[patf]|["sequelae"-tx-18-"sequelae"-noun-1]|TX|3564/8|
+00000000|MMI|3.59|Contraindicated|C1444657|[fndg]|["Contraindicated"-tx-22-"contraindicated"-verb-0]|TX|4727/15|
+00000000|MMI|3.59|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-19-"randomized"-verb-0]|TX|3950/10|
+00000000|MMI|3.55|consideration|C0518609|[fndg]|["CONSIDERATION"-tx-18-"consideration"-noun-0]|TX|3453/13|
+00000000|MMI|3.52|Blood Loss|C3163616|[fndg]|["Loss Of Blood"-tx-4-"of blood loss"-noun-0]|TX|830/13|
+00000000|MMI|3.49|post operative (finding)|C0241311|[fndg]|["POST OPERATIVE"-tx-20-"post-operative"-adj-0]|TX|4258/14|
+00000000|MMI|3.48|Independently able|C1299583|[fndg]|["Independent"-tx-25-"independent"-adj-0]|TX|5396/11|
+00000000|MMI|3.47|75%)|C4015571|[fndg]|["75%)"-tx-27-"75"-integer-1]|TX|5807/2|
+00000000|MMI|3.44|Impaired health|C0684336|[patf]|["Impairment"-tx-16-"impairment"-noun-0]|TX|3103/10|
+00000000|MMI|3.44|compromise|C2945640|[fndg]|["compromise"-tx-20-"compromise"-noun-0]|TX|4334/10|
+00000000|MMI|3.43|Context|C0449255|[fndg]|["Context"-tx-16-"context"-noun-0]|TX|2965/7|
+00000000|MMI|3.43|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-2-"therapy"-noun-0]|TX|546/7|
+00000000|MMI|3.42|Recurrent Malignant Neoplasm|C1458156|[neop]|["recurrence"-tx-29-"Recurrence"-noun-0]|TX|6185/10|

@@ -1,0 +1,196 @@
+90,100|C0087086|thrombotic|patf
+237,245|C2053584|delivery|fndg
+268,281|C1623041|breastfeeding|fndg
+268,281|C1623040|breastfeeding|fndg
+301,314|C0023895|Liver disease|dsyn
+301,314|C2186532|Liver disease|fndg
+317,328|C1444662|Discontinue|fndg
+340,348|C0022346|jaundice|patf
+340,348|C2010848|jaundice|fndg
+340,348|C2203646|jaundice|sosy
+375,394|C0020538|High blood pressure|dsyn
+437,462|C1868885|uncontrolled hypertension|dsyn
+466,478;484,492|C0020538|hypertension vascular|dsyn
+466,478|C1963138|hypertension|fndg
+484,500|C0042373|vascular disease|dsyn
+493,500|C0012634|disease|dsyn
+571,582|C0362046|prediabetic|dsyn
+587,595|C0241863|diabetic|fndg
+689,701|C0242339|dyslipidemia|dsyn
+721,729|C0018681|Headache|sosy
+721,729|C2096315|Headache|fndg
+763,772|C0018681|headaches|sosy
+777,788|C1444662|discontinue|fndg
+800,809|C1444656|indicated|fndg
+829,845|C0042134|Uterine bleeding|patf
+857,875|C0745411|irregular bleeding|sosy
+879,889|C0002453|amenorrhea|dsyn
+879,889|C2219717|amenorrhea|sosy
+1186,1210|C0040038|Thromboembolic Disorders|patf
+1221,1238|C0042373|Vascular Problems|dsyn
+1282,1292|C0087086|thrombotic|patf
+1355,1377|C1861172|venous thromboembolism|patf
+1388,1397|C0425965|pregnancy|fndg
+1420,1442|C1861172|venous thromboembolism|patf
+1493,1496|C0087086|VTE|patf
+1585,1588|C0087086|VTE|patf
+2065,2084|C0151942|arterial thromboses|patf
+2093,2100|C0038454|strokes|dsyn
+2105,2127|C0027051|myocardial infarctions|dsyn
+2160,2172|C0455624|risk factors|fndg
+2207,2229|C0040038|thromboembolic disease|patf
+2295,2307|C1444662|discontinued|fndg
+2456,2471|C0040038|thromboembolism|patf
+2590,2605|C0040038|thromboembolism|patf
+2827,2837|C0087086|thrombotic|patf
+2842,2861|C0553692|hemorrhagic strokes|dsyn
+2842,2861|C0472369|hemorrhagic strokes|dsyn
+2939,2951|C0857121|hypertensive|fndg
+3044,3056|C0455624|risk factors|fndg
+3122,3157|C0847284|cardiovascular disease risk factors|fndg
+3200,3214|C0456909|loss of vision|fndg
+3200,3214|C0042798|loss of vision|dsyn
+3200,3214|C3665347|loss of vision|fndg
+3200,3214|C3665386|loss of vision|fndg
+3200,3214|C3665346|loss of vision|sosy
+3216,3225|C0015300|proptosis|dsyn
+3227,3235|C0012569|diplopia|fndg
+3237,3248|C0030353|papilledema|dsyn
+3253,3277|C1402303|retinal vascular lesions|dsyn
+3292,3315|C0035328|retinal vein thrombosis|dsyn
+3292,3315|C1527411|retinal vein thrombosis|dsyn
+3378,3402|C0678222|Carcinoma of the Breasts|neop
+3378,3402|C0238033|Carcinoma of the Breasts|neop
+3378,3402|C0007104|Carcinoma of the Breasts|neop
+3469,3482|C0678222|breast cancer|neop
+3469,3482|C0006142|breast cancer|neop
+3469,3482|C0006142|breast cancer|neop
+3514,3527|C0678222|breast cancer|neop
+3514,3527|C0006142|breast cancer|neop
+3514,3527|C0006142|breast cancer|neop
+3554,3559|C0027651|tumor|neop
+3554,3559|C3273930|tumor|fndg
+3720,3723;3734,3750|C0678222|the of breast cancer|neop
+3720,3723;3734,3750|C0006142|the of breast cancer|neop
+3888,3903|C0302592|cervical cancer|neop
+3888,3903|C0007847|cervical cancer|neop
+3888,3903|C4048328|cervical cancer|neop
+3907,3932|C0878500|intraepithelial neoplasia|neop
+4034,4049|C3495422|sexual behavior|fndg
+4291,4304|C0023895|Liver Disease|dsyn
+4291,4304|C2186532|Liver Disease|fndg
+4310,4321|C1444662|Discontinue|fndg
+4333,4341|C0022346|jaundice|patf
+4333,4341|C2010848|jaundice|fndg
+4333,4341|C2203646|jaundice|sosy
+4412,4435|C0086565|impaired liver function|patf
+4446,4453;4470,4484|C0745748|chronic liver function|fndg
+4505,4520|C1444662|discontinuation|fndg
+4574,4580|C0231683|normal|fndg
+4622,4638|C0206669|Hepatic adenomas|neop
+4737,4744;4748,4755|C0341444|Rupture hepatic|inpo
+4737,4744|C3203359|Rupture|inpo
+4748,4764|C0206669|hepatic adenomas|neop
+4756,4764|C0001430|adenomas|neop
+4775,4780|C1306577|death|fndg
+4789,4815|C0019065|intra-abdominal hemorrhage|patf
+4789,4815|C0236178|intra-abdominal hemorrhage|patf
+4843,4860;4872,4896|C1862761|increased risk of hepatocellular carcinoma|fndg
+4942,4945;4964,4980|C0279000|the of liver cancers|neop
+4942,4945;4964,4980|C0345904|the of liver cancers|neop
+5058,5065|C0445223|related|fndg
+5066,5077|C0008370|cholestasis|dsyn
+5104,5114|C0262926|history of|fndg
+5115,5144|C0268318|pregnancy-related cholestasis|dsyn
+5159,5169|C0262926|history of|fndg
+5174,5181|C0445223|related|fndg
+5182,5193|C0008370|cholestasis|dsyn
+5207,5216|C0012634|condition|dsyn
+5259,5278|C0020538|High Blood Pressure|dsyn
+5315,5327|C0020538|hypertension|dsyn
+5315,5327|C1963138|hypertension|fndg
+5419,5444|C1868885|uncontrolled hypertension|dsyn
+5448,5460;5466,5474|C0020538|hypertension vascular|dsyn
+5448,5460|C0020538|hypertension|dsyn
+5448,5460|C1963138|hypertension|fndg
+5466,5482|C0042373|vascular disease|dsyn
+5475,5482|C0012634|disease|dsyn
+5511,5537|C0497247|increase in blood pressure|fndg
+5678,5690|C0020538|hypertension|dsyn
+5678,5690|C1963138|hypertension|fndg
+5756,5775|C0016977|Gallbladder Disease|dsyn
+5756,5775|C0558976|Gallbladder Disease|fndg
+5829,5831;5843,5862|C0016977|of gallbladder disease|dsyn
+5955,5966|C0362046|prediabetic|dsyn
+5971,5979|C0241863|diabetic|fndg
+6056,6063|C0445223|related|fndg
+6140,6152|C0242339|dyslipidemia|dsyn
+6244,6264|C0020557|hypertriglyceridemia|dsyn
+6244,6264|C0428478|hypertriglyceridemia|fndg
+6326,6338|C0030305|pancreatitis|dsyn
+6326,6338|C1963198|pancreatitis|fndg
+6367,6375|C0018681|Headache|sosy
+6367,6375|C2096315|Headache|fndg
+6420,6429|C0018681|headaches|sosy
+6496,6507|C1444662|discontinue|fndg
+6519,6528|C1444656|indicated|fndg
+6574,6582|C0149931|migraine|dsyn
+6680,6695|C1444662|discontinuation|fndg
+6719,6727;6748,6760|C0025874|Bleeding Breakthrough|patf
+6719,6727;6748,6760|C3495440|Bleeding Breakthrough|fndg
+6774,6782|C0025874|spotting|patf
+6774,6782|C0312414|spotting|sosy
+6872,6880|C0019080|bleeding|patf
+6958,6967|C0425965|pregnancy|fndg
+6971,6981|C0006826|malignancy|neop
+6971,6981|C1306459|malignancy|neop
+7000,7009|C0425965|pregnancy|fndg
+7024,7032|C0019080|bleeding|patf
+7125,7137|C2826362|not pregnant|fndg
+7125,7137|C0232973|not pregnant|fndg
+7208,7218|C0002453|amenorrhea|dsyn
+7208,7218|C2219717|amenorrhea|sosy
+7327,7337|C0002453|amenorrhea|dsyn
+7327,7337|C2219717|amenorrhea|sosy
+7408,7418|C0002453|amenorrhea|dsyn
+7408,7418|C2219717|amenorrhea|sosy
+7422,7436|C0028949|oligomenorrhea|patf
+7481,7490|C0012634|condition|dsyn
+7670,7678|C0019080|bleeding|patf
+7726,7741|C0747845|Early Pregnancy|dsyn
+7816,7829|C0000768|birth defects|cgab
+7816,7829|C0220810|birth defects|cgab
+7816,7829|C2186260|birth defects|fndg
+7848,7852|C1273517|used|fndg
+7853,7872;7882,7891|C0235673|oral contraceptives pregnancy|fndg
+7873,7891|C3840692|prior to pregnancy|fndg
+7923,7941|C0232910|teratogenic effect|patf
+7969,7986|C0018798|cardiac anomalies|cgab
+7991,8013|C0265547|limb-reduction defects|cgab
+8061,8076|C0747845|early pregnancy|dsyn
+8078,8100|C0240604|Oral contraceptive use|fndg
+8111,8123|C1444662|discontinued|fndg
+8127,8136|C0425965|pregnancy|fndg
+8207,8226|C0152010|withdrawal bleeding|dsyn
+8251,8255|C0456984|test|fndg
+8329,8339;8358,8368|C0455503|Depression history of|fndg
+8421,8433|C1444662|discontinued|fndg
+8437,8447|C0011570|depression|mobd
+8437,8447|C0011581|depression|mobd
+8437,8447|C1579931|depression|sosy
+8437,8447|C0344315|depression|fndg
+8491,8525|C0151749|Interference with Laboratory Tests|fndg
+8562,8569;8578,8594|C0587081|results laboratory tests|fndg
+8728,8737;8747,8762|C1328578|increased thyroid hormone|fndg
+9040,9049|C1444656|indicated|fndg
+9363,9378|C1444662|discontinuation|fndg
+9549,9559|C0012634|Conditions|dsyn
+9579,9600|C0019243|hereditary angioedema|dsyn
+9636,9646|C0436331|exacerbate|fndg
+9647,9655|C1457887|symptoms|sosy
+9659,9669|C0002994|angioedema|patf
+9671,9679|C0025218|Chloasma|dsyn
+9731,9741|C0262926|history of|fndg
+9742,9761|C0263571|chloasma gravidarum|sosy
+9788,9796|C0025218|chloasma|dsyn
+9810,9818;9826,9829|C1456711|exposure sun|fndg

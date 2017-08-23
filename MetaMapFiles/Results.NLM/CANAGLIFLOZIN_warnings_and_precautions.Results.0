@@ -1,0 +1,49 @@
+52,63|TP|Hypotension|C0020649|10021097|52,63|Hypotension|C0020649,C3163620|10005734,10021097,10060933|fndg,fndg
+126,137|FP|hypovolemia|C0546884|10021137|fndg
+155,171|FP|renal impairment|C1565489|10062237|dsyn
+203,230|FP|low systolic blood pressure|C0277885|10005758|fndg
+327,355|FN|Impairment in Renal Function|C0341677
+327,337;341,346|FP|Impairment Renal|C1565489|10062237|dsyn
+500,512|TP|Hyperkalemia|C0020461|10020646|500,512|Hyperkalemia|C0020461|10020646|fndg
+556,579|FP|impaired renal function|C1565489|10062237|dsyn
+611,623|FP|hyperkalemia|C0020461|10020646|fndg
+663,675|TP|Hypoglycemia|C0020615|10020993|663,675|Hypoglycemia|C0020615|10020993|dsyn
+760,772|FP|hypoglycemia|C0020615|10020993|dsyn
+827,853|TP|Genital mycotic infections|C0740330|10061180|827,853|Genital mycotic infections|C0740330|10061180|dsyn
+901,927|TP|Hypersensitivity reactions|C0020517|10020751|901,927|Hypersensitivity reactions|C0020517|10020751|patf
+1010,1023|TP|Bone fracture|C0016658|10017076|1010,1023|Bone fracture|C0016658|10017076|inpo
+1117,1132|FN|Increased LDL-C|C0549399
+1117,1130|FP|Increased LDL|C0549399|10024910|fndg
+1199,1210|FP|Hypotension|C3163620,C0020649|10060933,10005734|fndg,fndg
+1232,1264|FN|intravascular volume contraction|C0750310
+1266,1289|FN|Symptomatic hypotension|C0863113
+1278,1289|FP|hypotension|C3163620,C0020649|10060933,10005734|fndg,fndg
+1390,1413|FP|impaired renal function|C1565489|10062237|dsyn
+1688,1715|FP|low systolic blood pressure|C0277885|10005758|fndg
+1915,1925;1929,1934|FP|Impairment Renal|C1565489|10062237|dsyn
+1958,1984|FN|increases serum creatinine|C0700225
+1989,2003|FN|decreases eGFR|C0853068
+2019,2030|FP|hypovolemia|C0546884|10021137|fndg
+2073,2101|FN|Renal function abnormalities|C0151746
+2073,2078;2088,2101|FP|Renal abnormalities|C0266292|10023430|cgab
+2294,2306|FP|Hyperkalemia|C0020461|10020646|fndg
+2333,2345|TP|hyperkalemia|C0020461|10020646|2333,2345|hyperkalemia|C0020461|10020646|fndg
+2370,2386|FP|renal impairment|C1565489|10062237|dsyn
+2607,2619|TP|hyperkalemia|C0020461|10020646|2607,2619|hyperkalemia|C0020461|10020646|fndg
+2785,2808|FP|impaired renal function|C1565489|10062237|dsyn
+2840,2852|FP|hyperkalemia|C0020461|10020646|fndg
+2912,2924|FP|Hypoglycemia|C0020615|10020993|dsyn
+3043,3055|FP|hypoglycemia|C0020615|10020993|dsyn
+3091,3103|TP|hypoglycemia|C0020615|10020993|3091,3103|hypoglycemia|C0020615|10020993|dsyn
+3293,3305|FP|hypoglycemia|C0020615|10020993|dsyn
+3357,3383|FP|Genital Mycotic Infections|C0740330|10061180|dsyn
+3420,3446|TP|genital mycotic infections|C0740330|10061180|3420,3446|genital mycotic infections|C0740330|10061180|dsyn
+3475,3501|FP|genital mycotic infections|C0740330|10061180|dsyn
+3554,3580|TP|genital mycotic infections|C0740330|10061180|3554,3580|genital mycotic infections|C0740330|10061180|dsyn
+3661,3687|FP|Hypersensitivity Reactions|C0020517|10020751|patf
+3693,3719|FN|Hypersensitivity reactions|C0020517
+3727,3748|FN|generalized urticaria|C0750016
+3890,3916|FP|hypersensitivity reactions|C0020517|10020751|patf
+4117,4133|FP|of bone fracture|C0016658|10017076|inpo
+4120,4133|FN|bone fracture|C0016658
+4426,4444|FN|increases in LDL-C|C0549399

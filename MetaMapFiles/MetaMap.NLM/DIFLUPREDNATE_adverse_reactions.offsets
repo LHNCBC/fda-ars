@@ -1,0 +1,64 @@
+89,118|C0234708|elevated intraocular pressure|fndg
+149,167|C0161398|optic nerve damage|inpo
+202,232|C0858617|posterior subcapsular cataract|dsyn
+244,253;261,270|C0442886|secondary infection|dsyn
+254,270|C0015403|ocular infection|dsyn
+296,310|C0019348|herpes simplex|dsyn
+316,330;335,340|C0339198|perforation of globe|inpo
+356,364;372,378|C1096274|thinning cornea|dsyn
+516,529|C0010037|corneal edema|dsyn
+543,565|C1761613|conjunctival hyperemia|sosy
+543,565|C0155169|conjunctival hyperemia|dsyn
+567,575|C0151827|eye pain|sosy
+567,575|C1959630|eye pain|fndg
+577,588|C0085636|photophobia|sosy
+590,621|C1444680|posterior capsule opacification|acab,dsyn
+623,645|C0423282|anterior chamber cells|fndg
+647,669|C0423281|anterior chamber flare|fndg
+671,689|C0151601|conjunctival edema|fndg
+695,706|C0005741|blepharitis|dsyn
+779,800|C0234632|reduced visual acuity|fndg
+802,820|C1562761|punctate keratitis|dsyn
+802,820|C0259799|punctate keratitis|dsyn
+822,838|C0014236|eye inflammation|dsyn
+844,850|C0022081|iritis|dsyn
+917,944|C1328375|application site discomfort|inpo
+960,980|C0423226|corneal pigmentation|fndg
+985,991|C0152459|striae|acab
+985,991|C1963160|striae|fndg
+993,1005|C0014583|episcleritis|dsyn
+1011,1019|C0033774|pruritis|sosy
+1021,1038|C1112366|eyelid irritation|dsyn
+1043,1051|C0205204|crusting|acab
+1053,1075|C0423602|foreign body sensation|fndg
+1077,1098|C0152227|increased lacrimation|dsyn
+1100,1113|C0024440|macular edema|dsyn
+1100,1113|C0271051|macular edema|dsyn
+1122,1131|C0020452|hyperemia|dsyn
+1137,1144|C0042164|uveitis|dsyn
+1137,1144|C1963266|uveitis|fndg
+1249,1265|C0042165|Anterior Uveitis|dsyn
+1249,1265|C0701807|Anterior Uveitis|dsyn
+1344,1360|C0042165|anterior uveitis|dsyn
+1344,1360|C0701807|anterior uveitis|dsyn
+1503,1517|C0344232|blurred vision|sosy
+1519,1533|C0235266|eye irritation|fndg
+1535,1543|C0151827|eye pain|sosy
+1535,1543|C1959630|eye pain|fndg
+1545,1553|C0018681|headache|sosy
+1545,1553|C2096315|headache|fndg
+1565,1568|C0595921|IOP|dsyn
+1570,1576|C0022081|iritis|dsyn
+1589,1611|C1761613|conjunctival hyperemia|sosy
+1589,1611|C0155169|conjunctival hyperemia|dsyn
+1613,1631|C1562761|punctate keratitis|dsyn
+1613,1631|C0259799|punctate keratitis|dsyn
+1637,1644|C0042164|uveitis|dsyn
+1637,1644|C1963266|uveitis|fndg
+1704,1726|C0423281|anterior chamber flare|fndg
+1728,1741|C0010037|corneal edema|dsyn
+1743,1750|C0013238|dry eye|dsyn
+1743,1750|C0314719|dry eye|sosy
+1752,1765|C0022073|iridocyclitis|dsyn
+1767,1778|C0085636|photophobia|sosy
+1784,1805|C0234632|reduced visual acuity|fndg

@@ -1,0 +1,73 @@
+00000000|AA|TEN|toxic epidermal necrolysis|1|3|5|26|3191:3
+00000000|MMI|105.23|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-14-"ALT"-noun-0,"ALT"-tx-13-"ALT"-noun-0,"ALT"-tx-12-"ALT"-noun-0,"ALT"-tx-9-"ALT"-noun-0,"ALT"-tx-7-"ALT"-noun-0]|TX|[1372/3],[1463/3];1275/3;1081/3;911/3;601/3|C04.557.450.550.400
+00000000|MMI|59.15|Neutropenia|C0027947|[dsyn]|["NEUTROPENIA"-tx-33-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-33-"neutropenia"-noun-0,"NEUTROPENIA"-tx-3-"Neutropenia"-noun-0]|TX|3923/11;3972/11;273/11|C15.378.553.546.184.564
+00000000|MMI|54.07|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-25-"diarrhea"-noun-0,"DIARRHOEA"-tx-18-"Diarrhea"-noun-0,"DIARRHOEA"-tx-17-"diarrhea"-noun-0,"DIARRHOEA"-tx-16-"Diarrhea"-noun-0]|TX|2907/8;1865/8;1855/8;1764/8|C23.888.821.214
+00000000|MMI|53.89|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-31-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-31-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-2-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-2-"anaphylaxis"-noun-0]|TX|3670/11;3725/11;187/11;221/11|C20.543.480.099
+00000000|MMI|52.17|Pneumonia|C0032285|[dsyn]|["Pneumonitis"-tx-23-"pneumonitis"-noun-0,"Pneumonitis"-tx-22-"pneumonitis"-noun-0,"Pneumonitis"-tx-21-"pneumonitis"-noun-0,"Pneumonitis"-tx-20-"Pneumonitis"-noun-0,"Pneumonitis"-tx-20-"pneumonitis"-noun-0]|TX|2591/11;2467/11;2451/11;2147/11;2182/11|C08.381.677;C08.730.610
+00000000|MMI|52.17|Pneumonitis|C3714636|[dsyn]|["PNEUMONITIS"-tx-23-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-22-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-21-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-20-"Pneumonitis"-noun-0,"PNEUMONITIS"-tx-20-"pneumonitis"-noun-0]|TX|2591/11;2467/11;2451/11;2147/11;2182/11|C08.381.677;C08.730.610
+00000000|MMI|42.15|Gravidity|C0600457|[fndg]|["PREGNANT"-tx-38-"pregnant"-adj-0,"PREGNANT"-tx-37-"pregnant"-adj-0]|TX|4839/8;4631/8|G08.686.340;G08.686.785.760.769.213;N06.850.490.812.250
+00000000|MMI|40.42|Intestinal Perforation|C0021845|[dsyn]|["INTESTINAL PERFORATION"-tx-27-"intestinal perforation"-noun-0,"INTESTINAL PERFORATION"-tx-24-"Intestinal Perforation"-noun-0,"INTESTINAL PERFORATION"-tx-24-"intestinal perforation"-noun-0]|TX|3084/22;2735/22;2781/22|C06.405.469.557
+00000000|MMI|39.92|Leukopenia|C0023530|[dsyn]|["NEUTROPENIA"-tx-33-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-33-"neutropenia"-noun-0,"NEUTROPENIA"-tx-3-"Neutropenia"-noun-0]|TX|3923/11;3972/11;273/11|C15.378.553.546
+00000000|MMI|32.70|Colitis|C0009319|[dsyn]|["COLITIS"-tx-15-"Colitis"-noun-0,"COLITIS"-tx-15-"colitis"-noun-0]|TX|1602/7;1634/7|C06.405.205.265;C06.405.469.158.188
+00000000|MMI|30.94|Discontinued|C1444662|[fndg]|["Discontinue"-tx-32-"discontinue"-verb-0,"Discontinue"-tx-30-"discontinue"-verb-0,"Discontinue"-tx-27-"Discontinue"-verb-0,"Discontinuation"-tx-23-"discontinuation"-noun-0,"Discontinue"-tx-10-"Discontinue"-verb-0,"Discontinue"-tx-2-"discontinue"-verb-0,"Discontinue"-tx-1-"discontinue"-verb-0]|TX|3833/11;3638/11;3025/11;2658/15;935/11;237/11;151/11|
+00000000|MMI|19.77|Signs and Symptoms, Respiratory|C0037090|[sosy]|["pulmonary symptoms"-tx-22-"pulmonary symptoms"-noun-0,"pulmonary symptoms"-tx-21-"pulmonary symptoms"-noun-0]|TX|2537/18;2278/18|C23.888.852
+00000000|MMI|16.37|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-26-"abdominal pain"-noun-0]|TX|2973/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|16.06|Toxic Epidermal Necrolysis|C0014518|[dsyn]|["NECROLYSIS, TOXIC EPIDERMAL"-tx-28-"toxic epidermal necrolysis"-noun-0]|TX|3163/26|C07.465.864.500;C17.800.174.600.900;C17.800.229.400.683;C17.800.865.475.683;C20.543.206.380.900;C25.100.468.380.900
+00000000|MMI|15.79|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-33-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-15-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-7-"Adverse Reactions"-noun-0]|TX|4057/17;1735/17;679/17|
+00000000|MMI|15.79|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-24-"Fatal"-adj-0,"FATAL"-tx-20-"Fatal"-adj-0,"FATAL"-tx-6-"Fatal"-adj-0]|TX|2763/5;2164/5;501/5|
+00000000|MMI|15.06|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-25-"diarrhea"-noun-0,"Diarrhea"-tx-18-"Diarrhea"-noun-0,"Diarrhea"-tx-17-"diarrhea"-noun-0,"Diarrhea"-tx-16-"Diarrhea"-noun-0]|TX|2907/8;1865/8;1855/8;1764/8|
+00000000|MMI|14.88|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-31-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-31-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-2-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-2-"anaphylaxis"-noun-0]|TX|3670/11;3725/11;187/11;221/11|
+00000000|MMI|14.79|2+|C3833492|[fndg]|["2+"-tx-34-"2"-real_number-0,"2+"-tx-19-"2"-real_number-0,"2+"-tx-14-"2"-real_number-0,"2+"-tx-12-"2"-integer-0]|TX|4279/1;2125/1;1561/1;1115/1|
+00000000|MMI|14.64|Coughing|C0010200|[sosy]|["COUGH"-tx-21-"cough"-noun-0]|TX|2305/5|C08.618.248;C23.888.852.293
+00000000|MMI|14.64|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-21-"dyspnea"-noun-0]|TX|2312/7|C08.618.326;C23.888.852.371
+00000000|MMI|14.64|Fever|C0015967|[fndg]|["FEVER"-tx-26-"fever"-noun-0]|TX|2997/5|C23.888.119.344
+00000000|MMI|14.64|Hypoxia|C0242184|[patf]|["HYPOXIA"-tx-21-"hypoxia"-noun-0]|TX|2321/7|C23.888.852.079
+00000000|MMI|14.64|Nausea|C0027497|[sosy]|["NAUSEA"-tx-26-"nausea"-noun-0]|TX|3004/6|C23.888.821.712
+00000000|MMI|14.64|Vomiting|C0042963|[sosy]|["VOMITING"-tx-26-"vomiting"-noun-0]|TX|3015/8|C23.888.821.937
+00000000|MMI|13.76|Allergic Reaction|C1527304|[patf]|["Reactions, Allergic"-tx-32-"allergic reactions"-noun-0,"Reactions, Allergic"-tx-31-"allergic reactions"-noun-0]|TX|3813/18;3695/18|C20.543
+00000000|MMI|13.76|Hypersensitivity|C0020517|[patf]|["Allergic reactions"-tx-32-"allergic reactions"-noun-0,"Allergic reactions"-tx-31-"allergic reactions"-noun-0]|TX|3813/18;3695/18|C20.543
+00000000|MMI|13.05|Recurrence (disease attribute)|C2825055|[patf]|["RECURRENCE"-tx-9-"recurrence"-noun-0]|TX|897/10|C23.550.291.937
+00000000|MMI|13.00|Exfoliative dermatitis|C0011606|[dsyn]|["DERMATITIS EXFOLIATIVE"-tx-29-"dermatitis exfoliative"-noun-0]|TX|3351/22|C17.800.174.318;C17.800.815.318
+00000000|MMI|11.75|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-33-"Grade 3"-noun-0,"GRADE 3"-tx-29-"Grade 3"-noun-0,"GRADE 3"-tx-15-"Grade 3"-noun-0]|TX|3959/7;3309/5,3317/1;1643/7|
+00000000|MMI|11.49|Chills|C0085593|[sosy]|["CHILLS"-tx-26-"chills"-noun-0]|TX|2989/6|C23.888.208
+00000000|MMI|11.08|Neutrophil count decreased|C0853697|[fndg]|["Neutropenia"-tx-33-"Neutropenia"-noun-0,"Neutropenia"-tx-33-"neutropenia"-noun-0,"Neutropenia"-tx-3-"Neutropenia"-noun-0]|TX|3923/11;3972/11;273/11|
+00000000|MMI|10.86|Hepatotoxicity|C0235378|[inpo]|["HEPATOTOXICITY"-tx-10-"hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-6-"Hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-6-"hepatotoxicity"-noun-0]|TX|969/14;481/14;522/14|
+00000000|MMI|10.42|Patient currently pregnant|C0549206|[fndg]|["Pregnant"-tx-38-"pregnant"-adj-0,"Pregnant"-tx-37-"pregnant"-adj-0]|TX|4839/8;4631/8|
+00000000|MMI|10.42|Resolved|C3714811|[fndg]|["RESOLVED"-tx-14-"resolved"-verb-0,"RESOLVED"-tx-13-"resolved"-verb-0]|TX|1519/8;1338/8|
+00000000|MMI|10.42|physiologic resolution|C1514893|[patf]|["Resolved"-tx-14-"resolved"-verb-0,"Resolved"-tx-13-"resolved"-verb-0]|TX|1519/8;1338/8|
+00000000|MMI|9.94|Exanthema|C0015230|[sosy]|["RASH"-tx-29-"rash"-noun-0]|TX|3375/4|C17.800.257
+00000000|MMI|9.78|Dermatitis|C0011603|[dsyn]|["DERMATITIS"-tx-29-"dermatitis"-noun-0]|TX|3351/10|C17.800.174
+00000000|MMI|8.34|Dermatologic disorders|C0037274|[dsyn]|["SKIN DISORDER"-tx-29-"skin disorder"-noun-0]|TX|3504/13|C17.800
+00000000|MMI|7.53|Possible pregnancy (finding)|C0425965|[fndg]|["? Pregnancy"-tx-37-"pregnancy"-noun-0,"? Pregnancy"-tx-5-"pregnancy"-noun-0]|TX|4594/9;423/9|
+00000000|MMI|7.50|Toxic liver disease|C0348754|[dsyn]|["Hepatic toxicity"-tx-13-"liver toxicity"-noun-0,"Hepatic toxicity"-tx-11-"liver toxicity"-noun-0]|TX|1253/14;1053/14|
+00000000|MMI|7.47|Severe diarrhea|C1443924|[sosy]|["Severe diarrhoea"-tx-15-"Severe Diarrhea"-noun-0,"Severe diarrhoea"-tx-15-"Severe diarrhea"-noun-0]|TX|1583/15;1615/15|
+00000000|MMI|7.31|5-6|C3843715|[fndg]|["5-6"-tx-31-"5.6"-real_number-0,"5-6"-tx-3-"5.6"-real_number-0]|TX|3666/3;261/3|
+00000000|MMI|7.31|6/5|C0442749|[fndg]|["5 6"-tx-31-"5.6"-real_number-0,"5 6"-tx-3-"5.6"-real_number-0]|TX|3666/3;261/3|
+00000000|MMI|7.31|Colitis Adverse Event|C1963084|[fndg]|["Colitis"-tx-15-"Colitis"-noun-0,"Colitis"-tx-15-"colitis"-noun-0]|TX|1602/7;1634/7|
+00000000|MMI|7.28|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-35-"Toxicity"-noun-0,"Toxicity"-tx-4-"toxicity"-noun-0]|TX|4314/8;336/8|
+00000000|MMI|6.90|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-34-"therapy"-noun-0,"Therapy"-tx-19-"therapy"-noun-0]|TX|4158/7;2038/7|
+00000000|MMI|6.58|Congenital Abnormality|C0000768|[cgab]|["ABNORMALITY"-tx-14-"abnormality"-noun-0]|TX|1504/11|C16.131
+00000000|MMI|5.18|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-21-"cough"-noun-0]|TX|2305/5|
+00000000|MMI|5.18|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-26-"fever"-noun-0]|TX|2997/5|
+00000000|MMI|5.18|Hypoxia Adverse Event|C1963140|[fndg]|["HYPOXIA"-tx-21-"hypoxia"-noun-0]|TX|2321/7|
+00000000|MMI|5.18|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-29-"life-threatening"-adj-0]|TX|3291/16|
+00000000|MMI|5.18|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-29-"life-threatening"-adj-0]|TX|3291/16|
+00000000|MMI|5.18|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-29-"life-threatening"-adj-0]|TX|3291/16|
+00000000|MMI|5.18|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-26-"nausea"-noun-0]|TX|3004/6|
+00000000|MMI|5.18|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-26-"vomiting"-noun-0]|TX|3015/8|
+00000000|MMI|3.75|Exfoliative rash|C1608945|[dsyn]|["Exfoliative rash"-tx-29-"exfoliative rash"-noun-0]|TX|3362/11,3375/4|
+00000000|MMI|3.64|1 - 3|C3843504|[fndg]|["1 to 3"-tx-12-"1 to 3"-integer-0]|TX|1208/6|
+00000000|MMI|3.59|Recurrent Malignant Neoplasm|C1458156|[neop]|["recurrence"-tx-9-"recurrence"-noun-0]|TX|897/10|
+00000000|MMI|3.59|Used by|C1273517|[fndg]|["used"-tx-37-"used"-verb-0]|TX|4582/4|
+00000000|MMI|3.57|combination - answer to question|C3811910|[fndg]|["Combination"-tx-28-"combination"-noun-0]|TX|3230/11|
+00000000|MMI|3.55|Infiltration|C0332448|[patf]|["Infiltrates"-tx-21-"infiltrates"-noun-0]|TX|2343/11|
+00000000|MMI|3.53|Rash erythematous|C0234913|[fndg]|["RASH ERYTHEMATOUS"-tx-29-"rash erythematous"-noun-0]|TX|3381/17|
+00000000|MMI|3.50|4+ Answer to question|C3838679|[fndg]|["4+"-tx-33-"4"-integer-0]|TX|3970/1|
+00000000|MMI|3.48|Maculopapular eruption|C0423791|[fndg]|["RASH MACULO-PAPULAR"-tx-29-"rash maculo-papular"-noun-0]|TX|3418/4,3437/14|
+00000000|MMI|3.48|Worse|C1457868|[fndg]|["Worsening"-tx-26-"worsening"-adj-0]|TX|2963/9|
+00000000|MMI|3.46|Trial 1|C3840593|[fndg]|["Trial 1"-tx-19-"1 trials"-noun-0]|TX|1981/1,1996/6|
+00000000|MMI|3.44|PULMONARY ETIOLOGY|C0748132|[fndg]|["PULMONARY ETIOLOGY"-tx-22-"etiology pulmonary"-noun-0]|TX|2521/8,2537/9|
+00000000|MMI|3.43|Medical Device Material Perforation|C1881710|[patf]|["Perforation"-tx-25-"perforation"-noun-0]|TX|2857/11|
+00000000|MMI|3.43|Perforation (observation)|C0549099|[fndg]|["PERFORATION"-tx-25-"perforation"-noun-0]|TX|2857/11|
+00000000|MMI|3.43|Abnormality|C1704258|[fndg]|["Abnormality"-tx-14-"abnormality"-noun-0]|TX|1504/11|
+00000000|MMI|3.42|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-22-"symptoms"-noun-0]|TX|2547/8|

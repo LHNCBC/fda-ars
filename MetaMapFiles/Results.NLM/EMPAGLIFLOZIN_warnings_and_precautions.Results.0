@@ -1,0 +1,38 @@
+54,65|TP|Hypotension|C0020649|10021097|54,65|Hypotension|C0020649,C3163620|10005734,10021097,10060933|fndg,fndg
+145,161|FP|renal impairment|C1565489|10062237|dsyn
+193,220|FP|low systolic blood pressure|C0277885|10005758|fndg
+315,343|FN|Impairment in renal function|C0341677
+315,325;329,334|FP|Impairment renal|C1565489|10062237|dsyn
+489,501|TP|Hypoglycemia|C0020615|10020993|489,501|Hypoglycemia|C0020615|10020993|dsyn
+587,599|FP|hypoglycemia|C0020615|10020993|dsyn
+642,668|TP|Genital mycotic infections|C0740330|10061180|642,668|Genital mycotic infections|C0740330|10061180|dsyn
+719,743|TP|Urinary tract infections|C0042029|10046571|719,743|Urinary tract infections|C0042029|10046571|dsyn
+794,809|FN|Increased LDL-C|C0549399
+794,807|FP|Increased LDL|C0549399|10024910|fndg
+1026,1037|FP|Hypotension|C3163620,C0020649|10060933,10005734|fndg,fndg
+1060,1092|FN|intravascular volume contraction|C0750310
+1094,1117|FN|Symptomatic hypotension|C0863113
+1106,1117|FP|hypotension|C3163620,C0020649|10060933,10005734|fndg,fndg
+1220,1236|FP|renal impairment|C1565489|10062237|dsyn
+1268,1295|FP|low systolic blood pressure|C0277885|10005758|fndg
+1460,1471|FP|hypotension|C3163620,C0020649|10060933,10005734|fndg,fndg
+1639,1649;1653,1658|FP|Impairment Renal|C1565489|10062237|dsyn
+1683,1709|FN|increases serum creatinine|C0700225
+1714,1728|FN|decreases eGFR|C0853068
+1778,1801|TP|impaired renal function|C1565489|10062237|1778,1801|impaired renal function|C1565489|10062237|dsyn
+1877,1893|FP|renal impairment|C1565489|10062237|dsyn
+2131,2143|FP|Hypoglycemia|C0020615|10020993|dsyn
+2262,2274|FP|hypoglycemia|C0020615|10020993|dsyn
+2288,2300|TP|hypoglycemia|C0020615|10020993|2288,2300|hypoglycemia|C0020615|10020993|dsyn
+2549,2561|FP|hypoglycemia|C0020615|10020993|dsyn
+2614,2640|FP|Genital Mycotic Infections|C0740330|10061180|dsyn
+2670,2678;2695,2705|FP|risk for infections|C0582147|10021789|fndg
+2679,2705|TP|genital mycotic infections|C0740330|10061180|2679,2705|genital mycotic infections|C0740330|10061180|dsyn
+2791,2817|FP|genital mycotic infections|C0740330|10061180|dsyn
+2846,2872|FN|mycotic genital infections|C0740330
+2854,2872|FP|genital infections|C0729552|10048461|dsyn
+2919,2943|FP|Urinary Tract Infections|C0042029|10046571|dsyn
+2973,2981;2996,3006|FP|risk for infections|C0582147|10021789|fndg
+2982,3006|FN|urinary tract infections|C0042029
+3089,3134|FP|Increased Low-Density Lipoprotein Cholesterol|C0549399|10024910|fndg
+3148,3166|FN|Increases in LDL-C|C0549399

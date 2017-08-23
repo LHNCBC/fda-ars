@@ -1,0 +1,40 @@
+00000000|MMI|101.22|Neutropenia|C0027947|[dsyn]|["NEUTROPENIA"-tx-7-"neutropenia"-noun-0,"NEUTROPENIA"-tx-5-"neutropenia"-noun-0,"NEUTROPENIA"-tx-4-"neutropenia"-noun-0,"NEUTROPENIA"-tx-3-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-1-"Neutropenia"-noun-0]|TX|1493/11;1198/11;1036/11;669/11;58/11|C15.378.553.546.184.564
+00000000|MMI|69.49|Febrile Neutropenia|C0746883|[dsyn]|["Febrile Neutropenia"-tx-7-"febrile neutropenia"-noun-0,"Febrile Neutropenia"-tx-5-"febrile neutropenia"-noun-0,"Febrile Neutropenia"-tx-4-"febrile neutropenia"-noun-0]|TX|1462/19;1214/19;1052/19|C15.378.553.546.184.564.750
+00000000|MMI|68.08|Leukopenia|C0023530|[dsyn]|["NEUTROPENIA"-tx-7-"neutropenia"-noun-0,"NEUTROPENIA"-tx-5-"neutropenia"-noun-0,"NEUTROPENIA"-tx-4-"neutropenia"-noun-0,"NEUTROPENIA"-tx-3-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-1-"Neutropenia"-noun-0]|TX|1493/11;1198/11;1036/11;669/11;58/11|C15.378.553.546
+00000000|MMI|41.19|Peripheral Neuropathy|C0031117|[dsyn]|["PERIPHERAL NEUROPATHY"-tx-14-"peripheral neuropathy"-noun-0,"PERIPHERAL NEUROPATHY"-tx-10-"Peripheral neuropathy"-noun-0,"PERIPHERAL NEUROPATHY"-tx-9-"Peripheral Neuropathy"-noun-0,"PERIPHERAL NEUROPATHY"-tx-1-"Peripheral Neuropathy"-noun-0]|TX|2350/21;1852/21;1704/21;170/21|C10.668.829
+00000000|MMI|29.46|Bradycardia|C0428977|[patf]|["Bradyarrhythmias"-tx-20-"bradyarrhythmias"-noun-0,"Bradyarrhythmias"-tx-2-"bradyarrhythmias"-noun-0]|TX|3397/16;500/16|C14.280.067.319;C23.550.073.300
+00000000|MMI|24.04|2+|C3833492|[fndg]|["2+"-tx-14-"2"-integer-0,"2+"-tx-14-"2"-real_number-0,"2+"-tx-9-"2"-fraction-0,"2+"-tx-7-"2"-real_number-0,"2+"-tx-2-"2"-real_number-0,"2+"-tx-1-"2"-real_number-0]|TX|[2398/1],[2449/1];[2398/1],[2449/1];1821/1;1570/1;268/1;143/1|
+00000000|MMI|20.95|Gravidity|C0600457|[fndg]|["PREGNANT"-tx-18-"pregnant"-adj-0]|TX|2940/8|G08.686.340;G08.686.785.760.769.213;N06.850.490.812.250
+00000000|MMI|19.57|Prolonged QT interval|C0151878|[fndg]|["QT Prolongation"-tx-19-"QT Prolongation"-noun-0,"QT Prolongation"-tx-19-"QT prolongation"-noun-0,"QT Prolongation"-tx-19-"QT prolongation"-noun-1,"Prolonged QT Interval"-tx-2-"prolonged QT intervals"-noun-0,"QT Prolongation"-tx-2-"QT Prolongation"-noun-0]|TX|3100/15;[3179/15],[3265/15];[3179/15],[3265/15];434/22;404/15|
+00000000|MMI|18.37|Neutrophil count decreased|C0853697|[fndg]|["Neutropenia"-tx-7-"neutropenia"-noun-0,"Neutropenia"-tx-5-"neutropenia"-noun-0,"Neutropenia"-tx-4-"neutropenia"-noun-0,"Neutropenia"-tx-3-"Neutropenia"-noun-0,"Neutropenia"-tx-1-"Neutropenia"-noun-0]|TX|1493/11;1198/11;1036/11;669/11;58/11|
+00000000|MMI|14.94|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-17-"toxicity"-noun-0,"Toxicity"-tx-15-"Toxicity"-noun-0,"Toxicity"-tx-10-"toxicity"-noun-0,"Toxicity"-tx-2-"Toxicity"-noun-0]|TX|2720/8;2490/8;1894/8;308/8|
+00000000|MMI|14.39|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["Grade 4"-tx-9-"Grade 4"-noun-0,"Grade 4"-tx-7-"Grade 4"-noun-0,"Grade 4"-tx-5-"Grade 4"-noun-0,"Grade 4"-tx-4-"Grade 4"-noun-0]|TX|1804/7;1485/7;1190/7;1028/7|
+00000000|MMI|14.39|West Haven Hepatic Encephalopathy Grade 4|C3889293|[fndg]|["GRADE 4"-tx-9-"Grade 4"-noun-0,"GRADE 4"-tx-7-"Grade 4"-noun-0,"GRADE 4"-tx-5-"Grade 4"-noun-0,"GRADE 4"-tx-4-"Grade 4"-noun-0]|TX|1804/7;1485/7;1190/7;1028/7|
+00000000|MMI|13.14|Hypokalemia|C0020621|[fndg]|["HYPOKALEMIA"-tx-21-"hypokalemia"-noun-0]|TX|3538/11|C18.452.950.565
+00000000|MMI|11.73|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-14-"Grade 3"-noun-0,"GRADE 3"-tx-9-"Grade 3"-noun-0,"GRADE 3"-tx-6-"Grade 3"-noun-0]|TX|2337/7;1733/7;1350/7|
+00000000|MMI|11.49|Teratogenesis|C0232910|[patf]|["TERATOGENICITY"-tx-17-"teratogenicity"-noun-0]|TX|2733/14|C23.550.863
+00000000|MMI|11.03|Neuropathy|C0442874|[dsyn]|["NEUROPATHY"-tx-12-"neuropathy"-noun-0,"NEUROPATHY"-tx-11-"Neuropathy"-noun-0,"NEUROPATHY"-tx-1-"neuropathy"-noun-0]|TX|2112/10;1967/10;215/10|
+00000000|MMI|10.42|Bradyarrhythmia (disorder)|C0079035|[dsyn]|["bradyarrhythmias"-tx-20-"bradyarrhythmias"-noun-0,"bradyarrhythmias"-tx-2-"bradyarrhythmias"-noun-0]|TX|3397/16;500/16|
+00000000|MMI|10.42|Congenital long QT syndrome|C1141890|[dsyn]|["Congenital long QT syndrome"-tx-22-"congenital long QT syndrome"-noun-0,"Congenital long QT syndrome"-tx-3-"congenital long QT syndrome"-noun-0]|TX|3687/27;612/27|
+00000000|MMI|8.28|Electrolytes abnormal|C0151613|[fndg]|["ELECTROLYTE ABNORMALITY"-tx-20-"electrolyte abnormalities"-noun-0,"ELECTROLYTE ABNORMALITY"-tx-2-"electrolyte abnormalities"-noun-0]|TX|3503/25;562/25|
+00000000|MMI|7.32|Congestive heart failure|C0018802|[dsyn]|["CONGESTIVE HEART FAILURE"-tx-20-"congestive heart failure"-noun-0,"CONGESTIVE HEART FAILURE"-tx-2-"congestive heart failure"-noun-0]|TX|3371/24;474/24|
+00000000|MMI|7.19|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-10-"discontinuation"-noun-0,"Discontinuation"-tx-3-"discontinuation"-noun-0]|TX|1914/15;814/15|
+00000000|MMI|6.97|4+ Answer to question|C3838679|[fndg]|["4+"-tx-14-"4"-integer-0,"4+"-tx-6-"4"-integer-0]|TX|2348/1;1361/1|
+00000000|MMI|6.89|Physical findings|C0311392|[fndg]|["SIGNS"-tx-13-"signs"-noun-0,"SIGNS"-tx-1-"signs"-noun-0]|TX|2243/5;206/5|
+00000000|MMI|5.18|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-4-"3"-integer-0]|TX|962/1|
+00000000|MMI|5.18|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-3-"Adverse Reactions"-noun-0]|TX|855/17|
+00000000|MMI|5.18|Patient currently pregnant|C0549206|[fndg]|["Pregnant"-tx-18-"pregnant"-adj-0]|TX|2940/8|
+00000000|MMI|5.18|School Grade|C3244287|[fndg]|["grade"-tx-14-"Grade"-verb-0]|TX|2392/5|
+00000000|MMI|5.18|Sensory neuropathy|C0151313|[dsyn]|["Sensory neuropathy"-tx-13-"sensory neuropathy"-noun-0]|TX|2273/18|
+00000000|MMI|5.18|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-20-"therapy"-noun-0]|TX|3333/7|
+00000000|MMI|3.68|Body surface area (___m2)|C2237655|[fndg]|["body surface area"-tx-17-"body surface area"-noun-0]|TX|2858/17|
+00000000|MMI|3.68|Cytopenia|C0010828|[patf]|["Cytopenias"-tx-6-"cytopenias"-noun-0]|TX|1363/10|
+00000000|MMI|3.59|1+|C3816745|[fndg]|["1+"-tx-3-"1"-percentage-0]|TX|834/1|
+00000000|MMI|3.59|Possible pregnancy (finding)|C0425965|[fndg]|["? Pregnancy"-tx-18-"pregnancy"-noun-0]|TX|2905/9|
+00000000|MMI|3.59|Used by|C1273517|[fndg]|["used"-tx-18-"used"-verb-0]|TX|2893/4|
+00000000|MMI|3.56|Follow-up status|C0589120|[fndg]|["Follow-up"-tx-12-"follow-up"-adj-1]|TX|2162/9|
+00000000|MMI|3.56|Hypomagnesemia|C0151723|[fndg]|["HYPOMAGNESEMIA"-tx-21-"hypomagnesemia"-noun-0]|TX|3553/14|
+00000000|MMI|3.50|Worse|C1457868|[fndg]|["Worsening"-tx-12-"worsening"-adj-0]|TX|2102/9|
+00000000|MMI|3.48|Gait normal|C0231683|[fndg]|["Normal"-tx-4-"normal"-adj-0]|TX|1091/6|
+00000000|MMI|3.46|Day 7|C3842672|[fndg]|["Day 7"-tx-7-"7 days"-noun-0]|TX|1525/6|
+00000000|MMI|3.43|physiologic resolution|C1514893|[patf]|["Resolution"-tx-14-"resolution"-noun-0]|TX|2378/10|

@@ -1,0 +1,183 @@
+T1	AdverseReaction 1264 1276	cardiac risk
+T2	Factor 1250 1259	potential
+T3	AdverseReaction 2637 2682	transient decreases in sitting blood pressure
+T4	AdverseReaction 3960 3978	Prolonged erection
+T5	AdverseReaction 4004 4012	priapism
+T6	AdverseReaction 4014 4031	painful erections
+T7	DrugClass 4096 4111	PDE5 inhibitors
+T8	AdverseReaction 4854 4902	non-arteritic anterior ischemic optic neuropathy
+T9	AdverseReaction 4904 4909	NAION
+T10	AdverseReaction 4944 4960	decreased vision
+T11	AdverseReaction 4971 4995	permanent loss of vision
+T12	DrugClass 5084 5099	PDE5 inhibitors
+T13	AdverseReaction 5411 5416	NAION
+T15	DrugClass 5440 5454	PDE5 inhibitor
+T16	AdverseReaction 6391 6406	loss of hearing
+T17	AdverseReaction 6372 6387;6396 6406	sudden decrease of hearing
+T18	DrugClass 6331 6346	PDE5 inhibitors
+T19	AdverseReaction 6436 6444	tinnitus
+T20	AdverseReaction 6448 6457	dizziness
+T22	AdverseReaction 7464 7487	symptomatic hypotension
+T23	Factor 7414 7417	can
+T24	AdverseReaction 7495 7504	dizziness
+T25	AdverseReaction 7506 7521	lightheadedness
+T26	AdverseReaction 7523 7531	fainting
+T27	AdverseReaction 7802 7825	symptomatic hypotension
+T29	DrugClass 7850 7865	PDE5 inhibitors
+T36	AdverseReaction 9587 9650	potentiates the anti-aggregatory effect of sodium nitroprusside
+T37	Factor 9526 9543	In vitro  studies
+T38	Severity 2708 2748	8.0 mmHg systolic and 3.3 mmHg diastolic
+T39	AdverseReaction 543 554	hypotension
+T40	Severity 3992 3999	4 hours
+T41	Severity 4045 4052	6 hours
+T42	AdverseReaction 5338 5343	NAION
+T43	DrugClass 5274 5289	PDE5 inhibitors
+E1	AdverseReaction:T1 Hypothetical:E2
+E2	Factor:T2
+E3	AdverseReaction:T3 Effect:E38
+E4	AdverseReaction:T4 Hypothetical:E7 Effect:E40
+E5	AdverseReaction:T5 Hypothetical:E7
+E6	AdverseReaction:T6 Hypothetical:E7 Effect:E41
+E7	DrugClass:T7
+E8	AdverseReaction:T8 Hypothetical:E12
+E9	AdverseReaction:T9 Hypothetical:E12
+E10	AdverseReaction:T10 Hypothetical:E12
+E11	AdverseReaction:T11 Hypothetical:E12
+E12	DrugClass:T12
+E13	AdverseReaction:T13 Hypothetical2:E15
+E15	DrugClass:T15
+E16	AdverseReaction:T16 Hypothetical:E18
+E17	AdverseReaction:T17 Hypothetical:E18
+E18	DrugClass:T18
+E19	AdverseReaction:T19 Hypothetical2:E18
+E20	AdverseReaction:T20 Hypothetical2:E18
+E22	AdverseReaction:T22 Hypothetical:E23
+E23	Factor:T23
+E24	AdverseReaction:T24 Hypothetical:E23
+E25	AdverseReaction:T25 Hypothetical:E23
+E26	AdverseReaction:T26 Hypothetical:E23
+E27	AdverseReaction:T27 Hypothetical2:E29
+E29	DrugClass:T29
+E36	AdverseReaction:T36 Hypothetical:E37
+E37	Factor:T37
+E38	Severity:T38
+E39	AdverseReaction:T39
+E40	Severity:T40
+E41	Severity:T41
+E42	AdverseReaction:T42 Hypothetical:E43
+E43	DrugClass:T43
+A1	CUI E1 C2024776
+A2	UMLS-Preferred-Name E1 cardiac risk factors
+A3	MEDDRA-PT E1 Cardiac disorder
+A4	MEDDRA-PT-ID E1 10061024
+A5	CUI E3 C0858766
+A6	UMLS-Preferred-Name E3 Blood pressure dropped transient
+A7	MEDDRA-PT E3 Blood pressure decreased
+A8	MEDDRA-PT-ID E3 10005734
+A9	LLT E3 Blood pressure dropped transient
+A10	LLT-ID E3 10005745
+A11	CUI E4 C2242621
+A12	UMLS-Preferred-Name E4 Erection prolonged
+A13	MEDDRA-PT E4 Erection increased
+A14	MEDDRA-PT-ID E4 10015120
+A15	LLT E4 Erection prolonged
+A16	LLT-ID E4 10068039
+A17	CUI E5 C0033117
+A18	UMLS-Preferred-Name E5 Priapism
+A19	MEDDRA-PT E5 Priapism
+A20	MEDDRA-PT-ID E5 10036661
+A21	CUI E6 C0233973
+A22	UMLS-Preferred-Name E6 Painful penile erection
+A23	MEDDRA-PT E6 Painful erection
+A24	MEDDRA-PT-ID E6 10056303
+A25	CUI E8 C1852242
+A26	UMLS-Preferred-Name E8 Nonarteritic anterior ischemic optic neuropathy (NAION)
+A27	MEDDRA-PT E8 Optic ischaemic neuropathy
+A28	MEDDRA-PT-ID E8 10030924
+A29	LLT E8 Nonarteritic anterior ischaemic optic neuropathy
+A30	LLT-ID E8 10068242
+A31	CUI E9 C1852242
+A32	UMLS-Preferred-Name E9 Nonarteritic anterior ischemic optic neuropathy (NAION)
+A33	MEDDRA-PT E9 Optic ischaemic neuropathy
+A34	MEDDRA-PT-ID E9 10030924
+A35	LLT E9 NAION
+A36	LLT-ID E9 10068245
+A37	CUI E10 C0558171
+A38	UMLS-Preferred-Name E10 Deteriorating vision
+A39	MEDDRA-PT E10 Visual acuity reduced
+A40	MEDDRA-PT-ID E10 10047531
+A41	LLT E10 Vision decreased
+A42	LLT-ID E10 10047516
+A43	CUI E11 C4012505
+A44	UMLS-Preferred-Name E11 Permanent loss of sight
+A45	MEDDRA-PT E11 Blindness
+A46	MEDDRA-PT-ID E11 10005169
+A47	LLT E11 Loss of vision
+A48	LLT-ID E11 10024881
+A49	CUI E13 C1852242
+A50	UMLS-Preferred-Name E13 Nonarteritic anterior ischemic optic neuropathy (NAION)
+A51	MEDDRA-PT E13 Optic ischaemic neuropathy
+A52	MEDDRA-PT-ID E13 10030924
+A53	LLT E13 NAION
+A54	LLT-ID E13 10068245
+A55	CUI E16 C3887873
+A56	UMLS-Preferred-Name E16 Hearing Loss
+A57	MEDDRA-PT E16 Deafness
+A58	MEDDRA-PT-ID E16 10011878
+A59	LLT E16 Hearing loss
+A60	LLT-ID E16 10019246
+A61	CUI E17 C0011057
+A62	UMLS-Preferred-Name E17 Hearing Loss, Sudden
+A63	MEDDRA-PT E17 Sudden hearing loss
+A64	MEDDRA-PT-ID E17 10061373
+A65	CUI E19 C0040264
+A66	UMLS-Preferred-Name E19 Tinnitus
+A67	MEDDRA-PT E19 Tinnitus
+A68	MEDDRA-PT-ID E19 10043882
+A69	CUI E20 C0012833
+A70	UMLS-Preferred-Name E20 Dizziness
+A71	MEDDRA-PT E20 Dizziness
+A72	MEDDRA-PT-ID E20 10013573
+A73	CUI E22 C0863113
+A74	UMLS-Preferred-Name E22 Hypotension symptomatic
+A75	MEDDRA-PT E22 Hypotension
+A76	MEDDRA-PT-ID E22 10021097
+A77	LLT E22 Hypotension symptomatic
+A78	LLT-ID E22 10021105
+A79	CUI E24 C0012833
+A80	UMLS-Preferred-Name E24 Dizziness
+A81	MEDDRA-PT E24 Dizziness
+A82	MEDDRA-PT-ID E24 10013573
+A83	CUI E25 C0220870
+A84	UMLS-Preferred-Name E25 Lightheadedness
+A85	MEDDRA-PT E25 Dizziness
+A86	MEDDRA-PT-ID E25 10013573
+A87	LLT E25 Lightheadedness
+A88	LLT-ID E25 10024492
+A89	CUI E26 C0039070
+A90	UMLS-Preferred-Name E26 Syncope
+A91	MEDDRA-PT E26 Syncope
+A92	MEDDRA-PT-ID E26 10042772
+A93	LLT E26 Fainting
+A94	LLT-ID E26 10016169
+A95	CUI E27 C0863113
+A96	UMLS-Preferred-Name E27 Hypotension symptomatic
+A97	MEDDRA-PT E27 Hypotension
+A98	MEDDRA-PT-ID E27 10021097
+A99	LLT E27 Hypotension symptomatic
+A100	LLT-ID E27 10021105
+A101	flag E36 duplicate
+A102	CUI E36 C0919737
+A103	UMLS-Preferred-Name E36 Platelet aggregation inhibition
+A104	MEDDRA-PT E36 Platelet aggregation inhibition
+A105	MEDDRA-PT-ID E36 10050661
+A106	CUI E39 C0020649
+A107	UMLS-Preferred-Name E39 Hypotension
+A108	MEDDRA-PT E39 Hypotension
+A109	MEDDRA-PT-ID E39 10021097
+A110	CUI E42 C1852242
+A111	UMLS-Preferred-Name E42 Nonarteritic anterior ischemic optic neuropathy (NAION)
+A112	MEDDRA-PT E42 Optic ischaemic neuropathy
+A113	MEDDRA-PT-ID E42 10030924
+A114	LLT E42 NAION
+A115	LLT-ID E42 10068245

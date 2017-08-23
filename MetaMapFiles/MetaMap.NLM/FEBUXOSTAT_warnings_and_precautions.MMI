@@ -1,0 +1,46 @@
+00000000|AA|NSAID|non-steroidal anti-inflammatory drug|1|5|9|36|324:5
+00000000|AA|CI|Confidence Interval|1|2|3|19|1740:2
+00000000|AA|MI|myocardial infarction|1|2|3|21|1964:2
+00000000|AA|ULN|upper limit of normal|1|3|7|21|2328:3
+00000000|MMI|54.24|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-21-"ALT"-noun-0,"ALT"-tx-19-"ALT"-noun-0,"ALT"-tx-17-"ALT"-noun-0]|TX|3015/3;2625/3;2365/3|C04.557.450.550.400
+00000000|MMI|50.24|Cerebrovascular accident|C0038454|[dsyn]|["STROKE"-tx-15-"stroke"-noun-0,"Strokes"-tx-13-"strokes"-noun-1,"STROKE"-tx-5-"stroke"-noun-0]|TX|1972/6;1655/7;642/6|C10.228.140.300.775;C14.907.253.855
+00000000|MMI|39.60|Myocardial Infarction|C0027051|[dsyn]|["Infarction, Myocardial"-tx-15-"myocardial infarction"-noun-0,"Myocardial Infarctions"-tx-13-"myocardial infarctions"-noun-1,"Infarction, Myocardial"-tx-5-"MI"-noun-0]|TX|1941/21;1617/22;635/2|C14.280.647.500;C14.907.585.500
+00000000|MMI|32.33|Gout|C0018099|[dsyn]|["gout; in"-tx-10-"in gout"-noun-0,"gout; in"-tx-1-"in gout"-noun-0]|TX|1103/7;80/7|C05.550.114.423;C05.799.414;C16.320.565.798.368;C18.452.648.798.368
+00000000|MMI|26.11|Liver Failure|C0085605|[dsyn]|["HEPATIC FAILURE"-tx-16-"hepatic failure"-noun-1,"HEPATIC FAILURE"-tx-6-"hepatic failure"-noun-0]|TX|2074/15;710/15|C06.552.308.500
+00000000|MMI|25.96|Thromboembolism|C0040038|[patf]|["Thromboembolic events"-tx-13-"thromboembolic events"-noun-0,"Thromboembolic events"-tx-4-"thromboembolic events"-noun-0]|TX|1561/21;497/21|C14.907.355.590
+00000000|MMI|19.73|2+|C3833492|[fndg]|["2+"-tx-17-"2"-percentage-0,"2+"-tx-12-"2"-real_number-0,"2+"-tx-4-"2"-real_number-0]|TX|[2353/1],[2357/1],[2374/1];1432/1;418/1|
+00000000|MMI|18.30|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-16-"fatal"-adj-0,"FATAL"-tx-16-"fatal"-adj-1,"FATAL"-tx-13-"fatal"-adj-1,"FATAL"-tx-6-"fatal"-adj-0]|TX|[2054/5],[2068/5];[2054/5],[2068/5];[1611/5],[1649/5];737/5|
+00000000|MMI|15.88|Gout flare|C1619733|[dsyn]|["Gout flare"-tx-12-"gout flares"-noun-0,"Gout flare"-tx-10-"Gout Flare"-noun-0,"Gout flare"-tx-2-"gout flare"-noun-0,"Gout flare"-tx-1-"Gout Flare"-noun-0]|TX|1284/11;1047/10;189/10;55/10|
+00000000|MMI|15.79|Injury of liver|C0160390|[inpo]|["LIVER INJURY"-tx-20-"liver injury"-noun-0,"LIVER INJURY"-tx-9-"liver injury"-noun-1,"LIVER INJURY"-tx-8-"liver injury"-noun-0]|TX|2834/12;955/12;777/12|
+00000000|MMI|14.64|Anorexia|C0003123|[dsyn]|["ANOREXIA"-tx-20-"anorexia"-noun-0]|TX|2867/8|C23.888.821.108
+00000000|MMI|14.64|Icterus|C0022346|[patf]|["JAUNDICE"-tx-20-"jaundice"-noun-0]|TX|2925/8|C23.550.429.500;C23.888.885.375
+00000000|MMI|14.61|Cardiovascular event|C1320716|[fndg]|["cardiovascular events"-tx-13-"Cardiovascular Events"-noun-0,"cardiovascular events"-tx-13-"cardiovascular events"-noun-0,"cardiovascular events"-tx-4-"Cardiovascular Events"-noun-0,"cardiovascular events"-tx-4-"cardiovascular events"-noun-0]|TX|1454/21;1546/14,1576/6;441/21;482/14,512/6|
+00000000|MMI|11.49|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-20-"fatigue"-noun-0]|TX|2858/7|C23.888.369
+00000000|MMI|11.15|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-20-"symptoms"-noun-0,"SYMPTOMS"-tx-15-"symptoms"-noun-0,"SYMPTOMS"-tx-5-"symptoms"-noun-0]|TX|2807/8;1929/8;623/8|
+00000000|MMI|10.80|Test Result|C0456984|[fndg]|["Test"-tx-22-"test"-noun-1,"Test"-tx-20-"tests"-verb-0,"Test"-tx-19-"test"-noun-0]|TX|3271/4;2769/5;2581/4|
+00000000|MMI|9.86|Hyperuricemia|C0740394|[dsyn]|["Hyperuricaemic"-tx-1-"hyperuricemic"-adj-0]|TX|144/13|C23.550.449
+00000000|MMI|7.14|0%|C3842591|[fndg]|["0%"-tx-13-"0"-real_number-0,"0%"-tx-13-"0"-real_number-1]|TX|[1697/1],[1774/1];[1697/1],[1774/1]|
+00000000|MMI|7.05|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-17-"randomized"-noun-0,"RANDOMIZED"-tx-13-"randomized"-noun-0]|TX|2221/10;1488/10|
+00000000|MMI|6.94|Physical findings|C0311392|[fndg]|["SIGNS"-tx-15-"signs"-noun-0,"SIGNS"-tx-5-"signs"-noun-0]|TX|1919/5;613/5|
+00000000|MMI|6.86|Exacerbation of cGVHD|C3540542|[fndg]|["Flare"-tx-10-"flares"-noun-0,"Flare"-tx-1-"flares"-noun-0]|TX|1111/6;88/6|
+00000000|MMI|6.86|Flare|C1517205|[sosy]|["Flare"-tx-10-"flares"-noun-0,"Flare"-tx-1-"flares"-noun-0]|TX|1111/6;88/6|
+00000000|MMI|6.58|Congenital Abnormality|C0000768|[cgab]|["Abnormalities"-tx-22-"abnormalities"-noun-1]|TX|3276/13|C16.131
+00000000|MMI|5.18|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-17-"3"-percentage-0]|TX|2370/1|
+00000000|MMI|5.18|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-13-"Adverse Reactions"-noun-0]|TX|1817/17|
+00000000|MMI|5.18|Anorexia symptom|C0426579|[sosy]|["anorexia"-tx-20-"anorexia"-noun-0]|TX|2867/8|
+00000000|MMI|5.18|Detected (finding)|C0442726|[fndg]|["Detected"-tx-8-"detected"-verb-0]|TX|793/8|
+00000000|MMI|5.18|Discontinued|C1444662|[fndg]|["Discontinued"-tx-2-"discontinued"-verb-1]|TX|244/12|
+00000000|MMI|5.18|Insufficient information|C4062889|[fndg]|["Insufficient information"-tx-16-"insufficient information"-noun-0]|TX|2146/24|
+00000000|MMI|5.18|Loss of appetite (finding)|C1971624|[fndg]|["Anorexia"-tx-20-"anorexia"-noun-0]|TX|2867/8|
+00000000|MMI|5.18|Urine looks dark|C0426396|[sosy]|["Dark urine"-tx-20-"dark urine"-noun-0]|TX|2911/10|
+00000000|MMI|5.18|jaundice|C2010848|[fndg]|["jaundice"-tx-20-"jaundice"-noun-0]|TX|2925/8|
+00000000|MMI|5.18|liver test abnormal|C0745768|[fndg]|["abnormal liver tests"-tx-21-"abnormal liver tests"-noun-0]|TX|2993/20|
+00000000|MMI|5.18|physiologic resolution|C1514893|[patf]|["Resolution"-tx-8-"resolution"-noun-0]|TX|901/10|
+00000000|MMI|5.18|yellow skin or eyes (symptom)|C2203646|[sosy]|["jaundice"-tx-20-"jaundice"-noun-0]|TX|2925/8|
+00000000|MMI|3.81|Upper abdominal discomfort|C1868919|[sosy]|["Upper abdominal discomfort"-tx-20-"upper abdominal discomfort"-noun-0]|TX|2883/26|
+00000000|MMI|3.68|Death (finding)|C1306577|[fndg]|["DEATHS"-tx-13-"deaths"-noun-0]|TX|1599/6|
+00000000|MMI|3.63|At risk of injury|C0582456|[fndg]|["At risk for injury"-tx-23-"at risk for injury"-noun-1]|TX|3476/11,3514/6|
+00000000|MMI|3.56|Urate level - finding|C0729829|[fndg]|["Urate"-tx-11-"urate"-noun-0]|TX|1232/5|
+00000000|MMI|3.55|60%|C3842585|[fndg]|["60%"-tx-13-"60"-real_number-0]|TX|1776/2|
+00000000|MMI|3.44|Congenital anomaly of liver|C0266257|[cgab]|["liver Abnormalities"-tx-22-"liver abnormalities"-noun-1]|TX|3265/5,3276/13|
+00000000|MMI|3.44|Other congenital malformations of liver|C0478037|[cgab]|["Liver abnormalities"-tx-22-"liver abnormalities"-noun-1]|TX|3265/5,3276/13|

@@ -1,0 +1,114 @@
+52,61;75,91|FN|New onset renal impairment|C1565489
+65,91|FN|worsening renal impairment|C1565489
+75,91|FP|renal impairment|C1565489|10062237|dsyn
+105,124|FN|acute renal failure|C0022660
+129,145|TP|Fanconi syndrome|C0015624|10016219|129,145|Fanconi syndrome|C0015624|10016219|dsyn
+183,196|FP|urine glucose|C0017979|10018473|fndg
+272,285|FP|urine glucose|C0017979|10018473|fndg
+371,387|FP|renal impairment|C1565489|10062237|dsyn
+1249,1266;1305,1310|FP|adverse reactions drugs|C0041755|10061623|inpo
+1327,1339;1362,1365|FN|Decreases in BMD|C0877225
+1327,1360|FN|Decreases in bone mineral density|C0877225
+1467,1479|FP|osteoporosis|C0029456|10031282|dsyn
+1483,1492|FP|bone loss|C0029453|10065687|dsyn
+1509,1523;1537,1548|FN|Redistribution of body fat|C0856151
+1509,1523;1545,1548|FP|Redistribution fat|C0856151|10048474|dsyn
+1524,1548|FN|accumulation of body fat|C1096393
+1620,1650|CUIDiff|Immune reconstitution syndrome|C1096197|10065042|1620,1650|Immune reconstitution syndrome|C1619738|10065042|dsyn
+1620,1650|TP|Immune reconstitution syndrome|C1096197|10065042|1620,1650|Immune reconstitution syndrome|C1619738|10065042|dsyn
+1751,1763|FP|Hepatomegaly|C0019209|10019842|sosy
+1769,1778|FP|Steatosis|C0152254,C2711227|10061227,10019708|patf,dsyn
+1784,1799|FN|Lactic acidosis|C0001125
+1811,1823|TP|hepatomegaly|C0019209|10019842|1811,1823|hepatomegaly|C0019209|10019842|sosy
+1829,1838|TP|steatosis|C2711227|10019708|1829,1838|steatosis|C0152254,C2711227|10019708,10019837,10061227,10076331|patf,dsyn
+1850,1855|CUIDiff|fatal|C1306577|10011906|1850,1855|fatal|C1705232|10060933|fndg
+1850,1855|TP|fatal|C1306577|10011906|1850,1855|fatal|C1705232|10060933|fndg
+2056,2063|FP|Obesity|C1963185,C0028754|10060933,10029883|fndg,dsyn
+2451,2466|FP|lactic acidosis|C0001125|10023676|dsyn
+2481,2495|FP|hepatotoxicity|C0235378|10019851|inpo
+2515,2527|FP|hepatomegaly|C0019209|10019842|sosy
+2532,2541|FP|steatosis|C0152254,C2711227|10061227,10019708|patf,dsyn
+2730,2755|FP|chronic hepatitis B virus|C0524909|10008910|dsyn
+2858,2861|FP|HBV|C0042769|10047461|dsyn
+2862,2871|FP|infection|C3714514|10021789|patf
+3011,3022|FP|hepatitis B|C0019163|10019731|dsyn
+3245,3273|FN|exacerbations of hepatitis B|C0019163
+3262,3273|FP|hepatitis B|C0019163|10019731|dsyn
+3295,3315|TP|liver decompensation|C0085605|10019663|3295,3315|liver decompensation|C0085605|10019663|dsyn
+3320,3333|TP|liver failure|C0085605|10019663|3320,3333|liver failure|C0085605|10019663|dsyn
+3557,3566|FP|hepatitis|C0019158,C0019159|10019717,10019780|dsyn,dsyn
+3629,3645|FP|Renal Impairment|C1565489|10062237|dsyn
+3651,3667|FN|Renal impairment|C1565489
+3688,3707|FN|acute renal failure|C0022660
+3712,3728|TP|Fanconi syndrome|C0015624|10016219|3712,3728|Fanconi syndrome|C0015624|10016219|dsyn
+3730,3750|FN|renal tubular injury|C0160420
+3730,3735;3744,3750|FP|renal injury|C0160420|10061481|inpo
+3763,3779|TP|hypophosphatemia|C0085682|10021058|3763,3779|hypophosphatemia|C0085682|10021058|patf
+4165,4187|FN|renal adverse reaction|C1557806
+4404,4438|MedDRADiff|proximal renal tubular dysfunction|C0015624|10038537|4404,4438|proximal renal tubular dysfunction|C0015624|10016219|dsyn
+4404,4438|TP|proximal renal tubular dysfunction|C0015624|10038537|4404,4438|proximal renal tubular dysfunction|C0015624|10016219|dsyn
+4547,4563|FP|renal impairment|C1565489|10062237|dsyn
+4937,4971|MedDRADiff|proximal renal tubular dysfunction|C0015624|10038537|4937,4971|proximal renal tubular dysfunction|C0015624|10016219|dsyn
+4937,4971|TP|proximal renal tubular dysfunction|C0015624|10038537|4937,4971|proximal renal tubular dysfunction|C0015624|10016219|dsyn
+5337,5340|FP|HIV|C0019693|10020161|dsyn
+5381,5398|FP|renal dysfunction|C1565489|10062237|dsyn
+5633,5642|FP|bone pain|C1963077,C0151825|10060933,10006002|fndg,sosy
+5644,5663|FP|pain in extremities|C0030196|10033425|sosy
+5665,5674|FP|fractures|C0016658|10017076|inpo
+5682,5695|FP|muscular pain|C0231528|10028411|sosy
+5867,5880|FP|urine glucose|C0017979|10018473|fndg
+6137,6150|FP|urine glucose|C0017979|10018473|fndg
+6305,6321|FP|renal impairment|C1565489|10062237|dsyn
+6386,6415|FN|increases in serum creatinine|C0700225
+6427,6469|FN|declines in estimated creatinine clearance|C1262229
+6494,6504|FP|glomerular|C0268731|10051920|dsyn
+7168,7183|FP|HIV-1 infection|C0276500|10020161|dsyn
+8117,8134;8173,8178|FP|adverse reactions drugs|C0041755|10061623|inpo
+8671,8674|FP|HIV|C0019693|10020161|dsyn
+8770,8782;8805,8808|FN|decreases in BMD|C0877225
+8770,8803|FN|decreases in bone mineral density|C0877225
+8878,8901|FN|increased bone turnover|C1262307
+9377,9401|FP|pathologic bone fracture|C0016663|10034156|patf
+9428,9440|FP|osteoporosis|C0029456|10031282|dsyn
+9444,9453|FP|bone loss|C0029453|10065687|dsyn
+9597,9615|FP|bone abnormalities|C0410719|10070918|anab
+9688,9702|FP|Mineralization|C1265877|10006974|patf
+9727,9739|TP|osteomalacia|C0029442|10031250|9727,9739|osteomalacia|C0029442|10031250|dsyn
+9756,9782|FN|proximal renal tubulopathy|C1839603
+9798,9807|TP|bone pain|C0151825|10006002|9798,9807|bone pain|C0151825,C1963077|10006002,10060933|fndg,sosy
+9811,9830|TP|pain in extremities|C0030196|10033425|9811,9830|pain in extremities|C0030196|10033425|sosy
+9859,9868|TP|fractures|C0016658|10017076|9859,9868|fractures|C0016658|10017076|inpo
+9969,9980|TP|Arthralgias|C0003862|10003239|9969,9980|Arthralgias|C0003862|10003239|sosy
+9985,9996|TP|muscle pain|C0231528|10028411|9985,9996|muscle pain|C0231528,C1963177|10028411,10060933|sosy,fndg
+10000,10008;9985,9991|FN|weakness muscle|C0151786
+10045,10071|FN|proximal renal tubulopathy|C1839603
+10073,10089|FP|Hypophosphatemia|C0085682|10021058|patf
+10094,10106|FP|osteomalacia|C0029442|10031250|dsyn
+10191,10208|FP|renal dysfunction|C1565489|10062237|dsyn
+10377,10395|FP|Fat Redistribution|C0856151|10048474|dsyn
+10401,10415;10429,10440|FN|Redistribution of body fat|C0856151
+10416,10440|FN|accumulation of body fat|C1096393
+10432,10440;10514,10532|FN|body fat peripheral wasting|C0333650
+10451,10466|TP|central obesity|C0311277|10065941|10451,10466|central obesity|C0311277|10065941|fndg
+10468,10497|FN|dorsocervical fat enlargement|C1096393
+10499,10511|FN|buffalo hump|C0520573
+10525,10532|FP|wasting|C0006625|10006895|sosy
+10534,10548|TP|facial wasting|C1112303|10056866|10534,10548|facial wasting|C1112303|10056866|dsyn
+10550,10568|TP|breast enlargement|C2225524|10006242|10550,10568|breast enlargement|C2225524|10006242|fndg
+10575,10596|FN|cushingoid appearance|C0742929
+10802,10832|FP|Immune Reconstitution Syndrome|C1619738|10065042|dsyn
+10838,10868|FN|Immune reconstitution syndrome|C1096197
+11124,11157|FN|residual opportunistic infections|C0029118
+11133,11157|FP|opportunistic infections|C0029118|10030901|dsyn
+11167,11197|FN|Mycobacterium avium  infection|C1411980
+11167,11186;11188,11197|FP|Mycobacterium avium infection|C0026916,C1411980|10058806,10061663|dsyn,dsyn
+11199,11214|FN|cytomegalovirus|C0010823
+11216,11249|FN|Pneumocystis jirovecii  pneumonia|C1535939
+11216,11238;11240,11249|FP|Pneumocystis jirovecii pneumonia|C1535939|10073755|dsyn
+11251,11254|TP|PCP|C1535939|10073755|11251,11254|PCP|C1535939|10073755|dsyn
+11260,11272|TP|tuberculosis|C0041296|10044755|11260,11272|tuberculosis|C0041296|10044755|dsyn
+11335,11355|TP|Autoimmune disorders|C0004364|10061664|11335,11355|Autoimmune disorders|C0004364|10061664|dsyn
+11365,11380|FN|Graves' disease|C0018213
+11365,11371;11373,11380|FP|Graves disease|C0018213|10004161|dsyn
+11382,11394|TP|polymyositis|C0085655|10036102|11382,11394|polymyositis|C0085655|10036102|dsyn
+11400,11423|TP|Guillain-Barre syndrome|C0018378|10018767|11400,11423|Guillain-Barre syndrome|C0018378,C3542501|10018767,10061811|dsyn,dsyn

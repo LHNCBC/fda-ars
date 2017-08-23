@@ -1,0 +1,22 @@
+00000000|AA|NSAIDs|non-steroidal anti-inflammatory drugs|1|6|9|37|1318:6
+00000000|MMI|103.75|Premature Birth|C0151526|[fndg]|["Premature"-tx-10-"PREMATURE"-adj-0,"Premature"-tx-10-"Premature"-adj-0,"Premature"-tx-1-"PREMATURE"-adj-0]|TX|[2023/9],[2208/9];2287/9;[34/9],[158/9],[275/9]|C13.703.420.491.500
+00000000|MMI|100.35|Thrombus|C0087086|[patf]|["Thrombotic"-tx-10-"THROMBOTIC"-adj-0,"Thrombotic"-tx-10-"thrombotic"-adj-0,"Thrombotic"-tx-1-"THROMBOTIC"-adj-0,"Thrombotic"-tx-1-"thrombotic"-adj-0]|TX|[2083/10],[2267/10];2382/10;[94/10],[218/10],[335/10];448/10|C14.907.355.830
+00000000|MMI|67.25|Hematoma, Epidural, Spinal|C0877172|[patf]|["Spinal epidural haematoma"-tx-12-"SPINAL/EPIDURAL HEMATOMA"-noun-0,"Spinal epidural haematoma"-tx-10-"SPINAL/EPIDURAL HEMATOMA"-noun-0,"Spinal epidural haematoma"-tx-1-"SPINAL/EPIDURAL HEMATOMA"-noun-0]|TX|2626/24;2110/15,2127/8;[117/24],[241/24]|C23.550.414.838.355
+00000000|MMI|38.92|Discontinued|C1444662|[fndg]|["Discontinued"-tx-11-"discontinued"-verb-0,"Discontinuation"-tx-10-"DISCONTINUATION"-noun-0,"Discontinuation"-tx-10-"discontinuation"-noun-0,"Discontinued"-tx-2-"discontinued"-verb-0,"Discontinuation"-tx-1-"DISCONTINUATION"-noun-0,"Discontinuation"-tx-1-"discontinuation"-noun-0]|TX|2483/12;[2033/15],[2218/15];2297/15;503/12;[44/15],[168/15],[285/15];363/15|
+00000000|MMI|29.46|Hematoma|C0018944|[patf]|["Hematomas"-tx-13-"hematomas"-noun-0,"Hematomas"-tx-4-"hematomas"-noun-0]|TX|2802/9;932/9|C23.550.414.838
+00000000|MMI|26.44|Paralysed|C0522224|[fndg]|["PARALYSIS"-tx-13-"paralysis"-noun-0,"PARALYSIS"-tx-4-"paralysis"-noun-0]|TX|2850/9;980/9|C10.597.622;C23.888.592.636
+00000000|MMI|20.09|Hemorrhage|C0019080|[patf]|["BLEEDING"-tx-11-"bleeding"-noun-0,"BLEEDING"-tx-2-"bleeding"-noun-0]|TX|2534/8;553/8|C23.550.414
+00000000|MMI|19.98|Neurologic Symptoms|C0235031|[sosy]|["Neurological symptoms NOS"-tx-14-"symptoms neurological"-noun-0,"Neurological symptoms NOS"-tx-7-"symptoms neurological"-noun-0]|TX|2913/8,2925/12;1677/8,1689/12|C10.597;C23.888.592
+00000000|MMI|19.69|Neurologic Deficits|C0521654|[fndg]|["Neurological impairment"-tx-14-"neurological impairment"-noun-0,"Neurological impairment"-tx-7-"neurological impairment"-noun-0]|TX|2925/12,2939/10;1689/23|C10.597;C23.888.592
+00000000|MMI|15.17|2+|C3833492|[fndg]|["2+"-tx-11-"2"-real_number-0,"2+"-tx-2-"2"-real_number-0]|TX|[2584/1],[2602/1];[682/1],[700/1]|
+00000000|MMI|11.58|spinal hematoma|C0856150|[inpo]|["Spinal hematoma"-tx-12-"spinal hematomas"-noun-0,"hematomas spinal"-tx-6-"spinal hematomas"-noun-0,"Spinal hematoma"-tx-3-"spinal hematomas"-noun-0]|TX|2664/16;1123/16;794/16|
+00000000|MMI|7.40|no feeling or sensation of skin|C2219802|[fndg]|["anesthesia"-tx-12-"anesthesia"-noun-0,"anesthesia"-tx-3-"anesthesia"-noun-0]|TX|2754/10;883/10|
+00000000|MMI|7.29|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-6-"history of"-noun-0,"HISTORY OF"-tx-6-"history of"-noun-1]|TX|[1373/10],[1439/10];[1373/10],[1439/10]|
+00000000|MMI|7.18|Experimental Result|C2825142|[fndg]|["Result"-tx-13-"result"-verb-0,"Result"-tx-4-"result"-verb-0]|TX|2816/6;946/6|
+00000000|MMI|7.18|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-14-"symptoms"-noun-0,"SYMPTOMS"-tx-7-"symptoms"-noun-0]|TX|2913/8;1677/8|
+00000000|MMI|6.92|Impaired health|C0684336|[patf]|["Impairment"-tx-14-"impairment"-noun-0,"Impairment"-tx-7-"impairment"-noun-0]|TX|2939/10;1702/10|
+00000000|MMI|6.90|Physical findings|C0311392|[fndg]|["SIGNS"-tx-14-"signs"-noun-0,"SIGNS"-tx-7-"signs"-noun-0]|TX|2903/5;1667/5|
+00000000|MMI|6.89|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-11-"therapy"-noun-0,"Therapy"-tx-2-"therapy"-noun-0]|TX|2573/7;592/7|
+00000000|MMI|3.68|compromise|C2945640|[fndg]|["compromise"-tx-8-"compromise"-noun-0]|TX|1731/10|
+00000000|MMI|3.59|ANTICOAGULATION (finding)|C2919015|[fndg]|["ANTICOAGULATION"-tx-2-"anticoagulation"-noun-0]|TX|470/15|
+00000000|MMI|3.46|Deformity of spine|C0575157|[anab]|["Spinal Deformity"-tx-6-"spinal deformity"-noun-0]|TX|1450/16|

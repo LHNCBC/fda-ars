@@ -1,0 +1,152 @@
+T1	AdverseReaction 208 227	Glucose intolerance
+T2	Factor 228 231	can
+T3	Severity 265 277	irreversible
+T4	AdverseReaction 499 525	hypersensitivity reactions
+T5	Severity 485 490;497 498	Grade 4
+T6	Severity 485 492	Grade 3
+T7	AdverseReaction 889 901	Pancreatitis
+T8	AdverseReaction 1521 1540	Glucose intolerance
+T9	AdverseReaction 1670 1689	glucose intolerance
+T10	Severity 1697 1709	irreversible
+T11	AdverseReaction 1912 1929	thrombotic events
+T12	Severity 1904 1911	Serious
+T13	AdverseReaction 1941 1966	sagittal sinus thrombosis
+T14	AdverseReaction 1971 1989	pulmonary embolism
+T15	AdverseReaction 2090 2110;2116 2125	coagulation proteins decreased
+T16	AdverseReaction 2116 2125;2221 2231	decreased fibrinogen
+T17	AdverseReaction 2116 2125;2233 2251	decreased protein C activity
+T18	AdverseReaction 2116 2125;2253 2271	decreased protein S activity
+T19	AdverseReaction 2116 2125;2277 2294	decreased anti-thrombin III
+T20	AdverseReaction 374 384	Thrombosis
+T21	AdverseReaction 386 396	hemorrhage
+T22	AdverseReaction 105 131	hypersensitivity reactions
+T23	Severity 97 104	Serious
+T24	AdverseReaction 143 154	anaphylaxis
+T25	AdverseReaction 170 194	hemorrhagic pancreatitis
+T26	AdverseReaction 182 194	pancreatitis
+T27	Severity 160 166	Severe
+E1	AdverseReaction:T1 Hypothetical:E2
+E2	Factor:T2
+E3	AdverseReaction:T1 Hypothetical:E2 Effect:E4
+E4	Severity:T3
+E5	AdverseReaction:T4 Effect:E6 Effect2:E7
+E6	Severity:T5
+E7	Severity:T6
+E8	AdverseReaction:T7
+E9	AdverseReaction:T8
+E10	AdverseReaction:T9 Effect:E11
+E11	Severity:T10
+E12	AdverseReaction:T9
+E13	AdverseReaction:T11 Effect:E14
+E14	Severity:T12
+E15	AdverseReaction:T13
+E16	AdverseReaction:T14
+E17	AdverseReaction:T15
+E18	AdverseReaction:T16
+E19	AdverseReaction:T17
+E20	AdverseReaction:T18
+E21	AdverseReaction:T19
+E22	AdverseReaction:T20
+E23	AdverseReaction:T21
+E24	AdverseReaction:T22 Effect:E25
+E25	Severity:T23
+E26	AdverseReaction:T24
+E27	AdverseReaction:T25
+E28	AdverseReaction:T26 Effect:E29
+E29	Severity:T27
+A1	CUI E1 C0271650
+A2	UMLS-Preferred-Name E1 Impaired glucose tolerance
+A3	MEDDRA-PT E1 Glucose tolerance impaired
+A4	MEDDRA-PT-ID E1 10018429
+A5	LLT E1 Glucose intolerance
+A6	LLT-ID E1 10052426
+A7	CUI E5 C0020517
+A8	UMLS-Preferred-Name E5 Hypersensitivity
+A9	MEDDRA-PT E5 Hypersensitivity
+A10	MEDDRA-PT-ID E5 10020751
+A11	LLT E5 Hypersensitivity reaction
+A12	LLT-ID E5 10020756
+A13	CUI E8 C0030305
+A14	UMLS-Preferred-Name E8 Pancreatitis
+A15	MEDDRA-PT E8 Pancreatitis
+A16	MEDDRA-PT-ID E8 10033645
+A17	CUI E9 C0271650
+A18	UMLS-Preferred-Name E9 Impaired glucose tolerance
+A19	MEDDRA-PT E9 Glucose tolerance impaired
+A20	MEDDRA-PT-ID E9 10018429
+A21	LLT E9 Glucose intolerance
+A22	LLT-ID E9 10052426
+A23	CUI E10 C0271650
+A24	UMLS-Preferred-Name E10 Impaired glucose tolerance
+A25	MEDDRA-PT E10 Glucose tolerance impaired
+A26	MEDDRA-PT-ID E10 10018429
+A27	LLT E10 Glucose intolerance
+A28	LLT-ID E10 10052426
+A29	CUI E13 C0040053
+A30	UMLS-Preferred-Name E13 Thrombosis
+A31	MEDDRA-PT E13 Thrombosis
+A32	MEDDRA-PT-ID E13 10043607
+A33	CUI E15 C0338575
+A34	UMLS-Preferred-Name E15 Sagittal Sinus Thrombosis
+A35	MEDDRA-PT E15 Superior sagittal sinus thrombosis
+A36	MEDDRA-PT-ID E15 10042567
+A37	LLT E15 Sagittal sinus thrombosis
+A38	LLT-ID E15 10039369
+A39	CUI E16 C0034065
+A40	UMLS-Preferred-Name E16 Pulmonary Embolism
+A41	MEDDRA-PT E16 Pulmonary embolism
+A42	MEDDRA-PT-ID E16 10037377
+A43	CUI E17 C0272315
+A44	UMLS-Preferred-Name E17 Coagulation factor deficiency syndrome
+A45	MEDDRA-PT E17 Coagulation factor decreased
+A46	MEDDRA-PT-ID E17 10009736
+A47	CUI E18 C1295715
+A48	UMLS-Preferred-Name E18 Decreased fibrinogen
+A49	MEDDRA-PT E18 Blood fibrinogen decreased
+A50	MEDDRA-PT-ID E18 10005520
+A51	LLT E18 Fibrinogen decreased
+A52	LLT-ID E18 10016596
+A53	CUI E19 C0852955
+A54	UMLS-Preferred-Name E19 Protein C decreased
+A55	MEDDRA-PT E19 Protein C decreased
+A56	MEDDRA-PT-ID E19 10037005
+A57	CUI E20 C0919888
+A58	UMLS-Preferred-Name E20 Protein S decreased
+A59	MEDDRA-PT E20 Protein S decreased
+A60	MEDDRA-PT-ID E20 10051120
+A61	CUI E21 C0238665
+A62	UMLS-Preferred-Name E21 Antithrombin III decreased
+A63	MEDDRA-PT E21 Antithrombin III decreased
+A64	MEDDRA-PT-ID E21 10049547
+A65	CUI E22 C0040053
+A66	UMLS-Preferred-Name E22 Thrombosis
+A67	MEDDRA-PT E22 Thrombosis
+A68	MEDDRA-PT-ID E22 10043607
+A69	CUI E23 C0019080
+A70	UMLS-Preferred-Name E23 Hemorrhage
+A71	MEDDRA-PT E23 Haemorrhage
+A72	MEDDRA-PT-ID E23 10055798
+A73	LLT E23 Hemorrhage
+A74	LLT-ID E23 10019524
+A75	CUI E24 C0020517
+A76	UMLS-Preferred-Name E24 Hypersensitivity
+A77	MEDDRA-PT E24 Hypersensitivity
+A78	MEDDRA-PT-ID E24 10020751
+A79	LLT E24 Hypersensitivity reaction
+A80	LLT-ID E24 10020756
+A81	CUI E26 C0002792
+A82	UMLS-Preferred-Name E26 anaphylaxis
+A83	MEDDRA-PT E26 Anaphylactic reaction
+A84	MEDDRA-PT-ID E26 10002198
+A85	LLT E26 Anaphylaxis
+A86	LLT-ID E26 10002218
+A87	CUI E27 C0267940
+A88	UMLS-Preferred-Name E27 Acute hemorrhagic pancreatitis
+A89	MEDDRA-PT E27 Pancreatitis haemorrhagic
+A90	MEDDRA-PT-ID E27 10033650
+A91	LLT E27 Hemorrhagic pancreatitis
+A92	LLT-ID E27 10019607
+A93	CUI E28 C0030305
+A94	UMLS-Preferred-Name E28 Pancreatitis
+A95	MEDDRA-PT E28 Pancreatitis
+A96	MEDDRA-PT-ID E28 10033645

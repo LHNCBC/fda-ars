@@ -1,0 +1,64 @@
+00000000|AA|CRPS|complex regional pain syndrome|1|4|7|30|2244:4
+00000000|MMI|142.45|Peyronie Disease|C0030848|[dsyn]|["PEYRONIE DISEASE"-tx-35-"Peyronie's disease"-noun-0,"PEYRONIE DISEASE"-tx-28-"Peyronie's disease"-noun-0,"PEYRONIE DISEASE"-tx-23-"Peyronie's disease"-noun-0,"PEYRONIE DISEASE"-tx-22-"Peyronie's disease"-noun-0,"Peyronie"-tx-22-"Peyronie's"-noun-0,"Peyronie"-tx-21-"Peyronie's"-noun-0,"PEYRONIE DISEASE"-tx-18-"Peyronie's disease"-noun-0,"PEYRONIE DISEASE"-tx-15-"Peyronie's Disease"-noun-0,"PEYRONIE DISEASE"-tx-15-"Peyronie's disease"-noun-0]|TX|6864/18;5655/18;4891/18;4551/18;4551/10;4229/10;3709/18;2968/18;3169/18|C12.294.494.508;C17.300.715
+00000000|MMI|106.21|Rupture|C3203359|[inpo]|["Rupture"-tx-22-"rupture"-noun-0,"Rupture"-tx-20-"rupture"-noun-0,"Rupture"-tx-19-"rupture"-noun-0,"Rupture"-tx-16-"rupture"-noun-0,"Rupture"-tx-15-"Rupture"-noun-0,"Rupture"-tx-15-"rupture"-noun-0,"Rupture"-tx-11-"rupture"-noun-0,"tear"-tx-11-"tear"-noun-0,"Ruptures"-tx-7-"ruptures"-noun-0,"Rupture"-tx-4-"rupture"-noun-0,"Rupture"-tx-3-"rupture"-noun-0]|TX|4474/7;4150/7;3892/7;3425/7;2885/7;3001/7;2186/7;2305/4;1336/8;669/7;387/7|C26.761
+00000000|MMI|101.55|Dupuytren Contracture|C0013312|[dsyn]|["Contracture, Dupuytren"-tx-34-"Dupuytren's contracture"-noun-0,"Contracture, Dupuytren"-tx-32-"Dupuytren's contracture"-noun-0,"Contracture, Dupuytren"-tx-31-"Dupuytren's contracture"-noun-0,"Contracture, Dupuytren"-tx-27-"Dupuytren's contracture"-noun-0,"Contracture, Dupuytren"-tx-26-"Dupuytren's contracture"-noun-0,"Contracture, Dupuytren"-tx-7-"Dupuytren's Contracture"-noun-0,"Contracture, Dupuytren"-tx-7-"Dupuytren's contracture"-noun-0]|TX|6650/23;6309/23;6265/23;5550/23;5243/23;1202/23;1297/23|C05.651.197.270;C17.300.270
+00000000|MMI|54.85|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-31-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-26-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-5-"anaphylaxis"-noun-0]|TX|6122/11;5173/11;[749/11],[851/11]|C20.543.480.099
+00000000|MMI|40.31|Blood Coagulation Disorders|C0005779|[dsyn]|["Coagulation Disorders"-tx-38-"coagulation disorders"-noun-0,"Abnormal;coagulation"-tx-36-"abnormal coagulation"-noun-0,"Abnormal;coagulation"-tx-34-"Abnormal Coagulation"-noun-0,"Abnormal;coagulation"-tx-6-"abnormal coagulation"-noun-0]|TX|7464/21;7030/20;6599/20;923/20|C15.378.100
+00000000|MMI|39.58|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-29-"pruritus"-noun-0,"PRURITUS"-tx-27-"pruritus"-noun-0,"PRURITUS"-tx-26-"pruritus"-noun-0]|TX|5929/8;5484/8;5412/8|C17.800.685;C23.888.885.625
+00000000|MMI|30.20|Finger Injuries|C0016124|[inpo]|["Injury to finger NOS"-tx-14-"injury to finger"-noun-0,"Injury to finger NOS"-tx-7-"Injury to Finger"-noun-0,"Injury to finger NOS"-tx-1-"injury to finger"-noun-0]|TX|2752/9,2775/6;1147/9,1170/6;78/9,101/6|C26.448.429
+00000000|MMI|28.92|Hypersensitivity|C0020517|[patf]|["Allergic reactions"-tx-26-"allergic reactions"-noun-0,"Hypersensitivity reactions"-tx-26-"Hypersensitivity Reactions"-noun-0,"Hypersensitivity reactions"-tx-5-"Hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-5-"hypersensitivity reactions"-noun-0]|TX|5392/18;5135/26;711/26;813/26|C20.543
+00000000|MMI|27.22|Rupture of corpus cavernosum of penis|C0434159|[inpo]|["Penile fracture"-tx-22-"penile fracture"-noun-0,"Penile fracture"-tx-20-"penile fracture"-noun-0,"Penile fracture"-tx-15-"Penile Fracture"-noun-0,"Penile fracture"-tx-4-"penile fracture"-noun-0,"Penile fracture"-tx-3-"penile fracture"-noun-0]|TX|4483/15;4159/15;2894/15;678/15;396/15|
+00000000|MMI|22.34|Unmarried|C0087136|[fndg]|["single"-tx-12-"single"-adj-0]|TX|2524/6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+00000000|MMI|21.36|2+|C3833492|[fndg]|["2+"-tx-35-"2"-integer-0,"2+"-tx-34-"2"-integer-0,"2+"-tx-28-"2"-integer-0,"2+"-tx-26-"2"-integer-0]|TX|6898/1;6689/1;5689/1;5282/1|
+00000000|MMI|20.58|Hand Injuries|C0018571|[inpo]|["Injury to hand NOS"-tx-14-"injury to hand"-noun-0,"Injury to hand NOS"-tx-7-"Injury to Hand"-noun-0,"Injury to hand NOS"-tx-1-"injury to hand"-noun-0]|TX|2752/9,2782/4;1147/9,1177/4;78/9,108/4|C26.448
+00000000|MMI|19.58|Adverse reactions|C0559546|[patf]|["ADVERSE REACTION"-tx-18-"adverse reaction"-noun-0,"Adverse reactions"-tx-18-"Adverse Reactions"-noun-0,"ADVERSE REACTION"-tx-15-"adverse reaction"-noun-0,"Adverse reactions"-tx-11-"adverse reactions"-noun-0,"Adverse reactions"-tx-7-"Adverse Reactions"-noun-0]|TX|3608/16;3734/17;3028/16;2152/17;1385/17|
+00000000|MMI|15.84|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-31-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-26-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-5-"anaphylaxis"-noun-0]|TX|6122/11;5173/11;[749/11],[851/11]|
+00000000|MMI|15.43|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-18-"controlled"-adj-0,"Controlled"-tx-15-"controlled"-adj-0,"Controlled"-tx-12-"controlled"-verb-0,"Controlled"-tx-7-"controlled"-adj-0]|TX|3662/10;3122/10;2330/10;1238/10|
+00000000|MMI|15.22|Rupture of tendon|C0151937|[inpo]|["TENDON RUPTURE"-tx-8-"tendon rupture"-noun-0,"TENDON RUPTURE"-tx-7-"Tendon Rupture"-noun-0,"TENDON RUPTURE"-tx-2-"tendon rupture"-noun-0,"TENDON RUPTURE"-tx-1-"Tendon rupture"-noun-0]|TX|1592/14;1115/14;308/14;52/14|
+00000000|MMI|14.98|Skin laceration|C0558401|[inpo]|["Laceration of skin"-tx-13-"of skin laceration"-noun-0,"Laceration of skin"-tx-12-"of skin laceration"-noun-0,"SKIN LACERATION"-tx-11-"skin laceration"-noun-0,"SKIN LACERATION"-tx-2-"skin laceration"-noun-0]|TX|2600/18;2377/18;2288/15;346/15|
+00000000|MMI|14.96|Tissue damage|C0010957|[inpo]|["Damage"-tx-20-"damage"-noun-0,"Damage"-tx-8-"damage"-noun-0,"Damage"-tx-2-"damage"-noun-0]|TX|4086/6;[1527/6],[1619/6];335/6|
+00000000|MMI|14.79|Possible injury|C3258050|[fndg]|["Possible injury"-tx-20-"possible injury"-noun-0,"Possible injury"-tx-8-"possible injury"-noun-0,"Possible injury"-tx-4-"possible injury"-noun-0,"Possible injury"-tx-2-"possible injury"-noun-0]|TX|4117/15;1558/8,1577/6;626/8,645/6;273/8,292/6|
+00000000|MMI|14.77|Serious Injury|C1710055|[inpo]|["SERIOUS INJURY"-tx-22-"serious injury"-noun-0,"SERIOUS INJURY"-tx-19-"serious injury"-noun-0,"SERIOUS INJURY"-tx-15-"Serious Injury"-noun-0,"SERIOUS INJURY"-tx-3-"serious injury"-noun-0]|TX|4509/7,4524/6;3803/14;2920/14;422/14|
+00000000|MMI|14.73|Experimental Result|C2825142|[fndg]|["Result"-tx-20-"result"-verb-0,"Result"-tx-8-"result"-verb-0,"Result"-tx-4-"result"-verb-0,"Result"-tx-2-"result"-verb-0]|TX|4076/6;1517/6;616/6;263/6|
+00000000|MMI|14.64|Complex Regional Pain Syndromes|C0458219|[dsyn]|["Complex Regional Pain Syndrome"-tx-11-"complex regional pain syndrome"-noun-0]|TX|2212/30|C10.177.195;C10.668.829.250
+00000000|MMI|14.64|Hematoma|C0018944|[patf]|["HEMATOMA"-tx-16-"hematoma"-noun-0]|TX|3284/8|C23.550.414.838
+00000000|MMI|13.02|Dental Plaque|C0011389|[dsyn]|["Plaque"-tx-21-"plaque"-noun-0]|TX|4240/6|C07.793.208.377
+00000000|MMI|12.96|Ecchymosis|C0013491|[patf]|["ECCHYMOSIS"-tx-34-"ecchymosis"-noun-0]|TX|6746/10|C15.378.100.452;C23.550.414.625;C23.888.885.312
+00000000|MMI|11.81|Surgical intervention (finding)|C0549433|[fndg]|["SURGICAL INTERVENTION"-tx-19-"surgical intervention"-noun-0,"SURGICAL INTERVENTION"-tx-17-"surgical intervention"-noun-1,"SURGICAL INTERVENTION"-tx-14-"surgical intervention"-noun-0]|TX|3945/21;3490/21;2824/21|
+00000000|MMI|11.73|1+|C3816745|[fndg]|["1+"-tx-28-"1"-percentage-0,"1+"-tx-26-"1"-percentage-0,"1+"-tx-25-"1"-integer-0]|TX|5785/1;5379/1;5108/1|
+00000000|MMI|11.70|Penile haematoma|C2938972|[dsyn]|["Penile hematoma"-tx-35-"penile hematoma"-noun-0,"Penile hematoma"-tx-19-"penile hematoma"-noun-0,"Penile hematoma"-tx-18-"penile hematoma"-noun-0]|TX|6946/15;3910/15;3568/15|
+00000000|MMI|10.96|Permanent injury|C4049482|[inpo]|["Permanent injury"-tx-8-"permanent injury"-noun-0,"Permanent injury"-tx-4-"permanent injury"-noun-0,"Permanent injury"-tx-2-"permanent injury"-noun-0]|TX|1567/16;635/16;282/16|
+00000000|MMI|10.93|Injury of penis|C0347656|[inpo]|["injury penis"-tx-19-"injury penis"-noun-0,"injury penis"-tx-15-"Injury Penis"-noun-0,"injury penis"-tx-3-"injury penis"-noun-0]|TX|3811/6,3825/5;2928/6,2942/5;430/6,444/5|
+00000000|MMI|10.42|In care (finding)|C0580931|[fndg]|["care"-tx-21-"care"-noun-0,"care"-tx-9-"care"-noun-0]|TX|4251/4;1733/4|
+00000000|MMI|10.42|Physical findings|C0311392|[fndg]|["SIGNS"-tx-19-"Signs"-noun-0,"SIGNS"-tx-14-"Signs"-noun-0]|TX|3768/5;2709/5|
+00000000|MMI|10.42|Prepared|C4082130|[fndg]|["Prepared"-tx-33-"prepared"-verb-0,"Prepared"-tx-5-"prepared"-verb-0]|TX|6476/8;793/8|
+00000000|MMI|10.42|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-19-"symptoms"-noun-0,"SYMPTOMS"-tx-14-"symptoms"-noun-0]|TX|3777/8;2718/8|
+00000000|MMI|9.99|Contusions|C0009938|[inpo]|["CONTUSION"-tx-34-"contusion"-noun-0]|TX|6757/9|C26.974.250
+00000000|MMI|9.87|Senile Plaques|C0333463|[acab]|["plaque"-tx-21-"plaque"-noun-0]|TX|4240/6|C23.300.821
+00000000|MMI|9.74|Hemorrhage|C0019080|[patf]|["BLEEDING"-tx-34-"bleeding"-noun-0]|TX|6573/8|C23.550.414
+00000000|MMI|9.74|Penile Diseases|C0030846|[dsyn]|["Penile Disease"-tx-22-"penile disease"-noun-0]|TX|4517/6,4562/7|C12.294.494
+00000000|MMI|8.34|Laceration|C0043246|[inpo]|["Tear"-tx-11-"tear"-noun-0]|TX|2305/4|C26.540
+00000000|MMI|7.70|severe allergy|C2945656|[fndg]|["severe Allergic reactions"-tx-33-"severe allergic reactions"-noun-0,"severe Allergic reactions"-tx-30-"severe allergic reactions"-noun-0]|TX|6496/25;6074/25|
+00000000|MMI|7.11|Penile ecchymosis|C2938973|[patf]|["Penile ecchymosis"-tx-35-"penile ecchymosis"-noun-0,"Penile ecchymosis"-tx-16-"penile ecchymoses"-noun-0]|TX|6983/17;3263/17|
+00000000|MMI|6.99|laceration of skin (physical finding)|C2110946|[fndg]|["laceration of skin"-tx-13-"of skin laceration"-noun-0,"laceration of skin"-tx-12-"of skin laceration"-noun-0]|TX|2600/18;2377/18|
+00000000|MMI|6.97|Hand deformities|C0018564|[anab]|["Abnormality of the hand"-tx-11-"abnormality of the hand"-noun-0]|TX|2259/23|C05.390
+00000000|MMI|6.91|Allergic Reaction|C1527304|[patf]|["Reactions, Allergic"-tx-26-"allergic reactions"-noun-0]|TX|5392/18|C20.543
+00000000|MMI|5.18|4+ Answer to question|C3838679|[fndg]|["4+"-tx-28-"4"-percentage-0]|TX|5743/1|
+00000000|MMI|5.18|70%|C3842584|[fndg]|["70%"-tx-34-"70"-percentage-0]|TX|6693/2|
+00000000|MMI|5.18|Hematoma Adverse Event|C1962958|[fndg]|["Hematoma"-tx-16-"hematoma"-noun-0]|TX|3284/8|
+00000000|MMI|5.18|Injection site hemorrhage|C0151698|[patf]|["Injection site haemorrhage"-tx-34-"injection site hemorrhage"-noun-0]|TX|6773/25|
+00000000|MMI|5.18|Ligament injury|C0435001|[inpo]|["Ligament Injury"-tx-11-"ligament injury"-noun-0]|TX|2195/15|
+00000000|MMI|5.18|Localized itching|C1142396|[sosy]|["Localized Pruritus"-tx-28-"localized pruritus"-noun-0]|TX|5793/18|
+00000000|MMI|5.18|Observation of Sensation|C0542538|[fndg]|["Sensation"-tx-16-"sensation"-noun-0]|TX|3357/9|
+00000000|MMI|3.75|Contracture of joint|C0009918|[anab]|["JOINT CONTRACTURE"-tx-9-"joint contracture"-noun-0]|TX|1710/17|
+00000000|MMI|3.68|0%|C3842591|[fndg]|["0%"-tx-16-"0"-percentage-0]|TX|3239/1|
+00000000|MMI|3.68|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-18-"3"-percentage-0]|TX|3649/1|
+00000000|MMI|3.61|3 mm|C3842088|[fndg]|["3 mm"-tx-10-"3 mm"-noun-1]|TX|1978/4|
+00000000|MMI|3.58|Wound dehiscence|C0259768|[acab]|["Injury rupture"-tx-20-"injury rupture"-noun-0]|TX|4126/6,4150/7|
+00000000|MMI|3.56|Cutaneous plaque|C0241148|[fndg]|["Plaque"-tx-21-"plaque"-noun-0]|TX|4240/6|
+00000000|MMI|3.56|Diagnosis|C0011900|[fndg]|["DIAGNOSIS"-tx-16-"diagnosis"-noun-0]|TX|3403/9|E01
+00000000|MMI|3.56|Plaque (lesion)|C0332461|[fndg]|["Plaque"-tx-21-"plaque"-noun-0]|TX|4240/6|
+00000000|MMI|3.56|combination - answer to question|C3811910|[fndg]|["Combination"-tx-16-"combination"-noun-0]|TX|3248/11|
+00000000|MMI|3.55|65+|C3843765|[fndg]|["65+"-tx-35-"65"-percentage-0]|TX|6902/2|
+00000000|MMI|3.45|Finding of palmar crease|C0424730|[fndg]|["palmar crease"-tx-10-"palmar crease"-noun-0]|TX|2041/6,2056/6|
+00000000|MMI|3.44|Treatment/administration|C3845881|[fndg]|["Treatment/administration"-tx-23-"administration treatment"-noun-0]|TX|4851/14,4877/9|

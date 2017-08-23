@@ -1,0 +1,405 @@
+T1	AdverseReaction 55 76	Peripheral neuropathy
+T2	AdverseReaction 172 183	Anaphylaxis
+T3	AdverseReaction 342 364	Hematologic toxicities
+T4	AdverseReaction 623 633	infections
+T5	Severity 615 622	Serious
+T6	AdverseReaction 638 662	opportunistic infections
+T7	AdverseReaction 765 785	Tumor lysis syndrome
+T8	AdverseReaction 883 897	Hepatotoxicity
+T9	AdverseReaction 952 970	Pulmonary Toxicity
+T10	AdverseReaction 1045 1067	dermatologic reactions
+T11	Severity 1037 1044	Serious
+T13	AdverseReaction 1352 1373;1396 1403	peripheral neuropathy sensory
+T14	AdverseReaction 1414 1441	peripheral motor neuropathy
+T15	AdverseReaction 1484 1505	peripheral neuropathy
+T16	AdverseReaction 1618 1628	neuropathy
+T17	AdverseReaction 1764 1774	neuropathy
+T18	AdverseReaction 1784 1803	residual neuropathy
+T19	AdverseReaction 2269 2295	Infusion-related reactions
+T20	AdverseReaction 2307 2318	anaphylaxis
+T21	AdverseReaction 2900 2911	neutropenia
+T22	Severity 2893 2899	severe
+T23	AdverseReaction 2935 2951	thrombocytopenia
+T24	AdverseReaction 2955 2961	anemia
+T25	Severity 2927 2934	Grade 4
+T26	Severity 2916 2923	Grade 3
+T27	Factor 2962 2965	can
+T28	AdverseReaction 2987 3006	Febrile neutropenia
+T29	AdverseReaction 3521 3531	infections
+T30	Severity 3513 3520	Serious
+T31	AdverseReaction 3536 3560	opportunistic infections
+T32	AdverseReaction 3569 3578	pneumonia
+T33	AdverseReaction 3580 3590	bacteremia
+T34	AdverseReaction 3596 3602	sepsis
+T35	AdverseReaction 3606 3618	septic shock
+T36	AdverseReaction 3630 3635	fatal
+T37	AdverseReaction 3953 3973	tumor lysis syndrome
+T38	Factor 3925 3928	may
+T39	AdverseReaction 4153 4159	deaths
+T40	AdverseReaction 4745 4751	deaths
+T41	AdverseReaction 5096 5110	hepatotoxicity
+T42	Severity 5079 5086	Serious
+T43	AdverseReaction 5122 5127	fatal
+T44	AdverseReaction 5211 5232	hepatocellular injury
+T45	AdverseReaction 5244 5271	elevations of transaminases
+T46	AdverseReaction 5244 5257;5279 5288	elevations of bilirubin
+T47	AdverseReaction 5725 5743	JC virus infection
+T48	AdverseReaction 5757 5760	PML
+T49	AdverseReaction 5765 5770	death
+T50	AdverseReaction 6421 6453	noninfectious pulmonary toxicity
+T51	AdverseReaction 6464 6475	pneumonitis
+T52	AdverseReaction 6477 6502	interstitial lung disease
+T53	AdverseReaction 6508 6543	acute respiratory distress syndrome
+T54	AdverseReaction 6545 6549	ARDS
+T55	AdverseReaction 6562 6567	fatal
+T56	AdverseReaction 6871 6895	Stevens-Johnson syndrome
+T57	AdverseReaction 6897 6900	SJS
+T58	AdverseReaction 6906 6932	toxic epidermal necrolysis
+T59	AdverseReaction 6934 6937	TEN
+T60	AdverseReaction 6950 6955	fatal
+T61	AdverseReaction 7295 7305	fetal harm
+T62	Factor 7285 7288	can
+T63	AdverseReaction 7372 7395	embryo-fetal toxicities
+T64	AdverseReaction 7421 7447	decreased embryo viability
+T65	AdverseReaction 7452 7471	fetal malformations
+T66	Animal 7476 7483	animals
+T67	Severity 7407 7420	significantly
+T68	AdverseReaction 188 206	infusion reactions
+T12	AdverseReaction 1188 1198	Fetal harm
+T69	Factor 1199 1202	can
+T70	AdverseReaction 1352 1373	peripheral neuropathy
+T71	AdverseReaction 1164 1185	Embryo-fetal toxicity
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4 Effect:E5
+E5	Severity:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10 Effect:E11
+E11	Severity:T11
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21 Effect:E22 Hypothetical:E27
+E22	Severity:T22
+E23	AdverseReaction:T23 Effect:E26 Effect2:E25 Hypothetical:E27
+E24	AdverseReaction:T24 Hypothetical:E27 Effect:E25 Effect2:E26
+E25	Severity:T25
+E26	Severity:T26
+E27	Factor:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29 Effect:E30
+E30	Severity:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37 Hypothetical:E38
+E38	Factor:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41 Effect:E42
+E42	Severity:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61 Hypothetical:E62
+E62	Factor:T62
+E63	AdverseReaction:T63 Hypothetical:E66
+E64	AdverseReaction:T64 Hypothetical:E66 Effect:E67
+E65	AdverseReaction:T65 Hypothetical:E66
+E66	Animal:T66
+E67	Severity:T67
+E68	AdverseReaction:T68
+E12	AdverseReaction:T12 Hypothetical:E69
+E69	Factor:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+A1	CUI E1 C0031117
+A2	UMLS-Preferred-Name E1 Peripheral Neuropathy
+A3	MEDDRA-PT E1 Neuropathy peripheral
+A4	MEDDRA-PT-ID E1 10029331
+A5	CUI E2 C0002792
+A6	UMLS-Preferred-Name E2 anaphylaxis
+A7	MEDDRA-PT E2 Anaphylactic reaction
+A8	MEDDRA-PT-ID E2 10002198
+A9	LLT E2 Anaphylaxis
+A10	LLT-ID E2 10002218
+A11	CUI E3 C0920103
+A12	UMLS-Preferred-Name E3 Haematotoxicity
+A13	MEDDRA-PT E3 Haematotoxicity
+A14	MEDDRA-PT-ID E3 10061188
+A15	LLT E3 Hematotoxicity
+A16	LLT-ID E3 10061196
+A17	CUI E4 C3714514
+A18	UMLS-Preferred-Name E4 Infection
+A19	MEDDRA-PT E4 Infection
+A20	MEDDRA-PT-ID E4 10021789
+A21	CUI E6 C0029118
+A22	UMLS-Preferred-Name E6 Opportunistic Infections
+A23	MEDDRA-PT E6 Opportunistic infection
+A24	MEDDRA-PT-ID E6 10030901
+A25	CUI E7 C0041364
+A26	UMLS-Preferred-Name E7 Tumor Lysis Syndrome
+A27	MEDDRA-PT E7 Tumour lysis syndrome
+A28	MEDDRA-PT-ID E7 10045170
+A29	LLT E7 Tumor lysis syndrome
+A30	LLT-ID E7 10045152
+A31	CUI E8 C0235378
+A32	UMLS-Preferred-Name E8 Hepatotoxicity
+A33	MEDDRA-PT E8 Hepatotoxicity
+A34	MEDDRA-PT-ID E8 10019851
+A35	CUI E9 C0919924
+A36	UMLS-Preferred-Name E9 Pulmonary toxicity
+A37	MEDDRA-PT E9 Pulmonary toxicity
+A38	MEDDRA-PT-ID E9 10061924
+A39	CUI E10 C0221743
+A40	UMLS-Preferred-Name E10 Skin reaction
+A41	MEDDRA-PT E10 Skin reaction
+A42	MEDDRA-PT-ID E10 10040914
+A43	CUI E13 C0151313
+A44	UMLS-Preferred-Name E13 Sensory neuropathy
+A45	MEDDRA-PT E13 Peripheral sensory neuropathy
+A46	MEDDRA-PT-ID E13 10034620
+A47	CUI E14 C0235025
+A48	UMLS-Preferred-Name E14 Peripheral motor neuropathy
+A49	MEDDRA-PT E14 Peripheral motor neuropathy
+A50	MEDDRA-PT-ID E14 10034580
+A51	CUI E15 C0031117
+A52	UMLS-Preferred-Name E15 Peripheral Neuropathy
+A53	MEDDRA-PT E15 Neuropathy peripheral
+A54	MEDDRA-PT-ID E15 10029331
+A55	CUI E16 C0442874
+A56	UMLS-Preferred-Name E16 Neuropathy
+A57	MEDDRA-PT E16 Neuropathy peripheral
+A58	MEDDRA-PT-ID E16 10029331
+A59	LLT E16 Neuropathy
+A60	LLT-ID E16 10029328
+A61	CUI E17 C0442874
+A62	UMLS-Preferred-Name E17 Neuropathy
+A63	MEDDRA-PT E17 Neuropathy peripheral
+A64	MEDDRA-PT-ID E17 10029331
+A65	LLT E17 Neuropathy
+A66	LLT-ID E17 10029328
+A67	CUI E18 C0442874
+A68	UMLS-Preferred-Name E18 Neuropathy
+A69	MEDDRA-PT E18 Neuropathy peripheral
+A70	MEDDRA-PT-ID E18 10029331
+A71	LLT E18 Neuropathy
+A72	LLT-ID E18 10029328
+A73	CUI E19 C0948715
+A74	UMLS-Preferred-Name E19 Infusion related reaction
+A75	MEDDRA-PT E19 Infusion related reaction
+A76	MEDDRA-PT-ID E19 10051792
+A77	CUI E20 C0002792
+A78	UMLS-Preferred-Name E20 anaphylaxis
+A79	MEDDRA-PT E20 Anaphylactic reaction
+A80	MEDDRA-PT-ID E20 10002198
+A81	LLT E20 Anaphylaxis
+A82	LLT-ID E20 10002218
+A83	CUI E21 C0027947
+A84	UMLS-Preferred-Name E21 Neutropenia
+A85	MEDDRA-PT E21 Neutropenia
+A86	MEDDRA-PT-ID E21 10029354
+A87	CUI E23 C0040034
+A88	UMLS-Preferred-Name E23 Thrombocytopenia
+A89	MEDDRA-PT E23 Thrombocytopenia
+A90	MEDDRA-PT-ID E23 10043554
+A91	CUI E24 C0002871
+A92	UMLS-Preferred-Name E24 Anemia
+A93	MEDDRA-PT E24 Anaemia
+A94	MEDDRA-PT-ID E24 10002034
+A95	LLT E24 Anemia
+A96	LLT-ID E24 10002272
+A97	CUI E28 C0746883
+A98	UMLS-Preferred-Name E28 Febrile Neutropenia
+A99	MEDDRA-PT E28 Febrile neutropenia
+A100	MEDDRA-PT-ID E28 10016288
+A101	CUI E29 C3714514
+A102	UMLS-Preferred-Name E29 Infection
+A103	MEDDRA-PT E29 Infection
+A104	MEDDRA-PT-ID E29 10021789
+A105	CUI E31 C0029118
+A106	UMLS-Preferred-Name E31 Opportunistic Infections
+A107	MEDDRA-PT E31 Opportunistic infection
+A108	MEDDRA-PT-ID E31 10030901
+A109	CUI E32 C0032285
+A110	UMLS-Preferred-Name E32 Pneumonia
+A111	MEDDRA-PT E32 Pneumonia
+A112	MEDDRA-PT-ID E32 10035664
+A113	CUI E33 C0004610
+A114	UMLS-Preferred-Name E33 Bacteremia
+A115	MEDDRA-PT E33 Bacteraemia
+A116	MEDDRA-PT-ID E33 10003997
+A117	LLT E33 Bacteremia
+A118	LLT-ID E33 10003999
+A119	CUI E34 C0243026
+A120	UMLS-Preferred-Name E34 Sepsis
+A121	MEDDRA-PT E34 Sepsis
+A122	MEDDRA-PT-ID E34 10040047
+A123	CUI E35 C0036983
+A124	UMLS-Preferred-Name E35 Septic Shock
+A125	MEDDRA-PT E35 Septic shock
+A126	MEDDRA-PT-ID E35 10040070
+A127	CUI E36 C1306577
+A128	UMLS-Preferred-Name E36 Death (finding)
+A129	MEDDRA-PT E36 Death
+A130	MEDDRA-PT-ID E36 10011906
+A131	CUI E37 C0041364
+A132	UMLS-Preferred-Name E37 Tumor Lysis Syndrome
+A133	MEDDRA-PT E37 Tumour lysis syndrome
+A134	MEDDRA-PT-ID E37 10045170
+A135	LLT E37 Tumor lysis syndrome
+A136	LLT-ID E37 10045152
+A137	CUI E39 C1306577
+A138	UMLS-Preferred-Name E39 Death (finding)
+A139	MEDDRA-PT E39 Death
+A140	MEDDRA-PT-ID E39 10011906
+A141	CUI E40 C1306577
+A142	UMLS-Preferred-Name E40 Death (finding)
+A143	MEDDRA-PT E40 Death
+A144	MEDDRA-PT-ID E40 10011906
+A145	CUI E41 C0235378
+A146	UMLS-Preferred-Name E41 Hepatotoxicity
+A147	MEDDRA-PT E41 Hepatotoxicity
+A148	MEDDRA-PT-ID E41 10019851
+A149	CUI E43 C1306577
+A150	UMLS-Preferred-Name E43 Death (finding)
+A151	MEDDRA-PT E43 Death
+A152	MEDDRA-PT-ID E43 10011906
+A153	CUI E44 C0151763
+A154	UMLS-Preferred-Name E44 Liver damage
+A155	MEDDRA-PT E44 Hepatocellular injury
+A156	MEDDRA-PT-ID E44 10019837
+A157	CUI E45 C0438717
+A158	UMLS-Preferred-Name E45 Transaminases increased
+A159	MEDDRA-PT E45 Transaminases increased
+A160	MEDDRA-PT-ID E45 10054889
+A161	CUI E46 C0311468
+A162	UMLS-Preferred-Name E46 Increased bilirubin level (finding)
+A163	MEDDRA-PT E46 Blood bilirubin increased
+A164	MEDDRA-PT-ID E46 10005364
+A165	LLT E46 Bilirubin elevated
+A166	LLT-ID E46 10004688
+A167	CUI E47 C0857836
+A168	UMLS-Preferred-Name E47 JC virus infection
+A169	MEDDRA-PT E47 JC virus infection
+A170	MEDDRA-PT-ID E47 10023163
+A171	CUI E48 C0023524
+A172	UMLS-Preferred-Name E48 Leukoencephalopathy, Progressive Multifocal
+A173	MEDDRA-PT E48 Progressive multifocal leukoencephalopathy
+A174	MEDDRA-PT-ID E48 10036807
+A175	CUI E49 C1306577
+A176	UMLS-Preferred-Name E49 Death (finding)
+A177	MEDDRA-PT E49 Death
+A178	MEDDRA-PT-ID E49 10011906
+A179	CUI E50 C0919924
+A180	UMLS-Preferred-Name E50 Pulmonary toxicity
+A181	MEDDRA-PT E50 Pulmonary toxicity
+A182	MEDDRA-PT-ID E50 10061924
+A183	CUI E51 C3714636
+A184	UMLS-Preferred-Name E51 Pneumonitis
+A185	MEDDRA-PT E51 Pneumonitis
+A186	MEDDRA-PT-ID E51 10035742
+A187	CUI E52 C0206062
+A188	UMLS-Preferred-Name E52 Lung Diseases, Interstitial
+A189	MEDDRA-PT E52 Interstitial lung disease
+A190	MEDDRA-PT-ID E52 10022611
+A191	CUI E53 C0035222
+A192	UMLS-Preferred-Name E53 Respiratory Distress Syndrome, Adult
+A193	MEDDRA-PT E53 Acute respiratory distress syndrome
+A194	MEDDRA-PT-ID E53 10001052
+A195	CUI E54 C0035222
+A196	UMLS-Preferred-Name E54 Respiratory Distress Syndrome, Adult
+A197	MEDDRA-PT E54 Acute respiratory distress syndrome
+A198	MEDDRA-PT-ID E54 10001052
+A199	LLT E54 ARDS
+A200	LLT-ID E54 10003083
+A201	CUI E55 C1306577
+A202	UMLS-Preferred-Name E55 Death (finding)
+A203	MEDDRA-PT E55 Death
+A204	MEDDRA-PT-ID E55 10011906
+A205	CUI E56 C0038325
+A206	UMLS-Preferred-Name E56 Stevens-Johnson Syndrome
+A207	MEDDRA-PT E56 Stevens-Johnson syndrome
+A208	MEDDRA-PT-ID E56 10042033
+A209	CUI E57 C0038325
+A210	UMLS-Preferred-Name E57 Stevens-Johnson Syndrome
+A211	MEDDRA-PT E57 Stevens-Johnson syndrome
+A212	MEDDRA-PT-ID E57 10042033
+A213	CUI E58 C0014518
+A214	UMLS-Preferred-Name E58 Toxic Epidermal Necrolysis
+A215	MEDDRA-PT E58 Toxic epidermal necrolysis
+A216	MEDDRA-PT-ID E58 10044223
+A217	CUI E59 C0014518
+A218	UMLS-Preferred-Name E59 Toxic Epidermal Necrolysis
+A219	MEDDRA-PT E59 Toxic epidermal necrolysis
+A220	MEDDRA-PT-ID E59 10044223
+A221	LLT E59 TEN
+A222	LLT-ID E59 10043221
+A223	CUI E60 C1306577
+A224	UMLS-Preferred-Name E60 Death (finding)
+A225	MEDDRA-PT E60 Death
+A226	MEDDRA-PT-ID E60 10011906
+A227	CUI E61 C0854268
+A228	UMLS-Preferred-Name E61 Foetal damage
+A229	MEDDRA-PT E61 Foetal damage
+A230	MEDDRA-PT-ID E61 10016852
+A231	LLT E61 Fetal damage
+A232	LLT-ID E61 10054743
+A233	CUI E63 C0270009
+A234	UMLS-Preferred-Name E63 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A235	MEDDRA-PT E63 Maternal drugs affecting foetus
+A236	MEDDRA-PT-ID E63 10026923
+A237	LLT E63 Drug toxicity NEC affecting foetus
+A238	LLT-ID E63 10013750
+A239	flag E64 unmapped
+A240	CUI E65 C0000768
+A241	UMLS-Preferred-Name E65 Congenital Abnormality
+A242	MEDDRA-PT E65 Congenital anomaly
+A243	MEDDRA-PT-ID E65 10010356
+A244	CUI E68 C0948715
+A245	UMLS-Preferred-Name E68 Infusion related reaction
+A246	MEDDRA-PT E68 Infusion related reaction
+A247	MEDDRA-PT-ID E68 10051792
+A248	CUI E12 C0854268
+A249	UMLS-Preferred-Name E12 Foetal damage
+A250	MEDDRA-PT E12 Foetal damage
+A251	MEDDRA-PT-ID E12 10016852
+A252	LLT E12 Fetal damage
+A253	LLT-ID E12 10054743
+A254	CUI E70 C0031117
+A255	UMLS-Preferred-Name E70 Peripheral Neuropathy
+A256	MEDDRA-PT E70 Neuropathy peripheral
+A257	MEDDRA-PT-ID E70 10029331
+A258	CUI E71 C0270009
+A259	UMLS-Preferred-Name E71 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A260	MEDDRA-PT E71 Maternal drugs affecting foetus
+A261	MEDDRA-PT-ID E71 10026923
+A262	LLT E71 Drug toxicity NEC affecting foetus
+A263	LLT-ID E71 10013750

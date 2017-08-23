@@ -1,0 +1,91 @@
+00000000|AA|Hgb|hemoglobin|1|3|1|10|1740:3
+00000000|AA|TEN|toxic epidermal necrolysis|1|3|5|26|4777:3
+00000000|MMI|67.63|Toxic Epidermal Necrolysis|C0014518|[dsyn]|["NECROLYSIS, TOXIC EPIDERMAL"-tx-42-"TEN"-noun-0,"NECROLYSIS, TOXIC EPIDERMAL"-tx-41-"TEN"-noun-0,"NECROLYSIS, TOXIC EPIDERMAL"-tx-40-"toxic epidermal necrolysis"-noun-0,"NECROLYSIS, TOXIC EPIDERMAL"-tx-9-"TEN"-noun-0]|TX|4904/3;4792/3;4749/26;718/3|C07.465.864.500;C17.800.174.600.900;C17.800.229.400.683;C17.800.865.475.683;C20.543.206.380.900;C25.100.468.380.900
+00000000|MMI|40.62|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-24-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-5-"Anaphylaxis"-noun-0,"Reactions, Anaphylactic"-tx-5-"anaphylactic reactions"-noun-0]|TX|2735/11;332/11;379/22|C20.543.480.099
+00000000|MMI|39.43|Kidney Failure, Acute|C0022660|[dsyn]|["ACUTE RENAL FAILURE"-tx-34-"acute renal failure"-noun-1,"ACUTE RENAL FAILURE"-tx-7-"Acute renal failure"-noun-0]|TX|3968/19;557/19|C12.777.419.780.050;C13.351.968.419.780.050
+00000000|MMI|35.81|Pain|C0030193|[sosy]|["PAIN"-tx-50-"pain"-noun-0,"PAIN"-tx-49-"pain"-noun-0]|TX|5969/4;5837/4|C10.597.617;C23.888.592.612;F02.830.816.444;G11.561.600.810.444
+00000000|MMI|35.33|Infection|C3714514|[patf]|["INFECTION"-tx-50-"infection"-noun-0,"INFECTION"-tx-23-"infection"-noun-0,"Infections"-tx-22-"infections"-noun-0,"Infections"-tx-21-"Infections"-noun-0,"Infections"-tx-4-"Infections"-noun-0]|TX|5975/9;2712/9;2577/10;2314/10;235/10|C01.539
+00000000|MMI|32.72|Myelosuppression|C0854467|[fndg]|["Myelosuppression"-tx-23-"myelosuppression"-noun-0,"Myelosuppression"-tx-22-"myelosuppression"-noun-0,"Myelosuppression"-tx-19-"Myelosuppression"-noun-0,"Myelosuppression"-tx-16-"myelosuppression"-noun-0,"Myelosuppression"-tx-15-"myelosuppression"-noun-0,"Myelosuppression"-tx-14-"Myelosuppression"-noun-0,"Myelosuppression"-tx-3-"myelosuppression"-noun-0,"Myelosuppression"-tx-1-"Myelosuppression"-noun-0]|TX|2610/16;2503/16;1925/16;1679/16;1451/16;1291/16;182/16;54/16|
+00000000|MMI|29.46|Syndrome|C0039082|[dsyn]|["Syndromes"-tx-42-"syndromes"-noun-0,"Syndromes"-tx-9-"syndromes"-noun-0]|TX|5044/9;858/9|C23.550.288.500
+00000000|MMI|26.36|Tumor Lysis Syndrome|C0041364|[dsyn]|["TUMOUR LYSIS SYNDROME"-tx-33-"Tumor Lysis Syndrome"-noun-0,"TUMOUR LYSIS SYNDROME"-tx-7-"Tumor Lysis Syndrome"-noun-0]|TX|3708/20;534/20|C15.604.515.880;C20.683.515.950
+00000000|MMI|26.30|Fever|C0015967|[fndg]|["FEVER"-tx-25-"fever"-noun-0,"FEVER"-tx-4-"fever"-noun-0]|TX|2865/5;260/5|C23.888.119.344
+00000000|MMI|26.30|Schwartz-Jampel Syndrome|C0036391|[cgab,dsyn]|["SJS"-tx-42-"SJS"-noun-0,"SJS"-tx-9-"SJS"-noun-0]|TX|4895/3;710/3|C05.116.099.708;C16.320.728
+00000000|MMI|24.53|Discontinued|C1444662|[fndg]|["Discontinue"-tx-46-"discontinue"-verb-0,"Discontinuation"-tx-32-"discontinuation"-noun-0,"Discontinue"-tx-31-"Discontinue"-verb-0,"Discontinue"-tx-27-"discontinue"-verb-0,"Discontinue"-tx-8-"Discontinue"-verb-0,"Discontinue"-tx-5-"discontinue"-verb-0]|TX|5313/11;3561/15;3486/11;3064/11;662/11;440/11|
+00000000|MMI|24.11|Bronchogenic Carcinoma|C0007121|[neop]|["BRONCHIAL CARCINOMA"-tx-47-"bronchial carcinoma"-noun-0]|TX|5589/19|C04.588.894.797.520.109.220;C08.381.540.140;C08.785.520.100.220
+00000000|MMI|23.12|Exanthema|C0015230|[sosy]|["RASH"-tx-38-"rash"-noun-0,"RASH"-tx-25-"rash"-noun-0]|TX|4526/4;2893/4|C17.800.257
+00000000|MMI|22.99|Adverse reaction to drug or medicament administered by infusion|C2368034|[patf]|["Infusion reaction"-tx-32-"infusions reactions"-noun-0,"Infusion reaction"-tx-31-"infusion reactions"-noun-0,"Infusion reaction"-tx-30-"infusion reactions"-noun-0,"Infusion reaction"-tx-28-"infusion reactions"-noun-0,"Infusion reaction"-tx-24-"Infusion Reactions"-noun-0,"Infusion reaction"-tx-5-"Infusion Reactions"-noun-0]|TX|3589/19;3532/18;3466/18;3145/18;2751/18;348/18|
+00000000|MMI|22.36|Unmarried|C0087136|[fndg]|["single"-tx-52-"Single"-adj-0]|TX|6151/6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+00000000|MMI|20.95|Gravidity|C0600457|[fndg]|["PREGNANT"-tx-13-"pregnant"-adj-0]|TX|1223/8|G08.686.340;G08.686.785.760.769.213;N06.850.490.812.250
+00000000|MMI|20.95|Septic Shock|C0036983|[patf]|["SEPTIC SHOCK"-tx-21-"septic shock"-noun-0]|TX|2370/12|C01.539.757.800;C23.550.470.790.500.800;C23.550.835.900.712
+00000000|MMI|20.39|Edema|C0013604|[fndg]|["SWELLING"-tx-50-"swelling"-verb-0,"SWELLING"-tx-49-"swelling"-noun-0]|TX|5959/8;5823/8|C23.888.277
+00000000|MMI|20.16|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-21-"pneumonia"-noun-0,"PNEUMONIA"-tx-15-"pneumonia"-noun-0]|TX|2351/9;1592/9|C08.381.677;C08.730.610
+00000000|MMI|19.96|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-50-"infection"-noun-0,"Infection, NOS"-tx-23-"infection"-noun-0]|TX|5975/9;2712/9|C01.539.221
+00000000|MMI|19.81|Death (finding)|C1306577|[fndg]|["Death"-tx-34-"death"-noun-1,"Death"-tx-21-"death"-noun-0,"Died"-tx-15-"died"-verb-0,"Death"-tx-7-"death"-noun-0,"Death"-tx-3-"death"-noun-0]|TX|3992/5;2388/5;1441/4;581/5;211/5|
+00000000|MMI|17.80|Leukemia, Myelocytic, Acute|C0023467|[neop]|["Acute myeloid leukaemia"-tx-47-"acute myeloid leukemia"-noun-0]|TX|5562/22|C04.557.337.539.275
+00000000|MMI|17.80|Sepsis|C0243026|[dsyn]|["SEPSIS"-tx-21-"sepsis"-noun-0]|TX|2362/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|17.80|Septicemia|C0036690|[dsyn]|["Sepsis"-tx-21-"sepsis"-noun-0]|TX|2362/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|16.12|Stevens-Johnson Syndrome|C0038325|[dsyn]|["STEVENS JOHNSON SYNDROME"-tx-42-"Stevens-Johnson syndrome"-noun-0]|TX|4869/24|C07.465.864.500;C17.800.174.600.900;C17.800.229.400.683;C17.800.865.475.683;C20.543.206.380.900;C25.100.468.380.900
+00000000|MMI|16.09|Lymphoma, Non-Hodgkin|C0024305|[neop]|["NHL, NOS"-tx-14-"NHL"-noun-0]|TX|1394/3|C04.557.386.480;C15.604.515.569.480;C20.683.515.761.480
+00000000|MMI|15.08|2+|C3833492|[fndg]|["2+"-tx-30-"2"-integer-0,"2+"-tx-21-"2"-real_number-0,"2+"-tx-15-"2"-percentage-0,"2+"-tx-3-"2"-real_number-0]|TX|3464/1;2278/1;1437/1;158/1|
+00000000|MMI|14.64|MYELODYSPLASTIC SYNDROME|C3463824|[neop]|["MYELODYSPLASTIC SYNDROME"-tx-47-"myelodysplastic syndrome"-noun-0]|TX|5506/24|C15.378.190.625
+00000000|MMI|14.64|Myeloproliferative disease|C0027022|[neop]|["Myeloproliferative Disorders"-tx-47-"myeloproliferative disorders"-noun-0]|TX|5532/28|C15.378.190.636
+00000000|MMI|14.64|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-25-"pruritus"-noun-0]|TX|2880/8|C17.800.685;C23.888.885.625
+00000000|MMI|14.36|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-36-"therapy"-noun-0,"Therapy"-tx-28-"therapy"-noun-0,"Therapy"-tx-26-"therapy"-noun-0,"Therapy"-tx-18-"therapy"-noun-0]|TX|4195/7;3191/7;3032/7;1916/7|
+00000000|MMI|12.90|Thrombocytopenia 3|C2678311|[dsyn]|["THROMBOCYTOPENIA 3"-tx-15-"3 thrombocytopenia"-noun-0]|TX|1568/18|x.x.x.x
+00000000|MMI|12.89|Thrombocytopenia|C0040034|[fndg]|["Thrombocytopaenia"-tx-15-"thrombocytopenia"-noun-0]|TX|1570/16|C15.378.140.855
+00000000|MMI|11.49|Chills|C0085593|[sosy]|["CHILLS"-tx-25-"chills"-noun-0]|TX|2872/6|C23.888.208
+00000000|MMI|11.49|Erythema|C0041834|[dsyn]|["ERYTHEMA"-tx-49-"erythema"-noun-0]|TX|5806/8|C17.800.229
+00000000|MMI|10.80|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-32-"Grade 3"-noun-0,"GRADE 3"-tx-29-"Grade 3"-noun-0,"GRADE 3"-tx-15-"Grade 3"-noun-0]|TX|3581/7;3224/7;1562/7|
+00000000|MMI|10.42|5-6|C3843715|[fndg]|["5-6"-tx-47-"5.6"-real_number-0,"5-6"-tx-11-"5.6"-real_number-0]|TX|5341/3;966/3|
+00000000|MMI|10.42|6/5|C0442749|[fndg]|["5 6"-tx-47-"5.6"-real_number-0,"5 6"-tx-11-"5.6"-real_number-0]|TX|5341/3;966/3|
+00000000|MMI|10.42|Adverse Event Associated with Syndromes|C1558916|[fndg]|["SYNDROMES"-tx-42-"syndromes"-noun-0,"SYNDROMES"-tx-9-"syndromes"-noun-0]|TX|5044/9;858/9|
+00000000|MMI|10.42|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-42-"fatal"-adj-0,"FATAL"-tx-9-"fatal"-adj-0]|TX|4914/5;728/5|
+00000000|MMI|10.42|Malignant Neoplasms|C0006826|[neop]|["MALIGNANCIES"-tx-47-"Malignancies"-noun-0,"MALIGNANCIES"-tx-10-"Malignancies"-noun-0]|TX|5352/12;892/12|
+00000000|MMI|10.42|Pain NOS Adverse Event|C1962977|[fndg]|["Pain NOS"-tx-50-"pain"-noun-0,"Pain NOS"-tx-49-"pain"-noun-0]|TX|5969/4;5837/4|
+00000000|MMI|10.42|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-25-"Symptoms"-noun-0,"SYMPTOMS"-tx-23-"symptoms"-noun-0]|TX|2848/8;2691/8|
+00000000|MMI|9.90|Complication Aspects|C1171258|[patf]|["complications"-tx-3-"Complications"-noun-0]|TX|165/13|x.x.x
+00000000|MMI|9.77|Opportunistic Infections|C0029118|[dsyn]|["OPPORTUNISTIC INFECTION"-tx-15-"opportunistic infection"-noun-0]|TX|1610/23|C01.539.597;C02.597;C03.684
+00000000|MMI|8.00|malignant disease|C0442867|[dsyn]|["Malignant disease"-tx-47-"malignant diseases"-noun-0,"Malignant disease"-tx-10-"malignant diseases"-noun-0]|TX|5409/18;924/18|
+00000000|MMI|7.70|Pre-renal acute kidney injury|C3854173|[dsyn]|["Acute renal failure"-tx-34-"acute renal failure"-noun-1,"Acute renal failure"-tx-7-"Acute renal failure"-noun-0]|TX|3968/19;557/19|
+00000000|MMI|7.70|Swelling|C0038999|[fndg]|["SWELLING"-tx-50-"swelling"-verb-0,"SWELLING"-tx-49-"swelling"-noun-0]|TX|5959/8;5823/8|
+00000000|MMI|7.61|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-24-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-5-"Anaphylaxis"-noun-0]|TX|2735/11;332/11|
+00000000|MMI|7.54|Extravasation|C0015376|[patf]|["EXTRAVASATIONS"-tx-49-"extravasations"-noun-0,"EXTRAVASATION"-tx-11-"Extravasation"-noun-0]|TX|5719/14;980/13|
+00000000|MMI|7.33|Tumor Lysis Syndrome Adverse Event|C1963254|[fndg]|["Tumor lysis syndrome"-tx-33-"Tumor Lysis Syndrome"-noun-0,"Tumor lysis syndrome"-tx-7-"Tumor Lysis Syndrome"-noun-0]|TX|3708/20;534/20|
+00000000|MMI|7.27|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-25-"fever"-noun-0,"Fever"-tx-4-"fever"-noun-0]|TX|2865/5;260/5|
+00000000|MMI|7.25|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["Grade 4"-tx-31-"Grade 4"-noun-0,"Grade 4"-tx-14-"Grade 4"-noun-0]|TX|3524/7;1353/5,1361/1|
+00000000|MMI|7.25|West Haven Hepatic Encephalopathy Grade 4|C3889293|[fndg]|["GRADE 4"-tx-31-"Grade 4"-noun-0,"GRADE 4"-tx-14-"Grade 4"-noun-0]|TX|3524/7;1353/5,1361/1|
+00000000|MMI|7.22|School Grade|C3244287|[fndg]|["grade"-tx-30-"Grade"-verb-0,"grade"-tx-15-"Grade"-noun-0]|TX|3453/5;1562/5|
+00000000|MMI|7.20|Physical findings|C0311392|[fndg]|["SIGNS"-tx-23-"signs"-noun-0,"SIGNS"-tx-4-"signs"-noun-0]|TX|2703/5;276/5|
+00000000|MMI|7.20|combination - answer to question|C3811910|[fndg]|["Combination"-tx-40-"combination"-noun-0,"Combination"-tx-39-"combination"-noun-0]|TX|4709/11;4623/11|
+00000000|MMI|7.10|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-51-"Toxicity"-noun-0,"Toxicity"-tx-12-"toxicity"-noun-0]|TX|6068/8;1110/8|
+00000000|MMI|7.00|Related personal status|C0445223|[fndg]|["Related"-tx-16-"related"-adj-0,"Related"-tx-15-"related"-adj-0]|TX|1671/7;1468/7|
+00000000|MMI|6.86|Allergic Reaction|C1527304|[patf]|["Reactions, Allergic"-tx-29-"allergic reactions"-noun-0]|TX|3241/8,3255/9|C20.543
+00000000|MMI|6.86|Hypersensitivity|C0020517|[patf]|["Allergic reactions"-tx-29-"allergic reactions"-noun-0]|TX|3241/8,3255/9|C20.543
+00000000|MMI|6.78|Adverse reaction to drug|C0041755|[inpo]|["Drug Reactions"-tx-27-"drug reactions"-noun-0]|TX|3076/4,3092/9|C25.100
+00000000|MMI|5.18|1+|C3816745|[fndg]|["1+"-tx-30-"1"-integer-0]|TX|3459/1|
+00000000|MMI|5.18|Anaphylactoid reaction|C0340865|[patf]|["anaphylactoid reactions"-tx-26-"anaphylactoid reactions"-noun-0]|TX|2941/23|
+00000000|MMI|5.18|Bullous eruption|C0235818|[fndg]|["Bullous Exanthema"-tx-38-"bullous exanthema"-noun-0]|TX|4557/17|
+00000000|MMI|5.18|Hemoglobin finding|C1561562|[fndg]|["Hemoglobin"-tx-16-"hemoglobin"-noun-0]|TX|1728/10|
+00000000|MMI|5.18|Patient currently pregnant|C0549206|[fndg]|["Pregnant"-tx-13-"pregnant"-adj-0]|TX|1223/8|
+00000000|MMI|5.18|Platelets Adverse Event|C1963076|[fndg]|["Platelets"-tx-16-"platelets"-noun-0]|TX|1717/9|
+00000000|MMI|5.18|Visceral malformations|C3808677|[fndg]|["Visceral malformations"-tx-52-"visceral malformations"-noun-0]|TX|6295/22|
+00000000|MMI|3.78|1-10|C3843645|[fndg]|["1-10"-tx-20-"1 10"-integer-0]|TX|2176/1,2180/2|
+00000000|MMI|3.74|Toxic reaction (NOS)|C0542243|[fndg]|["TOXIC REACTION (NOS)"-tx-38-"toxic reactions"-noun-0]|TX|4532/5,4543/9|
+00000000|MMI|3.68|Hydration status|C1321013|[fndg]|["Hydration"-tx-35-"hydration"-noun-0]|TX|4036/9|
+00000000|MMI|3.64|Necrotic changes (finding)|C1334928|[fndg]|["Necrosis"-tx-50-"necrosis"-noun-0]|TX|5990/8|
+00000000|MMI|3.64|Neutropenic sepsis|C0877153|[dsyn]|["Neutropenic sepsis"-tx-15-"neutropenic sepsis"-noun-0]|TX|1509/18|
+00000000|MMI|3.63|10%|C3842590|[fndg]|["10%"-tx-20-"10"-integer-0]|TX|2231/2|
+00000000|MMI|3.63|75%)|C4015571|[fndg]|["75%)"-tx-20-"75"-integer-0]|TX|2226/2|
+00000000|MMI|3.62|Infusion site erythema|C0877365|[fndg]|["Infusion site redness"-tx-50-"infusion site redness"-noun-0]|TX|5932/13,5950/7|
+00000000|MMI|3.62|patient symptoms|C1317600|[fndg]|["patients symptoms"-tx-28-"patients symptoms"-noun-0]|TX|3107/8,3122/8|
+00000000|MMI|3.61|90%|C3842582|[fndg]|["90%"-tx-40-"90"-integer-0]|TX|4692/2|
+00000000|MMI|3.59|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-15-"adverse reactions"-noun-0]|TX|1476/17|
+00000000|MMI|3.59|Complication|C0009566|[patf]|["Complications"-tx-3-"Complications"-noun-0]|TX|165/13|
+00000000|MMI|3.57|Diffuse hemorrhage|C0333280|[patf]|["Diffuse hemorrhage"-tx-15-"diffuse hemorrhage"-noun-0]|TX|1529/7,1546/10|
+00000000|MMI|3.55|Patient Outcome - Died|C1546956|[fndg]|["Died"-tx-15-"died"-verb-0]|TX|1441/4|
+00000000|MMI|3.48|Extravasation injury|C1299641|[dsyn]|["Extravasation injury"-tx-49-"Extravasation Injury"-noun-0]|TX|5685/20|
+00000000|MMI|3.47|Infection Other Adverse Event|C1560945|[fndg]|["Infection - Other"-tx-4-"other infection"-noun-0]|TX|270/5,285/9|
+00000000|MMI|3.47|Deterioration of status|C1279889|[fndg]|["Worse"-tx-29-"worse"-adj-0]|TX|3235/5|
+00000000|MMI|3.47|Worse|C1457868|[fndg]|["Worse"-tx-29-"worse"-adj-0]|TX|3235/5|
+00000000|MMI|3.44|Skin toxicity|C1167791|[dsyn]|["Skin toxicity"-tx-37-"skin toxicity"-noun-0]|TX|4254/13|
+00000000|MMI|3.43|Close|C3810854|[fndg]|["Close"-tx-35-"close"-adj-0]|TX|4050/5|

@@ -1,0 +1,44 @@
+00000000|AA|ERT|enzyme replacement therapy|1|3|5|26|2412:3
+00000000|MMI|170.37|0%|C3842591|[fndg]|["0%"-tx-9-"0"-integer-0,"0%"-tx-6-"0"-integer-0]|TX|[3365/1],[3369/1],[3801/1],[3805/1],[3910/1],[3914/1],[4019/1],[4023/1],[4346/1],[4350/1],[4455/1],[4459/1],[4564/1],[4568/1],[4673/1],[4677/1];[1887/1],[1891/1]|
+00000000|MMI|48.20|Headache|C0018681|[sosy]|["HEADACHE"-tx-9-"Headache"-noun-0,"HEADACHE"-tx-6-"Headache"-noun-0,"HEADACHE"-tx-2-"headache"-noun-0,"HEADACHE"-tx-1-"headache"-noun-0]|TX|3169/8;1693/8;785/8;94/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|41.96|2+|C3833492|[fndg]|["2+"-tx-9-"2"-integer-0,"2+"-tx-6-"2"-integer-0,"2+"-tx-3-"2"-integer-0,"2+"-tx-2-"2"-integer-0]|TX|[3151/1],[3260/1],[3474/1],[3696/1],[4128/1],[4241/1],[4853/1];1669/1;965/1;768/1|
+00000000|MMI|38.95|Nausea|C0027497|[sosy]|["NAUSEA"-tx-9-"Nausea"-noun-0,"NAUSEA"-tx-6-"Nausea"-noun-0,"NAUSEA"-tx-2-"nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|3278/6;2020/6;795/6;104/6|C23.888.821.712
+00000000|MMI|37.47|Adverse reactions|C0559546|[patf]|["ADVERSE REACTION"-tx-9-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-9-"adverse reactions"-noun-0,"Adverse reactions"-tx-8-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-8-"adverse reactions"-noun-1,"ADVERSE REACTION"-tx-6-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-6-"Adverse Reactions"-noun-0,"ADVERSE REACTION"-tx-3-"adverse reaction"-noun-0,"Adverse reactions"-tx-2-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-1-"adverse reaction"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|2948/16;4806/17;2566/17;2795/17;1470/16;1247/17;879/16;652/17;439/16;[6/17],[210/17];54/17|
+00000000|MMI|36.23|Back Pain|C0004604|[sosy]|["BACKPAIN"-tx-9-"Back pain"-noun-0,"BACKPAIN"-tx-2-"back pain"-noun-0,"BACKPAIN"-tx-1-"back pain"-noun-0]|TX|3496/9;813/9;122/9|C10.597.617.140;C23.888.592.612.107
+00000000|MMI|29.19|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-9-"Diarrhea"-noun-0,"DIARRHOEA"-tx-2-"diarrhea"-noun-0,"DIARRHOEA"-tx-1-"diarrhea"-noun-0]|TX|3387/8;803/8;112/8|C23.888.821.214
+00000000|MMI|27.56|1+|C3816745|[fndg]|["1+"-tx-9-"1"-integer-0,"1+"-tx-6-"1"-integer-0]|TX|[3147/1],[3256/1],[3692/1],[4237/1];[1996/1],[2105/1],[2214/1]|
+00000000|MMI|27.56|10%|C3842590|[fndg]|["10%"-tx-9-"10"-integer-0,"10%"-tx-6-"10"-integer-0,"10%"-tx-6-"10"-percentage-0,"10%"-tx-2-"10"-percentage-0,"10%"-tx-1-"10"-percentage-0]|TX|3776/2;[1280/2],[1673/2],[1861/2],[1970/2],[2079/2],[2188/2];[1280/2],[1673/2],[1861/2],[1970/2],[2079/2],[2188/2];698/2;75/2|
+00000000|MMI|22.31|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-9-"Fatigue"-noun-0,"FATIGUE"-tx-2-"fatigue"-noun-0,"FATIGUE"-tx-1-"fatigue"-noun-0]|TX|3060/7;776/7;85/7|C23.888.369
+00000000|MMI|14.13|Gastroesophageal reflux disease|C0017168|[dsyn]|["Gastrooesophageal reflux disease"-tx-9-"Gastroesophageal reflux disease"-noun-0]|TX|4259/31|C06.405.117.119.500.484
+00000000|MMI|14.08|Trial 1|C3840593|[fndg]|["Trial 1"-tx-9-"Trials 1"-noun-0,"Trial 1"-tx-6-"Trial 1"-noun-0,"Trial 1"-tx-4-"Trial 1"-noun-0,"Trial 1"-tx-3-"Trials 1"-noun-0,"Trial 1"-tx-2-"Trials 1"-noun-0]|TX|4840/8;1350/7;1097/7;952/8;755/8|
+00000000|MMI|14.04|Arthralgia|C0003862|[sosy]|["ARTHRALGIA"-tx-6-"Arthralgia"-noun-0]|TX|1584/10|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|14.04|Migraine Disorders|C0149931|[dsyn]|["MIGRAINE"-tx-6-"Migraine"-noun-0]|TX|1802/8|C10.228.140.546.399.750
+00000000|MMI|11.76|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-9-"Dizziness"-noun-0]|TX|3823/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|11.76|Vertigo|C0042571|[sosy]|["dizziness"-tx-9-"Dizziness"-noun-0]|TX|3823/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|11.31|Trial 2|C3842777|[fndg]|["Trial 2"-tx-8-"Trial 2"-noun-0,"Trial 2"-tx-6-"Trial 2"-noun-0]|TX|[2711/7],[2719/7];2418/7|
+00000000|MMI|11.22|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-9-"Headache"-noun-0,"headache"-tx-6-"Headache"-noun-0,"headache"-tx-2-"headache"-noun-0,"headache"-tx-1-"headache"-noun-0]|TX|3169/8;1693/8;785/8;94/8|
+00000000|MMI|11.22|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-9-"Nausea"-noun-0,"Nausea"-tx-6-"Nausea"-noun-0,"Nausea"-tx-2-"nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|3278/6;2020/6;795/6;104/6|
+00000000|MMI|10.72|20%|C3842589|[fndg]|["20%"-tx-6-"20"-integer-0,"20%"-tx-5-"20"-integer-0]|TX|[1426/2],[1455/2];[1209/2],[1222/2]|
+00000000|MMI|9.48|Constipation|C0009806|[sosy]|["CONSTIPATION"-tx-9-"Constipation"-noun-0]|TX|4368/12|C23.888.821.150
+00000000|MMI|9.48|Coughing|C0010200|[sosy]|["COUGH"-tx-9-"Cough"-noun-0]|TX|4041/5|C08.618.248;C23.888.852.293
+00000000|MMI|9.48|Dyspepsia|C0013395|[sosy]|["DYSPEPSIA"-tx-9-"Dyspepsia"-noun-0]|TX|4150/9|C23.888.821.236
+00000000|MMI|9.48|Flatulence|C0016204|[sosy]|["FLATULENCE"-tx-6-"Flatulence"-noun-0]|TX|1911/10|C23.888.821.360
+00000000|MMI|8.80|Upper abdominal pain|C0232492|[sosy]|["ABDOMINAL PAIN, UPPER"-tx-9-"Upper abdominal pain"-noun-0,"ABDOMINAL PAIN, UPPER"-tx-2-"upper abdominal pain"-noun-0,"ABDOMINAL PAIN, UPPER"-tx-1-"upper abdominal pain"-noun-0]|TX|3714/20;849/20;158/20|
+00000000|MMI|8.73|Pain in limb|C0030196|[sosy]|["Pain in Extremity"-tx-9-"Pain in extremity"-noun-0,"Pain in extremities"-tx-2-"pain in extremities"-noun-0,"Pain in extremities"-tx-1-"pain in extremities"-noun-0]|TX|3605/17;824/19;133/19|
+00000000|MMI|8.69|Back Pain Adverse Event|C1963071|[fndg]|["Back pain"-tx-9-"Back pain"-noun-0,"Back pain"-tx-2-"back pain"-noun-0,"Back pain"-tx-1-"back pain"-noun-0]|TX|3496/9;813/9;122/9|
+00000000|MMI|8.54|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-9-"Diarrhea"-noun-0,"Diarrhea"-tx-2-"diarrhea"-noun-0,"Diarrhea"-tx-1-"diarrhea"-noun-0]|TX|3387/8;803/8;112/8|
+00000000|MMI|7.50|4+ Answer to question|C3838679|[fndg]|["4+"-tx-9-"4"-integer-0]|TX|[3478/1],[4132/1]|
+00000000|MMI|7.50|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-6-"randomized"-verb-0,"RANDOMIZED"-tx-4-"randomized"-verb-0]|TX|2303/10;1028/10|
+00000000|MMI|7.21|Asthenia|C0004093|[sosy]|["ASTHENIA"-tx-9-"Asthenia"-noun-0]|TX|3932/8|C23.888.089
+00000000|MMI|7.21|Exanthema|C0015230|[sosy]|["RASH"-tx-9-"Rash"-noun-0]|TX|4586/4|C17.800.257
+00000000|MMI|7.10|Disease|C0012634|[dsyn]|["condition"-tx-1-"conditions"-noun-0]|TX|427/10|C23.550.288
+00000000|MMI|3.74|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-9-"3"-integer-0]|TX|3583/1|
+00000000|MMI|3.74|30%|C3842588|[fndg]|["30%"-tx-6-"30"-integer-0]|TX|1782/2|
+00000000|MMI|2.71|Oropharyngeal pain|C2363731|[sosy]|["Oropharyngeal pain"-tx-6-"Oropharyngeal pain"-noun-0]|TX|2129/18|
+00000000|MMI|2.66|Constipation Adverse Event|C1963087|[fndg]|["Constipation"-tx-9-"Constipation"-noun-0]|TX|4368/12|
+00000000|MMI|2.66|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-9-"Cough"-noun-0]|TX|4041/5|
+00000000|MMI|2.66|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-9-"Dizziness"-noun-0]|TX|3823/9|
+00000000|MMI|2.66|Flatulence Adverse Event|C1962956|[fndg]|["Flatulence"-tx-6-"Flatulence"-noun-0]|TX|1911/10|
+00000000|MMI|2.66|Palpitations|C0030252|[fndg]|["PALPITATIONS"-tx-9-"Palpitations"-noun-0]|TX|4477/12|
+00000000|MMI|2.66|Palpitations Adverse Event|C3160712|[fndg]|["Palpitations"-tx-9-"Palpitations"-noun-0]|TX|4477/12|
+00000000|MMI|2.58|Age - 16|C3811621|[fndg]|["Age - 16"-tx-5-"ages 16"-noun-0]|TX|1133/4,1141/2|

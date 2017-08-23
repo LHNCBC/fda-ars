@@ -1,0 +1,446 @@
+T1	AdverseReaction 152 162	Somnolence
+T2	AdverseReaction 163 171	sedation
+T3	AdverseReaction 176 185	dizziness
+T4	AdverseReaction 326 336	somnolence
+T5	AdverseReaction 337 345	sedation
+T6	AdverseReaction 350 359	dizziness
+T7	AdverseReaction 451 460	dizziness
+T8	AdverseReaction 462 472	somnolence
+T9	AdverseReaction 478 486	headache
+T10	AdverseReaction 2100 2110	somnolence
+T11	AdverseReaction 2111 2119	sedation
+T12	AdverseReaction 2124 2133	dizziness
+T13	AdverseReaction 2729 2739	Somnolence
+T14	AdverseReaction 2740 2748	sedation
+T15	AdverseReaction 2840 2849	Dizziness
+T16	AdverseReaction 2951 2959	Headache
+T17	AdverseReaction 3174 3180	Nausea
+T18	AdverseReaction 3285 3294	Dry mouth
+T19	AdverseReaction 3396 3406	Flatulence
+T20	AdverseReaction 3645 3652	Fatigue
+T21	AdverseReaction 3756 3768	Irritability
+T22	AdverseReaction 3867 3880	Feeling drunk
+T23	AdverseReaction 3978 3994	Feeling abnormal
+T24	AdverseReaction 4089 4105	Peripheral edema
+T25	AdverseReaction 4322 4338	Weight increased
+T26	AdverseReaction 4433 4451	Increased appetite
+T27	AdverseReaction 4657 4664	Vertigo
+T28	AdverseReaction 4879 4889	Depression
+T29	AdverseReaction 4990 5006	Libido decreased
+T30	AdverseReaction 5626 5642	balance disorder
+T31	AdverseReaction 5644 5658	blurred vision
+T32	AdverseReaction 5660 5674	disorientation
+T33	AdverseReaction 5676 5689	feeling drunk
+T34	AdverseReaction 5691 5699	lethargy
+T35	AdverseReaction 5705 5712	vertigo
+T36	AdverseReaction 5769 5779	somnolence
+T37	AdverseReaction 5780 5788	sedation
+T38	AdverseReaction 5790 5799	dizziness
+T39	AdverseReaction 5801 5814	feeling drunk
+T40	AdverseReaction 5816 5832	libido decreased
+T41	AdverseReaction 5834 5844	depression
+T42	AdverseReaction 5846 5854	headache
+T43	AdverseReaction 5856 5872	peripheral edema
+T44	AdverseReaction 5878 5885	vertigo
+T45	AdverseReaction 6859 6868	dizziness
+T46	AdverseReaction 6870 6880	somnolence
+T47	AdverseReaction 6886 6894	headache
+T48	AdverseReaction 7587 7596	Dizziness
+T49	AdverseReaction 7725 7735	Somnolence
+T50	AdverseReaction 7863 7871	Headache
+T51	AdverseReaction 8141 8147	Nausea
+T52	AdverseReaction 8445 8452	Fatigue
+T53	AdverseReaction 8453 8461	Asthenia
+T54	AdverseReaction 8583 8599	Peripheral edema
+T55	AdverseReaction 8859 8867	Insomnia
+T56	AdverseReaction 9147 9163	Weight increased
+T57	AdverseReaction 9423 9437	Blurred vision
+T58	AdverseReaction 9718 9734	balance disorder
+T59	AdverseReaction 9736 9753	confusional state
+T60	AdverseReaction 9755 9765	depression
+T61	AdverseReaction 9767 9776	dry mouth
+T62	AdverseReaction 9778 9788	flatulence
+T63	AdverseReaction 9790 9808	increased appetite
+T64	AdverseReaction 9810 9822	irritability
+T65	AdverseReaction 9828 9835	vertigo
+T66	AdverseReaction 9837 9846	Dizziness
+T67	AdverseReaction 9848 9858	somnolence
+T68	AdverseReaction 9860 9867	fatigue
+T69	AdverseReaction 9873 9881	insomnia
+T70	AdverseReaction 10101 10119	breast enlargement
+T71	AdverseReaction 10121 10133	gynecomastia
+T72	AdverseReaction 10139 10163	elevated creatine kinase
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+A1	CUI E1 C2830004
+A2	UMLS-Preferred-Name E1 Somnolence
+A3	MEDDRA-PT E1 Somnolence
+A4	MEDDRA-PT-ID E1 10041349
+A5	CUI E2 C0235195
+A6	UMLS-Preferred-Name E2 Sedated state
+A7	MEDDRA-PT E2 Sedation
+A8	MEDDRA-PT-ID E2 10039897
+A9	CUI E3 C0012833
+A10	UMLS-Preferred-Name E3 Dizziness
+A11	MEDDRA-PT E3 Dizziness
+A12	MEDDRA-PT-ID E3 10013573
+A13	CUI E4 C2830004
+A14	UMLS-Preferred-Name E4 Somnolence
+A15	MEDDRA-PT E4 Somnolence
+A16	MEDDRA-PT-ID E4 10041349
+A17	CUI E5 C0235195
+A18	UMLS-Preferred-Name E5 Sedated state
+A19	MEDDRA-PT E5 Sedation
+A20	MEDDRA-PT-ID E5 10039897
+A21	CUI E6 C0012833
+A22	UMLS-Preferred-Name E6 Dizziness
+A23	MEDDRA-PT E6 Dizziness
+A24	MEDDRA-PT-ID E6 10013573
+A25	CUI E7 C0012833
+A26	UMLS-Preferred-Name E7 Dizziness
+A27	MEDDRA-PT E7 Dizziness
+A28	MEDDRA-PT-ID E7 10013573
+A29	CUI E8 C2830004
+A30	UMLS-Preferred-Name E8 Somnolence
+A31	MEDDRA-PT E8 Somnolence
+A32	MEDDRA-PT-ID E8 10041349
+A33	CUI E9 C0018681
+A34	UMLS-Preferred-Name E9 Headache
+A35	MEDDRA-PT E9 Headache
+A36	MEDDRA-PT-ID E9 10019211
+A37	CUI E10 C2830004
+A38	UMLS-Preferred-Name E10 Somnolence
+A39	MEDDRA-PT E10 Somnolence
+A40	MEDDRA-PT-ID E10 10041349
+A41	CUI E11 C0235195
+A42	UMLS-Preferred-Name E11 Sedated state
+A43	MEDDRA-PT E11 Sedation
+A44	MEDDRA-PT-ID E11 10039897
+A45	CUI E12 C0012833
+A46	UMLS-Preferred-Name E12 Dizziness
+A47	MEDDRA-PT E12 Dizziness
+A48	MEDDRA-PT-ID E12 10013573
+A49	CUI E13 C2830004
+A50	UMLS-Preferred-Name E13 Somnolence
+A51	MEDDRA-PT E13 Somnolence
+A52	MEDDRA-PT-ID E13 10041349
+A53	CUI E14 C0235195
+A54	UMLS-Preferred-Name E14 Sedated state
+A55	MEDDRA-PT E14 Sedation
+A56	MEDDRA-PT-ID E14 10039897
+A57	CUI E15 C0012833
+A58	UMLS-Preferred-Name E15 Dizziness
+A59	MEDDRA-PT E15 Dizziness
+A60	MEDDRA-PT-ID E15 10013573
+A61	CUI E16 C0018681
+A62	UMLS-Preferred-Name E16 Headache
+A63	MEDDRA-PT E16 Headache
+A64	MEDDRA-PT-ID E16 10019211
+A65	CUI E17 C0027497
+A66	UMLS-Preferred-Name E17 Nausea
+A67	MEDDRA-PT E17 Nausea
+A68	MEDDRA-PT-ID E17 10028813
+A69	CUI E18 C0043352
+A70	UMLS-Preferred-Name E18 Xerostomia
+A71	MEDDRA-PT E18 Dry mouth
+A72	MEDDRA-PT-ID E18 10013781
+A73	CUI E19 C0016204
+A74	UMLS-Preferred-Name E19 Flatulence
+A75	MEDDRA-PT E19 Flatulence
+A76	MEDDRA-PT-ID E19 10016766
+A77	CUI E20 C0015672
+A78	UMLS-Preferred-Name E20 Fatigue
+A79	MEDDRA-PT E20 Fatigue
+A80	MEDDRA-PT-ID E20 10016256
+A81	CUI E21 C0022107
+A82	UMLS-Preferred-Name E21 Irritable Mood
+A83	MEDDRA-PT E21 Irritability
+A84	MEDDRA-PT-ID E21 10022998
+A85	CUI E22 C0522172
+A86	UMLS-Preferred-Name E22 Feeling intoxicated
+A87	MEDDRA-PT E22 Feeling drunk
+A88	MEDDRA-PT-ID E22 10016330
+A89	CUI E23 C1443060
+A90	UMLS-Preferred-Name E23 Feeling abnormal
+A91	MEDDRA-PT E23 Feeling abnormal
+A92	MEDDRA-PT-ID E23 10016322
+A93	CUI E24 C0085649
+A94	UMLS-Preferred-Name E24 Peripheral edema
+A95	MEDDRA-PT E24 Oedema peripheral
+A96	MEDDRA-PT-ID E24 10030124
+A97	LLT E24 Peripheral edema
+A98	LLT-ID E24 10034570
+A99	CUI E25 C0043094
+A100	UMLS-Preferred-Name E25 Weight Gain
+A101	MEDDRA-PT E25 Weight increased
+A102	MEDDRA-PT-ID E25 10047899
+A103	CUI E26 C0232461
+A104	UMLS-Preferred-Name E26 Increased appetite (finding)
+A105	MEDDRA-PT E26 Increased appetite
+A106	MEDDRA-PT-ID E26 10021654
+A107	CUI E27 C0042571
+A108	UMLS-Preferred-Name E27 Vertigo
+A109	MEDDRA-PT E27 Vertigo
+A110	MEDDRA-PT-ID E27 10047340
+A111	CUI E28 C0011570
+A112	UMLS-Preferred-Name E28 Mental Depression
+A113	MEDDRA-PT E28 Depression
+A114	MEDDRA-PT-ID E28 10012378
+A115	CUI E29 C0011124
+A116	UMLS-Preferred-Name E29 Decreased Libido
+A117	MEDDRA-PT E29 Libido decreased
+A118	MEDDRA-PT-ID E29 10024419
+A119	CUI E30 C0575090
+A120	UMLS-Preferred-Name E30 Equilibration disorder
+A121	MEDDRA-PT E30 Balance disorder
+A122	MEDDRA-PT-ID E30 10049848
+A123	CUI E31 C0344232
+A124	UMLS-Preferred-Name E31 Blurred vision
+A125	MEDDRA-PT E31 Vision blurred
+A126	MEDDRA-PT-ID E31 10047513
+A127	LLT E31 Blurred vision
+A128	LLT-ID E31 10005886
+A129	CUI E32 C0233407
+A130	UMLS-Preferred-Name E32 Disorientation
+A131	MEDDRA-PT E32 Disorientation
+A132	MEDDRA-PT-ID E32 10013395
+A133	CUI E33 C0522172
+A134	UMLS-Preferred-Name E33 Feeling intoxicated
+A135	MEDDRA-PT E33 Feeling drunk
+A136	MEDDRA-PT-ID E33 10016330
+A137	CUI E34 C0023380
+A138	UMLS-Preferred-Name E34 Lethargy
+A139	MEDDRA-PT E34 Lethargy
+A140	MEDDRA-PT-ID E34 10024264
+A141	CUI E35 C0042571
+A142	UMLS-Preferred-Name E35 Vertigo
+A143	MEDDRA-PT E35 Vertigo
+A144	MEDDRA-PT-ID E35 10047340
+A145	CUI E36 C2830004
+A146	UMLS-Preferred-Name E36 Somnolence
+A147	MEDDRA-PT E36 Somnolence
+A148	MEDDRA-PT-ID E36 10041349
+A149	CUI E37 C0235195
+A150	UMLS-Preferred-Name E37 Sedated state
+A151	MEDDRA-PT E37 Sedation
+A152	MEDDRA-PT-ID E37 10039897
+A153	CUI E38 C0012833
+A154	UMLS-Preferred-Name E38 Dizziness
+A155	MEDDRA-PT E38 Dizziness
+A156	MEDDRA-PT-ID E38 10013573
+A157	CUI E39 C0522172
+A158	UMLS-Preferred-Name E39 Feeling intoxicated
+A159	MEDDRA-PT E39 Feeling drunk
+A160	MEDDRA-PT-ID E39 10016330
+A161	CUI E40 C0011124
+A162	UMLS-Preferred-Name E40 Decreased Libido
+A163	MEDDRA-PT E40 Libido decreased
+A164	MEDDRA-PT-ID E40 10024419
+A165	CUI E41 C0011570
+A166	UMLS-Preferred-Name E41 Mental Depression
+A167	MEDDRA-PT E41 Depression
+A168	MEDDRA-PT-ID E41 10012378
+A169	CUI E42 C0018681
+A170	UMLS-Preferred-Name E42 Headache
+A171	MEDDRA-PT E42 Headache
+A172	MEDDRA-PT-ID E42 10019211
+A173	CUI E43 C0085649
+A174	UMLS-Preferred-Name E43 Peripheral edema
+A175	MEDDRA-PT E43 Oedema peripheral
+A176	MEDDRA-PT-ID E43 10030124
+A177	LLT E43 Peripheral edema
+A178	LLT-ID E43 10034570
+A179	CUI E44 C0042571
+A180	UMLS-Preferred-Name E44 Vertigo
+A181	MEDDRA-PT E44 Vertigo
+A182	MEDDRA-PT-ID E44 10047340
+A183	CUI E45 C0012833
+A184	UMLS-Preferred-Name E45 Dizziness
+A185	MEDDRA-PT E45 Dizziness
+A186	MEDDRA-PT-ID E45 10013573
+A187	CUI E46 C2830004
+A188	UMLS-Preferred-Name E46 Somnolence
+A189	MEDDRA-PT E46 Somnolence
+A190	MEDDRA-PT-ID E46 10041349
+A191	CUI E47 C0018681
+A192	UMLS-Preferred-Name E47 Headache
+A193	MEDDRA-PT E47 Headache
+A194	MEDDRA-PT-ID E47 10019211
+A195	CUI E48 C0012833
+A196	UMLS-Preferred-Name E48 Dizziness
+A197	MEDDRA-PT E48 Dizziness
+A198	MEDDRA-PT-ID E48 10013573
+A199	CUI E49 C2830004
+A200	UMLS-Preferred-Name E49 Somnolence
+A201	MEDDRA-PT E49 Somnolence
+A202	MEDDRA-PT-ID E49 10041349
+A203	CUI E50 C0018681
+A204	UMLS-Preferred-Name E50 Headache
+A205	MEDDRA-PT E50 Headache
+A206	MEDDRA-PT-ID E50 10019211
+A207	CUI E51 C0027497
+A208	UMLS-Preferred-Name E51 Nausea
+A209	MEDDRA-PT E51 Nausea
+A210	MEDDRA-PT-ID E51 10028813
+A211	CUI E52 C0015672
+A212	UMLS-Preferred-Name E52 Fatigue
+A213	MEDDRA-PT E52 Fatigue
+A214	MEDDRA-PT-ID E52 10016256
+A215	CUI E53 C0004093
+A216	UMLS-Preferred-Name E53 Asthenia
+A217	MEDDRA-PT E53 Asthenia
+A218	MEDDRA-PT-ID E53 10003549
+A219	CUI E54 C0085649
+A220	UMLS-Preferred-Name E54 Peripheral edema
+A221	MEDDRA-PT E54 Oedema peripheral
+A222	MEDDRA-PT-ID E54 10030124
+A223	LLT E54 Peripheral edema
+A224	LLT-ID E54 10034570
+A225	CUI E55 C0917801
+A226	UMLS-Preferred-Name E55 Sleeplessness
+A227	MEDDRA-PT E55 Insomnia
+A228	MEDDRA-PT-ID E55 10022437
+A229	CUI E56 C0043094
+A230	UMLS-Preferred-Name E56 Weight Gain
+A231	MEDDRA-PT E56 Weight increased
+A232	MEDDRA-PT-ID E56 10047899
+A233	CUI E57 C0344232
+A234	UMLS-Preferred-Name E57 Blurred vision
+A235	MEDDRA-PT E57 Vision blurred
+A236	MEDDRA-PT-ID E57 10047513
+A237	LLT E57 Blurred vision
+A238	LLT-ID E57 10005886
+A239	CUI E58 C0575090
+A240	UMLS-Preferred-Name E58 Equilibration disorder
+A241	MEDDRA-PT E58 Balance disorder
+A242	MEDDRA-PT-ID E58 10049848
+A243	CUI E59 C0009676
+A244	UMLS-Preferred-Name E59 Confusion
+A245	MEDDRA-PT E59 Confusional state
+A246	MEDDRA-PT-ID E59 10010305
+A247	CUI E60 C0011570
+A248	UMLS-Preferred-Name E60 Mental Depression
+A249	MEDDRA-PT E60 Depression
+A250	MEDDRA-PT-ID E60 10012378
+A251	CUI E61 C0043352
+A252	UMLS-Preferred-Name E61 Xerostomia
+A253	MEDDRA-PT E61 Dry mouth
+A254	MEDDRA-PT-ID E61 10013781
+A255	CUI E62 C0016204
+A256	UMLS-Preferred-Name E62 Flatulence
+A257	MEDDRA-PT E62 Flatulence
+A258	MEDDRA-PT-ID E62 10016766
+A259	CUI E63 C0232461
+A260	UMLS-Preferred-Name E63 Increased appetite (finding)
+A261	MEDDRA-PT E63 Increased appetite
+A262	MEDDRA-PT-ID E63 10021654
+A263	CUI E64 C0022107
+A264	UMLS-Preferred-Name E64 Irritable Mood
+A265	MEDDRA-PT E64 Irritability
+A266	MEDDRA-PT-ID E64 10022998
+A267	CUI E65 C0042571
+A268	UMLS-Preferred-Name E65 Vertigo
+A269	MEDDRA-PT E65 Vertigo
+A270	MEDDRA-PT-ID E65 10047340
+A271	CUI E66 C0012833
+A272	UMLS-Preferred-Name E66 Dizziness
+A273	MEDDRA-PT E66 Dizziness
+A274	MEDDRA-PT-ID E66 10013573
+A275	CUI E67 C2830004
+A276	UMLS-Preferred-Name E67 Somnolence
+A277	MEDDRA-PT E67 Somnolence
+A278	MEDDRA-PT-ID E67 10041349
+A279	CUI E68 C0015672
+A280	UMLS-Preferred-Name E68 Fatigue
+A281	MEDDRA-PT E68 Fatigue
+A282	MEDDRA-PT-ID E68 10016256
+A283	CUI E69 C0917801
+A284	UMLS-Preferred-Name E69 Sleeplessness
+A285	MEDDRA-PT E69 Insomnia
+A286	MEDDRA-PT-ID E69 10022437
+A287	CUI E70 C2225524
+A288	UMLS-Preferred-Name E70 Macromastia
+A289	MEDDRA-PT E70 Breast enlargement
+A290	MEDDRA-PT-ID E70 10006242
+A291	CUI E71 C0018418
+A292	UMLS-Preferred-Name E71 Gynecomastia
+A293	MEDDRA-PT E71 Gynaecomastia
+A294	MEDDRA-PT-ID E71 10018800
+A295	LLT E71 Gynecomastia
+A296	LLT-ID E71 10018801
+A297	CUI E72 C0151576
+A298	UMLS-Preferred-Name E72 Elevated creatine kinase
+A299	MEDDRA-PT E72 Blood creatine phosphokinase increased
+A300	MEDDRA-PT-ID E72 10005470
+A301	LLT E72 Creatine kinase increased
+A302	LLT-ID E72 10011336

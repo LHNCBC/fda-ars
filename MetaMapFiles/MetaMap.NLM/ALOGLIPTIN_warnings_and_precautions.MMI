@@ -1,0 +1,64 @@
+00000000|AA|ULN|upper limit of normal|1|3|7|21|3096:3
+00000000|MMI|125.95|Arthralgia|C0003862|[sosy]|["JOINT PAIN"-tx-35-"joint pain"-noun-0,"ARTHRALGIA"-tx-31-"Arthralgia"-noun-0,"ARTHRALGIA"-tx-31-"arthralgia"-noun-0,"JOINT PAIN"-tx-11-"joint pain"-noun-0,"ARTHRALGIA"-tx-10-"Arthralgia"-noun-0,"ARTHRALGIA"-tx-10-"arthralgia"-noun-0]|TX|4942/10;4460/10;4540/10;1328/10;1189/10;1222/10|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|53.86|Hypoglycemia|C0020615|[dsyn]|["HYPOGLYCEMIA"-tx-30-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-29-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-9-"Hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-9-"hypoglycemia"-noun-0]|TX|4376/12;4263/12;959/12;1162/12|C18.452.394.984
+00000000|MMI|52.10|Pancreatitis|C0030305|[dsyn]|["PANCREATITIS"-tx-16-"pancreatitis"-noun-0,"PANCREATITIS"-tx-15-"pancreatitis"-noun-0,"PANCREATITIS"-tx-14-"pancreatitis"-noun-0,"PANCREATITIS"-tx-13-"Pancreatitis"-noun-0,"PANCREATITIS"-tx-2-"pancreatitis"-noun-0]|TX|2010/12;1789/12;1772/12;1577/12;136/12|C06.689.750
+00000000|MMI|50.11|Angioedema|C0002994|[patf]|["Angiooedema"-tx-20-"angioedema"-noun-0,"Angiooedema"-tx-18-"angioedema"-noun-0,"Angiooedema"-tx-3-"angioedema"-noun-0]|TX|2669/10;2229/10;352/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|48.99|Diabetes Mellitus, Non-Insulin-Dependent|C0011860|[dsyn]|["Type II Diabetes"-tx-23-"type 2 diabetes"-noun-0,"diabetes"-tx-19-"diabetes"-noun-0,"diabetes"-tx-4-"diabetes"-noun-0]|TX|3215/15;2477/8;568/8|C18.452.394.750.149;C19.246.300
+00000000|MMI|35.49|Hypersensitivity|C0020517|[patf]|["HYPERSENSITIVITY REACTION (NOS)"-tx-19-"hypersensitivity reaction"-noun-0,"Hypersensitivity reactions"-tx-17-"Hypersensitivity Reactions"-noun-0,"Hypersensitivity reactions"-tx-17-"hypersensitivity reactions"-noun-0,"HYPERSENSITIVITY"-tx-3-"Hypersensitivity"-noun-0,"Hypersensitivity reactions"-tx-3-"hypersensitivity reactions"-noun-0]|TX|2329/25;2053/26;2132/26;205/16;272/26|C20.543
+00000000|MMI|30.94|Discontinued|C1444662|[fndg]|["Discontinue"-tx-35-"discontinue"-verb-0,"Discontinuation"-tx-33-"discontinuation"-noun-0,"Discontinue"-tx-19-"discontinue"-verb-0,"Discontinued"-tx-15-"discontinued"-verb-0,"Discontinue"-tx-11-"discontinue"-verb-0,"Discontinue"-tx-4-"discontinue"-verb-0,"Discontinue"-tx-2-"discontinue"-verb-0]|TX|4957/11;4730/15;2369/11;1842/12;1343/11;427/11;172/11|
+00000000|MMI|29.46|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-18-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-3-"anaphylaxis"-noun-0]|TX|2216/11;339/11|C20.543.480.099
+00000000|MMI|26.13|Liver Failure|C0085605|[dsyn]|["HEPATIC FAILURE"-tx-21-"hepatic failure"-noun-0,"HEPATIC FAILURE"-tx-5-"hepatic failure"-noun-0]|TX|2782/15;633/15|C06.552.308.500
+00000000|MMI|25.95|Diabetes Mellitus|C0011849|[dsyn]|["Diabetes"-tx-19-"diabetes"-noun-0,"Diabetes"-tx-4-"diabetes"-noun-0]|TX|2477/8;568/8|C18.452.394.750;C19.246
+00000000|MMI|18.96|Pancreatitis Adverse Event|C1963198|[fndg]|["Pancreatitis"-tx-16-"pancreatitis"-noun-0,"Pancreatitis"-tx-15-"pancreatitis"-noun-0,"Pancreatitis"-tx-14-"pancreatitis"-noun-0,"Pancreatitis"-tx-13-"Pancreatitis"-noun-0,"Pancreatitis"-tx-2-"pancreatitis"-noun-0]|TX|2010/12;1789/12;1772/12;1577/12;136/12|
+00000000|MMI|17.80|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-22-"ALT"-noun-0]|TX|3028/3|C04.557.450.550.400
+00000000|MMI|17.80|Stevens-Johnson Syndrome|C0038325|[dsyn]|["STEVENS JOHNSON SYNDROME"-tx-18-"Stevens-Johnson syndrome"-noun-0]|TX|2290/24|C07.465.864.500;C17.800.174.600.900;C17.800.229.400.683;C17.800.865.475.683;C20.543.206.380.900;C25.100.468.380.900
+00000000|MMI|15.79|Injury of liver|C0160390|[inpo]|["LIVER INJURY"-tx-26-"liver injury"-noun-0,"LIVER INJURY"-tx-8-"liver injury"-noun-1,"LIVER INJURY"-tx-7-"liver injury"-noun-0]|TX|3675/12;878/12;700/12|
+00000000|MMI|14.65|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-34-"symptoms"-noun-0,"SYMPTOMS"-tx-33-"symptoms"-noun-0,"SYMPTOMS"-tx-26-"symptoms"-noun-0,"SYMPTOMS"-tx-14-"symptoms"-noun-0]|TX|4814/8;4716/8;3648/8;1760/8|
+00000000|MMI|14.64|Anorexia|C0003123|[dsyn]|["ANOREXIA"-tx-26-"anorexia"-noun-0]|TX|3708/8|C23.888.821.108
+00000000|MMI|14.64|Icterus|C0022346|[patf]|["JAUNDICE"-tx-26-"jaundice"-noun-0]|TX|3766/8|C23.550.429.500;C23.888.885.375
+00000000|MMI|14.54|Test Result|C0456984|[fndg]|["Test"-tx-28-"test"-noun-1,"Test"-tx-26-"tests"-verb-0,"Test"-tx-24-"test"-noun-0,"Test"-tx-23-"test"-noun-0]|TX|4104/4;3610/5;3426/4;3283/4|
+00000000|MMI|13.56|Liver diseases|C0023895|[dsyn]|["Disease of liver"-tx-23-"of liver disease"-noun-0,"LIVER DISEASE"-tx-23-"liver disease"-noun-0]|TX|3338/16;3246/13|C06.552
+00000000|MMI|13.40|Congenital Abnormality|C0000768|[cgab]|["Abnormalities"-tx-28-"abnormalities"-noun-1,"Abnormalities"-tx-23-"abnormalities"-noun-0]|TX|4109/13;3288/13|C16.131
+00000000|MMI|13.03|Recurrence (disease attribute)|C2825055|[patf]|["RECURRENCE"-tx-34-"recurrence"-noun-0]|TX|4800/10|C23.550.291.937
+00000000|MMI|11.49|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-26-"fatigue"-noun-0]|TX|3699/7|C23.888.369
+00000000|MMI|10.84|Acute pancreatitis|C0001339|[dsyn]|["Acute Pancreatitis"-tx-13-"acute pancreatitis"-noun-0,"Acute Pancreatitis"-tx-1-"Acute pancreatitis"-noun-0,"Acute Pancreatitis"-tx-1-"acute pancreatitis"-noun-0]|TX|1634/18;52/18;113/18|
+00000000|MMI|10.42|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-18-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-3-"anaphylaxis"-noun-0]|TX|2216/11;339/11|
+00000000|MMI|9.94|Disease|C0012634|[dsyn]|["DISEASE"-tx-23-"disease"-noun-0]|TX|3252/7|C23.550.288
+00000000|MMI|9.84|Fatty Liver|C0015695|[dsyn]|["FATTY LIVER"-tx-23-"fatty liver"-noun-0]|TX|3240/11|C06.552.241
+00000000|MMI|9.84|Steatohepatitis|C2711227|[dsyn]|["Fatty liver"-tx-23-"fatty liver"-noun-0]|TX|3240/11|C06.552.241
+00000000|MMI|7.61|Severe pain|C0278140|[fndg]|["Severe pain"-tx-35-"severe pain"-noun-0,"Severe pain"-tx-11-"severe pain"-noun-0]|TX|4935/6,4948/4;1321/6,1334/4|
+00000000|MMI|7.55|Joint Pain Adverse Event|C1963066|[fndg]|["Joint pain"-tx-35-"joint pain"-noun-0,"Joint pain"-tx-11-"joint pain"-noun-0]|TX|4942/10;1328/10|
+00000000|MMI|7.40|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-18-"adverse reactions"-noun-0,"Adverse reactions"-tx-3-"adverse reactions"-noun-0]|TX|2261/17;384/17|
+00000000|MMI|7.36|5-6|C3843715|[fndg]|["5-6"-tx-36-"5.6"-real_number-0,"5-6"-tx-13-"5.6"-real_number-0]|TX|4998/3;1559/3|
+00000000|MMI|7.36|6/5|C0442749|[fndg]|["5 6"-tx-36-"5.6"-real_number-0,"5 6"-tx-13-"5.6"-real_number-0]|TX|4998/3;1559/3|
+00000000|MMI|7.32|liver test abnormal|C0745768|[fndg]|["abnormal liver tests"-tx-27-"abnormal liver tests"-noun-0,"abnormal liver tests"-tx-25-"abnormal liver tests"-noun-0]|TX|3888/20;3529/20|
+00000000|MMI|7.22|Used by|C1273517|[fndg]|["used"-tx-30-"used"-verb-0,"used"-tx-9-"used"-verb-0]|TX|4394/4;1037/4|
+00000000|MMI|7.22|combination - answer to question|C3811910|[fndg]|["Combination"-tx-30-"combination"-noun-0,"Combination"-tx-9-"combination"-noun-0]|TX|4402/11;1045/11|
+00000000|MMI|7.15|Congenital anomaly of liver|C0266257|[cgab]|["liver Abnormalities"-tx-28-"liver abnormalities"-noun-1,"liver Abnormalities"-tx-23-"liver abnormalities"-noun-0]|TX|4098/5,4109/13;3277/5,3288/13|
+00000000|MMI|7.15|Other congenital malformations of liver|C0478037|[cgab]|["Liver abnormalities"-tx-28-"liver abnormalities"-noun-1,"Liver abnormalities"-tx-23-"liver abnormalities"-noun-0]|TX|4098/5,4109/13;3277/5,3288/13|
+00000000|MMI|7.11|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-21-"fatal"-adj-0,"FATAL"-tx-5-"fatal"-adj-0]|TX|2763/5;660/5|
+00000000|MMI|6.92|Diabetes|C0011847|[dsyn]|["Diabetes"-tx-19-"diabetes"-noun-0,"Diabetes"-tx-4-"diabetes"-noun-0]|TX|2477/8;568/8|
+00000000|MMI|5.18|Anorexia symptom|C0426579|[sosy]|["anorexia"-tx-26-"anorexia"-noun-0]|TX|3708/8|
+00000000|MMI|5.18|Detected (finding)|C0442726|[fndg]|["Detected"-tx-7-"detected"-verb-0]|TX|716/8|
+00000000|MMI|5.18|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-3-"Hypersensitivity"-noun-0]|TX|205/16|
+00000000|MMI|5.18|Insufficient information|C4062889|[fndg]|["Insufficient information"-tx-21-"insufficient information"-noun-0]|TX|2862/24|
+00000000|MMI|5.18|Insulin hypoglycemia|C0858734|[dsyn]|["hypoglycemia insulin"-tx-29-"Hypoglycemia Insulin"-noun-0]|TX|4170/12,4186/7|
+00000000|MMI|5.18|Loss of appetite (finding)|C1971624|[fndg]|["Anorexia"-tx-26-"anorexia"-noun-0]|TX|3708/8|
+00000000|MMI|5.18|Urine looks dark|C0426396|[sosy]|["Dark urine"-tx-26-"dark urine"-noun-0]|TX|3752/10|
+00000000|MMI|5.18|Worse|C1457868|[fndg]|["worsen"-tx-27-"worsen"-verb-0]|TX|3920/6|
+00000000|MMI|5.18|jaundice|C2010848|[fndg]|["jaundice"-tx-26-"jaundice"-noun-0]|TX|3766/8|
+00000000|MMI|5.18|physiologic resolution|C1514893|[patf]|["Resolution"-tx-7-"resolution"-noun-0]|TX|824/10|
+00000000|MMI|5.18|yellow skin or eyes (symptom)|C2203646|[sosy]|["jaundice"-tx-26-"jaundice"-noun-0]|TX|3766/8|
+00000000|MMI|3.81|Upper abdominal discomfort|C1868919|[sosy]|["Upper abdominal discomfort"-tx-26-"upper abdominal discomfort"-noun-0]|TX|3724/26|
+00000000|MMI|3.75|reported prior liver disease (history)|C2186532|[fndg]|["liver disease"-tx-23-"liver disease"-noun-0]|TX|3246/13|
+00000000|MMI|3.68|History of angioedema|C3266719|[fndg]|["History of angioedema"-tx-20-"history of angioedema"-noun-0]|TX|2551/21|
+00000000|MMI|3.65|Time of symptom onset|C1320528|[fndg]|["Time of symptom onset"-tx-32-"time onset of symptoms"-noun-0]|TX|4592/4,4600/17|
+00000000|MMI|3.64|One day|C3844320|[fndg]|["One day"-tx-32-"one day"-noun-0]|TX|4667/7|
+00000000|MMI|3.63|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-22-"randomized"-noun-0]|TX|2965/10|
+00000000|MMI|3.60|medication use|C0240320|[fndg]|["medications use"-tx-29-"Use Medications"-noun-0]|TX|4134/3,4143/11|
+00000000|MMI|3.59|1 - 3|C3843504|[fndg]|["1 - 3"-tx-22-"1.3"-percentage-0]|TX|3116/3|
+00000000|MMI|3.59|Feeling relief|C0564405|[fndg]|["Relief"-tx-33-"relief"-noun-0]|TX|4706/6|
+00000000|MMI|3.59|Physical findings|C0311392|[fndg]|["SIGNS"-tx-14-"signs"-noun-0]|TX|1750/5|
+00000000|MMI|3.57|Recurrent Malignant Neoplasm|C1458156|[neop]|["recurrence"-tx-34-"recurrence"-noun-0]|TX|4800/10|
+00000000|MMI|3.48|History of pancreatitis|C3887021|[fndg]|["History of pancreatitis"-tx-16-"history of pancreatitis"-noun-0]|TX|1941/23|
+00000000|MMI|3.43|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-24-"therapy"-noun-0]|TX|3488/7|

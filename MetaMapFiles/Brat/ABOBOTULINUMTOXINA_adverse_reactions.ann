@@ -1,0 +1,1045 @@
+T1	AdverseReaction 121 151	Distant Spread of Toxin Effect
+T3	AdverseReaction 279 307	Spread of Effects from Toxin
+T4	AdverseReaction 351 360	Dysphagia
+T5	AdverseReaction 365 387	Breathing Difficulties
+T9	AdverseReaction 658 685	Intradermal Immune Reaction
+T10	AdverseReaction 833 850	muscular weakness
+T11	AdverseReaction 852 861	dysphagia
+T12	AdverseReaction 863 872	dry mouth
+T13	AdverseReaction 874 899	injection site discomfort
+T14	AdverseReaction 901 908	fatigue
+T15	AdverseReaction 910 918	headache
+T16	AdverseReaction 920 929	neck pain
+T17	AdverseReaction 931 951	musculoskeletal pain
+T18	AdverseReaction 953 962	dysphonia
+T19	AdverseReaction 964 983	injection site pain
+T20	AdverseReaction 989 1002	eye disorders
+T21	AdverseReaction 1097 1112	nasopharyngitis
+T22	AdverseReaction 1114 1122	headache
+T23	AdverseReaction 1124 1143	injection site pain
+T24	AdverseReaction 1145 1168	injection site reaction
+T2	AdverseReaction 1170 1203	upper respiratory tract infection
+T6	AdverseReaction 1205 1217	eyelid edema
+T7	AdverseReaction 1219 1232	eyelid ptosis
+T8	AdverseReaction 1234 1243	sinusitis
+T25	AdverseReaction 1249 1255	nausea
+T26	AdverseReaction 1356 1379	urinary tract infection
+T27	AdverseReaction 1381 1396	nasopharyngitis
+T28	AdverseReaction 1398 1415	muscular weakness
+T29	AdverseReaction 1417 1437	musculoskeletal pain
+T30	AdverseReaction 1439 1448	dizziness
+T31	AdverseReaction 1450 1454	fall
+T32	AdverseReaction 1459 1469	depression
+T33	AdverseReaction 2754 2771	muscular weakness
+T34	AdverseReaction 2773 2782	dysphagia
+T35	AdverseReaction 2784 2793	dry mouth
+T36	AdverseReaction 2795 2820	injection site discomfort
+T37	AdverseReaction 2822 2829	fatigue
+T38	AdverseReaction 2831 2839	headache
+T39	AdverseReaction 2841 2850	neck pain
+T40	AdverseReaction 2852 2872	musculoskeletal pain
+T41	AdverseReaction 2874 2883	dysphonia
+T42	AdverseReaction 2885 2904	injection site pain
+T43	AdverseReaction 2910 2923	eye disorders
+T44	AdverseReaction 2939 2953	blurred vision
+T45	AdverseReaction 2955 2963	diplopia
+T46	AdverseReaction 2969 2990	reduced visual acuity
+T47	AdverseReaction 2969 2983;2995 3008	reduced visual accommodation
+T48	AdverseReaction 3022 3046	injection site reactions
+T49	AdverseReaction 3410 3434	disturbance in attention
+T50	AdverseReaction 3436 3451	eyelid disorder
+T51	AdverseReaction 3453 3469	feeling abnormal
+T52	AdverseReaction 3474 3482	headache
+T53	AdverseReaction 3512 3521	dysphagia
+T54	AdverseReaction 4331 4356	Injection site discomfort
+T55	AdverseReaction 4440 4447	Fatigue
+T56	AdverseReaction 4549 4568	Injection site pain
+T57	AdverseReaction 4768 4785	Muscular weakness
+T58	AdverseReaction 4877 4897	Musculoskeletal pain
+T59	AdverseReaction 5095 5104	Dysphagia
+T60	AdverseReaction 5204 5213	Dry mouth
+T62	AdverseReaction 5422 5430	Headache
+T63	AdverseReaction 5750 5759	Dysphonia
+T74	AdverseReaction 6580 6589	Dysphagia
+T75	AdverseReaction 6693 6702	Dry Mouth
+T76	AdverseReaction 6806 6823	Muscular Weakness
+T77	AdverseReaction 6919 6944	Injection Site Discomfort
+T78	AdverseReaction 7032 7041	Dysphonia
+T79	AdverseReaction 7145 7159	Facial Paresis
+T82	AdverseReaction 7414 7439	Injection site discomfort
+T83	AdverseReaction 7444 7463	injection site pain
+T85	AdverseReaction 7686 7708	Breathing difficulties
+T86	AdverseReaction 7904 7911	dyspnea
+T87	AdverseReaction 8212 8221	dizziness
+T88	AdverseReaction 8309 8323	muscle atrophy
+T89	AdverseReaction 8506 8514;8542 8563	increase in mean blood glucose
+T90	Severity 8500 8505	small
+T91	AdverseReaction 8973 8996	reduction in heart rate
+T92	AdverseReaction 9277 9292	nasopharyngitis
+T93	AdverseReaction 9294 9302	headache
+T94	AdverseReaction 9304 9323	injection site pain
+T95	AdverseReaction 9325 9348	injection site reaction
+T96	AdverseReaction 9350 9383	upper respiratory tract infection
+T97	AdverseReaction 9385 9397	eyelid edema
+T98	AdverseReaction 9399 9412	eyelid ptosis
+T99	AdverseReaction 9414 9423	sinusitis
+T100	AdverseReaction 9429 9435	nausea
+T101	AdverseReaction 10329 10341	Eyelid Edema
+T102	AdverseReaction 10438 10451	Eyelid Ptosis
+T103	AdverseReaction 10656 10662	Nausea
+T104	AdverseReaction 10880 10899	Injection Site Pain
+T105	AdverseReaction 10989 11012	Injection Site Reaction
+T106	AdverseReaction 11207 11222	Nasopharyngitis
+T107	AdverseReaction 11316 11349	Upper Respiratory Tract Infection
+T108	AdverseReaction 11425 11434	Sinusitis
+T109	AdverseReaction 11643 11665	Blood Present in Urine
+T110	AdverseReaction 11861 11869	Headache
+T111	AdverseReaction 12212 12220	headache
+T112	AdverseReaction 12222 12237	nasopharyngitis
+T113	AdverseReaction 12239 12258	injection site pain
+T114	AdverseReaction 12260 12269	sinusitis
+T115	AdverseReaction 12271 12274	URI
+T116	AdverseReaction 12276 12299	injection site bruising
+T117	AdverseReaction 12305 12328	injection site reaction
+T118	AdverseReaction 12305 12319;12330 12338	injection site numbness
+T119	AdverseReaction 12305 12319;12340 12350	injection site discomfort
+T120	AdverseReaction 12305 12319;12352 12360	injection site erythema
+T121	AdverseReaction 12305 12319;12362 12372	injection site tenderness
+T122	AdverseReaction 12305 12319;12374 12382	injection site tingling
+T123	AdverseReaction 12305 12319;12384 12391	injection site itching
+T124	AdverseReaction 12305 12319;12393 12401	injection site stinging
+T125	AdverseReaction 12305 12319;12403 12409	injection site warmth
+T127	AdverseReaction 12305 12319;12423 12432	injection site tightness
+T128	AdverseReaction 12305 12319;12434 12442	injection site swelling
+T129	AdverseReaction 12542 12552	bronchitis
+T130	AdverseReaction 12554 12563	influenza
+T131	AdverseReaction 12565 12587	pharyngolaryngeal pain
+T132	AdverseReaction 12589 12594	cough
+T133	AdverseReaction 12596 12614	contact dermatitis
+T134	AdverseReaction 12616 12639	injection site swelling
+T135	AdverseReaction 12645 12670	injection site discomfort
+T136	AdverseReaction 12693 12706	eyelid ptosis
+T137	AdverseReaction 12845 12858	eyelid ptosis
+T138	Severity 12864 12868	mild
+T139	Severity 12872 12880	moderate
+T140	AdverseReaction 13749 13764	Nasopharyngitis
+T141	AdverseReaction 13860 13883	Urinary tract infection
+T142	AdverseReaction 13971 13980	Influenza
+T143	AdverseReaction 14082 14091	Infection
+T144	AdverseReaction 14304 14321	Muscular weakness
+T145	AdverseReaction 14415 14432	Pain in extremity
+T146	AdverseReaction 14526 14546	Musculoskeletal pain
+T147	AdverseReaction 14637 14646	Back pain
+T149	AdverseReaction 14859 14867	Headache
+T150	AdverseReaction 14970 14979	Dizziness
+T151	AdverseReaction 15081 15091	Convulsion
+T152	AdverseReaction 15192 15199	Syncope
+T148	AdverseReaction 15303 15316	Hypoaesthesia
+T153	AdverseReaction 15414 15430	Partial seizures
+T157	AdverseReaction 15748 15756	Asthenia
+T158	AdverseReaction 15637 15644	Fatigue
+T159	AdverseReaction 15970 15974	Fall
+T160	AdverseReaction 16081 16087	Injury
+T161	AdverseReaction 16192 16201	Contusion
+T162	AdverseReaction 16414 16422	Diarrhea
+T163	AdverseReaction 16525 16531	Nausea
+T164	AdverseReaction 16636 16648	Constipation
+T165	AdverseReaction 16858 16887	Blood triglycerides increased
+T166	AdverseReaction 17080 17085	Cough
+T167	AdverseReaction 17302 17314	Hypertension
+T168	AdverseReaction 17524 17534	Depression
+T169	AdverseReaction 17677 17701	Injection site reactions
+T170	AdverseReaction 17677 17691;17708 17712	Injection site pain
+T171	AdverseReaction 17677 17691;17714 17722	Injection site bruising
+T172	AdverseReaction 17677 17691;17724 17735	Injection site haemorrhage
+T173	AdverseReaction 17737 17760	injection site erythema
+T174	AdverseReaction 17737 17751;17761 17770	injection site haematoma
+T175	AdverseReaction 18029 18038	dysphagia
+T176	AdverseReaction 18045 18061	gait disturbance
+T177	AdverseReaction 18089 18111	sensation of heaviness
+T178	AdverseReaction 18461 18468	vertigo
+T179	AdverseReaction 18470 18481	photophobia
+T180	AdverseReaction 18483 18505	influenza-like illness
+T181	AdverseReaction 18507 18517	amyotrophy
+T182	AdverseReaction 18519 18536	burning sensation
+T183	AdverseReaction 18538 18552	facial paresis
+T184	AdverseReaction 18554 18566	hypoesthesia
+T185	AdverseReaction 18568 18576	erythema
+T186	AdverseReaction 18582 18610	excessive granulation tissue
+T61	AdverseReaction 18068 18078	hypertonia
+T64	AdverseReaction 12305 12319;12411 12421	injection site irritation
+E1	AdverseReaction:T1
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E2	AdverseReaction:T2
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89 Effect:E90
+E90	Severity:T90
+E91	AdverseReaction:T91
+E92	AdverseReaction:T92
+E93	AdverseReaction:T93
+E94	AdverseReaction:T94
+E95	AdverseReaction:T95
+E96	AdverseReaction:T96
+E97	AdverseReaction:T97
+E98	AdverseReaction:T98
+E99	AdverseReaction:T99
+E100	AdverseReaction:T100
+E101	AdverseReaction:T101
+E102	AdverseReaction:T102
+E103	AdverseReaction:T103
+E104	AdverseReaction:T104
+E105	AdverseReaction:T105
+E106	AdverseReaction:T106
+E107	AdverseReaction:T107
+E108	AdverseReaction:T108
+E109	AdverseReaction:T109
+E110	AdverseReaction:T110
+E111	AdverseReaction:T111
+E112	AdverseReaction:T112
+E113	AdverseReaction:T113
+E114	AdverseReaction:T114
+E115	AdverseReaction:T115
+E116	AdverseReaction:T116
+E117	AdverseReaction:T117
+E118	AdverseReaction:T118
+E119	AdverseReaction:T119
+E120	AdverseReaction:T120
+E121	AdverseReaction:T121
+E122	AdverseReaction:T122
+E123	AdverseReaction:T123
+E124	AdverseReaction:T124
+E125	AdverseReaction:T125
+E127	AdverseReaction:T127
+E128	AdverseReaction:T128
+E129	AdverseReaction:T129
+E130	AdverseReaction:T130
+E131	AdverseReaction:T131
+E132	AdverseReaction:T132
+E133	AdverseReaction:T133
+E134	AdverseReaction:T134
+E135	AdverseReaction:T135
+E136	AdverseReaction:T136
+E137	AdverseReaction:T137
+E138	Severity:T138
+E139	Severity:T139
+E140	AdverseReaction:T140
+E141	AdverseReaction:T141
+E142	AdverseReaction:T142
+E143	AdverseReaction:T143
+E144	AdverseReaction:T144
+E145	AdverseReaction:T145
+E146	AdverseReaction:T146
+E147	AdverseReaction:T147
+E149	AdverseReaction:T149
+E150	AdverseReaction:T150
+E151	AdverseReaction:T151
+E152	AdverseReaction:T152
+E148	AdverseReaction:T148
+E153	AdverseReaction:T153
+E160	AdverseReaction:T157
+E161	AdverseReaction:T158
+E162	AdverseReaction:T159
+E163	AdverseReaction:T160
+E164	AdverseReaction:T161
+E165	AdverseReaction:T162
+E166	AdverseReaction:T163
+E167	AdverseReaction:T164
+E168	AdverseReaction:T165
+E169	AdverseReaction:T166
+E170	AdverseReaction:T167
+E171	AdverseReaction:T168
+E172	AdverseReaction:T169
+E173	AdverseReaction:T170
+E174	AdverseReaction:T171
+E175	AdverseReaction:T172
+E176	AdverseReaction:T173
+E177	AdverseReaction:T174
+E178	AdverseReaction:T175
+E179	AdverseReaction:T176
+E180	AdverseReaction:T177
+E181	AdverseReaction:T178
+E182	AdverseReaction:T179
+E183	AdverseReaction:T180
+E184	AdverseReaction:T181
+E185	AdverseReaction:T182
+E186	AdverseReaction:T183
+E187	AdverseReaction:T184
+E188	AdverseReaction:T185
+E189	AdverseReaction:T186
+E61	AdverseReaction:T61
+E65	AdverseReaction:T137 Effect:E138 Effect2:E139
+E64	AdverseReaction:T64
+A1	flag E1 unmapped
+A2	flag E3 unmapped
+A3	CUI E4 C0011168
+A4	UMLS-Preferred-Name E4 Deglutition Disorders
+A5	MEDDRA-PT E4 Dysphagia
+A6	MEDDRA-PT-ID E4 10013950
+A7	CUI E5 C0013404
+A8	UMLS-Preferred-Name E5 Dyspnea
+A9	MEDDRA-PT E5 Dyspnoea
+A10	MEDDRA-PT-ID E5 10013968
+A11	LLT E5 Difficulty breathing
+A12	LLT-ID E5 10012791
+A13	CUI E9 C0863090
+A14	UMLS-Preferred-Name E9 Allergic skin reaction
+A15	MEDDRA-PT E9 Dermatitis allergic
+A16	MEDDRA-PT-ID E9 10012434
+A17	LLT E9 Allergic skin reaction
+A18	LLT-ID E9 10001729
+A19	CUI E10 C0151786
+A20	UMLS-Preferred-Name E10 Muscle Weakness
+A21	MEDDRA-PT E10 Muscular weakness
+A22	MEDDRA-PT-ID E10 10028372
+A23	CUI E11 C0011168
+A24	UMLS-Preferred-Name E11 Deglutition Disorders
+A25	MEDDRA-PT E11 Dysphagia
+A26	MEDDRA-PT-ID E11 10013950
+A27	CUI E12 C0043352
+A28	UMLS-Preferred-Name E12 Xerostomia
+A29	MEDDRA-PT E12 Dry mouth
+A30	MEDDRA-PT-ID E12 10013781
+A31	CUI E13 C1096267
+A32	UMLS-Preferred-Name E13 Injection site discomfort
+A33	MEDDRA-PT E13 Injection site discomfort
+A34	MEDDRA-PT-ID E13 10054266
+A35	CUI E14 C0015672
+A36	UMLS-Preferred-Name E14 Fatigue
+A37	MEDDRA-PT E14 Fatigue
+A38	MEDDRA-PT-ID E14 10016256
+A39	CUI E15 C0018681
+A40	UMLS-Preferred-Name E15 Headache
+A41	MEDDRA-PT E15 Headache
+A42	MEDDRA-PT-ID E15 10019211
+A43	CUI E16 C0007859
+A44	UMLS-Preferred-Name E16 Neck Pain
+A45	MEDDRA-PT E16 Neck pain
+A46	MEDDRA-PT-ID E16 10028836
+A47	CUI E17 C0026858
+A48	UMLS-Preferred-Name E17 Musculoskeletal Pain
+A49	MEDDRA-PT E17 Musculoskeletal pain
+A50	MEDDRA-PT-ID E17 10028391
+A51	CUI E18 C1527344
+A52	UMLS-Preferred-Name E18 Dysphonia
+A53	MEDDRA-PT E18 Dysphonia
+A54	MEDDRA-PT-ID E18 10013952
+A55	CUI E19 C0151828
+A56	UMLS-Preferred-Name E19 Injection site pain
+A57	MEDDRA-PT E19 Injection site pain
+A58	MEDDRA-PT-ID E19 10022086
+A59	CUI E20 C0015397
+A60	UMLS-Preferred-Name E20 Disorder of eye
+A61	MEDDRA-PT E20 Eye disorder
+A62	MEDDRA-PT-ID E20 10015916
+A63	CUI E21 C0027441
+A64	UMLS-Preferred-Name E21 Nasopharyngitis
+A65	MEDDRA-PT E21 Nasopharyngitis
+A66	MEDDRA-PT-ID E21 10028810
+A67	CUI E22 C0018681
+A68	UMLS-Preferred-Name E22 Headache
+A69	MEDDRA-PT E22 Headache
+A70	MEDDRA-PT-ID E22 10019211
+A71	CUI E23 C0151828
+A72	UMLS-Preferred-Name E23 Injection site pain
+A73	MEDDRA-PT E23 Injection site pain
+A74	MEDDRA-PT-ID E23 10022086
+A75	CUI E24 C0151735
+A76	UMLS-Preferred-Name E24 Injection site reaction
+A77	MEDDRA-PT E24 Injection site reaction
+A78	MEDDRA-PT-ID E24 10022095
+A79	CUI E2 C0041912
+A80	UMLS-Preferred-Name E2 Upper Respiratory Infections
+A81	MEDDRA-PT E2 Upper respiratory tract infection
+A82	MEDDRA-PT-ID E2 10046306
+A83	CUI E6 C0162285
+A84	UMLS-Preferred-Name E6 Edema of eyelid
+A85	MEDDRA-PT E6 Eyelid oedema
+A86	MEDDRA-PT-ID E6 10015993
+A87	LLT E6 Eyelid edema
+A88	LLT-ID E6 10015985
+A89	CUI E7 C0005745
+A90	UMLS-Preferred-Name E7 Blepharoptosis
+A91	MEDDRA-PT E7 Eyelid ptosis
+A92	MEDDRA-PT-ID E7 10015995
+A93	CUI E8 C0037199
+A94	UMLS-Preferred-Name E8 Sinusitis
+A95	MEDDRA-PT E8 Sinusitis
+A96	MEDDRA-PT-ID E8 10040753
+A97	CUI E25 C0027497
+A98	UMLS-Preferred-Name E25 Nausea
+A99	MEDDRA-PT E25 Nausea
+A100	MEDDRA-PT-ID E25 10028813
+A101	CUI E26 C0042029
+A102	UMLS-Preferred-Name E26 Urinary tract infection
+A103	MEDDRA-PT E26 Urinary tract infection
+A104	MEDDRA-PT-ID E26 10046571
+A105	CUI E27 C0027441
+A106	UMLS-Preferred-Name E27 Nasopharyngitis
+A107	MEDDRA-PT E27 Nasopharyngitis
+A108	MEDDRA-PT-ID E27 10028810
+A109	CUI E28 C0151786
+A110	UMLS-Preferred-Name E28 Muscle Weakness
+A111	MEDDRA-PT E28 Muscular weakness
+A112	MEDDRA-PT-ID E28 10028372
+A113	CUI E29 C0026858
+A114	UMLS-Preferred-Name E29 Musculoskeletal Pain
+A115	MEDDRA-PT E29 Musculoskeletal pain
+A116	MEDDRA-PT-ID E29 10028391
+A117	CUI E30 C0012833
+A118	UMLS-Preferred-Name E30 Dizziness
+A119	MEDDRA-PT E30 Dizziness
+A120	MEDDRA-PT-ID E30 10013573
+A121	CUI E31 C0085639
+A122	UMLS-Preferred-Name E31 Falls
+A123	MEDDRA-PT E31 Fall
+A124	MEDDRA-PT-ID E31 10016173
+A125	CUI E32 C0011570
+A126	UMLS-Preferred-Name E32 Mental Depression
+A127	MEDDRA-PT E32 Depression
+A128	MEDDRA-PT-ID E32 10012378
+A129	CUI E33 C0151786
+A130	UMLS-Preferred-Name E33 Muscle Weakness
+A131	MEDDRA-PT E33 Muscular weakness
+A132	MEDDRA-PT-ID E33 10028372
+A133	CUI E34 C0011168
+A134	UMLS-Preferred-Name E34 Deglutition Disorders
+A135	MEDDRA-PT E34 Dysphagia
+A136	MEDDRA-PT-ID E34 10013950
+A137	CUI E35 C0043352
+A138	UMLS-Preferred-Name E35 Xerostomia
+A139	MEDDRA-PT E35 Dry mouth
+A140	MEDDRA-PT-ID E35 10013781
+A141	CUI E36 C1096267
+A142	UMLS-Preferred-Name E36 Injection site discomfort
+A143	MEDDRA-PT E36 Injection site discomfort
+A144	MEDDRA-PT-ID E36 10054266
+A145	CUI E37 C0015672
+A146	UMLS-Preferred-Name E37 Fatigue
+A147	MEDDRA-PT E37 Fatigue
+A148	MEDDRA-PT-ID E37 10016256
+A149	CUI E38 C0018681
+A150	UMLS-Preferred-Name E38 Headache
+A151	MEDDRA-PT E38 Headache
+A152	MEDDRA-PT-ID E38 10019211
+A153	CUI E39 C0007859
+A154	UMLS-Preferred-Name E39 Neck Pain
+A155	MEDDRA-PT E39 Neck pain
+A156	MEDDRA-PT-ID E39 10028836
+A157	CUI E40 C0026858
+A158	UMLS-Preferred-Name E40 Musculoskeletal Pain
+A159	MEDDRA-PT E40 Musculoskeletal pain
+A160	MEDDRA-PT-ID E40 10028391
+A161	CUI E41 C1527344
+A162	UMLS-Preferred-Name E41 Dysphonia
+A163	MEDDRA-PT E41 Dysphonia
+A164	MEDDRA-PT-ID E41 10013952
+A165	CUI E42 C0151828
+A166	UMLS-Preferred-Name E42 Injection site pain
+A167	MEDDRA-PT E42 Injection site pain
+A168	MEDDRA-PT-ID E42 10022086
+A169	CUI E43 C0015397
+A170	UMLS-Preferred-Name E43 Disorder of eye
+A171	MEDDRA-PT E43 Eye disorder
+A172	MEDDRA-PT-ID E43 10015916
+A173	CUI E44 C0344232
+A174	UMLS-Preferred-Name E44 Blurred vision
+A175	MEDDRA-PT E44 Vision blurred
+A176	MEDDRA-PT-ID E44 10047513
+A177	LLT E44 Blurred vision
+A178	LLT-ID E44 10005886
+A179	CUI E45 C0012569
+A180	UMLS-Preferred-Name E45 Diplopia
+A181	MEDDRA-PT E45 Diplopia
+A182	MEDDRA-PT-ID E45 10013036
+A183	CUI E46 C0234632
+A184	UMLS-Preferred-Name E46 Reduced visual acuity
+A185	MEDDRA-PT E46 Visual acuity reduced
+A186	MEDDRA-PT-ID E46 10047531
+A187	CUI E47 C0152198
+A188	UMLS-Preferred-Name E47 Disorder of accommodation
+A189	MEDDRA-PT E47 Accommodation disorder
+A190	MEDDRA-PT-ID E47 10000389
+A191	LLT E47 Visual accommodation disturbance of
+A192	LLT-ID E47 10047528
+A193	CUI E48 C0151735
+A194	UMLS-Preferred-Name E48 Injection site reaction
+A195	MEDDRA-PT E48 Injection site reaction
+A196	MEDDRA-PT-ID E48 10022095
+A197	CUI E49 C0233414
+A198	UMLS-Preferred-Name E49 Disturbance of attention
+A199	MEDDRA-PT E49 Disturbance in attention
+A200	MEDDRA-PT-ID E49 10013496
+A201	CUI E50 C0015423
+A202	UMLS-Preferred-Name E50 Eyelid Diseases
+A203	MEDDRA-PT E50 Eyelid disorder
+A204	MEDDRA-PT-ID E50 10061130
+A205	CUI E51 C1443060
+A206	UMLS-Preferred-Name E51 Feeling abnormal
+A207	MEDDRA-PT E51 Feeling abnormal
+A208	MEDDRA-PT-ID E51 10016322
+A209	CUI E52 C0018681
+A210	UMLS-Preferred-Name E52 Headache
+A211	MEDDRA-PT E52 Headache
+A212	MEDDRA-PT-ID E52 10019211
+A213	CUI E53 C0011168
+A214	UMLS-Preferred-Name E53 Deglutition Disorders
+A215	MEDDRA-PT E53 Dysphagia
+A216	MEDDRA-PT-ID E53 10013950
+A217	CUI E54 C1096267
+A218	UMLS-Preferred-Name E54 Injection site discomfort
+A219	MEDDRA-PT E54 Injection site discomfort
+A220	MEDDRA-PT-ID E54 10054266
+A221	CUI E55 C0015672
+A222	UMLS-Preferred-Name E55 Fatigue
+A223	MEDDRA-PT E55 Fatigue
+A224	MEDDRA-PT-ID E55 10016256
+A225	CUI E56 C0151828
+A226	UMLS-Preferred-Name E56 Injection site pain
+A227	MEDDRA-PT E56 Injection site pain
+A228	MEDDRA-PT-ID E56 10022086
+A229	CUI E57 C0151786
+A230	UMLS-Preferred-Name E57 Muscle Weakness
+A231	MEDDRA-PT E57 Muscular weakness
+A232	MEDDRA-PT-ID E57 10028372
+A233	CUI E58 C0026858
+A234	UMLS-Preferred-Name E58 Musculoskeletal Pain
+A235	MEDDRA-PT E58 Musculoskeletal pain
+A236	MEDDRA-PT-ID E58 10028391
+A237	CUI E59 C0011168
+A238	UMLS-Preferred-Name E59 Deglutition Disorders
+A239	MEDDRA-PT E59 Dysphagia
+A240	MEDDRA-PT-ID E59 10013950
+A241	CUI E60 C0043352
+A242	UMLS-Preferred-Name E60 Xerostomia
+A243	MEDDRA-PT E60 Dry mouth
+A244	MEDDRA-PT-ID E60 10013781
+A245	CUI E62 C0018681
+A246	UMLS-Preferred-Name E62 Headache
+A247	MEDDRA-PT E62 Headache
+A248	MEDDRA-PT-ID E62 10019211
+A249	CUI E63 C1527344
+A250	UMLS-Preferred-Name E63 Dysphonia
+A251	MEDDRA-PT E63 Dysphonia
+A252	MEDDRA-PT-ID E63 10013952
+A253	CUI E74 C0011168
+A254	UMLS-Preferred-Name E74 Deglutition Disorders
+A255	MEDDRA-PT E74 Dysphagia
+A256	MEDDRA-PT-ID E74 10013950
+A257	CUI E75 C0043352
+A258	UMLS-Preferred-Name E75 Xerostomia
+A259	MEDDRA-PT E75 Dry mouth
+A260	MEDDRA-PT-ID E75 10013781
+A261	CUI E76 C0151786
+A262	UMLS-Preferred-Name E76 Muscle Weakness
+A263	MEDDRA-PT E76 Muscular weakness
+A264	MEDDRA-PT-ID E76 10028372
+A265	CUI E77 C1096267
+A266	UMLS-Preferred-Name E77 Injection site discomfort
+A267	MEDDRA-PT E77 Injection site discomfort
+A268	MEDDRA-PT-ID E77 10054266
+A269	CUI E78 C1527344
+A270	UMLS-Preferred-Name E78 Dysphonia
+A271	MEDDRA-PT E78 Dysphonia
+A272	MEDDRA-PT-ID E78 10013952
+A273	CUI E79 C0427055
+A274	UMLS-Preferred-Name E79 Facial Paresis
+A275	MEDDRA-PT E79 Facial paresis
+A276	MEDDRA-PT-ID E79 10051267
+A277	CUI E82 C1096267
+A278	UMLS-Preferred-Name E82 Injection site discomfort
+A279	MEDDRA-PT E82 Injection site discomfort
+A280	MEDDRA-PT-ID E82 10054266
+A281	CUI E83 C0151828
+A282	UMLS-Preferred-Name E83 Injection site pain
+A283	MEDDRA-PT E83 Injection site pain
+A284	MEDDRA-PT-ID E83 10022086
+A285	CUI E85 C0013404
+A286	UMLS-Preferred-Name E85 Dyspnea
+A287	MEDDRA-PT E85 Dyspnoea
+A288	MEDDRA-PT-ID E85 10013968
+A289	LLT E85 Difficulty breathing
+A290	LLT-ID E85 10012791
+A291	CUI E86 C0013404
+A292	UMLS-Preferred-Name E86 Dyspnea
+A293	MEDDRA-PT E86 Dyspnoea
+A294	MEDDRA-PT-ID E86 10013968
+A295	LLT E86 Dyspnea
+A296	LLT-ID E86 10013963
+A297	CUI E87 C0012833
+A298	UMLS-Preferred-Name E87 Dizziness
+A299	MEDDRA-PT E87 Dizziness
+A300	MEDDRA-PT-ID E87 10013573
+A301	CUI E88 C0026846
+A302	UMLS-Preferred-Name E88 Muscular Atrophy
+A303	MEDDRA-PT E88 Muscle atrophy
+A304	MEDDRA-PT-ID E88 10028289
+A305	CUI E89 C0595877
+A306	UMLS-Preferred-Name E89 Blood glucose increased
+A307	MEDDRA-PT E89 Blood glucose increased
+A308	MEDDRA-PT-ID E89 10005557
+A309	CUI E91 C2230138
+A310	UMLS-Preferred-Name E91 Pulse slow (finding)
+A311	MEDDRA-PT E91 Heart rate decreased
+A312	MEDDRA-PT-ID E91 10019301
+A313	CUI E92 C0027441
+A314	UMLS-Preferred-Name E92 Nasopharyngitis
+A315	MEDDRA-PT E92 Nasopharyngitis
+A316	MEDDRA-PT-ID E92 10028810
+A317	CUI E93 C0018681
+A318	UMLS-Preferred-Name E93 Headache
+A319	MEDDRA-PT E93 Headache
+A320	MEDDRA-PT-ID E93 10019211
+A321	CUI E94 C0151828
+A322	UMLS-Preferred-Name E94 Injection site pain
+A323	MEDDRA-PT E94 Injection site pain
+A324	MEDDRA-PT-ID E94 10022086
+A325	CUI E95 C0151735
+A326	UMLS-Preferred-Name E95 Injection site reaction
+A327	MEDDRA-PT E95 Injection site reaction
+A328	MEDDRA-PT-ID E95 10022095
+A329	CUI E96 C0041912
+A330	UMLS-Preferred-Name E96 Upper Respiratory Infections
+A331	MEDDRA-PT E96 Upper respiratory tract infection
+A332	MEDDRA-PT-ID E96 10046306
+A333	CUI E97 C0162285
+A334	UMLS-Preferred-Name E97 Edema of eyelid
+A335	MEDDRA-PT E97 Eyelid oedema
+A336	MEDDRA-PT-ID E97 10015993
+A337	LLT E97 Eyelid edema
+A338	LLT-ID E97 10015985
+A339	CUI E98 C0005745
+A340	UMLS-Preferred-Name E98 Blepharoptosis
+A341	MEDDRA-PT E98 Eyelid ptosis
+A342	MEDDRA-PT-ID E98 10015995
+A343	CUI E99 C0037199
+A344	UMLS-Preferred-Name E99 Sinusitis
+A345	MEDDRA-PT E99 Sinusitis
+A346	MEDDRA-PT-ID E99 10040753
+A347	CUI E100 C0027497
+A348	UMLS-Preferred-Name E100 Nausea
+A349	MEDDRA-PT E100 Nausea
+A350	MEDDRA-PT-ID E100 10028813
+A351	CUI E101 C0162285
+A352	UMLS-Preferred-Name E101 Edema of eyelid
+A353	MEDDRA-PT E101 Eyelid oedema
+A354	MEDDRA-PT-ID E101 10015993
+A355	LLT E101 Eyelid edema
+A356	LLT-ID E101 10015985
+A357	CUI E102 C0005745
+A358	UMLS-Preferred-Name E102 Blepharoptosis
+A359	MEDDRA-PT E102 Eyelid ptosis
+A360	MEDDRA-PT-ID E102 10015995
+A361	CUI E103 C0027497
+A362	UMLS-Preferred-Name E103 Nausea
+A363	MEDDRA-PT E103 Nausea
+A364	MEDDRA-PT-ID E103 10028813
+A365	CUI E104 C0151828
+A366	UMLS-Preferred-Name E104 Injection site pain
+A367	MEDDRA-PT E104 Injection site pain
+A368	MEDDRA-PT-ID E104 10022086
+A369	CUI E105 C0151735
+A370	UMLS-Preferred-Name E105 Injection site reaction
+A371	MEDDRA-PT E105 Injection site reaction
+A372	MEDDRA-PT-ID E105 10022095
+A373	CUI E106 C0027441
+A374	UMLS-Preferred-Name E106 Nasopharyngitis
+A375	MEDDRA-PT E106 Nasopharyngitis
+A376	MEDDRA-PT-ID E106 10028810
+A377	CUI E107 C0041912
+A378	UMLS-Preferred-Name E107 Upper Respiratory Infections
+A379	MEDDRA-PT E107 Upper respiratory tract infection
+A380	MEDDRA-PT-ID E107 10046306
+A381	CUI E108 C0037199
+A382	UMLS-Preferred-Name E108 Sinusitis
+A383	MEDDRA-PT E108 Sinusitis
+A384	MEDDRA-PT-ID E108 10040753
+A385	CUI E109 C0947999
+A386	UMLS-Preferred-Name E109 Blood urine present
+A387	MEDDRA-PT E109 Blood urine present
+A388	MEDDRA-PT-ID E109 10018870
+A389	LLT E109 Blood in urine
+A390	LLT-ID E109 10005604
+A391	CUI E110 C0018681
+A392	UMLS-Preferred-Name E110 Headache
+A393	MEDDRA-PT E110 Headache
+A394	MEDDRA-PT-ID E110 10019211
+A395	CUI E111 C0018681
+A396	UMLS-Preferred-Name E111 Headache
+A397	MEDDRA-PT E111 Headache
+A398	MEDDRA-PT-ID E111 10019211
+A399	CUI E112 C0027441
+A400	UMLS-Preferred-Name E112 Nasopharyngitis
+A401	MEDDRA-PT E112 Nasopharyngitis
+A402	MEDDRA-PT-ID E112 10028810
+A403	CUI E113 C0151828
+A404	UMLS-Preferred-Name E113 Injection site pain
+A405	MEDDRA-PT E113 Injection site pain
+A406	MEDDRA-PT-ID E113 10022086
+A407	CUI E114 C0037199
+A408	UMLS-Preferred-Name E114 Sinusitis
+A409	MEDDRA-PT E114 Sinusitis
+A410	MEDDRA-PT-ID E114 10040753
+A411	CUI E115 C0041912
+A412	UMLS-Preferred-Name E115 Upper Respiratory Infections
+A413	MEDDRA-PT E115 Upper respiratory tract infection
+A414	MEDDRA-PT-ID E115 10046306
+A415	CUI E116 C0521508
+A416	UMLS-Preferred-Name E116 Injection site bruising
+A417	MEDDRA-PT E116 Injection site bruising
+A418	MEDDRA-PT-ID E116 10022052
+A419	CUI E117 C0151735
+A420	UMLS-Preferred-Name E117 Injection site reaction
+A421	MEDDRA-PT E117 Injection site reaction
+A422	MEDDRA-PT-ID E117 10022095
+A423	CUI E118 C0858930
+A424	UMLS-Preferred-Name E118 Injection site numbness
+A425	MEDDRA-PT E118 Injection site hypoaesthesia
+A426	MEDDRA-PT-ID E118 10074586
+A427	LLT E118 Injection site numbness
+A428	LLT-ID E118 10022084
+A429	CUI E119 C1096267
+A430	UMLS-Preferred-Name E119 Injection site discomfort
+A431	MEDDRA-PT E119 Injection site discomfort
+A432	MEDDRA-PT-ID E119 10054266
+A433	CUI E120 C0852625
+A434	UMLS-Preferred-Name E120 Injection site erythema
+A435	MEDDRA-PT E120 Injection site erythema
+A436	MEDDRA-PT-ID E120 10022061
+A437	CUI E121 C0863083
+A438	UMLS-Preferred-Name E121 Injection site tenderness
+A439	MEDDRA-PT E121 Injection site pain
+A440	MEDDRA-PT-ID E121 10022086
+A441	LLT E121 Injection site tenderness
+A442	LLT-ID E121 10022102
+A443	CUI E122 C3854554
+A444	UMLS-Preferred-Name E122 Injection site tingling
+A445	MEDDRA-PT E122 Injection site paraesthesia
+A446	MEDDRA-PT-ID E122 10022088
+A447	LLT E122 Injection site tingling
+A448	LLT-ID E122 10074951
+A449	CUI E123 C0852995
+A450	UMLS-Preferred-Name E123 Injection site pruritus
+A451	MEDDRA-PT E123 Injection site pruritus
+A452	MEDDRA-PT-ID E123 10022093
+A453	LLT E123 Injection site itching
+A454	LLT-ID E123 10022080
+A455	CUI E124 C1142080
+A456	UMLS-Preferred-Name E124 Injection site stinging
+A457	MEDDRA-PT E124 Injection site pain
+A458	MEDDRA-PT-ID E124 10022086
+A459	LLT E124 Injection site stinging
+A460	LLT-ID E124 10058683
+A461	CUI E125 C0858934
+A462	UMLS-Preferred-Name E125 Injection site warmth
+A463	MEDDRA-PT E125 Injection site warmth
+A464	MEDDRA-PT-ID E125 10022112
+A465	CUI E127 C0151735
+A466	UMLS-Preferred-Name E127 Injection site reaction
+A467	MEDDRA-PT E127 Injection site reaction
+A468	MEDDRA-PT-ID E127 10022095
+A469	CUI E128 C0151605
+A470	UMLS-Preferred-Name E128 Injection site edema
+A471	MEDDRA-PT E128 Injection site swelling
+A472	MEDDRA-PT-ID E128 10053425
+A473	CUI E129 C0006277
+A474	UMLS-Preferred-Name E129 Bronchitis
+A475	MEDDRA-PT E129 Bronchitis
+A476	MEDDRA-PT-ID E129 10006451
+A477	CUI E130 C0021400
+A478	UMLS-Preferred-Name E130 Influenza
+A479	MEDDRA-PT E130 Influenza
+A480	MEDDRA-PT-ID E130 10022000
+A481	CUI E131 C0858635
+A482	UMLS-Preferred-Name E131 Pharyngolaryngeal pain
+A483	MEDDRA-PT E131 Laryngeal pain
+A484	MEDDRA-PT-ID E131 10023848
+A485	LLT E131 Pharyngolaryngeal pain
+A486	LLT-ID E131 10034844
+A487	CUI E132 C0010200
+A488	UMLS-Preferred-Name E132 Coughing
+A489	MEDDRA-PT E132 Cough
+A490	MEDDRA-PT-ID E132 10011224
+A491	CUI E133 C0011616
+A492	UMLS-Preferred-Name E133 Contact Dermatitis
+A493	MEDDRA-PT E133 Dermatitis contact
+A494	MEDDRA-PT-ID E133 10012442
+A495	LLT E133 Contact dermatitis
+A496	LLT-ID E133 10010790
+A497	CUI E134 C0151605
+A498	UMLS-Preferred-Name E134 Injection site edema
+A499	MEDDRA-PT E134 Injection site swelling
+A500	MEDDRA-PT-ID E134 10053425
+A501	CUI E135 C1096267
+A502	UMLS-Preferred-Name E135 Injection site discomfort
+A503	MEDDRA-PT E135 Injection site discomfort
+A504	MEDDRA-PT-ID E135 10054266
+A505	CUI E136 C0005745
+A506	UMLS-Preferred-Name E136 Blepharoptosis
+A507	MEDDRA-PT E136 Eyelid ptosis
+A508	MEDDRA-PT-ID E136 10015995
+A509	CUI E137 C0005745
+A510	UMLS-Preferred-Name E137 Blepharoptosis
+A511	MEDDRA-PT E137 Eyelid ptosis
+A512	MEDDRA-PT-ID E137 10015995
+A513	CUI E140 C0027441
+A514	UMLS-Preferred-Name E140 Nasopharyngitis
+A515	MEDDRA-PT E140 Nasopharyngitis
+A516	MEDDRA-PT-ID E140 10028810
+A517	CUI E141 C0042029
+A518	UMLS-Preferred-Name E141 Urinary tract infection
+A519	MEDDRA-PT E141 Urinary tract infection
+A520	MEDDRA-PT-ID E141 10046571
+A521	CUI E142 C0021400
+A522	UMLS-Preferred-Name E142 Influenza
+A523	MEDDRA-PT E142 Influenza
+A524	MEDDRA-PT-ID E142 10022000
+A525	CUI E143 C3714514
+A526	UMLS-Preferred-Name E143 Infection
+A527	MEDDRA-PT E143 Infection
+A528	MEDDRA-PT-ID E143 10021789
+A529	CUI E144 C0151786
+A530	UMLS-Preferred-Name E144 Muscle Weakness
+A531	MEDDRA-PT E144 Muscular weakness
+A532	MEDDRA-PT-ID E144 10028372
+A533	CUI E145 C0030196
+A534	UMLS-Preferred-Name E145 Pain in limb
+A535	MEDDRA-PT E145 Pain in extremity
+A536	MEDDRA-PT-ID E145 10033425
+A537	CUI E146 C0026858
+A538	UMLS-Preferred-Name E146 Musculoskeletal Pain
+A539	MEDDRA-PT E146 Musculoskeletal pain
+A540	MEDDRA-PT-ID E146 10028391
+A541	CUI E147 C0004604
+A542	UMLS-Preferred-Name E147 Back Pain
+A543	MEDDRA-PT E147 Back pain
+A544	MEDDRA-PT-ID E147 10003988
+A545	CUI E149 C0018681
+A546	UMLS-Preferred-Name E149 Headache
+A547	MEDDRA-PT E149 Headache
+A548	MEDDRA-PT-ID E149 10019211
+A549	CUI E150 C0012833
+A550	UMLS-Preferred-Name E150 Dizziness
+A551	MEDDRA-PT E150 Dizziness
+A552	MEDDRA-PT-ID E150 10013573
+A553	CUI E151 C0036572
+A554	UMLS-Preferred-Name E151 Seizures
+A555	MEDDRA-PT E151 Seizure
+A556	MEDDRA-PT-ID E151 10039906
+A557	LLT E151 Convulsion
+A558	LLT-ID E151 10010904
+A559	CUI E152 C0039070
+A560	UMLS-Preferred-Name E152 Syncope
+A561	MEDDRA-PT E152 Syncope
+A562	MEDDRA-PT-ID E152 10042772
+A563	CUI E148 C0020580
+A564	UMLS-Preferred-Name E148 Hypesthesia
+A565	MEDDRA-PT E148 Hypoaesthesia
+A566	MEDDRA-PT-ID E148 10020937
+A567	CUI E153 C0751495
+A568	UMLS-Preferred-Name E153 Seizures, Focal
+A569	MEDDRA-PT E153 Partial seizures
+A570	MEDDRA-PT-ID E153 10061334
+A571	CUI E160 C0004093
+A572	UMLS-Preferred-Name E160 Asthenia
+A573	MEDDRA-PT E160 Asthenia
+A574	MEDDRA-PT-ID E160 10003549
+A575	CUI E161 C0015672
+A576	UMLS-Preferred-Name E161 Fatigue
+A577	MEDDRA-PT E161 Fatigue
+A578	MEDDRA-PT-ID E161 10016256
+A579	CUI E162 C0085639
+A580	UMLS-Preferred-Name E162 Falls
+A581	MEDDRA-PT E162 Fall
+A582	MEDDRA-PT-ID E162 10016173
+A583	CUI E163 C3263723
+A584	UMLS-Preferred-Name E163 Traumatic injury
+A585	MEDDRA-PT E163 Injury
+A586	MEDDRA-PT-ID E163 10022116
+A587	CUI E164 C0009938
+A588	UMLS-Preferred-Name E164 Contusions
+A589	MEDDRA-PT E164 Contusion
+A590	MEDDRA-PT-ID E164 10050584
+A591	CUI E165 C0011991
+A592	UMLS-Preferred-Name E165 Diarrhea
+A593	MEDDRA-PT E165 Diarrhoea
+A594	MEDDRA-PT-ID E165 10012735
+A595	LLT E165 Diarrhea
+A596	LLT-ID E165 10012727
+A597	CUI E166 C0027497
+A598	UMLS-Preferred-Name E166 Nausea
+A599	MEDDRA-PT E166 Nausea
+A600	MEDDRA-PT-ID E166 10028813
+A601	CUI E167 C0009806
+A602	UMLS-Preferred-Name E167 Constipation
+A603	MEDDRA-PT E167 Constipation
+A604	MEDDRA-PT-ID E167 10010774
+A605	CUI E168 C0853692
+A606	UMLS-Preferred-Name E168 Blood triglycerides increased
+A607	MEDDRA-PT E168 Blood triglycerides increased
+A608	MEDDRA-PT-ID E168 10005839
+A609	CUI E169 C0010200
+A610	UMLS-Preferred-Name E169 Coughing
+A611	MEDDRA-PT E169 Cough
+A612	MEDDRA-PT-ID E169 10011224
+A613	CUI E170 C0020538
+A614	UMLS-Preferred-Name E170 Hypertensive disease
+A615	MEDDRA-PT E170 Hypertension
+A616	MEDDRA-PT-ID E170 10020772
+A617	CUI E171 C0011570
+A618	UMLS-Preferred-Name E171 Mental Depression
+A619	MEDDRA-PT E171 Depression
+A620	MEDDRA-PT-ID E171 10012378
+A621	CUI E172 C0151735
+A622	UMLS-Preferred-Name E172 Injection site reaction
+A623	MEDDRA-PT E172 Injection site reaction
+A624	MEDDRA-PT-ID E172 10022095
+A625	CUI E173 C0151828
+A626	UMLS-Preferred-Name E173 Injection site pain
+A627	MEDDRA-PT E173 Injection site pain
+A628	MEDDRA-PT-ID E173 10022086
+A629	CUI E174 C0521508
+A630	UMLS-Preferred-Name E174 Injection site bruising
+A631	MEDDRA-PT E174 Injection site bruising
+A632	MEDDRA-PT-ID E174 10022052
+A633	CUI E175 C0151698
+A634	UMLS-Preferred-Name E175 Injection site hemorrhage
+A635	MEDDRA-PT E175 Injection site haemorrhage
+A636	MEDDRA-PT-ID E175 10022067
+A637	CUI E176 C0852625
+A638	UMLS-Preferred-Name E176 Injection site erythema
+A639	MEDDRA-PT E176 Injection site erythema
+A640	MEDDRA-PT-ID E176 10022061
+A641	CUI E177 C0542008
+A642	UMLS-Preferred-Name E177 Injection site haematoma
+A643	MEDDRA-PT E177 Injection site haematoma
+A644	MEDDRA-PT-ID E177 10022066
+A645	CUI E178 C0011168
+A646	UMLS-Preferred-Name E178 Deglutition Disorders
+A647	MEDDRA-PT E178 Dysphagia
+A648	MEDDRA-PT-ID E178 10013950
+A649	CUI E179 C0575081
+A650	UMLS-Preferred-Name E179 Gait abnormality
+A651	MEDDRA-PT E179 Gait disturbance
+A652	MEDDRA-PT-ID E179 10017577
+A653	CUI E180 C0581912
+A654	UMLS-Preferred-Name E180 Heavy feeling
+A655	MEDDRA-PT E180 Discomfort
+A656	MEDDRA-PT-ID E180 10013082
+A657	LLT E180 Sensation of heaviness
+A658	LLT-ID E180 10040000
+A659	CUI E181 C0042571
+A660	UMLS-Preferred-Name E181 Vertigo
+A661	MEDDRA-PT E181 Vertigo
+A662	MEDDRA-PT-ID E181 10047340
+A663	CUI E182 C0085636
+A664	UMLS-Preferred-Name E182 Photophobia
+A665	MEDDRA-PT E182 Photophobia
+A666	MEDDRA-PT-ID E182 10034960
+A667	CUI E183 C0521839
+A668	UMLS-Preferred-Name E183 Influenza-like illness
+A669	MEDDRA-PT E183 Influenza like illness
+A670	MEDDRA-PT-ID E183 10022004
+A671	CUI E184 C0026846
+A672	UMLS-Preferred-Name E184 Muscular Atrophy
+A673	MEDDRA-PT E184 Amyotrophy
+A674	MEDDRA-PT-ID E184 10002027
+A675	CUI E185 C0085624
+A676	UMLS-Preferred-Name E185 Burning sensation
+A677	MEDDRA-PT E185 Burning sensation
+A678	MEDDRA-PT-ID E185 10006784
+A679	CUI E186 C0427055
+A680	UMLS-Preferred-Name E186 Facial Paresis
+A681	MEDDRA-PT E186 Facial paresis
+A682	MEDDRA-PT-ID E186 10051267
+A683	CUI E187 C0020580
+A684	UMLS-Preferred-Name E187 Hypesthesia
+A685	MEDDRA-PT E187 Hypoaesthesia
+A686	MEDDRA-PT-ID E187 10020937
+A687	LLT E187 Hypoesthesia
+A688	LLT-ID E187 10020976
+A689	CUI E188 C0041834
+A690	UMLS-Preferred-Name E188 Erythema
+A691	MEDDRA-PT E188 Erythema
+A692	MEDDRA-PT-ID E188 10015150
+A693	CUI E189 C0263634
+A694	UMLS-Preferred-Name E189 Abnormal granulation tissue
+A695	MEDDRA-PT E189 Excessive granulation tissue
+A696	MEDDRA-PT-ID E189 10063560
+A697	CUI E61 C0026826
+A698	UMLS-Preferred-Name E61 Muscle Hypertonia
+A699	MEDDRA-PT E61 Hypertonia
+A700	MEDDRA-PT-ID E61 10020852
+A701	CUI E64 C0521498
+A702	UMLS-Preferred-Name E64 Injection site irritation
+A703	MEDDRA-PT E64 Injection site irritation
+A704	MEDDRA-PT-ID E64 10022079

@@ -1,0 +1,197 @@
+120,142|C1839436|Lactic Acidosis/Severe|fndg
+143,155|C0019209|Hepatomegaly|sosy
+161,170|C2711227|Steatosis|dsyn
+161,170|C0152254|Steatosis|patf
+243,262|C0743630|Acute Exacerbations|fndg
+266,277|C0019163|Hepatitis B|dsyn
+343,352|C0746890|New Onset|fndg
+356,365|C1457868|Worsening|fndg
+366,382|C1565489|Renal Impairment|dsyn
+506,536|C1619738|Immune Reconstitution Syndrome|dsyn
+506,536|C1096197|Immune Reconstitution Syndrome|dsyn
+689,695|C3244287|grades|fndg
+701,707|C0027497|nausea|sosy
+701,707|C1963179|nausea|patf
+712,720|C0011991|diarrhea|sosy
+712,720|C1963091|diarrhea|fndg
+887,888;912,927|C3840593|1 Clinical Trials|fndg
+1001,1011|C0012634|conditions|dsyn
+1223,1231|C0439663|Infected|fndg
+1385,1395|C3815594|randomized|fndg
+1511,1519|C0439663|infected|fndg
+1679,1691|C1444662|discontinued|fndg
+2314,2320|C3244287|grades|fndg
+2540,2553|C0015397|EYE DISORDERS|dsyn
+2660,2667|C0022346|icterus|patf
+2762,2788|C0017178|GASTROINTESTINAL DISORDERS|dsyn
+2875,2883|C0011991|Diarrhea|sosy
+2875,2883|C1963091|Diarrhea|fndg
+2986,2996|C0016204|Flatulence|sosy
+2986,2996|C1962956|Flatulence|fndg
+3097,3103|C0027497|Nausea|sosy
+3097,3103|C1963179|Nausea|patf
+3214,3223|C0012634|DISORDERS|dsyn
+3248,3258|C0012634|CONDITIONS|dsyn
+3322,3329|C0015672|Fatigue|sosy
+3431,3454|C0267792|HEPATOBILIARY DISORDERS|dsyn
+3544,3552|C0022346|Jaundice|patf
+3544,3552|C2010848|Jaundice|fndg
+3544,3552|C2203646|Jaundice|sosy
+3766,3776|C0013144|Somnolence|fndg
+3766,3776|C2830004|Somnolence|fndg
+3877,3885|C0018681|Headache|sosy
+3877,3885|C2096315|Headache|fndg
+3988,3997|C0012833|Dizziness|sosy
+3988,3997|C0042571|Dizziness|sosy
+3988,3997|C1963093|Dizziness|fndg
+4210,4218|C0917801|Insomnia|sosy
+4210,4218|C1963237|Insomnia|fndg
+4321,4336|C0234458|Abnormal dreams|mobd
+4439,4451;4459,4468|C0549584|SUBCUTANEOUS DISORDERS|dsyn
+4459,4468|C0012634|DISORDERS|dsyn
+4543,4547|C0015230|Rash|sosy
+4865,4882|C0424000|suicidal ideation|fndg
+4887,4902|C0038663|suicide attempt|fndg
+4947,4968|C0455503|history of depression|fndg
+5035,5043|C0439663|Infected|fndg
+5117,5127|C1550043|identified|fndg
+5410,5416|C3244287|grades|fndg
+5490,5496|C3844638|either|fndg
+5710,5716|C0027497|nausea|sosy
+5710,5716|C1963179|nausea|patf
+5723,5733|C0016204|flatulence|sosy
+5723,5733|C1962956|flatulence|fndg
+5744,5752|C0018681|headache|sosy
+5744,5752|C2096315|headache|fndg
+5790,5802|C1444662|discontinued|fndg
+6323,6333|C0011570|depression|mobd
+6323,6333|C0011581|depression|mobd
+6323,6333|C1579931|depression|sosy
+6323,6333|C0344315|depression|fndg
+6335,6349|C0000737|abdominal pain|sosy
+6351,6360|C0013395|dyspepsia|sosy
+6362,6370|C0042963|vomiting|sosy
+6362,6370|C1963281|vomiting|patf
+6372,6377|C0015967|fever|fndg
+6372,6377|C0424755|fever|fndg
+6379,6383|C0030193|pain|sosy
+6379,6383|C1962977|pain|fndg
+6385,6400|C0027441|nasopharyngitis|dsyn
+6402,6411|C0032285|pneumonia|dsyn
+6413,6422|C0037199|sinusitis|dsyn
+6424,6457|C0041912|upper respiratory tract infection|dsyn
+6459,6469|C0003862|arthralgia|sosy
+6471,6480|C0004604|back pain|sosy
+6471,6480|C1963071|back pain|fndg
+6482,6489|C0231528|myalgia|sosy
+6491,6502|C0030554|paresthesia|dsyn
+6491,6502|C2242996|paresthesia|sosy
+6504,6525|C0031117|peripheral neuropathy|dsyn
+6537,6556|C0027813|peripheral neuritis|dsyn
+6561,6571|C0442874|neuropathy|dsyn
+6574,6581|C0003467|anxiety|mobd
+6574,6581|C0003469|anxiety|mobd
+6574,6581|C0860603|anxiety|fndg
+6593,6598|C0010200|cough|sosy
+6593,6598|C1961131|cough|fndg
+6604,6612|C0035455|rhinitis|dsyn
+6618,6636|C0151907|Skin discoloration|patf
+6736,6753|C0162834|hyperpigmentation|patf
+6736,6753|C1962962|hyperpigmentation|fndg
+6807,6819|C0231221|asymptomatic|fndg
+6839,6860|C2826293|clinical significance|fndg
+7333,7343;7354,7365|C4021768|Laboratory Abnormality|fndg
+7553,7556|C1266129|ALT|neop
+7897,7906|C0018965|Hematuria|fndg
+8407,8421|C0016658|bone fractures|inpo
+8726,8737|C0033687|Proteinuria|fndg
+8726,8737|C1962972|Proteinuria|fndg
+8726,8737|C1279888|Proteinuria|dsyn
+8743,8749|C3244287|grades|fndg
+8953,8969|C0600061|serum creatinine|fndg
+8993,9013|C0812399|creatinine clearance|fndg
+9091,9101|C0268731|glomerular|dsyn
+9136,9145;9149,9165|C0700225|increases serum creatinine|fndg
+9193,9213|C0812399|creatinine clearance|fndg
+9323,9339|C0600061|serum creatinine|fndg
+9418,9434|C0600061|serum creatinine|fndg
+9440,9446|C3244287|Grades|fndg
+9485,9501|C0600061|Serum Creatinine|fndg
+9528,9553|C0700225|Elevated Serum Creatinine|fndg
+9559,9565|C3244287|Grades|fndg
+9723,9739|C0600061|Serum Creatinine|fndg
+9973,9989|C0600061|Serum Creatinine|fndg
+9995,10001|C3244287|Grades|fndg
+10369,10376|C3889290|Grade 3|fndg
+10410,10413|C1266129|ALT|neop
+10619,10629|C0017979|glycosuria|fndg
+12343,12353|C1550043|identified|fndg
+12474,12483|C0087130|uncertain|fndg
+12707,12730|C0021053|Immune System Disorders|dsyn
+12737,12754|C1527304|allergic reaction|patf
+12737,12754|C0020517|allergic reaction|patf
+12766,12776|C0002994|angioedema|patf
+12798,12817|C3714509|Nutrition Disorders|dsyn
+12824,12839|C0001125|lactic acidosis|dsyn
+12841,12852|C0020621|hypokalemia|fndg
+12854,12870|C0085682|hypophosphatemia|patf
+12854,12870|C0595888|hypophosphatemia|fndg
+12904,12925|C0025061|Mediastinal Disorders|dsyn
+12916,12925;12946,12962|C0017178|Disorders Gastrointestinal|dsyn
+12932,12939|C0013404|dyspnea|sosy
+12979,12991|C0030305|pancreatitis|dsyn
+12979,12991|C1963198|pancreatitis|fndg
+12993,13010|C0151479|increased amylase|fndg
+13012,13026|C0000737|abdominal pain|sosy
+13033,13056|C0267792|Hepatobiliary Disorders|dsyn
+13063,13080|C2711227|hepatic steatosis|dsyn
+13063,13080|C0015695|hepatic steatosis|dsyn
+13082,13091|C0019159|hepatitis|dsyn
+13082,13091|C0019158|hepatitis|dsyn
+13093,13116|C0235996|increased liver enzymes|fndg
+13137,13140|C1266129|ALT|neop
+13166,13178;13186,13195|C0549584|Subcutaneous Disorders|dsyn
+13186,13195|C0012634|Disorders|dsyn
+13202,13206|C0015230|rash|sosy
+13233,13260|C0009782|Connective Tissue Disorders|dsyn
+13267,13281|C0035410|rhabdomyolysis|patf
+13283,13295|C3887650|osteomalacia|dsyn
+13283,13295|C0029442|osteomalacia|dsyn
+13311,13320|C1963077|bone pain|fndg
+13311,13320|C0151825|bone pain|sosy
+13349,13358|C0016658|fractures|inpo
+13361,13378|C0151786|muscular weakness|sosy
+13380,13388|C0026848|myopathy|dsyn
+13405,13422|C0042075|Urinary Disorders|dsyn
+13429,13448|C0022660|acute renal failure|dsyn
+13429,13448|C3854173|acute renal failure|dsyn
+13450,13463|C0035078|renal failure|dsyn
+13450,13463|C1963154|renal failure|patf
+13465,13487|C0022672|acute tubular necrosis|dsyn
+13489,13505|C1857395|Fanconi syndrome|dsyn
+13489,13505|C0015625|Fanconi syndrome|dsyn
+13489,13505|C0015624|Fanconi syndrome|dsyn
+13507,13533|C1839603|proximal renal tubulopathy|fndg
+13535,13557|C0027707|interstitial nephritis|dsyn
+13535,13557|C0041349|interstitial nephritis|dsyn
+13583,13613|C0162283|nephrogenic diabetes insipidus|dsyn
+13615,13634|C0035078|renal insufficiency|dsyn
+13615,13634|C1565489|renal insufficiency|dsyn
+13636,13656|C0700225|increased creatinine|fndg
+13636,13656|C0151578|increased creatinine|fndg
+13658,13669|C0033687|proteinuria|fndg
+13658,13669|C1962972|proteinuria|fndg
+13658,13669|C1279888|proteinuria|dsyn
+13671,13679|C0032617|polyuria|sosy
+13694,13703|C0012634|Disorders|dsyn
+13728,13738|C0012634|Conditions|dsyn
+13745,13753|C0004093|asthenia|sosy
+13866,13892|C1839603|proximal renal tubulopathy|fndg
+13894,13908|C0035410|rhabdomyolysis|patf
+13910,13922|C3887650|osteomalacia|dsyn
+13910,13922|C0029442|osteomalacia|dsyn
+13924,13935|C0020621|hypokalemia|fndg
+13937,13954|C0151786|muscular weakness|sosy
+13956,13964|C0026848|myopathy|dsyn
+13966,13982|C0085682|hypophosphatemia|patf
+13966,13982|C0595888|hypophosphatemia|fndg

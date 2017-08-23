@@ -1,0 +1,803 @@
+T1	AdverseReaction 130 142	Hypocalcemia
+T2	AdverseReaction 198 208	Infections
+T3	AdverseReaction 256 286	Dermatologic Adverse Reactions
+T4	AdverseReaction 334 358	Osteonecrosis of the Jaw
+T5	AdverseReaction 406 430;446 463	Atypical Subtrochanteric Femoral Fractures
+T6	AdverseReaction 406 414;435 463	Atypical Diaphyseal Femoral Fractures
+T7	AdverseReaction 615 624	back pain
+T8	AdverseReaction 626 643	pain in extremity
+T9	AdverseReaction 645 665	musculoskeletal pain
+T10	AdverseReaction 667 687	hypercholesterolemia
+T11	AdverseReaction 693 701	cystitis
+T12	AdverseReaction 791 800	back pain
+T13	AdverseReaction 802 812	arthralgia
+T14	AdverseReaction 818 833	nasopharyngitis
+T15	AdverseReaction 1073 1083	arthralgia
+T16	AdverseReaction 1088 1097	back pain
+T17	AdverseReaction 1100 1117	Pain in extremity
+T18	AdverseReaction 1122 1142	musculoskeletal pain
+T19	AdverseReaction 1312 1321	back pain
+T20	AdverseReaction 1326 1338	constipation
+T21	AdverseReaction 1706 1715	back pain
+T22	AdverseReaction 1717 1734	pain in extremity
+T23	AdverseReaction 1736 1756	hypercholesterolemia
+T24	AdverseReaction 1758 1778	musculoskeletal pain
+T25	AdverseReaction 1784 1792	cystitis
+T26	AdverseReaction 1794 1806	Pancreatitis
+T27	AdverseReaction 1950 1959	back pain
+T28	AdverseReaction 1961 1971	arthralgia
+T29	AdverseReaction 1977 1992	nasopharyngitis
+T30	AdverseReaction 2128 2138	arthralgia
+T31	AdverseReaction 2143 2152	back pain
+T32	AdverseReaction 2154 2171	Pain in extremity
+T33	AdverseReaction 2176 2196	musculoskeletal pain
+T34	AdverseReaction 3307 3316	mortality
+T35	AdverseReaction 4130 4136	Anemia
+T36	AdverseReaction 4196 4211	Angina pectoris
+T37	AdverseReaction 4243 4262	Atrial fibrillation
+T38	AdverseReaction 4330 4337	Vertigo
+T39	AdverseReaction 4406 4426	Abdominal pain upper
+T40	AdverseReaction 4459 4469	Flatulence
+T41	AdverseReaction 4500 4531	Gastroesophageal reflux disease
+T42	AdverseReaction 4624 4640	Edema peripheral
+T43	AdverseReaction 4673 4681	Asthenia
+T44	AdverseReaction 4749 4757	Cystitis
+T45	AdverseReaction 4790 4823	Upper respiratory tract infection
+T46	AdverseReaction 4856 4865	Pneumonia
+T47	AdverseReaction 4898 4909	Pharyngitis
+T48	AdverseReaction 4940 4953	Herpes zoster
+T49	AdverseReaction 5028 5048	Hypercholesterolemia
+T50	AdverseReaction 5138 5147	Back pain
+T51	AdverseReaction 5184 5201	Pain in extremity
+T52	AdverseReaction 5236 5256	Musculoskeletal pain
+T53	AdverseReaction 5289 5298	Bone pain
+T54	AdverseReaction 5331 5338	Myalgia
+T55	AdverseReaction 5370 5391	Spinal osteoarthritis
+T56	AdverseReaction 5456 5464	Sciatica
+T57	AdverseReaction 5528 5536	Insomnia
+T58	AdverseReaction 5617 5621	Rash
+T59	AdverseReaction 5652 5660	Pruritus
+T60	AdverseReaction 5711 5744	Decreases in serum calcium levels
+T61	AdverseReaction 6272 6296	symptomatic hypocalcemia
+T62	AdverseReaction 7120 7129	infection
+T64	AdverseReaction 7248 7253	death
+T65	AdverseReaction 7351 7361	infections
+T66	AdverseReaction 7224 7234	infections
+T67	AdverseReaction 7449 7474	infections in the abdomen
+T68	AdverseReaction 7449 7466;7507 7520	infections in the urinary tract
+T69	AdverseReaction 7449 7466;7557 7560	infections in the ear
+T70	AdverseReaction 7607 7619	Endocarditis
+T71	AdverseReaction 7693 7708	Skin infections
+T72	AdverseReaction 7720 7730	erysipelas
+T73	AdverseReaction 7735 7745	cellulitis
+T74	AdverseReaction 7891 7915	opportunistic infections
+T75	AdverseReaction 8061 8070;8082 8096	epidermal adverse events
+T76	AdverseReaction 8075 8096	dermal adverse events
+T77	AdverseReaction 8106 8116	dermatitis
+T78	AdverseReaction 8118 8124	eczema
+T79	AdverseReaction 8130 8136	rashes
+T80	AdverseReaction 8346 8370	Osteonecrosis of the Jaw
+T81	AdverseReaction 8372 8375	ONJ
+T83	AdverseReaction 8615 8641	atypical femoral fractures
+T84	AdverseReaction 8732 8757	atypical femoral fracture
+T85	AdverseReaction 8860 8872	Pancreatitis
+T86	AdverseReaction 9088 9093	death
+T87	AdverseReaction 9293 9305	malignancies
+T88	AdverseReaction 9365 9377;9386 9399	malignancies to the breast
+T89	AdverseReaction 9365 9377;9386 9392;9432 9451	malignancies to the reproductive system
+T90	AdverseReaction 9365 9377;9386 9392;9488 9511	malignancies to the gastrointestinal system
+T91	AdverseReaction 10125 10134	mortality
+T92	AdverseReaction 10602 10611	back pain
+T93	AdverseReaction 10644 10654	arthralgia
+T94	AdverseReaction 10691 10706	nasopharyngitis
+T95	AdverseReaction 10777 10786	infection
+T96	AdverseReaction 10908 10917;10929 10943	Epidermal adverse events
+T97	AdverseReaction 10922 10943	dermal adverse events
+T98	AdverseReaction 10953 10963	dermatitis
+T99	AdverseReaction 10965 10971	eczema
+T100	AdverseReaction 10977 10983	rashes
+T101	AdverseReaction 11128 11131	ONJ
+T102	Negation 11116 11118	No
+T103	AdverseReaction 11167 11179	Pancreatitis
+T104	AdverseReaction 11305 11317	malignancies
+T105	AdverseReaction 11393 11409	prostate cancers
+T106	AdverseReaction 11413 11433	basal cell carcinoma
+T107	AdverseReaction 13391 13401	arthralgia
+T108	AdverseReaction 13439 13448	back pain
+T109	AdverseReaction 13483 13500	Pain in extremity
+T110	AdverseReaction 13536 13556	musculoskeletal pain
+T111	AdverseReaction 13740 13749	cataracts
+T112	AdverseReaction 13795 13807	Hypocalcemia
+T113	AdverseReaction 14278 14304	hypersensitivity reactions
+T114	AdverseReaction 14306 14317	anaphylaxis
+T115	AdverseReaction 14319 14323	rash
+T116	AdverseReaction 14325 14334	urticaria
+T117	AdverseReaction 14336 14351	facial swelling
+T118	AdverseReaction 14357 14365	erythema
+T119	AdverseReaction 14373 14385	Hypocalcemia
+T120	AdverseReaction 14406 14418	hypocalcemia
+T121	Severity 14387 14393	severe
+T122	AdverseReaction 14394 14418	symptomatic hypocalcemia
+T123	AdverseReaction 14424 14444	Musculoskeletal pain
+T124	Severity 14456 14462	severe
+T125	AdverseReaction 14508 14530	elevation in serum PTH
+T126	AdverseReaction 15205 15213	toxicity
+T127	Negation 15157 15159	No
+T128	Severity 190 197	Serious
+T129	AdverseReaction 5697 5711	Hypocalcemia  
+T130	Severity 7343 7350	serious
+T131	Severity 7441 7448	serious
+T132	Severity 10767 10776	S  erious
+T133	Negation 10845 10847	no
+T134	Severity 14501 14507	Marked
+T136	Factor 7112 7116	risk
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Effect:E128
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62 Hypothetical:E136
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65 Effect:E130
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67 Effect:E131
+E68	AdverseReaction:T68 Effect:E131
+E69	AdverseReaction:T69 Effect:E131
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91
+E92	AdverseReaction:T92
+E93	AdverseReaction:T93
+E94	AdverseReaction:T94
+E95	AdverseReaction:T95 Effect:E132 Negated:E133
+E96	AdverseReaction:T96
+E97	AdverseReaction:T97
+E98	AdverseReaction:T98
+E99	AdverseReaction:T99
+E100	AdverseReaction:T100
+E101	AdverseReaction:T101 Negated:E102
+E102	Negation:T102
+E103	AdverseReaction:T103
+E104	AdverseReaction:T104
+E105	AdverseReaction:T105
+E106	AdverseReaction:T106
+E107	AdverseReaction:T107
+E108	AdverseReaction:T108
+E109	AdverseReaction:T109
+E110	AdverseReaction:T110
+E111	AdverseReaction:T111
+E112	AdverseReaction:T112
+E113	AdverseReaction:T113
+E114	AdverseReaction:T114
+E115	AdverseReaction:T115
+E116	AdverseReaction:T116
+E117	AdverseReaction:T117
+E118	AdverseReaction:T118
+E119	AdverseReaction:T119
+E120	AdverseReaction:T120 Effect:E121
+E121	Severity:T121
+E122	AdverseReaction:T122 Effect:E121
+E123	AdverseReaction:T123 Effect:E124
+E124	Severity:T124
+E125	AdverseReaction:T125 Effect:E134
+E126	AdverseReaction:T126 Negated:E127
+E127	Negation:T127
+E128	Severity:T128
+E129	AdverseReaction:T129
+E130	Severity:T130
+E131	Severity:T131
+E132	Severity:T132
+E133	Negation:T133
+E134	Severity:T134
+E136	Factor:T136
+A1	CUI E1 C0020598
+A2	UMLS-Preferred-Name E1 Hypocalcemia
+A3	MEDDRA-PT E1 Hypocalcaemia
+A4	MEDDRA-PT-ID E1 10020947
+A5	LLT E1 Hypocalcemia
+A6	LLT-ID E1 10020949
+A7	CUI E2 C3714514
+A8	UMLS-Preferred-Name E2 Infection
+A9	MEDDRA-PT E2 Infection
+A10	MEDDRA-PT-ID E2 10021789
+A11	CUI E3 C0221743
+A12	UMLS-Preferred-Name E3 Skin reaction
+A13	MEDDRA-PT E3 Skin reaction
+A14	MEDDRA-PT-ID E3 10040914
+A15	CUI E4 C2902031
+A16	UMLS-Preferred-Name E4 Osteonecrosis of jaw caused by drug
+A17	MEDDRA-PT E4 Osteonecrosis of jaw
+A18	MEDDRA-PT-ID E4 10064658
+A19	flag E5 duplicate
+A20	CUI E5 C3160754
+A21	UMLS-Preferred-Name E5 Atypical femur fracture
+A22	MEDDRA-PT E5 Atypical femur fracture
+A23	MEDDRA-PT-ID E5 10070884
+A24	flag E6 duplicate
+A25	CUI E6 C3160754
+A26	UMLS-Preferred-Name E6 Atypical femur fracture
+A27	MEDDRA-PT E6 Atypical femur fracture
+A28	MEDDRA-PT-ID E6 10070884
+A29	CUI E7 C0004604
+A30	UMLS-Preferred-Name E7 Back Pain
+A31	MEDDRA-PT E7 Back pain
+A32	MEDDRA-PT-ID E7 10003988
+A33	CUI E8 C0030196
+A34	UMLS-Preferred-Name E8 Pain in limb
+A35	MEDDRA-PT E8 Pain in extremity
+A36	MEDDRA-PT-ID E8 10033425
+A37	CUI E9 C0026858
+A38	UMLS-Preferred-Name E9 Musculoskeletal Pain
+A39	MEDDRA-PT E9 Musculoskeletal pain
+A40	MEDDRA-PT-ID E9 10028391
+A41	CUI E10 C0020443
+A42	UMLS-Preferred-Name E10 Hypercholesterolemia
+A43	MEDDRA-PT E10 Hypercholesterolaemia
+A44	MEDDRA-PT-ID E10 10020603
+A45	LLT E10 Hypercholesterolemia
+A46	LLT-ID E10 10020604
+A47	CUI E11 C0010692
+A48	UMLS-Preferred-Name E11 Cystitis
+A49	MEDDRA-PT E11 Cystitis
+A50	MEDDRA-PT-ID E11 10011781
+A51	CUI E12 C0004604
+A52	UMLS-Preferred-Name E12 Back Pain
+A53	MEDDRA-PT E12 Back pain
+A54	MEDDRA-PT-ID E12 10003988
+A55	CUI E13 C0003862
+A56	UMLS-Preferred-Name E13 Arthralgia
+A57	MEDDRA-PT E13 Arthralgia
+A58	MEDDRA-PT-ID E13 10003239
+A59	CUI E14 C0027441
+A60	UMLS-Preferred-Name E14 Nasopharyngitis
+A61	MEDDRA-PT E14 Nasopharyngitis
+A62	MEDDRA-PT-ID E14 10028810
+A63	CUI E15 C0003862
+A64	UMLS-Preferred-Name E15 Arthralgia
+A65	MEDDRA-PT E15 Arthralgia
+A66	MEDDRA-PT-ID E15 10003239
+A67	CUI E16 C0004604
+A68	UMLS-Preferred-Name E16 Back Pain
+A69	MEDDRA-PT E16 Back pain
+A70	MEDDRA-PT-ID E16 10003988
+A71	CUI E17 C0030196
+A72	UMLS-Preferred-Name E17 Pain in limb
+A73	MEDDRA-PT E17 Pain in extremity
+A74	MEDDRA-PT-ID E17 10033425
+A75	CUI E18 C0026858
+A76	UMLS-Preferred-Name E18 Musculoskeletal Pain
+A77	MEDDRA-PT E18 Musculoskeletal pain
+A78	MEDDRA-PT-ID E18 10028391
+A79	CUI E19 C0004604
+A80	UMLS-Preferred-Name E19 Back Pain
+A81	MEDDRA-PT E19 Back pain
+A82	MEDDRA-PT-ID E19 10003988
+A83	CUI E20 C0009806
+A84	UMLS-Preferred-Name E20 Constipation
+A85	MEDDRA-PT E20 Constipation
+A86	MEDDRA-PT-ID E20 10010774
+A87	CUI E21 C0004604
+A88	UMLS-Preferred-Name E21 Back Pain
+A89	MEDDRA-PT E21 Back pain
+A90	MEDDRA-PT-ID E21 10003988
+A91	CUI E22 C0030196
+A92	UMLS-Preferred-Name E22 Pain in limb
+A93	MEDDRA-PT E22 Pain in extremity
+A94	MEDDRA-PT-ID E22 10033425
+A95	CUI E23 C0020443
+A96	UMLS-Preferred-Name E23 Hypercholesterolemia
+A97	MEDDRA-PT E23 Hypercholesterolaemia
+A98	MEDDRA-PT-ID E23 10020603
+A99	LLT E23 Hypercholesterolemia
+A100	LLT-ID E23 10020604
+A101	CUI E24 C0026858
+A102	UMLS-Preferred-Name E24 Musculoskeletal Pain
+A103	MEDDRA-PT E24 Musculoskeletal pain
+A104	MEDDRA-PT-ID E24 10028391
+A105	CUI E25 C0010692
+A106	UMLS-Preferred-Name E25 Cystitis
+A107	MEDDRA-PT E25 Cystitis
+A108	MEDDRA-PT-ID E25 10011781
+A109	CUI E26 C0030305
+A110	UMLS-Preferred-Name E26 Pancreatitis
+A111	MEDDRA-PT E26 Pancreatitis
+A112	MEDDRA-PT-ID E26 10033645
+A113	CUI E27 C0004604
+A114	UMLS-Preferred-Name E27 Back Pain
+A115	MEDDRA-PT E27 Back pain
+A116	MEDDRA-PT-ID E27 10003988
+A117	CUI E28 C0003862
+A118	UMLS-Preferred-Name E28 Arthralgia
+A119	MEDDRA-PT E28 Arthralgia
+A120	MEDDRA-PT-ID E28 10003239
+A121	CUI E29 C0027441
+A122	UMLS-Preferred-Name E29 Nasopharyngitis
+A123	MEDDRA-PT E29 Nasopharyngitis
+A124	MEDDRA-PT-ID E29 10028810
+A125	CUI E30 C0003862
+A126	UMLS-Preferred-Name E30 Arthralgia
+A127	MEDDRA-PT E30 Arthralgia
+A128	MEDDRA-PT-ID E30 10003239
+A129	CUI E31 C0004604
+A130	UMLS-Preferred-Name E31 Back Pain
+A131	MEDDRA-PT E31 Back pain
+A132	MEDDRA-PT-ID E31 10003988
+A133	CUI E32 C0030196
+A134	UMLS-Preferred-Name E32 Pain in limb
+A135	MEDDRA-PT E32 Pain in extremity
+A136	MEDDRA-PT-ID E32 10033425
+A137	CUI E33 C0026858
+A138	UMLS-Preferred-Name E33 Musculoskeletal Pain
+A139	MEDDRA-PT E33 Musculoskeletal pain
+A140	MEDDRA-PT-ID E33 10028391
+A141	CUI E34 C1306577
+A142	UMLS-Preferred-Name E34 Death (finding)
+A143	MEDDRA-PT E34 Death
+A144	MEDDRA-PT-ID E34 10011906
+A145	CUI E35 C0002871
+A146	UMLS-Preferred-Name E35 Anemia
+A147	MEDDRA-PT E35 Anaemia
+A148	MEDDRA-PT-ID E35 10002034
+A149	LLT E35 Anemia
+A150	LLT-ID E35 10002272
+A151	CUI E36 C0002962
+A152	UMLS-Preferred-Name E36 Angina Pectoris
+A153	MEDDRA-PT E36 Angina pectoris
+A154	MEDDRA-PT-ID E36 10002383
+A155	CUI E37 C0004238
+A156	UMLS-Preferred-Name E37 Atrial Fibrillation
+A157	MEDDRA-PT E37 Atrial fibrillation
+A158	MEDDRA-PT-ID E37 10003658
+A159	CUI E38 C0042571
+A160	UMLS-Preferred-Name E38 Vertigo
+A161	MEDDRA-PT E38 Vertigo
+A162	MEDDRA-PT-ID E38 10047340
+A163	CUI E39 C0232492
+A164	UMLS-Preferred-Name E39 Upper abdominal pain
+A165	MEDDRA-PT E39 Abdominal pain upper
+A166	MEDDRA-PT-ID E39 10000087
+A167	CUI E40 C0016204
+A168	UMLS-Preferred-Name E40 Flatulence
+A169	MEDDRA-PT E40 Flatulence
+A170	MEDDRA-PT-ID E40 10016766
+A171	CUI E41 C0017168
+A172	UMLS-Preferred-Name E41 Gastroesophageal reflux disease
+A173	MEDDRA-PT E41 Gastrooesophageal reflux disease
+A174	MEDDRA-PT-ID E41 10017885
+A175	LLT E41 Gastroesophageal reflux disease
+A176	LLT-ID E41 10066874
+A177	CUI E42 C0085649
+A178	UMLS-Preferred-Name E42 Peripheral edema
+A179	MEDDRA-PT E42 Oedema peripheral
+A180	MEDDRA-PT-ID E42 10030124
+A181	LLT E42 Edema peripheral
+A182	LLT-ID E42 10014251
+A183	CUI E43 C0004093
+A184	UMLS-Preferred-Name E43 Asthenia
+A185	MEDDRA-PT E43 Asthenia
+A186	MEDDRA-PT-ID E43 10003549
+A187	CUI E44 C0010692
+A188	UMLS-Preferred-Name E44 Cystitis
+A189	MEDDRA-PT E44 Cystitis
+A190	MEDDRA-PT-ID E44 10011781
+A191	CUI E45 C0041912
+A192	UMLS-Preferred-Name E45 Upper Respiratory Infections
+A193	MEDDRA-PT E45 Upper respiratory tract infection
+A194	MEDDRA-PT-ID E45 10046306
+A195	CUI E46 C0032285
+A196	UMLS-Preferred-Name E46 Pneumonia
+A197	MEDDRA-PT E46 Pneumonia
+A198	MEDDRA-PT-ID E46 10035664
+A199	CUI E47 C0031350
+A200	UMLS-Preferred-Name E47 Pharyngitis
+A201	MEDDRA-PT E47 Pharyngitis
+A202	MEDDRA-PT-ID E47 10034835
+A203	CUI E48 C0019360
+A204	UMLS-Preferred-Name E48 Herpes zoster disease
+A205	MEDDRA-PT E48 Herpes zoster
+A206	MEDDRA-PT-ID E48 10019974
+A207	CUI E49 C0020443
+A208	UMLS-Preferred-Name E49 Hypercholesterolemia
+A209	MEDDRA-PT E49 Hypercholesterolaemia
+A210	MEDDRA-PT-ID E49 10020603
+A211	LLT E49 Hypercholesterolemia
+A212	LLT-ID E49 10020604
+A213	CUI E50 C0004604
+A214	UMLS-Preferred-Name E50 Back Pain
+A215	MEDDRA-PT E50 Back pain
+A216	MEDDRA-PT-ID E50 10003988
+A217	CUI E51 C0030196
+A218	UMLS-Preferred-Name E51 Pain in limb
+A219	MEDDRA-PT E51 Pain in extremity
+A220	MEDDRA-PT-ID E51 10033425
+A221	CUI E52 C0026858
+A222	UMLS-Preferred-Name E52 Musculoskeletal Pain
+A223	MEDDRA-PT E52 Musculoskeletal pain
+A224	MEDDRA-PT-ID E52 10028391
+A225	CUI E53 C0151825
+A226	UMLS-Preferred-Name E53 Bone pain
+A227	MEDDRA-PT E53 Bone pain
+A228	MEDDRA-PT-ID E53 10006002
+A229	CUI E54 C0231528
+A230	UMLS-Preferred-Name E54 Myalgia
+A231	MEDDRA-PT E54 Myalgia
+A232	MEDDRA-PT-ID E54 10028411
+A233	CUI E55 C0949690
+A234	UMLS-Preferred-Name E55 Spondylarthritis
+A235	MEDDRA-PT E55 Spinal osteoarthritis
+A236	MEDDRA-PT-ID E55 10041591
+A237	CUI E56 C0036396
+A238	UMLS-Preferred-Name E56 Sciatica
+A239	MEDDRA-PT E56 Sciatica
+A240	MEDDRA-PT-ID E56 10039674
+A241	CUI E57 C0917801
+A242	UMLS-Preferred-Name E57 Sleeplessness
+A243	MEDDRA-PT E57 Insomnia
+A244	MEDDRA-PT-ID E57 10022437
+A245	CUI E58 C0015230
+A246	UMLS-Preferred-Name E58 Exanthema
+A247	MEDDRA-PT E58 Rash
+A248	MEDDRA-PT-ID E58 10037844
+A249	CUI E59 C0033774
+A250	UMLS-Preferred-Name E59 Pruritus
+A251	MEDDRA-PT E59 Pruritus
+A252	MEDDRA-PT-ID E59 10037087
+A253	CUI E60 C0595882
+A254	UMLS-Preferred-Name E60 Serum calcium decreased
+A255	MEDDRA-PT E60 Blood calcium decreased
+A256	MEDDRA-PT-ID E60 10005395
+A257	LLT E60 Serum calcium decreased
+A258	LLT-ID E60 10040174
+A259	CUI E61 C0745147
+A260	UMLS-Preferred-Name E61 HYPOCALCEMIA SYMPTOMATIC
+A261	MEDDRA-PT E61 Hypocalcaemia
+A262	MEDDRA-PT-ID E61 10020947
+A263	LLT E61 Hypocalcemia
+A264	LLT-ID E61 10020949
+A265	CUI E62 C3714514
+A266	UMLS-Preferred-Name E62 Infection
+A267	MEDDRA-PT E62 Infection
+A268	MEDDRA-PT-ID E62 10021789
+A269	CUI E64 C1306577
+A270	UMLS-Preferred-Name E64 Death (finding)
+A271	MEDDRA-PT E64 Death
+A272	MEDDRA-PT-ID E64 10011906
+A273	CUI E65 C3714514
+A274	UMLS-Preferred-Name E65 Infection
+A275	MEDDRA-PT E65 Infection
+A276	MEDDRA-PT-ID E65 10021789
+A277	CUI E66 C3714514
+A278	UMLS-Preferred-Name E66 Infection
+A279	MEDDRA-PT E66 Infection
+A280	MEDDRA-PT-ID E66 10021789
+A281	CUI E67 C1112209
+A282	UMLS-Preferred-Name E67 Intraabdominal Infections
+A283	MEDDRA-PT E67 Abdominal infection
+A284	MEDDRA-PT-ID E67 10056519
+A285	CUI E68 C0042029
+A286	UMLS-Preferred-Name E68 Urinary tract infection
+A287	MEDDRA-PT E68 Urinary tract infection
+A288	MEDDRA-PT-ID E68 10046571
+A289	CUI E69 C0699744
+A290	UMLS-Preferred-Name E69 Infection of ear
+A291	MEDDRA-PT E69 Ear infection
+A292	MEDDRA-PT-ID E69 10014011
+A293	CUI E70 C0014118
+A294	UMLS-Preferred-Name E70 Endocarditis
+A295	MEDDRA-PT E70 Endocarditis
+A296	MEDDRA-PT-ID E70 10014665
+A297	CUI E71 C0037278
+A298	UMLS-Preferred-Name E71 Skin Diseases, Infectious
+A299	MEDDRA-PT E71 Skin infection
+A300	MEDDRA-PT-ID E71 10040872
+A301	CUI E72 C0014733
+A302	UMLS-Preferred-Name E72 Erysipelas
+A303	MEDDRA-PT E72 Erysipelas
+A304	MEDDRA-PT-ID E72 10015145
+A305	CUI E73 C0007642
+A306	UMLS-Preferred-Name E73 Cellulitis
+A307	MEDDRA-PT E73 Cellulitis
+A308	MEDDRA-PT-ID E73 10007882
+A309	CUI E74 C0029118
+A310	UMLS-Preferred-Name E74 Opportunistic Infections
+A311	MEDDRA-PT E74 Opportunistic infection
+A312	MEDDRA-PT-ID E74 10030901
+A313	CUI E75 C0221743
+A314	UMLS-Preferred-Name E75 Skin reaction
+A315	MEDDRA-PT E75 Skin reaction
+A316	MEDDRA-PT-ID E75 10040914
+A317	CUI E76 C0221743
+A318	UMLS-Preferred-Name E76 Skin reaction
+A319	MEDDRA-PT E76 Skin reaction
+A320	MEDDRA-PT-ID E76 10040914
+A321	CUI E77 C0011603
+A322	UMLS-Preferred-Name E77 Dermatitis
+A323	MEDDRA-PT E77 Dermatitis
+A324	MEDDRA-PT-ID E77 10012431
+A325	CUI E78 C0013595
+A326	UMLS-Preferred-Name E78 Eczema
+A327	MEDDRA-PT E78 Eczema
+A328	MEDDRA-PT-ID E78 10014184
+A329	CUI E79 C0015230
+A330	UMLS-Preferred-Name E79 Exanthema
+A331	MEDDRA-PT E79 Rash
+A332	MEDDRA-PT-ID E79 10037844
+A333	CUI E80 C2902031
+A334	UMLS-Preferred-Name E80 Osteonecrosis of jaw caused by drug
+A335	MEDDRA-PT E80 Osteonecrosis of jaw
+A336	MEDDRA-PT-ID E80 10064658
+A337	CUI E81 C2902031
+A338	UMLS-Preferred-Name E81 Osteonecrosis of jaw caused by drug
+A339	MEDDRA-PT E81 Osteonecrosis of jaw
+A340	MEDDRA-PT-ID E81 10064658
+A341	CUI E83 C3160754
+A342	UMLS-Preferred-Name E83 Atypical femur fracture
+A343	MEDDRA-PT E83 Atypical femur fracture
+A344	MEDDRA-PT-ID E83 10070884
+A345	CUI E84 C3160754
+A346	UMLS-Preferred-Name E84 Atypical femur fracture
+A347	MEDDRA-PT E84 Atypical femur fracture
+A348	MEDDRA-PT-ID E84 10070884
+A349	CUI E85 C0030305
+A350	UMLS-Preferred-Name E85 Pancreatitis
+A351	MEDDRA-PT E85 Pancreatitis
+A352	MEDDRA-PT-ID E85 10033645
+A353	CUI E86 C1306577
+A354	UMLS-Preferred-Name E86 Death (finding)
+A355	MEDDRA-PT E86 Death
+A356	MEDDRA-PT-ID E86 10011906
+A357	CUI E87 C0006826
+A358	UMLS-Preferred-Name E87 Malignant Neoplasms
+A359	MEDDRA-PT E87 Neoplasm malignant
+A360	MEDDRA-PT-ID E87 10028997
+A361	CUI E88 C0006142
+A362	UMLS-Preferred-Name E88 Malignant neoplasm of breast
+A363	MEDDRA-PT E88 Breast cancer
+A364	MEDDRA-PT-ID E88 10006187
+A365	LLT E88 Malignant breast neoplasm
+A366	LLT-ID E88 10025541
+A367	flag E89 duplicate
+A368	CUI E89 C0549404
+A369	UMLS-Preferred-Name E89 Genital neoplasm malignant male
+A370	MEDDRA-PT E89 Genital cancer male
+A371	MEDDRA-PT-ID E89 10073116
+A372	LLT E89 Genital neoplasm malignant male
+A373	LLT-ID E89 10018161
+A374	CUI E90 C0151544
+A375	UMLS-Preferred-Name E90 Gastrointestinal carcinoma
+A376	MEDDRA-PT E90 Gastrointestinal carcinoma
+A377	MEDDRA-PT-ID E90 10017940
+A378	LLT E90 Gastrointestinal neoplasm malignant
+A379	LLT-ID E90 10017985
+A380	CUI E91 C1306577
+A381	UMLS-Preferred-Name E91 Death (finding)
+A382	MEDDRA-PT E91 Death
+A383	MEDDRA-PT-ID E91 10011906
+A384	CUI E92 C0004604
+A385	UMLS-Preferred-Name E92 Back Pain
+A386	MEDDRA-PT E92 Back pain
+A387	MEDDRA-PT-ID E92 10003988
+A388	CUI E93 C0003862
+A389	UMLS-Preferred-Name E93 Arthralgia
+A390	MEDDRA-PT E93 Arthralgia
+A391	MEDDRA-PT-ID E93 10003239
+A392	CUI E94 C0027441
+A393	UMLS-Preferred-Name E94 Nasopharyngitis
+A394	MEDDRA-PT E94 Nasopharyngitis
+A395	MEDDRA-PT-ID E94 10028810
+A396	CUI E95 C3714514
+A397	UMLS-Preferred-Name E95 Infection
+A398	MEDDRA-PT E95 Infection
+A399	MEDDRA-PT-ID E95 10021789
+A400	CUI E96 C0221743
+A401	UMLS-Preferred-Name E96 Skin reaction
+A402	MEDDRA-PT E96 Skin reaction
+A403	MEDDRA-PT-ID E96 10040914
+A404	CUI E97 C0221743
+A405	UMLS-Preferred-Name E97 Skin reaction
+A406	MEDDRA-PT E97 Skin reaction
+A407	MEDDRA-PT-ID E97 10040914
+A408	CUI E98 C0011603
+A409	UMLS-Preferred-Name E98 Dermatitis
+A410	MEDDRA-PT E98 Dermatitis
+A411	MEDDRA-PT-ID E98 10012431
+A412	CUI E99 C0013595
+A413	UMLS-Preferred-Name E99 Eczema
+A414	MEDDRA-PT E99 Eczema
+A415	MEDDRA-PT-ID E99 10014184
+A416	CUI E100 C0015230
+A417	UMLS-Preferred-Name E100 Exanthema
+A418	MEDDRA-PT E100 Rash
+A419	MEDDRA-PT-ID E100 10037844
+A420	CUI E101 C2902031
+A421	UMLS-Preferred-Name E101 Osteonecrosis of jaw caused by drug
+A422	MEDDRA-PT E101 Osteonecrosis of jaw
+A423	MEDDRA-PT-ID E101 10064658
+A424	CUI E103 C0030305
+A425	UMLS-Preferred-Name E103 Pancreatitis
+A426	MEDDRA-PT E103 Pancreatitis
+A427	MEDDRA-PT-ID E103 10033645
+A428	CUI E104 C0006826
+A429	UMLS-Preferred-Name E104 Malignant Neoplasms
+A430	MEDDRA-PT E104 Neoplasm malignant
+A431	MEDDRA-PT-ID E104 10028997
+A432	CUI E105 C0376358
+A433	UMLS-Preferred-Name E105 Malignant neoplasm of prostate
+A434	MEDDRA-PT E105 Prostate cancer
+A435	MEDDRA-PT-ID E105 10060862
+A436	CUI E106 C0007117
+A437	UMLS-Preferred-Name E106 Basal cell carcinoma
+A438	MEDDRA-PT E106 Basal cell carcinoma
+A439	MEDDRA-PT-ID E106 10004146
+A440	CUI E107 C0003862
+A441	UMLS-Preferred-Name E107 Arthralgia
+A442	MEDDRA-PT E107 Arthralgia
+A443	MEDDRA-PT-ID E107 10003239
+A444	CUI E108 C0004604
+A445	UMLS-Preferred-Name E108 Back Pain
+A446	MEDDRA-PT E108 Back pain
+A447	MEDDRA-PT-ID E108 10003988
+A448	CUI E109 C0030196
+A449	UMLS-Preferred-Name E109 Pain in limb
+A450	MEDDRA-PT E109 Pain in extremity
+A451	MEDDRA-PT-ID E109 10033425
+A452	CUI E110 C0026858
+A453	UMLS-Preferred-Name E110 Musculoskeletal Pain
+A454	MEDDRA-PT E110 Musculoskeletal pain
+A455	MEDDRA-PT-ID E110 10028391
+A456	CUI E111 C0086543
+A457	UMLS-Preferred-Name E111 Cataract
+A458	MEDDRA-PT E111 Cataract
+A459	MEDDRA-PT-ID E111 10007739
+A460	LLT E111 Cataracts
+A461	LLT-ID E111 10007771
+A462	CUI E112 C0020598
+A463	UMLS-Preferred-Name E112 Hypocalcemia
+A464	MEDDRA-PT E112 Hypocalcaemia
+A465	MEDDRA-PT-ID E112 10020947
+A466	LLT E112 Hypocalcemia
+A467	LLT-ID E112 10020949
+A468	CUI E113 C0020517
+A469	UMLS-Preferred-Name E113 Hypersensitivity
+A470	MEDDRA-PT E113 Hypersensitivity
+A471	MEDDRA-PT-ID E113 10020751
+A472	LLT E113 Hypersensitivity reaction
+A473	LLT-ID E113 10020756
+A474	CUI E114 C0002792
+A475	UMLS-Preferred-Name E114 anaphylaxis
+A476	MEDDRA-PT E114 Anaphylactic reaction
+A477	MEDDRA-PT-ID E114 10002198
+A478	LLT E114 Anaphylaxis
+A479	LLT-ID E114 10002218
+A480	CUI E115 C0015230
+A481	UMLS-Preferred-Name E115 Exanthema
+A482	MEDDRA-PT E115 Rash
+A483	MEDDRA-PT-ID E115 10037844
+A484	CUI E116 C0042109
+A485	UMLS-Preferred-Name E116 Urticaria
+A486	MEDDRA-PT E116 Urticaria
+A487	MEDDRA-PT-ID E116 10046735
+A488	CUI E117 C0151602
+A489	UMLS-Preferred-Name E117 Facial swelling
+A490	MEDDRA-PT E117 Swelling face
+A491	MEDDRA-PT-ID E117 10042682
+A492	LLT E117 Facial swelling
+A493	LLT-ID E117 10016065
+A494	CUI E118 C0041834
+A495	UMLS-Preferred-Name E118 Erythema
+A496	MEDDRA-PT E118 Erythema
+A497	MEDDRA-PT-ID E118 10015150
+A498	CUI E119 C0020598
+A499	UMLS-Preferred-Name E119 Hypocalcemia
+A500	MEDDRA-PT E119 Hypocalcaemia
+A501	MEDDRA-PT-ID E119 10020947
+A502	LLT E119 Hypocalcemia
+A503	LLT-ID E119 10020949
+A504	CUI E120 C0020598
+A505	UMLS-Preferred-Name E120 Hypocalcemia
+A506	MEDDRA-PT E120 Hypocalcaemia
+A507	MEDDRA-PT-ID E120 10020947
+A508	LLT E120 Hypocalcemia
+A509	LLT-ID E120 10020949
+A510	CUI E122 C0745147
+A511	UMLS-Preferred-Name E122 HYPOCALCEMIA SYMPTOMATIC
+A512	MEDDRA-PT E122 Hypocalcaemia
+A513	MEDDRA-PT-ID E122 10020947
+A514	LLT E122 Hypocalcemia
+A515	LLT-ID E122 10020949
+A516	CUI E123 C0026858
+A517	UMLS-Preferred-Name E123 Musculoskeletal Pain
+A518	MEDDRA-PT E123 Musculoskeletal pain
+A519	MEDDRA-PT-ID E123 10028391
+A520	CUI E125 C0857973
+A521	UMLS-Preferred-Name E125 Elevated circulating parathyroid hormone (PTH) level
+A522	MEDDRA-PT E125 Blood parathyroid hormone increased
+A523	MEDDRA-PT-ID E125 10005703
+A524	LLT E125 Serum parathyroid hormone increased
+A525	LLT-ID E125 10040363
+A526	CUI E126 C0013221
+A527	UMLS-Preferred-Name E126 Drug toxicity
+A528	MEDDRA-PT E126 Toxicity to various agents
+A529	MEDDRA-PT-ID E126 10070863
+A530	LLT E126 Drug toxicity
+A531	LLT-ID E126 10013746
+A532	CUI E129 C0020598
+A533	UMLS-Preferred-Name E129 Hypocalcemia
+A534	MEDDRA-PT E129 Hypocalcaemia
+A535	MEDDRA-PT-ID E129 10020947
+A536	LLT E129 Hypocalcemia
+A537	LLT-ID E129 10020949

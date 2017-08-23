@@ -1,0 +1,97 @@
+00000000|MMI|170.37|1+|C3816745|[fndg]|["1+"-tx-21-"1"-integer-0,"1+"-tx-14-"1"-integer-0]|TX|[8434/1],[8652/1],[8818/1],[9579/1],[9582/1],[10125/1],[10128/1],[10289/1],[10292/1];[3507/1],[3510/1],[3761/1],[3764/1],[3965/1],[3968/1],[4349/1],[4352/1],[4865/1],[4868/1],[4899/1],[4902/1],[5256/1],[5259/1],[5290/1],[5293/1],[6265/1],[6268/1]|
+00000000|MMI|170.37|2+|C3833492|[fndg]|["2+"-tx-22-"2"-integer-0,"2+"-tx-21-"2"-integer-0,"2+"-tx-14-"2"-integer-0,"2+"-tx-8-"2"-percentage-0]|TX|11449/1;[8431/1],[8543/1],[8649/1],[8815/1],[8927/1],[9036/1],[9145/1];[3603/1],[3606/1],[3620/1],[3623/1],[4044/1],[4047/1],[4174/1],[4177/1],[4611/1],[4614/1],[5125/1],[5128/1],[6457/1],[6460/1],[6717/1],[6720/1],[6909/1],[6912/1];1882/1|
+00000000|MMI|65.69|0%|C3842591|[fndg]|["0%"-tx-22-"0"-integer-0,"0%"-tx-21-"0"-integer-0,"0%"-tx-14-"0"-integer-0]|TX|11465/1;[9306/1],[9961/1];[3151/1],[3185/1],[3264/1],[3298/1],[3411/1],[3490/1],[3524/1],[3637/1],[3795/1],[4078/1],[4157/1],[4191/1],[4594/1],[4628/1],[4978/1],[5012/1],[5091/1],[6378/1],[6604/1],[6796/1],[6830/1]|
+00000000|MMI|53.76|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-22-"3"-integer-0,"3+"-tx-21-"3"-integer-0,"3+"-tx-14-"3"-integer-0]|TX|[11446/1],[11560/1],[11579/1];[8540/1],[8924/1],[9033/1],[9142/1],[9855/1];[3931/1],[3934/1],[4882/1],[4885/1],[5108/1],[5111/1],[6491/1],[6494/1],[6570/1],[6573/1]|
+00000000|MMI|45.74|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-19-"diarrhea"-noun-0,"DIARRHOEA"-tx-17-"diarrhea"-noun-0,"DIARRHOEA"-tx-14-"diarrhea"-noun-0,"DIARRHOEA"-tx-12-"diarrhea"-noun-0,"DIARRHOEA"-tx-10-"diarrhea"-noun-0,"DIARRHOEA"-tx-8-"diarrhea"-noun-0,"DIARRHOEA"-tx-2-"diarrhea"-noun-0]|TX|7610/8;7421/8;3320/8;2479/8;2233/8;2033/8;732/8|C23.888.821.214
+00000000|MMI|42.00|Adverse reactions|C0559546|[patf]|["ADVERSE REACTION"-tx-21-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-21-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-20-"adverse reactions"-noun-0,"Adverse reactions"-tx-18-"Adverse reactions"-noun-0,"Adverse reactions"-tx-17-"adverse reactions"-noun-0,"Adverse reactions"-tx-16-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-14-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-14-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-13-"adverse reactions"-noun-0,"Adverse reactions"-tx-11-"adverse reactions"-noun-0,"Adverse reactions"-tx-10-"adverse reactions"-noun-0,"Adverse reactions"-tx-9-"Adverse reactions"-noun-0,"Adverse reactions"-tx-8-"adverse reactions"-noun-0,"Adverse reactions"-tx-7-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-4-"adverse reaction"-noun-0,"Adverse reactions"-tx-4-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-2-"adverse reactions"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|8076/16;7871/17;7702/17;7459/17;7367/17;7287/17;2883/16;2673/17;2551/17;2359/17;2152/17;2048/17;1894/17;1774/17;1249/16;1019/17;692/17;6/17;49/17|
+00000000|MMI|35.06|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-21-"pneumonia"-noun-0,"PNEUMONIA"-tx-19-"pneumonia"-noun-0,"PNEUMONIA"-tx-17-"pneumonia"-noun-0,"PNEUMONIA"-tx-14-"pneumonia"-noun-0,"PNEUMONIA"-tx-8-"pneumonia"-noun-0,"PNEUMONIA"-tx-2-"pneumonia"-noun-0,"Pneumonitis"-tx-2-"Pneumonitis"-noun-0]|TX|9393/9;7626/9;7404/9;4424/9;1960/9;775/9;347/11|C08.381.677;C08.730.610
+00000000|MMI|32.41|Fever|C0015967|[fndg]|["PYREXIA"-tx-21-"pyrexia"-noun-0,"PYREXIA"-tx-17-"pyrexia"-noun-0,"PYREXIA"-tx-14-"pyrexia"-noun-0,"PYREXIA"-tx-8-"pyrexia"-noun-0,"PYREXIA"-tx-2-"pyrexia"-noun-0]|TX|8847/7;7441/7;3874/7;1977/7;742/7|C23.888.119.344
+00000000|MMI|29.17|Disease|C0012634|[dsyn]|["Disorders"-tx-21-"disorders"-noun-0,"condition"-tx-21-"conditions"-noun-0,"Disorders"-tx-14-"disorders"-noun-0,"condition"-tx-14-"conditions"-verb-0,"condition"-tx-4-"conditions"-noun-0]|TX|8687/9;8721/10;[3823/9],[4240/9];3857/10;1237/10|C23.550.288
+00000000|MMI|28.12|Chronic Lymphocytic Leukemia|C0023434|[neop]|["CLL"-tx-14-"CLL"-noun-0,"Chronic lymphocytic leukaemia"-tx-5-"Chronic Lymphocytic Leukemia"-noun-0]|TX|[2711/3],[5392/3];1482/28|C04.557.337.428.080.125;C15.604.515.560.080.125;C20.683.515.528.080.125
+00000000|MMI|23.93|Colitis|C0009319|[dsyn]|["COLITIS"-tx-12-"colitis"-noun-0,"COLITIS"-tx-10-"colitis"-noun-0,"COLITIS"-tx-2-"Colitis"-noun-0]|TX|2491/7;2242/7;293/7|C06.405.205.265;C06.405.469.158.188
+00000000|MMI|23.43|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-22-"ALT"-noun-0,"ALT"-tx-14-"ALT"-noun-0,"ALT"-tx-3-"ALT"-noun-0]|TX|10991/3;6174/3;947/3|C04.557.450.550.400
+00000000|MMI|20.17|Hypertriglyceridemia|C0020557|[dsyn]|["HYPERTRIGLYCERIDEMIA"-tx-14-"hypertriglyceridemia"-noun-0,"HYPERTRIGLYCERIDEMIA"-tx-3-"hypertriglyceridemia"-noun-0]|TX|6528/20;910/20|C18.452.584.500.500.851
+00000000|MMI|20.17|Neutropenia|C0027947|[dsyn]|["NEUTROPENIA"-tx-3-"neutropenia"-noun-0,"NEUTROPENIA"-tx-2-"Neutropenia"-noun-0]|TX|897/11;605/11|C15.378.553.546.184.564
+00000000|MMI|19.49|Exanthema|C0015230|[sosy]|["RASH"-tx-21-"rash"-noun-0,"RASH"-tx-14-"rash"-noun-0,"RASH"-tx-12-"rash"-noun-0,"RASH"-tx-2-"rash"-noun-0]|TX|9775/4;4258/4;2504/4;814/4|C17.800.257
+00000000|MMI|19.09|Nausea|C0027497|[sosy]|["NAUSEA"-tx-21-"nausea"-noun-0,"NAUSEA"-tx-14-"nausea"-noun-0,"NAUSEA"-tx-2-"nausea"-noun-0]|TX|8354/6;3094/6;760/6|C23.888.821.712
+00000000|MMI|16.01|20%|C3842589|[fndg]|["20%"-tx-22-"20"-integer-0,"20%"-tx-21-"20"-integer-0,"20%"-tx-14-"20"-integer-0,"20%"-tx-2-"20"-percentage-0]|TX|[11059/2],[11335/2];8322/2;[4298/2],[5947/2],[6073/2],[6896/2];723/2|
+00000000|MMI|15.90|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-21-"abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-2-"abdominal pain"-noun-0]|TX|8463/14;786/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|15.79|Sepsis|C0243026|[dsyn]|["SEPSIS"-tx-14-"sepsis"-noun-0,"SEPSIS"-tx-8-"sepsis"-noun-0]|TX|4695/6;1991/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|15.79|Septicemia|C0036690|[dsyn]|["Sepsis"-tx-14-"sepsis"-noun-0,"Sepsis"-tx-8-"sepsis"-noun-0]|TX|4695/6;1991/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|15.61|Headache|C0018681|[sosy]|["HEADACHE"-tx-21-"headache"-noun-0,"HEADACHE"-tx-14-"headache"-noun-0]|TX|10048/8;3704/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|15.19|School Grade|C3244287|[fndg]|["grade"-tx-21-"Grade"-verb-0,"grade"-tx-14-"Grade"-verb-0]|TX|[8132/5],[10762/5];[2929/5],[2963/5],[5609/5],[5643/5]|
+00000000|MMI|14.10|Leukopenia|C0023530|[dsyn]|["NEUTROPENIA"-tx-3-"neutropenia"-noun-0,"NEUTROPENIA"-tx-2-"Neutropenia"-noun-0]|TX|897/11;605/11|C15.378.553.546
+00000000|MMI|14.10|Vomiting|C0042963|[sosy]|["VOMITING"-tx-21-"vomiting"-verb-0,"VOMITING"-tx-14-"vomiting"-verb-0]|TX|8572/8;3207/8|C23.888.821.937
+00000000|MMI|13.18|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-19-"diarrhea"-noun-0,"Diarrhea"-tx-17-"diarrhea"-noun-0,"Diarrhea"-tx-14-"diarrhea"-noun-0,"Diarrhea"-tx-12-"diarrhea"-noun-0,"Diarrhea"-tx-10-"diarrhea"-noun-0,"Diarrhea"-tx-8-"diarrhea"-noun-0,"Diarrhea"-tx-2-"diarrhea"-noun-0]|TX|7610/8;7421/8;3320/8;2479/8;2233/8;2033/8;732/8|
+00000000|MMI|12.82|Congenital Abnormality|C0000768|[cgab]|["Abnormalities"-tx-22-"abnormalities"-noun-0,"Abnormalities"-tx-14-"abnormalities"-noun-0]|TX|[10894/13],[11222/13];[5754/13],[6143/13]|C16.131
+00000000|MMI|12.80|Coughing|C0010200|[sosy]|["COUGH"-tx-21-"cough"-noun-0,"COUGH"-tx-2-"cough"-noun-0]|TX|9502/5;768/5|C08.618.248;C23.888.852.293
+00000000|MMI|12.75|Hyperglycemia|C0020456|[dsyn]|["HYPERGLYCEMIA"-tx-14-"hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-3-"hyperglycemia"-noun-0]|TX|6626/13;932/13|C18.452.394.952
+00000000|MMI|11.59|Febrile Neutropenia|C0746883|[dsyn]|["Febrile Neutropenia"-tx-8-"febrile neutropenia"-noun-0]|TX|2004/19|C15.378.553.546.184.564.750
+00000000|MMI|11.06|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-21-"fatigue"-verb-0,"FATIGUE"-tx-2-"fatigue"-noun-0]|TX|8738/7;751/7|C23.888.369
+00000000|MMI|10.84|Alveolar rhabdomyosarcoma|C0206655|[neop]|["ARMS"-tx-13-"arms"-noun-0]|TX|2655/4|C04.557.450.590.550.660.665;C04.557.450.795.550.660.665
+00000000|MMI|10.03|29+|C3843708|[fndg]|["29+"-tx-21-"29"-integer-0,"29+"-tx-14-"29"-integer-0]|TX|[8408/2],[9556/2];[5881/2],[6440/2]|
+00000000|MMI|9.76|Chills|C0085593|[sosy]|["CHILLS"-tx-14-"chills"-noun-0,"CHILLS"-tx-2-"chills"-noun-0]|TX|3987/6;802/6|C23.888.208
+00000000|MMI|9.62|Mediastinal Diseases|C0025061|[dsyn]|["Mediastinal Disorders"-tx-21-"mediastinal disorders"-noun-0,"Mediastinal Disorders"-tx-14-"mediastinal disorders"-noun-0]|TX|9363/21;4396/21|C08.846.187
+00000000|MMI|9.37|Gastroesophageal reflux disease|C0017168|[dsyn]|["Gastrooesophageal reflux disease"-tx-14-"gastroesophageal reflux disease"-noun-0]|TX|3433/31|C06.405.117.119.500.484
+00000000|MMI|9.32|Arthralgia|C0003862|[sosy]|["ARTHRALGIA"-tx-14-"arthralgia"-noun-0]|TX|5199/10|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|8.95|10%|C3842590|[fndg]|["10%"-tx-21-"10"-percentage-0,"10%"-tx-20-"10"-percentage-0,"10%"-tx-19-"10"-percentage-0,"10%"-tx-14-"10"-percentage-0,"10%"-tx-9-"10"-percentage-0]|TX|7893/2;7742/2;7671/2;5385/2;2121/2|
+00000000|MMI|8.69|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["CTCAE 4"-tx-21-"CTCAE 4"-noun-0,"Grade 4"-tx-21-"Grade 4"-noun-0,"CTCAE 4"-tx-14-"CTCAE 4"-noun-0,"Grade 4"-tx-14-"Grade 4"-noun-0]|TX|10846/5,10860/1;10777/5,10802/1;5704/5,5718/1;[5622/5,5630/1],[5656/5,5664/1]|
+00000000|MMI|7.81|Pain|C0030193|[sosy]|["PAIN"-tx-14-"pain"-noun-0]|TX|4100/4|C10.597.617;C23.888.592.612;F02.830.816.444;G11.561.600.810.444
+00000000|MMI|7.80|Sleeplessness|C0917801|[sosy]|["INSOMNIA"-tx-21-"insomnia"-noun-0]|TX|10376/8|C10.886.425.800.800;F03.870.400.800.800
+00000000|MMI|7.50|50%|C3842586|[fndg]|["50%"-tx-22-"50"-integer-0,"50%"-tx-16-"50"-percentage-0,"50%"-tx-14-"50"-integer-0]|TX|11044/2;7326/2;6700/2|
+00000000|MMI|7.50|<50|C3843766|[fndg]|["<50"-tx-22-"50"-integer-0,"<50"-tx-16-"50"-percentage-0,"<50"-tx-14-"50"-integer-0]|TX|11044/2;7326/2;6700/2|
+00000000|MMI|7.04|Intestinal Perforation|C0021845|[dsyn]|["INTESTINAL PERFORATION"-tx-2-"Intestinal Perforation"-noun-0]|TX|405/22|C06.405.469.557
+00000000|MMI|7.04|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-2-"Anaphylaxis"-noun-0]|TX|547/11|C20.543.480.099
+00000000|MMI|6.92|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-21-"Grade 3"-noun-0,"GRADE 3"-tx-14-"Grade 3"-noun-0]|TX|10777/7;[2942/5,2950/1],[2976/5,2984/1],[5656/7]|
+00000000|MMI|6.72|Infection|C3714514|[patf]|["Infections"-tx-21-"Infections"-noun-0,"Infections"-tx-14-"Infections"-noun-0]|TX|9172/10;4648/10|C01.539
+00000000|MMI|6.54|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-21-"Gastrointestinal disorders"-noun-0,"GASTROINTESTINAL DISORDERS"-tx-14-"Gastrointestinal disorders"-noun-0]|TX|8188/26;3047/26|C06.405
+00000000|MMI|6.34|Urinary tract infection|C0042029|[dsyn]|["URINARY TRACT INFECTION"-tx-14-"urinary tract infection"-noun-0]|TX|5034/23|C01.539.895;C12.777.892;C13.351.968.892
+00000000|MMI|6.32|Abnormal behavior|C0233514|[mobd]|["Psychiatric disorders"-tx-21-"Psychiatric disorders"-noun-0]|TX|10319/21|F01.145.126.972;F01.145.179.750
+00000000|MMI|6.32|Bronchitis|C0006277|[dsyn]|["BRONCHITIS"-tx-14-"bronchitis"-noun-0]|TX|4808/10|C08.127.446;C08.381.495.146;C08.730.099
+00000000|MMI|6.32|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-21-"dyspnea"-noun-0]|TX|9611/7|C08.618.326;C23.888.852.371
+00000000|MMI|6.32|Hypoglycemia|C0020615|[dsyn]|["HYPOGLYCEMIA"-tx-14-"hypoglycemia"-noun-0]|TX|6739/12|C18.452.394.984
+00000000|MMI|6.32|Sinusitis|C0037199|[dsyn]|["SINUSITIS"-tx-14-"sinusitis"-noun-0]|TX|4921/9|C08.460.692.752;C08.730.749;C09.603.692.752
+00000000|MMI|6.30|Hyponatremia|C0020625|[dsyn]|["HYPONATREMIA"-tx-14-"hyponatremia"-noun-0]|TX|6852/12|C18.452.950.620
+00000000|MMI|5.66|Colitis Adverse Event|C1963084|[fndg]|["Colitis"-tx-12-"colitis"-noun-0,"Colitis"-tx-10-"colitis"-noun-0,"Colitis"-tx-2-"Colitis"-noun-0]|TX|2491/7;2242/7;293/7|
+00000000|MMI|5.52|Pneumonitis|C3714636|[dsyn]|["PNEUMONITIS"-tx-2-"Pneumonitis"-noun-0]|TX|347/11|C08.381.677;C08.730.610
+00000000|MMI|5.42|indolent lymphoma|C1334170|[neop]|["Indolent Non-Hodgkin Lymphoma"-tx-21-"Indolent non-Hodgkin Lymphoma"-noun-0,"Indolent Non-Hodgkin Lymphoma"-tx-14-"Indolent Non-Hodgkin Lymphoma"-noun-0]|TX|[7927/29],[10559/29];7009/29|
+00000000|MMI|5.40|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-21-"nausea"-noun-0,"Nausea"-tx-14-"nausea"-noun-0,"Nausea"-tx-2-"nausea"-noun-0]|TX|8354/6;3094/6;760/6|
+00000000|MMI|5.17|West Haven Hepatic Encephalopathy Grade 4|C3889293|[fndg]|["GRADE 4"-tx-21-"Grade 4"-noun-0,"GRADE 4"-tx-14-"Grade 4"-noun-0]|TX|10777/5,10802/1;[5622/5,5630/1],[5656/5,5664/1]|
+00000000|MMI|4.99|30%|C3842588|[fndg]|["30%"-tx-21-"30"-integer-0,"30%"-tx-3-"30"-percentage-0]|TX|8792/2;888/2|
+00000000|MMI|4.99|60%|C3842585|[fndg]|["60%"-tx-22-"60"-integer-0,"60%"-tx-14-"60"-integer-0]|TX|11151/2;5834/2|
+00000000|MMI|4.99|Hepatotoxicity|C0235378|[inpo]|["HEPATOTOXICITY"-tx-10-"hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-2-"Hepatotoxicity"-noun-0]|TX|2214/14;213/14|
+00000000|MMI|4.99|Neutrophil count decreased|C0853697|[fndg]|["Neutropenia"-tx-3-"neutropenia"-noun-0,"Neutropenia"-tx-2-"Neutropenia"-noun-0]|TX|897/11;605/11|
+00000000|MMI|4.99|Serum triglycerides raised|C0428478|[fndg]|["Hypertriglyceridemia"-tx-14-"hypertriglyceridemia"-noun-0,"Hypertriglyceridemia"-tx-3-"hypertriglyceridemia"-noun-0]|TX|6528/20;910/20|
+00000000|MMI|4.99|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-21-"vomiting"-verb-0,"Vomiting"-tx-14-"vomiting"-verb-0]|TX|8572/8;3207/8|
+00000000|MMI|4.84|Upper Respiratory Infections|C0041912|[dsyn]|["Infection, Upper Respiratory Tract"-tx-21-"upper respiratory tract infection"-noun-0]|TX|9229/33|C01.539.739;C08.730
+00000000|MMI|4.80|Asthenia|C0004093|[sosy]|["ASTHENIA"-tx-21-"asthenia"-noun-0]|TX|8956/8|C23.888.089
+00000000|MMI|4.78|Stomatitis|C0038362|[dsyn]|["STOMATITIS"-tx-14-"stomatitis"-noun-0]|TX|3546/10|C07.465.864
+00000000|MMI|4.01|Nutrition Disorders|C3714509|[dsyn]|["Nutrition Disorders"-tx-21-"nutrition disorders"-noun-0]|TX|10170/19|C18.654
+00000000|MMI|3.69|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-21-"cough"-noun-0,"Cough"-tx-2-"cough"-noun-0]|TX|9502/5;768/5|
+00000000|MMI|3.54|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-21-"Nervous system disorders"-noun-0,"Disorders, Nervous System"-tx-14-"Nervous system disorders"-noun-0]|TX|9991/24;3657/24|C10
+00000000|MMI|3.54|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-21-"subcutaneous disorders"-noun-0,"Subcutaneous Disorders"-tx-14-"subcutaneous disorders"-noun-0]|TX|9727/22;4220/12,4240/9|
+00000000|MMI|3.48|Infestation|C0851341|[dsyn]|["infestations"-tx-21-"infestations"-noun-0,"infestations"-tx-14-"infestations"-noun-0]|TX|9187/12;4663/12|
+00000000|MMI|3.46|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-21-"headache"-noun-0,"headache"-tx-14-"headache"-noun-0]|TX|10048/8;3704/8|
+00000000|MMI|3.44|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-18-"discontinuation"-noun-0,"Discontinuation"-tx-9-"discontinuation"-noun-0]|TX|7505/15;2078/15|
+00000000|MMI|3.30|Connective Tissue Diseases|C0009782|[dsyn]|["Connective Tissue Disorders"-tx-14-"connective tissue disorders"-noun-0]|TX|5165/27|C17.300
+00000000|MMI|2.49|5-6|C3843715|[fndg]|["5-6"-tx-2-"5.6"-real_number-0]|TX|591/3|
+00000000|MMI|2.49|6/5|C0442749|[fndg]|["5 6"-tx-2-"5.6"-real_number-0]|TX|591/3|
+00000000|MMI|2.49|Abnormality of metabolism/homeostasis|C4021768|[fndg]|["Laboratory abnormality"-tx-21-"Laboratory Abnormality"-noun-0]|TX|10707/22|
+00000000|MMI|2.49|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-2-"Anaphylaxis"-noun-0]|TX|547/11|
+00000000|MMI|2.49|Hemoglobin finding|C1561562|[fndg]|["Hemoglobin"-tx-22-"hemoglobin"-noun-0]|TX|11378/10|
+00000000|MMI|2.49|Severe diarrhea|C1443924|[sosy]|["Severe diarrhoea"-tx-2-"Severe Diarrhea"-noun-0]|TX|274/15|
+00000000|MMI|2.49|Transaminases increased|C0438717|[fndg]|["Elevated Transaminases"-tx-19-"elevated transaminases"-noun-0]|TX|7647/22|
+00000000|MMI|1.80|ENT surgical result - nose nasal congestion|C2136984|[patf]|["nasal congestion"-tx-14-"nasal congestion"-noun-0]|TX|4537/16|
+00000000|MMI|1.80|Nasal congestion (finding)|C0027424|[sosy]|["NASAL CONGESTION"-tx-14-"nasal congestion"-noun-0]|TX|4537/16|
+00000000|MMI|1.80|Night sweats|C0028081|[sosy]|["NIGHT SWEATS"-tx-21-"night sweats"-noun-0]|TX|9884/12|
+00000000|MMI|1.80|Peripheral edema|C0085649|[fndg]|["Peripheral Oedema"-tx-21-"peripheral edema"-noun-0]|TX|9065/16|
+00000000|MMI|1.79|CTCAE Grade 3 Diarrhea|C1559310|[fndg]|["Grade III Diarrhea"-tx-21-"Grade 3 diarrhea"-noun-0]|TX|8155/5,8163/1,8245/8|
+00000000|MMI|1.79|Recurrent urinary tract infection|C0262655|[dsyn]|["Urinary tract infection"-tx-14-"urinary tract infection"-noun-0]|TX|5034/23|
+00000000|MMI|1.77|Acute bronchitis|C0149514|[dsyn]|["bronchitis"-tx-14-"bronchitis"-noun-0]|TX|4808/10|
+00000000|MMI|1.77|Mental disorders|C0004936|[mobd]|["PSYCHIATRIC DISORDERS"-tx-21-"Psychiatric disorders"-noun-0]|TX|10319/21|F03
+00000000|MMI|1.77|Platelets Adverse Event|C1963076|[fndg]|["Platelets"-tx-22-"platelets"-noun-0]|TX|11489/9|
+00000000|MMI|1.76|indolent, adult non-Hodgkin's lymphoma|C0677728|[neop]|["Adult Indolent Non-Hodgkin's Lymphoma"-tx-14-"adults indolent non-Hodgkin lymphoma"-noun-0]|TX|7098/6,7110/29|
+00000000|MMI|1.75|Pain NOS Adverse Event|C1962977|[fndg]|["Pain NOS"-tx-14-"pain"-noun-0]|TX|4100/4|
+00000000|MMI|1.74|Insomnia Adverse Event|C1963237|[fndg]|["Insomnia"-tx-21-"insomnia"-noun-0]|TX|10376/8|
+00000000|MMI|1.71|Experimental Result|C2825142|[fndg]|["Result"-tx-18-"resulted"-verb-0]|TX|7477/8|
+00000000|MMI|1.66|Recurrent Chronic Lymphoid Leukemia|C0854802|[neop]|["relapsed CLL"-tx-5-"relapsed CLL"-noun-0]|TX|1612/12|

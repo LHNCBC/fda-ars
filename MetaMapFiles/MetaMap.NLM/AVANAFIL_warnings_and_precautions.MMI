@@ -1,0 +1,103 @@
+00000000|AA|ED|erectile dysfunction|1|2|3|20|70:2
+00000000|AA|NO|nitric oxide|1|2|3|12|9668:2
+00000000|AA|HIV|Human Immunodeficiency Virus|1|3|5|28|9977:3
+00000000|MMI|90.86|Hypotension|C0020649|[fndg]|["Decrease in blood pressure"-tx-45-"decrease in blood pressure"-noun-0,"blood pressure lower"-tx-44-"blood-pressure-lowering"-adj-0,"lower blood pressure"-tx-41-"lowering blood pressure"-noun-0,"blood pressure lower"-tx-34-"blood pressure-lowering"-adj-0,"blood pressure lower"-tx-32-"blood pressure-lowering"-adj-0,"blood pressure lower"-tx-8-"blood pressure-lowering"-adj-0,"HYPOTENSION"-tx-7-"hypotension"-noun-0,"HYPOTENSION"-tx-2-"hypotension"-noun-0]|TX|9006/11,9027/14;8689/23;8213/8,8225/14;7221/23;6864/23;2539/23;2186/11;543/11|C14.907.514
+00000000|MMI|73.37|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-45-"dizziness"-noun-0,"Dizzyness"-tx-36-"dizziness"-noun-0,"Lightheadedness"-tx-36-"lightheadedness"-noun-0,"Dizzyness"-tx-29-"dizziness"-noun-0]|TX|9043/9;7495/9;7506/15;6448/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|67.11|Systemic arterial pressure|C1272641|[fndg]|["Blood pressure"-tx-36-"blood pressure"-noun-0,"Blood pressure"-tx-35-"blood pressure"-noun-0,"Blood pressure"-tx-7-"blood pressure"-noun-0]|TX|7424/14;7319/14;[2199/14],[2253/14]|G09.330.380.076.347
+00000000|MMI|56.39|Nonarteritic anterior ischemic optic neuropathy (NAION)|C1852242|[dsyn]|["NAION"-tx-28-"NAION"-noun-0,"NAION"-tx-26-"NAION"-noun-0,"NAION"-tx-25-"NAION"-noun-0,"NAION"-tx-23-"NAION"-noun-0,"NAION"-tx-22-"NAION"-noun-0,"NAION"-tx-21-"NAION"-noun-0,"NAION"-tx-20-"NAION"-noun-1,"NAION"-tx-4-"NAION"-noun-0,"NAION"-tx-3-"NAION"-noun-0,"NAION"-tx-2-"NAION"-noun-1]|TX|6105/5;[5826/5],[5857/5];5711/5;5411/5;5338/5;5162/5;4904/5;1054/5;974/5;840/5|
+00000000|MMI|54.24|Vertigo|C0042571|[sosy]|["dizziness"-tx-45-"dizziness"-noun-0,"dizziness"-tx-36-"dizziness"-noun-0,"dizziness"-tx-29-"dizziness"-noun-0]|TX|9043/9;7495/9;6448/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|53.35|Erectile dysfunction|C0242350|[dsyn]|["ERECTILE DYSFUNCTION"-tx-46-"ED"-noun-0,"ERECTILE DYSFUNCTION"-tx-46-"Erectile Dysfunction"-noun-0,"ERECTILE DYSFUNCTION"-tx-5-"ED"-noun-0,"ERECTILE DYSFUNCTION"-tx-1-"erectile dysfunction"-noun-0]|TX|9294/2;9183/20;1380/2;48/20|C12.294.644.486;F03.835.400
+00000000|MMI|42.15|Hearing Loss|C3887873|[fndg]|["Loss Of Hearing"-tx-29-"loss of hearing"-noun-0,"Loss Of Hearing"-tx-4-"loss of hearing"-noun-0]|TX|6391/15;1180/15|C09.218.458.341;C10.597.751.418.341;C23.888.592.763.393.341
+00000000|MMI|42.15|hearing impairment|C1384666|[fndg]|["Loss (of);hearing"-tx-29-"loss of hearing"-noun-0,"Loss (of);hearing"-tx-4-"loss of hearing"-noun-0]|TX|6391/15;1180/15|C09.218.458.341;C10.597.751.418.341;C23.888.592.763.393.341
+00000000|MMI|38.91|Low Vision|C0042798|[dsyn]|["Decreased vision"-tx-20-"decreased vision"-noun-0,"loss of vision"-tx-20-"loss of vision"-noun-0]|TX|4944/16;4981/14|C10.597.751.941.905;C11.966.905;C23.888.592.763.941.848
+00000000|MMI|32.57|Visual Impairment|C3665347|[fndg]|["Decreased vision"-tx-20-"decreased vision"-noun-0,"Loss of vision"-tx-20-"loss of vision"-noun-0]|TX|4944/16;4981/14|C10.597.751.941;C11.966;C23.888.592.763.941
+00000000|MMI|26.56|Priapism|C0033117|[dsyn]|["PRIAPISM"-tx-18-"priapism"-noun-0,"PRIAPISM"-tx-15-"priapism"-noun-0]|TX|4546/8;4004/8|C12.294.494.786
+00000000|MMI|26.36|Sexually Transmitted Diseases|C0036916|[dsyn]|["Sexually Transmitted Diseases"-tx-51-"sexually transmitted diseases"-noun-0,"Sexually Transmitted Diseases"-tx-50-"sexually transmitted diseases"-noun-1]|TX|9906/29;9798/29|C01.539.778;C02.800;C12.294.668;C13.351.500.711
+00000000|MMI|24.11|Syncope|C0039070|[sosy]|["FAINTING"-tx-36-"fainting"-verb-0]|TX|7523/8|C10.597.606.358.800.600;C23.888.592.604.359.800.600
+00000000|MMI|22.41|Angina, Unstable|C0002965|[dsyn]|["Angina, Unstable"-tx-7-"unstable angina"-noun-0]|TX|2315/15|C10.597.617.192.500.150;C14.280.647.187.150;C14.907.585.187.150;C23.888.592.612.233.500.150
+00000000|MMI|22.38|Hearing Loss, Sudden|C0011057|[fndg]|["sudden loss of hearing"-tx-29-"Sudden Hearing Loss of"-noun-0]|TX|6301/19,6328/2|C09.218.458.341.900;C10.597.751.418.341.900;C23.888.592.763.393.341.900
+00000000|MMI|20.95|Anemia, Sickle Cell|C0002895|[dsyn]|["Sickle cell anaemia"-tx-18-"sickle cell anemia"-noun-0]|TX|4564/18|C15.378.071.141.150.150;C15.378.420.155;C16.320.070.150;C16.320.365.155
+00000000|MMI|19.54|Blind Vision|C0456909|[fndg]|["Loss of vision"-tx-20-"loss of vision"-noun-0]|TX|4981/14|C10.597.751.941.162;C11.966.075;C23.888.592.763.941.162
+00000000|MMI|19.36|Tinnitus|C0040264|[fndg]|["TINNITUS"-tx-29-"tinnitus"-noun-0]|TX|6436/8|C09.218.458.670;C10.597.751.418.670;C23.888.592.763.393.670
+00000000|MMI|19.34|Angina Pectoris|C0002962|[fndg]|["ANGINA"-tx-7-"angina"-noun-0]|TX|2332/6|C10.597.617.192.500;C14.280.647.187;C14.907.585.187;C23.888.592.612.233.500
+00000000|MMI|18.78|combination - answer to question|C3811910|[fndg]|["Combination"-tx-46-"Combination"-noun-0,"Combination"-tx-45-"combination"-noun-0,"Combination"-tx-44-"combination"-noun-0,"Combination"-tx-35-"combination"-noun-0,"Combination"-tx-10-"combination"-noun-0]|TX|9141/11;8884/11;8676/11;7284/11;3125/11|
+00000000|MMI|17.80|Cerebrovascular accident|C0038454|[dsyn]|["STROKE"-tx-7-"stroke"-noun-0]|TX|2066/6|C10.228.140.300.775;C14.907.253.855
+00000000|MMI|17.80|HIV Infections|C0019693|[dsyn]|["Human Immunodeficiency Virus"-tx-51-"Human Immunodeficiency Virus"-noun-0]|TX|9947/28|C02.782.815.616.400;C02.800.801.400;C20.673.480
+00000000|MMI|17.80|Headache|C0018681|[sosy]|["HEADACHE"-tx-45-"headache"-noun-0]|TX|9058/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|17.80|Lightheadedness|C0220870|[sosy]|["LIGHTHEADEDNESS"-tx-36-"lightheadedness"-noun-0]|TX|7506/15|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|17.80|Multiple Myeloma|C0026764|[neop]|["MULTIPLE MYELOMA"-tx-18-"multiple myeloma"-noun-0]|TX|4584/16|C04.557.595.500;C14.907.454.460;C15.378.147.780.650;C15.378.463.515.460;C20.683.515.845;C20.683.780.650
+00000000|MMI|16.08|Peptic Ulcer|C0030920|[dsyn]|["Peptic ulceration"-tx-48-"peptic ulceration"-noun-0]|TX|9506/17|C06.405.469.275.800;C06.405.748.586
+00000000|MMI|15.79|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-45-"dizziness"-noun-0,"Dizziness"-tx-36-"dizziness"-noun-0,"Dizziness"-tx-29-"dizziness"-noun-0]|TX|9043/9;7495/9;6448/9|
+00000000|MMI|15.10|Blood pressure finding|C1271104|[fndg]|["Blood Pressure"-tx-36-"blood pressure"-noun-0,"Blood Pressure"-tx-35-"blood pressure"-noun-0,"Blood Pressure"-tx-7-"blood pressure"-noun-0]|TX|7424/14;7319/14;[2199/14],[2253/14]|
+00000000|MMI|14.64|Aortic Valve Stenosis|C0003507|[dsyn]|["AORTIC STENOSIS"-tx-6-"aortic stenosis"-noun-0]|TX|1582/15|C14.280.484.150;C14.280.955.249
+00000000|MMI|14.64|Mental Suffering|C0683278|[mobd]|["suffered"-tx-7-"suffered"-verb-1]|TX|2032/8|F01.145.126.990;F02.830.900
+00000000|MMI|14.64|Myocardial Infarction|C0027051|[dsyn]|["Infarction, Myocardial"-tx-7-"myocardial infarction"-noun-0]|TX|2043/21|C14.280.647.500;C14.907.585.500
+00000000|MMI|14.64|Peyronie Disease|C0030848|[dsyn]|["PEYRONIE DISEASE"-tx-18-"Peyronie's disease"-noun-0]|TX|4461/18|C12.294.494.508;C17.300.715
+00000000|MMI|14.64|Rare Diseases|C0678236|[dsyn]|["Rare condition"-tx-20-"rare condition"-noun-1]|TX|4914/14|C23.550.291.906
+00000000|MMI|14.64|Tachycardia|C0039231|[patf]|["Increase in heart rate"-tx-45-"increase in heart rate"-noun-0]|TX|8982/22|C14.280.067.845;C23.550.073.845
+00000000|MMI|14.57|50%|C3842586|[fndg]|["50%"-tx-39-"50"-integer-0,"50%"-tx-21-"50"-integer-0,"50%"-tx-14-"50"-integer-0,"50%"-tx-7-"50"-fraction-0]|TX|7995/2;5215/2;3854/2;2227/2|
+00000000|MMI|14.57|<50|C3843766|[fndg]|["<50"-tx-39-"50"-integer-0,"<50"-tx-21-"50"-integer-0,"<50"-tx-14-"50"-integer-0,"<50"-tx-7-"50"-fraction-0]|TX|7995/2;5215/2;3854/2;2227/2|
+00000000|MMI|14.34|Erectile Dysfunction Adverse Event|C1961100|[patf]|["Erectile dysfunction"-tx-46-"ED"-noun-0,"Erectile dysfunction"-tx-46-"Erectile Dysfunction"-noun-0,"Erectile dysfunction"-tx-5-"ED"-noun-0,"Erectile dysfunction"-tx-1-"erectile dysfunction"-noun-0]|TX|9294/2;9183/20;1380/2;48/20|
+00000000|MMI|14.30|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-40-"therapy"-noun-0,"Therapy"-tx-39-"therapy"-noun-0,"Therapy"-tx-38-"therapy"-noun-0,"Therapy"-tx-37-"therapy"-noun-0]|TX|8094/7;7922/7;7763/7;7636/7|
+00000000|MMI|13.01|Recurrence (disease attribute)|C2825055|[patf]|["RECURRENCE"-tx-26-"recurrence"-noun-0]|TX|5863/10|C23.550.291.937
+00000000|MMI|11.49|Blood Coagulation Disorders|C0005779|[dsyn]|["bleeding disorders"-tx-48-"bleeding disorders"-noun-0]|TX|9462/18|C15.378.100
+00000000|MMI|11.49|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-7-"hypertension"-noun-0]|TX|2239/12|C14.907.489
+00000000|MMI|11.49|leukemia|C0023418|[neop]|["LEUKAEMIA"-tx-18-"leukemia"-noun-0]|TX|4605/8|C04.557.337
+00000000|MMI|11.44|Experimental Result|C2825142|[fndg]|["Result"-tx-23-"results"-noun-0,"Result"-tx-17-"result"-verb-1,"Result"-tx-9-"resulted"-verb-0]|TX|5349/7;4315/6;2625/8|
+00000000|MMI|10.96|Anticipated|C3840775|[fndg]|["Anticipated"-tx-35-"anticipated"-verb-0,"Anticipated"-tx-27-"anticipated"-adj-0,"Anticipated"-tx-3-"anticipated"-adj-0]|TX|7341/11;5986/11;903/11|
+00000000|MMI|10.67|Physical findings|C0311392|[fndg]|["SIGNS"-tx-45-"signs"-noun-0,"SIGN"-tx-20-"sign"-noun-1,"SIGN"-tx-2-"sign"-noun-1]|TX|8952/5;4846/4;791/4|
+00000000|MMI|10.42|Hearing Loss, Partial|C0018772|[fndg]|["loss of hearing"-tx-29-"loss of hearing"-noun-0,"loss of hearing"-tx-4-"loss of hearing"-noun-0]|TX|6391/15;1180/15|
+00000000|MMI|10.42|Related personal status|C0445223|[fndg]|["Related"-tx-30-"related"-verb-1,"Related"-tx-24-"related"-verb-1]|TX|6516/7;5540/7|
+00000000|MMI|10.42|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-45-"symptoms"-noun-0,"SYMPTOMS"-tx-31-"symptoms"-noun-0]|TX|8962/8;6642/8|
+00000000|MMI|10.28|Disease|C0012634|[dsyn]|["condition"-tx-18-"conditions"-noun-0]|TX|4506/10|C23.550.288
+00000000|MMI|9.94|Cardiac Arrhythmia|C0003811|[fndg]|["Arrythmia"-tx-7-"arrhythmia"-noun-0]|TX|2091/10|C14.280.067;C23.550.073
+00000000|MMI|9.90|disease transmission|C0242781|[patf]|["Transmitted"-tx-50-"Transmitted"-noun-0]|TX|9726/11|N06.850.310
+00000000|MMI|9.83|Ventricular Outflow Obstruction, Left|C0023213|[dsyn]|["Left ventricular outflow obstruction"-tx-6-"left ventricular outflow obstruction"-noun-0]|TX|1538/36|C14.280.955
+00000000|MMI|9.74|Hemorrhage|C0019080|[patf]|["BLEEDING"-tx-48-"Bleeding"-noun-0]|TX|9400/8|C23.550.414
+00000000|MMI|7.36|5-6|C3843715|[fndg]|["5-6"-tx-32-"5.6"-real_number-0,"5-6"-tx-2-"5.6"-real_number-0]|TX|6733/3;560/3|
+00000000|MMI|7.36|6/5|C0442749|[fndg]|["5 6"-tx-32-"5.6"-real_number-0,"5 6"-tx-2-"5.6"-real_number-0]|TX|6733/3;560/3|
+00000000|MMI|7.23|Hypotension symptomatic|C0863113|[patf]|["Hypotension symptomatic"-tx-38-"symptomatic hypotension"-noun-0,"Hypotension symptomatic"-tx-36-"symptomatic hypotension"-noun-0]|TX|7802/23;7464/23|
+00000000|MMI|7.22|Used by|C1273517|[fndg]|["used"-tx-35-"used"-verb-0,"used"-tx-5-"used"-verb-1]|TX|7276/4;1417/4|
+00000000|MMI|7.18|Sudden visual loss|C0155002|[sosy]|["Sudden loss of vision"-tx-19-"of sudden loss vision"-noun-0,"Sudden loss of vision"-tx-2-"sudden loss of vision"-noun-0]|TX|4775/2,4780/11,4795/6;724/21|
+00000000|MMI|7.05|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-7-"hypotension"-noun-0,"Hypotension"-tx-2-"hypotension"-noun-0]|TX|2186/11;543/11|
+00000000|MMI|7.03|Non-arteritic ischemic optic neuropathy|C0338507|[dsyn]|["ischemic optic neuropathy non-arteritic"-tx-20-"non-arteritic ischemic optic neuropathy"-noun-0,"Non-arteritic ischemic optic neuropathy"-tx-2-"Non Arteritic Ischemic Optic Neuropathy"-noun-0]|TX|4854/13,4877/25;799/39|
+00000000|MMI|5.18|2+|C3833492|[fndg]|["2+"-tx-42-"2"-integer-0]|TX|8480/1|
+00000000|MMI|5.18|Bleeding tendency|C1458140|[patf]|["Bleeding Disorders"-tx-48-"bleeding disorders"-noun-0]|TX|9462/18|
+00000000|MMI|5.18|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-45-"headache"-noun-0]|TX|9058/8|
+00000000|MMI|5.18|Fibrosis of corpus cavernosum|C0269014|[dsyn]|["cavernosal fibrosis"-tx-18-"cavernosal fibrosis"-noun-0]|TX|4437/19|
+00000000|MMI|5.18|Human immunodeficiency virus (HIV) II infection category B1|C3854222|[dsyn]|["Human immunodeficiency virus"-tx-51-"Human Immunodeficiency Virus"-noun-0]|TX|9947/28|
+00000000|MMI|5.18|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-7-"hypertension"-noun-0]|TX|2239/12|
+00000000|MMI|5.18|Idiopathic hypertrophic subaortic stenosis|C0700053|[cgab]|["HYPERTROPHIC SUBAORTIC STENOSIS, IDIOPATHIC"-tx-6-"idiopathic hypertrophic subaortic stenosis"-noun-0]|TX|1599/42|
+00000000|MMI|5.18|In care (finding)|C0580931|[fndg]|["care"-tx-2-"care"-verb-0]|TX|714/4|
+00000000|MMI|5.18|Intravascular depletion|C0750310|[fndg]|["intravascular volume depletion"-tx-42-"intravascular volume depletion"-noun-0]|TX|8382/30|
+00000000|MMI|5.18|Living Alone|C0439044|[fndg]|["Alone"-tx-38-"alone"-adj-0]|TX|7771/5|
+00000000|MMI|5.18|New York Heart Association Class II|C1882085|[fndg]|["New York Heart Association Class 2"-tx-7-"New York Heart Association Class 2"-noun-0]|TX|2367/34|
+00000000|MMI|5.18|Painful penile erection|C0233973|[sosy]|["painful erections"-tx-15-"painful erections"-noun-0]|TX|4014/17|
+00000000|MMI|5.18|Uncommon disorder|C1847498|[fndg]|["Uncommon condition"-tx-28-"uncommon condition"-noun-0]|TX|6271/18|
+00000000|MMI|5.18|consideration|C0518609|[fndg]|["CONSIDERATION"-tx-37-"Consideration"-noun-0]|TX|7538/13|
+00000000|MMI|3.81|Congestive heart failure|C0018802|[dsyn]|["CONGESTIVE HEART FAILURE"-tx-7-"congestive heart failure"-noun-0]|TX|2413/24|
+00000000|MMI|3.81|Pre-existing condition|C0521987|[fndg]|["Pre-existing disease"-tx-4-"pre-existing disease"-noun-0]|TX|1317/12,1345/7|
+00000000|MMI|3.77|Abnormal vision|C3665386|[fndg]|["Loss of vision"-tx-20-"loss of vision"-noun-0]|TX|4981/14|
+00000000|MMI|3.77|Unspecified visual loss|C3665346|[sosy]|["Loss Of Vision"-tx-20-"loss of vision"-noun-0]|TX|4981/14|
+00000000|MMI|3.75|Tissue damage|C0010957|[inpo]|["TISSUE DAMAGE"-tx-17-"tissue damage"-noun-1]|TX|4265/13|
+00000000|MMI|3.59|Hemodynamic instability|C0948268|[dsyn]|["Hemodynamic Instability"-tx-38-"hemodynamic instability"-noun-0]|TX|7722/23|
+00000000|MMI|3.59|Tinnitus Adverse Event|C1963249|[fndg]|["Tinnitus"-tx-29-"tinnitus"-noun-0]|TX|6436/8|
+00000000|MMI|3.57|Little NOS|C3714596|[fndg]|["Little NOS"-tx-10-"little"-adj-0]|TX|2893/6|
+00000000|MMI|3.55|Protection|C1545588|[fndg]|["Protection"-tx-50-"protection"-noun-1]|TX|9779/10|
+00000000|MMI|3.55|Recurrent Malignant Neoplasm|C1458156|[neop]|["recurrence"-tx-26-"recurrence"-noun-0]|TX|5863/10|
+00000000|MMI|3.55|Special screening finding|C1409616|[fndg]|["screening"-tx-28-"screening"-noun-0]|TX|6192/9|
+00000000|MMI|3.53|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-7-"life-threatening"-adj-0]|TX|2074/16|
+00000000|MMI|3.53|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-7-"life-threatening"-adj-0]|TX|2074/16|
+00000000|MMI|3.53|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-7-"life-threatening"-adj-0]|TX|2074/16|
+00000000|MMI|3.49|Arteritic anterior ischaemic optic neuropathy|C2242711|[dsyn]|["Arteritic anterior ischemic optic neuropathy"-tx-20-"arteritic anterior ischemic optic neuropathy"-noun-1]|TX|4858/44|
+00000000|MMI|3.48|Sexual intercourse - finding|C1314687|[fndg]|["Sexual intercourse"-tx-7-"sexual intercourse"-noun-0]|TX|2344/18|
+00000000|MMI|3.48|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-9-"3"-real_number-0]|TX|2730/1|
+00000000|MMI|3.46|5 - 9|C3840622|[fndg]|["5 - 9"-tx-48-"5.9"-real_number-0]|TX|9385/3|
+00000000|MMI|3.46|Cardiovascular Diseases|C0007222|[dsyn]|["CARDIOVASCULAR DISEASE"-tx-10-"cardiovascular disease"-noun-0]|TX|3030/22|C14
+00000000|MMI|3.46|Deteriorating vision|C0558171|[fndg]|["Decreased vision"-tx-20-"decreased vision"-noun-0]|TX|4944/16|
+00000000|MMI|3.45|10%|C3842590|[fndg]|["10%"-tx-50-"10"-real_number-0]|TX|9688/2|
+00000000|MMI|3.44|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-25-"risk factors"-noun-0]|TX|5717/12|
+00000000|MMI|3.44|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-3-"history of"-noun-0]|TX|963/10|
+00000000|MMI|3.43|Platelets Adverse Event|C1963076|[fndg]|["Platelets"-tx-49-"platelets"-noun-0]|TX|9555/9|
+00000000|MMI|3.42|90%|C3842582|[fndg]|["90%"-tx-7-"90"-fraction-0]|TX|2224/2|
+00000000|MMI|3.42|Prospective, NOS|C3846446|[fndg]|["Prospective, NOS"-tx-28-"prospective"-adj-0]|TX|6205/11|

@@ -1,0 +1,55 @@
+76,82|C0027497|nausea|sosy
+76,82|C1963179|nausea|patf
+90,98|C0042963|vomiting|sosy
+90,98|C1963281|vomiting|patf
+105,119|C0000737|abdominal pain|sosy
+126,153|C0017181|gastrointestinal hemorrhage|patf
+160,166|C0002871|anemia|dsyn
+177,188|C0027947|neutropenia|dsyn
+177,188|C0023530|neutropenia|dsyn
+177,188|C0853697|neutropenia|fndg
+472,482|C0012634|conditions|dsyn
+968,974|C2825142|result|fndg
+1015,1017|C0559546|AR|patf
+1031,1041|C2825032|withdrawal|mobd
+1031,1041|C3812880|withdrawal|fndg
+1078,1086|C0042963|Vomiting|sosy
+1078,1086|C1963281|Vomiting|patf
+1131,1146|C1444662|discontinuation|fndg
+1610,1636|C0024228|Lymphatic System Disorders|dsyn
+1659,1665|C0002871|Anemia|dsyn
+1768,1779|C0027947|Neutropenia|dsyn
+1768,1779|C0023530|Neutropenia|dsyn
+1768,1779|C0853697|Neutropenia|fndg
+1873,1899|C0017178|Gastrointestinal Disorders|dsyn
+1932,1938|C0027497|Nausea|sosy
+1932,1938|C1963179|Nausea|patf
+2041,2049|C0042963|Vomiting|sosy
+2041,2049|C1963281|Vomiting|patf
+2150,2164|C0000737|Abdominal Pain|sosy
+2259,2286|C0017181|Gastrointestinal Hemorrhage|patf
+2488,2514|C0017178|Gastrointestinal Disorders|dsyn
+2519,2539|C0000731|abdominal distension|fndg
+2541,2561|C0232498|abdominal tenderness|sosy
+2563,2572|C0013395|dyspepsia|sosy
+2574,2583|C0011168|dysphagia|dsyn
+2585,2595|C0016204|flatulence|sosy
+2585,2595|C1962956|flatulence|fndg
+2597,2619|C0021843|intestinal obstruction|dsyn
+2621,2630|C0025160|megacolon|dsyn
+2656,2665;2672,2692|C0151849|increased alkaline phosphatase|fndg
+2694,2703;2710,2721|C0238762|decreased bicarbonate|fndg
+2750,2774|C0392386|decreased platelet count|fndg
+2796,2815|C3714509|Nutrition Disorders|dsyn
+2820,2833|C0020456|hyperglycemia|dsyn
+2835,2853|C0220981|metabolic acidosis|patf
+2869,2881;2889,2898|C0549584|Subcutaneous Disorders|dsyn
+2889,2898|C0012634|Disorders|dsyn
+2903,2916|C0011609|drug eruption|dsyn
+2918,2926|C0033774|pruritus|sosy
+2928,2932|C0015230|rash|sosy
+3235,3261|C0020517|Hypersensitivity reactions|patf
+3263,3270|C0013404|dyspnea|sosy
+3272,3282|C0002994|angioedema|patf
+3284,3288|C0015230|rash|sosy
+3294,3302|C0033774|pruritus|sosy

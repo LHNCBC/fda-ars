@@ -1,0 +1,51 @@
+53,79|C0020517|Hypersensitivity Reactions|patf
+90,101|C0002792|Anaphylaxis|patf
+90,101|C0850803|Anaphylaxis|dsyn
+103,114|C0002792|Anaphylaxis|patf
+103,114|C0850803|Anaphylaxis|dsyn
+207,218|C0002792|anaphylaxis|patf
+207,218|C0850803|anaphylaxis|dsyn
+223,244|C0019243|hereditary angioedema|dsyn
+270,295|C0020517|hypersensitivity symptoms|patf
+306,309|C0019243|HAE|dsyn
+310,318|C1457887|symptoms|sosy
+349,375|C0020517|hypersensitivity reactions|patf
+401,427|C0020517|Hypersensitivity Reactions|patf
+439,450|C0002792|Anaphylaxis|patf
+439,450|C0850803|Anaphylaxis|dsyn
+476,502|C0020517|hypersensitivity reactions|patf
+514,525|C0002792|anaphylaxis|patf
+514,525|C0850803|anaphylaxis|dsyn
+583,586|C0019243|HAE|dsyn
+696,707|C0002792|anaphylaxis|patf
+696,707|C0850803|anaphylaxis|dsyn
+806,817|C0002792|anaphylaxis|patf
+806,817|C0850803|anaphylaxis|dsyn
+819,827|C1457887|Symptoms|sosy
+874,890|C0235710|chest discomfort|sosy
+892,900|C0016382|flushing|sosy
+892,900|C1962957|flushing|fndg
+902,918|C0236024|pharyngeal edema|fndg
+920,928|C0033774|pruritus|sosy
+930,940|C1260880|rhinorrhea|sosy
+942,950|C0037383|sneezing|fndg
+952,968|C2136984|nasal congestion|patf
+952,968|C0027424|nasal congestion|sosy
+970,987|C0700184|throat irritation|sosy
+989,998|C0042109|urticaria|dsyn
+989,998|C2186740|urticaria|fndg
+1000,1008|C0043144|wheezing|sosy
+1014,1025|C0020649|hypotension|fndg
+1014,1025|C3163620|hypotension|fndg
+1130,1156|C0020517|hypersensitivity reactions|patf
+1181,1189|C0033774|pruritus|sosy
+1196,1200|C0015230|rash|sosy
+1211,1220|C0042109|urticaria|dsyn
+1211,1220|C2186740|urticaria|fndg
+1368,1379|C0002792|anaphylaxis|patf
+1368,1379|C0850803|anaphylaxis|dsyn
+1430,1455|C0020517|hypersensitivity symptoms|patf
+1466,1469|C0019243|HAE|dsyn
+1470,1478|C1457887|symptoms|sosy
+1535,1560|C0020517|hypersensitivity reaction|patf
+1623,1628;1638,1654|C3845888|known hypersensitivity|fndg

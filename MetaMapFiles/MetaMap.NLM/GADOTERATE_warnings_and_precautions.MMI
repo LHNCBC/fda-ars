@@ -1,0 +1,52 @@
+00000000|AA|GBCAs|Gadolinium-based contrast agents|1|5|7|32|595:5
+00000000|AA|NSF|nephrogenic systemic fibrosis|1|3|5|29|655:3
+00000000|MMI|143.14|Nephrogenic Fibrosing Dermopathy|C1619692|[dsyn]|["Nephrogenic Systemic Fibrosis"-tx-19-"NSF"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-17-"NSF"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-15-"NSF"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-10-"NSF"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-9-"NSF"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-7-"NSF"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-5-"Nephrogenic Systemic Fibrosis"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-5-"nephrogenic systemic fibrosis"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-1-"Nephrogenic Systemic Fibrosis"-noun-0]|TX|2741/3;2355/3;2137/3;1361/3;1240/3;883/3;526/29;624/29;54/29|C17.800.553;C23.550.355.550
+00000000|MMI|143.14|Nephrogenic Systemic Fibrosis|C3888044|[dsyn]|["Nephrogenic Systemic Fibrosis"-tx-19-"NSF"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-17-"NSF"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-15-"NSF"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-10-"NSF"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-9-"NSF"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-7-"NSF"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-5-"Nephrogenic Systemic Fibrosis"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-5-"nephrogenic systemic fibrosis"-noun-0,"Nephrogenic Systemic Fibrosis"-tx-1-"Nephrogenic Systemic Fibrosis"-noun-0]|TX|2741/3;2355/3;2137/3;1361/3;1240/3;883/3;526/29;624/29;54/29|C17.800.553;C23.550.355.550
+00000000|MMI|124.50|Acute kidney injury|C2609414|[inpo]|["Acute injury of kidney"-tx-28-"of acute kidney injury"-noun-0,"Acute Kidney Injury"-tx-27-"acute kidney injury"-noun-0,"Acute injury of kidney"-tx-13-"of acute kidney injury"-noun-1,"Acute injury of kidney"-tx-12-"of acute kidney injury"-noun-0,"Acute Kidney Injury"-tx-11-"acute kidney injury"-noun-0,"Acute Kidney Injury"-tx-7-"acute kidney injury"-noun-0]|TX|3972/22;3888/19;1888/22;1585/22;1503/19;1011/19|C12.777.419.780.050;C13.351.968.419.780.050
+00000000|MMI|59.14|Chronic Kidney Diseases|C1561643|[dsyn]|["Chronic Kidney Disease"-tx-8-"chronic kidney disease"-noun-0,"Chronic Kidney Disease"-tx-7-"chronic kidney disease"-noun-0]|TX|[1073/7,1091/14],[1177/7,1191/14];926/7,942/14|C12.777.419.780.750;C13.351.968.419.780.750
+00000000|MMI|58.73|Kidney Failure, Acute|C0022660|[dsyn]|["Acute Kidney Injury"-tx-27-"acute kidney injury"-noun-0,"Acute Kidney Injury"-tx-11-"acute kidney injury"-noun-0,"Acute Kidney Injury"-tx-7-"acute kidney injury"-noun-0]|TX|3888/19;1503/19;1011/19|C12.777.419.780.050;C13.351.968.419.780.050
+00000000|MMI|48.99|Renal Insufficiency|C1565489|[dsyn]|["Renal dysfunction"-tx-30-"renal dysfunction"-noun-0,"Renal Impairment"-tx-29-"renal impairment"-noun-0,"Renal Impairment"-tx-15-"renal impairment"-noun-0]|TX|4277/17;4135/16;2215/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|43.58|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-26-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-25-"hypersensitivity reactions"-noun-0,"HYPERSENSITIVITY REACTION (NOS)"-tx-24-"hypersensitivity reaction"-noun-0,"Allergic Disorders"-tx-23-"allergic disorders"-noun-0,"Hypersensitivity reactions"-tx-20-"Hypersensitivity Reactions"-noun-0,"HYPERSENSITIVITY"-tx-3-"Hypersensitivity"-noun-0]|TX|3770/26;3603/26;3440/25;3372/18;2845/26;237/16|C20.543
+00000000|MMI|22.60|Fatal Outcome|C0206277|[patf]|["Fatal Result"-tx-9-"result fatal"-adj-0]|TX|1248/6,1258/5|E05.318.308.985.550.325;L01.280.975.550.325;N01.224.935.698.201;N06.850.505.400.975.550.325;N06.850.520.308.985.550.325
+00000000|MMI|20.77|Skin Manifestations|C0037285|[sosy]|["Skin Manifestations"-tx-20-"cutaneous manifestations"-noun-0,"Skin Manifestations"-tx-3-"cutaneous manifestations"-noun-0]|TX|2997/24;328/24|C23.888.885
+00000000|MMI|17.80|Asthma|C0004096|[dsyn]|["ASTHMA, BRONCHIAL"-tx-23-"bronchial asthma"-noun-0]|TX|3348/16|C08.127.108;C08.381.495.108;C08.674.095;C20.543.480.680.095
+00000000|MMI|14.64|Diabetes Mellitus|C0011849|[dsyn]|["DIABETES MELLITUS"-tx-14-"diabetes mellitus"-noun-0]|TX|1995/17|C18.452.394.750;C19.246
+00000000|MMI|12.88|Emergencies [Disease/Finding]|C2745965|[patf]|["Emergency"-tx-4-"emergency"-noun-0]|TX|463/9|C23.550.291.781;N06.230.100.083;N06.850.376
+00000000|MMI|11.49|Shock|C0036974|[patf]|["CIRCULATORY COLLAPSE"-tx-21-"circulatory collapse"-noun-0]|TX|3049/20|C23.550.835
+00000000|MMI|10.42|Death (finding)|C1306577|[fndg]|["Died"-tx-21-"died"-verb-0,"Death"-tx-3-"death"-noun-0]|TX|3074/4;393/5|
+00000000|MMI|10.28|Disease|C0012634|[dsyn]|["condition"-tx-11-"conditions"-noun-0]|TX|1533/10|C23.550.288
+00000000|MMI|9.99|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-12-"infection"-noun-0]|TX|1741/9|C01.539.221
+00000000|MMI|9.99|Fibrosis|C0016059|[patf]|["FIBROSIS"-tx-9-"fibrosis"-noun-0]|TX|1280/8|C23.550.355
+00000000|MMI|7.55|Anaphylactoid reaction|C0340865|[patf]|["anaphylactoid reactions"-tx-20-"anaphylactoid reactions"-noun-0,"REACTION ANAPHYLACTIC ANAPHYLACTOID"-tx-3-"Anaphylactoid/anaphylactic reactions"-noun-0]|TX|2894/23;255/36|
+00000000|MMI|7.53|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-30-"history of"-noun-0,"HISTORY"-tx-29-"history"-noun-0]|TX|4266/10;4167/7|
+00000000|MMI|7.33|<30 min|C3842955|[fndg]|["<30 min"-tx-8-"30 min"-noun-0,"<30 min"-tx-7-"30 min"-noun-0]|TX|1111/2,1122/3;964/2,970/3|
+00000000|MMI|7.28|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-26-"symptoms"-noun-0,"SYMPTOMS"-tx-22-"symptoms"-noun-0]|TX|3758/8;3103/8|
+00000000|MMI|7.27|1+|C3816745|[fndg]|["1+"-tx-10-"1"-integer-0]|TX|[1414/1],[1438/1]|
+00000000|MMI|7.26|Extravasation|C0015376|[patf]|["EXTRAVASATION"-tx-32-"Extravasation"-noun-0,"EXTRAVASATION"-tx-31-"Extravasation"-noun-0]|TX|4423/13;4307/13|
+00000000|MMI|7.23|30%|C3842588|[fndg]|["30%"-tx-8-"30"-integer-0,"30%"-tx-7-"30"-integer-0]|TX|1111/2;964/2|
+00000000|MMI|7.13|60%|C3842585|[fndg]|["60%"-tx-14-"60"-integer-0,"60%"-tx-8-"60"-integer-0]|TX|1985/2;1211/2|
+00000000|MMI|7.09|Diagnosis|C0011900|[fndg]|["DIAGNOSIS"-tx-10-"diagnosis"-noun-0,"Diagnostic"-tx-6-"diagnostic"-adj-0]|TX|1348/9;766/10|E01
+00000000|MMI|6.83|Infection|C3714514|[patf]|["INFECTION"-tx-12-"infection"-noun-0]|TX|1741/9|C01.539
+00000000|MMI|5.18|2+|C3833492|[fndg]|["2+"-tx-19-"2"-integer-0]|TX|2790/1|
+00000000|MMI|5.18|ASTHMA, SUSCEPTIBILITY TO (finding)|C1869116|[fndg]|["ASTHMA, BRONCHIAL"-tx-23-"bronchial asthma"-noun-0]|TX|3348/16|
+00000000|MMI|5.18|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-22-"Adverse Reactions"-noun-1]|TX|3212/17|
+00000000|MMI|5.18|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-3-"Hypersensitivity"-noun-0]|TX|237/16|
+00000000|MMI|5.18|History of previous events|C2004062|[fndg]|["History"-tx-29-"history"-noun-0]|TX|4167/7|
+00000000|MMI|5.18|Injection site reaction|C0151735|[patf]|["Injection site reactions"-tx-31-"Injection Site Reactions"-noun-0]|TX|4325/24|
+00000000|MMI|5.18|Little NOS|C3714596|[fndg]|["Little NOS"-tx-8-"little"-adj-0]|TX|1143/6|
+00000000|MMI|5.18|Patient Outcome - Died|C1546956|[fndg]|["Died"-tx-21-"died"-verb-0]|TX|3074/4|
+00000000|MMI|5.18|Serum creatinine level|C0600061|[fndg]|["serum creatinine levels"-tx-13-"Serum creatinine levels"-noun-0]|TX|1792/23|
+00000000|MMI|5.18|Traumatic AND/OR non-traumatic injury|C3263722|[inpo]|["Injury"-tx-12-"injury"-noun-0]|TX|1752/6|
+00000000|MMI|5.18|Traumatic injury|C3263723|[inpo]|["INJURY"-tx-12-"injury"-noun-0]|TX|1752/6|
+00000000|MMI|5.18|hypertension chronic|C0745114|[fndg]|["chronic hypertension"-tx-14-"chronic hypertension"-noun-0]|TX|2016/20|
+00000000|MMI|3.68|Toxic nephropathy|C0595916|[patf]|["Kidney Toxicity"-tx-12-"kidney toxicity"-noun-0]|TX|1775/15|
+00000000|MMI|3.60|Mouse MIN NOS|C1524029|[neop]|["MIN NOS"-tx-7-"min"-noun-0]|TX|970/3|
+00000000|MMI|3.57|Injury 3|C3842782|[fndg]|["Injury 3"-tx-27-"3 Injury"-noun-0]|TX|3808/1,3823/6|
+00000000|MMI|3.57|Experimental Result|C2825142|[fndg]|["Result"-tx-32-"result"-verb-0]|TX|4484/6|
+00000000|MMI|3.57|Irritation (finding)|C1706307|[fndg]|["Irritation"-tx-32-"irritation"-noun-0]|TX|4501/10|
+00000000|MMI|3.56|Resolved|C3714811|[fndg]|["RESOLVED"-tx-22-"resolved"-verb-0]|TX|3166/8|
+00000000|MMI|3.56|physiologic resolution|C1514893|[patf]|["Resolved"-tx-22-"resolved"-verb-0]|TX|3166/8|
+00000000|MMI|3.45|Physical findings|C0311392|[fndg]|["SIGNS"-tx-26-"signs"-noun-0]|TX|3748/5|
+00000000|MMI|3.45|Renal dysfunction|C3279454|[fndg]|["Renal dysfunction"-tx-30-"renal dysfunction"-noun-0]|TX|4277/17|
+00000000|MMI|3.44|Follow-up status|C0589120|[fndg]|["Follow-up"-tx-30-"follow-up"-adj-0]|TX|4209/9|
+00000000|MMI|3.44|Contrast media reaction|C0853800|[dsyn]|["Contrast media reaction"-tx-23-"reaction contrast media"-noun-0]|TX|3320/8,3332/14|

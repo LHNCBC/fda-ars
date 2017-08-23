@@ -1,0 +1,155 @@
+T1	AdverseReaction 58 69	Neutropenia
+T2	AdverseReaction 170 191	Peripheral Neuropathy
+T3	AdverseReaction 295 316	Embryo-Fetal Toxicity
+T4	AdverseReaction 319 329	Fetal harm
+T5	AdverseReaction 404 419	QT Prolongation
+T6	AdverseReaction 695 706	neutropenia
+T7	Severity 688 694	Severe
+T8	AdverseReaction 1036 1047	neutropenia
+T9	Severity 1028 1035	Grade 4
+T10	AdverseReaction 1052 1071	febrile neutropenia
+T11	AdverseReaction 1198 1209	neutropenia
+T12	Severity 1190 1197	Grade 4
+T13	AdverseReaction 1214 1233	febrile neutropenia
+T14	AdverseReaction 1741 1762	peripheral neuropathy
+T15	Severity 1733 1740	Grade 3
+T16	AdverseReaction 1852 1873	Peripheral neuropathy
+T17	AdverseReaction 1967 1977	Neuropathy
+T18	AdverseReaction 2112 2122	neuropathy
+T19	AdverseReaction 2657 2667	fetal harm
+T20	DrugClass 2599 2620	microtubule inhibitor
+T21	AdverseReaction 2707 2728	Embryo-fetal toxicity
+T22	AdverseReaction 2733 2747	teratogenicity
+T23	Animal 2760 2764	rats
+T24	AdverseReaction 3179 3194	QT prolongation
+T25	AdverseReaction 3265 3280	QT prolongation
+T26	Negation 3262 3264	no
+T27	Factor 330 333	can
+T28	Severity 1804 1811	Grade 4
+T29	Factor 2877 2879	If
+T30	Factor 3027 3032	fetus
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4 Hypothetical:E27
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6 Effect:E7
+E7	Severity:T7
+E8	AdverseReaction:T8 Effect:E9
+E9	Severity:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11 Effect:E12
+E12	Severity:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14 Effect:E15
+E15	Severity:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19 Hypothetical:E20
+E20	DrugClass:T20
+E21	AdverseReaction:T21 Hypothetical:E23
+E22	AdverseReaction:T22 Hypothetical:E23
+E23	Animal:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25 Negated:E26
+E26	Negation:T26
+E27	Factor:T27
+E28	AdverseReaction:T14 Effect:E29
+E29	Severity:T28
+E30	Factor:T29
+E31	Factor:T30
+A1	CUI E1 C0027947
+A2	UMLS-Preferred-Name E1 Neutropenia
+A3	MEDDRA-PT E1 Neutropenia
+A4	MEDDRA-PT-ID E1 10029354
+A5	CUI E2 C0031117
+A6	UMLS-Preferred-Name E2 Peripheral Neuropathy
+A7	MEDDRA-PT E2 Neuropathy peripheral
+A8	MEDDRA-PT-ID E2 10029331
+A9	CUI E3 C0270009
+A10	UMLS-Preferred-Name E3 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A11	MEDDRA-PT E3 Maternal drugs affecting foetus
+A12	MEDDRA-PT-ID E3 10026923
+A13	LLT E3 Drug toxicity NEC affecting foetus
+A14	LLT-ID E3 10013750
+A15	CUI E4 C0854268
+A16	UMLS-Preferred-Name E4 Foetal damage
+A17	MEDDRA-PT E4 Foetal damage
+A18	MEDDRA-PT-ID E4 10016852
+A19	LLT E4 Fetal damage
+A20	LLT-ID E4 10054743
+A21	CUI E5 C0151878
+A22	UMLS-Preferred-Name E5 Prolonged QT interval
+A23	MEDDRA-PT E5 Electrocardiogram QT prolonged
+A24	MEDDRA-PT-ID E5 10014387
+A25	LLT E5 QT prolonged
+A26	LLT-ID E5 10037705
+A27	CUI E6 C0027947
+A28	UMLS-Preferred-Name E6 Neutropenia
+A29	MEDDRA-PT E6 Neutropenia
+A30	MEDDRA-PT-ID E6 10029354
+A31	CUI E8 C0027947
+A32	UMLS-Preferred-Name E8 Neutropenia
+A33	MEDDRA-PT E8 Neutropenia
+A34	MEDDRA-PT-ID E8 10029354
+A35	CUI E10 C0746883
+A36	UMLS-Preferred-Name E10 Febrile Neutropenia
+A37	MEDDRA-PT E10 Febrile neutropenia
+A38	MEDDRA-PT-ID E10 10016288
+A39	CUI E11 C0027947
+A40	UMLS-Preferred-Name E11 Neutropenia
+A41	MEDDRA-PT E11 Neutropenia
+A42	MEDDRA-PT-ID E11 10029354
+A43	CUI E13 C0746883
+A44	UMLS-Preferred-Name E13 Febrile Neutropenia
+A45	MEDDRA-PT E13 Febrile neutropenia
+A46	MEDDRA-PT-ID E13 10016288
+A47	CUI E14 C0031117
+A48	UMLS-Preferred-Name E14 Peripheral Neuropathy
+A49	MEDDRA-PT E14 Neuropathy peripheral
+A50	MEDDRA-PT-ID E14 10029331
+A51	CUI E16 C0031117
+A52	UMLS-Preferred-Name E16 Peripheral Neuropathy
+A53	MEDDRA-PT E16 Neuropathy peripheral
+A54	MEDDRA-PT-ID E16 10029331
+A55	CUI E17 C0442874
+A56	UMLS-Preferred-Name E17 Neuropathy
+A57	MEDDRA-PT E17 Neuropathy peripheral
+A58	MEDDRA-PT-ID E17 10029331
+A59	LLT E17 Neuropathy
+A60	LLT-ID E17 10029328
+A61	CUI E18 C0442874
+A62	UMLS-Preferred-Name E18 Neuropathy
+A63	MEDDRA-PT E18 Neuropathy peripheral
+A64	MEDDRA-PT-ID E18 10029331
+A65	LLT E18 Neuropathy
+A66	LLT-ID E18 10029328
+A67	CUI E19 C0854268
+A68	UMLS-Preferred-Name E19 Foetal damage
+A69	MEDDRA-PT E19 Foetal damage
+A70	MEDDRA-PT-ID E19 10016852
+A71	LLT E19 Fetal damage
+A72	LLT-ID E19 10054743
+A73	CUI E21 C0270009
+A74	UMLS-Preferred-Name E21 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A75	MEDDRA-PT E21 Maternal drugs affecting foetus
+A76	MEDDRA-PT-ID E21 10026923
+A77	LLT E21 Drug toxicity NEC affecting foetus
+A78	LLT-ID E21 10013750
+A79	CUI E22 C0232910
+A80	UMLS-Preferred-Name E22 Teratogenesis
+A81	MEDDRA-PT E22 Teratogenicity
+A82	MEDDRA-PT-ID E22 10043275
+A83	CUI E24 C0151878
+A84	UMLS-Preferred-Name E24 Prolonged QT interval
+A85	MEDDRA-PT E24 Electrocardiogram QT prolonged
+A86	MEDDRA-PT-ID E24 10014387
+A87	LLT E24 QT prolonged
+A88	LLT-ID E24 10037705
+A89	CUI E25 C0151878
+A90	UMLS-Preferred-Name E25 Prolonged QT interval
+A91	MEDDRA-PT E25 Electrocardiogram QT prolonged
+A92	MEDDRA-PT-ID E25 10014387
+A93	LLT E25 QT prolonged
+A94	LLT-ID E25 10037705

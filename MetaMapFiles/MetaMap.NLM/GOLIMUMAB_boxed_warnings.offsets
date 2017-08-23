@@ -1,0 +1,73 @@
+38,48|C3714514|INFECTIONS|patf
+53,63|C0006826|MALIGNANCY|neop
+53,63|C1306459|MALIGNANCY|neop
+86,96|C3714514|INFECTIONS|patf
+101,111|C0006826|MALIGNANCY|neop
+101,111|C1306459|MALIGNANCY|neop
+146,156|C3714514|INFECTIONS|patf
+161,171|C0006826|MALIGNANCY|neop
+161,171|C1306459|MALIGNANCY|neop
+256,266|C3714514|infections|patf
+297,302|C1306577|death|fndg
+313,325|C0041296|tuberculosis|dsyn
+332,348|C0684256|bacterial sepsis|dsyn
+350,358|C1334278|invasive|fndg
+375,389|C0019655|histoplasmosis|dsyn
+402,426|C0029118|opportunistic infections|dsyn
+488,499|C1444662|Discontinue|fndg
+545,554|C3714514|infection|patf
+545,554|C0009450|infection|dsyn
+558,564|C0243026|sepsis|dsyn
+558,564|C0036690|sepsis|dsyn
+585,589|C0456984|test|fndg
+594,603|C1609538|latent TB|dsyn
+608,616|C1514241|positive|fndg
+709,718|C0151332|active TB|dsyn
+771,779|C1513916|negative|fndg
+792,800|C0024299|Lymphoma|neop
+811,823|C0006826|malignancies|neop
+830,835|C1705232|fatal|fndg
+981,991|C3714514|INFECTIONS|patf
+1080,1090|C3714514|infections|patf
+1127,1132|C1306577|death|fndg
+1214,1224|C3714514|infections|patf
+1317,1328|C1444662|Discontinue|fndg
+1374,1383|C3714514|infection|patf
+1374,1383|C0009450|infection|dsyn
+1402,1412|C3714514|infections|patf
+1485,1504|C0151332|Active tuberculosis|dsyn
+1516,1528;1539,1551|C0275965|reactivation tuberculosis|dsyn
+1567,1579|C0041296|tuberculosis|dsyn
+1642,1649|C0012634|disease|dsyn
+1651,1655|C0456984|Test|fndg
+1669,1688|C1609538|latent tuberculosis|dsyn
+1724,1731|C1363945|therapy|fndg
+1756,1775|C1609538|latent tuberculosis|dsyn
+1808,1834|C1262313|Invasive fungal infections|dsyn
+1846,1860|C0019655|histoplasmosis|dsyn
+1862,1880|C0009186|coccidioidomycosis|dsyn
+1882,1893|C0006840|candidiasis|dsyn
+1895,1908|C0004030|aspergillosis|dsyn
+1910,1923|C0005716|blastomycosis|dsyn
+1928,1942|C1535939|pneumocystosis|dsyn
+1958,1972|C0019655|histoplasmosis|dsyn
+1982,2008|C1262313|invasive fungal infections|dsyn
+2105,2119|C0019655|histoplasmosis|dsyn
+2127,2135|C1513916|negative|fndg
+2165,2174|C3714514|infection|patf
+2165,2174|C0009450|infection|dsyn
+2205,2212|C1363945|therapy|fndg
+2237,2245|C1334278|invasive|fndg
+2334,2344;2352,2365|C0029118|infections opportunistic|dsyn
+2502,2509|C1363945|therapy|fndg
+2538,2557|C0239998|recurrent infection|fndg
+2615,2620|C0311392|signs|fndg
+2625,2633|C1457887|symptoms|sosy
+2637,2646|C3714514|infection|patf
+2637,2646|C0009450|infection|dsyn
+2731,2743|C0041296|tuberculosis|dsyn
+2894,2904|C0006826|MALIGNANCY|neop
+2894,2904|C1306459|MALIGNANCY|neop
+2913,2921|C0024299|Lymphoma|neop
+2932,2944|C0006826|malignancies|neop
+2951,2956|C1705232|fatal|fndg

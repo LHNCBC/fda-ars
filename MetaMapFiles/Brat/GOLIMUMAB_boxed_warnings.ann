@@ -1,0 +1,272 @@
+T1	AdverseReaction 38 48	INFECTIONS
+T2	AdverseReaction 86 96	INFECTIONS
+T3	AdverseReaction 146 156	INFECTIONS
+T4	AdverseReaction 256 266	infections
+T5	AdverseReaction 297 302	death
+T6	AdverseReaction 313 325	tuberculosis
+T7	AdverseReaction 327 329	TB
+T8	AdverseReaction 332 348	bacterial sepsis
+T9	AdverseReaction 350 365;416 426	invasive fungal infections
+T10	AdverseReaction 375 389	histoplasmosis
+T11	AdverseReaction 402 426	opportunistic infections
+T12	AdverseReaction 792 800	Lymphoma
+T13	AdverseReaction 811 823	malignancies
+T14	AdverseReaction 830 835	fatal
+T15	AdverseReaction 1080 1090	infections
+T16	Factor 1052 1056	risk
+T17	AdverseReaction 1127 1132	death
+T18	AdverseReaction 1214 1224	infections
+T19	AdverseReaction 1485 1504	Active tuberculosis
+T20	AdverseReaction 1516 1551	reactivation of latent tuberculosis
+T21	AdverseReaction 1567 1579	tuberculosis
+T24	AdverseReaction 1808 1834	Invasive fungal infections
+T25	AdverseReaction 1846 1860	histoplasmosis
+T26	AdverseReaction 1862 1880	coccidioidomycosis
+T27	AdverseReaction 1882 1893	candidiasis
+T28	AdverseReaction 1895 1908	aspergillosis
+T29	AdverseReaction 1910 1923	blastomycosis
+T30	AdverseReaction 1928 1942	pneumocystosis
+T35	AdverseReaction 2306 2315;2334 2344	Bacterial infections
+T36	AdverseReaction 2317 2322;2334 2344	viral infections
+T37	AdverseReaction 2334 2375	infections due to opportunistic pathogens
+T38	AdverseReaction 2334 2344;2387 2397	infections Legionella
+T39	AdverseReaction 2334 2344;2402 2410	infections Listeria
+T41	AdverseReaction 2913 2921	Lymphoma
+T42	AdverseReaction 2951 2956	fatal
+T43	Severity 138 145	SERIOUS
+T44	Severity 30 37	SERIOUS
+T45	Severity 78 85	SERIOUS
+T46	Severity 248 255	Serious
+T47	Severity 1072 1079	serious
+T48	AdverseReaction 101 111	MALIGNANCY
+T49	AdverseReaction 53 63	MALIGNANCY
+T50	Factor 1096 1099	may
+T31	AdverseReaction 2932 2944	malignancies
+T32	AdverseReaction 161 171	MALIGNANCY
+T33	AdverseReaction 1567 1579;1611 1623	tuberculosis disseminated
+T22	AdverseReaction 1567 1579;1627 1641	tuberculosis extrapulmonary
+E1	AdverseReaction:T1 Effect:E44
+E2	AdverseReaction:T2 Effect:E45
+E3	AdverseReaction:T3 Effect:E43
+E4	AdverseReaction:T4 Effect:E46
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15 Hypothetical:E16 Effect:E47
+E16	Factor:T16
+E17	AdverseReaction:T17 Hypothetical:E50
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	Severity:T43
+E44	Severity:T44
+E45	Severity:T45
+E46	Severity:T46
+E47	Severity:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	Factor:T50
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E22	AdverseReaction:T22
+A1	CUI E1 C3714514
+A2	UMLS-Preferred-Name E1 Infection
+A3	MEDDRA-PT E1 Infection
+A4	MEDDRA-PT-ID E1 10021789
+A5	CUI E2 C3714514
+A6	UMLS-Preferred-Name E2 Infection
+A7	MEDDRA-PT E2 Infection
+A8	MEDDRA-PT-ID E2 10021789
+A9	CUI E3 C3714514
+A10	UMLS-Preferred-Name E3 Infection
+A11	MEDDRA-PT E3 Infection
+A12	MEDDRA-PT-ID E3 10021789
+A13	CUI E4 C3714514
+A14	UMLS-Preferred-Name E4 Infection
+A15	MEDDRA-PT E4 Infection
+A16	MEDDRA-PT-ID E4 10021789
+A17	CUI E5 C1306577
+A18	UMLS-Preferred-Name E5 Death (finding)
+A19	MEDDRA-PT E5 Death
+A20	MEDDRA-PT-ID E5 10011906
+A21	CUI E6 C0041296
+A22	UMLS-Preferred-Name E6 Tuberculosis
+A23	MEDDRA-PT E6 Tuberculosis
+A24	MEDDRA-PT-ID E6 10044755
+A25	CUI E7 C0041296
+A26	UMLS-Preferred-Name E7 Tuberculosis
+A27	MEDDRA-PT E7 Tuberculosis
+A28	MEDDRA-PT-ID E7 10044755
+A29	LLT E7 TB
+A30	LLT-ID E7 10043148
+A31	CUI E8 C0684256
+A32	UMLS-Preferred-Name E8 Bacterial sepsis
+A33	MEDDRA-PT E8 Bacterial sepsis
+A34	MEDDRA-PT-ID E8 10053840
+A35	CUI E9 C1262313
+A36	UMLS-Preferred-Name E9 Invasive mycosis
+A37	MEDDRA-PT E9 Systemic mycosis
+A38	MEDDRA-PT-ID E9 10052366
+A39	LLT E9 Invasive mycosis
+A40	LLT-ID E9 10062642
+A41	CUI E10 C0019655
+A42	UMLS-Preferred-Name E10 Histoplasmosis
+A43	MEDDRA-PT E10 Histoplasmosis
+A44	MEDDRA-PT-ID E10 10020141
+A45	CUI E11 C0029118
+A46	UMLS-Preferred-Name E11 Opportunistic Infections
+A47	MEDDRA-PT E11 Opportunistic infection
+A48	MEDDRA-PT-ID E11 10030901
+A49	CUI E12 C0024299
+A50	UMLS-Preferred-Name E12 Lymphoma
+A51	MEDDRA-PT E12 Lymphoma
+A52	MEDDRA-PT-ID E12 10025310
+A53	CUI E13 C0006826
+A54	UMLS-Preferred-Name E13 Malignant Neoplasms
+A55	MEDDRA-PT E13 Neoplasm malignant
+A56	MEDDRA-PT-ID E13 10028997
+A57	CUI E14 C1306577
+A58	UMLS-Preferred-Name E14 Death (finding)
+A59	MEDDRA-PT E14 Death
+A60	MEDDRA-PT-ID E14 10011906
+A61	CUI E15 C3714514
+A62	UMLS-Preferred-Name E15 Infection
+A63	MEDDRA-PT E15 Infection
+A64	MEDDRA-PT-ID E15 10021789
+A65	CUI E17 C1306577
+A66	UMLS-Preferred-Name E17 Death (finding)
+A67	MEDDRA-PT E17 Death
+A68	MEDDRA-PT-ID E17 10011906
+A69	CUI E18 C3714514
+A70	UMLS-Preferred-Name E18 Infection
+A71	MEDDRA-PT E18 Infection
+A72	MEDDRA-PT-ID E18 10021789
+A73	CUI E19 C0151332
+A74	UMLS-Preferred-Name E19 Active tuberculosis
+A75	MEDDRA-PT E19 Tuberculosis
+A76	MEDDRA-PT-ID E19 10044755
+A77	LLT E19 Active tuberculosis
+A78	LLT-ID E19 10071157
+A79	CUI E20 C0275965
+A80	UMLS-Preferred-Name E20 Reactivation tuberculosis
+A81	MEDDRA-PT E20 Tuberculosis
+A82	MEDDRA-PT-ID E20 10044755
+A83	LLT E20 Tuberculosis reactivated
+A84	LLT-ID E20 10045025
+A85	CUI E21 C0041296
+A86	UMLS-Preferred-Name E21 Tuberculosis
+A87	MEDDRA-PT E21 Tuberculosis
+A88	MEDDRA-PT-ID E21 10044755
+A89	CUI E24 C1262313
+A90	UMLS-Preferred-Name E24 Invasive mycosis
+A91	MEDDRA-PT E24 Systemic mycosis
+A92	MEDDRA-PT-ID E24 10052366
+A93	LLT E24 Invasive mycosis
+A94	LLT-ID E24 10062642
+A95	CUI E25 C0019655
+A96	UMLS-Preferred-Name E25 Histoplasmosis
+A97	MEDDRA-PT E25 Histoplasmosis
+A98	MEDDRA-PT-ID E25 10020141
+A99	CUI E26 C0009186
+A100	UMLS-Preferred-Name E26 Coccidioidomycosis
+A101	MEDDRA-PT E26 Coccidioidomycosis
+A102	MEDDRA-PT-ID E26 10009825
+A103	CUI E27 C0006840
+A104	UMLS-Preferred-Name E27 Candidiasis
+A105	MEDDRA-PT E27 Candida infection
+A106	MEDDRA-PT-ID E27 10074170
+A107	LLT E27 Candidiasis
+A108	LLT-ID E27 10007152
+A109	CUI E28 C0004030
+A110	UMLS-Preferred-Name E28 Aspergillosis
+A111	MEDDRA-PT E28 Aspergillus infection
+A112	MEDDRA-PT-ID E28 10074171
+A113	LLT E28 Aspergillosis
+A114	LLT-ID E28 10003488
+A115	CUI E29 C0005716
+A116	UMLS-Preferred-Name E29 Blastomycosis
+A117	MEDDRA-PT E29 Blastomycosis
+A118	MEDDRA-PT-ID E29 10005098
+A119	CUI E30 C1535939
+A120	UMLS-Preferred-Name E30 Pneumocystis jiroveci pneumonia
+A121	MEDDRA-PT E30 Pneumocystis jirovecii pneumonia
+A122	MEDDRA-PT-ID E30 10073755
+A123	LLT E30 Pneumocystosis
+A124	LLT-ID E30 10035662
+A125	CUI E35 C0004623
+A126	UMLS-Preferred-Name E35 Bacterial Infections
+A127	MEDDRA-PT E35 Bacterial infection
+A128	MEDDRA-PT-ID E35 10060945
+A129	CUI E36 C0042769
+A130	UMLS-Preferred-Name E36 Virus Diseases
+A131	MEDDRA-PT E36 Viral infection
+A132	MEDDRA-PT-ID E36 10047461
+A133	CUI E37 C0029118
+A134	UMLS-Preferred-Name E37 Opportunistic Infections
+A135	MEDDRA-PT E37 Opportunistic infection
+A136	MEDDRA-PT-ID E37 10030901
+A137	CUI E38 C0023240
+A138	UMLS-Preferred-Name E38 Legionellosis
+A139	MEDDRA-PT E38 Legionella infection
+A140	MEDDRA-PT-ID E38 10061266
+A141	CUI E39 C0023860
+A142	UMLS-Preferred-Name E39 Listeriosis
+A143	MEDDRA-PT E39 Listeriosis
+A144	MEDDRA-PT-ID E39 10024641
+A145	LLT E39 Listeria infection
+A146	LLT-ID E39 10024638
+A147	CUI E41 C0024299
+A148	UMLS-Preferred-Name E41 Lymphoma
+A149	MEDDRA-PT E41 Lymphoma
+A150	MEDDRA-PT-ID E41 10025310
+A151	CUI E42 C1306577
+A152	UMLS-Preferred-Name E42 Death (finding)
+A153	MEDDRA-PT E42 Death
+A154	MEDDRA-PT-ID E42 10011906
+A155	CUI E48 C1306459
+A156	UMLS-Preferred-Name E48 Primary malignant neoplasm
+A157	MEDDRA-PT E48 Neoplasm malignant
+A158	MEDDRA-PT-ID E48 10028997
+A159	CUI E49 C1306459
+A160	UMLS-Preferred-Name E49 Primary malignant neoplasm
+A161	MEDDRA-PT E49 Neoplasm malignant
+A162	MEDDRA-PT-ID E49 10028997
+A163	CUI E31 C0006826
+A164	UMLS-Preferred-Name E31 Malignant Neoplasms
+A165	MEDDRA-PT E31 Neoplasm malignant
+A166	MEDDRA-PT-ID E31 10028997
+A167	CUI E32 C1306459
+A168	UMLS-Preferred-Name E32 Primary malignant neoplasm
+A169	MEDDRA-PT E32 Neoplasm malignant
+A170	MEDDRA-PT-ID E32 10028997
+A171	CUI E33 C0152915
+A172	UMLS-Preferred-Name E33 Acute miliary tuberculosis
+A173	MEDDRA-PT E33 Disseminated tuberculosis
+A174	MEDDRA-PT-ID E33 10013453
+A175	CUI E22 C0679362
+A176	UMLS-Preferred-Name E22 Tuberculosis, extrapulmonary
+A177	MEDDRA-PT E22 Extrapulmonary tuberculosis
+A178	MEDDRA-PT-ID E22 10064445

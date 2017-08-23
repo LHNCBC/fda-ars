@@ -1,0 +1,207 @@
+112,124|C0020538|Hypertension|dsyn
+112,124|C1963138|Hypertension|fndg
+126,137|C0020621|Hypokalemia|fndg
+143,158|C0268000|Fluid Retention|patf
+166,190|C0020428|Mineralocorticoid Excess|dsyn
+234,262|C0020595|Adrenocortical Insufficiency|dsyn
+234,262|C0405580|Adrenocortical Insufficiency|dsyn
+306,320|C0235378|Hepatotoxicity|inpo
+423,430|C0015672|fatigue|sosy
+432,446|C0152031|joint swelling|sosy
+462,467|C0013604|edema|fndg
+469,478|C0600142|hot flush|sosy
+480,488|C0011991|diarrhea|sosy
+480,488|C1963091|diarrhea|fndg
+490,498|C0042963|vomiting|sosy
+490,498|C1963281|vomiting|patf
+500,505|C0010200|cough|sosy
+500,505|C1961131|cough|fndg
+507,519|C0020538|hypertension|dsyn
+507,519|C1963138|hypertension|fndg
+521,528|C0013404|dyspnea|sosy
+530,553|C0042029|urinary tract infection|dsyn
+530,553|C0262655|urinary tract infection|dsyn
+558,567|C0009938|contusion|inpo
+625,631|C0002871|anemia|dsyn
+664,684|C0020557|hypertriglyceridemia|dsyn
+664,684|C0428478|hypertriglyceridemia|fndg
+686,697|C0024312|lymphopenia|dsyn
+686,697|C0853986|lymphopenia|fndg
+686,697|C1963164|lymphopenia|fndg
+699,719|C0020443|hypercholesterolemia|dsyn
+699,719|C1522133|hypercholesterolemia|fndg
+721,734|C0020456|hyperglycemia|dsyn
+736,748|C0151904|elevated AST|fndg
+750,766|C0085682|hypophosphatemia|patf
+750,766|C0595888|hypophosphatemia|fndg
+768,780|C0151905|elevated ALT|fndg
+785,796|C0020621|hypokalemia|fndg
+1061,1071|C0012634|conditions|dsyn
+1283,1293|C3815594|randomized|fndg
+1379,1415|C4049338|castration-resistant prostate cancer|neop
+1607,1618|C3811910|combination|fndg
+1922,1929|C0015672|fatigue|sosy
+1931,1945|C0152031|joint swelling|sosy
+1961,1966|C0013604|edema|fndg
+1968,1977|C0600142|hot flush|sosy
+1979,1987|C0011991|diarrhea|sosy
+1979,1987|C1963091|diarrhea|fndg
+1989,1997|C0042963|vomiting|sosy
+1989,1997|C1963281|vomiting|patf
+1999,2004|C0010200|cough|sosy
+1999,2004|C1961131|cough|fndg
+2006,2018|C0020538|hypertension|dsyn
+2006,2018|C1963138|hypertension|fndg
+2020,2027|C0013404|dyspnea|sosy
+2029,2052|C0042029|urinary tract infection|dsyn
+2029,2052|C0262655|urinary tract infection|dsyn
+2057,2066|C0009938|contusion|inpo
+2238,2244|C0002871|anemia|dsyn
+2277,2297|C0020557|hypertriglyceridemia|dsyn
+2277,2297|C0428478|hypertriglyceridemia|fndg
+2299,2310|C0024312|lymphopenia|dsyn
+2299,2310|C0853986|lymphopenia|fndg
+2299,2310|C1963164|lymphopenia|fndg
+2312,2332|C0020443|hypercholesterolemia|dsyn
+2312,2332|C1522133|hypercholesterolemia|fndg
+2334,2347|C0020456|hyperglycemia|dsyn
+2349,2361|C0151904|elevated AST|fndg
+2363,2379|C0085682|hypophosphatemia|patf
+2363,2379|C0595888|hypophosphatemia|fndg
+2381,2393|C0151905|elevated ALT|fndg
+2398,2409|C0020621|hypokalemia|fndg
+2586,2598|C1555471|not eligible|fndg
+2613,2616|C1266129|ALT|neop
+2635,2651|C0266258|absence of liver|cgab
+2652,2662|C0027627|metastases|neop
+2652,2662|C2939419|metastases|neop
+2678,2694|C0494165|liver metastases|neop
+2723,2726|C1266129|ALT|neop
+3187,3193|C3244287|Grades|fndg
+3221,3227|C3244287|Grades|fndg
+3234,3241|C3889290|Grade 3|fndg
+3277,3304|C0009782|connective tissue disorders|dsyn
+3381,3395|C0152031|Joint swelling|sosy
+3494,3511|C0231528|Muscle discomfort|sosy
+3607,3614;3720,3725|C0151603|General Edema|patf
+3615,3624|C0012634|disorders|dsyn
+3833,3851|C0042373|Vascular disorders|dsyn
+3946,3955|C0600142|Hot flush|sosy
+4059,4071|C0020538|Hypertension|dsyn
+4059,4071|C1963138|Hypertension|fndg
+4172,4198|C0017178|Gastrointestinal disorders|dsyn
+4285,4293;4333,4334|C3553270|Diarrhea 6|dsyn
+4398,4407|C0013395|Dyspepsia|sosy
+4511,4521|C3714514|Infections|patf
+4526,4538|C0851341|infestations|dsyn
+4624,4647|C0042029|Urinary tract infection|dsyn
+4624,4647|C0262655|Urinary tract infection|dsyn
+4737,4770|C0041912|Upper respiratory tract infection|dsyn
+4876,4897|C0025061|mediastinal disorders|dsyn
+4974,4979|C0010200|Cough|sosy
+4974,4979|C1961131|Cough|fndg
+5097,5104;5208,5217|C0042023|urinary frequency|fndg
+5097,5114|C0042075|urinary disorders|dsyn
+5105,5114|C0012634|disorders|dsyn
+5313,5321|C0028734|Nocturia|dsyn
+5434,5443|C0032343|poisoning|inpo
+5549,5558|C0016658|Fractures|inpo
+5662,5669;5775,5785|C0003811|Cardiac Arrhythmia|fndg
+5662,5669;5775,5785|C0264886|Cardiac Arrhythmia|patf
+5662,5669;5775,5785|C1560249|Cardiac Arrhythmia|patf
+5662,5679|C0018799|Cardiac disorders|dsyn
+5670,5679|C0012634|disorders|dsyn
+5775,5785|C0003811|Arrhythmia|fndg
+5888,5898|C0008031|Chest pain|sosy
+5902,5918|C0235710|chest discomfort|sosy
+6001,6016|C0018801|Cardiac failure|dsyn
+6001,6016|C0018802|Cardiac failure|dsyn
+6197,6200;6207,6217|C0920102|low phosphorus|fndg
+6227,6240|C0860866|low potassium|fndg
+6458,6480|C4021768|Laboratory Abnormality|fndg
+6538,6544|C3244287|Grades|fndg
+6574,6594|C0020557|Hypertriglyceridemia|dsyn
+6574,6594|C0428478|Hypertriglyceridemia|fndg
+6800,6811|C0020621|Hypokalemia|fndg
+6913,6929|C0085682|Hypophosphatemia|patf
+6913,6929|C0595888|Hypophosphatemia|fndg
+7031,7034|C1266129|ALT|neop
+7461,7464|C1266129|ALT|neop
+7515,7531|C0494165|liver metastases|neop
+7978,7984|C3244287|Grades|fndg
+8012,8018|C3244287|Grades|fndg
+8056,8065|C0012634|disorders|dsyn
+8161,8168|C0015672|Fatigue|sosy
+8274,8279|C0013604|Edema|fndg
+8387,8394|C0015967|Pyrexia|fndg
+8520,8547|C0009782|connective tissue disorders|dsyn
+8624,8638|C0152031|Joint swelling|sosy
+8737,8747|C0239783|Groin pain|sosy
+8850,8876|C0017178|Gastrointestinal disorders|dsyn
+8963,8975|C0009806|Constipation|sosy
+8963,8975|C1963087|Constipation|fndg
+9076,9084|C0011991|Diarrhea|sosy
+9076,9084|C1963091|Diarrhea|fndg
+9189,9198|C0013395|Dyspepsia|sosy
+9302,9320|C0042373|Vascular disorders|dsyn
+9415,9424|C0600142|Hot flush|sosy
+9528,9540|C0020538|Hypertension|dsyn
+9528,9540|C1963138|Hypertension|fndg
+9667,9688|C0025061|mediastinal disorders|dsyn
+9765,9770|C0010200|Cough|sosy
+9765,9770|C1961131|Cough|fndg
+9878,9885|C0013404|Dyspnea|sosy
+10104,10112|C0917801|Insomnia|sosy
+10104,10112|C1963237|Insomnia|fndg
+10225,10234|C0032343|poisoning|inpo
+10340,10349|C0009938|Contusion|inpo
+10453,10458|C0000921|Falls|inpo
+10453,10458|C0085639|Falls|fndg
+10566,10576|C3714514|Infections|patf
+10581,10593|C0851341|infestations|dsyn
+10679,10712|C0041912|Upper respiratory tract infection|dsyn
+10792,10807|C0027441|Nasopharyngitis|dsyn
+10915,10932|C0042075|urinary disorders|dsyn
+11018,11027|C0018965|Hematuria|fndg
+11140,11152;11160,11169|C0549584|subcutaneous disorders|dsyn
+11160,11169|C0012634|disorders|dsyn
+11246,11250|C0015230|Rash|sosy
+11529,11536;11539,11550|C1560227|Grade 3 lymphopenia|fndg
+11529,11534;11537,11550|C1560228|Grade 4 lymphopenia|fndg
+11557,11570|C0020456|hyperglycemia|dsyn
+11841,11863|C4021768|Laboratory Abnormality|fndg
+11885,11890;11908,11909;12072,12083|C1560227|Grade 3 Lymphopenia|fndg
+12298,12311|C0020456|Hyperglycemia|dsyn
+12416,12419|C1266129|ALT|neop
+12637,12650|C0020488|Hypernatremia|dsyn
+12750,12761|C0020621|Hypokalemia|fndg
+12957,12972|C0018801|cardiac failure|dsyn
+12957,12972|C0018802|cardiac failure|dsyn
+13098,13113|C0018801|cardiac failure|dsyn
+13098,13113|C0018802|cardiac failure|dsyn
+13203,13209|C1306577|deaths|fndg
+13221,13236|C0018801|cardiac failure|dsyn
+13221,13236|C0018802|cardiac failure|dsyn
+13331,13336;13344,13351|C0376297|death cardiac|patf
+13420,13431|C0003811|arrhythmias|fndg
+13437,13444|C3889292|grade 1|fndg
+13465,13470|C1306577|death|fndg
+13487,13497|C0003811|arrhythmia|fndg
+13506,13513;13526,13531|C1555024|patient death|fndg
+13519,13531|C0011071|sudden death|patf
+13519,13531|C1964022|sudden death|fndg
+13606,13612|C1306577|deaths|fndg
+13620,13644|C0600228|cardiorespiratory arrest|patf
+13677,13683|C1306577|deaths|fndg
+13705,13724|C0010054|Myocardial ischemia|dsyn
+13705,13724|C0151744|Myocardial ischemia|dsyn
+13728,13749|C0027051|myocardial infarction|dsyn
+13757,13762|C1306577|death|fndg
+13803,13809|C1306577|deaths|fndg
+13922,13932|C1550043|identified|fndg
+14039,14048|C0087130|uncertain|fndg
+14203,14224|C0025061|Mediastinal Disorders|dsyn
+14231,14253|C2721563|infectious pneumonitis|dsyn
+14281,14308|C0009782|Connective Tissue Disorders|dsyn
+14312,14320|C0026848|myopathy|dsyn
+14332,14346|C0035410|rhabdomyolysis|patf

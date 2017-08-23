@@ -1,0 +1,230 @@
+T1	AdverseReaction 413 421	Seizures
+T2	AdverseReaction 423 434	Anaphylaxis
+T3	AdverseReaction 440 464	Urinary Tract Infections
+T4	AdverseReaction 591 614	urinary tract infection
+T5	AdverseReaction 616 624	insomnia
+T6	AdverseReaction 626 635	dizziness
+T7	AdverseReaction 637 645	headache
+T8	AdverseReaction 647 653	nausea
+T9	AdverseReaction 655 663	asthenia
+T10	AdverseReaction 665 674	back pain
+T11	AdverseReaction 676 692	balance disorder
+T12	AdverseReaction 694 720	multiple sclerosis relapse
+T13	AdverseReaction 722 733	paresthesia
+T14	AdverseReaction 735 750	nasopharyngitis
+T15	AdverseReaction 752 764	constipation
+T16	AdverseReaction 766 775	dyspepsia
+T17	AdverseReaction 781 803	pharyngolaryngeal pain
+T18	AdverseReaction 1459 1467	headache
+T19	AdverseReaction 1495 1511	balance disorder
+T20	AdverseReaction 1539 1548	dizziness
+T21	AdverseReaction 1580 1597	confusional state
+T22	AdverseReaction 2098 2121	Urinary tract infection
+T23	AdverseReaction 2207 2215	Insomnia
+T24	AdverseReaction 2316 2325	Dizziness
+T25	AdverseReaction 2425 2433	Headache
+T26	AdverseReaction 2534 2540	Nausea
+T27	AdverseReaction 2643 2651	Asthenia
+T28	AdverseReaction 2752 2761	Back pain
+T29	AdverseReaction 2861 2877	Balance disorder
+T30	AdverseReaction 2970 2996	Multiple sclerosis relapse
+T31	AdverseReaction 3079 3090	Paresthesia
+T32	AdverseReaction 3188 3203	Nasopharyngitis
+T33	AdverseReaction 3297 3309	Constipation
+T34	AdverseReaction 3406 3415	Dyspepsia
+T35	AdverseReaction 3515 3537	Pharyngolaryngeal pain
+T36	AdverseReaction 4088 4096	seizures
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+A1	CUI E1 C0036572
+A2	UMLS-Preferred-Name E1 Seizures
+A3	MEDDRA-PT E1 Seizure
+A4	MEDDRA-PT-ID E1 10039906
+A5	LLT E1 Seizures
+A6	LLT-ID E1 10039910
+A7	CUI E2 C0002792
+A8	UMLS-Preferred-Name E2 anaphylaxis
+A9	MEDDRA-PT E2 Anaphylactic reaction
+A10	MEDDRA-PT-ID E2 10002198
+A11	LLT E2 Anaphylaxis
+A12	LLT-ID E2 10002218
+A13	CUI E3 C0042029
+A14	UMLS-Preferred-Name E3 Urinary tract infection
+A15	MEDDRA-PT E3 Urinary tract infection
+A16	MEDDRA-PT-ID E3 10046571
+A17	CUI E4 C0042029
+A18	UMLS-Preferred-Name E4 Urinary tract infection
+A19	MEDDRA-PT E4 Urinary tract infection
+A20	MEDDRA-PT-ID E4 10046571
+A21	CUI E5 C0917801
+A22	UMLS-Preferred-Name E5 Sleeplessness
+A23	MEDDRA-PT E5 Insomnia
+A24	MEDDRA-PT-ID E5 10022437
+A25	CUI E6 C0012833
+A26	UMLS-Preferred-Name E6 Dizziness
+A27	MEDDRA-PT E6 Dizziness
+A28	MEDDRA-PT-ID E6 10013573
+A29	CUI E7 C0018681
+A30	UMLS-Preferred-Name E7 Headache
+A31	MEDDRA-PT E7 Headache
+A32	MEDDRA-PT-ID E7 10019211
+A33	CUI E8 C0027497
+A34	UMLS-Preferred-Name E8 Nausea
+A35	MEDDRA-PT E8 Nausea
+A36	MEDDRA-PT-ID E8 10028813
+A37	CUI E9 C0004093
+A38	UMLS-Preferred-Name E9 Asthenia
+A39	MEDDRA-PT E9 Asthenia
+A40	MEDDRA-PT-ID E9 10003549
+A41	CUI E10 C0004604
+A42	UMLS-Preferred-Name E10 Back Pain
+A43	MEDDRA-PT E10 Back pain
+A44	MEDDRA-PT-ID E10 10003988
+A45	CUI E11 C0575090
+A46	UMLS-Preferred-Name E11 Equilibration disorder
+A47	MEDDRA-PT E11 Balance disorder
+A48	MEDDRA-PT-ID E11 10049848
+A49	CUI E12 C0856120
+A50	UMLS-Preferred-Name E12 Multiple sclerosis relapse
+A51	MEDDRA-PT E12 Multiple sclerosis relapse
+A52	MEDDRA-PT-ID E12 10048393
+A53	CUI E13 C0030554
+A54	UMLS-Preferred-Name E13 Paresthesia
+A55	MEDDRA-PT E13 Paraesthesia
+A56	MEDDRA-PT-ID E13 10033775
+A57	LLT E13 Paresthesia
+A58	LLT-ID E13 10033987
+A59	CUI E14 C0027441
+A60	UMLS-Preferred-Name E14 Nasopharyngitis
+A61	MEDDRA-PT E14 Nasopharyngitis
+A62	MEDDRA-PT-ID E14 10028810
+A63	CUI E15 C0009806
+A64	UMLS-Preferred-Name E15 Constipation
+A65	MEDDRA-PT E15 Constipation
+A66	MEDDRA-PT-ID E15 10010774
+A67	CUI E16 C0013395
+A68	UMLS-Preferred-Name E16 Dyspepsia
+A69	MEDDRA-PT E16 Dyspepsia
+A70	MEDDRA-PT-ID E16 10013946
+A71	CUI E17 C0858635
+A72	UMLS-Preferred-Name E17 Pharyngolaryngeal pain
+A73	MEDDRA-PT E17 Laryngeal pain
+A74	MEDDRA-PT-ID E17 10023848
+A75	LLT E17 Pharyngolaryngeal pain
+A76	LLT-ID E17 10034844
+A77	CUI E18 C0018681
+A78	UMLS-Preferred-Name E18 Headache
+A79	MEDDRA-PT E18 Headache
+A80	MEDDRA-PT-ID E18 10019211
+A81	CUI E19 C0575090
+A82	UMLS-Preferred-Name E19 Equilibration disorder
+A83	MEDDRA-PT E19 Balance disorder
+A84	MEDDRA-PT-ID E19 10049848
+A85	CUI E20 C0012833
+A86	UMLS-Preferred-Name E20 Dizziness
+A87	MEDDRA-PT E20 Dizziness
+A88	MEDDRA-PT-ID E20 10013573
+A89	CUI E21 C0009676
+A90	UMLS-Preferred-Name E21 Confusion
+A91	MEDDRA-PT E21 Confusional state
+A92	MEDDRA-PT-ID E21 10010305
+A93	CUI E22 C0042029
+A94	UMLS-Preferred-Name E22 Urinary tract infection
+A95	MEDDRA-PT E22 Urinary tract infection
+A96	MEDDRA-PT-ID E22 10046571
+A97	CUI E23 C0917801
+A98	UMLS-Preferred-Name E23 Sleeplessness
+A99	MEDDRA-PT E23 Insomnia
+A100	MEDDRA-PT-ID E23 10022437
+A101	CUI E24 C0012833
+A102	UMLS-Preferred-Name E24 Dizziness
+A103	MEDDRA-PT E24 Dizziness
+A104	MEDDRA-PT-ID E24 10013573
+A105	CUI E25 C0018681
+A106	UMLS-Preferred-Name E25 Headache
+A107	MEDDRA-PT E25 Headache
+A108	MEDDRA-PT-ID E25 10019211
+A109	CUI E26 C0027497
+A110	UMLS-Preferred-Name E26 Nausea
+A111	MEDDRA-PT E26 Nausea
+A112	MEDDRA-PT-ID E26 10028813
+A113	CUI E27 C0004093
+A114	UMLS-Preferred-Name E27 Asthenia
+A115	MEDDRA-PT E27 Asthenia
+A116	MEDDRA-PT-ID E27 10003549
+A117	CUI E28 C0004604
+A118	UMLS-Preferred-Name E28 Back Pain
+A119	MEDDRA-PT E28 Back pain
+A120	MEDDRA-PT-ID E28 10003988
+A121	CUI E29 C0575090
+A122	UMLS-Preferred-Name E29 Equilibration disorder
+A123	MEDDRA-PT E29 Balance disorder
+A124	MEDDRA-PT-ID E29 10049848
+A125	CUI E30 C0856120
+A126	UMLS-Preferred-Name E30 Multiple sclerosis relapse
+A127	MEDDRA-PT E30 Multiple sclerosis relapse
+A128	MEDDRA-PT-ID E30 10048393
+A129	CUI E31 C0030554
+A130	UMLS-Preferred-Name E31 Paresthesia
+A131	MEDDRA-PT E31 Paraesthesia
+A132	MEDDRA-PT-ID E31 10033775
+A133	LLT E31 Paresthesia
+A134	LLT-ID E31 10033987
+A135	CUI E32 C0027441
+A136	UMLS-Preferred-Name E32 Nasopharyngitis
+A137	MEDDRA-PT E32 Nasopharyngitis
+A138	MEDDRA-PT-ID E32 10028810
+A139	CUI E33 C0009806
+A140	UMLS-Preferred-Name E33 Constipation
+A141	MEDDRA-PT E33 Constipation
+A142	MEDDRA-PT-ID E33 10010774
+A143	CUI E34 C0013395
+A144	UMLS-Preferred-Name E34 Dyspepsia
+A145	MEDDRA-PT E34 Dyspepsia
+A146	MEDDRA-PT-ID E34 10013946
+A147	CUI E35 C0858635
+A148	UMLS-Preferred-Name E35 Pharyngolaryngeal pain
+A149	MEDDRA-PT E35 Laryngeal pain
+A150	MEDDRA-PT-ID E35 10023848
+A151	LLT E35 Pharyngolaryngeal pain
+A152	LLT-ID E35 10034844
+A153	CUI E36 C0036572
+A154	UMLS-Preferred-Name E36 Seizures
+A155	MEDDRA-PT E36 Seizure
+A156	MEDDRA-PT-ID E36 10039906
+A157	LLT E36 Seizures
+A158	LLT-ID E36 10039910

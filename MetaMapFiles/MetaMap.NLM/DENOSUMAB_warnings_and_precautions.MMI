@@ -1,0 +1,95 @@
+00000000|AA|PTH|parathyroid hormone|1|3|3|19|3021:3
+00000000|AA|ONJ|Osteonecrosis of the jaw|1|3|7|24|3538:3
+00000000|MMI|121.71|Hypocalcemia|C0020598|[dsyn]|["HYPOCALCEMIA"-tx-21-"hypocalcemia"-noun-0,"HYPOCALCEMIA"-tx-19-"Hypocalcemia"-noun-0,"HYPOCALCEMIA"-tx-18-"hypocalcemia"-noun-0,"HYPOCALCEMIA"-tx-17-"hypocalcemia"-noun-0,"HYPOCALCEMIA"-tx-16-"hypocalcemia"-noun-0,"HYPOCALCEMIA"-tx-15-"Hypocalcemia"-noun-0,"HYPOCALCEMIA"-tx-2-"Hypocalcemia"-noun-0]|TX|3139/12;2775/12;2617/12;2189/12;2090/12;[1981/12],[2023/12];292/12|C18.452.174.509;C18.452.950.509
+00000000|MMI|73.89|Infection|C3714514|[patf]|["Infections"-tx-50-"infections"-noun-0,"Infections"-tx-48-"infections"-noun-0,"INFECTION"-tx-47-"infection"-noun-0,"Infections"-tx-46-"infections"-noun-0,"Infections"-tx-43-"Infections"-noun-0,"Infections"-tx-43-"infections"-noun-0,"INFECTION"-tx-26-"infection"-noun-0,"INFECTION"-tx-7-"infection"-noun-0,"Infections"-tx-6-"infections"-noun-1]|TX|7597/10;7473/10;7317/9;7171/10;6591/10;6688/10;4320/9;898/9;719/10|C01.539
+00000000|MMI|67.15|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-21-"renal impairment"-noun-0,"Renal Impairment"-tx-19-"renal impairment"-noun-0,"Renal Impairment"-tx-17-"renal impairment"-noun-0,"Renal Impairment"-tx-3-"renal impairment"-noun-0]|TX|3063/16;2866/16;2377/16;390/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|54.24|Osteoporosis, Postmenopausal|C0029458|[dsyn]|["Osteoporosis, Post-Menopausal"-tx-57-"postmenopausal osteoporosis"-noun-0,"Osteoporosis, Post-Menopausal"-tx-51-"postmenopausal osteoporosis"-noun-0,"Osteoporosis, Post-Menopausal"-tx-43-"postmenopausal osteoporosis"-noun-0]|TX|8634/27;7787/27;6651/27|C05.116.198.579.610
+00000000|MMI|52.50|Femoral Fractures|C0015802|[inpo]|["FEMUR FRACTURE"-tx-40-"femur fracture"-noun-1,"Femoral Fractures"-tx-36-"femoral fractures"-noun-0,"Femoral Fractures"-tx-33-"Femoral Fractures"-noun-0,"Femoral fracture"-tx-6-"femoral fracture"-noun-1,"Femoral Fractures"-tx-5-"femoral fractures"-noun-0]|TX|6307/14;5646/17;5112/17;679/16;583/17|C26.404.061;C26.558.276
+00000000|MMI|43.71|Fracture|C0016658|[inpo]|["FRACTURE"-tx-59-"fracture"-noun-0,"FRACTURE"-tx-41-"fracture"-noun-0,"FRACTURE"-tx-37-"fracture"-noun-0,"FRACTURES"-tx-35-"fractures"-noun-1,"FRACTURES"-tx-34-"fractures"-noun-0,"FRACTURES"-tx-33-"fractures"-verb-0]|TX|9176/8;6424/8;5897/8;5532/9;5283/9;5169/9|C26.404
+00000000|MMI|42.15|Myalgia|C0231528|[sosy]|["MUSCLE PAIN"-tx-54-"muscle pain"-noun-0,"MUSCLE PAIN"-tx-8-"Muscle Pain"-noun-0]|TX|8265/11;1112/11|C05.651.542;C10.597.617.231.249;C10.668.491.525;C23.888.592.612.547.249;F02.830.816.353.500;G11.561.600.810.353.500
+00000000|MMI|39.29|Aseptic necrosis of bone of jaw|C2711248|[dsyn]|["Osteonecrosis of Jaw"-tx-59-"osteonecrosis of jaw"-noun-0,"Osteonecrosis of Jaw"-tx-31-"ONJ"-noun-0,"Osteonecrosis of Jaw"-tx-30-"ONJ"-noun-0,"Osteonecrosis of Jaw"-tx-28-"ONJ"-noun-0,"Osteonecrosis of Jaw"-tx-28-"of ONJ"-noun-0,"Osteonecrosis of Jaw"-tx-26-"ONJ"-noun-0,"Osteonecrosis of Jaw"-tx-24-"ONJ"-noun-0,"Osteonecrosis of Jaw"-tx-23-"Osteonecrosis of Jaw"-noun-0,"Osteonecrosis of Jaw"-tx-4-"Osteonecrosis of jaw"-noun-0]|TX|9118/16,9139/3;4927/3;4801/3;4485/3;4511/2,4525/3;3994/3;3666/3;3481/16,3502/3;481/16,502/3|
+00000000|MMI|36.98|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-54-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-52-"Adverse Reactions"-noun-1,"Adverse reactions"-tx-51-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-43-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-33-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-24-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-22-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-14-"Adverse Reactions"-noun-0]|TX|8326/17;8048/17;7714/17;6807/17;5245/17;3725/17;3391/17;1938/17|
+00000000|MMI|35.81|Cellulitis|C0007642|[patf]|["CELLULITIS"-tx-47-"cellulitis"-noun-0,"CELLULITIS"-tx-7-"cellulitis"-noun-0]|TX|7338/10;919/10|C01.539.800.130;C01.539.830.200;C17.300.185;C23.550.470.756.200
+00000000|MMI|30.02|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-47-"infection"-noun-0,"Infection, NOS"-tx-26-"infection"-noun-0,"Infection, NOS"-tx-7-"infection"-noun-0]|TX|7317/9;4320/9;898/9|C01.539.221
+00000000|MMI|29.46|Eczema|C0013595|[dsyn]|["ECZEMA"-tx-51-"eczema"-noun-0,"ECZEMA"-tx-7-"eczema"-noun-0]|TX|7872/6;993/6|C17.800.174.620;C17.800.815.620
+00000000|MMI|29.46|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-12-"anaphylaxis"-noun-0,"Reactions, Anaphylactic"-tx-1-"anaphylactic reactions"-noun-1]|TX|1598/11;175/22|C20.543.480.099
+00000000|MMI|28.70|Discontinued|C1444662|[fndg]|["Discontinue"-tx-56-"discontinuing"-noun-0,"Discontinue"-tx-53-"discontinuing"-adj-0,"Discontinuation"-tx-32-"Discontinuation"-noun-0,"Discontinue"-tx-14-"discontinue"-verb-0,"Discontinue"-tx-9-"Discontinue"-verb-0,"Discontinue"-tx-8-"discontinuing"-adj-0,"Discontinue"-tx-2-"Discontinue"-verb-0]|TX|8458/13;8089/13;4961/15;1870/11;1135/11;1029/13;209/11|
+00000000|MMI|23.12|Exanthema|C0015230|[sosy]|["Rashes"-tx-51-"rashes"-noun-0,"Rashes"-tx-7-"rashes"-noun-0]|TX|7884/6;981/6|C17.800.257
+00000000|MMI|20.82|Symptom severe|C0436345|[fndg]|["severe symptoms"-tx-56-"severe symptoms"-noun-0,"severe symptoms"-tx-53-"severe symptoms"-noun-0,"severe symptoms"-tx-47-"symptoms severe"-noun-0,"severe symptoms"-tx-9-"severe symptoms"-noun-0,"severe symptoms"-tx-8-"severe symptoms"-noun-0]|TX|8479/15;8113/15;7298/8,7310/6;1154/15;1053/15|
+00000000|MMI|20.70|Hypersensitivity|C0020517|[patf]|["ALLERGIC REACTION"-tx-14-"allergic reaction"-noun-0,"HYPERSENSITIVITY"-tx-12-"Hypersensitivity"-noun-0,"HYPERSENSITIVITY"-tx-1-"Hypersensitivity"-noun-1]|TX|1811/17;1526/16;148/16|C20.543
+00000000|MMI|20.53|Skin Diseases, Infectious|C0037278|[dsyn]|["Skin Infections"-tx-44-"skin infections"-noun-0,"Skin Infections"-tx-6-"skin infections"-noun-1]|TX|6847/15;740/15|C01.539.800;C17.800.838
+00000000|MMI|20.30|Disease|C0012634|[dsyn]|["condition"-tx-31-"condition"-noun-0,"Disorders"-tx-26-"disorders"-noun-0]|TX|4950/9;4228/9|C23.550.288
+00000000|MMI|19.92|Dermatitis|C0011603|[dsyn]|["DERMATITIS"-tx-51-"dermatitis"-noun-0,"DERMATITIS"-tx-7-"Dermatitis"-noun-0]|TX|7860/10;969/10|C17.800.174
+00000000|MMI|18.87|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-41-"symptoms"-noun-0,"SYMPTOMS"-tx-21-"symptoms"-noun-0,"SYMPTOMS"-tx-13-"Symptoms"-noun-0,"SYMPTOMS"-tx-7-"symptoms"-noun-0,"SYMPTOMS"-tx-5-"symptoms"-noun-0]|TX|6402/8;3127/8;1641/8;886/8;550/8|
+00000000|MMI|18.60|Visual Suppression|C0221103|[patf]|["Suppression"-tx-59-"suppression"-noun-0,"Suppression"-tx-57-"Suppression"-noun-0,"Suppression"-tx-57-"suppression"-noun-0,"Suppression"-tx-9-"Suppression"-noun-0,"Suppression"-tx-9-"suppression"-noun-0]|TX|9023/11;8567/11;8709/11;1193/11;1235/11|
+00000000|MMI|18.35|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-50-"therapy"-noun-0,"Therapy"-tx-42-"therapy"-noun-0,"Therapy"-tx-32-"therapy"-noun-0,"Therapy"-tx-16-"therapy"-noun-0,"Therapy"-tx-14-"therapy"-noun-0]|TX|7681/7;6483/7;4987/7;2141/7;1858/7|
+00000000|MMI|17.80|Ache|C0234238|[sosy]|["Aching"-tx-37-"aching"-verb-0]|TX|5844/6|C10.597.617;C23.888.592.612;F02.830.816.444;G11.561.600.810.444
+00000000|MMI|16.18|Musculoskeletal Pain|C0026858|[fndg]|["MUSCULOSKELETAL PAIN"-tx-54-"Musculoskeletal Pain"-noun-0]|TX|8149/20|C05.651.538;C10.597.617.231;C23.888.592.612.547;F02.830.816.353;G11.561.600.810.353
+00000000|MMI|16.17|Pain|C0030193|[sosy]|["PAIN"-tx-37-"pain"-noun-0]|TX|5789/4|C10.597.617;C23.888.592.612;F02.830.816.444;G11.561.600.810.444
+00000000|MMI|15.79|Inguinal pain|C0239783|[sosy]|["GROIN PAIN"-tx-40-"groin pain"-noun-0,"GROIN PAIN"-tx-39-"groin pain"-noun-0,"GROIN PAIN"-tx-6-"groin pain"-noun-0]|TX|6195/10;6144/10;654/10|
+00000000|MMI|14.64|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-13-"dyspnea"-noun-0]|TX|1677/7|C08.618.326;C23.888.852.371
+00000000|MMI|14.64|Malabsorption Syndrome|C0024523|[dsyn]|["MALABSORPTION SYNDROMES"-tx-17-"malabsorption syndromes"-noun-0]|TX|2316/23|C06.405.469.637;C18.452.603
+00000000|MMI|14.64|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-13-"pruritus"-noun-0]|TX|1735/8|C17.800.685;C23.888.885.625
+00000000|MMI|14.64|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-13-"urticaria"-noun-0]|TX|1749/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|14.29|atypia morphology|C0741302|[fndg]|["Atypical"-tx-36-"Atypical"-adj-0,"Atypical"-tx-33-"Atypical"-adj-0,"Atypical"-tx-5-"Atypical"-adj-0]|TX|5637/8;[5072/8],[5135/8];574/8|
+00000000|MMI|13.01|Infantile Neuroaxonal Dystrophy|C0270724|[dsyn]|["PLAN"-tx-29-"plan"-noun-0]|TX|4679/4|C10.228.140.744
+00000000|MMI|11.66|Physical findings|C0311392|[fndg]|["SIGNS"-tx-47-"signs"-noun-0,"SIGNS"-tx-41-"signs"-noun-0,"SIGNS"-tx-7-"signs"-noun-0]|TX|7289/5;6415/5;877/5|
+00000000|MMI|11.49|Anemia|C0002871|[dsyn]|["ANEMIA"-tx-26-"anemia"-noun-0]|TX|4298/6|C15.378.071
+00000000|MMI|11.49|Blood Coagulation Disorders|C0005779|[dsyn]|["COAGULOPATHY"-tx-26-"coagulopathy"-noun-0]|TX|4306/12|C15.378.100
+00000000|MMI|11.49|Endocarditis|C0014118|[dsyn]|["ENDOCARDITIS"-tx-45-"Endocarditis"-noun-0]|TX|6978/12|C14.280.282
+00000000|MMI|10.42|Creatinine clearance|C0812399|[fndg]|["Creatinine clearance"-tx-19-"creatinine clearance"-noun-0,"Creatinine clearance"-tx-17-"creatinine clearance"-noun-0]|TX|2884/20;2395/20|
+00000000|MMI|10.42|Muscle Pain Adverse Event|C1963177|[fndg]|["Muscle pain"-tx-54-"muscle pain"-noun-0,"Muscle pain"-tx-8-"Muscle Pain"-noun-0]|TX|8265/11;1112/11|
+00000000|MMI|10.42|cellulitis on exam (physical finding)|C2025995|[fndg]|["cellulitis"-tx-47-"cellulitis"-noun-0,"cellulitis"-tx-7-"cellulitis"-noun-0]|TX|7338/10;919/10|
+00000000|MMI|10.00|Intraabdominal Infections|C1112209|[dsyn]|["Infection of abdomen"-tx-44-"infections of abdomen"-noun-0]|TX|6875/13,6893/7|C01.539.463
+00000000|MMI|9.99|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-13-"hypotension"-noun-0]|TX|1664/11|C14.907.514
+00000000|MMI|9.94|Edema|C0013604|[fndg]|["OEDEMA"-tx-13-"edema"-noun-0]|TX|1728/5|C23.888.277
+00000000|MMI|9.77|Opportunistic Infections|C0029118|[dsyn]|["Opportunistic Infections"-tx-46-"opportunistic infections"-noun-0]|TX|7070/24|C01.539.597;C02.597;C03.684
+00000000|MMI|9.74|Hypoparathyroidism|C0020626|[dsyn]|["HYPOPARATHYROIDISM"-tx-17-"hypoparathyroidism"-noun-0]|TX|2258/18|C19.642.482
+00000000|MMI|8.57|Atypical fracture|C3495700|[inpo]|["Atypical fracture"-tx-59-"atypical fractures"-noun-0,"Atypical fracture"-tx-40-"atypical fracture"-noun-0]|TX|9144/18;6239/17|
+00000000|MMI|7.84|Recurrent skin infections|C1853193|[fndg]|["Skin infections"-tx-44-"skin infections"-noun-0,"Skin infections"-tx-6-"skin infections"-noun-1]|TX|6847/15;740/15|
+00000000|MMI|7.61|<30 min|C3842955|[fndg]|["<30 min"-tx-19-"30 min"-noun-0,"<30 min"-tx-17-"30 min"-noun-0]|TX|2907/2,2913/3;2418/2,2424/3|
+00000000|MMI|7.53|Symptom aggravating factors|C0436331|[fndg]|["exacerbate"-tx-31-"exacerbate"-verb-0,"Exacerbated by"-tx-15-"exacerbated by"-verb-0]|TX|4935/10;2043/14|
+00000000|MMI|7.40|4+ Answer to question|C3838679|[fndg]|["4+"-tx-22-"4"-real_number-0,"4+"-tx-14-"4"-real_number-0]|TX|3383/1;1930/1|
+00000000|MMI|7.28|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-12-"Hypersensitivity"-noun-0,"Hypersensitivity"-tx-1-"Hypersensitivity"-noun-1]|TX|1526/16;148/16|
+00000000|MMI|7.27|5 - 9|C3840622|[fndg]|["5 - 9"-tx-57-"5.9"-real_number-0,"5 - 9"-tx-10-"5.9"-real_number-0]|TX|8563/3;1322/3|
+00000000|MMI|7.26|Trauma|C3714660|[inpo]|["TRAUMA"-tx-36-"trauma"-noun-1,"TRAUMA"-tx-33-"trauma"-noun-0]|TX|5703/6;5162/6|C26
+00000000|MMI|7.26|Traumatic injury|C3263723|[inpo]|["Trauma"-tx-36-"trauma"-noun-1,"Trauma"-tx-33-"trauma"-noun-0]|TX|5703/6;5162/6|
+00000000|MMI|7.26|Wounds and Injuries|C0043251|[inpo]|["Trauma"-tx-36-"trauma"-noun-1,"Trauma"-tx-33-"trauma"-noun-0]|TX|5703/6;5162/6|C26
+00000000|MMI|7.23|5-6|C3843715|[fndg]|["5-6"-tx-43-"5.6"-real_number-0,"5-6"-tx-7-"5.6"-real_number-0]|TX|6579/3;933/3|
+00000000|MMI|7.23|6/5|C0442749|[fndg]|["5 6"-tx-43-"5.6"-real_number-0,"5 6"-tx-7-"5.6"-real_number-0]|TX|6579/3;933/3|
+00000000|MMI|7.19|Impaired wound healing|C0151692|[patf]|["delayed healing"-tx-59-"delayed healing"-noun-0,"delayed healing"-tx-23-"delayed healing"-noun-0]|TX|9168/7,9185/7;3649/15|
+00000000|MMI|6.99|30%|C3842588|[fndg]|["30%"-tx-19-"30"-integer-0,"30%"-tx-17-"30"-integer-0]|TX|2907/2;2418/2|
+00000000|MMI|6.99|Encounter due to counseling|C0740209|[fndg]|["Counseling NOS"-tx-56-"Counseling"-adj-0,"Counseling NOS"-tx-22-"Counseling"-adj-0]|TX|8516/10;3432/10|
+00000000|MMI|6.99|Invasive Lesion|C1334278|[fndg]|["Invasive"-tx-29-"invasive"-adj-0,"Invasive"-tx-26-"invasive"-adj-0]|TX|4559/8;4006/8|
+00000000|MMI|6.94|Affected Area|C1879646|[fndg]|["Affected Area"-tx-37-"affected area"-noun-0,"Affected Area"-tx-36-"affected area"-noun-1]|TX|5801/13;5717/13|
+00000000|MMI|6.83|Allergic Reaction|C1527304|[patf]|["Allergic Reaction"-tx-14-"allergic reaction"-noun-0]|TX|1811/17|C20.543
+00000000|MMI|5.18|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-12-"anaphylaxis"-noun-0]|TX|1598/11|
+00000000|MMI|5.18|Denture unstable|C0457728|[fndg]|["ill fitting dentures"-tx-26-"ill-fitting dentures"-noun-0]|TX|4331/20|
+00000000|MMI|5.18|Feeling of throat tightness|C0236071|[fndg]|["THROAT TIGHTNESS"-tx-13-"throat tightness"-noun-0]|TX|1686/16|
+00000000|MMI|5.18|Poor oral hygiene|C0457640|[fndg]|["Poor oral hygiene"-tx-26-"poor oral hygiene"-noun-0]|TX|4195/17|
+00000000|MMI|5.18|Thigh pain|C0241374|[sosy]|["THIGH PAIN"-tx-37-"thigh pain"-noun-0]|TX|5851/10|
+00000000|MMI|5.18|Worse|C1457868|[fndg]|["worsen"-tx-3-"worsen"-verb-0]|TX|354/6|
+00000000|MMI|5.18|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-13-"urticaria"-noun-0]|TX|1749/9|
+00000000|MMI|3.81|Pre-existing condition|C0521987|[fndg]|["Pre-existing disease"-tx-26-"pre-existing disease"-noun-0]|TX|4269/12,4289/7|
+00000000|MMI|3.78|Fracture, incomplete|C0332716|[inpo]|["Fracture, incomplete"-tx-40-"incomplete fracture"-noun-1]|TX|6296/10,6313/8|
+00000000|MMI|3.75|Airway edema|C2939065|[patf]|["Airway oedema"-tx-13-"airway edema"-noun-0]|TX|1721/12|
+00000000|MMI|3.68|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-13-"hypotension"-noun-0]|TX|1664/11|
+00000000|MMI|3.65|Time of symptom onset|C1320528|[fndg]|["Time of symptom onset"-tx-55-"time onset of symptoms"-noun-0]|TX|8362/4,8370/17|
+00000000|MMI|3.64|One day|C3844320|[fndg]|["One day"-tx-55-"one day"-noun-0]|TX|8400/7|
+00000000|MMI|3.61|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-17-"history of"-noun-0]|TX|2247/10|
+00000000|MMI|3.61|local; infection|C1400591|[dsyn]|["local; infection"-tx-23-"local infection"-noun-0]|TX|3628/15|
+00000000|MMI|3.60|Vitality|C0424589|[fndg]|["Energy"-tx-33-"energy"-noun-0]|TX|5148/6|
+00000000|MMI|3.59|Adverse event|C0877248|[patf]|["adverse events"-tx-51-"adverse events"-noun-0]|TX|7837/14|
+00000000|MMI|3.58|Encounter due to dental examination|C0176003|[fndg]|["dental; examination"-tx-26-"dental examination"-noun-0]|TX|3857/18|
+00000000|MMI|3.58|Special investigations and examinations - Dental examination|C0490066|[fndg]|["Dental examination"-tx-26-"dental examination"-noun-0]|TX|3857/18|
+00000000|MMI|3.57|Fracture of temporal bone|C0272461|[inpo]|["temporal Fracture"-tx-38-"time fracture"-noun-0]|TX|6030/4,6038/8|
+00000000|MMI|3.57|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-26-"risk factors"-noun-0]|TX|3977/12|
+00000000|MMI|3.57|In care (finding)|C0580931|[fndg]|["care"-tx-30-"care"-noun-0]|TX|4836/4|
+00000000|MMI|3.56|Exacerbation of cGVHD|C3540542|[fndg]|["Flare"-tx-34-"flare"-noun-0]|TX|5398/5|
+00000000|MMI|3.56|Flare|C1517205|[sosy]|["Flare"-tx-34-"flare"-noun-0]|TX|5398/5|
+00000000|MMI|3.55|Good oral hygiene|C0457639|[fndg]|["Good oral hygiene"-tx-27-"Good oral hygiene"-noun-0]|TX|4354/17|
+00000000|MMI|3.55|Pain NOS Adverse Event|C1962977|[fndg]|["Pain NOS"-tx-37-"pain"-noun-0]|TX|5789/4|
+00000000|MMI|3.55|Clinical infection|C0275521|[dsyn]|["clinical infections"-tx-43-"Infections clinical"-noun-0]|TX|6591/10,6612/8|
+00000000|MMI|3.52|Experimental Result|C2825142|[fndg]|["Result"-tx-57-"resulted"-verb-0]|TX|8685/8|
+00000000|MMI|3.47|Atypical femur fracture|C3160754|[inpo]|["Atypical femur fracture"-tx-41-"atypical femur fracture"-noun-0]|TX|6350/23|
+00000000|MMI|3.41|Medication 1|C3843494|[fndg]|["Drugs 1"-tx-10-"1 Drug"-noun-0]|TX|1343/6|

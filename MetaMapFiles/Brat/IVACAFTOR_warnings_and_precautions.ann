@@ -1,0 +1,60 @@
+T1	AdverseReaction 52 74	Elevated transaminases
+T2	AdverseReaction 52 60;76 79	Elevated ALT
+T3	AdverseReaction 52 60;83 86	Elevated AST
+T5	AdverseReaction 1000 1029	Non-congenital lens opacities
+T6	AdverseReaction 1000 1014;1030 1039	Non-congenital cataracts
+T7	AdverseReaction 1278 1300	Elevated transaminases
+T8	AdverseReaction 2509 2538	non-congenital lens opacities
+T9	AdverseReaction 2509 2523;2539 2548	non-congenital cataracts
+T4	AdverseReaction 989 998	Cataracts
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E4	AdverseReaction:T4
+A1	CUI E1 C0438717
+A2	UMLS-Preferred-Name E1 Transaminases increased
+A3	MEDDRA-PT E1 Transaminases increased
+A4	MEDDRA-PT-ID E1 10054889
+A5	CUI E2 C0151905
+A6	UMLS-Preferred-Name E2 Alanine aminotransferase increased
+A7	MEDDRA-PT E2 Alanine aminotransferase increased
+A8	MEDDRA-PT-ID E2 10001551
+A9	LLT E2 ALT increased
+A10	LLT-ID E2 10001845
+A11	CUI E3 C0151904
+A12	UMLS-Preferred-Name E3 Aspartate aminotransferase increased
+A13	MEDDRA-PT E3 Aspartate aminotransferase increased
+A14	MEDDRA-PT-ID E3 10003481
+A15	LLT E3 AST increased
+A16	LLT-ID E3 10003544
+A17	CUI E5 C1510497
+A18	UMLS-Preferred-Name E5 Lens Opacities
+A19	MEDDRA-PT E5 Lenticular opacities
+A20	MEDDRA-PT-ID E5 10024214
+A21	CUI E6 C0086543
+A22	UMLS-Preferred-Name E6 Cataract
+A23	MEDDRA-PT E6 Cataract
+A24	MEDDRA-PT-ID E6 10007739
+A25	CUI E7 C0438717
+A26	UMLS-Preferred-Name E7 Transaminases increased
+A27	MEDDRA-PT E7 Transaminases increased
+A28	MEDDRA-PT-ID E7 10054889
+A29	CUI E8 C1510497
+A30	UMLS-Preferred-Name E8 Lens Opacities
+A31	MEDDRA-PT E8 Lenticular opacities
+A32	MEDDRA-PT-ID E8 10024214
+A33	CUI E9 C0086543
+A34	UMLS-Preferred-Name E9 Cataract
+A35	MEDDRA-PT E9 Cataract
+A36	MEDDRA-PT-ID E9 10007739
+A37	CUI E4 C0086543
+A38	UMLS-Preferred-Name E4 Cataract
+A39	MEDDRA-PT E4 Cataract
+A40	MEDDRA-PT-ID E4 10007739
+A41	LLT E4 Cataracts
+A42	LLT-ID E4 10007771

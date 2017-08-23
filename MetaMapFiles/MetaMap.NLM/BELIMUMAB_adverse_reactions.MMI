@@ -1,0 +1,71 @@
+00000000|MMI|119.92|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-24-"adverse reactions"-noun-0,"Adverse reactions"-tx-16-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-14-"adverse reactions"-noun-0,"Adverse reactions"-tx-13-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-12-"adverse reaction"-noun-0,"Adverse reactions"-tx-11-"adverse reactions"-noun-0,"Adverse reactions"-tx-10-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-9-"adverse reaction"-noun-0,"ADVERSE REACTION"-tx-7-"adverse reaction"-noun-0,"Adverse reactions"-tx-3-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-2-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-1-"adverse reaction"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0]|TX|6618/17;3502/17;3254/17;2967/17;2814/16;2548/17;2359/17;2274/16;2003/16;1082/17;872/17;98/16;6/17|
+00000000|MMI|59.85|Migraine Disorders|C0149931|[dsyn]|["MIGRAINE"-tx-16-"Migraine"-noun-0,"MIGRAINE"-tx-11-"migraine"-noun-0,"MIGRAINE"-tx-2-"migraine"-noun-0]|TX|4743/8;2718/8;1019/8|C10.228.140.546.399.750
+00000000|MMI|55.19|Mental Depression|C0011570|[mobd]|["DEPRESSION"-tx-16-"Depression"-noun-0,"DEPRESSION"-tx-11-"depression"-noun-0,"DEPRESSION"-tx-2-"Depression"-noun-0,"DEPRESSION"-tx-2-"depression"-noun-0]|TX|4633/10;2706/10;792/10;1007/10|F01.145.126.350
+00000000|MMI|54.19|Nausea|C0027497|[sosy]|["NAUSEA"-tx-19-"nausea"-noun-0,"NAUSEA"-tx-16-"Nausea"-noun-0,"NAUSEA"-tx-11-"nausea"-noun-0,"NAUSEA"-tx-2-"nausea"-noun-0]|TX|5836/6;3863/6;2621/6;922/6|C23.888.821.712
+00000000|MMI|50.24|Sleeplessness|C0917801|[sosy]|["INSOMNIA"-tx-16-"Insomnia"-noun-0,"INSOMNIA"-tx-11-"insomnia"-noun-0,"INSOMNIA"-tx-2-"insomnia"-noun-0]|TX|4413/8;2677/8;978/8|C10.886.425.800.800;F03.870.400.800.800
+00000000|MMI|42.19|Depressive disorder|C0011581|[mobd]|["-- Depression"-tx-16-"Depression"-noun-0,"-- Depression"-tx-11-"depression"-noun-0,"-- Depression"-tx-2-"Depression"-noun-0,"-- Depression"-tx-2-"depression"-noun-0]|TX|4633/10;2706/10;792/10;1007/10|F03.600.300
+00000000|MMI|40.62|Bronchitis|C0006277|[dsyn]|["BRONCHITIS"-tx-16-"Bronchitis"-noun-0,"BRONCHITIS"-tx-11-"bronchitis"-noun-0,"BRONCHITIS"-tx-2-"bronchitis"-noun-0]|TX|4303/10;2665/10;966/10|C08.127.446;C08.381.495.146;C08.730.099
+00000000|MMI|40.62|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-16-"Diarrhea"-noun-0,"DIARRHOEA"-tx-11-"diarrhea"-noun-0,"DIARRHOEA"-tx-2-"diarrhea"-noun-0]|TX|3973/8;2629/8;930/8|C23.888.821.214
+00000000|MMI|40.62|Fever|C0015967|[fndg]|["PYREXIA"-tx-16-"Pyrexia"-noun-0,"PYREXIA"-tx-11-"pyrexia"-noun-0,"PYREXIA"-tx-2-"pyrexia"-noun-0]|TX|4083/7;2639/7;940/7|C23.888.119.344
+00000000|MMI|40.62|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-16-"Nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-11-"nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-2-"nasopharyngitis"-noun-0]|TX|4193/15;2648/15;949/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|31.01|Pharyngitis|C0031350|[dsyn]|["PHARYNGITIS"-tx-16-"Pharyngitis"-noun-0,"PHARYNGITIS"-tx-11-"pharyngitis"-noun-0,"PHARYNGITIS"-tx-2-"pharyngitis"-noun-0]|TX|4853/11;2732/11;1033/11|C07.550.781;C08.730.561;C09.775.649
+00000000|MMI|26.96|10%|C3842590|[fndg]|["10%"-tx-17-"10"-integer-0,"10%"-tx-16-"10"-integer-0,"10%"-tx-14-"10"-integer-0,"10%"-tx-7-"10"-integer-0,"10%"-tx-5-"10"-integer-0]|TX|5547/2;[3579/2],[3777/2],[5430/2];3366/2;2075/2;1493/2|
+00000000|MMI|26.74|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-26-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-2-"Anaphylaxis"-noun-0]|TX|6911/11;657/11|C20.543.480.099
+00000000|MMI|24.11|Lupus Nephritis|C0024143|[dsyn]|["LUPUS NEPHRITIS"-tx-13-"lupus nephritis"-noun-0]|TX|3134/15|C12.777.419.570.363.680;C13.351.968.419.570.363.680;C17.300.480.680;C20.111.590.560
+00000000|MMI|21.09|Infection|C3714514|[patf]|["Infections"-tx-13-"infections"-noun-0,"Infections"-tx-10-"infections"-noun-0,"Infections"-tx-2-"Infections"-noun-0]|TX|3188/10;2390/10;493/10|C01.539
+00000000|MMI|20.30|Lupus Erythematosus, Systemic|C0024141|[dsyn]|["SLE NOS"-tx-16-"SLE"-noun-0,"SLE NOS"-tx-14-"SLE"-noun-0]|TX|3715/3;3340/3|C17.300.480;C20.111.590
+00000000|MMI|19.92|Disease|C0012634|[dsyn]|["DISEASE"-tx-22-"disease"-noun-0,"condition"-tx-1-"conditions"-noun-0]|TX|6413/7;86/10|C23.550.288
+00000000|MMI|19.32|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-25-"uncertain"-adj-0]|TX|6764/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|17.80|Headache|C0018681|[sosy]|["HEADACHE"-tx-19-"headache"-noun-0]|TX|5887/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|16.25|Cystitis|C0010692|[dsyn]|["CYSTITIS"-tx-16-"Cystitis"-noun-0]|TX|4963/8|C12.777.829.495;C13.351.968.829.495
+00000000|MMI|16.19|Depressed - symptom|C1579931|[sosy]|["depression"-tx-16-"Depression"-noun-0,"depression"-tx-11-"depression"-noun-0,"depression"-tx-2-"Depression"-noun-0,"depression"-tx-2-"depression"-noun-0]|TX|4633/10;2706/10;792/10;1007/10|
+00000000|MMI|16.19|Depressed mood|C0344315|[fndg]|["depression"-tx-16-"Depression"-noun-0,"depression"-tx-11-"depression"-noun-0,"depression"-tx-2-"Depression"-noun-0,"depression"-tx-2-"depression"-noun-0]|TX|4633/10;2706/10;792/10;1007/10|
+00000000|MMI|15.19|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-19-"nausea"-noun-0,"Nausea"-tx-16-"Nausea"-noun-0,"Nausea"-tx-11-"nausea"-noun-0,"Nausea"-tx-2-"nausea"-noun-0]|TX|5836/6;3863/6;2621/6;922/6|
+00000000|MMI|14.64|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-19-"dyspnea"-noun-0]|TX|5901/7|C08.618.326;C23.888.852.371
+00000000|MMI|14.64|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-19-"pruritus"-noun-0]|TX|5863/8|C17.800.685;C23.888.885.625
+00000000|MMI|14.49|0%|C3842591|[fndg]|["0%"-tx-16-"0"-percentage-0,"0%"-tx-13-"0"-percentage-0]|TX|5396/1;[3119/1],[3151/1],[3200/1]|
+00000000|MMI|13.56|Hypersensitivity|C0020517|[patf]|["Sensitivity"-tx-17-"sensitivity"-noun-0,"Hypersensitivity reactions"-tx-2-"Hypersensitivity Reactions"-noun-0]|TX|5614/11;619/26|C20.543
+00000000|MMI|13.09|Leukopenia|C0023530|[dsyn]|["LEUKOPENIA"-tx-16-"Leukopenia"-noun-0]|TX|5073/10|C15.378.553.546
+00000000|MMI|11.93|Pain in limb|C0030196|[sosy]|["Pain in Extremity"-tx-16-"Pain in extremity"-noun-0,"Pain in Extremity"-tx-11-"pain in extremity"-noun-0,"Pain in Extremity"-tx-2-"pain in extremity"-noun-0]|TX|4523/17;2687/17;988/17|
+00000000|MMI|11.79|Acute bronchitis|C0149514|[dsyn]|["bronchitis"-tx-16-"Bronchitis"-noun-0,"bronchitis"-tx-11-"bronchitis"-noun-0,"bronchitis"-tx-2-"bronchitis"-noun-0]|TX|4303/10;2665/10;966/10|
+00000000|MMI|11.79|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-16-"Diarrhea"-noun-0,"Diarrhea"-tx-11-"diarrhea"-noun-0,"Diarrhea"-tx-2-"diarrhea"-noun-0]|TX|3973/8;2629/8;930/8|
+00000000|MMI|11.79|Insomnia Adverse Event|C1963237|[fndg]|["Insomnia"-tx-16-"Insomnia"-noun-0,"Insomnia"-tx-11-"insomnia"-noun-0,"Insomnia"-tx-2-"insomnia"-noun-0]|TX|4413/8;2677/8;978/8|
+00000000|MMI|11.57|Adverse reaction to drug or medicament administered by infusion|C2368034|[patf]|["Infusion reaction"-tx-19-"infusion reactions"-noun-0,"Infusion reaction"-tx-13-"infusion reactions"-noun-0,"Infusion reaction"-tx-2-"Infusion Reactions"-noun-0]|TX|5814/18;3081/18;721/18|
+00000000|MMI|11.08|Trial 1|C3840593|[fndg]|["Trial 1"-tx-16-"1 Trials"-noun-0,"Trial 1"-tx-6-"Trial 1"-noun-0,"Trial 1"-tx-5-"Trial 1"-noun-0]|TX|5255/1,5327/6;1631/7;1475/7|
+00000000|MMI|10.88|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-16-"3"-integer-0,"3+"-tx-14-"3"-integer-0]|TX|[3702/1],[5340/1];3454/1|
+00000000|MMI|10.69|1+|C3816745|[fndg]|["1+"-tx-13-"1"-percentage-0]|TX|[3030/1],[3101/1],[3218/1]|
+00000000|MMI|7.70|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-26-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-2-"Anaphylaxis"-noun-0]|TX|6911/11;657/11|
+00000000|MMI|7.61|3-4|C3840617|[fndg]|["3-4"-tx-16-"3 4"-integer-0]|TX|[4925/1,5000/1],[5035/1,5110/1]|
+00000000|MMI|7.61|3/4|C0442757|[fndg]|["3 4"-tx-16-"3 4"-integer-0]|TX|[4925/1,5000/1],[5035/1,5110/1]|
+00000000|MMI|7.51|Trial 2|C3842777|[fndg]|["Trial 2"-tx-6-"2 trials"-noun-0,"Trial 2"-tx-6-"Trial 2"-noun-0]|TX|1614/1,1623/6;1713/7|
+00000000|MMI|7.47|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-13-"discontinuation"-noun-0,"Discontinued"-tx-12-"discontinued"-verb-0]|TX|2998/15;2780/12|
+00000000|MMI|7.33|Experimental Result|C2825142|[fndg]|["Result"-tx-21-"results"-noun-0,"Result"-tx-7-"results"-noun-0]|TX|6095/7;2039/7|
+00000000|MMI|7.28|5-6|C3843715|[fndg]|["5-6"-tx-16-"5 6"-integer-0,"5-6"-tx-2-"5.6"-real_number-0]|TX|4485/1,4560/1;838/3|
+00000000|MMI|7.28|6/5|C0442749|[fndg]|["5 6"-tx-16-"5 6"-integer-0,"5 6"-tx-2-"5.6"-real_number-0]|TX|4485/1,4560/1;838/3|
+00000000|MMI|7.17|Detected (finding)|C0442726|[fndg]|["Detected"-tx-18-"detected"-verb-0,"Detected"-tx-16-"detected"-verb-0]|TX|5700/8;5374/8|
+00000000|MMI|7.16|4+ Answer to question|C3838679|[fndg]|["4+"-tx-16-"4"-percentage-0,"4+"-tx-5-"4"-integer-0]|TX|5457/1;1457/1|
+00000000|MMI|5.18|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-19-"headache"-noun-0]|TX|5887/8|
+00000000|MMI|5.18|Edema of eyelid|C0162285|[fndg]|["EYELID OEDEMA"-tx-19-"eyelid edema"-noun-0]|TX|5873/12|
+00000000|MMI|5.18|Indicated|C1444656|[fndg]|["Indicated"-tx-7-"indicated"-verb-0]|TX|1988/9|
+00000000|MMI|5.18|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-19-"life-threatening"-adj-0]|TX|5936/16|
+00000000|MMI|5.18|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-19-"life-threatening"-adj-0]|TX|5936/16|
+00000000|MMI|5.18|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-19-"life-threatening"-adj-0]|TX|5936/16|
+00000000|MMI|5.18|Malignant Neoplasms|C0006826|[neop]|["MALIGNANCY"-tx-2-"Malignancy"-noun-0]|TX|556/10|
+00000000|MMI|5.18|Primary malignant neoplasm|C1306459|[neop]|["Malignancy"-tx-2-"Malignancy"-noun-0]|TX|556/10|
+00000000|MMI|5.18|Rash erythematous|C0234913|[fndg]|["Erythematous rash"-tx-19-"erythematous rash"-noun-0]|TX|5844/17|
+00000000|MMI|5.18|Test Result|C0456984|[fndg]|["Test"-tx-21-"test"-verb-0]|TX|6090/4|
+00000000|MMI|3.78|7 - 9|C3841787|[fndg]|["7 - 9"-tx-16-"7 9"-integer-0]|TX|4265/1,4340/1|
+00000000|MMI|3.78|9-10|C3843713|[fndg]|["9-10"-tx-16-"9 10"-integer-0]|TX|4045/1,4120/2|
+00000000|MMI|3.68|Enteritis due to specified virus|C0152517|[dsyn]|["GASTROENTERITIS VIRAL"-tx-16-"Gastroenteritis viral"-noun-0]|TX|5183/21|
+00000000|MMI|3.63|Cystitis Adverse Event|C1963088|[fndg]|["Cystitis"-tx-16-"Cystitis"-noun-0]|TX|4963/8|
+00000000|MMI|3.63|Infective cystitis|C0600041|[dsyn]|["Cystitis"-tx-16-"Cystitis"-noun-0]|TX|4963/8|
+00000000|MMI|3.63|White blood cell count decreased|C0750394|[fndg]|["Leukopenia"-tx-16-"Leukopenia"-noun-0]|TX|5073/10|
+00000000|MMI|3.59|75%)|C4015571|[fndg]|["75%)"-tx-8-"75"-integer-0]|TX|2161/2|
+00000000|MMI|3.55|Container status - Identified|C1550043|[fndg]|["Identified"-tx-24-"identified"-verb-0]|TX|6646/10|
+00000000|MMI|3.53|1-2|C3843716|[fndg]|["1-2"-tx-13-"1.2"-percentage-0]|TX|3169/3|
+00000000|MMI|3.53|6/3|C1630409|[fndg]|["6/3"-tx-24-"6.3"-real_number-0]|TX|6572/3|
+00000000|MMI|3.50|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-26-"Fatal"-adj-0]|TX|6905/5|
+00000000|MMI|3.48|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-16-"Controlled"-adj-0]|TX|3704/10|
+00000000|MMI|3.43|Adverse event|C0877248|[patf]|["adverse events"-tx-7-"adverse events"-noun-1]|TX|1861/14|
+00000000|MMI|3.42|Antimicrobial susceptibility|C0427965|[fndg]|["Sensitivity"-tx-17-"sensitivity"-noun-0]|TX|5614/11|
+00000000|MMI|3.42|Related personal status|C0445223|[fndg]|["Related"-tx-7-"related"-adj-1]|TX|1825/7|

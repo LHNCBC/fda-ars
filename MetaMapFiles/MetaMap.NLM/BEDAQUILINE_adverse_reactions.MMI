@@ -1,0 +1,42 @@
+00000000|MMI|45.53|Tuberculosis, Multidrug-Resistant|C0206526|[dsyn]|["MDR TB"-tx-7-"MDR-TB"-noun-0,"MDR TB"-tx-6-"MDR-TB"-noun-0]|TX|1667/6;1546/6|C01.252.410.040.552.846.775
+00000000|MMI|45.51|Cause of Death|C0007465|[fndg]|["Causes of Death"-tx-22-"causes of death"-noun-0,"Cause of Death"-tx-20-"cause of death"-noun-0]|TX|4854/15;4712/14|E05.318.308.985.550.250;L01.280.975.550.250;N01.224.935.698.100;N06.850.505.400.975.550.250;N06.850.520.308.985.550.250
+00000000|MMI|42.15|Tuberculosis|C0041296|[dsyn]|["TUBERCULOSIS"-tx-18-"tuberculosis"-noun-0,"TUBERCULOSIS"-tx-15-"tuberculosis"-noun-0]|TX|4572/12;4204/12|C01.252.410.040.552.846
+00000000|MMI|39.43|Arthralgia|C0003862|[sosy]|["ARTHRALGIA"-tx-11-"Arthralgia"-noun-0,"ARTHRALGIA"-tx-1-"arthralgia"-noun-0]|TX|2452/10;511/10|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|36.48|1+|C3816745|[fndg]|["1+"-tx-14-"1"-percentage-0,"1+"-tx-12-"1"-integer-0,"1+"-tx-11-"1"-integer-0,"1+"-tx-5-"1"-integer-0,"1+"-tx-2-"1"-integer-0]|TX|4130/1;3438/1;[3082/1],[3085/1],[3300/1],[3303/1];1324/1;713/1|
+00000000|MMI|33.78|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-11-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-11-"Adverse Reactions"-noun-1,"ADVERSE REACTION"-tx-10-"adverse reaction"-noun-0,"ADVERSE REACTION"-tx-3-"adverse reaction"-noun-0,"Adverse reactions"-tx-2-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|[2125/17],[3353/17];[2125/17],[3353/17];2087/16;907/16;610/17;6/17;[49/17],[423/17]|
+00000000|MMI|33.22|Chest Pain|C0008031|[sosy]|["CHEST PAIN"-tx-11-"Chest Pain"-noun-0,"CHEST PAIN"-tx-1-"chest pain"-noun-0]|TX|2779/10;548/10|C10.597.617.192;C23.888.592.612.233
+00000000|MMI|33.08|Headache|C0018681|[sosy]|["HEADACHE"-tx-11-"Headache"-noun-0,"HEADACHE"-tx-1-"headache"-noun-0]|TX|2561/8;523/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|27.82|Death (finding)|C1306577|[fndg]|["Died"-tx-21-"died"-verb-0,"Died"-tx-19-"died"-verb-0,"DEATHS"-tx-18-"deaths"-noun-0,"Death"-tx-18-"death"-noun-1,"Death"-tx-16-"death"-noun-0,"DEATHS"-tx-15-"deaths"-noun-0]|TX|4804/4;4690/4;4439/6;4493/5;4230/5;[4167/6],[4192/6]|
+00000000|MMI|26.74|Hemoptysis|C0019079|[sosy]|["HEMOPTYSIS"-tx-11-"Hemoptysis"-noun-0,"HEMOPTYSIS"-tx-1-"hemoptysis"-noun-0]|TX|2670/10;533/10|C08.381.348;C23.550.414.896;C23.888.852.430
+00000000|MMI|26.74|Nausea|C0027497|[sosy]|["NAUSEA"-tx-11-"Nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|2343/6;503/6|C23.888.821.712
+00000000|MMI|22.71|Tuberculosis, Pulmonary|C0041327|[dsyn]|["Pulmonary TB"-tx-5-"pulmonary TB"-noun-0]|TX|1421/9,1435/2|C01.252.410.040.552.846.899;C08.381.922;C08.730.939
+00000000|MMI|21.36|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-11-"3"-integer-0,"3+"-tx-4-"3"-integer-0]|TX|[2973/1],[3191/1],[3267/1];1291/1|
+00000000|MMI|19.75|2+|C3833492|[fndg]|["2+"-tx-15-"2"-integer-0,"2+"-tx-14-"2"-fraction-0,"2+"-tx-12-"2"-integer-0,"2+"-tx-11-"2"-integer-0,"2+"-tx-5-"2"-integer-0]|TX|4182/1;4051/1;3444/1;3264/1;1330/1|
+00000000|MMI|16.30|HIV Infections|C0019693|[dsyn]|["HIV"-tx-9-"HIV"-adj-0]|TX|1960/3|C02.782.815.616.400;C02.800.801.400;C20.673.480
+00000000|MMI|13.14|Anorexia|C0003123|[dsyn]|["ANOREXIA"-tx-11-"Anorexia"-noun-0]|TX|2888/8|C23.888.821.108
+00000000|MMI|11.11|10%|C3842590|[fndg]|["10%"-tx-12-"10"-percentage-0,"10%"-tx-9-"10"-percentage-0,"10%"-tx-1-"10"-percentage-0]|TX|3587/2;1857/2;453/2|
+00000000|MMI|10.42|Used by|C1273517|[fndg]|["used"-tx-18-"used"-verb-0,"used"-tx-6-"used"-verb-0]|TX|4558/4;1532/4|
+00000000|MMI|9.99|Exanthema|C0015230|[sosy]|["RASH"-tx-11-"Rash"-noun-0]|TX|3106/4|C17.800.257
+00000000|MMI|9.84|Disease|C0012634|[dsyn]|["condition"-tx-3-"conditions"-noun-0]|TX|895/10|C23.550.288
+00000000|MMI|7.70|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-11-"Headache"-noun-0,"headache"-tx-1-"headache"-noun-0]|TX|2561/8;523/8|
+00000000|MMI|7.70|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-11-"Nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|2343/6;503/6|
+00000000|MMI|7.53|Patient Outcome - Died|C1546956|[fndg]|["Died"-tx-21-"died"-verb-0,"Died"-tx-19-"died"-verb-0]|TX|4804/4;4690/4|
+00000000|MMI|7.14|Container status - Identified|C1550043|[fndg]|["Identified"-tx-11-"identified"-verb-1,"Identified"-tx-4-"identified"-verb-0]|TX|3376/10;1159/10|
+00000000|MMI|6.84|Adverse reaction to drug|C0041755|[inpo]|["Reactions, Adverse Drug"-tx-4-"Adverse drug reactions"-noun-0]|TX|1119/22|C25.100
+00000000|MMI|5.18|Discontinued|C1444662|[fndg]|["Discontinued"-tx-10-"discontinued"-verb-0]|TX|2052/12|
+00000000|MMI|5.18|Distance vision 6/9|C0442751|[fndg]|["6 9"-tx-19-"6.9"-percentage-0]|TX|4667/3|
+00000000|MMI|5.18|Hepatotoxicity|C0235378|[inpo]|["HEPATOTOXICITY"-tx-1-"Hepatotoxicity"-noun-0]|TX|280/14|
+00000000|MMI|5.18|Human immunodeficiency virus (HIV) status|C0458074|[fndg]|["HIV STATUS"-tx-18-"HIV status"-noun-0]|TX|4586/10|
+00000000|MMI|5.18|Prolonged QT interval|C0151878|[fndg]|["QT Prolongation"-tx-1-"QT Prolongation"-noun-0]|TX|181/15|
+00000000|MMI|5.18|Recurrent disease|C0277556|[dsyn]|["Relapse"-tx-18-"relapse"-noun-1]|TX|4522/7|
+00000000|MMI|5.18|Related personal status|C0445223|[fndg]|["Related"-tx-15-"related"-verb-0]|TX|4217/7|
+00000000|MMI|5.18|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-5-"randomized"-verb-0]|TX|1337/10|
+00000000|MMI|3.68|0%|C3842591|[fndg]|["0%"-tx-14-"0"-real_number-0]|TX|4072/1|
+00000000|MMI|3.68|30%|C3842588|[fndg]|["30%"-tx-11-"30"-integer-0]|TX|2391/2|
+00000000|MMI|3.68|Anorexia symptom|C0426579|[sosy]|["anorexia"-tx-11-"Anorexia"-noun-0]|TX|2888/8|
+00000000|MMI|3.68|Infected|C0439663|[fndg]|["Infected"-tx-9-"infected"-adj-0]|TX|1964/8|
+00000000|MMI|3.68|Loss of appetite (finding)|C1971624|[fndg]|["Anorexia"-tx-11-"Anorexia"-noun-0]|TX|2888/8|
+00000000|MMI|3.57|Imbalance|C1397014|[sosy]|["Imbalance"-tx-18-"imbalance"-noun-0]|TX|4426/9|
+00000000|MMI|3.56|12-lead electrocardiogram: interval change|C2041208|[fndg]|["interval Difference"-tx-14-"interval difference"-noun-0]|TX|4102/8,4118/10|
+00000000|MMI|3.45|combination - answer to question|C3811910|[fndg]|["Combination"-tx-6-"combination"-noun-0]|TX|1503/11|
+00000000|MMI|3.45|Adverse effects|C0879626|[patf]|["treatment Adverse reactions"-tx-11-"Treatment Adverse Reactions"-noun-0]|TX|2206/9,2231/17|

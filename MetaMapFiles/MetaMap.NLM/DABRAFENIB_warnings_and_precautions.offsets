@@ -1,0 +1,397 @@
+127,138|C3811910|combination|fndg
+215,221|C0087136|single|fndg
+215,221|C0087136|single|fndg
+262,266|C1273517|used|fndg
+270,281|C3811910|combination|fndg
+379,401|C0035328|Retinal vein occlusion|dsyn
+411,436|C0206062|Interstitial lung disease|dsyn
+451,471|C1306459|primary malignancies|neop
+547,553|C0087136|single|fndg
+547,553|C0087136|single|fndg
+566,577|C3811910|combination|fndg
+620,632|C0006826|malignancies|neop
+656,663|C1363945|therapy|fndg
+656,663|C1363945|therapy|fndg
+674,681|C1363945|therapy|fndg
+674,681|C1363945|therapy|fndg
+697,712|C1444662|discontinuation|fndg
+778,793|C1519689|Tumor Promotion|neop
+812,820|C0025202|Melanoma|neop
+900,910|C0019080|Hemorrhage|patf
+981,992|C3811910|combination|fndg
+1022,1027|C0311392|signs|fndg
+1032,1040;1044,1052|C0858540|symptoms bleeding|dsyn
+1071,1093|C1861172|Venous Thromboembolism|patf
+1095,1115|C0149871|Deep vein thrombosis|dsyn
+1095,1115|C0340708|Deep vein thrombosis|dsyn
+1120,1138|C0034065|pulmonary embolism|dsyn
+1183,1194|C3811910|combination|fndg
+1237,1251|C0878544|Cardiomyopathy|dsyn
+1299,1310|C3811910|combination|fndg
+1420,1437|C1262036|Ocular Toxicities|inpo
+1481,1500|C0547030|visual disturbances|sosy
+1535,1552|C0235723|Febrile Reactions|patf
+1580,1587|C0015967|pyrexia|fndg
+1619,1630|C3811910|combination|fndg
+1681,1694|C1167791|Skin Toxicity|dsyn
+1708,1723|C1167791|skin toxicities|dsyn
+1732,1752|C0442886|secondary infections|dsyn
+1754,1765|C1444662|Discontinue|fndg
+1782,1789|C3889824|Grade 2|fndg
+1794,1801|C3889290|Grade 3|fndg
+1807,1811|C0015230|rash|sosy
+1900,1913|C0020456|Hyperglycemia|dsyn
+1974,1982|C0011860|diabetes|dsyn
+1974,1982|C0011849|diabetes|dsyn
+1974,1982|C0011847|diabetes|dsyn
+1986,1999|C0020456|hyperglycemia|dsyn
+2018,2062|C2939465|Glucose-6-Phosphate Dehydrogenase Deficiency|dsyn
+2084,2100|C0002878|hemolytic anemia|dsyn
+2132,2140|C0600688|Toxicity|inpo
+2313,2319;2323,2336|C2004464|method contraception|fndg
+2347,2351|C1273517|used|fndg
+2405,2425|C1306459|Primary Malignancies|neop
+2594,2616|C0007114|Cutaneous Malignancies|neop
+2633,2640|C2825142|results|fndg
+2667,2703|C0553723|of cutaneous squamous cell carcinoma|neop
+2705,2720|C0022572|keratoacanthoma|neop
+2726,2734|C0025202|melanoma|neop
+2750,2754|C1273517|used|fndg
+2758,2769|C3811910|combination|fndg
+2786,2793|C2825142|results|fndg
+2823,2843|C0007117|basal cell carcinoma|neop
+2823,2843|C3811653|basal cell carcinoma|neop
+2854,2861|C3840593|Trial 1|fndg
+2863,2897|C0553723|cutaneous squamous cell carcinomas|neop
+2902,2918|C0022572|keratoacanthomas|neop
+3414,3421|C3840593|Trial 1|fndg
+3444,3461|C0686522|primary malignant|neop
+3444,3461|C0686522|primary malignant|neop
+3452,3471|C0025202|malignant melanomas|neop
+3462,3471|C0025202|melanomas|neop
+3480,3481|C3838680|3|fndg
+3579,3596|C0686522|primary malignant|neop
+3579,3596|C0686522|primary malignant|neop
+3587,3605|C0151779|malignant melanoma|neop
+3615,3622|C3842777|Trial 2|fndg
+3641,3661|C0007117|basal cell carcinoma|neop
+3641,3661|C3811653|basal cell carcinoma|neop
+3710,3721|C3811910|combination|fndg
+3783,3794|C3811910|combination|fndg
+3871,3877|C0087136|single|fndg
+3919,3939|C0007117|basal cell carcinoma|neop
+3919,3939|C3811653|basal cell carcinoma|neop
+3993,4004|C3811910|combination|fndg
+4078,4084|C0087136|single|fndg
+4099,4132|C0553723|Cutaneous squamous cell carcinoma|neop
+4150,4165|C0022572|keratoacanthoma|neop
+4216,4227|C3811910|combination|fndg
+4288,4294|C0087136|single|fndg
+4368,4379|C3811910|combination|fndg
+4441,4447|C0087136|single|fndg
+4474,4482|C0025202|melanoma|neop
+4541,4547|C0087136|single|fndg
+4607,4618|C3811910|combination|fndg
+4713,4719|C0087136|single|fndg
+4732,4743|C3811910|combination|fndg
+4785,4792|C1363945|therapy|fndg
+4827,4842|C1444662|discontinuation|fndg
+5107,5119|C0006826|malignancies|neop
+5151,5159|C1705285|mutation|comd
+5254,5265|C3811910|combination|fndg
+5293,5295;5300,5322|C0007114|of cutaneous malignancies|neop
+5293,5295;5300,5322|C1314758|of cutaneous malignancies|neop
+5328,5338|C1550043|identified|fndg
+5340,5353|C2747837|KRAS mutation|fndg
+5354,5362|C1514241|positive|fndg
+5354,5362|C1514241|positive|fndg
+5363,5388|C0281361|pancreatic adenocarcinoma|neop
+5398,5407;5431,5451|C0854750|recurrent colorectal carcinoma|neop
+5413,5421|C1705285|mutation|comd
+5422,5430|C1514241|positive|fndg
+5422,5430|C1514241|positive|fndg
+5461,5484|C3887461|head and neck carcinoma|neop
+5498,5510|C0017636|glioblastoma|neop
+5551,5562|C3811910|combination|fndg
+5575,5580|C0311392|signs|fndg
+5584,5592|C1457887|symptoms|sosy
+5593,5595;5600,5622|C0007114|of cutaneous malignancies|neop
+5593,5595;5600,5622|C1314758|of cutaneous malignancies|neop
+5636,5647|C1444662|discontinue|fndg
+5714,5718|C1273517|used|fndg
+5722,5733|C3811910|combination|fndg
+5864,5879|C1519689|Tumor Promotion|neop
+5898,5906|C0025202|Melanoma|neop
+6012,6030;6044,6048|C0020507|cell proliferation type|patf
+6113,6123|C3273990|BRAF V600E|comd
+6134,6142|C1705285|mutation|comd
+6188,6194|C0087136|single|fndg
+6306,6316|C0019080|Hemorrhage|patf
+6348,6365|C3160769|major hemorrhages|patf
+6389,6397|C0019080|bleeding|patf
+6454,6458|C1273517|used|fndg
+6462,6473|C3811910|combination|fndg
+6501,6508|C3842777|Trial 2|fndg
+6537,6548|C3811910|combination|fndg
+6565,6573|C2825142|resulted|fndg
+6687,6698|C3811910|combination|fndg
+6778,6784|C0087136|single|fndg
+6840,6858|C0235325|gastric hemorrhage|dsyn
+6875,6876|C3838680|3|fndg
+6918,6929|C3811910|combination|fndg
+7011,7017|C0087136|single|fndg
+7025,7048|C0151699|Intracranial hemorrhage|patf
+7053,7058|C1705232|fatal|fndg
+7106,7117|C3811910|combination|fndg
+7154,7165|C1444662|discontinue|fndg
+7237,7244|C3889290|Grade 3|fndg
+7307,7314|C3889290|Grade 3|fndg
+7407,7408;7419,7424|C3889290|3 Grade|fndg
+7504,7526|C1861172|Venous Thromboembolism|patf
+7585,7589|C1273517|used|fndg
+7593,7604|C3811910|combination|fndg
+7632,7639|C3842777|Trial 2|fndg
+7668,7679|C3811910|combination|fndg
+7696,7704|C2825142|resulted|fndg
+7734,7756|C0149871|deep venous thrombosis|dsyn
+7767,7785|C0034065|pulmonary embolism|dsyn
+7796,7797|C3838679|4|fndg
+7839,7850|C3811910|combination|fndg
+7932,7938|C0087136|single|fndg
+7946,7964|C0034065|Pulmonary embolism|dsyn
+7969,7974|C1705232|fatal|fndg
+8022,8033|C3811910|combination|fndg
+8094,8106|C0496675|medical care|fndg
+8123,8131|C1457887|symptoms|sosy
+8135,8138|C0149871|DVT|dsyn
+8142,8144|C0034065|PE|dsyn
+8154,8173|C0013404|shortness of breath|sosy
+8175,8185|C0008031|chest pain|sosy
+8197,8209|C0581394|leg swelling|sosy
+8223,8234|C1444662|discontinue|fndg
+8280,8282|C0034065|PE|dsyn
+8361,8364|C0149871|DVT|dsyn
+8368,8370|C0034065|PE|dsyn
+8503,8517|C0878544|Cardiomyopathy|dsyn
+8568,8572|C1273517|used|fndg
+8576,8587|C3811910|combination|fndg
+8629,8635|C0087136|single|fndg
+8710,8717|C3842777|Trial 2|fndg
+8719,8733|C0878544|cardiomyopathy|dsyn
+8793,8804|C3811910|combination|fndg
+8872,8878|C0087136|single|fndg
+8914,8928|C0878544|cardiomyopathy|dsyn
+8966,8977|C3811910|combination|fndg
+9031,9045|C0878544|Cardiomyopathy|dsyn
+9050,9060|C1550043|identified|fndg
+9114,9125|C3811910|combination|fndg
+9182,9196|C0878544|cardiomyopathy|dsyn
+9197,9205|C1514893|resolved|patf
+9197,9205|C3714811|resolved|fndg
+9253,9254|C3838679|4|fndg
+9350,9361|C3811910|combination|fndg
+9426,9440|C0878544|cardiomyopathy|dsyn
+9813,9824|C3811910|combination|fndg
+9934,9945|C3811910|combination|fndg
+10146,10160|C0878544|cardiomyopathy|dsyn
+10176,10188|C0231221|asymptomatic|fndg
+10192,10203|C3887505|dysfunction|dsyn
+10192,10203|C0277785|dysfunction|patf
+10344,10355;10364,10372|C0599766|recovery of function|sosy
+10428,10445|C1262036|Ocular Toxicities|inpo
+10455,10492|C0339546|Retinal Pigment Epithelial Detachment|dsyn
+10510,10548|C0339546|Retinal pigment epithelial detachments|dsyn
+10550,10554|C0339546|RPED|dsyn
+10583,10587|C1273517|used|fndg
+10591,10602|C3811910|combination|fndg
+10644,10650|C0087136|single|fndg
+10715,10734|C0035305|Retinal detachments|dsyn
+10854,10861|C3842777|Trial 2|fndg
+10991,10995|C0339546|RPED|dsyn
+11052,11063|C3811910|combination|fndg
+11132,11143|C3811910|combination|fndg
+11188,11192|C0339546|RPED|dsyn
+11282,11301|C0547030|visual disturbances|sosy
+11358,11362|C1273517|used|fndg
+11366,11377|C3811910|combination|fndg
+11454,11458|C0339546|RPED|dsyn
+11476,11486|C1514893|resolution|patf
+11494,11498|C0339546|RPED|dsyn
+11608,11619|C1444662|Discontinue|fndg
+11712,11719|C0042164|Uveitis|dsyn
+11712,11719|C1963266|Uveitis|fndg
+11724,11730|C0022081|Iritis|dsyn
+11741,11748|C0042164|Uveitis|dsyn
+11741,11748|C1963266|Uveitis|fndg
+11753,11759|C0022081|iritis|dsyn
+11805,11811|C0087136|single|fndg
+11826,11830|C1273517|used|fndg
+11834,11845|C3811910|combination|fndg
+11870,11877|C0042164|Uveitis|dsyn
+11870,11877|C1963266|Uveitis|fndg
+11889,11895|C0022081|iritis|dsyn
+11959,11965|C0087136|single|fndg
+11976,11983|C0042164|uveitis|dsyn
+11976,11983|C1963266|uveitis|fndg
+12044,12055|C3811910|combination|fndg
+12095,12103|C0557351|employed|fndg
+12200,12205|C0311392|signs|fndg
+12210,12218|C1457887|symptoms|sosy
+12222,12229|C0042164|uveitis|dsyn
+12222,12229|C1963266|uveitis|fndg
+12255,12266|C0085636|photophobia|sosy
+12268,12276|C0151827|eye pain|sosy
+12268,12276|C1959630|eye pain|fndg
+12335,12342|C0042164|uveitis|dsyn
+12335,12342|C1963266|uveitis|fndg
+12343,12349|C0022081|iritis|dsyn
+12362,12367|C3244287|Grade|fndg
+12388,12392|C1273517|used|fndg
+12396,12407|C3811910|combination|fndg
+12484,12501|C0235723|Febrile Reactions|patf
+12538,12543|C0015967|fever|fndg
+12538,12543|C0424755|fever|fndg
+12575,12586|C0020649|hypotension|fndg
+12575,12586|C3163620|hypotension|fndg
+12588,12594|C0424790|rigors|sosy
+12598,12604|C0085593|chills|sosy
+12606,12617|C0011175|dehydration|dsyn
+12622,12635|C0035078|renal failure|dsyn
+12622,12635|C1963154|renal failure|patf
+12682,12688|C0087136|single|fndg
+12703,12707|C1273517|used|fndg
+12711,12722|C3811910|combination|fndg
+12770,12777|C0015967|pyrexia|fndg
+12809,12813|C1273517|used|fndg
+12817,12828|C3811910|combination|fndg
+12873,12879|C0087136|single|fndg
+12928,12935|C3840593|Trial 1|fndg
+12954,12959|C0015967|fever|fndg
+12954,12959|C0424755|fever|fndg
+13145,13150|C0015967|fever|fndg
+13145,13150|C0424755|fever|fndg
+13228,13233|C0015967|fever|fndg
+13228,13233|C0424755|fever|fndg
+13277,13294|C0235723|febrile reactions|patf
+13299,13304|C0015967|fever|fndg
+13299,13304|C0424755|fever|fndg
+13336,13347|C0020649|hypotension|fndg
+13336,13347|C3163620|hypotension|fndg
+13349,13355|C0424790|rigors|sosy
+13359,13365|C0085593|chills|sosy
+13492,13499|C3842777|Trial 2|fndg
+13518,13523|C0015967|fever|fndg
+13518,13523|C0424755|fever|fndg
+13603,13614|C3811910|combination|fndg
+13686,13692|C0087136|single|fndg
+13708,13725|C0235723|febrile reactions|patf
+13730,13735|C0015967|fever|fndg
+13730,13735|C0424755|fever|fndg
+13767,13778|C0020649|hypotension|fndg
+13767,13778|C3163620|hypotension|fndg
+13780,13786|C0424790|rigors|sosy
+13790,13796|C0085593|chills|sosy
+13858,13869|C3811910|combination|fndg
+13949,13955|C0087136|single|fndg
+13963,13968|C0015967|Fever|fndg
+13963,13968|C0424755|Fever|fndg
+13990,14003|C1559068|chills/rigors|sosy
+14020,14031|C0011175|dehydration|dsyn
+14046,14059|C0035078|renal failure|dsyn
+14046,14059|C1963154|renal failure|patf
+14078,14085|C0039070|syncope|sosy
+14114,14121|C3842777|Trial 2|fndg
+14167,14178|C3811910|combination|fndg
+14232,14237|C0015967|fever|fndg
+14232,14237|C0424755|fever|fndg
+14311,14317|C0087136|single|fndg
+14348,14353|C0015967|fever|fndg
+14348,14353|C0424755|fever|fndg
+14374,14385|C3811910|combination|fndg
+14400,14406|C3840892|4 days|fndg
+14426,14432|C0087136|single|fndg
+14498,14509|C3811910|combination|fndg
+14554,14561|C0015967|pyrexia|fndg
+14609,14614|C0015967|fever|fndg
+14609,14614|C0424755|fever|fndg
+14665,14670|C0015967|fever|fndg
+14665,14670|C0424755|fever|fndg
+14727,14731|C1273517|used|fndg
+14735,14746|C3811910|combination|fndg
+14764,14780|C0235723|febrile reaction|patf
+14784,14789|C0015967|fever|fndg
+14784,14789|C0424755|fever|fndg
+14805,14816|C0020649|hypotension|fndg
+14805,14816|C3163620|hypotension|fndg
+14818,14824|C0424790|rigors|sosy
+14828,14834|C0085593|chills|sosy
+14836,14847|C0011175|dehydration|dsyn
+14852,14865|C0035078|renal failure|dsyn
+14852,14865|C1963154|renal failure|patf
+14905,14914|C0009450|infection|dsyn
+14905,14914|C3714514|infection|patf
+15136,15149|C1167791|Skin Toxicity|dsyn
+15207,15211|C1273517|used|fndg
+15215,15226|C3811910|combination|fndg
+15268,15274|C0087136|single|fndg
+15349,15356|C3842777|Trial 2|fndg
+15379,15392|C1167791|skin toxicity|dsyn
+15440,15451|C3811910|combination|fndg
+15529,15535|C0087136|single|fndg
+15585,15598|C1167791|skin toxicity|dsyn
+15636,15647|C3811910|combination|fndg
+15732,15745|C1167791|skin toxicity|dsyn
+15936,15947|C3811910|combination|fndg
+15982,15995|C1167791|skin toxicity|dsyn
+16010,16023;16028,16032|C0037278|infections of skin|dsyn
+16121,16132|C3811910|combination|fndg
+16194,16198|C1273517|used|fndg
+16202,16213|C3811910|combination|fndg
+16241,16254|C1167791|skin toxicity|dsyn
+16362,16375|C1167791|skin toxicity|dsyn
+16445,16458|C0020456|Hyperglycemia|dsyn
+16524,16530|C0087136|single|fndg
+16545,16549|C1273517|used|fndg
+16553,16564|C3811910|combination|fndg
+16591,16598|C3840593|Trial 1|fndg
+16624,16634|C0262926|history of|fndg
+16635,16643|C0011860|diabetes|dsyn
+16635,16643|C0011849|diabetes|dsyn
+16635,16643|C0011847|diabetes|dsyn
+16681,16688|C1363945|therapy|fndg
+16729,16736|C3889290|Grade 3|fndg
+16737,16750|C0020456|hyperglycemia|dsyn
+16892,16899|C3842777|Trial 2|fndg
+16918,16925|C3889290|Grade 3|fndg
+16926,16939|C0020456|hyperglycemia|dsyn
+16975,16976|C3838680|3|fndg
+17018,17029|C3811910|combination|fndg
+17109,17115|C0087136|single|fndg
+17220,17226|C0087136|single|fndg
+17241,17245|C1273517|used|fndg
+17249,17260|C3811910|combination|fndg
+17307,17315|C0011860|diabetes|dsyn
+17307,17315|C0011849|diabetes|dsyn
+17307,17315|C0011847|diabetes|dsyn
+17319,17332|C0020456|hyperglycemia|dsyn
+17360,17368;17372,17378|C0436345|symptoms severe|fndg
+17360,17368|C1457887|symptoms|sosy
+17372,17392|C0239979|severe hyperglycemia|fndg
+17379,17392|C0020456|hyperglycemia|dsyn
+17401,17417|C0085602|excessive thirst|sosy
+17451,17473|C0042023|frequency of urination|fndg
+17489,17533|C2939465|Glucose-6-Phosphate Dehydrogenase Deficiency|dsyn
+17614,17630|C0002878|hemolytic anemia|dsyn
+17648,17681;17689,17699|C2939465|glucose-6-phosphate dehydrogenase deficiency|dsyn
+17731,17746|C2939465|G6PD deficiency|dsyn
+17751,17756|C0311392|signs|fndg
+17760,17776|C0002878|hemolytic anemia|dsyn
+17802,17810|C0600688|Toxicity|inpo
+18073,18077|C1273517|used|fndg
+18085,18094|C0425965|pregnancy|fndg
+18121,18129|C0600457|pregnant|fndg
+18121,18129|C0549206|pregnant|fndg
+18564,18575|C3811910|combination|fndg
+18663,18671|C0600457|pregnant|fndg
+18663,18671|C0549206|pregnant|fndg
+18679,18688|C0425965|pregnancy|fndg

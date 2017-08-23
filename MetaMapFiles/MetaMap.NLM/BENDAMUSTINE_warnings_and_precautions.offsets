@@ -1,0 +1,127 @@
+54,70|C0854467|Myelosuppression|fndg
+165,178|C1171258|Complications|patf
+165,178|C0009566|Complications|patf
+182,198|C0854467|myelosuppression|fndg
+211,216|C1306577|death|fndg
+235,245|C3714514|Infections|patf
+260,265|C0015967|fever|fndg
+260,265|C0424755|fever|fndg
+270,275;285,294|C1560945|other infection|fndg
+276,281|C0311392|signs|fndg
+332,343|C0002792|Anaphylaxis|patf
+332,343|C0850803|Anaphylaxis|dsyn
+348,366|C2368034|Infusion Reactions|patf
+379,401|C0002792|anaphylactic reactions|patf
+440,451|C1444662|discontinue|fndg
+534,554|C0041364|Tumor Lysis Syndrome|dsyn
+534,554|C1963254|Tumor Lysis Syndrome|fndg
+557,576|C0022660|Acute renal failure|dsyn
+557,576|C3854173|Acute renal failure|dsyn
+581,586|C1306577|death|fndg
+662,673|C1444662|Discontinue|fndg
+710,713|C0036391|SJS|cgab,dsyn
+718,721|C0014518|TEN|dsyn
+728,733|C1705232|fatal|fndg
+892,904|C0006826|Malignancies|neop
+924,942|C0442867|malignant diseases|dsyn
+980,993|C0015376|Extravasation|patf
+1110,1118|C0600688|toxicity|inpo
+1223,1231|C0600457|pregnant|fndg
+1223,1231|C0549206|pregnant|fndg
+1291,1307|C0854467|Myelosuppression|fndg
+1394,1397|C0024305|NHL|neop
+1441,1445|C1306577|died|fndg
+1441,1445|C1546956|died|fndg
+1451,1467|C0854467|myelosuppression|fndg
+1468,1475|C0445223|related|fndg
+1509,1527|C0877153|neutropenic sepsis|dsyn
+1529,1536;1546,1556|C0333280|diffuse hemorrhage|patf
+1562,1569|C3889290|Grade 3|fndg
+1562,1567|C3244287|Grade|fndg
+1568,1586|C2678311|3 thrombocytopenia|dsyn
+1570,1586|C0040034|thrombocytopenia|fndg
+1592,1601|C0032285|pneumonia|dsyn
+1610,1633|C0029118|opportunistic infection|dsyn
+1671,1678|C0445223|related|fndg
+1679,1695|C0854467|myelosuppression|fndg
+1728,1738|C1561562|hemoglobin|fndg
+1916,1923|C1363945|therapy|fndg
+1925,1941|C0854467|Myelosuppression|fndg
+2314,2324|C3714514|Infections|patf
+2351,2360|C0032285|pneumonia|dsyn
+2362,2368|C0243026|sepsis|dsyn
+2362,2368|C0036690|sepsis|dsyn
+2370,2382|C0036983|septic shock|patf
+2388,2393|C1306577|death|fndg
+2503,2519|C0854467|myelosuppression|fndg
+2577,2587|C3714514|infections|patf
+2610,2626|C0854467|myelosuppression|fndg
+2691,2699|C1457887|symptoms|sosy
+2703,2708|C0311392|signs|fndg
+2712,2721|C3714514|infection|patf
+2712,2721|C0009450|infection|dsyn
+2735,2746|C0002792|Anaphylaxis|patf
+2735,2746|C0850803|Anaphylaxis|dsyn
+2751,2769|C2368034|Infusion Reactions|patf
+2848,2856|C1457887|Symptoms|sosy
+2865,2870|C0015967|fever|fndg
+2865,2870|C0424755|fever|fndg
+2872,2878|C0085593|chills|sosy
+2880,2888|C0033774|pruritus|sosy
+2893,2897|C0015230|rash|sosy
+2941,2964|C0340865|anaphylactoid reactions|patf
+3032,3039|C1363945|therapy|fndg
+3064,3075|C1444662|discontinue|fndg
+3076,3080;3092,3101|C0041755|drug reactions|inpo
+3145,3163|C2368034|infusion reactions|patf
+3191,3198|C1363945|therapy|fndg
+3224,3231|C3889290|Grade 3|fndg
+3235,3240|C1279889|worse|fndg
+3235,3240|C1457868|worse|fndg
+3241,3249;3255,3264|C1527304|allergic reactions|patf
+3241,3249;3255,3264|C0020517|allergic reactions|patf
+3453,3458|C3244287|Grade|fndg
+3466,3484|C2368034|infusion reactions|patf
+3486,3497|C1444662|Discontinue|fndg
+3532,3550|C2368034|infusion reactions|patf
+3561,3576|C1444662|discontinuation|fndg
+3581,3588|C3889290|Grade 3|fndg
+3589,3608|C2368034|infusions reactions|patf
+3708,3728|C0041364|Tumor Lysis Syndrome|dsyn
+3708,3728|C1963254|Tumor Lysis Syndrome|fndg
+4036,4045|C1321013|hydration|fndg
+4050,4055|C3810854|close|fndg
+4195,4202|C1363945|therapy|fndg
+4254,4267|C1167791|skin toxicity|dsyn
+4526,4530|C0015230|rash|sosy
+4532,4537;4543,4552|C0542243|toxic reactions|fndg
+4557,4574|C0235818|bullous exanthema|fndg
+4623,4634|C3811910|combination|fndg
+4709,4720|C3811910|combination|fndg
+4749,4775|C0014518|toxic epidermal necrolysis|dsyn
+4792,4795|C0014518|TEN|dsyn
+4869,4893|C0038325|Stevens-Johnson syndrome|dsyn
+4895,4898|C0036391|SJS|cgab,dsyn
+4904,4907|C0014518|TEN|dsyn
+4914,4919|C1705232|fatal|fndg
+5313,5324|C1444662|discontinue|fndg
+5352,5364|C0006826|Malignancies|neop
+5409,5427|C0442867|malignant diseases|dsyn
+5506,5530|C3463824|myelodysplastic syndrome|neop
+5532,5560|C0027022|myeloproliferative disorders|neop
+5562,5584|C0023467|acute myeloid leukemia|neop
+5589,5608|C0007121|bronchial carcinoma|neop
+5685,5705|C1299641|Extravasation Injury|dsyn
+5719,5733|C0015376|extravasations|patf
+5806,5814|C0041834|erythema|dsyn
+5837,5841|C0030193|pain|sosy
+5837,5841|C1962977|pain|fndg
+5932,5945;5950,5957|C0877365|infusion site redness|fndg
+5969,5973|C0030193|pain|sosy
+5969,5973|C1962977|pain|fndg
+5975,5984|C3714514|infection|patf
+5975,5984|C0009450|infection|dsyn
+5990,5998|C1334928|necrosis|fndg
+6068,6076|C0600688|Toxicity|inpo
+6151,6157|C0087136|Single|fndg
+6295,6317|C3808677|visceral malformations|fndg

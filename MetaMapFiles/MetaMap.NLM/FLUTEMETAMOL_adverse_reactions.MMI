@@ -1,0 +1,25 @@
+00000000|MMI|40.88|Flushing|C0016382|[sosy]|["FLUSHING"-tx-9-"Flushing"-noun-0,"FLUSHING"-tx-6-"flushing"-noun-0,"flushing reaction"-tx-6-"reaction flushing"-noun-0,"FLUSHING"-tx-1-"flushing"-verb-0]|TX|1475/8;935/8;921/8,935/8;84/8|C23.888.388
+00000000|MMI|34.23|Adverse reactions|C0559546|[patf]|["ADVERSE REACTION"-tx-9-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-9-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-8-"adverse reactions"-noun-0,"Adverse reactions"-tx-7-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-3-"adverse reaction"-noun-0,"Adverse reactions"-tx-2-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|1365/16;1287/17;1167/17;1059/17;430/16;204/17;6/17;61/17|
+00000000|MMI|33.49|1+|C3816745|[fndg]|["1+"-tx-9-"1"-percentage-0,"1+"-tx-1-"1"-percentage-0]|TX|[1766/1],[1873/1],[1980/1];[109/1],[153/1],[173/1]|
+00000000|MMI|33.08|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-9-"Dizziness"-noun-0,"Dizzyness"-tx-1-"dizziness"-noun-0]|TX|1903/9;162/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|33.08|Headache|C0018681|[sosy]|["HEADACHE"-tx-9-"Headache"-noun-0,"HEADACHE"-tx-1-"headache"-noun-0]|TX|1689/8;99/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|33.08|Vertigo|C0042571|[sosy]|["dizziness"-tx-9-"Dizziness"-noun-0,"dizziness"-tx-1-"dizziness"-noun-0]|TX|1903/9;162/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|26.74|Nausea|C0027497|[sosy]|["NAUSEA"-tx-9-"Nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|1796/6;145/6|C23.888.821.712
+00000000|MMI|21.36|2+|C3833492|[fndg]|["2+"-tx-9-"2"-percentage-0,"2+"-tx-1-"2"-percentage-0]|TX|[1552/1],[1659/1];[94/1],[140/1]|
+00000000|MMI|20.64|Hypertensive disease|C0020538|[dsyn]|["Blood Pressure, Increased"-tx-9-"Increased blood pressure"-noun-0,"Blood Pressure, Increased"-tx-1-"increased blood pressure"-noun-0]|TX|1582/24;114/24|C14.907.489
+00000000|MMI|14.64|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-6-"dyspnea"-noun-0]|TX|945/7|C08.618.326;C23.888.852.371
+00000000|MMI|13.53|Hypersensitivity|C0020517|[patf]|["HYPERSENSITIVITY"-tx-6-"hypersensitivity"-noun-0,"HYPERSENSITIVITY REACTION (NOS)"-tx-6-"hypersensitivity reaction"-noun-0]|TX|904/16;904/25|C20.543
+00000000|MMI|13.14|Mild cognitive disorder|C1270972|[mobd]|["MCI"-tx-5-"mCi"-noun-0]|TX|828/3|F03.615.250.700
+00000000|MMI|11.03|Flushing Adverse Event|C1962957|[fndg]|["Flushing"-tx-9-"Flushing"-noun-0,"Flushing"-tx-6-"flushing"-noun-0,"Flushing"-tx-1-"flushing"-verb-0]|TX|1475/8;935/8;84/8|
+00000000|MMI|9.84|Disease|C0012634|[dsyn]|["condition"-tx-3-"conditions"-noun-0]|TX|415/10|C23.550.288
+00000000|MMI|7.95|Increase in blood pressure|C0497247|[fndg]|["Increased blood pressure"-tx-9-"Increased blood pressure"-noun-0,"Increased blood pressure"-tx-1-"increased blood pressure"-noun-0]|TX|1582/24;114/24|
+00000000|MMI|7.95|Increased Blood Pressure [PE]|C2917273|[fndg]|["Increased Blood Pressure"-tx-9-"Increased blood pressure"-noun-0,"Increased Blood Pressure"-tx-1-"increased blood pressure"-noun-0]|TX|1582/24;114/24|
+00000000|MMI|7.70|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-9-"Dizziness"-noun-0,"Dizziness"-tx-1-"dizziness"-noun-0]|TX|1903/9;162/9|
+00000000|MMI|7.70|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-9-"Headache"-noun-0,"headache"-tx-1-"headache"-noun-0]|TX|1689/8;99/8|
+00000000|MMI|7.70|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-9-"Nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|1796/6;145/6|
+00000000|MMI|5.18|70%|C3842584|[fndg]|["70%"-tx-5-"70"-percentage-0]|TX|793/2|
+00000000|MMI|5.18|Resolved|C3714811|[fndg]|["RESOLVED"-tx-7-"resolved"-verb-0]|TX|1116/8|
+00000000|MMI|5.18|physiologic resolution|C1514893|[patf]|["Resolved"-tx-7-"resolved"-verb-0]|TX|1116/8|
+00000000|MMI|3.68|10%|C3842590|[fndg]|["10%"-tx-9-"10"-integer-0]|TX|1762/2|
+00000000|MMI|3.64|Chest pressure|C0438716|[sosy]|["Chest pressure"-tx-6-"chest pressure"-noun-0]|TX|957/14|
+00000000|MMI|3.55|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-6-"hypersensitivity"-noun-0]|TX|904/16|

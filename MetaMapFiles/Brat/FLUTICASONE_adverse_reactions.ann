@@ -1,0 +1,528 @@
+T1	AdverseReaction 138 143	death
+T2	AdverseReaction 335 340	death
+T3	AdverseReaction 685 691	deaths
+T4	DrugClass 589 593	LABA
+T5	AdverseReaction 850 876	Candida albicans infection
+T6	AdverseReaction 940 949	pneumonia
+T7	Factor 932 936	risk
+T8	AdverseReaction 1003 1020	Immunosuppression
+T9	AdverseReaction 1066 1080	Hypercorticism
+T10	AdverseReaction 1085 1104	adrenal suppression
+T11	AdverseReaction 1150 1183	Reduction in bone mineral density
+T12	AdverseReaction 1598 1613	nasopharyngitis
+T13	AdverseReaction 1615 1648	upper respiratory tract infection
+T14	AdverseReaction 1650 1658	headache
+T15	AdverseReaction 1664 1680	oral candidiasis
+T16	AdverseReaction 1781 1796	nasopharyngitis
+T17	AdverseReaction 1798 1814	oral candidiasis
+T18	AdverseReaction 1816 1824	headache
+T19	AdverseReaction 1826 1835	influenza
+T20	AdverseReaction 1837 1870	upper respiratory tract infection
+T21	AdverseReaction 1872 1882	bronchitis
+T22	AdverseReaction 1884 1893	sinusitis
+T23	AdverseReaction 1895 1913	oropharyngeal pain
+T24	AdverseReaction 1915 1924	dysphonia
+T25	AdverseReaction 1930 1935	cough
+T26	AdverseReaction 5171 5187	oral candidiasis
+T27	AdverseReaction 5189 5214	oropharyngeal candidiasis
+T28	AdverseReaction 5216 5227	candidiasis
+T29	AdverseReaction 5233 5254	fungal oropharyngitis
+T30	AdverseReaction 6225 6234	back pain
+T31	AdverseReaction 6236 6247	pneumonia  
+T32	AdverseReaction 6287 6297	bronchitis
+T33	AdverseReaction 6299 6308	sinusitis
+T34	AdverseReaction 6310 6315	cough
+T35	AdverseReaction 6317 6335	oropharyngeal pain
+T36	AdverseReaction 6337 6347	arthralgia
+T37	AdverseReaction 6349 6358	influenza
+T38	AdverseReaction 6360 6371	pharyngitis
+T39	AdverseReaction 6377 6384	pyrexia
+T40	AdverseReaction 7879 7894	Nasopharyngitis
+T41	AdverseReaction 8138 8154	Oral candidiasis
+T42	AdverseReaction 8508 8516	Headache
+T43	AdverseReaction 8881 8899	Oropharyngeal pain
+T44	AdverseReaction 9140 9149	Dysphonia
+T45	AdverseReaction 9373 9389	oral candidiasis
+T46	AdverseReaction 9394 9419	oropharyngeal candidiasis
+T47	AdverseReaction 10314 10322	Headache
+T48	AdverseReaction 10672 10687	Nasopharyngitis
+T49	AdverseReaction 10919 10928	Influenza
+T50	AdverseReaction 11166 11199	Upper respiratory tract infection
+T51	AdverseReaction 11413 11422	Sinusitis
+T52	AdverseReaction 11660 11670	Bronchitis
+T53	AdverseReaction 12024 12042	Oropharyngeal pain
+T54	AdverseReaction 12271 12276	Cough
+T55	AdverseReaction 13018 13051	viral respiratory tract infection
+T56	AdverseReaction 13053 13064	pharyngitis
+T57	AdverseReaction 13066 13073	pyrexia
+T58	AdverseReaction 13079 13089	arthralgia
+T59	AdverseReaction 13740 13747	pyrexia
+T60	AdverseReaction 13749 13758	back pain
+T61	AdverseReaction 13760 13773	extrasystoles
+T62	AdverseReaction 13775 13795	upper abdominal pain
+T63	AdverseReaction 13797 13824	respiratory tract infection
+T64	AdverseReaction 13826 13843	allergic rhinitis
+T65	AdverseReaction 13845 13856	pharyngitis
+T66	AdverseReaction 13858 13866	rhinitis
+T67	AdverseReaction 13868 13878	arthralgia
+T68	AdverseReaction 13880 13910	supraventricular extrasystoles
+T69	AdverseReaction 13912 13937	ventricular extrasystoles
+T70	AdverseReaction 13939 13954	acute sinusitis
+T71	AdverseReaction 13960 13969	pneumonia
+T72	AdverseReaction 15115 15121	deaths
+T73	Negation 15097 15099	no
+T74	AdverseReaction 15777 15789	Palpitations
+T75	AdverseReaction 15791 15802	tachycardia
+T76	AdverseReaction 15840 15866	Hypersensitivity reactions
+T77	AdverseReaction 15878 15889	anaphylaxis
+T78	AdverseReaction 15891 15901	angioedema
+T79	AdverseReaction 15903 15907	rash
+T80	AdverseReaction 15913 15922	urticaria
+T81	AdverseReaction 15984 15997	Muscle spasms
+T82	AdverseReaction 16036 16042	Tremor
+T83	AdverseReaction 16078 16089	Nervousness
+T84	Factor 115 119	risk
+T85	DrugClass 346 350	LABA
+T86	AdverseReaction 4122 4137	Nasopharyngitis
+T87	AdverseReaction 4360 4393	Upper respiratory tract infection
+T88	AdverseReaction 4598 4623	Oropharyngeal candidiasis
+T89	AdverseReaction 4950 4958	Headache
+E1	AdverseReaction:T1 Hypothetical:E84
+E2	AdverseReaction:T2 Hypothetical:E85
+E3	AdverseReaction:T3 Hypothetical:E4
+E4	DrugClass:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6 Hypothetical:E7
+E7	Factor:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72 Negated:E73
+E73	Negation:T73
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E84	Factor:T84
+E85	DrugClass:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+A1	CUI E1 C1306577
+A2	UMLS-Preferred-Name E1 Death (finding)
+A3	MEDDRA-PT E1 Death
+A4	MEDDRA-PT-ID E1 10011906
+A5	CUI E2 C1306577
+A6	UMLS-Preferred-Name E2 Death (finding)
+A7	MEDDRA-PT E2 Death
+A8	MEDDRA-PT-ID E2 10011906
+A9	CUI E3 C1306577
+A10	UMLS-Preferred-Name E3 Death (finding)
+A11	MEDDRA-PT E3 Death
+A12	MEDDRA-PT-ID E3 10011906
+A13	CUI E5 C0276680
+A14	UMLS-Preferred-Name E5 Infection by Candida albicans
+A15	MEDDRA-PT E5 Candida infection
+A16	MEDDRA-PT-ID E5 10074170
+A17	LLT E5 Candida albicans infection
+A18	LLT-ID E5 10054230
+A19	CUI E6 C0032285
+A20	UMLS-Preferred-Name E6 Pneumonia
+A21	MEDDRA-PT E6 Pneumonia
+A22	MEDDRA-PT-ID E6 10035664
+A23	CUI E8 C1373218
+A24	UMLS-Preferred-Name E8 Decreased Immunologic Activity [PE]
+A25	MEDDRA-PT E8 Immunosuppression
+A26	MEDDRA-PT-ID E8 10062016
+A27	CUI E9 C0001622
+A28	UMLS-Preferred-Name E9 Adrenal Gland Hyperfunction
+A29	MEDDRA-PT E9 Hyperadrenocorticism
+A30	MEDDRA-PT-ID E9 10020564
+A31	LLT E9 Adrenal hypercorticism
+A32	LLT-ID E9 10001365
+A33	CUI E10 C0271738
+A34	UMLS-Preferred-Name E10 Hypocortisolism secondary to another disorder
+A35	MEDDRA-PT E10 Adrenal suppression
+A36	MEDDRA-PT-ID E10 10001382
+A37	CUI E11 C2674432
+A38	UMLS-Preferred-Name E11 Reduced bone mineral density
+A39	MEDDRA-PT E11 Bone density decreased
+A40	MEDDRA-PT-ID E11 10049470
+A41	CUI E12 C0027441
+A42	UMLS-Preferred-Name E12 Nasopharyngitis
+A43	MEDDRA-PT E12 Nasopharyngitis
+A44	MEDDRA-PT-ID E12 10028810
+A45	CUI E13 C0041912
+A46	UMLS-Preferred-Name E13 Upper Respiratory Infections
+A47	MEDDRA-PT E13 Upper respiratory tract infection
+A48	MEDDRA-PT-ID E13 10046306
+A49	CUI E14 C0018681
+A50	UMLS-Preferred-Name E14 Headache
+A51	MEDDRA-PT E14 Headache
+A52	MEDDRA-PT-ID E14 10019211
+A53	CUI E15 C0006849
+A54	UMLS-Preferred-Name E15 Oral candidiasis
+A55	MEDDRA-PT E15 Oral candidiasis
+A56	MEDDRA-PT-ID E15 10030963
+A57	CUI E16 C0027441
+A58	UMLS-Preferred-Name E16 Nasopharyngitis
+A59	MEDDRA-PT E16 Nasopharyngitis
+A60	MEDDRA-PT-ID E16 10028810
+A61	CUI E17 C0006849
+A62	UMLS-Preferred-Name E17 Oral candidiasis
+A63	MEDDRA-PT E17 Oral candidiasis
+A64	MEDDRA-PT-ID E17 10030963
+A65	CUI E18 C0018681
+A66	UMLS-Preferred-Name E18 Headache
+A67	MEDDRA-PT E18 Headache
+A68	MEDDRA-PT-ID E18 10019211
+A69	CUI E19 C0021400
+A70	UMLS-Preferred-Name E19 Influenza
+A71	MEDDRA-PT E19 Influenza
+A72	MEDDRA-PT-ID E19 10022000
+A73	CUI E20 C0041912
+A74	UMLS-Preferred-Name E20 Upper Respiratory Infections
+A75	MEDDRA-PT E20 Upper respiratory tract infection
+A76	MEDDRA-PT-ID E20 10046306
+A77	CUI E21 C0006277
+A78	UMLS-Preferred-Name E21 Bronchitis
+A79	MEDDRA-PT E21 Bronchitis
+A80	MEDDRA-PT-ID E21 10006451
+A81	CUI E22 C0037199
+A82	UMLS-Preferred-Name E22 Sinusitis
+A83	MEDDRA-PT E22 Sinusitis
+A84	MEDDRA-PT-ID E22 10040753
+A85	CUI E23 C2363731
+A86	UMLS-Preferred-Name E23 Oropharyngeal pain
+A87	MEDDRA-PT E23 Oropharyngeal pain
+A88	MEDDRA-PT-ID E23 10068319
+A89	CUI E24 C1527344
+A90	UMLS-Preferred-Name E24 Dysphonia
+A91	MEDDRA-PT E24 Dysphonia
+A92	MEDDRA-PT-ID E24 10013952
+A93	CUI E25 C0010200
+A94	UMLS-Preferred-Name E25 Coughing
+A95	MEDDRA-PT E25 Cough
+A96	MEDDRA-PT-ID E25 10011224
+A97	CUI E26 C0006849
+A98	UMLS-Preferred-Name E26 Oral candidiasis
+A99	MEDDRA-PT E26 Oral candidiasis
+A100	MEDDRA-PT-ID E26 10030963
+A101	CUI E27 C0919659
+A102	UMLS-Preferred-Name E27 Oropharyngeal candidiasis
+A103	MEDDRA-PT E27 Oropharyngeal candidiasis
+A104	MEDDRA-PT-ID E27 10050346
+A105	CUI E28 C0006840
+A106	UMLS-Preferred-Name E28 Candidiasis
+A107	MEDDRA-PT E28 Candida infection
+A108	MEDDRA-PT-ID E28 10074170
+A109	LLT E28 Candidiasis
+A110	LLT-ID E28 10007152
+A111	CUI E29 C0877566
+A112	UMLS-Preferred-Name E29 Oropharyngitis fungal
+A113	MEDDRA-PT E29 Oropharyngitis fungal
+A114	MEDDRA-PT-ID E29 10061891
+A115	CUI E30 C0004604
+A116	UMLS-Preferred-Name E30 Back Pain
+A117	MEDDRA-PT E30 Back pain
+A118	MEDDRA-PT-ID E30 10003988
+A119	CUI E31 C0032285
+A120	UMLS-Preferred-Name E31 Pneumonia
+A121	MEDDRA-PT E31 Pneumonia
+A122	MEDDRA-PT-ID E31 10035664
+A123	CUI E32 C0006277
+A124	UMLS-Preferred-Name E32 Bronchitis
+A125	MEDDRA-PT E32 Bronchitis
+A126	MEDDRA-PT-ID E32 10006451
+A127	CUI E33 C0037199
+A128	UMLS-Preferred-Name E33 Sinusitis
+A129	MEDDRA-PT E33 Sinusitis
+A130	MEDDRA-PT-ID E33 10040753
+A131	CUI E34 C0010200
+A132	UMLS-Preferred-Name E34 Coughing
+A133	MEDDRA-PT E34 Cough
+A134	MEDDRA-PT-ID E34 10011224
+A135	CUI E35 C2363731
+A136	UMLS-Preferred-Name E35 Oropharyngeal pain
+A137	MEDDRA-PT E35 Oropharyngeal pain
+A138	MEDDRA-PT-ID E35 10068319
+A139	CUI E36 C0003862
+A140	UMLS-Preferred-Name E36 Arthralgia
+A141	MEDDRA-PT E36 Arthralgia
+A142	MEDDRA-PT-ID E36 10003239
+A143	CUI E37 C0021400
+A144	UMLS-Preferred-Name E37 Influenza
+A145	MEDDRA-PT E37 Influenza
+A146	MEDDRA-PT-ID E37 10022000
+A147	CUI E38 C0031350
+A148	UMLS-Preferred-Name E38 Pharyngitis
+A149	MEDDRA-PT E38 Pharyngitis
+A150	MEDDRA-PT-ID E38 10034835
+A151	CUI E39 C0015967
+A152	UMLS-Preferred-Name E39 Fever
+A153	MEDDRA-PT E39 Pyrexia
+A154	MEDDRA-PT-ID E39 10037660
+A155	CUI E40 C0027441
+A156	UMLS-Preferred-Name E40 Nasopharyngitis
+A157	MEDDRA-PT E40 Nasopharyngitis
+A158	MEDDRA-PT-ID E40 10028810
+A159	CUI E41 C0006849
+A160	UMLS-Preferred-Name E41 Oral candidiasis
+A161	MEDDRA-PT E41 Oral candidiasis
+A162	MEDDRA-PT-ID E41 10030963
+A163	CUI E42 C0018681
+A164	UMLS-Preferred-Name E42 Headache
+A165	MEDDRA-PT E42 Headache
+A166	MEDDRA-PT-ID E42 10019211
+A167	CUI E43 C2363731
+A168	UMLS-Preferred-Name E43 Oropharyngeal pain
+A169	MEDDRA-PT E43 Oropharyngeal pain
+A170	MEDDRA-PT-ID E43 10068319
+A171	CUI E44 C1527344
+A172	UMLS-Preferred-Name E44 Dysphonia
+A173	MEDDRA-PT E44 Dysphonia
+A174	MEDDRA-PT-ID E44 10013952
+A175	CUI E45 C0006849
+A176	UMLS-Preferred-Name E45 Oral candidiasis
+A177	MEDDRA-PT E45 Oral candidiasis
+A178	MEDDRA-PT-ID E45 10030963
+A179	CUI E46 C0919659
+A180	UMLS-Preferred-Name E46 Oropharyngeal candidiasis
+A181	MEDDRA-PT E46 Oropharyngeal candidiasis
+A182	MEDDRA-PT-ID E46 10050346
+A183	CUI E47 C0018681
+A184	UMLS-Preferred-Name E47 Headache
+A185	MEDDRA-PT E47 Headache
+A186	MEDDRA-PT-ID E47 10019211
+A187	CUI E48 C0027441
+A188	UMLS-Preferred-Name E48 Nasopharyngitis
+A189	MEDDRA-PT E48 Nasopharyngitis
+A190	MEDDRA-PT-ID E48 10028810
+A191	CUI E49 C0021400
+A192	UMLS-Preferred-Name E49 Influenza
+A193	MEDDRA-PT E49 Influenza
+A194	MEDDRA-PT-ID E49 10022000
+A195	CUI E50 C0041912
+A196	UMLS-Preferred-Name E50 Upper Respiratory Infections
+A197	MEDDRA-PT E50 Upper respiratory tract infection
+A198	MEDDRA-PT-ID E50 10046306
+A199	CUI E51 C0037199
+A200	UMLS-Preferred-Name E51 Sinusitis
+A201	MEDDRA-PT E51 Sinusitis
+A202	MEDDRA-PT-ID E51 10040753
+A203	CUI E52 C0006277
+A204	UMLS-Preferred-Name E52 Bronchitis
+A205	MEDDRA-PT E52 Bronchitis
+A206	MEDDRA-PT-ID E52 10006451
+A207	CUI E53 C2363731
+A208	UMLS-Preferred-Name E53 Oropharyngeal pain
+A209	MEDDRA-PT E53 Oropharyngeal pain
+A210	MEDDRA-PT-ID E53 10068319
+A211	CUI E54 C0010200
+A212	UMLS-Preferred-Name E54 Coughing
+A213	MEDDRA-PT E54 Cough
+A214	MEDDRA-PT-ID E54 10011224
+A215	CUI E55 C0877203
+A216	UMLS-Preferred-Name E55 Respiratory tract infection viral
+A217	MEDDRA-PT E55 Respiratory tract infection viral
+A218	MEDDRA-PT-ID E55 10062106
+A219	CUI E56 C0031350
+A220	UMLS-Preferred-Name E56 Pharyngitis
+A221	MEDDRA-PT E56 Pharyngitis
+A222	MEDDRA-PT-ID E56 10034835
+A223	CUI E57 C0015967
+A224	UMLS-Preferred-Name E57 Fever
+A225	MEDDRA-PT E57 Pyrexia
+A226	MEDDRA-PT-ID E57 10037660
+A227	CUI E58 C0003862
+A228	UMLS-Preferred-Name E58 Arthralgia
+A229	MEDDRA-PT E58 Arthralgia
+A230	MEDDRA-PT-ID E58 10003239
+A231	CUI E59 C0015967
+A232	UMLS-Preferred-Name E59 Fever
+A233	MEDDRA-PT E59 Pyrexia
+A234	MEDDRA-PT-ID E59 10037660
+A235	CUI E60 C0004604
+A236	UMLS-Preferred-Name E60 Back Pain
+A237	MEDDRA-PT E60 Back pain
+A238	MEDDRA-PT-ID E60 10003988
+A239	CUI E61 C0340464
+A240	UMLS-Preferred-Name E61 Premature Cardiac Complex
+A241	MEDDRA-PT E61 Extrasystoles
+A242	MEDDRA-PT-ID E61 10015856
+A243	CUI E62 C0232492
+A244	UMLS-Preferred-Name E62 Upper abdominal pain
+A245	MEDDRA-PT E62 Abdominal pain upper
+A246	MEDDRA-PT-ID E62 10000087
+A247	LLT E62 Upper abdominal pain
+A248	LLT-ID E62 10046272
+A249	CUI E63 C0035243
+A250	UMLS-Preferred-Name E63 Respiratory Tract Infections
+A251	MEDDRA-PT E63 Respiratory tract infection
+A252	MEDDRA-PT-ID E63 10062352
+A253	CUI E64 C2607914
+A254	UMLS-Preferred-Name E64 Allergic rhinitis (disorder)
+A255	MEDDRA-PT E64 Rhinitis allergic
+A256	MEDDRA-PT-ID E64 10039085
+A257	LLT E64 Allergic rhinitis
+A258	LLT-ID E64 10001723
+A259	CUI E65 C0031350
+A260	UMLS-Preferred-Name E65 Pharyngitis
+A261	MEDDRA-PT E65 Pharyngitis
+A262	MEDDRA-PT-ID E65 10034835
+A263	CUI E66 C0035455
+A264	UMLS-Preferred-Name E66 Rhinitis
+A265	MEDDRA-PT E66 Rhinitis
+A266	MEDDRA-PT-ID E66 10039083
+A267	CUI E67 C0003862
+A268	UMLS-Preferred-Name E67 Arthralgia
+A269	MEDDRA-PT E67 Arthralgia
+A270	MEDDRA-PT-ID E67 10003239
+A271	CUI E68 C0033036
+A272	UMLS-Preferred-Name E68 Atrial Premature Complexes
+A273	MEDDRA-PT E68 Supraventricular extrasystoles
+A274	MEDDRA-PT-ID E68 10042602
+A275	CUI E69 C0151636
+A276	UMLS-Preferred-Name E69 Premature ventricular contractions
+A277	MEDDRA-PT E69 Ventricular extrasystoles
+A278	MEDDRA-PT-ID E69 10047289
+A279	CUI E70 C0149512
+A280	UMLS-Preferred-Name E70 Acute sinusitis
+A281	MEDDRA-PT E70 Acute sinusitis
+A282	MEDDRA-PT-ID E70 10001076
+A283	CUI E71 C0032285
+A284	UMLS-Preferred-Name E71 Pneumonia
+A285	MEDDRA-PT E71 Pneumonia
+A286	MEDDRA-PT-ID E71 10035664
+A287	CUI E72 C1306577
+A288	UMLS-Preferred-Name E72 Death (finding)
+A289	MEDDRA-PT E72 Death
+A290	MEDDRA-PT-ID E72 10011906
+A291	CUI E74 C0030252
+A292	UMLS-Preferred-Name E74 Palpitations
+A293	MEDDRA-PT E74 Palpitations
+A294	MEDDRA-PT-ID E74 10033557
+A295	CUI E75 C0039231
+A296	UMLS-Preferred-Name E75 Tachycardia
+A297	MEDDRA-PT E75 Tachycardia
+A298	MEDDRA-PT-ID E75 10043071
+A299	CUI E76 C0020517
+A300	UMLS-Preferred-Name E76 Hypersensitivity
+A301	MEDDRA-PT E76 Hypersensitivity
+A302	MEDDRA-PT-ID E76 10020751
+A303	LLT E76 Hypersensitivity reaction
+A304	LLT-ID E76 10020756
+A305	CUI E77 C0002792
+A306	UMLS-Preferred-Name E77 anaphylaxis
+A307	MEDDRA-PT E77 Anaphylactic reaction
+A308	MEDDRA-PT-ID E77 10002198
+A309	LLT E77 Anaphylaxis
+A310	LLT-ID E77 10002218
+A311	CUI E78 C0002994
+A312	UMLS-Preferred-Name E78 Angioedema
+A313	MEDDRA-PT E78 Angioedema
+A314	MEDDRA-PT-ID E78 10002424
+A315	CUI E79 C0015230
+A316	UMLS-Preferred-Name E79 Exanthema
+A317	MEDDRA-PT E79 Rash
+A318	MEDDRA-PT-ID E79 10037844
+A319	CUI E80 C0042109
+A320	UMLS-Preferred-Name E80 Urticaria
+A321	MEDDRA-PT E80 Urticaria
+A322	MEDDRA-PT-ID E80 10046735
+A323	CUI E81 C0037763
+A324	UMLS-Preferred-Name E81 Spasm
+A325	MEDDRA-PT E81 Muscle spasms
+A326	MEDDRA-PT-ID E81 10028334
+A327	CUI E82 C0040822
+A328	UMLS-Preferred-Name E82 Tremor
+A329	MEDDRA-PT E82 Tremor
+A330	MEDDRA-PT-ID E82 10044565
+A331	CUI E83 C0027769
+A332	UMLS-Preferred-Name E83 Nervousness
+A333	MEDDRA-PT E83 Nervousness
+A334	MEDDRA-PT-ID E83 10029216
+A335	CUI E86 C0027441
+A336	UMLS-Preferred-Name E86 Nasopharyngitis
+A337	MEDDRA-PT E86 Nasopharyngitis
+A338	MEDDRA-PT-ID E86 10028810
+A339	CUI E87 C0041912
+A340	UMLS-Preferred-Name E87 Upper Respiratory Infections
+A341	MEDDRA-PT E87 Upper respiratory tract infection
+A342	MEDDRA-PT-ID E87 10046306
+A343	CUI E88 C0919659
+A344	UMLS-Preferred-Name E88 Oropharyngeal candidiasis
+A345	MEDDRA-PT E88 Oropharyngeal candidiasis
+A346	MEDDRA-PT-ID E88 10050346
+A347	CUI E89 C0018681
+A348	UMLS-Preferred-Name E89 Headache
+A349	MEDDRA-PT E89 Headache
+A350	MEDDRA-PT-ID E89 10019211

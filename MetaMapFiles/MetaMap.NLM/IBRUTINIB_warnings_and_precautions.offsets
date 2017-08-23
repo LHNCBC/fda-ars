@@ -1,0 +1,94 @@
+52,62|C0019080|Hemorrhage|patf
+76,84|C0019080|bleeding|patf
+101,111|C3714514|Infections|patf
+134,139|C0015967|fever|fndg
+134,139|C0424755|fever|fndg
+144,154|C3714514|infections|patf
+193,203|C0010828|Cytopenias|patf
+257,276|C0004238|Atrial Fibrillation|dsyn
+257,276|C1963067|Atrial Fibrillation|fndg
+299,318|C0004238|atrial fibrillation|dsyn
+299,318|C1963067|atrial fibrillation|fndg
+335,362|C0751623|Second Primary Malignancies|neop
+370,382|C0006826|malignancies|neop
+420,432|C0007114|skin cancers|neop
+444,454|C0007097|carcinomas|neop
+471,491|C0041364|Tumor Lysis Syndrome|dsyn
+471,491|C1963254|Tumor Lysis Syndrome|fndg
+528,531|C0041364|TLS|dsyn
+528,531|C1963254|TLS|fndg
+586,594|C0600688|Toxicity|inpo
+677,686|C0425965|pregnancy|fndg
+736,746;759,767|C1560575|Hemorrhage bleeding|fndg
+736,746;759,767|C0497131|Hemorrhage bleeding|sosy
+753,758|C1705232|Fatal|fndg
+825,832|C3889290|Grade 3|fndg
+843,851|C0019080|bleeding|patf
+860,877|C0018946|subdural hematoma|patf
+879,904|C0017181|gastrointestinal bleeding|patf
+906,915|C0018965|hematuria|fndg
+920,946|C0919874|post procedural hemorrhage|inpo
+987,995|C0019080|Bleeding|patf
+1010,1015|C3244287|grade|fndg
+1027,1035|C0009938|bruising|inpo
+1027,1035|C2136686|bruising|fndg
+1040,1049|C0031256|petechiae|dsyn
+1146,1154|C0019080|bleeding|patf
+1165,1173|C3841798|not well|fndg
+1217,1221;1225,1235|C3251812|risk hemorrhage|fndg
+1372,1378|C3842672|7 days|fndg
+1387,1399|C0241311|post-surgery|fndg
+1443,1447;1451,1459|C3251812|risk bleeding|fndg
+1505,1515|C3714514|Infections|patf
+1521,1526|C1705232|Fatal|fndg
+1581,1588|C1363945|therapy|fndg
+1590,1597|C3889290|Grade 3|fndg
+1609,1619|C3714514|infections|patf
+1701,1743|C0023524|progressive multifocal leukoencephalopathy|dsyn
+1821,1826|C0015967|fever|fndg
+1821,1826|C0424755|fever|fndg
+1831,1841|C3714514|infections|patf
+1876,1886|C0010828|Cytopenias|patf
+1911,1918|C3889290|Grade 3|fndg
+1924,1934|C0010828|cytopenias|patf
+1945,1956|C0027947|neutropenia|dsyn
+1945,1956|C0023530|neutropenia|dsyn
+1945,1956|C0853697|neutropenia|fndg
+1977,1993|C0040034|thrombocytopenia|fndg
+2017,2023|C0002871|anemia|dsyn
+2140,2159|C0004238|Atrial Fibrillation|dsyn
+2140,2159|C1963067|Atrial Fibrillation|fndg
+2189,2203|C0004239|atrial flutter|patf
+2189,2203|C1963068|atrial flutter|patf
+2301,2321|C2024776|cardiac risk factors|fndg
+2323,2339|C0275518|acute infections|dsyn
+2356,2386|C0729790|history of atrial fibrillation|fndg
+2433,2452|C0004238|atrial fibrillation|dsyn
+2433,2452|C1963067|atrial fibrillation|fndg
+2486,2494|C1457887|symptoms|sosy
+2502,2514|C0030252|palpitations|fndg
+2502,2514|C3160712|palpitations|fndg
+2516,2531|C0012833|lightheadedness|sosy
+2516,2531|C0220870|lightheadedness|sosy
+2536,2553|C2169544|new onset dyspnea|fndg
+2587,2606|C0004238|atrial fibrillation|dsyn
+2587,2606|C1963067|atrial fibrillation|fndg
+2749,2776|C0751623|Second Primary Malignancies|neop
+2788,2800|C0006826|malignancies|neop
+2833,2848|C0699893|skin carcinomas|neop
+2934,2959|C0751623|second primary malignancy|neop
+2964,2988|C0699893|non-melanoma skin cancer|neop
+3020,3040|C0041364|Tumor Lysis Syndrome|dsyn
+3020,3040|C1963254|Tumor Lysis Syndrome|fndg
+3101,3108|C1363945|therapy|fndg
+3192,3212|C0041364|tumor lysis syndrome|dsyn
+3192,3212|C1963254|tumor lysis syndrome|fndg
+3265,3273|C0600688|Toxicity|inpo
+3396,3409|C0000768|malformations|cgab
+3521,3524|C0023434|CLL|neop
+3700,3708|C0600457|pregnant|fndg
+3700,3708|C0549206|pregnant|fndg
+3749,3753|C1273517|used|fndg
+3761,3770|C0425965|pregnancy|fndg
+3797,3805|C0600457|pregnant|fndg
+3797,3805|C0549206|pregnant|fndg

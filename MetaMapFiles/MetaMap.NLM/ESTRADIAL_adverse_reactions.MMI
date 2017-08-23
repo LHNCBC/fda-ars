@@ -1,0 +1,97 @@
+00000000|MMI|86.53|Headache|C0018681|[sosy]|["HEADACHE"-tx-7-"headache"-noun-0,"HEADACHE"-tx-6-"headache"-noun-0,"HEADACHE"-tx-1-"Headache"-noun-0,"HEADACHE"-tx-1-"headache"-noun-0,"Headaches"-tx-1-"headaches"-noun-0]|TX|2497/8;2387/8;508/8;652/8;614/9|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|86.37|Metrorrhagia|C0025874|[patf]|["DYSFUNCTIONAL UTERINE BLEEDING"-tx-7-"dysfunctional uterine bleeding"-noun-0,"METRORRHAGIA"-tx-7-"metrorrhagia"-noun-0,"DYSFUNCTIONAL UTERINE BLEEDING"-tx-6-"dysfunctional uterine bleeding"-noun-0,"METRORRHAGIA"-tx-6-"metrorrhagia"-noun-0]|TX|2675/30;2604/12;2229/30;2138/12|C13.351.500.852.691.622;C23.550.414.993.700
+00000000|MMI|75.29|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-9-"adverse reactions"-noun-0,"Adverse reactions"-tx-8-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-7-"Adverse Reactions"-noun-0,"ADVERSE REACTION"-tx-6-"adverse reaction"-noun-0,"Adverse reactions"-tx-6-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-6-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-3-"adverse reaction"-noun-0,"Adverse reactions"-tx-3-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"Adverse reactions"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|3267/17;2989/17;2469/17;2032/16;1911/17;2068/17;1103/16;853/17;6/17;372/17;[49/17],[553/17]|
+00000000|MMI|63.86|Migraine Disorders|C0149931|[dsyn]|["MIGRAINES"-tx-7-"migraines"-noun-0,"MIGRAINES"-tx-6-"migraines"-noun-0,"MIGRAINES"-tx-1-"migraines"-noun-0]|TX|2517/9;2407/9;672/9|C10.228.140.546.399.750
+00000000|MMI|60.37|Mental Depression|C0011570|[mobd]|["DEPRESSION"-tx-7-"depression"-noun-0,"Depressed Mood"-tx-7-"depressed mood"-noun-0,"DEPRESSION"-tx-6-"depression"-noun-0,"Depressed Mood"-tx-6-"depressed mood"-noun-0]|TX|2839/10;2864/14;2283/10;2322/14|F01.145.126.350
+00000000|MMI|59.85|Menorrhagia|C0025323|[patf]|["MENORRHAGIA"-tx-7-"menorrhagia"-noun-0,"MENORRHAGIA"-tx-6-"menorrhagia"-noun-0,"heavy menstrual bleeding"-tx-4-"Heavy Menstrual Bleeding"-noun-0]|TX|2642/11;2152/11;1320/24|C13.351.500.852.691.449;C23.550.568.875
+00000000|MMI|54.84|Weight Gain|C0043094|[fndg]|["Increased weight"-tx-7-"increased weight"-noun-0,"Increased weight"-tx-1-"increased weight"-noun-0]|TX|2950/16;795/16|C23.888.144.243.926;G07.700.320.249.314.120.200.926
+00000000|MMI|44.63|Nausea|C0027497|[sosy]|["NAUSEA"-tx-7-"nausea"-noun-0,"NAUSEA"-tx-1-"Nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|2785/6;469/6;739/6|C23.888.821.712
+00000000|MMI|40.76|Acne|C0702166|[dsyn]|["ACNE"-tx-7-"acne"-noun-0,"ACNE"-tx-6-"acne"-noun-0,"ACNE"-tx-1-"acne"-noun-0]|TX|2812/4;2374/4;764/4|C17.800.030.150;C17.800.794.111
+00000000|MMI|40.76|Acne Vulgaris|C0001144|[dsyn]|["Acne"-tx-7-"acne"-noun-0,"Acne"-tx-6-"acne"-noun-0,"Acne"-tx-1-"acne"-noun-0]|TX|2812/4;2374/4;764/4|C17.800.030.150;C17.800.794.111
+00000000|MMI|35.81|Cerebrovascular accident|C0038454|[dsyn]|["STROKE"-tx-11-"stroke"-noun-0,"STROKE"-tx-1-"stroke"-noun-0]|TX|3709/6;172/6|C10.228.140.300.775;C14.907.253.855
+00000000|MMI|35.81|Deep Vein Thrombosis|C0149871|[dsyn]|["DEEP VEIN THROMBOSIS"-tx-11-"deep vein thrombosis"-noun-0,"DEEP VEIN THROMBOSIS"-tx-8-"deep vein thrombosis"-noun-0]|TX|3640/20;3075/20|C14.907.355.830.925
+00000000|MMI|31.36|Menstruation Disturbances|C0025345|[patf]|["Menstrual Disorders"-tx-7-"menstrual disorders"-noun-0,"MENSTRUAL DISORDER"-tx-6-"menstrual disorder"-noun-0,"Menstrual Disorders"-tx-1-"menstrual disorders"-noun-0]|TX|2583/19;2118/18;715/19|C23.550.568
+00000000|MMI|29.46|Dysthymic Disorder|C0013415|[mobd]|["DYSTHYMIC DISORDER"-tx-7-"dysthymic disorder"-noun-0,"DYSTHYMIC DISORDER"-tx-6-"dysthymic disorder"-noun-0]|TX|2911/18;2338/18|F03.600.300.400
+00000000|MMI|29.46|Myocardial Infarction|C0027051|[dsyn]|["Infarction, Myocardial"-tx-11-"myocardial infarction"-noun-0,"Infarction, Myocardial"-tx-8-"myocardial infarction"-noun-0]|TX|3683/21;3009/21|C14.280.647.500;C14.907.585.500
+00000000|MMI|29.46|Vomiting|C0042963|[sosy]|["VOMITING"-tx-7-"vomiting"-noun-0,"VOMITING"-tx-1-"vomiting"-noun-0]|TX|2795/8;750/8|C23.888.821.937
+00000000|MMI|27.22|Mood swings|C0085633|[mobd]|["MOOD SWINGS"-tx-7-"mood swings"-noun-0,"Mood changes"-tx-7-"mood changes"-noun-0,"MOOD SWINGS"-tx-6-"mood swings"-noun-0,"Mood changes"-tx-6-"mood changes"-noun-0,"Mood changes"-tx-1-"mood changes"-noun-0]|TX|2851/11;2825/12;2295/11;2269/12;773/12|
+00000000|MMI|24.11|Candidiasis, Vulvovaginal|C0700345|[dsyn]|["Candidiasis, Vulvovaginal"-tx-11-"Vulvovaginal candidiasis"-noun-0]|TX|4180/24|C01.703.160.190;C13.351.500.894.906.820.500;C13.351.500.944.902.737.500
+00000000|MMI|23.12|Depressive disorder|C0011581|[mobd]|["-- Depression"-tx-7-"depression"-noun-0,"-- Depression"-tx-6-"depression"-noun-0]|TX|2839/10;2283/10|F03.600.300
+00000000|MMI|21.36|Depressed mood|C0344315|[fndg]|["Depressed Mood"-tx-7-"depressed mood"-noun-0,"depression"-tx-7-"depression"-noun-0,"Depressed Mood"-tx-6-"depressed mood"-noun-0,"depression"-tx-6-"depression"-noun-0]|TX|2864/14;2839/10;2322/14;2283/10|
+00000000|MMI|20.95|Cerebral Thrombosis|C0079102|[dsyn]|["CEREBRAL THROMBOSIS"-tx-11-"cerebral thrombosis"-noun-0]|TX|3662/19|C10.228.140.300.525.425;C14.907.253.566.350;C14.907.355.590.213.350
+00000000|MMI|20.95|Ovarian Cysts|C0029927|[dsyn]|["OVARIAN CYST"-tx-8-"ovarian cyst"-noun-0]|TX|3051/12|C04.182.612;C13.351.500.056.630.580;C19.391.630.580
+00000000|MMI|19.88|Disease|C0012634|[dsyn]|["Disorders"-tx-11-"disorders"-noun-0,"condition"-tx-3-"conditions"-noun-0]|TX|3988/9;1091/10|C23.550.288
+00000000|MMI|19.32|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-10-"uncertain"-adj-0]|TX|3413/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|19.24|2+|C3833492|[fndg]|["2+"-tx-8-"2"-integer-0,"2+"-tx-7-"2"-percentage-0,"2+"-tx-1-"2"-percentage-0]|TX|[3032/1],[3065/1];[2491/1],[2968/1];575/1|
+00000000|MMI|19.24|Hypertriglyceridemia|C0020557|[dsyn]|["HYPERTRIGLYCERIDEMIA"-tx-11-"hypertriglyceridemia"-noun-0]|TX|3894/20|C18.452.584.500.500.851
+00000000|MMI|17.80|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-11-"abdominal pain"-noun-0]|TX|4131/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|17.80|Acute Cholecystitis|C0149520|[dsyn]|["Acute Cholecystitis"-tx-8-"acute cholecystitis"-noun-0]|TX|3156/19|C06.130.564.263.500
+00000000|MMI|17.80|Angioedema|C0002994|[patf]|["Angiooedema"-tx-11-"angioedema"-noun-0]|TX|4009/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|17.80|Chloasma|C0025218|[dsyn]|["CHLOASMA"-tx-11-"Chloasma"-noun-0]|TX|3999/8|C17.800.621.430.530
+00000000|MMI|17.80|Erythema Nodosum|C0014743|[dsyn]|["ERYTHEMA NODOSUM"-tx-11-"erythema nodosum"-noun-0]|TX|4021/16|C17.800.174.600.375;C17.800.229.413;C20.543.206.380.375;C25.100.468.380.375
+00000000|MMI|17.80|Mastodynia|C0024902|[sosy]|["BREAST PAIN"-tx-7-"breast pain"-noun-0]|TX|2537/11|C10.597.617.229;C23.888.592.612.530;F02.830.816.308;G11.561.600.810.308
+00000000|MMI|17.80|Pulmonary Embolism|C0034065|[dsyn]|["Pulmonary emboli"-tx-11-"pulmonary emboli"-noun-0]|TX|3622/16|C08.381.746;C14.907.355.350.700
+00000000|MMI|17.80|Uterine Fibroids|C0042133|[neop]|["LEIOMYOMA, UTERINE"-tx-8-"uterine leiomyoma"-noun-0]|TX|3137/17|C04.557.450.590.450
+00000000|MMI|17.80|Uterine hemorrhage|C0042134|[patf]|["UTERINE HAEMORRHAGE"-tx-7-"uterine hemorrhage"-noun-0]|TX|2757/18|C13.351.500.852.691;C23.550.414.993
+00000000|MMI|16.30|Pain|C0030193|[sosy]|["PAIN"-tx-1-"pain"-noun-0]|TX|706/4|C10.597.617;C23.888.592.612;F02.830.816.444;G11.561.600.810.444
+00000000|MMI|16.12|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-11-"Dizziness"-noun-0]|TX|3945/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|16.12|Vertigo|C0042571|[sosy]|["dizziness"-tx-11-"Dizziness"-noun-0]|TX|3945/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|16.08|Hepatitis A|C0019159|[dsyn]|["Hepatitis"-tx-11-"hepatitis"-noun-0]|TX|3781/9|C02.440.420;C02.782.687.359.500;C06.552.380.705.422
+00000000|MMI|15.79|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-7-"nausea"-noun-0,"Nausea"-tx-1-"Nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|2785/6;469/6;739/6|
+00000000|MMI|15.70|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-7-"headache"-noun-0,"headache"-tx-6-"headache"-noun-0,"headache"-tx-1-"Headache"-noun-0,"headache"-tx-1-"headache"-noun-0]|TX|2497/8;2387/8;508/8;652/8|
+00000000|MMI|15.15|Irregular periods|C0156404|[fndg]|["Menstruation irregular"-tx-7-"menstruation irregular"-noun-0,"Menstruation irregular"-tx-6-"menstruation irregular"-noun-0,"IRREGULAR UTERINE BLEEDING"-tx-1-"Irregular uterine bleeding"-noun-0,"IRREGULAR UTERINE BLEEDING"-tx-1-"irregular uterine bleeding"-noun-0]|TX|2618/22;2165/22;435/26;625/26|
+00000000|MMI|13.23|Erythema Multiforme|C0014742|[dsyn]|["Erythema multiforme (disorder)"-tx-11-"erythema multiforme disorders"-noun-0]|TX|4039/19,4080/9|C17.800.229.400;C17.800.865.475
+00000000|MMI|11.92|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-7-"3"-percentage-0,"3+"-tx-2-"3"-percentage-0,"3+"-tx-1-"3"-percentage-0]|TX|2940/1;813/1;787/1|
+00000000|MMI|11.49|Gall Bladder Diseases|C0016977|[dsyn]|["Gall Bladder Disease"-tx-11-"Gallbladder disease"-noun-0]|TX|3760/19|C06.130.564
+00000000|MMI|11.17|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-6-"Discontinuation"-noun-0,"Discontinuation"-tx-6-"discontinuation"-noun-0,"Discontinued"-tx-6-"discontinued"-verb-0]|TX|1946/15;2097/15;1984/12|
+00000000|MMI|10.42|Breast tenderness|C0262397|[sosy]|["BREAST TENDERNESS"-tx-1-"Breast tenderness"-noun-0,"BREAST TENDERNESS"-tx-1-"breast tenderness"-noun-0]|TX|483/17;688/17|
+00000000|MMI|10.42|Deep vein thrombosis of lower limb|C0340708|[dsyn]|["Deep vein thrombosis"-tx-11-"deep vein thrombosis"-noun-0,"Deep vein thrombosis"-tx-8-"deep vein thrombosis"-noun-0]|TX|3640/20;3075/20|
+00000000|MMI|10.42|Depressed - symptom|C1579931|[sosy]|["depression"-tx-7-"depression"-noun-0,"depression"-tx-6-"depression"-noun-0]|TX|2839/10;2283/10|
+00000000|MMI|10.42|Vaginal Hemorrhage|C2979982|[dsyn]|["VAGINAL HEMORRHAGE"-tx-7-"vaginal hemorrhage"-noun-0,"VAGINAL HEMORRHAGE"-tx-6-"vaginal hemorrhage"-noun-0]|TX|2655/18;2209/18|
+00000000|MMI|10.42|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-7-"vomiting"-noun-0,"Vomiting"-tx-1-"vomiting"-noun-0]|TX|2795/8;750/8|
+00000000|MMI|10.42|heavy bleeding between periods (symptom)|C2030274|[sosy]|["metrorrhagia"-tx-7-"metrorrhagia"-noun-0,"metrorrhagia"-tx-6-"metrorrhagia"-noun-0]|TX|2604/12;2138/12|
+00000000|MMI|9.87|Hemorrhage|C0019080|[patf]|["BLEEDING"-tx-5-"bleeding"-noun-0]|TX|1813/8|C23.550.414
+00000000|MMI|9.78|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-11-"hypertension"-noun-0]|TX|3718/12|C14.907.489
+00000000|MMI|9.77|Hepatitis|C0019158|[dsyn]|["HEPATITIS"-tx-11-"hepatitis"-noun-0]|TX|3781/9|C06.552.380
+00000000|MMI|9.77|Polymenorrhea|C0032519|[dsyn]|["frequent menstrual"-tx-5-"frequent menstrual"-adj-0]|TX|1794/18|C23.550.568
+00000000|MMI|8.34|Infection|C3714514|[patf]|["Infections"-tx-11-"Infections"-noun-0]|TX|4151/10|C01.539
+00000000|MMI|8.34|Liver diseases|C0023895|[dsyn]|["LIVER DISEASE"-tx-1-"Liver disease"-noun-0]|TX|311/13|C06.552
+00000000|MMI|8.34|Nutrition Disorders|C3714509|[dsyn]|["Nutrition Disorders"-tx-11-"nutrition disorders"-noun-0]|TX|3856/19|C18.654
+00000000|MMI|8.34|Rupture|C3203359|[inpo]|["Ruptured"-tx-8-"ruptured"-verb-0]|TX|3042/8|C26.761
+00000000|MMI|8.34|Vascular Diseases|C0042373|[dsyn]|["Vascular Disorders"-tx-11-"Vascular disorders"-noun-0]|TX|3549/18|C14.907
+00000000|MMI|7.70|Genital hemorrhage|C0854381|[dsyn]|["Genital hemorrhage"-tx-7-"genital hemorrhage"-noun-0,"Genital hemorrhage"-tx-6-"genital hemorrhage"-noun-0]|TX|2707/18;2189/18|
+00000000|MMI|7.40|1+|C3816745|[fndg]|["1+"-tx-6-"1"-percentage-0]|TX|[2380/1],[2419/1]|
+00000000|MMI|6.66|Hypersensitivity|C0020517|[patf]|["HYPERSENSITIVITY"-tx-11-"Hypersensitivity"-noun-0]|TX|3820/16|C20.543
+00000000|MMI|5.18|1-2|C3843716|[fndg]|["1-2"-tx-6-"1.2"-percentage-0]|TX|2367/3|
+00000000|MMI|5.18|3/9|C0442760|[fndg]|["3/9"-tx-7-"3.9"-percentage-0]|TX|2818/3|
+00000000|MMI|5.18|Abnormal withdrawal bleeding|C2609183|[fndg]|["Abnormal withdrawal bleeding"-tx-7-"abnormal withdrawal bleeding"-noun-0]|TX|2727/28|
+00000000|MMI|5.18|Actual Discomfort|C2364135|[sosy]|["Discomfort"-tx-7-"discomfort"-noun-0]|TX|2550/10|
+00000000|MMI|5.18|BREAST PAIN FEMALE|C0553713|[sosy]|["BREAST PAIN"-tx-7-"breast pain"-noun-0]|TX|2537/11|
+00000000|MMI|5.18|Body fluid retention|C0268000|[patf]|["FLUID RETENTION"-tx-11-"Fluid retention"-noun-0]|TX|3877/15|
+00000000|MMI|5.18|Cerebral arterial thrombosis|C0795687|[patf]|["Cerebral thrombosis"-tx-11-"cerebral thrombosis"-noun-0]|TX|3662/19|
+00000000|MMI|5.18|Chronic Acalculous Cholecystitis|C3272619|[dsyn]|["Chronic Acalculous Cholecystitis"-tx-8-"chronic acalculous cholecystitis"-noun-0]|TX|3181/32|
+00000000|MMI|5.18|Distance vision 6/9|C0442751|[fndg]|["6 9"-tx-7-"6.9"-percentage-0]|TX|2778/3|
+00000000|MMI|5.18|Focal nodular hyperplasia of liver|C0700636|[dsyn]|["Focal Nodular Hyperplasia of the Liver"-tx-8-"focal nodular hyperplasia of the liver"-noun-0]|TX|3097/38|
+00000000|MMI|5.18|Gastrointestinal symptom|C0426576|[sosy]|["Gastrointestinal symptoms"-tx-11-"Gastrointestinal symptoms"-noun-0]|TX|4091/25|
+00000000|MMI|5.18|History of - gallbladder disease|C0558976|[fndg]|["gallbladder disease"-tx-11-"Gallbladder disease"-noun-0]|TX|3760/19|
+00000000|MMI|5.18|Infestation|C0851341|[dsyn]|["infestations"-tx-11-"infestations"-noun-0]|TX|4166/12|
+00000000|MMI|5.18|Malaise|C0231218|[sosy]|["DISCOMFORT"-tx-7-"discomfort"-noun-0]|TX|2550/10|
+00000000|MMI|5.18|Sore to touch|C0234233|[sosy]|["TENDERNESS"-tx-7-"tenderness"-noun-0]|TX|2564/10|
+00000000|MMI|5.18|Thrombosis of cerebral veins|C0151945|[dsyn]|["Cerebral thrombosis"-tx-11-"cerebral thrombosis"-noun-0]|TX|3662/19|
+00000000|MMI|5.18|Weight symptom (finding)|C0424653|[sosy]|["weight"-tx-6-"weight"-noun-0]|TX|2430/6|
+00000000|MMI|5.18|reported prior liver disease (history)|C2186532|[fndg]|["liver disease"-tx-1-"Liver disease"-noun-0]|TX|311/13|
+00000000|MMI|4.12|Arterial thromboembolism|C3544094|[patf]|["Arterial Thromboembolic Event"-tx-11-"arterial thromboembolic events"-noun-0]|TX|3580/30|
+00000000|MMI|3.81|Immune System Diseases|C0021053|[dsyn]|["Immune system disorders"-tx-11-"Immune system disorders"-noun-0]|TX|3795/23|C20
+00000000|MMI|3.81|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-11-"Nervous system disorders"-noun-0]|TX|3919/24|C10
+00000000|MMI|3.78|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-11-"subcutaneous disorders"-noun-0]|TX|3968/12,3988/9|
+00000000|MMI|3.75|Cardiovascular event|C1320716|[fndg]|["cardiovascular events"-tx-1-"cardiovascular events"-noun-0]|TX|146/21|
+00000000|MMI|3.75|Hepatobiliary disease|C0267792|[dsyn]|["Hepatobiliary disorders"-tx-11-"Hepatobiliary disorders"-noun-0]|TX|3735/23|
+00000000|MMI|3.68|0%|C3842591|[fndg]|["0%"-tx-6-"0"-percentage-0]|TX|2448/1|
+00000000|MMI|3.68|Pain NOS Adverse Event|C1962977|[fndg]|["Pain NOS"-tx-1-"pain"-noun-0]|TX|706/4|
+00000000|MMI|3.68|Pathology processes|C0677042|[patf]|["pathology"-tx-5-"pathology"-noun-1]|TX|1847/9|
+00000000|MMI|3.55|Container status - Identified|C1550043|[fndg]|["Identified"-tx-9-"identified"-verb-0]|TX|3295/10|
+00000000|MMI|3.50|Adverse Event Associated with Vascular|C1558950|[fndg]|["VASCULAR"-tx-1-"Vascular"-adj-0]|TX|246/8|
+00000000|MMI|3.50|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-11-"Dizziness"-noun-0]|TX|3945/9|
+00000000|MMI|3.50|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-11-"Hypersensitivity"-noun-0]|TX|3820/16|
+00000000|MMI|3.48|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-11-"hypertension"-noun-0]|TX|3718/12|
+00000000|MMI|3.47|Serum triglycerides raised|C0428478|[fndg]|["Hypertriglyceridemia"-tx-11-"hypertriglyceridemia"-noun-0]|TX|3894/20|

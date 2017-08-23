@@ -1,0 +1,101 @@
+50,74|C0020428|Mineralocorticoid excess|dsyn
+119,152|C0455539|history of cardiovascular disease|fndg
+206,220|C1882086|NYHA Class III|fndg
+227,240|C0018801|heart failure|dsyn
+227,240|C0018802|heart failure|dsyn
+269,282|C1882085|NYHA Class II|fndg
+343,355|C0020538|hypertension|dsyn
+343,355|C1963138|hypertension|fndg
+368,379|C0020621|hypokalemia|fndg
+442,450|C1457887|symptoms|sosy
+451,469|C0268000|of fluid retention|patf
+499,527|C0020595|Adrenocortical insufficiency|dsyn
+499,527|C0405580|Adrenocortical insufficiency|dsyn
+541,549|C1457887|symptoms|sosy
+554,559|C0311392|signs|fndg
+563,591|C0020595|adrenocortical insufficiency|dsyn
+563,591|C0405580|adrenocortical insufficiency|dsyn
+636,645|C1444656|indicated|fndg
+704,718|C0235378|Hepatotoxicity|inpo
+803,818|C1444662|discontinuation|fndg
+869,880|C1444662|discontinue|fndg
+930,942|C0020538|Hypertension|dsyn
+930,942|C1963138|Hypertension|fndg
+944,955|C0020621|Hypokalemia|fndg
+960,975|C0268000|Fluid Retention|patf
+983,1007|C0020428|Mineralocorticoid Excess|dsyn
+1028,1040|C0020538|hypertension|dsyn
+1028,1040|C1963138|hypertension|fndg
+1042,1053|C0020621|hypokalemia|fndg
+1059,1074;1092,1094|C0268000|fluid retention of|patf
+1239,1246;1252,1264|C1556274|grade 3 hypertension|fndg
+1239,1244;1250,1264|C1556275|grade 4 hypertension|fndg
+1293,1300|C3889290|grade 3|fndg
+1306,1317|C0020621|hypokalemia|fndg
+1667,1677|C0012634|conditions|dsyn
+1687,1698|C2945640|compromised|fndg
+1731,1742|C0020621|hypokalemia|fndg
+1746,1761|C0268000|fluid retention|patf
+1780,1793|C0018801|heart failure|dsyn
+1780,1793|C0018802|heart failure|dsyn
+1795,1823|C1998297|recent myocardial infarction|fndg
+1827,1849|C1883529|ventricular arrhythmia|patf
+1827,1849|C1963277|ventricular arrhythmia|patf
+1827,1849|C0085612|ventricular arrhythmia|dsyn
+1894,1927|C0455539|history of cardiovascular disease|fndg
+2010,2036;2044,2053|C1882086|New York Heart Association Class III|fndg
+2060,2073|C0018801|heart failure|dsyn
+2060,2073|C0018802|heart failure|dsyn
+2090,2103|C1882085|NYHA Class II|fndg
+2263,2270;2284,2296|C0422554|Monitor hypertension|fndg
+2284,2296|C0020538|hypertension|dsyn
+2284,2296|C1963138|hypertension|fndg
+2298,2309|C0020621|hypokalemia|fndg
+2315,2330|C0268000|fluid retention|patf
+2362,2374|C0020538|hypertension|dsyn
+2362,2374|C1963138|hypertension|fndg
+2387,2398|C0020621|hypokalemia|fndg
+2450,2478|C0020595|Adrenocortical Insufficiency|dsyn
+2450,2478|C0405580|Adrenocortical Insufficiency|dsyn
+2482,2503|C0405580|Adrenal insufficiency|dsyn
+2482,2503|C0001623|Adrenal insufficiency|dsyn
+2524,2534|C3815594|randomized|fndg
+2626,2654|C0020595|Adrenocortical insufficiency|dsyn
+2626,2654|C0405580|Adrenocortical insufficiency|dsyn
+2700,2711|C3811910|combination|fndg
+2793,2802|C0009450|infection|dsyn
+2793,2802|C3714514|infection|patf
+2842,2850|C1457887|symptoms|sosy
+2855,2860|C0311392|signs|fndg
+2864,2892|C0020595|adrenocortical insufficiency|dsyn
+2864,2892|C0405580|adrenocortical insufficiency|dsyn
+2923,2932|C2825032|withdrawn|mobd
+2923,2932|C0424092|withdrawn|fndg
+3013,3021|C1457887|Symptoms|sosy
+3026,3031|C0311392|signs|fndg
+3035,3063|C0020595|adrenocortical insufficiency|dsyn
+3035,3063|C0405580|adrenocortical insufficiency|dsyn
+3115,3139|C0020428|mineralocorticoid excess|dsyn
+3192,3201|C1444656|indicated|fndg
+3257,3285|C0020595|adrenocortical insufficiency|dsyn
+3257,3285|C0405580|adrenocortical insufficiency|dsyn
+3330,3339|C1444656|indicated|fndg
+3436,3450|C0235378|Hepatotoxicity|inpo
+3493,3500|C3889290|grade 3|fndg
+3506,3509|C1266129|ALT|neop
+3684,3687|C1266129|ALT|neop
+3812,3827|C1444662|discontinuation|fndg
+3903,3909|C1306577|deaths|fndg
+3918,3925|C0445223|related|fndg
+4013,4016|C1266129|ALT|neop
+4203,4221|C0948807|hepatic impairment|dsyn
+4234,4241;4261,4263|C0240291|reduced mg|fndg
+4273,4276|C1266129|ALT|neop
+4493,4496|C1266129|ALT|neop
+4509,4517|C1457887|symptoms|sosy
+4521,4526|C0311392|signs|fndg
+4541,4555|C0235378|hepatotoxicity|inpo
+4584,4587|C1266129|ALT|neop
+4692,4695|C1266129|ALT|neop
+4990,4993|C1266129|ALT|neop
+5186,5189|C1266129|ALT|neop

@@ -1,0 +1,70 @@
+54,69|C0038000|Splenic Rupture|inpo
+71,82|C1444662|Discontinue|fndg
+120,155|C0035222|Acute Respiratory Distress Syndrome|dsyn
+200,211|C1444662|Discontinue|fndg
+249,267|C0020517|Allergic reactions|patf
+249,267|C1527304|Allergic reactions|patf
+269,288|C0002994|angioneurotic edema|patf
+290,309|C0011615|dermatitis allergic|dsyn
+311,332|C0013182|drug hypersensitivity|dsyn
+334,350|C0020517|hypersensitivity|patf
+334,350|C0520946|hypersensitivity|fndg
+352,356|C0015230|rash|sosy
+358,371|C0033771|pruritic rash|dsyn
+376,385|C0042109|urticaria|dsyn
+376,385|C2186740|urticaria|fndg
+404,422|C0238425|Sickle cell crisis|dsyn
+404,422|C0750151|Sickle cell crisis|dsyn
+445,450|C1705232|fatal|fndg
+451,457|C0231224|crisis|fndg
+469,480|C1444662|Discontinue|fndg
+518,541|C0343084|Capillary Leak Syndrome|dsyn
+554,562|C1457887|symptoms|sosy
+639,654|C0038000|Splenic Rupture|inpo
+687,692|C1705232|fatal|fndg
+826,839|C0037011|shoulder pain|sosy
+826,839|C0423670|shoulder pain|sosy
+864,875|C1444662|discontinue|fndg
+903,918|C0038002|enlarged spleen|fndg
+950,985|C0035222|Acute Respiratory Distress Syndrome|dsyn
+987,991|C0035222|ARDS|dsyn
+998,1033|C0035222|Acute respiratory distress syndrome|dsyn
+1035,1039|C0035222|ARDS|dsyn
+1149,1154|C0015967|fever|fndg
+1149,1154|C0424755|fever|fndg
+1159,1175|C0235896|lung infiltrates|fndg
+1179,1199|C0476273|respiratory distress|sosy
+1228,1232|C0035222|ARDS|dsyn
+1234,1245|C1444662|Discontinue|fndg
+1270,1274|C0035222|ARDS|dsyn
+1287,1305|C0020517|Allergic Reactions|patf
+1287,1305|C1527304|Allergic Reactions|patf
+1348,1359|C0002792|anaphylaxis|patf
+1348,1359|C0850803|anaphylaxis|dsyn
+1617,1628|C1444662|discontinue|fndg
+1661,1679|C0020517|allergic reactions|patf
+1661,1679|C1527304|allergic reactions|patf
+1725,1735;1744,1762|C2106654|history of allergic reactions|sosy
+1827,1846|C0002895|Sickle Cell Disease|dsyn
+1873,1878|C1705232|fatal|fndg
+1879,1897|C0238425|sickle cell crises|dsyn
+1879,1897|C0750151|sickle cell crises|dsyn
+1925,1944|C0002895|sickle cell disease|dsyn
+2136,2155|C0002895|sickle cell disease|dsyn
+2157,2168|C1444662|Discontinue|fndg
+2201,2219|C0238425|sickle cell crisis|dsyn
+2201,2219|C0750151|sickle cell crisis|dsyn
+2232,2255|C0343084|Capillary Leak Syndrome|dsyn
+2392,2403|C0020649|hypotension|fndg
+2392,2403|C3163620|hypotension|fndg
+2405,2420|C0239981|hypoalbuminemia|dsyn
+2422,2427|C0013604|edema|fndg
+2432,2449|C0854379|hemoconcentration|fndg
+2432,2449|C0549409|hemoconcentration|fndg
+2562,2570|C1457887|symptoms|sosy
+2574,2597|C0343084|capillary leak syndrome|dsyn
+2740,2752|C0598934|Tumor Growth|neop
+3000,3020|C2939461|myeloid malignancies|neop
+3025,3039|C3463824|myelodysplasia|neop
+3025,3039|C0026985|myelodysplasia|cgab
+3041,3049|C0012634|diseases|dsyn

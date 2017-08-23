@@ -1,0 +1,19 @@
+119,151|FN|Acute hypersensitivity reactions|C0020517
+153,163|TP|angioedema|C0002994|10002424|153,163|angioedema|C0002994|10002424|patf
+165,172|TP|dyspnea|C0013404|10013968|165,172|dyspnea|C0013404|10013968|sosy
+174,182|TP|pruritus|C0033774|10037087|174,182|pruritus|C0033774|10037087|sosy
+188,192|TP|rash|C0015230|10037844|188,192|rash|C0015230|10037844|sosy
+346,355|FP|infection|C3714514|10021789|patf
+608,634|FP|Hypersensitivity Reactions|C0020517|10020751|patf
+640,672|FN|Acute hypersensitivity reactions|C0020517
+684,691|TP|dyspnea|C0013404|10013968|684,691|dyspnea|C0013404|10013968|sosy
+693,697|TP|rash|C0015230|10037844|693,697|rash|C0015230|10037844|sosy
+698,706|TP|pruritus|C0033774|10037087|698,706|pruritus|C0033774|10037087|sosy
+712,729;749,753|FN|angioedema of the face|C0743747
+712,729;737,743|FN|angioedema of the throat|C0002994,C0236024
+712,735|FN|angioedema of the mouth|C0002994,C0236065
+712,722|FP|angioedema|C0002994|10002424|patf
+796,828|FP|severe hypersensitivity reaction|C2220378|10020751|fndg
+943,969|TP|hypersensitivity reactions|C0020517|10020751|943,969|hypersensitivity reactions|C0020517|10020751|patf
+1082,1099|FP|macrolide allergy|C0571383|10013700|inpo
+1138,1164|FP|hypersensitivity reactions|C0020517|10020751|patf

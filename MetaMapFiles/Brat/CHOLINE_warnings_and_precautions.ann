@@ -1,0 +1,42 @@
+T1	AdverseReaction 1964 1982	allergic reactions
+T2	AdverseReaction 1987 1998	anaphylaxis
+T3	Factor 1999 2002	may
+T4	AdverseReaction 2318 2324	cancer
+T5	Factor 2309 2313	risk
+T6	AdverseReaction 193 211	Allergic reactions
+T7	AdverseReaction 300 314	Radiation risk
+E1	AdverseReaction:T1 Hypothetical:E3
+E2	AdverseReaction:T2 Hypothetical:E3
+E3	Factor:T3
+E4	AdverseReaction:T4 Hypothetical:E5
+E5	Factor:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+A1	CUI E1 C1527304
+A2	UMLS-Preferred-Name E1 Allergic Reaction
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	LLT E1 Allergic reaction
+A6	LLT-ID E1 10001718
+A7	CUI E2 C0002792
+A8	UMLS-Preferred-Name E2 anaphylaxis
+A9	MEDDRA-PT E2 Anaphylactic reaction
+A10	MEDDRA-PT-ID E2 10002198
+A11	LLT E2 Anaphylaxis
+A12	LLT-ID E2 10002218
+A13	CUI E4 C0006826
+A14	UMLS-Preferred-Name E4 Malignant Neoplasms
+A15	MEDDRA-PT E4 Neoplasm malignant
+A16	MEDDRA-PT-ID E4 10028997
+A17	LLT E4 Cancer
+A18	LLT-ID E4 10007050
+A19	CUI E6 C1527304
+A20	UMLS-Preferred-Name E6 Allergic Reaction
+A21	MEDDRA-PT E6 Hypersensitivity
+A22	MEDDRA-PT-ID E6 10020751
+A23	LLT E6 Allergic reaction
+A24	LLT-ID E6 10001718
+A25	CUI E7 C4032503
+A26	UMLS-Preferred-Name E7 Risk For Radiation Exposure
+A27	MEDDRA-PT E7 Exposure to radiation
+A28	MEDDRA-PT-ID E7 10073306

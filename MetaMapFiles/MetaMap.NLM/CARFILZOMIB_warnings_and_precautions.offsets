@@ -1,0 +1,247 @@
+54,72|C0876994|Cardiac toxicities|inpo
+81,96|C0018801|cardiac failure|dsyn
+81,96|C0018802|cardiac failure|dsyn
+101,122|C0027051|myocardial infarction|dsyn
+128,141|C0206277|fatal outcome|patf
+147,166|C0010054|myocardial ischemia|dsyn
+147,166|C0151744|myocardial ischemia|dsyn
+226,245|C0022660|Acute Renal Failure|dsyn
+226,245|C3854173|Acute Renal Failure|dsyn
+255,271|C0600061|serum creatinine|fndg
+299,319|C0041364|Tumor Lysis Syndrome|dsyn
+299,319|C1963254|Tumor Lysis Syndrome|fndg
+352,361|C1321013|hydration|fndg
+385,388|C0041364|TLS|dsyn
+385,388|C1963254|TLS|fndg
+454,472|C0919924|Pulmonary Toxicity|patf
+484,519|C0035222|Acute Respiratory Distress Syndrome|dsyn
+521,546|C0264490|acute respiratory failure|dsyn
+579,596|C0024115|pulmonary disease|dsyn
+579,596|C0455540|pulmonary disease|fndg
+655,677|C0020542|Pulmonary Hypertension|patf
+655,677|C1963220|Pulmonary Hypertension|fndg
+727,734|C0013404|Dyspnea|sosy
+750,774|C1557665|life threatening dyspnea|fndg
+825,837|C0020538|Hypertension|dsyn
+825,837|C1963138|Hypertension|fndg
+848,867|C0020546|hypertensive crisis|patf
+906,918|C0020538|hypertension|dsyn
+906,918|C1963138|hypertension|fndg
+940,950|C2911690|controlled|fndg
+998,1005|C1363945|therapy|fndg
+1034,1051|C0042487|Venous Thrombosis|patf
+1034,1051|C0517555|Venous Thrombosis|fndg
+1105,1123|C2368034|Infusion Reactions|patf
+1183,1199|C0040034|Thrombocytopenia|fndg
+1276,1285|C1444656|indicated|fndg
+1313,1329|C0348754|Hepatic Toxicity|dsyn
+1334,1349|C0085605|Hepatic Failure|dsyn
+1424,1459|C0034155|Thrombotic thrombocytopenic purpura|dsyn
+1460,1485|C0019061|hemolytic uremic syndrome|dsyn
+1509,1514|C0311392|signs|fndg
+1519,1527|C1457887|symptoms|sosy
+1531,1538|C0034155|TTP/HUS|dsyn
+1531,1538|C0019061|TTP/HUS|dsyn
+1540,1551|C1444662|Discontinue|fndg
+1593,1637|C3160858|Posterior reversible encephalopathy syndrome|dsyn
+1711,1732|C0235031|neurological symptoms|sosy
+1734,1745|C1444662|discontinue|fndg
+1800,1808|C0600688|Toxicity|inpo
+1897,1905|C0600457|pregnant|fndg
+1897,1905|C0549206|pregnant|fndg
+1963,1981|C0876994|Cardiac Toxicities|inpo
+1990,1999|C0746890|New onset|fndg
+2003,2012|C1457868|worsening|fndg
+2029,2044|C0018801|cardiac failure|dsyn
+2029,2044|C0018802|cardiac failure|dsyn
+2052,2076|C0018802|congestive heart failure|dsyn
+2078,2093|C0034063|pulmonary edema|dsyn
+2095,2122|C0743400|decreased ejection fraction|fndg
+2125,2151|C0007196|restrictive cardiomyopathy|dsyn
+2125,2151|C1963079|restrictive cardiomyopathy|fndg
+2153,2172|C0010054|myocardial ischemia|dsyn
+2153,2172|C0151744|myocardial ischemia|dsyn
+2178,2199|C0027051|myocardial infarction|dsyn
+2394,2399;2407,2421|C3841929|Death cardiac arrest|fndg
+2505,2512|C3889290|Grade 3|fndg
+2716,2734|C4032685|adequate hydration|fndg
+2832,2847|C0546817|volume overload|dsyn
+2881,2896|C0018801|cardiac failure|dsyn
+2881,2896|C0018802|cardiac failure|dsyn
+2976,2991|C0018801|cardiac failure|dsyn
+2976,2991|C0018802|cardiac failure|dsyn
+3015,3030|C0018801|cardiac failure|dsyn
+3015,3030|C0018802|cardiac failure|dsyn
+3097,3105|C3840862|75 years|fndg
+3126,3141|C0018801|cardiac failure|dsyn
+3126,3141|C0018802|cardiac failure|dsyn
+3170,3206|C1882086|New York Heart Association Class III|fndg
+3214,3227|C0018801|heart failure|dsyn
+3214,3227|C0018802|heart failure|dsyn
+3229,3257|C1998297|recent myocardial infarction|fndg
+3263,3287|C0232219|conduction abnormalities|patf
+3321,3333|C1555471|not eligible|fndg
+3401,3422|C0161816|cardiac complications|patf
+3483,3502|C0022660|Acute Renal Failure|dsyn
+3483,3502|C3854173|Acute Renal Failure|dsyn
+3586,3605|C0035078|Renal insufficiency|dsyn
+3586,3605|C1565489|Renal insufficiency|dsyn
+3622,3638|C1565489|renal impairment|dsyn
+3640,3659|C0022660|acute renal failure|dsyn
+3640,3659|C3854173|acute renal failure|dsyn
+3661,3674|C0035078|renal failure|dsyn
+3661,3674|C1963154|renal failure|patf
+3762,3781|C0022660|Acute renal failure|dsyn
+3762,3781|C3854173|Acute renal failure|dsyn
+3850,3877|C0278620|refractory multiple myeloma|neop
+3981,4001|C0812399|creatinine clearance|fndg
+4106,4122|C0600061|serum creatinine|fndg
+4140,4160|C0812399|creatinine clearance|fndg
+4259,4279|C0041364|Tumor Lysis Syndrome|dsyn
+4259,4279|C1963254|Tumor Lysis Syndrome|fndg
+4319,4322|C0041364|TLS|dsyn
+4319,4322|C1963254|TLS|fndg
+4335,4349|C0206277|fatal outcomes|patf
+4419,4435|C0026764|multiple myeloma|neop
+4507,4510|C0041364|TLS|dsyn
+4507,4510|C1963254|TLS|fndg
+4734,4737|C0041364|TLS|dsyn
+4734,4737|C1963254|TLS|fndg
+4763,4766|C0041364|TLS|dsyn
+4763,4766|C1963254|TLS|fndg
+4845,4848|C0041364|TLS|dsyn
+4845,4848|C1963254|TLS|fndg
+4852,4860|C3714811|resolved|fndg
+4852,4860|C1514893|resolved|patf
+4919,4937|C0919924|Pulmonary Toxicity|patf
+4946,4981|C0035222|Acute Respiratory Distress Syndrome|dsyn
+4990,5015|C0264490|acute respiratory failure|dsyn
+5021,5026;5074,5085|C2215251|acute pneumonitis|dsyn
+5048,5065|C0024115|pulmonary disease|dsyn
+5048,5065|C0455540|pulmonary disease|fndg
+5074,5085|C0032285|pneumonitis|dsyn
+5074,5085|C3714636|pneumonitis|dsyn
+5090,5115|C0206062|interstitial lung disease|dsyn
+5200,5205|C1705232|fatal|fndg
+5236,5254|C0919924|pulmonary toxicity|patf
+5256,5267|C1444662|discontinue|fndg
+5345,5357|C0020538|Hypertension|dsyn
+5345,5357|C1963138|Hypertension|fndg
+5479,5486|C3889290|Grade 3|fndg
+5579,5588|C1444656|indicated|fndg
+5612,5634|C0020542|pulmonary hypertension|patf
+5612,5634|C1963220|pulmonary hypertension|fndg
+5641,5649|C3714811|resolved|fndg
+5641,5649|C1514893|resolved|patf
+5808,5815|C0013404|Dyspnea|sosy
+5894,5901|C3889290|Grade 3|fndg
+5941,5948|C0013404|dyspnea|sosy
+5960,5986|C0034072|cardiopulmonary conditions|dsyn
+6056,6063|C3889290|Grade 3|fndg
+6069,6076|C0013404|dyspnea|sosy
+6083,6091|C3714811|resolved|fndg
+6083,6091|C1514893|resolved|patf
+6259,6277|C0876994|Cardiac Toxicities|inpo
+6289,6307|C0919924|Pulmonary Toxicity|patf
+6379,6391|C0020538|Hypertension|dsyn
+6379,6391|C1963138|Hypertension|fndg
+6424,6443|C0020546|hypertensive crisis|patf
+6448,6470|C0745136|hypertensive emergency|dsyn
+6536,6541|C1705232|fatal|fndg
+6596,6608|C0020538|hypertension|dsyn
+6596,6608|C1963138|hypertension|fndg
+6804,6810;6837,6858|C1861172|Venous thromboembolic events|patf
+6804,6810;6837,6858|C3160733|Venous thromboembolic events|fndg
+6804,6810;6837,6858|C1997614|Venous thromboembolic events|patf
+6811,6821|C0040053|Thrombosis|patf
+6811,6821|C2586211|Thrombosis|patf
+6870,6892|C0149871|deep venous thrombosis|dsyn
+6897,6915|C0034065|pulmonary embolism|dsyn
+6958,6969|C3811910|combination|fndg
+6994,7022|C1861172|venous thromboembolic events|patf
+6994,7022|C3160733|venous thromboembolic events|fndg
+6994,7022|C1997614|venous thromboembolic events|patf
+7070,7081|C3811910|combination|fndg
+7160,7188|C1861172|venous thromboembolic events|patf
+7160,7188|C3160733|venous thromboembolic events|fndg
+7160,7188|C1997614|venous thromboembolic events|patf
+7357,7375|C2368034|Infusion Reactions|patf
+7488,7496|C1457887|Symptoms|sosy
+7505,7510|C0015967|fever|fndg
+7505,7510|C0424755|fever|fndg
+7512,7518|C0085593|chills|sosy
+7520,7530|C0003862|arthralgia|sosy
+7532,7539|C0231528|myalgia|sosy
+7541,7556|C0016382|facial flushing|sosy
+7558,7570|C0542571|facial edema|patf
+7558,7570|C0151602|facial edema|fndg
+7572,7580|C0042963|vomiting|sosy
+7572,7580|C1963281|vomiting|patf
+7582,7590|C3714552|weakness|sosy
+7592,7611|C0013404|shortness of breath|sosy
+7613,7624|C0020649|hypotension|fndg
+7613,7624|C3163620|hypotension|fndg
+7626,7633|C0039070|syncope|sosy
+7635,7650|C0232292|chest tightness|sosy
+7655,7661|C0002962|angina|fndg
+7846,7864|C2368034|infusion reactions|patf
+7944,7952|C1457887|symptoms|sosy
+7995,8003|C1457887|symptoms|sosy
+8010,8027|C2368034|infusion reaction|patf
+8048,8058|C0740209|Counseling|fndg
+8099,8115|C0040034|Thrombocytopenia|fndg
+8140,8156|C0040034|thrombocytopenia|fndg
+8349,8365|C0040034|Thrombocytopenia|fndg
+8611,8627|C0348754|Hepatic Toxicity|dsyn
+8632,8647|C0085605|Hepatic Failure|dsyn
+8692,8697|C1705232|fatal|fndg
+8782,8811|C0859350|increased serum transaminases|fndg
+8974,9009|C0034155|Thrombotic Thrombocytopenic Purpura|dsyn
+9010,9035|C0019061|Hemolytic Uremic Syndrome|dsyn
+9116,9123|C0034155|TTP/HUS|dsyn
+9116,9123|C0019061|TTP/HUS|dsyn
+9135,9148|C0206277|fatal outcome|patf
+9215,9220|C0311392|signs|fndg
+9225,9233|C1457887|symptoms|sosy
+9237,9244|C0034155|TTP/HUS|dsyn
+9237,9244|C0019061|TTP/HUS|dsyn
+9312,9321;9325,9332|C0034155|diagnosis TTP/HUS|dsyn
+9312,9321;9325,9332|C0019061|diagnosis TTP/HUS|dsyn
+9325,9332|C0034155|TTP/HUS|dsyn
+9325,9332|C0019061|TTP/HUS|dsyn
+9409,9416|C1363945|therapy|fndg
+9453,9460|C0034155|TTP/HUS|dsyn
+9453,9460|C0019061|TTP/HUS|dsyn
+9490,9534|C3160858|Posterior Reversible Encephalopathy Syndrome|dsyn
+9536,9540|C3160858|PRES|dsyn
+9559,9563|C3160858|PRES|dsyn
+9615,9659|C3160858|Posterior reversible encephalopathy syndrome|dsyn
+9661,9665|C3160858|PRES|dsyn
+9684,9733|C3160858|Reversible Posterior Leukoencephalopathy Syndrome|dsyn
+9747,9768|C0027765|neurological disorder|dsyn
+9792,9799|C0036572|seizure|sosy
+9792,9799|C1959629|seizure|fndg
+9801,9809|C0018681|headache|sosy
+9801,9809|C2096315|headache|fndg
+9811,9819|C0023380|lethargy|sosy
+9821,9830|C0009676|confusion|mobd
+9821,9830|C0683369|confusion|sosy
+9821,9830|C1963086|confusion|fndg
+9832,9841|C0456909|blindness|fndg
+9843,9864|C0234428|altered consciousness|sosy
+9925,9937|C0020538|hypertension|dsyn
+9925,9937|C1963138|hypertension|fndg
+10007,10018|C1444662|Discontinue|fndg
+10031,10035|C3160858|PRES|dsyn
+10099,10106|C1363945|therapy|fndg
+10143,10147|C3160858|PRES|dsyn
+10190,10198|C0600688|Toxicity|inpo
+10449,10457|C0600688|toxicity|inpo
+10461,10469|C0600457|pregnant|fndg
+10461,10469|C0549206|pregnant|fndg
+10629,10637|C0600457|pregnant|fndg
+10629,10637|C0549206|pregnant|fndg
+10689,10693|C1273517|used|fndg
+10701,10710|C0425965|pregnancy|fndg
+10738,10746|C0600457|pregnant|fndg
+10738,10746|C0549206|pregnant|fndg

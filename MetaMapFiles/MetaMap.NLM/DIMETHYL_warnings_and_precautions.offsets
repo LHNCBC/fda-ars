@@ -1,0 +1,115 @@
+52,63|C0002792|Anaphylaxis|patf
+52,63|C0850803|Anaphylaxis|dsyn
+68,78|C0002994|angioedema|patf
+80,91|C1444662|Discontinue|fndg
+152,194|C0023524|Progressive multifocal leukoencephalopathy|dsyn
+242,249|C1457887|symptom|sosy
+264,267|C0023524|PML|dsyn
+284,295|C0024312|Lymphopenia|dsyn
+284,295|C0853986|Lymphopenia|fndg
+284,295|C1963164|Lymphopenia|fndg
+555,566|C0002792|Anaphylaxis|patf
+555,566|C0850803|Anaphylaxis|dsyn
+571,581|C0002994|Angioedema|patf
+610,621|C0002792|anaphylaxis|patf
+610,621|C0850803|anaphylaxis|dsyn
+626,636|C0002994|angioedema|patf
+691,696|C0311392|Signs|fndg
+701,709|C1457887|symptoms|sosy
+724,744|C0013404|difficulty breathing|sosy
+746,755|C0042109|urticaria|dsyn
+746,755|C2186740|urticaria|fndg
+761,772;777,783|C0559687|swelling of throat|sosy
+761,772;777,783|C1704205|swelling of throat|sosy
+788,794|C2137027|tongue|fndg
+829,840|C1444662|discontinue|fndg
+870,882|C0496675|medical care|fndg
+906,911|C0311392|signs|fndg
+916,924|C1457887|symptoms|sosy
+928,939|C0002792|anaphylaxis|patf
+928,939|C0850803|anaphylaxis|dsyn
+943,953|C0002994|angioedema|patf
+969,1011|C0023524|Progressive Multifocal Leukoencephalopathy|dsyn
+1022,1027|C1705232|fatal|fndg
+1036,1078|C0023524|progressive multifocal leukoencephalopathy|dsyn
+1080,1083|C0023524|PML|dsyn
+1186,1189|C0023524|PML|dsyn
+1210,1225|C0042769|viral infection|dsyn
+1216,1225;1233,1238|C1264609|infection brain|dsyn
+1315,1332|C0085393|immunocompromised|fndg
+1360,1365|C1306577|death|fndg
+1376,1386|C0231170|disability|fndg
+1449,1460|C0024312|lymphopenia|dsyn
+1449,1460|C0853986|lymphopenia|fndg
+1449,1460|C1963164|lymphopenia|fndg
+1603,1614|C0024312|lymphopenia|dsyn
+1603,1614|C0853986|lymphopenia|fndg
+1603,1614|C1963164|lymphopenia|fndg
+1665,1675|C1550043|identified|fndg
+1729,1742|C1291764|immune system|fndg
+1972,1979|C1457887|symptom|sosy
+1994,1997|C0023524|PML|dsyn
+2076,2084|C1457887|symptoms|sosy
+2101,2104|C0023524|PML|dsyn
+2171,2179;2183,2191;2199,2203|C0018989|weakness one side body|sosy
+2228,2239;2243,2249|C3665347|disturbance vision|fndg
+2266,2274|C0233629|thinking|mobd
+2276,2282|C0700327|memory|fndg
+2311,2320|C0009676|confusion|mobd
+2311,2320|C0683369|confusion|sosy
+2311,2320|C1963086|confusion|fndg
+2325,2344|C0240735|personality changes|sosy
+2357,2368|C0024312|Lymphopenia|dsyn
+2357,2368|C0853986|Lymphopenia|fndg
+2357,2368|C1963164|Lymphopenia|fndg
+2857,2867|C3714514|infections|patf
+2893,2903|C3714514|infections|patf
+3194,3197|C0023524|PML|dsyn
+3226,3237|C0024312|lymphopenia|dsyn
+3226,3237|C0853986|lymphopenia|fndg
+3226,3237|C1963164|lymphopenia|fndg
+3348,3358|C2911690|controlled|fndg
+3572,3579|C1363945|therapy|fndg
+3906,3915|C1444656|indicated|fndg
+4100,4115|C1444662|discontinuation|fndg
+4173,4184|C0024312|lymphopenia|dsyn
+4173,4184|C0853986|lymphopenia|fndg
+4173,4184|C1963164|lymphopenia|fndg
+4188,4196|C3714811|resolved|fndg
+4188,4196|C1514893|resolved|patf
+4266,4276|C3714514|infections|patf
+4303,4311|C3714811|resolved|fndg
+4303,4311|C1514893|resolved|patf
+4434,4442|C0016382|Flushing|sosy
+4434,4442|C1962957|Flushing|fndg
+4471,4479|C0016382|flushing|sosy
+4471,4479|C1962957|flushing|fndg
+4487,4493|C0518610|warmth|fndg
+4495,4502|C0041834|redness|dsyn
+4495,4502|C0332575|redness|fndg
+4504,4511|C0033774|itching|sosy
+4520,4537|C0085624|burning sensation|sosy
+4520,4537|C0241057|burning sensation|sosy
+4606,4614|C0016382|flushing|sosy
+4606,4614|C1962957|flushing|fndg
+4616,4624|C0016382|Flushing|sosy
+4616,4624|C1962957|Flushing|fndg
+4625,4633|C1457887|symptoms|sosy
+4706,4714|C3714811|resolved|fndg
+4706,4714|C1514893|resolved|patf
+4770,4778|C0016382|flushing|sosy
+4770,4778|C1962957|flushing|fndg
+4848,4860|C1444662|discontinued|fndg
+4875,4883|C0016382|flushing|sosy
+4875,4883|C0016382|flushing|sosy
+4875,4883|C1962957|flushing|fndg
+4875,4883|C1962957|flushing|fndg
+4904,4912|C0016382|flushing|sosy
+4904,4912|C0016382|flushing|sosy
+4904,4912|C1962957|flushing|fndg
+4904,4912|C1962957|flushing|fndg
+4913,4921|C1457887|symptoms|sosy
+5047,5055|C0016382|flushing|sosy
+5047,5055|C1962957|flushing|fndg
+5219,5227|C0016382|flushing|sosy
+5219,5227|C1962957|flushing|fndg

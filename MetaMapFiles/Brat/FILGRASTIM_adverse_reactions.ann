@@ -1,0 +1,128 @@
+T1	AdverseReaction 149 164	Splenic Rupture
+T2	AdverseReaction 214 249	Acute Respiratory Distress Syndrome
+T3	AdverseReaction 307 325	Allergic Reactions
+T4	Severity 299 306	Serious
+T5	AdverseReaction 465 488	Capillary Leak Syndrome
+T7	AdverseReaction 556 607	Tumor Growth Stimulatory Effects on Malignant Cells
+T8	AdverseReaction 894 903	bone pain
+T9	AdverseReaction 971 980	bone pain
+T10	AdverseReaction 2448 2457	Bone pain
+T11	AdverseReaction 2711 2720	bone pain
+T12	AdverseReaction 2870 2882	leukocytosis
+T13	AdverseReaction 2884 2916	WBC counts > 100,000 x 10  6  /L
+T17	AdverseReaction 3242 3249	myalgia
+T18	DrugClass 3189 3233	human granulocyte colony-stimulating factors
+T19	AdverseReaction 3251 3259	headache
+T20	AdverseReaction 3261 3269	vomiting
+T21	AdverseReaction 3271 3287	Sweet's syndrome
+T22	AdverseReaction 3289 3326	acute febrile neutrophilic dermatosis
+T23	AdverseReaction 3329 3349	cutaneous vasculitis
+T24	AdverseReaction 3354 3370	thrombocytopenia
+T25	Factor 542 551	Potential
+T6	AdverseReaction 3037 3049	leukocytosis
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3 Effect:E4
+E4	Severity:T4
+E5	AdverseReaction:T5
+E7	AdverseReaction:T7 Hypothetical:E25
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E17	AdverseReaction:T17 Hypothetical:E18
+E18	DrugClass:T18
+E19	AdverseReaction:T19 Hypothetical:E18
+E20	AdverseReaction:T20 Hypothetical:E18
+E21	AdverseReaction:T21 Hypothetical:E18
+E22	AdverseReaction:T22 Hypothetical:E18
+E23	AdverseReaction:T23 Hypothetical:E18
+E24	AdverseReaction:T24 Hypothetical:E18
+E25	Factor:T25
+E6	AdverseReaction:T6
+A1	CUI E1 C0038000
+A2	UMLS-Preferred-Name E1 Splenic Rupture
+A3	MEDDRA-PT E1 Splenic rupture
+A4	MEDDRA-PT-ID E1 10041658
+A5	CUI E2 C0035222
+A6	UMLS-Preferred-Name E2 Respiratory Distress Syndrome, Adult
+A7	MEDDRA-PT E2 Acute respiratory distress syndrome
+A8	MEDDRA-PT-ID E2 10001052
+A9	CUI E3 C1527304
+A10	UMLS-Preferred-Name E3 Allergic Reaction
+A11	MEDDRA-PT E3 Hypersensitivity
+A12	MEDDRA-PT-ID E3 10020751
+A13	LLT E3 Allergic reaction
+A14	LLT-ID E3 10001718
+A15	CUI E5 C0343084
+A16	UMLS-Preferred-Name E5 Capillary Leak Syndrome
+A17	MEDDRA-PT E5 Capillary leak syndrome
+A18	MEDDRA-PT-ID E5 10007196
+A19	CUI E7 C1699554
+A20	UMLS-Preferred-Name E7 Malignant neoplasm growth accelerated
+A21	MEDDRA-PT E7 Neoplasm malignant
+A22	MEDDRA-PT-ID E7 10028997
+A23	LLT E7 Malignant neoplasm growth accelerated
+A24	LLT-ID E7 10065302
+A25	CUI E8 C0151825
+A26	UMLS-Preferred-Name E8 Bone pain
+A27	MEDDRA-PT E8 Bone pain
+A28	MEDDRA-PT-ID E8 10006002
+A29	CUI E9 C0151825
+A30	UMLS-Preferred-Name E9 Bone pain
+A31	MEDDRA-PT E9 Bone pain
+A32	MEDDRA-PT-ID E9 10006002
+A33	CUI E10 C0151825
+A34	UMLS-Preferred-Name E10 Bone pain
+A35	MEDDRA-PT E10 Bone pain
+A36	MEDDRA-PT-ID E10 10006002
+A37	CUI E11 C0151825
+A38	UMLS-Preferred-Name E11 Bone pain
+A39	MEDDRA-PT E11 Bone pain
+A40	MEDDRA-PT-ID E11 10006002
+A41	CUI E12 C0023518
+A42	UMLS-Preferred-Name E12 Leukocytosis
+A43	MEDDRA-PT E12 Leukocytosis
+A44	MEDDRA-PT-ID E12 10024378
+A45	CUI E13 C0750426
+A46	UMLS-Preferred-Name E13 White blood cell count increased (lab result)
+A47	MEDDRA-PT E13 White blood cell count increased
+A48	MEDDRA-PT-ID E13 10047943
+A49	LLT E13 WBC increased
+A50	LLT-ID E13 10056739
+A51	CUI E17 C0231528
+A52	UMLS-Preferred-Name E17 Myalgia
+A53	MEDDRA-PT E17 Myalgia
+A54	MEDDRA-PT-ID E17 10028411
+A55	CUI E19 C0018681
+A56	UMLS-Preferred-Name E19 Headache
+A57	MEDDRA-PT E19 Headache
+A58	MEDDRA-PT-ID E19 10019211
+A59	CUI E20 C0042963
+A60	UMLS-Preferred-Name E20 Vomiting
+A61	MEDDRA-PT E20 Vomiting
+A62	MEDDRA-PT-ID E20 10047700
+A63	CUI E21 C0085077
+A64	UMLS-Preferred-Name E21 Sweet Syndrome
+A65	MEDDRA-PT E21 Acute febrile neutrophilic dermatosis
+A66	MEDDRA-PT-ID E21 10000748
+A67	LLT E21 Sweet's syndrome
+A68	LLT-ID E21 10042673
+A69	CUI E22 C0085077
+A70	UMLS-Preferred-Name E22 Sweet Syndrome
+A71	MEDDRA-PT E22 Acute febrile neutrophilic dermatosis
+A72	MEDDRA-PT-ID E22 10000748
+A73	CUI E23 C0262988
+A74	UMLS-Preferred-Name E23 Vasculitis of the skin
+A75	MEDDRA-PT E23 Cutaneous vasculitis
+A76	MEDDRA-PT-ID E23 10011686
+A77	CUI E24 C0040034
+A78	UMLS-Preferred-Name E24 Thrombocytopenia
+A79	MEDDRA-PT E24 Thrombocytopenia
+A80	MEDDRA-PT-ID E24 10043554
+A81	CUI E6 C0023518
+A82	UMLS-Preferred-Name E6 Leukocytosis
+A83	MEDDRA-PT E6 Leukocytosis
+A84	MEDDRA-PT-ID E6 10024378

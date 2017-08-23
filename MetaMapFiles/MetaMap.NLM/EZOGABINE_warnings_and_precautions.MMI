@@ -1,0 +1,128 @@
+00000000|AA|FA|fluorescein angiograms|1|2|3|22|3681:2
+00000000|AA|OCT|optical coherence tomography|1|3|5|28|3716:3
+00000000|AA|ERG|electroretinograms|1|3|1|18|3757:3
+00000000|AA|BPH|benign prostatic hyperplasia|1|3|5|28|5476:3
+00000000|AA|AEDs|Antiepileptic drugs|1|4|3|19|10075:4
+00000000|AA|CI|confidence interval|1|2|3|19|10648:2
+00000000|MMI|388.32|Feeling suicidal (finding)|C0424000|[fndg]|["Suicidal thoughts"-tx-83-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-82-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-81-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-79-"Suicidal Thoughts"-noun-0,"Suicidal thoughts"-tx-79-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-74-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-73-"suicidal thoughts"-noun-1,"Suicidal thoughts"-tx-72-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-68-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-67-"suicidal thoughts"-noun-0,"Suicidal thoughts"-tx-7-"suicidal thoughts"-noun-0]|TX|[13792/17],[14002/17];13502/17;13463/17;12086/17;12952/17;11626/17;11541/17;11291/17;10317/17;10121/17;674/17|F01.145.126.980.875.149;I01.880.735.856.149
+00000000|MMI|150.66|Urinary Retention|C0080274|[fndg]|["URINARY RETENTION"-tx-38-"urinary retention"-noun-0,"URINARY RETENTION"-tx-37-"urinary retention"-noun-0,"URINARY RETENTION"-tx-36-"urinary retention"-noun-0,"URINARY RETENTION"-tx-30-"Urinary retention"-noun-0,"URINARY RETENTION"-tx-29-"Urinary retention"-noun-0,"URINARY RETENTION"-tx-28-"Urinary Retention"-noun-0,"URINARY RETENTION"-tx-28-"urinary retention"-noun-0,"URINARY RETENTION"-tx-1-"Urinary retention"-noun-0]|TX|5421/17;5265/17;5031/17;4188/17;4078/17;4003/17;4040/17;54/17|C12.777.934.880;C13.351.968.934.880
+00000000|MMI|121.14|Abnormality of the retina|C0035300|[fndg]|["RETINAL ABNORMALITIES"-tx-45-"retinal abnormalities"-noun-0,"RETINAL ABNORMALITIES"-tx-27-"retinal abnormalities"-noun-0,"RETINAL ABNORMALITIES"-tx-20-"retinal abnormalities"-noun-0,"RETINAL ABNORMALITIES"-tx-19-"retinal abnormalities"-noun-0,"RETINAL ABNORMALITIES"-tx-17-"retinal abnormalities"-noun-0,"RETINAL ABNORMALITIES"-tx-16-"retinal abnormalities"-noun-0,"RETINAL ABNORMALITIES"-tx-14-"retinal abnormalities"-noun-0,"RETINAL ABNORMALITIES"-tx-13-"retinal abnormalities"-noun-1,"RETINAL ABNORMALITIES"-tx-12-"retinal abnormalities"-noun-0,"RETINAL ABNORMALITIES"-tx-11-"retinal abnormalities"-noun-0,"RETINAL ABNORMALITIES"-tx-10-"retinal abnormalities"-noun-0,"Abnormality of the retina"-tx-8-"abnormalities of the retina"-noun-0,"RETINAL ABNORMALITIES"-tx-8-"Retinal Abnormalities"-noun-0]|TX|6505/7,6524/13;3766/7,3785/13;3024/21;2726/21;2349/21;2117/21;1819/7,1838/13;1722/21;1512/21;1407/7,1426/13;1043/21;802/27;732/21|
+00000000|MMI|120.50|Epilepsy|C0014544|[dsyn]|["EPILEPSY"-tx-81-"Epilepsy"-noun-0,"EPILEPSY"-tx-79-"Epilepsy"-noun-0,"EPILEPSY"-tx-79-"epilepsy"-noun-0,"EPILEPSY"-tx-59-"epilepsy"-noun-0,"EPILEPSY"-tx-49-"epilepsy"-noun-0,"EPILEPSY"-tx-36-"epilepsy"-noun-0,"EPILEPSY"-tx-30-"epilepsy"-noun-0]|TX|13319/8;12463/8;[13029/8],[13163/8];8875/8;7299/8;5013/8;4343/8|C10.228.140.490
+00000000|MMI|105.94|Drowsiness|C0013144|[fndg]|["Somnolence"-tx-63-"somnolence"-noun-0,"Somnolence"-tx-61-"somnolence"-noun-0,"Somnolence"-tx-60-"Somnolence"-noun-0,"Somnolence"-tx-58-"Somnolence"-noun-0,"Somnolence"-tx-58-"somnolence"-noun-0,"Somnolence"-tx-5-"somnolence"-noun-0]|TX|9447/10;9269/10;8988/10;8715/10;8785/10;456/10|F02.830.855.796;G11.561.600.815.754
+00000000|MMI|104.63|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-63-"dizziness"-noun-0,"Dizzyness"-tx-61-"dizziness"-noun-0,"Dizzyness"-tx-59-"dizziness"-noun-0,"Dizzyness"-tx-58-"Dizziness"-noun-0,"Dizzyness"-tx-58-"dizziness"-noun-0,"Dizzyness"-tx-5-"dizziness"-noun-0]|TX|9433/9;9188/9;8885/9;8701/9;8771/9;442/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|104.63|Vertigo|C0042571|[sosy]|["dizziness"-tx-63-"dizziness"-noun-0,"dizziness"-tx-61-"dizziness"-noun-0,"dizziness"-tx-59-"dizziness"-noun-0,"dizziness"-tx-58-"Dizziness"-noun-0,"dizziness"-tx-58-"dizziness"-noun-0,"dizziness"-tx-5-"dizziness"-noun-0]|TX|9433/9;9188/9;8885/9;8701/9;8771/9;442/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|102.81|Hallucinations|C0018524|[mobd]|["HALLUCINATIONS"-tx-57-"Hallucinations"-noun-0,"HALLUCINATIONS"-tx-55-"hallucinations"-noun-0,"HALLUCINATIONS"-tx-52-"hallucinations"-noun-0,"HALLUCINATIONS"-tx-49-"hallucinations"-noun-0,"HALLUCINATIONS"-tx-4-"hallucinations"-noun-0]|TX|8622/14;8021/14;7607/14;7144/14;397/14|C10.597.606.762.300;C23.888.592.604.764.300;F01.700.750.300
+00000000|MMI|79.91|Blind Vision|C0456909|[fndg]|["Loss of vision"-tx-27-"of vision loss"-noun-1,"VISION LOSS"-tx-20-"vision loss"-noun-0,"VISION LOSS"-tx-9-"vision loss"-noun-0,"VISION LOSS"-tx-8-"Vision Loss"-noun-0]|TX|3976/14;3060/11;1022/11;768/11|C10.597.751.941.162;C11.966.075;C23.888.592.763.941.162
+00000000|MMI|66.91|Visual Impairment|C3665347|[fndg]|["Loss of vision"-tx-27-"of vision loss"-noun-1,"vision loss"-tx-20-"vision loss"-noun-0,"vision loss"-tx-9-"vision loss"-noun-0,"vision loss"-tx-8-"Vision Loss"-noun-0]|TX|3976/14;3060/11;1022/11;768/11|C10.597.751.941;C11.966;C23.888.592.763.941
+00000000|MMI|57.45|Discontinued|C1444662|[fndg]|["Discontinued"-tx-85-"discontinued"-verb-0,"Discontinued"-tx-61-"discontinued"-verb-0,"Discontinue"-tx-57-"Discontinuing"-noun-0,"Discontinuation"-tx-54-"discontinuation"-noun-1,"Discontinued"-tx-52-"discontinued"-verb-0,"Discontinuation"-tx-34-"discontinuation"-noun-1,"Discontinued"-tx-32-"discontinued"-verb-0,"Discontinued"-tx-27-"discontinued"-verb-0,"Discontinued"-tx-21-"discontinued"-verb-0,"Discontinuation"-tx-19-"discontinuation"-noun-0]|TX|14206/12;[9154/12],[9245/12];8198/13;7893/15;7580/12;4903/15;4506/12;3848/12;3163/12;2781/15|
+00000000|MMI|49.42|Confusion|C0009676|[mobd]|["CONFUSIONAL STATE"-tx-57-"Confusional state"-noun-0,"CONFUSIONAL STATE"-tx-49-"Confusional state"-noun-0,"CONFUSIONAL STATE"-tx-4-"confusional state"-noun-0]|TX|8308/17;7101/17;354/17|C10.597.606.337;C23.888.592.604.339;F01.700.250
+00000000|MMI|40.87|Psychotic Disorders|C0033975|[mobd]|["PSYCHOSIS"-tx-57-"Psychosis"-noun-0,"PSYCHOSIS"-tx-55-"psychosis"-noun-0,"PSYCHOSIS"-tx-53-"psychosis"-noun-0,"PSYCHOSIS"-tx-52-"psychosis"-noun-0]|TX|8408/9;8007/9;7703/9;7625/9|F03.700.675
+00000000|MMI|35.81|Hydronephrosis|C0020295|[dsyn]|["HYDRONEPHROSIS"-tx-35-"Hydronephrosis"-noun-0,"HYDRONEPHROSIS"-tx-34-"Hydronephrosis"-noun-0]|TX|4930/14;4792/14|C12.777.419.307;C13.351.968.419.307
+00000000|MMI|34.99|1+|C3816745|[fndg]|["1+"-tx-79-"1"-real_number-0,"1+"-tx-61-"1"-percentage-0,"1+"-tx-57-"1"-percentage-0,"1+"-tx-31-"1"-comma_integer-0]|TX|12706/1;9229/1;[8393/1],[8433/1],[8476/1],[8555/1],[8576/1];4485/1|
+00000000|MMI|32.94|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-82-"symptoms"-noun-0,"SYMPTOMS"-tx-57-"Symptoms"-noun-0,"SYMPTOMS"-tx-54-"symptoms"-noun-0,"SYMPTOMS"-tx-49-"Symptoms"-noun-0,"SYMPTOMS"-tx-38-"symptoms"-noun-0,"SYMPTOMS"-tx-37-"symptoms"-noun-0,"SYMPTOMS"-tx-4-"symptoms"-noun-0,"SYMPTOMS"-tx-1-"symptoms"-noun-0]|TX|13622/8;8074/8;7784/8;7087/8;5531/8;5303/8;332/8;125/8|
+00000000|MMI|32.84|Suicide|C0038661|[fndg]|["-- Suicide"-tx-71-"suicide"-noun-0,"SUICIDES"-tx-71-"suicides"-noun-0]|TX|11256/7;11097/8|F01.145.126.980.875;I01.880.735.856
+00000000|MMI|30.44|Discoloration of skin|C0151907|[patf]|["SKIN DISCOLOURATION"-tx-48-"skin discoloration"-noun-0,"SKIN DISCOLOURATION"-tx-44-"skin discoloration"-noun-0,"SKIN DISCOLOURATION"-tx-41-"skin discoloration"-noun-0,"SKIN DISCOLOURATION"-tx-40-"Skin Discoloration"-noun-0,"SKIN DISCOLOURATION"-tx-40-"skin discoloration"-noun-0,"SKIN DISCOLOURATION"-tx-3-"skin discoloration"-noun-0,"SKIN DISCOLOURATION"-tx-2-"skin discoloration"-noun-0]|TX|6961/18;6293/18;5878/18;5813/18;5854/18;211/18;169/18|
+00000000|MMI|28.82|0%|C3842591|[fndg]|["0%"-tx-79-"0"-real_number-0,"0%"-tx-70-"0"-percentage-0,"0%"-tx-57-"0"-integer-0,"0%"-tx-36-"0"-percentage-0]|TX|12777/1;10905/1;[8451/1],[8489/1],[8589/1];[5175/1],[5185/1]|
+00000000|MMI|27.85|Congenital Abnormality|C0000768|[cgab]|["Abnormalities"-tx-23-"abnormalities"-noun-0,"Abnormalities"-tx-18-"abnormalities"-noun-0,"Abnormalities"-tx-15-"abnormalities"-noun-0,"Abnormalities"-tx-9-"abnormalities"-noun-0]|TX|3352/13;2512/13;1895/13;835/13|C16.131
+00000000|MMI|26.12|Retinal Dystrophies|C0854723|[dsyn]|["Retinal Dystrophy"-tx-18-"retinal dystrophy"-noun-0,"dystrophies retinal"-tx-9-"retinal dystrophies"-noun-0]|TX|2483/17;937/7,953/11|C11.768.585.658
+00000000|MMI|24.40|Somnolence|C2830004|[fndg]|["SOMNOLENCE"-tx-63-"somnolence"-noun-0,"SOMNOLENCE"-tx-61-"somnolence"-noun-0,"SOMNOLENCE"-tx-60-"Somnolence"-noun-0,"SOMNOLENCE"-tx-58-"Somnolence"-noun-0,"SOMNOLENCE"-tx-58-"somnolence"-noun-0,"SOMNOLENCE"-tx-5-"somnolence"-noun-0]|TX|9447/10;9269/10;8988/10;8715/10;8785/10;456/10|
+00000000|MMI|23.94|Abnormal color|C0332572|[fndg]|["Discolouration"-tx-45-"discoloration"-noun-0,"Discolouration"-tx-43-"Discoloration"-noun-0,"Discolouration"-tx-14-"discoloration"-noun-1,"Discolouration"-tx-13-"discoloration"-noun-0,"Discolouration"-tx-13-"discoloration"-noun-1]|TX|[6487/13],[6626/13];6143/13;1864/13;[1647/13],[1694/13];[1647/13],[1694/13]|
+00000000|MMI|23.89|2+|C3833492|[fndg]|["2+"-tx-79-"2"-real_number-0,"2+"-tx-69-"2"-real_number-0,"2+"-tx-57-"2"-integer-0,"2+"-tx-57-"2"-percentage-0,"2+"-tx-36-"2"-percentage-0,"2+"-tx-10-"2"-integer-0]|TX|12663/1;10658/1;[8534/1],[8551/1];[8534/1],[8551/1];5110/1;1244/1|
+00000000|MMI|23.26|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-62-"adverse reactions"-noun-0,"Adverse reactions"-tx-58-"Adverse Reactions"-noun-0,"ADVERSE REACTION"-tx-57-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-49-"adverse reactions"-noun-0,"Adverse reactions"-tx-20-"adverse reactions"-noun-0]|TX|9299/17;8801/17;[8129/16],[8167/16];7192/17;2853/17|
+00000000|MMI|23.09|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-63-"dizziness"-noun-0,"Dizziness"-tx-61-"dizziness"-noun-0,"Dizziness"-tx-59-"dizziness"-noun-0,"Dizziness"-tx-58-"Dizziness"-noun-0,"Dizziness"-tx-58-"dizziness"-noun-0,"Dizziness"-tx-5-"dizziness"-noun-0]|TX|9433/9;9188/9;8885/9;8701/9;8771/9;442/9|
+00000000|MMI|19.36|Hypesthesia|C0020580|[fndg]|["Diminished Sensitivity"-tx-18-"diminished sensitivity"-noun-0]|TX|2632/22|C10.597.751.791.500;C23.888.592.763.770.500
+00000000|MMI|19.24|Low Vision|C0042798|[dsyn]|["loss of vision"-tx-27-"of vision loss"-noun-1]|TX|3976/14|C10.597.751.941.905;C11.966.905;C23.888.592.763.941.848
+00000000|MMI|19.20|Tonic-Clonic Epilepsy|C0014549|[dsyn]|["epilepsy; major"-tx-57-"Major Epilepsy"-noun-0]|TX|8051/5,8105/8|C10.228.140.490.375.290
+00000000|MMI|17.80|Dysuria|C0013428|[sosy]|["DYSURIA"-tx-36-"dysuria"-noun-0]|TX|5078/7|C23.888.942.343.274
+00000000|MMI|16.32|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-34-"renal impairment"-noun-0]|TX|4858/5,4873/10|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|14.90|Abnormal vision|C3665386|[fndg]|["Loss of vision"-tx-27-"of vision loss"-noun-1,"Vision loss"-tx-20-"vision loss"-noun-0,"Vision loss"-tx-9-"vision loss"-noun-0,"Vision loss"-tx-8-"Vision Loss"-noun-0]|TX|3976/14;3060/11;1022/11;768/11|
+00000000|MMI|14.90|Unspecified visual loss|C3665346|[sosy]|["Vision, Loss Of"-tx-27-"of vision loss"-noun-1,"VISION LOSS"-tx-20-"vision loss"-noun-0,"VISION LOSS"-tx-9-"vision loss"-noun-0,"VISION LOSS"-tx-8-"Vision Loss"-noun-0]|TX|3976/14;3060/11;1022/11;768/11|
+00000000|MMI|14.87|Nonorganic psychosis|C0349204|[mobd]|["Psychosis NOS"-tx-57-"Psychosis"-noun-0,"Psychosis NOS"-tx-55-"psychosis"-noun-0,"Psychosis NOS"-tx-53-"psychosis"-noun-0,"Psychosis NOS"-tx-52-"psychosis"-noun-0]|TX|8408/9;8007/9;7703/9;7625/9|
+00000000|MMI|14.64|Benign Prostatic Hyperplasia|C1704272|[neop]|["Benign Prostatic Hyperplasia"-tx-38-"benign prostatic hyperplasia"-noun-0]|TX|5446/28|C12.294.565.500
+00000000|MMI|14.64|Depressive Symptoms|C0086132|[sosy]|["Symptoms of depression"-tx-83-"symptoms of depression"-noun-0]|TX|13917/22|F01.145.126.350
+00000000|MMI|14.64|Hypokalemia|C0020621|[fndg]|["HYPOKALEMIA"-tx-66-"hypokalemia"-noun-0]|TX|9938/11|C18.452.950.565
+00000000|MMI|14.64|Prostatic Hyperplasia|C2937421|[dsyn]|["benign prostatic hyperplasia"-tx-38-"benign prostatic hyperplasia"-noun-0]|TX|5446/28|C12.294.565.500
+00000000|MMI|14.62|Related personal status|C0445223|[fndg]|["Related"-tx-82-"related"-verb-0,"Related"-tx-58-"related"-adj-0,"Related"-tx-51-"related"-adj-0,"Related"-tx-13-"related"-verb-1]|TX|13659/7;8750/7;7460/7;1711/7|
+00000000|MMI|12.91|Mental Depression|C0011570|[mobd]|["DEPRESSION"-tx-68-"depression"-noun-0]|TX|10305/10|F01.145.126.350
+00000000|MMI|12.89|Disease Progression|C0242656|[patf]|["Progression"-tx-19-"progression"-noun-0]|TX|2711/11|C23.550.291.656
+00000000|MMI|11.49|Brown Tendon Sheath Syndrome|C0155339|[dsyn]|["Brown"-tx-41-"brown"-noun-0]|TX|5973/5|C10.228.758;C10.292.562;C11.590
+00000000|MMI|11.40|Prolonged QT interval|C0151878|[fndg]|["Prolonged QT Interval"-tx-66-"prolonged QT interval"-noun-0,"QT Prolongation"-tx-64-"QT prolongation"-noun-0,"QT Prolongation"-tx-6-"QT prolongation"-noun-0]|TX|9864/21;9608/15;485/15|
+00000000|MMI|11.21|Behaviors and observations relating to behavior|C0677505|[fndg]|["Behaviors"-tx-84-"Behaviors"-noun-0,"Behaviors"-tx-79-"Behaviors"-noun-0,"Behaviors"-tx-7-"behaviors"-noun-0]|TX|14060/9;12107/9;695/9|
+00000000|MMI|10.97|4+ Answer to question|C3838679|[fndg]|["4+"-tx-79-"4"-real_number-0,"4+"-tx-71-"4"-integer-0,"4+"-tx-57-"4"-percentage-0]|TX|12839/1;11095/1;8376/1|
+00000000|MMI|10.68|Illness (finding)|C0221423|[sosy]|["Illness"-tx-82-"illness"-noun-0,"illnesses"-tx-81-"illnesses"-noun-0,"Illness"-tx-80-"illness"-noun-0]|TX|13674/7;13343/9;13310/7|
+00000000|MMI|10.42|Psychotic symptom|C0871189|[sosy]|["Psychotic Symptoms"-tx-49-"psychotic symptoms"-noun-0,"Psychotic Symptoms"-tx-4-"psychotic symptoms"-noun-0]|TX|7120/18;373/18|
+00000000|MMI|10.28|Disease|C0012634|[dsyn]|["condition"-tx-79-"conditions"-noun-0]|TX|13100/10|C23.550.288
+00000000|MMI|9.83|Skin Abnormalities|C0037268|[dsyn]|["Abnormality of the skin"-tx-46-"of the skin abnormalities"-noun-0]|TX|6815/25|C16.131.831;C17.800.804
+00000000|MMI|9.76|Depressive disorder|C0011581|[mobd]|["-- Depression"-tx-68-"depression"-noun-0]|TX|10305/10|F03.600.300
+00000000|MMI|7.85|1 - 9%|C3842508|[fndg]|["1 - 9%"-tx-79-"1 9"-real_number-0,"1 - 9%"-tx-79-"1.9"-real_number-0]|TX|12725/1,12746/1;12891/3|
+00000000|MMI|7.70|Withdrawal (dysfunction)|C2825032|[mobd]|["Withdrawal"-tx-86-"withdrawal"-noun-0,"Withdrawn"-tx-85-"withdrawn"-verb-0]|TX|14477/10;14233/9|
+00000000|MMI|7.62|1-2|C3843716|[fndg]|["1-2"-tx-69-"1.2"-real_number-0,"1-2"-tx-61-"1.2"-percentage-0]|TX|10653/3;9138/3|
+00000000|MMI|7.53|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-61-"3"-percentage-0,"3+"-tx-57-"3"-percentage-0]|TX|9199/1;8355/1|
+00000000|MMI|7.40|consideration|C0518609|[fndg]|["CONSIDERATION"-tx-48-"consideration"-noun-0,"CONSIDERATION"-tx-3-"consideration"-noun-0]|TX|6989/13;239/13|
+00000000|MMI|7.37|Mood swings|C0085633|[mobd]|["Change in mood"-tx-83-"changes in mood"-noun-0,"Change in mood"-tx-68-"changes in mood"-noun-0]|TX|13953/15;10367/15|
+00000000|MMI|7.33|5-6|C3843715|[fndg]|["5-6"-tx-64-"5.6"-real_number-0,"5-6"-tx-7-"5.6"-real_number-0]|TX|9506/3;648/3|
+00000000|MMI|7.33|6/5|C0442749|[fndg]|["5 6"-tx-64-"5.6"-real_number-0,"5 6"-tx-7-"5.6"-real_number-0]|TX|9506/3;648/3|
+00000000|MMI|7.20|Blue - answer to question|C3810842|[fndg]|["Blue"-tx-41-"blue"-adj-0,"Blue"-tx-41-"blue"-noun-0]|TX|[5923/4],[5965/4];[5923/4],[5965/4]|
+00000000|MMI|7.20|Worse|C1457868|[fndg]|["Worsening"-tx-83-"worsening"-noun-0,"Worsening"-tx-68-"worsening"-noun-0]|TX|13890/9;10292/9|
+00000000|MMI|7.18|Able (finding)|C1299581|[fndg]|["Able"-tx-33-"able"-adj-0,"Able"-tx-32-"able"-adj-0]|TX|4741/4;4585/4|
+00000000|MMI|7.18|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-69-"randomized"-verb-0]|TX|[10531/10],[10719/10]|
+00000000|MMI|7.14|Resolved|C3714811|[fndg]|["RESOLVED"-tx-54-"resolved"-verb-0,"RESOLVED"-tx-34-"resolved"-verb-0]|TX|7867/8;4889/8|
+00000000|MMI|7.14|physiologic resolution|C1514893|[patf]|["Resolved"-tx-54-"resolved"-verb-0,"Resolved"-tx-34-"resolved"-verb-0]|TX|7867/8;4889/8|
+00000000|MMI|7.12|Suicidal behavior|C1760428|[fndg]|["Suicidal behaviour"-tx-70-"suicidal behavior"-noun-0,"Suicidal behaviour"-tx-67-"Suicidal Behavior"-noun-0]|TX|10837/17;10018/17|
+00000000|MMI|7.10|29+|C3843708|[fndg]|["29+"-tx-31-"29"-integer-0,"29+"-tx-30-"29"-integer-0]|TX|4401/2;4242/2|
+00000000|MMI|7.08|Thinking and speaking disturbances|C0233629|[mobd]|["Thinking, NOS"-tx-70-"thinking"-noun-0,"Thinking, NOS"-tx-69-"thinking"-noun-0]|TX|11031/8;10675/8|
+00000000|MMI|6.96|Suicidal|C0438696|[fndg]|["SUICIDAL"-tx-70-"suicidal"-adj-0,"SUICIDAL"-tx-69-"suicidal"-adj-0]|TX|11022/8;10666/8|
+00000000|MMI|6.71|Signs and Symptoms|C0037088|[sosy]|["Finding"-tx-75-"finding"-noun-0]|TX|11719/7|C23.888
+00000000|MMI|5.18|Ability to balance|C0560184|[fndg]|["Balance"-tx-80-"balance"-noun-0]|TX|13265/7|
+00000000|MMI|5.18|Congestive heart failure|C0018802|[dsyn]|["CONGESTIVE HEART FAILURE"-tx-66-"congestive heart failure"-noun-0]|TX|9887/24|
+00000000|MMI|5.18|Detected (finding)|C0442726|[fndg]|["Detected"-tx-27-"detected"-verb-0]|TX|3821/8|
+00000000|MMI|5.18|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-54-"controlled"-verb-0]|TX|7834/10|
+00000000|MMI|5.18|Does communicate|C0566001|[fndg]|["communicate"-tx-38-"communicate"-verb-0]|TX|5510/11|
+00000000|MMI|5.18|Hallucinations, mixed|C0855223|[mobd]|["Hallucinations, mixed"-tx-57-"mixed hallucinations"-noun-0]|TX|8668/20|
+00000000|MMI|5.18|Hypomagnesemia|C0151723|[fndg]|["HYPOMAGNESEMIA"-tx-66-"hypomagnesemia"-noun-0]|TX|9954/14|
+00000000|MMI|5.18|Negative Surgical Margin|C1709157|[fndg]|["Clear"-tx-13-"clear"-verb-1]|TX|1675/5|
+00000000|MMI|5.18|Reduced visual acuity|C0234632|[fndg]|["Decreased Visual Acuity"-tx-16-"decreased visual acuity"-noun-1]|TX|2244/23|
+00000000|MMI|5.18|Self-harm|C0424366|[inpo]|["Self-Harm"-tx-83-"self-harm"-verb-0]|TX|14049/9|
+00000000|MMI|5.18|Too little|C3843661|[fndg]|["Too Small"-tx-71-"too small"-adj-0]|TX|11201/9|
+00000000|MMI|5.18|Unable|C1299582|[fndg]|["Unable"-tx-38-"unable"-adj-0]|TX|5500/6|
+00000000|MMI|5.18|Urinary hesitation|C0152032|[dsyn]|["Urinary hesitation"-tx-36-"urinary hesitation"-noun-0]|TX|5052/18|
+00000000|MMI|5.18|Ventricular hypertrophy|C0340279|[dsyn]|["VENTRICULAR HYPERTROPHY"-tx-66-"ventricular hypertrophy"-noun-0]|TX|9913/23|
+00000000|MMI|5.18|Withdrawn|C0424092|[fndg]|["Withdrawn"-tx-85-"withdrawn"-verb-0]|TX|14233/9|
+00000000|MMI|5.18|catheter; removal|C1411945|[fndg]|["catheter; removal"-tx-33-"catheter removal"-noun-0]|TX|4774/16|
+00000000|MMI|4.12|Early-onset|C1833334|[fndg]|["Early-onset"-tx-12-"earlier onset"-noun-1]|TX|1453/13|
+00000000|MMI|3.98|Close|C3810854|[fndg]|["Close"-tx-38-"Closer"-adv-0]|TX|5343/6|
+00000000|MMI|3.75|Psychiatric History|C0748059|[fndg]|["PSYCHIATRIC HISTORY"-tx-53-"psychiatric history"-noun-1]|TX|7747/19|
+00000000|MMI|3.68|Pigmentary abnormalities|C3552307|[fndg]|["Pigmentary abnormalities"-tx-45-"pigmentary abnormalities"-noun-0]|TX|6663/24|
+00000000|MMI|3.68|Withdrawal - birth control|C3812880|[fndg]|["Withdrawal"-tx-86-"withdrawal"-noun-0]|TX|14477/10|
+00000000|MMI|3.68|Withdrawal seizures|C0235097|[patf]|["Withdrawal seizures"-tx-85-"Withdrawal Seizures"-noun-0]|TX|14148/19|
+00000000|MMI|3.64|patient not-available|C3242211|[fndg]|["patient not-available"-tx-16-"not available patients"-noun-0]|TX|2297/13,2321/8|
+00000000|MMI|3.63|75%)|C4015571|[fndg]|["75%)"-tx-57-"75"-integer-0]|TX|8330/2|
+00000000|MMI|3.61|Impaired health|C0684336|[patf]|["Impairment"-tx-34-"impairment"-noun-0]|TX|4873/10|
+00000000|MMI|3.60|1 - 3|C3843504|[fndg]|["1 - 3"-tx-32-"1 3"-integer-0]|TX|4622/1,4631/1|
+00000000|MMI|3.60|Skin.status|C1829918|[fndg]|["Skin.status"-tx-45-"status skin"-noun-0]|TX|6436/6,6451/4|
+00000000|MMI|3.60|Treatment given|C0580351|[fndg]|["given treatment"-tx-3-"given treatment"-noun-0]|TX|263/5,287/9|
+00000000|MMI|3.59|Experimental Result|C2825142|[fndg]|["Result"-tx-9-"result"-verb-0]|TX|983/6|
+00000000|MMI|3.59|Heart condition|C3842523|[fndg]|["Heart condition"-tx-6-"heart conditions"-noun-0]|TX|627/16|
+00000000|MMI|3.59|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-38-"risk factors"-noun-0]|TX|5404/12|
+00000000|MMI|3.59|Tissue damage|C0010957|[inpo]|["Damage"-tx-9-"damage"-noun-0]|TX|993/6|
+00000000|MMI|3.59|Used by|C1273517|[fndg]|["used"-tx-20-"used"-verb-0]|TX|2894/4|
+00000000|MMI|3.58|Pigmentary retinal deposits|C1328514|[acab]|["Retinal pigment clumping"-tx-15-"retinal pigment clumping"-noun-0]|TX|2045/15,2072/8|
+00000000|MMI|3.57|10%|C3842590|[fndg]|["10%"-tx-44-"10"-percentage-0]|TX|6238/2|
+00000000|MMI|3.57|Consciousness clear|C0239110|[fndg]|["ALERT"-tx-83-"alert"-adj-0]|TX|13863/5|
+00000000|MMI|3.57|Structure showing abnormal deposition of pigment (morphologic abnormality)|C3665492|[patf]|["Pigmentation"-tx-15-"pigmentation"-noun-0]|TX|1959/12|
+00000000|MMI|3.56|Dystrophy|C0333606|[patf]|["DYSTROPHIES"-tx-9-"dystrophies"-noun-0]|TX|953/11|
+00000000|MMI|3.56|Experimental Finding|C2825141|[fndg]|["Finding"-tx-75-"finding"-noun-0]|TX|11719/7|
+00000000|MMI|3.56|Finding|C0243095|[fndg]|["Finding"-tx-75-"finding"-noun-0]|TX|11719/7|
+00000000|MMI|3.56|Functional disorder|C0277785|[patf]|["Pathophysiology"-tx-46-"pathophysiology"-noun-0]|TX|6799/15|
+00000000|MMI|3.55|Day 7|C3842672|[fndg]|["Day 7"-tx-54-"7 days"-noun-1]|TX|7883/6|
+00000000|MMI|3.53|Follow-up status|C0589120|[fndg]|["Follow-up"-tx-22-"follow-up"-adj-0]|TX|3280/9|
+00000000|MMI|3.50|Bone spicules|C3554289|[fndg]|["Bone spicules"-tx-15-"bone spicule"-noun-0]|TX|1973/12|
+00000000|MMI|3.48|Dilated|C0700124|[fndg]|["Dilated"-tx-25-"dilated"-adj-0]|TX|3598/7|
+00000000|MMI|3.46|Drug effect disorder|C0728867|[patf]|["Drug effect"-tx-71-"drug effect"-noun-0]|TX|11241/11|
+00000000|MMI|3.45|Depressed - symptom|C1579931|[sosy]|["depression"-tx-68-"depression"-noun-0]|TX|10305/10|
+00000000|MMI|3.45|Depressed mood|C0344315|[fndg]|["depression"-tx-68-"depression"-noun-0]|TX|10305/10|
+00000000|MMI|3.45|Fit frequency|C0149775|[fndg]|["SEIZURE FREQUENCY"-tx-85-"seizure frequency"-noun-0]|TX|14306/17|
+00000000|MMI|3.44|Physical findings|C0311392|[fndg]|["SIGNS"-tx-83-"signs"-noun-0]|TX|13907/5|
+00000000|MMI|3.42|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-12-"exposure"-noun-0]|TX|1572/8|
+00000000|MMI|3.42|exposure history|C2220266|[fndg]|["exposure"-tx-12-"exposure"-noun-0]|TX|1572/8|
+00000000|MMI|3.42|Did not receive therapy or drug for|C0332155|[fndg]|["untreated"-tx-80-"untreated"-adj-0]|TX|13300/9|

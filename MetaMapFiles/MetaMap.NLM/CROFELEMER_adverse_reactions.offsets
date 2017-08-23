@@ -1,0 +1,62 @@
+138,148|C0012634|conditions|dsyn
+1301,1334|C0041912|Upper respiratory tract infection|dsyn
+1375,1385|C0006277|Bronchitis|dsyn
+1375,1385|C0149514|Bronchitis|dsyn
+1429,1434|C0010200|Cough|sosy
+1429,1434|C1961131|Cough|fndg
+1483,1493|C0016204|Flatulence|sosy
+1483,1493|C1962956|Flatulence|fndg
+1537,1556|C0741494|Increased bilirubin|fndg
+1537,1556|C0311468|Increased bilirubin|fndg
+1597,1603|C0027497|Nausea|sosy
+1597,1603|C1963179|Nausea|patf
+1651,1660|C0004604|Back pain|sosy
+1651,1660|C1963071|Back pain|fndg
+1705,1715|C0003862|Arthralgia|sosy
+1759,1782|C0042029|Urinary tract infection|dsyn
+1759,1782|C0262655|Urinary tract infection|dsyn
+1823,1838|C0027441|Nasopharyngitis|dsyn
+1879,1899|C0026858|Musculoskeletal pain|fndg
+1940,1951|C0019112|Hemorrhoids|dsyn
+1940,1951|C1963134|Hemorrhoids|fndg
+1994,2004|C0017536|Giardiasis|dsyn
+2048,2055|C0003467|Anxiety|mobd
+2048,2055|C0003469|Anxiety|mobd
+2048,2055|C0860603|Anxiety|fndg
+2102,2136|C0151905|Increased alanine aminotransferase|fndg
+2177,2197|C0000731|Abdominal distension|fndg
+2373,2387|C0000737|abdominal pain|sosy
+2389,2393|C0702166|acne|dsyn
+2389,2393|C0001144|acne|dsyn
+2395,2404;2415,2431|C0438717|increased aminotransferase|fndg
+2505,2517|C0009806|constipation|sosy
+2505,2517|C1963087|constipation|fndg
+2519,2529|C0011570|depression|mobd
+2519,2529|C0011581|depression|mobd
+2519,2529|C1579931|depression|sosy
+2519,2529|C0344315|depression|fndg
+2531,2541|C0011603|dermatitis|dsyn
+2543,2552|C0012833|dizziness|sosy
+2543,2552|C0042571|dizziness|sosy
+2543,2552|C1963093|dizziness|fndg
+2554,2563|C0043352|dry mouth|dsyn
+2565,2574|C0013395|dyspepsia|sosy
+2576,2591|C0017160|gastroenteritis|dsyn
+2593,2606|C0019360|herpes zoster|dsyn
+2608,2623|C0022650|nephrolithiasis|dsyn
+2608,2623|C0392525|nephrolithiasis|dsyn
+2625,2642|C0030196|pain in extremity|sosy
+2644,2655|C0042023|pollakiuria|fndg
+2657,2672|C1619712|procedural pain|sosy
+2674,2690|C0018621|seasonal allergy|dsyn
+2692,2701|C0037199|sinusitis|dsyn
+2706,2738|C0750394|decreased white blood cell count|fndg
+2902,2935|C0041912|upper respiratory tract infection|dsyn
+2937,2947|C0006277|bronchitis|dsyn
+2937,2947|C0149514|bronchitis|dsyn
+2949,2954|C0010200|cough|sosy
+2949,2954|C1961131|cough|fndg
+2956,2966|C0016204|flatulence|sosy
+2956,2966|C1962956|flatulence|fndg
+2971,2990|C0741494|increased bilirubin|fndg
+2971,2990|C0311468|increased bilirubin|fndg

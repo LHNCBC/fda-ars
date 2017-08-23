@@ -1,0 +1,203 @@
+133,158|C1142499|Gastrointestinal toxicity|fndg
+244,260|C0854467|Myelosuppression|fndg
+346,362|C0348754|Hepatic toxicity|dsyn
+448,463|C0268000|Fluid retention|patf
+511,525|C0595916|Renal toxicity|patf
+649,657|C0011991|diarrhea|sosy
+649,657|C1963091|diarrhea|fndg
+659,665|C0027497|nausea|sosy
+659,665|C1963179|nausea|patf
+667,683|C0040034|thrombocytopenia|fndg
+685,693|C0042963|vomiting|sosy
+685,693|C1963281|vomiting|patf
+695,709|C0000737|abdominal pain|sosy
+711,715|C0015230|rash|sosy
+717,723|C0002871|anemia|dsyn
+725,732|C0015967|pyrexia|fndg
+738,745|C0015672|fatigue|sosy
+994,1004|C0012634|conditions|dsyn
+1246,1264|C0002792|anaphylactic shock|patf
+1300,1316|C0854467|myelosuppression|fndg
+1318,1343|C1142499|gastrointestinal toxicity|fndg
+1345,1353|C0011991|diarrhea|sosy
+1345,1353|C1963091|diarrhea|fndg
+1356,1371|C0268000|fluid retention|patf
+1373,1387|C0235378|hepatotoxicity|inpo
+1392,1396|C0015230|rash|sosy
+1532,1540|C0011991|diarrhea|sosy
+1532,1540|C1963091|diarrhea|fndg
+1548,1554|C0027497|nausea|sosy
+1548,1554|C1963179|nausea|patf
+1562,1578|C0040034|thrombocytopenia|fndg
+1586,1594|C0042963|vomiting|sosy
+1586,1594|C1963281|vomiting|patf
+1602,1616|C0000737|abdominal pain|sosy
+1624,1628|C0015230|rash|sosy
+1636,1642|C0002871|anemia|dsyn
+1650,1657|C0015967|pyrexia|fndg
+1669,1676|C0015672|fatigue|sosy
+1734,1743;1747,1755|C0521985|Reactions Patients|fndg
+1795,1797|C4049686|Ph|fndg
+1795,1797|C0450407|Ph|fndg
+1795,1797|C0450408|Ph|fndg
+1795,1797|C0450409|Ph|fndg
+1847,1858;1864,1867|C0005699|Blast Phase CML|neop
+1878,1884|C0087136|single|fndg
+1947,1949|C4049686|Ph|fndg
+1947,1949|C0450407|Ph|fndg
+1947,1949|C0450408|Ph|fndg
+1947,1949|C0450409|Ph|fndg
+1976,2016|C0005699|blast phase chronic myelogenous leukemia|neop
+2046,2057|C1744706|intolerance|fndg
+2067,2074|C1363945|therapy|fndg
+2183,2186|C0023473|CML|neop
+2222,2228|C0023474|CP CML|neop
+2394,2400|C0023474|CP CML|neop
+2603,2612|C0023474|phase CML|neop
+2640,2646|C0023472|AP CML|neop
+2668,2674|C0005699|BP CML|neop
+2697,2703|C0023472|AP CML|neop
+2708,2714|C0005699|BP CML|neop
+2864,2870|C0023472|AP CML|neop
+2875,2881|C0005699|BP CML|neop
+2984,2990|C3244287|grades|fndg
+2995,3001|C3244287|grades|fndg
+3017,3022;3027,3030|C0023474|Phase CML|neop
+3115,3118;3154,3167|C0023474|CML Chronic Phase|neop
+3279,3285|C3244287|Grades|fndg
+3337,3340|C0023473|CML|neop
+3386,3401|C0005699|Blast Phase CML|neop
+3409,3417|C0011991|Diarrhea|sosy
+3409,3417|C1963091|Diarrhea|fndg
+3522,3528|C0027497|Nausea|sosy
+3522,3528|C1963179|Nausea|patf
+3635,3649|C0000737|Abdominal Pain|sosy
+3748,3764|C0040034|Thrombocytopenia|fndg
+3861,3869|C0042963|Vomiting|sosy
+3861,3869|C1963281|Vomiting|patf
+3974,3978|C0015230|Rash|sosy
+4087,4094|C0015672|Fatigue|sosy
+4200,4206|C0002871|Anemia|dsyn
+4313,4320|C0015967|Pyrexia|fndg
+4426,4460|C0151905|Increased alanine aminotransferase|fndg
+4553,4561|C0018681|Headache|sosy
+4553,4561|C2096315|Headache|fndg
+4666,4671|C0010200|Cough|sosy
+4666,4671|C1961131|Cough|fndg
+4779,4788;4799,4815|C0438717|Increased aminotransferase|fndg
+4908,4919|C0027947|Neutropenia|dsyn
+4908,4919|C0023530|Neutropenia|dsyn
+4908,4919|C0853697|Neutropenia|fndg
+5021,5026|C0013604|Edema|fndg
+5134,5144|C0003862|Arthralgia|sosy
+5247,5265|C0232462|Decreased appetite|sosy
+5360,5387|C0035243|Respiratory tract infection|dsyn
+5480,5495|C0027441|Nasopharyngitis|dsyn
+5593,5602|C0004604|Back pain|sosy
+5593,5602|C1963071|Back pain|fndg
+5706,5714|C0004093|Asthenia|sosy
+5819,5827|C0033774|Pruritus|sosy
+5932,5941|C0012833|Dizziness|sosy
+5932,5941|C0042571|Dizziness|sosy
+5932,5941|C1963093|Dizziness|fndg
+6045,6052|C0013404|Dyspnea|sosy
+6175,6181|C0087136|single|fndg
+6333,6355|C0007222|cardiovascular disease|dsyn
+6366,6368;6378,6390|C0151878|QT prolongation|fndg
+6408,6416|C3715209|protocol|fndg
+6485,6514|C0438215|laboratory test abnormalities|fndg
+6533,6536|C0023473|CML|neop
+6637,6666|C0438215|Laboratory Test Abnormalities|fndg
+6684,6687|C0023473|CML|neop
+6763,6780|C0023474|Chronic Phase CML|neop
+6800,6803|C0023473|CML|neop
+6822,6825|C0023473|CML|neop
+7069,7079|C0449381|Parameters|fndg
+7339,7349|C1561562|Hemoglobin|fndg
+7463,7473|C0449381|Parameters|fndg
+8342,8344|C4049686|Ph|fndg
+8342,8344|C0450407|Ph|fndg
+8342,8344|C0450408|Ph|fndg
+8342,8344|C0450409|Ph|fndg
+8346,8354|C0023418|leukemia|neop
+8387,8393|C0087136|single|fndg
+8647,8673|C0024228|Lymphatic System Disorders|dsyn
+8702,8721;8736,8745|C0746883|febrile neutropenia Disorders|dsyn
+8774,8794|C0031039|pericardial effusion|dsyn
+8822,8834|C0031046|pericarditis|dsyn
+8822,8834|C1963211|pericarditis|fndg
+8849,8868|C0022890|Labyrinth Disorders|dsyn
+8897,8905|C0040264|tinnitus|fndg
+8897,8905|C1963249|tinnitus|fndg
+8912,8938|C0017178|Gastrointestinal Disorders|dsyn
+8967,8976|C0017152|gastritis|dsyn
+9004,9022|C0001339|acute pancreatitis|dsyn
+9024,9051|C0017181|gastrointestinal hemorrhage|patf
+9062,9089|C0017181|gastrointestinal hemorrhage|patf
+9091,9109|C0235325|gastric hemorrhage|dsyn
+9111,9144|C0041909|upper gastrointestinal hemorrhage|patf
+9160,9169|C0012634|Disorders|dsyn
+9174,9188|C3845829|Administrative|fndg
+9194,9204|C0012634|Conditions|dsyn
+9233,9243|C0008031|chest pain|sosy
+9254,9264|C0008031|chest pain|sosy
+9269,9285|C0235710|chest discomfort|sosy
+9288,9292;9313,9322|C0391976|pain Disorders|mobd
+9288,9292|C0030193|pain|sosy
+9288,9292|C1962977|pain|fndg
+9299,9322|C0267792|Hepatobiliary Disorders|dsyn
+9351,9365|C0235378|hepatotoxicity|inpo
+9376,9390|C0235378|hepatotoxicity|inpo
+9392,9407|C0019193|toxic hepatitis|inpo
+9413,9432|C0919823|cytolytic hepatitis|dsyn
+9435,9460|C0086565|abnormal hepatic function|patf
+9471,9496|C0086565|abnormal hepatic function|patf
+9498,9512|C0023895|liver disorder|dsyn
+9535,9536;9547,9553|C3842784|1 injury|fndg
+9560,9583|C0021053|Immune System Disorders|dsyn
+9612,9633|C0013182|drug hypersensitivity|dsyn
+9661,9679|C0002792|anaphylactic shock|patf
+9686,9696|C3714514|Infections|patf
+9701,9713|C0851341|Infestations|dsyn
+9742,9751|C0032285|pneumonia|dsyn
+9762,9771|C0032285|pneumonia|dsyn
+9773,9789|C0006285|bronchopneumonia|dsyn
+9791,9806|C0155862|lobar pneumonia|dsyn
+9791,9806|C0032300|lobar pneumonia|dsyn
+9808,9834|C0032302|primary atypical pneumonia|dsyn
+9808,9834|C0702135|primary atypical pneumonia|dsyn
+9837,9846|C0021400|influenza|dsyn
+9848,9858|C0006277|bronchitis|dsyn
+9848,9858|C0149514|bronchitis|dsyn
+9908,9925|C0013798|electrocardiogram|fndg
+9940,9949;9956,9978|C0151576|increased creatine phosphokinase|fndg
+9980,9989;9996,10006|C0151578|increased creatinine|fndg
+9980,9989;9996,10006|C0700225|increased creatinine|fndg
+10028,10046|C3714509|Nutrition Disorder|dsyn
+10075,10087|C0020461|hyperkalemia|fndg
+10089,10100|C0011175|dehydration|dsyn
+10127,10153|C0009782|Connective Tissue Disorder|dsyn
+10182,10189|C0231528|myalgia|sosy
+10249,10258|C0013378|dysgeusia|fndg
+10275,10292|C0042075|Urinary Disorders|dsyn
+10321,10340|C0022660|acute renal failure|dsyn
+10321,10340|C3854173|acute renal failure|dsyn
+10342,10355|C0035078|renal failure|dsyn
+10342,10355|C1963154|renal failure|patf
+10348,10355;10362,10373|C1145670|failure Respiratory|dsyn
+10388,10409|C0025061|Mediastinal Disorders|dsyn
+10438,10454|C0032227|pleural effusion|dsyn
+10438,10454|C2073625|pleural effusion|fndg
+10482,10503|C0155919|acute pulmonary edema|dsyn
+10505,10524|C1145670|respiratory failure|dsyn
+10526,10548|C0020542|pulmonary hypertension|patf
+10526,10548|C1963220|pulmonary hypertension|fndg
+10564,10586|C0549584|Subcutaneous Disorders|dsyn
+10615,10624|C0042109|urticaria|dsyn
+10615,10624|C2186740|urticaria|fndg
+10626,10634|C0033774|pruritus|sosy
+10636,10640|C0702166|acne|dsyn
+10636,10640|C0001144|acne|dsyn
+10668,10687|C0014742|erythema multiforme|dsyn
+10689,10705|C1608945|exfoliative rash|dsyn
+10707,10720|C0011609|drug eruption|dsyn

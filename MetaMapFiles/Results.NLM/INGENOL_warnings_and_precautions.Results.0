@@ -1,0 +1,40 @@
+90,103|TP|Eye disorders|C0015397|10015916|90,103|Eye disorders|C0015397|10015916,10054716|dsyn
+115,130|FP|severe eye pain|C0239431|10015958|sosy
+122,130|FN|eye pain|C0151827
+132,155|FN|chemical conjunctivitis|C0149866
+157,169|FN|corneal burn|C0239116
+171,183|TP|eyelid edema|C0162285|10015993|171,183|eyelid edema|C0162285|10015993|fndg
+185,198|TP|eyelid ptosis|C0005745|10015995|185,198|eyelid ptosis|C0005745|10015995|anab
+200,217|TP|periorbital edema|C0151205|10034545|200,217|periorbital edema|C0151205|10034545|sosy
+355,360|FP|flush|C0016382|10016825|sosy
+419,429;518,528|FN|Local skin ulceration|C0037299
+419,429;510,517|FN|Local skin erosion|C3887524
+419,429;497,508|FN|Local skin pustulation|C0241157,C0549452
+419,429;484,496|FN|Local skin vesiculation|C0080159,C0858702
+419,439|FN|Local skin reactions|C0549452
+419,424;430,439|FP|Local reactions|C0853813|10024769|sosy
+751,764|TP|Eye disorders|C0015397|10015916|751,764|Eye disorders|C0015397|10015916,10054716|dsyn
+776,791|FP|severe eye pain|C0239431|10015958|sosy
+783,791|FN|eye pain|C0151827
+793,816|FN|chemical conjunctivitis|C0149866
+818,830|FN|corneal burn|C0239116
+832,844|TP|eyelid edema|C0162285|10015993|832,844|eyelid edema|C0162285|10015993|fndg
+846,859|TP|eyelid ptosis|C0005745|10015995|846,859|eyelid ptosis|C0005745|10015995|anab
+861,878|TP|periorbital edema|C0151205|10034545|861,878|periorbital edema|C0151205|10034545|sosy
+1168,1175|FP|flushed|C0016382|10016825|sosy
+1262,1288|FP|Hypersensitivity Reactions|C0020517|10020751|patf
+1294,1320|FN|Hypersensitivity reactions|C0020517
+1332,1343|TP|anaphylaxis|C0002792|10002198|1332,1343|anaphylaxis|C0002792,C0850803|10002198,10002198,10002199,10002199|patf,dsyn
+1348,1375|FN|allergic contact dermatitis|C0162820
+1496,1522|FP|hypersensitivity reactions|C0020517|10020751|patf
+1621,1626;1632,1641|FP|Local Reactions|C0853813|10024769|sosy
+1654,1688;1768,1778|FN|skin reactions in the treated area ulceration|C0521492
+1654,1688;1760,1767|FN|skin reactions in the treated area erosion|C1696574
+1654,1688;1743,1754|FN|skin reactions in the treated area postulation|C3888621
+1654,1688;1730,1742|FN|skin reactions in the treated area vesiculation|C0877097
+1654,1688;1720,1728|FN|skin reactions in the treated area swelling|C1096001
+1654,1688;1710,1718|FN|skin reactions in the treated area crusting|C0948300
+1654,1688;1700,1708|FN|skin reactions in the treated area erythema|C0853700
+1654,1688|FN|skin reactions in the treated area|C0549452
+1700,1708|FP|erythema|C0041834|10015150|dsyn
+1710,1718|FP|crusting|C0205204|10039509|acab

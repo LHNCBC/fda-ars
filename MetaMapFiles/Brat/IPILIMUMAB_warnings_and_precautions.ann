@@ -1,0 +1,836 @@
+T1	AdverseReaction 190 223	Immune-mediated adverse reactions
+T2	AdverseReaction 649 674	Immune-mediated hepatitis
+T3	AdverseReaction 751 783	Immune-mediated endocrinopathies
+T4	Severity 1049 1055	severe
+T5	Severity 1057 1073	life-threatening
+T6	AdverseReaction 1078 1083	fatal
+T7	AdverseReaction 1085 1093	diarrhea
+T8	AdverseReaction 1130 1135	fever
+T9	Severity 1097 1128	7 or more stools above baseline
+T10	AdverseReaction 1137 1142	ileus
+T11	AdverseReaction 1144 1160	peritoneal signs
+T12	Severity 1162 1169	Grade 3
+T13	Severity 1162 1167;1170 1171	Grade 5
+T14	Severity 1162 1171	Grade 3-5
+T15	AdverseReaction 1173 1202	immune-mediated enterocolitis
+T16	Severity 1252 1260	moderate
+T17	AdverseReaction 1262 1270	diarrhea
+T18	Severity 1276 1305	up to 6 stools above baseline
+T19	AdverseReaction 1307 1321	abdominal pain
+T20	AdverseReaction 1323 1328;1338 1346	mucus in stool
+T21	AdverseReaction 1332 1346	blood in stool
+T22	Severity 1348 1355	Grade 2
+T23	AdverseReaction 1357 1370	enterocolitis
+T24	AdverseReaction 1486 1508	intestinal perforation
+T25	AdverseReaction 1528 1532	died
+T26	AdverseReaction 1613 1626	enterocolitis
+T27	Severity 1606 1612	severe
+T28	AdverseReaction 1780 1793	enterocolitis
+T29	Severity 1770 1777	Grade 3
+T30	Severity 1770 1775;1778 1779	Grade 5
+T31	Severity 1770 1779	Grade 3-5
+T32	AdverseReaction 1811 1824	enterocolitis
+T33	Severity 1803 1810	Grade 2
+T34	AdverseReaction 1886 1899	enterocolitis
+T35	Severity 1876 1883	Grade 3
+T36	Severity 1876 1881;1884 1885	Grade 5
+T37	Severity 1876 1885	Grade 3-5
+T38	AdverseReaction 2187 2200	enterocolitis
+T39	Severity 2178 2186	moderate
+T40	AdverseReaction 2568 2597	immune-mediated enterocolitis
+T41	Severity 2540 2546	severe
+T42	Severity 2530 2538	moderate
+T43	Severity 2551 2567	life-threatening
+T44	Severity 2676 2685	Grade 3-5
+T45	Severity 2676 2683	Grade 3
+T46	Severity 2676 2681;2684 2685	Grade 5
+T47	AdverseReaction 2686 2699	enterocolitis
+T48	AdverseReaction 2846 2859	enterocolitis
+T49	Severity 2838 2845	Grade 2
+T50	Severity 4001 4007	severe
+T51	Severity 4009 4025	life-threatening
+T52	AdverseReaction 4030 4035	fatal
+T53	AdverseReaction 4036 4050	hepatotoxicity
+T54	AdverseReaction 4052 4055;4063 4073	AST elevations
+T55	AdverseReaction 4059 4073	ALT elevations
+T56	Severity 4087 4120	5 times the upper limit of normal
+T57	AdverseReaction 4124 4150	total bilirubin elevations
+T58	Severity 4161 4194	3 times the upper limit of normal
+T59	Severity 4196 4203	Grade 3
+T60	Severity 4196 4205	Grade 3-5
+T61	Severity 4196 4201;4204 4205	Grade 5
+T62	AdverseReaction 4256 4261	fatal
+T63	AdverseReaction 4262 4277	hepatic failure
+T64	AdverseReaction 4396 4410	hepatotoxicity
+T65	Severity 4387 4395	moderate
+T66	AdverseReaction 4460 4463;4471 4481	AST elevations
+T67	AdverseReaction 4467 4481	ALT elevations
+T68	Severity 4495 4556	2.5 times but not more than 5 times the upper limit of normal
+T69	AdverseReaction 4560 4585	total bilirubin elevation
+T70	Severity 4599 4660	1.5 times but not more than 3 times the upper limit of normal
+T71	Severity 4662 4669	Grade 2
+T73	AdverseReaction 5921 5947	increases in transaminases
+T74	Severity 5913 5920	Grade 3
+T75	Severity 6176 6182	severe
+T76	Severity 6184 6200	life-threatening
+T77	AdverseReaction 6205 6210	fatal
+T78	AdverseReaction 6211 6237	immune-mediated dermatitis
+T79	AdverseReaction 6243 6267	Stevens-Johnson syndrome
+T80	AdverseReaction 6269 6295	toxic epidermal necrolysis
+T81	AdverseReaction 6300 6304	rash
+T82	AdverseReaction 6335 6352	dermal ulceration
+T83	AdverseReaction 6335 6341;6357 6365;6391 6405	dermal necrotic manifestations
+T84	AdverseReaction 6335 6341;6367 6374;6391 6405	dermal bullous manifestations
+T85	AdverseReaction 6335 6341;6379 6405	dermal hemorrhagic manifestations
+T86	Severity 6407 6414	Grade 3
+T87	Severity 6407 6412;6415 6416	Grade 5
+T88	Severity 6407 6416	Grade 3-5
+T89	AdverseReaction 6484 6488	died
+T90	AdverseReaction 6504 6530	toxic epidermal necrolysis
+T91	AdverseReaction 6594 6604	dermatitis
+T92	Severity 6587 6593	severe
+T93	AdverseReaction 6659 6669	dermatitis
+T94	Severity 6640 6648	moderate
+T95	Severity 6650 6657	Grade 2
+T96	Severity 6703 6711	moderate
+T97	Severity 6713 6719	severe
+T98	Severity 6724 6740	life-threatening
+T99	AdverseReaction 6741 6767	immune-mediated dermatitis
+T100	AdverseReaction 6893 6903	dermatitis
+T101	Severity 6886 6892	severe
+T102	AdverseReaction 7172 7182	dermatitis
+T103	Severity 7163 7171	moderate
+T104	AdverseReaction 7475 7485	dermatitis
+T105	Severity 7466 7474	moderate
+T106	AdverseReaction 8625 8630	fatal
+T107	AdverseReaction 8631 8654	Guillain-Barre syndrome
+T108	Severity 8669 8675	severe
+T109	Severity 8677 8684	Grade 3
+T110	AdverseReaction 8686 8713	peripheral motor neuropathy
+T111	AdverseReaction 8780 8797	myasthenia gravis
+T112	AdverseReaction 8822 8845	Guillain-Barre syndrome
+T113	Severity 9571 9587	life-threatening
+T114	AdverseReaction 9588 9620	immune-mediated endocrinopathies
+T115	Severity 9726 9733	Grade 3
+T116	Severity 9726 9735	Grade 3-4
+T117	Severity 9726 9731;9734 9735	Grade 4
+T118	Severity 9561 9567	severe
+T119	AdverseReaction 9802 9817	hypopituitarism
+T120	AdverseReaction 9854 9870	endocrinopathies
+T121	AdverseReaction 9879 9900	adrenal insufficiency
+T122	AdverseReaction 9902 9914	hypogonadism
+T123	AdverseReaction 9920 9934	hypothyroidism
+T124	AdverseReaction 9987 10003	endocrinopathies
+T125	Severity 9980 9986	severe
+T126	AdverseReaction 10014 10028	endocrinopathy
+T127	Severity 10005 10013	Moderate
+T128	Severity 10085 10092	Grade 2
+T129	AdverseReaction 10142 10156	hypothyroidism
+T130	AdverseReaction 10158 10179	adrenal insufficiency
+T131	AdverseReaction 10181 10196	hypopituitarism
+T132	AdverseReaction 10217 10232	hyperthyroidism
+T133	AdverseReaction 10237 10255	Cushing's syndrome
+T134	Severity 10285 10293	moderate
+T135	Severity 10297 10303	severe
+T136	AdverseReaction 10304 10334	immune-mediated endocrinopathy
+T137	Severity 10436 10444	moderate
+T138	Severity 10448 10464	life-threatening
+T139	AdverseReaction 10465 10479	endocrinopathy
+T147	AdverseReaction 11307 11319	hypophysitis
+T148	AdverseReaction 11867 11876	nephritis
+T149	AdverseReaction 11878 11889	pneumonitis
+T150	AdverseReaction 11891 11901	meningitis
+T151	AdverseReaction 11903 11915	pericarditis
+T152	AdverseReaction 11917 11924	uveitis
+T153	AdverseReaction 11926 11932	iritis
+T154	AdverseReaction 11938 11954	hemolytic anemia
+T155	AdverseReaction 12115 12126	myocarditis
+T156	AdverseReaction 12128 12138	angiopathy
+T157	AdverseReaction 12140 12158	temporal arteritis
+T158	AdverseReaction 12160 12170	vasculitis
+T159	AdverseReaction 12172 12194	polymyalgia rheumatica
+T160	AdverseReaction 12196 12210	conjunctivitis
+T161	AdverseReaction 12212 12223	blepharitis
+T162	AdverseReaction 12225 12237	episcleritis
+T163	AdverseReaction 12239 12248	scleritis
+T164	AdverseReaction 12250 12277	leukocytoclastic vasculitis
+T165	AdverseReaction 12279 12298	erythema multiforme
+T166	AdverseReaction 12300 12309	psoriasis
+T167	AdverseReaction 12311 12323	pancreatitis
+T168	AdverseReaction 12325 12334	arthritis
+T169	AdverseReaction 12336 12358	autoimmune thyroiditis
+T170	AdverseReaction 12360 12371	sarcoidosis
+T171	AdverseReaction 12373 12396	neurosensory hypoacusis
+T172	AdverseReaction 12398 12427	autoimmune central neuropathy
+T173	AdverseReaction 12429 12441	encephalitis
+T174	AdverseReaction 12444 12452	myositis
+T175	AdverseReaction 12454 12466	polymyositis
+T176	AdverseReaction 12472 12487	ocular myositis
+T177	Factor 46 49	can
+T178	Severity 60 66	severe
+T179	AdverseReaction 71 76	fatal
+T180	AdverseReaction 77 102	immune-mediated reactions
+T181	AdverseReaction 4425 4458	liver function test abnormalities
+T182	AdverseReaction 4764 4789	immune-mediated hepatitis
+T140	AdverseReaction 11768 11801	immune-mediated adverse reactions
+T141	AdverseReaction 12033 12066	immune-mediated adverse reactions
+T142	AdverseReaction 5976 6004	increases in total bilirubin
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	Severity:T4
+E5	Severity:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7 Effect:E9 Effect2:E13 Effect3:E12 Effect4:E14
+E8	AdverseReaction:T8 Effect:E13 Effect2:E12 Effect3:E14
+E9	Severity:T9
+E10	AdverseReaction:T10 Effect:E13 Effect2:E12 Effect3:E14
+E11	AdverseReaction:T11 Effect:E13 Effect2:E14 Effect3:E12
+E12	Severity:T12
+E13	Severity:T13
+E14	Severity:T14
+E15	AdverseReaction:T15 Effect:E5 Effect2:E4
+E16	Severity:T16
+E17	AdverseReaction:T17 Effect:E18 Effect3:E22
+E18	Severity:T18
+E19	AdverseReaction:T19 Effect:E22
+E20	AdverseReaction:T20 Effect:E22
+E21	AdverseReaction:T21 Effect:E22
+E22	Severity:T22
+E23	AdverseReaction:T23 Effect:E16
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26 Effect:E27
+E27	Severity:T27
+E28	AdverseReaction:T28 Effect:E30 Effect2:E29 Effect3:E31
+E29	Severity:T29
+E30	Severity:T30
+E31	Severity:T31
+E32	AdverseReaction:T32 Effect:E33
+E33	Severity:T33
+E34	AdverseReaction:T34 Effect:E36 Effect2:E35 Effect3:E37
+E35	Severity:T35
+E36	Severity:T36
+E37	Severity:T37
+E38	AdverseReaction:T38 Effect:E39
+E39	Severity:T39
+E40	AdverseReaction:T40 Effect:E43 Effect2:E41 Effect3:E42
+E41	Severity:T41
+E42	Severity:T42
+E43	Severity:T43
+E44	Severity:T44
+E45	Severity:T45
+E46	Severity:T46
+E47	AdverseReaction:T47 Effect:E46 Effect2:E45 Effect3:E44
+E48	AdverseReaction:T48 Effect:E49
+E49	Severity:T49
+E50	Severity:T50
+E51	Severity:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53 Effect:E51 Effect2:E50
+E54	AdverseReaction:T54 Effect:E56 Effect2:E61 Effect3:E59 Effect4:E60
+E55	AdverseReaction:T55 Effect:E56 Effect2:E61 Effect3:E59 Effect4:E60
+E56	Severity:T56
+E57	AdverseReaction:T57 Effect:E58 Effect2:E61 Effect3:E59 Effect4:E60
+E58	Severity:T58
+E59	Severity:T59
+E60	Severity:T60
+E61	Severity:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64 Effect:E65
+E65	Severity:T65
+E66	AdverseReaction:T66 Effect:E68 Effect2:E71
+E67	AdverseReaction:T67 Effect:E68 Effect2:E71
+E68	Severity:T68
+E69	AdverseReaction:T69 Effect:E70 Effect2:E71
+E70	Severity:T70
+E71	Severity:T71
+E73	AdverseReaction:T73 Effect:E74
+E74	Severity:T74
+E75	Severity:T75
+E76	Severity:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78 Effect:E76 Effect2:E75
+E79	AdverseReaction:T79 Effect:E87 Effect2:E86 Effect3:E88
+E80	AdverseReaction:T80 Effect:E88 Effect2:E87
+E81	AdverseReaction:T81 Effect:E87 Effect2:E88 Effect3:E86
+E82	AdverseReaction:T82 Effect:E87 Effect2:E86 Effect3:E88
+E83	AdverseReaction:T83 Effect:E87 Effect2:E86 Effect3:E88
+E84	AdverseReaction:T84 Effect:E87 Effect2:E86 Effect3:E88
+E85	AdverseReaction:T85 Effect:E87 Effect2:E88 Effect3:E86
+E86	Severity:T86
+E87	Severity:T87
+E88	Severity:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91 Effect:E92
+E92	Severity:T92
+E93	AdverseReaction:T93 Effect:E95 Effect2:E94
+E94	Severity:T94
+E95	Severity:T95
+E96	Severity:T96
+E97	Severity:T97
+E98	Severity:T98
+E99	AdverseReaction:T99 Effect:E98 Effect2:E97 Effect3:E96
+E100	AdverseReaction:T100 Effect:E101
+E101	Severity:T101
+E102	AdverseReaction:T102 Effect:E103
+E103	Severity:T103
+E104	AdverseReaction:T104 Effect:E105
+E105	Severity:T105
+E106	AdverseReaction:T106
+E107	AdverseReaction:T107
+E108	Severity:T108
+E109	Severity:T109
+E110	AdverseReaction:T110 Effect:E109 Effect2:E108
+E111	AdverseReaction:T111
+E112	AdverseReaction:T112
+E113	Severity:T113
+E114	AdverseReaction:T114 Effect:E117 Effect2:E115 Effect3:E116 Effect4:E113 Effect5:E118
+E115	Severity:T115
+E116	Severity:T116
+E117	Severity:T117
+E118	Severity:T118
+E119	AdverseReaction:T119
+E120	AdverseReaction:T120
+E121	AdverseReaction:T121
+E122	AdverseReaction:T122
+E123	AdverseReaction:T123
+E124	AdverseReaction:T124 Effect:E125
+E125	Severity:T125
+E126	AdverseReaction:T126 Effect:E127 Effect2:E128
+E127	Severity:T127
+E128	Severity:T128
+E129	AdverseReaction:T129
+E130	AdverseReaction:T130
+E131	AdverseReaction:T131
+E132	AdverseReaction:T132
+E133	AdverseReaction:T133
+E134	Severity:T134
+E135	Severity:T135
+E136	AdverseReaction:T136 Effect:E135 Effect2:E134
+E137	Severity:T137
+E138	Severity:T138
+E139	AdverseReaction:T139 Effect:E138 Effect2:E137
+E147	AdverseReaction:T147
+E148	AdverseReaction:T148
+E149	AdverseReaction:T149
+E150	AdverseReaction:T150
+E151	AdverseReaction:T151
+E152	AdverseReaction:T152
+E153	AdverseReaction:T153
+E154	AdverseReaction:T154
+E155	AdverseReaction:T155
+E156	AdverseReaction:T156
+E157	AdverseReaction:T157
+E158	AdverseReaction:T158
+E159	AdverseReaction:T159
+E160	AdverseReaction:T160
+E161	AdverseReaction:T161
+E162	AdverseReaction:T162
+E163	AdverseReaction:T163
+E164	AdverseReaction:T164
+E165	AdverseReaction:T165
+E166	AdverseReaction:T166
+E167	AdverseReaction:T167
+E168	AdverseReaction:T168
+E169	AdverseReaction:T169
+E170	AdverseReaction:T170
+E171	AdverseReaction:T171
+E172	AdverseReaction:T172
+E173	AdverseReaction:T173
+E174	AdverseReaction:T174
+E175	AdverseReaction:T175
+E176	AdverseReaction:T176
+E177	Factor:T177
+E178	Severity:T178
+E179	AdverseReaction:T179 Hypothetical:E177
+E180	AdverseReaction:T180 Hypothetical:E177 Effect:E178
+E181	AdverseReaction:T181
+E182	AdverseReaction:T182
+E140	AdverseReaction:T140
+E141	AdverseReaction:T141
+E142	AdverseReaction:T142
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	flag E2 underspecified
+A6	CUI E2 C0241910
+A7	UMLS-Preferred-Name E2 Hepatitis, Autoimmune
+A8	MEDDRA-PT E2 Autoimmune hepatitis
+A9	MEDDRA-PT-ID E2 10003827
+A10	flag E3 underspecified; HLT
+A11	CUI E3 C0342552
+A12	UMLS-Preferred-Name E3 Autoimmune endocrine disease
+A13	MEDDRA-PT E3 Endocrine autoimmune disorders
+A14	MEDDRA-PT-ID E3 10003818
+A15	CUI E6 C1306577
+A16	UMLS-Preferred-Name E6 Death (finding)
+A17	MEDDRA-PT E6 Death
+A18	MEDDRA-PT-ID E6 10011906
+A19	CUI E7 C0011991
+A20	UMLS-Preferred-Name E7 Diarrhea
+A21	MEDDRA-PT E7 Diarrhoea
+A22	MEDDRA-PT-ID E7 10012735
+A23	LLT E7 Diarrhea
+A24	LLT-ID E7 10012727
+A25	CUI E8 C0015967
+A26	UMLS-Preferred-Name E8 Fever
+A27	MEDDRA-PT E8 Pyrexia
+A28	MEDDRA-PT-ID E8 10037660
+A29	LLT E8 Fever
+A30	LLT-ID E8 10016558
+A31	CUI E10 C1258215
+A32	UMLS-Preferred-Name E10 Ileus
+A33	MEDDRA-PT E10 Ileus
+A34	MEDDRA-PT-ID E10 10021328
+A35	CUI E11 C0031142
+A36	UMLS-Preferred-Name E11 Peritoneal Diseases
+A37	MEDDRA-PT E11 Peritoneal disorder
+A38	MEDDRA-PT-ID E11 10061343
+A39	flag E15 underspecified
+A40	CUI E15 C3888552
+A41	UMLS-Preferred-Name E15 Autoimmune colitis
+A42	MEDDRA-PT E15 Autoimmune colitis
+A43	MEDDRA-PT-ID E15 10075761
+A44	CUI E17 C0011991
+A45	UMLS-Preferred-Name E17 Diarrhea
+A46	MEDDRA-PT E17 Diarrhoea
+A47	MEDDRA-PT-ID E17 10012735
+A48	LLT E17 Diarrhea
+A49	LLT-ID E17 10012727
+A50	CUI E19 C0000737
+A51	UMLS-Preferred-Name E19 Abdominal Pain
+A52	MEDDRA-PT E19 Abdominal pain
+A53	MEDDRA-PT-ID E19 10000081
+A54	CUI E20 C0241254
+A55	UMLS-Preferred-Name E20 Mucus in stool
+A56	MEDDRA-PT E20 Mucous stools
+A57	MEDDRA-PT-ID E20 10028140
+A58	CUI E21 C1321898
+A59	UMLS-Preferred-Name E21 Blood in stool
+A60	MEDDRA-PT E21 Haematochezia
+A61	MEDDRA-PT-ID E21 10018836
+A62	LLT E21 Blood in stool
+A63	LLT-ID E21 10005603
+A64	CUI E23 C0014356
+A65	UMLS-Preferred-Name E23 Enterocolitis
+A66	MEDDRA-PT E23 Enterocolitis
+A67	MEDDRA-PT-ID E23 10014893
+A68	CUI E24 C0021845
+A69	UMLS-Preferred-Name E24 Intestinal Perforation
+A70	MEDDRA-PT E24 Intestinal perforation
+A71	MEDDRA-PT-ID E24 10022694
+A72	CUI E25 C1306577
+A73	UMLS-Preferred-Name E25 Death (finding)
+A74	MEDDRA-PT E25 Death
+A75	MEDDRA-PT-ID E25 10011906
+A76	CUI E26 C0014356
+A77	UMLS-Preferred-Name E26 Enterocolitis
+A78	MEDDRA-PT E26 Enterocolitis
+A79	MEDDRA-PT-ID E26 10014893
+A80	CUI E28 C0014356
+A81	UMLS-Preferred-Name E28 Enterocolitis
+A82	MEDDRA-PT E28 Enterocolitis
+A83	MEDDRA-PT-ID E28 10014893
+A84	CUI E32 C0014356
+A85	UMLS-Preferred-Name E32 Enterocolitis
+A86	MEDDRA-PT E32 Enterocolitis
+A87	MEDDRA-PT-ID E32 10014893
+A88	CUI E34 C0014356
+A89	UMLS-Preferred-Name E34 Enterocolitis
+A90	MEDDRA-PT E34 Enterocolitis
+A91	MEDDRA-PT-ID E34 10014893
+A92	CUI E38 C0014356
+A93	UMLS-Preferred-Name E38 Enterocolitis
+A94	MEDDRA-PT E38 Enterocolitis
+A95	MEDDRA-PT-ID E38 10014893
+A96	flag E40 underspecified
+A97	CUI E40 C3888552
+A98	UMLS-Preferred-Name E40 Autoimmune colitis
+A99	MEDDRA-PT E40 Autoimmune colitis
+A100	MEDDRA-PT-ID E40 10075761
+A101	CUI E47 C0014356
+A102	UMLS-Preferred-Name E47 Enterocolitis
+A103	MEDDRA-PT E47 Enterocolitis
+A104	MEDDRA-PT-ID E47 10014893
+A105	CUI E48 C0014356
+A106	UMLS-Preferred-Name E48 Enterocolitis
+A107	MEDDRA-PT E48 Enterocolitis
+A108	MEDDRA-PT-ID E48 10014893
+A109	CUI E52 C1306577
+A110	UMLS-Preferred-Name E52 Death (finding)
+A111	MEDDRA-PT E52 Death
+A112	MEDDRA-PT-ID E52 10011906
+A113	CUI E53 C0235378
+A114	UMLS-Preferred-Name E53 Hepatotoxicity
+A115	MEDDRA-PT E53 Hepatotoxicity
+A116	MEDDRA-PT-ID E53 10019851
+A117	CUI E54 C0151904
+A118	UMLS-Preferred-Name E54 Aspartate aminotransferase increased
+A119	MEDDRA-PT E54 Aspartate aminotransferase increased
+A120	MEDDRA-PT-ID E54 10003481
+A121	LLT E54 AST increased
+A122	LLT-ID E54 10003544
+A123	CUI E55 C0151905
+A124	UMLS-Preferred-Name E55 Alanine aminotransferase increased
+A125	MEDDRA-PT E55 Alanine aminotransferase increased
+A126	MEDDRA-PT-ID E55 10001551
+A127	LLT E55 ALT increased
+A128	LLT-ID E55 10001845
+A129	CUI E57 C0741494
+A130	UMLS-Preferred-Name E57 Elevated total bilirubin
+A131	MEDDRA-PT E57 Blood bilirubin increased
+A132	MEDDRA-PT-ID E57 10005364
+A133	LLT E57 Bilirubin total increased
+A134	LLT-ID E57 10056806
+A135	CUI E62 C1306577
+A136	UMLS-Preferred-Name E62 Death (finding)
+A137	MEDDRA-PT E62 Death
+A138	MEDDRA-PT-ID E62 10011906
+A139	CUI E63 C0085605
+A140	UMLS-Preferred-Name E63 Liver Failure
+A141	MEDDRA-PT E63 Hepatic failure
+A142	MEDDRA-PT-ID E63 10019663
+A143	CUI E64 C0235378
+A144	UMLS-Preferred-Name E64 Hepatotoxicity
+A145	MEDDRA-PT E64 Hepatotoxicity
+A146	MEDDRA-PT-ID E64 10019851
+A147	CUI E66 C0151904
+A148	UMLS-Preferred-Name E66 Aspartate aminotransferase increased
+A149	MEDDRA-PT E66 Aspartate aminotransferase increased
+A150	MEDDRA-PT-ID E66 10003481
+A151	LLT E66 AST increased
+A152	LLT-ID E66 10003544
+A153	CUI E67 C0151905
+A154	UMLS-Preferred-Name E67 Alanine aminotransferase increased
+A155	MEDDRA-PT E67 Alanine aminotransferase increased
+A156	MEDDRA-PT-ID E67 10001551
+A157	LLT E67 ALT increased
+A158	LLT-ID E67 10001845
+A159	CUI E69 C0741494
+A160	UMLS-Preferred-Name E69 Elevated total bilirubin
+A161	MEDDRA-PT E69 Blood bilirubin increased
+A162	MEDDRA-PT-ID E69 10005364
+A163	LLT E69 Bilirubin total increased
+A164	LLT-ID E69 10056806
+A165	CUI E73 C0438717
+A166	UMLS-Preferred-Name E73 Transaminases increased
+A167	MEDDRA-PT E73 Transaminases increased
+A168	MEDDRA-PT-ID E73 10054889
+A169	CUI E77 C1306577
+A170	UMLS-Preferred-Name E77 Death (finding)
+A171	MEDDRA-PT E77 Death
+A172	MEDDRA-PT-ID E77 10011906
+A173	CUI E78 C3670617
+A174	UMLS-Preferred-Name E78 Immune mediated dermatitis
+A175	MEDDRA-PT E78 Dermatitis allergic
+A176	MEDDRA-PT-ID E78 10012434
+A177	CUI E79 C0038325
+A178	UMLS-Preferred-Name E79 Stevens-Johnson Syndrome
+A179	MEDDRA-PT E79 Stevens-Johnson syndrome
+A180	MEDDRA-PT-ID E79 10042033
+A181	CUI E80 C0014518
+A182	UMLS-Preferred-Name E80 Toxic Epidermal Necrolysis
+A183	MEDDRA-PT E80 Toxic epidermal necrolysis
+A184	MEDDRA-PT-ID E80 10044223
+A185	CUI E81 C0015230
+A186	UMLS-Preferred-Name E81 Exanthema
+A187	MEDDRA-PT E81 Rash
+A188	MEDDRA-PT-ID E81 10037844
+A189	CUI E82 C0037299
+A190	UMLS-Preferred-Name E82 Skin Ulcer
+A191	MEDDRA-PT E82 Skin ulcer
+A192	MEDDRA-PT-ID E82 10040943
+A193	LLT E82 Skin ulceration
+A194	LLT-ID E82 10040947
+A195	CUI E83 C0151799
+A196	UMLS-Preferred-Name E83 Skin necrosis
+A197	MEDDRA-PT E83 Skin necrosis
+A198	MEDDRA-PT-ID E83 10040893
+A199	CUI E84 C0085932
+A200	UMLS-Preferred-Name E84 Skin Diseases, Bullous
+A201	MEDDRA-PT E84 Dermatitis bullous
+A202	MEDDRA-PT-ID E84 10012441
+A203	CUI E85 C0235955
+A204	UMLS-Preferred-Name E85 Dermatitis hemorrhagic
+A205	MEDDRA-PT E85 Purpura
+A206	MEDDRA-PT-ID E85 10037549
+A207	LLT E85 Dermatitis hemorrhagic
+A208	LLT-ID E85 10012467
+A209	CUI E89 C1306577
+A210	UMLS-Preferred-Name E89 Death (finding)
+A211	MEDDRA-PT E89 Death
+A212	MEDDRA-PT-ID E89 10011906
+A213	CUI E90 C0014518
+A214	UMLS-Preferred-Name E90 Toxic Epidermal Necrolysis
+A215	MEDDRA-PT E90 Toxic epidermal necrolysis
+A216	MEDDRA-PT-ID E90 10044223
+A217	CUI E91 C0011603
+A218	UMLS-Preferred-Name E91 Dermatitis
+A219	MEDDRA-PT E91 Dermatitis
+A220	MEDDRA-PT-ID E91 10012431
+A221	CUI E93 C0011603
+A222	UMLS-Preferred-Name E93 Dermatitis
+A223	MEDDRA-PT E93 Dermatitis
+A224	MEDDRA-PT-ID E93 10012431
+A225	CUI E99 C3670617
+A226	UMLS-Preferred-Name E99 Immune mediated dermatitis
+A227	MEDDRA-PT E99 Dermatitis allergic
+A228	MEDDRA-PT-ID E99 10012434
+A229	CUI E100 C0011603
+A230	UMLS-Preferred-Name E100 Dermatitis
+A231	MEDDRA-PT E100 Dermatitis
+A232	MEDDRA-PT-ID E100 10012431
+A233	CUI E102 C0011603
+A234	UMLS-Preferred-Name E102 Dermatitis
+A235	MEDDRA-PT E102 Dermatitis
+A236	MEDDRA-PT-ID E102 10012431
+A237	CUI E104 C0011603
+A238	UMLS-Preferred-Name E104 Dermatitis
+A239	MEDDRA-PT E104 Dermatitis
+A240	MEDDRA-PT-ID E104 10012431
+A241	CUI E106 C1306577
+A242	UMLS-Preferred-Name E106 Death (finding)
+A243	MEDDRA-PT E106 Death
+A244	MEDDRA-PT-ID E106 10011906
+A245	CUI E107 C0018378
+A246	UMLS-Preferred-Name E107 Guillain-Barre Syndrome
+A247	MEDDRA-PT E107 Guillain-Barre syndrome
+A248	MEDDRA-PT-ID E107 10018767
+A249	CUI E110 C0235025
+A250	UMLS-Preferred-Name E110 Peripheral motor neuropathy
+A251	MEDDRA-PT E110 Peripheral motor neuropathy
+A252	MEDDRA-PT-ID E110 10034580
+A253	CUI E111 C0026896
+A254	UMLS-Preferred-Name E111 Myasthenia Gravis
+A255	MEDDRA-PT E111 Myasthenia gravis
+A256	MEDDRA-PT-ID E111 10028417
+A257	CUI E112 C0018378
+A258	UMLS-Preferred-Name E112 Guillain-Barre Syndrome
+A259	MEDDRA-PT E112 Guillain-Barre syndrome
+A260	MEDDRA-PT-ID E112 10018767
+A261	flag E114 underspecified; HLT
+A262	CUI E114 C0342552
+A263	UMLS-Preferred-Name E114 Autoimmune endocrine disease
+A264	MEDDRA-PT E114 Endocrine autoimmune disorders
+A265	MEDDRA-PT-ID E114 10003818
+A266	CUI E119 C0020635
+A267	UMLS-Preferred-Name E119 Hypopituitarism
+A268	MEDDRA-PT E119 Hypopituitarism
+A269	MEDDRA-PT-ID E119 10021067
+A270	CUI E120 C0014130
+A271	UMLS-Preferred-Name E120 Endocrine System Diseases
+A272	MEDDRA-PT E120 Endocrine disorder
+A273	MEDDRA-PT-ID E120 10014695
+A274	CUI E121 C0001623
+A275	UMLS-Preferred-Name E121 Adrenal gland hypofunction
+A276	MEDDRA-PT E121 Adrenal insufficiency
+A277	MEDDRA-PT-ID E121 10001367
+A278	CUI E122 C0020619
+A279	UMLS-Preferred-Name E122 Hypogonadism
+A280	MEDDRA-PT E122 Hypogonadism
+A281	MEDDRA-PT-ID E122 10058359
+A282	CUI E123 C0020676
+A283	UMLS-Preferred-Name E123 Hypothyroidism
+A284	MEDDRA-PT E123 Hypothyroidism
+A285	MEDDRA-PT-ID E123 10021114
+A286	CUI E124 C0014130
+A287	UMLS-Preferred-Name E124 Endocrine System Diseases
+A288	MEDDRA-PT E124 Endocrine disorder
+A289	MEDDRA-PT-ID E124 10014695
+A290	CUI E126 C0014130
+A291	UMLS-Preferred-Name E126 Endocrine System Diseases
+A292	MEDDRA-PT E126 Endocrine disorder
+A293	MEDDRA-PT-ID E126 10014695
+A294	CUI E129 C0020676
+A295	UMLS-Preferred-Name E129 Hypothyroidism
+A296	MEDDRA-PT E129 Hypothyroidism
+A297	MEDDRA-PT-ID E129 10021114
+A298	CUI E130 C0001623
+A299	UMLS-Preferred-Name E130 Adrenal gland hypofunction
+A300	MEDDRA-PT E130 Adrenal insufficiency
+A301	MEDDRA-PT-ID E130 10001367
+A302	CUI E131 C0020635
+A303	UMLS-Preferred-Name E131 Hypopituitarism
+A304	MEDDRA-PT E131 Hypopituitarism
+A305	MEDDRA-PT-ID E131 10021067
+A306	CUI E132 C0020550
+A307	UMLS-Preferred-Name E132 Hyperthyroidism
+A308	MEDDRA-PT E132 Hyperthyroidism
+A309	MEDDRA-PT-ID E132 10020850
+A310	CUI E133 C0010481
+A311	UMLS-Preferred-Name E133 Cushing Syndrome
+A312	MEDDRA-PT E133 Cushing's syndrome
+A313	MEDDRA-PT-ID E133 10011652
+A314	flag E136 underspecified; HLT
+A315	CUI E136 C0342552
+A316	UMLS-Preferred-Name E136 Autoimmune endocrine disease
+A317	MEDDRA-PT E136 Endocrine autoimmune disorders
+A318	MEDDRA-PT-ID E136 10003818
+A319	CUI E139 C0014130
+A320	UMLS-Preferred-Name E139 Endocrine System Diseases
+A321	MEDDRA-PT E139 Endocrine disorder
+A322	MEDDRA-PT-ID E139 10014695
+A323	CUI E147 C0342409
+A324	UMLS-Preferred-Name E147 Hypophysitis
+A325	MEDDRA-PT E147 Hypophysitis
+A326	MEDDRA-PT-ID E147 10062767
+A327	CUI E148 C0027697
+A328	UMLS-Preferred-Name E148 Nephritis
+A329	MEDDRA-PT E148 Nephritis
+A330	MEDDRA-PT-ID E148 10029117
+A331	CUI E149 C3714636
+A332	UMLS-Preferred-Name E149 Pneumonitis
+A333	MEDDRA-PT E149 Pneumonitis
+A334	MEDDRA-PT-ID E149 10035742
+A335	CUI E150 C0025289
+A336	UMLS-Preferred-Name E150 Meningitis
+A337	MEDDRA-PT E150 Meningitis
+A338	MEDDRA-PT-ID E150 10027199
+A339	CUI E151 C0031046
+A340	UMLS-Preferred-Name E151 Pericarditis
+A341	MEDDRA-PT E151 Pericarditis
+A342	MEDDRA-PT-ID E151 10034484
+A343	CUI E152 C0042164
+A344	UMLS-Preferred-Name E152 Uveitis
+A345	MEDDRA-PT E152 Uveitis
+A346	MEDDRA-PT-ID E152 10046851
+A347	CUI E153 C0022081
+A348	UMLS-Preferred-Name E153 Iritis
+A349	MEDDRA-PT E153 Iritis
+A350	MEDDRA-PT-ID E153 10022955
+A351	CUI E154 C0002878
+A352	UMLS-Preferred-Name E154 Anemia, Hemolytic
+A353	MEDDRA-PT E154 Haemolytic anaemia
+A354	MEDDRA-PT-ID E154 10018916
+A355	LLT E154 Hemolytic anemia
+A356	LLT-ID E154 10019493
+A357	CUI E155 C0027059
+A358	UMLS-Preferred-Name E155 Myocarditis
+A359	MEDDRA-PT E155 Myocarditis
+A360	MEDDRA-PT-ID E155 10028606
+A361	CUI E156 C0042373
+A362	UMLS-Preferred-Name E156 Vascular Diseases
+A363	MEDDRA-PT E156 Angiopathy
+A364	MEDDRA-PT-ID E156 10059245
+A365	CUI E157 C1956391
+A366	UMLS-Preferred-Name E157 Temporal Arteritis
+A367	MEDDRA-PT E157 Temporal arteritis
+A368	MEDDRA-PT-ID E157 10043207
+A369	CUI E158 C0042384
+A370	UMLS-Preferred-Name E158 Vasculitis
+A371	MEDDRA-PT E158 Vasculitis
+A372	MEDDRA-PT-ID E158 10047115
+A373	CUI E159 C0032533
+A374	UMLS-Preferred-Name E159 Polymyalgia Rheumatica
+A375	MEDDRA-PT E159 Polymyalgia rheumatica
+A376	MEDDRA-PT-ID E159 10036099
+A377	CUI E160 C0009763
+A378	UMLS-Preferred-Name E160 Conjunctivitis
+A379	MEDDRA-PT E160 Conjunctivitis
+A380	MEDDRA-PT-ID E160 10010741
+A381	CUI E161 C0005741
+A382	UMLS-Preferred-Name E161 Blepharitis
+A383	MEDDRA-PT E161 Blepharitis
+A384	MEDDRA-PT-ID E161 10005148
+A385	CUI E162 C0014583
+A386	UMLS-Preferred-Name E162 Episcleritis
+A387	MEDDRA-PT E162 Episcleritis
+A388	MEDDRA-PT-ID E162 10015084
+A389	CUI E163 C0036416
+A390	UMLS-Preferred-Name E163 Scleritis
+A391	MEDDRA-PT E163 Scleritis
+A392	MEDDRA-PT-ID E163 10039705
+A393	CUI E164 C2973529
+A394	UMLS-Preferred-Name E164 Leukocytoclastic vasculitis
+A395	MEDDRA-PT E164 Hypersensitivity vasculitis
+A396	MEDDRA-PT-ID E164 10020764
+A397	LLT E164 Leukocytoclastic vasculitis
+A398	LLT-ID E164 10024377
+A399	CUI E165 C0014742
+A400	UMLS-Preferred-Name E165 Erythema Multiforme
+A401	MEDDRA-PT E165 Erythema multiforme
+A402	MEDDRA-PT-ID E165 10015218
+A403	CUI E166 C0033860
+A404	UMLS-Preferred-Name E166 Psoriasis
+A405	MEDDRA-PT E166 Psoriasis
+A406	MEDDRA-PT-ID E166 10037153
+A407	CUI E167 C0030305
+A408	UMLS-Preferred-Name E167 Pancreatitis
+A409	MEDDRA-PT E167 Pancreatitis
+A410	MEDDRA-PT-ID E167 10033645
+A411	CUI E168 C0003864
+A412	UMLS-Preferred-Name E168 Arthritis
+A413	MEDDRA-PT E168 Arthritis
+A414	MEDDRA-PT-ID E168 10003246
+A415	CUI E169 C0920350
+A416	UMLS-Preferred-Name E169 Autoimmune thyroiditis
+A417	MEDDRA-PT E169 Autoimmune thyroiditis
+A418	MEDDRA-PT-ID E169 10049046
+A419	CUI E170 C0036202
+A420	UMLS-Preferred-Name E170 Sarcoidosis
+A421	MEDDRA-PT E170 Sarcoidosis
+A422	MEDDRA-PT-ID E170 10039486
+A423	CUI E171 C1963781
+A424	UMLS-Preferred-Name E171 Neurosensory hypoacusis
+A425	MEDDRA-PT E171 Neurosensory hypoacusis
+A426	MEDDRA-PT-ID E171 10067587
+A427	CUI E172 C2748363
+A428	UMLS-Preferred-Name E172 Autoimmune neuropathy
+A429	MEDDRA-PT E172 Autoimmune neuropathy
+A430	MEDDRA-PT-ID E172 10070439
+A431	CUI E173 C0014038
+A432	UMLS-Preferred-Name E173 Encephalitis
+A433	MEDDRA-PT E173 Encephalitis
+A434	MEDDRA-PT-ID E173 10014581
+A435	CUI E174 C0027121
+A436	UMLS-Preferred-Name E174 Myositis
+A437	MEDDRA-PT E174 Myositis
+A438	MEDDRA-PT-ID E174 10028653
+A439	CUI E175 C0085655
+A440	UMLS-Preferred-Name E175 Polymyositis
+A441	MEDDRA-PT E175 Polymyositis
+A442	MEDDRA-PT-ID E175 10036102
+A443	flag E176 underspecified
+A444	CUI E176 C2350476
+A445	UMLS-Preferred-Name E176 Orbital Myositis
+A446	MEDDRA-PT E176 Extraocular muscle disorder
+A447	MEDDRA-PT-ID E176 10053635
+A448	LLT E176 Orbital myositis
+A449	LLT-ID E176 10031050
+A450	CUI E179 C1306577
+A451	UMLS-Preferred-Name E179 Death (finding)
+A452	MEDDRA-PT E179 Death
+A453	MEDDRA-PT-ID E179 10011906
+A454	CUI E180 C0020517
+A455	UMLS-Preferred-Name E180 Hypersensitivity
+A456	MEDDRA-PT E180 Hypersensitivity
+A457	MEDDRA-PT-ID E180 10020751
+A458	CUI E181 C0151766
+A459	UMLS-Preferred-Name E181 Liver function tests abnormal finding
+A460	MEDDRA-PT E181 Liver function test abnormal
+A461	MEDDRA-PT-ID E181 10024690
+A462	LLT E181 Liver function tests multiple abnorm
+A463	LLT-ID E181 10024694
+A464	flag E182 underspecified
+A465	CUI E182 C0241910
+A466	UMLS-Preferred-Name E182 Hepatitis, Autoimmune
+A467	MEDDRA-PT E182 Autoimmune hepatitis
+A468	MEDDRA-PT-ID E182 10003827
+A469	CUI E140 C0020517
+A470	UMLS-Preferred-Name E140 Hypersensitivity
+A471	MEDDRA-PT E140 Hypersensitivity
+A472	MEDDRA-PT-ID E140 10020751
+A473	CUI E141 C0020517
+A474	UMLS-Preferred-Name E141 Hypersensitivity
+A475	MEDDRA-PT E141 Hypersensitivity
+A476	MEDDRA-PT-ID E141 10020751
+A477	CUI E142 C0741494
+A478	UMLS-Preferred-Name E142 Elevated total bilirubin
+A479	MEDDRA-PT E142 Blood bilirubin increased
+A480	MEDDRA-PT-ID E142 10005364
+A481	LLT E142 Bilirubin total increased
+A482	LLT-ID E142 10056806

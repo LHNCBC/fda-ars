@@ -1,0 +1,44 @@
+55,66|TP|Hypotension|C0020649|10021097|55,66|Hypotension|C0020649,C3163620|10005734,10021097,10060933|fndg,fndg
+128,139|FP|hypovolemia|C0546884|10021137|fndg
+173,189|FP|renal impairment|C1565489|10062237|dsyn
+193,220|FP|low systolic blood pressure|C0277885|10005758|fndg
+324,352|FN|Impairment in renal function|C0341677
+324,334;338,343|FP|Impairment renal|C1565489|10062237|dsyn
+410,422|TP|Hypoglycemia|C0020615|10020993|410,422|Hypoglycemia|C0020615|10020993|dsyn
+575,587|FP|hypoglycemia|C0020615|10020993|dsyn
+606,632|TP|Genital mycotic infections|C0740330|10061180|606,632|Genital mycotic infections|C0740330|10061180|dsyn
+683,698|FN|Increased LDL-C|C0549399
+683,696|FP|Increased LDL|C0549399|10024910|fndg
+757,771|TP|Bladder Cancer|C0005684|10005003|757,771|Bladder Cancer|C0005684|10005003|neop
+789,804|TP|bladder cancers|C0005684|10005003|789,804|bladder cancers|C0005684|10005003|neop
+969,986|FP|of bladder cancer|C0005684|10005003|neop
+1200,1211|FP|Hypotension|C3163620,C0020649|10060933,10005734|fndg,fndg
+1232,1264|FN|intravascular volume contraction|C0750310
+1266,1289|FN|Symptomatic hypotension|C0863113
+1278,1289|FP|hypotension|C3163620,C0020649|10060933,10005734|fndg,fndg
+1389,1412|FP|impaired renal function|C1565489|10062237|dsyn
+1665,1676|FP|hypotension|C3163620,C0020649|10060933,10005734|fndg,fndg
+1714,1724;1728,1733|FP|Impairment Renal|C1565489|10062237|dsyn
+1756,1782|FN|increases serum creatinine|C0700225
+1787,1801|FN|decreases eGFR|C0853068
+1838,1861|FP|impaired renal function|C1565489|10062237|dsyn
+1904,1911;1933,1947|FN|Adverse renal function|C0151746
+2135,2147|FP|Hypoglycemia|C0020615|10020993|dsyn
+2266,2278|FP|hypoglycemia|C0020615|10020993|dsyn
+2313,2325|TP|hypoglycemia|C0020615|10020993|2313,2325|hypoglycemia|C0020615|10020993|dsyn
+2515,2527|FP|hypoglycemia|C0020615|10020993|dsyn
+2595,2621|FP|Genital Mycotic Infections|C0740330|10061180|dsyn
+2657,2683|TP|genital mycotic infections|C0740330|10061180|2657,2683|genital mycotic infections|C0740330|10061180|dsyn
+2712,2738|FP|genital mycotic infections|C0740330|10061180|dsyn
+2767,2793|TP|genital mycotic infections|C0740330|10061180|2767,2793|genital mycotic infections|C0740330|10061180|dsyn
+2936,2954|FN|Increases in LDL-C|C0549399
+3092,3106|FP|Bladder Cancer|C0005684|10005003|neop
+3162,3179|FP|of bladder cancer|C0005684|10005003|neop
+3165,3179|FN|bladder cancer|C0005684
+3385,3388;3394,3396;3410,3424|FP|the of bladder cancer|C0005684|10005003|neop
+3410,3424|FN|bladder cancer|C0005684
+3496,3510|FP|Bladder cancer|C0005684|10005003|neop
+3528,3537|FP|hematuria|C0018965|10018867|fndg
+3577,3583|FP|tumors|C0027651|10028980|neop
+3825,3839|FP|bladder tumors|C0005695|10005056|neop
+3953,3970|FP|of bladder cancer|C0005684|10005003|neop

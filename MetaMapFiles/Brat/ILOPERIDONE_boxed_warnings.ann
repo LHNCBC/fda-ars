@@ -1,0 +1,80 @@
+T1	AdverseReaction 40 49	MORTALITY
+T2	AdverseReaction 126 135	MORTALITY
+T3	AdverseReaction 305 310	death
+T5	Factor 455 459	risk
+T6	AdverseReaction 463 468	death
+T9	AdverseReaction 1435 1444	MORTALITY
+T11	AdverseReaction 1689 1694	death
+T12	AdverseReaction 640 645	death
+T13	AdverseReaction 765 770	death
+T14	AdverseReaction 796 802	deaths
+T15	AdverseReaction 847 860	heart failure
+T16	AdverseReaction 862 874	sudden death
+T18	AdverseReaction 897 906	pneumonia
+T7	DrugClass 1641 1660	antipsychotic drugs
+T8	DrugClass 257 276	antipsychotic drugs
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3 Hypothetical2:E8
+E5	Factor:T5
+E6	AdverseReaction:T6 Hypothetical:E5
+E9	AdverseReaction:T9
+E11	AdverseReaction:T11 Hypothetical2:E7
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E18	AdverseReaction:T18
+E7	DrugClass:T7
+E8	DrugClass:T8
+A1	CUI E1 C1306577
+A2	UMLS-Preferred-Name E1 Death (finding)
+A3	MEDDRA-PT E1 Death
+A4	MEDDRA-PT-ID E1 10011906
+A5	CUI E2 C1306577
+A6	UMLS-Preferred-Name E2 Death (finding)
+A7	MEDDRA-PT E2 Death
+A8	MEDDRA-PT-ID E2 10011906
+A9	CUI E3 C1306577
+A10	UMLS-Preferred-Name E3 Death (finding)
+A11	MEDDRA-PT E3 Death
+A12	MEDDRA-PT-ID E3 10011906
+A13	CUI E6 C1306577
+A14	UMLS-Preferred-Name E6 Death (finding)
+A15	MEDDRA-PT E6 Death
+A16	MEDDRA-PT-ID E6 10011906
+A17	CUI E9 C1306577
+A18	UMLS-Preferred-Name E9 Death (finding)
+A19	MEDDRA-PT E9 Death
+A20	MEDDRA-PT-ID E9 10011906
+A21	CUI E11 C1306577
+A22	UMLS-Preferred-Name E11 Death (finding)
+A23	MEDDRA-PT E11 Death
+A24	MEDDRA-PT-ID E11 10011906
+A25	CUI E12 C1306577
+A26	UMLS-Preferred-Name E12 Death (finding)
+A27	MEDDRA-PT E12 Death
+A28	MEDDRA-PT-ID E12 10011906
+A29	CUI E13 C1306577
+A30	UMLS-Preferred-Name E13 Death (finding)
+A31	MEDDRA-PT E13 Death
+A32	MEDDRA-PT-ID E13 10011906
+A33	CUI E14 C1306577
+A34	UMLS-Preferred-Name E14 Death (finding)
+A35	MEDDRA-PT E14 Death
+A36	MEDDRA-PT-ID E14 10011906
+A37	CUI E15 C0018801
+A38	UMLS-Preferred-Name E15 Heart failure
+A39	MEDDRA-PT E15 Cardiac failure
+A40	MEDDRA-PT-ID E15 10007554
+A41	LLT E15 Heart failure
+A42	LLT-ID E15 10019279
+A43	CUI E16 C0011071
+A44	UMLS-Preferred-Name E16 Sudden death
+A45	MEDDRA-PT E16 Sudden death
+A46	MEDDRA-PT-ID E16 10042434
+A47	CUI E18 C0032285
+A48	UMLS-Preferred-Name E18 Pneumonia
+A49	MEDDRA-PT E18 Pneumonia
+A50	MEDDRA-PT-ID E18 10035664

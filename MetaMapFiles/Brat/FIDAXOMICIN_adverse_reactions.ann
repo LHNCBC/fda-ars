@@ -1,0 +1,218 @@
+T1	AdverseReaction 76 82	nausea
+T2	AdverseReaction 90 98	vomiting
+T3	AdverseReaction 105 119	abdominal pain
+T4	AdverseReaction 126 153	gastrointestinal hemorrhage
+T5	AdverseReaction 160 166	anemia
+T6	AdverseReaction 177 188	neutropenia
+T7	AdverseReaction 1078 1086	Vomiting
+T8	AdverseReaction 1659 1665	Anemia
+T9	AdverseReaction 1768 1779	Neutropenia
+T10	AdverseReaction 1932 1938	Nausea
+T11	AdverseReaction 2041 2049	Vomiting
+T12	AdverseReaction 2150 2164	Abdominal Pain
+T13	AdverseReaction 2259 2286	Gastrointestinal Hemorrhage
+T14	AdverseReaction 2519 2539	abdominal distension
+T15	AdverseReaction 2541 2561	abdominal tenderness
+T16	AdverseReaction 2563 2572	dyspepsia
+T17	AdverseReaction 2574 2583	dysphagia
+T18	AdverseReaction 2585 2595	flatulence
+T19	AdverseReaction 2597 2619	intestinal obstruction
+T20	AdverseReaction 2621 2630	megacolon
+T21	AdverseReaction 2656 2692	increased blood alkaline phosphatase
+T22	AdverseReaction 2694 2721	decreased blood bicarbonate
+T23	AdverseReaction 2723 2748	increased hepatic enzymes
+T24	AdverseReaction 2750 2774	decreased platelet count
+T25	AdverseReaction 2820 2833	hyperglycemia
+T26	AdverseReaction 2835 2853	metabolic acidosis
+T27	AdverseReaction 2903 2916	drug eruption
+T28	AdverseReaction 2918 2926	pruritus
+T29	AdverseReaction 2928 2932	rash
+T30	AdverseReaction 3235 3261	Hypersensitivity reactions
+T31	AdverseReaction 3263 3270	dyspnea
+T32	AdverseReaction 3272 3282	angioedema
+T33	AdverseReaction 3284 3288	rash
+T34	AdverseReaction 3294 3302	pruritus
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+A1	CUI E1 C0027497
+A2	UMLS-Preferred-Name E1 Nausea
+A3	MEDDRA-PT E1 Nausea
+A4	MEDDRA-PT-ID E1 10028813
+A5	CUI E2 C0042963
+A6	UMLS-Preferred-Name E2 Vomiting
+A7	MEDDRA-PT E2 Vomiting
+A8	MEDDRA-PT-ID E2 10047700
+A9	CUI E3 C0000737
+A10	UMLS-Preferred-Name E3 Abdominal Pain
+A11	MEDDRA-PT E3 Abdominal pain
+A12	MEDDRA-PT-ID E3 10000081
+A13	CUI E4 C0017181
+A14	UMLS-Preferred-Name E4 Gastrointestinal Hemorrhage
+A15	MEDDRA-PT E4 Gastrointestinal haemorrhage
+A16	MEDDRA-PT-ID E4 10017955
+A17	LLT E4 Gastrointestinal hemorrhage
+A18	LLT-ID E4 10017960
+A19	CUI E5 C0002871
+A20	UMLS-Preferred-Name E5 Anemia
+A21	MEDDRA-PT E5 Anaemia
+A22	MEDDRA-PT-ID E5 10002034
+A23	LLT E5 Anemia
+A24	LLT-ID E5 10002272
+A25	CUI E6 C0027947
+A26	UMLS-Preferred-Name E6 Neutropenia
+A27	MEDDRA-PT E6 Neutropenia
+A28	MEDDRA-PT-ID E6 10029354
+A29	CUI E7 C0042963
+A30	UMLS-Preferred-Name E7 Vomiting
+A31	MEDDRA-PT E7 Vomiting
+A32	MEDDRA-PT-ID E7 10047700
+A33	CUI E8 C0002871
+A34	UMLS-Preferred-Name E8 Anemia
+A35	MEDDRA-PT E8 Anaemia
+A36	MEDDRA-PT-ID E8 10002034
+A37	LLT E8 Anemia
+A38	LLT-ID E8 10002272
+A39	CUI E9 C0027947
+A40	UMLS-Preferred-Name E9 Neutropenia
+A41	MEDDRA-PT E9 Neutropenia
+A42	MEDDRA-PT-ID E9 10029354
+A43	CUI E10 C0027497
+A44	UMLS-Preferred-Name E10 Nausea
+A45	MEDDRA-PT E10 Nausea
+A46	MEDDRA-PT-ID E10 10028813
+A47	CUI E11 C0042963
+A48	UMLS-Preferred-Name E11 Vomiting
+A49	MEDDRA-PT E11 Vomiting
+A50	MEDDRA-PT-ID E11 10047700
+A51	CUI E12 C0000737
+A52	UMLS-Preferred-Name E12 Abdominal Pain
+A53	MEDDRA-PT E12 Abdominal pain
+A54	MEDDRA-PT-ID E12 10000081
+A55	CUI E13 C0017181
+A56	UMLS-Preferred-Name E13 Gastrointestinal Hemorrhage
+A57	MEDDRA-PT E13 Gastrointestinal haemorrhage
+A58	MEDDRA-PT-ID E13 10017955
+A59	LLT E13 Gastrointestinal hemorrhage
+A60	LLT-ID E13 10017960
+A61	CUI E14 C0000731
+A62	UMLS-Preferred-Name E14 Abdomen distended
+A63	MEDDRA-PT E14 Abdominal distension
+A64	MEDDRA-PT-ID E14 10000060
+A65	CUI E15 C0232498
+A66	UMLS-Preferred-Name E15 Abdominal tenderness
+A67	MEDDRA-PT E15 Abdominal tenderness
+A68	MEDDRA-PT-ID E15 10000097
+A69	CUI E16 C0013395
+A70	UMLS-Preferred-Name E16 Dyspepsia
+A71	MEDDRA-PT E16 Dyspepsia
+A72	MEDDRA-PT-ID E16 10013946
+A73	CUI E17 C0011168
+A74	UMLS-Preferred-Name E17 Deglutition Disorders
+A75	MEDDRA-PT E17 Dysphagia
+A76	MEDDRA-PT-ID E17 10013950
+A77	CUI E18 C0016204
+A78	UMLS-Preferred-Name E18 Flatulence
+A79	MEDDRA-PT E18 Flatulence
+A80	MEDDRA-PT-ID E18 10016766
+A81	CUI E19 C0021843
+A82	UMLS-Preferred-Name E19 Intestinal Obstruction
+A83	MEDDRA-PT E19 Intestinal obstruction
+A84	MEDDRA-PT-ID E19 10022687
+A85	CUI E20 C0025160
+A86	UMLS-Preferred-Name E20 Megacolon
+A87	MEDDRA-PT E20 Megacolon
+A88	MEDDRA-PT-ID E20 10027110
+A89	CUI E21 C0852911
+A90	UMLS-Preferred-Name E21 Blood alkaline phosphatase increased
+A91	MEDDRA-PT E21 Blood alkaline phosphatase increased
+A92	MEDDRA-PT-ID E21 10059570
+A93	CUI E22 C0852909
+A94	UMLS-Preferred-Name E22 Blood bicarbonate level decreased below normal
+A95	MEDDRA-PT E22 Blood bicarbonate decreased
+A96	MEDDRA-PT-ID E22 10005359
+A97	CUI E23 C0235996
+A98	UMLS-Preferred-Name E23 Elevated liver enzymes
+A99	MEDDRA-PT E23 Hepatic enzyme increased
+A100	MEDDRA-PT-ID E23 10060795
+A101	CUI E24 C0392386
+A102	UMLS-Preferred-Name E24 Decreased platelet count
+A103	MEDDRA-PT E24 Platelet count decreased
+A104	MEDDRA-PT-ID E24 10035528
+A105	CUI E25 C0020456
+A106	UMLS-Preferred-Name E25 Hyperglycemia
+A107	MEDDRA-PT E25 Hyperglycaemia
+A108	MEDDRA-PT-ID E25 10020635
+A109	LLT E25 Hyperglycemia
+A110	LLT-ID E25 10020639
+A111	CUI E26 C0220981
+A112	UMLS-Preferred-Name E26 Metabolic acidosis
+A113	MEDDRA-PT E26 Metabolic acidosis
+A114	MEDDRA-PT-ID E26 10027417
+A115	CUI E27 C0011609
+A116	UMLS-Preferred-Name E27 Drug Eruptions
+A117	MEDDRA-PT E27 Drug eruption
+A118	MEDDRA-PT-ID E27 10013687
+A119	CUI E28 C0033774
+A120	UMLS-Preferred-Name E28 Pruritus
+A121	MEDDRA-PT E28 Pruritus
+A122	MEDDRA-PT-ID E28 10037087
+A123	CUI E29 C0015230
+A124	UMLS-Preferred-Name E29 Exanthema
+A125	MEDDRA-PT E29 Rash
+A126	MEDDRA-PT-ID E29 10037844
+A127	CUI E30 C0020517
+A128	UMLS-Preferred-Name E30 Hypersensitivity
+A129	MEDDRA-PT E30 Hypersensitivity
+A130	MEDDRA-PT-ID E30 10020751
+A131	LLT E30 Hypersensitivity reaction
+A132	LLT-ID E30 10020756
+A133	CUI E31 C0013404
+A134	UMLS-Preferred-Name E31 Dyspnea
+A135	MEDDRA-PT E31 Dyspnoea
+A136	MEDDRA-PT-ID E31 10013968
+A137	LLT E31 Dyspnea
+A138	LLT-ID E31 10013963
+A139	CUI E32 C0002994
+A140	UMLS-Preferred-Name E32 Angioedema
+A141	MEDDRA-PT E32 Angioedema
+A142	MEDDRA-PT-ID E32 10002424
+A143	CUI E33 C0015230
+A144	UMLS-Preferred-Name E33 Exanthema
+A145	MEDDRA-PT E33 Rash
+A146	MEDDRA-PT-ID E33 10037844
+A147	CUI E34 C0033774
+A148	UMLS-Preferred-Name E34 Pruritus
+A149	MEDDRA-PT E34 Pruritus
+A150	MEDDRA-PT-ID E34 10037087

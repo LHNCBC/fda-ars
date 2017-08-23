@@ -1,0 +1,146 @@
+00000000|AA|ADT|androgen deprivation therapy|1|3|5|28|11753:3
+00000000|AA|AI|aromatase inhibitor|1|2|3|19|12518:2
+00000000|AA|PTH|Parathyroid Hormone|1|3|3|19|14495:3
+00000000|MMI|116.97|0%|C3842591|[fndg]|["0%"-tx-73-"0"-percentage-0,"0%"-tx-69-"0"-percentage-0,"0%"-tx-58-"0"-percentage-0,"0%"-tx-55-"0"-percentage-0,"0%"-tx-53-"0"-percentage-0,"0%"-tx-51-"0"-percentage-0,"0%"-tx-46-"0"-percentage-0,"0%"-tx-41-"0"-percentage-0,"0%"-tx-34-"0"-percentage-0,"0%"-tx-32-"0"-percentage-0,"0%"-tx-30-"0"-percentage-0]|TX|13891/1;13130/1;[11207/1],[11249/1];10814/1;10401/1;[10139/1],[10177/1];[9401/1],[9418/1],[9453/1],[9513/1],[9530/1];[8901/1],[8938/1];[7839/1],[7856/1];[7476/1],[7493/1],[7539/1],[7562/1],[7579/1];7258/1|
+00000000|MMI|100.91|Back Pain|C0004604|[sosy]|["BACKPAIN"-tx-70-"back pain"-noun-0,"BACKPAIN"-tx-54-"back pain"-noun-0,"BACKPAIN"-tx-20-"Back pain"-noun-0,"BACKPAIN"-tx-9-"back pain"-noun-0,"BACKPAIN"-tx-8-"back pain"-noun-0,"BACKPAIN"-tx-5-"back pain"-noun-0,"BACKPAIN"-tx-3-"back pain"-noun-0,"BACKPAIN"-tx-2-"back pain"-noun-0,"BACKPAIN"-tx-1-"back pain"-noun-0]|TX|13439/9;10602/9;5138/9;[1950/9],[2143/9];1706/9;1312/9;1088/9;791/9;615/9|C10.597.617.140;C23.888.592.612.107
+00000000|MMI|89.53|Osteoporosis|C0029456|[dsyn]|["OSTEOPOROSIS"-tx-54-"osteoporosis"-noun-0,"OSTEOPOROSIS"-tx-48-"Osteoporosis"-noun-0,"OSTEOPOROSIS"-tx-48-"osteoporosis"-noun-0,"OSTEOPOROSIS"-tx-38-"osteoporosis"-noun-0,"OSTEOPOROSIS"-tx-30-"osteoporosis"-noun-0,"OSTEOPOROSIS"-tx-26-"osteoporosis"-noun-0,"OSTEOPOROSIS"-tx-20-"Osteoporosis"-noun-0,"OSTEOPOROSIS"-tx-18-"osteoporosis"-noun-0,"OSTEOPOROSIS"-tx-12-"Osteoporosis"-noun-0,"OSTEOPOROSIS"-tx-9-"Osteoporosis"-noun-0,"OSTEOPOROSIS"-tx-2-"osteoporosis"-noun-0]|TX|10514/12;9676/12;9745/12;8401/12;7193/12;6681/12;3911/12;3719/12;2779/12;1864/12;774/12|C05.116.198.579
+00000000|MMI|72.55|Arthralgia|C0003862|[sosy]|["ARTHRALGIA"-tx-70-"arthralgia"-noun-0,"ARTHRALGIA"-tx-54-"arthralgia"-noun-0,"ARTHRALGIA"-tx-9-"arthralgia"-noun-0,"ARTHRALGIA"-tx-3-"arthralgia"-noun-0,"ARTHRALGIA"-tx-2-"arthralgia"-noun-0]|TX|13391/10;10644/10;[1961/10],[2128/10];1073/10;802/10|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|68.34|Musculoskeletal Pain|C0026858|[fndg]|["MUSCULOSKELETAL PAIN"-tx-75-"Musculoskeletal pain"-noun-0,"MUSCULOSKELETAL PAIN"-tx-71-"musculoskeletal pain"-noun-0,"MUSCULOSKELETAL PAIN"-tx-20-"Musculoskeletal pain"-noun-0,"MUSCULOSKELETAL PAIN"-tx-10-"musculoskeletal pain"-noun-0,"MUSCULOSKELETAL PAIN"-tx-8-"musculoskeletal pain"-noun-0,"MUSCULOSKELETAL PAIN"-tx-4-"musculoskeletal pain"-noun-0,"MUSCULOSKELETAL PAIN"-tx-1-"musculoskeletal pain"-noun-0]|TX|14424/20;13536/20;5236/20;2176/20;1758/20;1122/20;645/20|C05.651.538;C10.597.617.231;C23.888.592.612.547;F02.830.816.353;G11.561.600.810.353
+00000000|MMI|50.92|Unmarried|C0087136|[fndg]|["single"-tx-66-"single"-adj-0,"single"-tx-61-"single"-adj-0,"single"-tx-49-"single"-adj-0,"single"-tx-13-"single"-adj-0]|TX|12792/6;11999/6;9966/6;3146/6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+00000000|MMI|46.23|Hypocalcemia|C0020598|[dsyn]|["HYPOCALCEMIA"-tx-75-"Hypocalcemia"-noun-0,"HYPOCALCEMIA"-tx-75-"hypocalcemia"-noun-0,"HYPOCALCEMIA"-tx-73-"Hypocalcemia"-noun-0,"HYPOCALCEMIA"-tx-23-"hypocalcemia"-noun-0,"HYPOCALCEMIA"-tx-20-"Hypocalcemia"-noun-0,"HYPOCALCEMIA"-tx-1-"Hypocalcemia"-noun-0]|TX|14373/12;14406/12;13795/12;6284/12;5697/12;130/12|C18.452.174.509;C18.452.950.509
+00000000|MMI|46.03|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-75-"adverse reactions"-noun-0,"Adverse reactions"-tx-70-"Adverse reactions"-noun-0,"Adverse reactions"-tx-54-"Adverse reactions"-noun-0,"Adverse reactions"-tx-20-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-18-"Adverse reactions"-noun-0,"ADVERSE REACTION"-tx-11-"adverse reaction"-noun-0,"Adverse reactions"-tx-10-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-9-"adverse reactions"-noun-0,"Adverse reactions"-tx-8-"adverse reactions"-noun-0,"Adverse reactions"-tx-5-"adverse reactions"-noun-0,"Adverse reactions"-tx-3-"adverse reactions"-noun-0,"Adverse reactions"-tx-2-"adverse reactions"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|14183/17;13188/17;10466/17;3857/17;3654/17;2529/16;2277/17;[1890/17],[2066/17];1646/17;1208/17;886/17;723/17;6/17;269/17;[49/17],[527/17]|
+00000000|MMI|44.59|2+|C3833492|[fndg]|["2+"-tx-73-"2"-percentage-0,"2+"-tx-20-"2"-percentage-0,"2+"-tx-20-"2"-real_number-0,"2+"-tx-18-"2"-percentage-0,"2+"-tx-17-"2"-percentage-0]|TX|13882/1;[3891/1],[4156/1],[4219/1],[4230/1],[4269/1],[4280/1],[4446/1],[4476/1],[4927/1],[4960/1],[5346/1],[5357/1],[5639/1],[5667/1];[3891/1],[4156/1],[4219/1],[4230/1],[4269/1],[4280/1],[4446/1],[4476/1],[4927/1],[4960/1],[5346/1],[5357/1],[5639/1],[5667/1];3687/1;3596/1|
+00000000|MMI|36.79|Osteoporosis, Postmenopausal|C0029458|[dsyn]|["Osteoporosis, Post-Menopausal"-tx-12-"postmenopausal osteoporosis"-noun-0,"Osteoporosis, Post-Menopausal"-tx-8-"Postmenopausal osteoporosis"-noun-0,"Osteoporosis, Post-Menopausal"-tx-5-"postmenopausal osteoporosis"-noun-0,"Osteoporosis, Post-Menopausal"-tx-1-"postmenopausal osteoporosis"-noun-0]|TX|2839/27;1605/27;1280/27;583/27|C05.116.198.579.610
+00000000|MMI|33.39|Hypercholesterolemia|C0020443|[dsyn]|["HYPERCHOLESTEROLEMIA"-tx-20-"Hypercholesterolemia"-noun-0,"HYPERCHOLESTEROLEMIA"-tx-8-"hypercholesterolemia"-noun-0,"HYPERCHOLESTEROLEMIA"-tx-1-"hypercholesterolemia"-noun-0]|TX|5028/20;1736/20;667/20|C18.452.584.500.500.396
+00000000|MMI|32.92|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-71-"3"-percentage-0,"3+"-tx-59-"3"-integer-0,"3+"-tx-59-"3"-percentage-0,"3+"-tx-56-"3"-percentage-0,"3+"-tx-33-"3"-integer-1,"3+"-tx-31-"3"-percentage-0,"3+"-tx-27-"3"-percentage-0,"3+"-tx-20-"3"-real_number-0]|TX|13558/1;[11375/1],[11391/1];[11375/1],[11391/1];11014/1;7660/1;7366/1;6841/1;[4144/1],[4434/1],[5306/1],[5318/1],[5484/1],[5544/1],[5556/1]|
+00000000|MMI|28.57|Disease|C0012634|[dsyn]|["DISEASE"-tx-82-"disease"-noun-0,"Disorders"-tx-20-"DISORDERS"-noun-0,"condition"-tx-20-"CONDITIONS"-verb-0,"condition"-tx-11-"conditions"-noun-0]|TX|15662/7;[4569/9],[5597/9];4603/10;2517/10|C23.550.288
+00000000|MMI|28.05|Cystitis|C0010692|[dsyn]|["CYSTITIS"-tx-20-"Cystitis"-noun-0,"CYSTITIS"-tx-8-"cystitis"-noun-0,"CYSTITIS"-tx-1-"cystitis"-noun-0]|TX|4749/8;1784/8;693/8|C12.777.829.495;C13.351.968.829.495
+00000000|MMI|28.03|Osteopenia|C0029453|[dsyn]|["Bone Loss"-tx-65-"bone loss"-noun-0,"Bone Loss"-tx-60-"Bone Loss"-noun-0,"Bone Loss"-tx-60-"bone loss"-noun-0,"Bone Loss"-tx-9-"Bone loss"-noun-0,"Bone Loss"-tx-3-"bone loss"-noun-0]|TX|12435/9;11475/9;11661/9;2008/9;942/9|C05.116.198
+00000000|MMI|27.12|Infection|C3714514|[patf]|["Infections"-tx-55-"Infections"-noun-0,"Infections"-tx-32-"infections"-noun-0,"Infections"-tx-31-"infections"-noun-0,"Infections"-tx-30-"infections"-noun-0,"Infections"-tx-28-"Infections"-noun-0,"Infections"-tx-20-"INFECTIONS"-noun-0,"Infections"-tx-1-"Infections"-noun-0]|TX|10753/10;7449/10;7351/10;7224/10;6913/10;4711/10;198/10|C01.539
+00000000|MMI|24.92|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-54-"nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-9-"nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-2-"nasopharyngitis"-noun-0]|TX|10691/15;1977/15;818/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|24.82|Back Pain Adverse Event|C1963071|[fndg]|["Back pain"-tx-70-"back pain"-noun-0,"Back pain"-tx-54-"back pain"-noun-0,"Back pain"-tx-20-"Back pain"-noun-0,"Back pain"-tx-9-"back pain"-noun-0,"Back pain"-tx-8-"back pain"-noun-0,"Back pain"-tx-5-"back pain"-noun-0,"Back pain"-tx-3-"back pain"-noun-0,"Back pain"-tx-2-"back pain"-noun-0,"Back pain"-tx-1-"back pain"-noun-0]|TX|13439/9;10602/9;5138/9;[1950/9],[2143/9];1706/9;1312/9;1088/9;791/9;615/9|
+00000000|MMI|23.27|Exanthema|C0015230|[sosy]|["RASH"-tx-75-"rash"-noun-0,"Rashes"-tx-56-"rashes"-noun-0,"Rashes"-tx-36-"rashes"-noun-0,"RASH"-tx-20-"Rash"-noun-0]|TX|14319/4;10977/6;8130/6;5617/4|C17.800.257
+00000000|MMI|19.45|4+ Answer to question|C3838679|[fndg]|["4+"-tx-72-"4"-percentage-0,"4+"-tx-69-"4"-percentage-0,"4+"-tx-56-"4"-percentage-0,"4+"-tx-45-"4"-percentage-0,"4+"-tx-20-"4"-real_number-0]|TX|13781/1;13121/1;11057/1;9310/1;[4357/1],[4648/1],[4660/1],[4831/1],[4843/1]|
+00000000|MMI|18.28|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-75-"renal impairment"-noun-0,"Impaired renal function"-tx-22-"impaired renal function"-noun-0]|TX|14555/16;6029/23|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|16.87|Femoral Fractures|C0015802|[inpo]|["Femoral fracture"-tx-40-"femoral fracture"-noun-0,"Femoral Fractures"-tx-39-"femoral fractures"-noun-0,"Femoral Fractures"-tx-1-"Femoral Fractures"-noun-0]|TX|8741/16;8624/17;446/17|C26.404.061;C26.558.276
+00000000|MMI|16.85|Pancreatitis|C0030305|[dsyn]|["PANCREATITIS"-tx-58-"Pancreatitis"-noun-0,"PANCREATITIS"-tx-41-"Pancreatitis"-noun-0,"PANCREATITIS"-tx-9-"Pancreatitis"-noun-0]|TX|11153/12;8846/12;1794/12|C06.689.750
+00000000|MMI|16.56|Eczema|C0013595|[dsyn]|["ECZEMA"-tx-56-"eczema"-noun-0,"ECZEMA"-tx-36-"eczema"-noun-0]|TX|10965/6;8118/6|C17.800.174.620;C17.800.815.620
+00000000|MMI|16.02|Adverse event|C0877248|[patf]|["adverse events"-tx-69-"adverse events"-noun-0,"adverse events"-tx-64-"adverse events"-noun-0,"adverse events"-tx-56-"adverse events"-noun-0,"adverse events"-tx-53-"adverse events"-noun-0,"adverse events"-tx-36-"adverse events"-noun-0,"adverse events"-tx-17-"adverse events"-noun-0,"adverse events"-tx-6-"adverse events"-noun-0]|TX|13102/14;12308/14;10929/14;10382/14;8082/14;3568/14;1469/14|
+00000000|MMI|14.86|1+|C3816745|[fndg]|["1+"-tx-59-"1"-integer-0,"1+"-tx-58-"1"-integer-0,"1+"-tx-51-"1"-integer-0,"1+"-tx-20-"1"-real_number-0,"1+"-tx-15-"1"-percentage-0,"1+"-tx-10-"1"-integer-0]|TX|11411/1;11238/1;[10149/1],[10187/1];4487/1;3360/1;2334/1|
+00000000|MMI|14.75|10%|C3842590|[fndg]|["10%"-tx-70-"10"-percentage-0,"10%"-tx-36-"10"-percentage-0,"10%"-tx-24-"10"-percentage-1,"10%"-tx-21-"10"-integer-0,"10%"-tx-9-"10"-percentage-0,"10%"-tx-3-"10"-percentage-0]|TX|[13221/2],[13450/2];8193/2;6389/2;5927/2;2088/2;881/2|
+00000000|MMI|14.34|Pain in limb|C0030196|[sosy]|["Pain in Extremity"-tx-71-"Pain in extremity"-noun-0,"Pain in Extremity"-tx-20-"Pain in extremity"-noun-0,"Pain in Extremity"-tx-10-"Pain in extremity"-noun-0,"Pain in Extremity"-tx-8-"pain in extremity"-noun-0,"Pain in Extremity"-tx-4-"Pain in extremity"-noun-0,"Pain in Extremity"-tx-1-"pain in extremity"-noun-0]|TX|13483/17;5184/17;2154/17;1717/17;1100/17;626/17|
+00000000|MMI|13.00|Dermatitis|C0011603|[dsyn]|["DERMATITIS"-tx-56-"dermatitis"-noun-0,"DERMATITIS"-tx-36-"dermatitis"-noun-0]|TX|10953/10;8106/10|C17.800.174
+00000000|MMI|12.23|Malignant neoplasm of prostate|C0376358|[neop]|["PROSTATE CANCER"-tx-72-"prostate cancer"-noun-0,"PROSTATE CANCER"-tx-70-"prostate cancer"-noun-0,"PROSTATE CANCER"-tx-60-"Prostate Cancer"-noun-0,"PROSTATE CANCER"-tx-60-"prostate cancer"-noun-0,"Prostate Cancers"-tx-59-"prostate cancers"-noun-0,"PROSTATE CANCER"-tx-3-"prostate cancer"-noun-0]|TX|13686/15;13270/15;11540/15;11697/15;11393/16;995/15|
+00000000|MMI|11.81|Creatinine clearance|C0812399|[fndg]|["Creatinine clearance"-tx-75-"creatinine clearance"-noun-0,"Creatinine clearance"-tx-27-"creatinine clearance"-noun-0,"Creatinine clearance"-tx-26-"creatinine clearance"-noun-0,"Creatinine clearance"-tx-24-"creatinine clearance"-noun-0]|TX|14573/20;6863/20;6803/20;6479/20|
+00000000|MMI|11.81|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-65-"randomized"-verb-0,"RANDOMIZED"-tx-60-"randomized"-verb-0,"RANDOMIZED"-tx-48-"randomized"-verb-0,"RANDOMIZED"-tx-12-"randomized"-verb-0]|TX|12557/10;11784/10;9783/10;2893/10|
+00000000|MMI|11.05|Gastroesophageal reflux disease|C0017168|[dsyn]|["Gastrooesophageal reflux disease"-tx-20-"Gastroesophageal reflux disease"-noun-0]|TX|4500/31|C06.405.117.119.500.484
+00000000|MMI|11.02|Osteoarthritis, Spine|C2350242|[dsyn]|["Spinal Osteoarthritis"-tx-20-"Spinal osteoarthritis"-noun-0]|TX|5370/21|C05.116.900.853.625.399;C05.550.114.606.750;C05.550.114.865.399;C05.799.613.750
+00000000|MMI|10.98|Myalgia|C0231528|[sosy]|["MYALGIA"-tx-20-"Myalgia"-noun-0]|TX|5331/7|C05.651.542;C10.597.617.231.249;C10.668.491.525;C23.888.592.612.547.249;F02.830.816.353.500;G11.561.600.810.353.500
+00000000|MMI|10.96|Angina Pectoris|C0002962|[fndg]|["ANGINA PECTORIS"-tx-20-"Angina pectoris"-noun-0]|TX|4196/15|C10.597.617.192.500;C14.280.647.187;C14.907.585.187;C23.888.592.612.233.500
+00000000|MMI|10.94|Sciatica|C0036396|[sosy]|["SCIATICA"-tx-20-"Sciatica"-noun-0]|TX|5456/8|C10.597.617.682.800;C10.668.829.500.675.800;C10.668.829.600.800;C23.888.592.612.664.800
+00000000|MMI|10.90|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-74-"uncertain"-adj-0]|TX|14033/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|10.28|Malignant Neoplasms|C0006826|[neop]|["MALIGNANCIES"-tx-59-"Malignancies"-noun-0,"MALIGNANCIES"-tx-46-"malignancies"-noun-0,"MALIGNANCIES"-tx-45-"Malignancies"-noun-0,"MALIGNANCIES"-tx-45-"malignancies"-noun-0,"CANCER"-tx-9-"cancer"-noun-0]|TX|11287/12;9365/12;9250/12;9293/12;2046/6|
+00000000|MMI|10.20|Aseptic necrosis of bone of jaw|C2711248|[dsyn]|["ONJ"-tx-57-"ONJ"-noun-1,"Osteonecrosis of Jaw"-tx-57-"Osteonecrosis of Jaw"-noun-0,"ONJ"-tx-38-"ONJ"-noun-0,"Osteonecrosis of Jaw"-tx-38-"Osteonecrosis of Jaw"-noun-0,"Osteonecrosis of Jaw"-tx-1-"Osteonecrosis of Jaw"-noun-0]|TX|11128/3;11090/16,11111/3;8372/3;8346/16,8367/3;334/16,355/3|
+00000000|MMI|10.05|Cellulitis|C0007642|[patf]|["CELLULITIS"-tx-34-"cellulitis"-noun-0]|TX|7735/10|C01.539.800.130;C01.539.830.200;C17.300.185;C23.550.470.756.200
+00000000|MMI|10.05|Erysipelas|C0014733|[dsyn]|["ERYSIPELAS"-tx-34-"erysipelas"-noun-0]|TX|7720/10|C01.252.410.890.328;C01.252.825.260;C01.539.800.720.260;C17.800.838.765.260
+00000000|MMI|10.04|Prostate carcinoma|C0600139|[neop]|["Prostate Cancer"-tx-72-"prostate cancer"-noun-0,"Prostate Cancer"-tx-70-"prostate cancer"-noun-0,"Prostate Cancer"-tx-60-"Prostate Cancer"-noun-0,"Prostate Cancer"-tx-60-"prostate cancer"-noun-0,"Prostate Cancer"-tx-3-"prostate cancer"-noun-0]|TX|13686/15;13270/15;11540/15;11697/15;995/15|
+00000000|MMI|9.99|30%|C3842588|[fndg]|["30%"-tx-75-"30"-integer-0,"30%"-tx-63-"30"-percentage-0,"30%"-tx-27-"30"-integer-0,"30%"-tx-26-"30"-integer-0,"30%"-tx-24-"30"-integer-0]|TX|14596/2;12188/2;6887/2;6826/2;6502/2|
+00000000|MMI|9.27|Basal cell carcinoma|C0007117|[neop]|["BASAL CELL CARCINOMA"-tx-59-"basal cell carcinoma"-noun-0]|TX|11413/20|C04.557.470.200.165;C04.557.470.565.165
+00000000|MMI|9.24|Spondylarthritis|C0949690|[dsyn]|["Spinal osteoarthritis"-tx-20-"Spinal osteoarthritis"-noun-0]|TX|5370/21|C05.116.900.853.625;C05.550.114.865
+00000000|MMI|9.16|Sleeplessness|C0917801|[sosy]|["INSOMNIA"-tx-20-"Insomnia"-noun-0]|TX|5528/8|C10.886.425.800.800;F03.870.400.800.800
+00000000|MMI|9.16|Vertigo|C0042571|[sosy]|["VERTIGO"-tx-20-"Vertigo"-noun-0]|TX|4330/7|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|8.39|<30 min|C3842955|[fndg]|["<30 min"-tx-75-"30 min"-noun-0,"<30 min"-tx-27-"30 min"-noun-0,"<30 min"-tx-26-"30 min"-noun-0,"<30 min"-tx-24-"30 min"-noun-0]|TX|14596/2,14602/3;6887/2,6893/3;6826/2,6832/3;6502/2,6508/3|
+00000000|MMI|8.27|Constipation|C0009806|[sosy]|["CONSTIPATION"-tx-5-"constipation"-noun-0]|TX|1326/12|C23.888.821.150
+00000000|MMI|8.27|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-75-"urticaria"-noun-0]|TX|14325/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|8.27|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-75-"anaphylaxis"-noun-0]|TX|14306/11|C20.543.480.099
+00000000|MMI|7.92|atypia morphology|C0741302|[fndg]|["Atypical"-tx-40-"atypical"-adj-0,"Atypical"-tx-39-"Atypical"-adj-0,"Atypical"-tx-39-"atypical"-adj-0,"Atypical"-tx-1-"Atypical"-adj-0]|TX|8732/8;8520/8;8615/8;406/8|
+00000000|MMI|7.86|Serious Adverse Event|C1519255|[fndg]|["Serious Adverse Event"-tx-68-"serious adverse events"-noun-0,"Serious Adverse Event"-tx-63-"serious adverse events"-noun-0,"Serious Adverse Event"-tx-52-"serious adverse events"-noun-0,"Serious Adverse Event"-tx-16-"serious adverse events"-noun-0]|TX|12956/22;12161/22;10237/22;3421/22|
+00000000|MMI|7.82|Distance vision 6/60|C0442756|[fndg]|["6/60"-tx-66-"6 60"-integer-0,"6/60"-tx-61-"6 60"-integer-0,"6/60"-tx-49-"6 60"-integer-0,"6/60"-tx-13-"6 60"-integer-0]|TX|12778/1,12799/2;11985/1,12006/2;9952/1,9973/2;3132/1,3153/2|
+00000000|MMI|7.46|Atrial Fibrillation|C0004238|[dsyn]|["ATRIAL FIBRILLATION"-tx-20-"Atrial fibrillation"-noun-0]|TX|4243/19|C14.280.067.198;C23.550.073.198
+00000000|MMI|7.46|Herpes zoster disease|C0019360|[dsyn]|["HERPES ZOSTER"-tx-20-"Herpes zoster"-noun-0]|TX|4940/13|C02.256.466.423
+00000000|MMI|7.42|Abnormal behavior|C0233514|[mobd]|["Psychiatric disorders"-tx-20-"PSYCHIATRIC DISORDERS"-noun-0]|TX|5496/21|F01.145.126.972;F01.145.179.750
+00000000|MMI|7.42|Flatulence|C0016204|[sosy]|["FLATULENCE"-tx-20-"Flatulence"-noun-0]|TX|4459/10|C23.888.821.360
+00000000|MMI|7.42|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-20-"Pruritus"-noun-0]|TX|5652/8|C17.800.685;C23.888.885.625
+00000000|MMI|6.58|Cystitis Adverse Event|C1963088|[fndg]|["Cystitis"-tx-20-"Cystitis"-noun-0,"Cystitis"-tx-8-"cystitis"-noun-0,"Cystitis"-tx-1-"cystitis"-noun-0]|TX|4749/8;1784/8;693/8|
+00000000|MMI|6.58|Infective cystitis|C0600041|[dsyn]|["Cystitis"-tx-20-"Cystitis"-noun-0,"Cystitis"-tx-8-"cystitis"-noun-0,"Cystitis"-tx-1-"cystitis"-noun-0]|TX|4749/8;1784/8;693/8|
+00000000|MMI|6.55|Hypercholesterolemia result|C1522133|[fndg]|["Hypercholesterolemia"-tx-20-"Hypercholesterolemia"-noun-0,"Hypercholesterolemia"-tx-8-"hypercholesterolemia"-noun-0,"Hypercholesterolemia"-tx-1-"hypercholesterolemia"-noun-0]|TX|5028/20;1736/20;667/20|
+00000000|MMI|6.49|Endocarditis|C0014118|[dsyn]|["ENDOCARDITIS"-tx-33-"Endocarditis"-noun-0]|TX|7607/12|C14.280.282
+00000000|MMI|6.49|Erythema|C0041834|[dsyn]|["ERYTHEMA"-tx-75-"erythema"-noun-0]|TX|14357/8|C17.800.229
+00000000|MMI|6.49|Skin Diseases, Infectious|C0037278|[dsyn]|["Skin Infections"-tx-34-"Skin infections"-noun-0]|TX|7693/15|C01.539.800;C17.800.838
+00000000|MMI|6.12|Pancreatitis Adverse Event|C1963198|[fndg]|["Pancreatitis"-tx-58-"Pancreatitis"-noun-0,"Pancreatitis"-tx-41-"Pancreatitis"-noun-0,"Pancreatitis"-tx-9-"Pancreatitis"-noun-0]|TX|11153/12;8846/12;1794/12|
+00000000|MMI|5.86|1 - 9%|C3842508|[fndg]|["1 - 9%"-tx-20-"1.9"-real_number-0]|TX|[4699/3],[4971/3]|
+00000000|MMI|5.86|3/9|C0442760|[fndg]|["3/9"-tx-20-"3.9"-real_number-0]|TX|[4873/3],[4885/3]|
+00000000|MMI|5.86|Normal renal function|C0232805|[fndg]|["Normal renal function"-tx-22-"normal renal function"-noun-0,"Normal renal function"-tx-21-"normal renal function"-noun-0]|TX|6147/21;5967/21|
+00000000|MMI|5.73|Upper Respiratory Infections|C0041912|[dsyn]|["Infection, Upper Respiratory Tract"-tx-20-"Upper respiratory tract infection"-noun-0]|TX|4790/33|C01.539.739;C08.730
+00000000|MMI|5.71|Drug Allergy|C0013182|[dsyn]|["drug Hypersensitivity reactions"-tx-75-"Drug hypersensitivity reactions"-noun-0]|TX|14265/4,14278/26|C20.543.206;C25.100.468
+00000000|MMI|5.64|Asthenia|C0004093|[sosy]|["ASTHENIA"-tx-20-"Asthenia"-noun-0]|TX|4673/8|C23.888.089
+00000000|MMI|5.64|Labyrinthine disorder|C0022890|[dsyn]|["Labyrinth Disorders"-tx-20-"LABYRINTH DISORDERS"-noun-0]|TX|4300/19|C09.218.568
+00000000|MMI|5.64|Pharyngitis|C0031350|[dsyn]|["PHARYNGITIS"-tx-20-"Pharyngitis"-noun-0]|TX|4898/11|C07.550.781;C08.730.561;C09.775.649
+00000000|MMI|5.64|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-20-"Pneumonia"-noun-0]|TX|4856/9|C08.381.677;C08.730.610
+00000000|MMI|5.60|Anemia|C0002871|[dsyn]|["ANEMIA"-tx-20-"Anemia"-noun-0]|TX|4130/6|C15.378.071
+00000000|MMI|5.57|Osteoporotic Fractures|C0521170|[dsyn]|["fractures osteoporosis"-tx-39-"Fractures osteoporosis"-noun-0]|TX|8560/9,8578/12|C26.404.545
+00000000|MMI|5.52|Opportunistic Infections|C0029118|[dsyn]|["Opportunistic Infections"-tx-35-"opportunistic infections"-noun-0]|TX|7891/24|C01.539.597;C02.597;C03.684
+00000000|MMI|5.50|Cataract|C0086543|[acab]|["CATARACTS"-tx-72-"cataracts"-noun-0]|TX|13740/9|C11.510.245
+00000000|MMI|4.33|90%|C3842582|[fndg]|["90%"-tx-20-"90"-integer-0,"90%"-tx-15-"90"-integer-0]|TX|4684/2;3331/2|
+00000000|MMI|4.10|patient report|C0747307|[fndg]|["Patient reported"-tx-58-"reported patient"-noun-0,"Patient reported"-tx-55-"reported patient"-noun-0]|TX|11184/8,11198/7;10791/8,10805/7|
+00000000|MMI|4.06|29+|C3843708|[fndg]|["29+"-tx-24-"29"-percentage-0]|TX|[6456/2],[6523/2]|
+00000000|MMI|4.04|80%|C3842583|[fndg]|["80%"-tx-24-"80"-integer-0,"80%"-tx-20-"80"-integer-0]|TX|6439/2;4534/2|
+00000000|MMI|4.04|Death (finding)|C1306577|[fndg]|["Death"-tx-42-"death"-noun-0,"Death"-tx-30-"death"-noun-0]|TX|9088/5;7248/5|
+00000000|MMI|3.97|Related personal status|C0445223|[fndg]|["Related"-tx-75-"related"-adj-0,"Related"-tx-46-"related"-verb-0]|TX|14270/7;9378/7|
+00000000|MMI|3.86|Lymphatic Diseases|C0024228|[dsyn]|["lymphatic system disorder"-tx-20-"LYMPHATIC SYSTEM DISORDERS"-noun-0]|TX|4093/26|C15.604
+00000000|MMI|3.86|Connective Tissue Diseases|C0009782|[dsyn]|["Connective Tissue Disorders"-tx-20-"CONNECTIVE TISSUE DISORDERS"-noun-0]|TX|5100/27|C17.300
+00000000|MMI|3.86|Nutrition Disorders|C3714509|[dsyn]|["Nutrition Disorders"-tx-20-"NUTRITION DISORDERS"-noun-0]|TX|4998/19|C18.654
+00000000|MMI|3.84|Heart Diseases|C0018799|[dsyn]|["Cardiac Disorders"-tx-20-"CARDIAC DISORDERS"-noun-0]|TX|4168/17|C14.280
+00000000|MMI|3.83|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-20-"GASTROINTESTINAL DISORDERS"-noun-0]|TX|4369/26|C06.405
+00000000|MMI|2.93|5 - 9|C3840622|[fndg]|["5 - 9"-tx-20-"5.9"-real_number-0]|TX|4765/3|
+00000000|MMI|2.93|5-6|C3843715|[fndg]|["5-6"-tx-1-"5.6"-real_number-0]|TX|242/3|
+00000000|MMI|2.93|6/5|C0442749|[fndg]|["5 6"-tx-1-"5.6"-real_number-0]|TX|242/3|
+00000000|MMI|2.93|70%|C3842584|[fndg]|["70%"-tx-15-"70"-integer-0]|TX|3370/2|
+00000000|MMI|2.93|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-75-"anaphylaxis"-noun-0]|TX|14306/11|
+00000000|MMI|2.93|Clinical Response|C4055223|[fndg]|["Clinical Response"-tx-80-"clinical response"-noun-1]|TX|15226/17|
+00000000|MMI|2.93|Constipation Adverse Event|C1963087|[fndg]|["Constipation"-tx-5-"constipation"-noun-0]|TX|1326/12|
+00000000|MMI|2.93|Experimental Result|C2825142|[fndg]|["Result"-tx-82-"result"-noun-0]|TX|15502/6|
+00000000|MMI|2.93|Facial swelling|C0151602|[fndg]|["FACIAL SWELLING"-tx-75-"facial swelling"-noun-0]|TX|14336/15|
+00000000|MMI|2.93|Gastrointestinal System Finding|C1333803|[fndg]|["GASTROINTESTINAL SYSTEM"-tx-46-"gastrointestinal system"-noun-0]|TX|9488/23|
+00000000|MMI|2.93|Primary malignant neoplasm|C1306459|[neop]|["Cancer"-tx-9-"cancer"-noun-0]|TX|2046/6|
+00000000|MMI|2.93|Recurrent skin infections|C1853193|[fndg]|["Skin infections"-tx-34-"Skin infections"-noun-0]|TX|7693/15|
+00000000|MMI|2.93|Reproductive System Finding|C1335757|[fndg]|["REPRODUCTIVE SYSTEM"-tx-46-"reproductive system"-noun-0]|TX|9432/19|
+00000000|MMI|2.93|Test Result|C0456984|[fndg]|["Test"-tx-82-"test"-verb-0]|TX|15497/4|
+00000000|MMI|2.93|cellulitis on exam (physical finding)|C2025995|[fndg]|["cellulitis"-tx-34-"cellulitis"-noun-0]|TX|7735/10|
+00000000|MMI|2.93|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-75-"urticaria"-noun-0]|TX|14325/9|
+00000000|MMI|2.15|Drug pseudoallergy|C3662272|[dsyn]|["Drug Hypersensitivity reactions"-tx-75-"Drug hypersensitivity reactions"-noun-0]|TX|14265/4,14278/26|
+00000000|MMI|2.15|Experimental Organism Basal Cell Carcinoma|C3811653|[neop]|["Basal Cell Carcinoma"-tx-59-"basal cell carcinoma"-noun-0]|TX|11413/20|
+00000000|MMI|2.15|History of - drug allergy|C0455589|[fndg]|["drug Hypersensitivity reactions"-tx-75-"Drug hypersensitivity reactions"-noun-0]|TX|14265/4,14278/26|
+00000000|MMI|2.12|Atrial Fibrillation Adverse Event|C1963067|[fndg]|["Atrial fibrillation"-tx-20-"Atrial fibrillation"-noun-0]|TX|4243/19|
+00000000|MMI|2.12|Bone Pain Adverse Event|C1963077|[fndg]|["Bone pain"-tx-20-"Bone pain"-noun-0]|TX|5289/9|
+00000000|MMI|2.12|Bone pain|C0151825|[sosy]|["BONE PAIN"-tx-20-"Bone pain"-noun-0]|TX|5289/9|
+00000000|MMI|2.12|Peripheral edema|C0085649|[fndg]|["OEDEMA PERIPHERAL"-tx-20-"Edema peripheral"-noun-0]|TX|4624/16|
+00000000|MMI|2.10|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-20-"NERVOUS SYSTEM DISORDERS"-noun-0]|TX|5421/24|C10
+00000000|MMI|2.08|History of pancreatitis|C3887021|[fndg]|["History of pancreatitis"-tx-43-"history of pancreatitis"-noun-0]|TX|9144/23|
+00000000|MMI|2.08|Flatulence Adverse Event|C1962956|[fndg]|["Flatulence"-tx-20-"Flatulence"-noun-0]|TX|4459/10|
+00000000|MMI|2.08|Mental disorders|C0004936|[mobd]|["PSYCHIATRIC DISORDERS"-tx-20-"PSYCHIATRIC DISORDERS"-noun-0]|TX|5496/21|F03
+00000000|MMI|2.08|Upper abdominal pain|C0232492|[sosy]|["ABDOMINAL PAIN UPPER"-tx-20-"Abdominal pain upper"-noun-0]|TX|4406/20|
+00000000|MMI|2.07|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-20-"SUBCUTANEOUS DISORDERS"-noun-0]|TX|5577/12,5597/9|
+00000000|MMI|2.05|Number of patients|C2360800|[fndg]|["Number of patients"-tx-36-"number of patients"-noun-0]|TX|8012/18|
+00000000|MMI|2.05|Infestation|C0851341|[dsyn]|["infestations"-tx-20-"INFESTATIONS"-noun-0]|TX|4726/12|
+00000000|MMI|2.05|monoclonal|C0746619|[fndg]|["MONOCLONAL"-tx-76-"monoclonal"-noun-0]|TX|14680/10|
+00000000|MMI|2.04|At risk of infection|C0582147|[fndg]|["Infection Risk"-tx-29-"risk infection"-noun-0]|TX|7112/4,7120/9|
+00000000|MMI|2.04|Insomnia Adverse Event|C1963237|[fndg]|["Insomnia"-tx-20-"Insomnia"-noun-0]|TX|5528/8|
+00000000|MMI|2.02|Female Breast Carcinoma|C0007104|[neop]|["Women Breast Cancer"-tx-65-"women breast cancer"-noun-0]|TX|12448/5,12473/13|
+00000000|MMI|2.02|Malignant neoplasm of female breast|C0235653|[neop]|["Women breast cancer"-tx-65-"women breast cancer"-noun-0]|TX|12448/5,12473/13|
+00000000|MMI|2.01|60%|C3842585|[fndg]|["60%"-tx-12-"60"-integer-0]|TX|2993/2|
+00000000|MMI|2.01|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-5-"discontinuation"-noun-0]|TX|1237/15|
+00000000|MMI|2.00|Container status - Identified|C1550043|[fndg]|["Identified"-tx-75-"identified"-verb-0]|TX|14211/10|
+00000000|MMI|2.00|Precursor B-cell lymphoblastic leukemia|C1292769|[neop]|["c all"-tx-7-"call"-noun-0]|TX|1521/4|
+00000000|MMI|2.00|50%|C3842586|[fndg]|["50%"-tx-24-"50"-integer-0]|TX|6433/2|
+00000000|MMI|2.00|<50|C3843766|[fndg]|["<50"-tx-24-"50"-integer-0]|TX|6433/2|
+00000000|MMI|2.00|1-2|C3843716|[fndg]|["1-2"-tx-72-"1.2"-percentage-0]|TX|13764/3|
+00000000|MMI|1.98|6/3|C1630409|[fndg]|["6/3"-tx-76-"6.3"-real_number-0]|TX|14637/3|
+00000000|MMI|1.98|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-80-"toxicity"-noun-1]|TX|15205/8|
+00000000|MMI|1.95|bone destruction|C0238790|[dsyn]|["bone ablation"-tx-9-"Bone ablation"-noun-0]|TX|2008/4,2033/8|
+00000000|MMI|1.94|Atypical fracture|C3495700|[inpo]|["Atypical fracture"-tx-40-"atypical fracture"-noun-0]|TX|8732/8,8749/8|
+00000000|MMI|1.94|Bilateral cataracts (disorder)|C0521707|[acab]|["Cataracts"-tx-72-"cataracts"-noun-0]|TX|13740/9|
+00000000|MMI|1.93|Diagnosis|C0011900|[fndg]|["DIAGNOSIS"-tx-40-"diagnosis"-noun-0]|TX|8758/9|E01
+00000000|MMI|1.93|Positive Finding|C1514241|[fndg]|["POSITIVE"-tx-82-"positive"-adj-0]|TX|15445/8|
+00000000|MMI|1.93|Gait normal|C0231683|[fndg]|["Normal"-tx-24-"normal"-noun-1]|TX|6360/6|
+00000000|MMI|1.93|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-65-"therapy"-noun-0]|TX|12523/7|

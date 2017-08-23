@@ -1,0 +1,174 @@
+T1	AdverseReaction 720 746	Increases in liver enzymes
+T8	AdverseReaction 1028 1040	hypertension
+T9	AdverseReaction 1042 1053	hypokalemia
+T10	AdverseReaction 1059 1074	fluid retention
+T11	AdverseReaction 1095 1129	increased mineralocorticoid levels
+T20	AdverseReaction 2482 2503	Adrenal insufficiency
+T21	AdverseReaction 2626 2654	Adrenocortical insufficiency
+T32	AdverseReaction 3115 3139	mineralocorticoid excess
+T38	AdverseReaction 3835 3857	liver enzyme increases
+T39	AdverseReaction 3957 3971	hepatotoxicity
+T13	AdverseReaction 1252 1264	hypertension
+T14	Severity 1239 1246	grade 3
+T15	Severity 1239 1244;1250 1251	grade 4
+T16	AdverseReaction 1306 1317	hypokalemia
+T17	Severity 1293 1300	grade 3
+T18	Severity 1293 1298;1304 1305	grade 4
+T44	AdverseReaction 1354 1359	edema
+T45	Severity 1341 1348	grade 3
+T46	Severity 1341 1346;1352 1353	grade 4
+T31	AdverseReaction 3035 3063	adrenocortical insufficiency
+T56	AdverseReaction 3513 3526	AST increases
+T57	AdverseReaction 3506 3509;3517 3526	ALT increases
+T58	Severity 3493 3500	grade 3
+T59	Severity 3493 3498;3504 3505	grade 4
+T60	AdverseReaction 3740 3760	liver test elevation
+T61	AdverseReaction 3903 3909	deaths
+T62	Negation 3900 3902	No
+T26	Factor 1018 1021	may
+T2	AdverseReaction 50 74	Mineralocorticoid excess
+T3	AdverseReaction 499 527	Adrenocortical insufficiency
+T4	AdverseReaction 704 718	Hepatotoxicity
+T5	Severity 1239 1251	grade 3 to 4
+T6	Severity 1293 1305	grade 3 to 4
+T7	Severity 1341 1353	grade 3 to 4
+E1	AdverseReaction:T1
+E8	AdverseReaction:T8 Hypothetical:E26
+E9	AdverseReaction:T9 Hypothetical:E26
+E10	AdverseReaction:T10 Hypothetical:E26
+E11	AdverseReaction:T11
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E32	AdverseReaction:T32
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E13	AdverseReaction:T13 Effect:E14 Effect2:E15 Effect3:E5
+E14	Severity:T14
+E15	Severity:T15
+E16	AdverseReaction:T16 Effect:E17 Effect2:E18 Effect3:E6
+E17	Severity:T17
+E18	Severity:T18
+E44	AdverseReaction:T44 Effect:E45 Effect2:E46 Effect3:E7
+E45	Severity:T45
+E46	Severity:T46
+E31	AdverseReaction:T31
+E57	AdverseReaction:T56 Effect:E60 Effect2:E59
+E58	AdverseReaction:T57 Effect:E60 Effect2:E59
+E59	Severity:T58
+E60	Severity:T59
+E61	AdverseReaction:T60
+E62	AdverseReaction:T61 Negated:E63
+E63	Negation:T62
+E26	Factor:T26
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	Severity:T5
+E6	Severity:T6
+E7	Severity:T7
+A1	CUI E1 C0235996
+A2	UMLS-Preferred-Name E1 Elevated liver enzymes
+A3	MEDDRA-PT E1 Hepatic enzyme increased
+A4	MEDDRA-PT-ID E1 10060795
+A5	LLT E1 Elevated liver enzymes
+A6	LLT-ID E1 10014481
+A7	CUI E8 C0020538
+A8	UMLS-Preferred-Name E8 Hypertensive disease
+A9	MEDDRA-PT E8 Hypertension
+A10	MEDDRA-PT-ID E8 10020772
+A11	CUI E9 C0020621
+A12	UMLS-Preferred-Name E9 Hypokalemia
+A13	MEDDRA-PT E9 Hypokalaemia
+A14	MEDDRA-PT-ID E9 10021015
+A15	LLT E9 Hypokalemia
+A16	LLT-ID E9 10021018
+A17	CUI E10 C0268000
+A18	UMLS-Preferred-Name E10 Body fluid retention
+A19	MEDDRA-PT E10 Fluid retention
+A20	MEDDRA-PT-ID E10 10016807
+A21	CUI E11 C0001622
+A22	UMLS-Preferred-Name E11 Adrenal Gland Hyperfunction
+A23	MEDDRA-PT E11 Hypercorticoidism
+A24	MEDDRA-PT-ID E11 10020610
+A25	CUI E20 C0001623
+A26	UMLS-Preferred-Name E20 Adrenal gland hypofunction
+A27	MEDDRA-PT E20 Adrenal insufficiency
+A28	MEDDRA-PT-ID E20 10001367
+A29	CUI E21 C0405580
+A30	UMLS-Preferred-Name E21 Adrenal cortical hypofunction
+A31	MEDDRA-PT E21 Adrenal insufficiency
+A32	MEDDRA-PT-ID E21 10001367
+A33	LLT E21 Adrenal cortex insufficiency
+A34	LLT-ID E21 10001335
+A35	CUI E32 C0020428
+A36	UMLS-Preferred-Name E32 Hyperaldosteronism
+A37	MEDDRA-PT E32 Hyperaldosteronism
+A38	MEDDRA-PT-ID E32 10020571
+A39	CUI E38 C0235996
+A40	UMLS-Preferred-Name E38 Elevated liver enzymes
+A41	MEDDRA-PT E38 Hepatic enzyme increased
+A42	MEDDRA-PT-ID E38 10060795
+A43	LLT E38 Elevated liver enzymes
+A44	LLT-ID E38 10014481
+A45	CUI E39 C0235378
+A46	UMLS-Preferred-Name E39 Hepatotoxicity
+A47	MEDDRA-PT E39 Hepatotoxicity
+A48	MEDDRA-PT-ID E39 10019851
+A49	CUI E13 C0020538
+A50	UMLS-Preferred-Name E13 Hypertensive disease
+A51	MEDDRA-PT E13 Hypertension
+A52	MEDDRA-PT-ID E13 10020772
+A53	CUI E16 C0020621
+A54	UMLS-Preferred-Name E16 Hypokalemia
+A55	MEDDRA-PT E16 Hypokalaemia
+A56	MEDDRA-PT-ID E16 10021015
+A57	LLT E16 Hypokalemia
+A58	LLT-ID E16 10021018
+A59	CUI E44 C0013604
+A60	UMLS-Preferred-Name E44 Edema
+A61	MEDDRA-PT E44 Oedema
+A62	MEDDRA-PT-ID E44 10030095
+A63	LLT E44 Edema
+A64	LLT-ID E44 10014210
+A65	CUI E31 C0405580
+A66	UMLS-Preferred-Name E31 Adrenal cortical hypofunction
+A67	MEDDRA-PT E31 Adrenal insufficiency
+A68	MEDDRA-PT-ID E31 10001367
+A69	LLT E31 Adrenal cortex insufficiency
+A70	LLT-ID E31 10001335
+A71	CUI E57 C0151904
+A72	UMLS-Preferred-Name E57 Aspartate aminotransferase increased
+A73	MEDDRA-PT E57 Aspartate aminotransferase increased
+A74	MEDDRA-PT-ID E57 10003481
+A75	LLT E57 AST increased
+A76	LLT-ID E57 10003544
+A77	CUI E58 C0151905
+A78	UMLS-Preferred-Name E58 Alanine aminotransferase increased
+A79	MEDDRA-PT E58 Alanine aminotransferase increased
+A80	MEDDRA-PT-ID E58 10001551
+A81	LLT E58 ALT increased
+A82	LLT-ID E58 10001845
+A83	CUI E61 C0877359
+A84	UMLS-Preferred-Name E61 Increased liver function tests
+A85	MEDDRA-PT E61 Liver function test abnormal
+A86	MEDDRA-PT-ID E61 10024690
+A87	LLT E61 Liver function tests raised
+A88	LLT-ID E61 10048556
+A89	CUI E62 C1306577
+A90	UMLS-Preferred-Name E62 Death (finding)
+A91	MEDDRA-PT E62 Death
+A92	MEDDRA-PT-ID E62 10011906
+A93	CUI E2 C0020428
+A94	UMLS-Preferred-Name E2 Hyperaldosteronism
+A95	MEDDRA-PT E2 Hyperaldosteronism
+A96	MEDDRA-PT-ID E2 10020571
+A97	CUI E3 C0405580
+A98	UMLS-Preferred-Name E3 Adrenal cortical hypofunction
+A99	MEDDRA-PT E3 Adrenal insufficiency
+A100	MEDDRA-PT-ID E3 10001367
+A101	LLT E3 Adrenal cortex insufficiency
+A102	LLT-ID E3 10001335
+A103	CUI E4 C0235378
+A104	UMLS-Preferred-Name E4 Hepatotoxicity
+A105	MEDDRA-PT E4 Hepatotoxicity
+A106	MEDDRA-PT-ID E4 10019851

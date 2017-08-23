@@ -1,0 +1,101 @@
+53,61|C0019080|Bleeding|patf
+93,98|C1705232|fatal|fndg
+99,107|C0019080|bleeding|patf
+255,270|C1444662|Discontinuation|fndg
+387,402|C2919015|anticoagulation|fndg
+425,435|C0087086|thrombotic|patf
+458,470|C1444662|discontinued|fndg
+508,516|C0019080|bleeding|patf
+546,553|C1363945|therapy|fndg
+679,687|C0019080|Bleeding|patf
+715,719;723,731|C3251812|risk bleeding|fndg
+774,779|C1705232|fatal|fndg
+780,788|C0019080|bleeding|patf
+812,817|C0311392|signs|fndg
+821,829|C1457887|symptoms|sosy
+830,843|C0019080|of blood loss|patf
+830,843|C3163616|of blood loss|fndg
+853,871|C0162119|drop in hemoglobin|fndg
+879,889|C0518014|hematocrit|fndg
+893,904|C0020649|hypotension|fndg
+893,904|C3163620|hypotension|fndg
+907,918|C1444662|Discontinue|fndg
+964,972|C0019080|bleeding|patf
+1024,1028;1037,1049|C3251812|Risk for bleeding|fndg
+1111,1115;1119,1127|C3251812|risk bleeding|fndg
+1294,1310|C1565489|renal impairment|dsyn
+1576,1584|C0019080|bleeding|patf
+1588,1595|C2674459|limited|fndg
+2008,2024|C0040034|thrombocytopenia|fndg
+2080,2084|C1273517|used|fndg
+2127,2135|C0033119|Puncture|inpo
+2218,2226|C0557351|employed|fndg
+2312,2327|C0856150|spinal hematoma|inpo
+2338,2344|C2825142|result|fndg
+2371,2380|C0522224|paralysis|fndg
+2443,2451|C0019080|bleeding|patf
+2535,2544|C0344307|analgesia|fndg
+2942,2957|C2919015|anticoagulation|fndg
+2965,2972|C0449255|context|fndg
+3006,3015|C0344307|analgesia|fndg
+3058,3064|C0442726|detect|fndg
+3069,3074|C0311392|signs|fndg
+3078,3086|C1457887|symptoms|sosy
+3090,3113|C0521654|neurological impairment|fndg
+3103,3113|C0684336|impairment|patf
+3131,3140|C0004604|back pain|sosy
+3131,3140|C1963071|back pain|fndg
+3154,3168|C0521654|motor deficits|fndg
+3170,3178|C0020580|numbness|fndg
+3170,3178|C0028643|numbness|sosy
+3180,3188|C2242996|tingling|sosy
+3193,3201;3205,3216|C1836296|weakness lower limbs|sosy
+3232,3251|C0232841|bladder dysfunction|patf
+3329,3334|C0311392|signs|fndg
+3338,3346|C1457887|symptoms|sosy
+3351,3356|C0311392|signs|fndg
+3360,3368|C1457887|symptoms|sosy
+3372,3387|C0856150|spinal hematoma|inpo
+3453,3466|C0518609|consideration|fndg
+3564,3572|C0543419|sequelae|fndg
+3564,3572|C0243088|sequelae|patf
+3604,3612|C0019080|Bleeding|patf
+3637,3660|C0481485|Prosthetic Heart Valves|fndg
+3878,3887|C2828363|implanted|fndg
+3891,3900|C2828363|implanted|fndg
+3950,3960|C3815594|randomized|fndg
+4108,4129|C0040038|thromboembolic events|patf
+4137,4147|C0040053|thrombosis|patf
+4137,4147|C2586211|thrombosis|patf
+4149,4155|C0038454|stroke|dsyn
+4157,4182|C0917805|transient ischemic attack|dsyn
+4157,4182|C0007787|transient ischemic attack|dsyn
+4188,4209|C0027051|myocardial infarction|dsyn
+4234,4242|C0019080|bleeding|patf
+4258,4272|C0241311|post-operative|fndg
+4273,4294|C0031039|pericardial effusions|dsyn
+4334,4344|C2945640|compromise|fndg
+4424,4432|C0019080|bleeding|patf
+4437,4458|C0040038|thromboembolic events|patf
+4640,4649|C2828363|implanted|fndg
+4727,4742|C1444657|contraindicated|fndg
+4908,4927|C0004238|atrial fibrillation|dsyn
+4908,4927|C1963067|atrial fibrillation|fndg
+4931,4934;4943,4945;4970,4983|C0018799|the of heart disease|dsyn
+4999,5010;5027,5038|C2911498|presence of heart valve|fndg
+5358,5381|C1565489|impaired renal function|dsyn
+5396,5407|C1299583|independent|fndg
+5421,5427|C2825142|result|fndg
+5556,5572|C1565489|renal impairment|dsyn
+5704,5710|C0038454|Stroke|dsyn
+5724,5732|C0013922|Embolism|patf
+5724,5732|C1704212|Embolism|fndg
+5924,5940|C1565489|renal impairment|dsyn
+5942,5946|C1846718|CrCl|fndg
+5947,5949;5956,5959|C3842955|30 min|fndg
+6027,6043|C1565489|renal impairment|dsyn
+6045,6049|C1846718|CrCl|fndg
+6053,6055;6059,6062|C3842955|30 min|fndg
+6199,6221|C0149871|Deep Venous Thrombosis|dsyn
+6226,6244|C0034065|Pulmonary Embolism|dsyn
+6323,6327|C1846718|CrCl|fndg

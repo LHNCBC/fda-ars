@@ -1,0 +1,148 @@
+T1	AdverseReaction 30 48	ENDOMETRIAL CANCER
+T2	AdverseReaction 50 74	CARDIOVASCULAR DISORDERS
+T3	AdverseReaction 89 97	DEMENTIA
+T4	Factor 80 88	PROBABLE
+T5	AdverseReaction 113 131	ENDOMETRIAL CANCER
+T6	AdverseReaction 133 157	CARDIOVASCULAR DISORDERS
+T7	AdverseReaction 172 180	DEMENTIA
+T8	Factor 163 171	PROBABLE
+T9	AdverseReaction 321 339	endometrial cancer
+T11	AdverseReaction 439 462	endometrial hyperplasia
+T12	Factor 420 435	reduce the risk
+T13	DrugClass 384 393	estrogens
+T14	AdverseReaction 1013 1019	stroke
+T15	AdverseReaction 1024 1044	deep vein thrombosis
+T16	AdverseReaction 1046 1049	DVT
+T18	DrugClass 1140 1165	oral conjugated estrogens
+T19	AdverseReaction 1352 1360	dementia
+T22	DrugClass 1452 1472	conjugated estrogens
+T21	AdverseReaction 1984 2002	ENDOMETRIAL CANCER
+T23	AdverseReaction 2004 2028	CARDIOVASCULAR DISORDERS
+T24	AdverseReaction 2043 2051	DEMENTIA
+T25	Factor 2034 2042	PROBABLE
+T26	DrugClass 2291 2300	estrogens
+T27	AdverseReaction 2228 2246	endometrial cancer
+T29	AdverseReaction 2514 2520	stroke
+T30	AdverseReaction 2525 2545	deep vein thrombosis
+T31	AdverseReaction 2547 2550	DVT
+T33	AdverseReaction 2669 2677	dementia
+T35	DrugClass 2462 2470	estrogen
+T36	DrugClass 2592 2600	estrogen
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3 Hypothetical:E4
+E4	Factor:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7 Hypothetical:E8
+E8	Factor:T8
+E9	AdverseReaction:T9 Hypothetical2:E13
+E11	AdverseReaction:T11 Negated:E12
+E12	Factor:T12
+E13	DrugClass:T13
+E14	AdverseReaction:T14 Hypothetical2:E18
+E15	AdverseReaction:T15 Hypothetical2:E18
+E16	AdverseReaction:T16 Hypothetical2:E18
+E18	DrugClass:T18
+E19	AdverseReaction:T19 Hypothetical2:E22
+E22	DrugClass:T22
+E21	AdverseReaction:T21
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24 Hypothetical:E25
+E25	Factor:T25
+E26	DrugClass:T26
+E27	AdverseReaction:T27 Hypothetical2:E26
+E29	AdverseReaction:T29 Hypothetical2:E35
+E30	AdverseReaction:T30 Hypothetical2:E35
+E31	AdverseReaction:T31 Hypothetical2:E35
+E33	AdverseReaction:T33 Hypothetical2:E36
+E35	DrugClass:T35
+E36	DrugClass:T36
+A1	CUI E1 C0476089
+A2	UMLS-Preferred-Name E1 Endometrial Carcinoma
+A3	MEDDRA-PT E1 Endometrial cancer
+A4	MEDDRA-PT-ID E1 10014733
+A5	CUI E2 C0007222
+A6	UMLS-Preferred-Name E2 Cardiovascular Diseases
+A7	MEDDRA-PT E2 Cardiovascular disorder
+A8	MEDDRA-PT-ID E2 10007649
+A9	CUI E3 C0497327
+A10	UMLS-Preferred-Name E3 Dementia
+A11	MEDDRA-PT E3 Dementia
+A12	MEDDRA-PT-ID E3 10012267
+A13	CUI E5 C0476089
+A14	UMLS-Preferred-Name E5 Endometrial Carcinoma
+A15	MEDDRA-PT E5 Endometrial cancer
+A16	MEDDRA-PT-ID E5 10014733
+A17	CUI E6 C0007222
+A18	UMLS-Preferred-Name E6 Cardiovascular Diseases
+A19	MEDDRA-PT E6 Cardiovascular disorder
+A20	MEDDRA-PT-ID E6 10007649
+A21	CUI E7 C0497327
+A22	UMLS-Preferred-Name E7 Dementia
+A23	MEDDRA-PT E7 Dementia
+A24	MEDDRA-PT-ID E7 10012267
+A25	CUI E9 C0476089
+A26	UMLS-Preferred-Name E9 Endometrial Carcinoma
+A27	MEDDRA-PT E9 Endometrial cancer
+A28	MEDDRA-PT-ID E9 10014733
+A29	CUI E11 C0014173
+A30	UMLS-Preferred-Name E11 Endometrial Hyperplasia
+A31	MEDDRA-PT E11 Endometrial hyperplasia
+A32	MEDDRA-PT-ID E11 10014755
+A33	CUI E14 C0038454
+A34	UMLS-Preferred-Name E14 Cerebrovascular accident
+A35	MEDDRA-PT E14 Cerebrovascular accident
+A36	MEDDRA-PT-ID E14 10008190
+A37	LLT E14 Stroke
+A38	LLT-ID E14 10042244
+A39	CUI E15 C0149871
+A40	UMLS-Preferred-Name E15 Deep Vein Thrombosis
+A41	MEDDRA-PT E15 Deep vein thrombosis
+A42	MEDDRA-PT-ID E15 10051055
+A43	CUI E16 C0149871
+A44	UMLS-Preferred-Name E16 Deep Vein Thrombosis
+A45	MEDDRA-PT E16 Deep vein thrombosis
+A46	MEDDRA-PT-ID E16 10051055
+A47	LLT E16 DVT
+A48	LLT-ID E16 10013877
+A49	CUI E19 C0497327
+A50	UMLS-Preferred-Name E19 Dementia
+A51	MEDDRA-PT E19 Dementia
+A52	MEDDRA-PT-ID E19 10012267
+A53	CUI E21 C0476089
+A54	UMLS-Preferred-Name E21 Endometrial Carcinoma
+A55	MEDDRA-PT E21 Endometrial cancer
+A56	MEDDRA-PT-ID E21 10014733
+A57	CUI E23 C0007222
+A58	UMLS-Preferred-Name E23 Cardiovascular Diseases
+A59	MEDDRA-PT E23 Cardiovascular disorder
+A60	MEDDRA-PT-ID E23 10007649
+A61	CUI E24 C0497327
+A62	UMLS-Preferred-Name E24 Dementia
+A63	MEDDRA-PT E24 Dementia
+A64	MEDDRA-PT-ID E24 10012267
+A65	CUI E27 C0476089
+A66	UMLS-Preferred-Name E27 Endometrial Carcinoma
+A67	MEDDRA-PT E27 Endometrial cancer
+A68	MEDDRA-PT-ID E27 10014733
+A69	CUI E29 C0038454
+A70	UMLS-Preferred-Name E29 Cerebrovascular accident
+A71	MEDDRA-PT E29 Cerebrovascular accident
+A72	MEDDRA-PT-ID E29 10008190
+A73	LLT E29 Stroke
+A74	LLT-ID E29 10042244
+A75	CUI E30 C0149871
+A76	UMLS-Preferred-Name E30 Deep Vein Thrombosis
+A77	MEDDRA-PT E30 Deep vein thrombosis
+A78	MEDDRA-PT-ID E30 10051055
+A79	CUI E31 C0149871
+A80	UMLS-Preferred-Name E31 Deep Vein Thrombosis
+A81	MEDDRA-PT E31 Deep vein thrombosis
+A82	MEDDRA-PT-ID E31 10051055
+A83	LLT E31 DVT
+A84	LLT-ID E31 10013877
+A85	CUI E33 C0497327
+A86	UMLS-Preferred-Name E33 Dementia
+A87	MEDDRA-PT E33 Dementia
+A88	MEDDRA-PT-ID E33 10012267

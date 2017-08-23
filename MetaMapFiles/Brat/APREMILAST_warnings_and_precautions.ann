@@ -1,0 +1,150 @@
+T1	AdverseReaction 898 908	depression
+T2	AdverseReaction 1633 1643	depression
+T3	AdverseReaction 1647 1661	depressed mood
+T4	AdverseReaction 1813 1823	depression
+T5	AdverseReaction 1827 1841	depressed mood
+T6	AdverseReaction 1898 1908	Depression
+T7	Severity 1925 1932	serious
+T8	AdverseReaction 2048 2065	suicidal ideation
+T9	AdverseReaction 2048 2056;2070 2078	suicidal behavior
+T10	AdverseReaction 2271 2278	suicide
+T11	AdverseReaction 2485 2495	depression
+T12	AdverseReaction 2647 2657	depression
+T13	AdverseReaction 2713 2723	Depression
+T14	Severity 2740 2747	serious
+T15	AdverseReaction 2863 2880	suicidal behavior
+T16	AdverseReaction 3063 3080	attempted suicide
+T17	AdverseReaction 3122 3129	suicide
+T18	Factor 3104 3111	placebo
+T19	AdverseReaction 3234 3249	weight decrease
+T20	AdverseReaction 3504 3519	weight decrease
+T21	AdverseReaction 3653 3668	Weight decrease
+T22	Severity 3520 3549	between 5%-10% of body weight
+T23	Severity 3674 3692	10% of body weight
+T24	AdverseReaction 53 63	Depression
+T25	AdverseReaction 427 442	Weight Decrease
+T26	Negation 2291 2295	none
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6 Effect:E7
+E7	Severity:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10 Negated:E26
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13 Effect:E14
+E14	Severity:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17 Negated:E18
+E18	Factor:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20 Effect:E22
+E21	AdverseReaction:T21 Effect:E23
+E22	Severity:T22
+E23	Severity:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	Negation:T26
+A1	CUI E1 C0011570
+A2	UMLS-Preferred-Name E1 Mental Depression
+A3	MEDDRA-PT E1 Depression
+A4	MEDDRA-PT-ID E1 10012378
+A5	CUI E2 C0011570
+A6	UMLS-Preferred-Name E2 Mental Depression
+A7	MEDDRA-PT E2 Depression
+A8	MEDDRA-PT-ID E2 10012378
+A9	CUI E3 C0344315
+A10	UMLS-Preferred-Name E3 Depressed mood
+A11	MEDDRA-PT E3 Depressed mood
+A12	MEDDRA-PT-ID E3 10012374
+A13	CUI E4 C0011570
+A14	UMLS-Preferred-Name E4 Mental Depression
+A15	MEDDRA-PT E4 Depression
+A16	MEDDRA-PT-ID E4 10012378
+A17	CUI E5 C0344315
+A18	UMLS-Preferred-Name E5 Depressed mood
+A19	MEDDRA-PT E5 Depressed mood
+A20	MEDDRA-PT-ID E5 10012374
+A21	CUI E6 C0011570
+A22	UMLS-Preferred-Name E6 Mental Depression
+A23	MEDDRA-PT E6 Depression
+A24	MEDDRA-PT-ID E6 10012378
+A25	CUI E8 C0424000
+A26	UMLS-Preferred-Name E8 Feeling suicidal (finding)
+A27	MEDDRA-PT E8 Suicidal ideation
+A28	MEDDRA-PT-ID E8 10042458
+A29	CUI E9 C1760428
+A30	UMLS-Preferred-Name E9 Suicidal behavior
+A31	MEDDRA-PT E9 Suicidal behaviour
+A32	MEDDRA-PT-ID E9 10065604
+A33	LLT E9 Suicidal behavior
+A34	LLT-ID E9 10065607
+A35	CUI E10 C0038661
+A36	UMLS-Preferred-Name E10 Suicide
+A37	MEDDRA-PT E10 Completed suicide
+A38	MEDDRA-PT-ID E10 10010144
+A39	LLT E10 Suicide
+A40	LLT-ID E10 10042462
+A41	CUI E11 C0011570
+A42	UMLS-Preferred-Name E11 Mental Depression
+A43	MEDDRA-PT E11 Depression
+A44	MEDDRA-PT-ID E11 10012378
+A45	CUI E12 C0011570
+A46	UMLS-Preferred-Name E12 Mental Depression
+A47	MEDDRA-PT E12 Depression
+A48	MEDDRA-PT-ID E12 10012378
+A49	CUI E13 C0011570
+A50	UMLS-Preferred-Name E13 Mental Depression
+A51	MEDDRA-PT E13 Depression
+A52	MEDDRA-PT-ID E13 10012378
+A53	CUI E15 C1760428
+A54	UMLS-Preferred-Name E15 Suicidal behavior
+A55	MEDDRA-PT E15 Suicidal behaviour
+A56	MEDDRA-PT-ID E15 10065604
+A57	LLT E15 Suicidal behavior
+A58	LLT-ID E15 10065607
+A59	CUI E16 C0038663
+A60	UMLS-Preferred-Name E16 Suicide attempt
+A61	MEDDRA-PT E16 Suicide attempt
+A62	MEDDRA-PT-ID E16 10042464
+A63	LLT E16 Attempted suicide
+A64	LLT-ID E16 10003728
+A65	CUI E17 C0038661
+A66	UMLS-Preferred-Name E17 Suicide
+A67	MEDDRA-PT E17 Completed suicide
+A68	MEDDRA-PT-ID E17 10010144
+A69	LLT E17 Suicide
+A70	LLT-ID E17 10042462
+A71	CUI E19 C1262477
+A72	UMLS-Preferred-Name E19 Weight decreased
+A73	MEDDRA-PT E19 Weight decreased
+A74	MEDDRA-PT-ID E19 10047895
+A75	LLT E19 Weight decrease
+A76	LLT-ID E19 10047893
+A77	CUI E20 C1262477
+A78	UMLS-Preferred-Name E20 Weight decreased
+A79	MEDDRA-PT E20 Weight decreased
+A80	MEDDRA-PT-ID E20 10047895
+A81	LLT E20 Weight decrease
+A82	LLT-ID E20 10047893
+A83	CUI E21 C1262477
+A84	UMLS-Preferred-Name E21 Weight decreased
+A85	MEDDRA-PT E21 Weight decreased
+A86	MEDDRA-PT-ID E21 10047895
+A87	LLT E21 Weight decrease
+A88	LLT-ID E21 10047893
+A89	CUI E24 C0011570
+A90	UMLS-Preferred-Name E24 Mental Depression
+A91	MEDDRA-PT E24 Depression
+A92	MEDDRA-PT-ID E24 10012378
+A93	CUI E25 C1262477
+A94	UMLS-Preferred-Name E25 Weight decreased
+A95	MEDDRA-PT E25 Weight decreased
+A96	MEDDRA-PT-ID E25 10047895
+A97	LLT E25 Weight decrease
+A98	LLT-ID E25 10047893

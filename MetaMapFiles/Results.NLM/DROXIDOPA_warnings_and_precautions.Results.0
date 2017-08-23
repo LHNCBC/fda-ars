@@ -1,0 +1,40 @@
+71,90|FN|supine hypertension|C0020538
+108,127|FN|cardiovascular risk|C0850624
+131,150|FN|supine hypertension|C0020538
+187,199|TP|Hyperpyrexia|C0392676|10020741|187,199|Hyperpyrexia|C0392676|10020741|patf
+204,213|TP|confusion|C0009676|10010305|204,213|confusion|C0009676,C1963086|10010305,10060933|mobd,fndg
+233,243;320,344|FN|exacerbate congestive heart failure|C0876986
+233,243;303,314|FN|exacerbate arrhythmias|C0003811
+233,243;279,301|FN|exacerbate ischemic heart disease|C0151744
+244,252;256,264|FP|symptoms patients|C1317600|10044359|fndg
+279,301|FP|ischemic heart disease|C0010054,C0151744|10003211,10028600|dsyn,dsyn
+303,314|FP|arrhythmias|C0003811|10003119|fndg
+320,344|FP|congestive heart failure|C0018802|10007559|dsyn
+360,378|TP|Allergic reactions|C1527304|10020751|360,378|Allergic reactions|C0020517,C1527304|10020751,10020751|patf,patf
+471,490|FN|supine hypertension|C0020538
+881,893|FP|Hyperpyrexia|C0392676|10020741|patf
+898,907;939,946|FP|Confusion symptom|C0009676|10010305|mobd
+966,996|TP|neuroleptic malignant syndrome|C0027849|10029282|966,996|neuroleptic malignant syndrome|C0027849|10029282|dsyn
+998,1001|FN|NMS|C0027849
+1275,1278|TP|NMS|C0027849|10029282|1275,1278|NMS|C0027849|10029282|dsyn
+1341,1346|TP|fever|C0015967|10037660|1341,1346|fever|C0015967,C0424755|10005911,10005911,10020843,10020843,10037660,10037660|fndg,fndg
+1350,1362|TP|hyperthermia|C0015967|10020843|1350,1362|hyperthermia|C0015967|10005911,10020843,10037660|fndg
+1364,1379|TP|muscle rigidity|C0026837|10028330|1364,1379|muscle rigidity|C0026837|10028330|sosy
+1381,1402|FN|involuntary movements|C0427086
+1404,1425|FN|altered consciousness|C0234428
+1431,1452|FP|mental status changes|C0856054|10048294|mobd
+1431,1451|FN|mental status change|C0856054
+1567,1589|FP|Ischemic Heart Disease|C0010054,C0151744|10003211,10028600|dsyn,dsyn
+1591,1602|FP|Arrhythmias|C0003811|10003119|fndg
+1608,1632|FP|Congestive Heart Failure|C0018802|10007559|dsyn
+1651,1661;1712,1736|FN|exacerbate congestive heart failure|C0876986
+1651,1661;1695,1706|FN|exacerbate arrhythmias|C0003811
+1651,1661;1671,1693|FN|exacerbate ischemic heart disease|C0151744
+1671,1693|FP|ischemic heart disease|C0010054,C0151744|10003211,10028600|dsyn,dsyn
+1695,1706|FP|arrhythmias|C0003811|10003119|fndg
+1712,1736|FP|congestive heart failure|C0018802|10007559|dsyn
+1874,1892|FP|Allergic Reactions|C0020517,C1527304|10020751,10020751|patf,patf
+1967,1990|FN|allergic-type reactions|C0020517
+1967,1975;1981,1990|FP|allergic reactions|C0020517,C1527304|10020751,10020751|patf,patf
+2002,2018|TP|bronchial asthma|C0004096|10003553|2002,2018|bronchial asthma|C0004096,C1869116|10003553,10003553|fndg,dsyn
+2211,2235|FP|aspirin hypersensitivity|C0004058|10013700|patf

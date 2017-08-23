@@ -1,0 +1,109 @@
+00000000|AA|GI|Gastrointestinal|1|2|1|16|4800:2
+00000000|MMI|390.68|Neutropenia|C0027947|[dsyn]|["NEUTROPENIA"-tx-52-"neutropenia"-noun-0,"NEUTROPENIA"-tx-45-"neutropenia"-noun-1,"NEUTROPENIA"-tx-44-"neutropenia"-noun-0,"NEUTROPENIA"-tx-27-"neutropenia"-noun-0,"NEUTROPENIA"-tx-26-"neutropenia"-noun-0,"NEUTROPENIA"-tx-25-"neutropenia"-noun-0,"NEUTROPENIA"-tx-24-"neutropenia"-noun-0,"NEUTROPENIA"-tx-23-"neutropenia"-noun-0,"NEUTROPENIA"-tx-22-"neutropenia"-noun-0,"NEUTROPENIA"-tx-19-"neutropenia"-noun-0,"NEUTROPENIA"-tx-15-"neutropenia"-noun-1,"NEUTROPENIA"-tx-1-"neutropenia"-noun-0]|TX|6308/11;5311/11;5021/11;2893/11;2753/11;2364/11;2214/11;2160/11;2066/11;1826/11;1390/11;90/11|C15.378.553.546.184.564
+00000000|MMI|263.61|Leukopenia|C0023530|[dsyn]|["NEUTROPENIA"-tx-52-"neutropenia"-noun-0,"NEUTROPENIA"-tx-45-"neutropenia"-noun-1,"NEUTROPENIA"-tx-44-"neutropenia"-noun-0,"NEUTROPENIA"-tx-27-"neutropenia"-noun-0,"NEUTROPENIA"-tx-26-"neutropenia"-noun-0,"NEUTROPENIA"-tx-25-"neutropenia"-noun-0,"NEUTROPENIA"-tx-24-"neutropenia"-noun-0,"NEUTROPENIA"-tx-23-"neutropenia"-noun-0,"NEUTROPENIA"-tx-22-"neutropenia"-noun-0,"NEUTROPENIA"-tx-19-"neutropenia"-noun-0,"NEUTROPENIA"-tx-15-"neutropenia"-noun-1,"NEUTROPENIA"-tx-1-"neutropenia"-noun-0]|TX|6308/11;5311/11;5021/11;2893/11;2753/11;2364/11;2214/11;2160/11;2066/11;1826/11;1390/11;90/11|C15.378.553.546
+00000000|MMI|119.49|Febrile Neutropenia|C0746883|[dsyn]|["Febrile Neutropenia"-tx-52-"febrile neutropenia"-noun-0,"Febrile Neutropenia"-tx-26-"febrile neutropenia"-noun-0,"Febrile Neutropenia"-tx-22-"febrile neutropenia"-noun-0,"Febrile Neutropenia"-tx-15-"febrile neutropenia"-noun-1,"Febrile Neutropenia"-tx-1-"febrile neutropenia"-noun-0]|TX|6324/19;2579/19;2090/19;1406/19;134/19|C15.378.553.546.184.564.750
+00000000|MMI|92.98|Fatal Outcome|C0206277|[patf]|["Fatal Outcome"-tx-47-"fatal outcome"-noun-0,"Fatal Outcome"-tx-43-"fatal outcome"-noun-0,"Fatal outcomes"-tx-15-"fatal outcomes"-noun-0,"Fatal outcomes"-tx-13-"fatal outcomes"-noun-0]|TX|5672/13;4891/13;1299/14;1132/14|E05.318.308.985.550.325;L01.280.975.550.325;N01.224.935.698.201;N06.850.505.400.975.550.325;N06.850.520.308.985.550.325
+00000000|MMI|85.03|Kidney Failure|C0035078|[dsyn]|["Failure, Renal"-tx-50-"renal failure"-noun-0,"Failure, Renal"-tx-49-"renal failure"-noun-0,"Failure, Renal"-tx-47-"Renal Failure"-noun-0,"Failure, Renal"-tx-47-"renal failure"-noun-0,"Failure, Renal"-tx-13-"Renal failure"-noun-0]|TX|5931/13;5827/13;5507/13;5560/13;1096/13|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|72.99|Neutrophil count decreased|C0853697|[fndg]|["Neutropenia"-tx-52-"neutropenia"-noun-0,"Neutropenia"-tx-45-"neutropenia"-noun-1,"Neutropenia"-tx-44-"neutropenia"-noun-0,"Neutropenia"-tx-27-"neutropenia"-noun-0,"Neutropenia"-tx-26-"neutropenia"-noun-0,"Neutropenia"-tx-25-"neutropenia"-noun-0,"Neutropenia"-tx-24-"neutropenia"-noun-0,"Neutropenia"-tx-23-"neutropenia"-noun-0,"Neutropenia"-tx-22-"neutropenia"-noun-0,"Neutropenia"-tx-19-"neutropenia"-noun-0,"Neutropenia"-tx-15-"neutropenia"-noun-1,"Neutropenia"-tx-1-"neutropenia"-noun-0]|TX|6308/11;5311/11;5021/11;2893/11;2753/11;2364/11;2214/11;2160/11;2066/11;1826/11;1390/11;90/11|
+00000000|MMI|54.43|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-45-"diarrhea"-noun-0,"DIARRHOEA"-tx-38-"diarrhea"-noun-0,"DIARRHOEA"-tx-8-"diarrhea"-noun-0,"DIARRHOEA"-tx-7-"diarrhea"-noun-0]|TX|5285/8;4353/8;780/8;739/8|C23.888.821.214
+00000000|MMI|40.55|Gastrointestinal Hemorrhage|C0017181|[patf]|["Gastro intestinal bleeding"-tx-44-"GI bleeding"-noun-0,"Gastrointestinal haemorrhage"-tx-43-"Gastrointestinal hemorrhage"-noun-0,"Gastrointestinal haemorrhage"-tx-11-"gastrointestinal hemorrhage"-noun-0]|TX|5205/11;4782/16,4804/10;979/27|C06.405.227;C23.550.414.788
+00000000|MMI|39.25|Gravidity|C0600457|[fndg]|["PREGNANT"-tx-62-"pregnant"-adj-0,"PREGNANT"-tx-61-"pregnant"-adj-0]|TX|7819/8;7647/8|G08.686.340;G08.686.785.760.769.213;N06.850.490.812.250
+00000000|MMI|35.81|Enterocolitis, Neutropenic|C0343387|[dsyn]|["Neutropaenic enterocolitis"-tx-43-"neutropenic enterocolitis"-noun-0,"Neutropaenic enterocolitis"-tx-11-"neutropenic enterocolitis"-noun-0]|TX|4854/25;1024/25|C06.405.205.596.750;C06.405.469.363.750
+00000000|MMI|35.81|Sepsis|C0243026|[dsyn]|["SEPSIS"-tx-48-"sepsis"-noun-0,"SEPSIS"-tx-21-"sepsis"-noun-0]|TX|5727/6;2025/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|35.81|Septicemia|C0036690|[dsyn]|["Sepsis"-tx-48-"sepsis"-noun-0,"Sepsis"-tx-21-"sepsis"-noun-0]|TX|5727/6;2025/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|30.02|Complication Aspects|C1171258|[patf]|["complications"-tx-27-"complications"-noun-0,"complications"-tx-26-"complications"-noun-0,"complications"-tx-25-"complications"-noun-0]|TX|2905/13;2724/13;2376/13|x.x.x
+00000000|MMI|29.46|Vomiting|C0042963|[sosy]|["VOMITING"-tx-37-"vomiting"-verb-0,"VOMITING"-tx-7-"vomiting"-verb-0]|TX|4285/8;725/8|C23.888.821.937
+00000000|MMI|28.26|Hepatic impairment|C0948807|[dsyn]|["Hepatic impairment"-tx-56-"hepatic impairment"-noun-0,"Hepatic impairment"-tx-55-"hepatic impairment"-noun-0,"Hepatic impairment"-tx-54-"hepatic impairment"-noun-0,"Hepatic impairment"-tx-53-"Hepatic Impairment"-noun-0,"Hepatic impairment"-tx-17-"Hepatic impairment"-noun-0,"Hepatic impairment"-tx-17-"hepatic impairment"-noun-0]|TX|7052/18;6838/18;6586/18;6450/18;1475/18;[1556/18],[1620/18]|
+00000000|MMI|27.96|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-34-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-31-"Hypersensitivity Reactions"-noun-0,"HYPERSENSITIVITY"-tx-6-"hypersensitivity"-noun-0,"HYPERSENSITIVITY"-tx-4-"Hypersensitivity"-noun-0]|TX|3842/26;3328/26;614/16;462/16|C20.543
+00000000|MMI|26.58|Nausea|C0027497|[sosy]|["NAUSEA"-tx-37-"Nausea"-noun-0,"NAUSEA"-tx-7-"Nausea"-noun-0]|TX|4277/6;717/6|C23.888.821.712
+00000000|MMI|26.26|Disease Progression|C0242656|[patf]|["Disease Progression"-tx-51-"disease progression"-noun-0,"Disease Progression"-tx-15-"disease progression"-noun-1]|TX|6148/19;1329/19|C23.550.291.656
+00000000|MMI|24.39|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-52-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-52-"adverse reactions"-noun-0,"Adverse reactions"-tx-48-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-43-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-37-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-15-"adverse reactions"-noun-1]|TX|6350/17;6279/17;5778/17;4964/17;4254/17;1361/17|
+00000000|MMI|23.12|Bronchial Spasm|C0006266|[dsyn]|["BRONCHOSPASM"-tx-32-"bronchospasm"-noun-0,"BRONCHOSPASM"-tx-31-"bronchospasm"-noun-0]|TX|3675/12;3538/12|C08.127.321
+00000000|MMI|20.95|Septic Shock|C0036983|[patf]|["SEPTIC SHOCK"-tx-21-"septic shock"-noun-0]|TX|2035/12|C01.539.757.800;C23.550.470.790.500.800;C23.550.835.900.712
+00000000|MMI|19.92|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-32-"hypotension"-noun-0,"HYPOTENSION"-tx-31-"hypotension"-noun-0]|TX|3659/11;3522/11|C14.907.514
+00000000|MMI|19.59|2+|C3833492|[fndg]|["2+"-tx-51-"2"-percentage-0,"2+"-tx-42-"2"-real_number-0,"2+"-tx-28-"2"-real_number-0,"2+"-tx-11-"2"-real_number-0,"2+"-tx-4-"2"-real_number-0]|TX|6053/1;4767/1;3126/1;944/1;434/1|
+00000000|MMI|19.51|Death (finding)|C1306577|[fndg]|["Died"-tx-51-"died"-verb-0,"DEATHS"-tx-49-"deaths"-noun-0,"Death"-tx-38-"Death"-noun-0,"DEATHS"-tx-20-"deaths"-noun-0,"DEATHS"-tx-11-"Deaths"-noun-0]|TX|6122/4;5813/6;4336/5;1907/6;951/6|
+00000000|MMI|18.75|Renal Failure Adverse Event|C1963154|[patf]|["Renal failure"-tx-50-"renal failure"-noun-0,"Renal failure"-tx-49-"renal failure"-noun-0,"Renal failure"-tx-47-"Renal Failure"-noun-0,"Renal failure"-tx-47-"renal failure"-noun-0,"Renal failure"-tx-13-"Renal failure"-noun-0]|TX|5931/13;5827/13;5507/13;5560/13;1096/13|
+00000000|MMI|17.80|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-45-"Abdominal pain"-noun-0]|TX|5222/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|17.80|Ileus|C1258215|[dsyn]|["ILEUS"-tx-43-"ileus"-noun-0]|TX|4832/5|C06.405.469.531.492
+00000000|MMI|17.80|Tissue Adhesions|C0001511|[patf]|["Adhesions"-tx-44-"adhesions"-noun-0]|TX|5179/9|C23.550.355.274.840
+00000000|MMI|15.88|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-46-"discontinuation"-noun-0,"Discontinuation"-tx-35-"discontinuation"-noun-0,"Discontinue"-tx-12-"discontinue"-verb-0,"Discontinue"-tx-6-"Discontinue"-verb-0]|TX|5462/15;3972/15;1060/11;578/11|
+00000000|MMI|15.57|severe allergic reaction|C2220378|[fndg]|["severe Hypersensitivity reactions"-tx-36-"severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-35-"Severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-32-"Severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-4-"Severe hypersensitivity reactions"-noun-0]|TX|4094/33;3920/33;3572/33;480/33|
+00000000|MMI|15.57|severe allergy|C2945656|[fndg]|["severe Hypersensitivity reactions"-tx-36-"severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-35-"Severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-32-"Severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-4-"Severe hypersensitivity reactions"-noun-0]|TX|4094/33;3920/33;3572/33;480/33|
+00000000|MMI|15.42|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-45-"diarrhea"-noun-0,"Diarrhea"-tx-38-"diarrhea"-noun-0,"Diarrhea"-tx-8-"diarrhea"-noun-0,"Diarrhea"-tx-7-"diarrhea"-noun-0]|TX|5285/8;4353/8;780/8;739/8|
+00000000|MMI|15.31|Age >= 65 years|C4062450|[fndg]|["Age >= 65 years"-tx-52-"65 years age"-noun-0,"Age >= 65 years"-tx-51-"65 years age"-noun-0,"Age >= 65 years"-tx-15-"65 years age"-noun-0]|TX|6225/8,6237/3;[6068/8,6080/3],[6106/8,6118/3];1252/8,1264/3|
+00000000|MMI|14.64|Dehydration|C0011175|[dsyn]|["DEHYDRATION"-tx-48-"dehydration"-noun-0]|TX|5735/11|C18.452.950.179;C23.550.274
+00000000|MMI|14.64|Enterocolitis|C0014356|[dsyn]|["ENTEROCOLITIS"-tx-43-"enterocolitis"-noun-0]|TX|4839/13|C06.405.205.596;C06.405.469.363
+00000000|MMI|14.64|Fever|C0015967|[fndg]|["FEVER"-tx-45-"fever"-noun-0]|TX|5253/5|C23.888.119.344
+00000000|MMI|14.64|Thrombocytopenia|C0040034|[fndg]|["Thrombocytopaenia"-tx-19-"thrombocytopenia"-noun-0]|TX|1847/16|C15.378.140.855
+00000000|MMI|13.14|Constipation|C0009806|[sosy]|["CONSTIPATION"-tx-45-"constipation"-noun-0]|TX|5271/12|C23.888.821.150
+00000000|MMI|11.49|Anemia|C0002871|[dsyn]|["ANEMIA"-tx-19-"anemia"-noun-0]|TX|1839/6|C15.378.071
+00000000|MMI|11.49|Malnutrition|C0162429|[dsyn]|["poor Nutritional status"-tx-26-"poor nutritional status"-noun-0]|TX|2633/23|C18.654.521
+00000000|MMI|11.49|Pancytopenia|C0030312|[dsyn]|["PANCYTOPENIA"-tx-19-"pancytopenia"-noun-0]|TX|1871/12|C15.378.700
+00000000|MMI|11.49|Ulcer|C0041582|[dsyn]|["Ulceration"-tx-44-"ulceration"-noun-0]|TX|5190/10|C23.550.891
+00000000|MMI|11.49|Urologic Diseases|C0042075|[dsyn]|["OBSTRUCTIVE UROPATHY"-tx-48-"obstructive uropathy"-noun-0]|TX|5751/20|C12.777;C13.351.968
+00000000|MMI|11.42|4+ Answer to question|C3838679|[fndg]|["4+"-tx-22-"4"-integer-0,"4+"-tx-7-"4"-integer-0,"4+"-tx-4-"4"-integer-0]|TX|2064/1;670/1;443/1|
+00000000|MMI|11.33|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-55-"3"-real_number-0,"3+"-tx-54-"3"-integer-0,"3+"-tx-51-"3"-integer-0]|TX|6815/1;6624/1;6043/1|
+00000000|MMI|10.94|Contraindicated|C1444657|[fndg]|["Contraindicated"-tx-54-"contraindicated"-verb-0,"Contraindicated"-tx-36-"contraindicated"-verb-0,"Contraindicated"-tx-29-"contraindicated"-verb-0]|TX|6546/15;4048/15;3152/15|
+00000000|MMI|10.92|Related personal status|C0445223|[fndg]|["Related"-tx-38-"related"-verb-0,"Related"-tx-15-"related"-verb-1,"Related"-tx-8-"related"-verb-0]|TX|4342/7;1318/7;769/7|
+00000000|MMI|10.79|Complication|C0009566|[patf]|["Complications"-tx-27-"complications"-noun-0,"Complications"-tx-26-"complications"-noun-0,"Complications"-tx-25-"complications"-noun-0]|TX|2905/13;2724/13;2376/13|
+00000000|MMI|10.42|Electrolyte imbalance|C0342579|[patf]|["ELECTROLYTE IMBALANCE"-tx-39-"electrolyte imbalance"-noun-0,"ELECTROLYTE IMBALANCE"-tx-38-"electrolyte imbalance"-noun-0]|TX|4490/21;4366/21|
+00000000|MMI|10.42|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-6-"hypersensitivity"-noun-0,"Hypersensitivity"-tx-4-"Hypersensitivity"-noun-0]|TX|614/16;462/16|
+00000000|MMI|10.42|Hemoglobin finding|C1561562|[fndg]|["Hemoglobin"-tx-30-"hemoglobin"-noun-0,"Hemoglobin"-tx-3-"hemoglobin"-noun-0]|TX|3293/10;409/10|
+00000000|MMI|10.42|Medical Device Material Perforation|C1881710|[patf]|["Perforation"-tx-43-"perforation"-noun-0,"Perforation"-tx-11-"perforation"-noun-0]|TX|4819/11;1008/11|
+00000000|MMI|10.42|Perforation (observation)|C0549099|[fndg]|["PERFORATION"-tx-43-"perforation"-noun-0,"PERFORATION"-tx-11-"perforation"-noun-0]|TX|4819/11;1008/11|
+00000000|MMI|10.42|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-37-"vomiting"-verb-0,"Vomiting"-tx-7-"vomiting"-verb-0]|TX|4285/8;725/8|
+00000000|MMI|9.99|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-23-"infection"-noun-1]|TX|2193/9|C01.539.221
+00000000|MMI|9.94|Erythema|C0041834|[dsyn]|["ERYTHEMA"-tx-32-"erythema"-noun-0]|TX|3649/8|C17.800.229
+00000000|MMI|9.78|Exanthema|C0015230|[sosy]|["RASH"-tx-32-"rash"-noun-0]|TX|3644/4|C17.800.257
+00000000|MMI|8.34|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-7-"Gastrointestinal disorders"-noun-0]|TX|689/26|C06.405
+00000000|MMI|7.95|CTCAE Grade 3 Diarrhea|C1559310|[fndg]|["Grade III Diarrhea"-tx-42-"Grade 3 diarrhea"-noun-0,"Grade III Diarrhea"-tx-10-"Grade 3 diarrhea"-noun-0]|TX|4714/5,4723/10;893/5,902/10|
+00000000|MMI|7.85|1 - 3|C3843504|[fndg]|["1 - 3"-tx-29-"1 3"-comma_integer-0,"1 - 3"-tx-21-"1.3"-percentage-0]|TX|3200/1,3210/1;1974/3|
+00000000|MMI|7.62|Severe diarrhea|C1443924|[sosy]|["Severe diarrhoea"-tx-39-"severe diarrhea"-noun-0,"Severe diarrhoea"-tx-37-"severe diarrhea"-noun-0]|TX|4470/15;4298/15|
+00000000|MMI|7.54|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-37-"Nausea"-noun-0,"Nausea"-tx-7-"Nausea"-noun-0]|TX|4277/6;717/6|
+00000000|MMI|7.53|Indicated|C1444656|[fndg]|["Indicated"-tx-57-"indicated"-verb-1,"Indicated"-tx-6-"indicated"-verb-0]|TX|7192/9;656/9|
+00000000|MMI|7.53|Patient currently pregnant|C0549206|[fndg]|["Pregnant"-tx-62-"pregnant"-adj-0,"Pregnant"-tx-61-"pregnant"-adj-0]|TX|7819/8;7647/8|
+00000000|MMI|7.35|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-44-"therapy"-noun-0,"Therapy"-tx-35-"therapy"-noun-0]|TX|5093/7;4028/7|
+00000000|MMI|7.33|Bone Marrow Suppression|C0280962|[dsyn]|["BONE MARROW SUPPRESSION"-tx-19-"Bone Marrow Suppression"-noun-0,"BONE MARROW SUPPRESSION"-tx-1-"Bone marrow suppression"-noun-0]|TX|1758/23;52/23|
+00000000|MMI|7.33|Myelosuppression|C0854467|[fndg]|["Bone marrow suppression"-tx-19-"Bone Marrow Suppression"-noun-0,"Bone marrow suppression"-tx-1-"Bone marrow suppression"-noun-0]|TX|1758/23;52/23|
+00000000|MMI|7.23|School Grade|C3244287|[fndg]|["grade"-tx-47-"grade"-noun-0,"grade"-tx-22-"grade"-verb-0]|TX|5581/5;2058/5|
+00000000|MMI|7.23|Death Adverse Event Due to Disease Progression Not Associated with More Specific CTCAE Term|C1947900|[fndg]|["Disease progression NOS"-tx-51-"disease progression"-noun-0,"Disease progression NOS"-tx-15-"disease progression"-noun-1]|TX|6148/19;1329/19|
+00000000|MMI|7.23|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-32-"hypotension"-noun-0,"Hypotension"-tx-31-"hypotension"-noun-0]|TX|3659/11;3522/11|
+00000000|MMI|7.04|American College of Cardiology/American Heart Association Lesion Complexity Score C|C3272283|[fndg]|["High Risk"-tx-26-"high-risk"-adj-0,"High Risk"-tx-2-"high-risk"-adj-0]|TX|2488/9;351/9|
+00000000|MMI|6.99|10%|C3842590|[fndg]|["10%"-tx-30-"10"-integer-0,"10%"-tx-3-"10"-integer-0]|TX|3306/2;422/2|
+00000000|MMI|6.83|Infection|C3714514|[patf]|["INFECTION"-tx-23-"infection"-noun-1]|TX|2193/9|C01.539
+00000000|MMI|5.18|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-45-"fever"-noun-0]|TX|5253/5|
+00000000|MMI|5.18|Intestinal obstruction co-occurrent and due to decreased peristalsis|C4019039|[dsyn]|["Ileus"-tx-43-"ileus"-noun-0]|TX|4832/5|
+00000000|MMI|5.18|Sore to touch|C0234233|[sosy]|["TENDERNESS"-tx-45-"tenderness"-noun-0]|TX|5241/10|
+00000000|MMI|5.18|Ulceration|C3887532|[patf]|["Ulceration"-tx-44-"ulceration"-noun-0]|TX|5190/10|
+00000000|MMI|5.18|Ulceration Adverse Event|C1963256|[fndg]|["Ulceration"-tx-44-"ulceration"-noun-0]|TX|5190/10|
+00000000|MMI|5.18|Urinary tract obstruction|C0178879|[dsyn]|["OBSTRUCTIVE UROPATHY, NOS"-tx-48-"obstructive uropathy"-noun-0]|TX|5751/20|
+00000000|MMI|5.18|poor performance status|C1831741|[fndg]|["Poor Performance Status"-tx-26-"poor performance status"-noun-0]|TX|2533/23|
+00000000|MMI|4.12|Neutropenic infection|C1167779|[dsyn]|["Neutropenic infection"-tx-1-"neutropenic infections"-noun-0]|TX|155/22|
+00000000|MMI|3.78|Generalised erythema|C0849916|[sosy]|["Generalized erythema"-tx-32-"generalized erythema"-noun-0]|TX|3632/11,3649/8|
+00000000|MMI|3.75|Rash erythematous|C0234913|[fndg]|["rash; erythema"-tx-32-"rash/erythema"-noun-0]|TX|3644/13|
+00000000|MMI|3.68|1+|C3816745|[fndg]|["1+"-tx-55-"1"-integer-0]|TX|6735/1|
+00000000|MMI|3.68|Adverse event|C0877248|[patf]|["adverse events"-tx-21-"adverse events"-noun-0]|TX|2009/14|
+00000000|MMI|3.68|Constipation Adverse Event|C1963087|[fndg]|["Constipation"-tx-45-"constipation"-noun-0]|TX|5271/12|
+00000000|MMI|3.68|Patient Deceased|C1555024|[fndg]|["Patient Death"-tx-23-"patient's death"-noun-0]|TX|2126/15|
+00000000|MMI|3.59|Patient Outcome - Died|C1546956|[fndg]|["Died"-tx-51-"died"-verb-0]|TX|6122/4|
+00000000|MMI|3.59|Possible pregnancy (finding)|C0425965|[fndg]|["? Pregnancy"-tx-61-"pregnancy"-noun-0]|TX|7610/9|
+00000000|MMI|3.59|Used by|C1273517|[fndg]|["used"-tx-61-"used"-verb-0]|TX|7598/4|
+00000000|MMI|3.58|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-36-"history of"-noun-0]|TX|4083/10|
+00000000|MMI|3.53|Rash generalised|C0497365|[fndg]|["GENERALIZED RASH"-tx-32-"generalized rash"-noun-0]|TX|3632/16|
+00000000|MMI|3.51|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["Grade 4"-tx-24-"Grade 4"-noun-0]|TX|2204/5,2212/1|
+00000000|MMI|3.51|West Haven Hepatic Encephalopathy Grade 4|C3889293|[fndg]|["GRADE 4"-tx-24-"Grade 4"-noun-0]|TX|2204/5,2212/1|
+00000000|MMI|3.50|65+|C3843765|[fndg]|["65+"-tx-26-"65"-integer-0]|TX|2523/2|
+00000000|MMI|3.50|Negative Surgical Margin|C1709157|[fndg]|["Clear"-tx-49-"clear"-adj-1]|TX|5856/5|
+00000000|MMI|3.50|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-24-"Grade 3"-noun-0]|TX|2204/7|
+00000000|MMI|3.50|prior radiation therapy|C0279134|[fndg]|["Prior Radiation"-tx-26-"prior radiation"-noun-0]|TX|2610/15|
+00000000|MMI|3.47|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-21-"fatal"-adj-0]|TX|1992/5|
+00000000|MMI|3.46|5-6|C3843715|[fndg]|["5-6"-tx-53-"5.6"-real_number-0]|TX|6425/3|
+00000000|MMI|3.46|6/5|C0442749|[fndg]|["5 6"-tx-53-"5.6"-real_number-0]|TX|6425/3|
+00000000|MMI|3.46|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-57-"Toxicity"-noun-0]|TX|7163/8|
+00000000|MMI|3.45|History of radiation therapy|C1996966|[fndg]|["History of radiotherapy"-tx-44-"history of radiotherapy"-noun-0]|TX|5147/10,5165/12|
+00000000|MMI|3.45|Gastrointestinal toxicity|C1142499|[fndg]|["Gastrointestinal toxicity"-tx-45-"gastrointestinal toxicity"-noun-1]|TX|5363/25|
+00000000|MMI|3.45|Injury due to exposure to external cause|C0274281|[inpo]|["EXPOSURES"-tx-59-"exposures"-noun-0]|TX|7408/9|
+00000000|MMI|3.44|Close|C3810854|[fndg]|["Close"-tx-56-"close"-adj-0]|TX|7109/5|
+00000000|MMI|3.42|20%|C3842589|[fndg]|["20%"-tx-17-"20"-integer-0]|TX|1522/2|
+00000000|MMI|3.42|other - answer to question|C3831786|[fndg]|["Other, NOS"-tx-51-"other"-prep-0]|TX|6137/5|

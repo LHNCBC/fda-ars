@@ -1,0 +1,56 @@
+00000000|AA|ACTH|adrenocorticotropic hormone|1|4|3|27|1511:4
+00000000|AA|NYHA|New York Heart Association|1|4|7|26|2038:4
+00000000|MMI|179.37|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-33-"ALT"-noun-0,"ALT"-tx-32-"ALT"-noun-0,"ALT"-tx-31-"ALT"-noun-0,"ALT"-tx-30-"ALT"-noun-0,"ALT"-tx-29-"ALT"-noun-0,"ALT"-tx-28-"ALT"-noun-0,"ALT"-tx-27-"ALT"-noun-0,"ALT"-tx-24-"ALT"-noun-0,"ALT"-tx-23-"ALT"-noun-0]|TX|5186/3;4990/3;4692/3;4584/3;4493/3;4273/3;4013/3;3684/3;3506/3|C04.557.450.550.400
+00000000|MMI|102.54|Hypokalemia|C0020621|[fndg]|["HYPOKALEMIA"-tx-16-"hypokalemia"-noun-0,"HYPOKALEMIA"-tx-15-"hypokalemia"-noun-0,"HYPOKALEMIA"-tx-12-"hypokalemia"-noun-0,"HYPOKALEMIA"-tx-10-"hypokalemia"-noun-0,"HYPOKALEMIA"-tx-9-"Hypokalemia"-noun-0,"HYPOKALEMIA"-tx-9-"hypokalemia"-noun-0,"HYPOKALEMIA"-tx-3-"hypokalemia"-noun-0]|TX|2387/11;2298/11;1731/11;1306/11;944/11;1042/11;368/11|C18.452.950.565
+00000000|MMI|101.33|Hypoaldosteronism|C0020595|[dsyn]|["Adrenocortical insufficiency NOS"-tx-21-"adrenocortical insufficiency"-noun-0,"Adrenocortical insufficiency NOS"-tx-20-"adrenocortical insufficiency"-noun-0,"Adrenocortical insufficiency NOS"-tx-19-"adrenocortical insufficiency"-noun-0,"Adrenocortical insufficiency NOS"-tx-18-"Adrenocortical insufficiency"-noun-0,"Adrenocortical insufficiency NOS"-tx-17-"Adrenocortical Insufficiency"-noun-0,"Adrenocortical insufficiency NOS"-tx-5-"Adrenocortical insufficiency"-noun-0,"Adrenocortical insufficiency NOS"-tx-5-"adrenocortical insufficiency"-noun-0]|TX|3257/28;3035/28;2864/28;2626/28;2450/28;499/28;563/28|C19.053.500.480
+00000000|MMI|52.24|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-16-"hypertension"-noun-0,"HYPERTENSION"-tx-15-"hypertension"-noun-0,"HYPERTENSION"-tx-9-"Hypertension"-noun-0,"HYPERTENSION"-tx-9-"hypertension"-noun-0,"HYPERTENSION"-tx-3-"hypertension"-noun-0]|TX|2362/12;2284/12;930/12;1028/12;343/12|C14.907.489
+00000000|MMI|39.86|Hyperaldosteronism|C0020428|[dsyn]|["Mineralocorticoid excess"-tx-20-"mineralocorticoid excess"-noun-0,"Mineralocorticoid excess"-tx-9-"Mineralocorticoid Excess"-noun-0,"Mineralocorticoid excess"-tx-1-"Mineralocorticoid excess"-noun-0]|TX|3115/24;983/24;50/24|C19.053.800.604
+00000000|MMI|33.01|Adrenal cortical hypofunction|C0405580|[dsyn]|["ADRENOCORTICAL INSUFFICIENCY"-tx-21-"adrenocortical insufficiency"-noun-0,"ADRENOCORTICAL INSUFFICIENCY"-tx-20-"adrenocortical insufficiency"-noun-0,"ADRENOCORTICAL INSUFFICIENCY"-tx-19-"adrenocortical insufficiency"-noun-0,"ADRENOCORTICAL INSUFFICIENCY"-tx-18-"Adrenocortical insufficiency"-noun-0,"ADRENOCORTICAL INSUFFICIENCY"-tx-17-"Adrenocortical Insufficiency"-noun-0,"Adrenal Insufficiency"-tx-17-"Adrenal insufficiency"-noun-0,"ADRENOCORTICAL INSUFFICIENCY"-tx-5-"Adrenocortical insufficiency"-noun-0,"ADRENOCORTICAL INSUFFICIENCY"-tx-5-"adrenocortical insufficiency"-noun-0]|TX|3257/28;3035/28;2864/28;2626/28;2450/28;2482/21;499/28;563/28|
+00000000|MMI|30.41|Heart failure|C0018801|[dsyn]|["Failure, Heart"-tx-14-"heart failure"-noun-0,"Failure, Heart"-tx-12-"heart failure"-noun-0,"Failure, Heart"-tx-2-"heart failure"-noun-0]|TX|2060/13;1780/13;227/13|C14.280.434
+00000000|MMI|19.10|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-16-"hypertension"-noun-0,"Hypertension"-tx-15-"hypertension"-noun-0,"Hypertension"-tx-9-"Hypertension"-noun-0,"Hypertension"-tx-9-"hypertension"-noun-0,"Hypertension"-tx-3-"hypertension"-noun-0]|TX|2362/12;2284/12;930/12;1028/12;343/12|
+00000000|MMI|18.95|Body fluid retention|C0268000|[patf]|["FLUID RETENTION"-tx-15-"fluid retention"-noun-0,"FLUID RETENTION"-tx-12-"fluid retention"-noun-0,"FLUID RETENTION"-tx-9-"Fluid Retention"-noun-0,"Retention of fluid"-tx-9-"fluid retention of"-noun-0,"Retention of fluid"-tx-4-"of fluid retention"-noun-0]|TX|2315/15;1746/15;960/15;1059/15,1092/2;451/18|
+00000000|MMI|18.75|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-29-"symptoms"-noun-0,"SYMPTOMS"-tx-20-"Symptoms"-noun-0,"SYMPTOMS"-tx-19-"symptoms"-noun-0,"SYMPTOMS"-tx-5-"symptoms"-noun-0,"SYMPTOMS"-tx-4-"symptoms"-noun-0]|TX|4509/8;3013/8;2842/8;541/8;442/8|
+00000000|MMI|17.80|Systemic arterial pressure|C1272641|[fndg]|["Blood pressure"-tx-12-"blood pressure"-noun-0]|TX|1715/14|G09.330.380.076.347
+00000000|MMI|15.79|50%|C3842586|[fndg]|["50%"-tx-14-"50"-percentage-0,"50%"-tx-2-"50"-percentage-0]|TX|2003/2;[199/2],[262/2]|
+00000000|MMI|15.79|<50|C3843766|[fndg]|["<50"-tx-14-"50"-percentage-0,"<50"-tx-2-"50"-percentage-0]|TX|2003/2;[199/2],[262/2]|
+00000000|MMI|15.79|Indicated|C1444656|[fndg]|["Indicated"-tx-22-"indicated"-verb-0,"Indicated"-tx-21-"indicated"-verb-0,"Indicated"-tx-6-"indicated"-verb-0]|TX|3330/9;3192/9;636/9|
+00000000|MMI|14.97|Physical findings|C0311392|[fndg]|["SIGNS"-tx-29-"signs"-noun-0,"SIGNS"-tx-20-"signs"-noun-0,"SIGNS"-tx-19-"signs"-noun-0,"SIGNS"-tx-5-"signs"-noun-0]|TX|4521/5;3026/5;2855/5;554/5|
+00000000|MMI|14.76|Hepatotoxicity|C0235378|[inpo]|["HEPATOTOXICITY"-tx-29-"hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-26-"hepatotoxicity"-noun-1,"HEPATOTOXICITY"-tx-23-"Hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-7-"Hepatotoxicity"-noun-0]|TX|4541/14;3957/14;3436/14;704/14|
+00000000|MMI|11.54|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-25-"discontinuation"-noun-0,"Discontinue"-tx-8-"discontinue"-verb-0,"Discontinuation"-tx-7-"discontinuation"-noun-0]|TX|3812/15;869/11;803/15|
+00000000|MMI|11.18|Congestive heart failure|C0018802|[dsyn]|["Heart Failure"-tx-14-"heart failure"-noun-0,"Heart Failure"-tx-12-"heart failure"-noun-0,"Heart Failure"-tx-2-"heart failure"-noun-0]|TX|2060/13;1780/13;227/13|
+00000000|MMI|10.42|New York Heart Association Class III|C1882086|[fndg]|["New York Heart Association Class III"-tx-14-"New York Heart Association Class III"-noun-0,"New York Heart Association Class III"-tx-2-"NYHA Class III"-noun-0]|TX|2010/26,2044/9;206/14|
+00000000|MMI|9.94|Adrenal gland hypofunction|C0001623|[dsyn]|["ADRENAL INSUFFICIENCY"-tx-17-"Adrenal insufficiency"-noun-0]|TX|2482/21|C19.053.500
+00000000|MMI|9.94|Disease|C0012634|[dsyn]|["condition"-tx-12-"conditions"-noun-0]|TX|1667/10|C23.550.288
+00000000|MMI|9.87|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-18-"infection"-noun-0]|TX|2793/9|C01.539.221
+00000000|MMI|7.70|Stress|C0038435|[fndg]|["STRESS"-tx-19-"stress"-noun-0,"STRESS"-tx-18-"stress"-noun-0]|TX|3005/6;2806/6|
+00000000|MMI|7.56|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-23-"grade 3"-noun-0,"GRADE 3"-tx-10-"grade 3"-noun-0]|TX|3493/7;1293/7|
+00000000|MMI|7.35|New York Heart Association Class II|C1882085|[fndg]|["New York Heart Association Class II"-tx-14-"NYHA Class II"-noun-0,"New York Heart Association Class II"-tx-2-"NYHA Class II"-noun-0]|TX|2090/13;269/13|
+00000000|MMI|7.11|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-20-"adverse reactions"-noun-0,"Adverse reactions"-tx-11-"adverse reactions"-noun-0]|TX|3081/17;1588/17|
+00000000|MMI|7.11|4+ Answer to question|C3838679|[fndg]|["4+"-tx-23-"4"-integer-0,"4+"-tx-10-"4"-percentage-0]|TX|3504/1;1321/1|
+00000000|MMI|7.00|H/O: cardiovascular disease|C0455539|[fndg]|["History of - cardiovascular disease"-tx-13-"history of cardiovascular disease"-noun-0,"History of - cardiovascular disease"-tx-1-"history of cardiovascular disease"-noun-0]|TX|1894/33;119/33|
+00000000|MMI|6.71|Infection|C3714514|[patf]|["INFECTION"-tx-18-"infection"-noun-0]|TX|2793/9|C01.539
+00000000|MMI|5.18|Blood pressure finding|C1271104|[fndg]|["Blood Pressure"-tx-12-"blood pressure"-noun-0]|TX|1715/14|
+00000000|MMI|5.18|Death (finding)|C1306577|[fndg]|["DEATHS"-tx-26-"deaths"-noun-1]|TX|3903/6|
+00000000|MMI|5.18|Hepatic impairment|C0948807|[dsyn]|["Hepatic impairment"-tx-28-"hepatic impairment"-noun-0]|TX|4203/18|
+00000000|MMI|5.18|Recent myocardial infarction|C1998297|[fndg]|["Recent myocardial infarction"-tx-12-"recent myocardial infarction"-noun-0]|TX|1795/28|
+00000000|MMI|5.18|Ventricular Arrhythmia Adverse Event|C1883529|[patf]|["Ventricular arrhythmia"-tx-12-"ventricular arrhythmia"-noun-0]|TX|1827/22|
+00000000|MMI|5.18|Ventricular Arrhythmia Adverse Event NOS|C1963277|[patf]|["Ventricular arrhythmia NOS"-tx-12-"ventricular arrhythmia"-noun-0]|TX|1827/22|
+00000000|MMI|5.18|Ventricular arrhythmia|C0085612|[dsyn]|["Ventricular Arrythmia"-tx-12-"ventricular arrhythmia"-noun-0]|TX|1827/22|
+00000000|MMI|3.68|2+|C3833492|[fndg]|["2+"-tx-32-"2"-real_number-0]|TX|5108/1|
+00000000|MMI|3.65|CTCAE Grade 3 Hypertension|C1556274|[fndg]|["Grade III Hypertension"-tx-10-"grade 3 hypertension"-noun-0]|TX|1239/7,1252/12|
+00000000|MMI|3.65|CTCAE Grade 4 Hypertension|C1556275|[fndg]|["Grade 4 Hypertension"-tx-10-"grade 4 hypertension"-noun-0]|TX|1239/5,1250/14|
+00000000|MMI|3.60|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["Grade 4"-tx-10-"grade 4"-noun-0]|TX|1293/5,1304/1|
+00000000|MMI|3.60|West Haven Hepatic Encephalopathy Grade 4|C3889293|[fndg]|["GRADE 4"-tx-10-"grade 4"-noun-0]|TX|1293/5,1304/1|
+00000000|MMI|3.59|Related personal status|C0445223|[fndg]|["Related"-tx-26-"related"-verb-1]|TX|3918/7|
+00000000|MMI|3.59|Withdrawal (dysfunction)|C2825032|[mobd]|["Withdrawn"-tx-19-"withdrawn"-verb-0]|TX|2923/9|
+00000000|MMI|3.59|Withdrawn|C0424092|[fndg]|["Withdrawn"-tx-19-"withdrawn"-verb-0]|TX|2923/9|
+00000000|MMI|3.57|1+|C3816745|[fndg]|["1+"-tx-10-"1"-percentage-0]|TX|1363/1|
+00000000|MMI|3.56|Diagnosis|C0011900|[fndg]|["DIAGNOSIS"-tx-21-"diagnosis"-noun-0]|TX|3244/9|E01
+00000000|MMI|3.55|compromise|C2945640|[fndg]|["compromise"-tx-12-"compromised"-verb-0]|TX|1687/11|
+00000000|MMI|3.55|0%|C3842591|[fndg]|["0%"-tx-17-"0"-percentage-0]|TX|2593/1|
+00000000|MMI|3.55|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-17-"randomized"-adj-0]|TX|2524/10|
+00000000|MMI|3.47|Hypertension monitoring check done|C0422554|[fndg]|["hypertension monitor"-tx-15-"Monitor hypertension"-noun-0]|TX|2263/7,2284/12|
+00000000|MMI|3.45|10%|C3842590|[fndg]|["10%"-tx-33-"10"-integer-0]|TX|5265/2|
+00000000|MMI|3.45|20%|C3842589|[fndg]|["20%"-tx-33-"20"-integer-0]|TX|5215/2|
+00000000|MMI|3.45|combination - answer to question|C3811910|[fndg]|["Combination"-tx-18-"combination"-noun-0]|TX|2700/11|
+00000000|MMI|3.44|Mg reduced|C0240291|[fndg]|["Mg reduced"-tx-28-"reduced mg"-noun-0]|TX|4234/7,4261/2|

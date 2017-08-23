@@ -1,0 +1,50 @@
+T1	AdverseReaction 39 61	HEPATIC DECOMPENSATION
+T2	AdverseReaction 120 142	HEPATIC DECOMPENSATION
+T3	AdverseReaction 309 331	hepatic decompensation
+T4	AdverseReaction 411 433	HEPATIC DECOMPENSATION
+T5	AdverseReaction 663 685	hepatic decompensation
+T6	Factor 30 34	RISK
+T7	Factor 111 115	RISK
+T8	Factor 301 305	risk
+T9	Factor 402 406	RISK
+T10	Factor 655 659	risk
+E1	AdverseReaction:T1 Hypothetical:E6
+E2	AdverseReaction:T2 Hypothetical:E7
+E3	AdverseReaction:T3 Hypothetical:E8
+E4	AdverseReaction:T4 Hypothetical:E9
+E5	AdverseReaction:T5 Hypothetical:E10
+E6	Factor:T6
+E7	Factor:T7
+E8	Factor:T8
+E9	Factor:T9
+E10	Factor:T10
+A1	CUI E1 C1394798
+A2	UMLS-Preferred-Name E1 hepatic; decompensation
+A3	MEDDRA-PT E1 Hepatic failure
+A4	MEDDRA-PT-ID E1 10019663
+A5	LLT E1 Hepatic decompensation
+A6	LLT-ID E1 10076894
+A7	CUI E2 C1394798
+A8	UMLS-Preferred-Name E2 hepatic; decompensation
+A9	MEDDRA-PT E2 Hepatic failure
+A10	MEDDRA-PT-ID E2 10019663
+A11	LLT E2 Hepatic decompensation
+A12	LLT-ID E2 10076894
+A13	CUI E3 C1394798
+A14	UMLS-Preferred-Name E3 hepatic; decompensation
+A15	MEDDRA-PT E3 Hepatic failure
+A16	MEDDRA-PT-ID E3 10019663
+A17	LLT E3 Hepatic decompensation
+A18	LLT-ID E3 10076894
+A19	CUI E4 C1394798
+A20	UMLS-Preferred-Name E4 hepatic; decompensation
+A21	MEDDRA-PT E4 Hepatic failure
+A22	MEDDRA-PT-ID E4 10019663
+A23	LLT E4 Hepatic decompensation
+A24	LLT-ID E4 10076894
+A25	CUI E5 C1394798
+A26	UMLS-Preferred-Name E5 hepatic; decompensation
+A27	MEDDRA-PT E5 Hepatic failure
+A28	MEDDRA-PT-ID E5 10019663
+A29	LLT E5 Hepatic decompensation
+A30	LLT-ID E5 10076894

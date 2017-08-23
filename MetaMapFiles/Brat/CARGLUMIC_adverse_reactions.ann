@@ -1,0 +1,256 @@
+T1	AdverseReaction 75 85	Infections
+T2	AdverseReaction 87 95	vomiting
+T3	AdverseReaction 97 111	abdominal pain
+T4	AdverseReaction 113 120	pyrexia
+T5	AdverseReaction 122 132	tonsilitis
+T6	AdverseReaction 134 140	anemia
+T7	AdverseReaction 142 155	ear infection
+T8	AdverseReaction 157 165	diarrhea
+T9	AdverseReaction 167 182	nasopharyngitis
+T10	AdverseReaction 188 196	headache
+T11	AdverseReaction 561 571	Infections
+T12	AdverseReaction 573 581	vomiting
+T13	AdverseReaction 583 597	abdominal pain
+T14	AdverseReaction 599 606	pyrexia
+T15	AdverseReaction 608 618	tonsilitis
+T16	AdverseReaction 620 626	anemia
+T17	AdverseReaction 628 641	ear infection
+T18	AdverseReaction 643 651	diarrhea
+T19	AdverseReaction 653 668	nasopharyngitis
+T20	AdverseReaction 674 682	headache
+T21	AdverseReaction 1439 1445	Anemia
+T22	AdverseReaction 1653 1666	Ear infection
+T23	AdverseReaction 1867 1881	Abdominal pain
+T24	AdverseReaction 1974 1982	Diarrhea
+T25	AdverseReaction 2081 2089	Vomiting
+T26	AdverseReaction 2188 2197	Dysgeusia
+T27	AdverseReaction 2402 2410	Asthenia
+T28	AdverseReaction 2509 2522	Hyperhidrosis
+T29	AdverseReaction 2616 2623	Pyrexia
+T30	AdverseReaction 2830 2839	Infection
+T31	AdverseReaction 2937 2946	Influenza
+T32	AdverseReaction 3472 3492	Hemoglobin decreased
+T33	AdverseReaction 3044 3059	Nasopharyngitis
+T34	AdverseReaction 3151 3160	Pneumonia
+T35	AdverseReaction 3258 3269	Tonsillitis
+T36	AdverseReaction 3579 3595	Weight decreased
+T37	AdverseReaction 3793 3801	Anorexia
+T38	AdverseReaction 4007 4015	Headache
+T39	AdverseReaction 4114 4124	Somnolence
+T40	AdverseReaction 4328 4332	Rash
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+A1	CUI E1 C3714514
+A2	UMLS-Preferred-Name E1 Infection
+A3	MEDDRA-PT E1 Infection
+A4	MEDDRA-PT-ID E1 10021789
+A5	CUI E2 C0042963
+A6	UMLS-Preferred-Name E2 Vomiting
+A7	MEDDRA-PT E2 Vomiting
+A8	MEDDRA-PT-ID E2 10047700
+A9	CUI E3 C0000737
+A10	UMLS-Preferred-Name E3 Abdominal Pain
+A11	MEDDRA-PT E3 Abdominal pain
+A12	MEDDRA-PT-ID E3 10000081
+A13	CUI E4 C0015967
+A14	UMLS-Preferred-Name E4 Fever
+A15	MEDDRA-PT E4 Pyrexia
+A16	MEDDRA-PT-ID E4 10037660
+A17	CUI E5 C0040425
+A18	UMLS-Preferred-Name E5 Tonsillitis
+A19	MEDDRA-PT E5 Tonsillitis
+A20	MEDDRA-PT-ID E5 10044008
+A21	CUI E6 C0002871
+A22	UMLS-Preferred-Name E6 Anemia
+A23	MEDDRA-PT E6 Anaemia
+A24	MEDDRA-PT-ID E6 10002034
+A25	LLT E6 Anemia
+A26	LLT-ID E6 10002272
+A27	CUI E7 C0699744
+A28	UMLS-Preferred-Name E7 Infection of ear
+A29	MEDDRA-PT E7 Ear infection
+A30	MEDDRA-PT-ID E7 10014011
+A31	CUI E8 C0011991
+A32	UMLS-Preferred-Name E8 Diarrhea
+A33	MEDDRA-PT E8 Diarrhoea
+A34	MEDDRA-PT-ID E8 10012735
+A35	LLT E8 Diarrhea
+A36	LLT-ID E8 10012727
+A37	CUI E9 C0027441
+A38	UMLS-Preferred-Name E9 Nasopharyngitis
+A39	MEDDRA-PT E9 Nasopharyngitis
+A40	MEDDRA-PT-ID E9 10028810
+A41	CUI E10 C0018681
+A42	UMLS-Preferred-Name E10 Headache
+A43	MEDDRA-PT E10 Headache
+A44	MEDDRA-PT-ID E10 10019211
+A45	CUI E11 C3714514
+A46	UMLS-Preferred-Name E11 Infection
+A47	MEDDRA-PT E11 Infection
+A48	MEDDRA-PT-ID E11 10021789
+A49	CUI E12 C0042963
+A50	UMLS-Preferred-Name E12 Vomiting
+A51	MEDDRA-PT E12 Vomiting
+A52	MEDDRA-PT-ID E12 10047700
+A53	CUI E13 C0000737
+A54	UMLS-Preferred-Name E13 Abdominal Pain
+A55	MEDDRA-PT E13 Abdominal pain
+A56	MEDDRA-PT-ID E13 10000081
+A57	CUI E14 C0015967
+A58	UMLS-Preferred-Name E14 Fever
+A59	MEDDRA-PT E14 Pyrexia
+A60	MEDDRA-PT-ID E14 10037660
+A61	CUI E15 C0040425
+A62	UMLS-Preferred-Name E15 Tonsillitis
+A63	MEDDRA-PT E15 Tonsillitis
+A64	MEDDRA-PT-ID E15 10044008
+A65	CUI E16 C0002871
+A66	UMLS-Preferred-Name E16 Anemia
+A67	MEDDRA-PT E16 Anaemia
+A68	MEDDRA-PT-ID E16 10002034
+A69	LLT E16 Anemia
+A70	LLT-ID E16 10002272
+A71	CUI E17 C0699744
+A72	UMLS-Preferred-Name E17 Infection of ear
+A73	MEDDRA-PT E17 Ear infection
+A74	MEDDRA-PT-ID E17 10014011
+A75	CUI E18 C0011991
+A76	UMLS-Preferred-Name E18 Diarrhea
+A77	MEDDRA-PT E18 Diarrhoea
+A78	MEDDRA-PT-ID E18 10012735
+A79	LLT E18 Diarrhea
+A80	LLT-ID E18 10012727
+A81	CUI E19 C0027441
+A82	UMLS-Preferred-Name E19 Nasopharyngitis
+A83	MEDDRA-PT E19 Nasopharyngitis
+A84	MEDDRA-PT-ID E19 10028810
+A85	CUI E20 C0018681
+A86	UMLS-Preferred-Name E20 Headache
+A87	MEDDRA-PT E20 Headache
+A88	MEDDRA-PT-ID E20 10019211
+A89	CUI E21 C0002871
+A90	UMLS-Preferred-Name E21 Anemia
+A91	MEDDRA-PT E21 Anaemia
+A92	MEDDRA-PT-ID E21 10002034
+A93	LLT E21 Anemia
+A94	LLT-ID E21 10002272
+A95	CUI E22 C0699744
+A96	UMLS-Preferred-Name E22 Infection of ear
+A97	MEDDRA-PT E22 Ear infection
+A98	MEDDRA-PT-ID E22 10014011
+A99	CUI E23 C0000737
+A100	UMLS-Preferred-Name E23 Abdominal Pain
+A101	MEDDRA-PT E23 Abdominal pain
+A102	MEDDRA-PT-ID E23 10000081
+A103	CUI E24 C0011991
+A104	UMLS-Preferred-Name E24 Diarrhea
+A105	MEDDRA-PT E24 Diarrhoea
+A106	MEDDRA-PT-ID E24 10012735
+A107	LLT E24 Diarrhea
+A108	LLT-ID E24 10012727
+A109	CUI E25 C0042963
+A110	UMLS-Preferred-Name E25 Vomiting
+A111	MEDDRA-PT E25 Vomiting
+A112	MEDDRA-PT-ID E25 10047700
+A113	CUI E26 C0013378
+A114	UMLS-Preferred-Name E26 Dysgeusia
+A115	MEDDRA-PT E26 Dysgeusia
+A116	MEDDRA-PT-ID E26 10013911
+A117	CUI E27 C0004093
+A118	UMLS-Preferred-Name E27 Asthenia
+A119	MEDDRA-PT E27 Asthenia
+A120	MEDDRA-PT-ID E27 10003549
+A121	CUI E28 C0020458
+A122	UMLS-Preferred-Name E28 Hyperhidrosis disorder
+A123	MEDDRA-PT E28 Hyperhidrosis
+A124	MEDDRA-PT-ID E28 10020642
+A125	CUI E29 C0015967
+A126	UMLS-Preferred-Name E29 Fever
+A127	MEDDRA-PT E29 Pyrexia
+A128	MEDDRA-PT-ID E29 10037660
+A129	CUI E30 C3714514
+A130	UMLS-Preferred-Name E30 Infection
+A131	MEDDRA-PT E30 Infection
+A132	MEDDRA-PT-ID E30 10021789
+A133	CUI E31 C0021400
+A134	UMLS-Preferred-Name E31 Influenza
+A135	MEDDRA-PT E31 Influenza
+A136	MEDDRA-PT-ID E31 10022000
+A137	CUI E32 C0162119
+A138	UMLS-Preferred-Name E32 Hemoglobin low
+A139	MEDDRA-PT E32 Haemoglobin decreased
+A140	MEDDRA-PT-ID E32 10018884
+A141	LLT E32 Hemoglobin decreased
+A142	LLT-ID E32 10019483
+A143	CUI E33 C0027441
+A144	UMLS-Preferred-Name E33 Nasopharyngitis
+A145	MEDDRA-PT E33 Nasopharyngitis
+A146	MEDDRA-PT-ID E33 10028810
+A147	CUI E34 C0032285
+A148	UMLS-Preferred-Name E34 Pneumonia
+A149	MEDDRA-PT E34 Pneumonia
+A150	MEDDRA-PT-ID E34 10035664
+A151	CUI E35 C0040425
+A152	UMLS-Preferred-Name E35 Tonsillitis
+A153	MEDDRA-PT E35 Tonsillitis
+A154	MEDDRA-PT-ID E35 10044008
+A155	CUI E36 C1262477
+A156	UMLS-Preferred-Name E36 Weight decreased
+A157	MEDDRA-PT E36 Weight decreased
+A158	MEDDRA-PT-ID E36 10047895
+A159	CUI E37 C0003123
+A160	UMLS-Preferred-Name E37 Anorexia
+A161	MEDDRA-PT E37 Decreased appetite
+A162	MEDDRA-PT-ID E37 10061428
+A163	LLT E37 Anorexia
+A164	LLT-ID E37 10002646
+A165	CUI E38 C0018681
+A166	UMLS-Preferred-Name E38 Headache
+A167	MEDDRA-PT E38 Headache
+A168	MEDDRA-PT-ID E38 10019211
+A169	CUI E39 C2830004
+A170	UMLS-Preferred-Name E39 Somnolence
+A171	MEDDRA-PT E39 Somnolence
+A172	MEDDRA-PT-ID E39 10041349
+A173	CUI E40 C0015230
+A174	UMLS-Preferred-Name E40 Exanthema
+A175	MEDDRA-PT E40 Rash
+A176	MEDDRA-PT-ID E40 10037844

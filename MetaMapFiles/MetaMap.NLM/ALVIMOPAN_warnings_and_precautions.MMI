@@ -1,0 +1,36 @@
+00000000|MMI|69.82|Kidney Failure, Chronic|C0022661|[dsyn]|["End Stage Renal Disease"-tx-28-"End-Stage Renal Disease"-noun-0,"End Stage Renal Disease"-tx-28-"end-stage renal disease"-noun-1,"End Stage Renal Disease"-tx-4-"end-stage renal disease"-noun-1]|TX|4377/23;4452/23;642/23|C12.777.419.780.750.500;C13.351.968.419.780.750.500
+00000000|MMI|67.97|Myocardial Infarction|C0027051|[dsyn]|["Infarction, Myocardial"-tx-14-"myocardial infarction"-noun-0,"Myocardial Infarctions"-tx-8-"myocardial infarctions"-noun-0,"Infarction, Myocardial"-tx-7-"Myocardial Infarction"-noun-0,"Myocardial Infarctions"-tx-7-"myocardial infarctions"-noun-0,"Myocardial Infarctions"-tx-1-"myocardial infarctions"-noun-0]|TX|2212/21;1275/22;929/21;1000/22;69/22|C14.280.647.500;C14.907.585.500
+00000000|MMI|35.81|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-22-"abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-2-"abdominal pain"-noun-0]|TX|3459/14;476/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|29.46|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-22-"diarrhea"-noun-0,"DIARRHOEA"-tx-2-"diarrhea"-noun-0]|TX|3496/8;517/8|C23.888.821.214
+00000000|MMI|29.46|Nausea|C0027497|[sosy]|["NAUSEA"-tx-22-"nausea"-noun-0,"NAUSEA"-tx-2-"nausea"-noun-0]|TX|3475/6;492/6|C23.888.821.712
+00000000|MMI|29.46|Vomiting|C0042963|[sosy]|["VOMITING"-tx-22-"vomiting"-noun-0,"VOMITING"-tx-2-"vomiting"-noun-0]|TX|3486/8;503/8|C23.888.821.937
+00000000|MMI|27.39|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-32-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-30-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-26-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-26-"adverse reactions"-noun-0,"Adverse reactions"-tx-24-"adverse reactions"-noun-0,"Adverse reactions"-tx-21-"Adverse Reactions"-noun-0]|TX|4877/17;4557/17;3952/17;[4089/17],[4139/17];3754/17;3132/17|
+00000000|MMI|25.96|Intestinal Obstruction|C0021843|[dsyn]|["BOWEL OBSTRUCTION"-tx-30-"bowel obstruction"-noun-0,"BOWEL OBSTRUCTION"-tx-5-"bowel obstruction"-noun-1]|TX|4778/17;808/17|C06.405.469.531
+00000000|MMI|18.55|Complete obstruction|C0001168|[acab]|["Complete obstruction"-tx-30-"Complete Obstruction"-noun-0,"Complete obstruction"-tx-30-"complete obstruction"-noun-0,"Complete obstruction"-tx-30-"complete obstruction"-noun-1,"Complete obstruction"-tx-5-"complete obstruction"-noun-1]|TX|4592/8,4618/11;[4681/8,4707/11],[4769/8,4784/11];[4681/8,4707/11],[4769/8,4784/11];[711/8,737/11],[799/8,814/11]|
+00000000|MMI|17.80|Chronic pain|C0150055|[sosy]|["Chronic Pain"-tx-9-"chronic pain"-noun-0]|TX|1463/12|C10.597.617.196;C23.888.592.612.274
+00000000|MMI|12.14|Chronic kidney disease stage 5|C2316810|[dsyn]|["End Stage Renal Disease"-tx-28-"End-Stage Renal Disease"-noun-0,"End Stage Renal Disease"-tx-28-"end-stage renal disease"-noun-1,"End Stage Renal Disease"-tx-4-"end-stage renal disease"-noun-1]|TX|4377/23;4452/23;642/23|
+00000000|MMI|11.49|Educational Status|C0013658|[fndg]|["Education, NOS"-tx-13-"Education"-noun-0]|TX|2096/9|N01.824.196
+00000000|MMI|11.14|1+|C3816745|[fndg]|["1+"-tx-20-"1"-integer-0,"1+"-tx-9-"1"-comma_integer-0]|TX|3081/1;[1719/1],[1739/1]|
+00000000|MMI|11.00|Gastrointestinal obstruction|C0236124|[patf]|["GASTROINTESTINAL OBSTRUCTION"-tx-30-"Gastrointestinal Obstruction"-noun-0,"GASTROINTESTINAL OBSTRUCTION"-tx-30-"gastrointestinal obstruction"-noun-1,"GASTROINTESTINAL OBSTRUCTION"-tx-5-"gastrointestinal obstruction"-noun-1]|TX|4601/28;4690/28;720/28|
+00000000|MMI|10.99|Hepatic impairment|C0948807|[dsyn]|["Hepatic impairment"-tx-26-"Hepatic Impairment"-noun-0,"Hepatic impairment"-tx-26-"hepatic impairment"-noun-0,"Hepatic impairment"-tx-3-"hepatic impairment"-noun-1]|TX|3994/18;4037/18;578/18|
+00000000|MMI|10.58|Related personal status|C0445223|[fndg]|["Related"-tx-26-"related"-adj-0,"Related"-tx-22-"related"-verb-0,"Related"-tx-21-"Related"-adj-0]|TX|4123/7;3414/7;3124/7|
+00000000|MMI|10.42|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-22-"diarrhea"-noun-0,"Diarrhea"-tx-2-"diarrhea"-noun-0]|TX|3496/8;517/8|
+00000000|MMI|10.42|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-22-"nausea"-noun-0,"Nausea"-tx-2-"nausea"-noun-0]|TX|3475/6;492/6|
+00000000|MMI|10.42|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-22-"vomiting"-noun-0,"Vomiting"-tx-2-"vomiting"-noun-0]|TX|3486/8;503/8|
+00000000|MMI|7.66|Chronic Cancer Pain|C1333034|[sosy]|["Chronic Cancer Pain"-tx-7-"chronic cancer pain"-noun-0,"Chronic Cancer Pain"-tx-1-"chronic cancer pain"-noun-0]|TX|1173/7,1185/11;238/7,250/11|
+00000000|MMI|7.26|5-6|C3843715|[fndg]|["5-6"-tx-30-"5.6"-real_number-0,"5-6"-tx-6-"5.6"-real_number-0]|TX|4537/3;828/3|
+00000000|MMI|7.26|6/5|C0442749|[fndg]|["5 6"-tx-30-"5.6"-real_number-0,"5 6"-tx-6-"5.6"-real_number-0]|TX|4537/3;828/3|
+00000000|MMI|6.89|Obstruction|C0028778|[patf]|["OBSTRUCTION"-tx-30-"obstruction"-noun-0,"OBSTRUCTION"-tx-5-"obstruction"-noun-1]|TX|4784/11;814/11|
+00000000|MMI|5.18|Hepatic methionine adenosyltransferase deficiency|C0268621|[dsyn]|["MET"-tx-17-"met"-verb-0]|TX|2503/3|
+00000000|MMI|5.18|Imbalance|C1397014|[sosy]|["Imbalance"-tx-9-"imbalance"-noun-0]|TX|1366/9|
+00000000|MMI|5.18|Sign or Symptom|C3540840|[fndg]|["Clinical Signs"-tx-22-"clinical signs"-noun-0]|TX|3352/14|
+00000000|MMI|3.71|Discharged from hospital|C0438953|[fndg]|["DISCHARGED FROM HOSPITAL"-tx-19-"discharged from hospital"-noun-1]|TX|2987/15,3007/8|
+00000000|MMI|3.59|Contraindicated|C1444657|[fndg]|["Contraindicated"-tx-25-"contraindicated"-verb-0]|TX|3784/15|
+00000000|MMI|3.58|Postoperative ileus|C0400877|[dsyn]|["Postoperative ileus"-tx-23-"postoperative ileus"-noun-1]|TX|3614/19|
+00000000|MMI|3.57|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-22-"symptoms"-noun-0]|TX|3371/8|
+00000000|MMI|3.56|Day 7|C3842672|[fndg]|["Day 7"-tx-25-"7 days"-noun-0]|TX|3870/1,3884/4|
+00000000|MMI|3.54|10%|C3842590|[fndg]|["10%"-tx-26-"10"-adj-0]|TX|4172/2|
+00000000|MMI|3.50|Indicated|C1444656|[fndg]|["Indicated"-tx-9-"indicated"-adj-0]|TX|1661/9|
+00000000|MMI|3.48|Authorized|C1555472|[fndg]|["Authorized"-tx-19-"authorized"-adj-0]|TX|2615/10|
+00000000|MMI|3.48|Gait normal|C0231683|[fndg]|["Normal"-tx-26-"normal"-adj-0]|TX|4273/6|
+00000000|MMI|3.43|4+ Answer to question|C3838679|[fndg]|["4+"-tx-8-"4"-integer-0]|TX|1321/1|

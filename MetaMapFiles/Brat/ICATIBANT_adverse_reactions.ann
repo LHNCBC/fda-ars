@@ -1,0 +1,86 @@
+T1	AdverseReaction 88 112	injection site reactions
+T2	AdverseReaction 259 266	pyrexia
+T3	AdverseReaction 268 289	transaminase increase
+T4	AdverseReaction 291 300	dizziness
+T5	AdverseReaction 306 310	rash
+T6	AdverseReaction 1959 1982	Injection site reaction
+T7	AdverseReaction 2068 2075	Pyrexia
+T8	AdverseReaction 2213 2235	Transaminase increased
+T9	AdverseReaction 2362 2371	Dizziness
+T10	AdverseReaction 3243 3247	rash
+T11	AdverseReaction 3249 3255	nausea
+T12	AdverseReaction 3261 3269	headache
+T13	AdverseReaction 3821 3837	hypersensitivity
+T14	AdverseReaction 3841 3863	anaphylactic reactions
+T15	Negation 3818 3820	No
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13 Negated:E15
+E14	AdverseReaction:T14 Negated:E15
+E15	Negation:T15
+A1	CUI E1 C0151735
+A2	UMLS-Preferred-Name E1 Injection site reaction
+A3	MEDDRA-PT E1 Injection site reaction
+A4	MEDDRA-PT-ID E1 10022095
+A5	CUI E2 C0015967
+A6	UMLS-Preferred-Name E2 Fever
+A7	MEDDRA-PT E2 Pyrexia
+A8	MEDDRA-PT-ID E2 10037660
+A9	CUI E3 C0438717
+A10	UMLS-Preferred-Name E3 Transaminases increased
+A11	MEDDRA-PT E3 Transaminases increased
+A12	MEDDRA-PT-ID E3 10054889
+A13	CUI E4 C0012833
+A14	UMLS-Preferred-Name E4 Dizziness
+A15	MEDDRA-PT E4 Dizziness
+A16	MEDDRA-PT-ID E4 10013573
+A17	CUI E5 C0015230
+A18	UMLS-Preferred-Name E5 Exanthema
+A19	MEDDRA-PT E5 Rash
+A20	MEDDRA-PT-ID E5 10037844
+A21	CUI E6 C0151735
+A22	UMLS-Preferred-Name E6 Injection site reaction
+A23	MEDDRA-PT E6 Injection site reaction
+A24	MEDDRA-PT-ID E6 10022095
+A25	CUI E7 C0015967
+A26	UMLS-Preferred-Name E7 Fever
+A27	MEDDRA-PT E7 Pyrexia
+A28	MEDDRA-PT-ID E7 10037660
+A29	CUI E8 C0438717
+A30	UMLS-Preferred-Name E8 Transaminases increased
+A31	MEDDRA-PT E8 Transaminases increased
+A32	MEDDRA-PT-ID E8 10054889
+A33	CUI E9 C0012833
+A34	UMLS-Preferred-Name E9 Dizziness
+A35	MEDDRA-PT E9 Dizziness
+A36	MEDDRA-PT-ID E9 10013573
+A37	CUI E10 C0015230
+A38	UMLS-Preferred-Name E10 Exanthema
+A39	MEDDRA-PT E10 Rash
+A40	MEDDRA-PT-ID E10 10037844
+A41	CUI E11 C0027497
+A42	UMLS-Preferred-Name E11 Nausea
+A43	MEDDRA-PT E11 Nausea
+A44	MEDDRA-PT-ID E11 10028813
+A45	CUI E12 C0018681
+A46	UMLS-Preferred-Name E12 Headache
+A47	MEDDRA-PT E12 Headache
+A48	MEDDRA-PT-ID E12 10019211
+A49	CUI E13 C0020517
+A50	UMLS-Preferred-Name E13 Hypersensitivity
+A51	MEDDRA-PT E13 Hypersensitivity
+A52	MEDDRA-PT-ID E13 10020751
+A53	CUI E14 C0002792
+A54	UMLS-Preferred-Name E14 anaphylaxis
+A55	MEDDRA-PT E14 Anaphylactic reaction
+A56	MEDDRA-PT-ID E14 10002198

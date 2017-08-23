@@ -1,0 +1,93 @@
+00000000|MMI|70.89|1+|C3816745|[fndg]|["1+"-tx-12-"1"-integer-0,"1+"-tx-11-"1"-integer-0,"1+"-tx-11-"1"-percentage-0,"1+"-tx-10-"1"-percentage-0,"1+"-tx-9-"1"-percentage-0]|TX|5611/1;[2643/1],[3276/1],[3836/1],[4239/1],[4463/1],[5086/1],[5323/1];[2643/1],[3276/1],[3836/1],[4239/1],[4463/1],[5086/1],[5323/1];[2498/1],[2536/1];[2278/1],[2409/1]|
+00000000|MMI|64.04|Disease|C0012634|[dsyn]|["Disorders"-tx-11-"disorders"-noun-0,"condition"-tx-11-"conditions"-verb-0,"condition"-tx-2-"conditions"-noun-0]|TX|[3717/9],[4093/9],[4688/9],[4808/9];3751/10;1088/10|C23.550.288
+00000000|MMI|50.38|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-11-"Abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-8-"abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-1-"abdominal pain"-noun-0]|TX|3654/14;2160/14;772/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|50.24|Back Pain|C0004604|[sosy]|["BACKPAIN"-tx-11-"Back pain"-noun-0,"BACKPAIN"-tx-8-"back pain"-noun-0,"BACKPAIN"-tx-1-"back pain"-noun-0]|TX|3952/9;2149/9;761/9|C10.597.617.140;C23.888.592.612.107
+00000000|MMI|50.14|Headache|C0018681|[sosy]|["HEADACHE"-tx-11-"Headache"-noun-0,"HEADACHE"-tx-8-"headache"-noun-0,"HEADACHE"-tx-1-"Headache"-noun-0]|TX|3369/8;2070/8;682/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|48.04|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-12-"Adverse reactions"-noun-0,"Adverse reactions"-tx-11-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-11-"Adverse reactions"-noun-0,"Adverse reactions"-tx-10-"adverse reactions"-noun-0,"Adverse reactions"-tx-8-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-2-"adverse reaction"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|5557/17;2581/17;5351/17;2460/17;1997/17;1100/16;[10/17],[846/17];[53/17],[631/17]|
+00000000|MMI|44.63|Coughing|C0010200|[sosy]|["COUGH"-tx-11-"Cough"-verb-0,"COUGH"-tx-8-"cough"-noun-0,"COUGH"-tx-1-"cough"-noun-0]|TX|4580/5;2120/5;732/5|C08.618.248;C23.888.852.293
+00000000|MMI|40.62|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-11-"Diarrhea"-noun-0,"DIARRHOEA"-tx-8-"diarrhea"-noun-0,"DIARRHOEA"-tx-1-"diarrhea"-noun-0]|TX|3600/8;2110/8;722/8|C23.888.821.214
+00000000|MMI|40.62|Sinusitis|C0037199|[dsyn]|["SINUSITIS"-tx-11-"Sinusitis"-noun-0,"SINUSITIS"-tx-8-"sinusitis"-noun-0,"SINUSITIS"-tx-1-"sinusitis"-noun-0]|TX|2958/9;2138/9;750/9|C08.460.692.752;C08.730.749;C09.603.692.752
+00000000|MMI|40.57|Influenza|C0021400|[dsyn]|["INFLUENZA"-tx-11-"Influenza"-noun-0,"INFLUENZA"-tx-8-"influenza"-noun-0,"INFLUENZA"-tx-1-"influenza"-noun-0]|TX|2903/9;2127/9;739/9|C02.782.620.365;C08.730.310
+00000000|MMI|33.49|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-12-"3"-integer-0,"3+"-tx-11-"3"-integer-0,"3+"-tx-4-"3"-integer-0,"3+"-tx-3-"3"-integer-0]|TX|5719/1;[2625/1],[4446/1],[5450/1];1542/1;1335/1|
+00000000|MMI|33.16|Basal cell carcinoma|C0007117|[neop]|["BASAL CELL CARCINOMA"-tx-11-"Basal cell carcinoma"-noun-0,"BASAL CELL CARCINOMA"-tx-9-"basal cell carcinoma"-noun-0]|TX|5284/20;2387/20|C04.557.470.200.165;C04.557.470.565.165
+00000000|MMI|26.59|Bradycardia|C0428977|[patf]|["BRADYCARDIA"-tx-11-"Bradycardia"-noun-0,"Bradyarrhythmia"-tx-1-"Bradyarrhythmia"-noun-0]|TX|3246/11;115/15|C14.280.067.319;C23.550.073.300
+00000000|MMI|24.11|Leukoencephalopathy, Progressive Multifocal|C0023524|[dsyn]|["Progressive multifocal leucoencephalopathy"-tx-1-"Progressive multifocal leukoencephalopathy"-noun-0]|TX|256/42|C02.182.525.500;C02.256.721.500;C02.290.575;C02.839.550;C10.228.140.430.520.750.500;C10.228.140.695.750;C10.228.228.245.340.500;C10.228.228.399.750.500;C10.314.450
+00000000|MMI|20.95|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-16-"uncertain"-adj-0]|TX|6285/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|20.00|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-11-"Hypertension"-noun-0,"vascular hypertension"-tx-11-"Vascular Hypertension"-noun-0]|TX|4864/12;4799/8,4864/12|C14.907.489
+00000000|MMI|19.40|Migraine Disorders|C0149931|[dsyn]|["MIGRAINE"-tx-11-"Migraine"-noun-0]|TX|3423/8|C10.228.140.546.399.750
+00000000|MMI|19.28|10%|C3842590|[fndg]|["10%"-tx-11-"10"-integer-0,"10%"-tx-8-"10"-percentage-0,"10%"-tx-1-"10"-percentage-0]|TX|[3628/2],[3687/2],[3963/2];2028/2;662/2|
+00000000|MMI|17.80|Atrioventricular Block|C0004245|[dsyn]|["Atrioventricular Blocks"-tx-1-"Atrioventricular Blocks"-noun-0]|TX|135/23|C14.280.067.558.230;C23.550.073.425.062
+00000000|MMI|17.80|Macular Edema, Cystoid|C0024440|[dsyn]|["Macular Edema"-tx-1-"Macular Edema"-noun-0]|TX|342/13|C11.768.585.439.245
+00000000|MMI|17.80|Macular retinal edema|C0271051|[dsyn]|["MACULAR OEDEMA"-tx-1-"Macular Edema"-noun-0]|TX|342/13|C11.768.585.439.245
+00000000|MMI|16.30|Tinea Versicolor|C0040262|[dsyn]|["Tinea versicolour"-tx-11-"Tinea versicolor"-noun-0]|TX|3125/16|C01.539.800.200.860;C01.703.295.936;C17.800.838.208.941
+00000000|MMI|16.30|Vision Disorders|C0042790|[fndg]|["disorders vision"-tx-11-"disorders Vision"-noun-0]|TX|4688/9,4744/6|C10.597.751.941;C11.966;C23.888.592.763.941
+00000000|MMI|16.22|Alopecia|C0002170|[dsyn]|["ALOPECIA"-tx-11-"Alopecia"-noun-0]|TX|4149/8|C17.800.329.937.122;C23.300.035
+00000000|MMI|16.22|Lymphopenia|C0024312|[dsyn]|["LYMPHOPENIA"-tx-11-"Lymphopenia"-noun-0]|TX|5000/11|C15.378.553.546.605;C20.673.627
+00000000|MMI|16.05|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-11-"dizziness"-noun-0]|TX|5372/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|16.05|Vertigo|C0042571|[sosy]|["dizziness"-tx-11-"dizziness"-noun-0]|TX|5372/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|15.79|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-11-"Cough"-verb-0,"Cough"-tx-8-"cough"-noun-0,"Cough"-tx-1-"cough"-noun-0]|TX|4580/5;2120/5;732/5|
+00000000|MMI|15.13|2+|C3833492|[fndg]|["2+"-tx-11-"2"-integer-0,"2+"-tx-3-"2"-integer-0]|TX|[4177/1],[4777/1],[5258/1];1328/1|
+00000000|MMI|14.65|4+ Answer to question|C3838679|[fndg]|["4+"-tx-11-"4"-integer-0,"4+"-tx-9-"4"-percentage-0]|TX|[3451/1],[4389/1],[4895/1];2351/1|
+00000000|MMI|14.64|Eczema|C0013595|[dsyn]|["ECZEMA"-tx-11-"eczema"-noun-0]|TX|5394/6|C17.800.174.620;C17.800.815.620
+00000000|MMI|14.64|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-11-"pruritus"-noun-0]|TX|5405/8|C17.800.685;C23.888.885.625
+00000000|MMI|13.92|Infection|C3714514|[patf]|["Infections"-tx-11-"Infections"-noun-0,"Infections"-tx-1-"Infections"-noun-0]|TX|2846/10;202/10|C01.539
+00000000|MMI|13.14|Actinic keratosis|C0022602|[neop]|["ACTINIC KERATOSIS"-tx-11-"Actinic keratosis"-noun-0]|TX|4203/17|C04.834.450;C17.800.428.570
+00000000|MMI|13.09|Bronchitis|C0006277|[dsyn]|["BRONCHITIS"-tx-11-"Bronchitis"-noun-0]|TX|3012/10|C08.127.446;C08.381.495.146;C08.730.099
+00000000|MMI|13.09|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-11-"Dyspnea"-noun-0]|TX|4634/7|C08.618.326;C23.888.852.371
+00000000|MMI|13.09|Leukopenia|C0023530|[dsyn]|["LEUKOPENIA"-tx-11-"Leukopenia"-noun-0]|TX|5056/10|C15.378.553.546
+00000000|MMI|13.08|Herpes zoster disease|C0019360|[dsyn]|["Zoster"-tx-11-"zoster"-noun-0]|TX|3074/6|C02.256.466.423
+00000000|MMI|13.07|Nausea|C0027497|[sosy]|["NAUSEA"-tx-11-"Nausea"-noun-0]|TX|3546/6|C23.888.821.712
+00000000|MMI|12.90|Lymphoma|C0024299|[neop]|["Lymphomas"-tx-15-"Lymphomas"-noun-0]|TX|6135/9|C04.557.386;C15.604.515.569;C20.683.515.761
+00000000|MMI|11.93|Pain in limb|C0030196|[sosy]|["Pain in Extremity"-tx-11-"Pain in extremity"-noun-0,"Pain in Extremity"-tx-8-"pain in extremity"-noun-0,"Pain in Extremity"-tx-1-"pain in extremity"-noun-0]|TX|4006/17;2180/17;792/17|
+00000000|MMI|11.79|Back Pain Adverse Event|C1963071|[fndg]|["Back pain"-tx-11-"Back pain"-noun-0,"Back pain"-tx-8-"back pain"-noun-0,"Back pain"-tx-1-"back pain"-noun-0]|TX|3952/9;2149/9;761/9|
+00000000|MMI|11.79|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-11-"Diarrhea"-noun-0,"Diarrhea"-tx-8-"diarrhea"-noun-0,"Diarrhea"-tx-1-"diarrhea"-noun-0]|TX|3600/8;2110/8;722/8|
+00000000|MMI|11.69|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-11-"Headache"-noun-0,"headache"-tx-8-"headache"-noun-0,"headache"-tx-1-"Headache"-noun-0]|TX|3369/8;2070/8;682/8|
+00000000|MMI|11.49|Cyst|C0010709|[dsyn]|["CYSTS"-tx-11-"cysts"-noun-0]|TX|5161/5|C04.182;C23.300.306
+00000000|MMI|11.49|Mediastinal Diseases|C0025061|[dsyn]|["Mediastinal Disorders"-tx-11-"mediastinal disorders"-noun-0]|TX|4512/21|C08.846.187
+00000000|MMI|11.49|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-11-"pneumonia"-noun-0]|TX|5383/9|C08.381.677;C08.730.610
+00000000|MMI|11.49|polyps|C0032584|[anab]|["POLYPS"-tx-11-"polyps"-noun-0]|TX|5171/6|C23.300.825
+00000000|MMI|9.99|Asthenia|C0004093|[sosy]|["ASTHENIA"-tx-11-"Asthenia"-noun-0]|TX|3808/8|C23.888.089
+00000000|MMI|7.78|Experimental Organism Basal Cell Carcinoma|C3811653|[neop]|["Basal Cell Carcinoma"-tx-11-"Basal cell carcinoma"-noun-0,"Basal Cell Carcinoma"-tx-9-"basal cell carcinoma"-noun-0]|TX|5284/20;2387/20|
+00000000|MMI|7.58|1-2|C3843716|[fndg]|["1-2"-tx-11-"1 2"-integer-0]|TX|[3099/1,3143/1],[5031/1,5068/1]|
+00000000|MMI|7.04|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-12-"controlled"-adj-0,"Controlled"-tx-4-"controlled"-adj-0]|TX|5625/10;1611/10|
+00000000|MMI|6.84|Lymphatic Diseases|C0024228|[dsyn]|["lymphatic system disorder"-tx-11-"lymphatic system disorders"-noun-0]|TX|4927/26|C15.604
+00000000|MMI|6.83|Connective Tissue Diseases|C0009782|[dsyn]|["Connective Tissue Disorders"-tx-11-"connective tissue disorders"-noun-0]|TX|3878/27|C17.300
+00000000|MMI|6.80|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-11-"Gastrointestinal disorders"-noun-0]|TX|3473/26|C06.405
+00000000|MMI|6.80|Heart Diseases|C0018799|[dsyn]|["Cardiac Disorders"-tx-11-"Cardiac Disorders"-noun-0]|TX|3182/17|C14.280
+00000000|MMI|6.80|Vascular Diseases|C0042373|[dsyn]|["Vascular Disorders"-tx-11-"Vascular disorders"-noun-0]|TX|4799/18|C14.907
+00000000|MMI|5.18|5-6|C3843715|[fndg]|["5-6"-tx-1-"5.6"-real_number-0]|TX|538/3|
+00000000|MMI|5.18|6/5|C0442749|[fndg]|["5 6"-tx-1-"5.6"-real_number-0]|TX|538/3|
+00000000|MMI|5.18|Adverse event|C0877248|[patf]|["adverse events"-tx-9-"Adverse events"-noun-0]|TX|2199/14|
+00000000|MMI|5.18|Bradyarrhythmia (disorder)|C0079035|[dsyn]|["BRADYARRHYTHMIA"-tx-1-"Bradyarrhythmia"-noun-0]|TX|115/15|
+00000000|MMI|5.18|Brain hemorrhage|C0553692|[dsyn]|["hemorrhagic strokes"-tx-13-"hemorrhagic strokes"-noun-0]|TX|5790/19|
+00000000|MMI|5.18|External cause codes: Unspecified|C4048188|[fndg]|["Unspecified"-tx-11-"unspecified"-adj-0]|TX|5139/11|
+00000000|MMI|5.18|Hemorrhagic cerebral infarction|C0472369|[dsyn]|["Haemorrhagic Strokes"-tx-13-"hemorrhagic strokes"-noun-0]|TX|5790/19|
+00000000|MMI|5.18|Injury of liver|C0160390|[inpo]|["LIVER INJURY"-tx-1-"Liver Injury"-noun-0]|TX|550/12|
+00000000|MMI|5.18|Peripheral arterial occlusive disease|C1306889|[dsyn]|["Peripheral Arterial Occlusive Disease"-tx-13-"peripheral arterial occlusive disease"-noun-0]|TX|5815/37|
+00000000|MMI|5.18|Posterior reversible encephalopathy syndrome|C3160858|[dsyn]|["Posterior Reversible Encephalopathy Syndrome"-tx-1-"Posterior Reversible Encephalopathy Syndrome"-noun-0]|TX|399/44|
+00000000|MMI|5.18|Unspecified State of Consciousness|C2983689|[fndg]|["UNSPECIFIED"-tx-11-"unspecified"-adj-0]|TX|5139/11|
+00000000|MMI|3.75|Skin Papilloma|C0347390|[neop]|["Skin Papilloma"-tx-11-"Skin papilloma"-noun-0]|TX|5225/14|
+00000000|MMI|3.74|1 - 3|C3843504|[fndg]|["1 - 3"-tx-11-"1 3"-integer-0]|TX|3161/1,3259/1|
+00000000|MMI|3.70|Malignant Neoplasms|C0006826|[neop]|["Neoplasms - malignant"-tx-11-"Neoplasms malignant"-noun-0]|TX|5107/9,5125/9|
+00000000|MMI|3.70|herpes 2|C0598514|[dsyn]|["herpes 2"-tx-11-"Herpes 2"-noun-0]|TX|3067/6,3082/1|
+00000000|MMI|3.68|Benign neoplasm of paraganglion|C0686521|[neop]|["Benign MALIGNANT"-tx-11-"benign malignant"-adj-0]|TX|5117/6,5125/9|
+00000000|MMI|3.68|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-11-"Nervous system disorders"-noun-0]|TX|3298/24|C10
+00000000|MMI|3.67|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-11-"subcutaneous disorders"-noun-0]|TX|4073/12,4093/9|
+00000000|MMI|3.63|Acute bronchitis|C0149514|[dsyn]|["bronchitis"-tx-11-"Bronchitis"-noun-0]|TX|3012/10|
+00000000|MMI|3.63|White blood cell count decreased|C0750394|[fndg]|["Leukopenia"-tx-11-"Leukopenia"-noun-0]|TX|5056/10|
+00000000|MMI|3.60|Bradycardia by ECG Finding|C3812171|[fndg]|["BRADYCARDIA"-tx-11-"Bradycardia"-noun-0]|TX|3246/11|
+00000000|MMI|3.60|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-11-"Hypertension"-noun-0]|TX|4864/12|
+00000000|MMI|3.60|Lymphocyte count decreased|C0853986|[fndg]|["Lymphopenia"-tx-11-"Lymphopenia"-noun-0]|TX|5000/11|
+00000000|MMI|3.60|Lymphopenia Adverse Event|C1963164|[fndg]|["Lymphopenia"-tx-11-"Lymphopenia"-noun-0]|TX|5000/11|
+00000000|MMI|3.60|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-11-"Nausea"-noun-0]|TX|3546/6|
+00000000|MMI|3.57|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-9-"discontinuation"-noun-0]|TX|2236/15|
+00000000|MMI|3.55|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-5-"exposure"-noun-0]|TX|1651/8|
+00000000|MMI|3.55|exposure history|C2220266|[fndg]|["exposure"-tx-5-"exposure"-noun-0]|TX|1651/8|
+00000000|MMI|3.50|Disorder of eye|C0015397|[dsyn]|["Eye Disorders"-tx-11-"Eye disorders"-noun-0]|TX|4684/13|C11
+00000000|MMI|3.47|Adverse Event Associated with Vascular|C1558950|[fndg]|["VASCULAR"-tx-13-"Vascular"-adj-0]|TX|5728/8|
+00000000|MMI|3.47|Neoplasms|C0027651|[neop]|["NEOPLASMS, NOS"-tx-11-"Neoplasms"-noun-0]|TX|5107/9|C04
+00000000|MMI|3.46|Multiple sclerosis relapse|C0856120|[dsyn]|["Multiple sclerosis relapse"-tx-3-"relapsing multiple sclerosis"-noun-0]|TX|1369/9,1388/18|
+00000000|MMI|3.46|9-10|C3843713|[fndg]|["9-10"-tx-11-"9 10"-integer-0]|TX|3980/1,4025/2|
+00000000|MMI|3.43|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-11-"dizziness"-noun-0]|TX|5372/9|
+00000000|MMI|3.42|Trial 1|C3840593|[fndg]|["Trial 1"-tx-4-"1 trial"-noun-0]|TX|1597/1,1622/5|
+00000000|MMI|3.42|Trial 2|C3842777|[fndg]|["Trial 2"-tx-4-"2 trials"-noun-0]|TX|1494/1,1520/6|

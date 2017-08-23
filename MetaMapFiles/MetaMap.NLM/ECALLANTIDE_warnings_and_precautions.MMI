@@ -1,0 +1,27 @@
+00000000|MMI|121.85|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-10-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-6-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-5-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-4-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-4-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-2-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-1-"Anaphylaxis"-noun-0]|TX|1368/11;806/11;696/11;439/11;514/11;207/11;[90/11],[103/11]|C20.543.480.099
+00000000|MMI|79.62|Angioedemas, Hereditary|C0019243|[dsyn]|["HAE"-tx-11-"HAE"-noun-0,"HAE"-tx-5-"HAE"-noun-0,"HAE"-tx-3-"HAE"-noun-0,"Hereditary angio oedema"-tx-2-"hereditary angioedema"-noun-0]|TX|1466/3;583/3;306/3;223/21|C14.907.079.500;C16.320.078;C17.800.862.945.066.500;C20.543.480.904.066.500
+00000000|MMI|62.14|Hypersensitivity|C0020517|[patf]|["HYPERSENSITIVITY REACTION (NOS)"-tx-11-"hypersensitivity reaction"-noun-0,"hypersensitivity symptoms"-tx-11-"hypersensitivity symptoms"-noun-0,"Hypersensitivity reactions"-tx-9-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-4-"Hypersensitivity Reactions"-noun-0,"Hypersensitivity reactions"-tx-4-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-3-"hypersensitivity reactions"-noun-0,"hypersensitivity symptoms"-tx-3-"hypersensitivity symptoms"-noun-0,"Hypersensitivity reactions"-tx-1-"Hypersensitivity Reactions"-noun-0]|TX|1535/25;1430/25;1130/26;401/26;476/26;349/26;270/25;53/26|C20.543
+00000000|MMI|34.20|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-10-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-6-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-5-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-4-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-4-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-2-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-1-"Anaphylaxis"-noun-0]|TX|1368/11;806/11;696/11;439/11;514/11;207/11;[90/11],[103/11]|
+00000000|MMI|29.46|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-9-"pruritus"-noun-0,"PRURITUS"-tx-7-"pruritus"-noun-0]|TX|1181/8;920/8|C17.800.685;C23.888.885.625
+00000000|MMI|29.46|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-9-"urticaria"-noun-0,"URTICARIA"-tx-7-"urticaria"-noun-0]|TX|1211/9;989/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|14.64|Sneezing|C0037383|[fndg]|["SNEEZING"-tx-7-"sneezing"-noun-0]|TX|942/8|C23.888.852.889;G09.772.770.820
+00000000|MMI|14.64|Wheezing|C0043144|[sosy]|["WHEEZING"-tx-7-"wheezing"-noun-0]|TX|1000/8|C23.888.852.779;E01.370.386.720;G09.772.775
+00000000|MMI|11.49|Exanthema|C0015230|[sosy]|["RASH"-tx-9-"rash"-noun-0]|TX|1196/4|C17.800.257
+00000000|MMI|11.49|Flushing|C0016382|[sosy]|["FLUSHING"-tx-7-"flushing"-verb-0]|TX|892/8|C23.888.388
+00000000|MMI|11.49|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-7-"hypotension"-noun-0]|TX|1014/11|C14.907.514
+00000000|MMI|11.34|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-11-"symptoms"-noun-0,"SYMPTOMS"-tx-7-"Symptoms"-noun-0,"SYMPTOMS"-tx-3-"symptoms"-noun-0]|TX|1470/8;819/8;310/8|
+00000000|MMI|10.42|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-9-"3"-percentage-0,"3+"-tx-6-"3"-percentage-0]|TX|1202/1;790/1|
+00000000|MMI|10.42|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-9-"urticaria"-noun-0,"urticaria"-tx-7-"urticaria"-noun-0]|TX|1211/9;989/9|
+00000000|MMI|5.18|2+|C3833492|[fndg]|["2+"-tx-9-"2"-percentage-0]|TX|1222/1|
+00000000|MMI|5.18|4+ Answer to question|C3838679|[fndg]|["4+"-tx-5-"4"-percentage-0]|TX|680/1|
+00000000|MMI|5.18|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-9-"adverse reactions"-noun-0]|TX|1098/17|
+00000000|MMI|5.18|ENT surgical result - nose nasal congestion|C2136984|[patf]|["nasal congestion"-tx-7-"nasal congestion"-noun-0]|TX|952/16|
+00000000|MMI|5.18|Edema of pharynx|C0236024|[fndg]|["Pharyngeal oedema"-tx-7-"pharyngeal edema"-noun-0]|TX|902/16|
+00000000|MMI|5.18|Flushing Adverse Event|C1962957|[fndg]|["Flushing"-tx-7-"flushing"-verb-0]|TX|892/8|
+00000000|MMI|5.18|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-7-"hypotension"-noun-0]|TX|1014/11|
+00000000|MMI|5.18|Nasal congestion (finding)|C0027424|[sosy]|["NASAL CONGESTION"-tx-7-"nasal congestion"-noun-0]|TX|952/16|
+00000000|MMI|5.18|Rhinorrhea|C1260880|[sosy]|["RHINORRHOEA"-tx-7-"rhinorrhea"-noun-0]|TX|930/10|
+00000000|MMI|5.18|Throat irritation|C0700184|[sosy]|["THROAT IRRITATION"-tx-7-"throat irritation"-noun-0]|TX|970/17|
+00000000|MMI|3.75|Chest discomfort|C0235710|[sosy]|["CHEST DISCOMFORT"-tx-7-"chest discomfort"-noun-0]|TX|874/16|
+00000000|MMI|3.58|Known allergy|C3845888|[fndg]|["Known Hypersensitivity"-tx-12-"known hypersensitivity"-noun-1]|TX|1623/5,1638/16|
+00000000|MMI|3.50|10%|C3842590|[fndg]|["10%"-tx-5-"10"-integer-0]|TX|667/2|

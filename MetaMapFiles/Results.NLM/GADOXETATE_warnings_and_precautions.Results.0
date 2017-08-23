@@ -1,0 +1,59 @@
+54,83|TP|Nephrogenic Systemic Fibrosis|C3888044|10067467|54,83|Nephrogenic Systemic Fibrosis|C3888044|10067467|dsyn
+241,257|FP|Hypersensitivity|C0020517|10020751|patf
+259,272;290,299|FN|anaphylactoid reactions|C0340865
+273,299;321,332|FP|hypersensitivity reactions respiratory|C0035228|10038683|patf
+273,289;290,299|FN|hypersensitivity reactions|C0020517
+305,319;347,361|FN|cardiovascular manifestations|C0425560
+321,332;347,361|FN|respiratory manifestations|C0037090
+337,361|MedDRADiff|cutaneous manifestations|C0037285|10075531|337,361|cutaneous manifestations|C0037285|10040831,10048768|sosy
+337,361|TP|cutaneous manifestations|C0037285|10075531|337,361|cutaneous manifestations|C0037285|10040831,10048768|sosy
+411,416|TP|shock|C0036974|10040560|411,416|shock|C0036974|10009192,10034567,10040560|patf
+527,556|FP|Nephrogenic Systemic Fibrosis|C3888044|10067467|dsyn
+631,660|TP|nephrogenic systemic fibrosis|C3888044|10067467|631,660|nephrogenic systemic fibrosis|C3888044|10067467|dsyn
+662,665|TP|NSF|C3888044|10067467|662,665|NSF|C3888044|10067467|dsyn
+899,902|TP|NSF|C3888044|10067467|899,902|NSF|C3888044|10067467|dsyn
+942,949;958,972|FP|chronic kidney disease|C1561643|10064848|dsyn
+1027,1046|FP|acute kidney injury|C2609414|10069339|inpo
+1089,1096;1107,1121|FP|chronic kidney disease|C1561643|10064848|dsyn
+1193,1200;1207,1221|FP|chronic kidney disease|C1561643|10064848|dsyn
+1256,1259|TP|NSF|C3888044|10067467|1256,1259|NSF|C3888044|10067467|dsyn
+1274,1279|FN|fatal|C1306577
+1296,1304|TP|fibrosis|C0016059|10016642|1296,1304|fibrosis|C0016059|10016642|patf
+1377,1380|FP|NSF|C3888044|10067467|dsyn
+1525,1544|FP|acute kidney injury|C2609414|10069339|inpo
+1607,1629|FP|of acute kidney injury|C2609414|10069339|inpo
+1763,1772|FP|infection|C3714514|10021789|patf
+1797,1812|FP|kidney toxicity|C0595916|10029155|patf
+2024,2041|FP|diabetes mellitus|C0011849|10012601|dsyn
+2166,2169|TP|NSF|C3888044|10067467|2166,2169|NSF|C3888044|10067467|dsyn
+2240,2256|FP|renal impairment|C1565489|10062237|dsyn
+2381,2384|FP|NSF|C3888044|10067467|dsyn
+2853,2856|FP|NSF|C3888044|10067467|dsyn
+2880,2906|FP|Hypersensitivity Reactions|C0020517|10020751|patf
+2912,2924;2952,2961|FN|Anaphylactic reactions|C0002792
+2935,2961;2983,2994|FP|hypersensitivity reactions respiratory|C0035228|10038683|patf
+2935,2961|FN|hypersensitivity reactions|C0020517
+2967,2981;3009,3023|FN|cardiovascular manifestations|C0425560
+2983,2994;3009,3023|FN|respiratory manifestations|C0037090
+2999,3023|MedDRADiff|cutaneous manifestations|C0037285|10075531|2999,3023|cutaneous manifestations|C0037285|10040831,10048768|sosy
+2999,3023|TP|cutaneous manifestations|C0037285|10075531|2999,3023|cutaneous manifestations|C0037285|10040831,10048768|sosy
+3064,3069|TP|shock|C0036974|10040560|3064,3069|shock|C0036974|10009192,10034567,10040560|patf
+3242,3250;3254,3268|FP|reaction contrast media|C0853800|10010836|dsyn
+3270,3286|FP|bronchial asthma|C1869116,C0004096|10003553,10003553|fndg,dsyn
+3291,3309|FP|allergic disorders|C0020517|10020751|patf
+3359,3384|TP|hypersensitivity reaction|C0020517|10020751|3359,3384|hypersensitivity reaction|C0020517|10020751|patf
+3522,3548|FP|hypersensitivity reactions|C0020517|10020751|patf
+3606,3622;3699,3716|FN|hypersensitivity Delayed reactions|C0020522
+3606,3632|FP|hypersensitivity reactions|C0020517|10020751|patf
+3818,3844|FP|hypersensitivity reactions|C0020517|10020751|patf
+3968,3987|TP|acute kidney injury|C2609414|10069339|3968,3987|acute kidney injury|C2609414|10069339|inpo
+4072,4094|FP|of acute kidney injury|C2609414|10069339|inpo
+4075,4094|FN|acute kidney injury|C2609414
+4286,4299|FP|Extravasation|C0015376|10015866|patf
+4304,4318;4471,4493|FN|Injection Site local tissue reactions|C0151735,C0853813
+4304,4328|FP|Injection Site Reactions|C0151735|10022095|patf
+4401,4414|FP|Extravasation|C0015376|10015866|patf
+4471,4476;4484,4493|FP|local reactions|C0853813|10024769|sosy
+4658,4692|FP|Interference with Laboratory Tests|C0151749|10023550|fndg
+5056,5071|FP|hepatic failure|C0085605|10019663|dsyn
+5213,5243|FP|elevated serum ferritin levels|C0241013|10040250|fndg

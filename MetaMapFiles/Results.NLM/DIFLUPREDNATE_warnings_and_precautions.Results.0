@@ -1,0 +1,65 @@
+53,73;80,88|TP|Intraocular pressure increase|C0234708|10022806|53,73;80,88|Intraocular pressure increase|C0234708|10022806|fndg
+75,78;80,88|FN|IOP increase|C0234708
+137,145|TP|glaucoma|C0017601|10018304|137,145|glaucoma|C0017601,C1962986|10018304,10060933|fndg,dsyn
+151,176|FN|damage to the optic nerve|C0161398
+151,157;165,176|FP|damage optic nerve|C0161398|10030938|inpo
+178,185;207,223|FN|defects fields of vision|C3887875
+178,202|FN|defects in visual acuity|C0234632
+178,185;189,195|FP|defects visual|C3665347|10047571|fndg
+272,275|FP|IOP|C0595921|10061641|dsyn
+323,332|FP|Cataracts|C0086543|10007739|acab
+371,401|FN|posterior subcapsular cataract|C0858617
+433,448|FP|Delayed healing|C0151692|10021519|patf
+497,510|FN|delay healing|C0151692
+515,523;541,555|FN|increase bleb formation|C0005758
+541,545|FP|bleb|C3714607,C0005758|10016717,10005191|patf,patf
+583,591;599,605|FP|thinning cornea|C1096274|10054760|dsyn
+617,629|MedDRADiff|perforations|C0549099|10076705|617,629|perforations|C0549099|10022116|fndg
+617,629|TP|perforations|C0549099|10076705|617,629|perforations|C0549099|10022116|fndg
+961,981|FP|Bacterial infections|C0004623|10060945|dsyn
+1020,1046|FN|suppress the host response|C0686794
+1079,1106|FN|secondary ocular infections|C0015403
+1089,1106|FP|ocular infections|C0015403|10015929|dsyn
+1156,1165|FP|infection|C3714514|10021789|patf
+1186,1195|FP|infection|C3714514|10021789|patf
+1305,1321|FP|Viral infections|C0042769|10047461|dsyn
+1412,1426|FP|herpes simplex|C0019348|10019948|dsyn
+1505,1515;1576,1590|FN|exacerbate herpes simplex|C0856138
+1505,1515;1537,1564|FN|exacerbate viral infections of the eye|C0015407
+1529,1531;1537,1553;1561,1564|FP|of viral infections eye|C0015407|10015940|dsyn
+1576,1590|FP|herpes simplex|C0019348|10019948|dsyn
+1613,1630;1650,1652;1657,1663|FP|Fungal infections of cornea|C1262117|10062353|dsyn
+1632,1663|FN|Fungal infections of the cornea|C0026946,C0729777
+1808,1826|FP|corneal ulceration|C0010043|10064996|dsyn
+2045,2057|FP|IOP Increase|C0234708|10022806|fndg
+2110,2118|TP|glaucoma|C0017601|10018304|2110,2118|glaucoma|C0017601,C1962986|10018304,10060933|fndg,dsyn
+2124,2149|FN|damage to the optic nerve|C0161398
+2124,2130;2138,2149|FP|damage optic nerve|C0161398|10030938|inpo
+2151,2158;2180,2196|FN|defects fields of vision|C3887875
+2151,2175|FN|defects in visual acuity|C0234632
+2151,2158;2162,2168|FP|defects visual|C3665347|10047571|fndg
+2254,2262|FP|glaucoma|C1962986,C0017601|10060933,10018304|fndg,dsyn
+2311,2331|FP|intraocular pressure|C0595921|10061641|dsyn
+2364,2373|FP|Cataracts|C0086543|10007739|acab
+2416,2446|FN|posterior subcapsular cataract|C0858617
+2537,2550|FN|delay healing|C0151692
+2555,2563;2581,2595|FN|increase bleb formation|C0005758
+2581,2585|FP|bleb|C3714607,C0005758|10016717,10005191|patf,patf
+2623,2631;2639,2645|FP|thinning cornea|C1096274|10054760|dsyn
+2657,2669|MedDRADiff|perforations|C0549099|10076705|2657,2669|perforations|C0549099|10022116|fndg
+2657,2669|TP|perforations|C0549099|10076705|2657,2669|perforations|C0549099|10022116|fndg
+2992,3012|FP|Bacterial Infections|C0004623|10060945|dsyn
+3055,3081|FN|suppress the host response|C0686794
+3114,3141|FN|secondary ocular infections|C0015403
+3124,3141|FP|ocular infections|C0015403|10015929|dsyn
+3191,3200|FP|infection|C3714514|10021789|patf
+3221,3230|FP|infection|C3714514|10021789|patf
+3331,3347|FP|Viral Infections|C0042769|10047461|dsyn
+3442,3456|FP|herpes simplex|C0019348|10019948|dsyn
+3535,3545;3606,3620|FN|exacerbate herpes simplex|C0856138
+3535,3545;3567,3594|FN|exacerbate viral infections of the eye|C0015407
+3559,3561;3567,3583;3591,3594|FP|of viral infections eye|C0015407|10015940|dsyn
+3606,3620|FP|herpes simplex|C0019348|10019948|dsyn
+3634,3651;3675,3677;3682,3688|FP|Fungal Infections of cornea|C1262117|10062353|dsyn
+3657,3688|FN|Fungal infections of the cornea|C0026946,C0729777
+3833,3851|FP|corneal ulceration|C0010043|10064996|dsyn

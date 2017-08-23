@@ -1,0 +1,31 @@
+90,103|C0015397|Eye disorders|dsyn
+115,130|C0239431|severe eye pain|sosy
+132,155|C0149866|chemical conjunctivitis|dsyn
+157,169|C0239116|corneal burn|inpo
+171,183|C0162285|eyelid edema|fndg
+185,198|C0005745|eyelid ptosis|anab
+200,217|C0151205|periorbital edema|sosy
+355,360|C0016382|flush|sosy
+386,398|C0496675|medical care|fndg
+419,424;430,439|C0853813|Local reactions|sosy
+510,528|C4055054|erosion/ulceration|fndg
+751,764|C0015397|Eye disorders|dsyn
+776,791|C0239431|severe eye pain|sosy
+793,816|C0149866|chemical conjunctivitis|dsyn
+818,830|C0239116|corneal burn|inpo
+832,844|C0162285|eyelid edema|fndg
+846,859|C0005745|eyelid ptosis|anab
+861,878|C0151205|periorbital edema|sosy
+1168,1175|C0016382|flushed|sosy
+1215,1227|C0496675|medical care|fndg
+1262,1288|C0020517|Hypersensitivity Reactions|patf
+1332,1343|C0002792|anaphylaxis|patf
+1332,1343|C0850803|anaphylaxis|dsyn
+1348,1375|C0162820|allergic contact dermatitis|dsyn
+1496,1522|C0020517|hypersensitivity reactions|patf
+1530,1541|C1444662|discontinue|fndg
+1619,1620;1684,1688|C3842397|3 area|fndg
+1621,1626;1632,1641|C0853813|Local Reactions|sosy
+1700,1708|C0041834|erythema|dsyn
+1710,1718|C0205204|crusting|acab
+1760,1778|C4055054|erosion/ulceration|fndg

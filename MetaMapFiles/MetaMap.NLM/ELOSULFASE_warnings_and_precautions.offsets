@@ -1,0 +1,117 @@
+49,60|C0002792|Anaphylaxis|patf
+49,60|C0850803|Anaphylaxis|dsyn
+65,91|C0020517|Hypersensitivity Reactions|patf
+110,121|C0002792|anaphylaxis|patf
+110,121|C0850803|anaphylaxis|dsyn
+126,152|C0020517|hypersensitivity reactions|patf
+223,234|C0002792|anaphylaxis|patf
+223,234|C0850803|anaphylaxis|dsyn
+238,271|C2220378|severe hypersensitivity reactions|fndg
+238,271|C2945656|severe hypersensitivity reactions|fndg
+494,519|C0161818|Respiratory Complications|patf
+541,548|C0015967|febrile|fndg
+564,571|C0221423|illness|sosy
+614,627|C1171258|complications|patf
+614,627|C0009566|complications|patf
+633,659|C0020517|hypersensitivity reactions|patf
+669,682|C0518609|consideration|fndg
+706,715;725,731|C0449437|patient's status|fndg
+836,847|C0002792|Anaphylaxis|patf
+836,847|C0850803|Anaphylaxis|dsyn
+852,878|C0020517|Hypersensitivity Reactions|patf
+884,895|C0002792|Anaphylaxis|patf
+884,895|C0850803|Anaphylaxis|dsyn
+900,926|C0020517|hypersensitivity reactions|patf
+1072,1077|C0311392|signs|fndg
+1082,1090|C1457887|symptoms|sosy
+1107,1118|C0002792|anaphylaxis|patf
+1107,1118|C0850803|anaphylaxis|dsyn
+1166,1175;1183,1191|C2368034|reactions infusion|patf
+1197,1202|C0311392|signs|fndg
+1207,1215|C1457887|symptoms|sosy
+1226,1231|C0010200|cough|sosy
+1226,1231|C1961131|cough|fndg
+1233,1241|C0041834|erythema|dsyn
+1243,1259|C0236071|throat tightness|fndg
+1261,1270|C0042109|urticaria|dsyn
+1261,1270|C2186740|urticaria|fndg
+1272,1280|C0016382|flushing|sosy
+1272,1280|C1962957|flushing|fndg
+1282,1290|C0010520|cyanosis|sosy
+1292,1303|C0020649|hypotension|fndg
+1292,1303|C3163620|hypotension|fndg
+1305,1309|C0015230|rash|sosy
+1311,1318|C0013404|dyspnea|sosy
+1320,1336|C0235710|chest discomfort|sosy
+1342,1367|C0426576|gastrointestinal symptoms|sosy
+1375,1381|C0027497|nausea|sosy
+1375,1381|C1963179|nausea|patf
+1383,1397|C0000737|abdominal pain|sosy
+1399,1407|C0232602|retching|sosy
+1413,1421|C0042963|vomiting|sosy
+1413,1421|C1963281|vomiting|patf
+1443,1452|C0042109|urticaria|dsyn
+1443,1452|C2186740|urticaria|fndg
+1469,1480|C0002792|anaphylaxis|patf
+1469,1480|C0850803|anaphylaxis|dsyn
+1579,1590|C0002792|Anaphylaxis|patf
+1579,1590|C0850803|Anaphylaxis|dsyn
+1724,1750|C0020517|hypersensitivity reactions|patf
+1762,1773|C0002792|anaphylaxis|patf
+1762,1773|C0850803|anaphylaxis|dsyn
+1775,1801|C0020517|Hypersensitivity reactions|patf
+1915,1923|C1457887|symptoms|sosy
+1927,1953|C0020517|hypersensitivity reactions|patf
+1999,2021|C0002792|anaphylactic reactions|patf
+2023,2032|C0042109|urticaria|dsyn
+2023,2032|C2186740|urticaria|fndg
+2034,2050|C0085649|peripheral edema|fndg
+2052,2057|C0010200|cough|sosy
+2052,2057|C1961131|cough|fndg
+2059,2066|C0013404|dyspnea|sosy
+2072,2080|C0016382|flushing|sosy
+2072,2080|C1962957|flushing|fndg
+2111,2122|C0002792|anaphylaxis|patf
+2111,2122|C0850803|anaphylaxis|dsyn
+2343,2354|C0002792|anaphylaxis|patf
+2343,2354|C0850803|anaphylaxis|dsyn
+2416,2421|C0311392|signs|fndg
+2426,2434|C1457887|symptoms|sosy
+2438,2449|C0002792|anaphylaxis|patf
+2438,2449|C0850803|anaphylaxis|dsyn
+2487,2499|C0496675|medical care|fndg
+2507,2512|C0311392|signs|fndg
+2517,2525|C1457887|symptoms|sosy
+2567,2593|C0020517|hypersensitivity reactions|patf
+2683,2709|C0020517|hypersensitivity reactions|patf
+2941,2974|C2220378|severe hypersensitivity reactions|fndg
+2941,2974|C2945656|severe hypersensitivity reactions|fndg
+3177,3202|C0161818|Respiratory Complications|patf
+3228,3235|C0015967|febrile|fndg
+3251,3258|C0221423|illness|sosy
+3333,3346|C1171258|complications|patf
+3333,3346|C0009566|complications|patf
+3352,3378|C0020517|hypersensitivity reactions|patf
+3388,3401|C0518609|consideration|fndg
+3425,3434;3444,3450|C0449437|patient's status|fndg
+3534,3545|C0037315|Sleep apnea|dsyn
+3559,3566|C0086651|MPS IVA|dsyn
+3879,3889|C0013144|drowsiness|fndg
+3879,3889|C2830004|drowsiness|fndg
+3947,3972|C0852866|Cervical Cord Compression|fndg
+3978,3984;3997,4013|C0037926|Spinal cord compression|dsyn
+3988,4013|C0852866|cervical cord compression|fndg
+4043,4055|C0009566|complication|patf
+4059,4066|C0086651|MPS IVA|dsyn
+4089,4091;4096,4111;4119,4126|C0599879|of natural history disease|fndg
+4148,4151|C0037926|SCC|dsyn
+4148,4151|C0852866|SCC|fndg
+4247,4254|C0086651|MPS IVA|dsyn
+4279,4284|C0311392|signs|fndg
+4289,4297|C1457887|symptoms|sosy
+4301,4304|C0158242|SCC|dsyn
+4316,4325|C0004604|back pain|sosy
+4316,4325|C1963071|back pain|fndg
+4327,4336;4340,4345|C1397097|paralysis limbs|fndg
+4390,4408|C0015732|fecal incontinence|dsyn
+4441,4445|C0580931|care|fndg

@@ -1,0 +1,23 @@
+74,82|FP|toxicity|C0600688|10022116|inpo
+92,108|TP|gasping syndrome|C2609173|10069162|92,108|gasping syndrome|C2609173|10069162|sosy
+163,177|TP|Eye irritation|C0235266|10015946|163,177|Eye irritation|C0235266|10015946|fndg
+199,204|FP|Flush|C0016382|10016825|sosy
+300,318|TP|Contact dermatitis|C0011616|10012442|300,318|Contact dermatitis|C0011616|10012442|dsyn
+570,578|FP|Toxicity|C0600688|10022116|inpo
+682,707|TP|neonatal gasping syndrome|C2609173|10069162|682,707|neonatal gasping syndrome|C2609173|10069162|sosy
+729,747|FN|metabolic acidosis|C0220981
+749,769|FN|gasping respirations|C0425449
+771,794|FN|progressive hypotension|C0020649
+783,794|FP|hypotension|C3163620,C0020649|10060933,10005734|fndg,fndg
+796,804|TP|seizures|C0036572|10039906|796,804|seizures|C0036572|10039906|sosy
+806,839|FN|central nervous system depression|C0151559
+841,868|TP|intraventricular hemorrhage|C0240059|10022840|841,868|intraventricular hemorrhage|C0240059|10022840|patf
+874,879|TP|death|C1306577|10011906|874,879|death|C1306577|10011906|fndg
+883,890|FP|preterm|C0151526|10036595|fndg
+1051,1067|TP|gasping syndrome|C2609173|10069162|1051,1067|gasping syndrome|C2609173|10069162|sosy
+1205,1219|FP|Eye Irritation|C0235266|10015946|fndg
+1292,1306|TP|eye irritation|C0235266|10015946|1292,1306|eye irritation|C0235266|10015946|fndg
+1368,1373|FP|flush|C0016382|10016825|sosy
+1483,1501|FP|Contact Dermatitis|C0011616|10012442|dsyn
+1550,1558;1571,1581|FN|allergic dermatitis|C0011615
+1562,1581|FN|irritant dermatitis|C0162823

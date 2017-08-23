@@ -1,0 +1,170 @@
+T1	DrugClass 245 291	drugs that act on the renin-angiotensin system
+T2	AdverseReaction 344 372	reduces fetal renal function
+T3	AdverseReaction 387 392;406 415	fetal morbidity
+T4	AdverseReaction 387 392;420 425	fetal death
+T5	AdverseReaction 397 415	neonatal morbidity
+T6	AdverseReaction 397 405;420 425	neonatal death
+T7	AdverseReaction 437 452	oligohydramnios
+T8	AdverseReaction 476 497	fetal lung hypoplasia
+T9	AdverseReaction 476 481;502 523	fetal skeletal deformations
+T10	Factor 453 456	can
+T11	AdverseReaction 535 559	neonatal adverse effects
+T12	AdverseReaction 535 543;568 584	neonatal skull hypoplasia
+T13	AdverseReaction 535 543;586 592	neonatal anuria
+T14	AdverseReaction 535 543;594 605	neonatal hypotension
+T15	AdverseReaction 535 543;607 620	neonatal renal failure
+T16	AdverseReaction 535 543;626 631	neonatal death
+T17	Factor 525 534	Potential
+T18	AdverseReaction 965 988	symptomatic hypotension
+T19	Factor 989 992	may
+T21	AdverseReaction 1557 1582	changes in renal function
+T22	Factor 1583 1586	may
+T23	AdverseReaction 1956 1964	oliguria
+T24	AdverseReaction 1968 1988	progressive azotemia
+T25	AdverseReaction 2005 2024	acute renal failure
+T26	AdverseReaction 2029 2034	death
+T27	DrugClass 1856 1896	angiotensin-converting enzyme inhibitors
+T28	DrugClass 1901 1930	angiotensin receptor blockers
+T29	AdverseReaction 2298 2327	increases in serum creatinine
+T30	AdverseReaction 2298 2310;2331 2350	increases in blood urea nitrogen
+T31	DrugClass 2219 2233	ACE inhibitors
+E1	DrugClass:T1
+E2	AdverseReaction:T2 Hypothetical:E1
+E3	AdverseReaction:T3 Hypothetical:E1
+E4	AdverseReaction:T4 Hypothetical:E1
+E5	AdverseReaction:T5 Hypothetical:E1
+E6	AdverseReaction:T6 Hypothetical:E1
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8 Hypothetical:E10
+E9	AdverseReaction:T9 Hypothetical:E10
+E10	Factor:T10
+E11	AdverseReaction:T11 Hypothetical:E17
+E12	AdverseReaction:T12 Hypothetical:E17
+E13	AdverseReaction:T13 Hypothetical:E17
+E14	AdverseReaction:T14 Hypothetical:E17
+E15	AdverseReaction:T15 Hypothetical:E17
+E16	AdverseReaction:T16 Hypothetical:E17
+E17	Factor:T17
+E18	AdverseReaction:T18 Hypothetical:E19
+E19	Factor:T19
+E21	AdverseReaction:T21 Hypothetical:E22
+E22	Factor:T22
+E23	AdverseReaction:T23 Hypothetical:E27 Hypothetical2:E28
+E24	AdverseReaction:T24 Hypothetical:E27 Hypothetical2:E28
+E25	AdverseReaction:T25 Hypothetical:E27 Hypothetical2:E28
+E26	AdverseReaction:T26 Hypothetical:E27 Hypothetical2:E28
+E27	DrugClass:T27
+E28	DrugClass:T28
+E29	AdverseReaction:T29 Hypothetical:E31
+E30	AdverseReaction:T30 Hypothetical:E31
+E31	DrugClass:T31
+A1	flag E2 underspecified
+A2	CUI E2 C0232807
+A3	UMLS-Preferred-Name E2 Decreased renal function
+A4	MEDDRA-PT E2 Renal impairment
+A5	MEDDRA-PT-ID E2 10062237
+A6	LLT E2 Function kidney decreased
+A7	LLT-ID E2 10017474
+A8	CUI E3 C0015929
+A9	UMLS-Preferred-Name E3 Fetal Diseases
+A10	MEDDRA-PT E3 Foetal disorder
+A11	MEDDRA-PT-ID E3 10061157
+A12	LLT E3 Fetal disorder
+A13	LLT-ID E3 10016485
+A14	CUI E4 C0015927
+A15	UMLS-Preferred-Name E4 Fetal Death
+A16	MEDDRA-PT E4 Foetal death
+A17	MEDDRA-PT-ID E4 10055690
+A18	LLT E4 Fetal death
+A19	LLT-ID E4 10016479
+A20	CUI E5 C0848898
+A21	UMLS-Preferred-Name E5 newborn morbidity
+A22	MEDDRA-PT E5 Neonatal disorder
+A23	MEDDRA-PT-ID E5 10028934
+A24	CUI E6 C0410916
+A25	UMLS-Preferred-Name E6 Neonatal Death
+A26	MEDDRA-PT E6 Death neonatal
+A27	MEDDRA-PT-ID E6 10011912
+A28	CUI E7 C0079924
+A29	UMLS-Preferred-Name E7 Oligohydramnios
+A30	MEDDRA-PT E7 Oligohydramnios
+A31	MEDDRA-PT-ID E7 10030289
+A32	CUI E8 C0265783
+A33	UMLS-Preferred-Name E8 Congenital hypoplasia of lung
+A34	MEDDRA-PT E8 Pulmonary hypoplasia
+A35	MEDDRA-PT-ID E8 10037407
+A36	LLT E8 Agenesis, hypoplasia, and dysplasia of lung, congenital
+A37	LLT-ID E8 10001479
+A38	CUI E9 C0000768
+A39	UMLS-Preferred-Name E9 Congenital Abnormality
+A40	MEDDRA-PT E9 Congenital anomaly
+A41	MEDDRA-PT-ID E9 10010356
+A42	CUI E11 C0549411
+A43	UMLS-Preferred-Name E11 Neonatal adverse effect
+A44	MEDDRA-PT E11 Neonatal disorder
+A45	MEDDRA-PT-ID E11 10028934
+A46	CUI E12 C1390484
+A47	UMLS-Preferred-Name E12 Skull hypoplasia
+A48	MEDDRA-PT E12 Microcephaly
+A49	MEDDRA-PT-ID E12 10027534
+A50	LLT E12 Skull hypoplasia
+A51	LLT-ID E12 10073498
+A52	CUI E13 C0877643
+A53	UMLS-Preferred-Name E13 Neonatal anuria
+A54	MEDDRA-PT E13 Neonatal anuria
+A55	MEDDRA-PT-ID E13 10049778
+A56	CUI E14 C0455995
+A57	UMLS-Preferred-Name E14 Neonatal hypotension
+A58	MEDDRA-PT E14 Neonatal hypotension
+A59	MEDDRA-PT-ID E14 10049223
+A60	CUI E15 C0854351
+A61	UMLS-Preferred-Name E15 Renal failure neonatal
+A62	MEDDRA-PT E15 Renal failure neonatal
+A63	MEDDRA-PT-ID E15 10038447
+A64	CUI E16 C0410916
+A65	UMLS-Preferred-Name E16 Neonatal Death
+A66	MEDDRA-PT E16 Death neonatal
+A67	MEDDRA-PT-ID E16 10011912
+A68	CUI E18 C0863113
+A69	UMLS-Preferred-Name E18 Hypotension symptomatic
+A70	MEDDRA-PT E18 Hypotension
+A71	MEDDRA-PT-ID E18 10021097
+A72	LLT E18 Hypotension symptomatic
+A73	LLT-ID E18 10021105
+A74	CUI E21 C0151746
+A75	UMLS-Preferred-Name E21 Abnormal renal function
+A76	MEDDRA-PT E21 Renal impairment
+A77	MEDDRA-PT-ID E21 10062237
+A78	LLT E21 Renal function abnormal
+A79	LLT-ID E21 10038451
+A80	CUI E23 C0028961
+A81	UMLS-Preferred-Name E23 Oliguria
+A82	MEDDRA-PT E23 Oliguria
+A83	MEDDRA-PT-ID E23 10030302
+A84	flag E24 underspecified
+A85	CUI E24 C0242528
+A86	UMLS-Preferred-Name E24 Azotemia
+A87	MEDDRA-PT E24 Azotaemia
+A88	MEDDRA-PT-ID E24 10003885
+A89	CUI E25 C0022660
+A90	UMLS-Preferred-Name E25 Kidney Failure, Acute
+A91	MEDDRA-PT E25 Acute kidney injury
+A92	MEDDRA-PT-ID E25 10069339
+A93	LLT E25 Acute renal failure
+A94	LLT-ID E25 10001041
+A95	CUI E26 C1306577
+A96	UMLS-Preferred-Name E26 Death (finding)
+A97	MEDDRA-PT E26 Death
+A98	MEDDRA-PT-ID E26 10011906
+A99	CUI E29 C0700225
+A100	UMLS-Preferred-Name E29 Serum creatinine raised
+A101	MEDDRA-PT E29 Blood creatinine increased
+A102	MEDDRA-PT-ID E29 10005483
+A103	LLT E29 Serum creatinine increased
+A104	LLT-ID E29 10040233
+A105	CUI E30 C0151539
+A106	UMLS-Preferred-Name E30 Blood urea increased
+A107	MEDDRA-PT E30 Blood urea increased
+A108	MEDDRA-PT-ID E30 10005851
+A109	LLT E30 BUN increased
+A110	LLT-ID E30 10006576

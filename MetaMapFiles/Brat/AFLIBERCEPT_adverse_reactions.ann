@@ -1,0 +1,498 @@
+T1	AdverseReaction 161 176	Endophthalmitis
+T2	AdverseReaction 181 200	retinal detachments
+T3	AdverseReaction 206 236	Increased intraocular pressure
+T4	AdverseReaction 242 263	Thromboembolic events
+T5	AdverseReaction 365 388	conjunctival hemorrhage
+T6	AdverseReaction 390 398	eye pain
+T7	AdverseReaction 400 408	cataract
+T8	AdverseReaction 410 427	vitreous floaters
+T9	AdverseReaction 429 459	intraocular pressure increased
+T10	AdverseReaction 465 484	vitreous detachment
+T11	AdverseReaction 1263 1278	endophthalmitis
+T12	AdverseReaction 1283 1301	retinal detachment
+T13	AdverseReaction 1386 1409	conjunctival hemorrhage
+T14	AdverseReaction 1411 1419	eye pain
+T15	AdverseReaction 1421 1429	cataract
+T16	AdverseReaction 1431 1448	vitreous floaters
+T17	AdverseReaction 1450 1480	intraocular pressure increased
+T18	AdverseReaction 1486 1505	vitreous detachment
+T19	AdverseReaction 2021 2044	Conjunctival hemorrhage
+T20	AdverseReaction 2130 2138	Eye pain
+T21	AdverseReaction 2239 2247	Cataract
+T22	AdverseReaction 2348 2367	Vitreous detachment
+T23	AdverseReaction 2457 2474	Vitreous floaters
+T24	AdverseReaction 2566 2596	Intraocular pressure increased
+T25	AdverseReaction 2675 2691	Ocular hyperemia
+T26	AdverseReaction 2784 2809	Corneal epithelium defect
+T27	AdverseReaction 2893 2937	Detachment of the retinal pigment epithelium
+T28	AdverseReaction 3006 3025	Injection site pain
+T29	AdverseReaction 3115 3145	Foreign body sensation in eyes
+T30	AdverseReaction 3224 3245	Lacrimation increased
+T31	AdverseReaction 3333 3347	Vision blurred
+T32	AdverseReaction 3442 3466	Intraocular inflammation
+T33	AdverseReaction 3551 3582	Retinal pigment epithelium tear
+T34	AdverseReaction 3660 3685	Injection site hemorrhage
+T35	AdverseReaction 3769 3781	Eyelid edema
+T36	AdverseReaction 3878 3891	Corneal edema
+T37	AdverseReaction 4089 4105	hypersensitivity
+T38	AdverseReaction 4107 4125	retinal detachment
+T39	AdverseReaction 4127 4139	retinal tear
+T40	AdverseReaction 4145 4160	endophthalmitis
+T41	AdverseReaction 4758 4766	Eye pain
+T42	AdverseReaction 4871 4894	Conjunctival hemorrhage
+T43	AdverseReaction 4984 5014	Intraocular pressure increased
+T44	AdverseReaction 5097 5122	Corneal epithelium defect
+T45	AdverseReaction 5210 5227	Vitreous floaters
+T46	AdverseReaction 5323 5339	Ocular hyperemia
+T47	AdverseReaction 5436 5466	Foreign body sensation in eyes
+T48	AdverseReaction 5549 5568	Vitreous detachment
+T49	AdverseReaction 5662 5683	Lacrimation increased
+T50	AdverseReaction 5775 5794	Injection site pain
+T51	AdverseReaction 5888 5902	Vision blurred
+T52	AdverseReaction 6001 6025	Intraocular inflammation
+T53	AdverseReaction 6114 6122	Cataract
+T54	AdverseReaction 6227 6239	Eyelid edema
+T55	AdverseReaction 6456 6469	corneal edema
+T56	AdverseReaction 6471 6483	retinal tear
+T57	AdverseReaction 6485 6501	hypersensitivity
+T58	AdverseReaction 6507 6522	endophthalmitis
+T59	AdverseReaction 7096 7119	Conjunctival hemorrhage
+T60	AdverseReaction 7209 7217	Eye pain
+T61	AdverseReaction 7322 7330	Cataract
+T62	AdverseReaction 7435 7452	Vitreous floaters
+T63	AdverseReaction 7548 7573	Corneal epithelium defect
+T64	AdverseReaction 7661 7691	Intraocular pressure increased
+T65	AdverseReaction 7774 7790	Ocular hyperemia
+T66	AdverseReaction 7887 7906	Vitreous detachment
+T67	AdverseReaction 8000 8030	Foreign body sensation in eyes
+T68	AdverseReaction 8113 8134	Lacrimation increased
+T69	AdverseReaction 8226 8240	Vision blurred
+T70	AdverseReaction 8339 8363	Intraocular inflammation
+T71	AdverseReaction 8452 8471	Injection site pain
+T72	AdverseReaction 8565 8577	Eyelid edema
+T73	AdverseReaction 8774 8790	hypersensitivity
+T74	AdverseReaction 8792 8810	retinal detachment
+T75	AdverseReaction 8812 8824	retinal tear
+T76	AdverseReaction 8826 8839	corneal edema
+T77	AdverseReaction 8845 8870	injection site hemorrhage
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+A1	CUI E1 C0014236
+A2	UMLS-Preferred-Name E1 Endophthalmitis
+A3	MEDDRA-PT E1 Endophthalmitis
+A4	MEDDRA-PT-ID E1 10014801
+A5	CUI E2 C0035305
+A6	UMLS-Preferred-Name E2 Retinal Detachment
+A7	MEDDRA-PT E2 Retinal detachment
+A8	MEDDRA-PT-ID E2 10038848
+A9	CUI E3 C0234708
+A10	UMLS-Preferred-Name E3 Raised intraocular pressure
+A11	MEDDRA-PT E3 Intraocular pressure increased
+A12	MEDDRA-PT-ID E3 10022806
+A13	LLT E3 Increased intraocular pressure
+A14	LLT-ID E3 10021667
+A15	CUI E4 C0040038
+A16	UMLS-Preferred-Name E4 Thromboembolism
+A17	MEDDRA-PT E4 Embolism
+A18	MEDDRA-PT-ID E4 10061169
+A19	LLT E4 Thromboembolic event
+A20	LLT-ID E4 10043565
+A21	CUI E5 C0009760
+A22	UMLS-Preferred-Name E5 Conjunctival hemorrhage
+A23	MEDDRA-PT E5 Conjunctival haemorrhage
+A24	MEDDRA-PT-ID E5 10010719
+A25	LLT E5 Conjunctival hemorrhage
+A26	LLT-ID E5 10010720
+A27	CUI E6 C0151827
+A28	UMLS-Preferred-Name E6 Eye pain
+A29	MEDDRA-PT E6 Eye pain
+A30	MEDDRA-PT-ID E6 10015958
+A31	CUI E7 C0086543
+A32	UMLS-Preferred-Name E7 Cataract
+A33	MEDDRA-PT E7 Cataract
+A34	MEDDRA-PT-ID E7 10007739
+A35	CUI E8 C0016242
+A36	UMLS-Preferred-Name E8 Vitreous floaters
+A37	MEDDRA-PT E8 Vitreous floaters
+A38	MEDDRA-PT-ID E8 10047654
+A39	CUI E9 C0234708
+A40	UMLS-Preferred-Name E9 Raised intraocular pressure
+A41	MEDDRA-PT E9 Intraocular pressure increased
+A42	MEDDRA-PT-ID E9 10022806
+A43	CUI E10 C0042907
+A44	UMLS-Preferred-Name E10 Vitreous Detachment
+A45	MEDDRA-PT E10 Vitreous detachment
+A46	MEDDRA-PT-ID E10 10047650
+A47	CUI E11 C0014236
+A48	UMLS-Preferred-Name E11 Endophthalmitis
+A49	MEDDRA-PT E11 Endophthalmitis
+A50	MEDDRA-PT-ID E11 10014801
+A51	CUI E12 C0035305
+A52	UMLS-Preferred-Name E12 Retinal Detachment
+A53	MEDDRA-PT E12 Retinal detachment
+A54	MEDDRA-PT-ID E12 10038848
+A55	CUI E13 C0009760
+A56	UMLS-Preferred-Name E13 Conjunctival hemorrhage
+A57	MEDDRA-PT E13 Conjunctival haemorrhage
+A58	MEDDRA-PT-ID E13 10010719
+A59	LLT E13 Conjunctival hemorrhage
+A60	LLT-ID E13 10010720
+A61	CUI E14 C0151827
+A62	UMLS-Preferred-Name E14 Eye pain
+A63	MEDDRA-PT E14 Eye pain
+A64	MEDDRA-PT-ID E14 10015958
+A65	CUI E15 C0086543
+A66	UMLS-Preferred-Name E15 Cataract
+A67	MEDDRA-PT E15 Cataract
+A68	MEDDRA-PT-ID E15 10007739
+A69	CUI E16 C0016242
+A70	UMLS-Preferred-Name E16 Vitreous floaters
+A71	MEDDRA-PT E16 Vitreous floaters
+A72	MEDDRA-PT-ID E16 10047654
+A73	CUI E17 C0234708
+A74	UMLS-Preferred-Name E17 Raised intraocular pressure
+A75	MEDDRA-PT E17 Intraocular pressure increased
+A76	MEDDRA-PT-ID E17 10022806
+A77	CUI E18 C0042907
+A78	UMLS-Preferred-Name E18 Vitreous Detachment
+A79	MEDDRA-PT E18 Vitreous detachment
+A80	MEDDRA-PT-ID E18 10047650
+A81	CUI E19 C0009760
+A82	UMLS-Preferred-Name E19 Conjunctival hemorrhage
+A83	MEDDRA-PT E19 Conjunctival haemorrhage
+A84	MEDDRA-PT-ID E19 10010719
+A85	LLT E19 Conjunctival hemorrhage
+A86	LLT-ID E19 10010720
+A87	CUI E20 C0151827
+A88	UMLS-Preferred-Name E20 Eye pain
+A89	MEDDRA-PT E20 Eye pain
+A90	MEDDRA-PT-ID E20 10015958
+A91	CUI E21 C0086543
+A92	UMLS-Preferred-Name E21 Cataract
+A93	MEDDRA-PT E21 Cataract
+A94	MEDDRA-PT-ID E21 10007739
+A95	CUI E22 C0042907
+A96	UMLS-Preferred-Name E22 Vitreous Detachment
+A97	MEDDRA-PT E22 Vitreous detachment
+A98	MEDDRA-PT-ID E22 10047650
+A99	CUI E23 C0016242
+A100	UMLS-Preferred-Name E23 Vitreous floaters
+A101	MEDDRA-PT E23 Vitreous floaters
+A102	MEDDRA-PT-ID E23 10047654
+A103	CUI E24 C0234708
+A104	UMLS-Preferred-Name E24 Raised intraocular pressure
+A105	MEDDRA-PT E24 Intraocular pressure increased
+A106	MEDDRA-PT-ID E24 10022806
+A107	CUI E25 C0155169
+A108	UMLS-Preferred-Name E25 Ocular hyperemia
+A109	MEDDRA-PT E25 Ocular hyperaemia
+A110	MEDDRA-PT-ID E25 10030041
+A111	LLT E25 Ocular hyperemia
+A112	LLT-ID E25 10030042
+A113	CUI E26 C0854114
+A114	UMLS-Preferred-Name E26 Corneal epithelium defect
+A115	MEDDRA-PT E26 Corneal epithelium defect
+A116	MEDDRA-PT-ID E26 10011010
+A117	CUI E27 C0948862
+A118	UMLS-Preferred-Name E27 Detachment of retinal pigment epithelium
+A119	MEDDRA-PT E27 Detachment of retinal pigment epithelium
+A120	MEDDRA-PT-ID E27 10052501
+A121	CUI E28 C0151828
+A122	UMLS-Preferred-Name E28 Injection site pain
+A123	MEDDRA-PT E28 Injection site pain
+A124	MEDDRA-PT-ID E28 10022086
+A125	CUI E29 C0920171
+A126	UMLS-Preferred-Name E29 Foreign body sensation in eyes
+A127	MEDDRA-PT E29 Foreign body sensation in eyes
+A128	MEDDRA-PT-ID E29 10051116
+A129	CUI E30 C0152227
+A130	UMLS-Preferred-Name E30 Excessive tearing
+A131	MEDDRA-PT E30 Lacrimation increased
+A132	MEDDRA-PT-ID E30 10023644
+A133	CUI E31 C0344232
+A134	UMLS-Preferred-Name E31 Blurred vision
+A135	MEDDRA-PT E31 Vision blurred
+A136	MEDDRA-PT-ID E31 10047513
+A137	CUI E32 C0042164
+A138	UMLS-Preferred-Name E32 Uveitis
+A139	MEDDRA-PT E32 Eye inflammation
+A140	MEDDRA-PT-ID E32 10015943
+A141	CUI E33 C1328519
+A142	UMLS-Preferred-Name E33 Retinal pigment epithelial tear
+A143	MEDDRA-PT E33 Retinal pigment epithelial tear
+A144	MEDDRA-PT-ID E33 10062971
+A145	CUI E34 C0151698
+A146	UMLS-Preferred-Name E34 Injection site hemorrhage
+A147	MEDDRA-PT E34 Injection site haemorrhage
+A148	MEDDRA-PT-ID E34 10022067
+A149	LLT E34 Injection site hemorrhage
+A150	LLT-ID E34 10022068
+A151	CUI E35 C0162285
+A152	UMLS-Preferred-Name E35 Edema of eyelid
+A153	MEDDRA-PT E35 Eyelid oedema
+A154	MEDDRA-PT-ID E35 10015993
+A155	LLT E35 Eyelid edema
+A156	LLT-ID E35 10015985
+A157	CUI E36 C0010037
+A158	UMLS-Preferred-Name E36 Corneal edema
+A159	MEDDRA-PT E36 Corneal oedema
+A160	MEDDRA-PT-ID E36 10011033
+A161	LLT E36 Corneal edema
+A162	LLT-ID E36 10011007
+A163	CUI E37 C0020517
+A164	UMLS-Preferred-Name E37 Hypersensitivity
+A165	MEDDRA-PT E37 Hypersensitivity
+A166	MEDDRA-PT-ID E37 10020751
+A167	CUI E38 C0035305
+A168	UMLS-Preferred-Name E38 Retinal Detachment
+A169	MEDDRA-PT E38 Retinal detachment
+A170	MEDDRA-PT-ID E38 10038848
+A171	CUI E39 C0035321
+A172	UMLS-Preferred-Name E39 Retinal Perforations
+A173	MEDDRA-PT E39 Retinal tear
+A174	MEDDRA-PT-ID E39 10038897
+A175	CUI E40 C0014236
+A176	UMLS-Preferred-Name E40 Endophthalmitis
+A177	MEDDRA-PT E40 Endophthalmitis
+A178	MEDDRA-PT-ID E40 10014801
+A179	CUI E41 C0151827
+A180	UMLS-Preferred-Name E41 Eye pain
+A181	MEDDRA-PT E41 Eye pain
+A182	MEDDRA-PT-ID E41 10015958
+A183	CUI E42 C0009760
+A184	UMLS-Preferred-Name E42 Conjunctival hemorrhage
+A185	MEDDRA-PT E42 Conjunctival haemorrhage
+A186	MEDDRA-PT-ID E42 10010719
+A187	LLT E42 Conjunctival hemorrhage
+A188	LLT-ID E42 10010720
+A189	CUI E43 C0234708
+A190	UMLS-Preferred-Name E43 Raised intraocular pressure
+A191	MEDDRA-PT E43 Intraocular pressure increased
+A192	MEDDRA-PT-ID E43 10022806
+A193	CUI E44 C0854114
+A194	UMLS-Preferred-Name E44 Corneal epithelium defect
+A195	MEDDRA-PT E44 Corneal epithelium defect
+A196	MEDDRA-PT-ID E44 10011010
+A197	CUI E45 C0016242
+A198	UMLS-Preferred-Name E45 Vitreous floaters
+A199	MEDDRA-PT E45 Vitreous floaters
+A200	MEDDRA-PT-ID E45 10047654
+A201	CUI E46 C0155169
+A202	UMLS-Preferred-Name E46 Ocular hyperemia
+A203	MEDDRA-PT E46 Ocular hyperaemia
+A204	MEDDRA-PT-ID E46 10030041
+A205	LLT E46 Ocular hyperemia
+A206	LLT-ID E46 10030042
+A207	CUI E47 C0920171
+A208	UMLS-Preferred-Name E47 Foreign body sensation in eyes
+A209	MEDDRA-PT E47 Foreign body sensation in eyes
+A210	MEDDRA-PT-ID E47 10051116
+A211	CUI E48 C0042907
+A212	UMLS-Preferred-Name E48 Vitreous Detachment
+A213	MEDDRA-PT E48 Vitreous detachment
+A214	MEDDRA-PT-ID E48 10047650
+A215	CUI E49 C0152227
+A216	UMLS-Preferred-Name E49 Excessive tearing
+A217	MEDDRA-PT E49 Lacrimation increased
+A218	MEDDRA-PT-ID E49 10023644
+A219	CUI E50 C0151828
+A220	UMLS-Preferred-Name E50 Injection site pain
+A221	MEDDRA-PT E50 Injection site pain
+A222	MEDDRA-PT-ID E50 10022086
+A223	CUI E51 C0344232
+A224	UMLS-Preferred-Name E51 Blurred vision
+A225	MEDDRA-PT E51 Vision blurred
+A226	MEDDRA-PT-ID E51 10047513
+A227	CUI E52 C0042164
+A228	UMLS-Preferred-Name E52 Uveitis
+A229	MEDDRA-PT E52 Eye inflammation
+A230	MEDDRA-PT-ID E52 10015943
+A231	CUI E53 C0086543
+A232	UMLS-Preferred-Name E53 Cataract
+A233	MEDDRA-PT E53 Cataract
+A234	MEDDRA-PT-ID E53 10007739
+A235	CUI E54 C0162285
+A236	UMLS-Preferred-Name E54 Edema of eyelid
+A237	MEDDRA-PT E54 Eyelid oedema
+A238	MEDDRA-PT-ID E54 10015993
+A239	LLT E54 Eyelid edema
+A240	LLT-ID E54 10015985
+A241	CUI E55 C0010037
+A242	UMLS-Preferred-Name E55 Corneal edema
+A243	MEDDRA-PT E55 Corneal oedema
+A244	MEDDRA-PT-ID E55 10011033
+A245	LLT E55 Corneal edema
+A246	LLT-ID E55 10011007
+A247	CUI E56 C0035321
+A248	UMLS-Preferred-Name E56 Retinal Perforations
+A249	MEDDRA-PT E56 Retinal tear
+A250	MEDDRA-PT-ID E56 10038897
+A251	CUI E57 C0020517
+A252	UMLS-Preferred-Name E57 Hypersensitivity
+A253	MEDDRA-PT E57 Hypersensitivity
+A254	MEDDRA-PT-ID E57 10020751
+A255	CUI E58 C0014236
+A256	UMLS-Preferred-Name E58 Endophthalmitis
+A257	MEDDRA-PT E58 Endophthalmitis
+A258	MEDDRA-PT-ID E58 10014801
+A259	CUI E59 C0009760
+A260	UMLS-Preferred-Name E59 Conjunctival hemorrhage
+A261	MEDDRA-PT E59 Conjunctival haemorrhage
+A262	MEDDRA-PT-ID E59 10010719
+A263	LLT E59 Conjunctival hemorrhage
+A264	LLT-ID E59 10010720
+A265	CUI E60 C0151827
+A266	UMLS-Preferred-Name E60 Eye pain
+A267	MEDDRA-PT E60 Eye pain
+A268	MEDDRA-PT-ID E60 10015958
+A269	CUI E61 C0086543
+A270	UMLS-Preferred-Name E61 Cataract
+A271	MEDDRA-PT E61 Cataract
+A272	MEDDRA-PT-ID E61 10007739
+A273	CUI E62 C0016242
+A274	UMLS-Preferred-Name E62 Vitreous floaters
+A275	MEDDRA-PT E62 Vitreous floaters
+A276	MEDDRA-PT-ID E62 10047654
+A277	CUI E63 C0854114
+A278	UMLS-Preferred-Name E63 Corneal epithelium defect
+A279	MEDDRA-PT E63 Corneal epithelium defect
+A280	MEDDRA-PT-ID E63 10011010
+A281	CUI E64 C0234708
+A282	UMLS-Preferred-Name E64 Raised intraocular pressure
+A283	MEDDRA-PT E64 Intraocular pressure increased
+A284	MEDDRA-PT-ID E64 10022806
+A285	CUI E65 C0155169
+A286	UMLS-Preferred-Name E65 Ocular hyperemia
+A287	MEDDRA-PT E65 Ocular hyperaemia
+A288	MEDDRA-PT-ID E65 10030041
+A289	LLT E65 Ocular hyperemia
+A290	LLT-ID E65 10030042
+A291	CUI E66 C0042907
+A292	UMLS-Preferred-Name E66 Vitreous Detachment
+A293	MEDDRA-PT E66 Vitreous detachment
+A294	MEDDRA-PT-ID E66 10047650
+A295	CUI E67 C0920171
+A296	UMLS-Preferred-Name E67 Foreign body sensation in eyes
+A297	MEDDRA-PT E67 Foreign body sensation in eyes
+A298	MEDDRA-PT-ID E67 10051116
+A299	CUI E68 C0152227
+A300	UMLS-Preferred-Name E68 Excessive tearing
+A301	MEDDRA-PT E68 Lacrimation increased
+A302	MEDDRA-PT-ID E68 10023644
+A303	CUI E69 C0344232
+A304	UMLS-Preferred-Name E69 Blurred vision
+A305	MEDDRA-PT E69 Vision blurred
+A306	MEDDRA-PT-ID E69 10047513
+A307	CUI E70 C0042164
+A308	UMLS-Preferred-Name E70 Uveitis
+A309	MEDDRA-PT E70 Eye inflammation
+A310	MEDDRA-PT-ID E70 10015943
+A311	CUI E71 C0151828
+A312	UMLS-Preferred-Name E71 Injection site pain
+A313	MEDDRA-PT E71 Injection site pain
+A314	MEDDRA-PT-ID E71 10022086
+A315	CUI E72 C0162285
+A316	UMLS-Preferred-Name E72 Edema of eyelid
+A317	MEDDRA-PT E72 Eyelid oedema
+A318	MEDDRA-PT-ID E72 10015993
+A319	LLT E72 Eyelid edema
+A320	LLT-ID E72 10015985
+A321	CUI E73 C0020517
+A322	UMLS-Preferred-Name E73 Hypersensitivity
+A323	MEDDRA-PT E73 Hypersensitivity
+A324	MEDDRA-PT-ID E73 10020751
+A325	CUI E74 C0035305
+A326	UMLS-Preferred-Name E74 Retinal Detachment
+A327	MEDDRA-PT E74 Retinal detachment
+A328	MEDDRA-PT-ID E74 10038848
+A329	CUI E75 C0035321
+A330	UMLS-Preferred-Name E75 Retinal Perforations
+A331	MEDDRA-PT E75 Retinal tear
+A332	MEDDRA-PT-ID E75 10038897
+A333	CUI E76 C0010037
+A334	UMLS-Preferred-Name E76 Corneal edema
+A335	MEDDRA-PT E76 Corneal oedema
+A336	MEDDRA-PT-ID E76 10011033
+A337	LLT E76 Corneal edema
+A338	LLT-ID E76 10011007
+A339	CUI E77 C0151698
+A340	UMLS-Preferred-Name E77 Injection site hemorrhage
+A341	MEDDRA-PT E77 Injection site haemorrhage
+A342	MEDDRA-PT-ID E77 10022067
+A343	LLT E77 Injection site hemorrhage
+A344	LLT-ID E77 10022068

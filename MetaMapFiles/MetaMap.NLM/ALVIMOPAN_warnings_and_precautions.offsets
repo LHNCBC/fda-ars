@@ -1,0 +1,53 @@
+69,91|C0027051|myocardial infarctions|dsyn
+238,245;250,261|C1333034|chronic cancer pain|sosy
+476,490|C0000737|abdominal pain|sosy
+492,498|C0027497|nausea|sosy
+492,498|C1963179|nausea|patf
+503,511|C0042963|vomiting|sosy
+503,511|C1963281|vomiting|patf
+517,525|C0011991|diarrhea|sosy
+517,525|C1963091|diarrhea|fndg
+578,596|C0948807|hepatic impairment|dsyn
+642,665|C0022661|end-stage renal disease|dsyn
+642,665|C2316810|end-stage renal disease|dsyn
+711,719;737,748|C0001168|complete obstruction|acab
+720,748|C0236124|gastrointestinal obstruction|patf
+799,807;814,825|C0001168|complete obstruction|acab
+808,825|C0021843|bowel obstruction|dsyn
+929,950|C0027051|Myocardial Infarction|dsyn
+1000,1022|C0027051|myocardial infarctions|dsyn
+1173,1180;1185,1196|C1333034|chronic cancer pain|sosy
+1275,1297|C0027051|myocardial infarctions|dsyn
+1366,1375|C1397014|imbalance|sosy
+1463,1475|C0150055|chronic pain|sosy
+1661,1670|C1444656|indicated|fndg
+2096,2105|C0013658|Education|fndg
+2212,2233|C0027051|myocardial infarction|dsyn
+2503,2506|C0268621|met|dsyn
+2615,2625|C1555472|authorized|fndg
+2987,3002;3007,3015|C0438953|discharged from hospital|fndg
+3124,3131|C0445223|Related|fndg
+3352,3366|C3540840|clinical signs|fndg
+3371,3379|C1457887|symptoms|sosy
+3414,3421|C0445223|related|fndg
+3459,3473|C0000737|abdominal pain|sosy
+3475,3481|C0027497|nausea|sosy
+3475,3481|C1963179|nausea|patf
+3486,3494|C0042963|vomiting|sosy
+3486,3494|C1963281|vomiting|patf
+3496,3504|C0011991|diarrhea|sosy
+3496,3504|C1963091|diarrhea|fndg
+3614,3633|C0400877|postoperative ileus|dsyn
+3784,3799|C1444657|contraindicated|fndg
+3870,3871;3884,3888|C3842672|7 days|fndg
+3994,4012|C0948807|Hepatic Impairment|dsyn
+4037,4055|C0948807|hepatic impairment|dsyn
+4123,4130|C0445223|related|fndg
+4273,4279|C0231683|normal|fndg
+4377,4400|C0022661|End-Stage Renal Disease|dsyn
+4377,4400|C2316810|End-Stage Renal Disease|dsyn
+4592,4600;4618,4629|C0001168|Complete Obstruction|acab
+4601,4629|C0236124|Gastrointestinal Obstruction|patf
+4681,4689;4707,4718|C0001168|complete obstruction|acab
+4769,4777;4784,4795|C0001168|complete obstruction|acab
+4778,4795|C0021843|bowel obstruction|dsyn

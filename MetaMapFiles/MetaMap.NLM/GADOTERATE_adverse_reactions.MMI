@@ -1,0 +1,112 @@
+00000000|MMI|119.93|Adverse reactions|C0559546|[patf]|["Adverse reactions (disorder)"-tx-20-"Adverse Reactions Disorders"-noun-1,"Adverse reactions"-tx-18-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-16-"adverse reaction"-noun-0,"ADVERSE REACTION"-tx-15-"adverse reaction"-noun-0,"Adverse reactions"-tx-14-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-13-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-12-"adverse reactions"-noun-0,"Adverse reactions"-tx-11-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-10-"adverse reaction"-noun-0,"ADVERSE REACTION"-tx-5-"adverse reaction"-noun-0,"Adverse reactions"-tx-5-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-4-"adverse reactions"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0]|TX|3622/17,3793/9;3331/17;3117/16;3037/16;2783/17;1685/17;1598/17;1503/17;1398/16;793/16;571/17;415/17;6/17|
+00000000|MMI|54.12|Nephrogenic Systemic Fibrosis|C3888044|[dsyn]|["NSF"-tx-21-"NSF"-noun-1,"NSF"-tx-20-"NSF"-noun-1,"NSF"-tx-2-"NSF"-noun-0,"NSF"-tx-1-"NSF"-noun-0]|TX|4857/3;4684/3;119/3;70/3|C17.800.553;C23.550.355.550
+00000000|MMI|49.72|Headache|C0018681|[sosy]|["HEADACHE"-tx-16-"headache"-noun-0,"HEADACHE"-tx-13-"Headache"-noun-0,"HEADACHE"-tx-4-"headache"-noun-0]|TX|3138/8;1939/8;466/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|40.82|Disease|C0012634|[dsyn]|["Disorders"-tx-20-"Disorders"-noun-1,"condition"-tx-20-"Conditions"-verb-1,"condition"-tx-5-"conditions"-noun-0]|TX|[4529/9],[4671/9];4563/10;781/10|C23.550.288
+00000000|MMI|29.46|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-13-"pruritus"-noun-0]|TX|[2538/8],[2755/8]|C17.800.685;C23.888.885.625
+00000000|MMI|26.30|Nausea|C0027497|[sosy]|["NAUSEA"-tx-13-"Nausea"-noun-0,"NAUSEA"-tx-4-"nausea"-noun-0]|TX|1832/6;458/6|C23.888.821.712
+00000000|MMI|24.11|Presyncope|C0700200|[sosy]|["PRESYNCOPE"-tx-20-"presyncope"-noun-1]|TX|4260/10|C10.597.606.358.800.600;C23.888.592.604.359.800.600
+00000000|MMI|24.11|Syncope|C0039070|[sosy]|["SYNCOPE"-tx-20-"syncope"-noun-1]|TX|4251/7|C10.597.606.358.800.600;C23.888.592.604.359.800.600
+00000000|MMI|22.53|Comatose|C0009421|[dsyn]|["COMA"-tx-20-"coma"-noun-1]|TX|4233/4|C10.597.606.358.800.200;C23.888.592.604.359.800.200
+00000000|MMI|20.95|Acute kidney injury|C2609414|[inpo]|["Acute Kidney Injury"-tx-3-"acute kidney injury"-noun-0]|TX|243/19|C12.777.419.780.050;C13.351.968.419.780.050
+00000000|MMI|20.95|Dysgeusia|C0013378|[fndg]|["DYSGEUSIA"-tx-13-"dysgeusia"-noun-0]|TX|2561/9|C10.597.751.861.479;C23.888.592.763.861.479
+00000000|MMI|20.95|Kidney Failure, Acute|C0022660|[dsyn]|["Acute Kidney Injury"-tx-3-"acute kidney injury"-noun-0]|TX|243/19|C12.777.419.780.050;C13.351.968.419.780.050
+00000000|MMI|20.95|Paresthesia|C0030554|[dsyn]|["Parasthesia"-tx-13-"paresthesia"-noun-0]|TX|2548/11|C10.597.751.791.875;C23.888.592.763.770.875
+00000000|MMI|20.65|Hypersensitivity|C0020517|[patf]|["HYPERSENSITIVITY"-tx-20-"hypersensitivity"-noun-1,"Hypersensitivity reactions"-tx-20-"hypersensitivity reactions"-noun-1,"Hypersensitivity reactions"-tx-3-"Hypersensitivity reactions"-noun-0]|TX|3934/16;3934/16,3966/9;212/26|C20.543
+00000000|MMI|19.32|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-19-"uncertain"-adj-0]|TX|3477/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|17.80|Angioedema|C0002994|[patf]|["Angiooedema"-tx-20-"angioedema"-noun-1]|TX|4077/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|17.80|Convulsions|C4048158|[sosy]|["Convulsion"-tx-20-"convulsion"-noun-1]|TX|4239/10|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|17.80|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-13-"dizziness"-noun-0]|TX|2517/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|17.80|Drowsiness|C0013144|[fndg]|["Somnolence"-tx-13-"somnolence"-noun-0]|TX|2496/10|F02.830.855.796;G11.561.600.815.754
+00000000|MMI|17.80|Dysosmia|C0235287|[dsyn]|["parosmia"-tx-20-"parosmia"-noun-1]|TX|4272/8|C10.597.751.600;C23.888.592.763.550
+00000000|MMI|17.80|Seizures|C0036572|[sosy]|["CONVULSION (NOS)"-tx-20-"convulsion"-noun-1]|TX|4239/10|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|17.80|Tremor|C0040822|[sosy]|["TREMOR"-tx-20-"tremor"-noun-1]|TX|4282/6|C10.597.350.850;C23.888.592.350.850
+00000000|MMI|17.80|Vertigo|C0042571|[sosy]|["dizziness"-tx-13-"dizziness"-noun-0]|TX|2517/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|16.10|Muscle Weakness|C0151786|[sosy]|["MUSCLE WEAKNESS"-tx-20-"muscle weakness"-noun-1]|TX|4369/15|C05.651.515;C10.597.613.593;C23.550.695;C23.888.592.608.593
+00000000|MMI|16.09|Pain, Burning|C0234230|[sosy]|["PAIN BURNING"-tx-13-"Pain Burning"-noun-0]|TX|2061/4,2260/7|C10.597.617;C23.888.592.612;F02.830.816.444;G11.561.600.810.444
+00000000|MMI|16.06|Pain|C0030193|[sosy]|["PAIN"-tx-13-"Pain"-noun-0]|TX|2061/4|C10.597.617;C23.888.592.612;F02.830.816.444;G11.561.600.810.444
+00000000|MMI|14.64|Apnea|C0003578|[patf]|["Arrest, Respiratory"-tx-20-"respiratory arrest"-noun-1]|TX|4002/18|C08.618.085;C23.888.852.130
+00000000|MMI|14.64|Common Cold|C0009443|[dsyn]|["COLD"-tx-13-"cold"-noun-0]|TX|2484/4|C02.782.687.207;C08.730.162
+00000000|MMI|14.64|Hyperhidrosis disorder|C0020458|[fndg]|["HYPERHIDROSIS"-tx-20-"hyperhidrosis"-noun-1]|TX|4160/13|C17.800.946.350
+00000000|MMI|14.64|Laryngismus|C0023066|[dsyn]|["LARYNGOSPASM"-tx-20-"laryngospasm"-noun-1]|TX|4049/12|C08.360.895.500;C08.618.980.500;C09.400.895.500
+00000000|MMI|14.64|Tachycardia|C0039231|[patf]|["TACHYCARDIA"-tx-20-"tachycardia"-noun-1]|TX|3840/11|C14.280.067.845;C23.550.073.845
+00000000|MMI|14.64|Vomiting|C0042963|[sosy]|["VOMITING"-tx-13-"vomiting"-verb-0]|TX|2528/8|C23.888.821.937
+00000000|MMI|13.07|Apraxia, oculomotor, Cogan type|C0543874|[cgab]|["COMA"-tx-20-"coma"-noun-1]|TX|4233/4|x.x.x.x
+00000000|MMI|13.07|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-20-"diarrhea"-noun-1]|TX|4456/8|C23.888.821.214
+00000000|MMI|12.96|Fever|C0015967|[fndg]|["FEVER"-tx-20-"fever"-noun-1]|TX|4586/5|C23.888.119.344
+00000000|MMI|12.96|Sialorrhea|C0037036|[dsyn]|["Salivary hypersecretion"-tx-20-"salivary hypersecretion"-noun-1]|TX|4466/23|C07.465.815.815
+00000000|MMI|12.95|Paresis|C0030552|[sosy]|["Muscle weakness"-tx-20-"muscle weakness"-noun-1]|TX|4369/15|C10.597.636;C23.888.592.643
+00000000|MMI|12.92|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-20-"urticaria"-noun-1]|TX|4175/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|12.88|Bradycardia|C0428977|[patf]|["BRADYCARDIA"-tx-20-"bradycardia"-noun-1]|TX|3827/11|C14.280.067.319;C23.550.073.300
+00000000|MMI|11.49|Anxiety|C0003467|[mobd]|["-- Anxiety"-tx-13-"anxiety"-noun-0]|TX|2591/7|F01.470.132
+00000000|MMI|11.49|Bronchial Spasm|C0006266|[dsyn]|["BRONCHOSPASM"-tx-20-"bronchospasm"-noun-1]|TX|4063/12|C08.127.321
+00000000|MMI|11.49|Cardiac Arrest|C0018790|[dsyn]|["Arrest, Cardiac"-tx-20-"cardiac arrest"-noun-1]|TX|3986/14|C14.280.383
+00000000|MMI|11.49|Conjunctivitis|C0009763|[dsyn]|["CONJUNCTIVITIS"-tx-20-"conjunctivitis"-noun-1]|TX|4089/14|C11.187.183
+00000000|MMI|11.49|Exanthema|C0015230|[sosy]|["RASH"-tx-13-"rash"-noun-0]|TX|2490/4|C17.800.257
+00000000|MMI|11.49|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-13-"fatigue"-noun-0]|TX|2508/7|C23.888.369
+00000000|MMI|11.49|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-13-"hypertension"-noun-0]|TX|2600/12|C14.907.489
+00000000|MMI|11.49|Upper Respiratory Infections|C0041912|[dsyn]|["Cold"-tx-13-"cold"-noun-0]|TX|2484/4|C01.539.739;C08.730
+00000000|MMI|11.27|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-16-"headache"-noun-0,"headache"-tx-13-"Headache"-noun-0,"headache"-tx-4-"headache"-noun-0]|TX|3138/8;1939/8;466/8|
+00000000|MMI|10.85|0%|C3842591|[fndg]|["0%"-tx-13-"0"-percentage-0,"0%"-tx-12-"0"-percentage-0,"0%"-tx-4-"0"-percentage-0]|TX|2429/1;1636/1;409/1|
+00000000|MMI|10.80|Burning sensation|C0085624|[sosy]|["BURNING SENSATION"-tx-13-"Burning Sensation"-noun-0,"Burning"-tx-13-"Burning"-noun-0,"BURNING SENSATION"-tx-4-"burning sensation"-noun-0]|TX|2260/17;2260/7;526/17|
+00000000|MMI|9.99|Inflammation|C0021368|[patf]|["INFLAMMATION"-tx-13-"inflammation"-noun-0]|TX|2726/12|C23.550.470
+00000000|MMI|9.96|Contracture|C0009917|[acab]|["MUSCLE CONTRACTURE"-tx-20-"muscle contracture"-noun-1]|TX|4349/18|C05.550.323;C05.651.197
+00000000|MMI|9.78|Cyanosis|C0010520|[sosy]|["CYANOSIS"-tx-20-"cyanosis"-noun-1]|TX|4022/8|C23.888.248
+00000000|MMI|9.76|Cardiac Arrhythmia|C0003811|[fndg]|["Arrythmia"-tx-20-"arrhythmia"-noun-1]|TX|3853/10|C14.280.067;C23.550.073
+00000000|MMI|8.34|Anxiety Disorders|C0003469|[mobd]|["Anxiety"-tx-13-"anxiety"-noun-0]|TX|2591/7|F03.080
+00000000|MMI|7.69|Injection site reaction|C0151735|[patf]|["Injection site reactions"-tx-13-"Injection Site reactions"-noun-0,"Injection site reactions"-tx-13-"injection site reactions"-noun-0]|TX|2046/14,2386/9;2685/24|
+00000000|MMI|7.27|Burning sensation of skin|C0241057|[sosy]|["burning sensation"-tx-13-"Burning Sensation"-noun-0,"burning sensation"-tx-4-"burning sensation"-noun-0]|TX|2260/17;526/17|
+00000000|MMI|7.26|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-13-"Nausea"-noun-0,"Nausea"-tx-4-"nausea"-noun-0]|TX|1832/6;458/6|
+00000000|MMI|7.19|4+ Answer to question|C3838679|[fndg]|["4+"-tx-15-"4"-percentage-0,"4+"-tx-8-"4"-percentage-0]|TX|3009/1;1261/1|
+00000000|MMI|7.01|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-6-"exposure"-noun-0,"Exposure NOS"-tx-2-"exposure"-noun-1]|TX|1040/8;181/8|
+00000000|MMI|7.01|exposure history|C2220266|[fndg]|["exposure"-tx-6-"exposure"-noun-0,"exposure"-tx-2-"exposure"-noun-1]|TX|1040/8;181/8|
+00000000|MMI|6.67|Connective Tissue Diseases|C0009782|[dsyn]|["Connective Tissue Disorders"-tx-20-"Connective Tissue Disorders"-noun-1]|TX|4318/27|C17.300
+00000000|MMI|6.66|Vascular Diseases|C0042373|[dsyn]|["Vascular Disorders"-tx-22-"Vascular Disorders"-noun-0]|TX|4900/18|C14.907
+00000000|MMI|6.64|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-20-"Gastrointestinal Disorders"-noun-1]|TX|4414/26|C06.405
+00000000|MMI|5.18|Anxiety symptoms|C0860603|[fndg]|["Anxiety"-tx-13-"anxiety"-noun-0]|TX|2591/7|
+00000000|MMI|5.18|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-13-"dizziness"-noun-0]|TX|2517/9|
+00000000|MMI|5.18|Edema of eyelid|C0162285|[fndg]|["EYELID OEDEMA"-tx-20-"eyelid edema"-noun-1]|TX|4123/12|
+00000000|MMI|5.18|Extravasation|C0015376|[patf]|["EXTRAVASATION"-tx-13-"extravasation"-noun-0]|TX|2740/13|
+00000000|MMI|5.18|Has tingling sensation|C2242996|[sosy]|["paresthesia"-tx-13-"paresthesia"-noun-0]|TX|2548/11|
+00000000|MMI|5.18|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-13-"hypertension"-noun-0]|TX|2600/12|
+00000000|MMI|5.18|Injection site coldness|C0919593|[inpo]|["Injection site coldness"-tx-4-"injection site coldness"-noun-0]|TX|497/23|
+00000000|MMI|5.18|Injection site pain|C0151828|[sosy]|["INJECTION SITE PAIN"-tx-4-"injection site pain"-noun-0]|TX|476/19|
+00000000|MMI|5.18|Lacrimation|C0423153|[fndg]|["LACRIMATION"-tx-20-"lacrimation"-noun-1]|TX|4137/11|
+00000000|MMI|5.18|Living Alone|C0439044|[fndg]|["Alone"-tx-2-"alone"-adj-1]|TX|201/5|
+00000000|MMI|5.18|Malaise|C0231218|[sosy]|["MALAISE"-tx-20-"malaise"-noun-1]|TX|4577/7|
+00000000|MMI|5.18|Ocular hyperemia|C0155169|[dsyn]|["OCULAR HYPEREMIA"-tx-20-"ocular hyperemia"-noun-1]|TX|4105/16|
+00000000|MMI|5.18|Oropharyngeal discomfort|C2363730|[sosy]|["Oropharyngeal discomfort"-tx-13-"oropharyngeal discomfort"-noun-0]|TX|2628/24|
+00000000|MMI|5.18|Pain in limb|C0030196|[sosy]|["Pain in Extremity"-tx-13-"pain in extremity"-noun-0]|TX|2572/17|
+00000000|MMI|5.18|Palpitations|C0030252|[fndg]|["PALPITATIONS"-tx-13-"palpitations"-noun-0]|TX|2614/12|
+00000000|MMI|5.18|Palpitations Adverse Event|C3160712|[fndg]|["Palpitations"-tx-13-"palpitations"-noun-0]|TX|2614/12|
+00000000|MMI|5.18|Respiratory arrest|C0162297|[patf]|["RESPIRATORY ARREST"-tx-20-"respiratory arrest"-noun-1]|TX|4002/18|
+00000000|MMI|5.18|Sense of smell altered|C1510410|[fndg]|["Paraosmia"-tx-20-"parosmia"-noun-1]|TX|4272/8|
+00000000|MMI|5.18|Serum creatinine level|C0600061|[fndg]|["Serum creatinine"-tx-13-"serum creatinine"-noun-0]|TX|2654/16|
+00000000|MMI|5.18|Several days|C3845714|[fndg]|["Several days"-tx-10-"several days"-noun-0]|TX|1451/12|
+00000000|MMI|5.18|Social warmth|C0518610|[fndg]|["warmth"-tx-13-"warmth"-noun-0]|TX|2769/6|
+00000000|MMI|5.18|Somnolence|C2830004|[fndg]|["SOMNOLENCE"-tx-13-"somnolence"-noun-0]|TX|2496/10|
+00000000|MMI|5.18|Tachycardia by ECG Finding|C3827868|[fndg]|["TACHYCARDIA"-tx-20-"tachycardia"-noun-1]|TX|3840/11|
+00000000|MMI|5.18|Tremor Adverse Event|C1963252|[fndg]|["Tremor"-tx-20-"tremor"-noun-1]|TX|4282/6|
+00000000|MMI|5.18|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-13-"vomiting"-verb-0]|TX|2528/8|
+00000000|MMI|3.75|Adverse event|C0877248|[patf]|["adverse events"-tx-17-"adverse events"-noun-0]|TX|3160/14|
+00000000|MMI|3.75|Edema of pharynx|C0236024|[fndg]|["Pharyngeal oedema"-tx-20-"pharyngeal edema"-noun-1]|TX|4031/16|
+00000000|MMI|3.71|Age <= 2 years|C4061124|[fndg]|["Age <= 2 years"-tx-14-"aged 2 years"-noun-0]|TX|2900/6,2911/5|
+00000000|MMI|3.68|Others - Allergy|C1955473|[fndg]|["Others"-tx-8-"others"-noun-0]|TX|1279/6|
+00000000|MMI|3.68|Superficial phlebitis|C0750876|[dsyn]|["Superficial phlebitis"-tx-22-"superficial phlebitis"-noun-0]|TX|4942/21|
+00000000|MMI|3.64|3/9|C0442760|[fndg]|["3/9"-tx-10-"3.9"-percentage-0]|TX|1359/3|
+00000000|MMI|3.62|Anaphylactoid reaction|C0340865|[patf]|["anaphylactoid reactions"-tx-20-"anaphylactoid reactions"-noun-1]|TX|3952/23|
+00000000|MMI|3.60|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-20-"diarrhea"-noun-1]|TX|4456/8|
+00000000|MMI|3.59|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-2-"history of"-noun-1]|TX|170/10|
+00000000|MMI|3.55|Container status - Identified|C1550043|[fndg]|["Identified"-tx-18-"identified"-verb-0]|TX|3359/10|
+00000000|MMI|3.52|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-20-"Nervous System Disorders"-noun-1]|TX|4191/24|C10
+00000000|MMI|3.51|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-20-"Subcutaneous Disorders"-noun-1]|TX|4651/12,4671/9|
+00000000|MMI|3.50|10%|C3842590|[fndg]|["10%"-tx-8-"10"-percentage-0]|TX|1275/2|
+00000000|MMI|3.50|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-20-"fever"-noun-1]|TX|4586/5|
+00000000|MMI|3.50|ethnic|C0680174|[fndg]|["ethnic"-tx-8-"ethnic"-adj-0]|TX|1211/6|
+00000000|MMI|3.49|Immune System Diseases|C0021053|[dsyn]|["Immune system disorders"-tx-20-"Immune System Disorders"-noun-1]|TX|3892/23|C20
+00000000|MMI|3.46|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-20-"urticaria"-noun-1]|TX|4175/9|
+00000000|MMI|3.45|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-20-"hypersensitivity"-noun-1]|TX|3934/16|
+00000000|MMI|3.45|Feels cold|C0812387|[fndg]|["Coldness"-tx-13-"Coldness"-noun-0]|TX|2168/8|
+00000000|MMI|3.45|Observation of Sensation|C0542538|[fndg]|["Sensation"-tx-13-"Sensation"-noun-0]|TX|2268/9|
+00000000|MMI|3.45|Pain NOS Adverse Event|C1962977|[fndg]|["Pain NOS"-tx-13-"Pain"-noun-0]|TX|2061/4|
+00000000|MMI|3.43|Negative Surgical Margin|C1709157|[fndg]|["Clear"-tx-2-"clear"-adj-1]|TX|164/5|
+00000000|MMI|3.42|Bradycardia by ECG Finding|C3812171|[fndg]|["BRADYCARDIA"-tx-20-"bradycardia"-noun-1]|TX|3827/11|

@@ -1,0 +1,71 @@
+00000000|AA|DRESS|Drug Rash with Eosinophilia and Systemic Symptoms|1|5|13|49|817:5
+00000000|MMI|130.00|Exanthema|C0015230|[sosy]|["RASH"-tx-12-"rash"-noun-0,"RASH"-tx-10-"rash"-noun-0,"RASH"-tx-10-"rash"-noun-1,"RASH"-tx-9-"Rash"-noun-0,"RASH"-tx-8-"rash"-noun-0,"Rashes"-tx-7-"rashes"-noun-0,"RASH"-tx-6-"rash"-noun-0,"RASH"-tx-3-"rash"-noun-0]|TX|1918/4;[1343/4],[1571/4],[1579/4];[1343/4],[1571/4],[1579/4];1261/4;1221/4;1007/6;874/4;[326/4],[334/4]|C17.800.257
+00000000|MMI|35.81|Toxic Epidermal Necrolysis|C0014518|[dsyn]|["NECROLYSIS, TOXIC EPIDERMAL"-tx-5-"toxic epidermal necrolysis"-noun-0,"NECROLYSIS, TOXIC EPIDERMAL"-tx-2-"toxic epidermal necrolysis"-noun-0]|TX|677/26;205/26|C07.465.864.500;C17.800.174.600.900;C17.800.229.400.683;C17.800.865.475.683;C20.543.206.380.900;C25.100.468.380.900
+00000000|MMI|32.43|Stevens-Johnson Syndrome|C0038325|[dsyn]|["STEVENS JOHNSON SYNDROME"-tx-5-"Stevens-Johnson syndrome"-noun-0,"STEVENS JOHNSON SYNDROME"-tx-2-"Stevens-Johnson syndrome"-noun-0]|TX|651/24;152/24|C07.465.864.500;C17.800.174.600.900;C17.800.229.400.683;C17.800.865.475.683;C20.543.206.380.900;C25.100.468.380.900
+00000000|MMI|30.42|Obesity, Abdominal|C0311277|[fndg]|["Central Obesity"-tx-13-"central obesity"-noun-0]|TX|2052/15|C18.654.726.500.697;E01.370.600.115.100.160.120.699.500.249;G07.100.100.160.120.699.500.249
+00000000|MMI|29.46|Erythema Multiforme|C0014742|[dsyn]|["ERYTHEMA MULTIFORME"-tx-5-"erythema multiforme"-noun-0,"ERYTHEMA MULTIFORME"-tx-2-"erythema multiforme"-noun-0]|TX|708/19;236/19|C17.800.229.400;C17.800.865.475
+00000000|MMI|29.46|Pneumocystis jiroveci pneumonia|C1535939|[dsyn]|["PCP"-tx-17-"PCP"-noun-0,"Pneumocystis jiroveci pneumonia"-tx-17-"Pneumocystis jiroveci pneumonia"-noun-0]|TX|2859/3;2825/21,2848/9|C01.703.534.700;C01.703.770.700;C08.381.472.700;C08.381.677.675;C08.730.435.700;C08.730.610.675
+00000000|MMI|28.61|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-10-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-6-"Hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-4-"Hypersensitivity Reactions"-noun-0,"HYPERSENSITIVITY REACTION (NOS)"-tx-2-"hypersensitivity reaction"-noun-0]|TX|1497/26;729/26;513/26;178/25|C20.543
+00000000|MMI|24.11|Mycobacterium avium-intracellulare Infection|C0026916|[dsyn]|["Mycobacterium Avium Infection"-tx-17-"Mycobacterium avium infection"-noun-0]|TX|2776/19,2797/9|C01.252.410.040.552.475.495
+00000000|MMI|22.61|Cachexia|C0006625|[sosy]|["Wasting"-tx-13-"wasting"-noun-0]|TX|2126/7|C23.888.144.243.963.500.500
+00000000|MMI|20.95|Acute inflammatory demyelinating polyneuropathy|C3542501|[dsyn]|["Guillain-Barre Syndrome"-tx-18-"Guillain-Barre syndrome"-noun-0]|TX|3007/23|C10.114.750.100;C10.314.750.450;C10.668.829.350;C10.668.829.800.750.300;C20.111.258.750.400
+00000000|MMI|20.95|Guillain-Barre Syndrome|C0018378|[dsyn]|["GUILLAIN BARRE SYNDROME"-tx-18-"Guillain-Barre syndrome"-noun-0]|TX|3007/23|C10.114.750.100;C10.314.750.450;C10.668.829.350;C10.668.829.800.750.300;C20.111.258.750.400
+00000000|MMI|20.95|Tuberculosis|C0041296|[dsyn]|["TUBERCULOSIS"-tx-17-"tuberculosis"-noun-0]|TX|2867/12|C01.252.410.040.552.846
+00000000|MMI|19.89|Arthralgia|C0003862|[sosy]|["JOINT ACHE"-tx-10-"joint aches"-noun-0]|TX|1642/11|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|17.80|Angioedema|C0002994|[patf]|["Angiooedema"-tx-10-"angioedema"-noun-0]|TX|1734/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|17.80|Drug Hypersensitivity Syndrome|C3541994|[dsyn]|["Drug rash with eosinophilia and systemic symptoms"-tx-6-"Drug Rash with Eosinophilia and Systemic Symptoms"-noun-0]|TX|766/49|C17.800.174.600.262;C20.543.206.380.262;C25.100.468.380.262
+00000000|MMI|17.80|Hepatitis A|C0019159|[dsyn]|["Hepatitis"-tx-10-"hepatitis"-noun-0]|TX|1709/9|C02.440.420;C02.782.687.359.500;C06.552.380.705.422
+00000000|MMI|17.80|Polymyositis|C0085655|[dsyn]|["POLYMYOSITIS"-tx-18-"polymyositis"-noun-0]|TX|2989/12|C05.651.594.819;C10.668.491.562.575
+00000000|MMI|14.64|Bulla|C0005758|[patf]|["BLISTERS"-tx-10-"blisters"-noun-0]|TX|1655/8|C17.800.865.187;C23.300.122
+00000000|MMI|14.64|Eosinophilia|C0014457|[dsyn]|["EOSINOPHILIA"-tx-10-"eosinophilia"-noun-0]|TX|1720/12|C15.378.553.231
+00000000|MMI|14.64|Graves Disease|C0018213|[dsyn]|["GRAVE DISEASE"-tx-18-"Graves disease"-noun-0]|TX|2972/6,2980/7|C11.675.349.500;C19.874.283.605;C19.874.397.370;C20.111.555
+00000000|MMI|14.64|Liver Failure|C0085605|[dsyn]|["HEPATIC FAILURE"-tx-6-"hepatic failure"-noun-0]|TX|948/15|C06.552.308.500
+00000000|MMI|13.05|Fever|C0015967|[fndg]|["FEVER"-tx-10-"fever"-noun-1]|TX|1599/5|C23.888.119.344
+00000000|MMI|11.58|Discontinued|C1444662|[fndg]|["Discontinue"-tx-10-"Discontinue"-verb-0,"Discontinued"-tx-8-"discontinued"-verb-0,"Discontinue"-tx-3-"discontinue"-verb-0]|TX|1408/11;1181/12;269/11|
+00000000|MMI|11.49|Conjunctivitis|C0009763|[dsyn]|["CONJUNCTIVITIS"-tx-10-"conjunctivitis"-noun-0]|TX|1679/14|C11.187.183
+00000000|MMI|11.49|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-10-"fatigue"-noun-0]|TX|1623/7|C23.888.369
+00000000|MMI|11.49|Hepatitis|C0019158|[dsyn]|["HEPATITIS"-tx-10-"hepatitis"-noun-0]|TX|1709/9|C06.552.380
+00000000|MMI|11.07|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-12-"life-threatening"-adj-0,"Life Threatening"-tx-4-"life-threatening"-adj-0,"Life Threatening"-tx-1-"life threatening"-adj-0]|TX|1939/16;565/16;67/16|
+00000000|MMI|11.07|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-12-"life-threatening"-adj-0,"LIFE THREATENING"-tx-4-"life-threatening"-adj-0,"LIFE THREATENING"-tx-1-"life threatening"-adj-0]|TX|1939/16;565/16;67/16|
+00000000|MMI|11.07|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-12-"life-threatening"-adj-0,"LIFE THREATENING"-tx-4-"life-threatening"-adj-0,"LIFE THREATENING"-tx-1-"life threatening"-adj-0]|TX|1939/16;565/16;67/16|
+00000000|MMI|10.42|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-10-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-8-"Adverse Reactions"-noun-0]|TX|1377/17;1233/17|
+00000000|MMI|10.06|Opportunistic Infections|C0029118|[dsyn]|["Opportunistic Infections"-tx-17-"opportunistic infections"-noun-0]|TX|2742/24|C01.539.597;C02.597;C03.684
+00000000|MMI|8.34|Autoimmune Diseases|C0004364|[dsyn]|["Autoimmune Disorders"-tx-18-"Autoimmune disorders"-noun-0]|TX|2942/20|C20.111
+00000000|MMI|7.24|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-11-"therapy"-noun-0,"Therapy"-tx-9-"therapy"-noun-0]|TX|1829/7;1317/7|
+00000000|MMI|7.01|combination - answer to question|C3811910|[fndg]|["Combination"-tx-17-"combination"-noun-0,"Combination"-tx-16-"combination"-noun-0]|TX|2605/11;2513/11|
+00000000|MMI|6.99|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-4-"fatal"-adj-0,"FATAL"-tx-1-"fatal"-adj-0]|TX|587/5;88/5|
+00000000|MMI|6.64|Immune Reconstitution Inflammatory Syndrome|C1619738|[dsyn]|["Immune Reconstitution Syndrome"-tx-16-"Immune Reconstitution Syndrome"-noun-0]|TX|2403/30|C20.608
+00000000|MMI|5.18|Abnormal blistering of the skin|C2132198|[fndg]|["Blisters"-tx-10-"blisters"-noun-0]|TX|1655/8|
+00000000|MMI|5.18|Breast enlargement female|C0235648|[fndg]|["breast enlargement"-tx-13-"breast enlargement"-noun-0]|TX|2151/18|
+00000000|MMI|5.18|Buffalo hump|C0520573|[acab]|["BUFFALO HUMP"-tx-13-"buffalo hump"-noun-0]|TX|2100/12|
+00000000|MMI|5.18|CUSHINGOID APPEARANCE|C0742929|[dsyn]|["CUSHINGOID APPEARANCE"-tx-13-"cushingoid appearance"-noun-0]|TX|2176/21|
+00000000|MMI|5.18|Eosinophilic disorder|C1306759|[dsyn]|["Eosinophilia"-tx-10-"eosinophilia"-noun-0]|TX|1720/12|
+00000000|MMI|5.18|Facial edema|C0542571|[patf]|["FACIAL EDEMA"-tx-10-"facial edema"-noun-0]|TX|1695/12|
+00000000|MMI|5.18|Facial swelling|C0151602|[fndg]|["Facial Oedema"-tx-10-"facial edema"-noun-0]|TX|1695/12|
+00000000|MMI|5.18|Facial wasting|C1112303|[dsyn]|["Facial wasting"-tx-13-"facial wasting"-noun-0]|TX|2135/14|
+00000000|MMI|5.18|Hypertrophy of Breast|C0020565|[patf]|["breast enlargement"-tx-13-"breast enlargement"-noun-0]|TX|2151/18|
+00000000|MMI|5.18|Immune System Finding|C1291764|[fndg]|["IMMUNE SYSTEM"-tx-17-"immune system"-noun-0]|TX|2658/13|
+00000000|MMI|5.18|Macromastia|C2225524|[fndg]|["BREAST ENLARGEMENT"-tx-13-"breast enlargement"-noun-0]|TX|2151/18|
+00000000|MMI|5.18|Malaise|C0231218|[sosy]|["General malaise"-tx-10-"general malaise"-noun-1]|TX|1606/15|
+00000000|MMI|5.18|Mycobacterium avium infection|C1411980|[dsyn]|["Mycobacterium avium infection"-tx-17-"Mycobacterium avium infection"-noun-0]|TX|2776/19,2797/9|
+00000000|MMI|5.18|Oral lesion|C0149744|[fndg]|["Oral lesions"-tx-10-"oral lesions"-noun-0]|TX|1665/12|
+00000000|MMI|5.18|Physical findings|C0311392|[fndg]|["SIGNS"-tx-10-"signs"-noun-0]|TX|1451/5|
+00000000|MMI|5.18|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-7-"Grade 3"-noun-0]|TX|993/7|
+00000000|MMI|5.18|severe allergic reaction|C2220378|[fndg]|["severe Hypersensitivity"-tx-3-"severe hypersensitivity"-noun-0]|TX|294/23|
+00000000|MMI|5.18|severe allergy|C2945656|[fndg]|["severe Hypersensitivity"-tx-3-"severe hypersensitivity"-noun-0]|TX|294/23|
+00000000|MMI|4.12|Constitutional Symptom|C0009812|[sosy]|["Constitutional Finding"-tx-6-"constitutional findings"-noun-0]|TX|880/23|
+00000000|MMI|3.75|Fat hypertrophy|C0406602|[patf]|["Fat enlargement"-tx-13-"fat enlargement"-noun-0]|TX|2083/15|
+00000000|MMI|3.70|Single organ dysfunction|C0349410|[sosy]|["Organ Malfunction"-tx-6-"organ dysfunction"-noun-0]|TX|919/17|
+00000000|MMI|3.68|Wasting|C0235394|[dsyn]|["WASTING"-tx-13-"wasting"-noun-0]|TX|2126/7|
+00000000|MMI|3.64|Limited Walking Ability|C2674459|[fndg]|["Limited"-tx-10-"limited"-verb-1]|TX|1552/7|
+00000000|MMI|3.61|inflammatory response|C1155266|[patf]|["Inflammatory Response"-tx-17-"inflammatory response"-noun-0]|TX|2696/21|
+00000000|MMI|3.60|Symptom severe|C0436345|[fndg]|["severe symptoms"-tx-10-"symptoms severe"-noun-0]|TX|1460/8,1472/6|
+00000000|MMI|3.59|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-10-"fever"-noun-1]|TX|1599/5|
+00000000|MMI|3.55|Experimental Result|C2825142|[fndg]|["Result"-tx-12-"result"-verb-0]|TX|1927/6|
+00000000|MMI|3.54|Accumulation|C4055506|[fndg]|["ACCUMULATION"-tx-13-"accumulation"-noun-0]|TX|2016/12|
+00000000|MMI|3.50|4+ Answer to question|C3838679|[fndg]|["4+"-tx-7-"4"-integer-0]|TX|1005/1|
+00000000|MMI|3.48|Immune reconstitution syndrome|C1096197|[dsyn]|["Immune reconstitution syndrome"-tx-16-"Immune Reconstitution Syndrome"-noun-0]|TX|2403/30|
+00000000|MMI|3.48|systemic symptoms|C2039684|[sosy]|["systemic symptoms"-tx-3-"systemic symptoms"-noun-0]|TX|344/17|
+00000000|MMI|3.43|Fat redistribution|C0856151|[dsyn]|["Fat redistribution"-tx-13-"Fat Redistribution"-noun-0]|TX|1977/18|
+00000000|MMI|3.43|body fat percentage (physical finding)|C0518026|[fndg]|["body fat"-tx-13-"Fat body"-noun-0]|TX|1977/3,2032/4|
+00000000|MMI|3.42|Infected|C0439663|[fndg]|["Infected"-tx-8-"infected"-adj-0]|TX|1137/8|

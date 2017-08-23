@@ -1,0 +1,745 @@
+T1	AdverseReaction 132 148	Hypersensitivity
+T2	AdverseReaction 188 205	Suicidal Thoughts
+T3	AdverseReaction 188 196;210 219	Suicidal Behaviors
+T4	AdverseReaction 300 318	Serotonin Syndrome
+T5	AdverseReaction 367 390	Elevated Blood Pressure
+T6	AdverseReaction 439 456	Abnormal Bleeding
+T7	AdverseReaction 505 527	Angle Closure Glaucoma
+T8	AdverseReaction 591 596	Mania
+T9	AdverseReaction 597 606	Hypomania
+T10	AdverseReaction 728 735	Seizure
+T11	AdverseReaction 655 679	Discontinuation Syndrome
+T12	AdverseReaction 784 796	Hyponatremia
+T13	AdverseReaction 845 870	Interstitial Lung Disease
+T14	AdverseReaction 875 897	Eosinophilic Pneumonia
+T15	AdverseReaction 1073 1079	nausea
+T16	AdverseReaction 1081 1090	dizziness
+T17	AdverseReaction 1092 1100	insomnia
+T18	AdverseReaction 1102 1115	hyperhidrosis
+T19	AdverseReaction 1117 1129	constipation
+T20	AdverseReaction 1131 1141	somnolence
+T21	AdverseReaction 1143 1161	decreased appetite
+T22	AdverseReaction 1163 1170	anxiety
+T23	AdverseReaction 1185 1215	male sexual function disorders
+T24	AdverseReaction 2982 2988	nausea
+T25	AdverseReaction 2995 3004	dizziness
+T26	AdverseReaction 3006 3014	headache
+T27	AdverseReaction 3019 3027	vomiting
+T28	AdverseReaction 3430 3436	nausea
+T29	AdverseReaction 3438 3447	dizziness
+T30	AdverseReaction 3449 3457	insomnia
+T31	AdverseReaction 3459 3472	hyperhidrosis
+T32	AdverseReaction 3474 3486	constipation
+T33	AdverseReaction 3488 3498	somnolence
+T34	AdverseReaction 3500 3518	decreased appetite
+T35	AdverseReaction 3520 3527	anxiety
+T36	AdverseReaction 3542 3572	male sexual function disorders
+T37	AdverseReaction 4316 4340	Blood pressure increased
+T38	AdverseReaction 4467 4473	Nausea
+T39	AdverseReaction 4582 4591	Dry mouth
+T40	AdverseReaction 4697 4709	Constipation
+T41	AdverseReaction 4812 4820	Vomiting
+T42	AdverseReaction 4986 4993	Fatigue
+T43	AdverseReaction 5101 5107	Chills
+T44	AdverseReaction 5216 5231	Feeling jittery
+T45	AdverseReaction 5372 5390	Decreased appetite
+T46	AdverseReaction 5518 5527	Dizziness
+T47	AdverseReaction 5633 5643	Somnolence
+T48	AdverseReaction 5748 5754	Tremor
+T49	AdverseReaction 5863 5887	Disturbance in attention
+T50	AdverseReaction 6011 6019	Insomnia
+T51	AdverseReaction 6126 6133	Anxiety
+T52	AdverseReaction 6241 6252	Nervousness
+T53	AdverseReaction 6356 6375	Abnormal dreams    
+T54	AdverseReaction 6505 6523	Urinary hesitation
+T55	AdverseReaction 6674 6681	Yawning
+T56	AdverseReaction 6834 6847	Hyperhidrosis
+T57	AdverseReaction 6979 6993	Vision blurred
+T58	AdverseReaction 7094 7103	Mydriasis
+T59	AdverseReaction 7209 7216	Vertigo
+T60	AdverseReaction 7324 7332	Tinnitus
+T61	AdverseReaction 7439 7448	Dysgeusia
+T62	AdverseReaction 7584 7595	Hot flush  
+T64	AdverseReaction 8304 8314	Anorgasmia
+T65	AdverseReaction 8419 8434	Libido decrease
+T66	AdverseReaction 8534 8549	Orgasm abnormal
+T67	AdverseReaction 8649 8668	Ejaculation delayed
+T68	AdverseReaction 8767 8787	Erectile dysfunction
+T69	AdverseReaction 8886 8906	Ejaculation disorder
+T70	AdverseReaction 9005 9024	Ejaculation failure
+T71	AdverseReaction 9123 9141	Sexual dysfunction
+T72	AdverseReaction 9441 9451	Anorgasmia
+T73	AdverseReaction 9840 9851	Tachycardia
+T74	AdverseReaction 9919 9927	Asthenia
+T75	AdverseReaction 9957 9973	Weight increased
+T76	AdverseReaction 9975 10003	liver function test abnormal
+T77	AdverseReaction 10005 10030	blood prolactin increased
+T78	AdverseReaction 10093 10118	Musculoskeletal stiffness
+T79	AdverseReaction 10158 10165	Syncope
+T80	AdverseReaction 10167 10177	convulsion
+T81	AdverseReaction 10179 10187	dystonia
+T82	AdverseReaction 10224 10241	Depersonalization
+T83	AdverseReaction 10243 10250	bruxism
+T84	AdverseReaction 10293 10310	Urinary retention
+T85	AdverseReaction 10363 10367	Rash
+T86	AdverseReaction 10369 10377	alopecia
+T87	AdverseReaction 10379 10395	photosensitivity
+T88	AdverseReaction 10406 10416	angioedema
+T89	AdverseReaction 10474 10508	ischemic cardiac adverse reactions
+T90	AdverseReaction 10520 10539	myocardial ischemia
+T91	AdverseReaction 10541 10562	myocardial infarction
+T92	AdverseReaction 10568 10586	coronary occlusion
+T94	AdverseReaction 10990 11035	Elevations in fasting serum total cholesterol
+T95	AdverseReaction 10990 11017;11037 11040	Elevations in fasting serum LDL
+T96	AdverseReaction 10990 11017;11042 11066	Elevations in fasting serum low density lipoproteins
+T97	AdverseReaction 10990 11017;11068 11079	Elevations in fasting serum cholesterol
+T98	AdverseReaction 10990 11017;11085 11098	Elevations in fasting serum triglycerides
+T99	AdverseReaction 11592 11609;11660 11672	Total Cholesterol >= 261 mg/dl
+T100	AdverseReaction 11751 11766;11814 11826	LDL Cholesterol >= 190 mg/dl
+T101	AdverseReaction 11905 11927;11938 11950	Triglycerides, fasting >= 327 mg/dl
+T102	AdverseReaction 12065 12076	Proteinuria
+T103	AdverseReaction 12197 12208	proteinuria
+T104	AdverseReaction 12233 12249	increases in BUN
+T105	AdverseReaction 12233 12242;12253 12263	increases creatinine
+T106	Negation 12213 12216	not
+T107	Severity 12282 12291	transient
+T108	AdverseReaction 12557 12568	Proteinuria
+T109	AdverseReaction 12337 12348	Proteinuria
+T110	AdverseReaction 13795 13807	hypertension
+T111	Severity 13785 13794	sustained
+T112	AdverseReaction 14080 14092	hypertension
+T113	Severity 14070 14079	sustained
+T114	AdverseReaction 14178 14190	hypertension
+T115	Severity 14168 14177	sustained
+T116	AdverseReaction 13839 13870;13878 13888	supine diastolic blood pressure >=90 mm Hg
+T117	AdverseReaction 14324 14368	Elevation of Supine Diastolic Blood Pressure
+T118	Severity 14314 14323	Sustained
+T119	AdverseReaction 15110 15142	systolic orthostatic hypotension
+T120	AdverseReaction 15796 15820	Stevens-Johnson syndrome
+T121	AdverseReaction 3099 3107	vomiting
+T63	AdverseReaction 7782 7815	sexual function adverse reactions
+T122	AdverseReaction 7990 8023	Sexual Function Adverse Reactions
+T123	AdverseReaction 11356 11375	Lipid Abnormalities
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91
+E92	AdverseReaction:T92
+E94	AdverseReaction:T94
+E95	AdverseReaction:T95
+E96	AdverseReaction:T96
+E97	AdverseReaction:T97
+E98	AdverseReaction:T98
+E99	AdverseReaction:T99
+E100	AdverseReaction:T100
+E101	AdverseReaction:T101
+E102	AdverseReaction:T102
+E103	AdverseReaction:T103 Effect:E107
+E104	AdverseReaction:T104 Negated:E106
+E105	AdverseReaction:T105 Negated:E106
+E106	Negation:T106
+E107	Severity:T107
+E108	AdverseReaction:T108
+E109	AdverseReaction:T109
+E110	AdverseReaction:T110 Effect:E111
+E111	Severity:T111
+E112	AdverseReaction:T112 Effect:E113
+E113	Severity:T113
+E114	AdverseReaction:T114 Effect:E115
+E115	Severity:T115
+E116	AdverseReaction:T116
+E117	AdverseReaction:T117 Effect:E118
+E118	Severity:T118
+E119	AdverseReaction:T119
+E120	AdverseReaction:T120
+E121	AdverseReaction:T121
+E63	AdverseReaction:T63
+E122	AdverseReaction:T122
+E123	AdverseReaction:T123
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	CUI E2 C0424000
+A6	UMLS-Preferred-Name E2 Feeling suicidal (finding)
+A7	MEDDRA-PT E2 Suicidal ideation
+A8	MEDDRA-PT-ID E2 10042458
+A9	CUI E3 C1760428
+A10	UMLS-Preferred-Name E3 Suicidal behavior
+A11	MEDDRA-PT E3 Suicidal behaviour
+A12	MEDDRA-PT-ID E3 10065604
+A13	LLT E3 Suicidal behavior
+A14	LLT-ID E3 10065607
+A15	CUI E4 C0699828
+A16	UMLS-Preferred-Name E4 Serotonin Syndrome
+A17	MEDDRA-PT E4 Serotonin syndrome
+A18	MEDDRA-PT-ID E4 10040108
+A19	CUI E5 C0497247
+A20	UMLS-Preferred-Name E5 Increase in blood pressure
+A21	MEDDRA-PT E5 Blood pressure increased
+A22	MEDDRA-PT-ID E5 10005750
+A23	CUI E6 C1458140
+A24	UMLS-Preferred-Name E6 Bleeding tendency
+A25	MEDDRA-PT E6 Haemorrhagic disorder
+A26	MEDDRA-PT-ID E6 10019009
+A27	LLT E6 Hemorrhage abnormal
+A28	LLT-ID E6 10055261
+A29	CUI E7 C0017605
+A30	UMLS-Preferred-Name E7 Angle Closure Glaucoma
+A31	MEDDRA-PT E7 Angle closure glaucoma
+A32	MEDDRA-PT-ID E7 10002500
+A33	CUI E8 C0338831
+A34	UMLS-Preferred-Name E8 Manic
+A35	MEDDRA-PT E8 Mania
+A36	MEDDRA-PT-ID E8 10026749
+A37	CUI E9 C0241934
+A38	UMLS-Preferred-Name E9 Hypomania
+A39	MEDDRA-PT E9 Hypomania
+A40	MEDDRA-PT-ID E9 10021030
+A41	CUI E10 C0036572
+A42	UMLS-Preferred-Name E10 Seizures
+A43	MEDDRA-PT E10 Seizure
+A44	MEDDRA-PT-ID E10 10039906
+A45	CUI E11 C0152128
+A46	UMLS-Preferred-Name E11 Drug withdrawal syndrome
+A47	MEDDRA-PT E11 Drug withdrawal syndrome
+A48	MEDDRA-PT-ID E11 10013754
+A49	CUI E12 C0020625
+A50	UMLS-Preferred-Name E12 Hyponatremia
+A51	MEDDRA-PT E12 Hyponatraemia
+A52	MEDDRA-PT-ID E12 10021036
+A53	LLT E12 Hyponatremia
+A54	LLT-ID E12 10021038
+A55	CUI E13 C0206062
+A56	UMLS-Preferred-Name E13 Lung Diseases, Interstitial
+A57	MEDDRA-PT E13 Interstitial lung disease
+A58	MEDDRA-PT-ID E13 10022611
+A59	CUI E14 C1527407
+A60	UMLS-Preferred-Name E14 Eosinophilic Pneumonia
+A61	MEDDRA-PT E14 Eosinophilic pneumonia
+A62	MEDDRA-PT-ID E14 10014962
+A63	CUI E15 C0027497
+A64	UMLS-Preferred-Name E15 Nausea
+A65	MEDDRA-PT E15 Nausea
+A66	MEDDRA-PT-ID E15 10028813
+A67	CUI E16 C0012833
+A68	UMLS-Preferred-Name E16 Dizziness
+A69	MEDDRA-PT E16 Dizziness
+A70	MEDDRA-PT-ID E16 10013573
+A71	CUI E17 C0917801
+A72	UMLS-Preferred-Name E17 Sleeplessness
+A73	MEDDRA-PT E17 Insomnia
+A74	MEDDRA-PT-ID E17 10022437
+A75	CUI E18 C0020458
+A76	UMLS-Preferred-Name E18 Hyperhidrosis disorder
+A77	MEDDRA-PT E18 Hyperhidrosis
+A78	MEDDRA-PT-ID E18 10020642
+A79	CUI E19 C0009806
+A80	UMLS-Preferred-Name E19 Constipation
+A81	MEDDRA-PT E19 Constipation
+A82	MEDDRA-PT-ID E19 10010774
+A83	CUI E20 C2830004
+A84	UMLS-Preferred-Name E20 Somnolence
+A85	MEDDRA-PT E20 Somnolence
+A86	MEDDRA-PT-ID E20 10041349
+A87	CUI E21 C0232462
+A88	UMLS-Preferred-Name E21 Decrease in appetite
+A89	MEDDRA-PT E21 Decreased appetite
+A90	MEDDRA-PT-ID E21 10061428
+A91	CUI E22 C0003467
+A92	UMLS-Preferred-Name E22 Anxiety
+A93	MEDDRA-PT E22 Anxiety
+A94	MEDDRA-PT-ID E22 10002855
+A95	CUI E23 C1112443
+A96	UMLS-Preferred-Name E23 Male sexual dysfunction
+A97	MEDDRA-PT E23 Male sexual dysfunction
+A98	MEDDRA-PT-ID E23 10057672
+A99	CUI E24 C0027497
+A100	UMLS-Preferred-Name E24 Nausea
+A101	MEDDRA-PT E24 Nausea
+A102	MEDDRA-PT-ID E24 10028813
+A103	CUI E25 C0012833
+A104	UMLS-Preferred-Name E25 Dizziness
+A105	MEDDRA-PT E25 Dizziness
+A106	MEDDRA-PT-ID E25 10013573
+A107	CUI E26 C0018681
+A108	UMLS-Preferred-Name E26 Headache
+A109	MEDDRA-PT E26 Headache
+A110	MEDDRA-PT-ID E26 10019211
+A111	CUI E27 C0042963
+A112	UMLS-Preferred-Name E27 Vomiting
+A113	MEDDRA-PT E27 Vomiting
+A114	MEDDRA-PT-ID E27 10047700
+A115	CUI E28 C0027497
+A116	UMLS-Preferred-Name E28 Nausea
+A117	MEDDRA-PT E28 Nausea
+A118	MEDDRA-PT-ID E28 10028813
+A119	CUI E29 C0012833
+A120	UMLS-Preferred-Name E29 Dizziness
+A121	MEDDRA-PT E29 Dizziness
+A122	MEDDRA-PT-ID E29 10013573
+A123	CUI E30 C0917801
+A124	UMLS-Preferred-Name E30 Sleeplessness
+A125	MEDDRA-PT E30 Insomnia
+A126	MEDDRA-PT-ID E30 10022437
+A127	CUI E31 C0020458
+A128	UMLS-Preferred-Name E31 Hyperhidrosis disorder
+A129	MEDDRA-PT E31 Hyperhidrosis
+A130	MEDDRA-PT-ID E31 10020642
+A131	CUI E32 C0009806
+A132	UMLS-Preferred-Name E32 Constipation
+A133	MEDDRA-PT E32 Constipation
+A134	MEDDRA-PT-ID E32 10010774
+A135	CUI E33 C2830004
+A136	UMLS-Preferred-Name E33 Somnolence
+A137	MEDDRA-PT E33 Somnolence
+A138	MEDDRA-PT-ID E33 10041349
+A139	CUI E34 C0232462
+A140	UMLS-Preferred-Name E34 Decrease in appetite
+A141	MEDDRA-PT E34 Decreased appetite
+A142	MEDDRA-PT-ID E34 10061428
+A143	CUI E35 C0003467
+A144	UMLS-Preferred-Name E35 Anxiety
+A145	MEDDRA-PT E35 Anxiety
+A146	MEDDRA-PT-ID E35 10002855
+A147	CUI E36 C1112443
+A148	UMLS-Preferred-Name E36 Male sexual dysfunction
+A149	MEDDRA-PT E36 Male sexual dysfunction
+A150	MEDDRA-PT-ID E36 10057672
+A151	CUI E37 C0497247
+A152	UMLS-Preferred-Name E37 Increase in blood pressure
+A153	MEDDRA-PT E37 Blood pressure increased
+A154	MEDDRA-PT-ID E37 10005750
+A155	CUI E38 C0027497
+A156	UMLS-Preferred-Name E38 Nausea
+A157	MEDDRA-PT E38 Nausea
+A158	MEDDRA-PT-ID E38 10028813
+A159	CUI E39 C0043352
+A160	UMLS-Preferred-Name E39 Xerostomia
+A161	MEDDRA-PT E39 Dry mouth
+A162	MEDDRA-PT-ID E39 10013781
+A163	CUI E40 C0009806
+A164	UMLS-Preferred-Name E40 Constipation
+A165	MEDDRA-PT E40 Constipation
+A166	MEDDRA-PT-ID E40 10010774
+A167	CUI E41 C0042963
+A168	UMLS-Preferred-Name E41 Vomiting
+A169	MEDDRA-PT E41 Vomiting
+A170	MEDDRA-PT-ID E41 10047700
+A171	CUI E42 C0015672
+A172	UMLS-Preferred-Name E42 Fatigue
+A173	MEDDRA-PT E42 Fatigue
+A174	MEDDRA-PT-ID E42 10016256
+A175	CUI E43 C0085593
+A176	UMLS-Preferred-Name E43 Chills
+A177	MEDDRA-PT E43 Chills
+A178	MEDDRA-PT-ID E43 10008531
+A179	CUI E44 C0549209
+A180	UMLS-Preferred-Name E44 Feeling jittery
+A181	MEDDRA-PT E44 Feeling jittery
+A182	MEDDRA-PT-ID E44 10016338
+A183	CUI E45 C0232462
+A184	UMLS-Preferred-Name E45 Decrease in appetite
+A185	MEDDRA-PT E45 Decreased appetite
+A186	MEDDRA-PT-ID E45 10061428
+A187	CUI E46 C0012833
+A188	UMLS-Preferred-Name E46 Dizziness
+A189	MEDDRA-PT E46 Dizziness
+A190	MEDDRA-PT-ID E46 10013573
+A191	CUI E47 C2830004
+A192	UMLS-Preferred-Name E47 Somnolence
+A193	MEDDRA-PT E47 Somnolence
+A194	MEDDRA-PT-ID E47 10041349
+A195	CUI E48 C0040822
+A196	UMLS-Preferred-Name E48 Tremor
+A197	MEDDRA-PT E48 Tremor
+A198	MEDDRA-PT-ID E48 10044565
+A199	CUI E49 C0233414
+A200	UMLS-Preferred-Name E49 Disturbance of attention
+A201	MEDDRA-PT E49 Disturbance in attention
+A202	MEDDRA-PT-ID E49 10013496
+A203	CUI E50 C0917801
+A204	UMLS-Preferred-Name E50 Sleeplessness
+A205	MEDDRA-PT E50 Insomnia
+A206	MEDDRA-PT-ID E50 10022437
+A207	CUI E51 C0003467
+A208	UMLS-Preferred-Name E51 Anxiety
+A209	MEDDRA-PT E51 Anxiety
+A210	MEDDRA-PT-ID E51 10002855
+A211	CUI E52 C0027769
+A212	UMLS-Preferred-Name E52 Nervousness
+A213	MEDDRA-PT E52 Nervousness
+A214	MEDDRA-PT-ID E52 10029216
+A215	CUI E53 C0234458
+A216	UMLS-Preferred-Name E53 Dream disorder
+A217	MEDDRA-PT E53 Abnormal dreams
+A218	MEDDRA-PT-ID E53 10000125
+A219	CUI E54 C0152032
+A220	UMLS-Preferred-Name E54 Urinary hesitation
+A221	MEDDRA-PT E54 Urinary hesitation
+A222	MEDDRA-PT-ID E54 10046542
+A223	CUI E55 C0043387
+A224	UMLS-Preferred-Name E55 Yawning
+A225	MEDDRA-PT E55 Yawning
+A226	MEDDRA-PT-ID E55 10048232
+A227	CUI E56 C0020458
+A228	UMLS-Preferred-Name E56 Hyperhidrosis disorder
+A229	MEDDRA-PT E56 Hyperhidrosis
+A230	MEDDRA-PT-ID E56 10020642
+A231	CUI E57 C0344232
+A232	UMLS-Preferred-Name E57 Blurred vision
+A233	MEDDRA-PT E57 Vision blurred
+A234	MEDDRA-PT-ID E57 10047513
+A235	CUI E58 C0026961
+A236	UMLS-Preferred-Name E58 Mydriasis
+A237	MEDDRA-PT E58 Mydriasis
+A238	MEDDRA-PT-ID E58 10028521
+A239	CUI E59 C0042571
+A240	UMLS-Preferred-Name E59 Vertigo
+A241	MEDDRA-PT E59 Vertigo
+A242	MEDDRA-PT-ID E59 10047340
+A243	CUI E60 C0040264
+A244	UMLS-Preferred-Name E60 Tinnitus
+A245	MEDDRA-PT E60 Tinnitus
+A246	MEDDRA-PT-ID E60 10043882
+A247	CUI E61 C0013378
+A248	UMLS-Preferred-Name E61 Dysgeusia
+A249	MEDDRA-PT E61 Dysgeusia
+A250	MEDDRA-PT-ID E61 10013911
+A251	CUI E62 C0600142
+A252	UMLS-Preferred-Name E62 Hot flushes
+A253	MEDDRA-PT E62 Hot flush
+A254	MEDDRA-PT-ID E62 10060800
+A255	CUI E64 C0234022
+A256	UMLS-Preferred-Name E64 Orgasm incapacity
+A257	MEDDRA-PT E64 Anorgasmia
+A258	MEDDRA-PT-ID E64 10002652
+A259	CUI E65 C0011124
+A260	UMLS-Preferred-Name E65 Decreased Libido
+A261	MEDDRA-PT E65 Libido decreased
+A262	MEDDRA-PT-ID E65 10024419
+A263	CUI E66 C0029261
+A264	UMLS-Preferred-Name E66 Orgasmic Disorder
+A265	MEDDRA-PT E66 Orgasm abnormal
+A266	MEDDRA-PT-ID E66 10031085
+A267	CUI E67 C0234047
+A268	UMLS-Preferred-Name E67 Late ejaculation
+A269	MEDDRA-PT E67 Ejaculation delayed
+A270	MEDDRA-PT-ID E67 10014325
+A271	CUI E68 C0242350
+A272	UMLS-Preferred-Name E68 Erectile dysfunction
+A273	MEDDRA-PT E68 Erectile dysfunction
+A274	MEDDRA-PT-ID E68 10061461
+A275	CUI E69 C0235969
+A276	UMLS-Preferred-Name E69 Disorder of ejaculation
+A277	MEDDRA-PT E69 Ejaculation disorder
+A278	MEDDRA-PT-ID E69 10014326
+A279	CUI E70 C0278106
+A280	UMLS-Preferred-Name E70 Anejaculation
+A281	MEDDRA-PT E70 Ejaculation failure
+A282	MEDDRA-PT-ID E70 10014328
+A283	CUI E71 C0549622
+A284	UMLS-Preferred-Name E71 Sexual Dysfunction
+A285	MEDDRA-PT E71 Sexual dysfunction
+A286	MEDDRA-PT-ID E71 10040477
+A287	CUI E72 C0234022
+A288	UMLS-Preferred-Name E72 Orgasm incapacity
+A289	MEDDRA-PT E72 Anorgasmia
+A290	MEDDRA-PT-ID E72 10002652
+A291	CUI E73 C0039231
+A292	UMLS-Preferred-Name E73 Tachycardia
+A293	MEDDRA-PT E73 Tachycardia
+A294	MEDDRA-PT-ID E73 10043071
+A295	CUI E74 C0004093
+A296	UMLS-Preferred-Name E74 Asthenia
+A297	MEDDRA-PT E74 Asthenia
+A298	MEDDRA-PT-ID E74 10003549
+A299	CUI E75 C0043094
+A300	UMLS-Preferred-Name E75 Weight Gain
+A301	MEDDRA-PT E75 Weight increased
+A302	MEDDRA-PT-ID E75 10047899
+A303	CUI E76 C0151766
+A304	UMLS-Preferred-Name E76 Liver function tests abnormal finding
+A305	MEDDRA-PT E76 Liver function test abnormal
+A306	MEDDRA-PT-ID E76 10024690
+A307	CUI E77 C0854082
+A308	UMLS-Preferred-Name E77 Blood prolactin increased
+A309	MEDDRA-PT E77 Blood prolactin increased
+A310	MEDDRA-PT-ID E77 10005780
+A311	CUI E78 C0948525
+A312	UMLS-Preferred-Name E78 Musculoskeletal stiffness
+A313	MEDDRA-PT E78 Musculoskeletal stiffness
+A314	MEDDRA-PT-ID E78 10052904
+A315	CUI E79 C0039070
+A316	UMLS-Preferred-Name E79 Syncope
+A317	MEDDRA-PT E79 Syncope
+A318	MEDDRA-PT-ID E79 10042772
+A319	CUI E80 C0036572
+A320	UMLS-Preferred-Name E80 Seizures
+A321	MEDDRA-PT E80 Seizure
+A322	MEDDRA-PT-ID E80 10039906
+A323	LLT E80 Convulsion
+A324	LLT-ID E80 10010904
+A325	CUI E81 C0013421
+A326	UMLS-Preferred-Name E81 Dystonia
+A327	MEDDRA-PT E81 Dystonia
+A328	MEDDRA-PT-ID E81 10013983
+A329	CUI E82 C0011551
+A330	UMLS-Preferred-Name E82 Depersonalization
+A331	MEDDRA-PT E82 Depersonalisation
+A332	MEDDRA-PT-ID E82 10012357
+A333	LLT E82 Depersonalization
+A334	LLT-ID E82 10012359
+A335	CUI E83 C0006325
+A336	UMLS-Preferred-Name E83 Bruxism
+A337	MEDDRA-PT E83 Bruxism
+A338	MEDDRA-PT-ID E83 10006514
+A339	CUI E84 C0080274
+A340	UMLS-Preferred-Name E84 Urinary Retention
+A341	MEDDRA-PT E84 Urinary retention
+A342	MEDDRA-PT-ID E84 10046555
+A343	CUI E85 C0015230
+A344	UMLS-Preferred-Name E85 Exanthema
+A345	MEDDRA-PT E85 Rash
+A346	MEDDRA-PT-ID E85 10037844
+A347	CUI E86 C0002170
+A348	UMLS-Preferred-Name E86 Alopecia
+A349	MEDDRA-PT E86 Alopecia
+A350	MEDDRA-PT-ID E86 10001760
+A351	CUI E87 C0349506
+A352	UMLS-Preferred-Name E87 Photosensitivity of skin
+A353	MEDDRA-PT E87 Photosensitivity reaction
+A354	MEDDRA-PT-ID E87 10034972
+A355	LLT E87 Photosensitivity
+A356	LLT-ID E87 10034966
+A357	CUI E88 C0002994
+A358	UMLS-Preferred-Name E88 Angioedema
+A359	MEDDRA-PT E88 Angioedema
+A360	MEDDRA-PT-ID E88 10002424
+A361	CUI E89 C0151744
+A362	UMLS-Preferred-Name E89 Myocardial Ischemia
+A363	MEDDRA-PT E89 Myocardial ischaemia
+A364	MEDDRA-PT-ID E89 10028600
+A365	LLT E89 Ischemic heart disease
+A366	LLT-ID E89 10055218
+A367	CUI E90 C0151744
+A368	UMLS-Preferred-Name E90 Myocardial Ischemia
+A369	MEDDRA-PT E90 Myocardial ischaemia
+A370	MEDDRA-PT-ID E90 10028600
+A371	LLT E90 Myocardial ischemia
+A372	LLT-ID E90 10028601
+A373	CUI E91 C0027051
+A374	UMLS-Preferred-Name E91 Myocardial Infarction
+A375	MEDDRA-PT E91 Myocardial infarction
+A376	MEDDRA-PT-ID E91 10028596
+A377	CUI E92 C0151814
+A378	UMLS-Preferred-Name E92 Coronary Occlusion
+A379	MEDDRA-PT E92 Coronary artery occlusion
+A380	MEDDRA-PT-ID E92 10011086
+A381	LLT E92 Coronary occlusion
+A382	LLT-ID E92 10011103
+A383	CUI E94 C0595929
+A384	UMLS-Preferred-Name E94 Serum cholesterol raised
+A385	MEDDRA-PT E94 Blood cholesterol increased
+A386	MEDDRA-PT-ID E94 10005425
+A387	LLT E94 Cholesterol serum increased
+A388	LLT-ID E94 10008667
+A389	CUI E95 C0549399
+A390	UMLS-Preferred-Name E95 Low density lipoprotein increased
+A391	MEDDRA-PT E95 Low density lipoprotein increased
+A392	MEDDRA-PT-ID E95 10024910
+A393	CUI E96 C0549399
+A394	UMLS-Preferred-Name E96 Low density lipoprotein increased
+A395	MEDDRA-PT E96 Low density lipoprotein increased
+A396	MEDDRA-PT-ID E96 10024910
+A397	CUI E97 C0595929
+A398	UMLS-Preferred-Name E97 Serum cholesterol raised
+A399	MEDDRA-PT E97 Blood cholesterol increased
+A400	MEDDRA-PT-ID E97 10005425
+A401	LLT E97 Serum cholesterol increased
+A402	LLT-ID E97 10040190
+A403	CUI E98 C2874288
+A404	UMLS-Preferred-Name E98 Elevated fasting triglycerides
+A405	MEDDRA-PT E98 Blood triglycerides increased
+A406	MEDDRA-PT-ID E98 10005839
+A407	LLT E98 Triglycerides elevated serum
+A408	LLT-ID E98 10044664
+A409	CUI E99 C1522133
+A410	UMLS-Preferred-Name E99 Hypercholesterolemia result
+A411	MEDDRA-PT E99 Blood cholesterol increased
+A412	MEDDRA-PT-ID E99 10005425
+A413	LLT E99 Cholesterol total increased
+A414	LLT-ID E99 10008671
+A415	CUI E100 C0549399
+A416	UMLS-Preferred-Name E100 Low density lipoprotein increased
+A417	MEDDRA-PT E100 Low density lipoprotein increased
+A418	MEDDRA-PT-ID E100 10024910
+A419	LLT E100 LDL cholesterol increased
+A420	LLT-ID E100 10024055
+A421	CUI E101 C1522137
+A422	UMLS-Preferred-Name E101 Hypertriglyceridemia result
+A423	MEDDRA-PT E101 Blood triglycerides increased
+A424	MEDDRA-PT-ID E101 10005839
+A425	LLT E101 Triglycerides high
+A426	LLT-ID E101 10052373
+A427	CUI E102 C0033687
+A428	UMLS-Preferred-Name E102 Proteinuria
+A429	MEDDRA-PT E102 Proteinuria
+A430	MEDDRA-PT-ID E102 10037032
+A431	CUI E103 C0033687
+A432	UMLS-Preferred-Name E103 Proteinuria
+A433	MEDDRA-PT E103 Proteinuria
+A434	MEDDRA-PT-ID E103 10037032
+A435	CUI E104 C0151539
+A436	UMLS-Preferred-Name E104 Blood urea increased
+A437	MEDDRA-PT E104 Blood urea increased
+A438	MEDDRA-PT-ID E104 10005851
+A439	LLT E104 BUN increased
+A440	LLT-ID E104 10006576
+A441	CUI E105 C0151578
+A442	UMLS-Preferred-Name E105 Creatinine increased
+A443	MEDDRA-PT E105 Blood creatinine increased
+A444	MEDDRA-PT-ID E105 10005483
+A445	LLT E105 Creatinine increased
+A446	LLT-ID E105 10011368
+A447	CUI E108 C0033687
+A448	UMLS-Preferred-Name E108 Proteinuria
+A449	MEDDRA-PT E108 Proteinuria
+A450	MEDDRA-PT-ID E108 10037032
+A451	CUI E109 C0033687
+A452	UMLS-Preferred-Name E109 Proteinuria
+A453	MEDDRA-PT E109 Proteinuria
+A454	MEDDRA-PT-ID E109 10037032
+A455	CUI E110 C0020538
+A456	UMLS-Preferred-Name E110 Hypertensive disease
+A457	MEDDRA-PT E110 Hypertension
+A458	MEDDRA-PT-ID E110 10020772
+A459	CUI E112 C0020538
+A460	UMLS-Preferred-Name E112 Hypertensive disease
+A461	MEDDRA-PT E112 Hypertension
+A462	MEDDRA-PT-ID E112 10020772
+A463	CUI E114 C0020538
+A464	UMLS-Preferred-Name E114 Hypertensive disease
+A465	MEDDRA-PT E114 Hypertension
+A466	MEDDRA-PT-ID E114 10020772
+A467	flag E116 underspecified
+A468	CUI E116 C0277889
+A469	UMLS-Preferred-Name E116 Increased diastolic arterial pressure
+A470	MEDDRA-PT E116 Blood pressure diastolic increased
+A471	MEDDRA-PT-ID E116 10005739
+A472	CUI E117 C0277889
+A473	UMLS-Preferred-Name E117 Increased diastolic arterial pressure
+A474	MEDDRA-PT E117 Blood pressure diastolic increased
+A475	MEDDRA-PT-ID E117 10005739
+A476	CUI E119 C0020651
+A477	UMLS-Preferred-Name E119 Hypotension, Orthostatic
+A478	MEDDRA-PT E119 Orthostatic hypotension
+A479	MEDDRA-PT-ID E119 10031127
+A480	LLT E119 Hypotension orthostatic
+A481	LLT-ID E119 10021100
+A482	CUI E120 C0038325
+A483	UMLS-Preferred-Name E120 Stevens-Johnson Syndrome
+A484	MEDDRA-PT E120 Stevens-Johnson syndrome
+A485	MEDDRA-PT-ID E120 10042033
+A486	CUI E121 C0042963
+A487	UMLS-Preferred-Name E121 Vomiting
+A488	MEDDRA-PT E121 Vomiting
+A489	MEDDRA-PT-ID E121 10047700
+A490	CUI E63 C0549622
+A491	UMLS-Preferred-Name E63 Sexual Dysfunction
+A492	MEDDRA-PT E63 Sexual dysfunction
+A493	MEDDRA-PT-ID E63 10040477
+A494	CUI E122 C0549622
+A495	UMLS-Preferred-Name E122 Sexual Dysfunction
+A496	MEDDRA-PT E122 Sexual dysfunction
+A497	MEDDRA-PT-ID E122 10040477
+A498	CUI E123 C0549634
+A499	UMLS-Preferred-Name E123 Lipids abnormal
+A500	MEDDRA-PT E123 Lipids abnormal
+A501	MEDDRA-PT-ID E123 10024588

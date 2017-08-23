@@ -1,0 +1,274 @@
+T1	AdverseReaction 838 848	somnolence
+T2	AdverseReaction 853 861	sedation
+T3	AdverseReaction 883 893	somnolence
+T4	AdverseReaction 897 905	sedation
+T5	AdverseReaction 980 990	somnolence
+T6	AdverseReaction 995 1003	sedation
+T23	AdverseReaction 2967 2981	skin reactions
+T24	Severity 2959 2966	Serious
+T25	AdverseReaction 2993 3017	Stevens-Johnson syndrome
+T26	AdverseReaction 3019 3022	SJS
+T27	AdverseReaction 3028 3054	toxic epidermal necrolysis
+T28	AdverseReaction 3056 3059	TEN
+T29	AdverseReaction 3997 4014	suicidal thoughts
+T30	AdverseReaction 3997 4005;4018 4026	suicidal behavior
+T31	Factor 3989 3993	risk
+T32	AdverseReaction 4542 4559	suicidal thinking
+T33	AdverseReaction 4542 4550;4563 4571	suicidal behavior
+T35	AdverseReaction 4716 4733	suicidal behavior
+T36	AdverseReaction 4716 4724;4737 4745	suicidal ideation
+T37	AdverseReaction 4902 4919	suicidal thinking
+T38	AdverseReaction 4902 4910;4923 4931	suicidal behavior
+T39	AdverseReaction 4980 4988	suicides
+T40	AdverseReaction 5139 5146	suicide
+T41	AdverseReaction 5174 5191	suicidal thoughts
+T42	AdverseReaction 5174 5182;5195 5203	suicidal behavior
+T44	DrugClass 5209 5213	AEDs
+T45	DrugClass 4381 4385	AEDs
+T46	DrugClass 4759 4762	AED
+T47	AdverseReaction 5516 5533	suicidal thoughts
+T48	AdverseReaction 5516 5524;5537 5545	suicidal behavior
+T49	Factor 5508 5512	risk
+T52	AdverseReaction 6721 6738	suicidal thoughts
+T53	AdverseReaction 6721 6729;6742 6750	suicidal behavior
+T54	Factor 6712 6716	risk
+T55	AdverseReaction 55 65	Somnolence
+T56	AdverseReaction 69 77	Sedation
+T57	AdverseReaction 352 376	Dermatological Reactions
+T58	Severity 344 351	Serious
+T59	AdverseReaction 387 411	Stevens-Johnson syndrome
+T60	AdverseReaction 416 442	toxic epidermal necrolysis
+T61	AdverseReaction 556 580	Psychological Dependence
+T62	AdverseReaction 543 551;570 580	Physical Dependence
+T63	AdverseReaction 694 711	Suicidal Behavior
+T64	AdverseReaction 694 702;716 724	Suicidal Ideation
+T7	AdverseReaction 5431 5448	suicidal thoughts
+T8	AdverseReaction 5431 5439;5452 5460	suicidal behavior
+T9	Factor 5423 5427	risk
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E23	AdverseReaction:T23 Effect:E24
+E24	Severity:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29 Hypothetical:E31
+E30	AdverseReaction:T30 Hypothetical:E31
+E31	Factor:T31
+E32	AdverseReaction:T32 Hypothetical2:E45
+E33	AdverseReaction:T33 Hypothetical2:E45
+E35	AdverseReaction:T35 Hypothetical:E46
+E36	AdverseReaction:T36 Hypothetical:E46
+E37	AdverseReaction:T37 Hypothetical:E46
+E38	AdverseReaction:T38 Hypothetical:E46
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41 Hypothetical2:E44
+E42	AdverseReaction:T42 Hypothetical2:E44
+E44	DrugClass:T44
+E45	DrugClass:T45
+E46	DrugClass:T46
+E47	AdverseReaction:T47 Hypothetical:E49
+E48	AdverseReaction:T48 Hypothetical:E49
+E49	Factor:T49
+E52	AdverseReaction:T52 Hypothetical:E54
+E53	AdverseReaction:T53 Hypothetical:E54
+E54	Factor:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57 Effect:E58
+E58	Severity:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E7	AdverseReaction:T7 Hypothetical:E9
+E8	AdverseReaction:T8 Hypothetical:E9
+E9	Factor:T9
+A1	CUI E1 C2830004
+A2	UMLS-Preferred-Name E1 Somnolence
+A3	MEDDRA-PT E1 Somnolence
+A4	MEDDRA-PT-ID E1 10041349
+A5	CUI E2 C0235195
+A6	UMLS-Preferred-Name E2 Sedated state
+A7	MEDDRA-PT E2 Sedation
+A8	MEDDRA-PT-ID E2 10039897
+A9	CUI E3 C2830004
+A10	UMLS-Preferred-Name E3 Somnolence
+A11	MEDDRA-PT E3 Somnolence
+A12	MEDDRA-PT-ID E3 10041349
+A13	CUI E4 C0235195
+A14	UMLS-Preferred-Name E4 Sedated state
+A15	MEDDRA-PT E4 Sedation
+A16	MEDDRA-PT-ID E4 10039897
+A17	CUI E5 C2830004
+A18	UMLS-Preferred-Name E5 Somnolence
+A19	MEDDRA-PT E5 Somnolence
+A20	MEDDRA-PT-ID E5 10041349
+A21	CUI E6 C0235195
+A22	UMLS-Preferred-Name E6 Sedated state
+A23	MEDDRA-PT E6 Sedation
+A24	MEDDRA-PT-ID E6 10039897
+A25	CUI E23 C0221743
+A26	UMLS-Preferred-Name E23 Skin reaction
+A27	MEDDRA-PT E23 Skin reaction
+A28	MEDDRA-PT-ID E23 10040914
+A29	CUI E25 C0038325
+A30	UMLS-Preferred-Name E25 Stevens-Johnson Syndrome
+A31	MEDDRA-PT E25 Stevens-Johnson syndrome
+A32	MEDDRA-PT-ID E25 10042033
+A33	CUI E26 C0038325
+A34	UMLS-Preferred-Name E26 Stevens-Johnson Syndrome
+A35	MEDDRA-PT E26 Stevens-Johnson syndrome
+A36	MEDDRA-PT-ID E26 10042033
+A37	CUI E27 C0014518
+A38	UMLS-Preferred-Name E27 Toxic Epidermal Necrolysis
+A39	MEDDRA-PT E27 Toxic epidermal necrolysis
+A40	MEDDRA-PT-ID E27 10044223
+A41	CUI E28 C0014518
+A42	UMLS-Preferred-Name E28 Toxic Epidermal Necrolysis
+A43	MEDDRA-PT E28 Toxic epidermal necrolysis
+A44	MEDDRA-PT-ID E28 10044223
+A45	LLT E28 TEN
+A46	LLT-ID E28 10043221
+A47	CUI E29 C0424000
+A48	UMLS-Preferred-Name E29 Feeling suicidal (finding)
+A49	MEDDRA-PT E29 Suicidal ideation
+A50	MEDDRA-PT-ID E29 10042458
+A51	CUI E30 C1760428
+A52	UMLS-Preferred-Name E30 Suicidal behavior
+A53	MEDDRA-PT E30 Suicidal behaviour
+A54	MEDDRA-PT-ID E30 10065604
+A55	LLT E30 Suicidal behavior
+A56	LLT-ID E30 10065607
+A57	CUI E32 C0424000
+A58	UMLS-Preferred-Name E32 Feeling suicidal (finding)
+A59	MEDDRA-PT E32 Suicidal ideation
+A60	MEDDRA-PT-ID E32 10042458
+A61	CUI E33 C1760428
+A62	UMLS-Preferred-Name E33 Suicidal behavior
+A63	MEDDRA-PT E33 Suicidal behaviour
+A64	MEDDRA-PT-ID E33 10065604
+A65	LLT E33 Suicidal behavior
+A66	LLT-ID E33 10065607
+A67	CUI E35 C1760428
+A68	UMLS-Preferred-Name E35 Suicidal behavior
+A69	MEDDRA-PT E35 Suicidal behaviour
+A70	MEDDRA-PT-ID E35 10065604
+A71	LLT E35 Suicidal behavior
+A72	LLT-ID E35 10065607
+A73	CUI E36 C0424000
+A74	UMLS-Preferred-Name E36 Feeling suicidal (finding)
+A75	MEDDRA-PT E36 Suicidal ideation
+A76	MEDDRA-PT-ID E36 10042458
+A77	CUI E37 C0424000
+A78	UMLS-Preferred-Name E37 Feeling suicidal (finding)
+A79	MEDDRA-PT E37 Suicidal ideation
+A80	MEDDRA-PT-ID E37 10042458
+A81	CUI E38 C1760428
+A82	UMLS-Preferred-Name E38 Suicidal behavior
+A83	MEDDRA-PT E38 Suicidal behaviour
+A84	MEDDRA-PT-ID E38 10065604
+A85	LLT E38 Suicidal behavior
+A86	LLT-ID E38 10065607
+A87	CUI E39 C0038661
+A88	UMLS-Preferred-Name E39 Suicide
+A89	MEDDRA-PT E39 Completed suicide
+A90	MEDDRA-PT-ID E39 10010144
+A91	LLT E39 Suicide
+A92	LLT-ID E39 10042462
+A93	CUI E40 C0038661
+A94	UMLS-Preferred-Name E40 Suicide
+A95	MEDDRA-PT E40 Completed suicide
+A96	MEDDRA-PT-ID E40 10010144
+A97	LLT E40 Suicide
+A98	LLT-ID E40 10042462
+A99	CUI E41 C0424000
+A100	UMLS-Preferred-Name E41 Feeling suicidal (finding)
+A101	MEDDRA-PT E41 Suicidal ideation
+A102	MEDDRA-PT-ID E41 10042458
+A103	CUI E42 C1760428
+A104	UMLS-Preferred-Name E42 Suicidal behavior
+A105	MEDDRA-PT E42 Suicidal behaviour
+A106	MEDDRA-PT-ID E42 10065604
+A107	LLT E42 Suicidal behavior
+A108	LLT-ID E42 10065607
+A109	CUI E47 C0424000
+A110	UMLS-Preferred-Name E47 Feeling suicidal (finding)
+A111	MEDDRA-PT E47 Suicidal ideation
+A112	MEDDRA-PT-ID E47 10042458
+A113	CUI E48 C1760428
+A114	UMLS-Preferred-Name E48 Suicidal behavior
+A115	MEDDRA-PT E48 Suicidal behaviour
+A116	MEDDRA-PT-ID E48 10065604
+A117	LLT E48 Suicidal behavior
+A118	LLT-ID E48 10065607
+A119	CUI E52 C0424000
+A120	UMLS-Preferred-Name E52 Feeling suicidal (finding)
+A121	MEDDRA-PT E52 Suicidal ideation
+A122	MEDDRA-PT-ID E52 10042458
+A123	CUI E53 C1760428
+A124	UMLS-Preferred-Name E53 Suicidal behavior
+A125	MEDDRA-PT E53 Suicidal behaviour
+A126	MEDDRA-PT-ID E53 10065604
+A127	LLT E53 Suicidal behavior
+A128	LLT-ID E53 10065607
+A129	CUI E55 C2830004
+A130	UMLS-Preferred-Name E55 Somnolence
+A131	MEDDRA-PT E55 Somnolence
+A132	MEDDRA-PT-ID E55 10041349
+A133	CUI E56 C0235195
+A134	UMLS-Preferred-Name E56 Sedated state
+A135	MEDDRA-PT E56 Sedation
+A136	MEDDRA-PT-ID E56 10039897
+A137	CUI E57 C0221743
+A138	UMLS-Preferred-Name E57 Skin reaction
+A139	MEDDRA-PT E57 Skin reaction
+A140	MEDDRA-PT-ID E57 10040914
+A141	CUI E59 C0038325
+A142	UMLS-Preferred-Name E59 Stevens-Johnson Syndrome
+A143	MEDDRA-PT E59 Stevens-Johnson syndrome
+A144	MEDDRA-PT-ID E59 10042033
+A145	CUI E60 C0014518
+A146	UMLS-Preferred-Name E60 Toxic Epidermal Necrolysis
+A147	MEDDRA-PT E60 Toxic epidermal necrolysis
+A148	MEDDRA-PT-ID E60 10044223
+A149	CUI E61 C0278079
+A150	UMLS-Preferred-Name E61 Psychological addiction
+A151	MEDDRA-PT E61 Drug dependence
+A152	MEDDRA-PT-ID E61 10013663
+A153	LLT E61 Dependence psychological
+A154	LLT-ID E61 10012352
+A155	CUI E62 C0278080
+A156	UMLS-Preferred-Name E62 Physical addiction
+A157	MEDDRA-PT E62 Dependence
+A158	MEDDRA-PT-ID E62 10012335
+A159	LLT E62 Dependence physiological
+A160	LLT-ID E62 10012351
+A161	CUI E63 C1760428
+A162	UMLS-Preferred-Name E63 Suicidal behavior
+A163	MEDDRA-PT E63 Suicidal behaviour
+A164	MEDDRA-PT-ID E63 10065604
+A165	LLT E63 Suicidal behavior
+A166	LLT-ID E63 10065607
+A167	CUI E64 C0424000
+A168	UMLS-Preferred-Name E64 Feeling suicidal (finding)
+A169	MEDDRA-PT E64 Suicidal ideation
+A170	MEDDRA-PT-ID E64 10042458
+A171	CUI E7 C0424000
+A172	UMLS-Preferred-Name E7 Feeling suicidal (finding)
+A173	MEDDRA-PT E7 Suicidal ideation
+A174	MEDDRA-PT-ID E7 10042458
+A175	CUI E8 C1760428
+A176	UMLS-Preferred-Name E8 Suicidal behavior
+A177	MEDDRA-PT E8 Suicidal behaviour
+A178	MEDDRA-PT-ID E8 10065604
+A179	LLT E8 Suicidal behavior
+A180	LLT-ID E8 10065607

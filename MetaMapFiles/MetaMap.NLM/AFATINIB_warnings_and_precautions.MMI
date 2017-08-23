@@ -1,0 +1,80 @@
+00000000|AA|ILD|Interstitial lung disease|1|3|5|25|506:3
+00000000|MMI|143.04|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-21-"diarrhea"-noun-0,"bowel loose movements"-tx-21-"loose bowel movements"-noun-0,"DIARRHOEA"-tx-20-"diarrhea"-noun-0,"DIARRHOEA"-tx-19-"diarrhea"-noun-0,"DIARRHOEA"-tx-18-"diarrhea"-noun-0,"DIARRHOEA"-tx-17-"Diarrhea"-noun-0,"DIARRHOEA"-tx-2-"diarrhea"-noun-0,"DIARRHOEA"-tx-1-"Diarrhea"-noun-0]|TX|2012/8;2084/21;1776/8;1526/8;1313/8;1186/8;158/8;[51/8],[61/8]|C23.888.821.214
+00000000|MMI|108.65|Keratitis|C0022568|[dsyn]|["KERATITIS"-tx-41-"keratitis"-noun-0,"KERATITIS"-tx-40-"keratitis"-noun-0,"KERATITIS"-tx-39-"keratitis"-noun-0,"KERATITIS"-tx-38-"keratitis"-noun-0,"keratitis (diagnosis)"-tx-38-"diagnosis keratitis"-noun-0,"KERATITIS"-tx-37-"Keratitis"-noun-0,"KERATITIS"-tx-36-"Keratitis"-noun-0,"KERATITIS"-tx-13-"keratitis"-noun-0,"KERATITIS"-tx-12-"Keratitis"-noun-0]|TX|5239/9;5111/9;4941/9;4768/9;4786/9,4810/9;4623/9;4377/9;922/9;861/9|C11.204.564
+00000000|MMI|95.29|Lung Diseases, Interstitial|C0206062|[dsyn]|["INTERSTITIAL LUNG DISEASE"-tx-30-"ILD"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-27-"ILD"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-27-"Interstitial Lung Disease"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-8-"ILD"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-6-"Interstitial lung disease"-noun-0]|TX|[3700/3],[3757/3];[3155/3],[3163/3],[3170/3];3128/25;634/3;479/25|C08.381.483
+00000000|MMI|42.15|Gravidity|C0600457|[fndg]|["PREGNANT"-tx-46-"pregnant"-adj-0,"PREGNANT"-tx-44-"pregnant"-adj-0]|TX|6075/8;5703/8|G08.686.340;G08.686.785.760.769.213;N06.850.490.812.250
+00000000|MMI|39.82|Bulla|C0005758|[patf]|["Blistering"-tx-25-"blistering"-noun-0,"Blistering"-tx-22-"blistering"-noun-0,"Blistering"-tx-3-"blistering"-noun-0]|TX|2724/10;2232/10;279/10|C17.800.865.187;C23.300.122
+00000000|MMI|39.71|Corneal Ulcer|C0010043|[dsyn]|["Keratitis, Ulcerative"-tx-40-"ulcerative keratitis"-noun-0,"Keratitis, Ulcerative"-tx-38-"ulcerative keratitis"-noun-0,"Keratitis, Ulcerative"-tx-14-"ulcerative keratitis"-noun-0]|TX|5122/20;4799/20;991/20|C01.539.375.177;C11.204.564.225;C11.294.177
+00000000|MMI|37.02|Discontinued|C1444662|[fndg]|["Discontinued"-tx-38-"discontinued"-verb-0,"Discontinued"-tx-35-"discontinued"-verb-0,"Discontinue"-tx-30-"discontinue"-verb-0,"Discontinue"-tx-25-"Discontinue"-verb-0,"Discontinue"-tx-14-"discontinue"-verb-0,"Discontinue"-tx-11-"discontinue"-verb-0,"Discontinue"-tx-8-"Discontinue"-verb-0,"Discontinue"-tx-4-"Discontinue"-verb-0]|TX|4883/12;4353/12;3709/11;2653/11;956/11;788/11;610/11;346/11|
+00000000|MMI|33.20|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-21-"diarrhea"-noun-0,"Diarrhea"-tx-20-"diarrhea"-noun-0,"Diarrhea"-tx-19-"diarrhea"-noun-0,"Diarrhea"-tx-18-"diarrhea"-noun-0,"Diarrhea"-tx-17-"Diarrhea"-noun-0,"Diarrhea"-tx-2-"diarrhea"-noun-0,"Diarrhea"-tx-1-"Diarrhea"-noun-0]|TX|2012/8;1776/8;1526/8;1313/8;1186/8;158/8;[51/8],[61/8]|
+00000000|MMI|32.66|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-37-"Grade 3"-noun-0,"GRADE 3"-tx-29-"Grade 3"-noun-0,"GRADE 3"-tx-26-"Grade 3"-noun-0,"GRADE 3"-tx-24-"Grade 3"-noun-0,"GRADE 3"-tx-23-"Grade 3"-noun-0,"GRADE 3"-tx-22-"Grade 3"-noun-0,"GRADE 3"-tx-19-"Grade 3"-noun-0,"GRADE 3"-tx-18-"Grade 3"-noun-0]|TX|4684/7;3552/5,3560/1;2921/7;2592/5,2600/1;2525/7;2178/7;1614/7;1398/7|
+00000000|MMI|32.64|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-19-"Renal impairment"-noun-0,"Renal Impairment"-tx-17-"renal impairment"-noun-1]|TX|1489/16;1251/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|26.26|Dehydration|C0011175|[dsyn]|["DEHYDRATION"-tx-17-"dehydration"-noun-0,"DEHYDRATION"-tx-1-"dehydration"-noun-0]|TX|1223/11;84/11|C18.452.950.179;C23.550.274
+00000000|MMI|24.41|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-40-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-27-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-26-"adverse reaction"-noun-0,"Adverse reactions"-tx-26-"adverse reactions"-noun-0,"Adverse reactions"-tx-22-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-18-"Adverse Reactions"-noun-0]|TX|5168/17;3179/17;2978/16;2853/17;2362/17;1462/17|
+00000000|MMI|20.95|Photophobia|C0085636|[sosy]|["LIGHT SENSITIVITY"-tx-36-"light sensitivity"-noun-0]|TX|4468/17|C10.597.751.941.661;C11.966.741;C23.888.592.763.941.661
+00000000|MMI|19.99|Exanthema|C0015230|[sosy]|["RASH"-tx-23-"rash"-noun-0]|TX|[2460/4],[2490/4]|C17.800.257
+00000000|MMI|19.94|Ulcer|C0041582|[dsyn]|["Ulceration"-tx-41-"ulceration"-noun-0,"Ulcerative"-tx-38-"ulcerative"-noun-0]|TX|5253/10;4799/10|C23.550.891
+00000000|MMI|17.80|Eye pain|C0151827|[sosy]|["EYE PAIN"-tx-36-"eye pain"-noun-0]|TX|4503/8|C10.597.617.202;C11.300.500;C23.888.307.625;C23.888.592.612.316
+00000000|MMI|17.80|Kidney Failure|C0035078|[dsyn]|["Failure, Renal"-tx-1-"renal failure"-noun-0]|TX|100/13|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|16.08|Palmar-plantar erythrodysesthesia syndrome|C0549410|[dsyn]|["Palmar-plantar erythrodysesthesia syndrome"-tx-24-"palmar-plantar erythrodysesthesia syndrome"-noun-0]|TX|2602/42|C17.800.174.600.587;C25.100.468.380.587
+00000000|MMI|15.61|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-31-"fatal"-adj-0,"FATAL"-tx-27-"fatal"-adj-0,"FATAL"-tx-17-"fatal"-adj-1,"FATAL"-tx-9-"Fatal"-adj-0]|TX|3956/5;3401/5;1294/5;685/5|
+00000000|MMI|15.17|0%|C3842591|[fndg]|["0%"-tx-37-"0"-percentage-0,"0%"-tx-31-"0"-percentage-0,"0%"-tx-27-"0"-percentage-0,"0%"-tx-22-"0"-percentage-0]|TX|4698/1;3944/1;3391/1;2283/1|
+00000000|MMI|14.50|Worse|C1457868|[fndg]|["Worsening"-tx-36-"worsening"-adj-0,"Worsening"-tx-34-"worsening"-verb-0,"Worsening"-tx-11-"worsening"-adj-0,"Worsening"-tx-7-"worsening"-noun-0]|TX|4427/9;4190/9;823/9;577/9|
+00000000|MMI|13.56|Congenital Abnormality|C0000768|[cgab]|["Abnormalities"-tx-32-"abnormalities"-noun-0,"Abnormalities"-tx-31-"abnormalities"-noun-0]|TX|3986/13;3917/13|C16.131
+00000000|MMI|13.31|Lung diseases|C0024115|[dsyn]|["DISEASES OF THE LUNG"-tx-29-"the of ILD"-noun-0,"DISEASES OF THE LUNG"-tx-28-"The of ILD"-noun-0]|TX|3535/3,3549/2,3562/3;3408/3,3422/6|C08.381
+00000000|MMI|13.22|Endophthalmitis|C0014236|[dsyn]|["EYE INFLAMMATION"-tx-36-"eye inflammation"-noun-0]|TX|4437/16|C01.539.375.265;C11.294.265
+00000000|MMI|11.60|Diagnosis|C0011900|[fndg]|["DIAGNOSED"-tx-39-"diagnosed"-verb-0,"DIAGNOSIS"-tx-38-"diagnosis"-noun-0,"DIAGNOSED"-tx-8-"diagnosed"-verb-0]|TX|4954/9;4786/9;641/9|E01
+00000000|MMI|11.56|1+|C3816745|[fndg]|["1+"-tx-29-"1"-percentage-0,"1+"-tx-26-"1"-integer-0,"1+"-tx-20-"1"-integer-0]|TX|3600/1;3013/1;1803/1|
+00000000|MMI|11.49|Erythema|C0041834|[dsyn]|["ERYTHEMA"-tx-23-"erythema"-noun-0]|TX|2466/8|C17.800.229
+00000000|MMI|11.49|Pneumonia|C0032285|[dsyn]|["Pneumonitis"-tx-27-"pneumonitis"-noun-0]|TX|3223/11|C08.381.677;C08.730.610
+00000000|MMI|11.49|Pneumonitis|C3714636|[dsyn]|["PNEUMONITIS"-tx-27-"pneumonitis"-noun-0]|TX|3223/11|C08.381.677;C08.730.610
+00000000|MMI|11.49|Respiratory Distress Syndrome, Adult|C0035222|[dsyn]|["Acute Respiratory Distress Syndrome"-tx-27-"acute respiratory distress syndrome"-noun-0]|TX|3236/35|C08.381.840;C08.618.840
+00000000|MMI|11.22|School Grade|C3244287|[fndg]|["grade"-tx-32-"grade"-noun-0,"grade"-tx-26-"Grade"-verb-0,"grade"-tx-20-"Grade"-verb-0]|TX|4007/5;3007/5;1797/5|
+00000000|MMI|11.22|Lesion|C0221198|[fndg]|["Lesions"-tx-25-"lesions"-noun-0,"Lesions"-tx-22-"lesions"-noun-0,"Lesions"-tx-3-"lesions"-noun-0]|TX|2751/7;2260/7;307/7|
+00000000|MMI|10.87|Experimental Result|C2825142|[fndg]|["Result"-tx-29-"resulted"-verb-0,"Result"-tx-17-"resulted"-verb-0,"Result"-tx-1-"result"-verb-0]|TX|3579/8;1211/8;74/6|
+00000000|MMI|10.83|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-43-"toxicity"-noun-0,"Toxicity"-tx-42-"Toxicity"-noun-0,"Toxicity"-tx-15-"toxicity"-noun-0]|TX|5457/8;5287/8;1040/8|
+00000000|MMI|10.67|Peeling of skin|C0237849|[fndg]|["Exfoliating"-tx-25-"exfoliating"-adj-0,"Exfoliating"-tx-22-"exfoliating"-adj-0,"Exfoliating"-tx-3-"exfoliating"-adj-0]|TX|2739/11;2248/11;295/11|
+00000000|MMI|10.42|1 - 3|C3843504|[fndg]|["1 - 3"-tx-29-"1.3"-percentage-0,"1 - 3"-tx-19-"1.3"-percentage-0]|TX|3570/3;1603/3|
+00000000|MMI|10.42|Patient currently pregnant|C0549206|[fndg]|["Pregnant"-tx-46-"pregnant"-adj-0,"Pregnant"-tx-44-"pregnant"-adj-0]|TX|6075/8;5703/8|
+00000000|MMI|10.06|Dry Eye Syndromes|C0013238|[dsyn]|["Dry Eye"-tx-40-"dry eye"-noun-0]|TX|5154/7|C11.496.260
+00000000|MMI|9.79|Signs and Symptoms, Respiratory|C0037090|[sosy]|["pulmonary symptoms"-tx-7-"pulmonary symptoms"-noun-0]|TX|590/18|C23.888.852
+00000000|MMI|9.76|Disease|C0012634|[dsyn]|["Disorders"-tx-22-"Disorders"-noun-0]|TX|2165/9|C23.550.288
+00000000|MMI|7.55|Hepatic impairment|C0948807|[dsyn]|["Hepatic impairment"-tx-35-"hepatic impairment"-noun-0,"Hepatic impairment"-tx-9-"hepatic impairment"-noun-0]|TX|4291/18;691/18|
+00000000|MMI|7.53|Possible pregnancy (finding)|C0425965|[fndg]|["? Pregnancy"-tx-46-"pregnancy"-noun-0,"? Pregnancy"-tx-44-"pregnancy"-noun-0]|TX|6091/9;5666/9|
+00000000|MMI|7.50|Toxic liver disease|C0348754|[dsyn]|["Hepatic toxicity"-tx-31-"Hepatic Toxicity"-noun-0,"Hepatic toxicity"-tx-9-"Hepatic toxicity"-noun-0]|TX|3813/16;667/16|
+00000000|MMI|7.36|Congenital anomaly of liver|C0266257|[cgab]|["liver Abnormalities"-tx-32-"liver abnormalities"-noun-0,"liver Abnormalities"-tx-31-"liver abnormalities"-noun-0]|TX|3975/5,3986/13;3906/5,3917/13|
+00000000|MMI|7.36|Other congenital malformations of liver|C0478037|[cgab]|["Liver abnormalities"-tx-32-"liver abnormalities"-noun-0,"Liver abnormalities"-tx-31-"liver abnormalities"-noun-0]|TX|3975/5,3986/13;3906/5,3917/13|
+00000000|MMI|7.36|5-6|C3843715|[fndg]|["5-6"-tx-42-"5.6"-real_number-0,"5-6"-tx-17-"5.6"-real_number-0]|TX|5271/3;1168/3|
+00000000|MMI|7.36|6/5|C0442749|[fndg]|["5 6"-tx-42-"5.6"-real_number-0,"5 6"-tx-17-"5.6"-real_number-0]|TX|5271/3;1168/3|
+00000000|MMI|7.20|West Haven Hepatic Encephalopathy Grade 2|C3889824|[fndg]|["GRADE 2"-tx-26-"Grade 2"-noun-0]|TX|[2835/7],[2909/7]|
+00000000|MMI|7.12|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-25-"life-threatening"-adj-0,"Life Threatening"-tx-4-"life-threatening"-adj-0]|TX|2698/16;362/16|
+00000000|MMI|7.12|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-25-"life-threatening"-adj-0,"LIFE THREATENING"-tx-4-"life-threatening"-adj-0]|TX|2698/16;362/16|
+00000000|MMI|7.12|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-25-"life-threatening"-adj-0,"LIFE THREATENING"-tx-4-"life-threatening"-adj-0]|TX|2698/16;362/16|
+00000000|MMI|6.94|Test Result|C0456984|[fndg]|["Test"-tx-32-"test"-noun-0,"Test"-tx-31-"test"-noun-0]|TX|3981/4;3912/4|
+00000000|MMI|6.91|Dermatologic disorders|C0037274|[dsyn]|["SKIN DISORDERS"-tx-3-"Skin Disorders"-noun-0]|TX|247/14|C17.800
+00000000|MMI|5.18|1-2|C3843716|[fndg]|["1-2"-tx-28-"1.2"-percentage-0]|TX|3516/3|
+00000000|MMI|5.18|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-19-"3"-integer-0]|TX|1600/1|
+00000000|MMI|5.18|90%|C3842582|[fndg]|["90%"-tx-23-"90"-percentage-0]|TX|2499/2|
+00000000|MMI|5.18|Alveolitis|C0549493|[dsyn]|["ALVEOLITIS"-tx-27-"alveolitis"-noun-0]|TX|3276/10|
+00000000|MMI|5.18|Blurred vision|C0344232|[sosy]|["BLURRED VISION"-tx-36-"blurred vision"-noun-0]|TX|4487/14|
+00000000|MMI|5.18|Does use contact lenses|C0562955|[fndg]|["contact lense use"-tx-41-"Contact lens use"-noun-0]|TX|5196/16|
+00000000|MMI|5.18|Eye Pain Adverse Event|C1959630|[fndg]|["Eye pain"-tx-36-"eye pain"-noun-0]|TX|4503/8|
+00000000|MMI|5.18|Infiltrate of lung|C0235896|[fndg]|["LUNG INFILTRATION"-tx-27-"lung infiltration"-noun-0]|TX|3204/17|
+00000000|MMI|5.18|Lacrimation|C0423153|[fndg]|["LACRIMATION"-tx-36-"lacrimation"-noun-0]|TX|4455/11|
+00000000|MMI|5.18|Redness of eye|C0235267|[sosy]|["RED EYE"-tx-36-"red eye"-noun-0]|TX|4520/7|
+00000000|MMI|5.18|Renal Failure Adverse Event|C1963154|[patf]|["Renal failure"-tx-1-"renal failure"-noun-0]|TX|100/13|
+00000000|MMI|5.18|Ulceration|C3887532|[patf]|["Ulceration"-tx-41-"ulceration"-noun-0]|TX|5253/10|
+00000000|MMI|5.18|Ulceration Adverse Event|C1963256|[fndg]|["Ulceration"-tx-41-"ulceration"-noun-0]|TX|5253/10|
+00000000|MMI|3.81|CTCAE Grade 2 Diarrhea|C1559309|[fndg]|["Grade 2 Diarrhea"-tx-20-"Grade 2 diarrhea"-noun-0]|TX|1662/16|
+00000000|MMI|3.75|Dryness of eye|C0314719|[sosy]|["DRY EYE"-tx-40-"dry eye"-noun-0]|TX|5154/7|
+00000000|MMI|3.72|CTCAE Grade 3 Diarrhea|C1559310|[fndg]|["Grade III Diarrhea"-tx-20-"Grade 3 diarrhea"-noun-0]|TX|1734/16|
+00000000|MMI|3.68|10%|C3842590|[fndg]|["10%"-tx-31-"10"-percentage-0]|TX|3896/2|
+00000000|MMI|3.68|2+|C3833492|[fndg]|["2+"-tx-37-"2"-percentage-0]|TX|4652/1|
+00000000|MMI|3.60|Day 7|C3842672|[fndg]|["Day 7"-tx-26-"7 days"-noun-0]|TX|2889/6|
+00000000|MMI|3.59|Death (finding)|C1306577|[fndg]|["Death"-tx-29-"death"-noun-0]|TX|3591/5|
+00000000|MMI|3.59|Unspecified Abortion|C0156543|[fndg]|["ABORTIONS"-tx-43-"abortions"-noun-0]|TX|5474/9|
+00000000|MMI|3.59|Used by|C1273517|[fndg]|["used"-tx-44-"used"-verb-0]|TX|5654/4|
+00000000|MMI|3.59|unresponsive behavior|C0237284|[fndg]|["Not Responsive"-tx-2-"not responsive"-adj-0]|TX|167/14|
+00000000|MMI|3.55|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-21-"therapy"-noun-0]|TX|2070/7|
+00000000|MMI|3.50|acneform|C0549583|[fndg]|["Acneform"-tx-23-"acneiform"-adj-0]|TX|2480/9|
+00000000|MMI|3.44|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-40-"history of"-noun-0]|TX|5100/10|

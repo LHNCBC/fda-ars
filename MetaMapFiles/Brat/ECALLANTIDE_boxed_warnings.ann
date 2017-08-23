@@ -1,0 +1,40 @@
+T1	AdverseReaction 30 41	ANAPHYLAXIS
+T2	AdverseReaction 54 65	ANAPHYLAXIS
+T3	AdverseReaction 71 82	Anaphylaxis
+T4	AdverseReaction 835 846	ANAPHYLAXIS
+T5	AdverseReaction 942 953	Anaphylaxis
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+A1	CUI E1 C0002792
+A2	UMLS-Preferred-Name E1 anaphylaxis
+A3	MEDDRA-PT E1 Anaphylactic reaction
+A4	MEDDRA-PT-ID E1 10002198
+A5	LLT E1 Anaphylaxis
+A6	LLT-ID E1 10002218
+A7	CUI E2 C0002792
+A8	UMLS-Preferred-Name E2 anaphylaxis
+A9	MEDDRA-PT E2 Anaphylactic reaction
+A10	MEDDRA-PT-ID E2 10002198
+A11	LLT E2 Anaphylaxis
+A12	LLT-ID E2 10002218
+A13	CUI E3 C0002792
+A14	UMLS-Preferred-Name E3 anaphylaxis
+A15	MEDDRA-PT E3 Anaphylactic reaction
+A16	MEDDRA-PT-ID E3 10002198
+A17	LLT E3 Anaphylaxis
+A18	LLT-ID E3 10002218
+A19	CUI E4 C0002792
+A20	UMLS-Preferred-Name E4 anaphylaxis
+A21	MEDDRA-PT E4 Anaphylactic reaction
+A22	MEDDRA-PT-ID E4 10002198
+A23	LLT E4 Anaphylaxis
+A24	LLT-ID E4 10002218
+A25	CUI E5 C0002792
+A26	UMLS-Preferred-Name E5 anaphylaxis
+A27	MEDDRA-PT E5 Anaphylactic reaction
+A28	MEDDRA-PT-ID E5 10002198
+A29	LLT E5 Anaphylaxis
+A30	LLT-ID E5 10002218

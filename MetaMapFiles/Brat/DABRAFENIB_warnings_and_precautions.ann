@@ -1,0 +1,961 @@
+T1	AdverseReaction 379 401	Retinal vein occlusion
+T2	AdverseReaction 411 436	Interstitial lung disease
+T3	AdverseReaction 451 471;487 500	primary malignancies non-cutaneous
+T4	AdverseReaction 451 482	primary malignancies, cutaneous
+T5	AdverseReaction 822 850	Increased cell proliferation
+T6	AdverseReaction 918 936	hemorrhagic events
+T7	Severity 912 917	Major
+T8	AdverseReaction 1095 1115	Deep vein thrombosis
+T9	AdverseReaction 1120 1138	pulmonary embolism
+T10	AdverseReaction 1237 1251	Cardiomyopathy
+T11	AdverseReaction 1420 1437	Ocular Toxicities
+T12	AdverseReaction 1580 1587	pyrexia
+T13	AdverseReaction 1681 1694	Skin Toxicity
+T14	Severity 1673 1680	Serious
+T15	Factor 502 505	can
+T17	Factor 937 940	can
+T18	Factor 1139 1142	can
+T19	AdverseReaction 1900 1913	Hyperglycemia
+T20	AdverseReaction 2018 2062	Glucose-6-Phosphate Dehydrogenase Deficiency
+T21	AdverseReaction 2152 2162	fetal harm
+T22	Factor 2142 2145	Can
+T23	AdverseReaction 2435 2466	primary malignancies, cutaneous
+T24	Factor 2486 2489	can
+T25	AdverseReaction 2435 2455;2471 2484	primary malignancies non-cutaneous
+T26	AdverseReaction 2670 2703	cutaneous squamous cell carcinoma
+T27	AdverseReaction 2705 2720	keratoacanthoma
+T28	AdverseReaction 2726 2734	melanoma
+T29	AdverseReaction 2823 2843	basal cell carcinoma
+T30	AdverseReaction 2863 2897	cutaneous squamous cell carcinomas
+T31	AdverseReaction 2902 2918	keratoacanthomas
+T32	AdverseReaction 2920 2925	cuSCC
+T33	AdverseReaction 3106 3111	cuSCC
+T34	AdverseReaction 3146 3151	cuSCC
+T35	AdverseReaction 3224 3229	cuSCC
+T36	AdverseReaction 3271 3276	cuSCC
+T37	AdverseReaction 3367 3372	cuSCC
+T38	AdverseReaction 3388 3393	cuSCC
+T39	AdverseReaction 3444 3471	primary malignant melanomas
+T43	AdverseReaction 3641 3661	basal cell carcinoma
+T44	AdverseReaction 3919 3939	basal cell carcinoma
+T45	AdverseReaction 4099 4132	Cutaneous squamous cell carcinoma
+T46	AdverseReaction 4134 4137	SCC
+T47	AdverseReaction 4150 4165	keratoacanthoma
+T48	AdverseReaction 4336 4341	cuSCC
+T49	AdverseReaction 4466 4482	primary melanoma
+T50	AdverseReaction 5107 5119	malignancies
+T51	Factor 5065 5068	may
+T52	AdverseReaction 5296 5322	non-cutaneous malignancies
+T53	AdverseReaction 5340 5388	KRAS mutation-positive pancreatic adenocarcinoma
+T54	AdverseReaction 5398 5451	recurrent NRAS mutation-positive colorectal carcinoma
+T55	AdverseReaction 5461 5484	head and neck carcinoma
+T56	AdverseReaction 5498 5510	glioblastoma
+T57	AdverseReaction 6002 6030	increased cell proliferation
+T59	AdverseReaction 6325 6336	Hemorrhages
+T60	AdverseReaction 6354 6365	hemorrhages
+T61	Severity 6348 6353	major
+T62	AdverseReaction 6377 6397	symptomatic bleeding
+T63	Factor 6427 6430	can
+T64	AdverseReaction 6620 6637	hemorrhagic event
+T65	AdverseReaction 6802 6820	hemorrhagic events
+T66	Severity 6796 6801	major
+T67	AdverseReaction 6824 6836;6848 6858	intracranial hemorrhage
+T68	AdverseReaction 6840 6858	gastric hemorrhage
+T69	AdverseReaction 7025 7048	Intracranial hemorrhage
+T70	AdverseReaction 7053 7058	fatal
+T71	AdverseReaction 7535 7557	Venous thromboembolism
+T72	Factor 7558 7561	can
+T73	AdverseReaction 7734 7756	deep venous thrombosis
+T74	AdverseReaction 7758 7761	DVT
+T75	AdverseReaction 7767 7785	pulmonary embolism
+T76	AdverseReaction 7787 7789	PE
+T77	AdverseReaction 7946 7964	Pulmonary embolism
+T78	AdverseReaction 7969 7974	fatal
+T79	AdverseReaction 8526 8540	Cardiomyopathy
+T80	Factor 8541 8544	can
+T81	AdverseReaction 8719 8733	cardiomyopathy
+T82	AdverseReaction 8914 8928	cardiomyopathy
+T83	AdverseReaction 9031 9045	Cardiomyopathy
+T84	AdverseReaction 9182 9196	cardiomyopathy
+T85	AdverseReaction 9426 9440	cardiomyopathy
+T86	AdverseReaction 9442 9458	decrease in LVEF
+T87	AdverseReaction 9510 9535	absolute decrease in LVEF
+T88	Severity 9538 9556	10% below baseline
+T89	AdverseReaction 9586 9602	decrease in LVEF
+T90	Severity 9465 9501	institutional lower limits of normal
+T91	Severity 9609 9645	institutional lower limits of normal
+T92	AdverseReaction 9654 9679	absolute decrease in LVEF
+T93	Severity 9685 9703	20% below baseline
+T94	AdverseReaction 10510 10548	Retinal pigment epithelial detachments
+T95	AdverseReaction 10550 10554	RPED
+T96	Factor 10556 10559	can
+T97	AdverseReaction 10991 10995	RPED
+T98	AdverseReaction 11188 11192	RPED
+T99	AdverseReaction 11741 11748	Uveitis
+T100	AdverseReaction 11753 11759	iritis
+T101	Factor 11760 11763	can
+T102	AdverseReaction 11870 11877	Uveitis
+T103	AdverseReaction 11889 11895	iritis
+T104	AdverseReaction 11976 11983	uveitis
+T105	AdverseReaction 12516 12533	febrile reactions
+T106	Severity 12508 12515	Serious
+T107	AdverseReaction 12538 12543	fever
+T108	AdverseReaction 12575 12586	hypotension
+T109	AdverseReaction 12588 12594	rigors
+T110	AdverseReaction 12598 12604	chills
+T111	AdverseReaction 12606 12617	dehydration
+T112	AdverseReaction 12622 12635	renal failure
+T113	Factor 12637 12640	can
+T114	AdverseReaction 12954 12959	fever
+T115	Severity 12961 12968	serious
+T116	AdverseReaction 13145 13150	fever
+T117	AdverseReaction 13228 13233	fever
+T118	AdverseReaction 13277 13294	febrile reactions
+T119	Severity 13269 13276	Serious
+T120	AdverseReaction 13299 13304	fever
+T121	AdverseReaction 13336 13347	hypotension
+T122	AdverseReaction 13349 13355	rigors
+T123	AdverseReaction 13359 13365	chills
+T124	AdverseReaction 13518 13523	fever
+T125	Severity 13525 13532	serious
+T126	AdverseReaction 13708 13725	febrile reactions
+T127	Severity 13700 13707	Serious
+T128	AdverseReaction 13730 13735	fever
+T129	AdverseReaction 13767 13778	hypotension
+T130	AdverseReaction 13780 13786	rigors
+T131	AdverseReaction 13790 13796	chills
+T132	AdverseReaction 13963 13968	Fever
+T133	AdverseReaction 13990 13996	chills
+T134	AdverseReaction 13997 14003	rigors
+T135	AdverseReaction 14020 14031	dehydration
+T136	AdverseReaction 14046 14059	renal failure
+T137	AdverseReaction 14078 14085	syncope
+T138	AdverseReaction 14232 14237	fever
+T139	AdverseReaction 14348 14353	fever
+T140	AdverseReaction 14554 14561	pyrexia
+T141	AdverseReaction 15166 15179	skin toxicity
+T142	Severity 15158 15165	Serious
+T143	Factor 15180 15183	can
+T144	AdverseReaction 15379 15392	skin toxicity
+T145	AdverseReaction 15585 15598	skin toxicity
+T146	AdverseReaction 15732 15745	skin toxicity
+T147	AdverseReaction 15982 15995	skin toxicity
+T148	AdverseReaction 16000 16032	secondary infections of the skin
+T149	Severity 15975 15981	severe
+T150	AdverseReaction 16465 16478	Hyperglycemia
+T151	Factor 16479 16482	can
+T152	AdverseReaction 16737 16750	hyperglycemia
+T153	Severity 16729 16736	Grade 3
+T154	AdverseReaction 16926 16939	hyperglycemia
+T155	Severity 16918 16925	Grade 3
+T156	AdverseReaction 17614 17630	hemolytic anemia
+T157	Factor 17606 17610	risk
+T158	AdverseReaction 17869 17879	fetal harm
+T159	Factor 17859 17862	can
+T160	AdverseReaction 17934 17945	teratogenic
+T161	AdverseReaction 17950 17961	embryotoxic
+T162	Animal 17965 17969	rats
+T163	DrugClass 866 881	BRAF inhibitors
+T164	DrugClass 6076 6091	BRAF inhibitors
+T165	AdverseReaction 10715 10734	Retinal detachments
+T166	AdverseReaction 12770 12777	pyrexia
+T167	AdverseReaction 778 820	Tumor Promotion in BRAF Wild-Type Melanoma
+T168	AdverseReaction 900 910	Hemorrhage
+T169	AdverseReaction 1071 1093	Venous Thromboembolism
+T170	AdverseReaction 1535 1552	Febrile Reactions
+T171	Severity 1527 1534	Serious
+T172	AdverseReaction 2120 2140	Embryofetal Toxicity
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3 Hypothetical:E15
+E4	AdverseReaction:T4 Hypothetical:E15
+E5	AdverseReaction:T5 Hypothetical:E165
+E6	AdverseReaction:T6 Effect:E7 Hypothetical:E17
+E7	Severity:T7
+E8	AdverseReaction:T8 Hypothetical:E18
+E9	AdverseReaction:T9 Hypothetical:E18
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13 Effect:E14
+E14	Severity:T14
+E15	Factor:T15
+E17	Factor:T17
+E18	Factor:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21 Hypothetical:E22
+E22	Factor:T22
+E23	AdverseReaction:T23 Hypothetical:E24
+E24	Factor:T24
+E25	AdverseReaction:T25 Hypothetical:E24
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50 Hypothetical:E51
+E51	Factor:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57 Hypothetical:E166
+E59	AdverseReaction:T59 Hypothetical:E63
+E60	AdverseReaction:T60 Effect:E61 Hypothetical:E63
+E61	Severity:T61
+E62	AdverseReaction:T62 Hypothetical:E63
+E63	Factor:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65 Effect:E66
+E66	Severity:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71 Hypothetical:E72
+E72	Factor:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79 Hypothetical:E80
+E80	Factor:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86 Effect:E90
+E87	AdverseReaction:T87 Effect:E88
+E88	Severity:T88
+E89	AdverseReaction:T89 Effect:E91
+E90	Severity:T90
+E91	Severity:T91
+E92	AdverseReaction:T92 Effect:E93
+E93	Severity:T93
+E94	AdverseReaction:T94 Hypothetical:E96
+E95	AdverseReaction:T95 Hypothetical:E96
+E96	Factor:T96
+E97	AdverseReaction:T97
+E98	AdverseReaction:T98
+E99	AdverseReaction:T99 Hypothetical:E101
+E100	AdverseReaction:T100 Hypothetical:E101
+E101	Factor:T101
+E102	AdverseReaction:T102
+E103	AdverseReaction:T103
+E104	AdverseReaction:T104
+E105	AdverseReaction:T105 Effect:E106 Hypothetical:E113
+E106	Severity:T106
+E107	AdverseReaction:T107 Hypothetical:E113
+E108	AdverseReaction:T108 Hypothetical:E113
+E109	AdverseReaction:T109 Hypothetical:E113
+E110	AdverseReaction:T110 Hypothetical:E113
+E111	AdverseReaction:T111 Hypothetical:E113
+E112	AdverseReaction:T112 Hypothetical:E113
+E113	Factor:T113
+E114	AdverseReaction:T114
+E115	AdverseReaction:T114 Effect:E116
+E116	Severity:T115
+E117	AdverseReaction:T116
+E118	AdverseReaction:T117
+E119	AdverseReaction:T118 Effect:E120
+E120	Severity:T119
+E121	AdverseReaction:T120
+E122	AdverseReaction:T121
+E123	AdverseReaction:T122
+E124	AdverseReaction:T123
+E125	AdverseReaction:T124
+E126	AdverseReaction:T124 Effect:E127
+E127	Severity:T125
+E128	AdverseReaction:T126 Effect:E129
+E129	Severity:T127
+E130	AdverseReaction:T128
+E131	AdverseReaction:T129
+E132	AdverseReaction:T130
+E133	AdverseReaction:T131
+E134	AdverseReaction:T132
+E135	AdverseReaction:T133
+E136	AdverseReaction:T134
+E137	AdverseReaction:T135
+E138	AdverseReaction:T136
+E139	AdverseReaction:T137
+E140	AdverseReaction:T138
+E141	AdverseReaction:T139
+E142	AdverseReaction:T140
+E143	AdverseReaction:T141 Effect:E144 Hypothetical:E145
+E144	Severity:T142
+E145	Factor:T143
+E146	AdverseReaction:T144
+E147	AdverseReaction:T145
+E148	AdverseReaction:T146
+E149	AdverseReaction:T147 Effect:E151
+E150	AdverseReaction:T148
+E151	Severity:T149
+E152	AdverseReaction:T150 Hypothetical:E153
+E153	Factor:T151
+E154	AdverseReaction:T152 Effect:E155
+E155	Severity:T153
+E156	AdverseReaction:T154 Effect:E157
+E157	Severity:T155
+E158	AdverseReaction:T156 Hypothetical:E159
+E159	Factor:T157
+E160	AdverseReaction:T158 Hypothetical:E161
+E161	Factor:T159
+E162	AdverseReaction:T160 Hypothetical:E164
+E163	AdverseReaction:T161 Hypothetical:E164
+E164	Animal:T162
+E165	DrugClass:T163
+E166	DrugClass:T164
+E167	AdverseReaction:T165
+E168	AdverseReaction:T166
+E169	AdverseReaction:T167
+E170	AdverseReaction:T168
+E171	AdverseReaction:T169
+E172	AdverseReaction:T170 Effect:E173
+E173	Severity:T171
+E174	AdverseReaction:T172
+A1	CUI E1 C0035328
+A2	UMLS-Preferred-Name E1 Retinal Vein Occlusion
+A3	MEDDRA-PT E1 Retinal vein occlusion
+A4	MEDDRA-PT-ID E1 10038907
+A5	CUI E2 C0206062
+A6	UMLS-Preferred-Name E2 Lung Diseases, Interstitial
+A7	MEDDRA-PT E2 Interstitial lung disease
+A8	MEDDRA-PT-ID E2 10022611
+A9	CUI E3 C0865017
+A10	UMLS-Preferred-Name E3 Generalized malignancy, primary
+A11	MEDDRA-PT E3 Neoplasm malignant
+A12	MEDDRA-PT-ID E3 10028997
+A13	CUI E4 C0007114
+A14	UMLS-Preferred-Name E4 Malignant neoplasm of skin
+A15	MEDDRA-PT E4 Skin cancer
+A16	MEDDRA-PT-ID E4 10040808
+A17	LLT E4 Skin neoplasm malignant
+A18	LLT-ID E4 10040895
+A19	CUI E5 C0020507
+A20	UMLS-Preferred-Name E5 Hyperplasia
+A21	MEDDRA-PT E5 Hyperplasia
+A22	MEDDRA-PT-ID E5 10020718
+A23	CUI E6 C0019080
+A24	UMLS-Preferred-Name E6 Hemorrhage
+A25	MEDDRA-PT E6 Haemorrhage
+A26	MEDDRA-PT-ID E6 10055798
+A27	LLT E6 Hemorrhage
+A28	LLT-ID E6 10019524
+A29	CUI E8 C0149871
+A30	UMLS-Preferred-Name E8 Deep Vein Thrombosis
+A31	MEDDRA-PT E8 Deep vein thrombosis
+A32	MEDDRA-PT-ID E8 10051055
+A33	CUI E9 C0034065
+A34	UMLS-Preferred-Name E9 Pulmonary Embolism
+A35	MEDDRA-PT E9 Pulmonary embolism
+A36	MEDDRA-PT-ID E9 10037377
+A37	CUI E10 C0878544
+A38	UMLS-Preferred-Name E10 Cardiomyopathies
+A39	MEDDRA-PT E10 Cardiomyopathy
+A40	MEDDRA-PT-ID E10 10007636
+A41	CUI E11 C1262036
+A42	UMLS-Preferred-Name E11 Ocular toxicity
+A43	MEDDRA-PT E11 Ocular toxicity
+A44	MEDDRA-PT-ID E11 10061137
+A45	CUI E12 C0015967
+A46	UMLS-Preferred-Name E12 Fever
+A47	MEDDRA-PT E12 Pyrexia
+A48	MEDDRA-PT-ID E12 10037660
+A49	CUI E13 C1167791
+A50	UMLS-Preferred-Name E13 Skin toxicity
+A51	MEDDRA-PT E13 Skin toxicity
+A52	MEDDRA-PT-ID E13 10059516
+A53	CUI E19 C0020456
+A54	UMLS-Preferred-Name E19 Hyperglycemia
+A55	MEDDRA-PT E19 Hyperglycaemia
+A56	MEDDRA-PT-ID E19 10020635
+A57	LLT E19 Hyperglycemia
+A58	LLT-ID E19 10020639
+A59	CUI E20 C2939465
+A60	UMLS-Preferred-Name E20 Deficiency of glucose-6-phosphate dehydrogenase
+A61	MEDDRA-PT E20 Glucose-6-phosphate dehydrogenase deficiency
+A62	MEDDRA-PT-ID E20 10018444
+A63	CUI E21 C0854268
+A64	UMLS-Preferred-Name E21 Foetal damage
+A65	MEDDRA-PT E21 Foetal damage
+A66	MEDDRA-PT-ID E21 10016852
+A67	LLT E21 Fetal damage
+A68	LLT-ID E21 10054743
+A69	CUI E23 C0007114
+A70	UMLS-Preferred-Name E23 Malignant neoplasm of skin
+A71	MEDDRA-PT E23 Skin cancer
+A72	MEDDRA-PT-ID E23 10040808
+A73	LLT E23 Skin neoplasm malignant
+A74	LLT-ID E23 10040895
+A75	CUI E25 C0865017
+A76	UMLS-Preferred-Name E25 Generalized malignancy, primary
+A77	MEDDRA-PT E25 Neoplasm malignant
+A78	MEDDRA-PT-ID E25 10028997
+A79	CUI E26 C0553723
+A80	UMLS-Preferred-Name E26 Squamous cell carcinoma of skin
+A81	MEDDRA-PT E26 Squamous cell carcinoma of skin
+A82	MEDDRA-PT-ID E26 10041834
+A83	CUI E27 C0022572
+A84	UMLS-Preferred-Name E27 keratoacanthoma
+A85	MEDDRA-PT E27 Keratoacanthoma
+A86	MEDDRA-PT-ID E27 10023347
+A87	CUI E28 C0025202
+A88	UMLS-Preferred-Name E28 melanoma
+A89	MEDDRA-PT E28 Malignant melanoma
+A90	MEDDRA-PT-ID E28 10025650
+A91	LLT E28 Melanoma
+A92	LLT-ID E28 10053571
+A93	CUI E29 C0007117
+A94	UMLS-Preferred-Name E29 Basal cell carcinoma
+A95	MEDDRA-PT E29 Basal cell carcinoma
+A96	MEDDRA-PT-ID E29 10004146
+A97	CUI E30 C0553723
+A98	UMLS-Preferred-Name E30 Squamous cell carcinoma of skin
+A99	MEDDRA-PT E30 Squamous cell carcinoma of skin
+A100	MEDDRA-PT-ID E30 10041834
+A101	CUI E31 C0022572
+A102	UMLS-Preferred-Name E31 keratoacanthoma
+A103	MEDDRA-PT E31 Keratoacanthoma
+A104	MEDDRA-PT-ID E31 10023347
+A105	CUI E32 C0553723
+A106	UMLS-Preferred-Name E32 Squamous cell carcinoma of skin
+A107	MEDDRA-PT E32 Squamous cell carcinoma of skin
+A108	MEDDRA-PT-ID E32 10041834
+A109	CUI E33 C0553723
+A110	UMLS-Preferred-Name E33 Squamous cell carcinoma of skin
+A111	MEDDRA-PT E33 Squamous cell carcinoma of skin
+A112	MEDDRA-PT-ID E33 10041834
+A113	CUI E34 C0553723
+A114	UMLS-Preferred-Name E34 Squamous cell carcinoma of skin
+A115	MEDDRA-PT E34 Squamous cell carcinoma of skin
+A116	MEDDRA-PT-ID E34 10041834
+A117	CUI E35 C0553723
+A118	UMLS-Preferred-Name E35 Squamous cell carcinoma of skin
+A119	MEDDRA-PT E35 Squamous cell carcinoma of skin
+A120	MEDDRA-PT-ID E35 10041834
+A121	CUI E36 C0553723
+A122	UMLS-Preferred-Name E36 Squamous cell carcinoma of skin
+A123	MEDDRA-PT E36 Squamous cell carcinoma of skin
+A124	MEDDRA-PT-ID E36 10041834
+A125	CUI E37 C0553723
+A126	UMLS-Preferred-Name E37 Squamous cell carcinoma of skin
+A127	MEDDRA-PT E37 Squamous cell carcinoma of skin
+A128	MEDDRA-PT-ID E37 10041834
+A129	CUI E38 C0553723
+A130	UMLS-Preferred-Name E38 Squamous cell carcinoma of skin
+A131	MEDDRA-PT E38 Squamous cell carcinoma of skin
+A132	MEDDRA-PT-ID E38 10041834
+A133	CUI E39 C0025202
+A134	UMLS-Preferred-Name E39 melanoma
+A135	MEDDRA-PT E39 Malignant melanoma
+A136	MEDDRA-PT-ID E39 10025650
+A137	CUI E43 C0007117
+A138	UMLS-Preferred-Name E43 Basal cell carcinoma
+A139	MEDDRA-PT E43 Basal cell carcinoma
+A140	MEDDRA-PT-ID E43 10004146
+A141	CUI E44 C0007117
+A142	UMLS-Preferred-Name E44 Basal cell carcinoma
+A143	MEDDRA-PT E44 Basal cell carcinoma
+A144	MEDDRA-PT-ID E44 10004146
+A145	CUI E45 C0553723
+A146	UMLS-Preferred-Name E45 Squamous cell carcinoma of skin
+A147	MEDDRA-PT E45 Squamous cell carcinoma of skin
+A148	MEDDRA-PT-ID E45 10041834
+A149	CUI E46 C0553723
+A150	UMLS-Preferred-Name E46 Squamous cell carcinoma of skin
+A151	MEDDRA-PT E46 Squamous cell carcinoma of skin
+A152	MEDDRA-PT-ID E46 10041834
+A153	CUI E47 C0022572
+A154	UMLS-Preferred-Name E47 keratoacanthoma
+A155	MEDDRA-PT E47 Keratoacanthoma
+A156	MEDDRA-PT-ID E47 10023347
+A157	CUI E48 C0553723
+A158	UMLS-Preferred-Name E48 Squamous cell carcinoma of skin
+A159	MEDDRA-PT E48 Squamous cell carcinoma of skin
+A160	MEDDRA-PT-ID E48 10041834
+A161	CUI E49 C0025202
+A162	UMLS-Preferred-Name E49 melanoma
+A163	MEDDRA-PT E49 Malignant melanoma
+A164	MEDDRA-PT-ID E49 10025650
+A165	LLT E49 Melanoma
+A166	LLT-ID E49 10053571
+A167	CUI E50 C0006826
+A168	UMLS-Preferred-Name E50 Malignant Neoplasms
+A169	MEDDRA-PT E50 Neoplasm malignant
+A170	MEDDRA-PT-ID E50 10028997
+A171	flag E52 underspecified
+A172	CUI E52 C0006826
+A173	UMLS-Preferred-Name E52 Malignant Neoplasms
+A174	MEDDRA-PT E52 Neoplasm malignant
+A175	MEDDRA-PT-ID E52 10028997
+A176	flag E53 duplicate
+A177	CUI E53 C2747837
+A178	UMLS-Preferred-Name E53 KRAS mutation
+A179	MEDDRA-PT E53 K-ras gene mutation
+A180	MEDDRA-PT-ID E53 10069755
+A181	LLT E53 KRAS mutation
+A182	LLT-ID E53 10069759
+A183	flag E54 underspecified
+A184	CUI E54 C0009402
+A185	UMLS-Preferred-Name E54 Colorectal Carcinoma
+A186	MEDDRA-PT E54 Colorectal cancer
+A187	MEDDRA-PT-ID E54 10061451
+A188	LLT E54 Colorectal carcinoma
+A189	LLT-ID E54 10010036
+A190	flag E55 unmapped
+A191	CUI E55 C3887461
+A192	UMLS-Preferred-Name E55 Head and Neck Carcinoma
+A193	CUI E56 C0017636
+A194	UMLS-Preferred-Name E56 Glioblastoma
+A195	MEDDRA-PT E56 Glioblastoma
+A196	MEDDRA-PT-ID E56 10018336
+A197	CUI E57 C0020507
+A198	UMLS-Preferred-Name E57 Hyperplasia
+A199	MEDDRA-PT E57 Hyperplasia
+A200	MEDDRA-PT-ID E57 10020718
+A201	CUI E59 C0019080
+A202	UMLS-Preferred-Name E59 Hemorrhage
+A203	MEDDRA-PT E59 Haemorrhage
+A204	MEDDRA-PT-ID E59 10055798
+A205	LLT E59 Hemorrhage
+A206	LLT-ID E59 10019524
+A207	CUI E60 C0019080
+A208	UMLS-Preferred-Name E60 Hemorrhage
+A209	MEDDRA-PT E60 Haemorrhage
+A210	MEDDRA-PT-ID E60 10055798
+A211	LLT E60 Hemorrhage
+A212	LLT-ID E60 10019524
+A213	flag E62 underspecified
+A214	CUI E62 C0019080
+A215	UMLS-Preferred-Name E62 Hemorrhage
+A216	MEDDRA-PT E62 Haemorrhage
+A217	MEDDRA-PT-ID E62 10055798
+A218	LLT E62 Bleeding
+A219	LLT-ID E62 10005103
+A220	CUI E64 C0019080
+A221	UMLS-Preferred-Name E64 Hemorrhage
+A222	MEDDRA-PT E64 Haemorrhage
+A223	MEDDRA-PT-ID E64 10055798
+A224	LLT E64 Hemorrhage
+A225	LLT-ID E64 10019524
+A226	CUI E65 C0019080
+A227	UMLS-Preferred-Name E65 Hemorrhage
+A228	MEDDRA-PT E65 Haemorrhage
+A229	MEDDRA-PT-ID E65 10055798
+A230	LLT E65 Hemorrhage
+A231	LLT-ID E65 10019524
+A232	CUI E67 C0151699
+A233	UMLS-Preferred-Name E67 Intracranial Hemorrhages
+A234	MEDDRA-PT E67 Haemorrhage intracranial
+A235	MEDDRA-PT-ID E67 10018985
+A236	LLT E67 Intracranial hemorrhage
+A237	LLT-ID E67 10022763
+A238	CUI E68 C0235325
+A239	UMLS-Preferred-Name E68 Gastric hemorrhage
+A240	MEDDRA-PT E68 Gastric haemorrhage
+A241	MEDDRA-PT-ID E68 10017788
+A242	LLT E68 Gastric hemorrhage
+A243	LLT-ID E68 10017789
+A244	CUI E69 C0151699
+A245	UMLS-Preferred-Name E69 Intracranial Hemorrhages
+A246	MEDDRA-PT E69 Haemorrhage intracranial
+A247	MEDDRA-PT-ID E69 10018985
+A248	LLT E69 Intracranial hemorrhage
+A249	LLT-ID E69 10022763
+A250	CUI E70 C1306577
+A251	UMLS-Preferred-Name E70 Death (finding)
+A252	MEDDRA-PT E70 Death
+A253	MEDDRA-PT-ID E70 10011906
+A254	CUI E71 C1861172
+A255	UMLS-Preferred-Name E71 Venous Thromboembolism
+A256	MEDDRA-PT E71 Embolism venous
+A257	MEDDRA-PT-ID E71 10014522
+A258	LLT E71 Venous thromboembolism
+A259	LLT-ID E71 10066899
+A260	CUI E73 C0149871
+A261	UMLS-Preferred-Name E73 Deep Vein Thrombosis
+A262	MEDDRA-PT E73 Deep vein thrombosis
+A263	MEDDRA-PT-ID E73 10051055
+A264	LLT E73 Thrombosis venous deep
+A265	LLT-ID E73 10043642
+A266	CUI E74 C0149871
+A267	UMLS-Preferred-Name E74 Deep Vein Thrombosis
+A268	MEDDRA-PT E74 Deep vein thrombosis
+A269	MEDDRA-PT-ID E74 10051055
+A270	LLT E74 DVT
+A271	LLT-ID E74 10013877
+A272	CUI E75 C0034065
+A273	UMLS-Preferred-Name E75 Pulmonary Embolism
+A274	MEDDRA-PT E75 Pulmonary embolism
+A275	MEDDRA-PT-ID E75 10037377
+A276	CUI E76 C0034065
+A277	UMLS-Preferred-Name E76 Pulmonary Embolism
+A278	MEDDRA-PT E76 Pulmonary embolism
+A279	MEDDRA-PT-ID E76 10037377
+A280	CUI E77 C0034065
+A281	UMLS-Preferred-Name E77 Pulmonary Embolism
+A282	MEDDRA-PT E77 Pulmonary embolism
+A283	MEDDRA-PT-ID E77 10037377
+A284	CUI E78 C1306577
+A285	UMLS-Preferred-Name E78 Death (finding)
+A286	MEDDRA-PT E78 Death
+A287	MEDDRA-PT-ID E78 10011906
+A288	CUI E79 C0878544
+A289	UMLS-Preferred-Name E79 Cardiomyopathies
+A290	MEDDRA-PT E79 Cardiomyopathy
+A291	MEDDRA-PT-ID E79 10007636
+A292	CUI E81 C0878544
+A293	UMLS-Preferred-Name E81 Cardiomyopathies
+A294	MEDDRA-PT E81 Cardiomyopathy
+A295	MEDDRA-PT-ID E81 10007636
+A296	CUI E82 C0878544
+A297	UMLS-Preferred-Name E82 Cardiomyopathies
+A298	MEDDRA-PT E82 Cardiomyopathy
+A299	MEDDRA-PT-ID E82 10007636
+A300	CUI E83 C0878544
+A301	UMLS-Preferred-Name E83 Cardiomyopathies
+A302	MEDDRA-PT E83 Cardiomyopathy
+A303	MEDDRA-PT-ID E83 10007636
+A304	CUI E84 C0878544
+A305	UMLS-Preferred-Name E84 Cardiomyopathies
+A306	MEDDRA-PT E84 Cardiomyopathy
+A307	MEDDRA-PT-ID E84 10007636
+A308	CUI E85 C0878544
+A309	UMLS-Preferred-Name E85 Cardiomyopathies
+A310	MEDDRA-PT E85 Cardiomyopathy
+A311	MEDDRA-PT-ID E85 10007636
+A312	CUI E86 C1096403
+A313	UMLS-Preferred-Name E86 Left ventricular ejection fraction decreased
+A314	MEDDRA-PT E86 Ejection fraction decreased
+A315	MEDDRA-PT-ID E86 10050528
+A316	LLT E86 Left ventricular ejection fraction decreased
+A317	LLT-ID E86 10053222
+A318	CUI E87 C1096403
+A319	UMLS-Preferred-Name E87 Left ventricular ejection fraction decreased
+A320	MEDDRA-PT E87 Ejection fraction decreased
+A321	MEDDRA-PT-ID E87 10050528
+A322	LLT E87 Left ventricular ejection fraction decreased
+A323	LLT-ID E87 10053222
+A324	CUI E89 C1096403
+A325	UMLS-Preferred-Name E89 Left ventricular ejection fraction decreased
+A326	MEDDRA-PT E89 Ejection fraction decreased
+A327	MEDDRA-PT-ID E89 10050528
+A328	LLT E89 Left ventricular ejection fraction decreased
+A329	LLT-ID E89 10053222
+A330	CUI E92 C1096403
+A331	UMLS-Preferred-Name E92 Left ventricular ejection fraction decreased
+A332	MEDDRA-PT E92 Ejection fraction decreased
+A333	MEDDRA-PT-ID E92 10050528
+A334	LLT E92 Left ventricular ejection fraction decreased
+A335	LLT-ID E92 10053222
+A336	CUI E94 C0339546
+A337	UMLS-Preferred-Name E94 Retinal Pigment Epithelial Detachment
+A338	MEDDRA-PT E94 Detachment of retinal pigment epithelium
+A339	MEDDRA-PT-ID E94 10052501
+A340	CUI E95 C0339546
+A341	UMLS-Preferred-Name E95 Retinal Pigment Epithelial Detachment
+A342	MEDDRA-PT E95 Detachment of retinal pigment epithelium
+A343	MEDDRA-PT-ID E95 10052501
+A344	CUI E97 C0339546
+A345	UMLS-Preferred-Name E97 Retinal Pigment Epithelial Detachment
+A346	MEDDRA-PT E97 Detachment of retinal pigment epithelium
+A347	MEDDRA-PT-ID E97 10052501
+A348	CUI E98 C0339546
+A349	UMLS-Preferred-Name E98 Retinal Pigment Epithelial Detachment
+A350	MEDDRA-PT E98 Detachment of retinal pigment epithelium
+A351	MEDDRA-PT-ID E98 10052501
+A352	CUI E99 C0042164
+A353	UMLS-Preferred-Name E99 Uveitis
+A354	MEDDRA-PT E99 Uveitis
+A355	MEDDRA-PT-ID E99 10046851
+A356	CUI E100 C0022081
+A357	UMLS-Preferred-Name E100 Iritis
+A358	MEDDRA-PT E100 Iritis
+A359	MEDDRA-PT-ID E100 10022955
+A360	CUI E102 C0042164
+A361	UMLS-Preferred-Name E102 Uveitis
+A362	MEDDRA-PT E102 Uveitis
+A363	MEDDRA-PT-ID E102 10046851
+A364	CUI E103 C0022081
+A365	UMLS-Preferred-Name E103 Iritis
+A366	MEDDRA-PT E103 Iritis
+A367	MEDDRA-PT-ID E103 10022955
+A368	CUI E104 C0042164
+A369	UMLS-Preferred-Name E104 Uveitis
+A370	MEDDRA-PT E104 Uveitis
+A371	MEDDRA-PT-ID E104 10046851
+A372	CUI E105 C0235723
+A373	UMLS-Preferred-Name E105 Reaction febrile
+A374	MEDDRA-PT E105 Pyrexia
+A375	MEDDRA-PT-ID E105 10037660
+A376	LLT E105 Febrile reaction
+A377	LLT-ID E105 10016289
+A378	CUI E107 C0015967
+A379	UMLS-Preferred-Name E107 Fever
+A380	MEDDRA-PT E107 Pyrexia
+A381	MEDDRA-PT-ID E107 10037660
+A382	LLT E107 Fever
+A383	LLT-ID E107 10016558
+A384	CUI E108 C0020649
+A385	UMLS-Preferred-Name E108 Hypotension
+A386	MEDDRA-PT E108 Hypotension
+A387	MEDDRA-PT-ID E108 10021097
+A388	CUI E109 C0424790
+A389	UMLS-Preferred-Name E109 Rigor - Temperature-associated observation
+A390	MEDDRA-PT E109 Chills
+A391	MEDDRA-PT-ID E109 10008531
+A392	LLT E109 Rigors
+A393	LLT-ID E109 10039177
+A394	CUI E110 C0085593
+A395	UMLS-Preferred-Name E110 Chills
+A396	MEDDRA-PT E110 Chills
+A397	MEDDRA-PT-ID E110 10008531
+A398	CUI E111 C0011175
+A399	UMLS-Preferred-Name E111 Dehydration
+A400	MEDDRA-PT E111 Dehydration
+A401	MEDDRA-PT-ID E111 10012174
+A402	CUI E112 C0035078
+A403	UMLS-Preferred-Name E112 Kidney Failure
+A404	MEDDRA-PT E112 Renal failure
+A405	MEDDRA-PT-ID E112 10038435
+A406	CUI E114 C0015967
+A407	UMLS-Preferred-Name E114 Fever
+A408	MEDDRA-PT E114 Pyrexia
+A409	MEDDRA-PT-ID E114 10037660
+A410	LLT E114 Fever
+A411	LLT-ID E114 10016558
+A412	CUI E117 C0015967
+A413	UMLS-Preferred-Name E117 Fever
+A414	MEDDRA-PT E117 Pyrexia
+A415	MEDDRA-PT-ID E117 10037660
+A416	LLT E117 Fever
+A417	LLT-ID E117 10016558
+A418	CUI E118 C0015967
+A419	UMLS-Preferred-Name E118 Fever
+A420	MEDDRA-PT E118 Pyrexia
+A421	MEDDRA-PT-ID E118 10037660
+A422	LLT E118 Fever
+A423	LLT-ID E118 10016558
+A424	CUI E119 C0235723
+A425	UMLS-Preferred-Name E119 Reaction febrile
+A426	MEDDRA-PT E119 Pyrexia
+A427	MEDDRA-PT-ID E119 10037660
+A428	LLT E119 Febrile reaction
+A429	LLT-ID E119 10016289
+A430	CUI E121 C0015967
+A431	UMLS-Preferred-Name E121 Fever
+A432	MEDDRA-PT E121 Pyrexia
+A433	MEDDRA-PT-ID E121 10037660
+A434	LLT E121 Fever
+A435	LLT-ID E121 10016558
+A436	CUI E122 C0020649
+A437	UMLS-Preferred-Name E122 Hypotension
+A438	MEDDRA-PT E122 Hypotension
+A439	MEDDRA-PT-ID E122 10021097
+A440	CUI E123 C0424790
+A441	UMLS-Preferred-Name E123 Rigor - Temperature-associated observation
+A442	MEDDRA-PT E123 Chills
+A443	MEDDRA-PT-ID E123 10008531
+A444	LLT E123 Rigors
+A445	LLT-ID E123 10039177
+A446	CUI E124 C0085593
+A447	UMLS-Preferred-Name E124 Chills
+A448	MEDDRA-PT E124 Chills
+A449	MEDDRA-PT-ID E124 10008531
+A450	CUI E125 C0015967
+A451	UMLS-Preferred-Name E125 Fever
+A452	MEDDRA-PT E125 Pyrexia
+A453	MEDDRA-PT-ID E125 10037660
+A454	LLT E125 Fever
+A455	LLT-ID E125 10016558
+A456	CUI E128 C0235723
+A457	UMLS-Preferred-Name E128 Reaction febrile
+A458	MEDDRA-PT E128 Pyrexia
+A459	MEDDRA-PT-ID E128 10037660
+A460	LLT E128 Febrile reaction
+A461	LLT-ID E128 10016289
+A462	CUI E130 C0015967
+A463	UMLS-Preferred-Name E130 Fever
+A464	MEDDRA-PT E130 Pyrexia
+A465	MEDDRA-PT-ID E130 10037660
+A466	LLT E130 Fever
+A467	LLT-ID E130 10016558
+A468	CUI E131 C0020649
+A469	UMLS-Preferred-Name E131 Hypotension
+A470	MEDDRA-PT E131 Hypotension
+A471	MEDDRA-PT-ID E131 10021097
+A472	CUI E132 C0424790
+A473	UMLS-Preferred-Name E132 Rigor - Temperature-associated observation
+A474	MEDDRA-PT E132 Chills
+A475	MEDDRA-PT-ID E132 10008531
+A476	LLT E132 Rigors
+A477	LLT-ID E132 10039177
+A478	CUI E133 C0085593
+A479	UMLS-Preferred-Name E133 Chills
+A480	MEDDRA-PT E133 Chills
+A481	MEDDRA-PT-ID E133 10008531
+A482	CUI E134 C0015967
+A483	UMLS-Preferred-Name E134 Fever
+A484	MEDDRA-PT E134 Pyrexia
+A485	MEDDRA-PT-ID E134 10037660
+A486	LLT E134 Fever
+A487	LLT-ID E134 10016558
+A488	CUI E135 C0085593
+A489	UMLS-Preferred-Name E135 Chills
+A490	MEDDRA-PT E135 Chills
+A491	MEDDRA-PT-ID E135 10008531
+A492	CUI E136 C0424790
+A493	UMLS-Preferred-Name E136 Rigor - Temperature-associated observation
+A494	MEDDRA-PT E136 Chills
+A495	MEDDRA-PT-ID E136 10008531
+A496	LLT E136 Rigors
+A497	LLT-ID E136 10039177
+A498	CUI E137 C0011175
+A499	UMLS-Preferred-Name E137 Dehydration
+A500	MEDDRA-PT E137 Dehydration
+A501	MEDDRA-PT-ID E137 10012174
+A502	CUI E138 C0035078
+A503	UMLS-Preferred-Name E138 Kidney Failure
+A504	MEDDRA-PT E138 Renal failure
+A505	MEDDRA-PT-ID E138 10038435
+A506	CUI E139 C0039070
+A507	UMLS-Preferred-Name E139 Syncope
+A508	MEDDRA-PT E139 Syncope
+A509	MEDDRA-PT-ID E139 10042772
+A510	CUI E140 C0015967
+A511	UMLS-Preferred-Name E140 Fever
+A512	MEDDRA-PT E140 Pyrexia
+A513	MEDDRA-PT-ID E140 10037660
+A514	LLT E140 Fever
+A515	LLT-ID E140 10016558
+A516	CUI E141 C0015967
+A517	UMLS-Preferred-Name E141 Fever
+A518	MEDDRA-PT E141 Pyrexia
+A519	MEDDRA-PT-ID E141 10037660
+A520	LLT E141 Fever
+A521	LLT-ID E141 10016558
+A522	CUI E142 C0015967
+A523	UMLS-Preferred-Name E142 Fever
+A524	MEDDRA-PT E142 Pyrexia
+A525	MEDDRA-PT-ID E142 10037660
+A526	CUI E143 C1167791
+A527	UMLS-Preferred-Name E143 Skin toxicity
+A528	MEDDRA-PT E143 Skin toxicity
+A529	MEDDRA-PT-ID E143 10059516
+A530	CUI E146 C1167791
+A531	UMLS-Preferred-Name E146 Skin toxicity
+A532	MEDDRA-PT E146 Skin toxicity
+A533	MEDDRA-PT-ID E146 10059516
+A534	CUI E147 C1167791
+A535	UMLS-Preferred-Name E147 Skin toxicity
+A536	MEDDRA-PT E147 Skin toxicity
+A537	MEDDRA-PT-ID E147 10059516
+A538	CUI E148 C1167791
+A539	UMLS-Preferred-Name E148 Skin toxicity
+A540	MEDDRA-PT E148 Skin toxicity
+A541	MEDDRA-PT-ID E148 10059516
+A542	CUI E149 C1167791
+A543	UMLS-Preferred-Name E149 Skin toxicity
+A544	MEDDRA-PT E149 Skin toxicity
+A545	MEDDRA-PT-ID E149 10059516
+A546	CUI E150 C0037278
+A547	UMLS-Preferred-Name E150 Skin Diseases, Infectious
+A548	MEDDRA-PT E150 Skin infection
+A549	MEDDRA-PT-ID E150 10040872
+A550	CUI E152 C0020456
+A551	UMLS-Preferred-Name E152 Hyperglycemia
+A552	MEDDRA-PT E152 Hyperglycaemia
+A553	MEDDRA-PT-ID E152 10020635
+A554	LLT E152 Hyperglycemia
+A555	LLT-ID E152 10020639
+A556	CUI E154 C0020456
+A557	UMLS-Preferred-Name E154 Hyperglycemia
+A558	MEDDRA-PT E154 Hyperglycaemia
+A559	MEDDRA-PT-ID E154 10020635
+A560	LLT E154 Hyperglycemia
+A561	LLT-ID E154 10020639
+A562	CUI E156 C0020456
+A563	UMLS-Preferred-Name E156 Hyperglycemia
+A564	MEDDRA-PT E156 Hyperglycaemia
+A565	MEDDRA-PT-ID E156 10020635
+A566	LLT E156 Hyperglycemia
+A567	LLT-ID E156 10020639
+A568	CUI E158 C0002878
+A569	UMLS-Preferred-Name E158 Anemia, Hemolytic
+A570	MEDDRA-PT E158 Haemolytic anaemia
+A571	MEDDRA-PT-ID E158 10018916
+A572	LLT E158 Hemolytic anemia
+A573	LLT-ID E158 10019493
+A574	CUI E160 C0854268
+A575	UMLS-Preferred-Name E160 Foetal damage
+A576	MEDDRA-PT E160 Foetal damage
+A577	MEDDRA-PT-ID E160 10016852
+A578	LLT E160 Fetal damage
+A579	LLT-ID E160 10054743
+A580	CUI E162 C0232910
+A581	UMLS-Preferred-Name E162 Teratogenesis
+A582	MEDDRA-PT E162 Teratogenicity
+A583	MEDDRA-PT-ID E162 10043275
+A584	CUI E163 C0270009
+A585	UMLS-Preferred-Name E163 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A586	MEDDRA-PT E163 Maternal drugs affecting foetus
+A587	MEDDRA-PT-ID E163 10026923
+A588	LLT E163 Drug toxicity NEC affecting foetus
+A589	LLT-ID E163 10013750
+A590	CUI E167 C0035305
+A591	UMLS-Preferred-Name E167 Retinal Detachment
+A592	MEDDRA-PT E167 Retinal detachment
+A593	MEDDRA-PT-ID E167 10038848
+A594	CUI E168 C0015967
+A595	UMLS-Preferred-Name E168 Fever
+A596	MEDDRA-PT E168 Pyrexia
+A597	MEDDRA-PT-ID E168 10037660
+A598	CUI E169 C1519689
+A599	UMLS-Preferred-Name E169 Tumor Promotion
+A600	MEDDRA-PT E169 Carcinogenicity
+A601	MEDDRA-PT-ID E169 10007269
+A602	CUI E170 C0019080
+A603	UMLS-Preferred-Name E170 Hemorrhage
+A604	MEDDRA-PT E170 Haemorrhage
+A605	MEDDRA-PT-ID E170 10055798
+A606	LLT E170 Hemorrhage
+A607	LLT-ID E170 10019524
+A608	CUI E171 C1861172
+A609	UMLS-Preferred-Name E171 Venous Thromboembolism
+A610	MEDDRA-PT E171 Embolism venous
+A611	MEDDRA-PT-ID E171 10014522
+A612	LLT E171 Venous thromboembolism
+A613	LLT-ID E171 10066899
+A614	CUI E172 C0235723
+A615	UMLS-Preferred-Name E172 Reaction febrile
+A616	MEDDRA-PT E172 Pyrexia
+A617	MEDDRA-PT-ID E172 10037660
+A618	LLT E172 Febrile reaction
+A619	LLT-ID E172 10016289
+A620	CUI E174 C0270009
+A621	UMLS-Preferred-Name E174 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A622	MEDDRA-PT E174 Maternal drugs affecting foetus
+A623	MEDDRA-PT-ID E174 10026923
+A624	LLT E174 Drug toxicity NEC affecting foetus
+A625	LLT-ID E174 10013750

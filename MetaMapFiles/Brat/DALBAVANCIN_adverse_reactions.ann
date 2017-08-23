@@ -1,0 +1,320 @@
+T1	AdverseReaction 375 381	nausea
+T2	AdverseReaction 390 398	headache
+T3	AdverseReaction 411 419	diarrhea
+T4	AdverseReaction 1613 1619	nausea
+T5	AdverseReaction 1628 1636	headache
+T6	AdverseReaction 1649 1657	diarrhea
+T7	AdverseReaction 2074 2080	Nausea
+T8	AdverseReaction 2128 2136	Vomiting
+T9	AdverseReaction 2182 2190	Diarrhea
+T10	AdverseReaction 2236 2244	Headache
+T11	AdverseReaction 2290 2294	Rash
+T12	AdverseReaction 2344 2352	Pruritus
+T13	AdverseReaction 2666 2672	anemia
+T14	AdverseReaction 2674 2692	hemorrhagic anemia
+T15	AdverseReaction 2694 2704	leucopenia
+T16	AdverseReaction 2706 2717	neutropenia
+T17	AdverseReaction 2719 2735	thrombocytopenia
+T18	AdverseReaction 2737 2746	petechiae
+T19	AdverseReaction 2748 2760	eosinophilia
+T20	AdverseReaction 2762 2776	thrombocytosis
+T21	AdverseReaction 2813 2840	gastrointestinal hemorrhage
+T22	AdverseReaction 2842 2848	melena
+T23	AdverseReaction 2850 2862	hematochezia
+T24	AdverseReaction 2864 2878	abdominal pain
+T25	AdverseReaction 2941 2967	infusion-related reactions
+T26	AdverseReaction 3001 3015	hepatotoxicity
+T27	AdverseReaction 3049 3071	anaphylactoid reaction
+T28	AdverseReaction 3110 3140	Clostridium difficile  colitis
+T29	AdverseReaction 3142 3158	oral candidiasis
+T30	AdverseReaction 3160 3190	vulvovaginal mycotic infection
+T31	AdverseReaction 3215 3246	hepatic transaminases increased
+T32	AdverseReaction 3248 3284	blood alkaline phosphatase increased
+T33	AdverseReaction 3286 3326	international normalized ratio increased
+T34	AdverseReaction 3371 3383	hypoglycemia
+T35	AdverseReaction 3418 3427	dizziness
+T36	AdverseReaction 3485 3497	bronchospasm
+T37	AdverseReaction 3546 3555	urticaria
+T38	AdverseReaction 3584 3592	flushing
+T39	AdverseReaction 3594 3603	phlebitis
+T40	AdverseReaction 3605 3621	wound hemorrhage
+T41	AdverseReaction 3623 3643	spontaneous hematoma
+T42	AdverseReaction 3818 3832	ALT elevations
+T43	Severity 3846 3879	3 times the upper limit of normal
+T44	AdverseReaction 3968 4004	ALT values greater than 10 times ULN
+T45	AdverseReaction 4281 4295	ALT elevations
+T46	Severity 4309 4321	20 times ULN
+T47	AdverseReaction 4323 4337	ALT elevations
+T48	AdverseReaction 4454 4467	ALT elevation
+T49	Severity 4481 4493	10 times ULN
+T50	Negation 4371 4373	No
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42 Effect:E43
+E43	Severity:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45 Effect:E46
+E46	Severity:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48 Effect:E49 Negated:E50
+E49	Severity:T49
+E50	Negation:T50
+A1	CUI E1 C0027497
+A2	UMLS-Preferred-Name E1 Nausea
+A3	MEDDRA-PT E1 Nausea
+A4	MEDDRA-PT-ID E1 10028813
+A5	CUI E2 C0018681
+A6	UMLS-Preferred-Name E2 Headache
+A7	MEDDRA-PT E2 Headache
+A8	MEDDRA-PT-ID E2 10019211
+A9	CUI E3 C0011991
+A10	UMLS-Preferred-Name E3 Diarrhea
+A11	MEDDRA-PT E3 Diarrhoea
+A12	MEDDRA-PT-ID E3 10012735
+A13	LLT E3 Diarrhea
+A14	LLT-ID E3 10012727
+A15	CUI E4 C0027497
+A16	UMLS-Preferred-Name E4 Nausea
+A17	MEDDRA-PT E4 Nausea
+A18	MEDDRA-PT-ID E4 10028813
+A19	CUI E5 C0018681
+A20	UMLS-Preferred-Name E5 Headache
+A21	MEDDRA-PT E5 Headache
+A22	MEDDRA-PT-ID E5 10019211
+A23	CUI E6 C0011991
+A24	UMLS-Preferred-Name E6 Diarrhea
+A25	MEDDRA-PT E6 Diarrhoea
+A26	MEDDRA-PT-ID E6 10012735
+A27	LLT E6 Diarrhea
+A28	LLT-ID E6 10012727
+A29	CUI E7 C0027497
+A30	UMLS-Preferred-Name E7 Nausea
+A31	MEDDRA-PT E7 Nausea
+A32	MEDDRA-PT-ID E7 10028813
+A33	CUI E8 C0042963
+A34	UMLS-Preferred-Name E8 Vomiting
+A35	MEDDRA-PT E8 Vomiting
+A36	MEDDRA-PT-ID E8 10047700
+A37	CUI E9 C0011991
+A38	UMLS-Preferred-Name E9 Diarrhea
+A39	MEDDRA-PT E9 Diarrhoea
+A40	MEDDRA-PT-ID E9 10012735
+A41	LLT E9 Diarrhea
+A42	LLT-ID E9 10012727
+A43	CUI E10 C0018681
+A44	UMLS-Preferred-Name E10 Headache
+A45	MEDDRA-PT E10 Headache
+A46	MEDDRA-PT-ID E10 10019211
+A47	CUI E11 C0015230
+A48	UMLS-Preferred-Name E11 Exanthema
+A49	MEDDRA-PT E11 Rash
+A50	MEDDRA-PT-ID E11 10037844
+A51	CUI E12 C0033774
+A52	UMLS-Preferred-Name E12 Pruritus
+A53	MEDDRA-PT E12 Pruritus
+A54	MEDDRA-PT-ID E12 10037087
+A55	CUI E13 C0002871
+A56	UMLS-Preferred-Name E13 Anemia
+A57	MEDDRA-PT E13 Anaemia
+A58	MEDDRA-PT-ID E13 10002034
+A59	LLT E13 Anemia
+A60	LLT-ID E13 10002272
+A61	CUI E14 C0948824
+A62	UMLS-Preferred-Name E14 Anemia due to blood loss
+A63	MEDDRA-PT E14 Haemorrhagic anaemia
+A64	MEDDRA-PT-ID E14 10052293
+A65	LLT E14 Hemorrhagic anemia
+A66	LLT-ID E14 10052294
+A67	CUI E15 C0023530
+A68	UMLS-Preferred-Name E15 Leukopenia
+A69	MEDDRA-PT E15 Leukopenia
+A70	MEDDRA-PT-ID E15 10024384
+A71	LLT E15 Leucopenia
+A72	LLT-ID E15 10024283
+A73	CUI E16 C0027947
+A74	UMLS-Preferred-Name E16 Neutropenia
+A75	MEDDRA-PT E16 Neutropenia
+A76	MEDDRA-PT-ID E16 10029354
+A77	CUI E17 C0040034
+A78	UMLS-Preferred-Name E17 Thrombocytopenia
+A79	MEDDRA-PT E17 Thrombocytopenia
+A80	MEDDRA-PT-ID E17 10043554
+A81	CUI E18 C0031256
+A82	UMLS-Preferred-Name E18 Petechiae
+A83	MEDDRA-PT E18 Petechiae
+A84	MEDDRA-PT-ID E18 10034754
+A85	CUI E19 C0014457
+A86	UMLS-Preferred-Name E19 Eosinophilia
+A87	MEDDRA-PT E19 Eosinophilia
+A88	MEDDRA-PT-ID E19 10014950
+A89	CUI E20 C0836924
+A90	UMLS-Preferred-Name E20 Thrombocytosis
+A91	MEDDRA-PT E20 Thrombocytosis
+A92	MEDDRA-PT-ID E20 10043563
+A93	CUI E21 C0017181
+A94	UMLS-Preferred-Name E21 Gastrointestinal Hemorrhage
+A95	MEDDRA-PT E21 Gastrointestinal haemorrhage
+A96	MEDDRA-PT-ID E21 10017955
+A97	LLT E21 Gastrointestinal hemorrhage
+A98	LLT-ID E21 10017960
+A99	CUI E22 C0025222
+A100	UMLS-Preferred-Name E22 Melena
+A101	MEDDRA-PT E22 Melaena
+A102	MEDDRA-PT-ID E22 10027141
+A103	LLT E22 Melena
+A104	LLT-ID E22 10027162
+A105	CUI E23 C0018932
+A106	UMLS-Preferred-Name E23 Hematochezia
+A107	MEDDRA-PT E23 Haematochezia
+A108	MEDDRA-PT-ID E23 10018836
+A109	LLT E23 Hematochezia
+A110	LLT-ID E23 10060544
+A111	CUI E24 C0000737
+A112	UMLS-Preferred-Name E24 Abdominal Pain
+A113	MEDDRA-PT E24 Abdominal pain
+A114	MEDDRA-PT-ID E24 10000081
+A115	CUI E25 C0948715
+A116	UMLS-Preferred-Name E25 Infusion related reaction
+A117	MEDDRA-PT E25 Infusion related reaction
+A118	MEDDRA-PT-ID E25 10051792
+A119	CUI E26 C0235378
+A120	UMLS-Preferred-Name E26 Hepatotoxicity
+A121	MEDDRA-PT E26 Hepatotoxicity
+A122	MEDDRA-PT-ID E26 10019851
+A123	CUI E27 C0340865
+A124	UMLS-Preferred-Name E27 Anaphylactoid reaction
+A125	MEDDRA-PT E27 Anaphylactoid reaction
+A126	MEDDRA-PT-ID E27 10002216
+A127	CUI E28 C0238106
+A128	UMLS-Preferred-Name E28 Clostridium difficile colitis
+A129	MEDDRA-PT E28 Clostridium difficile colitis
+A130	MEDDRA-PT-ID E28 10009657
+A131	CUI E29 C0006849
+A132	UMLS-Preferred-Name E29 Oral candidiasis
+A133	MEDDRA-PT E29 Oral candidiasis
+A134	MEDDRA-PT-ID E29 10030963
+A135	CUI E30 C1609512
+A136	UMLS-Preferred-Name E30 Vulvovaginal mycotic infection
+A137	MEDDRA-PT E30 Vulvovaginal mycotic infection
+A138	MEDDRA-PT-ID E30 10064899
+A139	CUI E31 C1848701
+A140	UMLS-Preferred-Name E31 Elevated hepatic transaminases
+A141	MEDDRA-PT E31 Transaminases increased
+A142	MEDDRA-PT-ID E31 10054889
+A143	CUI E32 C0852911
+A144	UMLS-Preferred-Name E32 Blood alkaline phosphatase increased
+A145	MEDDRA-PT E32 Blood alkaline phosphatase increased
+A146	MEDDRA-PT-ID E32 10059570
+A147	CUI E33 C0853225
+A148	UMLS-Preferred-Name E33 INR raised
+A149	MEDDRA-PT E33 International normalised ratio increased
+A150	MEDDRA-PT-ID E33 10022595
+A151	LLT E33 International normalized ratio increased
+A152	LLT-ID E33 10062459
+A153	CUI E34 C0020615
+A154	UMLS-Preferred-Name E34 Hypoglycemia
+A155	MEDDRA-PT E34 Hypoglycaemia
+A156	MEDDRA-PT-ID E34 10020993
+A157	LLT E34 Hypoglycemia
+A158	LLT-ID E34 10021005
+A159	CUI E35 C0012833
+A160	UMLS-Preferred-Name E35 Dizziness
+A161	MEDDRA-PT E35 Dizziness
+A162	MEDDRA-PT-ID E35 10013573
+A163	CUI E36 C0006266
+A164	UMLS-Preferred-Name E36 Bronchial Spasm
+A165	MEDDRA-PT E36 Bronchospasm
+A166	MEDDRA-PT-ID E36 10006482
+A167	CUI E37 C0042109
+A168	UMLS-Preferred-Name E37 Urticaria
+A169	MEDDRA-PT E37 Urticaria
+A170	MEDDRA-PT-ID E37 10046735
+A171	CUI E38 C0016382
+A172	UMLS-Preferred-Name E38 Flushing
+A173	MEDDRA-PT E38 Flushing
+A174	MEDDRA-PT-ID E38 10016825
+A175	CUI E39 C0031542
+A176	UMLS-Preferred-Name E39 Phlebitis
+A177	MEDDRA-PT E39 Phlebitis
+A178	MEDDRA-PT-ID E39 10034879
+A179	CUI E40 C0241742
+A180	UMLS-Preferred-Name E40 Wound hemorrhage
+A181	MEDDRA-PT E40 Wound haemorrhage
+A182	MEDDRA-PT-ID E40 10051373
+A183	LLT E40 Wound hemorrhage
+A184	LLT-ID E40 10055360
+A185	CUI E41 C1697453
+A186	UMLS-Preferred-Name E41 Spontaneous hematomas
+A187	MEDDRA-PT E41 Spontaneous haematoma
+A188	MEDDRA-PT-ID E41 10065304
+A189	LLT E41 Spontaneous hematoma
+A190	LLT-ID E41 10065310
+A191	CUI E42 C0151905
+A192	UMLS-Preferred-Name E42 Alanine aminotransferase increased
+A193	MEDDRA-PT E42 Alanine aminotransferase increased
+A194	MEDDRA-PT-ID E42 10001551
+A195	LLT E42 ALT increased
+A196	LLT-ID E42 10001845
+A197	CUI E44 C0151905
+A198	UMLS-Preferred-Name E44 Alanine aminotransferase increased
+A199	MEDDRA-PT E44 Alanine aminotransferase increased
+A200	MEDDRA-PT-ID E44 10001551
+A201	LLT E44 ALT increased
+A202	LLT-ID E44 10001845
+A203	CUI E45 C0151905
+A204	UMLS-Preferred-Name E45 Alanine aminotransferase increased
+A205	MEDDRA-PT E45 Alanine aminotransferase increased
+A206	MEDDRA-PT-ID E45 10001551
+A207	LLT E45 ALT increased
+A208	LLT-ID E45 10001845
+A209	CUI E47 C0151905
+A210	UMLS-Preferred-Name E47 Alanine aminotransferase increased
+A211	MEDDRA-PT E47 Alanine aminotransferase increased
+A212	MEDDRA-PT-ID E47 10001551
+A213	LLT E47 ALT increased
+A214	LLT-ID E47 10001845
+A215	CUI E48 C0151905
+A216	UMLS-Preferred-Name E48 Alanine aminotransferase increased
+A217	MEDDRA-PT E48 Alanine aminotransferase increased
+A218	MEDDRA-PT-ID E48 10001551
+A219	LLT E48 ALT increased
+A220	LLT-ID E48 10001845

@@ -1,0 +1,133 @@
+00000000|AA|URI|upper respiratory infection|1|3|5|27|2593:3
+00000000|AA|PDE5|phosphodiesterase type 5|1|4|5|24|8682:4
+00000000|MMI|119.93|Adverse reactions|C0559546|[patf]|["ADVERSE REACTION"-tx-27-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-27-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-26-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-25-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-25-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-24-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-19-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-19-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-18-"adverse reactions"-noun-0,"Adverse reactions"-tx-14-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-11-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-11-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-11-"Adverse reactions"-noun-0,"Adverse reactions"-tx-10-"adverse reactions"-noun-0,"Adverse reactions"-tx-9-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-2-"adverse reaction"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|7854/16;7676/17;7592/17;6266/16;6045/17;5990/17;3840/16;3714/17;3576/17;3060/17;1714/16;1536/17;2414/17;1404/17;1215/17;417/16;[6/17],[207/17];50/17|
+00000000|MMI|56.74|Headache|C0018681|[sosy]|["HEADACHE"-tx-27-"Headache"-noun-0,"HEADACHE"-tx-25-"Headache"-noun-0,"HEADACHE"-tx-19-"Headache"-noun-0,"HEADACHE"-tx-11-"Headache"-noun-0,"HEADACHE"-tx-1-"headache"-noun-0]|TX|7968/8;6382/8;3950/8;1839/8;106/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|45.43|Back Pain|C0004604|[sosy]|["BACKPAIN"-tx-25-"Back pain"-noun-0,"BACKPAIN"-tx-19-"back pain"-noun-0,"BACKPAIN"-tx-11-"Back pain"-noun-0,"BACKPAIN"-tx-1-"back pain"-noun-0]|TX|6937/9;4597/9;2291/9;165/9|C10.597.617.140;C23.888.592.612.107
+00000000|MMI|36.22|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-25-"Nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-19-"Nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-11-"Nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-1-"nasopharyngitis"-noun-0]|TX|6604/15;4164/15;2178/15;144/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|33.54|Vertigo|C0042571|[sosy]|["dizziness"-tx-25-"Dizziness"-noun-0,"VERTIGO"-tx-23-"vertigo"-noun-0,"dizziness"-tx-19-"dizziness"-noun-0]|TX|7159/9;5491/7;4586/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|30.89|Membranous glomerulonephritis|C0017665|[dsyn]|["mgn"-tx-27-"mgn"-noun-0]|TX|[7930/3],[7952/3]|C12.777.419.570.363.625;C13.351.968.419.570.363.625;C20.111.535
+00000000|MMI|28.37|Upper Respiratory Infections|C0041912|[dsyn]|["Respiratory Infection, Upper"-tx-25-"Upper respiratory infection"-noun-0,"Respiratory Infection, Upper"-tx-19-"URI"-noun-0,"Respiratory Infection, Upper"-tx-19-"upper respiratory infection"-noun-0,"Respiratory Infection, Upper"-tx-11-"upper respiratory infection"-noun-0]|TX|6715/27;4546/3;4517/27;2564/27|C01.539.739;C08.730
+00000000|MMI|27.69|Flushing|C0016382|[sosy]|["FLUSHING"-tx-25-"Flushing"-noun-0,"flushing reaction"-tx-19-"Flushing reactions"-noun-0,"FLUSHING"-tx-11-"Flushing"-noun-0,"FLUSHING"-tx-1-"flushing"-verb-0]|TX|6493/8;4057/8,4393/9;1952/8;116/8|C23.888.388
+00000000|MMI|26.51|Low Vision|C0042798|[dsyn]|["Decreased vision"-tx-28-"decreased vision"-noun-0,"loss of vision"-tx-28-"loss of vision"-noun-0]|TX|8523/16;8560/14|C10.597.751.941.905;C11.966.905;C23.888.592.763.941.848
+00000000|MMI|23.73|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-29-"hypertension"-noun-1,"HYPERTENSION"-tx-19-"hypertension"-noun-0,"HYPERTENSION"-tx-11-"hypertension"-noun-0]|TX|8913/12;4620/12;2651/12|C14.907.489
+00000000|MMI|22.43|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-25-"Dizziness"-noun-0,"Dizzyness"-tx-19-"dizziness"-noun-0]|TX|7159/9;4586/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|22.19|Visual Impairment|C3665347|[fndg]|["Decreased vision"-tx-28-"decreased vision"-noun-0,"Loss of vision"-tx-28-"loss of vision"-noun-0]|TX|8523/16;8560/14|C10.597.751.941;C11.966;C23.888.592.763.941
+00000000|MMI|20.07|Bronchitis|C0006277|[dsyn]|["BRONCHITIS"-tx-19-"bronchitis"-noun-0,"BRONCHITIS"-tx-11-"bronchitis"-noun-0]|TX|4574/10;2599/10|C08.127.446;C08.381.495.146;C08.730.099
+00000000|MMI|20.07|Diabetes Mellitus|C0011849|[dsyn]|["Diabetes"-tx-29-"diabetes"-noun-1,"DIABETES MELLITUS"-tx-8-"diabetes mellitus"-noun-0]|TX|8903/8;1160/17|C18.452.394.750;C19.246
+00000000|MMI|20.07|Influenza|C0021400|[dsyn]|["INFLUENZA"-tx-19-"influenza"-noun-0,"INFLUENZA"-tx-11-"influenza"-noun-0]|TX|4552/9;2611/9|C02.782.620.365;C08.730.310
+00000000|MMI|20.07|Sinusitis|C0037199|[dsyn]|["SINUSITIS"-tx-19-"sinusitis"-noun-0,"SINUSITIS"-tx-11-"sinusitis"-noun-0]|TX|4563/9;2622/9|C08.460.692.752;C08.730.749;C09.603.692.752
+00000000|MMI|16.48|Angina, Unstable|C0002965|[dsyn]|["Angina, Unstable"-tx-23-"unstable angina"-noun-0]|TX|5112/15|C10.597.617.192.500.150;C14.280.647.187.150;C14.907.585.187.150;C23.888.592.612.233.500.150
+00000000|MMI|15.40|2+|C3833492|[fndg]|["2+"-tx-27-"2"-percentage-0,"2+"-tx-26-"2"-percentage-0,"2+"-tx-14-"2"-percentage-0,"2+"-tx-11-"2"-percentage-0,"2+"-tx-9-"2"-percentage-0]|TX|7709/1;7626/1;3143/1;2161/1;[1302/1],[1312/1]|
+00000000|MMI|14.80|50%|C3842586|[fndg]|["50%"-tx-29-"50"-integer-1,"50%"-tx-17-"50"-integer-0,"50%"-tx-16-"50"-integer-0,"50%"-tx-14-"50"-integer-0,"50%"-tx-11-"50"-integer-0,"50%"-tx-9-"50"-integer-0]|TX|8899/2;3544/2;3363/2;3113/2;1767/2;1267/2|
+00000000|MMI|14.80|<50|C3843766|[fndg]|["<50"-tx-29-"50"-integer-1,"<50"-tx-17-"50"-integer-0,"<50"-tx-16-"50"-integer-0,"<50"-tx-14-"50"-integer-0,"<50"-tx-11-"50"-integer-0,"<50"-tx-9-"50"-integer-0]|TX|8899/2;3544/2;3363/2;3113/2;1767/2;1267/2|
+00000000|MMI|14.32|Arthralgia|C0003862|[sosy]|["ARTHRALGIA"-tx-19-"arthralgia"-noun-0]|TX|4608/10|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|14.32|Gastroesophageal reflux disease|C0017168|[dsyn]|["Gastrooesophageal reflux disease"-tx-23-"gastroesophageal reflux disease"-noun-0]|TX|5194/31|C06.405.117.119.500.484
+00000000|MMI|14.32|Kidney Calculi|C0022650|[dsyn]|["Nephrolithiasis"-tx-23-"nephrolithiasis"-noun-0]|TX|5667/15|C12.777.419.600.500;C12.777.967.249.500;C12.777.967.500.503;C13.351.968.419.600.500;C13.351.968.967.249.500;C13.351.968.967.500.503;C23.300.175.850.550
+00000000|MMI|14.32|Myalgia|C0231528|[sosy]|["MYALGIA"-tx-23-"myalgia"-noun-0]|TX|5413/7|C05.651.542;C10.597.617.231.249;C10.668.491.525;C23.888.592.612.547.249;F02.830.816.353.500;G11.561.600.810.353.500
+00000000|MMI|14.32|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-21-"uncertain"-adj-0]|TX|4870/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|13.36|Blind Vision|C0456909|[fndg]|["Loss of vision"-tx-28-"loss of vision"-noun-0]|TX|8560/14|C10.597.751.941.162;C11.966.075;C23.888.592.763.941.162
+00000000|MMI|13.30|Angina Pectoris|C0002962|[fndg]|["ANGINA"-tx-23-"angina"-noun-0]|TX|5104/6|C10.597.617.192.500;C14.280.647.187;C14.907.585.187;C23.888.592.612.233.500
+00000000|MMI|12.65|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-27-"Headache"-noun-0,"headache"-tx-25-"Headache"-noun-0,"headache"-tx-19-"Headache"-noun-0,"headache"-tx-11-"Headache"-noun-0,"headache"-tx-1-"headache"-noun-0]|TX|7968/8;6382/8;3950/8;1839/8;106/8|
+00000000|MMI|12.64|ENT surgical result - nose nasal congestion|C2136984|[patf]|["nasal congestion"-tx-27-"Nasal congestion"-noun-0,"nasal congestion"-tx-25-"Nasal congestion"-noun-0,"nasal congestion"-tx-19-"Nasal congestion"-noun-0,"nasal congestion"-tx-11-"Nasal congestion"-noun-0,"nasal congestion"-tx-1-"nasal congestion"-noun-0]|TX|8079/16;6826/16;4271/16;2065/16;126/16|
+00000000|MMI|12.64|Nasal congestion (finding)|C0027424|[sosy]|["NASAL CONGESTION"-tx-27-"Nasal congestion"-noun-0,"NASAL CONGESTION"-tx-25-"Nasal congestion"-noun-0,"NASAL CONGESTION"-tx-19-"Nasal congestion"-noun-0,"NASAL CONGESTION"-tx-11-"Nasal congestion"-noun-0,"NASAL CONGESTION"-tx-1-"nasal congestion"-noun-0]|TX|8079/16;6826/16;4271/16;2065/16;126/16|
+00000000|MMI|12.35|1+|C3816745|[fndg]|["1+"-tx-27-"1"-integer-0,"1+"-tx-20-"1"-percentage-0,"1+"-tx-11-"1"-percentage-0,"1+"-tx-9-"1"-percentage-0,"1+"-tx-6-"1"-percentage-0]|TX|8351/1;4695/1;2387/1;1296/1;1097/1|
+00000000|MMI|12.17|Coronary Arteriosclerosis|C0010054|[dsyn]|["coronary artery disease"-tx-29-"coronary artery disease"-noun-1]|TX|8927/23|C14.280.647.250.260;C14.907.137.126.339;C14.907.585.250.260
+00000000|MMI|12.17|Coronary Artery Disease|C1956346|[dsyn]|["CORONARY ARTERY DISEASE"-tx-29-"coronary artery disease"-noun-1]|TX|8927/23|C14.280.647.250.260;C14.907.137.126.339;C14.907.585.250.260
+00000000|MMI|12.17|Deep Vein Thrombosis|C0149871|[dsyn]|["DEEP VEIN THROMBOSIS"-tx-23-"deep vein thrombosis"-noun-0]|TX|5129/20|C14.907.355.830.925
+00000000|MMI|12.17|Diabetes Mellitus, Non-Insulin-Dependent|C0011860|[dsyn]|["diabetes"-tx-29-"diabetes"-noun-1]|TX|8903/8|C18.452.394.750.149;C19.246.300
+00000000|MMI|12.17|Drowsiness|C0013144|[fndg]|["Somnolence"-tx-23-"somnolence"-noun-0]|TX|5479/10|F02.830.855.796;G11.561.600.815.754
+00000000|MMI|12.17|Hematuria|C0018965|[fndg]|["HEMATURIA"-tx-23-"hematuria"-noun-0]|TX|5656/9|C12.777.934.442;C13.351.968.934.442;C23.550.414.849
+00000000|MMI|12.17|Hyperlipidemia|C0020473|[dsyn]|["Hyperlipidaemia NOS"-tx-29-"hyperlipidemia"-noun-1]|TX|8952/14|C18.452.584.500.500
+00000000|MMI|12.17|Musculoskeletal Pain|C0026858|[fndg]|["MUSCULOSKELETAL PAIN"-tx-23-"musculoskeletal pain"-noun-0]|TX|5391/20|C05.651.538;C10.597.617.231;C23.888.592.612.547;F02.830.816.353;G11.561.600.810.353
+00000000|MMI|12.17|Nephrolithiasis|C0392525|[dsyn]|["NEPHROLITHIASIS"-tx-23-"nephrolithiasis"-noun-0]|TX|5667/15|C12.777.419.600;C12.777.967.249;C13.351.968.419.600;C13.351.968.967.249
+00000000|MMI|12.17|Sleeplessness|C0917801|[sosy]|["INSOMNIA"-tx-23-"insomnia"-noun-0]|TX|5469/8|C10.886.425.800.800;F03.870.400.800.800
+00000000|MMI|11.19|Spasm|C0037763|[sosy]|["Muscle Spasms"-tx-23-"muscle spasms"-noun-0]|TX|5376/13|C10.597.613.750;C23.888.592.608.750
+00000000|MMI|10.97|Multiple Endocrine Neoplasia Type 2b|C0025269|[neop]|["MEN 3"-tx-23-"3 men"-noun-0]|TX|5807/1,5823/3|C04.588.322.400.510;C04.651.600.510;C04.700.630.510;C16.320.700.630.510;C19.344.400.510
+00000000|MMI|10.70|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-29-"hypertension"-noun-1,"Hypertension"-tx-19-"hypertension"-noun-0,"Hypertension"-tx-11-"hypertension"-noun-0]|TX|8913/12;4620/12;2651/12|
+00000000|MMI|10.46|Back Pain Adverse Event|C1963071|[fndg]|["Back pain"-tx-25-"Back pain"-noun-0,"Back pain"-tx-19-"back pain"-noun-0,"Back pain"-tx-11-"Back pain"-noun-0,"Back pain"-tx-1-"back pain"-noun-0]|TX|6937/9;4597/9;2291/9;165/9|
+00000000|MMI|10.01|Constipation|C0009806|[sosy]|["CONSTIPATION"-tx-11-"constipation"-noun-0]|TX|2684/12|C23.888.821.150
+00000000|MMI|10.01|Coronary heart disease|C0010068|[dsyn]|["Coronary (artery) disease"-tx-29-"coronary artery disease"-noun-1]|TX|8927/23|C14.280.647.250;C14.907.585.250
+00000000|MMI|10.01|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-19-"diarrhea"-noun-0]|TX|4638/8|C23.888.821.214
+00000000|MMI|10.01|Dyspepsia|C0013395|[sosy]|["DYSPEPSIA"-tx-11-"dyspepsia"-noun-0]|TX|2665/9|C23.888.821.236
+00000000|MMI|10.01|Hypoglycemia|C0020615|[dsyn]|["HYPOGLYCEMIA"-tx-23-"hypoglycemia"-noun-0]|TX|5227/12|C18.452.394.984
+00000000|MMI|10.01|Nausea|C0027497|[sosy]|["NAUSEA"-tx-11-"nausea"-noun-0]|TX|2676/6|C23.888.821.712
+00000000|MMI|10.01|Vomiting|C0042963|[sosy]|["VOMITING"-tx-23-"vomiting"-verb-0]|TX|5342/8|C23.888.821.937
+00000000|MMI|8.95|Coughing|C0010200|[sosy]|["COUGH"-tx-23-"cough"-noun-0]|TX|5520/5|C08.618.248;C23.888.852.293
+00000000|MMI|8.95|Epistaxis|C0014591|[patf]|["EPISTAXIS"-tx-23-"epistaxis"-noun-0]|TX|5547/9|C08.460.261;C09.603.261;C23.550.414.712
+00000000|MMI|8.95|Gastritis|C0017152|[dsyn]|["GASTRITIS"-tx-23-"gastritis"-noun-0]|TX|5183/9|C06.405.205.697;C06.405.748.398
+00000000|MMI|8.94|Balanitis|C0004690|[dsyn]|["BALANITIS"-tx-23-"balanitis"-noun-0]|TX|5625/9|C12.294.494.136
+00000000|MMI|8.90|Urinary tract infection|C0042029|[dsyn]|["URINARY TRACT INFECTION"-tx-23-"urinary tract infection"-noun-0]|TX|5697/23|C01.539.895;C12.777.892;C13.351.968.892
+00000000|MMI|8.86|Wheezing|C0043144|[sosy]|["WHEEZING"-tx-23-"wheezing"-adj-0]|TX|5558/8|C23.888.852.779;E01.370.386.720;G09.772.775
+00000000|MMI|8.84|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-23-"pruritus"-noun-0]|TX|5596/8|C17.800.685;C23.888.885.625
+00000000|MMI|7.85|Exanthema|C0015230|[sosy]|["RASH"-tx-11-"rash"-noun-0]|TX|2702/4|C17.800.257
+00000000|MMI|7.85|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-23-"fatigue"-verb-0]|TX|5072/7|C23.888.369
+00000000|MMI|7.62|Flushing Adverse Event|C1962957|[fndg]|["Flushing"-tx-25-"Flushing"-noun-0,"Flushing"-tx-11-"Flushing"-noun-0,"Flushing"-tx-1-"flushing"-verb-0]|TX|6493/8;1952/8;116/8|
+00000000|MMI|7.25|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-11-"3"-integer-0,"3+"-tx-11-"3"-percentage-0,"3+"-tx-10-"3"-integer-0]|TX|[1632/1],[2343/1];[1632/1],[2343/1];1504/1|
+00000000|MMI|7.10|Acute bronchitis|C0149514|[dsyn]|["bronchitis"-tx-19-"bronchitis"-noun-0,"bronchitis"-tx-11-"bronchitis"-noun-0]|TX|4574/10;2599/10|
+00000000|MMI|6.72|Disease|C0012634|[dsyn]|["condition"-tx-2-"conditions"-noun-0]|TX|405/10|C23.550.288
+00000000|MMI|6.66|Edema|C0013604|[fndg]|["OEDEMA"-tx-23-"edema"-noun-0]|TX|5054/5|C23.888.277
+00000000|MMI|5.13|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-25-"Dizziness"-noun-0,"Dizziness"-tx-19-"dizziness"-noun-0]|TX|7159/9;4586/9|
+00000000|MMI|5.01|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-30-"risk factors"-noun-0,"risk factors"-tx-29-"risk factors"-noun-1]|TX|9123/12;8773/12|
+00000000|MMI|4.93|10%|C3842590|[fndg]|["10%"-tx-25-"10"-percentage-0,"10%"-tx-11-"10"-percentage-0]|TX|6585/2;1934/2|
+00000000|MMI|4.92|Nonarteritic anterior ischemic optic neuropathy (NAION)|C1852242|[dsyn]|["NAION"-tx-29-"NAION"-noun-0,"NAION"-tx-28-"NAION"-noun-1]|TX|8801/5;8504/5|
+00000000|MMI|4.92|Adverse Event Associated with Vascular|C1558950|[fndg]|["VASCULAR"-tx-30-"vascular"-noun-0,"VASCULAR"-tx-29-"vascular"-noun-1]|TX|9114/8;8764/8|
+00000000|MMI|4.90|0%|C3842591|[fndg]|["0%"-tx-27-"0"-percentage-0,"0%"-tx-11-"0"-percentage-0]|TX|8262/1;2230/1|
+00000000|MMI|4.71|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-25-"randomized"-adj-0,"RANDOMIZED"-tx-23-"randomized"-adj-0]|TX|7281/10;5742/10|
+00000000|MMI|4.69|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-14-"discontinuation"-noun-0,"Discontinuation"-tx-9-"discontinuation"-noun-0]|TX|3032/15;1187/15|
+00000000|MMI|3.54|Congestion of nasal sinus|C0152029|[sosy]|["SINUS CONGESTION"-tx-11-"sinus congestion"-noun-0]|TX|2633/16|
+00000000|MMI|3.54|Constipation Adverse Event|C1963087|[fndg]|["Constipation"-tx-11-"constipation"-noun-0]|TX|2684/12|
+00000000|MMI|3.54|Deep vein thrombosis of lower limb|C0340708|[dsyn]|["Deep vein thrombosis"-tx-23-"deep vein thrombosis"-noun-0]|TX|5129/20|
+00000000|MMI|3.54|Diabetes|C0011847|[dsyn]|["Diabetes"-tx-29-"diabetes"-noun-1]|TX|8903/8|
+00000000|MMI|3.54|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-19-"diarrhea"-noun-0]|TX|4638/8|
+00000000|MMI|3.54|Drug usage|C0242510|[mobd]|["Drug use"-tx-22-"drug use"-noun-1]|TX|4975/8|
+00000000|MMI|3.54|Drug use history|C2239127|[fndg]|["drug use"-tx-22-"drug use"-noun-1]|TX|4975/8|
+00000000|MMI|3.54|Former smoker|C0337671|[fndg]|["Previous smokers"-tx-7-"previous smokers"-noun-0]|TX|1132/16|
+00000000|MMI|3.54|Increased frequency of micturition|C0042023|[fndg]|["Pollakiuria"-tx-23-"pollakiuria"-noun-0]|TX|5684/11|
+00000000|MMI|3.54|Insomnia Adverse Event|C1963237|[fndg]|["Insomnia"-tx-23-"insomnia"-noun-0]|TX|5469/8|
+00000000|MMI|3.54|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-11-"nausea"-noun-0]|TX|2676/6|
+00000000|MMI|3.54|Oropharyngeal pain|C2363731|[sosy]|["Oropharyngeal pain"-tx-23-"oropharyngeal pain"-noun-0]|TX|5302/18|
+00000000|MMI|3.54|Related personal status|C0445223|[fndg]|["Related"-tx-30-"related"-verb-1]|TX|9038/7|
+00000000|MMI|3.54|Serum lipids high (finding)|C0428465|[fndg]|["Hyperlipidemia"-tx-29-"hyperlipidemia"-noun-1]|TX|8952/14|
+00000000|MMI|3.54|Somnolence|C2830004|[fndg]|["SOMNOLENCE"-tx-23-"somnolence"-noun-0]|TX|5479/10|
+00000000|MMI|3.54|Upset stomach|C0235309|[sosy]|["STOMACH DISCOMFORT"-tx-23-"stomach discomfort"-noun-0]|TX|5322/18|
+00000000|MMI|3.54|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-23-"vomiting"-verb-0]|TX|5342/8|
+00000000|MMI|2.66|Arteritic anterior ischaemic optic neuropathy|C2242711|[dsyn]|["Arteritic anterior ischemic optic neuropathy"-tx-28-"arteritic anterior ischemic optic neuropathy"-noun-1]|TX|8458/44|
+00000000|MMI|2.63|Optic cup/disc ratio|C0423471|[fndg]|["Cup to Disc Ratio"-tx-29-"cup to disc ratio"-noun-1]|TX|8854/17|
+00000000|MMI|2.61|Non-arteritic ischemic optic neuropathy|C0338507|[dsyn]|["Non-arteritic ischemic optic neuropathy"-tx-28-"Non-arteritic ischemic optic neuropathy"-noun-0]|TX|8454/13,8477/25|
+00000000|MMI|2.58|Abnormal vision|C3665386|[fndg]|["Loss of vision"-tx-28-"loss of vision"-noun-0]|TX|8560/14|
+00000000|MMI|2.58|Unspecified visual loss|C3665346|[sosy]|["Loss Of Vision"-tx-28-"loss of vision"-noun-0]|TX|8560/14|
+00000000|MMI|2.57|1 - 9%|C3842508|[fndg]|["1 - 9%"-tx-11-"1 9"-percentage-0]|TX|2117/1,2141/1|
+00000000|MMI|2.57|5 - 9|C3840622|[fndg]|["5 - 9"-tx-11-"5 9"-percentage-0]|TX|1891/1,1915/1|
+00000000|MMI|2.54|Received therapy or drug for|C0332154|[fndg]|["Treated for"-tx-4-"treated for"-verb-0]|TX|813/11|
+00000000|MMI|2.53|1-2|C3843716|[fndg]|["1-2"-tx-25-"1 2"-percentage-0]|TX|7228/1,7252/1|
+00000000|MMI|2.53|3-4|C3840617|[fndg]|["3-4"-tx-11-"3 4"-percentage-0]|TX|2004/1,2026/1|
+00000000|MMI|2.53|3/4|C0442757|[fndg]|["3 4"-tx-11-"3 4"-percentage-0]|TX|2004/1,2026/1|
+00000000|MMI|2.52|Pain in limb|C0030196|[sosy]|["Pain in Extremity"-tx-23-"pain in extremity"-noun-0]|TX|5422/17|
+00000000|MMI|2.52|30%|C3842588|[fndg]|["30%"-tx-8-"30"-percentage-0]|TX|1150/2|
+00000000|MMI|2.52|75%)|C4015571|[fndg]|["75%)"-tx-17-"75"-percentage-0]|TX|3447/2|
+00000000|MMI|2.50|Color vision change|C2609264|[fndg]|["Colour vision change"-tx-27-"change color vision"-noun-0]|TX|8372/6,8382/12|
+00000000|MMI|2.49|Limited Walking Ability|C2674459|[fndg]|["Limited"-tx-29-"limited"-verb-1]|TX|8838/7|
+00000000|MMI|2.48|70%|C3842584|[fndg]|["70%"-tx-23-"70"-integer-0]|TX|5964/2|
+00000000|MMI|2.48|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-23-"cough"-noun-0]|TX|5520/5|
+00000000|MMI|2.48|Epistaxis on exam|C2228238|[fndg]|["epistaxis"-tx-23-"epistaxis"-noun-0]|TX|5547/9|
+00000000|MMI|2.48|Mg reduced|C0240291|[fndg]|["Mg Decreased"-tx-16-"decreased mg"-noun-0]|TX|3350/9,3366/2|
+00000000|MMI|2.48|Mg++ increased|C0240292|[fndg]|["increased mg"-tx-16-"increased mg"-noun-0]|TX|3327/9,3344/2|
+00000000|MMI|2.47|Electrocardiogram abnormal|C0522055|[fndg]|["ELECTROCARDIOGRAM ABNORMAL (NOS)"-tx-25-"Electrocardiogram abnormal"-noun-0]|TX|7048/26|
+00000000|MMI|2.47|Enteritis due to specified virus|C0152517|[dsyn]|["GASTROENTERITIS VIRAL"-tx-27-"Gastroenteritis viral"-noun-0]|TX|8190/21|
+00000000|MMI|2.46|Age <= 2 years|C4061124|[fndg]|["Age <= 2 years"-tx-25-"age 2 years"-noun-0]|TX|7383/3,7393/7|
+00000000|MMI|2.44|Recurrent urinary tract infection|C0262655|[dsyn]|["Urinary tract infection"-tx-23-"urinary tract infection"-noun-0]|TX|5697/23|
+00000000|MMI|2.43|Disease Response|C1704632|[fndg]|["Response"-tx-16-"response"-noun-0]|TX|3395/8|
+00000000|MMI|2.43|Trial 1|C3840593|[fndg]|["Trial 1"-tx-27-"1 trials"-noun-0]|TX|8286/1,8321/6|
+00000000|MMI|2.43|Trial 2|C3842777|[fndg]|["Trial 2"-tx-27-"2 trials"-noun-0]|TX|8284/1,8321/6|
+00000000|MMI|2.43|combination - answer to question|C3811910|[fndg]|["Combination"-tx-30-"combination"-noun-0]|TX|9164/11|
+00000000|MMI|2.42|Dyspnea on exertion|C0231807|[sosy]|["Dyspnoea exertional"-tx-23-"dyspnea exertional"-noun-0]|TX|5527/18|
+00000000|MMI|2.38|Sexual intercourse - finding|C1314687|[fndg]|["Sexual intercourse"-tx-25-"sexual intercourse"-noun-0]|TX|7551/18|
+00000000|MMI|2.38|Encounter due to counseling|C0740209|[fndg]|["Counseling NOS"-tx-30-"Counseling"-adj-0]|TX|9261/10|
+00000000|MMI|2.38|Palpitations|C0030252|[fndg]|["PALPITATIONS"-tx-23-"palpitations"-noun-0]|TX|5151/12|
+00000000|MMI|2.38|Palpitations Adverse Event|C3160712|[fndg]|["Palpitations"-tx-23-"palpitations"-noun-0]|TX|5151/12|
+00000000|MMI|2.37|Deteriorating vision|C0558171|[fndg]|["Decreased vision"-tx-28-"decreased vision"-noun-0]|TX|8523/16|
+00000000|MMI|2.37|nervous; depression|C1395192|[mobd]|["nervous; depression"-tx-23-"Nervous depression"-noun-0]|TX|5446/7,5457/10|
+00000000|MMI|2.35|Malignant neoplasm of prostate|C0376358|[neop]|["PROSTATE CANCER"-tx-23-"prostate cancer"-noun-0]|TX|5895/15|
+00000000|MMI|2.35|Prostate carcinoma|C0600139|[neop]|["Prostate Cancer"-tx-23-"prostate cancer"-noun-0]|TX|5895/15|
+00000000|MMI|2.35|Bilateral Carcinoma|C1332549|[neop]|["Bilateral Cancer"-tx-23-"bilateral cancer"-noun-0]|TX|5845/9,5904/6|
+00000000|MMI|2.35|Bilateral Malignant Neoplasm|C0677861|[neop]|["Bilateral Cancer"-tx-23-"bilateral cancer"-noun-0]|TX|5845/9,5904/6|

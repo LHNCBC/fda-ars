@@ -1,0 +1,144 @@
+83,93|C3714514|Infections|patf
+140,152|C0006826|Malignancies|neop
+264,297|C0041912|upper respiratory tract infection|dsyn
+299,314|C0042769|viral infection|dsyn
+316,326|C0006277|bronchitis|dsyn
+316,326|C0149514|bronchitis|dsyn
+328,340|C0020538|hypertension|dsyn
+328,340|C1963138|hypertension|fndg
+346,350|C0015230|rash|sosy
+626,636|C0012634|conditions|dsyn
+894,904|C3815594|randomized|fndg
+920,930|C2911690|controlled|fndg
+1013,1020|C3840593|Trial 1|fndg
+1027,1035|C3715209|protocol|fndg
+1163,1171|C1704632|response|fndg
+1297,1312|C0580351|given treatment|fndg
+1409,1416|C3840593|Trial 1|fndg
+1607,1619|C1444662|discontinued|fndg
+1620,1629;1637,1654|C0879626|treatment adverse reactions|patf
+1662,1672|C2911690|controlled|fndg
+1715,1718;1732,1739|C0332154|for treated|fndg
+1758,1761;1770,1777|C0332154|for treated|fndg
+1788,1821|C0041912|Upper respiratory tract infection|dsyn
+2021,2031|C3714514|Infections|patf
+2108,2114|C0243026|sepsis|dsyn
+2108,2114|C0036690|sepsis|dsyn
+2116,2125|C0032285|pneumonia|dsyn
+2127,2137|C0007642|cellulitis|patf
+2127,2137|C2025995|cellulitis|fndg
+2139,2146|C0000833|abscess|dsyn
+2148,2172|C0029118|opportunistic infections|dsyn
+2174,2186|C0041296|tuberculosis|dsyn
+2197,2223|C1262313|invasive fungal infections|dsyn
+2234,2236|C0041296|TB|dsyn
+2260,2277|C0679362|extrapulmonary TB|dsyn
+2299,2301|C0041296|TB|dsyn
+2360,2362|C0041296|TB|dsyn
+2418,2428|C2911690|controlled|fndg
+2463,2473|C3714514|infections|patf
+2587,2597|C3714514|infections|patf
+2733,2743|C3714514|infections|patf
+2769,2778|C0589120|follow-up|fndg
+2884,2894|C2911690|controlled|fndg
+2924,2931|C3840593|Trial 1|fndg
+2960,2969|C0589120|follow-up|fndg
+2984,2993|C0589120|follow-up|fndg
+3072,3082|C3714514|infections|patf
+3195,3205|C2911690|controlled|fndg
+3235,3242|C3840593|Trial 1|fndg
+3295,3304|C0151332|active TB|dsyn
+3384,3408|C0029118|opportunistic infections|dsyn
+3470,3482|C0006826|Malignancies|neop
+3523,3531|C0024299|lymphoma|neop
+3599,3609|C2911690|controlled|fndg
+3635,3645|C2911690|controlled|fndg
+3721,3733|C0006826|malignancies|neop
+3768,3776|C0024299|lymphoma|neop
+4002,4021|C0162557|acute liver failure|dsyn
+4069,4079|C2911690|controlled|fndg
+4115,4118|C1266129|ALT|neop
+4230,4233|C1266129|ALT|neop
+4633,4638|C1709157|clear|fndg
+4648,4668|C0004364|Autoimmune Disorders|dsyn
+4850,4869|C0919715|lupus-like syndrome|dsyn
+4889,4896|C3840593|Trial 1|fndg
+5114,5122|C1514241|positive|fndg
+5192,5202|C2911690|controlled|fndg
+5292,5309|C2368034|infusion reaction|patf
+5380,5397|C2368034|infusion reaction|patf
+5435,5439|C0015230|rash|sosy
+5547,5555|C0442726|detected|fndg
+5641,5652|C3811910|combination|fndg
+5681,5688|C3840593|Trial 1|fndg
+5830,5848|C2360800|number of patients|fndg
+5849,5857|C1514241|positive|fndg
+6100,6104|C0456984|test|fndg
+6105,6112|C2825142|results|fndg
+6268,6275|C2825142|results|fndg
+6626,6633|C0012634|disease|dsyn
+7004,7014|C2911690|controlled|fndg
+7198,7205|C3840593|Trial 1|fndg
+7198,7205|C3840593|Trial 1|fndg
+7502,7512|C3714514|Infections|patf
+7517,7529|C0851341|Infestations|dsyn
+7612,7645|C0041912|Upper respiratory tract infection|dsyn
+7655,7688|C0041912|upper respiratory tract infection|dsyn
+7690,7705|C0027441|nasopharyngitis|dsyn
+7707,7718|C0031350|pharyngitis|dsyn
+7720,7730|C0023067|laryngitis|dsyn
+7720,7730|C0001327|laryngitis|dsyn
+7736,7744|C0035455|rhinitis|dsyn
+7807,7823|C0042769|Viral infections|dsyn
+7833,7842|C0021400|influenza|dsyn
+7847,7853|C0019340|herpes|dsyn
+7916,7936|C0004623|Bacterial infections|dsyn
+8025,8035|C0006277|Bronchitis|dsyn
+8025,8035|C0149514|Bronchitis|dsyn
+8133,8141;8243,8255|C0020538|Vascular Hypertension|dsyn
+8133,8151|C0042373|Vascular disorders|dsyn
+8142,8151|C0012634|disorders|dsyn
+8243,8255|C0020538|Hypertension|dsyn
+8243,8255|C1963138|Hypertension|fndg
+8360,8382|C0549584|subcutaneous disorders|dsyn
+8461,8465|C0015230|Rash|sosy
+8577,8586|C0012634|disorders|dsyn
+8611,8621|C0012634|conditions|dsyn
+8685,8692|C0015967|Pyrexia|fndg
+8803,8822|C0024228|lymphatic disorders|dsyn
+8903,8913|C0023530|Leukopenia|dsyn
+8903,8913|C0750394|Leukopenia|fndg
+9066,9070;9095,9099|C4036061|drug drug|fndg
+9201,9208|C3840593|Trial 1|fndg
+9201,9208|C3840593|Trial 1|fndg
+9350,9360|C3714514|Infections|patf
+9365,9377|C0851341|Infestations|dsyn
+9381,9409|C2980104|Superficial fungal infection|dsyn
+9411,9420|C0037199|sinusitis|dsyn
+9422,9429|C0000833|abscess|dsyn
+9431,9464|C0149725|lower respiratory tract infection|dsyn
+9466,9475|C0032285|pneumonia|dsyn
+9478,9492|C0034186|pyelonephritis|dsyn
+9652,9661|C0012833|Dizziness|sosy
+9652,9661|C0042571|Dizziness|sosy
+9652,9661|C1963093|Dizziness|fndg
+9663,9674|C0030554|paresthesia|dsyn
+9663,9674|C2242996|paresthesia|sosy
+9681,9707|C0017178|Gastrointestinal disorders|dsyn
+9711,9723|C0009806|Constipation|sosy
+9711,9723|C1963087|Constipation|fndg
+9871,9881|C1550043|identified|fndg
+10023,10032|C0087130|uncertain|fndg
+10166,10174|C0027651|Neoplasm|neop
+10166,10174|C1882062|Neoplasm|neop
+10199,10207|C0025202|Melanoma|neop
+10257,10280|C0021053|Immune System Disorders|dsyn
+10292,10327|C1736167|systemic hypersensitivity reactions|patf
+10339,10360|C0002792|anaphylactic reaction|patf
+10407,10418|C0036202|sarcoidosis|dsyn
+10407,10418|C2697310|sarcoidosis|fndg
+10451,10472|C0025061|mediastinal disorders|dsyn
+10476,10501|C0206062|Interstitial lung disease|dsyn
+10517,10529;10537,10546|C0549584|subcutaneous disorders|dsyn
+10537,10546|C0012634|disorders|dsyn
+10550,10566|C0237849|Skin exfoliation|fndg

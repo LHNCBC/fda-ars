@@ -1,0 +1,100 @@
+323,331|C1705285|mutation|comd
+357,365|C0018681|headache|sosy
+357,365|C2096315|headache|fndg
+367,385|C2363731|oropharyngeal pain|sosy
+387,420|C0041912|upper respiratory tract infection|dsyn
+422,438|C2136984|nasal congestion|patf
+422,438|C0027424|nasal congestion|sosy
+440,454|C0000737|abdominal pain|sosy
+456,471|C0027441|nasopharyngitis|dsyn
+473,481|C0011991|diarrhea|sosy
+473,481|C1963091|diarrhea|fndg
+483,487|C0015230|rash|sosy
+489,495|C0027497|nausea|sosy
+489,495|C1963179|nausea|patf
+501,510|C0012833|dizziness|sosy
+501,510|C0042571|dizziness|sosy
+501,510|C1963093|dizziness|fndg
+785,795|C0012634|conditions|dsyn
+1189,1197|C1705285|mutation|comd
+1218,1226|C3840593|Trials 1|fndg
+1271,1279|C1705285|mutation|comd
+1623,1631|C1705285|mutation|comd
+1771,1779|C1705285|mutation|comd
+2020,2028|C1705285|mutation|comd
+2089,2097|C1705285|mutation|comd
+2118,2126|C1705285|mutation|comd
+2213,2219|C3844638|either|fndg
+2230,2238|C1705285|mutation|comd
+2276,2284|C1705285|mutation|comd
+2473,2485|C1444662|discontinued|fndg
+2492,2496;2501,2521|C0041755|drug to adverse reactions|inpo
+2529,2532;2542,2549|C0332154|for treated|fndg
+2566,2569;2578,2585|C0332154|for treated|fndg
+2647,2654|C0445223|related|fndg
+2799,2811|C0020615|hypoglycemia|dsyn
+2898,2906|C0018681|headache|sosy
+2898,2906|C2096315|headache|fndg
+2914,2947|C0041912|upper respiratory tract infection|dsyn
+2955,2971|C2136984|nasal congestion|patf
+2955,2971|C0027424|nasal congestion|sosy
+2979,2985|C0027497|nausea|sosy
+2979,2985|C1963179|nausea|patf
+2993,2997|C0015230|rash|sosy
+3005,3013|C0035455|rhinitis|dsyn
+3020,3029|C0012833|dizziness|sosy
+3020,3029|C0042571|dizziness|sosy
+3020,3029|C1963093|dizziness|fndg
+3036,3046|C0003862|arthralgia|sosy
+3057,3065|C4038931|bacteria|fndg
+3204,3212|C3840593|Trials 1|fndg
+3287,3295|C1705285|mutation|comd
+3494,3502|C1705285|mutation|comd
+3746,3754|C1705285|Mutation|comd
+4042,4050|C0018681|Headache|sosy
+4042,4050|C2096315|Headache|fndg
+4151,4169|C2363731|Oropharyngeal pain|sosy
+4260,4293|C0041912|Upper respiratory tract infection|dsyn
+4369,4385|C2136984|Nasal congestion|patf
+4369,4385|C0027424|Nasal congestion|sosy
+4478,4492|C0000737|Abdominal pain|sosy
+4587,4602|C0027441|Nasopharyngitis|dsyn
+4696,4704|C0011991|Diarrhea|sosy
+4696,4704|C1963091|Diarrhea|fndg
+4805,4809|C0015230|Rash|sosy
+4914,4920|C0027497|Nausea|sosy
+4914,4920|C1963179|Nausea|patf
+5023,5032|C0012833|Dizziness|sosy
+5023,5032|C0042571|Dizziness|sosy
+5023,5032|C1963093|Dizziness|fndg
+5318,5328|C3714514|Infections|patf
+5333,5345|C0851341|infestations|dsyn
+5347,5355|C0035455|rhinitis|dsyn
+5419,5427|C4038931|bacteria|fndg
+5518,5545|C0009782|connective tissue disorders|dsyn
+5547,5557|C0003862|arthralgia|sosy
+5559,5585|C0008035|musculoskeletal chest pain|sosy
+5559,5585|C0476280|musculoskeletal chest pain|sosy
+5587,5594|C0231528|myalgia|sosy
+5630,5644|C0037195|sinus headache|fndg
+5680,5701|C0025061|mediastinal disorders|dsyn
+5703,5722|C0455899|pharyngeal erythema|fndg
+5724,5738|C0008033|pleuritic pain|sosy
+5740,5756|C0152029|sinus congestion|sosy
+5758,5766|C0043144|wheezing|sosy
+5785,5797;5805,5814|C0549584|subcutaneous disorders|dsyn
+5805,5814|C0012634|disorders|dsyn
+5816,5820|C0702166|acne|dsyn
+5816,5820|C0001144|acne|dsyn
+5988,5996|C3840593|Trials 1|fndg
+6075,6083|C3840593|Trials 1|fndg
+6133,6136|C1266129|ALT|neop
+6349,6361|C1444662|discontinued|fndg
+6376,6398|C0438717|elevated transaminases|fndg
+6500,6528|C2674385|elevated liver transaminases|fndg
+6618,6628|C0262926|history of|fndg
+6827,6833|C3844638|either|fndg
+6982,6985|C1266129|ALT|neop
+7048,7051|C1266129|ALT|neop
+7214,7236|C1328397|abnormal transaminases|fndg
+7275,7287|C1444662|discontinued|fndg

@@ -1,0 +1,436 @@
+T1	AdverseReaction 148 158	Somnolence
+T2	AdverseReaction 162 170	Sedation
+T3	AdverseReaction 218 242	Potentiation of Sedation
+T4	AdverseReaction 430 454	Dermatological Reactions
+T5	Severity 422 429	Serious
+T6	AdverseReaction 533 541;560 570	Physical Dependence
+T7	AdverseReaction 546 570	Psychological Dependence
+T8	AdverseReaction 618 635	Suicidal Behavior
+T9	AdverseReaction 618 626;640 648	Suicidal Ideation
+T10	AdverseReaction 809 821	constipation
+T11	AdverseReaction 823 833	somnolence
+T12	AdverseReaction 837 845	sedation
+T13	AdverseReaction 847 854	pyrexia
+T14	AdverseReaction 856 864	lethargy
+T15	AdverseReaction 870 878	drooling
+T16	AdverseReaction 2194 2202	lethargy
+T17	AdverseReaction 2204 2214	somnolence
+T18	AdverseReaction 2216 2222	ataxia
+T19	AdverseReaction 2224 2234	aggression
+T20	AdverseReaction 2236 2243	fatigue
+T21	AdverseReaction 2249 2257	insomnia
+T22	AdverseReaction 3229 3237	Vomiting
+T23	AdverseReaction 3334 3346	Constipation
+T24	AdverseReaction 3442 3451	Dysphagia
+T25	AdverseReaction 3609 3616	Pyrexia
+T26	AdverseReaction 3714 3726	Irritability
+T27	AdverseReaction 3822 3829	Fatigue
+T28	AdverseReaction 3964 3997	Upper respiratory tract infection
+T29	AdverseReaction 4093 4102	Pneumonia
+T30	AdverseReaction 4198 4221	Urinary tract infection
+T31	AdverseReaction 4317 4327	Bronchitis
+T32	AdverseReaction 4467 4485	Decreased appetite
+T33	AdverseReaction 4581 4599	Increased appetite
+T34	AdverseReaction 4729 4739	Somnolence
+T35	AdverseReaction 4743 4751	Sedation
+T36	AdverseReaction 4851 4861	Somnolence
+T37	AdverseReaction 4961 4969	Sedation
+T38	AdverseReaction 5065 5073	Lethargy
+T39	AdverseReaction 5170 5178	Drooling
+T40	AdverseReaction 5275 5281	Ataxia
+T41	AdverseReaction 5380 5405	Psychomotor hyperactivity
+T42	AdverseReaction 5501 5511	Dysarthria
+T43	AdverseReaction 5638 5648	Aggression
+T44	AdverseReaction 5744 5752	Insomnia
+T45	AdverseReaction 5880 5885	Cough
+T46	AdverseReaction 6303 6309	Anemia
+T47	AdverseReaction 6311 6323	eosinophilia
+T48	AdverseReaction 6325 6335	leukopenia
+T49	AdverseReaction 6337 6353	thrombocytopenia
+T50	AdverseReaction 6375 6383	Diplopia
+T51	AdverseReaction 6385 6399	vision blurred
+T52	AdverseReaction 6434 6454	Abdominal distention
+T53	AdverseReaction 6515 6526	Hypothermia
+T54	AdverseReaction 6549 6573	Hepatic enzyme increased
+T55	AdverseReaction 6597 6610	Muscle spasms
+T56	AdverseReaction 6640 6649	Agitation
+T57	AdverseReaction 6651 6658	anxiety
+T58	AdverseReaction 6660 6666	apathy
+T59	AdverseReaction 6668 6685	confusional state
+T60	AdverseReaction 6687 6697	depression
+T61	AdverseReaction 6699 6707	delirium
+T62	AdverseReaction 6709 6717	delusion
+T63	AdverseReaction 6719 6732	hallucination
+T64	AdverseReaction 6768 6785	Urinary retention
+T65	AdverseReaction 6815 6825	Aspiration
+T66	AdverseReaction 6827 6849	respiratory depression
+T67	AdverseReaction 6896 6900	Rash
+T68	AdverseReaction 6902 6911	urticaria
+T69	AdverseReaction 6913 6923	angioedema
+T70	AdverseReaction 6929 6935;6944 6949	facial edema
+T71	AdverseReaction 6940 6949	lip edema
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4 Effect:E5
+E5	Severity:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+A1	CUI E1 C2830004
+A2	UMLS-Preferred-Name E1 Somnolence
+A3	MEDDRA-PT E1 Somnolence
+A4	MEDDRA-PT-ID E1 10041349
+A5	CUI E2 C0235195
+A6	UMLS-Preferred-Name E2 Sedated state
+A7	MEDDRA-PT E2 Sedation
+A8	MEDDRA-PT-ID E2 10039897
+A9	CUI E3 C0856086
+A10	UMLS-Preferred-Name E3 Sedation aggravated
+A11	MEDDRA-PT E3 Sedation
+A12	MEDDRA-PT-ID E3 10039897
+A13	LLT E3 Sedation aggravated
+A14	LLT-ID E3 10048344
+A15	CUI E4 C0221743
+A16	UMLS-Preferred-Name E4 Skin reaction
+A17	MEDDRA-PT E4 Skin reaction
+A18	MEDDRA-PT-ID E4 10040914
+A19	CUI E6 C0278080
+A20	UMLS-Preferred-Name E6 Physical addiction
+A21	MEDDRA-PT E6 Dependence
+A22	MEDDRA-PT-ID E6 10012335
+A23	LLT E6 Dependence physiological
+A24	LLT-ID E6 10012351
+A25	CUI E7 C0278079
+A26	UMLS-Preferred-Name E7 Psychological addiction
+A27	MEDDRA-PT E7 Drug dependence
+A28	MEDDRA-PT-ID E7 10013663
+A29	LLT E7 Dependence psychological
+A30	LLT-ID E7 10012352
+A31	CUI E8 C1760428
+A32	UMLS-Preferred-Name E8 Suicidal behavior
+A33	MEDDRA-PT E8 Suicidal behaviour
+A34	MEDDRA-PT-ID E8 10065604
+A35	LLT E8 Suicidal behavior
+A36	LLT-ID E8 10065607
+A37	CUI E9 C0424000
+A38	UMLS-Preferred-Name E9 Feeling suicidal (finding)
+A39	MEDDRA-PT E9 Suicidal ideation
+A40	MEDDRA-PT-ID E9 10042458
+A41	CUI E10 C0009806
+A42	UMLS-Preferred-Name E10 Constipation
+A43	MEDDRA-PT E10 Constipation
+A44	MEDDRA-PT-ID E10 10010774
+A45	CUI E11 C2830004
+A46	UMLS-Preferred-Name E11 Somnolence
+A47	MEDDRA-PT E11 Somnolence
+A48	MEDDRA-PT-ID E11 10041349
+A49	CUI E12 C0235195
+A50	UMLS-Preferred-Name E12 Sedated state
+A51	MEDDRA-PT E12 Sedation
+A52	MEDDRA-PT-ID E12 10039897
+A53	CUI E13 C0015967
+A54	UMLS-Preferred-Name E13 Fever
+A55	MEDDRA-PT E13 Pyrexia
+A56	MEDDRA-PT-ID E13 10037660
+A57	CUI E14 C0023380
+A58	UMLS-Preferred-Name E14 Lethargy
+A59	MEDDRA-PT E14 Lethargy
+A60	MEDDRA-PT-ID E14 10024264
+A61	CUI E15 C0013132
+A62	UMLS-Preferred-Name E15 Drooling
+A63	MEDDRA-PT E15 Drooling
+A64	MEDDRA-PT-ID E15 10013642
+A65	CUI E16 C0023380
+A66	UMLS-Preferred-Name E16 Lethargy
+A67	MEDDRA-PT E16 Lethargy
+A68	MEDDRA-PT-ID E16 10024264
+A69	CUI E17 C2830004
+A70	UMLS-Preferred-Name E17 Somnolence
+A71	MEDDRA-PT E17 Somnolence
+A72	MEDDRA-PT-ID E17 10041349
+A73	CUI E18 C0004134
+A74	UMLS-Preferred-Name E18 Ataxia
+A75	MEDDRA-PT E18 Ataxia
+A76	MEDDRA-PT-ID E18 10003591
+A77	CUI E19 C0001807
+A78	UMLS-Preferred-Name E19 Aggressive behavior
+A79	MEDDRA-PT E19 Aggression
+A80	MEDDRA-PT-ID E19 10001488
+A81	CUI E20 C0015672
+A82	UMLS-Preferred-Name E20 Fatigue
+A83	MEDDRA-PT E20 Fatigue
+A84	MEDDRA-PT-ID E20 10016256
+A85	CUI E21 C0917801
+A86	UMLS-Preferred-Name E21 Sleeplessness
+A87	MEDDRA-PT E21 Insomnia
+A88	MEDDRA-PT-ID E21 10022437
+A89	CUI E22 C0042963
+A90	UMLS-Preferred-Name E22 Vomiting
+A91	MEDDRA-PT E22 Vomiting
+A92	MEDDRA-PT-ID E22 10047700
+A93	CUI E23 C0009806
+A94	UMLS-Preferred-Name E23 Constipation
+A95	MEDDRA-PT E23 Constipation
+A96	MEDDRA-PT-ID E23 10010774
+A97	CUI E24 C0011168
+A98	UMLS-Preferred-Name E24 Deglutition Disorders
+A99	MEDDRA-PT E24 Dysphagia
+A100	MEDDRA-PT-ID E24 10013950
+A101	CUI E25 C0015967
+A102	UMLS-Preferred-Name E25 Fever
+A103	MEDDRA-PT E25 Pyrexia
+A104	MEDDRA-PT-ID E25 10037660
+A105	CUI E26 C0022107
+A106	UMLS-Preferred-Name E26 Irritable Mood
+A107	MEDDRA-PT E26 Irritability
+A108	MEDDRA-PT-ID E26 10022998
+A109	CUI E27 C0015672
+A110	UMLS-Preferred-Name E27 Fatigue
+A111	MEDDRA-PT E27 Fatigue
+A112	MEDDRA-PT-ID E27 10016256
+A113	CUI E28 C0041912
+A114	UMLS-Preferred-Name E28 Upper Respiratory Infections
+A115	MEDDRA-PT E28 Upper respiratory tract infection
+A116	MEDDRA-PT-ID E28 10046306
+A117	CUI E29 C0032285
+A118	UMLS-Preferred-Name E29 Pneumonia
+A119	MEDDRA-PT E29 Pneumonia
+A120	MEDDRA-PT-ID E29 10035664
+A121	CUI E30 C0042029
+A122	UMLS-Preferred-Name E30 Urinary tract infection
+A123	MEDDRA-PT E30 Urinary tract infection
+A124	MEDDRA-PT-ID E30 10046571
+A125	CUI E31 C0006277
+A126	UMLS-Preferred-Name E31 Bronchitis
+A127	MEDDRA-PT E31 Bronchitis
+A128	MEDDRA-PT-ID E31 10006451
+A129	CUI E32 C0232462
+A130	UMLS-Preferred-Name E32 Decrease in appetite
+A131	MEDDRA-PT E32 Decreased appetite
+A132	MEDDRA-PT-ID E32 10061428
+A133	CUI E33 C0232461
+A134	UMLS-Preferred-Name E33 Increased appetite (finding)
+A135	MEDDRA-PT E33 Increased appetite
+A136	MEDDRA-PT-ID E33 10021654
+A137	CUI E34 C2830004
+A138	UMLS-Preferred-Name E34 Somnolence
+A139	MEDDRA-PT E34 Somnolence
+A140	MEDDRA-PT-ID E34 10041349
+A141	CUI E35 C0235195
+A142	UMLS-Preferred-Name E35 Sedated state
+A143	MEDDRA-PT E35 Sedation
+A144	MEDDRA-PT-ID E35 10039897
+A145	CUI E36 C2830004
+A146	UMLS-Preferred-Name E36 Somnolence
+A147	MEDDRA-PT E36 Somnolence
+A148	MEDDRA-PT-ID E36 10041349
+A149	CUI E37 C0235195
+A150	UMLS-Preferred-Name E37 Sedated state
+A151	MEDDRA-PT E37 Sedation
+A152	MEDDRA-PT-ID E37 10039897
+A153	CUI E38 C0023380
+A154	UMLS-Preferred-Name E38 Lethargy
+A155	MEDDRA-PT E38 Lethargy
+A156	MEDDRA-PT-ID E38 10024264
+A157	CUI E39 C0013132
+A158	UMLS-Preferred-Name E39 Drooling
+A159	MEDDRA-PT E39 Drooling
+A160	MEDDRA-PT-ID E39 10013642
+A161	CUI E40 C0004134
+A162	UMLS-Preferred-Name E40 Ataxia
+A163	MEDDRA-PT E40 Ataxia
+A164	MEDDRA-PT-ID E40 10003591
+A165	CUI E41 C3887612
+A166	UMLS-Preferred-Name E41 Psychomotor Agitation
+A167	MEDDRA-PT E41 Psychomotor hyperactivity
+A168	MEDDRA-PT-ID E41 10037211
+A169	CUI E42 C0013362
+A170	UMLS-Preferred-Name E42 Dysarthria
+A171	MEDDRA-PT E42 Dysarthria
+A172	MEDDRA-PT-ID E42 10013887
+A173	CUI E43 C0001807
+A174	UMLS-Preferred-Name E43 Aggressive behavior
+A175	MEDDRA-PT E43 Aggression
+A176	MEDDRA-PT-ID E43 10001488
+A177	CUI E44 C0917801
+A178	UMLS-Preferred-Name E44 Sleeplessness
+A179	MEDDRA-PT E44 Insomnia
+A180	MEDDRA-PT-ID E44 10022437
+A181	CUI E45 C0010200
+A182	UMLS-Preferred-Name E45 Coughing
+A183	MEDDRA-PT E45 Cough
+A184	MEDDRA-PT-ID E45 10011224
+A185	CUI E46 C0002871
+A186	UMLS-Preferred-Name E46 Anemia
+A187	MEDDRA-PT E46 Anaemia
+A188	MEDDRA-PT-ID E46 10002034
+A189	LLT E46 Anemia
+A190	LLT-ID E46 10002272
+A191	CUI E47 C0014457
+A192	UMLS-Preferred-Name E47 Eosinophilia
+A193	MEDDRA-PT E47 Eosinophilia
+A194	MEDDRA-PT-ID E47 10014950
+A195	CUI E48 C0023530
+A196	UMLS-Preferred-Name E48 Leukopenia
+A197	MEDDRA-PT E48 Leukopenia
+A198	MEDDRA-PT-ID E48 10024384
+A199	CUI E49 C0040034
+A200	UMLS-Preferred-Name E49 Thrombocytopenia
+A201	MEDDRA-PT E49 Thrombocytopenia
+A202	MEDDRA-PT-ID E49 10043554
+A203	CUI E50 C0012569
+A204	UMLS-Preferred-Name E50 Diplopia
+A205	MEDDRA-PT E50 Diplopia
+A206	MEDDRA-PT-ID E50 10013036
+A207	CUI E51 C0344232
+A208	UMLS-Preferred-Name E51 Blurred vision
+A209	MEDDRA-PT E51 Vision blurred
+A210	MEDDRA-PT-ID E51 10047513
+A211	CUI E52 C0000731
+A212	UMLS-Preferred-Name E52 Abdomen distended
+A213	MEDDRA-PT E52 Abdominal distension
+A214	MEDDRA-PT-ID E52 10000060
+A215	CUI E53 C0413252
+A216	UMLS-Preferred-Name E53 Hypothermia due to exposure
+A217	MEDDRA-PT E53 Hypothermia
+A218	MEDDRA-PT-ID E53 10021113
+A219	CUI E54 C0235996
+A220	UMLS-Preferred-Name E54 Elevated liver enzymes
+A221	MEDDRA-PT E54 Hepatic enzyme increased
+A222	MEDDRA-PT-ID E54 10060795
+A223	CUI E55 C0037763
+A224	UMLS-Preferred-Name E55 Spasm
+A225	MEDDRA-PT E55 Muscle spasms
+A226	MEDDRA-PT-ID E55 10028334
+A227	CUI E56 C0085631
+A228	UMLS-Preferred-Name E56 Agitation
+A229	MEDDRA-PT E56 Agitation
+A230	MEDDRA-PT-ID E56 10001497
+A231	CUI E57 C0003467
+A232	UMLS-Preferred-Name E57 Anxiety
+A233	MEDDRA-PT E57 Anxiety
+A234	MEDDRA-PT-ID E57 10002855
+A235	CUI E58 C0085632
+A236	UMLS-Preferred-Name E58 Apathy
+A237	MEDDRA-PT E58 Apathy
+A238	MEDDRA-PT-ID E58 10002942
+A239	CUI E59 C0009676
+A240	UMLS-Preferred-Name E59 Confusion
+A241	MEDDRA-PT E59 Confusional state
+A242	MEDDRA-PT-ID E59 10010305
+A243	CUI E60 C0011570
+A244	UMLS-Preferred-Name E60 Mental Depression
+A245	MEDDRA-PT E60 Depression
+A246	MEDDRA-PT-ID E60 10012378
+A247	CUI E61 C0011206
+A248	UMLS-Preferred-Name E61 Delirium
+A249	MEDDRA-PT E61 Delirium
+A250	MEDDRA-PT-ID E61 10012218
+A251	CUI E62 C0011253
+A252	UMLS-Preferred-Name E62 Delusions
+A253	MEDDRA-PT E62 Delusion
+A254	MEDDRA-PT-ID E62 10012239
+A255	CUI E63 C0018524
+A256	UMLS-Preferred-Name E63 Hallucinations
+A257	MEDDRA-PT E63 Hallucination
+A258	MEDDRA-PT-ID E63 10019063
+A259	CUI E64 C0080274
+A260	UMLS-Preferred-Name E64 Urinary Retention
+A261	MEDDRA-PT E64 Urinary retention
+A262	MEDDRA-PT-ID E64 10046555
+A263	CUI E65 C0700198
+A264	UMLS-Preferred-Name E65 Pulmonary aspiration
+A265	MEDDRA-PT E65 Aspiration
+A266	MEDDRA-PT-ID E65 10003504
+A267	CUI E66 C0235063
+A268	UMLS-Preferred-Name E66 Respiratory Depression
+A269	MEDDRA-PT E66 Respiratory depression
+A270	MEDDRA-PT-ID E66 10038678
+A271	CUI E67 C0015230
+A272	UMLS-Preferred-Name E67 Exanthema
+A273	MEDDRA-PT E67 Rash
+A274	MEDDRA-PT-ID E67 10037844
+A275	CUI E68 C0042109
+A276	UMLS-Preferred-Name E68 Urticaria
+A277	MEDDRA-PT E68 Urticaria
+A278	MEDDRA-PT-ID E68 10046735
+A279	CUI E69 C0002994
+A280	UMLS-Preferred-Name E69 Angioedema
+A281	MEDDRA-PT E69 Angioedema
+A282	MEDDRA-PT-ID E69 10002424
+A283	CUI E70 C0542571
+A284	UMLS-Preferred-Name E70 Facial edema
+A285	MEDDRA-PT E70 Face oedema
+A286	MEDDRA-PT-ID E70 10016029
+A287	LLT E70 Face edema
+A288	LLT-ID E70 10016025
+A289	CUI E71 C0541923
+A290	UMLS-Preferred-Name E71 Lip oedema
+A291	MEDDRA-PT E71 Lip oedema
+A292	MEDDRA-PT-ID E71 10024558
+A293	LLT E71 Lip edema
+A294	LLT-ID E71 10024553

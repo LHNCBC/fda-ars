@@ -1,0 +1,162 @@
+106,114|C0018681|headache|sosy
+106,114|C2096315|headache|fndg
+116,124|C0016382|flushing|sosy
+116,124|C1962957|flushing|fndg
+126,142|C2136984|nasal congestion|patf
+126,142|C0027424|nasal congestion|sosy
+144,159|C0027441|nasopharyngitis|dsyn
+165,174|C0004604|back pain|sosy
+165,174|C1963071|back pain|fndg
+405,415|C0012634|conditions|dsyn
+813,824|C0332154|treated for|fndg
+1132,1148|C0337671|previous smokers|fndg
+1160,1177|C0011849|diabetes mellitus|dsyn
+1187,1202|C1444662|discontinuation|fndg
+1839,1847|C0018681|Headache|sosy
+1839,1847|C2096315|Headache|fndg
+1952,1960|C0016382|Flushing|sosy
+1952,1960|C1962957|Flushing|fndg
+2065,2081|C2136984|Nasal congestion|patf
+2065,2081|C0027424|Nasal congestion|sosy
+2178,2193|C0027441|Nasopharyngitis|dsyn
+2291,2300|C0004604|Back pain|sosy
+2291,2300|C1963071|Back pain|fndg
+2564,2591|C0041912|upper respiratory infection|dsyn
+2599,2609|C0006277|bronchitis|dsyn
+2599,2609|C0149514|bronchitis|dsyn
+2611,2620|C0021400|influenza|dsyn
+2622,2631|C0037199|sinusitis|dsyn
+2633,2649|C0152029|sinus congestion|sosy
+2651,2663|C0020538|hypertension|dsyn
+2651,2663|C1963138|hypertension|fndg
+2665,2674|C0013395|dyspepsia|sosy
+2676,2682|C0027497|nausea|sosy
+2676,2682|C1963179|nausea|patf
+2684,2696|C0009806|constipation|sosy
+2684,2696|C1963087|constipation|fndg
+2702,2706|C0015230|rash|sosy
+3032,3047|C1444662|discontinuation|fndg
+3327,3336;3344,3346|C0240292|increased mg|fndg
+3350,3359;3366,3368|C0240291|decreased mg|fndg
+3395,3403|C1704632|response|fndg
+3950,3958|C0018681|Headache|sosy
+3950,3958|C2096315|Headache|fndg
+4057,4065;4393,4402|C0016382|Flushing reactions|sosy
+4164,4179|C0027441|Nasopharyngitis|dsyn
+4271,4287|C2136984|Nasal congestion|patf
+4271,4287|C0027424|Nasal congestion|sosy
+4517,4544|C0041912|upper respiratory infection|dsyn
+4546,4549|C0041912|URI|dsyn
+4552,4561|C0021400|influenza|dsyn
+4563,4572|C0037199|sinusitis|dsyn
+4574,4584|C0006277|bronchitis|dsyn
+4574,4584|C0149514|bronchitis|dsyn
+4586,4595|C0042571|dizziness|sosy
+4586,4595|C0012833|dizziness|sosy
+4586,4595|C1963093|dizziness|fndg
+4597,4606|C0004604|back pain|sosy
+4597,4606|C1963071|back pain|fndg
+4608,4618|C0003862|arthralgia|sosy
+4620,4632|C0020538|hypertension|dsyn
+4620,4632|C1963138|hypertension|fndg
+4638,4646|C0011991|diarrhea|sosy
+4638,4646|C1963091|diarrhea|fndg
+4870,4879|C0087130|uncertain|fndg
+5054,5059|C0013604|edema|fndg
+5072,5079|C0015672|fatigue|sosy
+5104,5110|C0002962|angina|fndg
+5112,5127|C0002965|unstable angina|dsyn
+5129,5149|C0149871|deep vein thrombosis|dsyn
+5129,5149|C0340708|deep vein thrombosis|dsyn
+5151,5163|C0030252|palpitations|fndg
+5151,5163|C3160712|palpitations|fndg
+5183,5192|C0017152|gastritis|dsyn
+5194,5225|C0017168|gastroesophageal reflux disease|dsyn
+5227,5239|C0020615|hypoglycemia|dsyn
+5302,5320|C2363731|oropharyngeal pain|sosy
+5322,5340|C0235309|stomach discomfort|sosy
+5342,5350|C0042963|vomiting|sosy
+5342,5350|C1963281|vomiting|patf
+5376,5389|C0037763|muscle spasms|sosy
+5391,5411|C0026858|musculoskeletal pain|fndg
+5413,5420|C0231528|myalgia|sosy
+5422,5439|C0030196|pain in extremity|sosy
+5446,5453;5457,5467|C1395192|Nervous depression|mobd
+5469,5477|C0917801|insomnia|sosy
+5469,5477|C1963237|insomnia|fndg
+5479,5489|C0013144|somnolence|fndg
+5479,5489|C2830004|somnolence|fndg
+5491,5498|C0042571|vertigo|sosy
+5520,5525|C0010200|cough|sosy
+5520,5525|C1961131|cough|fndg
+5527,5545|C0231807|dyspnea exertional|sosy
+5547,5556|C0014591|epistaxis|patf
+5547,5556|C2228238|epistaxis|fndg
+5558,5566|C0043144|wheezing|sosy
+5596,5604|C0033774|pruritus|sosy
+5625,5634|C0004690|balanitis|dsyn
+5656,5665|C0018965|hematuria|fndg
+5667,5682|C0022650|nephrolithiasis|dsyn
+5667,5682|C0392525|nephrolithiasis|dsyn
+5684,5695|C0042023|pollakiuria|fndg
+5697,5720|C0042029|urinary tract infection|dsyn
+5697,5720|C0262655|urinary tract infection|dsyn
+5742,5752|C3815594|randomized|fndg
+5807,5808;5823,5826|C0025269|3 men|neop
+5845,5854;5904,5910|C1332549|bilateral cancer|neop
+5845,5854;5904,5910|C0677861|bilateral cancer|neop
+5895,5910|C0376358|prostate cancer|neop
+5895,5910|C0600139|prostate cancer|neop
+6382,6390|C0018681|Headache|sosy
+6382,6390|C2096315|Headache|fndg
+6493,6501|C0016382|Flushing|sosy
+6493,6501|C1962957|Flushing|fndg
+6604,6619|C0027441|Nasopharyngitis|dsyn
+6715,6742|C0041912|Upper respiratory infection|dsyn
+6826,6842|C2136984|Nasal congestion|patf
+6826,6842|C0027424|Nasal congestion|sosy
+6937,6946|C0004604|Back pain|sosy
+6937,6946|C1963071|Back pain|fndg
+7048,7074|C0522055|Electrocardiogram abnormal|fndg
+7159,7168|C0042571|Dizziness|sosy
+7159,7168|C0012833|Dizziness|sosy
+7159,7168|C1963093|Dizziness|fndg
+7281,7291|C3815594|randomized|fndg
+7383,7386;7393,7400|C4061124|age 2 years|fndg
+7551,7569|C1314687|sexual intercourse|fndg
+7930,7933|C0017665|mgn|dsyn
+7952,7955|C0017665|mgn|dsyn
+7968,7976|C0018681|Headache|sosy
+7968,7976|C2096315|Headache|fndg
+8079,8095|C2136984|Nasal congestion|patf
+8079,8095|C0027424|Nasal congestion|sosy
+8190,8211|C0152517|Gastroenteritis viral|dsyn
+8284,8285;8321,8327|C3842777|2 trials|fndg
+8286,8287;8321,8327|C3840593|1 trials|fndg
+8372,8378;8382,8394|C2609264|change color vision|fndg
+8454,8467;8477,8502|C0338507|Non-arteritic ischemic optic neuropathy|dsyn
+8458,8502|C2242711|arteritic anterior ischemic optic neuropathy|dsyn
+8504,8509|C1852242|NAION|dsyn
+8523,8539|C0042798|decreased vision|dsyn
+8523,8539|C3665347|decreased vision|fndg
+8523,8539|C0558171|decreased vision|fndg
+8560,8574|C0042798|loss of vision|dsyn
+8560,8574|C3665347|loss of vision|fndg
+8560,8574|C0456909|loss of vision|fndg
+8560,8574|C3665386|loss of vision|fndg
+8560,8574|C3665346|loss of vision|sosy
+8773,8785|C0455624|risk factors|fndg
+8801,8806|C1852242|NAION|dsyn
+8838,8845|C2674459|limited|fndg
+8854,8871|C0423471|cup to disc ratio|fndg
+8903,8911|C0011860|diabetes|dsyn
+8903,8911|C0011847|diabetes|dsyn
+8927,8950|C0010054|coronary artery disease|dsyn
+8927,8950|C1956346|coronary artery disease|dsyn
+8927,8950|C0010068|coronary artery disease|dsyn
+8952,8966|C0020473|hyperlipidemia|dsyn
+8952,8966|C0428465|hyperlipidemia|fndg
+9038,9045|C0445223|related|fndg
+9123,9135|C0455624|risk factors|fndg
+9164,9175|C3811910|combination|fndg
+9261,9271|C0740209|Counseling|fndg

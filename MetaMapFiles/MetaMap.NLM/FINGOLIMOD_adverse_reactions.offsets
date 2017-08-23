@@ -1,0 +1,111 @@
+115,130|C0428977|Bradyarrhythmia|patf
+115,130|C0079035|Bradyarrhythmia|dsyn
+135,158|C0004245|Atrioventricular Blocks|dsyn
+202,212|C3714514|Infections|patf
+256,298|C0023524|Progressive multifocal leukoencephalopathy|dsyn
+342,355|C0024440|Macular Edema|dsyn
+342,355|C0271051|Macular Edema|dsyn
+399,443|C3160858|Posterior Reversible Encephalopathy Syndrome|dsyn
+550,562|C0160390|Liver Injury|inpo
+682,690|C0018681|Headache|sosy
+682,690|C2096315|Headache|fndg
+722,730|C0011991|diarrhea|sosy
+722,730|C1963091|diarrhea|fndg
+732,737|C0010200|cough|sosy
+732,737|C1961131|cough|fndg
+739,748|C0021400|influenza|dsyn
+750,759|C0037199|sinusitis|dsyn
+761,770|C0004604|back pain|sosy
+761,770|C1963071|back pain|fndg
+772,786|C0000737|abdominal pain|sosy
+792,809|C0030196|pain in extremity|sosy
+1088,1098|C0012634|conditions|dsyn
+1369,1378;1388,1406|C0856120|relapsing multiple sclerosis|dsyn
+1494,1495;1520,1526|C3842777|2 trials|fndg
+1597,1598;1622,1627|C3840593|1 trial|fndg
+1611,1621|C2911690|controlled|fndg
+2070,2078|C0018681|headache|sosy
+2070,2078|C2096315|headache|fndg
+2110,2118|C0011991|diarrhea|sosy
+2110,2118|C1963091|diarrhea|fndg
+2120,2125|C0010200|cough|sosy
+2120,2125|C1961131|cough|fndg
+2127,2136|C0021400|influenza|dsyn
+2138,2147|C0037199|sinusitis|dsyn
+2149,2158|C0004604|back pain|sosy
+2149,2158|C1963071|back pain|fndg
+2160,2174|C0000737|abdominal pain|sosy
+2180,2197|C0030196|pain in extremity|sosy
+2236,2251|C1444662|discontinuation|fndg
+2387,2407|C0007117|basal cell carcinoma|neop
+2387,2407|C3811653|basal cell carcinoma|neop
+2846,2856|C3714514|Infections|patf
+2903,2912|C0021400|Influenza|dsyn
+2958,2967|C0037199|Sinusitis|dsyn
+3012,3022|C0006277|Bronchitis|dsyn
+3012,3022|C0149514|Bronchitis|dsyn
+3067,3073;3082,3083|C0598514|Herpes 2|dsyn
+3074,3080|C0019360|zoster|dsyn
+3125,3141|C0040262|Tinea versicolor|dsyn
+3182,3199|C0018799|Cardiac Disorders|dsyn
+3246,3257|C0428977|Bradycardia|patf
+3246,3257|C3812171|Bradycardia|fndg
+3369,3377|C0018681|Headache|sosy
+3369,3377|C2096315|Headache|fndg
+3423,3431|C0149931|Migraine|dsyn
+3473,3499|C0017178|Gastrointestinal disorders|dsyn
+3546,3552|C0027497|Nausea|sosy
+3546,3552|C1963179|Nausea|patf
+3600,3608|C0011991|Diarrhea|sosy
+3600,3608|C1963091|Diarrhea|fndg
+3654,3668|C0000737|Abdominal pain|sosy
+3717,3726|C0012634|disorders|dsyn
+3751,3761|C0012634|conditions|dsyn
+3808,3816|C0004093|Asthenia|sosy
+3878,3905|C0009782|connective tissue disorders|dsyn
+3952,3961|C0004604|Back pain|sosy
+3952,3961|C1963071|Back pain|fndg
+4006,4023|C0030196|Pain in extremity|sosy
+4073,4085;4093,4102|C0549584|subcutaneous disorders|dsyn
+4093,4102|C0012634|disorders|dsyn
+4149,4157|C0002170|Alopecia|dsyn
+4203,4220|C0022602|Actinic keratosis|neop
+4512,4533|C0025061|mediastinal disorders|dsyn
+4580,4585|C0010200|Cough|sosy
+4580,4585|C1961131|Cough|fndg
+4634,4641|C0013404|Dyspnea|sosy
+4684,4697|C0015397|Eye disorders|dsyn
+4688,4697;4744,4750|C0042790|disorders Vision|fndg
+4688,4697|C0012634|disorders|dsyn
+4799,4807;4864,4876|C0020538|Vascular Hypertension|dsyn
+4799,4817|C0042373|Vascular disorders|dsyn
+4808,4817|C0012634|disorders|dsyn
+4864,4876|C0020538|Hypertension|dsyn
+4864,4876|C1963138|Hypertension|fndg
+4927,4953|C0024228|lymphatic system disorders|dsyn
+5000,5011|C0024312|Lymphopenia|dsyn
+5000,5011|C0853986|Lymphopenia|fndg
+5000,5011|C1963164|Lymphopenia|fndg
+5056,5066|C0023530|Leukopenia|dsyn
+5056,5066|C0750394|Leukopenia|fndg
+5107,5116;5125,5134|C0006826|Neoplasms malignant|neop
+5107,5116|C0027651|Neoplasms|neop
+5139,5150|C4048188|unspecified|fndg
+5139,5150|C2983689|unspecified|fndg
+5161,5166|C0010709|cysts|dsyn
+5171,5177|C0032584|polyps|anab
+5225,5239|C0347390|Skin papilloma|neop
+5284,5304|C0007117|Basal cell carcinoma|neop
+5284,5304|C3811653|Basal cell carcinoma|neop
+5372,5381|C0012833|dizziness|sosy
+5372,5381|C0042571|dizziness|sosy
+5372,5381|C1963093|dizziness|fndg
+5383,5392|C0032285|pneumonia|dsyn
+5394,5400|C0013595|eczema|dsyn
+5405,5413|C0033774|pruritus|sosy
+5625,5635|C2911690|controlled|fndg
+5790,5809|C0553692|hemorrhagic strokes|dsyn
+5790,5809|C0472369|hemorrhagic strokes|dsyn
+5815,5852|C1306889|peripheral arterial occlusive disease|dsyn
+6135,6144|C0024299|Lymphomas|neop
+6285,6294|C0087130|uncertain|fndg

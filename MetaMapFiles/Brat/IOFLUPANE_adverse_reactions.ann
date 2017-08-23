@@ -1,0 +1,98 @@
+T1	AdverseReaction 38 54	Hypersensitivity
+T2	AdverseReaction 59 83	injection site reactions
+T3	AdverseReaction 202 210	headache
+T4	AdverseReaction 212 218	nausea
+T5	AdverseReaction 220 227	vertigo
+T6	AdverseReaction 229 238	dry mouth
+T7	AdverseReaction 242 251	dizziness
+T8	AdverseReaction 1076 1084	headache
+T9	AdverseReaction 1086 1092	nausea
+T10	AdverseReaction 1094 1101	vertigo
+T11	AdverseReaction 1103 1112	dry mouth
+T12	AdverseReaction 1116 1125	dizziness
+T13	AdverseReaction 1716 1735	Injection site pain
+T14	AdverseReaction 1459 1485	hypersensitivity reactions
+T15	AdverseReaction 1541 1545	rash
+T16	AdverseReaction 1550 1558	pruritis
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	CUI E2 C0151735
+A6	UMLS-Preferred-Name E2 Injection site reaction
+A7	MEDDRA-PT E2 Injection site reaction
+A8	MEDDRA-PT-ID E2 10022095
+A9	CUI E3 C0018681
+A10	UMLS-Preferred-Name E3 Headache
+A11	MEDDRA-PT E3 Headache
+A12	MEDDRA-PT-ID E3 10019211
+A13	CUI E4 C0027497
+A14	UMLS-Preferred-Name E4 Nausea
+A15	MEDDRA-PT E4 Nausea
+A16	MEDDRA-PT-ID E4 10028813
+A17	CUI E5 C0042571
+A18	UMLS-Preferred-Name E5 Vertigo
+A19	MEDDRA-PT E5 Vertigo
+A20	MEDDRA-PT-ID E5 10047340
+A21	CUI E6 C0043352
+A22	UMLS-Preferred-Name E6 Xerostomia
+A23	MEDDRA-PT E6 Dry mouth
+A24	MEDDRA-PT-ID E6 10013781
+A25	CUI E7 C0012833
+A26	UMLS-Preferred-Name E7 Dizziness
+A27	MEDDRA-PT E7 Dizziness
+A28	MEDDRA-PT-ID E7 10013573
+A29	CUI E8 C0018681
+A30	UMLS-Preferred-Name E8 Headache
+A31	MEDDRA-PT E8 Headache
+A32	MEDDRA-PT-ID E8 10019211
+A33	CUI E9 C0027497
+A34	UMLS-Preferred-Name E9 Nausea
+A35	MEDDRA-PT E9 Nausea
+A36	MEDDRA-PT-ID E9 10028813
+A37	CUI E10 C0042571
+A38	UMLS-Preferred-Name E10 Vertigo
+A39	MEDDRA-PT E10 Vertigo
+A40	MEDDRA-PT-ID E10 10047340
+A41	CUI E11 C0043352
+A42	UMLS-Preferred-Name E11 Xerostomia
+A43	MEDDRA-PT E11 Dry mouth
+A44	MEDDRA-PT-ID E11 10013781
+A45	CUI E12 C0012833
+A46	UMLS-Preferred-Name E12 Dizziness
+A47	MEDDRA-PT E12 Dizziness
+A48	MEDDRA-PT-ID E12 10013573
+A49	CUI E13 C0151828
+A50	UMLS-Preferred-Name E13 Injection site pain
+A51	MEDDRA-PT E13 Injection site pain
+A52	MEDDRA-PT-ID E13 10022086
+A53	CUI E14 C0020517
+A54	UMLS-Preferred-Name E14 Hypersensitivity
+A55	MEDDRA-PT E14 Hypersensitivity
+A56	MEDDRA-PT-ID E14 10020751
+A57	LLT E14 Hypersensitivity reaction
+A58	LLT-ID E14 10020756
+A59	CUI E15 C0015230
+A60	UMLS-Preferred-Name E15 Exanthema
+A61	MEDDRA-PT E15 Rash
+A62	MEDDRA-PT-ID E15 10037844
+A63	CUI E16 C0033774
+A64	UMLS-Preferred-Name E16 Pruritus
+A65	MEDDRA-PT E16 Pruritus
+A66	MEDDRA-PT-ID E16 10037087

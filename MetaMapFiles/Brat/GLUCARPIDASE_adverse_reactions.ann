@@ -1,0 +1,238 @@
+T1	AdverseReaction 71 93	anaphylactic reactions
+T2	Factor 95 98	may
+T3	AdverseReaction 174 187	paraesthesias
+T4	AdverseReaction 189 197	flushing
+T5	AdverseReaction 199 205	nausea
+T6	AdverseReaction 213 221	vomiting
+T7	AdverseReaction 223 234	hypotension
+T8	AdverseReaction 240 248	headache
+T9	AdverseReaction 362 374	paraesthesia
+T10	AdverseReaction 376 384	flushing
+T11	AdverseReaction 386 392	nausea
+T12	AdverseReaction 400 408	vomiting
+T13	AdverseReaction 410 421	hypotension
+T14	AdverseReaction 426 434	headache
+T22	Severity 5356 5363	Grade 3
+T23	AdverseReaction 5364 5372	flushing
+T24	AdverseReaction 5472 5483	paresthesia
+T25	AdverseReaction 5485 5493	flushing
+T26	AdverseReaction 5499 5505	nausea
+T27	AdverseReaction 5513 5521	vomiting
+T28	AdverseReaction 5819 5827	flushing
+T29	AdverseReaction 5829 5840	feeling hot
+T30	AdverseReaction 5842 5859	burning sensation
+T31	AdverseReaction 5991 6003	Paresthesias
+T32	AdverseReaction 6048 6056	Flushing
+T35	AdverseReaction 6105 6111	Nausea
+T36	AdverseReaction 6112 6120	Vomiting
+T37	AdverseReaction 6162 6170	Headache
+T38	AdverseReaction 6219 6230	Hypotension
+T39	AdverseReaction 6276 6290	Blurred Vision
+T40	AdverseReaction 6333 6341	Diarrhea
+T41	AdverseReaction 6390 6406	Hypersensitivity
+T42	AdverseReaction 6447 6459	Hypertension
+T43	AdverseReaction 6504 6508	Rash
+T44	AdverseReaction 6561 6578	Throat irritation
+T45	AdverseReaction 6579 6595	Throat tightness
+T46	AdverseReaction 6627 6633	Tremor
+T47	AdverseReaction 41 59	allergic reactions
+T48	Severity 33 40	Serious
+T15	AdverseReaction 5099 5105	deaths
+E1	AdverseReaction:T1 Hypothetical:E2
+E2	Factor:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E22	Severity:T22
+E23	AdverseReaction:T23 Effect:E22
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47 Effect:E48
+E48	Severity:T48
+E15	AdverseReaction:T15
+A1	CUI E1 C0002792
+A2	UMLS-Preferred-Name E1 anaphylaxis
+A3	MEDDRA-PT E1 Anaphylactic reaction
+A4	MEDDRA-PT-ID E1 10002198
+A5	CUI E3 C0030554
+A6	UMLS-Preferred-Name E3 Paresthesia
+A7	MEDDRA-PT E3 Paraesthesia
+A8	MEDDRA-PT-ID E3 10033775
+A9	CUI E4 C0016382
+A10	UMLS-Preferred-Name E4 Flushing
+A11	MEDDRA-PT E4 Flushing
+A12	MEDDRA-PT-ID E4 10016825
+A13	CUI E5 C0027497
+A14	UMLS-Preferred-Name E5 Nausea
+A15	MEDDRA-PT E5 Nausea
+A16	MEDDRA-PT-ID E5 10028813
+A17	CUI E6 C0042963
+A18	UMLS-Preferred-Name E6 Vomiting
+A19	MEDDRA-PT E6 Vomiting
+A20	MEDDRA-PT-ID E6 10047700
+A21	CUI E7 C0020649
+A22	UMLS-Preferred-Name E7 Hypotension
+A23	MEDDRA-PT E7 Hypotension
+A24	MEDDRA-PT-ID E7 10021097
+A25	CUI E8 C0018681
+A26	UMLS-Preferred-Name E8 Headache
+A27	MEDDRA-PT E8 Headache
+A28	MEDDRA-PT-ID E8 10019211
+A29	CUI E9 C0030554
+A30	UMLS-Preferred-Name E9 Paresthesia
+A31	MEDDRA-PT E9 Paraesthesia
+A32	MEDDRA-PT-ID E9 10033775
+A33	CUI E10 C0016382
+A34	UMLS-Preferred-Name E10 Flushing
+A35	MEDDRA-PT E10 Flushing
+A36	MEDDRA-PT-ID E10 10016825
+A37	CUI E11 C0027497
+A38	UMLS-Preferred-Name E11 Nausea
+A39	MEDDRA-PT E11 Nausea
+A40	MEDDRA-PT-ID E11 10028813
+A41	CUI E12 C0042963
+A42	UMLS-Preferred-Name E12 Vomiting
+A43	MEDDRA-PT E12 Vomiting
+A44	MEDDRA-PT-ID E12 10047700
+A45	CUI E13 C0020649
+A46	UMLS-Preferred-Name E13 Hypotension
+A47	MEDDRA-PT E13 Hypotension
+A48	MEDDRA-PT-ID E13 10021097
+A49	CUI E14 C0018681
+A50	UMLS-Preferred-Name E14 Headache
+A51	MEDDRA-PT E14 Headache
+A52	MEDDRA-PT-ID E14 10019211
+A53	CUI E23 C0016382
+A54	UMLS-Preferred-Name E23 Flushing
+A55	MEDDRA-PT E23 Flushing
+A56	MEDDRA-PT-ID E23 10016825
+A57	CUI E24 C0030554
+A58	UMLS-Preferred-Name E24 Paresthesia
+A59	MEDDRA-PT E24 Paraesthesia
+A60	MEDDRA-PT-ID E24 10033775
+A61	LLT E24 Paresthesia
+A62	LLT-ID E24 10033987
+A63	CUI E25 C0016382
+A64	UMLS-Preferred-Name E25 Flushing
+A65	MEDDRA-PT E25 Flushing
+A66	MEDDRA-PT-ID E25 10016825
+A67	CUI E26 C0027497
+A68	UMLS-Preferred-Name E26 Nausea
+A69	MEDDRA-PT E26 Nausea
+A70	MEDDRA-PT-ID E26 10028813
+A71	CUI E27 C0042963
+A72	UMLS-Preferred-Name E27 Vomiting
+A73	MEDDRA-PT E27 Vomiting
+A74	MEDDRA-PT-ID E27 10047700
+A75	CUI E28 C0016382
+A76	UMLS-Preferred-Name E28 Flushing
+A77	MEDDRA-PT E28 Flushing
+A78	MEDDRA-PT-ID E28 10016825
+A79	CUI E29 C2939147
+A80	UMLS-Preferred-Name E29 Feels hot
+A81	MEDDRA-PT E29 Feeling hot
+A82	MEDDRA-PT-ID E29 10016334
+A83	CUI E30 C0085624
+A84	UMLS-Preferred-Name E30 Burning sensation
+A85	MEDDRA-PT E30 Burning sensation
+A86	MEDDRA-PT-ID E30 10006784
+A87	CUI E31 C0030554
+A88	UMLS-Preferred-Name E31 Paresthesia
+A89	MEDDRA-PT E31 Paraesthesia
+A90	MEDDRA-PT-ID E31 10033775
+A91	LLT E31 Paresthesia
+A92	LLT-ID E31 10033987
+A93	CUI E32 C0016382
+A94	UMLS-Preferred-Name E32 Flushing
+A95	MEDDRA-PT E32 Flushing
+A96	MEDDRA-PT-ID E32 10016825
+A97	CUI E35 C0027497
+A98	UMLS-Preferred-Name E35 Nausea
+A99	MEDDRA-PT E35 Nausea
+A100	MEDDRA-PT-ID E35 10028813
+A101	CUI E36 C0042963
+A102	UMLS-Preferred-Name E36 Vomiting
+A103	MEDDRA-PT E36 Vomiting
+A104	MEDDRA-PT-ID E36 10047700
+A105	CUI E37 C0018681
+A106	UMLS-Preferred-Name E37 Headache
+A107	MEDDRA-PT E37 Headache
+A108	MEDDRA-PT-ID E37 10019211
+A109	CUI E38 C0020649
+A110	UMLS-Preferred-Name E38 Hypotension
+A111	MEDDRA-PT E38 Hypotension
+A112	MEDDRA-PT-ID E38 10021097
+A113	CUI E39 C0344232
+A114	UMLS-Preferred-Name E39 Blurred vision
+A115	MEDDRA-PT E39 Vision blurred
+A116	MEDDRA-PT-ID E39 10047513
+A117	LLT E39 Blurred vision
+A118	LLT-ID E39 10005886
+A119	CUI E40 C0011991
+A120	UMLS-Preferred-Name E40 Diarrhea
+A121	MEDDRA-PT E40 Diarrhoea
+A122	MEDDRA-PT-ID E40 10012735
+A123	LLT E40 Diarrhea
+A124	LLT-ID E40 10012727
+A125	CUI E41 C0020517
+A126	UMLS-Preferred-Name E41 Hypersensitivity
+A127	MEDDRA-PT E41 Hypersensitivity
+A128	MEDDRA-PT-ID E41 10020751
+A129	CUI E42 C0020538
+A130	UMLS-Preferred-Name E42 Hypertensive disease
+A131	MEDDRA-PT E42 Hypertension
+A132	MEDDRA-PT-ID E42 10020772
+A133	CUI E43 C0015230
+A134	UMLS-Preferred-Name E43 Exanthema
+A135	MEDDRA-PT E43 Rash
+A136	MEDDRA-PT-ID E43 10037844
+A137	CUI E44 C0700184
+A138	UMLS-Preferred-Name E44 Throat irritation
+A139	MEDDRA-PT E44 Throat irritation
+A140	MEDDRA-PT-ID E44 10043521
+A141	CUI E45 C0236071
+A142	UMLS-Preferred-Name E45 Feeling of throat tightness
+A143	MEDDRA-PT E45 Throat tightness
+A144	MEDDRA-PT-ID E45 10043528
+A145	CUI E46 C0040822
+A146	UMLS-Preferred-Name E46 Tremor
+A147	MEDDRA-PT E46 Tremor
+A148	MEDDRA-PT-ID E46 10044565
+A149	CUI E47 C1527304
+A150	UMLS-Preferred-Name E47 Allergic Reaction
+A151	MEDDRA-PT E47 Hypersensitivity
+A152	MEDDRA-PT-ID E47 10020751
+A153	LLT E47 Allergic reaction
+A154	LLT-ID E47 10001718
+A155	CUI E15 C1306577
+A156	UMLS-Preferred-Name E15 Death (finding)
+A157	MEDDRA-PT E15 Death
+A158	MEDDRA-PT-ID E15 10011906

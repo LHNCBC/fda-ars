@@ -1,0 +1,155 @@
+179,203|TP|Cardiovascular disorders|C0007222|10007649|179,203|Cardiovascular disorders|C0007222|10007649|dsyn
+215,237|FN|venous thromboembolism|C1861172
+239,257|TP|pulmonary embolism|C0034065|10037377|239,257|pulmonary embolism|C0034065|10037377|dsyn
+259,265|TP|stroke|C0038454|10008190|259,265|stroke|C0038454|10008190|dsyn
+271,298|TP|retinal vascular thrombosis|C0919714|10062108|271,298|retinal vascular thrombosis|C0919714|10062108|patf
+322,341|TP|Malignant neoplasms|C0006826|10028997|322,341|Malignant neoplasms|C0006826|10028997|neop
+353,371|TP|endometrial cancer|C0476089|10014733|353,371|endometrial cancer|C0476089|10014733|neop
+373,386|TP|breast cancer|C0006142|10006187|373,386|breast cancer|C0006142|10006187|neop
+392,406|TP|ovarian cancer|C1140680|10033128|392,406|ovarian cancer|C1140680|10033128|neop
+450,472|FP|of gallbladder disease|C0016977|10017626|dsyn
+453,472|FN|gallbladder disease|C0016977
+512,526|FP|loss of vision|C3665347,C0456909|10047571,10005169|fndg,fndg
+535,555|FP|hypertriglyceridemia|C0020557,C0428478|10020869,10024592|dsyn,fndg
+559,579|FP|cholestatic jaundice|C0022354|10023129|dsyn
+1006,1030|FP|Cardiovascular Disorders|C0007222|10007649|dsyn
+1174,1177|FN|VTE|C1861172
+1204,1210|TP|stroke|C0038454|10008190|1204,1210|stroke|C0038454|10008190|dsyn
+1215,1218|TP|DVT|C0149871|10051055|1215,1218|DVT|C0149871|10051055|dsyn
+1413,1425|FP|hypertension|C0020538,C1963138|10020772,10060933|dsyn,fndg
+1427,1444|FP|diabetes mellitus|C0011849|10012601|dsyn
+1446,1457|FP|tobacco use|C3853727|10057581|fndg
+1459,1479|FP|hypercholesterolemia|C0020443|10020603|dsyn
+1485,1492|FP|obesity|C1963185,C0028754|10060933,10029883|fndg,dsyn
+1539,1556|FP|family history of|C0241889|10061157|fndg
+1562,1569|FP|obesity|C1963185,C0028754|10060933,10029883|fndg,dsyn
+1575,1603|FP|systemic lupus erythematosus|C0024141|10042945|dsyn
+1645,1651|FP|Stroke|C0038454|10008190|dsyn
+1740,1746|TP|stroke|C0038454|10008190|1740,1746|stroke|C0038454|10008190|dsyn
+2281,2287|FP|stroke|C0038454|10008190|dsyn
+2394,2416|FP|Coronary Heart Disease|C0010054,C1956346|10003211,10011078|dsyn,dsyn
+2480,2502|CUIDiff|coronary heart disease|C0010068|10011078|2480,2502|coronary heart disease|C0010054,C1956346|10003211,10011078|dsyn,dsyn
+2480,2502|TP|coronary heart disease|C0010068|10011078|2480,2502|coronary heart disease|C0010054,C1956346|10003211,10011078|dsyn,dsyn
+2504,2507|FN|CHD|C0010068
+2537,2558|TP|myocardial infarction|C0027051|10028596|2537,2558|myocardial infarction|C0027051|10028596|dsyn
+2560,2588|TP|silent myocardial infarction|C0340324|10049768|2560,2588|silent myocardial infarction|C0340324|10049768|dsyn
+2593,2602|FN|CHD death|C0376297
+2593,2596|FP|CHD|C0010054,C1956346|10003211,10011078|dsyn,dsyn
+2597,2602|FP|death|C1306577|10011906|fndg
+3043,3046|FN|VTE|C1861172
+3048,3051|TP|DVT|C0149871|10051055|3048,3051|DVT|C0149871|10051055|dsyn
+3056,3074|TP|pulmonary embolism|C0034065|10037377|3056,3074|pulmonary embolism|C0034065|10037377|dsyn
+3076,3078|FN|PE|C0034065
+3254,3257|TP|DVT|C0149871|10051055|3254,3257|DVT|C0149871|10051055|dsyn
+3346,3349|FN|VTE|C1861172
+3779,3803|FP|prolonged immobilization|C0919574|10066112|fndg
+4038,4062|FP|prolonged immobilization|C0919574|10066112|fndg
+4075,4094|FP|Malignant Neoplasms|C0006826|10028997|neop
+4101,4119|FP|Endometrial Cancer|C0476089|10014733|neop
+4147,4165|TP|endometrial cancer|C0476089|10014733|4147,4165|endometrial cancer|C0476089|10014733|neop
+4264,4282|TP|endometrial cancer|C0476089|10014733|4264,4282|endometrial cancer|C0476089|10014733|neop
+4867,4890|FP|endometrial hyperplasia|C0014173|10014755|dsyn
+4947,4970|FP|Endometrial hyperplasia|C0014173|10014755|dsyn
+4993,5011|FP|endometrial cancer|C0476089|10014733|neop
+5324,5334|FP|malignancy|C1306459|10061268|neop
+5409,5425|FP|genital bleeding|C0854381|10061178|dsyn
+5417,5425|FP|bleeding|C0019080|10055798|patf
+5434,5447|FP|Breast Cancer|C0006142|10006187|neop
+5527,5540|FP|breast cancer|C0006142|10006187|neop
+5798,5820|TP|invasive breast cancer|C0853879|10075713|5798,5820|invasive breast cancer|C0853879|10075713|neop
+5924,5943|FP|abnormal mammograms|C0262365|10026736|fndg
+6013,6016;6022,6038|FP|the of breast cancer|C0006142|10006187|neop
+6308,6322|FP|Ovarian Cancer|C1140680|10033128|neop
+6478,6492|TP|ovarian cancer|C1140680|10033128|6478,6492|ovarian cancer|C1140680|10033128|neop
+6694,6708|FP|ovarian cancer|C1140680|10033128|neop
+7074,7082|TP|dementia|C0497327|10012267|7074,7082|dementia|C0011265,C0497327|10012267,10036631|mobd,mobd
+7114,7122|TP|dementia|C0497327|10012267|7114,7122|dementia|C0011265,C0497327|10012267,10036631|mobd,mobd
+7218,7226|TP|dementia|C0497327|10012267|7218,7226|dementia|C0011265,C0497327|10012267,10036631|mobd,mobd
+7388,7407|FP|Gallbladder Disease|C0016977|10017626|dsyn
+7421,7422;7452,7471|FP|4 gallbladder disease|C1969115|10017626|dsyn
+7452,7471|FN|gallbladder disease|C0016977
+7590,7617|TP|Retinal vascular thrombosis|C0919714|10062108|7590,7617|Retinal vascular thrombosis|C0919714|10062108|patf
+7751,7765|FP|loss of vision|C3665347,C0456909|10047571,10005169|fndg,fndg
+7788,7797|FP|proptosis|C0015300|10015683|dsyn
+7799,7807|FP|diplopia|C0012569|10013036|fndg
+7812,7820|FP|migraine|C0149931|10027599|dsyn
+7845,7856|FP|papilledema|C0030353|10033708|dsyn
+7860,7884|FP|retinal vascular lesions|C1402303|10038853|dsyn
+7940,7963|FP|Elevated Blood Pressure|C0020538,C0497247|10020772,10005750|dsyn,fndg
+8045,8072|TP|increases in blood pressure|C0497247|10005750|8045,8072|increases in blood pressure|C0497247|10005750|fndg
+8208,8214;8218,8227|FP|effect estrogens|C0877035|10067572|fndg
+8271,8291|FP|Hypertriglyceridemia|C0020557,C0428478|10020869,10024592|dsyn,fndg
+8324,8344|FP|hypertriglyceridemia|C0020557,C0428478|10020869,10024592|dsyn,fndg
+8394,8428|FN|elevations of plasma triglycerides|C0858041
+8440,8452|TP|pancreatitis|C0030305|10033645|8440,8452|pancreatitis|C0030305,C1963198|10033645,10060933|fndg,dsyn
+8492,8504|FP|pancreatitis|C1963198,C0030305|10060933,10033645|fndg,dsyn
+8563,8583|FP|Cholestatic Jaundice|C0022354|10023129|dsyn
+8631,8654|FP|impaired liver function|C0086565|10019670|patf
+8750,8773|FP|impaired liver function|C0086565|10019670|patf
+9317,9331|FP|Hypothyroidism|C0020676|10021114|dsyn
+9370,9379;9406,9409;9411,9417|FN|increased TBG levels|C0241400
+9370,9404;9411,9417|FN|increased thyroid-binding globulin levels|C1168501
+9370,9404|FP|increased thyroid-binding globulin|C0241400|10051420|fndg
+9477,9490|FN|increased TBG|C0241400
+9552,9554;9583,9589|FP|T3 normal|C0853627|10044598|fndg
+9899,9914|FP|Fluid Retention|C0268000|10016807|patf
+9952,9970|FP|of fluid retention|C0268000|10016807|patf
+9955,9970|FN|fluid retention|C0268000
+10090,10106|FP|renal impairment|C1565489|10062237|dsyn
+10198,10214|FP|renal impairment|C1565489|10062237|dsyn
+10292,10304|FP|Hypocalcemia|C0020598|10020947|dsyn
+10369,10387|FP|hypoparathyroidism|C0020626|10021041|dsyn
+10408,10420|FP|hypocalcemia|C0020598|10020947|dsyn
+10444,10465|FP|Hereditary Angioedema|C0019243|10019860|dsyn
+10495,10505;10518,10528|FN|exacerbate angioedema|C0863128
+10518,10528|FP|angioedema|C0002994|10002424|patf
+10543,10564|FP|hereditary angioedema|C0019243|10019860|dsyn
+10663,10680|FP|diabetes mellitus|C0011849|10012601|dsyn
+10682,10690|FP|epilepsy|C0014544|10015037|dsyn
+10692,10700|FP|migraine|C0149931|10027599|dsyn
+10704,10713|FP|porphyria|C0032708|10036181|dsyn
+10715,10743|FP|systemic lupus erythematosus|C0024141|10042945|dsyn
+10749,10768|FP|hepatic hemangiomas|C0238246|10018821|neop
+11282,11293;11345,11370|FN|Accelerated platelet aggregation time|C2745924
+11282,11293;11312,11339|FN|Accelerated partial thromboplastin time|C0853224
+11282,11310|FN|Accelerated prothrombin time|C0580413
+11372,11396|TP|increased platelet count|C0857460|10051608|11372,11396|increased platelet count|C0857460|10051608|fndg
+11398,11415;11479,11482|FN|increased factors XII|C0855424
+11398,11415;11476,11477|FN|increased factors X|C0855416
+11398,11415;11472,11474|FN|increased factors IX|C0855396
+11398,11415;11447,11470|FN|increased factors VIII coagulant activity|C0855412
+11398,11418|FN|increased factors II|C0151872
+11543,11562;11581,11597|FN|decreased levels of antithrombin III|C0238665
+11599,11634|FN|decreased antithrombin III activity|C3670602
+11599,11625|FP|decreased antithrombin III|C0272375,C0238665|10002832,10049547|dsyn,fndg
+11636,11655;11671,11690|FN|increased levels of fibrinogen activity|C0852921
+11636,11666|FN|increased levels of fibrinogen|C0852921
+11692,11713;11726,11734|FN|increased plasminogen activity|C0855434
+11692,11721|FN|increased plasminogen antigen|C1167843
+11740,11749;11776,11779|FN|Increased TBG|C0241400
+11740,11774|TP|Increased thyroid-binding globulin|C0241400|10051420|11740,11774|Increased thyroid-binding globulin|C0241400|10051420|fndg
+11792,11801;11929,11938|FN|increased T3 levels|C1295668
+11792,11801;11880,11889|FN|increased T4 levels|C1295665
+11792,11835|FN|increased circulating total thyroid hormone|C1328578
+11792,11801;11820,11835|FP|increased thyroid hormone|C1328578|10063161|fndg
+11960,11975;11979,11988|FN|T3 resin uptake decreased|C0241322
+12005,12017|FN|elevated TBG|C0241400
+12185,12193;12286,12290|FN|elevated SHBG|C1167859
+12185,12193;12256,12284|FN|elevated sex hormone-binding globulin|C1167859
+12185,12193;12250,12253|FN|elevated CBG|C3544308
+12185,12193;12217,12248|FN|elevated corticosteroid binding globulin|C3544308
+12304,12331;12352,12364|FN|increased total circulating sex steroids|C0235923,C0241358
+12304,12347|FN|increased total circulating corticosteroids|C0001622
+12417,12429;12452,12461|FN|testosterone decreased|C1295654
+12434,12443;12452,12461|FN|estradiol decreased|C0860850
+12469,12484;12492,12501|FN|plasma proteins increased|C0855758
+12492,12501;12557,12570|FN|increased ceruloplasmin|C0236043
+12492,12501;12536,12555|FN|increased alpha-1-antitrypsin|C0860914
+12577,12586;12629,12672|FN|Increased HDL2 cholesterol subfraction concentrations|C0853084
+12577,12586;12620,12623|FN|Increased HDL|C0853084
+12577,12618|FN|Increased plasma high-density lipoprotein|C0853084
+12674,12681;12707,12710;12712,12738|FN|reduced LDL cholesterol concentrations|C0853085
+12674,12705;12712,12738|FN|reduced low-density lipoprotein cholesterol concentrations|C0853085
+12740,12769|FN|increased triglyceride levels|C0853692
+12775,12801|CUIDiff|Impaired glucose tolerance|C0159069|10018429|12775,12801|Impaired glucose tolerance|C0271650|10018429|dsyn
+12775,12801|TP|Impaired glucose tolerance|C0159069|10018429|12775,12801|Impaired glucose tolerance|C0271650|10018429|dsyn

@@ -1,0 +1,112 @@
+T1	AdverseReaction 30 45	AGRANULOCYTOSIS
+T2	AdverseReaction 46 57	NEUTROPENIA
+T3	AdverseReaction 70 85	AGRANULOCYTOSIS
+T4	AdverseReaction 86 97	NEUTROPENIA
+T5	AdverseReaction 126 141	agranulocytosis
+T6	Factor 116 119	can
+T7	Factor 147 150	can
+T8	AdverseReaction 167 177	infections
+T9	Severity 159 166	serious
+T10	AdverseReaction 182 187	death
+T11	AdverseReaction 232 247	agranulocytosis
+T12	AdverseReaction 189 200	Neutropenia
+T13	Factor 201 204	may
+T14	AdverseReaction 793 808	AGRANULOCYTOSIS
+T15	AdverseReaction 813 824	NEUTROPENIA
+T16	AdverseReaction 924 939	agranulocytosis
+T17	AdverseReaction 965 975	infections
+T18	AdverseReaction 980 985	death
+T19	Factor 914 917	can
+T20	Severity 957 964	serious
+T21	Factor 945 948	can
+T22	AdverseReaction 987 998	Neutropenia
+T23	Factor 999 1002	may
+T24	AdverseReaction 1030 1045	agranulocytosis
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E6
+E6	Factor:T6
+E7	Factor:T7
+E8	AdverseReaction:T8 Effect:E9 Hypothetical:E7
+E9	Severity:T9
+E10	AdverseReaction:T10 Hypothetical:E7
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12 Hypothetical:E13
+E13	Factor:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16 Hypothetical:E19
+E17	AdverseReaction:T17 Effect:E20 Hypothetical:E21
+E18	AdverseReaction:T18 Hypothetical:E21
+E19	Factor:T19
+E20	Severity:T20
+E21	Factor:T21
+E22	AdverseReaction:T22 Hypothetical:E23
+E23	Factor:T23
+E24	AdverseReaction:T24
+A1	CUI E1 C0001824
+A2	UMLS-Preferred-Name E1 Agranulocytosis
+A3	MEDDRA-PT E1 Agranulocytosis
+A4	MEDDRA-PT-ID E1 10001507
+A5	CUI E2 C0027947
+A6	UMLS-Preferred-Name E2 Neutropenia
+A7	MEDDRA-PT E2 Neutropenia
+A8	MEDDRA-PT-ID E2 10029354
+A9	CUI E3 C0001824
+A10	UMLS-Preferred-Name E3 Agranulocytosis
+A11	MEDDRA-PT E3 Agranulocytosis
+A12	MEDDRA-PT-ID E3 10001507
+A13	CUI E4 C0027947
+A14	UMLS-Preferred-Name E4 Neutropenia
+A15	MEDDRA-PT E4 Neutropenia
+A16	MEDDRA-PT-ID E4 10029354
+A17	CUI E5 C0001824
+A18	UMLS-Preferred-Name E5 Agranulocytosis
+A19	MEDDRA-PT E5 Agranulocytosis
+A20	MEDDRA-PT-ID E5 10001507
+A21	CUI E8 C3714514
+A22	UMLS-Preferred-Name E8 Infection
+A23	MEDDRA-PT E8 Infection
+A24	MEDDRA-PT-ID E8 10021789
+A25	CUI E10 C1306577
+A26	UMLS-Preferred-Name E10 Death (finding)
+A27	MEDDRA-PT E10 Death
+A28	MEDDRA-PT-ID E10 10011906
+A29	CUI E11 C0001824
+A30	UMLS-Preferred-Name E11 Agranulocytosis
+A31	MEDDRA-PT E11 Agranulocytosis
+A32	MEDDRA-PT-ID E11 10001507
+A33	CUI E12 C0027947
+A34	UMLS-Preferred-Name E12 Neutropenia
+A35	MEDDRA-PT E12 Neutropenia
+A36	MEDDRA-PT-ID E12 10029354
+A37	CUI E14 C0001824
+A38	UMLS-Preferred-Name E14 Agranulocytosis
+A39	MEDDRA-PT E14 Agranulocytosis
+A40	MEDDRA-PT-ID E14 10001507
+A41	CUI E15 C0027947
+A42	UMLS-Preferred-Name E15 Neutropenia
+A43	MEDDRA-PT E15 Neutropenia
+A44	MEDDRA-PT-ID E15 10029354
+A45	CUI E16 C0001824
+A46	UMLS-Preferred-Name E16 Agranulocytosis
+A47	MEDDRA-PT E16 Agranulocytosis
+A48	MEDDRA-PT-ID E16 10001507
+A49	CUI E17 C3714514
+A50	UMLS-Preferred-Name E17 Infection
+A51	MEDDRA-PT E17 Infection
+A52	MEDDRA-PT-ID E17 10021789
+A53	CUI E18 C1306577
+A54	UMLS-Preferred-Name E18 Death (finding)
+A55	MEDDRA-PT E18 Death
+A56	MEDDRA-PT-ID E18 10011906
+A57	CUI E22 C0027947
+A58	UMLS-Preferred-Name E22 Neutropenia
+A59	MEDDRA-PT E22 Neutropenia
+A60	MEDDRA-PT-ID E22 10029354
+A61	CUI E24 C0001824
+A62	UMLS-Preferred-Name E24 Agranulocytosis
+A63	MEDDRA-PT E24 Agranulocytosis
+A64	MEDDRA-PT-ID E24 10001507

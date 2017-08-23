@@ -1,0 +1,61 @@
+00000000|MMI|41.57|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-16-"adverse reactions"-noun-0,"Adverse reactions"-tx-9-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-9-"adverse reactions"-noun-0,"Adverse reactions"-tx-8-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-3-"adverse reaction"-noun-0,"Adverse reactions"-tx-2-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|4486/17;1945/17;3444/17;1697/17;806/16;584/17;6/17;[41/17],[451/17]|
+00000000|MMI|39.74|Chronic Obstructive Airway Disease|C0024117|[dsyn]|["-- COPD"-tx-10-"COPD"-noun-0,"-- COPD"-tx-6-"COPD"-noun-0,"-- COPD"-tx-4-"COPD"-noun-0]|TX|3854/4;1405/4;1170/4|C08.381.495.389
+00000000|MMI|33.08|Headache|C0018681|[sosy]|["HEADACHE"-tx-9-"Headache"-noun-0,"HEADACHE"-tx-1-"headache"-noun-0]|TX|2433/8;515/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|26.74|Coughing|C0010200|[sosy]|["COUGH"-tx-9-"Cough"-noun-0,"COUGH"-tx-1-"cough"-noun-0]|TX|2651/5;545/5|C08.618.248;C23.888.852.293
+00000000|MMI|26.74|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-9-"Nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-1-"nasopharyngitis"-noun-0]|TX|2542/15;525/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|26.40|Angle Closure Glaucoma|C0017605|[dsyn]|["GLAUCOMA, NARROW ANGLE"-tx-7-"narrow-angle glaucoma"-noun-0,"GLAUCOMA, NARROW ANGLE"-tx-1-"narrow-angle glaucoma"-noun-0]|TX|1553/21;202/21|C11.525.381.056
+00000000|MMI|24.04|1+|C3816745|[fndg]|["1+"-tx-9-"1"-percentage-0,"1+"-tx-9-"1"-real_number-0]|TX|[2849/1],[3020/1],[3128/1],[3237/1],[3346/1],[3525/1];[2849/1],[3020/1],[3128/1],[3237/1],[3346/1],[3525/1]|
+00000000|MMI|23.12|Immediate hypersensitivity|C0020523|[patf]|["Immediate Hypersensitivity reactions"-tx-18-"immediate hypersensitivity reactions"-noun-0,"Immediate Hypersensitivity reactions"-tx-1-"Immediate Hypersensitivity Reactions"-noun-0]|TX|4832/36;345/36|C20.543.480
+00000000|MMI|20.95|Bladder neck obstruction|C0005694|[dsyn]|["Bladder Outlet Obstruction"-tx-7-"bladder outlet obstruction"-noun-0]|TX|1616/26|C12.777.767.700.962;C12.777.829.760;C13.351.968.767.700.850;C13.351.968.829.601
+00000000|MMI|19.68|Disease|C0012634|[dsyn]|["DISEASE"-tx-7-"disease"-noun-0,"condition"-tx-3-"conditions"-noun-0]|TX|1544/7;794/10|C23.550.288
+00000000|MMI|19.45|Toothache|C0040460|[sosy]|["TOOTHACHE"-tx-9-"Toothache"-noun-0]|TX|3087/9|C07.793.929;C10.597.617.203.500;C23.888.592.612.330.500
+00000000|MMI|19.32|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-17-"uncertain"-adj-0]|TX|4645/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|19.24|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-9-"3"-integer-0,"3+"-tx-9-"3"-real_number-0,"3+"-tx-4-"3"-integer-0,"3+"-tx-1-"3"-percentage-0]|TX|[2693/1],[3282/1],[3391/1];[2693/1],[3282/1],[3391/1];1007/1;472/1|
+00000000|MMI|17.80|Angioedema|C0002994|[patf]|["Angiooedema"-tx-18-"angioedema"-noun-0]|TX|4893/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|16.10|Urinary Retention|C0080274|[fndg]|["URINARY RETENTION"-tx-1-"urinary retention"-noun-0]|TX|282/17|C12.777.934.880;C13.351.968.934.880
+00000000|MMI|14.64|Degenerative polyarthritis|C0029408|[dsyn]|["OSTEOARTHRITIS"-tx-9-"osteoarthritis"-noun-0]|TX|3584/14|C05.550.114.606;C05.799.613
+00000000|MMI|14.64|Diabetes Mellitus|C0011849|[dsyn]|["DIABETES MELLITUS"-tx-9-"diabetes mellitus"-noun-0]|TX|3533/17|C18.452.394.750;C19.246
+00000000|MMI|14.64|Pruritus|C0033774|[sosy]|["ITCHING"-tx-18-"itching"-noun-0]|TX|4991/7|C17.800.685;C23.888.885.625
+00000000|MMI|14.64|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-18-"urticaria"-noun-0]|TX|4957/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|14.64|Vomiting|C0042963|[sosy]|["VOMITING"-tx-9-"Vomiting"-verb-0]|TX|3305/8|C23.888.821.937
+00000000|MMI|14.64|Xerostomia|C0043352|[dsyn]|["DRY MOUTH"-tx-9-"dry mouth"-noun-0]|TX|3552/9|C07.465.815.929
+00000000|MMI|14.64|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-18-"anaphylaxis"-noun-0]|TX|4880/11|C20.543.480.099
+00000000|MMI|13.22|Prostatic Hyperplasia|C2937421|[dsyn]|["Prostatic hypertrophy"-tx-7-"prostatic hypertrophy"-noun-0]|TX|1591/21|C12.294.565.500
+00000000|MMI|13.22|Prostatic Hypertrophy|C1739363|[dsyn]|["PROSTATIC HYPERTROPHY"-tx-7-"prostatic hypertrophy"-noun-0]|TX|1591/21|C12.294.565.500
+00000000|MMI|13.14|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-9-"Diarrhea"-noun-0]|TX|2760/8|C23.888.821.214
+00000000|MMI|13.14|Falls|C0085639|[fndg]|["FALL"-tx-9-"Fall"-noun-0]|TX|3196/4|N06.850.135.122
+00000000|MMI|13.14|Sinusitis|C0037199|[dsyn]|["SINUSITIS"-tx-9-"Sinusitis"-noun-0]|TX|2869/9|C08.460.692.752;C08.730.749;C09.603.692.752
+00000000|MMI|11.49|Bronchial Spasm|C0006266|[dsyn]|["BRONCHOSPASM"-tx-18-"bronchospasm"-noun-0]|TX|4974/12|C08.127.321
+00000000|MMI|11.49|Cardiopulmonary Arrest|C0600228|[patf]|["Cardio-respiratory arrest"-tx-9-"cardio-respiratory arrest"-noun-0]|TX|3621/25|C14.280.383
+00000000|MMI|11.49|Exanthema|C0015230|[sosy]|["RASH"-tx-18-"rash"-noun-0]|TX|4968/4|C17.800.257
+00000000|MMI|11.49|Heart failure|C0018801|[dsyn]|["CARDIAC FAILURE"-tx-9-"cardiac failure"-noun-0]|TX|3600/15|C14.280.434
+00000000|MMI|10.90|Chronic obstructive pulmonary disease of horses|C3714496|[dsyn]|["COPD"-tx-10-"COPD"-noun-0,"COPD"-tx-6-"COPD"-noun-0,"COPD"-tx-4-"COPD"-noun-0]|TX|3854/4;1405/4;1170/4|
+00000000|MMI|9.99|Rhinitis|C0035455|[dsyn]|["RHINITIS"-tx-9-"Rhinitis"-noun-0]|TX|2978/8|C08.460.799;C08.730.674;C09.603.799
+00000000|MMI|7.70|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-9-"Cough"-noun-0,"Cough"-tx-1-"cough"-noun-0]|TX|2651/5;545/5|
+00000000|MMI|7.70|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-9-"Headache"-noun-0,"headache"-tx-1-"headache"-noun-0]|TX|2433/8;515/8|
+00000000|MMI|7.40|0%|C3842591|[fndg]|["0%"-tx-9-"0"-real_number-0]|TX|[2958/1],[3176/1]|
+00000000|MMI|7.40|2+|C3833492|[fndg]|["2+"-tx-9-"2"-real_number-0]|TX|[2741/1],[2802/1]|
+00000000|MMI|7.17|Worse|C1457868|[fndg]|["Worsening"-tx-1-"Worsening"-noun-0]|TX|[189/9],[269/9]|
+00000000|MMI|6.62|Heart Diseases|C0018799|[dsyn]|["Disease, Cardiac"-tx-7-"cardiac disease"-noun-0]|TX|1536/15|C14.280
+00000000|MMI|5.18|1-2|C3843716|[fndg]|["1-2"-tx-9-"1.2"-real_number-0]|TX|3067/3|
+00000000|MMI|5.18|3/9|C0442760|[fndg]|["3/9"-tx-9-"3.9"-real_number-0]|TX|2632/3|
+00000000|MMI|5.18|AV Block First Degree by ECG Finding|C3715208|[fndg]|["1st degree AV block"-tx-9-"1st degree AV block"-noun-0]|TX|3563/19|
+00000000|MMI|5.18|Adverse event|C0877248|[patf]|["adverse events"-tx-14-"adverse events"-noun-0]|TX|4216/14|
+00000000|MMI|5.18|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-18-"anaphylaxis"-noun-0]|TX|4880/11|
+00000000|MMI|5.18|Congestive heart failure|C0018802|[dsyn]|["Cardiac Failure"-tx-9-"cardiac failure"-noun-0]|TX|3600/15|
+00000000|MMI|5.18|Distance vision 6/6|C0442750|[fndg]|["6/6"-tx-9-"6.6"-real_number-0]|TX|2475/3|
+00000000|MMI|5.18|ENT surgical result tongue|C2137027|[fndg]|["tongue"-tx-18-"tongue"-noun-0]|TX|4937/6|
+00000000|MMI|5.18|First degree atrioventricular block|C0085614|[dsyn]|["1st degree av block"-tx-9-"1st degree AV block"-noun-0]|TX|3563/19|
+00000000|MMI|5.18|Paradoxical bronchospasm|C0236072|[patf]|["Paradoxical bronchospasm"-tx-1-"Paradoxical bronchospasm"-noun-0]|TX|119/24|
+00000000|MMI|5.18|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-9-"Vomiting"-verb-0]|TX|3305/8|
+00000000|MMI|5.18|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-18-"urticaria"-noun-0]|TX|4957/9|
+00000000|MMI|3.75|Benign prostatic hypertrophy|C0005001|[patf]|["prostatic hypertrophy"-tx-7-"prostatic hypertrophy"-noun-0]|TX|1591/21|
+00000000|MMI|3.74|New finding since previous mammogram|C1268649|[fndg]|["New finding"-tx-15-"new findings"-noun-0]|TX|4357/3,4368/8|
+00000000|MMI|3.72|Safety finding|C0581560|[fndg]|["Safety finding"-tx-15-"safety findings"-noun-1]|TX|4361/15|
+00000000|MMI|3.71|Lip swelling|C0240211|[sosy]|["Swelling of lips"-tx-18-"swelling of lips"-noun-0]|TX|4915/11,4931/4|
+00000000|MMI|3.68|10%|C3842590|[fndg]|["10%"-tx-9-"10"-integer-0]|TX|3016/2|
+00000000|MMI|3.68|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-9-"Diarrhea"-noun-0]|TX|2760/8|
+00000000|MMI|3.50|FEV1 Adverse Event|C1561566|[fndg]|["FEV(1)"-tx-6-"FEV1"-noun-0]|TX|1481/4|
+00000000|MMI|3.50|Forced expiratory volume in 1 second finding|C0429706|[fndg]|["FEV 1.0"-tx-6-"FEV1"-noun-0]|TX|1481/4|
+00000000|MMI|3.47|Adverse effects|C0879626|[patf]|["treatment Adverse reactions"-tx-9-"Treatment Adverse Reactions"-noun-0]|TX|2055/9,2106/17|
+00000000|MMI|3.43|Unstable status|C0443343|[fndg]|["Unstable"-tx-7-"unstable"-adj-0]|TX|1527/8|

@@ -1,0 +1,93 @@
+00000000|AA|ILD|Interstitial Lung Disease|1|3|5|25|532:3
+00000000|AA|ULN|upper limit of normal|1|3|7|21|2756:3
+00000000|AA|ECGs|electrocardiograms|1|4|1|18|5187:4
+00000000|MMI|159.15|Bradycardia|C0428977|[patf]|["BRADYCARDIA"-tx-59-"bradycardia"-noun-0,"BRADYCARDIA"-tx-58-"bradycardia"-noun-1,"BRADYCARDIA"-tx-56-"bradycardia"-noun-0,"BRADYCARDIA"-tx-55-"Bradycardia"-noun-0,"BRADYCARDIA"-tx-53-"Bradycardia"-noun-0,"Bradyarrhythmias"-tx-43-"bradyarrhythmias"-noun-0,"BRADYCARDIA"-tx-15-"Bradycardia"-noun-0,"BRADYCARDIA"-tx-15-"bradycardia"-noun-0,"Bradyarrhythmias"-tx-9-"bradyarrhythmias"-noun-0]|TX|[7731/11],[7868/11],[7944/11];7550/11;7259/11;7104/11;6895/11;5253/16;1366/11;1398/11;856/16|C14.280.067.319;C23.550.073.300
+00000000|MMI|120.10|2+|C3833492|[fndg]|["2+"-tx-63-"2"-real_number-0,"2+"-tx-59-"2"-real_number-0,"2+"-tx-52-"2"-real_number-0,"2+"-tx-48-"2"-integer-0,"2+"-tx-45-"2"-real_number-0,"2+"-tx-37-"2"-real_number-0,"2+"-tx-31-"2"-real_number-0,"2+"-tx-25-"2"-real_number-0,"2+"-tx-20-"2"-real_number-0,"2+"-tx-18-"2"-real_number-0,"2+"-tx-15-"2"-real_number-0,"2+"-tx-11-"2"-real_number-0,"2+"-tx-8-"2"-real_number-0,"2+"-tx-6-"2"-real_number-0,"2+"-tx-3-"2"-real_number-0]|TX|8840/1;8257/1;6843/1;6269/1;5906/1;4281/1;3528/1;2521/1;1728/1;1526/1;1345/1;1047/1;676/1;484/1;297/1|
+00000000|MMI|118.62|Pneumonia|C0032285|[dsyn]|["Pneumonitis"-tx-37-"pneumonitis"-noun-0,"Pneumonitis"-tx-36-"pneumonitis"-noun-0,"Pneumonitis"-tx-35-"pneumonitis"-noun-0,"Pneumonitis"-tx-34-"pneumonitis"-noun-0,"Pneumonitis"-tx-33-"pneumonitis"-noun-0,"Pneumonitis"-tx-32-"Pneumonitis"-noun-0,"Pneumonitis"-tx-32-"pneumonitis"-noun-0,"Pneumonitis"-tx-7-"pneumonitis"-noun-0,"Pneumonitis"-tx-6-"Pneumonitis"-noun-0]|TX|[4139/11],[4237/11];4088/11;4013/11;[3826/11],[3884/11];3734/11;3610/11;3666/11;660/11;537/11|C08.381.677;C08.730.610
+00000000|MMI|118.62|Pneumonitis|C3714636|[dsyn]|["PNEUMONITIS"-tx-37-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-36-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-35-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-34-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-33-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-32-"Pneumonitis"-noun-0,"PNEUMONITIS"-tx-32-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-7-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-6-"Pneumonitis"-noun-0]|TX|[4139/11],[4237/11];4088/11;4013/11;[3826/11],[3884/11];3734/11;3610/11;3666/11;660/11;537/11|C08.381.677;C08.730.610
+00000000|MMI|76.20|Lung Diseases, Interstitial|C0206062|[dsyn]|["INTERSTITIAL LUNG DISEASE"-tx-37-"ILD"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-34-"ILD"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-32-"ILD"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-32-"Interstitial Lung Disease"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-7-"ILD"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-6-"Interstitial Lung Disease"-noun-0]|TX|4233/3;[3822/3],[3880/3];[3605/3],[3662/3];3578/25;656/3;505/25|C08.381.483
+00000000|MMI|71.53|Hyperglycemia|C0020456|[dsyn]|["HYPERGLYCEMIA"-tx-51-"hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-48-"hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-47-"hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-46-"Hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-11-"Hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-11-"hyperglycemia"-noun-0]|TX|6590/13;6200/13;6065/13;5963/13;1068/13;1102/13|C18.452.394.952
+00000000|MMI|65.24|Discontinued|C1444662|[fndg]|["Discontinue"-tx-59-"discontinue"-verb-0,"Discontinued"-tx-59-"discontinued"-adj-0,"Discontinue"-tx-52-"discontinue"-verb-1,"Discontinue"-tx-45-"discontinue"-verb-0,"Discontinue"-tx-37-"discontinue"-verb-0,"Discontinued"-tx-35-"discontinued"-verb-0,"Discontinue"-tx-31-"discontinue"-verb-0,"Discontinuation"-tx-28-"discontinuation"-noun-0,"Discontinue"-tx-17-"discontinue"-verb-0,"Discontinue"-tx-14-"discontinue"-verb-0,"Discontinue"-tx-10-"discontinue"-verb-0,"Discontinue"-tx-7-"discontinue"-verb-0,"Discontinue"-tx-5-"discontinue"-verb-0]|TX|7690/11;8048/12;6791/11;5686/11;4168/11;3970/12;3452/11;2843/15;1502/11;1321/11;1023/11;591/11;460/11|
+00000000|MMI|46.80|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-23-"abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-22-"abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-1-"abdominal pain"-noun-0]|TX|2184/14;2006/14;161/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|42.88|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-30-"ALT"-noun-0,"ALT"-tx-29-"ALT"-noun-0,"ALT"-tx-27-"ALT"-noun-0]|TX|3156/3;2929/3;2703/3|C04.557.450.550.400
+00000000|MMI|42.47|Electrocardiogram|C0013798|[fndg]|["Electrocardiograms"-tx-44-"ECGs"-noun-0,"Electrocardiograms"-tx-43-"electrocardiograms"-noun-0,"Electrocardiograms"-tx-9-"electrocardiograms"-noun-0]|TX|5479/4;5167/18;777/18|E01.370.370.380.240;E01.370.405.240
+00000000|MMI|39.86|Indicated|C1444656|[fndg]|["Indicated"-tx-62-"indicated"-verb-0,"Indicated"-tx-50-"indicated"-verb-0,"Indicated"-tx-49-"indicated"-verb-0,"Indicated"-tx-30-"indicated"-verb-0,"Indicated"-tx-24-"indicated"-verb-0,"Indicated"-tx-19-"indicated"-verb-0,"Indicated"-tx-13-"indicated"-verb-0,"Indicated"-tx-12-"indicated"-verb-0]|TX|8667/9;6504/9;6438/9;3246/9;2351/9;1714/9;1268/9;1202/9|
+00000000|MMI|38.51|Nausea|C0027497|[sosy]|["NAUSEA"-tx-23-"nausea"-noun-0,"NAUSEA"-tx-22-"nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|2163/6;1985/6;141/6|C23.888.821.712
+00000000|MMI|38.51|Vomiting|C0042963|[sosy]|["VOMITING"-tx-23-"vomiting"-verb-0,"VOMITING"-tx-22-"vomiting"-verb-0,"VOMITING"-tx-1-"vomiting"-verb-0]|TX|2171/8;1993/8;149/8|C23.888.821.937
+00000000|MMI|36.46|Torsades de Pointes|C0040479|[dsyn]|["TORSADES DE POINTES"-tx-45-"Torsade de pointes"-noun-0,"TORSADES DE POINTES"-tx-38-"Torsade de pointes"-noun-0]|TX|5776/18;4465/18|C14.280.067.845.940.700;C23.550.073.845.940.700
+00000000|MMI|33.30|Bradycardia by ECG Finding|C3812171|[fndg]|["BRADYCARDIA"-tx-59-"bradycardia"-noun-0,"BRADYCARDIA"-tx-58-"bradycardia"-noun-1,"BRADYCARDIA"-tx-56-"bradycardia"-noun-0,"BRADYCARDIA"-tx-55-"Bradycardia"-noun-0,"BRADYCARDIA"-tx-53-"Bradycardia"-noun-0,"BRADYCARDIA"-tx-15-"Bradycardia"-noun-0,"BRADYCARDIA"-tx-15-"bradycardia"-noun-0]|TX|[7731/11],[7868/11],[7944/11];7550/11;7259/11;7104/11;6895/11;1366/11;1398/11|
+00000000|MMI|28.49|Systemic arterial pressure|C1272641|[fndg]|["Blood pressure"-tx-57-"blood pressure"-noun-0,"Blood pressure"-tx-16-"blood pressure"-noun-0]|TX|7410/14;1434/14|G09.330.380.076.347
+00000000|MMI|28.44|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-63-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-59-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-52-"Adverse Reactions"-noun-1,"Adverse reactions"-tx-37-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-31-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-25-"Adverse Reactions"-noun-0]|TX|8849/17;8266/17;6852/17;4290/17;3537/17;2530/17|
+00000000|MMI|28.13|Fasting|C0015663|[fndg]|["FASTING"-tx-49-"fasting"-noun-0,"FASTING"-tx-12-"fasting"-noun-0]|TX|6334/7;1125/7|F01.145.407.400;G07.203.650.240.587;G07.203.650.353.400
+00000000|MMI|26.36|Pancreatitis|C0030305|[dsyn]|["PANCREATITIS"-tx-60-"Pancreatitis"-noun-0,"PANCREATITIS"-tx-18-"Pancreatitis"-noun-0,"PANCREATITIS"-tx-18-"pancreatitis"-noun-0]|TX|8307/12;1547/12;1602/12|C06.689.750
+00000000|MMI|23.93|Adverse reaction to drug|C0041755|[inpo]|["Adverse Drug Reaction"-tx-55-"adverse drug reaction"-noun-0,"Adverse Drug Reaction"-tx-51-"adverse drug reaction"-noun-0,"Adverse Drug Reaction"-tx-31-"adverse drug reaction"-noun-0,"Adverse Drug Reaction"-tx-25-"adverse drug reaction"-noun-0]|TX|7135/21;6544/21;3362/21;2391/21|C25.100
+00000000|MMI|22.44|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-23-"diarrhea"-noun-0,"DIARRHOEA"-tx-1-"diarrhea"-noun-0]|TX|2153/8;131/8|C23.888.821.214
+00000000|MMI|15.69|60%|C3842585|[fndg]|["60%"-tx-59-"60"-integer-0,"60%"-tx-58-"60"-integer-0,"60%"-tx-40-"60"-integer-0,"60%"-tx-39-"60"-integer-0]|TX|[7978/2],[8183/2];7584/2;4925/2;4662/2|
+00000000|MMI|15.42|Impaired glucose tolerance|C0271650|[dsyn]|["GLUCOSE INTOLERANCE"-tx-48-"glucose intolerance"-noun-0]|TX|6243/19|C18.452.394.952.500
+00000000|MMI|13.91|Diabetes Mellitus, Non-Insulin-Dependent|C0011860|[dsyn]|["diabetes"-tx-48-"diabetes"-noun-0]|TX|6231/8|C18.452.394.750.149;C19.246.300
+00000000|MMI|13.63|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-23-"nausea"-noun-0,"Nausea"-tx-22-"nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|2163/6;1985/6;141/6|
+00000000|MMI|13.63|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-23-"vomiting"-verb-0,"Vomiting"-tx-22-"vomiting"-verb-0,"Vomiting"-tx-1-"vomiting"-verb-0]|TX|2171/8;1993/8;149/8|
+00000000|MMI|12.86|1+|C3816745|[fndg]|["1+"-tx-60-"1"-percentage-0,"1+"-tx-54-"1"-percentage-0,"1+"-tx-35-"1"-percentage-0,"1+"-tx-29-"1"-percentage-0]|TX|8395/1;7084/1;3954/1;3068/1|
+00000000|MMI|12.69|Icterus|C0022346|[patf]|["JAUNDICE"-tx-28-"jaundice"-noun-0]|TX|2894/8|C23.550.429.500;C23.888.885.375
+00000000|MMI|12.69|Sudden death|C0011071|[patf]|["Death, Sudden"-tx-38-"sudden death"-noun-0]|TX|4488/12|C23.550.260.322
+00000000|MMI|12.67|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-59-"life-threatening"-adj-0,"LIFE THREATENING"-tx-58-"life-threatening"-adj-1,"CTCAE 4"-tx-47-"CTCAE 4"-noun-0,"LIFE THREATENING"-tx-32-"life-threatening"-adj-0]|TX|7714/16;7484/16;6049/5,6063/1;3635/16|
+00000000|MMI|11.51|Lung diseases|C0024115|[dsyn]|["Disease of lung"-tx-37-"of ILD"-noun-0,"Disease of lung"-tx-36-"of ILD"-noun-0]|TX|4132/6;4081/6|C08.381
+00000000|MMI|11.18|Diabetes Mellitus|C0011849|[dsyn]|["Diabetes"-tx-48-"diabetes"-noun-0]|TX|6231/8|C18.452.394.750;C19.246
+00000000|MMI|9.95|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-59-"hypotension"-noun-0]|TX|7883/11|C14.907.514
+00000000|MMI|9.77|Pancreatitis Adverse Event|C1963198|[fndg]|["Pancreatitis"-tx-60-"Pancreatitis"-noun-0,"Pancreatitis"-tx-18-"Pancreatitis"-noun-0,"Pancreatitis"-tx-18-"pancreatitis"-noun-0]|TX|8307/12;1547/12;1602/12|
+00000000|MMI|9.75|Hepatotoxicity|C0235378|[inpo]|["HEPATOTOXICITY"-tx-26-"Hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-3-"Hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-3-"hepatotoxicity"-noun-0]|TX|2571/14;318/14;353/14|
+00000000|MMI|9.62|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-55-"3"-percentage-0,"3+"-tx-40-"3"-percentage-0,"3+"-tx-39-"3"-percentage-0]|TX|7160/1;4863/1;4579/1|
+00000000|MMI|9.47|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-59-"life-threatening"-adj-0,"Life Threatening"-tx-58-"life-threatening"-adj-1,"Life Threatening"-tx-32-"life-threatening"-adj-0]|TX|7714/16;7484/16;3635/16|
+00000000|MMI|9.47|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-59-"life-threatening"-adj-0,"LIFE THREATENING"-tx-58-"life-threatening"-adj-1,"LIFE THREATENING"-tx-32-"life-threatening"-adj-0]|TX|7714/16;7484/16;3635/16|
+00000000|MMI|9.02|Bradyarrhythmia (disorder)|C0079035|[dsyn]|["bradyarrhythmias"-tx-43-"bradyarrhythmias"-noun-0,"bradyarrhythmias"-tx-9-"bradyarrhythmias"-noun-0]|TX|5253/16;856/16|
+00000000|MMI|9.02|Congestive heart failure|C0018802|[dsyn]|["CONGESTIVE HEART FAILURE"-tx-43-"congestive heart failure"-noun-0,"CONGESTIVE HEART FAILURE"-tx-9-"congestive heart failure"-noun-0]|TX|5227/24;830/24|
+00000000|MMI|9.02|Torsade de Pointes Adverse Event|C1963250|[fndg]|["Torsade de pointes"-tx-45-"Torsade de pointes"-noun-0,"Torsade de pointes"-tx-38-"Torsade de pointes"-noun-0]|TX|5776/18;4465/18|
+00000000|MMI|8.46|Signs and Symptoms, Respiratory|C0037090|[sosy]|["pulmonary symptoms"-tx-36-"pulmonary symptoms"-noun-0]|TX|4051/18|C23.888.852
+00000000|MMI|8.44|Cardiac Arrhythmia|C0003811|[fndg]|["Arrythmia"-tx-45-"arrhythmia"-noun-0]|TX|5863/10|C14.280.067;C23.550.073
+00000000|MMI|7.17|Electrolytes abnormal|C0151613|[fndg]|["ELECTROLYTE ABNORMALITY"-tx-43-"electrolyte abnormalities"-noun-0,"ELECTROLYTE ABNORMALITY"-tx-9-"electrolyte abnormalities"-noun-0]|TX|5271/25;874/25|
+00000000|MMI|6.53|Blood pressure finding|C1271104|[fndg]|["Blood Pressure"-tx-57-"blood pressure"-noun-0,"Blood Pressure"-tx-16-"blood pressure"-noun-0]|TX|7410/14;1434/14|
+00000000|MMI|6.40|0%|C3842591|[fndg]|["0%"-tx-34-"0"-percentage-0,"0%"-tx-28-"0"-percentage-0]|TX|3923/1;2818/1|
+00000000|MMI|6.39|Electrocardiogram QT corrected interval prolonged|C0855333|[fndg]|["QTC PROLONGATION"-tx-45-"QTc prolongation"-noun-0,"QTC PROLONGATION"-tx-8-"QTc prolongation"-noun-0]|TX|5730/3,5743/12;742/3,755/12|
+00000000|MMI|6.37|5-6|C3843715|[fndg]|["5-6"-tx-53-"5.6"-real_number-0,"5-6"-tx-18-"5.6"-real_number-0]|TX|6887/3;1534/3|
+00000000|MMI|6.37|6/5|C0442749|[fndg]|["5 6"-tx-53-"5.6"-real_number-0,"5 6"-tx-18-"5.6"-real_number-0]|TX|6887/3;1534/3|
+00000000|MMI|6.34|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-64-"Toxicity"-noun-0,"Toxicity"-tx-20-"Toxicity"-noun-0]|TX|8904/8;1761/8|
+00000000|MMI|6.26|Grade 3 Severe Adverse Event|C1519275|[fndg]|["CTCAE Grade 3"-tx-48-"CTCAE Grade 3"-noun-0,"CTCAE Grade 3"-tx-34-"CTCAE Grade 3"-noun-0]|TX|6184/13;3803/13|
+00000000|MMI|6.26|Gastrointestinal toxicity|C1142499|[fndg]|["Gastrointestinal toxicity"-tx-22-"Gastrointestinal Toxicity"-noun-0,"Gastrointestinal toxicity"-tx-1-"Gastrointestinal Toxicity"-noun-0]|TX|1944/25;78/25|
+00000000|MMI|6.23|Prolonged QT interval|C0151878|[fndg]|["QT Prolongation"-tx-38-"QT Prolongation"-noun-0,"QT Prolongation"-tx-8-"QT Prolongation"-noun-0]|TX|4331/2,4343/12;697/2,709/12|
+00000000|MMI|6.17|Diagnosis|C0011900|[fndg]|["DIAGNOSED"-tx-37-"diagnosed"-verb-0,"DIAGNOSED"-tx-7-"diagnosed"-verb-0]|TX|4200/9;623/9|E01
+00000000|MMI|6.17|Related personal status|C0445223|[fndg]|["Related"-tx-37-"related"-adj-0,"Related"-tx-7-"related"-adj-0]|TX|4225/7;648/7|
+00000000|MMI|6.09|Asymptomatic|C0231221|[fndg]|["ASYMPTOMATIC"-tx-59-"asymptomatic"-adj-0,"ASYMPTOMATIC"-tx-58-"asymptomatic"-adj-1]|TX|7931/12;7537/12|
+00000000|MMI|6.09|50%|C3842586|[fndg]|["50%"-tx-54-"50"-integer-0,"50%"-tx-40-"50"-integer-0]|TX|7033/2;4800/2|
+00000000|MMI|6.09|<50|C3843766|[fndg]|["<50"-tx-54-"50"-integer-0,"<50"-tx-40-"50"-integer-0]|TX|7033/2;4800/2|
+00000000|MMI|6.02|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-34-"fatal"-adj-0,"FATAL"-tx-32-"fatal"-adj-0]|TX|3874/5;3656/5|
+00000000|MMI|5.99|combination - answer to question|C3811910|[fndg]|["Combination"-tx-56-"combination"-noun-0,"Combination"-tx-45-"combination"-noun-0]|TX|7214/11;5759/11|
+00000000|MMI|5.97|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-23-"diarrhea"-noun-0,"Diarrhea"-tx-1-"diarrhea"-noun-0]|TX|2153/8;131/8|
+00000000|MMI|5.86|Signs and Symptoms|C0037088|[sosy]|["SIGNS SYMPTOMS"-tx-45-"signs/symptoms"-noun-0]|TX|5837/14|C23.888
+00000000|MMI|4.49|Alkaline phosphatase normal|C0858306|[fndg]|["Normal alkaline phosphatase"-tx-29-"normal alkaline phosphatase"-noun-0]|TX|3017/27|
+00000000|MMI|4.49|Container status - Identified|C1550043|[fndg]|["Identified"-tx-59-"identified"-verb-1]|TX|7788/10|
+00000000|MMI|4.49|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-51-"controlled"-verb-0]|TX|6618/10|
+00000000|MMI|4.49|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-59-"hypotension"-noun-0]|TX|7883/11|
+00000000|MMI|4.49|Sinus Bradycardia Adverse Event|C1963175|[fndg]|["Sinus bradycardia"-tx-54-"sinus bradycardia"-noun-0]|TX|6977/17|
+00000000|MMI|4.49|Sinus bradycardia|C0085610|[patf]|["SINUS BRADYCARDIA"-tx-54-"sinus bradycardia"-noun-0]|TX|6977/17|
+00000000|MMI|4.49|Sudden Death Adverse Event Not Associated with More Specific CTCAE Term|C1964022|[fndg]|["Sudden death"-tx-38-"sudden death"-noun-0]|TX|4488/12|
+00000000|MMI|4.49|Ventricular tachycardia, polymorphic|C0344432|[dsyn]|["Polymorphic Ventricular Tachycardia"-tx-45-"polymorphic ventricular tachycardia"-noun-0]|TX|5798/35|
+00000000|MMI|4.49|continuous electrocardiogram sinus bradycardia (finding)|C2108107|[fndg]|["SINUS BRADYCARDIA"-tx-54-"sinus bradycardia"-noun-0]|TX|6977/17|
+00000000|MMI|4.49|jaundice|C2010848|[fndg]|["jaundice"-tx-28-"jaundice"-noun-0]|TX|2894/8|
+00000000|MMI|4.49|yellow skin or eyes (symptom)|C2203646|[sosy]|["jaundice"-tx-28-"jaundice"-noun-0]|TX|2894/8|
+00000000|MMI|3.25|diarrhea persistent|C0743188|[dsyn]|["persistent diarrhea"-tx-22-"Persistent Diarrhea"-noun-0]|TX|1933/10,1975/8|
+00000000|MMI|3.14|patient report|C0747307|[fndg]|["Patient reported"-tx-34-"reported patient"-noun-0]|TX|3900/8,3914/7|
+00000000|MMI|3.12|Abnormality of the skeletal system|C4021790|[anab]|["Skeletal anomalies"-tx-65-"skeletal anomalies"-noun-0]|TX|9206/18|
+00000000|MMI|3.12|New finding since previous mammogram|C1268649|[fndg]|["New finding"-tx-54-"new finding"-noun-0]|TX|7069/11|
+00000000|MMI|3.12|unresponsive behavior|C0237284|[fndg]|["Not Responsive"-tx-2-"not responsive"-adj-0]|TX|217/14|
+00000000|MMI|3.12|Lead increased|C0861064|[fndg]|["increased lead"-tx-38-"lead increased"-noun-0]|TX|4399/4,4410/9|
+00000000|MMI|3.03|Congenital long QT syndrome|C1141890|[dsyn]|["Congenital long QT syndrome"-tx-42-"congenital long QT syndrome"-noun-0]|TX|5105/27|
+00000000|MMI|3.02|CTCAE Grade 3 Lipase|C1559932|[fndg]|["CTCAE Grade 3 Lipase"-tx-61-"CTCAE Grade 3 lipase"-noun-0]|TX|8448/13,8478/6|
+00000000|MMI|3.02|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-47-"Grade 3"-noun-0]|TX|6055/7|
+00000000|MMI|3.00|4+ Answer to question|C3838679|[fndg]|["4+"-tx-34-"4"-integer-0]|TX|3820/1|
+00000000|MMI|3.00|Time 2|C0808270|[fndg]|["Time 2"-tx-29-"2 times"-noun-0]|TX|2995/7|
+00000000|MMI|2.99|BRADYCARDIA ASYMPTOMATIC|C0741624|[dsyn]|["BRADYCARDIA ASYMPTOMATIC"-tx-59-"asymptomatic bradycardia"-noun-0]|TX|8136/24|
+00000000|MMI|2.99|BRADYCARDIA SYMPTOMATIC|C0741627|[dsyn]|["BRADYCARDIA SYMPTOMATIC"-tx-58-"symptomatic bradycardia"-noun-0]|TX|7448/23|
+00000000|MMI|2.99|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-67-"therapy"-noun-0]|TX|9515/7|
+00000000|MMI|2.99|Transaminases increased|C0438717|[fndg]|["Elevated Transaminases"-tx-28-"elevated transaminases"-noun-0]|TX|2866/22|
+00000000|MMI|2.98|Diabetes|C0011847|[dsyn]|["Diabetes"-tx-48-"diabetes"-noun-0]|TX|6231/8|
+00000000|MMI|2.97|6/4|C0442748|[fndg]|["6/4"-tx-48-"6 4"-integer-0]|TX|6153/1,6198/1|

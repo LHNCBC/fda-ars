@@ -1,0 +1,148 @@
+51,62|C0002792|Anaphylaxis|patf
+51,62|C0850803|Anaphylaxis|dsyn
+67,93|C0020517|Hypersensitivity Reactions|patf
+112,123|C0002792|anaphylaxis|patf
+112,123|C0850803|anaphylaxis|dsyn
+128,154|C0020517|hypersensitivity reactions|patf
+370,381|C0002792|anaphylaxis|patf
+370,381|C0850803|anaphylaxis|dsyn
+385,418|C2220378|severe hypersensitivity reactions|fndg
+385,418|C2945656|severe hypersensitivity reactions|fndg
+438,449|C1444662|discontinue|fndg
+676,701|C1444565|Cardiorespiratory Failure|patf
+785,810|C1444565|cardiorespiratory failure|patf
+1037,1055|C0264886|Cardiac Arrhythmia|patf
+1037,1055|C0003811|Cardiac Arrhythmia|fndg
+1037,1055|C1560249|Cardiac Arrhythmia|patf
+1060,1080|C0085298|Sudden Cardiac Death|patf
+1164,1168|C1273517|used|fndg
+1254,1262|C1551357|intended|fndg
+1315,1326|C0002792|Anaphylaxis|patf
+1315,1326|C0850803|Anaphylaxis|dsyn
+1331,1357|C0020517|Hypersensitivity Reactions|patf
+1363,1374|C0002792|Anaphylaxis|patf
+1363,1374|C0850803|Anaphylaxis|dsyn
+1379,1405|C0020517|hypersensitivity reactions|patf
+1554,1572|C0002792|anaphylactic shock|patf
+1574,1588|C0018790|cardiac arrest|dsyn
+1590,1608|C0003578|respiratory arrest|patf
+1590,1608|C0162297|respiratory arrest|patf
+1610,1630|C0476273|respiratory distress|sosy
+1632,1639|C0242184|hypoxia|patf
+1632,1639|C1963140|hypoxia|fndg
+1641,1646|C0003578|apnea|patf
+1641,1646|C1963065|apnea|fndg
+1648,1655|C0013404|dyspnea|sosy
+1657,1668|C0428977|bradycardia|patf
+1657,1668|C3812171|bradycardia|fndg
+1670,1681|C0039231|tachycardia|patf
+1670,1681|C3827868|tachycardia|fndg
+1683,1695|C0006266|bronchospasm|dsyn
+1697,1713|C0236071|throat tightness|fndg
+1715,1726|C0020649|hypotension|fndg
+1715,1726|C3163620|hypotension|fndg
+1728,1738|C0002994|angioedema|patf
+1750,1756|C2137027|tongue|fndg
+1760,1772|C0240211|lip swelling|sosy
+1774,1791|C0151205|periorbital edema|sosy
+1797,1807|C0542571|face edema|patf
+1814,1823|C0042109|urticaria|dsyn
+1814,1823|C2186740|urticaria|fndg
+1863,1868;1880,1884|C0008031|chest pain|sosy
+1863,1879|C0235710|chest discomfort|sosy
+1880,1884|C0030193|pain|sosy
+1880,1884|C1962977|pain|fndg
+1886,1894|C0043144|wheezing|sosy
+1896,1905|C0231835|tachypnea|fndg
+1907,1915|C0010520|cyanosis|sosy
+1946,1957|C4048158|convulsions|sosy
+1946,1957|C0036572|convulsions|sosy
+1959,1967|C0033774|pruritus|sosy
+1969,1973|C0015230|rash|sosy
+1975,1988|C0020458|hyperhidrosis|fndg
+1990,1996|C0027497|nausea|sosy
+1990,1996|C1963179|nausea|patf
+1998,2007|C0012833|dizziness|sosy
+1998,2007|C0042571|dizziness|sosy
+1998,2007|C1963093|dizziness|fndg
+2009,2021|C0020538|hypertension|dsyn
+2009,2021|C1963138|hypertension|fndg
+2022,2046|C0020538|increased blood pressure|dsyn
+2022,2046|C0497247|increased blood pressure|fndg
+2022,2046|C2917273|increased blood pressure|fndg
+2048,2056|C0016382|flushing|sosy
+2048,2056|C1962957|flushing|fndg
+2057,2068|C2939147|feeling hot|sosy
+2057,2068|C0424749|feeling hot|fndg
+2070,2078|C0041834|erythema|dsyn
+2080,2087|C0015967|pyrexia|fndg
+2089,2095|C0030232|pallor|fndg
+2089,2095|C0241137|pallor|fndg
+2097,2116|C0277925|peripheral coldness|fndg
+2118,2130|C3887612|restlessness|fndg
+2118,2130|C3887611|restlessness|sosy
+2118,2130|C0085631|restlessness|sosy
+2132,2143|C0027769|nervousness|sosy
+2132,2143|C0849963|nervousness|sosy
+2145,2153|C0018681|headache|sosy
+2145,2153|C2096315|headache|fndg
+2155,2164|C0004604|back pain|sosy
+2155,2164|C1963071|back pain|fndg
+2170,2181|C0030554|paresthesia|dsyn
+2170,2181|C2242996|paresthesia|sosy
+2235,2246|C0002792|anaphylaxis|patf
+2235,2246|C0850803|anaphylaxis|dsyn
+2250,2283|C2220378|severe hypersensitivity reactions|fndg
+2250,2283|C2945656|severe hypersensitivity reactions|fndg
+2303,2314|C1444662|discontinue|fndg
+2566,2575|C1444656|indicated|fndg
+2594,2605|C0002792|anaphylaxis|patf
+2594,2605|C0850803|anaphylaxis|dsyn
+2886,2911|C0020517|hypersensitivity reaction|patf
+3026,3031|C3810854|close|fndg
+3062,3066|C0580931|care|fndg
+3365,3377|C0037284|skin lesions|dsyn
+3466,3474;3491,3500|C0301918|type III reactions|dsyn
+3728,3734|C0221198|lesion|fndg
+3769,3793|C0022408|inflammatory arthropathy|dsyn
+3814,3821|C0015967|pyrexia|fndg
+3826,3865|C0151632|elevated erythrocyte sedimentation rate|fndg
+3867,3885|C0027726|Nephrotic syndrome|dsyn
+3899,3928|C0017665|membranous glomerulonephritis|dsyn
+3950,3963|C0017921|Pompe disease|dsyn
+3950,3963|C0342751|Pompe disease|dsyn
+4026,4034|C1514241|positive|fndg
+4519,4534|C1444662|discontinuation|fndg
+4770,4774|C1299581|able|fndg
+4849,4854|C3810854|close|fndg
+4901,4926|C1444565|Cardiorespiratory Failure|patf
+4944,4949;4973,4980|C4061114|acute illness|patf
+5103,5113|C2945640|compromise|fndg
+5288,5299|C0478530|observation|fndg
+5377,5402|C1444565|cardiorespiratory failure|patf
+5424,5453|C3888924|infantile-onset Pompe disease|dsyn
+5479,5498|C1383860|cardiac hypertrophy|patf
+5653,5671|C0264886|Cardiac Arrhythmia|patf
+5653,5671|C0003811|Cardiac Arrhythmia|fndg
+5653,5671|C1560249|Cardiac Arrhythmia|patf
+5676,5696|C0085298|Sudden Cardiac Death|patf
+5880,5891;5893,5908|C3806467|respiratory muscle weakness|fndg
+5880,5891;5893,5908|C1836141|respiratory muscle weakness|fndg
+5939,5943|C1273517|used|fndg
+5983,6006|C0085612|Ventricular arrhythmias|dsyn
+6011,6022|C0428977|bradycardia|patf
+6011,6022|C3812171|bradycardia|fndg
+6037,6051|C0018790|cardiac arrest|dsyn
+6055,6060|C1306577|death|fndg
+6137,6166|C3888924|infantile-onset Pompe disease|dsyn
+6181,6200|C1383860|cardiac hypertrophy|patf
+6700,6722|C1864672|loss of motor function|fndg
+6724,6745|C1321831|ventilator dependence|fndg
+6724,6745|C0260701|ventilator dependence|fndg
+6750,6755|C1306577|death|fndg
+7052,7078|C0020517|hypersensitivity reactions|patf
+7121,7138|C4055223|clinical response|fndg
+7172,7189|C4055223|clinical response|fndg
+7283,7309|C0020517|hypersensitivity reactions|patf
+7393,7404|C0002792|anaphylaxis|patf
+7393,7404|C0850803|anaphylaxis|dsyn

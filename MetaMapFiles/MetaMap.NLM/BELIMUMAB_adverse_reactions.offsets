@@ -1,0 +1,105 @@
+86,96|C0012634|conditions|dsyn
+493,503|C3714514|Infections|patf
+556,566|C0006826|Malignancy|neop
+556,566|C1306459|Malignancy|neop
+619,645|C0020517|Hypersensitivity Reactions|patf
+657,668|C0002792|Anaphylaxis|patf
+657,668|C0850803|Anaphylaxis|dsyn
+721,739|C2368034|Infusion Reactions|patf
+792,802|C0011570|Depression|mobd
+792,802|C0011581|Depression|mobd
+792,802|C1579931|Depression|sosy
+792,802|C0344315|Depression|fndg
+922,928|C0027497|nausea|sosy
+922,928|C1963179|nausea|patf
+930,938|C0011991|diarrhea|sosy
+930,938|C1963091|diarrhea|fndg
+940,947|C0015967|pyrexia|fndg
+949,964|C0027441|nasopharyngitis|dsyn
+966,976|C0006277|bronchitis|dsyn
+966,976|C0149514|bronchitis|dsyn
+978,986|C0917801|insomnia|sosy
+978,986|C1963237|insomnia|fndg
+988,1005|C0030196|pain in extremity|sosy
+1007,1017|C0011570|depression|mobd
+1007,1017|C0011581|depression|mobd
+1007,1017|C1579931|depression|sosy
+1007,1017|C0344315|depression|fndg
+1019,1027|C0149931|migraine|dsyn
+1033,1044|C0031350|pharyngitis|dsyn
+1475,1482|C3840593|Trial 1|fndg
+1614,1615;1623,1629|C3842777|2 trials|fndg
+1631,1638|C3840593|Trial 1|fndg
+1713,1720|C3842777|Trial 2|fndg
+1825,1832|C0445223|related|fndg
+1988,1997|C1444656|indicated|fndg
+2039,2046|C2825142|results|fndg
+2390,2400|C3714514|infections|patf
+2621,2627|C0027497|nausea|sosy
+2621,2627|C1963179|nausea|patf
+2629,2637|C0011991|diarrhea|sosy
+2629,2637|C1963091|diarrhea|fndg
+2639,2646|C0015967|pyrexia|fndg
+2648,2663|C0027441|nasopharyngitis|dsyn
+2665,2675|C0006277|bronchitis|dsyn
+2665,2675|C0149514|bronchitis|dsyn
+2677,2685|C0917801|insomnia|sosy
+2677,2685|C1963237|insomnia|fndg
+2687,2704|C0030196|pain in extremity|sosy
+2706,2716|C0011570|depression|mobd
+2706,2716|C0011581|depression|mobd
+2706,2716|C1579931|depression|sosy
+2706,2716|C0344315|depression|fndg
+2718,2726|C0149931|migraine|dsyn
+2732,2743|C0031350|pharyngitis|dsyn
+2780,2792|C1444662|discontinued|fndg
+2998,3013|C1444662|discontinuation|fndg
+3081,3099|C2368034|infusion reactions|patf
+3134,3149|C0024143|lupus nephritis|dsyn
+3188,3198|C3714514|infections|patf
+3340,3343|C0024141|SLE|dsyn
+3704,3714|C2911690|Controlled|fndg
+3715,3718|C0024141|SLE|dsyn
+3863,3869|C0027497|Nausea|sosy
+3863,3869|C1963179|Nausea|patf
+3973,3981|C0011991|Diarrhea|sosy
+3973,3981|C1963091|Diarrhea|fndg
+4083,4090|C0015967|Pyrexia|fndg
+4193,4208|C0027441|Nasopharyngitis|dsyn
+4303,4313|C0006277|Bronchitis|dsyn
+4303,4313|C0149514|Bronchitis|dsyn
+4413,4421|C0917801|Insomnia|sosy
+4413,4421|C1963237|Insomnia|fndg
+4523,4540|C0030196|Pain in extremity|sosy
+4633,4643|C0011570|Depression|mobd
+4633,4643|C0011581|Depression|mobd
+4633,4643|C1579931|Depression|sosy
+4633,4643|C0344315|Depression|fndg
+4743,4751|C0149931|Migraine|dsyn
+4853,4864|C0031350|Pharyngitis|dsyn
+4963,4971|C0010692|Cystitis|dsyn
+4963,4971|C1963088|Cystitis|fndg
+4963,4971|C0600041|Cystitis|dsyn
+5073,5083|C0023530|Leukopenia|dsyn
+5073,5083|C0750394|Leukopenia|fndg
+5183,5204|C0152517|Gastroenteritis viral|dsyn
+5255,5256;5327,5333|C3840593|1 Trials|fndg
+5374,5382|C0442726|detected|fndg
+5700,5708|C0442726|detected|fndg
+5814,5832|C2368034|infusion reactions|patf
+5836,5842|C0027497|nausea|sosy
+5836,5842|C1963179|nausea|patf
+5844,5861|C0234913|erythematous rash|fndg
+5863,5871|C0033774|pruritus|sosy
+5873,5885|C0162285|eyelid edema|fndg
+5887,5895|C0018681|headache|sosy
+5887,5895|C2096315|headache|fndg
+5901,5908|C0013404|dyspnea|sosy
+6090,6094|C0456984|test|fndg
+6095,6102|C2825142|results|fndg
+6413,6420|C0012634|disease|dsyn
+6646,6656|C1550043|identified|fndg
+6764,6773|C0087130|uncertain|fndg
+6905,6910|C1705232|Fatal|fndg
+6911,6922|C0002792|anaphylaxis|patf
+6911,6922|C0850803|anaphylaxis|dsyn

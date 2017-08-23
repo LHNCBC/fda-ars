@@ -1,0 +1,80 @@
+T1	AdverseReaction 30 59	NEPHROGENIC SYSTEMIC FIBROSIS
+T2	AdverseReaction 72 101	NEPHROGENIC SYSTEMIC FIBROSIS
+T3	AdverseReaction 168 171	NSF
+T4	AdverseReaction 374 377	NSF
+T5	AdverseReaction 392 397	fatal
+T6	AdverseReaction 414 422	fibrosis
+T10	AdverseReaction 491 494	NSF
+T12	AdverseReaction 1336 1339	NSF
+T13	DrugClass 1273 1305	Gadolinium-based contrast agents
+T14	Factor 1555 1559	risk
+T15	AdverseReaction 1564 1567	NSF
+T16	DrugClass 105 137	Gadolinium-based contrast agents
+T17	Factor 159 163	risk
+T18	Factor 378 381	may
+T7	Factor 482 486	risk
+T8	AdverseReaction 1163 1192	NEPHROGENIC SYSTEMIC FIBROSIS
+T9	AdverseReaction 1194 1197	NSF
+T19	Severity 401 413	debilitating
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3 Hypothetical:E17 Hypothetical2:E16
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E18
+E6	AdverseReaction:T6 Hypothetical:E18 Effect:E19
+E10	AdverseReaction:T10 Hypothetical:E7
+E12	AdverseReaction:T12 Hypothetical2:E13
+E13	DrugClass:T13
+E14	Factor:T14
+E15	AdverseReaction:T15 Hypothetical:E14
+E16	DrugClass:T16
+E17	Factor:T17
+E18	Factor:T18
+E7	Factor:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E19	Severity:T19
+A1	CUI E1 C3888044
+A2	UMLS-Preferred-Name E1 Nephrogenic Systemic Fibrosis
+A3	MEDDRA-PT E1 Nephrogenic systemic fibrosis
+A4	MEDDRA-PT-ID E1 10067467
+A5	CUI E2 C3888044
+A6	UMLS-Preferred-Name E2 Nephrogenic Systemic Fibrosis
+A7	MEDDRA-PT E2 Nephrogenic systemic fibrosis
+A8	MEDDRA-PT-ID E2 10067467
+A9	CUI E3 C3888044
+A10	UMLS-Preferred-Name E3 Nephrogenic Systemic Fibrosis
+A11	MEDDRA-PT E3 Nephrogenic systemic fibrosis
+A12	MEDDRA-PT-ID E3 10067467
+A13	CUI E4 C3888044
+A14	UMLS-Preferred-Name E4 Nephrogenic Systemic Fibrosis
+A15	MEDDRA-PT E4 Nephrogenic systemic fibrosis
+A16	MEDDRA-PT-ID E4 10067467
+A17	CUI E5 C1306577
+A18	UMLS-Preferred-Name E5 Death (finding)
+A19	MEDDRA-PT E5 Death
+A20	MEDDRA-PT-ID E5 10011906
+A21	CUI E6 C0016059
+A22	UMLS-Preferred-Name E6 Fibrosis
+A23	MEDDRA-PT E6 Fibrosis
+A24	MEDDRA-PT-ID E6 10016642
+A25	CUI E10 C3888044
+A26	UMLS-Preferred-Name E10 Nephrogenic Systemic Fibrosis
+A27	MEDDRA-PT E10 Nephrogenic systemic fibrosis
+A28	MEDDRA-PT-ID E10 10067467
+A29	CUI E12 C3888044
+A30	UMLS-Preferred-Name E12 Nephrogenic Systemic Fibrosis
+A31	MEDDRA-PT E12 Nephrogenic systemic fibrosis
+A32	MEDDRA-PT-ID E12 10067467
+A33	CUI E15 C3888044
+A34	UMLS-Preferred-Name E15 Nephrogenic Systemic Fibrosis
+A35	MEDDRA-PT E15 Nephrogenic systemic fibrosis
+A36	MEDDRA-PT-ID E15 10067467
+A37	CUI E8 C3888044
+A38	UMLS-Preferred-Name E8 Nephrogenic Systemic Fibrosis
+A39	MEDDRA-PT E8 Nephrogenic systemic fibrosis
+A40	MEDDRA-PT-ID E8 10067467
+A41	CUI E9 C3888044
+A42	UMLS-Preferred-Name E9 Nephrogenic Systemic Fibrosis
+A43	MEDDRA-PT E9 Nephrogenic systemic fibrosis
+A44	MEDDRA-PT-ID E9 10067467

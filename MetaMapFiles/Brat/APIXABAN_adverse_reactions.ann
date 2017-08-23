@@ -1,0 +1,1353 @@
+T3	AdverseReaction 272 280	Bleeding
+T4	AdverseReaction 471 479	bleeding
+T7	AdverseReaction 1656 1690	bleeding-related adverse reactions
+T8	AdverseReaction 2024 2032	bleeding
+T9	Severity 2018 2023	major
+T10	AdverseReaction 2432 2440	Bleeding
+T11	AdverseReaction 2567 2575	Bleeding
+T12	AdverseReaction 2715 2723	bleeding
+T13	AdverseReaction 2771 2793	decrease in hemoglobin
+T14	AdverseReaction 2867 2875;2896 2908	bleeding intracranial
+T15	AdverseReaction 2867 2875;2910 2921	bleeding intraspinal
+T16	AdverseReaction 2867 2875;2923 2934	bleeding intraocular
+T17	AdverseReaction 2867 2875;2936 2947	bleeding pericardial
+T18	AdverseReaction 2867 2875;2949 2964	bleeding intra-articular
+T19	AdverseReaction 2867 2875;2966 2979	bleeding intramuscular
+T20	AdverseReaction 2867 2875;3007 3022	bleeding retroperitoneal
+T21	AdverseReaction 3031 3044	fatal outcome
+T22	AdverseReaction 3053 3071	Intracranial bleed
+T23	AdverseReaction 3081 3094;3141 3149	intracerebral bleeding
+T24	AdverseReaction 3096 3112;3141 3149	intraventricular bleeding
+T25	AdverseReaction 3114 3122;3141 3149	subdural bleeding
+T27	AdverseReaction 3163 3181	hemorrhagic stroke
+T28	AdverseReaction 3216 3228;3235 3240	intracranial bleed
+T29	AdverseReaction 3360 3368	GI bleed
+T30	AdverseReaction 3378 3386;3409 3417	upper GI bleeding
+T31	AdverseReaction 3388 3396;3409 3417	lower GI bleeding
+T32	AdverseReaction 3402 3417	rectal bleeding
+T33	AdverseReaction 3422 3427	Fatal
+T34	AdverseReaction 3428 3436	bleeding
+T35	AdverseReaction 3496 3517	intracranial bleeding
+T36	AdverseReaction 3521 3546	non-intracranial bleeding
+T37	AdverseReaction 3817 3835	Hemorrhagic stroke
+T38	AdverseReaction 3716 3719	ICH
+T40	AdverseReaction 3936 3939	ICH
+T42	AdverseReaction 4155 4160	Fatal
+T45	AdverseReaction 4537 4545	bleeding
+T46	Severity 4531 4536	major
+T47	AdverseReaction 4863 4867	bled
+T49	AdverseReaction 5952 5957	Fatal
+T51	AdverseReaction 6200 6208	Bleeding
+T52	Severity 6194 6199	Major
+T53	Severity 3229 3234	major
+T54	AdverseReaction 6250 6276	Hypersensitivity reactions
+T55	AdverseReaction 6288 6309	drug hypersensitivity
+T56	AdverseReaction 6319 6328	skin rash
+T57	AdverseReaction 6334 6356	anaphylactic reactions
+T58	AdverseReaction 6366 6380	allergic edema
+T59	AdverseReaction 6386 6393	syncope
+T60	AdverseReaction 6921 6929	Bleeding
+T61	AdverseReaction 7013 7021	Bleeding
+T62	AdverseReaction 7381 7389	bleeding
+T63	AdverseReaction 7408 7430	surgical site bleeding
+T64	AdverseReaction 8122 8145	intracranial hemorrhage
+T72	AdverseReaction 8024 8032	bleeding
+T73	AdverseReaction 7903 7934	Bleeding into an operated joint
+T75	AdverseReaction 8961 8966	Fatal
+T76	AdverseReaction 9079 9091	Hgb decrease
+T78	AdverseReaction 9344 9366	Bleed at critical site
+T80	AdverseReaction 10171 10177	Nausea
+T81	AdverseReaction 10280 10286	Anemia
+T82	AdverseReaction 10298 10311;10328 10334	postoperative anemia
+T83	AdverseReaction 10316 10334	hemorrhagic anemia
+T84	AdverseReaction 10429 10438	Contusion
+T85	AdverseReaction 10538 10548	Hemorrhage
+T86	AdverseReaction 10560 10568	hematoma
+T87	AdverseReaction 10574 10581;10595 10605	vaginal hemorrhage
+T88	AdverseReaction 10586 10605	urethral hemorrhage
+T89	AdverseReaction 10662 10687	Postprocedural hemorrhage
+T90	AdverseReaction 10699 10722	postprocedural hematoma
+T91	AdverseReaction 10724 10740	wound hemorrhage
+T92	AdverseReaction 10742 10771	vessel puncture site hematoma
+T93	AdverseReaction 10776 10800	catheter site hemorrhage
+T94	AdverseReaction 10857 10880	Transaminases increased
+T95	AdverseReaction 10892 10926	alanine aminotransferase increased
+T96	AdverseReaction 10931 10964	alanine aminotransferase abnormal
+T97	AdverseReaction 11021 11057	Aspartate aminotransferase increased
+T98	AdverseReaction 11130 11165	Gamma-glutamyltransferase increased
+T99	AdverseReaction 11436 11452	thrombocytopenia
+T100	AdverseReaction 11517 11528	hypotension
+T101	AdverseReaction 11464 11488	platelet count decreases
+T102	AdverseReaction 11540 11562	procedural hypotension
+T103	AdverseReaction 11621 11630	epistaxis
+T104	AdverseReaction 11666 11693	gastrointestinal hemorrhage
+T105	AdverseReaction 11705 11716	hematemesis
+T106	AdverseReaction 11721 11727	melena
+T107	AdverseReaction 11730 11742	hematochezia
+T108	AdverseReaction 11775 11803	liver function test abnormal
+T109	AdverseReaction 11805 11841	blood alkaline phosphatase increased
+T110	AdverseReaction 11843 11868	blood bilirubin increased
+T111	AdverseReaction 11905 11914	hematuria
+T112	AdverseReaction 12016 12031	wound secretion
+T113	AdverseReaction 12033 12057	incision-site hemorrhage
+T114	AdverseReaction 12069 12091	incision-site hematoma
+T115	AdverseReaction 12094 12114	operative hemorrhage
+T116	AdverseReaction 12260 12277	Gingival bleeding
+T117	AdverseReaction 12279 12289	hemoptysis
+T118	AdverseReaction 12291 12307	hypersensitivity
+T119	AdverseReaction 12309 12326	muscle hemorrhage
+T120	AdverseReaction 12328 12345	ocular hemorrhage
+T121	AdverseReaction 12357 12380	conjunctival hemorrhage
+T122	AdverseReaction 12383 12400	rectal hemorrhage
+T123	AdverseReaction 12778 12795	gingival bleeding
+T124	AdverseReaction 12797 12806	epistaxis
+T125	AdverseReaction 12808 12817	contusion
+T126	AdverseReaction 12819 12828	hematuria
+T127	AdverseReaction 12830 12847	rectal hemorrhage
+T128	AdverseReaction 12849 12857	hematoma
+T39	AdverseReaction 12859 12870	menorrhagia
+T41	AdverseReaction 12876 12886	hemoptysis
+T43	AdverseReaction 13798 13835	clinically relevant nonmajor bleeding
+T44	AdverseReaction 14861 14870	Epistaxis
+T48	AdverseReaction 14969 14978	Contusion
+T50	AdverseReaction 15077 15086	Hematuria
+T74	AdverseReaction 15185 15196	Menorrhagia
+T129	AdverseReaction 15293 15301	Hematoma
+T130	AdverseReaction 15401 15411	Hemoptysis
+T131	AdverseReaction 15509 15526	Rectal hemorrhage
+T132	AdverseReaction 15617 15634	Gingival bleeding
+T133	AdverseReaction 16462 16499	clinically relevant nonmajor bleeding
+T134	AdverseReaction 17562 17571	Epistaxis
+T135	AdverseReaction 17674 17683	Hematuria
+T136	AdverseReaction 17786 17794	Hematoma
+T137	AdverseReaction 17898 17907	Contusion
+T138	AdverseReaction 18010 18027	Gingival bleeding
+T139	AdverseReaction 18343 18361	hemorrhagic anemia
+T140	AdverseReaction 18397 18409	hematochezia
+T141	AdverseReaction 18411 18434	hemorrhoidal hemorrhage
+T142	AdverseReaction 18436 18463	gastrointestinal hemorrhage
+T143	AdverseReaction 18465 18476	hematemesis
+T144	AdverseReaction 18478 18484	melena
+T145	AdverseReaction 18486 18501	anal hemorrhage
+T146	AdverseReaction 18558 18574	wound hemorrhage
+T147	AdverseReaction 18576 18601	postprocedural hemorrhage
+T148	AdverseReaction 18603 18621	traumatic hematoma
+T149	AdverseReaction 18623 18643	periorbital hematoma
+T150	AdverseReaction 18700 18717	muscle hemorrhage
+T151	AdverseReaction 18767 18785	vaginal hemorrhage
+T152	AdverseReaction 18787 18799	metrorrhagia
+T153	AdverseReaction 18801 18817	menometrorrhagia
+T154	AdverseReaction 18819 18837	genital hemorrhage
+T155	AdverseReaction 18866 18876	hemorrhage
+T156	AdverseReaction 18924 18934	ecchymosis
+T157	AdverseReaction 18936 18951	skin hemorrhage
+T158	AdverseReaction 18953 18962	petechiae
+T159	AdverseReaction 18985 19008	conjunctival hemorrhage
+T160	AdverseReaction 19010 19028	retinal hemorrhage
+T161	AdverseReaction 19030 19044	eye hemorrhage
+T162	AdverseReaction 19068 19087	blood urine present
+T163	AdverseReaction 19089 19110	occult blood positive
+T164	AdverseReaction 19112 19124	occult blood
+T165	AdverseReaction 19126 19156	red blood cells urine positive
+T166	AdverseReaction 19218 19241	injection-site hematoma
+T167	AdverseReaction 19243 19272	vessel puncture-site hematoma
+T168	AdverseReaction 4965 4973	Bleeding
+T169	Severity 4959 4964	Major
+T170	AdverseReaction 5494 5502	Bleeding
+T171	AdverseReaction 2207 2215	Bleeding
+T172	AdverseReaction 7124 7132	Bleeding
+T65	AdverseReaction 13625 13633	Bleeding
+T66	AdverseReaction 16287 16295	Bleeding
+T67	Severity 9094 9100	2 g/dL
+T5	AdverseReaction 2069 2077	bleeding
+T6	AdverseReaction 2125 2133	bleeding
+T69	Severity 2799 2805	2 g/dL
+T70	AdverseReaction 2867 2894	bleeding at a critical site
+T26	AdverseReaction 3128 3149	subarachnoid bleeding
+T71	AdverseReaction 3455 3460	death
+T173	AdverseReaction 3487 3492	death
+T174	AdverseReaction 7470 7478	bleeding
+T175	Severity 7464 7469	major
+T176	Negation 7500 7521	before the first dose
+T177	AdverseReaction 7616 7624	bleeding
+T178	Severity 7610 7615	major
+T179	Negation 7646 7667	before the first dose
+T68	AdverseReaction 13056 13064	bleeding
+T77	AdverseReaction 13208 13216	bleeding
+T79	AdverseReaction 13468 13476	bleeding
+T180	Severity 13462 13467	major
+T181	AdverseReaction 13541 13549	Bleeding
+T182	AdverseReaction 13791 13795	CRNM
+T183	AdverseReaction 14090 14094	CRNM
+T184	AdverseReaction 14210 14214	CRNM
+T185	AdverseReaction 15906 15914	bleeding
+T186	AdverseReaction 16044 16052	bleeding
+T187	AdverseReaction 16199 16207	Bleeding
+T188	AdverseReaction 16455 16459	CRNM
+T189	AdverseReaction 16752 16756	CRNM
+T190	AdverseReaction 16872 16876	CRNM
+T1	AdverseReaction 177 194	thrombotic events
+T2	Factor 169 173	risk
+T191	AdverseReaction 2985 3005	compartment syndrome
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8 Effect:E9
+E9	Severity:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13 Effect:E69
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28 Effect:E53
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E40	AdverseReaction:T40
+E42	AdverseReaction:T42
+E45	AdverseReaction:T45 Effect:E46
+E46	Severity:T46
+E47	AdverseReaction:T47
+E49	AdverseReaction:T49
+E51	AdverseReaction:T51 Effect:E52
+E52	Severity:T52
+E53	Severity:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76 Effect:E67
+E78	AdverseReaction:T78
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91
+E92	AdverseReaction:T92
+E93	AdverseReaction:T93
+E94	AdverseReaction:T94
+E95	AdverseReaction:T95
+E96	AdverseReaction:T96
+E97	AdverseReaction:T97
+E98	AdverseReaction:T98
+E99	AdverseReaction:T99
+E100	AdverseReaction:T100
+E101	AdverseReaction:T101
+E102	AdverseReaction:T102
+E103	AdverseReaction:T103
+E104	AdverseReaction:T104
+E105	AdverseReaction:T105
+E106	AdverseReaction:T106
+E107	AdverseReaction:T107
+E108	AdverseReaction:T108
+E109	AdverseReaction:T109
+E110	AdverseReaction:T110
+E111	AdverseReaction:T111
+E112	AdverseReaction:T112
+E113	AdverseReaction:T113
+E114	AdverseReaction:T114
+E115	AdverseReaction:T115
+E116	AdverseReaction:T116
+E117	AdverseReaction:T117
+E118	AdverseReaction:T118
+E119	AdverseReaction:T119
+E120	AdverseReaction:T120
+E121	AdverseReaction:T121
+E122	AdverseReaction:T122
+E123	AdverseReaction:T123
+E124	AdverseReaction:T124
+E125	AdverseReaction:T125
+E126	AdverseReaction:T126
+E127	AdverseReaction:T127
+E128	AdverseReaction:T128
+E39	AdverseReaction:T39
+E41	AdverseReaction:T41
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E48	AdverseReaction:T48
+E50	AdverseReaction:T50
+E74	AdverseReaction:T74
+E129	AdverseReaction:T129
+E130	AdverseReaction:T130
+E131	AdverseReaction:T131
+E132	AdverseReaction:T132
+E133	AdverseReaction:T133
+E134	AdverseReaction:T134
+E135	AdverseReaction:T135
+E136	AdverseReaction:T136
+E137	AdverseReaction:T137
+E138	AdverseReaction:T138
+E139	AdverseReaction:T139
+E140	AdverseReaction:T140
+E141	AdverseReaction:T141
+E142	AdverseReaction:T142
+E143	AdverseReaction:T143
+E144	AdverseReaction:T144
+E145	AdverseReaction:T145
+E146	AdverseReaction:T146
+E147	AdverseReaction:T147
+E148	AdverseReaction:T148
+E149	AdverseReaction:T149
+E150	AdverseReaction:T150
+E151	AdverseReaction:T151
+E152	AdverseReaction:T152
+E153	AdverseReaction:T153
+E154	AdverseReaction:T154
+E155	AdverseReaction:T155
+E156	AdverseReaction:T156
+E157	AdverseReaction:T157
+E158	AdverseReaction:T158
+E159	AdverseReaction:T159
+E160	AdverseReaction:T160
+E161	AdverseReaction:T161
+E162	AdverseReaction:T162
+E163	AdverseReaction:T163
+E164	AdverseReaction:T164
+E165	AdverseReaction:T165
+E166	AdverseReaction:T166
+E167	AdverseReaction:T167
+E168	AdverseReaction:T168 Effect:E169
+E169	Severity:T169
+E170	AdverseReaction:T170
+E171	AdverseReaction:T171
+E172	AdverseReaction:T172
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	Severity:T67
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E69	Severity:T69
+E70	AdverseReaction:T70
+E26	AdverseReaction:T26
+E71	AdverseReaction:T71
+E173	AdverseReaction:T173
+E174	AdverseReaction:T174 Effect:E175 Negated:E176
+E175	Severity:T175
+E176	Negation:T176
+E177	AdverseReaction:T177 Effect:E178 Negated:E179
+E178	Severity:T178
+E179	Negation:T179
+E68	AdverseReaction:T68
+E77	AdverseReaction:T77
+E79	AdverseReaction:T79 Effect:E180
+E180	Severity:T180
+E181	AdverseReaction:T181
+E182	AdverseReaction:T182
+E183	AdverseReaction:T183
+E184	AdverseReaction:T184
+E185	AdverseReaction:T185
+E186	AdverseReaction:T186
+E187	AdverseReaction:T187
+E188	AdverseReaction:T188
+E189	AdverseReaction:T189
+E190	AdverseReaction:T190
+E1	AdverseReaction:T1 Hypothetical:E2
+E2	Factor:T2
+E191	AdverseReaction:T191
+A1	CUI E3 C0019080
+A2	UMLS-Preferred-Name E3 Hemorrhage
+A3	MEDDRA-PT E3 Haemorrhage
+A4	MEDDRA-PT-ID E3 10055798
+A5	LLT E3 Bleeding
+A6	LLT-ID E3 10005103
+A7	CUI E4 C0019080
+A8	UMLS-Preferred-Name E4 Hemorrhage
+A9	MEDDRA-PT E4 Haemorrhage
+A10	MEDDRA-PT-ID E4 10055798
+A11	LLT E4 Bleeding
+A12	LLT-ID E4 10005103
+A13	CUI E7 C0019080
+A14	UMLS-Preferred-Name E7 Hemorrhage
+A15	MEDDRA-PT E7 Haemorrhage
+A16	MEDDRA-PT-ID E7 10055798
+A17	LLT E7 Bleeding
+A18	LLT-ID E7 10005103
+A19	CUI E8 C0019080
+A20	UMLS-Preferred-Name E8 Hemorrhage
+A21	MEDDRA-PT E8 Haemorrhage
+A22	MEDDRA-PT-ID E8 10055798
+A23	LLT E8 Bleeding
+A24	LLT-ID E8 10005103
+A25	CUI E10 C0019080
+A26	UMLS-Preferred-Name E10 Hemorrhage
+A27	MEDDRA-PT E10 Haemorrhage
+A28	MEDDRA-PT-ID E10 10055798
+A29	LLT E10 Bleeding
+A30	LLT-ID E10 10005103
+A31	CUI E11 C0019080
+A32	UMLS-Preferred-Name E11 Hemorrhage
+A33	MEDDRA-PT E11 Haemorrhage
+A34	MEDDRA-PT-ID E11 10055798
+A35	LLT E11 Bleeding
+A36	LLT-ID E11 10005103
+A37	CUI E12 C0019080
+A38	UMLS-Preferred-Name E12 Hemorrhage
+A39	MEDDRA-PT E12 Haemorrhage
+A40	MEDDRA-PT-ID E12 10055798
+A41	LLT E12 Bleeding
+A42	LLT-ID E12 10005103
+A43	CUI E13 C0162119
+A44	UMLS-Preferred-Name E13 Hemoglobin low
+A45	MEDDRA-PT E13 Haemoglobin decreased
+A46	MEDDRA-PT-ID E13 10018884
+A47	LLT E13 Decreased hemoglobin
+A48	LLT-ID E13 10011964
+A49	CUI E14 C0151699
+A50	UMLS-Preferred-Name E14 Intracranial Hemorrhages
+A51	MEDDRA-PT E14 Haemorrhage intracranial
+A52	MEDDRA-PT-ID E14 10018985
+A53	LLT E14 Bleeding intracranial
+A54	LLT-ID E14 10005121
+A55	CUI E15 C3665900
+A56	UMLS-Preferred-Name E15 Intraspinal bleeding
+A57	MEDDRA-PT E15 Spinal cord haemorrhage
+A58	MEDDRA-PT-ID E15 10048992
+A59	LLT E15 Intraspinal bleeding
+A60	LLT-ID E15 10073572
+A61	CUI E16 C0015402
+A62	UMLS-Preferred-Name E16 Eye Hemorrhage
+A63	MEDDRA-PT E16 Eye haemorrhage
+A64	MEDDRA-PT-ID E16 10015926
+A65	LLT E16 Hemorrhage intraocular
+A66	LLT-ID E16 10019553
+A67	CUI E17 C0019064
+A68	UMLS-Preferred-Name E17 Hemopericardium
+A69	MEDDRA-PT E17 Pericardial haemorrhage
+A70	MEDDRA-PT-ID E17 10034476
+A71	LLT E17 Pericardial bleeding
+A72	LLT-ID E17 10071860
+A73	CUI E18 C0018924
+A74	UMLS-Preferred-Name E18 Hemarthrosis
+A75	MEDDRA-PT E18 Haemarthrosis
+A76	MEDDRA-PT-ID E18 10018829
+A77	LLT E18 Hemarthrosis
+A78	LLT-ID E18 10019409
+A79	CUI E19 C0151702
+A80	UMLS-Preferred-Name E19 Muscle hemorrhage
+A81	MEDDRA-PT E19 Muscle haemorrhage
+A82	MEDDRA-PT-ID E19 10028309
+A83	LLT E19 Muscle bleeding
+A84	LLT-ID E19 10071842
+A85	CUI E20 C0151705
+A86	UMLS-Preferred-Name E20 Retroperitoneal hemorrhage
+A87	MEDDRA-PT E20 Retroperitoneal haemorrhage
+A88	MEDDRA-PT-ID E20 10038980
+A89	LLT E20 Retroperitoneal bleeding
+A90	LLT-ID E20 10071878
+A91	CUI E21 C0206277
+A92	UMLS-Preferred-Name E21 Fatal Outcome
+A93	MEDDRA-PT E21 Death
+A94	MEDDRA-PT-ID E21 10011906
+A95	CUI E22 C0151699
+A96	UMLS-Preferred-Name E22 Intracranial Hemorrhages
+A97	MEDDRA-PT E22 Haemorrhage intracranial
+A98	MEDDRA-PT-ID E22 10018985
+A99	LLT E22 Bleeding intracranial
+A100	LLT-ID E22 10005121
+A101	CUI E23 C2937358
+A102	UMLS-Preferred-Name E23 Cerebral Hemorrhage
+A103	MEDDRA-PT E23 Cerebral haemorrhage
+A104	MEDDRA-PT-ID E23 10008111
+A105	LLT E23 Cerebral hemorrhage
+A106	LLT-ID E23 10008114
+A107	CUI E24 C0240059
+A108	UMLS-Preferred-Name E24 Ventricular hemorrhage
+A109	MEDDRA-PT E24 Intraventricular haemorrhage
+A110	MEDDRA-PT-ID E24 10022840
+A111	LLT E24 Intraventricular bleeding
+A112	LLT-ID E24 10071830
+A113	CUI E25 C0018946
+A114	UMLS-Preferred-Name E25 Hematoma, Subdural
+A115	MEDDRA-PT E25 Subdural haemorrhage
+A116	MEDDRA-PT-ID E25 10042364
+A117	LLT E25 Subdural bleeding
+A118	LLT-ID E25 10071893
+A119	CUI E27 C0553692
+A120	UMLS-Preferred-Name E27 Brain hemorrhage
+A121	MEDDRA-PT E27 Haemorrhagic stroke
+A122	MEDDRA-PT-ID E27 10019016
+A123	LLT E27 Hemorrhagic stroke
+A124	LLT-ID E27 10048863
+A125	CUI E28 C0151699
+A126	UMLS-Preferred-Name E28 Intracranial Hemorrhages
+A127	MEDDRA-PT E28 Haemorrhage intracranial
+A128	MEDDRA-PT-ID E28 10018985
+A129	LLT E28 Bleeding intracranial
+A130	LLT-ID E28 10005121
+A131	CUI E29 C0017181
+A132	UMLS-Preferred-Name E29 Gastrointestinal Hemorrhage
+A133	MEDDRA-PT E29 Gastrointestinal haemorrhage
+A134	MEDDRA-PT-ID E29 10017955
+A135	LLT E29 GI bleed
+A136	LLT-ID E29 10018230
+A137	CUI E30 C0041909
+A138	UMLS-Preferred-Name E30 Upper gastrointestinal hemorrhage
+A139	MEDDRA-PT E30 Upper gastrointestinal haemorrhage
+A140	MEDDRA-PT-ID E30 10046274
+A141	LLT E30 Upper gastrointestinal bleeding
+A142	LLT-ID E30 10071910
+A143	CUI E31 C0024050
+A144	UMLS-Preferred-Name E31 Lower gastrointestinal hemorrhage
+A145	MEDDRA-PT E31 Lower gastrointestinal haemorrhage
+A146	MEDDRA-PT-ID E31 10050953
+A147	LLT E31 Lower gastrointestinal bleeding
+A148	LLT-ID E31 10071838
+A149	CUI E32 C0267596
+A150	UMLS-Preferred-Name E32 Rectal hemorrhage
+A151	MEDDRA-PT E32 Rectal haemorrhage
+A152	MEDDRA-PT-ID E32 10038063
+A153	LLT E32 Rectal bleeding
+A154	LLT-ID E32 10038035
+A155	CUI E33 C1306577
+A156	UMLS-Preferred-Name E33 Death (finding)
+A157	MEDDRA-PT E33 Death
+A158	MEDDRA-PT-ID E33 10011906
+A159	CUI E34 C0019080
+A160	UMLS-Preferred-Name E34 Hemorrhage
+A161	MEDDRA-PT E34 Haemorrhage
+A162	MEDDRA-PT-ID E34 10055798
+A163	LLT E34 Bleeding
+A164	LLT-ID E34 10005103
+A165	CUI E35 C0151699
+A166	UMLS-Preferred-Name E35 Intracranial Hemorrhages
+A167	MEDDRA-PT E35 Haemorrhage intracranial
+A168	MEDDRA-PT-ID E35 10018985
+A169	LLT E35 Bleeding intracranial
+A170	LLT-ID E35 10005121
+A171	CUI E36 C0019080
+A172	UMLS-Preferred-Name E36 Hemorrhage
+A173	MEDDRA-PT E36 Haemorrhage
+A174	MEDDRA-PT-ID E36 10055798
+A175	LLT E36 Bleeding
+A176	LLT-ID E36 10005103
+A177	CUI E37 C0553692
+A178	UMLS-Preferred-Name E37 Brain hemorrhage
+A179	MEDDRA-PT E37 Haemorrhagic stroke
+A180	MEDDRA-PT-ID E37 10019016
+A181	LLT E37 Hemorrhagic stroke
+A182	LLT-ID E37 10048863
+A183	CUI E38 C0151699
+A184	UMLS-Preferred-Name E38 Intracranial Hemorrhages
+A185	MEDDRA-PT E38 Haemorrhage intracranial
+A186	MEDDRA-PT-ID E38 10018985
+A187	LLT E38 Intracranial hemorrhage
+A188	LLT-ID E38 10022763
+A189	CUI E40 C0151699
+A190	UMLS-Preferred-Name E40 Intracranial Hemorrhages
+A191	MEDDRA-PT E40 Haemorrhage intracranial
+A192	MEDDRA-PT-ID E40 10018985
+A193	LLT E40 Intracranial hemorrhage
+A194	LLT-ID E40 10022763
+A195	CUI E42 C1306577
+A196	UMLS-Preferred-Name E42 Death (finding)
+A197	MEDDRA-PT E42 Death
+A198	MEDDRA-PT-ID E42 10011906
+A199	CUI E45 C0019080
+A200	UMLS-Preferred-Name E45 Hemorrhage
+A201	MEDDRA-PT E45 Haemorrhage
+A202	MEDDRA-PT-ID E45 10055798
+A203	LLT E45 Bleeding
+A204	LLT-ID E45 10005103
+A205	CUI E47 C0019080
+A206	UMLS-Preferred-Name E47 Hemorrhage
+A207	MEDDRA-PT E47 Haemorrhage
+A208	MEDDRA-PT-ID E47 10055798
+A209	LLT E47 Bleeding
+A210	LLT-ID E47 10005103
+A211	CUI E49 C1306577
+A212	UMLS-Preferred-Name E49 Death (finding)
+A213	MEDDRA-PT E49 Death
+A214	MEDDRA-PT-ID E49 10011906
+A215	CUI E51 C0019080
+A216	UMLS-Preferred-Name E51 Hemorrhage
+A217	MEDDRA-PT E51 Haemorrhage
+A218	MEDDRA-PT-ID E51 10055798
+A219	LLT E51 Bleeding
+A220	LLT-ID E51 10005103
+A221	CUI E54 C0020517
+A222	UMLS-Preferred-Name E54 Hypersensitivity
+A223	MEDDRA-PT E54 Hypersensitivity
+A224	MEDDRA-PT-ID E54 10020751
+A225	LLT E54 Hypersensitivity reaction
+A226	LLT-ID E54 10020756
+A227	CUI E55 C0013182
+A228	UMLS-Preferred-Name E55 Drug Allergy
+A229	MEDDRA-PT E55 Drug hypersensitivity
+A230	MEDDRA-PT-ID E55 10013700
+A231	CUI E56 C0015230
+A232	UMLS-Preferred-Name E56 Exanthema
+A233	MEDDRA-PT E56 Rash
+A234	MEDDRA-PT-ID E56 10037844
+A235	LLT E56 Skin rash
+A236	LLT-ID E56 10040913
+A237	CUI E57 C0002792
+A238	UMLS-Preferred-Name E57 anaphylaxis
+A239	MEDDRA-PT E57 Anaphylactic reaction
+A240	MEDDRA-PT-ID E57 10002198
+A241	CUI E58 C0847033
+A242	UMLS-Preferred-Name E58 Allergic oedema
+A243	MEDDRA-PT E58 Allergic oedema
+A244	MEDDRA-PT-ID E58 10060934
+A245	LLT E58 Allergic edema
+A246	LLT-ID E58 10054306
+A247	CUI E59 C0039070
+A248	UMLS-Preferred-Name E59 Syncope
+A249	MEDDRA-PT E59 Syncope
+A250	MEDDRA-PT-ID E59 10042772
+A251	CUI E60 C0019080
+A252	UMLS-Preferred-Name E60 Hemorrhage
+A253	MEDDRA-PT E60 Haemorrhage
+A254	MEDDRA-PT-ID E60 10055798
+A255	LLT E60 Bleeding
+A256	LLT-ID E60 10005103
+A257	CUI E61 C0019080
+A258	UMLS-Preferred-Name E61 Hemorrhage
+A259	MEDDRA-PT E61 Haemorrhage
+A260	MEDDRA-PT-ID E61 10055798
+A261	LLT E61 Bleeding
+A262	LLT-ID E61 10005103
+A263	CUI E62 C0019080
+A264	UMLS-Preferred-Name E62 Hemorrhage
+A265	MEDDRA-PT E62 Haemorrhage
+A266	MEDDRA-PT-ID E62 10055798
+A267	LLT E62 Bleeding
+A268	LLT-ID E62 10005103
+A269	CUI E63 C0741556
+A270	UMLS-Preferred-Name E63 Operation site bleed
+A271	MEDDRA-PT E63 Procedural haemorrhage
+A272	MEDDRA-PT-ID E63 10071229
+A273	LLT E63 Operation site bleed
+A274	LLT-ID E63 10030859
+A275	CUI E64 C0151699
+A276	UMLS-Preferred-Name E64 Intracranial Hemorrhages
+A277	MEDDRA-PT E64 Haemorrhage intracranial
+A278	MEDDRA-PT-ID E64 10018985
+A279	LLT E64 Intracranial hemorrhage
+A280	LLT-ID E64 10022763
+A281	CUI E72 C0019080
+A282	UMLS-Preferred-Name E72 Hemorrhage
+A283	MEDDRA-PT E72 Haemorrhage
+A284	MEDDRA-PT-ID E72 10055798
+A285	LLT E72 Bleeding
+A286	LLT-ID E72 10005103
+A287	flag E73 duplicate
+A288	CUI E73 C0741556
+A289	UMLS-Preferred-Name E73 Operation site bleed
+A290	MEDDRA-PT E73 Procedural haemorrhage
+A291	MEDDRA-PT-ID E73 10071229
+A292	LLT E73 Operation site bleed
+A293	LLT-ID E73 10030859
+A294	CUI E75 C1306577
+A295	UMLS-Preferred-Name E75 Death (finding)
+A296	MEDDRA-PT E75 Death
+A297	MEDDRA-PT-ID E75 10011906
+A298	CUI E76 C0162119
+A299	UMLS-Preferred-Name E76 Hemoglobin low
+A300	MEDDRA-PT E76 Haemoglobin decreased
+A301	MEDDRA-PT-ID E76 10018884
+A302	LLT E76 Hemoglobin decreased
+A303	LLT-ID E76 10019483
+A304	CUI E78 C0019080
+A305	UMLS-Preferred-Name E78 Hemorrhage
+A306	MEDDRA-PT E78 Haemorrhage
+A307	MEDDRA-PT-ID E78 10055798
+A308	LLT E78 Bleeding
+A309	LLT-ID E78 10005103
+A310	CUI E80 C0027497
+A311	UMLS-Preferred-Name E80 Nausea
+A312	MEDDRA-PT E80 Nausea
+A313	MEDDRA-PT-ID E80 10028813
+A314	CUI E81 C0002871
+A315	UMLS-Preferred-Name E81 Anemia
+A316	MEDDRA-PT E81 Anaemia
+A317	MEDDRA-PT-ID E81 10002034
+A318	LLT E81 Anemia
+A319	LLT-ID E81 10002272
+A320	CUI E82 C0877398
+A321	UMLS-Preferred-Name E82 Anaemia postoperative
+A322	MEDDRA-PT E82 Anaemia postoperative
+A323	MEDDRA-PT-ID E82 10048861
+A324	LLT E82 Anemia postoperative
+A325	LLT-ID E82 10054312
+A326	CUI E83 C0948824
+A327	UMLS-Preferred-Name E83 Anemia due to blood loss
+A328	MEDDRA-PT E83 Haemorrhagic anaemia
+A329	MEDDRA-PT-ID E83 10052293
+A330	LLT E83 Hemorrhagic anemia
+A331	LLT-ID E83 10052294
+A332	CUI E84 C0009938
+A333	UMLS-Preferred-Name E84 Contusions
+A334	MEDDRA-PT E84 Contusion
+A335	MEDDRA-PT-ID E84 10050584
+A336	CUI E85 C0019080
+A337	UMLS-Preferred-Name E85 Hemorrhage
+A338	MEDDRA-PT E85 Haemorrhage
+A339	MEDDRA-PT-ID E85 10055798
+A340	LLT E85 Hemorrhage
+A341	LLT-ID E85 10019524
+A342	CUI E86 C0018944
+A343	UMLS-Preferred-Name E86 Hematoma
+A344	MEDDRA-PT E86 Haematoma
+A345	MEDDRA-PT-ID E86 10018852
+A346	LLT E86 Hematoma
+A347	LLT-ID E86 10019428
+A348	CUI E87 C2979982
+A349	UMLS-Preferred-Name E87 Vaginal Hemorrhage
+A350	MEDDRA-PT E87 Vaginal haemorrhage
+A351	MEDDRA-PT-ID E87 10046910
+A352	LLT E87 Vaginal hemorrhage
+A353	LLT-ID E87 10046912
+A354	CUI E88 C0241558
+A355	UMLS-Preferred-Name E88 Hemorrhage of urethra
+A356	MEDDRA-PT E88 Urethral haemorrhage
+A357	MEDDRA-PT-ID E88 10049710
+A358	LLT E88 Urethral hemorrhage
+A359	LLT-ID E88 10055357
+A360	CUI E89 C0919874
+A361	UMLS-Preferred-Name E89 Post procedural hemorrhage
+A362	MEDDRA-PT E89 Post procedural haemorrhage
+A363	MEDDRA-PT-ID E89 10051077
+A364	LLT E89 Post procedural hemorrhage
+A365	LLT-ID E89 10055320
+A366	CUI E90 C1328411
+A367	UMLS-Preferred-Name E90 Post procedural hematoma
+A368	MEDDRA-PT E90 Post procedural haematoma
+A369	MEDDRA-PT-ID E90 10063188
+A370	LLT E90 Post procedural hematoma
+A371	LLT-ID E90 10063193
+A372	CUI E91 C0241742
+A373	UMLS-Preferred-Name E91 Wound hemorrhage
+A374	MEDDRA-PT E91 Wound haemorrhage
+A375	MEDDRA-PT-ID E91 10051373
+A376	LLT E91 Wound hemorrhage
+A377	LLT-ID E91 10055360
+A378	CUI E92 C1696110
+A379	UMLS-Preferred-Name E92 Vessel puncture site haematoma
+A380	MEDDRA-PT E92 Vessel puncture site haematoma
+A381	MEDDRA-PT-ID E92 10065902
+A382	LLT E92 Vessel puncture site hematoma
+A383	LLT-ID E92 10065905
+A384	CUI E93 C0920166
+A385	UMLS-Preferred-Name E93 Catheter site bleeding
+A386	MEDDRA-PT E93 Catheter site haemorrhage
+A387	MEDDRA-PT-ID E93 10051099
+A388	LLT E93 Catheter site hemorrhage
+A389	LLT-ID E93 10052266
+A390	CUI E94 C0438717
+A391	UMLS-Preferred-Name E94 Transaminases increased
+A392	MEDDRA-PT E94 Transaminases increased
+A393	MEDDRA-PT-ID E94 10054889
+A394	CUI E95 C0151905
+A395	UMLS-Preferred-Name E95 Alanine aminotransferase increased
+A396	MEDDRA-PT E95 Alanine aminotransferase increased
+A397	MEDDRA-PT-ID E95 10001551
+A398	CUI E96 C0855619
+A399	UMLS-Preferred-Name E96 Alanine aminotransferase abnormal
+A400	MEDDRA-PT E96 Alanine aminotransferase abnormal
+A401	MEDDRA-PT-ID E96 10001547
+A402	CUI E97 C0151904
+A403	UMLS-Preferred-Name E97 Aspartate aminotransferase increased
+A404	MEDDRA-PT E97 Aspartate aminotransferase increased
+A405	MEDDRA-PT-ID E97 10003481
+A406	CUI E98 C0151662
+A407	UMLS-Preferred-Name E98 Gamma-glutamyl transferase raised
+A408	MEDDRA-PT E98 Gamma-glutamyltransferase increased
+A409	MEDDRA-PT-ID E98 10017693
+A410	CUI E99 C0040034
+A411	UMLS-Preferred-Name E99 Thrombocytopenia
+A412	MEDDRA-PT E99 Thrombocytopenia
+A413	MEDDRA-PT-ID E99 10043554
+A414	CUI E100 C0020649
+A415	UMLS-Preferred-Name E100 Hypotension
+A416	MEDDRA-PT E100 Hypotension
+A417	MEDDRA-PT-ID E100 10021097
+A418	CUI E101 C0392386
+A419	UMLS-Preferred-Name E101 Decreased platelet count
+A420	MEDDRA-PT E101 Platelet count decreased
+A421	MEDDRA-PT-ID E101 10035528
+A422	CUI E102 C1262109
+A423	UMLS-Preferred-Name E102 Procedural hypotension
+A424	MEDDRA-PT E102 Procedural hypotension
+A425	MEDDRA-PT-ID E102 10062300
+A426	CUI E103 C0014591
+A427	UMLS-Preferred-Name E103 Epistaxis
+A428	MEDDRA-PT E103 Epistaxis
+A429	MEDDRA-PT-ID E103 10015090
+A430	CUI E104 C0017181
+A431	UMLS-Preferred-Name E104 Gastrointestinal Hemorrhage
+A432	MEDDRA-PT E104 Gastrointestinal haemorrhage
+A433	MEDDRA-PT-ID E104 10017955
+A434	LLT E104 Gastrointestinal hemorrhage
+A435	LLT-ID E104 10017960
+A436	CUI E105 C0018926
+A437	UMLS-Preferred-Name E105 Hematemesis
+A438	MEDDRA-PT E105 Haematemesis
+A439	MEDDRA-PT-ID E105 10018830
+A440	LLT E105 Hematemesis
+A441	LLT-ID E105 10019418
+A442	CUI E106 C0025222
+A443	UMLS-Preferred-Name E106 Melena
+A444	MEDDRA-PT E106 Melaena
+A445	MEDDRA-PT-ID E106 10027141
+A446	LLT E106 Melena
+A447	LLT-ID E106 10027162
+A448	CUI E107 C0018932
+A449	UMLS-Preferred-Name E107 Hematochezia
+A450	MEDDRA-PT E107 Haematochezia
+A451	MEDDRA-PT-ID E107 10018836
+A452	LLT E107 Hematochezia
+A453	LLT-ID E107 10060544
+A454	CUI E108 C0151766
+A455	UMLS-Preferred-Name E108 Liver function tests abnormal finding
+A456	MEDDRA-PT E108 Liver function test abnormal
+A457	MEDDRA-PT-ID E108 10024690
+A458	CUI E109 C0852911
+A459	UMLS-Preferred-Name E109 Blood alkaline phosphatase increased
+A460	MEDDRA-PT E109 Blood alkaline phosphatase increased
+A461	MEDDRA-PT-ID E109 10059570
+A462	CUI E110 C0311468
+A463	UMLS-Preferred-Name E110 Increased bilirubin level (finding)
+A464	MEDDRA-PT E110 Blood bilirubin increased
+A465	MEDDRA-PT-ID E110 10005364
+A466	CUI E111 C0018965
+A467	UMLS-Preferred-Name E111 Hematuria
+A468	MEDDRA-PT E111 Haematuria
+A469	MEDDRA-PT-ID E111 10018867
+A470	LLT E111 Hematuria
+A471	LLT-ID E111 10019450
+A472	CUI E112 C0406834
+A473	UMLS-Preferred-Name E112 Wound discharge finding
+A474	MEDDRA-PT E112 Wound secretion
+A475	MEDDRA-PT-ID E112 10048629
+A476	CUI E113 C0919882
+A477	UMLS-Preferred-Name E113 Incision site haemorrhage
+A478	MEDDRA-PT E113 Incision site haemorrhage
+A479	MEDDRA-PT-ID E113 10051100
+A480	LLT E113 Incision site hemorrhage
+A481	LLT-ID E113 10055289
+A482	CUI E114 C1168175
+A483	UMLS-Preferred-Name E114 Incision site haematoma
+A484	MEDDRA-PT E114 Incision site haematoma
+A485	MEDDRA-PT-ID E114 10059241
+A486	LLT E114 Incision site hematoma
+A487	LLT-ID E114 10059246
+A488	CUI E115 C0079027
+A489	UMLS-Preferred-Name E115 Blood Loss, Surgical
+A490	MEDDRA-PT E115 Procedural haemorrhage
+A491	MEDDRA-PT-ID E115 10071229
+A492	LLT E115 Operative hemorrhage
+A493	LLT-ID E115 10055310
+A494	CUI E116 C0017565
+A495	UMLS-Preferred-Name E116 Gingival Hemorrhage
+A496	MEDDRA-PT E116 Gingival bleeding
+A497	MEDDRA-PT-ID E116 10018276
+A498	CUI E117 C0019079
+A499	UMLS-Preferred-Name E117 Hemoptysis
+A500	MEDDRA-PT E117 Haemoptysis
+A501	MEDDRA-PT-ID E117 10018964
+A502	LLT E117 Hemoptysis
+A503	LLT-ID E117 10019523
+A504	CUI E118 C0020517
+A505	UMLS-Preferred-Name E118 Hypersensitivity
+A506	MEDDRA-PT E118 Hypersensitivity
+A507	MEDDRA-PT-ID E118 10020751
+A508	CUI E119 C0151702
+A509	UMLS-Preferred-Name E119 Muscle hemorrhage
+A510	MEDDRA-PT E119 Muscle haemorrhage
+A511	MEDDRA-PT-ID E119 10028309
+A512	LLT E119 Muscle hemorrhage
+A513	LLT-ID E119 10028310
+A514	CUI E120 C0015402
+A515	UMLS-Preferred-Name E120 Eye Hemorrhage
+A516	MEDDRA-PT E120 Eye haemorrhage
+A517	MEDDRA-PT-ID E120 10015926
+A518	LLT E120 Ocular hemorrhage
+A519	LLT-ID E120 10030040
+A520	CUI E121 C0009760
+A521	UMLS-Preferred-Name E121 Conjunctival hemorrhage
+A522	MEDDRA-PT E121 Conjunctival haemorrhage
+A523	MEDDRA-PT-ID E121 10010719
+A524	LLT E121 Conjunctival hemorrhage
+A525	LLT-ID E121 10010720
+A526	CUI E122 C0267596
+A527	UMLS-Preferred-Name E122 Rectal hemorrhage
+A528	MEDDRA-PT E122 Rectal haemorrhage
+A529	MEDDRA-PT-ID E122 10038063
+A530	LLT E122 Rectal hemorrhage
+A531	LLT-ID E122 10038064
+A532	CUI E123 C0017565
+A533	UMLS-Preferred-Name E123 Gingival Hemorrhage
+A534	MEDDRA-PT E123 Gingival bleeding
+A535	MEDDRA-PT-ID E123 10018276
+A536	CUI E124 C0014591
+A537	UMLS-Preferred-Name E124 Epistaxis
+A538	MEDDRA-PT E124 Epistaxis
+A539	MEDDRA-PT-ID E124 10015090
+A540	CUI E125 C0009938
+A541	UMLS-Preferred-Name E125 Contusions
+A542	MEDDRA-PT E125 Contusion
+A543	MEDDRA-PT-ID E125 10050584
+A544	CUI E126 C0018965
+A545	UMLS-Preferred-Name E126 Hematuria
+A546	MEDDRA-PT E126 Haematuria
+A547	MEDDRA-PT-ID E126 10018867
+A548	LLT E126 Hematuria
+A549	LLT-ID E126 10019450
+A550	CUI E127 C0267596
+A551	UMLS-Preferred-Name E127 Rectal hemorrhage
+A552	MEDDRA-PT E127 Rectal haemorrhage
+A553	MEDDRA-PT-ID E127 10038063
+A554	LLT E127 Rectal hemorrhage
+A555	LLT-ID E127 10038064
+A556	CUI E128 C0018944
+A557	UMLS-Preferred-Name E128 Hematoma
+A558	MEDDRA-PT E128 Haematoma
+A559	MEDDRA-PT-ID E128 10018852
+A560	LLT E128 Hematoma
+A561	LLT-ID E128 10019428
+A562	CUI E39 C0025323
+A563	UMLS-Preferred-Name E39 Menorrhagia
+A564	MEDDRA-PT E39 Menorrhagia
+A565	MEDDRA-PT-ID E39 10027313
+A566	CUI E41 C0019079
+A567	UMLS-Preferred-Name E41 Hemoptysis
+A568	MEDDRA-PT E41 Haemoptysis
+A569	MEDDRA-PT-ID E41 10018964
+A570	LLT E41 Hemoptysis
+A571	LLT-ID E41 10019523
+A572	CUI E43 C0019080
+A573	UMLS-Preferred-Name E43 Hemorrhage
+A574	MEDDRA-PT E43 Haemorrhage
+A575	MEDDRA-PT-ID E43 10055798
+A576	LLT E43 Bleeding
+A577	LLT-ID E43 10005103
+A578	CUI E44 C0014591
+A579	UMLS-Preferred-Name E44 Epistaxis
+A580	MEDDRA-PT E44 Epistaxis
+A581	MEDDRA-PT-ID E44 10015090
+A582	CUI E48 C0009938
+A583	UMLS-Preferred-Name E48 Contusions
+A584	MEDDRA-PT E48 Contusion
+A585	MEDDRA-PT-ID E48 10050584
+A586	CUI E50 C0018965
+A587	UMLS-Preferred-Name E50 Hematuria
+A588	MEDDRA-PT E50 Haematuria
+A589	MEDDRA-PT-ID E50 10018867
+A590	LLT E50 Hematuria
+A591	LLT-ID E50 10019450
+A592	CUI E74 C0025323
+A593	UMLS-Preferred-Name E74 Menorrhagia
+A594	MEDDRA-PT E74 Menorrhagia
+A595	MEDDRA-PT-ID E74 10027313
+A596	CUI E129 C0018944
+A597	UMLS-Preferred-Name E129 Hematoma
+A598	MEDDRA-PT E129 Haematoma
+A599	MEDDRA-PT-ID E129 10018852
+A600	LLT E129 Hematoma
+A601	LLT-ID E129 10019428
+A602	CUI E130 C0019079
+A603	UMLS-Preferred-Name E130 Hemoptysis
+A604	MEDDRA-PT E130 Haemoptysis
+A605	MEDDRA-PT-ID E130 10018964
+A606	LLT E130 Hemoptysis
+A607	LLT-ID E130 10019523
+A608	CUI E131 C0267596
+A609	UMLS-Preferred-Name E131 Rectal hemorrhage
+A610	MEDDRA-PT E131 Rectal haemorrhage
+A611	MEDDRA-PT-ID E131 10038063
+A612	LLT E131 Rectal hemorrhage
+A613	LLT-ID E131 10038064
+A614	CUI E132 C0017565
+A615	UMLS-Preferred-Name E132 Gingival Hemorrhage
+A616	MEDDRA-PT E132 Gingival bleeding
+A617	MEDDRA-PT-ID E132 10018276
+A618	CUI E133 C0019080
+A619	UMLS-Preferred-Name E133 Hemorrhage
+A620	MEDDRA-PT E133 Haemorrhage
+A621	MEDDRA-PT-ID E133 10055798
+A622	LLT E133 Bleeding
+A623	LLT-ID E133 10005103
+A624	CUI E134 C0014591
+A625	UMLS-Preferred-Name E134 Epistaxis
+A626	MEDDRA-PT E134 Epistaxis
+A627	MEDDRA-PT-ID E134 10015090
+A628	CUI E135 C0018965
+A629	UMLS-Preferred-Name E135 Hematuria
+A630	MEDDRA-PT E135 Haematuria
+A631	MEDDRA-PT-ID E135 10018867
+A632	LLT E135 Hematuria
+A633	LLT-ID E135 10019450
+A634	CUI E136 C0018944
+A635	UMLS-Preferred-Name E136 Hematoma
+A636	MEDDRA-PT E136 Haematoma
+A637	MEDDRA-PT-ID E136 10018852
+A638	LLT E136 Hematoma
+A639	LLT-ID E136 10019428
+A640	CUI E137 C0009938
+A641	UMLS-Preferred-Name E137 Contusions
+A642	MEDDRA-PT E137 Contusion
+A643	MEDDRA-PT-ID E137 10050584
+A644	CUI E138 C0017565
+A645	UMLS-Preferred-Name E138 Gingival Hemorrhage
+A646	MEDDRA-PT E138 Gingival bleeding
+A647	MEDDRA-PT-ID E138 10018276
+A648	CUI E139 C0948824
+A649	UMLS-Preferred-Name E139 Anemia due to blood loss
+A650	MEDDRA-PT E139 Haemorrhagic anaemia
+A651	MEDDRA-PT-ID E139 10052293
+A652	LLT E139 Hemorrhagic anemia
+A653	LLT-ID E139 10052294
+A654	CUI E140 C0018932
+A655	UMLS-Preferred-Name E140 Hematochezia
+A656	MEDDRA-PT E140 Haematochezia
+A657	MEDDRA-PT-ID E140 10018836
+A658	LLT E140 Hematochezia
+A659	LLT-ID E140 10060544
+A660	CUI E141 C0265031
+A661	UMLS-Preferred-Name E141 Bleeding hemorrhoids
+A662	MEDDRA-PT E141 Haemorrhoidal haemorrhage
+A663	MEDDRA-PT-ID E141 10054787
+A664	LLT E141 Hemorrhoidal hemorrhage
+A665	LLT-ID E141 10060640
+A666	CUI E142 C0017181
+A667	UMLS-Preferred-Name E142 Gastrointestinal Hemorrhage
+A668	MEDDRA-PT E142 Gastrointestinal haemorrhage
+A669	MEDDRA-PT-ID E142 10017955
+A670	LLT E142 Gastrointestinal hemorrhage
+A671	LLT-ID E142 10017960
+A672	CUI E143 C0018926
+A673	UMLS-Preferred-Name E143 Hematemesis
+A674	MEDDRA-PT E143 Haematemesis
+A675	MEDDRA-PT-ID E143 10018830
+A676	LLT E143 Hematemesis
+A677	LLT-ID E143 10019418
+A678	CUI E144 C0025222
+A679	UMLS-Preferred-Name E144 Melena
+A680	MEDDRA-PT E144 Melaena
+A681	MEDDRA-PT-ID E144 10027141
+A682	LLT E144 Melena
+A683	LLT-ID E144 10027162
+A684	CUI E145 C0426747
+A685	UMLS-Preferred-Name E145 Bleeding from anus
+A686	MEDDRA-PT E145 Anal haemorrhage
+A687	MEDDRA-PT-ID E145 10049555
+A688	LLT E145 Anal hemorrhage
+A689	LLT-ID E145 10055226
+A690	CUI E146 C0241742
+A691	UMLS-Preferred-Name E146 Wound hemorrhage
+A692	MEDDRA-PT E146 Wound haemorrhage
+A693	MEDDRA-PT-ID E146 10051373
+A694	LLT E146 Wound hemorrhage
+A695	LLT-ID E146 10055360
+A696	CUI E147 C0919874
+A697	UMLS-Preferred-Name E147 Post procedural hemorrhage
+A698	MEDDRA-PT E147 Post procedural haemorrhage
+A699	MEDDRA-PT-ID E147 10051077
+A700	LLT E147 Post procedural hemorrhage
+A701	LLT-ID E147 10055320
+A702	CUI E148 C0549453
+A703	UMLS-Preferred-Name E148 Traumatic hematoma
+A704	MEDDRA-PT E148 Traumatic haematoma
+A705	MEDDRA-PT-ID E148 10044522
+A706	LLT E148 Traumatic hematoma
+A707	LLT-ID E148 10044525
+A708	CUI E149 C0520723
+A709	UMLS-Preferred-Name E149 Periorbital hematoma
+A710	MEDDRA-PT E149 Periorbital haematoma
+A711	MEDDRA-PT-ID E149 10034544
+A712	LLT E149 Periorbital hematoma
+A713	LLT-ID E149 10055379
+A714	CUI E150 C0151702
+A715	UMLS-Preferred-Name E150 Muscle hemorrhage
+A716	MEDDRA-PT E150 Muscle haemorrhage
+A717	MEDDRA-PT-ID E150 10028309
+A718	LLT E150 Muscle hemorrhage
+A719	LLT-ID E150 10028310
+A720	CUI E151 C2979982
+A721	UMLS-Preferred-Name E151 Vaginal Hemorrhage
+A722	MEDDRA-PT E151 Vaginal haemorrhage
+A723	MEDDRA-PT-ID E151 10046910
+A724	LLT E151 Vaginal hemorrhage
+A725	LLT-ID E151 10046912
+A726	CUI E152 C0025874
+A727	UMLS-Preferred-Name E152 Metrorrhagia
+A728	MEDDRA-PT E152 Metrorrhagia
+A729	MEDDRA-PT-ID E152 10027514
+A730	CUI E153 C0232943
+A731	UMLS-Preferred-Name E153 Intermenstrual heavy bleeding
+A732	MEDDRA-PT E153 Menometrorrhagia
+A733	MEDDRA-PT-ID E153 10027295
+A734	CUI E154 C0854381
+A735	UMLS-Preferred-Name E154 Genital hemorrhage
+A736	MEDDRA-PT E154 Genital haemorrhage
+A737	MEDDRA-PT-ID E154 10061178
+A738	LLT E154 Genital hemorrhage
+A739	LLT-ID E154 10055260
+A740	CUI E155 C0019080
+A741	UMLS-Preferred-Name E155 Hemorrhage
+A742	MEDDRA-PT E155 Haemorrhage
+A743	MEDDRA-PT-ID E155 10055798
+A744	LLT E155 Hemorrhage
+A745	LLT-ID E155 10019524
+A746	CUI E156 C0013491
+A747	UMLS-Preferred-Name E156 Ecchymosis
+A748	MEDDRA-PT E156 Ecchymosis
+A749	MEDDRA-PT-ID E156 10014080
+A750	CUI E157 C0852361
+A751	UMLS-Preferred-Name E157 Skin hemorrhages
+A752	MEDDRA-PT E157 Skin haemorrhage
+A753	MEDDRA-PT-ID E157 10064265
+A754	LLT E157 Skin hemorrhage
+A755	LLT-ID E157 10064266
+A756	CUI E158 C0031256
+A757	UMLS-Preferred-Name E158 Petechiae
+A758	MEDDRA-PT E158 Petechiae
+A759	MEDDRA-PT-ID E158 10034754
+A760	CUI E159 C0009760
+A761	UMLS-Preferred-Name E159 Conjunctival hemorrhage
+A762	MEDDRA-PT E159 Conjunctival haemorrhage
+A763	MEDDRA-PT-ID E159 10010719
+A764	LLT E159 Conjunctival hemorrhage
+A765	LLT-ID E159 10010720
+A766	CUI E160 C0035317
+A767	UMLS-Preferred-Name E160 Retinal Hemorrhage
+A768	MEDDRA-PT E160 Retinal haemorrhage
+A769	MEDDRA-PT-ID E160 10038867
+A770	LLT E160 Retinal hemorrhage
+A771	LLT-ID E160 10038870
+A772	CUI E161 C0015402
+A773	UMLS-Preferred-Name E161 Eye Hemorrhage
+A774	MEDDRA-PT E161 Eye haemorrhage
+A775	MEDDRA-PT-ID E161 10015926
+A776	LLT E161 Eye hemorrhage
+A777	LLT-ID E161 10015928
+A778	CUI E162 C0947999
+A779	UMLS-Preferred-Name E162 Blood urine present
+A780	MEDDRA-PT E162 Blood urine present
+A781	MEDDRA-PT-ID E162 10018870
+A782	CUI E163 C0877047
+A783	UMLS-Preferred-Name E163 Occult blood positive
+A784	MEDDRA-PT E163 Occult blood positive
+A785	MEDDRA-PT-ID E163 10061880
+A786	CUI E164 C0877047
+A787	UMLS-Preferred-Name E164 Occult blood positive
+A788	MEDDRA-PT E164 Occult blood
+A789	MEDDRA-PT-ID E164 10061878
+A790	CUI E165 C0221752
+A791	UMLS-Preferred-Name E165 Hematuria present
+A792	MEDDRA-PT E165 Red blood cells urine positive
+A793	MEDDRA-PT-ID E165 10038182
+A794	CUI E166 C0542008
+A795	UMLS-Preferred-Name E166 Injection site haematoma
+A796	MEDDRA-PT E166 Injection site haematoma
+A797	MEDDRA-PT-ID E166 10022066
+A798	LLT E166 Injection site hematoma
+A799	LLT-ID E166 10055371
+A800	CUI E167 C1696110
+A801	UMLS-Preferred-Name E167 Vessel puncture site haematoma
+A802	MEDDRA-PT E167 Vessel puncture site haematoma
+A803	MEDDRA-PT-ID E167 10065902
+A804	LLT E167 Vessel puncture site hematoma
+A805	LLT-ID E167 10065905
+A806	CUI E168 C0019080
+A807	UMLS-Preferred-Name E168 Hemorrhage
+A808	MEDDRA-PT E168 Haemorrhage
+A809	MEDDRA-PT-ID E168 10055798
+A810	LLT E168 Bleeding
+A811	LLT-ID E168 10005103
+A812	CUI E170 C0019080
+A813	UMLS-Preferred-Name E170 Hemorrhage
+A814	MEDDRA-PT E170 Haemorrhage
+A815	MEDDRA-PT-ID E170 10055798
+A816	LLT E170 Bleeding
+A817	LLT-ID E170 10005103
+A818	CUI E171 C0019080
+A819	UMLS-Preferred-Name E171 Hemorrhage
+A820	MEDDRA-PT E171 Haemorrhage
+A821	MEDDRA-PT-ID E171 10055798
+A822	LLT E171 Bleeding
+A823	LLT-ID E171 10005103
+A824	CUI E172 C0019080
+A825	UMLS-Preferred-Name E172 Hemorrhage
+A826	MEDDRA-PT E172 Haemorrhage
+A827	MEDDRA-PT-ID E172 10055798
+A828	LLT E172 Bleeding
+A829	LLT-ID E172 10005103
+A830	CUI E65 C0019080
+A831	UMLS-Preferred-Name E65 Hemorrhage
+A832	MEDDRA-PT E65 Haemorrhage
+A833	MEDDRA-PT-ID E65 10055798
+A834	LLT E65 Bleeding
+A835	LLT-ID E65 10005103
+A836	CUI E66 C0019080
+A837	UMLS-Preferred-Name E66 Hemorrhage
+A838	MEDDRA-PT E66 Haemorrhage
+A839	MEDDRA-PT-ID E66 10055798
+A840	LLT E66 Bleeding
+A841	LLT-ID E66 10005103
+A842	CUI E5 C0019080
+A843	UMLS-Preferred-Name E5 Hemorrhage
+A844	MEDDRA-PT E5 Haemorrhage
+A845	MEDDRA-PT-ID E5 10055798
+A846	LLT E5 Bleeding
+A847	LLT-ID E5 10005103
+A848	CUI E6 C0019080
+A849	UMLS-Preferred-Name E6 Hemorrhage
+A850	MEDDRA-PT E6 Haemorrhage
+A851	MEDDRA-PT-ID E6 10055798
+A852	LLT E6 Bleeding
+A853	LLT-ID E6 10005103
+A854	CUI E70 C0019080
+A855	UMLS-Preferred-Name E70 Hemorrhage
+A856	MEDDRA-PT E70 Haemorrhage
+A857	MEDDRA-PT-ID E70 10055798
+A858	LLT E70 Bleeding
+A859	LLT-ID E70 10005103
+A860	CUI E26 C0038525
+A861	UMLS-Preferred-Name E26 Subarachnoid Hemorrhage
+A862	MEDDRA-PT E26 Subarachnoid haemorrhage
+A863	MEDDRA-PT-ID E26 10042316
+A864	LLT E26 Subarachnoid bleeding
+A865	LLT-ID E26 10071890
+A866	CUI E71 C1306577
+A867	UMLS-Preferred-Name E71 Death (finding)
+A868	MEDDRA-PT E71 Death
+A869	MEDDRA-PT-ID E71 10011906
+A870	CUI E173 C1306577
+A871	UMLS-Preferred-Name E173 Death (finding)
+A872	MEDDRA-PT E173 Death
+A873	MEDDRA-PT-ID E173 10011906
+A874	CUI E174 C0019080
+A875	UMLS-Preferred-Name E174 Hemorrhage
+A876	MEDDRA-PT E174 Haemorrhage
+A877	MEDDRA-PT-ID E174 10055798
+A878	LLT E174 Bleeding
+A879	LLT-ID E174 10005103
+A880	CUI E177 C0019080
+A881	UMLS-Preferred-Name E177 Hemorrhage
+A882	MEDDRA-PT E177 Haemorrhage
+A883	MEDDRA-PT-ID E177 10055798
+A884	LLT E177 Bleeding
+A885	LLT-ID E177 10005103
+A886	CUI E68 C0019080
+A887	UMLS-Preferred-Name E68 Hemorrhage
+A888	MEDDRA-PT E68 Haemorrhage
+A889	MEDDRA-PT-ID E68 10055798
+A890	LLT E68 Bleeding
+A891	LLT-ID E68 10005103
+A892	CUI E77 C0019080
+A893	UMLS-Preferred-Name E77 Hemorrhage
+A894	MEDDRA-PT E77 Haemorrhage
+A895	MEDDRA-PT-ID E77 10055798
+A896	LLT E77 Bleeding
+A897	LLT-ID E77 10005103
+A898	CUI E79 C0019080
+A899	UMLS-Preferred-Name E79 Hemorrhage
+A900	MEDDRA-PT E79 Haemorrhage
+A901	MEDDRA-PT-ID E79 10055798
+A902	LLT E79 Bleeding
+A903	LLT-ID E79 10005103
+A904	CUI E181 C0019080
+A905	UMLS-Preferred-Name E181 Hemorrhage
+A906	MEDDRA-PT E181 Haemorrhage
+A907	MEDDRA-PT-ID E181 10055798
+A908	LLT E181 Bleeding
+A909	LLT-ID E181 10005103
+A910	CUI E182 C0019080
+A911	UMLS-Preferred-Name E182 Hemorrhage
+A912	MEDDRA-PT E182 Haemorrhage
+A913	MEDDRA-PT-ID E182 10055798
+A914	LLT E182 Bleeding
+A915	LLT-ID E182 10005103
+A916	CUI E183 C0019080
+A917	UMLS-Preferred-Name E183 Hemorrhage
+A918	MEDDRA-PT E183 Haemorrhage
+A919	MEDDRA-PT-ID E183 10055798
+A920	LLT E183 Bleeding
+A921	LLT-ID E183 10005103
+A922	CUI E184 C0019080
+A923	UMLS-Preferred-Name E184 Hemorrhage
+A924	MEDDRA-PT E184 Haemorrhage
+A925	MEDDRA-PT-ID E184 10055798
+A926	LLT E184 Bleeding
+A927	LLT-ID E184 10005103
+A928	CUI E185 C0019080
+A929	UMLS-Preferred-Name E185 Hemorrhage
+A930	MEDDRA-PT E185 Haemorrhage
+A931	MEDDRA-PT-ID E185 10055798
+A932	LLT E185 Bleeding
+A933	LLT-ID E185 10005103
+A934	CUI E186 C0019080
+A935	UMLS-Preferred-Name E186 Hemorrhage
+A936	MEDDRA-PT E186 Haemorrhage
+A937	MEDDRA-PT-ID E186 10055798
+A938	LLT E186 Bleeding
+A939	LLT-ID E186 10005103
+A940	CUI E187 C0019080
+A941	UMLS-Preferred-Name E187 Hemorrhage
+A942	MEDDRA-PT E187 Haemorrhage
+A943	MEDDRA-PT-ID E187 10055798
+A944	LLT E187 Bleeding
+A945	LLT-ID E187 10005103
+A946	CUI E188 C0019080
+A947	UMLS-Preferred-Name E188 Hemorrhage
+A948	MEDDRA-PT E188 Haemorrhage
+A949	MEDDRA-PT-ID E188 10055798
+A950	LLT E188 Bleeding
+A951	LLT-ID E188 10005103
+A952	CUI E189 C0019080
+A953	UMLS-Preferred-Name E189 Hemorrhage
+A954	MEDDRA-PT E189 Haemorrhage
+A955	MEDDRA-PT-ID E189 10055798
+A956	LLT E189 Bleeding
+A957	LLT-ID E189 10005103
+A958	CUI E190 C0019080
+A959	UMLS-Preferred-Name E190 Hemorrhage
+A960	MEDDRA-PT E190 Haemorrhage
+A961	MEDDRA-PT-ID E190 10055798
+A962	LLT E190 Bleeding
+A963	LLT-ID E190 10005103
+A964	CUI E1 C0040053
+A965	UMLS-Preferred-Name E1 Thrombosis
+A966	MEDDRA-PT E1 Thrombosis
+A967	MEDDRA-PT-ID E1 10043607
+A968	CUI E191 C0009492
+A969	UMLS-Preferred-Name E191 Compartment syndromes
+A970	MEDDRA-PT E191 Compartment syndrome
+A971	MEDDRA-PT-ID E191 10010121

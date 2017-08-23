@@ -1,0 +1,136 @@
+T1	AdverseReaction 48 53	DEATH
+T2	AdverseReaction 55 61	STROKE
+T3	AdverseReaction 66 79	HEART FAILURE
+T4	AdverseReaction 190 195	DEATH
+T5	AdverseReaction 197 203	STROKE
+T6	AdverseReaction 208 221	HEART FAILURE
+T7	AdverseReaction 461 466	death
+T8	AdverseReaction 733 738	death
+T9	AdverseReaction 740 746	stroke
+T10	AdverseReaction 771 784	heart failure
+T11	AdverseReaction 993 998	DEATH
+T12	AdverseReaction 1000 1006	STROKE
+T13	AdverseReaction 1011 1024	HEART FAILURE
+T14	AdverseReaction 1296 1301	death
+T15	AdverseReaction 1545 1550	death
+T16	AdverseReaction 1552 1558	stroke
+T17	AdverseReaction 1584 1597	heart failure
+T18	Factor 40 44	RISK
+T19	Factor 182 186	RISK
+T20	Factor 453 457	risk
+T21	Factor 725 729	risk
+T22	Factor 985 989	RISK
+T23	Factor 1288 1292	risk
+T24	Factor 1537 1541	risk
+E1	AdverseReaction:T1 Hypothetical:E18
+E2	AdverseReaction:T2 Hypothetical:E18
+E3	AdverseReaction:T3 Hypothetical:E18
+E4	AdverseReaction:T4 Hypothetical:E19
+E5	AdverseReaction:T5 Hypothetical:E19
+E6	AdverseReaction:T6 Hypothetical:E19
+E7	AdverseReaction:T7 Hypothetical:E20
+E8	AdverseReaction:T8 Hypothetical:E21
+E9	AdverseReaction:T9 Hypothetical:E21
+E10	AdverseReaction:T10 Hypothetical:E21
+E11	AdverseReaction:T11 Hypothetical:E22
+E12	AdverseReaction:T12 Hypothetical:E22
+E13	AdverseReaction:T13 Hypothetical:E22
+E14	AdverseReaction:T14 Hypothetical:E23
+E15	AdverseReaction:T15 Hypothetical:E24
+E16	AdverseReaction:T16 Hypothetical:E24
+E17	AdverseReaction:T17 Hypothetical:E24
+E18	Factor:T18
+E19	Factor:T19
+E20	Factor:T20
+E21	Factor:T21
+E22	Factor:T22
+E23	Factor:T23
+E24	Factor:T24
+A1	CUI E1 C1306577
+A2	UMLS-Preferred-Name E1 Death (finding)
+A3	MEDDRA-PT E1 Death
+A4	MEDDRA-PT-ID E1 10011906
+A5	CUI E2 C0038454
+A6	UMLS-Preferred-Name E2 Cerebrovascular accident
+A7	MEDDRA-PT E2 Cerebrovascular accident
+A8	MEDDRA-PT-ID E2 10008190
+A9	LLT E2 Stroke
+A10	LLT-ID E2 10042244
+A11	CUI E3 C0018801
+A12	UMLS-Preferred-Name E3 Heart failure
+A13	MEDDRA-PT E3 Cardiac failure
+A14	MEDDRA-PT-ID E3 10007554
+A15	LLT E3 Heart failure
+A16	LLT-ID E3 10019279
+A17	CUI E4 C1306577
+A18	UMLS-Preferred-Name E4 Death (finding)
+A19	MEDDRA-PT E4 Death
+A20	MEDDRA-PT-ID E4 10011906
+A21	CUI E5 C0038454
+A22	UMLS-Preferred-Name E5 Cerebrovascular accident
+A23	MEDDRA-PT E5 Cerebrovascular accident
+A24	MEDDRA-PT-ID E5 10008190
+A25	LLT E5 Stroke
+A26	LLT-ID E5 10042244
+A27	CUI E6 C0018801
+A28	UMLS-Preferred-Name E6 Heart failure
+A29	MEDDRA-PT E6 Cardiac failure
+A30	MEDDRA-PT-ID E6 10007554
+A31	LLT E6 Heart failure
+A32	LLT-ID E6 10019279
+A33	CUI E7 C1306577
+A34	UMLS-Preferred-Name E7 Death (finding)
+A35	MEDDRA-PT E7 Death
+A36	MEDDRA-PT-ID E7 10011906
+A37	CUI E8 C1306577
+A38	UMLS-Preferred-Name E8 Death (finding)
+A39	MEDDRA-PT E8 Death
+A40	MEDDRA-PT-ID E8 10011906
+A41	CUI E9 C0038454
+A42	UMLS-Preferred-Name E9 Cerebrovascular accident
+A43	MEDDRA-PT E9 Cerebrovascular accident
+A44	MEDDRA-PT-ID E9 10008190
+A45	LLT E9 Stroke
+A46	LLT-ID E9 10042244
+A47	CUI E10 C0018801
+A48	UMLS-Preferred-Name E10 Heart failure
+A49	MEDDRA-PT E10 Cardiac failure
+A50	MEDDRA-PT-ID E10 10007554
+A51	LLT E10 Heart failure
+A52	LLT-ID E10 10019279
+A53	CUI E11 C1306577
+A54	UMLS-Preferred-Name E11 Death (finding)
+A55	MEDDRA-PT E11 Death
+A56	MEDDRA-PT-ID E11 10011906
+A57	CUI E12 C0038454
+A58	UMLS-Preferred-Name E12 Cerebrovascular accident
+A59	MEDDRA-PT E12 Cerebrovascular accident
+A60	MEDDRA-PT-ID E12 10008190
+A61	LLT E12 Stroke
+A62	LLT-ID E12 10042244
+A63	CUI E13 C0018801
+A64	UMLS-Preferred-Name E13 Heart failure
+A65	MEDDRA-PT E13 Cardiac failure
+A66	MEDDRA-PT-ID E13 10007554
+A67	LLT E13 Heart failure
+A68	LLT-ID E13 10019279
+A69	CUI E14 C1306577
+A70	UMLS-Preferred-Name E14 Death (finding)
+A71	MEDDRA-PT E14 Death
+A72	MEDDRA-PT-ID E14 10011906
+A73	CUI E15 C1306577
+A74	UMLS-Preferred-Name E15 Death (finding)
+A75	MEDDRA-PT E15 Death
+A76	MEDDRA-PT-ID E15 10011906
+A77	CUI E16 C0038454
+A78	UMLS-Preferred-Name E16 Cerebrovascular accident
+A79	MEDDRA-PT E16 Cerebrovascular accident
+A80	MEDDRA-PT-ID E16 10008190
+A81	LLT E16 Stroke
+A82	LLT-ID E16 10042244
+A83	CUI E17 C0018801
+A84	UMLS-Preferred-Name E17 Heart failure
+A85	MEDDRA-PT E17 Cardiac failure
+A86	MEDDRA-PT-ID E17 10007554
+A87	LLT E17 Heart failure
+A88	LLT-ID E17 10019279

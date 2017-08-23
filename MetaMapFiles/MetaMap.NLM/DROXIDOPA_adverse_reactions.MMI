@@ -1,0 +1,48 @@
+00000000|MMI|68.38|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-11-"dizziness"-noun-0,"Dizzyness"-tx-8-"Dizziness"-noun-0,"Dizzyness"-tx-5-"dizziness"-noun-0,"Dizzyness"-tx-1-"dizziness"-noun-0]|TX|3405/9;2562/9;1902/9;463/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|68.38|Headache|C0018681|[sosy]|["HEADACHE"-tx-11-"headache"-noun-0,"HEADACHE"-tx-8-"Headache"-noun-0,"HEADACHE"-tx-5-"headache"-noun-0,"HEADACHE"-tx-1-"Headache"-noun-0]|TX|3370/8;2474/8;1892/8;453/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|68.38|Vertigo|C0042571|[sosy]|["dizziness"-tx-11-"dizziness"-noun-0,"dizziness"-tx-8-"Dizziness"-noun-0,"dizziness"-tx-5-"dizziness"-noun-0,"dizziness"-tx-1-"dizziness"-noun-0]|TX|3405/9;2562/9;1902/9;463/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|55.38|Nausea|C0027497|[sosy]|["NAUSEA"-tx-8-"Nausea"-noun-0,"NAUSEA"-tx-6-"nausea"-noun-0,"NAUSEA"-tx-5-"nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|2650/6;2061/6;1913/6;474/6|C23.888.821.712
+00000000|MMI|54.24|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-8-"Hypertension"-noun-0,"Blood Pressure, Increased"-tx-6-"increased blood pressure"-noun-0,"HYPERTENSION"-tx-6-"hypertension"-noun-0,"HYPERTENSION"-tx-5-"hypertension"-noun-0,"HYPERTENSION"-tx-1-"hypertension"-noun-0]|TX|2738/12;2032/24;2016/12;1921/12;482/12|C14.907.489
+00000000|MMI|34.40|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-9-"adverse reactions"-noun-0,"Adverse reactions"-tx-8-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-6-"adverse reactions"-noun-0,"Adverse reactions"-tx-5-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-2-"adverse reaction"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|2877/17;2094/17;1952/17;1632/17;786/16;[6/17],[562/17];41/17|
+00000000|MMI|24.11|Syncope|C0039070|[sosy]|["SYNCOPE"-tx-11-"syncope"-noun-0]|TX|3386/7|C10.597.606.358.800.600;C23.888.592.604.359.800.600
+00000000|MMI|20.95|Parkinson Disease|C0030567|[dsyn]|["PARKINSON DISEASE"-tx-4-"Parkinson's disease"-noun-0]|TX|1302/19|C10.228.140.079.862.500;C10.228.662.600.400;C10.574.812
+00000000|MMI|20.95|Shy-Drager Syndrome|C0037019|[dsyn]|["Multiple System Atrophy"-tx-4-"multiple system atrophy"-noun-0]|TX|1323/23|C10.177.575.550.750;C10.228.140.079.612.700;C10.228.662.550.700;C10.574.625.700;C14.907.514.741
+00000000|MMI|17.80|Confusion|C0009676|[mobd]|["CONFUSION"-tx-1-"Confusion"-noun-0]|TX|246/9|C10.597.606.337;C23.888.592.604.339;F01.700.250
+00000000|MMI|17.80|Multiple System Atrophy|C0393571|[dsyn]|["Multiple System Atrophy"-tx-4-"multiple system atrophy"-noun-0]|TX|1323/23|C10.177.575.550;C10.228.140.079.612;C10.228.662.550;C10.574.625
+00000000|MMI|16.42|Coronary Arteriosclerosis|C0010054|[dsyn]|["ischaemic heart disease"-tx-1-"ischemic heart disease"-noun-0]|TX|327/22|C14.280.647.250.260;C14.907.137.126.339;C14.907.585.250.260
+00000000|MMI|16.37|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-11-"dizziness"-noun-0,"Dizziness"-tx-8-"Dizziness"-noun-0,"Dizziness"-tx-5-"dizziness"-noun-0,"Dizziness"-tx-1-"dizziness"-noun-0]|TX|3405/9;2562/9;1902/9;463/9|
+00000000|MMI|16.37|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-11-"headache"-noun-0,"headache"-tx-8-"Headache"-noun-0,"headache"-tx-5-"headache"-noun-0,"headache"-tx-1-"Headache"-noun-0]|TX|3370/8;2474/8;1892/8;453/8|
+00000000|MMI|16.37|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-8-"Hypertension"-noun-0,"Hypertension"-tx-6-"hypertension"-noun-0,"Hypertension"-tx-5-"hypertension"-noun-0,"Hypertension"-tx-1-"hypertension"-noun-0]|TX|2738/12;2016/12;1921/12;482/12|
+00000000|MMI|16.37|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-8-"Nausea"-noun-0,"Nausea"-tx-6-"nausea"-noun-0,"Nausea"-tx-5-"nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|2650/6;2061/6;1913/6;474/6|
+00000000|MMI|15.79|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-8-"Randomized"-verb-0,"RANDOMIZED"-tx-4-"randomized"-verb-1]|TX|[2224/10],[2281/10];1452/10|
+00000000|MMI|14.64|Accidental Falls|C0000921|[inpo]|["Falls"-tx-11-"falls"-noun-0]|TX|3325/5|N06.850.135.122
+00000000|MMI|14.64|Falls|C0085639|[fndg]|["FALLS"-tx-11-"falls"-noun-0]|TX|3325/5|N06.850.135.122
+00000000|MMI|14.64|Pure Autonomic Failure|C0393911|[dsyn]|["AUTONOMIC FAILURE, PURE"-tx-4-"pure autonomic failure"-noun-0]|TX|1348/22|C10.177.575.650
+00000000|MMI|14.64|Urinary tract infection|C0042029|[dsyn]|["Urinary Tract Infections"-tx-11-"urinary tract infections"-noun-0]|TX|3338/24|C01.539.895;C12.777.892;C13.351.968.892
+00000000|MMI|14.64|dopamine beta hydroxylase deficiency|C0342687|[dsyn]|["DOPAMINE BETA-HYDROXYLASE DEFICIENCY"-tx-4-"dopamine beta-hydroxylase deficiency"-noun-0]|TX|1372/36|x.x.x.x
+00000000|MMI|14.52|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-9-"3"-percentage-0,"3+"-tx-8-"3"-real_number-0,"3+"-tx-5-"3"-percentage-0]|TX|2987/1;[2494/1],[2599/1];1745/1|
+00000000|MMI|13.27|Diabetic Autonomic Neuropathy|C0271686|[dsyn]|["Diabetic Autonomic Neuropathy"-tx-4-"diabetic autonomic neuropathy"-noun-1]|TX|1417/29|C10.668.829.300;C19.246.099.937
+00000000|MMI|11.49|Cardiac Arrhythmia|C0003811|[fndg]|["Arrhythmias"-tx-1-"arrhythmias"-noun-0]|TX|351/11|C14.280.067;C23.550.073
+00000000|MMI|11.49|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-1-"fatigue"-noun-0]|TX|500/7|C23.888.369
+00000000|MMI|10.42|2+|C3833492|[fndg]|["2+"-tx-8-"2"-integer-0]|TX|[2684/1],[2772/1]|
+00000000|MMI|10.11|Myocardial Ischemia|C0151744|[dsyn]|["Ischaemic heart disease"-tx-1-"ischemic heart disease"-noun-0]|TX|327/22|C14.280.647;C14.907.585
+00000000|MMI|9.84|Disease|C0012634|[dsyn]|["condition"-tx-2-"conditions"-noun-0]|TX|774/10|C23.550.288
+00000000|MMI|7.49|10%|C3842590|[fndg]|["10%"-tx-11-"10"-percentage-0,"10%"-tx-8-"10"-integer-0]|TX|3416/2;2272/2|
+00000000|MMI|5.18|1+|C3816745|[fndg]|["1+"-tx-8-"1"-integer-0]|TX|2789/1|
+00000000|MMI|5.18|Adverse event|C0877248|[patf]|["adverse events"-tx-11-"adverse events"-noun-0]|TX|3305/14|
+00000000|MMI|5.18|Clouded consciousness|C0683369|[sosy]|["Confusion"-tx-1-"Confusion"-noun-0]|TX|246/9|
+00000000|MMI|5.18|Confusion Adverse Event|C1963086|[fndg]|["Confusion"-tx-1-"Confusion"-noun-0]|TX|246/9|
+00000000|MMI|5.18|Congestive heart failure|C0018802|[dsyn]|["CONGESTIVE HEART FAILURE"-tx-1-"congestive heart failure"-noun-0]|TX|368/24|
+00000000|MMI|5.18|Hyperpyrexia|C0392676|[patf]|["HYPERPYREXIA"-tx-1-"Hyperpyrexia"-noun-0]|TX|229/12|
+00000000|MMI|5.18|Increase in blood pressure|C0497247|[fndg]|["Increased blood pressure"-tx-6-"increased blood pressure"-noun-0]|TX|2032/24|
+00000000|MMI|5.18|Increased Blood Pressure [PE]|C2917273|[fndg]|["Increased Blood Pressure"-tx-6-"increased blood pressure"-noun-0]|TX|2032/24|
+00000000|MMI|5.18|Number of patients|C2360800|[fndg]|["Number of patients"-tx-8-"number of patients"-noun-0]|TX|2841/18|
+00000000|MMI|5.18|Recurrent urinary tract infection|C0262655|[dsyn]|["Urinary tract infections"-tx-11-"urinary tract infections"-noun-0]|TX|3338/24|
+00000000|MMI|5.18|Supine hypertension|C4076686|[dsyn]|["Supine hypertension"-tx-1-"Supine Hypertension"-noun-0]|TX|162/19|
+00000000|MMI|5.18|Symptom aggravating factors|C0436331|[fndg]|["exacerbate"-tx-1-"exacerbate"-verb-0]|TX|307/10|
+00000000|MMI|3.81|Age >= 65 years|C4062450|[fndg]|["Age >= 65 years"-tx-10-"age 65 years"-noun-0]|TX|3189/12|
+00000000|MMI|3.81|Family history of ischemic heart disease|C1313980|[fndg]|["ischemic heart disease"-tx-1-"ischemic heart disease"-noun-0]|TX|327/22|
+00000000|MMI|3.68|0%|C3842591|[fndg]|["0%"-tx-8-"0"-real_number-0]|TX|2792/1|
+00000000|MMI|3.59|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-6-"discontinuation"-noun-0]|TX|1981/15|
+00000000|MMI|3.54|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-10-"exposure"-noun-0]|TX|3247/8|
+00000000|MMI|3.54|exposure history|C2220266|[fndg]|["exposure"-tx-10-"exposure"-noun-0]|TX|3247/8|

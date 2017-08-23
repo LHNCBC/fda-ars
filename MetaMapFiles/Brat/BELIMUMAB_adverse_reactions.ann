@@ -1,0 +1,342 @@
+T1	AdverseReaction 423 434	Mortality  
+T2	AdverseReaction 493 503	Infections
+T3	Severity 485 492	Serious
+T4	AdverseReaction 556 566	Malignancy
+T5	AdverseReaction 619 645	Hypersensitivity Reactions
+T6	AdverseReaction 657 668	Anaphylaxis
+T7	AdverseReaction 721 739	Infusion Reactions
+T8	AdverseReaction 792 802	Depression
+T9	AdverseReaction 922 928	nausea
+T10	AdverseReaction 930 938	diarrhea
+T11	AdverseReaction 940 947	pyrexia
+T12	AdverseReaction 949 964	nasopharyngitis
+T13	AdverseReaction 966 976	bronchitis
+T14	AdverseReaction 978 986	insomnia
+T15	AdverseReaction 988 1005	pain in extremity
+T16	AdverseReaction 1007 1017	depression
+T17	AdverseReaction 1019 1027	migraine
+T18	AdverseReaction 1033 1044	pharyngitis
+T19	AdverseReaction 2390 2400	infections
+T20	Severity 2382 2389	serious
+T21	AdverseReaction 2621 2627	nausea
+T22	AdverseReaction 2629 2637	diarrhea
+T23	AdverseReaction 2639 2646	pyrexia
+T24	AdverseReaction 2648 2663	nasopharyngitis
+T25	AdverseReaction 2665 2675	bronchitis
+T26	AdverseReaction 2677 2685	insomnia
+T27	AdverseReaction 2687 2704	pain in extremity
+T28	AdverseReaction 2706 2716	depression
+T29	AdverseReaction 2718 2726	migraine
+T30	AdverseReaction 2732 2743	pharyngitis
+T31	AdverseReaction 3081 3099	infusion reactions
+T32	AdverseReaction 3134 3149	lupus nephritis
+T33	AdverseReaction 3188 3198	infections
+T34	AdverseReaction 3863 3869	Nausea
+T35	AdverseReaction 3973 3981	Diarrhea
+T36	AdverseReaction 4083 4090	Pyrexia
+T37	AdverseReaction 4193 4208	Nasopharyngitis
+T38	AdverseReaction 4303 4313	Bronchitis
+T39	AdverseReaction 4413 4421	Insomnia
+T40	AdverseReaction 4523 4540	Pain in extremity
+T41	AdverseReaction 4633 4643	Depression
+T42	AdverseReaction 4743 4751	Migraine
+T43	AdverseReaction 4853 4864	Pharyngitis
+T44	AdverseReaction 4963 4971	Cystitis
+T45	AdverseReaction 5073 5083	Leukopenia
+T46	AdverseReaction 5183 5204	Gastroenteritis viral
+T48	AdverseReaction 5814 5832	infusion reactions
+T49	Severity 5809 5813	mild
+T50	AdverseReaction 5836 5842	nausea
+T51	AdverseReaction 5844 5861	erythematous rash
+T52	AdverseReaction 5863 5871	pruritus
+T53	AdverseReaction 5873 5885	eyelid edema
+T54	AdverseReaction 5887 5895	headache
+T55	AdverseReaction 5901 5908	dyspnea
+T56	AdverseReaction 6911 6922	anaphylaxis
+T57	AdverseReaction 6905 6910	Fatal
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Effect:E3
+E3	Severity:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19 Effect:E20
+E20	Severity:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E48	AdverseReaction:T48 Effect:E49
+E49	Severity:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+A1	CUI E1 C1306577
+A2	UMLS-Preferred-Name E1 Death (finding)
+A3	MEDDRA-PT E1 Death
+A4	MEDDRA-PT-ID E1 10011906
+A5	CUI E2 C3714514
+A6	UMLS-Preferred-Name E2 Infection
+A7	MEDDRA-PT E2 Infection
+A8	MEDDRA-PT-ID E2 10021789
+A9	CUI E4 C1306459
+A10	UMLS-Preferred-Name E4 Primary malignant neoplasm
+A11	MEDDRA-PT E4 Neoplasm malignant
+A12	MEDDRA-PT-ID E4 10028997
+A13	CUI E5 C0020517
+A14	UMLS-Preferred-Name E5 Hypersensitivity
+A15	MEDDRA-PT E5 Hypersensitivity
+A16	MEDDRA-PT-ID E5 10020751
+A17	LLT E5 Hypersensitivity reaction
+A18	LLT-ID E5 10020756
+A19	CUI E6 C0002792
+A20	UMLS-Preferred-Name E6 anaphylaxis
+A21	MEDDRA-PT E6 Anaphylactic reaction
+A22	MEDDRA-PT-ID E6 10002198
+A23	LLT E6 Anaphylaxis
+A24	LLT-ID E6 10002218
+A25	CUI E7 C0948715
+A26	UMLS-Preferred-Name E7 Infusion related reaction
+A27	MEDDRA-PT E7 Infusion related reaction
+A28	MEDDRA-PT-ID E7 10051792
+A29	CUI E8 C0011570
+A30	UMLS-Preferred-Name E8 Mental Depression
+A31	MEDDRA-PT E8 Depression
+A32	MEDDRA-PT-ID E8 10012378
+A33	CUI E9 C0027497
+A34	UMLS-Preferred-Name E9 Nausea
+A35	MEDDRA-PT E9 Nausea
+A36	MEDDRA-PT-ID E9 10028813
+A37	CUI E10 C0011991
+A38	UMLS-Preferred-Name E10 Diarrhea
+A39	MEDDRA-PT E10 Diarrhoea
+A40	MEDDRA-PT-ID E10 10012735
+A41	LLT E10 Diarrhea
+A42	LLT-ID E10 10012727
+A43	CUI E11 C0015967
+A44	UMLS-Preferred-Name E11 Fever
+A45	MEDDRA-PT E11 Pyrexia
+A46	MEDDRA-PT-ID E11 10037660
+A47	CUI E12 C0027441
+A48	UMLS-Preferred-Name E12 Nasopharyngitis
+A49	MEDDRA-PT E12 Nasopharyngitis
+A50	MEDDRA-PT-ID E12 10028810
+A51	CUI E13 C0006277
+A52	UMLS-Preferred-Name E13 Bronchitis
+A53	MEDDRA-PT E13 Bronchitis
+A54	MEDDRA-PT-ID E13 10006451
+A55	CUI E14 C0917801
+A56	UMLS-Preferred-Name E14 Sleeplessness
+A57	MEDDRA-PT E14 Insomnia
+A58	MEDDRA-PT-ID E14 10022437
+A59	CUI E15 C0030196
+A60	UMLS-Preferred-Name E15 Pain in limb
+A61	MEDDRA-PT E15 Pain in extremity
+A62	MEDDRA-PT-ID E15 10033425
+A63	CUI E16 C0011570
+A64	UMLS-Preferred-Name E16 Mental Depression
+A65	MEDDRA-PT E16 Depression
+A66	MEDDRA-PT-ID E16 10012378
+A67	CUI E17 C0149931
+A68	UMLS-Preferred-Name E17 Migraine Disorders
+A69	MEDDRA-PT E17 Migraine
+A70	MEDDRA-PT-ID E17 10027599
+A71	CUI E18 C0031350
+A72	UMLS-Preferred-Name E18 Pharyngitis
+A73	MEDDRA-PT E18 Pharyngitis
+A74	MEDDRA-PT-ID E18 10034835
+A75	CUI E19 C3714514
+A76	UMLS-Preferred-Name E19 Infection
+A77	MEDDRA-PT E19 Infection
+A78	MEDDRA-PT-ID E19 10021789
+A79	CUI E21 C0027497
+A80	UMLS-Preferred-Name E21 Nausea
+A81	MEDDRA-PT E21 Nausea
+A82	MEDDRA-PT-ID E21 10028813
+A83	CUI E22 C0011991
+A84	UMLS-Preferred-Name E22 Diarrhea
+A85	MEDDRA-PT E22 Diarrhoea
+A86	MEDDRA-PT-ID E22 10012735
+A87	LLT E22 Diarrhea
+A88	LLT-ID E22 10012727
+A89	CUI E23 C0015967
+A90	UMLS-Preferred-Name E23 Fever
+A91	MEDDRA-PT E23 Pyrexia
+A92	MEDDRA-PT-ID E23 10037660
+A93	CUI E24 C0027441
+A94	UMLS-Preferred-Name E24 Nasopharyngitis
+A95	MEDDRA-PT E24 Nasopharyngitis
+A96	MEDDRA-PT-ID E24 10028810
+A97	CUI E25 C0006277
+A98	UMLS-Preferred-Name E25 Bronchitis
+A99	MEDDRA-PT E25 Bronchitis
+A100	MEDDRA-PT-ID E25 10006451
+A101	CUI E26 C0917801
+A102	UMLS-Preferred-Name E26 Sleeplessness
+A103	MEDDRA-PT E26 Insomnia
+A104	MEDDRA-PT-ID E26 10022437
+A105	CUI E27 C0030196
+A106	UMLS-Preferred-Name E27 Pain in limb
+A107	MEDDRA-PT E27 Pain in extremity
+A108	MEDDRA-PT-ID E27 10033425
+A109	CUI E28 C0011570
+A110	UMLS-Preferred-Name E28 Mental Depression
+A111	MEDDRA-PT E28 Depression
+A112	MEDDRA-PT-ID E28 10012378
+A113	CUI E29 C0149931
+A114	UMLS-Preferred-Name E29 Migraine Disorders
+A115	MEDDRA-PT E29 Migraine
+A116	MEDDRA-PT-ID E29 10027599
+A117	CUI E30 C0031350
+A118	UMLS-Preferred-Name E30 Pharyngitis
+A119	MEDDRA-PT E30 Pharyngitis
+A120	MEDDRA-PT-ID E30 10034835
+A121	CUI E31 C0948715
+A122	UMLS-Preferred-Name E31 Infusion related reaction
+A123	MEDDRA-PT E31 Infusion related reaction
+A124	MEDDRA-PT-ID E31 10051792
+A125	CUI E32 C0024143
+A126	UMLS-Preferred-Name E32 Lupus Nephritis
+A127	MEDDRA-PT E32 Lupus nephritis
+A128	MEDDRA-PT-ID E32 10025140
+A129	CUI E33 C3714514
+A130	UMLS-Preferred-Name E33 Infection
+A131	MEDDRA-PT E33 Infection
+A132	MEDDRA-PT-ID E33 10021789
+A133	CUI E34 C0027497
+A134	UMLS-Preferred-Name E34 Nausea
+A135	MEDDRA-PT E34 Nausea
+A136	MEDDRA-PT-ID E34 10028813
+A137	CUI E35 C0011991
+A138	UMLS-Preferred-Name E35 Diarrhea
+A139	MEDDRA-PT E35 Diarrhoea
+A140	MEDDRA-PT-ID E35 10012735
+A141	LLT E35 Diarrhea
+A142	LLT-ID E35 10012727
+A143	CUI E36 C0015967
+A144	UMLS-Preferred-Name E36 Fever
+A145	MEDDRA-PT E36 Pyrexia
+A146	MEDDRA-PT-ID E36 10037660
+A147	CUI E37 C0027441
+A148	UMLS-Preferred-Name E37 Nasopharyngitis
+A149	MEDDRA-PT E37 Nasopharyngitis
+A150	MEDDRA-PT-ID E37 10028810
+A151	CUI E38 C0006277
+A152	UMLS-Preferred-Name E38 Bronchitis
+A153	MEDDRA-PT E38 Bronchitis
+A154	MEDDRA-PT-ID E38 10006451
+A155	CUI E39 C0917801
+A156	UMLS-Preferred-Name E39 Sleeplessness
+A157	MEDDRA-PT E39 Insomnia
+A158	MEDDRA-PT-ID E39 10022437
+A159	CUI E40 C0030196
+A160	UMLS-Preferred-Name E40 Pain in limb
+A161	MEDDRA-PT E40 Pain in extremity
+A162	MEDDRA-PT-ID E40 10033425
+A163	CUI E41 C0011570
+A164	UMLS-Preferred-Name E41 Mental Depression
+A165	MEDDRA-PT E41 Depression
+A166	MEDDRA-PT-ID E41 10012378
+A167	CUI E42 C0149931
+A168	UMLS-Preferred-Name E42 Migraine Disorders
+A169	MEDDRA-PT E42 Migraine
+A170	MEDDRA-PT-ID E42 10027599
+A171	CUI E43 C0031350
+A172	UMLS-Preferred-Name E43 Pharyngitis
+A173	MEDDRA-PT E43 Pharyngitis
+A174	MEDDRA-PT-ID E43 10034835
+A175	CUI E44 C0010692
+A176	UMLS-Preferred-Name E44 Cystitis
+A177	MEDDRA-PT E44 Cystitis
+A178	MEDDRA-PT-ID E44 10011781
+A179	CUI E45 C0023530
+A180	UMLS-Preferred-Name E45 Leukopenia
+A181	MEDDRA-PT E45 Leukopenia
+A182	MEDDRA-PT-ID E45 10024384
+A183	CUI E46 C0152517
+A184	UMLS-Preferred-Name E46 Enteritis due to specified virus
+A185	MEDDRA-PT E46 Gastroenteritis viral
+A186	MEDDRA-PT-ID E46 10017918
+A187	CUI E48 C0948715
+A188	UMLS-Preferred-Name E48 Infusion related reaction
+A189	MEDDRA-PT E48 Infusion related reaction
+A190	MEDDRA-PT-ID E48 10051792
+A191	CUI E50 C0027497
+A192	UMLS-Preferred-Name E50 Nausea
+A193	MEDDRA-PT E50 Nausea
+A194	MEDDRA-PT-ID E50 10028813
+A195	CUI E51 C0234913
+A196	UMLS-Preferred-Name E51 Rash erythematous
+A197	MEDDRA-PT E51 Rash erythematous
+A198	MEDDRA-PT-ID E51 10037855
+A199	LLT E51 Erythematous rash
+A200	LLT-ID E51 10015243
+A201	CUI E52 C0033774
+A202	UMLS-Preferred-Name E52 Pruritus
+A203	MEDDRA-PT E52 Pruritus
+A204	MEDDRA-PT-ID E52 10037087
+A205	CUI E53 C0162285
+A206	UMLS-Preferred-Name E53 Edema of eyelid
+A207	MEDDRA-PT E53 Eyelid oedema
+A208	MEDDRA-PT-ID E53 10015993
+A209	LLT E53 Eyelid edema
+A210	LLT-ID E53 10015985
+A211	CUI E54 C0018681
+A212	UMLS-Preferred-Name E54 Headache
+A213	MEDDRA-PT E54 Headache
+A214	MEDDRA-PT-ID E54 10019211
+A215	CUI E55 C0013404
+A216	UMLS-Preferred-Name E55 Dyspnea
+A217	MEDDRA-PT E55 Dyspnoea
+A218	MEDDRA-PT-ID E55 10013968
+A219	LLT E55 Dyspnea
+A220	LLT-ID E55 10013963
+A221	CUI E56 C0002792
+A222	UMLS-Preferred-Name E56 anaphylaxis
+A223	MEDDRA-PT E56 Anaphylactic reaction
+A224	MEDDRA-PT-ID E56 10002198
+A225	LLT E56 Anaphylaxis
+A226	LLT-ID E56 10002218
+A227	CUI E57 C1306577
+A228	UMLS-Preferred-Name E57 Death (finding)
+A229	MEDDRA-PT E57 Death
+A230	MEDDRA-PT-ID E57 10011906

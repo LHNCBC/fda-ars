@@ -1,0 +1,150 @@
+86,96|C0012634|conditions|dsyn
+426,429|C0279702|RCC|neop
+538,541|C0279702|RCC|neop
+564,574|C3815594|randomized|fndg
+813,825|C0020538|hypertension|dsyn
+813,825|C1963138|hypertension|fndg
+827,857|C3544094|arterial thromboembolic events|patf
+859,887|C1861172|venous thromboembolic events|patf
+859,887|C3160733|venous thromboembolic events|fndg
+859,887|C1997614|venous thromboembolic events|patf
+889,899|C0019080|hemorrhage|patf
+901,916|C0018801|cardiac failure|dsyn
+901,916|C0018802|cardiac failure|dsyn
+918,946|C0151664|gastrointestinal perforation|dsyn
+951,958|C0016169|fistula|anab
+970,989|C0348024|thyroid dysfunction|patf
+991,1018|C1096106|wound healing complications|inpo
+1020,1024|C3280670|RPLS|fndg
+1026,1037|C0033687|proteinuria|fndg
+1026,1037|C1962972|proteinuria|fndg
+1026,1037|C1279888|proteinuria|dsyn
+1067,1085|C0948807|hepatic impairment|dsyn
+1172,1180|C0011991|diarrhea|sosy
+1172,1180|C1963091|diarrhea|fndg
+1182,1194|C0020538|hypertension|dsyn
+1182,1194|C1963138|hypertension|fndg
+1196,1203|C0015672|fatigue|sosy
+1205,1223|C0232462|decreased appetite|sosy
+1225,1231|C0027497|nausea|sosy
+1225,1231|C1963179|nausea|patf
+1233,1242|C1527344|dysphonia|fndg
+1233,1242|C0019825|dysphonia|sosy
+1244,1277|C0549410|palmar-plantar erythrodysesthesia|dsyn
+1279,1288;1290,1298|C0549410|hand-foot syndrome|dsyn
+1279,1288;1290,1298|C0852711|hand-foot syndrome|dsyn
+1300,1306|C0424653|weight|sosy
+1318,1326|C0042963|vomiting|sosy
+1318,1326|C1963281|vomiting|patf
+1328,1336|C0004093|asthenia|sosy
+1342,1354|C0009806|constipation|sosy
+1342,1354|C1963087|constipation|fndg
+1902,1917|C1444662|discontinuation|fndg
+2134,2142|C0011991|diarrhea|sosy
+2134,2142|C1963091|diarrhea|fndg
+2144,2156|C0020538|hypertension|dsyn
+2144,2156|C1963138|hypertension|fndg
+2158,2165|C0015672|fatigue|sosy
+2167,2185|C0232462|decreased appetite|sosy
+2187,2193|C0027497|nausea|sosy
+2187,2193|C1963179|nausea|patf
+2195,2204|C1527344|dysphonia|fndg
+2195,2204|C0019825|dysphonia|sosy
+2206,2239|C0549410|palmar-plantar erythrodysesthesia|dsyn
+2241,2250;2252,2260|C0549410|hand-foot syndrome|dsyn
+2241,2250;2252,2260|C0852711|hand-foot syndrome|dsyn
+2262,2268|C0424653|weight|sosy
+2280,2288|C0042963|vomiting|sosy
+2280,2288|C1963281|vomiting|patf
+2290,2298|C0004093|asthenia|sosy
+2304,2316|C0009806|constipation|sosy
+2304,2316|C1963087|constipation|fndg
+2656,2662|C3244287|Grades|fndg
+2717,2723|C3244287|Grades|fndg
+2731,2736;2739,2740;2847,2855|C1559311|Grade 4 Diarrhea|fndg
+2960,2972|C0020538|Hypertension|dsyn
+2960,2972|C1963138|Hypertension|fndg
+3073,3080|C0015672|Fatigue|sosy
+3186,3204|C0232462|Decreased appetite|sosy
+3299,3305|C0027497|Nausea|sosy
+3299,3305|C1963179|Nausea|patf
+3412,3421|C1527344|Dysphonia|fndg
+3412,3421|C0019825|Dysphonia|sosy
+3525,3567|C0549410|Palmar-plantar erythrodysesthesia syndrome|dsyn
+3640,3646|C0424653|Weight|sosy
+3753,3761|C0042963|Vomiting|sosy
+3753,3761|C1963281|Vomiting|patf
+3866,3874|C0004093|Asthenia|sosy
+3979,3991|C0009806|Constipation|sosy
+3979,3991|C1963087|Constipation|fndg
+4092,4106|C0020676|Hypothyroidism|dsyn
+4205,4210|C0010200|Cough|sosy
+4205,4210|C1961131|Cough|fndg
+4318,4338|C0333355|Mucosal inflammation|patf
+4431,4441|C0003862|Arthralgia|sosy
+4544,4554|C0038362|Stomatitis|dsyn
+4657,4664|C0013404|Dyspnea|sosy
+4770,4784|C0000737|Abdominal pain|sosy
+4883,4891|C0018681|Headache|sosy
+4883,4891|C2096315|Headache|fndg
+4996,5013|C0030196|Pain in extremity|sosy
+5109,5113|C0015230|Rash|sosy
+5222,5233|C0033687|Proteinuria|fndg
+5222,5233|C1962972|Proteinuria|fndg
+5222,5233|C1279888|Proteinuria|dsyn
+5335,5344|C0013378|Dysgeusia|fndg
+5448,5456|C0151908|Dry skin|sosy
+5561,5570|C0013395|Dyspepsia|sosy
+5674,5682|C0033774|Pruritus|sosy
+5787,5795|C0002170|Alopecia|dsyn
+5900,5908|C0041834|Erythema|dsyn
+6055,6061|C3244287|grades|fndg
+6131,6140|C0012833|dizziness|sosy
+6131,6140|C0042571|dizziness|sosy
+6131,6140|C1963093|dizziness|fndg
+6147,6167|C0232492|upper abdominal pain|sosy
+6174,6181|C0231528|myalgia|sosy
+6188,6199|C0011175|dehydration|dsyn
+6206,6215|C0014591|epistaxis|patf
+6206,6215|C2228238|epistaxis|fndg
+6222,6228|C0002871|anemia|dsyn
+6235,6246|C0019112|hemorrhoids|dsyn
+6235,6246|C1963134|hemorrhoids|fndg
+6253,6262|C0018965|hematuria|fndg
+6269,6277|C0040264|tinnitus|fndg
+6269,6277|C1963249|tinnitus|fndg
+6307,6318|C0017672|glossodynia|sosy
+6325,6343|C0034065|pulmonary embolism|dsyn
+6350,6367|C0267596|rectal hemorrhage|patf
+6374,6384|C0019079|hemoptysis|sosy
+6391,6411|C0149871|deep vein thrombosis|dsyn
+6391,6411|C0340708|deep vein thrombosis|dsyn
+6418,6430;6441,6451|C0035328|retinal-vein thrombosis|dsyn
+6418,6430;6441,6451|C1527411|retinal-vein thrombosis|dsyn
+6418,6440|C0035328|retinal-vein occlusion|dsyn
+6431,6440|C1110554|occlusion|patf
+6431,6440|C0028778|occlusion|patf
+6441,6451|C0040053|thrombosis|patf
+6441,6451|C2586211|thrombosis|patf
+6458,6470|C0032461|polycythemia|dsyn
+6481,6506|C0917805|transient ischemic attack|dsyn
+6481,6506|C0007787|transient ischemic attack|dsyn
+6740,6762|C4021768|Laboratory Abnormality|fndg
+6837,6843|C3244287|Grades|fndg
+6891,6897|C3244287|Grades|fndg
+6899,6906|C3889290|Grade 3|fndg
+7025,7028|C1266129|ALT|neop
+7212,7222|C1561562|Hemoglobin|fndg
+8031,8043|C0020598|Hypocalcemia|dsyn
+8265,8278|C0020456|Hyperglycemia|dsyn
+8616,8619|C1266129|ALT|neop
+8850,8863|C0020488|Hypernatremia|dsyn
+8967,8982|C0239981|Hypoalbuminemia|dsyn
+9084,9096|C0020461|Hyperkalemia|fndg
+9201,9213|C0020615|Hypoglycemia|dsyn
+9318,9330|C0020625|Hyponatremia|dsyn
+9435,9451|C0085682|Hypophosphatemia|patf
+9435,9451|C0595888|Hypophosphatemia|fndg
+9603,9609|C3244287|grades|fndg
+9679,9689|C1561562|hemoglobin|fndg
+9778,9791|C0020437|hypercalcemia|dsyn

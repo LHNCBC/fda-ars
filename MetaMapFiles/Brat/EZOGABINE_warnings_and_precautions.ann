@@ -1,0 +1,779 @@
+T1	AdverseReaction 54 71	Urinary retention
+T2	AdverseReaction 169 187	skin discoloration
+T3	AdverseReaction 315 340	Neuropsychiatric symptoms
+T4	AdverseReaction 485 500	QT prolongation
+T5	AdverseReaction 802 829	abnormalities of the retina
+T6	AdverseReaction 891 922;937 964	funduscopic features similar to retinal pigment dystrophies
+T7	AdverseReaction 993 1017	damage to photoreceptors
+T8	AdverseReaction 1022 1033	vision loss
+T9	AdverseReaction 1043 1064	retinal abnormalities
+T10	AdverseReaction 1407 1439	retinal pigmentary abnormalities
+T11	AdverseReaction 1512 1533	retinal abnormalities
+T12	AdverseReaction 1606 1610;1647 1660	skin discoloration
+T13	AdverseReaction 1612 1619;1647 1660	scleral discoloration
+T14	AdverseReaction 1621 1625;1647 1660	nail discoloration
+T15	AdverseReaction 1631 1660	mucous membrane discoloration
+T16	AdverseReaction 1722 1743	retinal abnormalities
+T17	AdverseReaction 1694 1707	discoloration
+T18	AdverseReaction 1819 1851	retinal pigmentary abnormalities
+T19	AdverseReaction 1864 1877	discoloration
+T20	Negation 1856 1858	no
+T21	AdverseReaction 1883 1908	Funduscopic abnormalities
+T22	AdverseReaction 1946 1971;1995 2019	perivascular pigmentation in the retinal periphery
+T23	AdverseReaction 1946 1971;1973 1993;1995 2019	perivascular pigmentation bone spicule pattern in the retinal periphery
+T24	AdverseReaction 2039 2080	focal retinal pigment epithelium clumping
+T25	AdverseReaction 2117 2138	retinal abnormalities
+T26	AdverseReaction 2163 2185	abnormal visual acuity
+T27	AdverseReaction 2244 2267	decreased visual acuity
+T28	Factor 2216 2223	whether
+T29	AdverseReaction 2349 2370	retinal abnormalities
+T30	AdverseReaction 2483 2500	retinal dystrophy
+T31	AdverseReaction 2512 2550	abnormalities in the electroretinogram
+T32	AdverseReaction 2512 2528;2555 2571	abnormalities in electrooculogram
+T33	AdverseReaction 2595 2627	abnormal fluorescein angiography
+T34	AdverseReaction 2632 2670	diminished sensitivity on visual field
+T35	AdverseReaction 2726 2747	retinal abnormalities
+T36	Factor 2814 2821	Because
+T37	Factor 3986 3990	loss
+T38	AdverseReaction 4040 4057	urinary retention
+T39	AdverseReaction 4078 4095	Urinary retention
+T40	AdverseReaction 4188 4205	Urinary retention
+T41	AdverseReaction 4792 4806	Hydronephrosis
+T42	AdverseReaction 4858 4883	renal function impairment
+T43	AdverseReaction 4930 4944	Hydronephrosis
+T44	AdverseReaction 5031 5048	urinary retention
+T45	AdverseReaction 5052 5070	urinary hesitation
+T46	AdverseReaction 5078 5085	dysuria
+T47	Factor 5232 5239	Because
+T48	Factor 5789 5800	appropriate
+T49	AdverseReaction 5854 5872	skin discoloration
+T50	AdverseReaction 5878 5896	skin discoloration
+T51	AdverseReaction 6143 6170	Discoloration of the palate
+T52	AdverseReaction 6143 6163;6172 6178	Discoloration of the sclera
+T53	AdverseReaction 6143 6163;6184 6195	Discoloration of the conjunctiva
+T54	AdverseReaction 6293 6311	skin discoloration
+T55	AdverseReaction 6457 6461;6487 6500	nail discoloration
+T56	AdverseReaction 6451 6455;6487 6500	skin discoloration
+T57	AdverseReaction 6471 6500	mucous membrane discoloration
+T58	AdverseReaction 6463 6466;6487 6500	lip discoloration
+T59	AdverseReaction 6505 6537	retinal pigmentary abnormalities
+T60	AdverseReaction 6590 6594;6626 6639	skin discoloration
+T61	AdverseReaction 6596 6600;6626 6639	nail discoloration
+T62	AdverseReaction 6602 6605;6626 6639	lip discoloration
+T63	AdverseReaction 6610 6639	mucous membrane discoloration
+T64	AdverseReaction 6655 6687	retinal pigmentary abnormalities
+T65	AdverseReaction 6822 6840	skin abnormalities
+T66	AdverseReaction 7101 7118	Confusional state
+T67	AdverseReaction 7120 7138	psychotic symptoms
+T68	AdverseReaction 7144 7158	hallucinations
+T69	AdverseReaction 7607 7621	hallucinations
+T70	AdverseReaction 7625 7634	psychosis
+T71	AdverseReaction 7703 7712	psychosis
+T72	AdverseReaction 7772 7792	psychiatric symptoms
+T73	AdverseReaction 8007 8016	psychosis
+T74	AdverseReaction 8021 8035	hallucinations
+T75	AdverseReaction 8057 8082	Neuropsychiatric Symptoms
+T76	AdverseReaction 8308 8325	Confusional state
+T77	AdverseReaction 8408 8417	Psychosis
+T78	AdverseReaction 8508 8522	Hallucinations
+T79	AdverseReaction 8622 8636	Hallucinations
+T80	AdverseReaction 8646 8652;8674 8688	visual hallucinations
+T81	AdverseReaction 8654 8662;8674 8688	auditory hallucinations
+T82	AdverseReaction 8668 8688	mixed hallucinations
+T83	AdverseReaction 8771 8780	dizziness
+T84	AdverseReaction 8785 8795	somnolence
+T85	AdverseReaction 8885 8894	dizziness
+T86	AdverseReaction 8988 8998	Somnolence
+T87	AdverseReaction 9188 9197	dizziness
+T88	AdverseReaction 9269 9279	somnolence
+T89	AdverseReaction 9433 9442	dizziness
+T90	AdverseReaction 9447 9457	somnolence
+T91	AdverseReaction 9608 9623	QT prolongation
+T92	Severity 9599 9607	7.7-msec
+T93	AdverseReaction 9684 9697	QT-prolonging
+T94	AdverseReaction 10121 10138	suicidal thoughts
+T95	AdverseReaction 10121 10129;10142 10150	suicidal behavior
+T96	AdverseReaction 10666 10683	suicidal thinking
+T97	AdverseReaction 10666 10674;10687 10695	suicidal behavior
+T98	AdverseReaction 10837 10854	suicidal behavior
+T99	AdverseReaction 10837 10845;10858 10866	suicidal ideation
+T100	AdverseReaction 11022 11039	suicidal thinking
+T101	AdverseReaction 11022 11030;11043 11051	suicidal behavior
+T102	AdverseReaction 11097 11105	suicides
+T103	AdverseReaction 11256 11263	suicide
+T104	Factor 11191 11210	number is too small
+T105	AdverseReaction 11291 11308	suicidal thoughts
+T106	AdverseReaction 11291 11299;11312 11320	suicidal behavior
+T107	DrugClass 11326 11330	AEDs
+T111	AdverseReaction 11626 11643	suicidal thoughts
+T112	AdverseReaction 11626 11634;11647 11655	suicidal behavior
+T113	Factor 11618 11622	risk
+T114	AdverseReaction 12086 12103	Suicidal Thoughts
+T115	AdverseReaction 12086 12094;12107 12116	Suicidal Behaviors
+T116	Factor 12078 12082	Risk
+T117	AdverseReaction 12952 12969	suicidal thoughts
+T118	AdverseReaction 12952 12960;12973 12981	suicidal behavior
+T119	Factor 12943 12947	risk
+T120	Factor 159 162	can
+T121	Factor 792 795	can
+T122	Negation 4949 4952	not
+T123	Factor 4965 4972	placebo
+T124	Factor 5844 5847	can
+T125	Factor 7999 8003	risk
+T126	Factor 10113 10117	risk
+T127	Factor 10589 10593	risk
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Hypothetical:E120
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E121
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19 Negated:E20
+E20	Negation:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27 Hypothetical:E28
+E28	Factor:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	Factor:T36
+E37	Factor:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43 Negated:E122 Negated2:E123
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	Factor:T47
+E48	Factor:T48
+E49	AdverseReaction:T49 Hypothetical:E124
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73 Hypothetical:E125
+E74	AdverseReaction:T74 Hypothetical:E125
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91 Effect:E92
+E92	Severity:T92
+E93	AdverseReaction:T93
+E94	AdverseReaction:T94 Hypothetical:E126
+E95	AdverseReaction:T95 Hypothetical:E126
+E96	AdverseReaction:T96 Hypothetical:E127
+E97	AdverseReaction:T97 Hypothetical:E127
+E98	AdverseReaction:T98
+E99	AdverseReaction:T99
+E100	AdverseReaction:T100
+E101	AdverseReaction:T101
+E102	AdverseReaction:T102
+E103	AdverseReaction:T103 Negated:E104
+E104	Factor:T104
+E105	AdverseReaction:T105 Hypothetical:E107
+E106	AdverseReaction:T106 Hypothetical:E107
+E107	DrugClass:T107
+E111	AdverseReaction:T111 Hypothetical:E113
+E112	AdverseReaction:T112 Hypothetical:E113
+E113	Factor:T113
+E114	AdverseReaction:T114 Hypothetical:E116
+E115	AdverseReaction:T115 Hypothetical:E116
+E116	Factor:T116
+E117	AdverseReaction:T117 Hypothetical:E119
+E118	AdverseReaction:T118 Hypothetical:E119
+E119	Factor:T119
+E120	Factor:T120
+E121	Factor:T121
+E122	Negation:T122
+E123	Factor:T123
+E124	Factor:T124
+E125	Factor:T125
+E126	Factor:T126
+E127	Factor:T127
+A1	CUI E1 C0080274
+A2	UMLS-Preferred-Name E1 Urinary Retention
+A3	MEDDRA-PT E1 Urinary retention
+A4	MEDDRA-PT-ID E1 10046555
+A5	CUI E2 C0151907
+A6	UMLS-Preferred-Name E2 Discoloration of skin
+A7	MEDDRA-PT E2 Skin discolouration
+A8	MEDDRA-PT-ID E2 10040829
+A9	LLT E2 Skin discoloration
+A10	LLT-ID E2 10040828
+A11	flag E3 unmapped
+A12	CUI E3 C3534763
+A13	UMLS-Preferred-Name E3 One or more neuropsychiatric symptoms
+A14	CUI E4 C0151878
+A15	UMLS-Preferred-Name E4 Prolonged QT interval
+A16	MEDDRA-PT E4 Electrocardiogram QT prolonged
+A17	MEDDRA-PT-ID E4 10014387
+A18	LLT E4 QT prolonged
+A19	LLT-ID E4 10037705
+A20	CUI E5 C0035300
+A21	UMLS-Preferred-Name E5 Abnormality of the retina
+A22	MEDDRA-PT E5 Retinal disorder
+A23	MEDDRA-PT-ID E5 10038853
+A24	LLT E5 Unspecified retinal disorder
+A25	LLT-ID E5 10046146
+A26	CUI E6 C0854723
+A27	UMLS-Preferred-Name E6 Retinal Dystrophies
+A28	MEDDRA-PT E6 Retinal dystrophy
+A29	MEDDRA-PT-ID E6 10038857
+A30	LLT E6 Pigmentary retinal dystrophy
+A31	LLT-ID E6 10035017
+A32	CUI E7 C0235272
+A33	UMLS-Preferred-Name E7 Retinal damage
+A34	MEDDRA-PT E7 Retinal injury
+A35	MEDDRA-PT-ID E7 10057430
+A36	LLT E7 Retinal damage
+A37	LLT-ID E7 10038841
+A38	CUI E8 C3665386
+A39	UMLS-Preferred-Name E8 Abnormal vision
+A40	MEDDRA-PT E8 Blindness
+A41	MEDDRA-PT-ID E8 10005169
+A42	LLT E8 Vision loss
+A43	LLT-ID E8 10047522
+A44	CUI E9 C0035300
+A45	UMLS-Preferred-Name E9 Abnormality of the retina
+A46	MEDDRA-PT E9 Retinal disorder
+A47	MEDDRA-PT-ID E9 10038853
+A48	CUI E10 C0151891
+A49	UMLS-Preferred-Name E10 Retinal depigmentation
+A50	MEDDRA-PT E10 Retinal degeneration
+A51	MEDDRA-PT-ID E10 10038845
+A52	LLT E10 Retinal pigment degeneration
+A53	LLT-ID E10 10038892
+A54	CUI E11 C0035300
+A55	UMLS-Preferred-Name E11 Abnormality of the retina
+A56	MEDDRA-PT E11 Retinal disorder
+A57	MEDDRA-PT-ID E11 10038853
+A58	CUI E12 C0151907
+A59	UMLS-Preferred-Name E12 Discoloration of skin
+A60	MEDDRA-PT E12 Skin discolouration
+A61	MEDDRA-PT-ID E12 10040829
+A62	LLT E12 Skin discoloration
+A63	LLT-ID E12 10040828
+A64	CUI E13 C0235980
+A65	UMLS-Preferred-Name E13 Scleral discoloration
+A66	MEDDRA-PT E13 Scleral discolouration
+A67	MEDDRA-PT-ID E13 10039696
+A68	LLT E13 Scleral discoloration
+A69	LLT-ID E13 10055535
+A70	CUI E14 C0221345
+A71	UMLS-Preferred-Name E14 Nail discoloration
+A72	MEDDRA-PT E14 Nail discolouration
+A73	MEDDRA-PT-ID E14 10028692
+A74	LLT E14 Nail discoloration
+A75	LLT-ID E14 10028691
+A76	CUI E15 C1096311
+A77	UMLS-Preferred-Name E15 Mucosal discolouration
+A78	MEDDRA-PT E15 Mucosal discolouration
+A79	MEDDRA-PT-ID E15 10054877
+A80	LLT E15 Mucosal discoloration
+A81	LLT-ID E15 10054905
+A82	CUI E16 C0035300
+A83	UMLS-Preferred-Name E16 Abnormality of the retina
+A84	MEDDRA-PT E16 Retinal disorder
+A85	MEDDRA-PT-ID E16 10038853
+A86	flag E17 unmapped
+A87	CUI E17 C0332572
+A88	UMLS-Preferred-Name E17 Abnormal color
+A89	CUI E18 C0151891
+A90	UMLS-Preferred-Name E18 Retinal depigmentation
+A91	MEDDRA-PT E18 Retinal degeneration
+A92	MEDDRA-PT-ID E18 10038845
+A93	LLT E18 Retinal pigment degeneration
+A94	LLT-ID E18 10038892
+A95	flag E19 unmapped
+A96	CUI E19 C0332572
+A97	UMLS-Preferred-Name E19 Abnormal color
+A98	flag E21 unmapped
+A99	CUI E21 C0744229
+A100	UMLS-Preferred-Name E21 FUNDUSCOPIC EXAM ABNORMAL
+A101	flag E22 underspecified
+A102	CUI E22 C3552986
+A103	UMLS-Preferred-Name E22 Pigmentation in retinal periphery
+A104	MEDDRA-PT E22 Retinal pigmentation
+A105	MEDDRA-PT-ID E22 10038894
+A106	LLT E22 Pigmentation retinal
+A107	LLT-ID E22 10035027
+A108	flag E23 underspecified
+A109	CUI E23 C3552986
+A110	UMLS-Preferred-Name E23 Pigmentation in retinal periphery
+A111	MEDDRA-PT E23 Retinal pigmentation
+A112	MEDDRA-PT-ID E23 10038894
+A113	LLT E23 Pigmentation retinal
+A114	LLT-ID E23 10035027
+A115	CUI E24 C1328514
+A116	UMLS-Preferred-Name E24 Pigmentary retinal deposits
+A117	MEDDRA-PT E24 Retinal degeneration
+A118	MEDDRA-PT-ID E24 10038845
+A119	LLT E24 Retinal pigment clumping
+A120	LLT-ID E24 10062964
+A121	CUI E25 C0035300
+A122	UMLS-Preferred-Name E25 Abnormality of the retina
+A123	MEDDRA-PT E25 Retinal disorder
+A124	MEDDRA-PT-ID E25 10038853
+A125	CUI E26 C0234632
+A126	UMLS-Preferred-Name E26 Reduced visual acuity
+A127	MEDDRA-PT E26 Visual acuity reduced
+A128	MEDDRA-PT-ID E26 10047531
+A129	CUI E27 C0234632
+A130	UMLS-Preferred-Name E27 Reduced visual acuity
+A131	MEDDRA-PT E27 Visual acuity reduced
+A132	MEDDRA-PT-ID E27 10047531
+A133	LLT E27 Visual acuity decreased
+A134	LLT-ID E27 10049061
+A135	CUI E29 C0035300
+A136	UMLS-Preferred-Name E29 Abnormality of the retina
+A137	MEDDRA-PT E29 Retinal disorder
+A138	MEDDRA-PT-ID E29 10038853
+A139	CUI E30 C0854723
+A140	UMLS-Preferred-Name E30 Retinal Dystrophies
+A141	MEDDRA-PT E30 Retinal dystrophy
+A142	MEDDRA-PT-ID E30 10038857
+A143	CUI E31 C0476397
+A144	UMLS-Preferred-Name E31 Electroretinogram abnormal
+A145	MEDDRA-PT E31 Retinogram abnormal
+A146	MEDDRA-PT-ID E31 10059663
+A147	LLT E31 Electroretinogram abnormal
+A148	LLT-ID E31 10052533
+A149	CUI E32 C0159104
+A150	UMLS-Preferred-Name E32 Electrooculogram abnormal
+A151	MEDDRA-PT E32 Electrooculogram abnormal
+A152	MEDDRA-PT-ID E32 10014456
+A153	CUI E33 C0861125
+A154	UMLS-Preferred-Name E33 Fluorescein angiography abnormal
+A155	MEDDRA-PT E33 Angiogram abnormal
+A156	MEDDRA-PT-ID E33 10060956
+A157	LLT E33 Fluorescein angiography abnormal
+A158	LLT-ID E33 10016813
+A159	CUI E34 C3887875
+A160	UMLS-Preferred-Name E34 Visual field defects
+A161	MEDDRA-PT E34 Visual field defect
+A162	MEDDRA-PT-ID E34 10047555
+A163	CUI E35 C0035300
+A164	UMLS-Preferred-Name E35 Abnormality of the retina
+A165	MEDDRA-PT E35 Retinal disorder
+A166	MEDDRA-PT-ID E35 10038853
+A167	CUI E38 C0080274
+A168	UMLS-Preferred-Name E38 Urinary Retention
+A169	MEDDRA-PT E38 Urinary retention
+A170	MEDDRA-PT-ID E38 10046555
+A171	CUI E39 C0080274
+A172	UMLS-Preferred-Name E39 Urinary Retention
+A173	MEDDRA-PT E39 Urinary retention
+A174	MEDDRA-PT-ID E39 10046555
+A175	CUI E40 C0080274
+A176	UMLS-Preferred-Name E40 Urinary Retention
+A177	MEDDRA-PT E40 Urinary retention
+A178	MEDDRA-PT-ID E40 10046555
+A179	CUI E41 C0020295
+A180	UMLS-Preferred-Name E41 Hydronephrosis
+A181	MEDDRA-PT E41 Hydronephrosis
+A182	MEDDRA-PT-ID E41 10020524
+A183	CUI E42 C1565489
+A184	UMLS-Preferred-Name E42 Renal Insufficiency
+A185	MEDDRA-PT E42 Renal impairment
+A186	MEDDRA-PT-ID E42 10062237
+A187	LLT E42 Impaired renal function
+A188	LLT-ID E42 10021523
+A189	CUI E43 C0020295
+A190	UMLS-Preferred-Name E43 Hydronephrosis
+A191	MEDDRA-PT E43 Hydronephrosis
+A192	MEDDRA-PT-ID E43 10020524
+A193	CUI E44 C0080274
+A194	UMLS-Preferred-Name E44 Urinary Retention
+A195	MEDDRA-PT E44 Urinary retention
+A196	MEDDRA-PT-ID E44 10046555
+A197	CUI E45 C0152032
+A198	UMLS-Preferred-Name E45 Urinary hesitation
+A199	MEDDRA-PT E45 Urinary hesitation
+A200	MEDDRA-PT-ID E45 10046542
+A201	CUI E46 C0013428
+A202	UMLS-Preferred-Name E46 Dysuria
+A203	MEDDRA-PT E46 Dysuria
+A204	MEDDRA-PT-ID E46 10013990
+A205	CUI E49 C0151907
+A206	UMLS-Preferred-Name E49 Discoloration of skin
+A207	MEDDRA-PT E49 Skin discolouration
+A208	MEDDRA-PT-ID E49 10040829
+A209	LLT E49 Skin discoloration
+A210	LLT-ID E49 10040828
+A211	CUI E50 C0151907
+A212	UMLS-Preferred-Name E50 Discoloration of skin
+A213	MEDDRA-PT E50 Skin discolouration
+A214	MEDDRA-PT-ID E50 10040829
+A215	LLT E50 Skin discoloration
+A216	LLT-ID E50 10040828
+A217	CUI E51 C0853939
+A218	UMLS-Preferred-Name E51 Oral mucosal discolouration
+A219	MEDDRA-PT E51 Oral mucosal discolouration
+A220	MEDDRA-PT-ID E51 10030996
+A221	LLT E51 Oral mucosal discoloration
+A222	LLT-ID E51 10066247
+A223	CUI E52 C0235980
+A224	UMLS-Preferred-Name E52 Scleral discoloration
+A225	MEDDRA-PT E52 Scleral discolouration
+A226	MEDDRA-PT-ID E52 10039696
+A227	LLT E52 Scleral discoloration
+A228	LLT-ID E52 10055535
+A229	CUI E53 C0235979
+A230	UMLS-Preferred-Name E53 Conjunctival discoloration
+A231	MEDDRA-PT E53 Conjunctival discolouration
+A232	MEDDRA-PT-ID E53 10010712
+A233	LLT E53 Conjunctival discoloration
+A234	LLT-ID E53 10010711
+A235	CUI E54 C0151907
+A236	UMLS-Preferred-Name E54 Discoloration of skin
+A237	MEDDRA-PT E54 Skin discolouration
+A238	MEDDRA-PT-ID E54 10040829
+A239	LLT E54 Skin discoloration
+A240	LLT-ID E54 10040828
+A241	CUI E55 C0221345
+A242	UMLS-Preferred-Name E55 Nail discoloration
+A243	MEDDRA-PT E55 Nail discolouration
+A244	MEDDRA-PT-ID E55 10028692
+A245	LLT E55 Nail discoloration
+A246	LLT-ID E55 10028691
+A247	CUI E56 C0151907
+A248	UMLS-Preferred-Name E56 Discoloration of skin
+A249	MEDDRA-PT E56 Skin discolouration
+A250	MEDDRA-PT-ID E56 10040829
+A251	LLT E56 Skin discoloration
+A252	LLT-ID E56 10040828
+A253	CUI E57 C1096311
+A254	UMLS-Preferred-Name E57 Mucosal discolouration
+A255	MEDDRA-PT E57 Mucosal discolouration
+A256	MEDDRA-PT-ID E57 10054877
+A257	LLT E57 Mucosal discoloration
+A258	LLT-ID E57 10054905
+A259	CUI E58 C0854373
+A260	UMLS-Preferred-Name E58 Lip discolouration
+A261	MEDDRA-PT E58 Lip discolouration
+A262	MEDDRA-PT-ID E58 10024549
+A263	LLT E58 Lip discoloration
+A264	LLT-ID E58 10055532
+A265	CUI E59 C0151891
+A266	UMLS-Preferred-Name E59 Retinal depigmentation
+A267	MEDDRA-PT E59 Retinal degeneration
+A268	MEDDRA-PT-ID E59 10038845
+A269	LLT E59 Retinal pigment degeneration
+A270	LLT-ID E59 10038892
+A271	CUI E60 C0151907
+A272	UMLS-Preferred-Name E60 Discoloration of skin
+A273	MEDDRA-PT E60 Skin discolouration
+A274	MEDDRA-PT-ID E60 10040829
+A275	LLT E60 Skin discoloration
+A276	LLT-ID E60 10040828
+A277	CUI E61 C0221345
+A278	UMLS-Preferred-Name E61 Nail discoloration
+A279	MEDDRA-PT E61 Nail discolouration
+A280	MEDDRA-PT-ID E61 10028692
+A281	LLT E61 Nail discoloration
+A282	LLT-ID E61 10028691
+A283	CUI E62 C0854373
+A284	UMLS-Preferred-Name E62 Lip discolouration
+A285	MEDDRA-PT E62 Lip discolouration
+A286	MEDDRA-PT-ID E62 10024549
+A287	LLT E62 Lip discoloration
+A288	LLT-ID E62 10055532
+A289	CUI E63 C1096311
+A290	UMLS-Preferred-Name E63 Mucosal discolouration
+A291	MEDDRA-PT E63 Mucosal discolouration
+A292	MEDDRA-PT-ID E63 10054877
+A293	LLT E63 Mucosal discoloration
+A294	LLT-ID E63 10054905
+A295	CUI E64 C0151891
+A296	UMLS-Preferred-Name E64 Retinal depigmentation
+A297	MEDDRA-PT E64 Retinal degeneration
+A298	MEDDRA-PT-ID E64 10038845
+A299	LLT E64 Retinal pigment degeneration
+A300	LLT-ID E64 10038892
+A301	CUI E65 C0037268
+A302	UMLS-Preferred-Name E65 Skin Abnormalities
+A303	MEDDRA-PT E65 Skin texture abnormal
+A304	MEDDRA-PT-ID E65 10075267
+A305	CUI E66 C0009676
+A306	UMLS-Preferred-Name E66 Confusion
+A307	MEDDRA-PT E66 Confusional state
+A308	MEDDRA-PT-ID E66 10010305
+A309	CUI E67 C0871189
+A310	UMLS-Preferred-Name E67 Psychotic symptom
+A311	MEDDRA-PT E67 Psychotic behaviour
+A312	MEDDRA-PT-ID E67 10037249
+A313	LLT E67 Psychotic behavior
+A314	LLT-ID E67 10067568
+A315	CUI E68 C0018524
+A316	UMLS-Preferred-Name E68 Hallucinations
+A317	MEDDRA-PT E68 Hallucination
+A318	MEDDRA-PT-ID E68 10019063
+A319	LLT E68 Hallucinations
+A320	LLT-ID E68 10019077
+A321	CUI E69 C0018524
+A322	UMLS-Preferred-Name E69 Hallucinations
+A323	MEDDRA-PT E69 Hallucination
+A324	MEDDRA-PT-ID E69 10019063
+A325	LLT E69 Hallucinations
+A326	LLT-ID E69 10019077
+A327	CUI E70 C0033975
+A328	UMLS-Preferred-Name E70 Psychotic Disorders
+A329	MEDDRA-PT E70 Psychotic disorder
+A330	MEDDRA-PT-ID E70 10061920
+A331	LLT E70 Psychosis
+A332	LLT-ID E70 10037234
+A333	CUI E71 C0033975
+A334	UMLS-Preferred-Name E71 Psychotic Disorders
+A335	MEDDRA-PT E71 Psychotic disorder
+A336	MEDDRA-PT-ID E71 10061920
+A337	LLT E71 Psychosis
+A338	LLT-ID E71 10037234
+A339	CUI E72 C0233401
+A340	UMLS-Preferred-Name E72 Psychiatric symptom
+A341	MEDDRA-PT E72 Psychiatric symptom
+A342	MEDDRA-PT-ID E72 10061472
+A343	CUI E73 C0033975
+A344	UMLS-Preferred-Name E73 Psychotic Disorders
+A345	MEDDRA-PT E73 Psychotic disorder
+A346	MEDDRA-PT-ID E73 10061920
+A347	LLT E73 Psychosis
+A348	LLT-ID E73 10037234
+A349	CUI E74 C0018524
+A350	UMLS-Preferred-Name E74 Hallucinations
+A351	MEDDRA-PT E74 Hallucination
+A352	MEDDRA-PT-ID E74 10019063
+A353	LLT E74 Hallucinations
+A354	LLT-ID E74 10019077
+A355	flag E75 unmapped
+A356	CUI E75 C3534763
+A357	UMLS-Preferred-Name E75 One or more neuropsychiatric symptoms
+A358	CUI E76 C0009676
+A359	UMLS-Preferred-Name E76 Confusion
+A360	MEDDRA-PT E76 Confusional state
+A361	MEDDRA-PT-ID E76 10010305
+A362	CUI E77 C0033975
+A363	UMLS-Preferred-Name E77 Psychotic Disorders
+A364	MEDDRA-PT E77 Psychotic disorder
+A365	MEDDRA-PT-ID E77 10061920
+A366	LLT E77 Psychosis
+A367	LLT-ID E77 10037234
+A368	CUI E78 C0018524
+A369	UMLS-Preferred-Name E78 Hallucinations
+A370	MEDDRA-PT E78 Hallucination
+A371	MEDDRA-PT-ID E78 10019063
+A372	LLT E78 Hallucinations
+A373	LLT-ID E78 10019077
+A374	CUI E79 C0018524
+A375	UMLS-Preferred-Name E79 Hallucinations
+A376	MEDDRA-PT E79 Hallucination
+A377	MEDDRA-PT-ID E79 10019063
+A378	LLT E79 Hallucinations
+A379	LLT-ID E79 10019077
+A380	CUI E80 C0233763
+A381	UMLS-Preferred-Name E80 Hallucinations, Visual
+A382	MEDDRA-PT E80 Hallucination, visual
+A383	MEDDRA-PT-ID E80 10019075
+A384	LLT E80 Visual hallucinations
+A385	LLT-ID E80 10047570
+A386	CUI E81 C0233762
+A387	UMLS-Preferred-Name E81 Hallucinations, Auditory
+A388	MEDDRA-PT E81 Hallucination, auditory
+A389	MEDDRA-PT-ID E81 10019070
+A390	LLT E81 Auditory hallucinations
+A391	LLT-ID E81 10003785
+A392	CUI E82 C0855223
+A393	UMLS-Preferred-Name E82 Hallucinations, mixed
+A394	MEDDRA-PT E82 Hallucinations, mixed
+A395	MEDDRA-PT-ID E82 10019079
+A396	CUI E83 C0012833
+A397	UMLS-Preferred-Name E83 Dizziness
+A398	MEDDRA-PT E83 Dizziness
+A399	MEDDRA-PT-ID E83 10013573
+A400	CUI E84 C2830004
+A401	UMLS-Preferred-Name E84 Somnolence
+A402	MEDDRA-PT E84 Somnolence
+A403	MEDDRA-PT-ID E84 10041349
+A404	CUI E85 C0012833
+A405	UMLS-Preferred-Name E85 Dizziness
+A406	MEDDRA-PT E85 Dizziness
+A407	MEDDRA-PT-ID E85 10013573
+A408	CUI E86 C2830004
+A409	UMLS-Preferred-Name E86 Somnolence
+A410	MEDDRA-PT E86 Somnolence
+A411	MEDDRA-PT-ID E86 10041349
+A412	CUI E87 C0012833
+A413	UMLS-Preferred-Name E87 Dizziness
+A414	MEDDRA-PT E87 Dizziness
+A415	MEDDRA-PT-ID E87 10013573
+A416	CUI E88 C2830004
+A417	UMLS-Preferred-Name E88 Somnolence
+A418	MEDDRA-PT E88 Somnolence
+A419	MEDDRA-PT-ID E88 10041349
+A420	CUI E89 C0012833
+A421	UMLS-Preferred-Name E89 Dizziness
+A422	MEDDRA-PT E89 Dizziness
+A423	MEDDRA-PT-ID E89 10013573
+A424	CUI E90 C2830004
+A425	UMLS-Preferred-Name E90 Somnolence
+A426	MEDDRA-PT E90 Somnolence
+A427	MEDDRA-PT-ID E90 10041349
+A428	CUI E91 C0151878
+A429	UMLS-Preferred-Name E91 Prolonged QT interval
+A430	MEDDRA-PT E91 Electrocardiogram QT prolonged
+A431	MEDDRA-PT-ID E91 10014387
+A432	LLT E91 QT prolonged
+A433	LLT-ID E91 10037705
+A434	CUI E93 C0151878
+A435	UMLS-Preferred-Name E93 Prolonged QT interval
+A436	MEDDRA-PT E93 Electrocardiogram QT prolonged
+A437	MEDDRA-PT-ID E93 10014387
+A438	LLT E93 QT prolonged
+A439	LLT-ID E93 10037705
+A440	CUI E94 C0424000
+A441	UMLS-Preferred-Name E94 Feeling suicidal (finding)
+A442	MEDDRA-PT E94 Suicidal ideation
+A443	MEDDRA-PT-ID E94 10042458
+A444	CUI E95 C1760428
+A445	UMLS-Preferred-Name E95 Suicidal behavior
+A446	MEDDRA-PT E95 Suicidal behaviour
+A447	MEDDRA-PT-ID E95 10065604
+A448	LLT E95 Suicidal behavior
+A449	LLT-ID E95 10065607
+A450	CUI E96 C0424000
+A451	UMLS-Preferred-Name E96 Feeling suicidal (finding)
+A452	MEDDRA-PT E96 Suicidal ideation
+A453	MEDDRA-PT-ID E96 10042458
+A454	CUI E97 C1760428
+A455	UMLS-Preferred-Name E97 Suicidal behavior
+A456	MEDDRA-PT E97 Suicidal behaviour
+A457	MEDDRA-PT-ID E97 10065604
+A458	LLT E97 Suicidal behavior
+A459	LLT-ID E97 10065607
+A460	CUI E98 C1760428
+A461	UMLS-Preferred-Name E98 Suicidal behavior
+A462	MEDDRA-PT E98 Suicidal behaviour
+A463	MEDDRA-PT-ID E98 10065604
+A464	LLT E98 Suicidal behavior
+A465	LLT-ID E98 10065607
+A466	CUI E99 C0424000
+A467	UMLS-Preferred-Name E99 Feeling suicidal (finding)
+A468	MEDDRA-PT E99 Suicidal ideation
+A469	MEDDRA-PT-ID E99 10042458
+A470	CUI E100 C0424000
+A471	UMLS-Preferred-Name E100 Feeling suicidal (finding)
+A472	MEDDRA-PT E100 Suicidal ideation
+A473	MEDDRA-PT-ID E100 10042458
+A474	CUI E101 C1760428
+A475	UMLS-Preferred-Name E101 Suicidal behavior
+A476	MEDDRA-PT E101 Suicidal behaviour
+A477	MEDDRA-PT-ID E101 10065604
+A478	LLT E101 Suicidal behavior
+A479	LLT-ID E101 10065607
+A480	CUI E102 C0038661
+A481	UMLS-Preferred-Name E102 Suicide
+A482	MEDDRA-PT E102 Completed suicide
+A483	MEDDRA-PT-ID E102 10010144
+A484	LLT E102 Suicide
+A485	LLT-ID E102 10042462
+A486	CUI E103 C0038661
+A487	UMLS-Preferred-Name E103 Suicide
+A488	MEDDRA-PT E103 Completed suicide
+A489	MEDDRA-PT-ID E103 10010144
+A490	LLT E103 Suicide
+A491	LLT-ID E103 10042462
+A492	CUI E105 C0424000
+A493	UMLS-Preferred-Name E105 Feeling suicidal (finding)
+A494	MEDDRA-PT E105 Suicidal ideation
+A495	MEDDRA-PT-ID E105 10042458
+A496	CUI E106 C1760428
+A497	UMLS-Preferred-Name E106 Suicidal behavior
+A498	MEDDRA-PT E106 Suicidal behaviour
+A499	MEDDRA-PT-ID E106 10065604
+A500	LLT E106 Suicidal behavior
+A501	LLT-ID E106 10065607
+A502	CUI E111 C0424000
+A503	UMLS-Preferred-Name E111 Feeling suicidal (finding)
+A504	MEDDRA-PT E111 Suicidal ideation
+A505	MEDDRA-PT-ID E111 10042458
+A506	CUI E112 C1760428
+A507	UMLS-Preferred-Name E112 Suicidal behavior
+A508	MEDDRA-PT E112 Suicidal behaviour
+A509	MEDDRA-PT-ID E112 10065604
+A510	LLT E112 Suicidal behavior
+A511	LLT-ID E112 10065607
+A512	CUI E114 C0424000
+A513	UMLS-Preferred-Name E114 Feeling suicidal (finding)
+A514	MEDDRA-PT E114 Suicidal ideation
+A515	MEDDRA-PT-ID E114 10042458
+A516	CUI E115 C1760428
+A517	UMLS-Preferred-Name E115 Suicidal behavior
+A518	MEDDRA-PT E115 Suicidal behaviour
+A519	MEDDRA-PT-ID E115 10065604
+A520	LLT E115 Suicidal behavior
+A521	LLT-ID E115 10065607
+A522	CUI E117 C0424000
+A523	UMLS-Preferred-Name E117 Feeling suicidal (finding)
+A524	MEDDRA-PT E117 Suicidal ideation
+A525	MEDDRA-PT-ID E117 10042458
+A526	CUI E118 C1760428
+A527	UMLS-Preferred-Name E118 Suicidal behavior
+A528	MEDDRA-PT E118 Suicidal behaviour
+A529	MEDDRA-PT-ID E118 10065604
+A530	LLT E118 Suicidal behavior
+A531	LLT-ID E118 10065607

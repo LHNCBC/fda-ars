@@ -1,0 +1,128 @@
+148,158|C0013144|Somnolence|fndg
+148,158|C2830004|Somnolence|fndg
+162,170|C0235195|Sedation|fndg
+234,242|C0235195|Sedation|fndg
+351,370|C0087169|Withdrawal Symptoms|sosy
+533,541|C1509143|Physical|fndg
+546,570|C0278079|Psychological Dependence|mobd
+618,635|C1760428|Suicidal Behavior|fndg
+809,821|C0009806|constipation|sosy
+809,821|C1963087|constipation|fndg
+823,833|C0013144|somnolence|fndg
+823,833|C2830004|somnolence|fndg
+837,845|C0235195|sedation|fndg
+847,854|C0015967|pyrexia|fndg
+856,864|C0023380|lethargy|sosy
+870,878|C0013132|drooling|sosy
+1132,1142|C0012634|conditions|dsyn
+1396,1404|C0036572|seizures|sosy
+1421,1424|C0238111|LGS|dsyn
+1528,1531|C0238111|LGS|dsyn
+1556,1567|C0332154|treated for|fndg
+1591,1601|C0012634|conditions|dsyn
+1634,1641|C3840786|greatly|fndg
+1655,1661|C0087136|single|fndg
+1779,1782|C0238111|LGS|dsyn
+1992,2007|C1444662|Discontinuation|fndg
+2014,2017|C0238111|LGS|dsyn
+2116,2131|C1444662|discontinuation|fndg
+2194,2202|C0023380|lethargy|sosy
+2204,2214|C0013144|somnolence|fndg
+2204,2214|C2830004|somnolence|fndg
+2216,2222|C0007758|ataxia|sosy
+2216,2222|C0004134|ataxia|sosy
+2224,2234|C0001807|aggression|mobd
+2224,2234|C1457883|aggression|mobd
+2236,2243|C0015672|fatigue|sosy
+2249,2257|C0917801|insomnia|sosy
+2249,2257|C1963237|insomnia|fndg
+2301,2304|C0238111|LGS|dsyn
+2508,2518|C3815594|randomized|fndg
+3190,3216|C0017178|Gastrointestinal Disorders|dsyn
+3229,3237|C0042963|Vomiting|sosy
+3229,3237|C1963281|Vomiting|patf
+3334,3346|C0009806|Constipation|sosy
+3334,3346|C1963087|Constipation|fndg
+3442,3451|C0011168|Dysphagia|dsyn
+3552,3561|C0012634|Disorders|dsyn
+3586,3596|C0012634|Conditions|dsyn
+3609,3616|C0015967|Pyrexia|fndg
+3714,3726|C0022107|Irritability|fndg
+3822,3829|C0015672|Fatigue|sosy
+3924,3934|C3714514|Infections|patf
+3939,3951|C0851341|Infestations|dsyn
+3964,3997|C0041912|Upper respiratory tract infection|dsyn
+4093,4102|C0032285|Pneumonia|dsyn
+4198,4221|C0042029|Urinary tract infection|dsyn
+4198,4221|C0262655|Urinary tract infection|dsyn
+4317,4327|C0006277|Bronchitis|dsyn
+4317,4327|C0149514|Bronchitis|dsyn
+4435,4454|C3714509|Nutrition Disorders|dsyn
+4581,4599|C0232461|Increased appetite|fndg
+4729,4739|C0013144|Somnolence|fndg
+4729,4739|C2830004|Somnolence|fndg
+4743,4751|C0235195|Sedation|fndg
+4851,4861|C0013144|Somnolence|fndg
+4851,4861|C2830004|Somnolence|fndg
+4961,4969|C0235195|Sedation|fndg
+5065,5073|C0023380|Lethargy|sosy
+5170,5178|C0013132|Drooling|sosy
+5275,5281|C0007758|Ataxia|sosy
+5275,5281|C0004134|Ataxia|sosy
+5380,5405|C3887612|Psychomotor hyperactivity|fndg
+5501,5511|C0013362|Dysarthria|mobd
+5638,5648|C0001807|Aggression|mobd
+5638,5648|C1457883|Aggression|mobd
+5744,5752|C0917801|Insomnia|sosy
+5744,5752|C1963237|Insomnia|fndg
+5846,5867|C0035204|Respiratory Disorders|dsyn
+5880,5885|C0010200|Cough|sosy
+5880,5885|C1961131|Cough|fndg
+6091,6100|C0087130|uncertain|fndg
+6283,6298|C0018939|Blood Disorders|dsyn
+6303,6309|C0002871|Anemia|dsyn
+6311,6323|C0014457|eosinophilia|dsyn
+6311,6323|C1306759|eosinophilia|dsyn
+6325,6335|C0023530|leukopenia|dsyn
+6325,6335|C0750394|leukopenia|fndg
+6337,6353|C0040034|thrombocytopenia|fndg
+6357,6370|C0015397|Eye Disorders|dsyn
+6375,6383|C0012569|Diplopia|fndg
+6403,6429|C0017178|Gastrointestinal Disorders|dsyn
+6434,6443;6466,6475|C1290864|Abdominal Disorders|dsyn
+6434,6454|C0000731|Abdominal distention|fndg
+6444,6454|C0012359|distention|patf
+6444,6454|C3714614|distention|fndg
+6466,6475|C0012634|Disorders|dsyn
+6500,6510|C0012634|Conditions|dsyn
+6515,6526|C0020672|Hypothermia|fndg
+6515,6526|C0413252|Hypothermia|inpo
+6597,6610|C0037763|Muscle spasms|sosy
+6640,6649|C0085631|Agitation|sosy
+6651,6658|C0003467|anxiety|mobd
+6651,6658|C0003469|anxiety|mobd
+6651,6658|C0860603|anxiety|fndg
+6660,6666|C0085632|apathy|sosy
+6660,6666|C0436596|apathy|fndg
+6668,6685|C0009676|confusional state|mobd
+6687,6697|C0011570|depression|mobd
+6687,6697|C0011581|depression|mobd
+6687,6697|C1579931|depression|sosy
+6687,6697|C0344315|depression|fndg
+6699,6707|C0011206|delirium|mobd
+6709,6717|C0011253|delusion|mobd
+6719,6732|C0018524|hallucination|mobd
+6746,6763|C0042075|Urinary Disorders|dsyn
+6768,6785|C0080274|Urinary retention|fndg
+6789,6810|C0035204|Respiratory Disorders|dsyn
+6815,6825|C2712334|Aspiration|fndg
+6815,6825|C0700198|Aspiration|patf
+6815,6825|C2827071|Aspiration|fndg
+6827,6849|C0235063|respiratory depression|patf
+6862,6874;6882,6891|C0549584|Subcutaneous Disorders|dsyn
+6882,6891|C0012634|Disorders|dsyn
+6896,6900|C0015230|Rash|sosy
+6902,6911|C0042109|urticaria|dsyn
+6902,6911|C2186740|urticaria|fndg
+6913,6923|C0002994|angioedema|patf
+6940,6949|C0541923|lip edema|fndg

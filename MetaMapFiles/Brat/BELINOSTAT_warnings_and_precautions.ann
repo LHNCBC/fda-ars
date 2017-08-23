@@ -1,0 +1,255 @@
+T1	AdverseReaction 249 259	infections
+T2	Severity 231 238	Serious
+T3	AdverseReaction 243 248	fatal
+T4	AdverseReaction 267 276	pneumonia
+T5	AdverseReaction 281 287	sepsis
+T6	AdverseReaction 344 360	hepatic toxicity
+T7	AdverseReaction 365 398	liver function test abnormalities
+T8	Factor 334 337	may
+T9	AdverseReaction 693 703	fetal harm
+T10	Factor 683 686	may
+T11	AdverseReaction 909 925	thrombocytopenia
+T12	AdverseReaction 927 937	leukopenia
+T13	AdverseReaction 939 950	neutropenia
+T14	AdverseReaction 955 966	lymphopenia
+T15	AdverseReaction 976 982	anemia
+T16	Factor 899 902	can
+T17	AdverseReaction 1198 1208	infections
+T18	Severity 1170 1177	Serious
+T19	AdverseReaction 1192 1197	fatal
+T20	AdverseReaction 1220 1229	pneumonia
+T21	AdverseReaction 1234 1240	sepsis
+T22	AdverseReaction 1545 1559	hepatotoxicity
+T23	AdverseReaction 1564 1597	liver function test abnormalities
+T24	Factor 1529 1532	can
+T25	AdverseReaction 1933 1953	Tumor lysis syndrome
+T26	AdverseReaction 2298 2304	Nausea
+T27	AdverseReaction 2306 2314	vomiting
+T28	AdverseReaction 2319 2327	diarrhea
+T29	AdverseReaction 2510 2520	fetal harm
+T30	Factor 2500 2503	can
+T31	AdverseReaction 2579 2593	teratogenicity
+T32	AdverseReaction 2601 2623	embryo-fetal lethality
+T33	AdverseReaction 2638 2647	genotoxic
+T34	Factor 2569 2572	may
+T35	AdverseReaction 506 526	Tumor lysis syndrome
+T36	AdverseReaction 54 70	Thrombocytopenia
+T37	AdverseReaction 72 82	leukopenia
+T38	AdverseReaction 84 95	neutropenia
+T39	AdverseReaction 100 111	lymphopenia
+T40	AdverseReaction 118 124	anemia
+T43	AdverseReaction 1539 1544	fatal
+T41	AdverseReaction 220 229	Infection
+T42	AdverseReaction 309 323	Hepatotoxicity
+T44	AdverseReaction 651 672	Embryo-fetal toxicity
+E1	AdverseReaction:T1
+E2	AdverseReaction:T1 Effect:E3
+E3	Severity:T2
+E4	AdverseReaction:T3
+E5	AdverseReaction:T4
+E6	AdverseReaction:T5
+E7	AdverseReaction:T6 Hypothetical:E9
+E8	AdverseReaction:T7 Hypothetical:E9
+E9	Factor:T8
+E10	AdverseReaction:T9 Hypothetical:E11
+E11	Factor:T10
+E12	AdverseReaction:T11 Hypothetical:E17
+E13	AdverseReaction:T12 Hypothetical:E17
+E14	AdverseReaction:T13 Hypothetical:E17
+E15	AdverseReaction:T14 Hypothetical:E17
+E16	AdverseReaction:T15 Hypothetical:E17
+E17	Factor:T16
+E18	AdverseReaction:T17 Effect:E19
+E19	Severity:T18
+E20	AdverseReaction:T17
+E21	AdverseReaction:T19
+E22	AdverseReaction:T20
+E23	AdverseReaction:T21
+E24	AdverseReaction:T22 Hypothetical:E26
+E25	AdverseReaction:T23 Hypothetical:E26
+E26	Factor:T24
+E27	AdverseReaction:T25
+E28	AdverseReaction:T26
+E29	AdverseReaction:T27
+E30	AdverseReaction:T28
+E31	AdverseReaction:T29 Hypothetical:E32
+E32	Factor:T30
+E33	AdverseReaction:T31 Hypothetical:E36
+E34	AdverseReaction:T32 Hypothetical:E36
+E35	AdverseReaction:T33
+E36	Factor:T34
+E37	AdverseReaction:T35
+E38	AdverseReaction:T36
+E39	AdverseReaction:T37
+E40	AdverseReaction:T38
+E41	AdverseReaction:T39
+E42	AdverseReaction:T40
+E45	AdverseReaction:T43 Hypothetical:E26
+E43	AdverseReaction:T41
+E44	AdverseReaction:T42
+E46	AdverseReaction:T44
+A1	CUI E1 C3714514
+A2	UMLS-Preferred-Name E1 Infection
+A3	MEDDRA-PT E1 Infection
+A4	MEDDRA-PT-ID E1 10021789
+A5	CUI E4 C1306577
+A6	UMLS-Preferred-Name E4 Death (finding)
+A7	MEDDRA-PT E4 Death
+A8	MEDDRA-PT-ID E4 10011906
+A9	CUI E5 C0032285
+A10	UMLS-Preferred-Name E5 Pneumonia
+A11	MEDDRA-PT E5 Pneumonia
+A12	MEDDRA-PT-ID E5 10035664
+A13	CUI E6 C0243026
+A14	UMLS-Preferred-Name E6 Sepsis
+A15	MEDDRA-PT E6 Sepsis
+A16	MEDDRA-PT-ID E6 10040047
+A17	CUI E7 C0348754
+A18	UMLS-Preferred-Name E7 Toxic liver disease
+A19	MEDDRA-PT E7 Hepatotoxicity
+A20	MEDDRA-PT-ID E7 10019851
+A21	CUI E8 C0151766
+A22	UMLS-Preferred-Name E8 Liver function tests abnormal finding
+A23	MEDDRA-PT E8 Liver function test abnormal
+A24	MEDDRA-PT-ID E8 10024690
+A25	LLT E8 Liver function tests multiple abnorm
+A26	LLT-ID E8 10024694
+A27	CUI E10 C0854268
+A28	UMLS-Preferred-Name E10 Foetal damage
+A29	MEDDRA-PT E10 Foetal damage
+A30	MEDDRA-PT-ID E10 10016852
+A31	LLT E10 Fetal damage
+A32	LLT-ID E10 10054743
+A33	CUI E12 C0040034
+A34	UMLS-Preferred-Name E12 Thrombocytopenia
+A35	MEDDRA-PT E12 Thrombocytopenia
+A36	MEDDRA-PT-ID E12 10043554
+A37	CUI E13 C0023530
+A38	UMLS-Preferred-Name E13 Leukopenia
+A39	MEDDRA-PT E13 Leukopenia
+A40	MEDDRA-PT-ID E13 10024384
+A41	CUI E14 C0027947
+A42	UMLS-Preferred-Name E14 Neutropenia
+A43	MEDDRA-PT E14 Neutropenia
+A44	MEDDRA-PT-ID E14 10029354
+A45	CUI E15 C0024312
+A46	UMLS-Preferred-Name E15 Lymphopenia
+A47	MEDDRA-PT E15 Lymphopenia
+A48	MEDDRA-PT-ID E15 10025327
+A49	CUI E16 C0002871
+A50	UMLS-Preferred-Name E16 Anemia
+A51	MEDDRA-PT E16 Anaemia
+A52	MEDDRA-PT-ID E16 10002034
+A53	LLT E16 Anemia
+A54	LLT-ID E16 10002272
+A55	CUI E18 C3714514
+A56	UMLS-Preferred-Name E18 Infection
+A57	MEDDRA-PT E18 Infection
+A58	MEDDRA-PT-ID E18 10021789
+A59	CUI E21 C1306577
+A60	UMLS-Preferred-Name E21 Death (finding)
+A61	MEDDRA-PT E21 Death
+A62	MEDDRA-PT-ID E21 10011906
+A63	CUI E22 C0032285
+A64	UMLS-Preferred-Name E22 Pneumonia
+A65	MEDDRA-PT E22 Pneumonia
+A66	MEDDRA-PT-ID E22 10035664
+A67	CUI E23 C0243026
+A68	UMLS-Preferred-Name E23 Sepsis
+A69	MEDDRA-PT E23 Sepsis
+A70	MEDDRA-PT-ID E23 10040047
+A71	CUI E24 C0235378
+A72	UMLS-Preferred-Name E24 Hepatotoxicity
+A73	MEDDRA-PT E24 Hepatotoxicity
+A74	MEDDRA-PT-ID E24 10019851
+A75	CUI E25 C0151766
+A76	UMLS-Preferred-Name E25 Liver function tests abnormal finding
+A77	MEDDRA-PT E25 Liver function test abnormal
+A78	MEDDRA-PT-ID E25 10024690
+A79	LLT E25 Liver function tests multiple abnorm
+A80	LLT-ID E25 10024694
+A81	CUI E27 C0041364
+A82	UMLS-Preferred-Name E27 Tumor Lysis Syndrome
+A83	MEDDRA-PT E27 Tumour lysis syndrome
+A84	MEDDRA-PT-ID E27 10045170
+A85	LLT E27 Tumor lysis syndrome
+A86	LLT-ID E27 10045152
+A87	CUI E28 C0027497
+A88	UMLS-Preferred-Name E28 Nausea
+A89	MEDDRA-PT E28 Nausea
+A90	MEDDRA-PT-ID E28 10028813
+A91	CUI E29 C0042963
+A92	UMLS-Preferred-Name E29 Vomiting
+A93	MEDDRA-PT E29 Vomiting
+A94	MEDDRA-PT-ID E29 10047700
+A95	CUI E30 C0011991
+A96	UMLS-Preferred-Name E30 Diarrhea
+A97	MEDDRA-PT E30 Diarrhoea
+A98	MEDDRA-PT-ID E30 10012735
+A99	LLT E30 Diarrhea
+A100	LLT-ID E30 10012727
+A101	CUI E31 C0854268
+A102	UMLS-Preferred-Name E31 Foetal damage
+A103	MEDDRA-PT E31 Foetal damage
+A104	MEDDRA-PT-ID E31 10016852
+A105	LLT E31 Fetal damage
+A106	LLT-ID E31 10054743
+A107	CUI E33 C0232910
+A108	UMLS-Preferred-Name E33 Teratogenesis
+A109	MEDDRA-PT E33 Teratogenicity
+A110	MEDDRA-PT-ID E33 10043275
+A111	CUI E34 C0015927
+A112	UMLS-Preferred-Name E34 Fetal Death
+A113	MEDDRA-PT E34 Foetal death
+A114	MEDDRA-PT-ID E34 10055690
+A115	LLT E34 Fetal death
+A116	LLT-ID E34 10016479
+A117	flag E35 unmapped
+A118	CUI E35 C0598309
+A119	UMLS-Preferred-Name E35 genotoxicity
+A120	CUI E37 C0041364
+A121	UMLS-Preferred-Name E37 Tumor Lysis Syndrome
+A122	MEDDRA-PT E37 Tumour lysis syndrome
+A123	MEDDRA-PT-ID E37 10045170
+A124	LLT E37 Tumor lysis syndrome
+A125	LLT-ID E37 10045152
+A126	CUI E38 C0040034
+A127	UMLS-Preferred-Name E38 Thrombocytopenia
+A128	MEDDRA-PT E38 Thrombocytopenia
+A129	MEDDRA-PT-ID E38 10043554
+A130	CUI E39 C0023530
+A131	UMLS-Preferred-Name E39 Leukopenia
+A132	MEDDRA-PT E39 Leukopenia
+A133	MEDDRA-PT-ID E39 10024384
+A134	CUI E40 C0027947
+A135	UMLS-Preferred-Name E40 Neutropenia
+A136	MEDDRA-PT E40 Neutropenia
+A137	MEDDRA-PT-ID E40 10029354
+A138	CUI E41 C0024312
+A139	UMLS-Preferred-Name E41 Lymphopenia
+A140	MEDDRA-PT E41 Lymphopenia
+A141	MEDDRA-PT-ID E41 10025327
+A142	CUI E42 C0002871
+A143	UMLS-Preferred-Name E42 Anemia
+A144	MEDDRA-PT E42 Anaemia
+A145	MEDDRA-PT-ID E42 10002034
+A146	LLT E42 Anemia
+A147	LLT-ID E42 10002272
+A148	CUI E45 C1306577
+A149	UMLS-Preferred-Name E45 Death (finding)
+A150	MEDDRA-PT E45 Death
+A151	MEDDRA-PT-ID E45 10011906
+A152	CUI E43 C3714514
+A153	UMLS-Preferred-Name E43 Infection
+A154	MEDDRA-PT E43 Infection
+A155	MEDDRA-PT-ID E43 10021789
+A156	CUI E44 C0235378
+A157	UMLS-Preferred-Name E44 Hepatotoxicity
+A158	MEDDRA-PT E44 Hepatotoxicity
+A159	MEDDRA-PT-ID E44 10019851
+A160	CUI E46 C0270009
+A161	UMLS-Preferred-Name E46 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A162	MEDDRA-PT E46 Maternal drugs affecting foetus
+A163	MEDDRA-PT-ID E46 10026923
+A164	LLT E46 Drug toxicity NEC affecting foetus
+A165	LLT-ID E46 10013750

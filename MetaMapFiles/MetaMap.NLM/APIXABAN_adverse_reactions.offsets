@@ -1,0 +1,256 @@
+177,187|C0087086|thrombotic|patf
+211,226|C1444662|discontinuation|fndg
+272,280|C0019080|Bleeding|patf
+356,364|C0033119|puncture|inpo
+460,467|C0445223|related|fndg
+471,479|C0019080|bleeding|patf
+738,748|C0012634|conditions|dsyn
+975,981|C0038454|Stroke|dsyn
+995,1003|C0013922|Embolism|patf
+995,1003|C1704212|Embolism|fndg
+1033,1052|C0004238|Atrial Fibrillation|dsyn
+1033,1052|C1963067|Atrial Fibrillation|fndg
+1595,1615|C1443309|reason for treatment|fndg
+1616,1631|C1444662|discontinuation|fndg
+1656,1664|C0019080|bleeding|patf
+1665,1672|C0445223|related|fndg
+1875,1883|C0019080|Bleeding|patf
+1913,1932|C0004238|Atrial Fibrillation|dsyn
+1913,1932|C1963067|Atrial Fibrillation|fndg
+1986,2004|C2360800|number of patients|fndg
+2024,2032;2054,2060|C0025874|bleeding period|patf
+2069,2077|C0019080|bleeding|patf
+2125,2133|C0019080|bleeding|patf
+2207,2215|C0019080|Bleeding|patf
+2252,2271|C0004238|Atrial Fibrillation|dsyn
+2252,2271|C1963067|Atrial Fibrillation|fndg
+2432,2440|C0019080|Bleeding|patf
+2567,2575|C0019080|Bleeding|patf
+2715,2723|C0019080|bleeding|patf
+2771,2793|C0162119|decrease in hemoglobin|fndg
+2867,2878;2890,2894|C1820679|bleeding at site|fndg
+2985,3005|C0009492|compartment syndrome|dsyn
+3031,3044|C0206277|fatal outcome|patf
+3053,3071|C0151699|Intracranial bleed|patf
+3128,3149|C0038525|subarachnoid bleeding|dsyn
+3163,3181|C0553692|hemorrhagic stroke|dsyn
+3216,3228;3235,3240|C0151699|intracranial bleed|patf
+3229,3240|C3160769|major bleed|patf
+3360,3368|C0017181|GI bleed|patf
+3402,3417|C0018932|rectal bleeding|fndg
+3402,3417|C0267596|rectal bleeding|patf
+3422,3427|C1705232|Fatal|fndg
+3428,3436|C0019080|bleeding|patf
+3455,3460;3470,3486|C3537403|death primary cause of|fndg
+3455,3460;3470,3486|C3262229|death primary cause of|fndg
+3496,3517|C0151699|intracranial bleeding|patf
+3525,3546|C0151699|intracranial bleeding|patf
+3716,3719|C0019191|ICH|dsyn
+3716,3719|C3281105|ICH|fndg
+3817,3836|C0553692|Hemorrhagic strokeS|dsyn
+3817,3836|C0472369|Hemorrhagic strokeS|dsyn
+3936,3939|C0019191|ICH|dsyn
+3936,3939|C3281105|ICH|fndg
+4155,4160|C1705232|Fatal|fndg
+4519,4526|C2825142|results|fndg
+4537,4545|C0019080|bleeding|patf
+4615,4621|C0424653|weight|sosy
+4656,4660|C1273517|used|fndg
+4681,4687|C0038454|stroke|dsyn
+4777,4788|C1388856|aspirin use|fndg
+4854,4862|C0011860|diabetes|dsyn
+4854,4862|C0011860|diabetes|dsyn
+4854,4862|C0011849|diabetes|dsyn
+4854,4862|C0011849|diabetes|dsyn
+4854,4862|C0011847|diabetes|dsyn
+4854,4862|C0011847|diabetes|dsyn
+4863,4867|C0019080|bled|patf
+4915,4923|C0011860|diabetes|dsyn
+4915,4923|C0011860|diabetes|dsyn
+4915,4923|C0011849|diabetes|dsyn
+4915,4923|C0011849|diabetes|dsyn
+4915,4923|C0011847|diabetes|dsyn
+4915,4923|C0011847|diabetes|dsyn
+4959,4973|C3160769|Major Bleeding|patf
+5494,5502|C0019080|Bleeding|patf
+5539,5558|C0004238|Atrial Fibrillation|dsyn
+5539,5558|C1963067|Atrial Fibrillation|fndg
+5952,5957|C1705232|Fatal|fndg
+6194,6208|C3160769|Major Bleeding|patf
+6250,6276|C0020517|Hypersensitivity reactions|patf
+6288,6309|C0013182|drug hypersensitivity|dsyn
+6319,6328|C0015230|skin rash|sosy
+6334,6356|C0002792|anaphylactic reactions|patf
+6366,6380|C0847033|allergic edema|dsyn
+6386,6393|C0039070|syncope|sosy
+6467,6487|C0149871|Deep Vein Thrombosis|dsyn
+6467,6487|C0340708|Deep Vein Thrombosis|dsyn
+6505,6521|C2186386|Knee Replacement|fndg
+6767,6783|C2186386|knee replacement|fndg
+6785,6796|C0332154|treated for|fndg
+6921,6929;6959,6965|C0025874|Bleeding period|patf
+7013,7021|C0019080|Bleeding|patf
+7124,7132;7154,7160|C0025874|Bleeding Period|patf
+7200,7216|C2186386|Knee Replacement|fndg
+7229,7237|C0019080|Bleeding|patf
+7381,7389|C0019080|bleeding|patf
+7381,7389|C0019080|bleeding|patf
+7408,7416;7422,7430|C0079027|surgical bleeding|patf
+7422,7430|C0019080|bleeding|patf
+7422,7430|C0019080|bleeding|patf
+7464,7478|C3160769|major bleeding|patf
+7610,7624|C3160769|major bleeding|patf
+7861,7881|C0009492|compartment syndrome|dsyn
+7903,7916;7929,7934|C0018924|Bleeding into joint|patf
+8024,8032|C0019080|bleeding|patf
+8122,8145|C0151699|intracranial hemorrhage|patf
+8519,8526;8556,8560|C0241311|surgery post|fndg
+8961,8966|C1705232|Fatal|fndg
+9344,9349|C0019080|Bleed|patf
+9786,9802|C2186386|knee replacement|fndg
+9803,9810;9818,9819|C3842536|surgery 1|fndg
+9954,9960|C3844638|Either|fndg
+9985,10001|C2186386|Knee Replacement|fndg
+10171,10177|C0027497|Nausea|sosy
+10171,10177|C1963179|Nausea|patf
+10280,10286|C0002871|Anemia|dsyn
+10316,10334|C0948824|hemorrhagic anemia|dsyn
+10362,10372|C0449381|parameters|fndg
+10429,10438|C0009938|Contusion|inpo
+10538,10548|C0019080|Hemorrhage|patf
+10560,10568|C0018944|hematoma|patf
+10560,10568|C1962958|hematoma|fndg
+10586,10605|C0241558|urethral hemorrhage|patf
+10662,10687|C0919874|Postprocedural hemorrhage|inpo
+10699,10722|C1328411|postprocedural hematoma|inpo
+10724,10740|C0241742|wound hemorrhage|patf
+10742,10771|C1696110|vessel puncture site hematoma|patf
+10776,10800|C0920166|catheter site hemorrhage|inpo
+11323,11339|C2186386|knee replacement|fndg
+11407,11433|C0024228|lymphatic system disorders|dsyn
+11436,11452|C0040034|thrombocytopenia|fndg
+11496,11514|C0042373|Vascular disorders|dsyn
+11517,11528|C0020649|hypotension|fndg
+11517,11528|C3163620|hypotension|fndg
+11540,11562|C1262109|procedural hypotension|patf
+11597,11618|C0025061|mediastinal disorders|dsyn
+11621,11630|C0014591|epistaxis|patf
+11621,11630|C2228238|epistaxis|fndg
+11637,11663|C0017178|Gastrointestinal disorders|dsyn
+11666,11693|C0017181|gastrointestinal hemorrhage|patf
+11705,11716|C0018926|hematemesis|sosy
+11721,11727|C0025222|melena|patf
+11730,11742|C0018932|hematochezia|fndg
+11749,11772|C0267792|Hepatobiliary disorders|dsyn
+11775,11803|C0151766|liver function test abnormal|fndg
+11885,11902|C0042075|urinary disorders|dsyn
+11905,11914|C0018965|hematuria|fndg
+11948,11958|C0449381|parameters|fndg
+11974,11983|C0032343|poisoning|inpo
+12016,12031|C0406834|wound secretion|fndg
+12033,12057|C0919882|incision-site hemorrhage|inpo
+12069,12091|C1168175|incision-site hematoma|patf
+12094,12114|C0079027|operative hemorrhage|patf
+12196,12212|C2186386|knee replacement|fndg
+12260,12277|C0017565|Gingival bleeding|fndg
+12279,12289|C0019079|hemoptysis|sosy
+12291,12307|C0020517|hypersensitivity|patf
+12291,12307|C0520946|hypersensitivity|fndg
+12309,12326|C0151702|muscle hemorrhage|patf
+12328,12345|C0015402|ocular hemorrhage|patf
+12357,12380|C0009760|conjunctival hemorrhage|patf
+12383,12400|C0267596|rectal hemorrhage|patf
+12390,12400|C0019080|hemorrhage|patf
+12420,12423|C0149871|DVT|dsyn
+12474,12477|C0149871|DVT|dsyn
+12778,12795|C0017565|gingival bleeding|fndg
+12797,12806|C0014591|epistaxis|patf
+12797,12806|C2228238|epistaxis|fndg
+12808,12817|C0009938|contusion|inpo
+12819,12828|C0018965|hematuria|fndg
+12830,12847|C0267596|rectal hemorrhage|patf
+12849,12857|C0018944|hematoma|patf
+12849,12857|C1962958|hematoma|fndg
+12859,12870|C0025323|menorrhagia|patf
+12876,12886|C0019079|hemoptysis|sosy
+13045,13052|C0445223|related|fndg
+13056,13064|C0019080|bleeding|patf
+13180,13195|C1444662|discontinuation|fndg
+13208,13216|C0019080|bleeding|patf
+13468,13476|C0019080|bleeding|patf
+13541,13549|C0019080|Bleeding|patf
+13550,13557|C2825142|results|fndg
+13625,13633|C0019080|Bleeding|patf
+13634,13641|C2825142|Results|fndg
+13827,13835|C0019080|bleeding|patf
+14703,14714|C0332154|Treated for|fndg
+14715,14718|C0149871|DVT|dsyn
+14861,14870|C0014591|Epistaxis|patf
+14861,14870|C2228238|Epistaxis|fndg
+14969,14978|C0009938|Contusion|inpo
+15077,15086|C0018965|Hematuria|fndg
+15185,15196|C0025323|Menorrhagia|patf
+15293,15301|C0018944|Hematoma|patf
+15293,15301|C1962958|Hematoma|fndg
+15401,15411|C0019079|Hemoptysis|sosy
+15509,15526|C0267596|Rectal hemorrhage|patf
+15617,15634|C0017565|Gingival bleeding|fndg
+15895,15902|C0445223|related|fndg
+15906,15914|C0019080|bleeding|patf
+16016,16031|C1444662|discontinuation|fndg
+16044,16052|C0019080|bleeding|patf
+16199,16207|C0019080|Bleeding|patf
+16208,16215|C2825142|results|fndg
+16287,16295|C0019080|Bleeding|patf
+16296,16303|C2825142|Results|fndg
+16491,16499|C0019080|bleeding|patf
+17403,17406|C0149871|DVT|dsyn
+17562,17571|C0014591|Epistaxis|patf
+17562,17571|C2228238|Epistaxis|fndg
+17674,17683|C0018965|Hematuria|fndg
+17786,17794|C0018944|Hematoma|patf
+17786,17794|C1962958|Hematoma|fndg
+17898,17907|C0009938|Contusion|inpo
+18010,18027|C0017565|Gingival bleeding|fndg
+18314,18340|C0024228|lymphatic system disorders|dsyn
+18343,18361|C0948824|hemorrhagic anemia|dsyn
+18368,18394|C0017178|Gastrointestinal disorders|dsyn
+18397,18409|C0018932|hematochezia|fndg
+18411,18434|C0265031|hemorrhoidal hemorrhage|patf
+18436,18463|C0017181|gastrointestinal hemorrhage|patf
+18465,18476|C0018926|hematemesis|sosy
+18478,18484|C0025222|melena|patf
+18486,18490;18508,18514|C2226910|anal Injury|inpo
+18486,18501|C0426747|anal hemorrhage|patf
+18491,18501;18508,18514|C0241742|hemorrhage Injury|patf
+18491,18501|C0019080|hemorrhage|patf
+18516,18525|C0032343|poisoning|inpo
+18558,18574|C0241742|wound hemorrhage|patf
+18576,18601|C0919874|postprocedural hemorrhage|inpo
+18603,18621|C0549453|traumatic hematoma|inpo
+18623,18643|C0520723|periorbital hematoma|inpo
+18670,18697|C0009782|connective tissue disorders|dsyn
+18700,18717|C0151702|muscle hemorrhage|patf
+18724,18743|C1335757|Reproductive system|fndg
+18748,18764|C0006145|breast disorders|dsyn
+18767,18785|C2979982|vaginal hemorrhage|dsyn
+18787,18799|C0025874|metrorrhagia|patf
+18787,18799|C2030274|metrorrhagia|sosy
+18801,18817|C0232943|menometrorrhagia|sosy
+18819,18837|C0854381|genital hemorrhage|dsyn
+18844,18862|C0042373|Vascular disorders|dsyn
+18866,18876;18883,18887|C0852361|hemorrhage Skin|dsyn
+18892,18904;18912,18921|C0549584|subcutaneous disorders|dsyn
+18912,18921|C0012634|disorders|dsyn
+18924,18934|C0013491|ecchymosis|patf
+18936,18951|C0852361|skin hemorrhage|dsyn
+18953,18962|C0031256|petechiae|dsyn
+18969,18982|C0015397|Eye disorders|dsyn
+18985,19008|C0009760|conjunctival hemorrhage|patf
+19010,19028|C0035317|retinal hemorrhage|patf
+19030,19044|C0015402|eye hemorrhage|patf
+19068,19087|C0947999|blood urine present|fndg
+19171,19180|C0012634|disorders|dsyn
+19205,19215|C0012634|conditions|dsyn
+19218,19241|C0542008|injection-site hematoma|fndg
+19243,19272|C1696110|vessel puncture-site hematoma|patf

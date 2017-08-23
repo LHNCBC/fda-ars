@@ -1,0 +1,244 @@
+113,120|C0036572|Seizure|sosy
+113,120|C1959629|Seizure|fndg
+230,238|C0004093|asthenia|sosy
+239,246|C0015672|fatigue|sosy
+248,257|C0004604|back pain|sosy
+248,257|C1963071|back pain|fndg
+259,277|C0232462|decreased appetite|sosy
+279,291|C0009806|constipation|sosy
+279,291|C1963087|constipation|fndg
+293,303|C0003862|arthralgia|sosy
+305,313|C0011991|diarrhea|sosy
+305,313|C1963091|diarrhea|fndg
+315,324|C0600142|hot flush|sosy
+326,359|C0041912|upper respiratory tract infection|dsyn
+361,377|C0085649|peripheral edema|fndg
+379,386|C0013404|dyspnea|sosy
+388,408|C0026858|musculoskeletal pain|fndg
+410,416|C0424653|weight|sosy
+428,436|C0018681|headache|sosy
+428,436|C2096315|headache|fndg
+438,450|C0020538|hypertension|dsyn
+438,450|C1963138|hypertension|fndg
+456,473|C0497293|dizziness/vertigo|sosy
+740,750|C0012634|conditions|dsyn
+1003,1029|C1282496|metastatic prostate cancer|neop
+1003,1029|C0936223|metastatic prostate cancer|neop
+1088,1095|C1363945|therapy|fndg
+1125,1132|C0012634|disease|dsyn
+1599,1607|C0004093|asthenia|sosy
+1608,1615|C0015672|fatigue|sosy
+1617,1626|C0004604|back pain|sosy
+1617,1626|C1963071|back pain|fndg
+1628,1646|C0232462|decreased appetite|sosy
+1648,1660|C0009806|constipation|sosy
+1648,1660|C1963087|constipation|fndg
+1662,1672|C0003862|arthralgia|sosy
+1674,1682|C0011991|diarrhea|sosy
+1674,1682|C1963091|diarrhea|fndg
+1684,1693|C0600142|hot flush|sosy
+1695,1728|C0041912|upper respiratory tract infection|dsyn
+1730,1746|C0085649|peripheral edema|fndg
+1748,1755|C0013404|dyspnea|sosy
+1757,1777|C0026858|musculoskeletal pain|fndg
+1779,1785|C0424653|weight|sosy
+1797,1805|C0018681|headache|sosy
+1797,1805|C2096315|headache|fndg
+1807,1819|C0020538|hypertension|dsyn
+1807,1819|C1963138|hypertension|fndg
+1825,1842|C0497293|dizziness/vertigo|sosy
+1870,1906|C4049338|Castration-Resistant Prostate Cancer|neop
+2232,2239|C3889290|Grade 3|fndg
+2410,2413;2428,2435|C0332154|for treated|fndg
+2536,2551|C1444662|discontinuation|fndg
+2556,2563|C0036572|seizure|sosy
+2556,2563|C1959629|seizure|fndg
+2750,2751;2753,2759|C3841722|2 higher|fndg
+3036,3045|C0012634|Disorders|dsyn
+3067,3075|C0004093|Asthenic|sosy
+3067,3075|C3714552|Asthenic|sosy
+3178,3194|C0085649|Peripheral Edema|fndg
+3305,3332|C0009782|Connective Tissue Disorders|dsyn
+3343,3352|C0004604|Back Pain|sosy
+3343,3352|C1963071|Back Pain|fndg
+3454,3464|C0003862|Arthralgia|sosy
+3565,3585|C0026858|Musculoskeletal Pain|fndg
+3676,3693|C0151786|Muscular Weakness|sosy
+3787,3812|C0948525|Musculoskeletal Stiffness|sosy
+3895,3921|C0017178|Gastrointestinal Disorders|dsyn
+3934,3942|C0011991|Diarrhea|sosy
+3934,3942|C1963091|Diarrhea|fndg
+4041,4059|C0042373|Vascular Disorders|dsyn
+4080,4089|C0600142|Hot Flush|sosy
+4191,4203|C0020538|Hypertension|dsyn
+4191,4203|C1963138|Hypertension|fndg
+4337,4345|C0018681|Headache|sosy
+4337,4345|C2096315|Headache|fndg
+4559,4582|C0037926|Spinal Cord Compression|dsyn
+4591,4612|C0392548|Cauda Equina Syndrome|dsyn
+4699,4710|C0030554|Paresthesia|dsyn
+4699,4710|C2242996|Paresthesia|sosy
+4810,4827|C0278061|Mental Impairment|mobd
+4810,4827|C1306341|Mental Impairment|mobd
+4810,4827|C0683322|Mental Impairment|mobd
+4925,4937|C0020580|Hypoesthesia|fndg
+5032,5042|C3714514|Infections|patf
+5047,5059|C0851341|Infestations|dsyn
+5365,5373|C0917801|Insomnia|sosy
+5365,5373|C1963237|Insomnia|fndg
+5476,5483|C0003467|Anxiety|mobd
+5476,5483|C0003469|Anxiety|mobd
+5476,5483|C0860603|Anxiety|fndg
+5593,5610|C0042075|Urinary Disorders|dsyn
+5622,5631|C0018965|Hematuria|fndg
+5733,5744|C0042023|Pollakiuria|fndg
+5848,5857|C0032343|Poisoning|inpo
+5897,5901|C0085639|Fall|fndg
+6012,6032|C0016663|pathologic Fractures|patf
+6124,6136;6144,6153|C0549584|Subcutaneous Disorders|dsyn
+6144,6153|C0012634|Disorders|dsyn
+6164,6172|C0033774|Pruritus|sosy
+6275,6283|C0151908|Dry Skin|sosy
+6382,6403|C0035204|Respiratory Disorders|dsyn
+6421,6430|C0014591|Epistaxis|patf
+6421,6430|C2228238|Epistaxis|fndg
+6555,6563|C0004093|asthenia|sosy
+6568,6575|C0015672|fatigue|sosy
+6590,6599|C0042571|dizziness|sosy
+6590,6599|C0012833|dizziness|sosy
+6590,6599|C1963093|dizziness|fndg
+6604,6611|C0042571|vertigo|sosy
+6626,6633|C0002622|amnesia|mobd
+6635,6652|C1963167|memory impairment|patf
+6635,6652|C0233794|memory impairment|mobd
+6654,6672|C0009241|cognitive disorder|mobd
+6678,6702|C0233414|disturbance in attention|mobd
+6717,6732|C0027441|nasopharyngitis|dsyn
+6734,6767|C0041912|upper respiratory tract infection|dsyn
+6769,6778|C0037199|sinusitis|dsyn
+6780,6788|C0035455|rhinitis|dsyn
+6790,6801|C0031350|pharyngitis|dsyn
+6807,6817|C0023067|laryngitis|dsyn
+6807,6817|C0001327|laryngitis|dsyn
+6832,6841|C0032285|pneumonia|dsyn
+6843,6876|C0149725|lower respiratory tract infection|dsyn
+6878,6888|C0006277|bronchitis|dsyn
+6878,6888|C0149514|bronchitis|dsyn
+6894,6908|C0876973|lung infection|dsyn
+6966,7002|C4049338|Castration-Resistant Prostate Cancer|neop
+7418,7421;7435,7442|C0332154|for treated|fndg
+7542,7557|C1444662|discontinuation|fndg
+7562,7569|C0015672|fatigue|sosy
+7570,7578|C0004093|asthenia|sosy
+7715,7716;7718,7724|C3841722|2 higher|fndg
+8023,8032|C0012634|Disorders|dsyn
+8055,8063|C0004093|Asthenic|sosy
+8055,8063|C3714552|Asthenic|sosy
+8167,8183|C0085649|Peripheral Edema|fndg
+8295,8322|C0009782|Connective Tissue Disorders|dsyn
+8333,8342|C0004604|Back Pain|sosy
+8333,8342|C1963071|Back Pain|fndg
+8445,8455|C0003862|Arthralgia|sosy
+8553,8579|C0017178|Gastrointestinal Disorders|dsyn
+8593,8605|C0009806|Constipation|sosy
+8593,8605|C1963087|Constipation|fndg
+8705,8713|C0011991|Diarrhea|sosy
+8705,8713|C1963091|Diarrhea|fndg
+8813,8831|C0042373|Vascular Disorders|dsyn
+8853,8862|C0600142|Hot Flush|sosy
+8965,8977|C0020538|Hypertension|dsyn
+8965,8977|C1963138|Hypertension|fndg
+9225,9233|C0018681|Headache|sosy
+9225,9233|C2096315|Headache|fndg
+9337,9346|C0013378|Dysgeusia|fndg
+9449,9466|C0278061|Mental Impairment|mobd
+9449,9466|C1306341|Mental Impairment|mobd
+9449,9466|C0683322|Mental Impairment|mobd
+9564,9586;9593,9594|C2931830|Restless Legs Syndrome 2|dsyn
+9672,9693|C0035204|Respiratory Disorders|dsyn
+9820,9830|C3714514|Infections|patf
+9835,9847|C0851341|Infestations|dsyn
+10155,10163|C0917801|Insomnia|sosy
+10155,10163|C1963237|Insomnia|fndg
+10273,10290|C0042075|Urinary Disorders|dsyn
+10303,10312|C0018965|Hematuria|fndg
+10419,10428|C0032343|Poisoning|inpo
+10468,10472|C0085639|Fall|fndg
+10703,10722|C3714509|Nutrition Disorders|dsyn
+10881,10887|C0424653|Weight|sosy
+10989,11008|C1335757|Reproductive System|fndg
+11013,11029|C0006145|Breast disorders|dsyn
+11040,11052|C0018418|Gynecomastia|dsyn
+11040,11052|C1963120|Gynecomastia|fndg
+11175,11183|C0004093|asthenia|sosy
+11188,11195|C0015672|fatigue|sosy
+11210,11219|C0042571|dizziness|sosy
+11210,11219|C0012833|dizziness|sosy
+11210,11219|C1963093|dizziness|fndg
+11224,11231|C0042571|vertigo|sosy
+11246,11253|C0002622|amnesia|mobd
+11255,11272|C1963167|memory impairment|patf
+11255,11272|C0233794|memory impairment|mobd
+11274,11292|C0009241|cognitive disorder|mobd
+11298,11322|C0233414|disturbance in attention|mobd
+11337,11344|C0013404|dyspnea|sosy
+11346,11364|C0231807|exertional dyspnea|sosy
+11370,11385|C2712054|dyspnea at rest|sosy
+11400,11415|C0027441|nasopharyngitis|dsyn
+11417,11450|C0041912|upper respiratory tract infection|dsyn
+11452,11461|C0037199|sinusitis|dsyn
+11463,11471|C0035455|rhinitis|dsyn
+11473,11484|C0031350|pharyngitis|dsyn
+11490,11500|C0023067|laryngitis|dsyn
+11490,11500|C0001327|laryngitis|dsyn
+11515,11524|C0032285|pneumonia|dsyn
+11526,11559|C0149725|lower respiratory tract infection|dsyn
+11561,11571|C0006277|bronchitis|dsyn
+11561,11571|C0149514|bronchitis|dsyn
+11577,11591|C0876973|lung infection|dsyn
+11675,11682|C3889292|Grade 1|fndg
+11685,11696|C0027947|neutropenia|dsyn
+11685,11696|C0023530|neutropenia|dsyn
+11685,11696|C0853697|neutropenia|fndg
+11749,11756|C3889290|Grade 3|fndg
+11749,11754|C3244287|Grade|fndg
+11809,11816|C3889290|Grade 3|fndg
+11838,11845|C3889292|Grade 1|fndg
+11846,11864|C2677608|4 thrombocytopenia|dsyn
+11967,11974|C3889290|Grade 3|fndg
+11979,11986|C3889292|Grade 1|fndg
+12003,12006|C1266129|ALT|neop
+12131,12138|C3889292|Grade 1|fndg
+12291,12301|C3714514|Infections|patf
+12400,12404|C1306577|died|fndg
+12400,12404|C1546956|died|fndg
+12410,12420|C3714514|infections|patf
+12424,12430|C0243026|sepsis|dsyn
+12424,12430|C0036690|sepsis|dsyn
+12492,12501|C3714514|infection|patf
+12492,12501|C0009450|infection|dsyn
+12515,12520|C1306577|death|fndg
+12528,12533|C0085639|Falls|fndg
+12528,12533|C0000921|Falls|inpo
+12538,12559|C0743801|Fall-related Injuries|inpo
+12600,12605|C0085639|falls|fndg
+12600,12605|C0000921|falls|inpo
+12616,12637|C0743801|fall-related injuries|inpo
+12735,12740|C0085639|Falls|fndg
+12735,12740|C0000921|Falls|inpo
+12766,12787|C0041657|loss of consciousness|fndg
+12800,12821|C0743801|Fall-related injuries|inpo
+12910,12924|C0409497|joint injuries|inpo
+12930,12939|C0018944|hematomas|patf
+12947,12959|C0020538|Hypertension|dsyn
+12947,12959|C1963138|Hypertension|fndg
+12991,13003|C0020538|hypertension|dsyn
+12991,13003|C1963138|hypertension|fndg
+13115,13134|C0020546|hypertensive crisis|patf
+13136,13154|C0262926|Medical history of|fndg
+13144,13167|C0455527|history of hypertension|fndg
+13155,13167|C0020538|hypertension|dsyn
+13155,13167|C1963138|hypertension|fndg
+13195,13207|C0020538|Hypertension|dsyn
+13195,13207|C1963138|Hypertension|fndg
+13221,13236|C1444662|discontinuation|fndg

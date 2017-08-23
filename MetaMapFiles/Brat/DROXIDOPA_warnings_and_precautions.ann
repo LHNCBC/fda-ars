@@ -1,0 +1,187 @@
+T1	AdverseReaction 71 90	supine hypertension
+T2	AdverseReaction 108 127	cardiovascular risk
+T3	AdverseReaction 131 150	supine hypertension
+T4	AdverseReaction 187 199	Hyperpyrexia
+T5	AdverseReaction 204 213	confusion
+T6	AdverseReaction 233 243;279 301	exacerbate ischemic heart disease
+T7	AdverseReaction 233 243;303 314	exacerbate arrhythmias
+T8	AdverseReaction 233 243;320 344	exacerbate congestive heart failure
+T9	Factor 229 232	May
+T10	AdverseReaction 471 490	supine hypertension
+T11	AdverseReaction 966 996	neuroleptic malignant syndrome
+T12	AdverseReaction 998 1001	NMS
+T13	AdverseReaction 1275 1278	NMS
+T14	Severity 1298 1314	life-threatening
+T15	AdverseReaction 1341 1346	fever
+T16	AdverseReaction 1350 1362	hyperthermia
+T17	AdverseReaction 1364 1379	muscle rigidity
+T18	AdverseReaction 1381 1402	involuntary movements
+T19	AdverseReaction 1404 1425	altered consciousness
+T20	AdverseReaction 1431 1451	mental status change
+T21	Factor 1647 1650	may
+T22	AdverseReaction 1651 1661;1671 1693	exacerbate ischemic heart disease
+T23	AdverseReaction 1651 1661;1695 1706	exacerbate arrhythmias
+T24	AdverseReaction 1651 1661;1712 1736	exacerbate congestive heart failure
+T25	AdverseReaction 1967 1990	allergic-type reactions
+T26	Factor 1957 1960	may
+T27	AdverseReaction 2002 2018	bronchial asthma
+T28	Factor 61 64	can
+T29	Factor 95 98	may
+T30	AdverseReaction 360 378	Allergic reactions
+T31	Factor 447 450	may
+E1	AdverseReaction:T1 Hypothetical:E28
+E2	AdverseReaction:T2 Hypothetical:E29
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6 Hypothetical:E9
+E7	AdverseReaction:T7 Hypothetical:E9
+E8	AdverseReaction:T8 Hypothetical:E9
+E9	Factor:T9
+E10	AdverseReaction:T10 Hypothetical:E31
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13 Effect:E14
+E14	Severity:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	Factor:T21
+E22	AdverseReaction:T22 Hypothetical:E21
+E23	AdverseReaction:T23 Hypothetical:E21
+E24	AdverseReaction:T24 Hypothetical:E21
+E25	AdverseReaction:T25 Hypothetical:E26
+E26	Factor:T26
+E27	AdverseReaction:T27 Hypothetical:E26
+E28	Factor:T28
+E29	Factor:T29
+E30	AdverseReaction:T30
+E31	Factor:T31
+A1	flag E1 underspecified
+A2	CUI E1 C0020538
+A3	UMLS-Preferred-Name E1 Hypertensive disease
+A4	MEDDRA-PT E1 Hypertension
+A5	MEDDRA-PT-ID E1 10020772
+A6	CUI E2 C0850624
+A7	UMLS-Preferred-Name E2 cardiovascular risk factor
+A8	MEDDRA-PT E2 Cardiovascular symptom
+A9	MEDDRA-PT-ID E2 10075534
+A10	flag E3 underspecified
+A11	CUI E3 C0020538
+A12	UMLS-Preferred-Name E3 Hypertensive disease
+A13	MEDDRA-PT E3 Hypertension
+A14	MEDDRA-PT-ID E3 10020772
+A15	CUI E4 C0392676
+A16	UMLS-Preferred-Name E4 Hyperpyrexia
+A17	MEDDRA-PT E4 Hyperpyrexia
+A18	MEDDRA-PT-ID E4 10020741
+A19	CUI E5 C0009676
+A20	UMLS-Preferred-Name E5 Confusion
+A21	MEDDRA-PT E5 Confusional state
+A22	MEDDRA-PT-ID E5 10010305
+A23	LLT E5 Confusion
+A24	LLT-ID E5 10010300
+A25	CUI E6 C0151744
+A26	UMLS-Preferred-Name E6 Myocardial Ischemia
+A27	MEDDRA-PT E6 Myocardial ischaemia
+A28	MEDDRA-PT-ID E6 10028600
+A29	LLT E6 Ischaemic heart disease
+A30	LLT-ID E6 10023024
+A31	CUI E7 C0003811
+A32	UMLS-Preferred-Name E7 Cardiac Arrhythmia
+A33	MEDDRA-PT E7 Arrhythmia
+A34	MEDDRA-PT-ID E7 10003119
+A35	CUI E8 C3532952
+A36	UMLS-Preferred-Name E8 Exacerbation of congestive heart failure
+A37	MEDDRA-PT E8 Cardiac failure congestive
+A38	MEDDRA-PT-ID E8 10007559
+A39	LLT E8 Congestive cardiac failure aggravated
+A40	LLT-ID E8 10048565
+A41	flag E10 underspecified
+A42	CUI E10 C0020538
+A43	UMLS-Preferred-Name E10 Hypertensive disease
+A44	MEDDRA-PT E10 Hypertension
+A45	MEDDRA-PT-ID E10 10020772
+A46	CUI E11 C0027849
+A47	UMLS-Preferred-Name E11 Neuroleptic Malignant Syndrome
+A48	MEDDRA-PT E11 Neuroleptic malignant syndrome
+A49	MEDDRA-PT-ID E11 10029282
+A50	CUI E12 C0027849
+A51	UMLS-Preferred-Name E12 Neuroleptic Malignant Syndrome
+A52	MEDDRA-PT E12 Neuroleptic malignant syndrome
+A53	MEDDRA-PT-ID E12 10029282
+A54	LLT E12 NMS
+A55	LLT-ID E12 10029435
+A56	CUI E13 C0027849
+A57	UMLS-Preferred-Name E13 Neuroleptic Malignant Syndrome
+A58	MEDDRA-PT E13 Neuroleptic malignant syndrome
+A59	MEDDRA-PT-ID E13 10029282
+A60	LLT E13 NMS
+A61	LLT-ID E13 10029435
+A62	CUI E15 C0015967
+A63	UMLS-Preferred-Name E15 Fever
+A64	MEDDRA-PT E15 Pyrexia
+A65	MEDDRA-PT-ID E15 10037660
+A66	LLT E15 Fever
+A67	LLT-ID E15 10016558
+A68	CUI E16 C0015967
+A69	UMLS-Preferred-Name E16 Fever
+A70	MEDDRA-PT E16 Hyperthermia
+A71	MEDDRA-PT-ID E16 10020843
+A72	CUI E17 C0026837
+A73	UMLS-Preferred-Name E17 Muscle Rigidity
+A74	MEDDRA-PT E17 Muscle rigidity
+A75	MEDDRA-PT-ID E17 10028330
+A76	CUI E18 C0427086
+A77	UMLS-Preferred-Name E18 Involuntary Movements
+A78	MEDDRA-PT E18 Dyskinesia
+A79	MEDDRA-PT-ID E18 10013916
+A80	LLT E18 Movements involuntary
+A81	LLT-ID E18 10028041
+A82	CUI E19 C0234428
+A83	UMLS-Preferred-Name E19 Disturbance of consciousness
+A84	MEDDRA-PT E19 Altered state of consciousness
+A85	MEDDRA-PT-ID E19 10001854
+A86	LLT E19 Consciousness abnormal
+A87	LLT-ID E19 10010765
+A88	CUI E20 C0856054
+A89	UMLS-Preferred-Name E20 Mental status changes
+A90	MEDDRA-PT E20 Mental status changes
+A91	MEDDRA-PT-ID E20 10048294
+A92	CUI E22 C0151744
+A93	UMLS-Preferred-Name E22 Myocardial Ischemia
+A94	MEDDRA-PT E22 Myocardial ischaemia
+A95	MEDDRA-PT-ID E22 10028600
+A96	LLT E22 Ischaemic heart disease
+A97	LLT-ID E22 10023024
+A98	CUI E23 C0003811
+A99	UMLS-Preferred-Name E23 Cardiac Arrhythmia
+A100	MEDDRA-PT E23 Arrhythmia
+A101	MEDDRA-PT-ID E23 10003119
+A102	CUI E24 C3532952
+A103	UMLS-Preferred-Name E24 Exacerbation of congestive heart failure
+A104	MEDDRA-PT E24 Cardiac failure congestive
+A105	MEDDRA-PT-ID E24 10007559
+A106	LLT E24 Congestive cardiac failure aggravated
+A107	LLT-ID E24 10048565
+A108	CUI E25 C0020517
+A109	UMLS-Preferred-Name E25 Hypersensitivity
+A110	MEDDRA-PT E25 Hypersensitivity
+A111	MEDDRA-PT-ID E25 10020751
+A112	LLT E25 Allergic reaction
+A113	LLT-ID E25 10001718
+A114	CUI E27 C0004096
+A115	UMLS-Preferred-Name E27 Asthma
+A116	MEDDRA-PT E27 Asthma
+A117	MEDDRA-PT-ID E27 10003553
+A118	LLT E27 Asthma bronchial
+A119	LLT-ID E27 10003555
+A120	CUI E30 C1527304
+A121	UMLS-Preferred-Name E30 Allergic Reaction
+A122	MEDDRA-PT E30 Hypersensitivity
+A123	MEDDRA-PT-ID E30 10020751
+A124	LLT E30 Allergic reaction
+A125	LLT-ID E30 10001718

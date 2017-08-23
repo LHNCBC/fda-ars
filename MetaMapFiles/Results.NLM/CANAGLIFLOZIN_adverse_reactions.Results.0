@@ -1,0 +1,172 @@
+127,138|TP|Hypotension|C0020649|10021097|127,138|Hypotension|C0020649,C3163620|10005734,10021097,10060933|fndg,fndg
+185,213|FN|Impairment in Renal Function|C0341677
+185,195;199,204|FP|Impairment Renal|C1565489|10062237|dsyn
+260,272|TP|Hyperkalemia|C0020461|10020646|260,272|Hyperkalemia|C0020461|10020646|fndg
+319,331|TP|Hypoglycemia|C0020615|10020993|319,331|Hypoglycemia|C0020615|10020993|dsyn
+438,464|TP|Genital Mycotic Infections|C0740330|10061180|438,464|Genital Mycotic Infections|C0740330|10061180|dsyn
+511,537|TP|Hypersensitivity Reactions|C0020517|10020751|511,537|Hypersensitivity Reactions|C0020517|10020751|patf
+584,597|TP|Bone Fracture|C0016658|10017076|584,597|Bone Fracture|C0016658|10017076|inpo
+644,680|FN|Increases in Low-Density Lipoprotein|C0549399
+819,852|FN|female genital mycotic infections|C0729565,C0740330
+819,833;842,852|FP|female genital infections|C0729565|10061977|dsyn
+854,877|TP|urinary tract infection|C0042029|10046571|854,877|urinary tract infection|C0042029|10046571|dsyn
+883,902|FN|increased urination|C0042023
+2117,2125|FP|diabetes|C0011847,C0011849,C0011860|10012601,10012601,10067585|dsyn,dsyn,dsyn
+2218,2243|FP|complications of diabetes|C0342257|10061104|patf
+3002,3005|FP|mgN|C0017665|10018372|dsyn
+3024,3027|FP|mgN|C0017665|10018372|dsyn
+3039,3072|FN|Female genital mycotic infections|C0729565,C0740330
+3039,3053;3062,3072|FP|Female genital infections|C0729565|10061977|dsyn
+3150,3174|TP|Urinary tract infections|C0042029|10046571|3150,3174|Urinary tract infections|C0042029|10046571|dsyn
+3261,3280|FN|Increased urination|C0042023
+3372,3403|FN|Male genital mycotic infections|C0564768,C0740330
+3372,3384;3393,3403|FP|Male genital infections|C0564768|10062521|dsyn
+3483,3504|TP|Vulvovaginal pruritus|C1112214|10056530|3483,3504|Vulvovaginal pruritus|C1112214|10056530|sosy
+3594,3600|FN|Thirst|C0039971
+3705,3717|TP|Constipation|C0009806|10010774|3705,3717|Constipation|C0009806,C1963087|10010774,10060933|sosy,fndg
+3816,3822|TP|Nausea|C0027497|10028813|3816,3822|Nausea|C0027497,C1963179|10028813,10060933|patf,sosy
+3936,3950|TP|Abdominal pain|C0000737|10000081|3936,3950|Abdominal pain|C0000737|10000081|sosy
+4897,4905|FP|diabetes|C0011847,C0011849,C0011860|10012601,10012601,10067585|dsyn,dsyn,dsyn
+4997,5022|FP|complications of diabetes|C0342257|10061104|patf
+5334,5341|TP|fatigue|C0015672|10016256|5334,5341|fatigue|C0015672|10016256|sosy
+5427,5434;5447,5453|FN|loss of energy|C0015672
+5427,5443|FN|loss of strength|C3714552
+5461,5469|TP|asthenia|C0004093|10003549|5461,5469|asthenia|C0004093|10003549|sosy
+5617,5629;5640,5647|FN|pancreatitis chronic|C0149521
+5617,5629;5631,5636|FN|pancreatitis acute|C0001339
+5617,5629|FP|pancreatitis|C1963198,C0030305|10060933,10033645|fndg,dsyn
+5815,5857|FN|hypersensitivity-related adverse reactions|C0020517
+5815,5831|FP|hypersensitivity|C0020517|10020751|patf
+5869,5877|TP|erythema|C0041834|10015150|5869,5877|erythema|C0041834|10015150|dsyn
+5879,5883|TP|rash|C0015230|10037844|5879,5883|rash|C0015230|10037844|sosy
+5885,5893|TP|pruritus|C0033774|10037087|5885,5893|pruritus|C0033774|10037087|sosy
+5895,5904|TP|urticaria|C0042109|10046735|5895,5904|urticaria|C0042109,C2186740|10046735,10046735|dsyn,fndg
+5910,5920|TP|angioedema|C0002994|10002424|5910,5920|angioedema|C0002994|10002424|patf
+6096,6112|TP|hypersensitivity|C0020517|10020751|6096,6112|hypersensitivity|C0020517|10020751|patf
+6159,6168|TP|urticaria|C0042109|10046735|6159,6168|urticaria|C0042109,C2186740|10046735,10046735|dsyn,fndg
+6190,6202|FN|diffuse rash|C0497365
+6198,6202|FP|rash|C0015230|10037844|sosy
+6207,6216|TP|urticaria|C0042109|10046735|6207,6216|urticaria|C0042109,C2186740|10046735,10046735|dsyn,fndg
+6338,6347|TP|urticaria|C0042109|10046735|6338,6347|urticaria|C0042109,C2186740|10046735,10046735|dsyn,fndg
+6399,6441|FN|Photosensitivity-related adverse reactions|C2362621
+6399,6415|FP|Photosensitivity|C2362621|10060933|fndg
+6453,6478|TP|photosensitivity reaction|C0162830|10034972|6453,6478|photosensitivity reaction|C0162830|10034972|dsyn
+6480,6506|TP|polymorphic light eruption|C0031736|10036087|6480,6506|polymorphic light eruption|C0031736|10036087|dsyn
+6512,6519|TP|sunburn|C0038814|10042496|6512,6519|sunburn|C0038814|10042496|inpo
+6739,6755|FP|Volume Depletion|C0546884|10021137|fndg
+6811,6827|FN|osmotic diuresis|C0232823
+6847,6881|FN|reductions in intravascular volume|C1371678
+6994,7036|FN|volume depletion-related adverse reactions|C0546884
+6994,7010|FP|volume depletion|C0546884|10021137|fndg
+7044,7055|TP|hypotension|C0020649|10021097|7044,7055|hypotension|C0020649,C3163620|10005734,10021097,10060933|fndg,fndg
+7057,7075|TP|postural dizziness|C0234987|10013578|7057,7075|postural dizziness|C0234987|10013578|fndg
+7077,7100|TP|orthostatic hypotension|C0020651|10031127|7077,7100|orthostatic hypotension|C0020651|10031127|fndg
+7102,7109|TP|syncope|C0039070|10042772|7102,7109|syncope|C0039070|10042772|sosy
+7115,7126|TP|dehydration|C0011175|10012174|7115,7126|dehydration|C0011175|10012174|dsyn
+7255,7297|FN|volume depletion-related adverse reactions|C0546884
+7255,7271|FP|volume depletion|C0546884|10021137|fndg
+7339,7355|FP|renal impairment|C1565489|10062237|dsyn
+7625,7666|FN|Volume Depletion-Related Adverse Reaction|C0546884
+7625,7641|FP|Volume Depletion|C0546884|10021137|fndg
+8045,8079|FN|eGFR less than 60 mL/min/1.73 m  2|C0853068
+8280,8285|FP|Falls|C0000921,C0085639|10016173,10016173|inpo,fndg
+8425,8430|TP|falls|C0085639|10016173|8425,8430|falls|C0000921,C0085639|10016173,10016173|inpo,fndg
+8544,8549|FN|falls|C0085639
+8647,8657;8661,8666|FP|Impairment Renal|C1565489|10062237|dsyn
+8727,8755|FN|increase in serum creatinine|C0151578
+8774,8795|FN|fall in estimated GFR|C0853068
+8774,8778|FP|fall|C0085639|10016173|fndg
+8830,8846|FP|renal impairment|C1565489|10062237|dsyn
+8897,8907;8929,8933|FN|Changes in eGFR|C0854050
+8897,8924|FN|Changes in Serum Creatinine|C0853746
+9018,9034|FP|Renal Impairment|C1565489|10062237|dsyn
+9098,9101|FP|mgN|C0017665|10018372|dsyn
+9124,9127|FP|mgN|C0017665|10018372|dsyn
+9795,9798|FP|mgN|C0017665|10018372|dsyn
+9820,9823|FP|mgN|C0017665|10018372|dsyn
+9842,9858|FP|Renal Impairment|C1565489|10062237|dsyn
+10521,10529;10539,10553|FP|impaired renal function|C1565489|10062237|dsyn
+10632,10654|FN|renal function decline|C1565489
+10670,10674;10706,10729|FN|eGFR 30% lower than baseline|C0853068
+10670,10700|FN|eGFR below 80 mL/min/1.73 m  2|C0853068
+10931,10953|FN|renal function decline|C1565489
+11008,11024|FP|renal impairment|C1565489|10062237|dsyn
+11243,11265|FN|renal function decline|C1565489
+11281,11309|FN|eGFR 30% lower than baseline|C0853068
+11511,11533|FN|renal function decline|C1565489
+11588,11604|FP|renal impairment|C1565489|10062237|dsyn
+11859,11881|FN|renal function decline|C1565489
+11993,12024|FN|renal-related adverse reactions|C1557806
+12032,12058|FN|increased blood creatinine|C0235431
+12060,12096|FN|decreased glomerular filtration rate|C0853068
+12070,12096|FP|glomerular filtration rate|C1561549|10060933|fndg
+12098,12114|TP|renal impairment|C1565489|10062237|12098,12114|renal impairment|C1565489|10062237|dsyn
+12120,12139|FN|acute renal failure|C0022660
+12181,12197|FP|renal impairment|C1565489|10062237|dsyn
+12252,12268|FP|renal impairment|C1565489|10062237|dsyn
+12287,12318|FN|renal-related adverse reactions|C1557806
+12424,12452|FN|renal-related adverse events|C1557806
+12593,12619|FP|Genital Mycotic Infections|C0740330|10061180|dsyn
+12682,12715|FN|female genital mycotic infections|C0729565,C0740330
+12682,12696;12705,12715|FP|female genital infections|C0729565|10061977|dsyn
+12723,12753|TP|vulvovaginal mycotic infection|C1609512|10064899|12723,12753|vulvovaginal mycotic infection|C1609512|10064899|dsyn
+12755,12779|TP|vulvovaginal candidiasis|C0700345|10047784|12755,12779|vulvovaginal candidiasis|C0700345|10047784|dsyn
+12785,12799|TP|vulvovaginitis|C0042998|10047794|12785,12799|vulvovaginitis|C0042998|10047794|dsyn
+12948,12974|FP|genital mycotic infections|C0740330|10061180|dsyn
+13003,13029|TP|genital mycotic infections|C0740330|10061180|13003,13029|genital mycotic infections|C0740330|10061180|dsyn
+13043,13049;13073,13099|FN|Female genital mycotic infections|C0729565,C0740330
+13073,13099|FP|genital mycotic infections|C0740330|10061180|dsyn
+13245,13252;13277,13303|FN|females genital mycotic infections|C0729565,C0740330
+13277,13303|FP|genital mycotic infections|C0740330|10061180|dsyn
+13492,13523|FN|male genital mycotic infections|C0564768,C0740330
+13492,13504;13513,13523|FP|male genital infections|C0564768|10062521|dsyn
+13531,13549|TP|candidal balanitis|C0276684|10004074|13531,13549|candidal balanitis|C0276684|10004074|dsyn
+13551,13566|TP|balanoposthitis|C0004691|10004078|13551,13566|balanoposthitis|C0004691|10004078|dsyn
+13684,13715|FN|Male genital mycotic infections|C0564768,C0740330
+13684,13696;13705,13715|FP|Male genital infections|C0564768|10062521|dsyn
+13812,13827|FP|balanoposthitis|C0004691|10004078|dsyn
+13829,13833;13857,13883|FN|Male genital mycotic infections|C0564768,C0740330
+13857,13883|FP|genital mycotic infections|C0740330|10061180|dsyn
+14110,14115;14141,14167|FN|males genital mycotic infections|C0564768,C0740330
+14141,14167|FP|genital mycotic infections|C0740330|10061180|dsyn
+14300,14308|TP|phimosis|C0345326|10034878|14300,14308|phimosis|C0345326,C0403766|10034878,10068625|cgab,acab
+14427,14435|TP|phimosis|C0345326|10034878|14427,14435|phimosis|C0345326,C0403766|10034878,10068625|cgab,acab
+14488,14500|FP|Hypoglycemia|C0020615|10020993|dsyn
+14531,14543|FP|hypoglycemia|C0020615|10020993|dsyn
+14611,14623|FP|hypoglycemia|C0020615|10020993|dsyn
+14694,14706|FP|hypoglycemia|C0020615|10020993|dsyn
+14747,14759|FP|hypoglycemia|C0020615|10020993|dsyn
+14832,14850|FP|lost consciousness|C0041657|10024855|fndg
+14869,14876|FP|seizure|C1959629,C0036572|10060933,10039906|fndg,sosy
+15041,15053|TP|hypoglycemia|C0020615|10020993|15041,15053|hypoglycemia|C0020615|10020993|dsyn
+15224,15236|FN|Hypoglycemia|C0020615
+15290,15302|TP|hypoglycemia|C0020615|10020993|15290,15302|hypoglycemia|C0020615|10020993|dsyn
+15363,15382|FN|hypoglycemic events|C0020615
+18319,18336|FP|of bone fractures|C0016658|10017076|inpo
+18322,18336|FN|bone fractures|C0016658
+18463,18465;18478,18492|FP|of bone fractures|C0016658|10017076|inpo
+18478,18492|FN|bone fractures|C0016658
+18628,18637;18801,18818|FN|Fractures upper extremities|C0178316
+18628,18637|TP|Fractures|C0016658|10017076|18628,18637|Fractures|C0016658|10017076|inpo
+18745,18749|FP|fall|C0085639|10016173|fndg
+19002,19018|FP|renal impairment|C1565489|10062237|dsyn
+19065,19093|FN|increases in serum potassium|C0553704
+19484,19506|FN|increases in potassium|C0853760
+19606,19622|FP|renal impairment|C1565489|10062237|dsyn
+19970,19998|FN|increases in serum magnesium|C0858142
+20173,20205|FN|change in serum magnesium levels|C0580560
+20349,20365|FP|renal impairment|C1565489|10062237|dsyn
+20403,20435|FN|serum magnesium levels increased|C0858142
+20583,20611|FN|increases in serum phosphate|C0553706
+20712,20744|FN|change in serum phosphate levels|C1096304
+20888,20904|FP|renal impairment|C1565489|10062237|dsyn
+20951,20983|FN|serum phosphate levels increased|C0553706
+21262,21280|FN|increases in LDL-C|C0549399
+21315,21322;21355,21363|FN|changes in LDL-C|C0853611
+21621,21643|FN|increases in non-HDL-C|C1535898
+22013,22020;22053,22066|FN|changes in hemoglobin|C0349705
+22411,22453|FN|hemoglobin above the upper limit of normal|C0549448
+22769,22784;22838,22857|FN|declines in BMD at the lumbar spine|C0877225
+22769,22801|FN|declines in BMD at the total hip|C0877225
+22921,22933;22997,23018|FN|BMD declines at the distal forearm|C0877225
+22921,22933;22944,22963|FN|BMD declines at the femoral neck|C0877225

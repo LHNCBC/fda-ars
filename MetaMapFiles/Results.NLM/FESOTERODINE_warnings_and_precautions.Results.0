@@ -1,0 +1,35 @@
+54,71;99,105|FN|Angioedema of the larynx|C0023052
+54,71;84,90|FN|Angioedema of the tongue|C1304201
+54,71;78,82|FN|Angioedema of the lips|C1304200
+54,76|FN|Angioedema of the face|C0743747
+244,270|FP|bladder outlet obstruction|C0005694|10005060|dsyn
+294,311|FP|urinary retention|C0080274|10046555|fndg
+575,596|FP|narrow-angle glaucoma|C0017605|10002500|dsyn
+672,702|FN|Central Nervous System Effects|C0683212
+704,714|TP|Somnolence|C2830004|10041349|704,714|Somnolence|C2830004|10041349|fndg
+911,928|FP|myasthenia gravis|C0026896|10028417|dsyn
+1061,1078;1106,1112|FN|Angioedema of the larynx|C0023052
+1061,1078;1091,1097|FN|Angioedema of the tongue|C1304201
+1061,1078;1085,1089|FN|Angioedema of the lips|C1304200
+1061,1083|FN|Angioedema of the face|C0743747
+1164,1174|FP|angioedema|C0002994|10002424|patf
+1206,1216|TP|Angioedema|C0002994|10002424|1206,1216|Angioedema|C0002994|10002424|patf
+1233,1254|FN|upper airway swelling|C2939065
+1492,1518|FP|Bladder Outlet Obstruction|C0005694|10005060|dsyn
+1607,1633|FP|bladder outlet obstruction|C0005694|10005060|dsyn
+1657,1674|FP|urinary retention|C0080274|10046555|fndg
+1947,1968|FP|Narrow-Angle Glaucoma|C0017605|10002500|dsyn
+2039,2060|FP|narrow-angle glaucoma|C0017605|10002500|dsyn
+2227,2242;2266,2269;2271,2278|FN|anticholinergic CNS effects|C3160947
+2227,2264;2271,2278|FN|anticholinergic central nervous sytem effects|C3160947
+2326,2353|FN|CNS anticholinergic effects|C0007682
+2326,2329|FP|CNS|C0027769|10029216|sosy
+2384,2392|TP|headache|C0018681|10019211|2384,2392|headache|C0018681,C2096315|10019211,10019211|fndg,sosy
+2394,2403|TP|dizziness|C0012833|10013573|2394,2403|dizziness|C0012833,C0042571,C1963093|10013573,10047340,10060933|sosy,sosy,fndg
+2409,2419|TP|somnolence|C2830004|10041349|2409,2419|somnolence|C2830004|10041349|fndg
+2479,2482|FP|CNS|C0027769|10029216|sosy
+2693,2696|FP|CNS|C0027769|10029216|sosy
+3035,3051|FP|Renal Impairment|C1565489|10062237|dsyn
+3135,3151|FP|renal impairment|C1565489|10062237|dsyn
+3928,3945|FP|Myasthenia Gravis|C0026896|10028417|dsyn
+4003,4020|FP|myasthenia gravis|C0026896|10028417|dsyn

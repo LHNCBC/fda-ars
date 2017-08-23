@@ -1,0 +1,192 @@
+T1	AdverseReaction 85 93	diarrhea
+T2	AdverseReaction 1184 1195	hypotension
+T3	AdverseReaction 1196 1219	orthostatic hypotension
+T4	AdverseReaction 1504 1512	diarrhea
+T5	AdverseReaction 1891 1897	nausea
+T6	AdverseReaction 1959 1967	asthenia
+T7	AdverseReaction 1969 1976	fatigue
+T8	AdverseReaction 2033 2045	muscle spasm
+T9	AdverseReaction 2079 2088	dizziness
+T10	AdverseReaction 2090 2108	dizziness postural
+T11	AdverseReaction 2166 2171	cough
+T12	AdverseReaction 2400 2429	increases in serum creatinine
+T13	Severity 2383 2388	Small
+T14	Severity 2389 2399	reversible
+T15	AdverseReaction 2721 2747	serum creatinine increases
+T16	AdverseReaction 2785 2799	Low hemoglobin
+T17	AdverseReaction 2785 2788;2801 2811	Low hematocrit
+T18	AdverseReaction 2785 2788;2817 2827	Low RBC counts
+T19	AdverseReaction 2994 3011;3020 3026	abnormal platelet counts
+T21	AdverseReaction 2972 2975;3003 3011;3020 3026	Low platelet counts
+T22	AdverseReaction 2980 2984;3016 3026	high WBC counts
+T23	AdverseReaction 3403 3409	Nausea
+T24	AdverseReaction 3415 3428	Muscle spasms
+T25	AdverseReaction 3434 3438	Rash
+T26	AdverseReaction 3444 3452	Pruritus
+T27	AdverseReaction 3458 3468	Angioedema
+T20	AdverseReaction 2994 3002;3016 3026	abnormal WBC counts
+T28	AdverseReaction 2972 2975;3016 3026	Low WBC counts
+T29	AdverseReaction 2980 2984;3003 3011;3020 3026	high platelet counts
+T30	Severity 2985 2993	markedly
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12 Effect:E13 Effect2:E14
+E13	Severity:T13
+E14	Severity:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19 Effect:E30
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E20	AdverseReaction:T20 Effect:E30
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	Severity:T30
+A1	CUI E1 C0011991
+A2	UMLS-Preferred-Name E1 Diarrhea
+A3	MEDDRA-PT E1 Diarrhoea
+A4	MEDDRA-PT-ID E1 10012735
+A5	LLT E1 Diarrhea
+A6	LLT-ID E1 10012727
+A7	CUI E2 C0020649
+A8	UMLS-Preferred-Name E2 Hypotension
+A9	MEDDRA-PT E2 Hypotension
+A10	MEDDRA-PT-ID E2 10021097
+A11	CUI E3 C0020651
+A12	UMLS-Preferred-Name E3 Hypotension, Orthostatic
+A13	MEDDRA-PT E3 Orthostatic hypotension
+A14	MEDDRA-PT-ID E3 10031127
+A15	CUI E4 C0011991
+A16	UMLS-Preferred-Name E4 Diarrhea
+A17	MEDDRA-PT E4 Diarrhoea
+A18	MEDDRA-PT-ID E4 10012735
+A19	LLT E4 Diarrhea
+A20	LLT-ID E4 10012727
+A21	CUI E5 C0027497
+A22	UMLS-Preferred-Name E5 Nausea
+A23	MEDDRA-PT E5 Nausea
+A24	MEDDRA-PT-ID E5 10028813
+A25	CUI E6 C0004093
+A26	UMLS-Preferred-Name E6 Asthenia
+A27	MEDDRA-PT E6 Asthenia
+A28	MEDDRA-PT-ID E6 10003549
+A29	CUI E7 C0015672
+A30	UMLS-Preferred-Name E7 Fatigue
+A31	MEDDRA-PT E7 Fatigue
+A32	MEDDRA-PT-ID E7 10016256
+A33	CUI E8 C0037763
+A34	UMLS-Preferred-Name E8 Spasm
+A35	MEDDRA-PT E8 Muscle spasms
+A36	MEDDRA-PT-ID E8 10028334
+A37	LLT E8 Muscle spasm
+A38	LLT-ID E8 10028333
+A39	CUI E9 C0012833
+A40	UMLS-Preferred-Name E9 Dizziness
+A41	MEDDRA-PT E9 Dizziness
+A42	MEDDRA-PT-ID E9 10013573
+A43	CUI E10 C0234987
+A44	UMLS-Preferred-Name E10 Postural dizziness
+A45	MEDDRA-PT E10 Dizziness postural
+A46	MEDDRA-PT-ID E10 10013578
+A47	CUI E11 C0010200
+A48	UMLS-Preferred-Name E11 Coughing
+A49	MEDDRA-PT E11 Cough
+A50	MEDDRA-PT-ID E11 10011224
+A51	CUI E12 C0700225
+A52	UMLS-Preferred-Name E12 Serum creatinine raised
+A53	MEDDRA-PT E12 Blood creatinine increased
+A54	MEDDRA-PT-ID E12 10005483
+A55	LLT E12 Serum creatinine increased
+A56	LLT-ID E12 10040233
+A57	CUI E15 C0700225
+A58	UMLS-Preferred-Name E15 Serum creatinine raised
+A59	MEDDRA-PT E15 Blood creatinine increased
+A60	MEDDRA-PT-ID E15 10005483
+A61	LLT E15 Serum creatinine increased
+A62	LLT-ID E15 10040233
+A63	CUI E16 C0162119
+A64	UMLS-Preferred-Name E16 Hemoglobin low
+A65	MEDDRA-PT E16 Haemoglobin decreased
+A66	MEDDRA-PT-ID E16 10018884
+A67	LLT E16 Hemoglobin low
+A68	LLT-ID E16 10055600
+A69	CUI E17 C0744727
+A70	UMLS-Preferred-Name E17 Hematocrit decreased
+A71	MEDDRA-PT E17 Haematocrit decreased
+A72	MEDDRA-PT-ID E17 10018838
+A73	LLT E17 Hematocrit low
+A74	LLT-ID E17 10060546
+A75	CUI E18 C0427457
+A76	UMLS-Preferred-Name E18 RBC count low
+A77	MEDDRA-PT E18 Red blood cell count decreased
+A78	MEDDRA-PT-ID E18 10038153
+A79	LLT E18 RBC decreased
+A80	LLT-ID E18 10037926
+A81	CUI E19 C0580317
+A82	UMLS-Preferred-Name E19 Platelet count abnormal
+A83	MEDDRA-PT E19 Platelet count abnormal
+A84	MEDDRA-PT-ID E19 10035526
+A85	CUI E21 C0392386
+A86	UMLS-Preferred-Name E21 Decreased platelet count
+A87	MEDDRA-PT E21 Platelet count decreased
+A88	MEDDRA-PT-ID E21 10035528
+A89	LLT E21 Low platelets
+A90	LLT-ID E21 10024922
+A91	CUI E22 C0750426
+A92	UMLS-Preferred-Name E22 White blood cell count increased (lab result)
+A93	MEDDRA-PT E22 White blood cell count increased
+A94	MEDDRA-PT-ID E22 10047943
+A95	LLT E22 WBC increased
+A96	LLT-ID E22 10056739
+A97	CUI E23 C0027497
+A98	UMLS-Preferred-Name E23 Nausea
+A99	MEDDRA-PT E23 Nausea
+A100	MEDDRA-PT-ID E23 10028813
+A101	CUI E24 C0037763
+A102	UMLS-Preferred-Name E24 Spasm
+A103	MEDDRA-PT E24 Muscle spasms
+A104	MEDDRA-PT-ID E24 10028334
+A105	CUI E25 C0015230
+A106	UMLS-Preferred-Name E25 Exanthema
+A107	MEDDRA-PT E25 Rash
+A108	MEDDRA-PT-ID E25 10037844
+A109	CUI E26 C0033774
+A110	UMLS-Preferred-Name E26 Pruritus
+A111	MEDDRA-PT E26 Pruritus
+A112	MEDDRA-PT-ID E26 10037087
+A113	CUI E27 C0002994
+A114	UMLS-Preferred-Name E27 Angioedema
+A115	MEDDRA-PT E27 Angioedema
+A116	MEDDRA-PT-ID E27 10002424
+A117	CUI E20 C0580531
+A118	UMLS-Preferred-Name E20 White blood cell count abnormal
+A119	MEDDRA-PT E20 White blood cell count abnormal
+A120	MEDDRA-PT-ID E20 10047940
+A121	CUI E28 C0750394
+A122	UMLS-Preferred-Name E28 White blood cell count decreased
+A123	MEDDRA-PT E28 White blood cell count decreased
+A124	MEDDRA-PT-ID E28 10047942
+A125	LLT E28 WBC decreased
+A126	LLT-ID E28 10056731
+A127	CUI E29 C0857460
+A128	UMLS-Preferred-Name E29 Increased number of platelets
+A129	MEDDRA-PT E29 Platelet count increased
+A130	MEDDRA-PT-ID E29 10051608
+A131	LLT E29 Platelet count high
+A132	LLT-ID E29 10074399

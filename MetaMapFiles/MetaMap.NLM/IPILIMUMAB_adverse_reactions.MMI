@@ -1,0 +1,80 @@
+00000000|MMI|119.73|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-29-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-27-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-27-"adverse reactions"-noun-0,"Adverse reactions"-tx-26-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-25-"adverse reactions"-noun-0,"Adverse reactions"-tx-24-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-23-"adverse reactions"-noun-0,"Adverse reactions"-tx-22-"adverse reactions"-noun-0,"Adverse reactions"-tx-21-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-16-"adverse reaction"-noun-0,"Adverse reactions"-tx-15-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-14-"adverse reactions"-noun-0,"Adverse reactions"-tx-13-"adverse reactions"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|6333/17;4297/16;5905/17;3934/17;3853/17;2541/17;2251/17;2100/17;2042/17;1031/16;791/17;679/17;556/17;9/17;44/17|
+00000000|MMI|54.41|Disease|C0012634|[dsyn]|["DISEASE"-tx-36-"disease"-noun-0,"Disorders"-tx-31-"Disorders"-noun-0,"Disorders"-tx-25-"Disorders"-noun-0,"condition"-tx-25-"Conditions"-noun-0,"condition"-tx-16-"conditions"-noun-0]|TX|7751/7;6644/9;[3293/9],[3564/9];3598/10;1015/10|C23.550.288
+00000000|MMI|43.34|Colitis|C0009319|[dsyn]|["COLITIS"-tx-25-"Colitis"-noun-0,"COLITIS"-tx-22-"colitis"-noun-0,"COLITIS"-tx-14-"colitis"-noun-0]|TX|3151/7;2212/7;747/7|C06.405.205.265;C06.405.469.158.188
+00000000|MMI|37.96|1+|C3816745|[fndg]|["1+"-tx-31-"1"-percentage-0,"1+"-tx-27-"1"-integer-0,"1+"-tx-25-"1"-integer-0]|TX|6778/1;[4788/1],[4896/1],[5005/1],[5114/1],[5333/1],[5442/1],[5769/1];[3131/1],[3398/1]|
+00000000|MMI|34.98|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-25-"Pruritus"-noun-0,"PRURITUS"-tx-22-"pruritus"-noun-0,"PRURITUS"-tx-14-"pruritus"-noun-0]|TX|3326/8;2192/8;727/8|C17.800.685;C23.888.885.625
+00000000|MMI|34.93|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-25-"Diarrhea"-noun-0,"DIARRHOEA"-tx-22-"diarrhea"-noun-0,"DIARRHOEA"-tx-14-"diarrhea"-noun-0]|TX|3034/8;2182/8;717/8|C23.888.821.214
+00000000|MMI|30.21|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-25-"Fatigue"-verb-0,"FATIGUE"-tx-22-"fatigue"-noun-0,"FATIGUE"-tx-14-"fatigue"-noun-0]|TX|3632/7;2173/7;708/7|C23.888.369
+00000000|MMI|26.71|Exanthema|C0015230|[sosy]|["RASH"-tx-25-"Rash"-noun-0,"RASH"-tx-22-"rash"-noun-0,"RASH"-tx-14-"rash"-noun-0]|TX|3443/4;2202/4;737/4|C17.800.257
+00000000|MMI|22.60|Enterocolitis|C0014356|[dsyn]|["ENTEROCOLITIS"-tx-28-"enterocolitis"-noun-0,"ENTEROCOLITIS"-tx-3-"enterocolitis"-noun-0]|TX|6222/13;155/13|C06.405.205.596;C06.405.469.363
+00000000|MMI|19.54|Alveolar rhabdomyosarcoma|C0206655|[neop]|["ARMS"-tx-23-"arms"-noun-0]|TX|2350/4|C04.557.450.590.550.660.665;C04.557.450.795.550.660.665
+00000000|MMI|19.46|Fatal Outcome|C0206277|[patf]|["Fatal Outcome"-tx-26-"fatal outcome"-noun-0]|TX|3983/13|E05.318.308.985.550.325;L01.280.975.550.325;N01.224.935.698.201;N06.850.505.400.975.550.325;N06.850.520.308.985.550.325
+00000000|MMI|19.36|Unmarried|C0087136|[fndg]|["single"-tx-19-"single"-adj-0]|TX|1726/6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+00000000|MMI|16.81|Hypopituitarism|C0020635|[dsyn]|["HYPOPITUITARISM"-tx-27-"Hypopituitarism"-noun-0]|TX|4935/15|C10.228.140.617.738.300;C19.700.482
+00000000|MMI|16.73|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-30-"uncertain"-adj-0]|TX|6477/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|16.63|melanoma|C0025202|[neop]|["MELANOMA"-tx-28-"melanoma"-noun-0]|TX|6182/8|C04.557.465.625.650.510;C04.557.580.625.650.510;C04.557.665.510
+00000000|MMI|15.93|0%|C3842591|[fndg]|["0%"-tx-27-"0"-integer-0,"0%"-tx-25-"0"-integer-0]|TX|[5550/1],[5659/1];[3248/1],[3371/1],[3540/1]|
+00000000|MMI|15.42|Drug Hypersensitivity Syndrome|C3541994|[dsyn]|["DRESS Syndrome"-tx-31-"DRESS syndrome"-noun-0]|TX|6711/14|C17.800.174.600.262;C20.543.206.380.262;C25.100.468.380.262
+00000000|MMI|15.42|Hepatitis A|C0019159|[dsyn]|["Hepatitis"-tx-28-"hepatitis"-noun-0]|TX|6240/9|C02.440.420;C02.782.687.359.500;C06.552.380.705.422
+00000000|MMI|15.42|Kidney Failure|C0035078|[dsyn]|["Failure, Renal"-tx-27-"renal failure"-noun-0]|TX|6081/13|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|14.08|Nephritis|C0027697|[dsyn]|["-- Nephritis"-tx-27-"Nephritis"-noun-0]|TX|5480/9|C12.777.419.570;C13.351.968.419.570
+00000000|MMI|14.00|Immunosuppression|C4048329|[dsyn]|["Immunosuppression"-tx-17-"immunosuppression"-noun-0]|TX|1352/17|E02.095.465.425.450;E05.478.610
+00000000|MMI|13.20|2+|C3833492|[fndg]|["2+"-tx-27-"2"-integer-0,"2+"-tx-27-"2"-percentage-0,"2+"-tx-25-"2"-integer-0]|TX|[4569/1],[6002/1];[4569/1],[6002/1];[3488/1],[3514/1]|
+00000000|MMI|12.69|Esophagitis|C0014868|[dsyn]|["OESOPHAGITIS"-tx-27-"esophagitis"-noun-0]|TX|6031/11|C06.405.117.620;C06.405.205.663
+00000000|MMI|12.69|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-27-"urticaria"-noun-0]|TX|5991/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|12.69|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-33-"anaphylaxis"-noun-0]|TX|7109/11|C20.543.480.099
+00000000|MMI|11.22|Intestinal Perforation|C0021845|[dsyn]|["INTESTINAL PERFORATION"-tx-26-"intestinal perforation"-noun-0]|TX|4015/22|C06.405.469.557
+00000000|MMI|11.18|Eosinophilia|C0014457|[dsyn]|["EOSINOPHILIA"-tx-31-"eosinophilia"-noun-0]|TX|6675/12|C15.378.553.231
+00000000|MMI|10.17|Colitis Adverse Event|C1963084|[fndg]|["Colitis"-tx-25-"Colitis"-noun-0,"Colitis"-tx-22-"colitis"-noun-0,"Colitis"-tx-14-"colitis"-noun-0]|TX|3151/7;2212/7;747/7|
+00000000|MMI|10.04|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-25-"Diarrhea"-noun-0,"Diarrhea"-tx-22-"diarrhea"-noun-0,"Diarrhea"-tx-14-"diarrhea"-noun-0]|TX|3034/8;2182/8;717/8|
+00000000|MMI|9.95|Hepatitis|C0019158|[dsyn]|["HEPATITIS"-tx-28-"hepatitis"-noun-0]|TX|6240/9|C06.552.380
+00000000|MMI|9.95|Respiratory Distress Syndrome, Adult|C0035222|[dsyn]|["Acute Respiratory Distress Syndrome"-tx-27-"acute respiratory distress syndrome"-noun-0]|TX|6044/35|C08.381.840;C08.618.840
+00000000|MMI|9.59|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-27-"3"-integer-0,"3+"-tx-25-"3"-integer-0]|TX|4678/1;[3222/1],[3729/1]|
+00000000|MMI|9.07|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-26-"Fatal"-adj-0,"FATAL"-tx-25-"fatal"-adj-0,"Grade 5"-tx-23-"Grade 5"-noun-0]|TX|3912/5;3831/5;2497/5,2505/1|
+00000000|MMI|8.65|Adrenal gland hypofunction|C0001623|[dsyn]|["ADRENAL INSUFFICIENCY"-tx-27-"Adrenal insufficiency"-noun-0]|TX|5044/21|C19.053.500
+00000000|MMI|8.65|Pneumonia|C0032285|[dsyn]|["Pneumonitis"-tx-27-"Pneumonitis"-noun-0]|TX|5262/11|C08.381.677;C08.730.610
+00000000|MMI|8.65|Pneumonitis|C3714636|[dsyn]|["PNEUMONITIS"-tx-27-"Pneumonitis"-noun-0]|TX|5262/11|C08.381.677;C08.730.610
+00000000|MMI|8.61|Meningitis|C0025289|[dsyn]|["MENINGITIS"-tx-27-"Meningitis"-noun-0]|TX|5371/10|C10.228.614
+00000000|MMI|6.47|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-31-"Subcutaneous Disorders"-noun-0,"Subcutaneous Disorders"-tx-25-"Subcutaneous Disorders"-noun-0]|TX|6624/12,6644/9;3273/12,3293/9|
+00000000|MMI|6.32|Endocrine System Diseases|C0014130|[dsyn]|["Endocrinopathy"-tx-27-"Endocrinopathy"-noun-0,"endocrinopathies"-tx-11-"endocrinopathies"-noun-0]|TX|4822/14;467/16|C19
+00000000|MMI|6.22|4+ Answer to question|C3838679|[fndg]|["4+"-tx-25-"4"-integer-0,"4+"-tx-18-"4"-integer-0]|TX|3105/1;1428/1|
+00000000|MMI|6.22|Detected (finding)|C0442726|[fndg]|["Detected"-tx-33-"detected"-verb-1,"detect"-tx-32-"detecting"-noun-0]|TX|7212/8;6959/9|
+00000000|MMI|6.18|Experimental Result|C2825142|[fndg]|["Result"-tx-36-"results"-noun-0,"Result"-tx-34-"results"-noun-0]|TX|7553/7;7291/7|
+00000000|MMI|6.12|10%|C3842590|[fndg]|["10%"-tx-27-"10"-integer-0,"10%"-tx-21-"10"-percentage-0]|TX|5881/2;2063/2|
+00000000|MMI|5.89|Adverse reaction to drug|C0041755|[inpo]|["DRUG REACTION"-tx-31-"Drug reaction"-noun-0]|TX|6656/13|C25.100
+00000000|MMI|5.84|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-25-"Gastrointestinal Disorders"-noun-0]|TX|2978/26|C06.405
+00000000|MMI|5.72|Hypersensitivity|C0020517|[patf]|["HYPERSENSITIVITY"-tx-33-"hypersensitivity"-noun-0]|TX|7089/16|C20.543
+00000000|MMI|5.70|Autoimmune Diseases|C0004364|[dsyn]|["AUTOIMMUNE DISEASE"-tx-17-"autoimmune disease"-noun-0]|TX|1305/18|C20.111
+00000000|MMI|4.49|5-6|C3843715|[fndg]|["5-6"-tx-13-"5.6"-real_number-0]|TX|639/3|
+00000000|MMI|4.49|6/5|C0442749|[fndg]|["5 6"-tx-13-"5.6"-real_number-0]|TX|639/3|
+00000000|MMI|4.49|Adverse reaction to drug or medicament administered by infusion|C2368034|[patf]|["Infusion reaction"-tx-27-"infusion reaction"-noun-0]|TX|6100/17|
+00000000|MMI|4.49|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-33-"anaphylaxis"-noun-0]|TX|7109/11|
+00000000|MMI|4.49|Esophagitis Adverse Event|C1963106|[fndg]|["Esophagitis"-tx-27-"esophagitis"-noun-0]|TX|6031/11|
+00000000|MMI|4.49|Immune mediated dermatitis|C3670617|[dsyn]|["Immune mediated dermatitis"-tx-7-"Immune-mediated dermatitis"-noun-0]|TX|295/26|
+00000000|MMI|4.49|Living Alone|C0439044|[fndg]|["Alone"-tx-19-"alone"-adj-0]|TX|1936/5|
+00000000|MMI|4.49|Metastatic melanoma|C0278883|[neop]|["Metastatic Melanoma"-tx-18-"metastatic melanoma"-noun-0]|TX|1518/19|
+00000000|MMI|4.49|Renal Failure Adverse Event|C1963154|[patf]|["Renal failure"-tx-27-"renal failure"-noun-0]|TX|6081/13|
+00000000|MMI|4.49|Ulceration of colon|C0267491|[dsyn]|["Large intestinal ulcer"-tx-27-"large intestinal ulcer"-noun-0]|TX|6007/22|
+00000000|MMI|4.49|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-27-"urticaria"-noun-0]|TX|5991/9|
+00000000|MMI|4.49|systemic symptoms|C2039684|[sosy]|["systemic symptoms"-tx-31-"systemic symptoms"-noun-0]|TX|6692/17|
+00000000|MMI|3.28|hepatitis immune|C0744855|[dsyn]|["immune hepatitis"-tx-5-"Immune hepatitis"-noun-0]|TX|219/6,235/9|
+00000000|MMI|3.19|20%|C3842589|[fndg]|["20%"-tx-25-"20"-integer-0]|TX|3118/2|
+00000000|MMI|3.19|Adrenal cortical hypofunction|C0405580|[dsyn]|["Adrenal Insufficiency"-tx-27-"Adrenal insufficiency"-noun-0]|TX|5044/21|
+00000000|MMI|3.19|Related personal status|C0445223|[fndg]|["Related"-tx-33-"related"-adj-0]|TX|7036/7|
+00000000|MMI|3.15|Neuropathy|C0442874|[dsyn]|["neuropathies"-tx-9-"neuropathies"-noun-0]|TX|388/12|
+00000000|MMI|3.13|29+|C3843708|[fndg]|["29+"-tx-25-"29"-integer-0]|TX|3475/2|
+00000000|MMI|3.11|Distance vision 6/9|C0442751|[fndg]|["6 9"-tx-35-"6.9"-percentage-0]|TX|7400/3|
+00000000|MMI|3.09|Discontinued|C1444662|[fndg]|["Discontinued"-tx-21-"discontinued"-verb-0]|TX|2025/12|
+00000000|MMI|3.09|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-25-"life-threatening"-adj-0]|TX|3810/16|
+00000000|MMI|3.09|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-25-"life-threatening"-adj-0]|TX|3810/16|
+00000000|MMI|3.09|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-25-"life-threatening"-adj-0]|TX|3810/16|
+00000000|MMI|3.08|Positive Finding|C1514241|[fndg]|["POSITIVE"-tx-35-"positive"-noun-0]|TX|7476/8|
+00000000|MMI|3.08|Container status - Identified|C1550043|[fndg]|["Identified"-tx-29-"identified"-verb-0]|TX|6361/10|
+00000000|MMI|3.07|Decreased Immunologic Activity [PE]|C1373218|[patf]|["Immunosuppression"-tx-17-"immunosuppression"-noun-0]|TX|1352/17|
+00000000|MMI|3.07|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-18-"randomized"-adj-0]|TX|1556/10|
+00000000|MMI|3.03|60%|C3842585|[fndg]|["60%"-tx-19-"60"-percentage-0]|TX|1695/2|
+00000000|MMI|3.03|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-23-"Grade 3"-noun-0]|TX|2497/7|
+00000000|MMI|2.99|6/3|C1630409|[fndg]|["6/3"-tx-31-"6.3"-real_number-0]|TX|6733/3|
+00000000|MMI|2.99|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-33-"hypersensitivity"-noun-0]|TX|7089/16|
+00000000|MMI|2.98|Eosinophilic disorder|C1306759|[dsyn]|["Eosinophilia"-tx-31-"eosinophilia"-noun-0]|TX|6675/12|
+00000000|MMI|2.96|School Grade|C3244287|[fndg]|["grade"-tx-23-"grade"-noun-0]|TX|2431/5|

@@ -1,0 +1,184 @@
+T1	AdverseReaction 101 110;60 76	reactions hypersensitivity
+T2	Severity 52 59	Serious
+T3	AdverseReaction 101 110;78 90	reactions anaphylactic
+T4	AdverseReaction 96 110	skin reactions
+T5	AdverseReaction 298 306;354 363	infusion reactions
+T6	Factor 344 347	can
+T7	AdverseReaction 380 394	ALT elevations
+T8	AdverseReaction 469 511	Clostridium difficile -associated diarrhea
+T9	AdverseReaction 513 517	CDAD
+T10	AdverseReaction 699 715;740 749	hypersensitivity reactions
+T11	AdverseReaction 717 729;740 749	anaphylactic reactions
+T12	AdverseReaction 735 749	skin reactions
+T13	Severity 691 698	Serious
+T14	AdverseReaction 1414 1430	Red-Man Syndrome
+T15	AdverseReaction 1443 1469	flushing of the upper body
+T16	AdverseReaction 1471 1480	urticaria
+T17	AdverseReaction 1482 1490	pruritus
+T18	AdverseReaction 1499 1503	rash
+T19	Factor 1379 1382	can
+T20	AdverseReaction 1755 1779;1786 1795	alanine aminotransferase elevation
+T21	AdverseReaction 1781 1784;1786 1795	ALT elevation
+T22	Severity 1809 1842	3 times the upper limit of normal
+T23	AdverseReaction 1859 1875;1889 1892	abnormalities in ALT
+T24	AdverseReaction 1859 1875;1894 1897	abnormalities in AST
+T25	AdverseReaction 1859 1875;1899 1908	abnormalities in bilirubin
+T26	AdverseReaction 2079 2122	Clostridium difficile  -associated diarrhea
+T27	AdverseReaction 2124 2128	CDAD
+T28	AdverseReaction 2253 2261	diarrhea
+T29	Severity 2248 2252	mild
+T30	AdverseReaction 2271 2278	colitis
+T31	AdverseReaction 2265 2270	fatal
+E1	AdverseReaction:T1 Effect:E2
+E2	Severity:T2
+E3	AdverseReaction:T3 Effect:E2
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E6
+E6	Factor:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10 Effect:E13
+E11	AdverseReaction:T11 Effect:E13
+E12	AdverseReaction:T12
+E13	Severity:T13
+E14	AdverseReaction:T14 Hypothetical:E19
+E15	AdverseReaction:T15 Hypothetical:E19
+E16	AdverseReaction:T16 Hypothetical:E19
+E17	AdverseReaction:T17 Hypothetical:E19
+E18	AdverseReaction:T18 Hypothetical:E19
+E19	Factor:T19
+E20	AdverseReaction:T20 Effect:E22
+E21	AdverseReaction:T21 Effect:E22
+E22	Severity:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28 Effect:E29
+E29	Severity:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	LLT E1 Hypersensitivity reaction
+A6	LLT-ID E1 10020756
+A7	CUI E3 C0002792
+A8	UMLS-Preferred-Name E3 anaphylaxis
+A9	MEDDRA-PT E3 Anaphylactic reaction
+A10	MEDDRA-PT-ID E3 10002198
+A11	CUI E4 C0221743
+A12	UMLS-Preferred-Name E4 Skin reaction
+A13	MEDDRA-PT E4 Skin reaction
+A14	MEDDRA-PT-ID E4 10040914
+A15	CUI E5 C0948715
+A16	UMLS-Preferred-Name E5 Infusion related reaction
+A17	MEDDRA-PT E5 Infusion related reaction
+A18	MEDDRA-PT-ID E5 10051792
+A19	CUI E7 C0151905
+A20	UMLS-Preferred-Name E7 Alanine aminotransferase increased
+A21	MEDDRA-PT E7 Alanine aminotransferase increased
+A22	MEDDRA-PT-ID E7 10001551
+A23	LLT E7 ALT increased
+A24	LLT-ID E7 10001845
+A25	CUI E8 C0235952
+A26	UMLS-Preferred-Name E8 Clostridium difficile diarrhea
+A27	MEDDRA-PT E8 Clostridium difficile colitis
+A28	MEDDRA-PT-ID E8 10009657
+A29	LLT E8 Diarrhea, Clostridium difficile
+A30	LLT-ID E8 10012734
+A31	CUI E9 C0235952
+A32	UMLS-Preferred-Name E9 Clostridium difficile diarrhea
+A33	MEDDRA-PT E9 Clostridium difficile colitis
+A34	MEDDRA-PT-ID E9 10009657
+A35	LLT E9 Diarrhea, Clostridium difficile
+A36	LLT-ID E9 10012734
+A37	CUI E10 C0020517
+A38	UMLS-Preferred-Name E10 Hypersensitivity
+A39	MEDDRA-PT E10 Hypersensitivity
+A40	MEDDRA-PT-ID E10 10020751
+A41	LLT E10 Hypersensitivity reaction
+A42	LLT-ID E10 10020756
+A43	CUI E11 C0002792
+A44	UMLS-Preferred-Name E11 anaphylaxis
+A45	MEDDRA-PT E11 Anaphylactic reaction
+A46	MEDDRA-PT-ID E11 10002198
+A47	CUI E12 C0221743
+A48	UMLS-Preferred-Name E12 Skin reaction
+A49	MEDDRA-PT E12 Skin reaction
+A50	MEDDRA-PT-ID E12 10040914
+A51	CUI E14 C1306792
+A52	UMLS-Preferred-Name E14 Red man syndrome
+A53	MEDDRA-PT E14 Red man syndrome
+A54	MEDDRA-PT-ID E14 10038192
+A55	CUI E15 C0860135
+A56	UMLS-Preferred-Name E15 Flushed chest
+A57	MEDDRA-PT E15 Flushing
+A58	MEDDRA-PT-ID E15 10016825
+A59	LLT E15 Flushed chest
+A60	LLT-ID E15 10016822
+A61	CUI E16 C0042109
+A62	UMLS-Preferred-Name E16 Urticaria
+A63	MEDDRA-PT E16 Urticaria
+A64	MEDDRA-PT-ID E16 10046735
+A65	CUI E17 C0033774
+A66	UMLS-Preferred-Name E17 Pruritus
+A67	MEDDRA-PT E17 Pruritus
+A68	MEDDRA-PT-ID E17 10037087
+A69	CUI E18 C0015230
+A70	UMLS-Preferred-Name E18 Exanthema
+A71	MEDDRA-PT E18 Rash
+A72	MEDDRA-PT-ID E18 10037844
+A73	CUI E20 C0151905
+A74	UMLS-Preferred-Name E20 Alanine aminotransferase increased
+A75	MEDDRA-PT E20 Alanine aminotransferase increased
+A76	MEDDRA-PT-ID E20 10001551
+A77	CUI E21 C0151905
+A78	UMLS-Preferred-Name E21 Alanine aminotransferase increased
+A79	MEDDRA-PT E21 Alanine aminotransferase increased
+A80	MEDDRA-PT-ID E21 10001551
+A81	LLT E21 ALT increased
+A82	LLT-ID E21 10001845
+A83	CUI E23 C0855619
+A84	UMLS-Preferred-Name E23 Alanine aminotransferase abnormal
+A85	MEDDRA-PT E23 Alanine aminotransferase abnormal
+A86	MEDDRA-PT-ID E23 10001547
+A87	CUI E24 C0855623
+A88	UMLS-Preferred-Name E24 Aspartate aminotransferase abnormal
+A89	MEDDRA-PT E24 Aspartate aminotransferase abnormal
+A90	MEDDRA-PT-ID E24 10003477
+A91	CUI E25 C1142335
+A92	UMLS-Preferred-Name E25 Bilirubin abnormal
+A93	MEDDRA-PT E25 Blood bilirubin abnormal
+A94	MEDDRA-PT-ID E25 10058477
+A95	LLT E25 Bilirubin abnormal
+A96	LLT-ID E25 10058482
+A97	CUI E26 C0235952
+A98	UMLS-Preferred-Name E26 Clostridium difficile diarrhea
+A99	MEDDRA-PT E26 Clostridium difficile colitis
+A100	MEDDRA-PT-ID E26 10009657
+A101	LLT E26 Diarrhea, Clostridium difficile
+A102	LLT-ID E26 10012734
+A103	CUI E27 C0235952
+A104	UMLS-Preferred-Name E27 Clostridium difficile diarrhea
+A105	MEDDRA-PT E27 Clostridium difficile colitis
+A106	MEDDRA-PT-ID E27 10009657
+A107	LLT E27 Diarrhea, Clostridium difficile
+A108	LLT-ID E27 10012734
+A109	CUI E28 C0011991
+A110	UMLS-Preferred-Name E28 Diarrhea
+A111	MEDDRA-PT E28 Diarrhoea
+A112	MEDDRA-PT-ID E28 10012735
+A113	LLT E28 Diarrhea
+A114	LLT-ID E28 10012727
+A115	CUI E30 C0009319
+A116	UMLS-Preferred-Name E30 Colitis
+A117	MEDDRA-PT E30 Colitis
+A118	MEDDRA-PT-ID E30 10009887
+A119	CUI E31 C1306577
+A120	UMLS-Preferred-Name E31 Death (finding)
+A121	MEDDRA-PT E31 Death
+A122	MEDDRA-PT-ID E31 10011906

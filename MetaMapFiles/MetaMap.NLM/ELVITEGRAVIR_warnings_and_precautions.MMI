@@ -1,0 +1,119 @@
+00000000|AA|CLcr|creatinine clearance|1|4|3|20|176:4
+00000000|AA|BMD|bone mineral density|1|3|5|20|1362:3
+00000000|AA|HBV|hepatitis B virus|1|3|5|17|2757:3
+00000000|AA|NSAIDs|non-steroidal anti-inflammatory drugs|1|6|9|37|5192:6
+00000000|MMI|149.88|Renal Insufficiency|C1565489|[dsyn]|["Renal dysfunction"-tx-58-"renal dysfunction"-noun-0,"Renal Impairment"-tx-40-"renal impairment"-noun-0,"Renal dysfunction"-tx-35-"renal dysfunction"-noun-1,"Renal dysfunction"-tx-33-"renal dysfunction"-noun-0,"Renal Impairment"-tx-27-"renal impairment"-noun-0,"Renal Impairment"-tx-23-"Renal Impairment"-noun-0,"Renal Impairment"-tx-4-"renal impairment"-noun-0,"Renal Impairment"-tx-1-"renal impairment"-noun-0]|TX|10191/17;6305/16;5586/17;5381/17;4547/16;3629/16;371/16;75/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|80.16|Fanconi Syndrome|C0015624|[dsyn]|["Proximal Renal Tubular Dysfunction"-tx-30-"proximal renal tubular dysfunction"-noun-0,"Proximal Renal Tubular Dysfunction"-tx-26-"proximal renal tubular dysfunction"-noun-0,"FANCONI SYNDROME"-tx-23-"Fanconi syndrome"-noun-0,"FANCONI SYNDROME"-tx-1-"Fanconi syndrome"-noun-0]|TX|4937/34;4404/34;3712/16;129/16|C12.777.419.815.450;C13.351.968.419.815.450;C16.320.565.861.450;C18.452.648.861.450
+00000000|MMI|73.37|Glycosuria|C0017979|[fndg]|["URINE GLUCOSE"-tx-39-"urine glucose"-noun-0,"URINE GLUCOSE"-tx-37-"urine glucose"-noun-0,"URINE GLUCOSE"-tx-3-"urine glucose"-noun-0,"URINE GLUCOSE"-tx-2-"urine glucose"-noun-0]|TX|6137/13;5867/13;272/13;183/13|C12.777.934.363;C13.351.968.934.363;C18.452.394.937
+00000000|MMI|59.04|Hepatitis B, Chronic|C0524909|[dsyn]|["chronic hepatitis B infection"-tx-18-"chronic HBV infection"-noun-1,"chronic hepatitis, B virus"-tx-18-"chronic HBV"-noun-1,"chronic hepatitis, B virus"-tx-17-"chronic hepatitis B virus"-noun-0]|TX|2850/21;2850/11;2730/25|C02.256.430.400.100;C02.440.435.100;C06.552.380.350.100;C06.552.380.705.437.100
+00000000|MMI|59.02|Kidney Failure, Acute|C0022660|[dsyn]|["ACUTE RENAL FAILURE"-tx-33-"acute renal failure"-noun-0,"ACUTE RENAL FAILURE"-tx-23-"acute renal failure"-noun-0,"ACUTE RENAL FAILURE"-tx-1-"acute renal failure"-noun-0]|TX|5246/19;3688/19;105/19|C12.777.419.780.050;C13.351.968.419.780.050
+00000000|MMI|51.69|Adult Rickets|C3887650|[dsyn]|["Osteomalacia"-tx-58-"osteomalacia"-noun-0,"Osteomalacia"-tx-56-"osteomalacia"-noun-0]|TX|10094/12;9727/12|C05.116.198.816.640;C18.452.174.845.640;C18.654.521.500.133.770.734.640
+00000000|MMI|51.69|Osteomalacia|C0029442|[dsyn]|["OSTEOMALACIA"-tx-58-"osteomalacia"-noun-0,"OSTEOMALACIA"-tx-56-"osteomalacia"-noun-0]|TX|10094/12;9727/12|C05.116.198.816.640;C18.452.174.845.640;C18.654.521.500.133.770.734.640
+00000000|MMI|42.15|De Toni-Debre-Fanconi Syndrome|C1857395|[dsyn]|["Fanconi syndrome"-tx-23-"Fanconi syndrome"-noun-0,"Fanconi syndrome"-tx-1-"Fanconi syndrome"-noun-0]|TX|3712/16;129/16|C12.777.419.815.450;C13.351.968.419.815.450;C16.320.565.861.450;C18.452.648.861.450
+00000000|MMI|42.15|Fanconi Anemia|C0015625|[dsyn]|["fanconi syndrome"-tx-23-"Fanconi syndrome"-noun-0,"fanconi syndrome"-tx-1-"Fanconi syndrome"-noun-0]|TX|3712/16;129/16|C15.378.071.085.080.280;C15.378.190.196.080.280;C16.320.077.280;C18.452.284.280
+00000000|MMI|42.15|Myalgia|C0231528|[sosy]|["MUSCLE PAIN"-tx-57-"muscle pain"-noun-0,"MUSCULAR PAIN"-tx-36-"muscular pain"-noun-0]|TX|9985/11;5682/13|C05.651.542;C10.597.617.231.249;C10.668.491.525;C23.888.592.612.547.249;F02.830.816.353.500;G11.561.600.810.353.500
+00000000|MMI|39.95|Hepatomegaly|C0019209|[sosy]|["HEPATOMEGALY"-tx-16-"hepatomegaly"-noun-0,"HEPATOMEGALY"-tx-12-"Hepatomegaly"-noun-0,"HEPATOMEGALY"-tx-12-"hepatomegaly"-noun-0]|TX|2515/12;1751/12;1811/12|C06.552.416;C23.300.775.525
+00000000|MMI|33.51|Creatinine clearance|C0812399|[fndg]|["Creatinine clearance"-tx-43-"creatinine clearance"-noun-0,"Creatinine clearance"-tx-41-"creatinine clearance"-noun-1,"Creatinine clearance"-tx-39-"creatinine clearance"-noun-0,"Creatinine clearance"-tx-38-"creatinine clearance"-noun-0,"Creatinine clearance"-tx-37-"creatinine clearance"-noun-0,"Creatinine clearance"-tx-27-"creatinine clearance"-noun-0,"Creatinine clearance"-tx-3-"CLcr"-noun-0,"Creatinine clearance"-tx-2-"creatinine clearance"-noun-0]|TX|6850/20;6449/20;6115/20;6015/20;5845/20;4580/20;266/4;154/20|
+00000000|MMI|32.39|HIV Infections|C0019693|[dsyn]|["HIV"-tx-49-"HIV"-noun-0,"HIV"-tx-33-"HIV"-adj-1]|TX|8671/3;5337/3|C02.782.815.616.400;C02.800.801.400;C20.673.480
+00000000|MMI|32.33|Hepatitis B|C0019163|[dsyn]|["HEPATITIS B"-tx-20-"hepatitis B"-noun-0,"HEPATITIS B"-tx-19-"hepatitis B"-noun-0]|TX|3262/11;3011/11|C02.256.430.400;C02.440.435;C06.552.380.705.437
+00000000|MMI|30.42|Obesity|C0028754|[dsyn]|["OBESITY"-tx-14-"Obesity"-noun-0]|TX|2056/7|C18.654.726.500;C23.888.144.699.500;E01.370.600.115.100.160.120.699.500;G07.100.100.160.120.699.500
+00000000|MMI|30.42|Obesity, Abdominal|C0311277|[fndg]|["Central Obesity"-tx-59-"central obesity"-noun-0]|TX|10451/15|C18.654.726.500.697;E01.370.600.115.100.160.120.699.500.249;G07.100.100.160.120.699.500.249
+00000000|MMI|29.78|Steatohepatitis|C2711227|[dsyn]|["Steatosis"-tx-16-"steatosis"-noun-0,"Steatosis"-tx-12-"Steatosis"-noun-0,"Steatosis"-tx-12-"steatosis"-noun-0]|TX|2532/9;1769/9;1829/9|C06.552.241
+00000000|MMI|29.46|Pneumocystis jiroveci pneumonia|C1535939|[dsyn]|["PCP"-tx-63-"PCP"-noun-0,"Pneumocystis jirovecii Pneumonia"-tx-63-"Pneumocystis jirovecii pneumonia"-noun-0]|TX|11251/3;11216/22,11240/9|C01.703.534.700;C01.703.770.700;C08.381.472.700;C08.381.677.675;C08.730.435.700;C08.730.610.675
+00000000|MMI|28.48|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-56-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-51-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-48-"adverse reactions"-noun-0,"Adverse reactions"-tx-45-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-41-"Adverse Reactions"-noun-1,"Adverse reactions"-tx-23-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-8-"adverse reactions"-noun-0]|TX|9939/17;9071/17;8516/17;7708/17;6520/17;3890/17;920/17|
+00000000|MMI|26.66|Liver Failure|C0085605|[dsyn]|["LIVER FAILURE"-tx-20-"liver failure"-noun-0,"Liver decompensation"-tx-20-"liver decompensation"-noun-0]|TX|3320/13;3295/20|C06.552.308.500
+00000000|MMI|26.26|Hypophosphatemia|C0085682|[patf]|["HYPOPHOSPHATEMIA"-tx-58-"Hypophosphatemia"-noun-0,"HYPOPHOSPHATEMIA"-tx-23-"hypophosphatemia"-noun-0]|TX|10073/16;3763/16|C18.452.750.400
+00000000|MMI|25.94|Osteoporosis|C0029456|[dsyn]|["OSTEOPOROSIS"-tx-53-"osteoporosis"-noun-0,"OSTEOPOROSIS"-tx-9-"osteoporosis"-noun-0]|TX|9428/12;1467/12|C05.116.198.579
+00000000|MMI|24.11|Mycobacterium avium-intracellulare Infection|C0026916|[dsyn]|["Mycobacterium Avium Infection"-tx-63-"Mycobacterium avium infection"-noun-0]|TX|11167/19,11188/9|C01.252.410.040.552.475.495
+00000000|MMI|23.12|Osteopenia|C0029453|[dsyn]|["Bone Loss"-tx-53-"bone loss"-noun-0,"Bone Loss"-tx-9-"bone loss"-noun-0]|TX|9444/9;1483/9|C05.116.198
+00000000|MMI|22.97|Discontinued|C1444662|[fndg]|["Discontinued"-tx-43-"discontinued"-verb-0,"Discontinuation"-tx-30-"discontinuation"-noun-0,"Discontinuation"-tx-28-"discontinuation"-noun-1,"Discontinuation"-tx-26-"discontinuation"-noun-0,"Discontinued"-tx-24-"discontinued"-adj-1,"Discontinued"-tx-19-"discontinued"-adj-0]|TX|6824/12;4983/15;4747/15;4450/15;4132/12;3101/12|
+00000000|MMI|22.61|Cachexia|C0006625|[sosy]|["Wasting"-tx-59-"wasting"-noun-0]|TX|10525/7|C23.888.144.243.963.500.500
+00000000|MMI|20.95|Acute inflammatory demyelinating polyneuropathy|C3542501|[dsyn]|["Guillain-Barre Syndrome"-tx-64-"Guillain-Barre syndrome"-noun-0]|TX|11400/23|C10.114.750.100;C10.314.750.450;C10.668.829.350;C10.668.829.800.750.300;C20.111.258.750.400
+00000000|MMI|20.95|Arthralgia|C0003862|[sosy]|["ARTHRALGIAS"-tx-57-"Arthralgias"-noun-0]|TX|9969/11|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|20.95|Guillain-Barre Syndrome|C0018378|[dsyn]|["GUILLAIN BARRE SYNDROME"-tx-64-"Guillain-Barre syndrome"-noun-0]|TX|11400/23|C10.114.750.100;C10.314.750.450;C10.668.829.350;C10.668.829.800.750.300;C20.111.258.750.400
+00000000|MMI|20.95|Tuberculosis|C0041296|[dsyn]|["TUBERCULOSIS"-tx-63-"tuberculosis"-noun-0]|TX|11260/12|C01.252.410.040.552.846
+00000000|MMI|20.89|Fracture|C0016658|[inpo]|["FRACTURES"-tx-56-"fractures"-noun-0,"FRACTURE"-tx-52-"fracture"-noun-0,"FRACTURES"-tx-36-"fractures"-noun-0]|TX|9859/9;9261/8;5665/9|C26.404
+00000000|MMI|20.50|Adverse reaction to drug|C0041755|[inpo]|["Reactions, Adverse Drug"-tx-46-"adverse reactions drugs"-noun-0,"Adverse reaction to drug"-tx-24-"drug to adverse reaction"-noun-1,"Reactions, Adverse Drug"-tx-8-"adverse reactions drugs"-noun-0]|TX|8117/17,8173/5;4151/4,4160/2,4171/16;1249/17,1305/5|C25.100
+00000000|MMI|18.53|combination - answer to question|C3811910|[fndg]|["Combination"-tx-63-"combination"-noun-0,"Combination"-tx-62-"combination"-noun-0,"Combination"-tx-43-"combination"-noun-1,"Combination"-tx-12-"combination"-noun-0,"Combination"-tx-7-"combination"-noun-1]|TX|10996/11;10912/11;7014/11;1970/11;871/11|
+00000000|MMI|17.80|Polymyositis|C0085655|[dsyn]|["POLYMYOSITIS"-tx-64-"polymyositis"-noun-0]|TX|11382/12|C05.651.594.819;C10.668.491.562.575
+00000000|MMI|16.10|Acidosis, Lactic|C0001125|[dsyn]|["Acidosis, Lactic"-tx-16-"lactic acidosis"-noun-0]|TX|2451/15|C18.452.076.176.180
+00000000|MMI|16.04|Hepatitis A|C0019159|[dsyn]|["Hepatitis"-tx-22-"hepatitis"-adj-0]|TX|3557/9|C02.440.420;C02.782.687.359.500;C06.552.380.705.422
+00000000|MMI|15.97|Laboratory test finding|C0587081|[fndg]|["laboratory findings"-tx-30-"laboratory findings"-noun-0,"laboratory findings"-tx-28-"laboratory findings"-noun-0,"laboratory findings"-tx-26-"laboratory findings"-noun-0,"laboratory findings"-tx-16-"laboratory findings"-noun-0]|TX|4901/19;4646/19;4368/19;2417/19|
+00000000|MMI|15.26|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-53-"risk factors"-noun-0,"risk factors"-tx-33-"risk factors"-noun-0,"risk factors"-tx-15-"risk factors"-noun-1,"risk factors"-tx-14-"risk factors"-noun-0]|TX|9411/12;5364/12;2319/12;2105/12|
+00000000|MMI|14.69|Proximal tubulopathy|C1839603|[fndg]|["Proximal renal tubulopathy"-tx-58-"proximal renal tubulopathy"-noun-0,"Proximal renal tubulopathy"-tx-57-"proximal renal tubulopathy"-noun-0,"Proximal renal tubulopathy"-tx-56-"proximal renal tubulopathy"-noun-0,"Proximal renal tubulopathy"-tx-36-"proximal renal tubulopathy"-noun-0]|TX|10120/26;10045/26;9756/26;5733/26|
+00000000|MMI|14.64|Graves Disease|C0018213|[dsyn]|["GRAVE DISEASE"-tx-64-"Graves disease"-noun-0]|TX|11365/6,11373/7|C11.675.349.500;C19.874.283.605;C19.874.397.370;C20.111.555
+00000000|MMI|14.49|Infected|C0439663|[fndg]|["Infected"-tx-53-"infected"-adj-0,"Infected"-tx-49-"infected"-adj-0,"Infected"-tx-33-"infected"-adj-1,"Infected"-tx-20-"infected"-verb-0]|TX|9337/8;8677/8;5341/8;3197/8|
+00000000|MMI|14.34|Worse|C1457868|[fndg]|["Worsening"-tx-58-"worsening"-adj-0,"Worsening"-tx-36-"worsening"-adj-0,"Worsening"-tx-23-"Worsening"-adj-0,"Worsening"-tx-1-"worsening"-adj-0]|TX|10240/9;5623/9;3619/9;65/9|
+00000000|MMI|13.67|Immune Reconstitution Inflammatory Syndrome|C1619738|[dsyn]|["Immune Reconstitution Syndrome"-tx-62-"Immune Reconstitution Syndrome"-noun-0,"Immune Reconstitution Syndrome"-tx-11-"Immune reconstitution syndrome"-noun-0]|TX|10802/30;1620/30|C20.608
+00000000|MMI|10.97|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-48-"therapy"-noun-0,"Therapy"-tx-39-"therapy"-noun-0,"Therapy"-tx-37-"therapy"-noun-0]|TX|8431/7;6206/7;5956/7|
+00000000|MMI|10.96|Pre-renal acute kidney injury|C3854173|[dsyn]|["Acute renal failure"-tx-33-"acute renal failure"-noun-0,"Acute renal failure"-tx-23-"acute renal failure"-noun-0,"Acute renal failure"-tx-1-"acute renal failure"-noun-0]|TX|5246/19;3688/19;105/19|
+00000000|MMI|10.87|0%|C3842591|[fndg]|["0%"-tx-41-"0"-real_number-0,"0%"-tx-30-"0"-percentage-0,"0%"-tx-26-"0"-percentage-0]|TX|6631/1;4844/1;4321/1|
+00000000|MMI|10.83|Renal dysfunction|C3279454|[fndg]|["Renal dysfunction"-tx-58-"renal dysfunction"-noun-0,"Renal dysfunction"-tx-35-"renal dysfunction"-noun-1,"Renal dysfunction"-tx-33-"renal dysfunction"-noun-0]|TX|10191/17;5586/17;5381/17|
+00000000|MMI|10.55|Fatty degeneration|C0152254|[patf]|["Steatosis"-tx-16-"steatosis"-noun-0,"Steatosis"-tx-12-"Steatosis"-noun-0,"Steatosis"-tx-12-"steatosis"-noun-0]|TX|2532/9;1769/9;1829/9|
+00000000|MMI|10.42|Pain in limb|C0030196|[sosy]|["Pain in extremities"-tx-56-"pain in extremities"-noun-0,"Pain in extremities"-tx-36-"pain in extremities"-noun-0]|TX|9811/19;5644/19|
+00000000|MMI|10.42|Weakness|C3714552|[sosy]|["WEAKNESS"-tx-57-"weakness"-noun-0,"WEAKNESS"-tx-36-"weakness"-noun-0]|TX|10000/8;5699/8|
+00000000|MMI|10.06|Opportunistic Infections|C0029118|[dsyn]|["Opportunistic Infections"-tx-63-"opportunistic infections"-noun-0]|TX|11133/24|C01.539.597;C02.597;C03.684
+00000000|MMI|9.85|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-18-"infection"-noun-1]|TX|2862/9|C01.539.221
+00000000|MMI|9.79|Pathological fracture|C0016663|[patf]|["Pathologic bone fracture"-tx-53-"pathologic bone fracture"-noun-0]|TX|9377/24|C26.404.374
+00000000|MMI|9.73|Hepatitis|C0019158|[dsyn]|["HEPATITIS"-tx-22-"hepatitis"-adj-0]|TX|3557/9|C06.552.380
+00000000|MMI|8.34|Autoimmune Diseases|C0004364|[dsyn]|["Autoimmune Disorders"-tx-64-"Autoimmune disorders"-noun-0]|TX|11335/20|C20.111
+00000000|MMI|7.70|new onset|C0746890|[fndg]|["NEW ONSET"-tx-23-"New Onset"-adj-0,"NEW ONSET"-tx-1-"New onset"-adj-0]|TX|3606/9;52/9|
+00000000|MMI|7.42|Bone Pain Adverse Event|C1963077|[fndg]|["Bone pain"-tx-56-"bone pain"-noun-0,"Bone pain"-tx-36-"bone pain"-noun-0]|TX|9798/9;5633/9|
+00000000|MMI|7.42|Bone pain|C0151825|[sosy]|["BONE PAIN"-tx-56-"bone pain"-noun-0,"BONE PAIN"-tx-36-"bone pain"-noun-0]|TX|9798/9;5633/9|
+00000000|MMI|7.33|Immune reconstitution syndrome|C1096197|[dsyn]|["Immune reconstitution syndrome"-tx-62-"Immune Reconstitution Syndrome"-noun-0,"Immune reconstitution syndrome"-tx-11-"Immune reconstitution syndrome"-noun-0]|TX|10802/30;1620/30|
+00000000|MMI|7.23|5-6|C3843715|[fndg]|["5-6"-tx-49-"5.6"-real_number-0,"5-6"-tx-10-"5.6"-real_number-0]|TX|8582/3;1497/3|
+00000000|MMI|7.23|6/5|C0442749|[fndg]|["5 6"-tx-49-"5.6"-real_number-0,"5 6"-tx-10-"5.6"-real_number-0]|TX|8582/3;1497/3|
+00000000|MMI|7.23|Serum phosphate concentration below normal|C0595888|[fndg]|["Hypophosphatemia"-tx-58-"Hypophosphatemia"-noun-0,"Hypophosphatemia"-tx-23-"hypophosphatemia"-noun-0]|TX|10073/16;3763/16|
+00000000|MMI|7.22|Experimental Result|C2825142|[fndg]|["Result"-tx-45-"result"-verb-0,"Result"-tx-8-"result"-verb-0]|TX|7839/6;1046/6|
+00000000|MMI|7.14|Accumulation|C4055506|[fndg]|["ACCUMULATION"-tx-59-"accumulation"-noun-0,"ACCUMULATION"-tx-10-"accumulation"-noun-0]|TX|10416/12;1524/12|
+00000000|MMI|7.00|Virologic Response|C4053862|[fndg]|["Virologic Response"-tx-45-"Virologic Response"-noun-0,"Virologic Response"-tx-8-"virologic response"-noun-0]|TX|7737/18;949/18|
+00000000|MMI|6.98|Resistance possible|C3841799|[fndg]|["Resistance possible"-tx-45-"possible resistance"-noun-0,"Resistance possible"-tx-8-"possible resistance"-noun-0]|TX|8042/8,8066/10;1177/8,1201/10|
+00000000|MMI|6.94|Serum creatinine level|C0600061|[fndg]|["Serum creatinine"-tx-41-"serum creatinine"-noun-0]|TX|[6399/16],[6598/16]|
+00000000|MMI|6.94|body fat percentage (physical finding)|C0518026|[fndg]|["body fat"-tx-59-"Fat body"-noun-0,"body fat"-tx-10-"body fat"-noun-0]|TX|10377/3,10432/4;1540/8|
+00000000|MMI|6.93|Fat redistribution|C0856151|[dsyn]|["Fat redistribution"-tx-59-"Fat Redistribution"-noun-0,"Fat redistribution"-tx-10-"Redistribution fat"-noun-0]|TX|10377/18;1509/14,1545/3|
+00000000|MMI|6.89|70%|C3842584|[fndg]|["70%"-tx-38-"70"-integer-0,"70%"-tx-27-"70"-integer-0]|TX|6042/2;4611/2|
+00000000|MMI|6.87|Concomitant exposure|C4060819|[fndg]|["Concomitant exposure"-tx-46-"exposures concomitant"-noun-0,"Concomitant exposure"-tx-8-"exposures concomitant"-noun-0]|TX|8148/9,8161/11;1280/9,1293/11|
+00000000|MMI|6.69|Infection|C3714514|[patf]|["INFECTION"-tx-18-"infection"-noun-1]|TX|2862/9|C01.539
+00000000|MMI|5.18|1 - 9%|C3842508|[fndg]|["1 - 9%"-tx-24-"1.9"-percentage-0]|TX|3980/3|
+00000000|MMI|5.18|Breast enlargement female|C0235648|[fndg]|["breast enlargement"-tx-59-"breast enlargement"-noun-0]|TX|10550/18|
+00000000|MMI|5.18|Buffalo hump|C0520573|[acab]|["BUFFALO HUMP"-tx-59-"buffalo hump"-noun-0]|TX|10499/12|
+00000000|MMI|5.18|CUSHINGOID APPEARANCE|C0742929|[dsyn]|["CUSHINGOID APPEARANCE"-tx-59-"cushingoid appearance"-noun-0]|TX|10575/21|
+00000000|MMI|5.18|Deformity of bone|C0410719|[anab]|["Bone Abnormalities"-tx-55-"bone abnormalities"-noun-0]|TX|9597/18|
+00000000|MMI|5.18|Facial wasting|C1112303|[dsyn]|["Facial wasting"-tx-59-"facial wasting"-noun-0]|TX|10534/14|
+00000000|MMI|5.18|Hypertrophy of Breast|C0020565|[patf]|["breast enlargement"-tx-59-"breast enlargement"-noun-0]|TX|10550/18|
+00000000|MMI|5.18|Immune System Finding|C1291764|[fndg]|["IMMUNE SYSTEM"-tx-63-"immune system"-noun-0]|TX|11049/13|
+00000000|MMI|5.18|Macromastia|C2225524|[fndg]|["BREAST ENLARGEMENT"-tx-59-"breast enlargement"-noun-0]|TX|10550/18|
+00000000|MMI|5.18|Muscle Pain Adverse Event|C1963177|[fndg]|["Muscle pain"-tx-57-"muscle pain"-noun-0]|TX|9985/11|
+00000000|MMI|5.18|Mycobacterium avium infection|C1411980|[dsyn]|["Mycobacterium avium infection"-tx-63-"Mycobacterium avium infection"-noun-0]|TX|11167/19,11188/9|
+00000000|MMI|5.18|Obesity Adverse Event|C1963185|[fndg]|["Obesity"-tx-14-"Obesity"-noun-0]|TX|2056/7|
+00000000|MMI|3.75|Fat hypertrophy|C0406602|[patf]|["Fat enlargement"-tx-59-"fat enlargement"-noun-0]|TX|10482/15|
+00000000|MMI|3.68|Hepatotoxicity|C0235378|[inpo]|["HEPATOTOXICITY"-tx-16-"hepatotoxicity"-noun-0]|TX|2481/14|
+00000000|MMI|3.68|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-58-"symptoms"-noun-0]|TX|10265/8|
+00000000|MMI|3.68|Wasting|C0235394|[dsyn]|["WASTING"-tx-59-"wasting"-noun-0]|TX|10525/7|
+00000000|MMI|3.65|Protein in urine|C3842547|[fndg]|["Protein in urine"-tx-3-"urine protein in"-noun-0]|TX|291/16|
+00000000|MMI|3.63|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-14-"exposure"-noun-0]|TX|2089/8|
+00000000|MMI|3.63|Potential adverse drug interaction|C3840750|[fndg]|["Potential Drug interaction"-tx-48-"potential drug interactions"-noun-0]|TX|8370/9,8384/17|
+00000000|MMI|3.63|exposure history|C2220266|[fndg]|["exposure"-tx-14-"exposure"-noun-0]|TX|2089/8|
+00000000|MMI|3.62|H/O: fracture|C1272071|[fndg]|["History of - fracture"-tx-9-"history of fracture"-noun-0]|TX|1411/10,1433/8|
+00000000|MMI|3.61|inflammatory response|C1155266|[patf]|["Inflammatory Response"-tx-63-"inflammatory response"-noun-0]|TX|11087/21|
+00000000|MMI|3.60|At risk of disease|C1281905|[fndg]|["Risk For Disease"-tx-15-"risk for disease"-noun-0]|TX|2222/4,2235/3,2245/7|
+00000000|MMI|3.59|Indicated|C1444656|[fndg]|["Indicated"-tx-44-"indicated"-verb-0]|TX|7107/9|
+00000000|MMI|3.59|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-53-"history of"-noun-0]|TX|9366/10|
+00000000|MMI|3.59|exacerbation acute|C0743630|[fndg]|["acute exacerbations"-tx-19-"acute exacerbations"-noun-0]|TX|2988/19|
+00000000|MMI|3.58|Injury of kidney|C0160420|[inpo]|["injury renal"-tx-23-"renal injury"-noun-0]|TX|3730/5,3744/6|
+00000000|MMI|3.58|Follow-up status|C0589120|[fndg]|["Follow-up"-tx-21-"follow-up"-adj-0]|TX|3444/9|
+00000000|MMI|3.57|Trial 1|C3840593|[fndg]|["Clinical trial 1"-tx-49-"clinical trials 1"-noun-0]|TX|8652/15,8675/1|
+00000000|MMI|3.57|50%|C3842586|[fndg]|["50%"-tx-43-"50"-integer-1]|TX|6886/2|
+00000000|MMI|3.57|<50|C3843766|[fndg]|["<50"-tx-43-"50"-integer-1]|TX|6886/2|
+00000000|MMI|3.55|Traumatic AND/OR non-traumatic injury|C3263722|[inpo]|["Injury"-tx-23-"injury"-noun-0]|TX|3744/6|
+00000000|MMI|3.55|Traumatic injury|C3263723|[inpo]|["INJURY"-tx-23-"injury"-noun-0]|TX|3744/6|
+00000000|MMI|3.54|Virus Diseases|C0042769|[dsyn]|["virus"-tx-18-"HBV"-noun-1]|TX|2858/3|C02
+00000000|MMI|3.50|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-12-"fatal"-adj-0]|TX|1850/5|
+00000000|MMI|3.50|Pathologic mineralization|C1265877|[patf]|["Mineralization"-tx-56-"Mineralization"-noun-0]|TX|9688/14|
+00000000|MMI|3.47|Renal glomerular disease|C0268731|[dsyn]|["GLOMERULAR"-tx-41-"glomerular"-adj-1]|TX|6494/10|
+00000000|MMI|3.46|1+|C3816745|[fndg]|["1+"-tx-50-"1"-real_number-0]|TX|8964/1|
+00000000|MMI|3.45|Renal hypophosphatemia|C4024631|[dsyn]|["Renal hypophosphatemia"-tx-23-"renal hypophosphatemia"-noun-0]|TX|3730/5,3763/16|
+00000000|MMI|3.44|Severe lactic acidosis|C1839436|[fndg]|["Lactic acidosis, severe"-tx-12-"Lactic Acidosis/Severe"-noun-0]|TX|1728/22|
+00000000|MMI|3.44|HIV-1 infection|C2363741|[dsyn]|["HIV-1 infection"-tx-44-"HIV-1 infection"-noun-0]|TX|7168/15|
+00000000|MMI|3.44|Human immunodeficiency virus I infection|C0276500|[dsyn]|["HIV 1 infection"-tx-44-"HIV-1 infection"-noun-0]|TX|7168/15|
+00000000|MMI|3.44|Therapy Appropriate|C1555288|[fndg]|["Therapy Appropriate"-tx-22-"appropriate therapy"-noun-0]|TX|3525/11,3569/7|

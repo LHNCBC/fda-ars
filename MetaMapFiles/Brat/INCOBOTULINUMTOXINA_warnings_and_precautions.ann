@@ -1,0 +1,387 @@
+T1	AdverseReaction 837 846	dysphagia
+T2	Factor 829 833	risk
+T4	AdverseReaction 998 1014	Corneal exposure
+T5	AdverseReaction 1019 1029;998 1005	ulceration Corneal
+T6	AdverseReaction 1122 1138	corneal exposure
+T7	Factor 1144 1152	possible
+T8	AdverseReaction 1122 1129;1153 1163	corneal ulceration
+T9	AdverseReaction 1122 1129;1167 1178	corneal perforation
+T11	AdverseReaction 1342 1348	ptosis
+T12	Factor 1515 1518	may
+T13	AdverseReaction 1501 1514;1547 1581	toxin effects beyond the site of local injection
+T14	AdverseReaction 1675 1683	asthenia
+T15	AdverseReaction 1685 1712	generalized muscle weakness
+T16	AdverseReaction 1714 1722	diplopia
+T17	AdverseReaction 1724 1738	blurred vision
+T18	AdverseReaction 1740 1746	ptosis
+T19	AdverseReaction 1748 1757	dysphagia
+T20	AdverseReaction 1759 1768	dysphonia
+T21	AdverseReaction 1770 1780	dysarthria
+T22	AdverseReaction 1782 1802	urinary incontinence
+T23	AdverseReaction 1808 1830	breathing difficulties
+T24	AdverseReaction 1898 1908;1923 1935	Swallowing difficulties
+T25	AdverseReaction 1913 1935	breathing difficulties
+T26	Severity 1943 1959	life threatening
+T27	Factor 1936 1939	can
+T28	AdverseReaction 1991 1996	death
+T29	AdverseReaction 3177 3203	Hypersensitivity reactions
+T30	AdverseReaction 3254 3265	anaphylaxis
+T31	AdverseReaction 3267 3281	serum sickness
+T32	AdverseReaction 3283 3292	urticaria
+T33	AdverseReaction 3294 3311	soft tissue edema
+T34	AdverseReaction 3317 3324	dyspnea
+T35	Factor 3639 3642	can
+T36	AdverseReaction 3653 3663;3677 3689	swallowing difficulties
+T37	AdverseReaction 3667 3689	breathing difficulties
+T38	AdverseReaction 4092 4101	dysphagia
+T39	AdverseReaction 4057 4063	Deaths
+T40	DrugClass 4142 4157	botulinum toxin
+T41	AdverseReaction 4159 4168	Dysphagia
+T42	AdverseReaction 4281 4291	Aspiration
+T43	Factor 4292 4295	may
+T44	AdverseReaction 4315 4324	dysphagia
+T45	Severity 4308 4314	severe
+T46	AdverseReaction 4597 4623	loss of breathing capacity
+T47	Severity 4588 4596	critical
+T48	Factor 4574 4577	may
+T49	AdverseReaction 4773 4795	breathing difficulties
+T50	Severity 4765 4772	serious
+T51	AdverseReaction 4807 4826	respiratory failure
+T52	DrugClass 4876 4900	botulinum toxin products
+T53	AdverseReaction 5072 5081	dysphagia
+T54	Factor 5064 5068	risk
+T55	AdverseReaction 5962 5971	dysphagia
+T56	Severity 5955 5961	severe
+T57	AdverseReaction 5976 5998	respiratory compromise
+T59	AdverseReaction 6280 6296	corneal exposure
+T60	AdverseReaction 6280 6287;6298 6326	corneal persistent epithelial defect
+T61	AdverseReaction 6331 6349	corneal ulceration
+T64	AdverseReaction 7810 7840	transmission of viral diseases
+T66	Factor 7801 7805	risk
+T67	AdverseReaction 7881 7906	Creutzfeldt-Jakob disease
+T68	Factor 7856 7860	risk
+T72	AdverseReaction 7908 7911	CJD
+T3	AdverseReaction 1101 1117	reduced blinking
+T73	Factor 1089 1092	may
+T10	Factor 1334 1338	Risk
+T74	AdverseReaction 2012 2035	spread of toxin effects
+T75	AdverseReaction 2423 2445	spread of toxin effect
+T76	DrugClass 3228 3252	botulinum toxin products
+T77	Severity 4085 4091	severe
+T78	DrugClass 4480 4496	botulinum toxins
+T80	AdverseReaction 4501 4520	weaken neck muscles
+T81	Factor 5906 5910	risk
+T82	AdverseReaction 6182 6198	Reduced blinking
+T83	DrugClass 6217 6241	botulinum toxin products
+T62	AdverseReaction 7908 7911	CJD
+E1	AdverseReaction:T1 Hypothetical:E2
+E2	Factor:T2
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6 Hypothetical:E73
+E7	Factor:T7
+E8	AdverseReaction:T8 Hypothetical:E7
+E9	AdverseReaction:T9 Hypothetical:E7
+E11	AdverseReaction:T11 Hypothetical:E10
+E12	Factor:T12
+E13	AdverseReaction:T13 Hypothetical:E12
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24 Effect:E26 Hypothetical:E27
+E25	AdverseReaction:T25 Effect:E26 Hypothetical:E27
+E26	Severity:T26
+E27	Factor:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29 Hypothetical:E76
+E30	AdverseReaction:T30 Hypothetical:E76
+E31	AdverseReaction:T31 Hypothetical:E76
+E32	AdverseReaction:T32 Hypothetical:E76
+E33	AdverseReaction:T33 Hypothetical:E76
+E34	AdverseReaction:T34 Hypothetical:E76
+E35	Factor:T35
+E36	AdverseReaction:T36 Hypothetical:E35
+E37	AdverseReaction:T37 Hypothetical:E35
+E38	AdverseReaction:T38 Hypothetical:E40 Effect:E77
+E39	AdverseReaction:T39 Hypothetical:E40
+E40	DrugClass:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42 Hypothetical:E43
+E43	Factor:T43
+E44	AdverseReaction:T44 Effect:E45
+E45	Severity:T45
+E46	AdverseReaction:T46 Effect:E47 Hypothetical:E48
+E47	Severity:T47
+E48	Factor:T48
+E49	AdverseReaction:T49 Effect:E50 Hypothetical:E52
+E50	Severity:T50
+E51	AdverseReaction:T51 Hypothetical:E52
+E52	DrugClass:T52
+E53	AdverseReaction:T53 Hypothetical:E54
+E54	Factor:T54
+E55	AdverseReaction:T55 Effect:E56 Hypothetical:E81
+E56	Severity:T56
+E57	AdverseReaction:T57 Hypothetical:E81
+E59	AdverseReaction:T59 Hypothetical2:E83
+E60	AdverseReaction:T60 Hypothetical2:E83
+E61	AdverseReaction:T61 Hypothetical2:E83
+E64	AdverseReaction:T64 Hypothetical:E66
+E66	Factor:T66
+E67	AdverseReaction:T67 Hypothetical:E68
+E68	Factor:T68
+E72	AdverseReaction:T72 Hypothetical:E68
+E3	AdverseReaction:T3 Hypothetical:E73
+E73	Factor:T73
+E10	Factor:T10
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	DrugClass:T76
+E77	Severity:T77
+E78	DrugClass:T78
+E80	AdverseReaction:T80 Hypothetical2:E78
+E81	Factor:T81
+E82	AdverseReaction:T82 Hypothetical:E83
+E83	DrugClass:T83
+E62	AdverseReaction:T62
+A1	CUI E1 C0011168
+A2	UMLS-Preferred-Name E1 Deglutition Disorders
+A3	MEDDRA-PT E1 Dysphagia
+A4	MEDDRA-PT-ID E1 10013950
+A5	flag E4 unmapped
+A6	CUI E4 C1282542
+A7	UMLS-Preferred-Name E4 Corneal exposure
+A8	CUI E5 C0010043
+A9	UMLS-Preferred-Name E5 Corneal Ulcer
+A10	MEDDRA-PT E5 Ulcerative keratitis
+A11	MEDDRA-PT-ID E5 10064996
+A12	LLT E5 Corneal ulceration
+A13	LLT-ID E5 10011060
+A14	flag E6 unmapped
+A15	CUI E6 C1282542
+A16	UMLS-Preferred-Name E6 Corneal exposure
+A17	CUI E8 C0010043
+A18	UMLS-Preferred-Name E8 Corneal Ulcer
+A19	MEDDRA-PT E8 Ulcerative keratitis
+A20	MEDDRA-PT-ID E8 10064996
+A21	LLT E8 Corneal ulceration
+A22	LLT-ID E8 10011060
+A23	CUI E9 C0339293
+A24	UMLS-Preferred-Name E9 Corneal Perforation
+A25	MEDDRA-PT E9 Corneal perforation
+A26	MEDDRA-PT-ID E9 10011039
+A27	CUI E11 C0033377
+A28	UMLS-Preferred-Name E11 Ptosis
+A29	MEDDRA-PT E11 Eyelid ptosis
+A30	MEDDRA-PT-ID E11 10015995
+A31	LLT E11 Ptosis
+A32	LLT-ID E11 10037272
+A33	flag E13 unmapped
+A34	CUI E14 C0004093
+A35	UMLS-Preferred-Name E14 Asthenia
+A36	MEDDRA-PT E14 Asthenia
+A37	MEDDRA-PT-ID E14 10003549
+A38	CUI E15 C0746674
+A39	UMLS-Preferred-Name E15 Generalized muscle weakness
+A40	MEDDRA-PT E15 Muscular weakness
+A41	MEDDRA-PT-ID E15 10028372
+A42	LLT E15 Generalized muscle weakness
+A43	LLT-ID E15 10062572
+A44	CUI E16 C0012569
+A45	UMLS-Preferred-Name E16 Diplopia
+A46	MEDDRA-PT E16 Diplopia
+A47	MEDDRA-PT-ID E16 10013036
+A48	CUI E17 C0344232
+A49	UMLS-Preferred-Name E17 Blurred vision
+A50	MEDDRA-PT E17 Vision blurred
+A51	MEDDRA-PT-ID E17 10047513
+A52	LLT E17 Blurred vision
+A53	LLT-ID E17 10005886
+A54	CUI E18 C0033377
+A55	UMLS-Preferred-Name E18 Ptosis
+A56	MEDDRA-PT E18 Eyelid ptosis
+A57	MEDDRA-PT-ID E18 10015995
+A58	LLT E18 Ptosis
+A59	LLT-ID E18 10037272
+A60	CUI E19 C0011168
+A61	UMLS-Preferred-Name E19 Deglutition Disorders
+A62	MEDDRA-PT E19 Dysphagia
+A63	MEDDRA-PT-ID E19 10013950
+A64	CUI E20 C1527344
+A65	UMLS-Preferred-Name E20 Dysphonia
+A66	MEDDRA-PT E20 Dysphonia
+A67	MEDDRA-PT-ID E20 10013952
+A68	CUI E21 C0013362
+A69	UMLS-Preferred-Name E21 Dysarthria
+A70	MEDDRA-PT E21 Dysarthria
+A71	MEDDRA-PT-ID E21 10013887
+A72	CUI E22 C0042024
+A73	UMLS-Preferred-Name E22 Urinary Incontinence
+A74	MEDDRA-PT E22 Urinary incontinence
+A75	MEDDRA-PT-ID E22 10046543
+A76	CUI E23 C0013404
+A77	UMLS-Preferred-Name E23 Dyspnea
+A78	MEDDRA-PT E23 Dyspnoea
+A79	MEDDRA-PT-ID E23 10013968
+A80	LLT E23 Difficulty breathing
+A81	LLT-ID E23 10012791
+A82	CUI E24 C0011168
+A83	UMLS-Preferred-Name E24 Deglutition Disorders
+A84	MEDDRA-PT E24 Dysphagia
+A85	MEDDRA-PT-ID E24 10013950
+A86	LLT E24 Swallowing difficult
+A87	LLT-ID E24 10042645
+A88	CUI E25 C0013404
+A89	UMLS-Preferred-Name E25 Dyspnea
+A90	MEDDRA-PT E25 Dyspnoea
+A91	MEDDRA-PT-ID E25 10013968
+A92	LLT E25 Difficulty breathing
+A93	LLT-ID E25 10012791
+A94	CUI E28 C1306577
+A95	UMLS-Preferred-Name E28 Death (finding)
+A96	MEDDRA-PT E28 Death
+A97	MEDDRA-PT-ID E28 10011906
+A98	CUI E29 C0020517
+A99	UMLS-Preferred-Name E29 Hypersensitivity
+A100	MEDDRA-PT E29 Hypersensitivity
+A101	MEDDRA-PT-ID E29 10020751
+A102	LLT E29 Hypersensitivity reaction
+A103	LLT-ID E29 10020756
+A104	CUI E30 C0002792
+A105	UMLS-Preferred-Name E30 anaphylaxis
+A106	MEDDRA-PT E30 Anaphylactic reaction
+A107	MEDDRA-PT-ID E30 10002198
+A108	LLT E30 Anaphylaxis
+A109	LLT-ID E30 10002218
+A110	CUI E31 C0036830
+A111	UMLS-Preferred-Name E31 Serum Sickness
+A112	MEDDRA-PT E31 Serum sickness
+A113	MEDDRA-PT-ID E31 10040400
+A114	CUI E32 C0042109
+A115	UMLS-Preferred-Name E32 Urticaria
+A116	MEDDRA-PT E32 Urticaria
+A117	MEDDRA-PT-ID E32 10046735
+A118	CUI E33 C0037580
+A119	UMLS-Preferred-Name E33 Soft tissue swelling
+A120	MEDDRA-PT E33 Soft tissue swelling
+A121	MEDDRA-PT-ID E33 10076991
+A122	CUI E34 C0013404
+A123	UMLS-Preferred-Name E34 Dyspnea
+A124	MEDDRA-PT E34 Dyspnoea
+A125	MEDDRA-PT-ID E34 10013968
+A126	LLT E34 Dyspnea
+A127	LLT-ID E34 10013963
+A128	CUI E36 C0011168
+A129	UMLS-Preferred-Name E36 Deglutition Disorders
+A130	MEDDRA-PT E36 Dysphagia
+A131	MEDDRA-PT-ID E36 10013950
+A132	LLT E36 Swallowing difficult
+A133	LLT-ID E36 10042645
+A134	CUI E37 C0013404
+A135	UMLS-Preferred-Name E37 Dyspnea
+A136	MEDDRA-PT E37 Dyspnoea
+A137	MEDDRA-PT-ID E37 10013968
+A138	LLT E37 Difficulty breathing
+A139	LLT-ID E37 10012791
+A140	CUI E38 C0011168
+A141	UMLS-Preferred-Name E38 Deglutition Disorders
+A142	MEDDRA-PT E38 Dysphagia
+A143	MEDDRA-PT-ID E38 10013950
+A144	CUI E39 C1306577
+A145	UMLS-Preferred-Name E39 Death (finding)
+A146	MEDDRA-PT E39 Death
+A147	MEDDRA-PT-ID E39 10011906
+A148	CUI E41 C0011168
+A149	UMLS-Preferred-Name E41 Deglutition Disorders
+A150	MEDDRA-PT E41 Dysphagia
+A151	MEDDRA-PT-ID E41 10013950
+A152	CUI E42 C0700198
+A153	UMLS-Preferred-Name E42 Pulmonary aspiration
+A154	MEDDRA-PT E42 Aspiration
+A155	MEDDRA-PT-ID E42 10003504
+A156	CUI E44 C0011168
+A157	UMLS-Preferred-Name E44 Deglutition Disorders
+A158	MEDDRA-PT E44 Dysphagia
+A159	MEDDRA-PT-ID E44 10013950
+A160	CUI E46 C0520829
+A161	UMLS-Preferred-Name E46 Decreased total lung capacity
+A162	MEDDRA-PT E46 Total lung capacity decreased
+A163	MEDDRA-PT-ID E46 10044100
+A164	CUI E49 C0013404
+A165	UMLS-Preferred-Name E49 Dyspnea
+A166	MEDDRA-PT E49 Dyspnoea
+A167	MEDDRA-PT-ID E49 10013968
+A168	LLT E49 Difficulty breathing
+A169	LLT-ID E49 10012791
+A170	CUI E51 C1145670
+A171	UMLS-Preferred-Name E51 Respiratory Failure
+A172	MEDDRA-PT E51 Respiratory failure
+A173	MEDDRA-PT-ID E51 10038695
+A174	CUI E53 C0011168
+A175	UMLS-Preferred-Name E53 Deglutition Disorders
+A176	MEDDRA-PT E53 Dysphagia
+A177	MEDDRA-PT-ID E53 10013950
+A178	CUI E55 C0011168
+A179	UMLS-Preferred-Name E55 Deglutition Disorders
+A180	MEDDRA-PT E55 Dysphagia
+A181	MEDDRA-PT-ID E55 10013950
+A182	CUI E57 C0035229
+A183	UMLS-Preferred-Name E57 Respiratory Insufficiency
+A184	MEDDRA-PT E57 Respiratory failure
+A185	MEDDRA-PT-ID E57 10038695
+A186	LLT E57 Respiratory insufficiency
+A187	LLT-ID E57 10038701
+A188	flag E59 unmapped
+A189	CUI E59 C1282542
+A190	UMLS-Preferred-Name E59 Corneal exposure
+A191	CUI E60 C3854510
+A192	UMLS-Preferred-Name E60 Persistent corneal epithelial defect
+A193	MEDDRA-PT E60 Persistent corneal epithelial defect
+A194	MEDDRA-PT-ID E60 10075399
+A195	CUI E61 C0010043
+A196	UMLS-Preferred-Name E61 Corneal Ulcer
+A197	MEDDRA-PT E61 Ulcerative keratitis
+A198	MEDDRA-PT-ID E61 10064996
+A199	LLT E61 Corneal ulceration
+A200	LLT-ID E61 10011060
+A201	CUI E64 C0042769
+A202	UMLS-Preferred-Name E64 Virus Diseases
+A203	MEDDRA-PT E64 Viral infection
+A204	MEDDRA-PT-ID E64 10047461
+A205	CUI E67 C0022336
+A206	UMLS-Preferred-Name E67 Creutzfeldt-Jakob disease
+A207	MEDDRA-PT E67 Creutzfeldt-Jakob disease
+A208	MEDDRA-PT-ID E67 10011384
+A209	CUI E72 C0022336
+A210	UMLS-Preferred-Name E72 Creutzfeldt-Jakob disease
+A211	MEDDRA-PT E72 Creutzfeldt-Jakob disease
+A212	MEDDRA-PT-ID E72 10011384
+A213	LLT E72 CJD
+A214	LLT-ID E72 10009217
+A215	flag E3 unmapped
+A216	CUI E3 C1562406
+A217	UMLS-Preferred-Name E3 Decreased blinking
+A218	flag E74 unmapped
+A219	flag E75 unmapped
+A220	flag E80 underspecified
+A221	CUI E80 C4022584
+A222	UMLS-Preferred-Name E80 Fatigable weakness of neck muscles
+A223	MEDDRA-PT E80 Muscular weakness
+A224	MEDDRA-PT-ID E80 10028372
+A225	LLT E80 Localised muscle weakness
+A226	LLT-ID E80 10059002
+A227	flag E82 unmapped
+A228	CUI E82 C1562406
+A229	UMLS-Preferred-Name E82 Decreased blinking
+A230	CUI E62 C0022336
+A231	UMLS-Preferred-Name E62 Creutzfeldt-Jakob disease
+A232	MEDDRA-PT E62 Creutzfeldt-Jakob disease
+A233	MEDDRA-PT-ID E62 10011384
+A234	LLT E62 CJD
+A235	LLT-ID E62 10009217

@@ -1,0 +1,157 @@
+T1	AdverseReaction 30 60	DISTANT SPREAD OF TOXIN EFFECT
+T2	AdverseReaction 75 105	DISTANT SPREAD OF TOXIN EFFECT
+T4	AdverseReaction 208 241	spread from the area of injection
+T5	AdverseReaction 288 301	toxin effects
+T6	Factor 204 207	may
+T7	AdverseReaction 321 329	asthenia
+T8	AdverseReaction 331 358	generalized muscle weakness
+T9	AdverseReaction 360 368	diplopia
+T10	AdverseReaction 370 384	blurred vision
+T11	AdverseReaction 386 392	ptosis
+T12	AdverseReaction 394 403	dysphagia
+T13	AdverseReaction 405 414	dysphonia
+T14	AdverseReaction 416 426	dysarthria
+T15	AdverseReaction 428 448	urinary incontinence
+T16	AdverseReaction 453 475	breathing difficulties
+T17	AdverseReaction 543 553;568 580	Swallowing difficulties
+T18	AdverseReaction 558 580	breathing difficulties
+T21	AdverseReaction 1210 1242	DISTANT SPREAD OF TOXIN EFFECT  
+T23	AdverseReaction 1375 1408	spread from the area of injection
+T24	Factor 1371 1374	may
+T26	AdverseReaction 1536 1546;1561 1573	Swallowing difficulties
+T27	AdverseReaction 1551 1573	breathing difficulties
+T28	Severity 1581 1597	life threatening
+T29	Factor 1574 1577	can
+T30	AdverseReaction 1629 1634	death
+T3	Factor 309 312	may
+T31	AdverseReaction 636 641	death
+T32	AdverseReaction 1014 1030	spread of effect
+T22	AdverseReaction 1455 1468	toxin effects
+T19	Severity 588 604	life threatening
+T20	AdverseReaction 543 553;568 580	Swallowing difficulties
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E4	AdverseReaction:T4 Hypothetical:E6
+E5	AdverseReaction:T5 Hypothetical2:E6
+E6	Factor:T6
+E7	AdverseReaction:T7 Hypothetical:E3
+E8	AdverseReaction:T8 Hypothetical:E3
+E9	AdverseReaction:T9 Hypothetical:E3
+E10	AdverseReaction:T10 Hypothetical:E3
+E11	AdverseReaction:T11 Hypothetical:E3
+E12	AdverseReaction:T12 Hypothetical:E3
+E13	AdverseReaction:T13 Hypothetical:E3
+E14	AdverseReaction:T14 Hypothetical:E3
+E15	AdverseReaction:T15 Hypothetical:E3
+E16	AdverseReaction:T16 Hypothetical:E3
+E17	AdverseReaction:T17 Effect:E19
+E18	AdverseReaction:T18 Effect:E19
+E21	AdverseReaction:T21
+E23	AdverseReaction:T23 Hypothetical:E24
+E24	Factor:T24
+E26	AdverseReaction:T26 Effect:E28 Hypothetical:E29
+E27	AdverseReaction:T27 Effect:E28 Hypothetical:E29
+E28	Severity:T28
+E29	Factor:T29
+E30	AdverseReaction:T30
+E3	Factor:T3
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E22	AdverseReaction:T22
+E19	Severity:T19
+E20	AdverseReaction:T20
+E25	AdverseReaction:T18
+A1	flag E1 unmapped
+A2	flag E2 unmapped
+A3	flag E4 unmapped
+A4	flag E5 unmapped
+A5	CUI E7 C0004093
+A6	UMLS-Preferred-Name E7 Asthenia
+A7	MEDDRA-PT E7 Asthenia
+A8	MEDDRA-PT-ID E7 10003549
+A9	CUI E8 C0746674
+A10	UMLS-Preferred-Name E8 Generalized muscle weakness
+A11	MEDDRA-PT E8 Muscular weakness
+A12	MEDDRA-PT-ID E8 10028372
+A13	LLT E8 Generalized muscle weakness
+A14	LLT-ID E8 10062572
+A15	CUI E9 C0012569
+A16	UMLS-Preferred-Name E9 Diplopia
+A17	MEDDRA-PT E9 Diplopia
+A18	MEDDRA-PT-ID E9 10013036
+A19	CUI E10 C0344232
+A20	UMLS-Preferred-Name E10 Blurred vision
+A21	MEDDRA-PT E10 Vision blurred
+A22	MEDDRA-PT-ID E10 10047513
+A23	LLT E10 Blurred vision
+A24	LLT-ID E10 10005886
+A25	CUI E11 C0033377
+A26	UMLS-Preferred-Name E11 Ptosis
+A27	MEDDRA-PT E11 Eyelid ptosis
+A28	MEDDRA-PT-ID E11 10015995
+A29	LLT E11 Ptosis
+A30	LLT-ID E11 10037272
+A31	CUI E12 C0011168
+A32	UMLS-Preferred-Name E12 Deglutition Disorders
+A33	MEDDRA-PT E12 Dysphagia
+A34	MEDDRA-PT-ID E12 10013950
+A35	CUI E13 C1527344
+A36	UMLS-Preferred-Name E13 Dysphonia
+A37	MEDDRA-PT E13 Dysphonia
+A38	MEDDRA-PT-ID E13 10013952
+A39	CUI E14 C0013362
+A40	UMLS-Preferred-Name E14 Dysarthria
+A41	MEDDRA-PT E14 Dysarthria
+A42	MEDDRA-PT-ID E14 10013887
+A43	CUI E15 C0042024
+A44	UMLS-Preferred-Name E15 Urinary Incontinence
+A45	MEDDRA-PT E15 Urinary incontinence
+A46	MEDDRA-PT-ID E15 10046543
+A47	CUI E16 C0013404
+A48	UMLS-Preferred-Name E16 Dyspnea
+A49	MEDDRA-PT E16 Dyspnoea
+A50	MEDDRA-PT-ID E16 10013968
+A51	LLT E16 Difficulty breathing
+A52	LLT-ID E16 10012791
+A53	CUI E17 C0011168
+A54	UMLS-Preferred-Name E17 Deglutition Disorders
+A55	MEDDRA-PT E17 Dysphagia
+A56	MEDDRA-PT-ID E17 10013950
+A57	LLT E17 Swallowing difficult
+A58	LLT-ID E17 10042645
+A59	CUI E18 C0013404
+A60	UMLS-Preferred-Name E18 Dyspnea
+A61	MEDDRA-PT E18 Dyspnoea
+A62	MEDDRA-PT-ID E18 10013968
+A63	LLT E18 Difficulty breathing
+A64	LLT-ID E18 10012791
+A65	flag E21 unmapped
+A66	flag E23 unmapped
+A67	CUI E26 C0011168
+A68	UMLS-Preferred-Name E26 Deglutition Disorders
+A69	MEDDRA-PT E26 Dysphagia
+A70	MEDDRA-PT-ID E26 10013950
+A71	LLT E26 Swallowing difficult
+A72	LLT-ID E26 10042645
+A73	CUI E27 C0013404
+A74	UMLS-Preferred-Name E27 Dyspnea
+A75	MEDDRA-PT E27 Dyspnoea
+A76	MEDDRA-PT-ID E27 10013968
+A77	LLT E27 Difficulty breathing
+A78	LLT-ID E27 10012791
+A79	CUI E30 C1306577
+A80	UMLS-Preferred-Name E30 Death (finding)
+A81	MEDDRA-PT E30 Death
+A82	MEDDRA-PT-ID E30 10011906
+A83	CUI E31 C1306577
+A84	UMLS-Preferred-Name E31 Death (finding)
+A85	MEDDRA-PT E31 Death
+A86	MEDDRA-PT-ID E31 10011906
+A87	flag E32 unmapped
+A88	flag E22 unmapped
+A89	CUI E20 C0011168
+A90	UMLS-Preferred-Name E20 Deglutition Disorders
+A91	MEDDRA-PT E20 Dysphagia
+A92	MEDDRA-PT-ID E20 10013950
+A93	LLT E20 Swallowing difficult
+A94	LLT-ID E20 10042645

@@ -1,0 +1,284 @@
+133,147|C0235378|Hepatotoxicity|inpo
+194,219|C0206062|Interstitial Lung Disease|dsyn
+220,231|C0032285|Pneumonitis|dsyn
+220,231|C3714636|Pneumonitis|dsyn
+278,280;290,302|C0151878|QT Prolongation|fndg
+349,360|C0428977|Bradycardia|patf
+349,360|C3812171|Bradycardia|fndg
+407,425|C3552074|Severe Visual Loss|fndg
+531,547|C0042790|vision disorders|fndg
+549,557|C0011991|diarrhea|sosy
+549,557|C1963091|diarrhea|fndg
+559,565|C0027497|nausea|sosy
+559,565|C1963179|nausea|patf
+567,575|C0042963|vomiting|sosy
+567,575|C1963281|vomiting|patf
+577,589|C0009806|constipation|sosy
+577,589|C1963087|constipation|fndg
+591,596|C0013604|edema|fndg
+598,620|C0438717|elevated transaminases|fndg
+622,649|C0041912|upper respiratory infection|dsyn
+651,669|C0232462|decreased appetite|sosy
+675,684|C0013378|dysgeusia|fndg
+933,943|C0012634|conditions|dsyn
+1217,1225|C1514241|positive|fndg
+1226,1242|C0278987|metastatic NSCLC|neop
+1302,1312|C3815594|randomized|fndg
+1448,1456|C1514241|positive|fndg
+1457,1473|C0278987|metastatic NSCLC|neop
+1676,1692|C0042790|vision disorders|fndg
+1694,1702|C0011991|diarrhea|sosy
+1694,1702|C1963091|diarrhea|fndg
+1704,1710|C0027497|nausea|sosy
+1704,1710|C1963179|nausea|patf
+1712,1720|C0042963|vomiting|sosy
+1712,1720|C1963281|vomiting|patf
+1722,1734|C0009806|constipation|sosy
+1722,1734|C1963087|constipation|fndg
+1736,1741|C0013604|edema|fndg
+1743,1765|C0438717|elevated transaminases|fndg
+1767,1794|C0041912|upper respiratory infection|dsyn
+1796,1814|C0232462|decreased appetite|sosy
+1820,1829|C0013378|dysgeusia|fndg
+1850,1859|C0332155|Untreated|fndg
+1864,1872|C1514241|Positive|fndg
+1873,1889|C0278987|Metastatic NSCLC|neop
+1965,1973|C1514241|positive|fndg
+1974,1990|C0278987|metastatic NSCLC|neop
+2044,2060|C0679246|advanced disease|fndg
+2089,2099|C3815594|randomized|fndg
+2133,2143|C2911690|controlled|fndg
+2144,2149;2157,2158|C3840593|trial 1|fndg
+2278,2289|C1744706|intolerance|fndg
+2293,2300|C1363945|therapy|fndg
+2479,2490|C3811910|combination|fndg
+2775,2782|C0445223|related|fndg
+2883,2888|C0027651|tumor|neop
+2883,2888|C3273930|tumor|fndg
+3394,3416|C1519255|Serious adverse events|fndg
+3492,3514|C1519255|serious adverse events|fndg
+3562,3569|C0013404|dyspnea|sosy
+3581,3599|C0034065|pulmonary embolism|dsyn
+3608,3613|C1705232|Fatal|fndg
+3698,3710|C0036983|septic shock|patf
+3712,3737|C0264490|acute respiratory failure|dsyn
+3743,3764|C0011880|diabetic ketoacidosis|dsyn
+3903,3906;3915,3924|C0861063|led reduction|fndg
+3948,3954|C0027497|nausea|sosy
+3948,3954|C1963179|nausea|patf
+3966,3988|C0438717|elevated transaminases|fndg
+4011,4026|C1444662|discontinuation|fndg
+4138,4153|C1444662|discontinuation|fndg
+4218,4232|C0235378|hepatotoxicity|inpo
+4245,4248|C0206062|ILD|dsyn
+4452,4458|C3244287|Grades|fndg
+4670,4676|C3244287|Grades|fndg
+4730,4736|C3244287|Grades|fndg
+4826,4843|C0018799|Cardiac Disorders|dsyn
+4939,4956|C0013798|Electrocardiogram|fndg
+5052,5063|C0428977|Bradycardia|patf
+5052,5063|C3812171|Bradycardia|fndg
+5165,5178|C0015397|Eye Disorders|dsyn
+5169,5178;5278,5284|C0042790|Disorders Vision|fndg
+5169,5178|C0012634|Disorders|dsyn
+5391,5417|C0017178|Gastrointestinal Disorders|dsyn
+5504,5512|C0042963|Vomiting|sosy
+5504,5512|C1963281|Vomiting|patf
+5617,5625|C0011991|Diarrhea|sosy
+5617,5625|C1963091|Diarrhea|fndg
+5730,5742|C0009806|Constipation|sosy
+5730,5742|C1963087|Constipation|fndg
+5843,5852|C0013395|Dyspepsia|sosy
+5956,5965|C0011168|Dysphagia|dsyn
+6069,6083|C0000737|Abdominal pain|sosy
+6190,6199|C0012634|Disorders|dsyn
+6224,6234|C0012634|Conditions|dsyn
+6311,6316|C0013604|Edema|fndg
+6424,6431|C0015967|Pyrexia|fndg
+6537,6547|C3714514|Infections|patf
+6552,6564|C0851341|Infestations|dsyn
+6650,6677|C0041912|Upper respiratory infection|dsyn
+6876,6882|C0424653|Weight|sosy
+7009,7036|C0009782|Connective Tissue Disorders|dsyn
+7113,7130|C0030196|Pain in extremity|sosy
+7226,7238|C0037763|Muscle spasm|sosy
+7226,7238|C0700153|Muscle spasm|sosy
+7339,7362|C0027765|Nervous System Disorder|dsyn
+7452,7461|C0012833|Dizziness|sosy
+7452,7461|C0042571|Dizziness|sosy
+7452,7461|C1963093|Dizziness|fndg
+7565,7574|C0013378|Dysgeusia|fndg
+7678,7686|C0018681|Headache|sosy
+7678,7686|C2096315|Headache|fndg
+7923,7929|C0027497|nausea|sosy
+7923,7929|C1963179|nausea|patf
+7937,7955|C0232462|decreased appetite|sosy
+7963,7970|C0015672|fatigue|sosy
+7978,7988|C0442874|neuropathy|dsyn
+8010,8026|C0575081|gait disturbance|fndg
+8028,8041|C0020580|hypoaesthesia|fndg
+8043,8060|C0151786|muscular weakness|sosy
+8062,8071|C0027796|neuralgia|sosy
+8073,8094|C0031117|neuropathy peripheral|dsyn
+8096,8108|C0030554|paraesthesia|dsyn
+8096,8108|C2242996|paraesthesia|sosy
+8110,8139|C0151313|peripheral sensory neuropathy|dsyn
+8141,8155|C0152025|polyneuropathy|dsyn
+8157,8176|C0152027|sensory disturbance|dsyn
+8179,8183|C0015230|rash|sosy
+8191,8201|C3887499|renal cyst|dsyn
+8191,8201|C0268800|renal cyst|dsyn
+8208,8211|C0206062|ILD|dsyn
+8217,8220|C0206062|ILD|dsyn
+8222,8233|C0032285|pneumonitis|dsyn
+8222,8233|C3714636|pneumonitis|dsyn
+8240,8247|C0039070|syncope|sosy
+8327,8334|C3889290|Grade 3|fndg
+8399,8421|C4021768|Laboratory Abnormality|fndg
+8476,8481|C3244287|Grade|fndg
+8529,8534|C3244287|Grade|fndg
+8683,8694|C0027947|Neutropenia|dsyn
+8683,8694|C0023530|Neutropenia|dsyn
+8683,8694|C0853697|Neutropenia|fndg
+8796,8807|C0024312|Lymphopenia|dsyn
+8796,8807|C0853986|Lymphopenia|fndg
+8796,8807|C1963164|Lymphopenia|fndg
+9022,9025|C1266129|ALT|neop
+9248,9264|C0085682|Hypophosphatemia|patf
+9248,9264|C0595888|Hypophosphatemia|fndg
+9396,9404|C1514241|Positive|fndg
+9405,9421|C0278987|Metastatic NSCLC|neop
+9497,9505|C1514241|positive|fndg
+9506,9522|C0278987|metastatic NSCLC|neop
+9537,9547|C3815594|randomized|fndg
+9726,9737|C1744706|intolerance|fndg
+9741,9748|C1363945|therapy|fndg
+10043,10054|C1744706|intolerance|fndg
+10058,10065|C1363945|therapy|fndg
+10477,10487|C3815594|randomized|fndg
+10930,10939|C0032285|pneumonia|dsyn
+10948,10966|C0034065|pulmonary embolism|dsyn
+10975,10982|C0013404|dyspnea|sosy
+10995,10998|C0206062|ILD|dsyn
+11007,11012|C1705232|Fatal|fndg
+11114,11149|C0035222|acute respiratory distress syndrome|dsyn
+11151,11161|C0003811|arrhythmia|fndg
+11163,11170|C0013404|dyspnea|sosy
+11172,11181|C0032285|pneumonia|dsyn
+11183,11194|C0032285|pneumonitis|dsyn
+11183,11194|C3714636|pneumonitis|dsyn
+11196,11214|C0034065|pulmonary embolism|dsyn
+11216,11219|C0206062|ILD|dsyn
+11221,11240|C1145670|respiratory failure|dsyn
+11245,11251|C0243026|sepsis|dsyn
+11245,11251|C0036690|sepsis|dsyn
+11389,11392;11401,11410|C0861063|led reduction|fndg
+11479,11482|C1266129|ALT|neop
+11585,11601|C0855333|QTc prolongation|fndg
+11614,11625|C0027947|neutropenia|dsyn
+11614,11625|C0023530|neutropenia|dsyn
+11614,11625|C0853697|neutropenia|fndg
+11650,11662|C1444662|discontinued|fndg
+11753,11768|C1444662|discontinuation|fndg
+11785,11788|C0206062|ILD|dsyn
+11797,11800|C1266129|ALT|neop
+11827,11834|C0013404|dyspnea|sosy
+11847,11865|C0034065|pulmonary embolism|dsyn
+12069,12075|C3244287|Grades|fndg
+12264,12270|C3244287|Grades|fndg
+12324,12330|C3244287|Grades|fndg
+12420,12443|C0027765|Nervous System Disorder|dsyn
+12533,12542|C0012833|Dizziness|sosy
+12533,12542|C0042571|Dizziness|sosy
+12533,12542|C1963093|Dizziness|fndg
+12646,12655|C0013378|Dysgeusia|fndg
+12759,12766|C0039070|Syncope|sosy
+12872,12885|C0015397|Eye Disorders|dsyn
+12876,12885;12985,12991|C0042790|Disorders Vision|fndg
+12876,12885|C0012634|Disorders|dsyn
+13098,13115|C0018799|Cardiac Disorders|dsyn
+13211,13228|C0013798|Electrocardiogram|fndg
+13324,13335|C0428977|Bradycardia|patf
+13324,13335|C3812171|Bradycardia|fndg
+13550,13556|C0424653|Weight|sosy
+13663,13689|C0017178|Gastrointestinal Disorders|dsyn
+13776,13784|C0042963|Vomiting|sosy
+13776,13784|C1963281|Vomiting|patf
+13889,13895|C0027497|Nausea|sosy
+13889,13895|C1963179|Nausea|patf
+14002,14010|C0011991|Diarrhea|sosy
+14002,14010|C1963091|Diarrhea|fndg
+14115,14127|C0009806|Constipation|sosy
+14115,14127|C1963087|Constipation|fndg
+14228,14237|C0013395|Dyspepsia|sosy
+14341,14351|C3714514|Infections|patf
+14356,14368|C0851341|Infestations|dsyn
+14454,14481|C0041912|Upper respiratory infection|dsyn
+14593,14614|C0025061|Mediastinal Disorders|dsyn
+14691,14709|C0034065|Pulmonary embolism|dsyn
+14812,14821|C0012634|Disorders|dsyn
+14846,14856|C0012634|Conditions|dsyn
+14933,14938|C0013604|Edema|fndg
+15183,15190|C0015672|fatigue|sosy
+15198,15208|C0442874|neuropathy|dsyn
+15215,15226|C0392699|dysesthesia|sosy
+15215,15226|C0241057|dysesthesia|sosy
+15228,15244|C0575081|gait disturbance|fndg
+15246,15258|C0020580|hypoesthesia|fndg
+15260,15277|C0151786|muscular weakness|sosy
+15279,15288|C0027796|neuralgia|sosy
+15290,15311|C0031117|peripheral neuropathy|dsyn
+15313,15324|C0030554|parasthesia|dsyn
+15313,15324|C2242996|parasthesia|sosy
+15326,15355|C0151313|peripheral sensory neuropathy|dsyn
+15357,15371|C0152025|polyneuropathy|dsyn
+15373,15380|C0085624|burning|sosy
+15381,15390|C0542538|sensation|fndg
+15401,15405|C0015230|rash|sosy
+15412,15415|C0206062|ILD|dsyn
+15421,15456|C0035222|acute respiratory distress syndrome|dsyn
+15458,15461|C0206062|ILD|dsyn
+15463,15474|C0032285|pneumonitis|dsyn
+15463,15474|C3714636|pneumonitis|dsyn
+15477,15487|C3887499|renal cyst|dsyn
+15477,15487|C0268800|renal cyst|dsyn
+15498,15513|C0085605|hepatic failure|dsyn
+15593,15600|C3889290|Grade 3|fndg
+15665,15687|C4021768|Laboratory Abnormality|fndg
+15748,15753|C3244287|Grade|fndg
+15808,15813|C3244287|Grade|fndg
+15958,15969|C0027947|Neutropenia|dsyn
+15958,15969|C0023530|Neutropenia|dsyn
+15958,15969|C0853697|Neutropenia|fndg
+16071,16082|C0024312|Lymphopenia|dsyn
+16071,16082|C0853986|Lymphopenia|fndg
+16071,16082|C1963164|Lymphopenia|fndg
+16297,16300|C1266129|ALT|neop
+16523,16534|C0020621|Hypokalemia|fndg
+16636,16652|C0085682|Hypophosphatemia|patf
+16636,16652|C0595888|Hypophosphatemia|fndg
+16773,16775;16818,16834;16848,16857|C0042790|of Vision disorders disorders|fndg
+16873,16890|C3665347|visual impairment|fndg
+16892,16901|C1705500|photopsia|sosy
+16892,16901|C0085635|photopsia|sosy
+16903,16917|C0344232|blurred vision|sosy
+16922,16939|C0016242|vitreous floaters|fndg
+17023,17028|C3244287|Grade|fndg
+17092,17099|C3889290|Grade 3|fndg
+17135,17152|C3665347|visual impairment|fndg
+17171,17185|C0422943|Visual Symptom|sosy
+17178,17185|C1457887|Symptom|sosy
+17303,17322|C0547030|visual disturbances|sosy
+17381,17399|C0042790|of vision disorder|fndg
+17540,17559|C0547030|visual disturbances|sosy
+17595,17601|C3842672|7 days|fndg
+17778,17788|C0442874|Neuropathy|dsyn
+17903,17910|C3889292|Grade 1|fndg
+17914,17921|C3889824|Grade 2|fndg
+17943,17954|C3887499|Renal Cysts|dsyn
+18019,18030|C3887499|Renal cysts|dsyn
+18137,18148|C3887499|Renal cysts|dsyn
+18271,18282|C3887499|renal cysts|dsyn
+18331,18337;18358,18364|C0022679|cystic kidney|dsyn
+18432,18449|C4014106|abscess formation|fndg
+18486,18501|C0151465|renal abscesses|acab

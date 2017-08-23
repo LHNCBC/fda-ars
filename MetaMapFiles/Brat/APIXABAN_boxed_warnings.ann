@@ -1,0 +1,206 @@
+T1	AdverseReaction 93 110	THROMBOTIC EVENTS
+T2	Factor 85 89	RISK
+T3	AdverseReaction 121 138	EPIDURAL HEMATOMA
+T4	AdverseReaction 214 231	THROMBOTIC EVENTS
+T5	Factor 206 210	RISK
+T6	AdverseReaction 114 120;130 138	SPINAL HEMATOMA
+T7	AdverseReaction 235 241;251 259	SPINAL HEMATOMA
+T8	AdverseReaction 242 259	EPIDURAL HEMATOMA
+T9	AdverseReaction 328 345	THROMBOTIC EVENTS
+T10	Factor 320 324	RISK
+T11	AdverseReaction 448 465	thrombotic events
+T12	Factor 440 444	risk
+T13	AdverseReaction 801 809;820 829	Epidural hematomas
+T14	AdverseReaction 813 829	spinal hematomas
+T15	Factor 830 833	may
+T16	AdverseReaction 949 958	hematomas
+T17	AdverseReaction 986 1005	permanent paralysis
+T18	AdverseReaction 973 982;996 1005	long-term paralysis
+T19	Factor 959 962	may
+T20	AdverseReaction 1125 1133;1144 1153	epidural hematomas
+T21	AdverseReaction 1137 1153	spinal hematomas
+T22	Factor 1106 1110	risk
+T23	AdverseReaction 2094 2111	THROMBOTIC EVENTS
+T24	AdverseReaction 2122 2139	EPIDURAL HEMATOMA
+T25	AdverseReaction 2115 2121;2131 2139	SPINAL HEMATOMA
+T26	Factor 2086 2090	RISK
+T29	AdverseReaction 2391 2408	thrombotic events
+T30	Factor 2383 2387	risk
+T27	AdverseReaction 2654 2662;2673 2682	Epidural hematomas
+T28	AdverseReaction 2666 2682	spinal hematomas
+T31	Factor 2683 2686	may
+T32	AdverseReaction 2802 2811	hematomas
+T33	Factor 2812 2815	may
+T34	AdverseReaction 2839 2858	permanent paralysis
+T35	AdverseReaction 2826 2835;2849 2858	long-term paralysis
+T36	Factor 2270 2274	RISK
+T37	AdverseReaction 2278 2295	THROMBOTIC EVENTS
+E1	AdverseReaction:T1 Hypothetical:E2
+E2	Factor:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4 Hypothetical:E5
+E5	Factor:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9 Hypothetical:E10
+E10	Factor:T10
+E11	AdverseReaction:T11 Hypothetical:E12
+E12	Factor:T12
+E13	AdverseReaction:T13 Hypothetical:E15
+E14	AdverseReaction:T14 Hypothetical:E15
+E15	Factor:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17 Hypothetical:E19
+E18	AdverseReaction:T18 Hypothetical:E19
+E19	Factor:T19
+E20	AdverseReaction:T20 Hypothetical:E22
+E21	AdverseReaction:T21 Hypothetical:E22
+E22	Factor:T22
+E23	AdverseReaction:T23 Hypothetical:E26
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	Factor:T26
+E29	AdverseReaction:T29 Hypothetical:E30
+E30	Factor:T30
+E27	AdverseReaction:T27 Hypothetical:E31
+E28	AdverseReaction:T28 Hypothetical:E31
+E31	Factor:T31
+E32	AdverseReaction:T32
+E33	Factor:T33
+E34	AdverseReaction:T34 Hypothetical:E33
+E35	AdverseReaction:T35 Hypothetical:E33
+E36	Factor:T36
+E37	AdverseReaction:T37 Hypothetical:E36
+A1	CUI E1 C0040053
+A2	UMLS-Preferred-Name E1 Thrombosis
+A3	MEDDRA-PT E1 Thrombosis
+A4	MEDDRA-PT-ID E1 10043607
+A5	CUI E3 C0238154
+A6	UMLS-Preferred-Name E3 Hematoma, Epidural, Cranial
+A7	MEDDRA-PT E3 Extradural haematoma
+A8	MEDDRA-PT-ID E3 10015769
+A9	LLT E3 Epidural hematoma
+A10	LLT-ID E3 10015013
+A11	CUI E4 C0040053
+A12	UMLS-Preferred-Name E4 Thrombosis
+A13	MEDDRA-PT E4 Thrombosis
+A14	MEDDRA-PT-ID E4 10043607
+A15	CUI E6 C0856150
+A16	UMLS-Preferred-Name E6 spinal hematoma
+A17	MEDDRA-PT E6 Spinal cord haematoma
+A18	MEDDRA-PT-ID E6 10076051
+A19	LLT E6 Spinal hematoma
+A20	LLT-ID E6 10055382
+A21	CUI E7 C0856150
+A22	UMLS-Preferred-Name E7 spinal hematoma
+A23	MEDDRA-PT E7 Spinal cord haematoma
+A24	MEDDRA-PT-ID E7 10076051
+A25	LLT E7 Spinal hematoma
+A26	LLT-ID E7 10055382
+A27	CUI E8 C0238154
+A28	UMLS-Preferred-Name E8 Hematoma, Epidural, Cranial
+A29	MEDDRA-PT E8 Extradural haematoma
+A30	MEDDRA-PT-ID E8 10015769
+A31	LLT E8 Epidural hematoma
+A32	LLT-ID E8 10015013
+A33	CUI E9 C0040053
+A34	UMLS-Preferred-Name E9 Thrombosis
+A35	MEDDRA-PT E9 Thrombosis
+A36	MEDDRA-PT-ID E9 10043607
+A37	CUI E11 C0040053
+A38	UMLS-Preferred-Name E11 Thrombosis
+A39	MEDDRA-PT E11 Thrombosis
+A40	MEDDRA-PT-ID E11 10043607
+A41	CUI E13 C0238154
+A42	UMLS-Preferred-Name E13 Hematoma, Epidural, Cranial
+A43	MEDDRA-PT E13 Extradural haematoma
+A44	MEDDRA-PT-ID E13 10015769
+A45	LLT E13 Epidural hematoma
+A46	LLT-ID E13 10015013
+A47	CUI E14 C0856150
+A48	UMLS-Preferred-Name E14 spinal hematoma
+A49	MEDDRA-PT E14 Spinal cord haematoma
+A50	MEDDRA-PT-ID E14 10076051
+A51	LLT E14 Spinal hematoma
+A52	LLT-ID E14 10055382
+A53	CUI E16 C0018944
+A54	UMLS-Preferred-Name E16 Hematoma
+A55	MEDDRA-PT E16 Haematoma
+A56	MEDDRA-PT-ID E16 10018852
+A57	LLT E16 Hematoma
+A58	LLT-ID E16 10019428
+A59	CUI E17 C0522224
+A60	UMLS-Preferred-Name E17 Paralysed
+A61	MEDDRA-PT E17 Paralysis
+A62	MEDDRA-PT-ID E17 10033799
+A63	CUI E18 C0522224
+A64	UMLS-Preferred-Name E18 Paralysed
+A65	MEDDRA-PT E18 Paralysis
+A66	MEDDRA-PT-ID E18 10033799
+A67	LLT E18 Paralysed
+A68	LLT-ID E18 10033798
+A69	CUI E20 C0238154
+A70	UMLS-Preferred-Name E20 Hematoma, Epidural, Cranial
+A71	MEDDRA-PT E20 Extradural haematoma
+A72	MEDDRA-PT-ID E20 10015769
+A73	LLT E20 Epidural hematoma
+A74	LLT-ID E20 10015013
+A75	CUI E21 C0856150
+A76	UMLS-Preferred-Name E21 spinal hematoma
+A77	MEDDRA-PT E21 Spinal cord haematoma
+A78	MEDDRA-PT-ID E21 10076051
+A79	LLT E21 Spinal hematoma
+A80	LLT-ID E21 10055382
+A81	CUI E23 C0040053
+A82	UMLS-Preferred-Name E23 Thrombosis
+A83	MEDDRA-PT E23 Thrombosis
+A84	MEDDRA-PT-ID E23 10043607
+A85	CUI E24 C0238154
+A86	UMLS-Preferred-Name E24 Hematoma, Epidural, Cranial
+A87	MEDDRA-PT E24 Extradural haematoma
+A88	MEDDRA-PT-ID E24 10015769
+A89	LLT E24 Epidural hematoma
+A90	LLT-ID E24 10015013
+A91	CUI E25 C0856150
+A92	UMLS-Preferred-Name E25 spinal hematoma
+A93	MEDDRA-PT E25 Spinal cord haematoma
+A94	MEDDRA-PT-ID E25 10076051
+A95	LLT E25 Spinal hematoma
+A96	LLT-ID E25 10055382
+A97	CUI E29 C0040053
+A98	UMLS-Preferred-Name E29 Thrombosis
+A99	MEDDRA-PT E29 Thrombosis
+A100	MEDDRA-PT-ID E29 10043607
+A101	CUI E27 C0238154
+A102	UMLS-Preferred-Name E27 Hematoma, Epidural, Cranial
+A103	MEDDRA-PT E27 Extradural haematoma
+A104	MEDDRA-PT-ID E27 10015769
+A105	LLT E27 Epidural hematoma
+A106	LLT-ID E27 10015013
+A107	CUI E28 C0856150
+A108	UMLS-Preferred-Name E28 spinal hematoma
+A109	MEDDRA-PT E28 Spinal cord haematoma
+A110	MEDDRA-PT-ID E28 10076051
+A111	LLT E28 Spinal hematoma
+A112	LLT-ID E28 10055382
+A113	CUI E32 C0018944
+A114	UMLS-Preferred-Name E32 Hematoma
+A115	MEDDRA-PT E32 Haematoma
+A116	MEDDRA-PT-ID E32 10018852
+A117	LLT E32 Hematoma
+A118	LLT-ID E32 10019428
+A119	CUI E34 C0522224
+A120	UMLS-Preferred-Name E34 Paralysed
+A121	MEDDRA-PT E34 Paralysis
+A122	MEDDRA-PT-ID E34 10033799
+A123	CUI E35 C0522224
+A124	UMLS-Preferred-Name E35 Paralysed
+A125	MEDDRA-PT E35 Paralysis
+A126	MEDDRA-PT-ID E35 10033799
+A127	LLT E35 Paralysed
+A128	LLT-ID E35 10033798
+A129	CUI E37 C0040053
+A130	UMLS-Preferred-Name E37 Thrombosis
+A131	MEDDRA-PT E37 Thrombosis
+A132	MEDDRA-PT-ID E37 10043607

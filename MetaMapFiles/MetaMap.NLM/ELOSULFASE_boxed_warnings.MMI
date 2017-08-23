@@ -1,0 +1,35 @@
+00000000|MMI|206.38|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-10-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-9-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-8-"Anaphylaxis"-noun-0,"Reactions, Anaphylactic"-tx-7-"anaphylactic reactions"-noun-0,"ANAPHYLAXIS"-tx-6-"ANAPHYLAXIS"-noun-0,"ANAPHYLAXIS"-tx-4-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-3-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-2-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-1-"ANAPHYLAXIS"-noun-0,"Reactions, Anaphylactic"-tx-1-"anaphylactic reactions"-noun-0]|TX|1720/11;1662/11;1274/11;1194/22;1084/11;697/11;639/11;188/11;[38/11],[72/11];108/22|C20.543.480.099
+00000000|MMI|54.44|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-8-"urticaria"-noun-0,"URTICARIA"-tx-2-"urticaria"-noun-0]|TX|[1336/9],[1463/9];[250/9],[432/9]|C17.800.862.945;C20.543.480.904
+00000000|MMI|39.33|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-10-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-9-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-8-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-6-"ANAPHYLAXIS"-noun-0,"Anaphylaxis"-tx-4-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-3-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-2-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-1-"ANAPHYLAXIS"-noun-0]|TX|1720/11;1662/11;1274/11;1084/11;697/11;639/11;188/11;[38/11],[72/11]|
+00000000|MMI|29.46|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-8-"dyspnea"-noun-0,"DYSPNOEA"-tx-2-"dyspnea"-noun-0]|TX|1386/7;300/7|C08.618.326;C23.888.852.371
+00000000|MMI|26.26|Coughing|C0010200|[sosy]|["COUGH"-tx-8-"cough"-noun-0,"COUGH"-tx-2-"cough"-noun-0]|TX|1301/5;215/5|C08.618.248;C23.888.852.293
+00000000|MMI|23.12|Cyanosis|C0010520|[sosy]|["CYANOSIS"-tx-8-"cyanosis"-noun-0,"CYANOSIS"-tx-2-"cyanosis"-noun-0]|TX|1357/8;271/8|C23.888.248
+00000000|MMI|23.12|Erythema|C0041834|[dsyn]|["ERYTHEMA"-tx-8-"erythema"-noun-0,"ERYTHEMA"-tx-2-"erythema"-noun-0]|TX|1308/8;222/8|C17.800.229
+00000000|MMI|23.12|Exanthema|C0015230|[sosy]|["RASH"-tx-8-"rash"-noun-0,"RASH"-tx-2-"rash"-noun-0]|TX|1380/4;294/4|C17.800.257
+00000000|MMI|23.12|Flushing|C0016382|[sosy]|["FLUSHING"-tx-8-"flushing"-verb-0,"FLUSHING"-tx-2-"flushing"-verb-0]|TX|1347/8;261/8|C23.888.388
+00000000|MMI|23.12|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-8-"hypotension"-noun-0,"HYPOTENSION"-tx-2-"hypotension"-noun-0]|TX|1367/11;281/11|C14.907.514
+00000000|MMI|17.80|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-2-"abdominal pain"-noun-0]|TX|372/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|16.77|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-11-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-5-"hypersensitivity reactions"-noun-0]|TX|1922/26;899/26|C20.543
+00000000|MMI|15.43|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-8-"urticaria"-noun-0,"urticaria"-tx-2-"urticaria"-noun-0]|TX|[1336/9],[1463/9];[250/9],[432/9]|
+00000000|MMI|15.42|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-10-"symptoms"-noun-0,"SYMPTOMS"-tx-4-"symptoms"-noun-0]|TX|[1708/8],[1781/8];[685/8],[758/8]|
+00000000|MMI|14.64|Nausea|C0027497|[sosy]|["NAUSEA"-tx-2-"nausea"-noun-0]|TX|364/6|C23.888.821.712
+00000000|MMI|14.64|Vomiting|C0042963|[sosy]|["VOMITING"-tx-2-"vomiting"-noun-0]|TX|402/8|C23.888.821.937
+00000000|MMI|10.42|Chest discomfort|C0235710|[sosy]|["CHEST DISCOMFORT"-tx-8-"chest discomfort"-noun-0,"CHEST DISCOMFORT"-tx-2-"chest discomfort"-noun-0]|TX|1395/16;309/16|
+00000000|MMI|10.42|Feeling of throat tightness|C0236071|[fndg]|["THROAT TIGHTNESS"-tx-8-"throat tightness"-noun-0,"THROAT TIGHTNESS"-tx-2-"throat tightness"-noun-0]|TX|1318/16;232/16|
+00000000|MMI|10.42|Flushing Adverse Event|C1962957|[fndg]|["Flushing"-tx-8-"flushing"-verb-0,"Flushing"-tx-2-"flushing"-verb-0]|TX|1347/8;261/8|
+00000000|MMI|10.42|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-8-"hypotension"-noun-0,"Hypotension"-tx-2-"hypotension"-noun-0]|TX|1367/11;281/11|
+00000000|MMI|10.42|Prepared|C4082130|[fndg]|["Prepared"-tx-9-"prepared"-verb-0,"Prepared"-tx-3-"prepared"-verb-0]|TX|1643/8;620/8|
+00000000|MMI|7.55|Medical care, unspecified|C0496675|[fndg]|["Medical care"-tx-10-"medical care"-noun-0,"Medical care"-tx-4-"medical care"-noun-0]|TX|1761/12;738/12|
+00000000|MMI|7.53|Gastrointestinal symptom|C0426576|[sosy]|["Gastrointestinal symptoms"-tx-8-"gastrointestinal symptoms"-noun-0,"Gastrointestinal symptoms"-tx-2-"gastrointestinal symptoms"-noun-0]|TX|1417/25;331/25|
+00000000|MMI|7.22|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-8-"cough"-noun-0,"Cough"-tx-2-"cough"-noun-0]|TX|1301/5;215/5|
+00000000|MMI|7.15|exacerbation acute|C0743630|[fndg]|["acute exacerbation"-tx-11-"acute exacerbation"-noun-0,"acute exacerbation"-tx-5-"acute exacerbation"-noun-0]|TX|1864/18;841/18|
+00000000|MMI|7.12|compromise|C2945640|[fndg]|["compromise"-tx-11-"compromise"-noun-0,"compromise"-tx-5-"compromise"-noun-0]|TX|1904/10;881/10|
+00000000|MMI|6.98|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-7-"Life-threatening"-adj-0,"Life Threatening"-tx-1-"Life-threatening"-adj-0]|TX|1177/16;91/16|
+00000000|MMI|6.98|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-7-"Life-threatening"-adj-0,"LIFE THREATENING"-tx-1-"Life-threatening"-adj-0]|TX|1177/16;91/16|
+00000000|MMI|6.98|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-7-"Life-threatening"-adj-0,"LIFE THREATENING"-tx-1-"Life-threatening"-adj-0]|TX|1177/16;91/16|
+00000000|MMI|6.95|Acute illness|C4061114|[patf]|["Acute illness"-tx-11-"acute illness"-noun-0,"Acute illness"-tx-5-"acute illness"-noun-0]|TX|1812/5,1830/7;789/5,807/7|
+00000000|MMI|6.92|Physical findings|C0311392|[fndg]|["SIGNS"-tx-10-"signs"-noun-0,"SIGNS"-tx-4-"signs"-noun-0]|TX|1698/5;675/5|
+00000000|MMI|5.18|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-5-"Adverse Reactions"-noun-0]|TX|1016/17|
+00000000|MMI|5.18|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-2-"nausea"-noun-0]|TX|364/6|
+00000000|MMI|5.18|Retching|C0232602|[sosy]|["RETCHING"-tx-2-"retching"-verb-0]|TX|388/8|
+00000000|MMI|5.18|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-2-"vomiting"-noun-0]|TX|402/8|

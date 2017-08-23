@@ -1,0 +1,100 @@
+106,115|C0043352|dry mouth|dsyn
+170,182|C0009806|constipation|sosy
+170,182|C1963087|constipation|fndg
+519,537|C0878773|overactive bladder|dsyn
+1140,1162|C1519255|serious adverse events|fndg
+1313,1320|C0445223|related|fndg
+1339,1346|C0445223|related|fndg
+1447,1468|C1519255|serious adverse event|fndg
+1475,1481|C0002962|angina|fndg
+1483,1493|C0008031|chest pain|sosy
+1495,1510|C0017160|gastroenteritis|dsyn
+1516,1531|C0151878|QT prolongation|fndg
+1621,1630|C0043352|dry mouth|dsyn
+1649,1658|C0043352|dry mouth|dsyn
+1721,1722;1726,1729|C3840892|4 day|fndg
+1766,1775|C0043352|Dry mouth|dsyn
+1783,1798|C1444662|discontinuation|fndg
+1930,1939|C0043352|dry mouth|dsyn
+2079,2091|C0009806|constipation|sosy
+2079,2091|C1963087|constipation|fndg
+2110,2122|C0009806|constipation|sosy
+2110,2122|C1963087|constipation|fndg
+2155,2156;2179,2182|C3840892|4 day|fndg
+2320,2330|C3815594|randomized|fndg
+2848,2851|C1266129|ALT|neop
+2920,2946|C0017178|Gastrointestinal disorders|dsyn
+3031,3040|C0043352|Dry mouth|dsyn
+3140,3152|C0009806|Constipation|sosy
+3140,3152|C1963087|Constipation|fndg
+3249,3258|C0013395|Dyspepsia|sosy
+3358,3364|C0027497|Nausea|sosy
+3358,3364|C1963179|Nausea|patf
+3467,3487|C0232492|Abdominal pain upper|sosy
+3574,3584;3685,3698|C0042029|Infections Urinary tract|dsyn
+3794,3827|C0041912|Upper respiratory tract infection|dsyn
+3901,3914|C0015397|Eye disorders|dsyn
+4129,4146|C0042075|urinary disorders|dsyn
+4230,4237|C0013428|Dysuria|sosy
+4339,4356|C0080274|Urinary retention|fndg
+4446,4467|C0035204|Respiratory disorders|dsyn
+4557,4562|C0010200|Cough|sosy
+4557,4562|C1961131|Cough|fndg
+4666,4676|C0235234|Dry throat|sosy
+4773,4780;4884,4889|C0151603|General Edema|patf
+4781,4790|C0012634|disorders|dsyn
+4884,4900|C0085649|Edema peripheral|fndg
+4991,5006;5102,5111|C0741399|Musculoskeletal Back pain|sosy
+5007,5016|C0012634|disorders|dsyn
+5320,5328|C0917801|Insomnia|sosy
+5320,5328|C1963237|Insomnia|fndg
+5538,5541|C1266129|ALT|neop
+5754,5758;5865,5869|C0015230|Skin Rash|sosy
+5754,5768|C0037274|Skin disorders|dsyn
+5759,5768|C0012634|disorders|dsyn
+5865,5869|C0015230|Rash|sosy
+6094,6104|C2911690|controlled|fndg
+6227,6234|C3843647|2 years|fndg
+6416,6425|C0043352|dry mouth|dsyn
+6427,6439|C0009806|constipation|sosy
+6427,6439|C1963087|constipation|fndg
+6441,6449|C0013238|dry eyes|dsyn
+6441,6449|C0314719|dry eyes|sosy
+6451,6460|C0013395|dyspepsia|sosy
+6466,6480|C0000737|abdominal pain|sosy
+6540,6549|C0043352|dry mouth|dsyn
+6554,6566|C0009806|constipation|sosy
+6554,6566|C1963087|constipation|fndg
+6603,6625|C1519255|Serious adverse events|fndg
+6658,6665|C0445223|related|fndg
+6800,6817|C0080274|urinary retention|fndg
+6829,6843|C0012813|diverticulitis|dsyn
+6855,6867|C0009806|constipation|sosy
+6855,6867|C1963087|constipation|fndg
+6879,6903|C0022104|irritable bowel syndrome|dsyn
+6919,6936|C0013798|electrocardiogram|fndg
+7142,7155|C0015397|Eye disorders|dsyn
+7160,7174|C0344232|Blurred vision|sosy
+7179,7196|C0018799|Cardiac disorders|dsyn
+7201,7213|C0030252|Palpitations|fndg
+7201,7213|C3160712|Palpitations|fndg
+7226,7235|C0012634|disorders|dsyn
+7240,7254|C3845829|administrative|fndg
+7260,7270|C0012634|conditions|dsyn
+7275,7301|C0020517|Hypersensitivity reactions|patf
+7313,7323|C0002994|angioedema|patf
+7329,7347|C0001883|airway obstruction|dsyn
+7349,7359|C0542571|face edema|patf
+7364,7396|C0007682|Central nervous system disorders|dsyn
+7401,7410|C0012833|Dizziness|sosy
+7401,7410|C0042571|Dizziness|sosy
+7401,7410|C1963093|Dizziness|fndg
+7412,7420|C0018681|headache|sosy
+7412,7420|C2096315|headache|fndg
+7422,7432|C0013144|somnolence|fndg
+7422,7432|C2830004|somnolence|fndg
+7446,7458;7466,7475|C0549584|subcutaneous disorders|dsyn
+7466,7475|C0012634|disorders|dsyn
+7480,7489|C0042109|Urticaria|dsyn
+7480,7489|C2186740|Urticaria|fndg
+7491,7499|C0033774|pruritus|sosy

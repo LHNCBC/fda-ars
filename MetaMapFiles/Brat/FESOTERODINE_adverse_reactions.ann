@@ -1,0 +1,348 @@
+T1	AdverseReaction 106 115	dry mouth
+T2	AdverseReaction 170 182	constipation
+T3	AdverseReaction 1475 1481	angina
+T4	AdverseReaction 1483 1493	chest pain
+T5	AdverseReaction 1495 1510	gastroenteritis
+T6	AdverseReaction 1516 1531	QT prolongation
+T7	AdverseReaction 1621 1630	dry mouth
+T8	AdverseReaction 1649 1658	dry mouth
+T9	AdverseReaction 1766 1775	Dry mouth
+T10	AdverseReaction 1930 1939	dry mouth
+T11	AdverseReaction 2079 2091	constipation
+T12	AdverseReaction 2110 2122	constipation
+T13	AdverseReaction 3031 3040	Dry mouth
+T14	AdverseReaction 3140 3152	Constipation
+T15	AdverseReaction 3249 3258	Dyspepsia
+T16	AdverseReaction 3358 3364	Nausea
+T17	AdverseReaction 3467 3487	Abdominal pain upper
+T18	AdverseReaction 3685 3708	Urinary tract infection
+T19	AdverseReaction 3794 3827	Upper respiratory tract infection
+T20	AdverseReaction 4012 4020	Dry eyes
+T21	AdverseReaction 4230 4237	Dysuria
+T22	AdverseReaction 4339 4356	Urinary retention
+T23	AdverseReaction 4557 4562	Cough
+T24	AdverseReaction 4666 4676	Dry throat
+T25	AdverseReaction 4884 4900	Edema peripheral
+T26	AdverseReaction 5102 5111	Back pain
+T27	AdverseReaction 5320 5328	Insomnia
+T28	AdverseReaction 5538 5551	ALT increased
+T29	AdverseReaction 5647 5660	GGT increased
+T30	AdverseReaction 5865 5869	Rash
+T31	AdverseReaction 6416 6425	dry mouth
+T32	AdverseReaction 6427 6439	constipation
+T33	AdverseReaction 6441 6449	dry eyes
+T34	AdverseReaction 6451 6460	dyspepsia
+T35	AdverseReaction 6466 6480	abdominal pain
+T36	AdverseReaction 6540 6549	dry mouth
+T37	AdverseReaction 6554 6566	constipation
+T38	Severity 6572 6588	mild to moderate
+T39	Severity 6572 6576	mild
+T40	Severity 6580 6588	moderate
+T41	AdverseReaction 6800 6817	urinary retention
+T42	AdverseReaction 6829 6843	diverticulitis
+T43	AdverseReaction 6855 6867	constipation
+T44	AdverseReaction 6879 6903	irritable bowel syndrome
+T45	AdverseReaction 6937 6971	QT corrected interval prolongation
+T46	AdverseReaction 7160 7174	Blurred vision
+T47	AdverseReaction 7201 7213	Palpitations
+T48	AdverseReaction 7275 7301	Hypersensitivity reactions
+T49	AdverseReaction 7329 7347	airway obstruction
+T50	AdverseReaction 7349 7359	face edema
+T51	AdverseReaction 7401 7410	Dizziness
+T52	AdverseReaction 7412 7420	headache
+T53	AdverseReaction 7422 7432	somnolence
+T54	AdverseReaction 7480 7489	Urticaria
+T55	AdverseReaction 7491 7499	pruritus
+T56	AdverseReaction 7313 7323	angioedema
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36 Effect:E39 Effect2:E38 Effect3:E38
+E37	AdverseReaction:T37 Effect:E39 Effect2:E38 Effect3:E40
+E38	Severity:T38
+E39	Severity:T39
+E40	Severity:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+A1	CUI E1 C0043352
+A2	UMLS-Preferred-Name E1 Xerostomia
+A3	MEDDRA-PT E1 Dry mouth
+A4	MEDDRA-PT-ID E1 10013781
+A5	CUI E2 C0009806
+A6	UMLS-Preferred-Name E2 Constipation
+A7	MEDDRA-PT E2 Constipation
+A8	MEDDRA-PT-ID E2 10010774
+A9	CUI E3 C0002962
+A10	UMLS-Preferred-Name E3 Angina Pectoris
+A11	MEDDRA-PT E3 Angina pectoris
+A12	MEDDRA-PT-ID E3 10002383
+A13	LLT E3 Angina
+A14	LLT-ID E3 10002372
+A15	CUI E4 C0008031
+A16	UMLS-Preferred-Name E4 Chest Pain
+A17	MEDDRA-PT E4 Chest pain
+A18	MEDDRA-PT-ID E4 10008479
+A19	CUI E5 C0017160
+A20	UMLS-Preferred-Name E5 Gastroenteritis
+A21	MEDDRA-PT E5 Gastroenteritis
+A22	MEDDRA-PT-ID E5 10017888
+A23	CUI E6 C0151878
+A24	UMLS-Preferred-Name E6 Prolonged QT interval
+A25	MEDDRA-PT E6 Electrocardiogram QT prolonged
+A26	MEDDRA-PT-ID E6 10014387
+A27	LLT E6 QT prolonged
+A28	LLT-ID E6 10037705
+A29	CUI E7 C0043352
+A30	UMLS-Preferred-Name E7 Xerostomia
+A31	MEDDRA-PT E7 Dry mouth
+A32	MEDDRA-PT-ID E7 10013781
+A33	CUI E8 C0043352
+A34	UMLS-Preferred-Name E8 Xerostomia
+A35	MEDDRA-PT E8 Dry mouth
+A36	MEDDRA-PT-ID E8 10013781
+A37	CUI E9 C0043352
+A38	UMLS-Preferred-Name E9 Xerostomia
+A39	MEDDRA-PT E9 Dry mouth
+A40	MEDDRA-PT-ID E9 10013781
+A41	CUI E10 C0043352
+A42	UMLS-Preferred-Name E10 Xerostomia
+A43	MEDDRA-PT E10 Dry mouth
+A44	MEDDRA-PT-ID E10 10013781
+A45	CUI E11 C0009806
+A46	UMLS-Preferred-Name E11 Constipation
+A47	MEDDRA-PT E11 Constipation
+A48	MEDDRA-PT-ID E11 10010774
+A49	CUI E12 C0009806
+A50	UMLS-Preferred-Name E12 Constipation
+A51	MEDDRA-PT E12 Constipation
+A52	MEDDRA-PT-ID E12 10010774
+A53	CUI E13 C0043352
+A54	UMLS-Preferred-Name E13 Xerostomia
+A55	MEDDRA-PT E13 Dry mouth
+A56	MEDDRA-PT-ID E13 10013781
+A57	CUI E14 C0009806
+A58	UMLS-Preferred-Name E14 Constipation
+A59	MEDDRA-PT E14 Constipation
+A60	MEDDRA-PT-ID E14 10010774
+A61	CUI E15 C0013395
+A62	UMLS-Preferred-Name E15 Dyspepsia
+A63	MEDDRA-PT E15 Dyspepsia
+A64	MEDDRA-PT-ID E15 10013946
+A65	CUI E16 C0027497
+A66	UMLS-Preferred-Name E16 Nausea
+A67	MEDDRA-PT E16 Nausea
+A68	MEDDRA-PT-ID E16 10028813
+A69	CUI E17 C0232492
+A70	UMLS-Preferred-Name E17 Upper abdominal pain
+A71	MEDDRA-PT E17 Abdominal pain upper
+A72	MEDDRA-PT-ID E17 10000087
+A73	CUI E18 C0042029
+A74	UMLS-Preferred-Name E18 Urinary tract infection
+A75	MEDDRA-PT E18 Urinary tract infection
+A76	MEDDRA-PT-ID E18 10046571
+A77	CUI E19 C0041912
+A78	UMLS-Preferred-Name E19 Upper Respiratory Infections
+A79	MEDDRA-PT E19 Upper respiratory tract infection
+A80	MEDDRA-PT-ID E19 10046306
+A81	CUI E20 C0314719
+A82	UMLS-Preferred-Name E20 Dryness of eye
+A83	MEDDRA-PT E20 Dry eye
+A84	MEDDRA-PT-ID E20 10013774
+A85	LLT E20 Dry eyes
+A86	LLT-ID E20 10013778
+A87	CUI E21 C0013428
+A88	UMLS-Preferred-Name E21 Dysuria
+A89	MEDDRA-PT E21 Dysuria
+A90	MEDDRA-PT-ID E21 10013990
+A91	CUI E22 C0080274
+A92	UMLS-Preferred-Name E22 Urinary Retention
+A93	MEDDRA-PT E22 Urinary retention
+A94	MEDDRA-PT-ID E22 10046555
+A95	CUI E23 C0010200
+A96	UMLS-Preferred-Name E23 Coughing
+A97	MEDDRA-PT E23 Cough
+A98	MEDDRA-PT-ID E23 10011224
+A99	CUI E24 C0235234
+A100	UMLS-Preferred-Name E24 Pharyngeal dryness
+A101	MEDDRA-PT E24 Dry throat
+A102	MEDDRA-PT-ID E24 10013789
+A103	CUI E25 C0085649
+A104	UMLS-Preferred-Name E25 Peripheral edema
+A105	MEDDRA-PT E25 Oedema peripheral
+A106	MEDDRA-PT-ID E25 10030124
+A107	LLT E25 Edema peripheral
+A108	LLT-ID E25 10014251
+A109	CUI E26 C0004604
+A110	UMLS-Preferred-Name E26 Back Pain
+A111	MEDDRA-PT E26 Back pain
+A112	MEDDRA-PT-ID E26 10003988
+A113	CUI E27 C0917801
+A114	UMLS-Preferred-Name E27 Sleeplessness
+A115	MEDDRA-PT E27 Insomnia
+A116	MEDDRA-PT-ID E27 10022437
+A117	CUI E28 C0151905
+A118	UMLS-Preferred-Name E28 Alanine aminotransferase increased
+A119	MEDDRA-PT E28 Alanine aminotransferase increased
+A120	MEDDRA-PT-ID E28 10001551
+A121	LLT E28 ALT increased
+A122	LLT-ID E28 10001845
+A123	CUI E29 C0151662
+A124	UMLS-Preferred-Name E29 Gamma-glutamyl transferase raised
+A125	MEDDRA-PT E29 Gamma-glutamyltransferase increased
+A126	MEDDRA-PT-ID E29 10017693
+A127	LLT E29 GGT increased
+A128	LLT-ID E29 10056910
+A129	CUI E30 C0015230
+A130	UMLS-Preferred-Name E30 Exanthema
+A131	MEDDRA-PT E30 Rash
+A132	MEDDRA-PT-ID E30 10037844
+A133	CUI E31 C0043352
+A134	UMLS-Preferred-Name E31 Xerostomia
+A135	MEDDRA-PT E31 Dry mouth
+A136	MEDDRA-PT-ID E31 10013781
+A137	CUI E32 C0009806
+A138	UMLS-Preferred-Name E32 Constipation
+A139	MEDDRA-PT E32 Constipation
+A140	MEDDRA-PT-ID E32 10010774
+A141	CUI E33 C0314719
+A142	UMLS-Preferred-Name E33 Dryness of eye
+A143	MEDDRA-PT E33 Dry eye
+A144	MEDDRA-PT-ID E33 10013774
+A145	LLT E33 Dry eyes
+A146	LLT-ID E33 10013778
+A147	CUI E34 C0013395
+A148	UMLS-Preferred-Name E34 Dyspepsia
+A149	MEDDRA-PT E34 Dyspepsia
+A150	MEDDRA-PT-ID E34 10013946
+A151	CUI E35 C0000737
+A152	UMLS-Preferred-Name E35 Abdominal Pain
+A153	MEDDRA-PT E35 Abdominal pain
+A154	MEDDRA-PT-ID E35 10000081
+A155	CUI E36 C0043352
+A156	UMLS-Preferred-Name E36 Xerostomia
+A157	MEDDRA-PT E36 Dry mouth
+A158	MEDDRA-PT-ID E36 10013781
+A159	CUI E37 C0009806
+A160	UMLS-Preferred-Name E37 Constipation
+A161	MEDDRA-PT E37 Constipation
+A162	MEDDRA-PT-ID E37 10010774
+A163	CUI E41 C0080274
+A164	UMLS-Preferred-Name E41 Urinary Retention
+A165	MEDDRA-PT E41 Urinary retention
+A166	MEDDRA-PT-ID E41 10046555
+A167	CUI E42 C0012813
+A168	UMLS-Preferred-Name E42 Diverticulitis
+A169	MEDDRA-PT E42 Diverticulitis
+A170	MEDDRA-PT-ID E42 10013538
+A171	CUI E43 C0009806
+A172	UMLS-Preferred-Name E43 Constipation
+A173	MEDDRA-PT E43 Constipation
+A174	MEDDRA-PT-ID E43 10010774
+A175	CUI E44 C0022104
+A176	UMLS-Preferred-Name E44 Irritable Bowel Syndrome
+A177	MEDDRA-PT E44 Irritable bowel syndrome
+A178	MEDDRA-PT-ID E44 10023003
+A179	CUI E45 C0855333
+A180	UMLS-Preferred-Name E45 Electrocardiogram QT corrected interval prolonged
+A181	MEDDRA-PT E45 Electrocardiogram QT prolonged
+A182	MEDDRA-PT-ID E45 10014387
+A183	LLT E45 Electrocardiogram QT corrected interval prolonged
+A184	LLT-ID E45 10014383
+A185	CUI E46 C0344232
+A186	UMLS-Preferred-Name E46 Blurred vision
+A187	MEDDRA-PT E46 Vision blurred
+A188	MEDDRA-PT-ID E46 10047513
+A189	LLT E46 Blurred vision
+A190	LLT-ID E46 10005886
+A191	CUI E47 C0030252
+A192	UMLS-Preferred-Name E47 Palpitations
+A193	MEDDRA-PT E47 Palpitations
+A194	MEDDRA-PT-ID E47 10033557
+A195	CUI E48 C0020517
+A196	UMLS-Preferred-Name E48 Hypersensitivity
+A197	MEDDRA-PT E48 Hypersensitivity
+A198	MEDDRA-PT-ID E48 10020751
+A199	LLT E48 Hypersensitivity reaction
+A200	LLT-ID E48 10020756
+A201	CUI E49 C0001883
+A202	UMLS-Preferred-Name E49 Airway Obstruction
+A203	MEDDRA-PT E49 Obstructive airways disorder
+A204	MEDDRA-PT-ID E49 10061877
+A205	LLT E49 Airways obstruction
+A206	LLT-ID E49 10001539
+A207	CUI E50 C0542571
+A208	UMLS-Preferred-Name E50 Facial edema
+A209	MEDDRA-PT E50 Face oedema
+A210	MEDDRA-PT-ID E50 10016029
+A211	LLT E50 Face edema
+A212	LLT-ID E50 10016025
+A213	CUI E51 C0012833
+A214	UMLS-Preferred-Name E51 Dizziness
+A215	MEDDRA-PT E51 Dizziness
+A216	MEDDRA-PT-ID E51 10013573
+A217	CUI E52 C0018681
+A218	UMLS-Preferred-Name E52 Headache
+A219	MEDDRA-PT E52 Headache
+A220	MEDDRA-PT-ID E52 10019211
+A221	CUI E53 C2830004
+A222	UMLS-Preferred-Name E53 Somnolence
+A223	MEDDRA-PT E53 Somnolence
+A224	MEDDRA-PT-ID E53 10041349
+A225	CUI E54 C0042109
+A226	UMLS-Preferred-Name E54 Urticaria
+A227	MEDDRA-PT E54 Urticaria
+A228	MEDDRA-PT-ID E54 10046735
+A229	CUI E55 C0033774
+A230	UMLS-Preferred-Name E55 Pruritus
+A231	MEDDRA-PT E55 Pruritus
+A232	MEDDRA-PT-ID E55 10037087
+A233	CUI E56 C0002994
+A234	UMLS-Preferred-Name E56 Angioedema
+A235	MEDDRA-PT E56 Angioedema
+A236	MEDDRA-PT-ID E56 10002424

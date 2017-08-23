@@ -1,0 +1,347 @@
+T1	AdverseReaction 74 88	hepatotoxicity
+T2	AdverseReaction 68 73	Fatal
+T3	AdverseReaction 241 266	Interstitial Lung Disease
+T4	AdverseReaction 268 271	ILD
+T5	AdverseReaction 273 284	Pneumonitis
+T6	AdverseReaction 389 413	QT Interval Prolongation
+T7	AdverseReaction 731 742	bradycardia
+T8	Factor 721 724	can
+T9	AdverseReaction 885 896	Visual Loss
+T11	AdverseReaction 1072 1082	fetal harm
+T12	Factor 1062 1065	Can
+T13	AdverseReaction 1270 1284	hepatotoxicity
+T14	AdverseReaction 1290 1295	fatal
+T15	AdverseReaction 1425 1463	elevations in alanine aminotransferase
+T16	AdverseReaction 1425 1438;1465 1468	elevations in ALT
+T17	AdverseReaction 1425 1438;1473 1499	elevations in aspartate aminotransferase
+T18	AdverseReaction 1425 1438;1501 1504	elevations in AST
+T19	Severity 1531 1574	three times the upper limit of normal (ULN)
+T20	AdverseReaction 1579 1594;1620 1637	total bilirubin two times the ULN
+T21	AdverseReaction 1740 1757	elevations in ALT
+T22	AdverseReaction 1740 1753;1761 1764	elevations in AST
+T23	Severity 1778 1796	five times the ULN
+T24	AdverseReaction 1925 1947	elevated transaminases
+T25	AdverseReaction 1949 1972	Transaminase elevations
+T26	AdverseReaction 2623 2648	interstitial lung disease
+T27	AdverseReaction 2617 2622	fatal
+T28	Severity 2596 2612	life-threatening
+T29	Severity 2588 2594	Severe
+T30	AdverseReaction 2650 2653	ILD
+T31	AdverseReaction 2655 2666	pneumonitis
+T32	Factor 2667 2670	can
+T33	AdverseReaction 2783 2786	ILD
+T34	AdverseReaction 2837 2840	ILD
+T35	AdverseReaction 2874 2877	ILD
+T36	AdverseReaction 2868 2873	fatal
+T37	Severity 2824 2831	Grade 3
+T38	Severity 2824 2829;2835 2836	Grade 4
+T39	AdverseReaction 3293 3309	QTc prolongation
+T40	Factor 3310 3313	can
+T41	AdverseReaction 3409 3413;3454 3485	QTcF greater than or equal to 500 ms
+T42	AdverseReaction 3524 3532;3547 3551	increase QTcF
+T43	Severity 3577 3582	60 ms
+T44	AdverseReaction 4498 4521	Symptomatic bradycardia
+T45	AdverseReaction 4587 4598	bradycardia
+T46	AdverseReaction 4700 4740	heart rate less than 50 beats per minute
+T47	AdverseReaction 4770 4777	syncope
+T48	Severity 4762 4769	Grade 3
+T49	AdverseReaction 5914 5933	visual field defect
+T50	AdverseReaction 5939 5950	vision loss
+T51	Severity 5906 5913	Grade 4
+T52	AdverseReaction 5970 5983	Optic atrophy
+T53	AdverseReaction 5988 6008	optic nerve disorder
+T54	AdverseReaction 6051 6062	vision loss
+T55	Factor 6031 6040	potential
+T56	AdverseReaction 6730 6740	fetal harm
+T57	Factor 6720 6723	can
+T58	AdverseReaction 6975 6989	embryotoxicity
+T59	AdverseReaction 6994 7006	fetotoxicity
+T61	Animal 6858 6862	rats
+T60	AdverseReaction 52 66	Hepatotoxicity
+T62	AdverseReaction 700 711	Bradycardia
+T63	AdverseReaction 1040 1060	Embryofetal Toxicity
+T10	Severity 878 884	Severe
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7 Hypothetical:E8
+E8	Factor:T8
+E9	AdverseReaction:T9 Effect:E10
+E11	AdverseReaction:T11 Hypothetical:E12
+E12	Factor:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15 Effect:E19
+E16	AdverseReaction:T16 Effect:E19
+E17	AdverseReaction:T17 Effect:E19
+E18	AdverseReaction:T18 Effect:E19
+E19	Severity:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21 Effect:E23
+E22	AdverseReaction:T22 Effect:E23
+E23	Severity:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26 Effect:E29 Effect2:E28 Hypothetical:E32
+E27	AdverseReaction:T27 Hypothetical:E32
+E28	Severity:T28
+E29	Severity:T29
+E30	AdverseReaction:T30 Effect:E28 Effect2:E29 Hypothetical:E32
+E31	AdverseReaction:T31 Effect:E28 Effect2:E29 Hypothetical:E32
+E32	Factor:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34 Effect:E38 Effect2:E37
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	Severity:T37
+E38	Severity:T38
+E39	AdverseReaction:T39 Hypothetical:E40
+E40	Factor:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42 Effect:E43
+E43	Severity:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47 Effect:E48
+E48	Severity:T48
+E49	AdverseReaction:T49 Effect:E51
+E50	AdverseReaction:T50 Effect:E51
+E51	Severity:T51
+E52	AdverseReaction:T52 Hypothetical:E55
+E53	AdverseReaction:T53 Hypothetical:E55
+E54	AdverseReaction:T54
+E55	Factor:T55
+E56	AdverseReaction:T56 Hypothetical:E57
+E57	Factor:T57
+E58	AdverseReaction:T58 Hypothetical:E61
+E59	AdverseReaction:T59 Hypothetical:E61
+E61	Animal:T61
+E60	AdverseReaction:T31 Hypothetical:E32
+E62	AdverseReaction:T30 Hypothetical:E32
+E63	AdverseReaction:T26 Hypothetical:E32
+E64	AdverseReaction:T60
+E65	AdverseReaction:T62
+E66	AdverseReaction:T63
+E10	Severity:T10
+A1	CUI E1 C0235378
+A2	UMLS-Preferred-Name E1 Hepatotoxicity
+A3	MEDDRA-PT E1 Hepatotoxicity
+A4	MEDDRA-PT-ID E1 10019851
+A5	CUI E2 C1306577
+A6	UMLS-Preferred-Name E2 Death (finding)
+A7	MEDDRA-PT E2 Death
+A8	MEDDRA-PT-ID E2 10011906
+A9	CUI E3 C0206062
+A10	UMLS-Preferred-Name E3 Lung Diseases, Interstitial
+A11	MEDDRA-PT E3 Interstitial lung disease
+A12	MEDDRA-PT-ID E3 10022611
+A13	CUI E4 C0206062
+A14	UMLS-Preferred-Name E4 Lung Diseases, Interstitial
+A15	MEDDRA-PT E4 Interstitial lung disease
+A16	MEDDRA-PT-ID E4 10022611
+A17	CUI E5 C3714636
+A18	UMLS-Preferred-Name E5 Pneumonitis
+A19	MEDDRA-PT E5 Pneumonitis
+A20	MEDDRA-PT-ID E5 10035742
+A21	CUI E6 C0151878
+A22	UMLS-Preferred-Name E6 Prolonged QT interval
+A23	MEDDRA-PT E6 Electrocardiogram QT prolonged
+A24	MEDDRA-PT-ID E6 10014387
+A25	LLT E6 QT interval prolonged
+A26	LLT-ID E6 10037703
+A27	CUI E7 C0428977
+A28	UMLS-Preferred-Name E7 Bradycardia
+A29	MEDDRA-PT E7 Bradycardia
+A30	MEDDRA-PT-ID E7 10006093
+A31	CUI E9 C3665386
+A32	UMLS-Preferred-Name E9 Abnormal vision
+A33	MEDDRA-PT E9 Blindness
+A34	MEDDRA-PT-ID E9 10005169
+A35	LLT E9 Vision loss
+A36	LLT-ID E9 10047522
+A37	CUI E11 C0854268
+A38	UMLS-Preferred-Name E11 Foetal damage
+A39	MEDDRA-PT E11 Foetal damage
+A40	MEDDRA-PT-ID E11 10016852
+A41	LLT E11 Fetal damage
+A42	LLT-ID E11 10054743
+A43	CUI E13 C0235378
+A44	UMLS-Preferred-Name E13 Hepatotoxicity
+A45	MEDDRA-PT E13 Hepatotoxicity
+A46	MEDDRA-PT-ID E13 10019851
+A47	CUI E14 C1306577
+A48	UMLS-Preferred-Name E14 Death (finding)
+A49	MEDDRA-PT E14 Death
+A50	MEDDRA-PT-ID E14 10011906
+A51	CUI E15 C0151905
+A52	UMLS-Preferred-Name E15 Alanine aminotransferase increased
+A53	MEDDRA-PT E15 Alanine aminotransferase increased
+A54	MEDDRA-PT-ID E15 10001551
+A55	CUI E16 C0151905
+A56	UMLS-Preferred-Name E16 Alanine aminotransferase increased
+A57	MEDDRA-PT E16 Alanine aminotransferase increased
+A58	MEDDRA-PT-ID E16 10001551
+A59	LLT E16 ALT increased
+A60	LLT-ID E16 10001845
+A61	CUI E17 C0151904
+A62	UMLS-Preferred-Name E17 Aspartate aminotransferase increased
+A63	MEDDRA-PT E17 Aspartate aminotransferase increased
+A64	MEDDRA-PT-ID E17 10003481
+A65	CUI E18 C0151904
+A66	UMLS-Preferred-Name E18 Aspartate aminotransferase increased
+A67	MEDDRA-PT E18 Aspartate aminotransferase increased
+A68	MEDDRA-PT-ID E18 10003481
+A69	LLT E18 AST increased
+A70	LLT-ID E18 10003544
+A71	CUI E20 C0741494
+A72	UMLS-Preferred-Name E20 Elevated total bilirubin
+A73	MEDDRA-PT E20 Blood bilirubin increased
+A74	MEDDRA-PT-ID E20 10005364
+A75	LLT E20 Bilirubin total increased
+A76	LLT-ID E20 10056806
+A77	CUI E21 C0151905
+A78	UMLS-Preferred-Name E21 Alanine aminotransferase increased
+A79	MEDDRA-PT E21 Alanine aminotransferase increased
+A80	MEDDRA-PT-ID E21 10001551
+A81	LLT E21 ALT increased
+A82	LLT-ID E21 10001845
+A83	CUI E22 C0151904
+A84	UMLS-Preferred-Name E22 Aspartate aminotransferase increased
+A85	MEDDRA-PT E22 Aspartate aminotransferase increased
+A86	MEDDRA-PT-ID E22 10003481
+A87	LLT E22 AST increased
+A88	LLT-ID E22 10003544
+A89	CUI E24 C0438717
+A90	UMLS-Preferred-Name E24 Transaminases increased
+A91	MEDDRA-PT E24 Transaminases increased
+A92	MEDDRA-PT-ID E24 10054889
+A93	CUI E25 C0438717
+A94	UMLS-Preferred-Name E25 Transaminases increased
+A95	MEDDRA-PT E25 Transaminases increased
+A96	MEDDRA-PT-ID E25 10054889
+A97	CUI E26 C0206062
+A98	UMLS-Preferred-Name E26 Lung Diseases, Interstitial
+A99	MEDDRA-PT E26 Interstitial lung disease
+A100	MEDDRA-PT-ID E26 10022611
+A101	CUI E27 C1306577
+A102	UMLS-Preferred-Name E27 Death (finding)
+A103	MEDDRA-PT E27 Death
+A104	MEDDRA-PT-ID E27 10011906
+A105	CUI E30 C0206062
+A106	UMLS-Preferred-Name E30 Lung Diseases, Interstitial
+A107	MEDDRA-PT E30 Interstitial lung disease
+A108	MEDDRA-PT-ID E30 10022611
+A109	CUI E31 C3714636
+A110	UMLS-Preferred-Name E31 Pneumonitis
+A111	MEDDRA-PT E31 Pneumonitis
+A112	MEDDRA-PT-ID E31 10035742
+A113	CUI E33 C0206062
+A114	UMLS-Preferred-Name E33 Lung Diseases, Interstitial
+A115	MEDDRA-PT E33 Interstitial lung disease
+A116	MEDDRA-PT-ID E33 10022611
+A117	CUI E34 C0206062
+A118	UMLS-Preferred-Name E34 Lung Diseases, Interstitial
+A119	MEDDRA-PT E34 Interstitial lung disease
+A120	MEDDRA-PT-ID E34 10022611
+A121	CUI E35 C0206062
+A122	UMLS-Preferred-Name E35 Lung Diseases, Interstitial
+A123	MEDDRA-PT E35 Interstitial lung disease
+A124	MEDDRA-PT-ID E35 10022611
+A125	CUI E36 C1306577
+A126	UMLS-Preferred-Name E36 Death (finding)
+A127	MEDDRA-PT E36 Death
+A128	MEDDRA-PT-ID E36 10011906
+A129	CUI E39 C0855333
+A130	UMLS-Preferred-Name E39 Electrocardiogram QT corrected interval prolonged
+A131	MEDDRA-PT E39 Electrocardiogram QT prolonged
+A132	MEDDRA-PT-ID E39 10014387
+A133	LLT E39 Electrocardiogram QTc interval prolonged
+A134	LLT-ID E39 10053698
+A135	CUI E41 C2347725
+A136	UMLS-Preferred-Name E41 QTcF Prolongation Greater Than 500 msec
+A137	MEDDRA-PT E41 Electrocardiogram QT prolonged
+A138	MEDDRA-PT-ID E41 10014387
+A139	LLT E41 Electrocardiogram QTc interval prolonged
+A140	LLT-ID E41 10053698
+A141	CUI E42 C3828431
+A142	UMLS-Preferred-Name E42 QTcF Prolongation
+A143	MEDDRA-PT E42 Electrocardiogram QT prolonged
+A144	MEDDRA-PT-ID E42 10014387
+A145	LLT E42 Electrocardiogram QTc interval prolonged
+A146	LLT-ID E42 10053698
+A147	CUI E44 C0741627
+A148	UMLS-Preferred-Name E44 BRADYCARDIA SYMPTOMATIC
+A149	MEDDRA-PT E44 Bradycardia
+A150	MEDDRA-PT-ID E44 10006093
+A151	CUI E45 C0428977
+A152	UMLS-Preferred-Name E45 Bradycardia
+A153	MEDDRA-PT E45 Bradycardia
+A154	MEDDRA-PT-ID E45 10006093
+A155	CUI E46 C2230138
+A156	UMLS-Preferred-Name E46 Pulse slow (finding)
+A157	MEDDRA-PT E46 Heart rate decreased
+A158	MEDDRA-PT-ID E46 10019301
+A159	CUI E47 C0039070
+A160	UMLS-Preferred-Name E47 Syncope
+A161	MEDDRA-PT E47 Syncope
+A162	MEDDRA-PT-ID E47 10042772
+A163	CUI E49 C3887875
+A164	UMLS-Preferred-Name E49 Visual field defects
+A165	MEDDRA-PT E49 Visual field defect
+A166	MEDDRA-PT-ID E49 10047555
+A167	CUI E50 C3665386
+A168	UMLS-Preferred-Name E50 Abnormal vision
+A169	MEDDRA-PT E50 Blindness
+A170	MEDDRA-PT-ID E50 10005169
+A171	LLT E50 Vision loss
+A172	LLT-ID E50 10047522
+A173	CUI E52 C0029124
+A174	UMLS-Preferred-Name E52 Optic Atrophy
+A175	MEDDRA-PT E52 Optic atrophy
+A176	MEDDRA-PT-ID E52 10030910
+A177	CUI E53 C0029132
+A178	UMLS-Preferred-Name E53 Disorder of the optic nerve
+A179	MEDDRA-PT E53 Optic nerve disorder
+A180	MEDDRA-PT-ID E53 10061322
+A181	CUI E54 C3665386
+A182	UMLS-Preferred-Name E54 Abnormal vision
+A183	MEDDRA-PT E54 Blindness
+A184	MEDDRA-PT-ID E54 10005169
+A185	LLT E54 Vision loss
+A186	LLT-ID E54 10047522
+A187	CUI E56 C0854268
+A188	UMLS-Preferred-Name E56 Foetal damage
+A189	MEDDRA-PT E56 Foetal damage
+A190	MEDDRA-PT-ID E56 10016852
+A191	LLT E56 Fetal damage
+A192	LLT-ID E56 10054743
+A193	CUI E58 C0270009
+A194	UMLS-Preferred-Name E58 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A195	MEDDRA-PT E58 Maternal drugs affecting foetus
+A196	MEDDRA-PT-ID E58 10026923
+A197	LLT E58 Drug toxicity NEC affecting foetus
+A198	LLT-ID E58 10013750
+A199	CUI E59 C0270009
+A200	UMLS-Preferred-Name E59 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A201	MEDDRA-PT E59 Maternal drugs affecting foetus
+A202	MEDDRA-PT-ID E59 10026923
+A203	LLT E59 Drug toxicity NEC affecting foetus
+A204	LLT-ID E59 10013750
+A205	CUI E64 C0235378
+A206	UMLS-Preferred-Name E64 Hepatotoxicity
+A207	MEDDRA-PT E64 Hepatotoxicity
+A208	MEDDRA-PT-ID E64 10019851
+A209	CUI E65 C0428977
+A210	UMLS-Preferred-Name E65 Bradycardia
+A211	MEDDRA-PT E65 Bradycardia
+A212	MEDDRA-PT-ID E65 10006093
+A213	CUI E66 C0270009
+A214	UMLS-Preferred-Name E66 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A215	MEDDRA-PT E66 Maternal drugs affecting foetus
+A216	MEDDRA-PT-ID E66 10026923
+A217	LLT E66 Drug toxicity NEC affecting foetus
+A218	LLT-ID E66 10013750

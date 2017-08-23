@@ -1,0 +1,436 @@
+T1	AdverseReaction 70 73	NSF
+T3	DrugClass 27 32	GBCAs
+T4	AdverseReaction 212 238	Hypersensitivity reactions
+T5	AdverseReaction 243 262	acute kidney injury
+T6	AdverseReaction 458 464	nausea
+T7	AdverseReaction 466 474	headache
+T8	AdverseReaction 476 495	injection site pain
+T9	AdverseReaction 497 520	injection site coldness
+T10	AdverseReaction 526 543	burning sensation
+T11	AdverseReaction 1832 1838	Nausea
+T12	AdverseReaction 1939 1947	Headache
+T13	AdverseReaction 2046 2065	Injection Site Pain
+T14	AdverseReaction 2153 2176	Injection Site Coldness
+T15	AdverseReaction 2260 2277	Burning Sensation
+T16	AdverseReaction 2476 2488	feeling cold
+T17	AdverseReaction 2490 2494	rash
+T18	AdverseReaction 2496 2506	somnolence
+T19	AdverseReaction 2508 2515	fatigue
+T20	AdverseReaction 2517 2526	dizziness
+T21	AdverseReaction 2528 2536	vomiting
+T22	AdverseReaction 2538 2546	pruritus
+T23	AdverseReaction 2548 2559	paresthesia
+T24	AdverseReaction 2561 2570	dysgeusia
+T25	AdverseReaction 2572 2589	pain in extremity
+T26	AdverseReaction 2591 2598	anxiety
+T27	AdverseReaction 2600 2612	hypertension
+T28	AdverseReaction 2614 2626	palpitations
+T29	AdverseReaction 2628 2652	oropharyngeal discomfort
+T30	AdverseReaction 2654 2680	serum creatinine increased
+T31	AdverseReaction 2685 2709	injection site reactions
+T32	AdverseReaction 2685 2694;2721 2738	injection site inflammation
+T33	AdverseReaction 2685 2699;2740 2753	injection site extravasation
+T34	AdverseReaction 2685 2699;2755 2763	injection site pruritus
+T35	AdverseReaction 2685 2699;2769 2775	injection site warmth
+T36	AdverseReaction 3138 3146	headache
+T37	AdverseReaction 3827 3838	bradycardia
+T38	AdverseReaction 3840 3851	tachycardia
+T39	AdverseReaction 3853 3863	arrhythmia
+T40	AdverseReaction 3934 3950	hypersensitivity
+T41	AdverseReaction 3952 3975	anaphylactoid reactions
+T42	AdverseReaction 3986 4000	cardiac arrest
+T43	AdverseReaction 4002 4020	respiratory arrest
+T44	AdverseReaction 4022 4030	cyanosis
+T45	AdverseReaction 4031 4047	pharyngeal edema
+T46	AdverseReaction 4049 4061	laryngospasm
+T47	AdverseReaction 4063 4075	bronchospasm
+T48	AdverseReaction 4077 4087	angioedema
+T49	AdverseReaction 4089 4103	conjunctivitis
+T50	AdverseReaction 4105 4121	ocular hyperemia
+T51	AdverseReaction 4123 4135	eyelid edema
+T52	AdverseReaction 4137 4158	lacrimation increased
+T53	AdverseReaction 4160 4173	hyperhidrosis
+T54	AdverseReaction 4175 4184	urticaria
+T55	AdverseReaction 4233 4237	coma
+T56	AdverseReaction 4239 4249	convulsion
+T57	AdverseReaction 4251 4258	syncope
+T58	AdverseReaction 4260 4270	presyncope
+T59	AdverseReaction 4272 4280	parosmia
+T60	AdverseReaction 4282 4288	tremor
+T61	AdverseReaction 4349 4367	muscle contracture
+T62	AdverseReaction 4369 4384	muscle weakness
+T63	AdverseReaction 4456 4464	diarrhea
+T64	AdverseReaction 4466 4489	salivary hypersecretion
+T65	AdverseReaction 4577 4584	malaise
+T66	AdverseReaction 4586 4591	fever
+T69	AdverseReaction 4684 4687	NSF
+T70	Negation 4832 4834	No
+T71	AdverseReaction 4857 4860	NSF
+T72	DrugClass 4755 4760	GBCAs
+T73	AdverseReaction 4942 4963	superficial phlebitis
+T74	AdverseReaction 119 122	NSF
+T75	Negation 127 130	not
+E1	AdverseReaction:T1 Hypothetical2:E3
+E3	DrugClass:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E69	AdverseReaction:T69 Hypothetical:E72
+E70	Negation:T70
+E71	AdverseReaction:T71 Negated:E70
+E72	DrugClass:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74 Negated:E75
+E75	Negation:T75
+A1	CUI E1 C3888044
+A2	UMLS-Preferred-Name E1 Nephrogenic Systemic Fibrosis
+A3	MEDDRA-PT E1 Nephrogenic systemic fibrosis
+A4	MEDDRA-PT-ID E1 10067467
+A5	CUI E4 C0020517
+A6	UMLS-Preferred-Name E4 Hypersensitivity
+A7	MEDDRA-PT E4 Hypersensitivity
+A8	MEDDRA-PT-ID E4 10020751
+A9	LLT E4 Hypersensitivity reaction
+A10	LLT-ID E4 10020756
+A11	CUI E5 C2609414
+A12	UMLS-Preferred-Name E5 Acute kidney injury
+A13	MEDDRA-PT E5 Acute kidney injury
+A14	MEDDRA-PT-ID E5 10069339
+A15	CUI E6 C0027497
+A16	UMLS-Preferred-Name E6 Nausea
+A17	MEDDRA-PT E6 Nausea
+A18	MEDDRA-PT-ID E6 10028813
+A19	CUI E7 C0018681
+A20	UMLS-Preferred-Name E7 Headache
+A21	MEDDRA-PT E7 Headache
+A22	MEDDRA-PT-ID E7 10019211
+A23	CUI E8 C0151828
+A24	UMLS-Preferred-Name E8 Injection site pain
+A25	MEDDRA-PT E8 Injection site pain
+A26	MEDDRA-PT-ID E8 10022086
+A27	CUI E9 C0919593
+A28	UMLS-Preferred-Name E9 Injection site coldness
+A29	MEDDRA-PT E9 Injection site coldness
+A30	MEDDRA-PT-ID E9 10050082
+A31	CUI E10 C0085624
+A32	UMLS-Preferred-Name E10 Burning sensation
+A33	MEDDRA-PT E10 Burning sensation
+A34	MEDDRA-PT-ID E10 10006784
+A35	CUI E11 C0027497
+A36	UMLS-Preferred-Name E11 Nausea
+A37	MEDDRA-PT E11 Nausea
+A38	MEDDRA-PT-ID E11 10028813
+A39	CUI E12 C0018681
+A40	UMLS-Preferred-Name E12 Headache
+A41	MEDDRA-PT E12 Headache
+A42	MEDDRA-PT-ID E12 10019211
+A43	CUI E13 C0151828
+A44	UMLS-Preferred-Name E13 Injection site pain
+A45	MEDDRA-PT E13 Injection site pain
+A46	MEDDRA-PT-ID E13 10022086
+A47	CUI E14 C0919593
+A48	UMLS-Preferred-Name E14 Injection site coldness
+A49	MEDDRA-PT E14 Injection site coldness
+A50	MEDDRA-PT-ID E14 10050082
+A51	CUI E15 C0085624
+A52	UMLS-Preferred-Name E15 Burning sensation
+A53	MEDDRA-PT E15 Burning sensation
+A54	MEDDRA-PT-ID E15 10006784
+A55	CUI E16 C0235150
+A56	UMLS-Preferred-Name E16 Feeling Cold
+A57	MEDDRA-PT E16 Feeling cold
+A58	MEDDRA-PT-ID E16 10016326
+A59	CUI E17 C0015230
+A60	UMLS-Preferred-Name E17 Exanthema
+A61	MEDDRA-PT E17 Rash
+A62	MEDDRA-PT-ID E17 10037844
+A63	CUI E18 C2830004
+A64	UMLS-Preferred-Name E18 Somnolence
+A65	MEDDRA-PT E18 Somnolence
+A66	MEDDRA-PT-ID E18 10041349
+A67	CUI E19 C0015672
+A68	UMLS-Preferred-Name E19 Fatigue
+A69	MEDDRA-PT E19 Fatigue
+A70	MEDDRA-PT-ID E19 10016256
+A71	CUI E20 C0012833
+A72	UMLS-Preferred-Name E20 Dizziness
+A73	MEDDRA-PT E20 Dizziness
+A74	MEDDRA-PT-ID E20 10013573
+A75	CUI E21 C0042963
+A76	UMLS-Preferred-Name E21 Vomiting
+A77	MEDDRA-PT E21 Vomiting
+A78	MEDDRA-PT-ID E21 10047700
+A79	CUI E22 C0033774
+A80	UMLS-Preferred-Name E22 Pruritus
+A81	MEDDRA-PT E22 Pruritus
+A82	MEDDRA-PT-ID E22 10037087
+A83	CUI E23 C0030554
+A84	UMLS-Preferred-Name E23 Paresthesia
+A85	MEDDRA-PT E23 Paraesthesia
+A86	MEDDRA-PT-ID E23 10033775
+A87	LLT E23 Paresthesia
+A88	LLT-ID E23 10033987
+A89	CUI E24 C0013378
+A90	UMLS-Preferred-Name E24 Dysgeusia
+A91	MEDDRA-PT E24 Dysgeusia
+A92	MEDDRA-PT-ID E24 10013911
+A93	CUI E25 C0030196
+A94	UMLS-Preferred-Name E25 Pain in limb
+A95	MEDDRA-PT E25 Pain in extremity
+A96	MEDDRA-PT-ID E25 10033425
+A97	CUI E26 C0003467
+A98	UMLS-Preferred-Name E26 Anxiety
+A99	MEDDRA-PT E26 Anxiety
+A100	MEDDRA-PT-ID E26 10002855
+A101	CUI E27 C0020538
+A102	UMLS-Preferred-Name E27 Hypertensive disease
+A103	MEDDRA-PT E27 Hypertension
+A104	MEDDRA-PT-ID E27 10020772
+A105	CUI E28 C0030252
+A106	UMLS-Preferred-Name E28 Palpitations
+A107	MEDDRA-PT E28 Palpitations
+A108	MEDDRA-PT-ID E28 10033557
+A109	CUI E29 C2363730
+A110	UMLS-Preferred-Name E29 Oropharyngeal discomfort
+A111	MEDDRA-PT E29 Oropharyngeal discomfort
+A112	MEDDRA-PT-ID E29 10068318
+A113	CUI E30 C0700225
+A114	UMLS-Preferred-Name E30 Serum creatinine raised
+A115	MEDDRA-PT E30 Blood creatinine increased
+A116	MEDDRA-PT-ID E30 10005483
+A117	LLT E30 Serum creatinine increased
+A118	LLT-ID E30 10040233
+A119	CUI E31 C0151735
+A120	UMLS-Preferred-Name E31 Injection site reaction
+A121	MEDDRA-PT E31 Injection site reaction
+A122	MEDDRA-PT-ID E31 10022095
+A123	CUI E32 C0151734
+A124	UMLS-Preferred-Name E32 Injection site inflammation
+A125	MEDDRA-PT E32 Injection site inflammation
+A126	MEDDRA-PT-ID E32 10022078
+A127	CUI E33 C0521500
+A128	UMLS-Preferred-Name E33 Injection site extravasation
+A129	MEDDRA-PT E33 Injection site extravasation
+A130	MEDDRA-PT-ID E33 10022062
+A131	CUI E34 C0852995
+A132	UMLS-Preferred-Name E34 Injection site pruritus
+A133	MEDDRA-PT E34 Injection site pruritus
+A134	MEDDRA-PT-ID E34 10022093
+A135	CUI E35 C0858934
+A136	UMLS-Preferred-Name E35 Injection site warmth
+A137	MEDDRA-PT E35 Injection site warmth
+A138	MEDDRA-PT-ID E35 10022112
+A139	CUI E36 C0018681
+A140	UMLS-Preferred-Name E36 Headache
+A141	MEDDRA-PT E36 Headache
+A142	MEDDRA-PT-ID E36 10019211
+A143	CUI E37 C0428977
+A144	UMLS-Preferred-Name E37 Bradycardia
+A145	MEDDRA-PT E37 Bradycardia
+A146	MEDDRA-PT-ID E37 10006093
+A147	CUI E38 C0039231
+A148	UMLS-Preferred-Name E38 Tachycardia
+A149	MEDDRA-PT E38 Tachycardia
+A150	MEDDRA-PT-ID E38 10043071
+A151	CUI E39 C0003811
+A152	UMLS-Preferred-Name E39 Cardiac Arrhythmia
+A153	MEDDRA-PT E39 Arrhythmia
+A154	MEDDRA-PT-ID E39 10003119
+A155	CUI E40 C0020517
+A156	UMLS-Preferred-Name E40 Hypersensitivity
+A157	MEDDRA-PT E40 Hypersensitivity
+A158	MEDDRA-PT-ID E40 10020751
+A159	CUI E41 C0340865
+A160	UMLS-Preferred-Name E41 Anaphylactoid reaction
+A161	MEDDRA-PT E41 Anaphylactoid reaction
+A162	MEDDRA-PT-ID E41 10002216
+A163	CUI E42 C0018790
+A164	UMLS-Preferred-Name E42 Cardiac Arrest
+A165	MEDDRA-PT E42 Cardiac arrest
+A166	MEDDRA-PT-ID E42 10007515
+A167	CUI E43 C0162297
+A168	UMLS-Preferred-Name E43 Respiratory arrest
+A169	MEDDRA-PT E43 Respiratory arrest
+A170	MEDDRA-PT-ID E43 10038669
+A171	CUI E44 C0010520
+A172	UMLS-Preferred-Name E44 Cyanosis
+A173	MEDDRA-PT E44 Cyanosis
+A174	MEDDRA-PT-ID E44 10011703
+A175	CUI E45 C0236024
+A176	UMLS-Preferred-Name E45 Edema of pharynx
+A177	MEDDRA-PT E45 Pharyngeal oedema
+A178	MEDDRA-PT-ID E45 10034829
+A179	LLT E45 Pharyngeal edema
+A180	LLT-ID E45 10054544
+A181	CUI E46 C0023066
+A182	UMLS-Preferred-Name E46 Laryngismus
+A183	MEDDRA-PT E46 Laryngospasm
+A184	MEDDRA-PT-ID E46 10023891
+A185	CUI E47 C0006266
+A186	UMLS-Preferred-Name E47 Bronchial Spasm
+A187	MEDDRA-PT E47 Bronchospasm
+A188	MEDDRA-PT-ID E47 10006482
+A189	CUI E48 C0002994
+A190	UMLS-Preferred-Name E48 Angioedema
+A191	MEDDRA-PT E48 Angioedema
+A192	MEDDRA-PT-ID E48 10002424
+A193	CUI E49 C0009763
+A194	UMLS-Preferred-Name E49 Conjunctivitis
+A195	MEDDRA-PT E49 Conjunctivitis
+A196	MEDDRA-PT-ID E49 10010741
+A197	CUI E50 C0155169
+A198	UMLS-Preferred-Name E50 Ocular hyperemia
+A199	MEDDRA-PT E50 Ocular hyperaemia
+A200	MEDDRA-PT-ID E50 10030041
+A201	LLT E50 Ocular hyperemia
+A202	LLT-ID E50 10030042
+A203	CUI E51 C0162285
+A204	UMLS-Preferred-Name E51 Edema of eyelid
+A205	MEDDRA-PT E51 Eyelid oedema
+A206	MEDDRA-PT-ID E51 10015993
+A207	LLT E51 Eyelid edema
+A208	LLT-ID E51 10015985
+A209	CUI E52 C0152227
+A210	UMLS-Preferred-Name E52 Excessive tearing
+A211	MEDDRA-PT E52 Lacrimation increased
+A212	MEDDRA-PT-ID E52 10023644
+A213	CUI E53 C0020458
+A214	UMLS-Preferred-Name E53 Hyperhidrosis disorder
+A215	MEDDRA-PT E53 Hyperhidrosis
+A216	MEDDRA-PT-ID E53 10020642
+A217	CUI E54 C0042109
+A218	UMLS-Preferred-Name E54 Urticaria
+A219	MEDDRA-PT E54 Urticaria
+A220	MEDDRA-PT-ID E54 10046735
+A221	CUI E55 C0009421
+A222	UMLS-Preferred-Name E55 Comatose
+A223	MEDDRA-PT E55 Coma
+A224	MEDDRA-PT-ID E55 10010071
+A225	CUI E56 C0036572
+A226	UMLS-Preferred-Name E56 Seizures
+A227	MEDDRA-PT E56 Seizure
+A228	MEDDRA-PT-ID E56 10039906
+A229	LLT E56 Convulsion
+A230	LLT-ID E56 10010904
+A231	CUI E57 C0039070
+A232	UMLS-Preferred-Name E57 Syncope
+A233	MEDDRA-PT E57 Syncope
+A234	MEDDRA-PT-ID E57 10042772
+A235	CUI E58 C0700200
+A236	UMLS-Preferred-Name E58 Presyncope
+A237	MEDDRA-PT E58 Presyncope
+A238	MEDDRA-PT-ID E58 10036653
+A239	CUI E59 C1510410
+A240	UMLS-Preferred-Name E59 Sense of smell altered
+A241	MEDDRA-PT E59 Parosmia
+A242	MEDDRA-PT-ID E59 10034018
+A243	CUI E60 C0040822
+A244	UMLS-Preferred-Name E60 Tremor
+A245	MEDDRA-PT E60 Tremor
+A246	MEDDRA-PT-ID E60 10044565
+A247	CUI E61 C0009917
+A248	UMLS-Preferred-Name E61 Contracture
+A249	MEDDRA-PT E61 Muscle contracture
+A250	MEDDRA-PT-ID E61 10062575
+A251	CUI E62 C0151786
+A252	UMLS-Preferred-Name E62 Muscle Weakness
+A253	MEDDRA-PT E62 Muscular weakness
+A254	MEDDRA-PT-ID E62 10028372
+A255	LLT E62 Muscle weakness
+A256	LLT-ID E62 10028350
+A257	CUI E63 C0011991
+A258	UMLS-Preferred-Name E63 Diarrhea
+A259	MEDDRA-PT E63 Diarrhoea
+A260	MEDDRA-PT-ID E63 10012735
+A261	LLT E63 Diarrhea
+A262	LLT-ID E63 10012727
+A263	CUI E64 C0037036
+A264	UMLS-Preferred-Name E64 Sialorrhea
+A265	MEDDRA-PT E64 Salivary hypersecretion
+A266	MEDDRA-PT-ID E64 10039424
+A267	CUI E65 C0231218
+A268	UMLS-Preferred-Name E65 Malaise
+A269	MEDDRA-PT E65 Malaise
+A270	MEDDRA-PT-ID E65 10025482
+A271	CUI E66 C0015967
+A272	UMLS-Preferred-Name E66 Fever
+A273	MEDDRA-PT E66 Pyrexia
+A274	MEDDRA-PT-ID E66 10037660
+A275	LLT E66 Fever
+A276	LLT-ID E66 10016558
+A277	CUI E69 C3888044
+A278	UMLS-Preferred-Name E69 Nephrogenic Systemic Fibrosis
+A279	MEDDRA-PT E69 Nephrogenic systemic fibrosis
+A280	MEDDRA-PT-ID E69 10067467
+A281	CUI E71 C3888044
+A282	UMLS-Preferred-Name E71 Nephrogenic Systemic Fibrosis
+A283	MEDDRA-PT E71 Nephrogenic systemic fibrosis
+A284	MEDDRA-PT-ID E71 10067467
+A285	CUI E73 C0750876
+A286	UMLS-Preferred-Name E73 Superficial phlebitis
+A287	MEDDRA-PT E73 Phlebitis superficial
+A288	MEDDRA-PT-ID E73 10034902
+A289	CUI E74 C3888044
+A290	UMLS-Preferred-Name E74 Nephrogenic Systemic Fibrosis
+A291	MEDDRA-PT E74 Nephrogenic systemic fibrosis
+A292	MEDDRA-PT-ID E74 10067467

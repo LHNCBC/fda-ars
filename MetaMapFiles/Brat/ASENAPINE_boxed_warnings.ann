@@ -1,0 +1,36 @@
+T1	AdverseReaction 30 49	INCREASED MORTALITY
+T2	AdverseReaction 116 135	INCREASED MORTALITY
+T3	AdverseReaction 305 310	death
+T5	AdverseReaction 491 510	INCREASED MORTALITY
+T7	AdverseReaction 750 755	death
+T8	DrugClass 257 276	antipsychotic drugs
+T9	DrugClass 702 721	antipsychotic drugs
+T4	Factor 297 301	risk
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3 Hypothetical:E8 Hypothetical2:E4
+E5	AdverseReaction:T5
+E7	AdverseReaction:T7 Hypothetical:E9
+E8	DrugClass:T8
+E9	DrugClass:T9
+E4	Factor:T4
+A1	CUI E1 C1306577
+A2	UMLS-Preferred-Name E1 Death (finding)
+A3	MEDDRA-PT E1 Death
+A4	MEDDRA-PT-ID E1 10011906
+A5	CUI E2 C1306577
+A6	UMLS-Preferred-Name E2 Death (finding)
+A7	MEDDRA-PT E2 Death
+A8	MEDDRA-PT-ID E2 10011906
+A9	CUI E3 C1306577
+A10	UMLS-Preferred-Name E3 Death (finding)
+A11	MEDDRA-PT E3 Death
+A12	MEDDRA-PT-ID E3 10011906
+A13	CUI E5 C1306577
+A14	UMLS-Preferred-Name E5 Death (finding)
+A15	MEDDRA-PT E5 Death
+A16	MEDDRA-PT-ID E5 10011906
+A17	CUI E7 C1306577
+A18	UMLS-Preferred-Name E7 Death (finding)
+A19	MEDDRA-PT E7 Death
+A20	MEDDRA-PT-ID E7 10011906

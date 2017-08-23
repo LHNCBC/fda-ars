@@ -1,0 +1,196 @@
+52,75|C0280962|Bone marrow suppression|dsyn
+52,75|C0854467|Bone marrow suppression|fndg
+90,101|C0027947|neutropenia|dsyn
+90,101|C0023530|neutropenia|dsyn
+90,101|C0853697|neutropenia|fndg
+134,153|C0746883|febrile neutropenia|dsyn
+155,177|C1167779|neutropenic infections|dsyn
+351,360|C3272283|high-risk|fndg
+409,419|C1561562|hemoglobin|fndg
+462,478|C0020517|Hypersensitivity|patf
+462,478|C0520946|Hypersensitivity|fndg
+480,513|C2220378|Severe hypersensitivity reactions|fndg
+480,513|C2945656|Severe hypersensitivity reactions|fndg
+578,589|C1444662|Discontinue|fndg
+614,630|C0020517|hypersensitivity|patf
+614,630|C0520946|hypersensitivity|fndg
+656,665|C1444656|indicated|fndg
+689,715|C0017178|Gastrointestinal disorders|dsyn
+717,723|C0027497|Nausea|sosy
+717,723|C1963179|Nausea|patf
+725,733|C0042963|vomiting|sosy
+725,733|C1963281|vomiting|patf
+739,747|C0011991|diarrhea|sosy
+739,747|C1963091|diarrhea|fndg
+769,776|C0445223|related|fndg
+780,788|C0011991|diarrhea|sosy
+780,788|C1963091|diarrhea|fndg
+893,898;902,912|C1559310|Grade 3 diarrhea|fndg
+951,957|C1306577|Deaths|fndg
+979,1006|C0017181|gastrointestinal hemorrhage|patf
+1008,1019|C1881710|perforation|patf
+1008,1019|C0549099|perforation|fndg
+1024,1049|C0343387|neutropenic enterocolitis|dsyn
+1060,1071|C1444662|discontinue|fndg
+1096,1109|C0035078|Renal failure|dsyn
+1096,1109|C1963154|Renal failure|patf
+1132,1146|C0206277|fatal outcomes|patf
+1252,1260;1264,1267|C4062450|65 years age|fndg
+1299,1313|C0206277|fatal outcomes|patf
+1475,1493|C0948807|Hepatic impairment|dsyn
+1556,1574|C0948807|hepatic impairment|dsyn
+1620,1638|C0948807|hepatic impairment|dsyn
+1758,1781|C0280962|Bone Marrow Suppression|dsyn
+1758,1781|C0854467|Bone Marrow Suppression|fndg
+1826,1837|C0027947|neutropenia|dsyn
+1826,1837|C0023530|neutropenia|dsyn
+1826,1837|C0853697|neutropenia|fndg
+1839,1845|C0002871|anemia|dsyn
+1847,1863|C0040034|thrombocytopenia|fndg
+1871,1883|C0030312|pancytopenia|dsyn
+1907,1913|C1306577|deaths|fndg
+1992,1997|C1705232|fatal|fndg
+2025,2031|C0243026|sepsis|dsyn
+2025,2031|C0036690|sepsis|dsyn
+2035,2047|C0036983|septic shock|patf
+2058,2063|C3244287|grade|fndg
+2066,2077|C0027947|neutropenia|dsyn
+2066,2077|C0023530|neutropenia|dsyn
+2066,2077|C0853697|neutropenia|fndg
+2090,2109|C0746883|febrile neutropenia|dsyn
+2126,2141|C1555024|patient's death|fndg
+2160,2171|C0027947|neutropenia|dsyn
+2160,2171|C0023530|neutropenia|dsyn
+2160,2171|C0853697|neutropenia|fndg
+2193,2202|C0009450|infection|dsyn
+2193,2202|C3714514|infection|patf
+2204,2211|C3889290|Grade 3|fndg
+2214,2225|C0027947|neutropenia|dsyn
+2214,2225|C0023530|neutropenia|dsyn
+2214,2225|C0853697|neutropenia|fndg
+2364,2375|C0027947|neutropenia|dsyn
+2364,2375|C0023530|neutropenia|dsyn
+2364,2375|C0853697|neutropenia|fndg
+2376,2389|C1171258|complications|patf
+2376,2389|C0009566|complications|patf
+2488,2497|C3272283|high-risk|fndg
+2533,2556|C1831741|poor performance status|fndg
+2579,2598|C0746883|febrile neutropenia|dsyn
+2610,2625|C0279134|prior radiation|fndg
+2633,2656|C0162429|poor nutritional status|dsyn
+2724,2737|C1171258|complications|patf
+2724,2737|C0009566|complications|patf
+2753,2764|C0027947|neutropenia|dsyn
+2753,2764|C0023530|neutropenia|dsyn
+2753,2764|C0853697|neutropenia|fndg
+2893,2904|C0027947|neutropenia|dsyn
+2893,2904|C0023530|neutropenia|dsyn
+2893,2904|C0853697|neutropenia|fndg
+2905,2918|C1171258|complications|patf
+2905,2918|C0009566|complications|patf
+3152,3167|C1444657|contraindicated|fndg
+3293,3303|C1561562|hemoglobin|fndg
+3328,3354|C0020517|Hypersensitivity Reactions|patf
+3522,3533|C0020649|hypotension|fndg
+3522,3533|C3163620|hypotension|fndg
+3538,3550|C0006266|bronchospasm|dsyn
+3572,3605|C2220378|Severe hypersensitivity reactions|fndg
+3572,3605|C2945656|Severe hypersensitivity reactions|fndg
+3632,3643;3649,3657|C0849916|generalized erythema|sosy
+3632,3648|C0497365|generalized rash|fndg
+3644,3657|C0234913|rash/erythema|fndg
+3644,3648|C0015230|rash|sosy
+3649,3657|C0041834|erythema|dsyn
+3659,3670|C0020649|hypotension|fndg
+3659,3670|C3163620|hypotension|fndg
+3675,3687|C0006266|bronchospasm|dsyn
+3842,3868|C0020517|hypersensitivity reactions|patf
+3920,3953|C2220378|Severe hypersensitivity reactions|fndg
+3920,3953|C2945656|Severe hypersensitivity reactions|fndg
+3972,3987|C1444662|discontinuation|fndg
+4028,4035|C1363945|therapy|fndg
+4048,4063|C1444657|contraindicated|fndg
+4083,4093|C0262926|history of|fndg
+4094,4127|C2220378|severe hypersensitivity reactions|fndg
+4094,4127|C2945656|severe hypersensitivity reactions|fndg
+4277,4283|C0027497|Nausea|sosy
+4277,4283|C1963179|Nausea|patf
+4285,4293|C0042963|vomiting|sosy
+4285,4293|C1963281|vomiting|patf
+4298,4313|C1443924|severe diarrhea|sosy
+4336,4341|C1306577|Death|fndg
+4342,4349|C0445223|related|fndg
+4353,4361|C0011991|diarrhea|sosy
+4353,4361|C1963091|diarrhea|fndg
+4366,4387|C0342579|electrolyte imbalance|patf
+4470,4485|C1443924|severe diarrhea|sosy
+4490,4511|C0342579|electrolyte imbalance|patf
+4714,4719;4723,4733|C1559310|Grade 3 diarrhea|fndg
+4782,4798;4804,4814|C0017181|Gastrointestinal hemorrhage|patf
+4819,4830|C1881710|perforation|patf
+4819,4830|C0549099|perforation|fndg
+4832,4837|C1258215|ileus|dsyn
+4832,4837|C4019039|ileus|dsyn
+4839,4852|C0014356|enterocolitis|dsyn
+4854,4879|C0343387|neutropenic enterocolitis|dsyn
+4891,4904|C0206277|fatal outcome|patf
+5021,5032|C0027947|neutropenia|dsyn
+5021,5032|C0023530|neutropenia|dsyn
+5021,5032|C0853697|neutropenia|fndg
+5093,5100|C1363945|therapy|fndg
+5147,5157;5165,5177|C1996966|history of radiotherapy|fndg
+5179,5188|C0001511|adhesions|patf
+5190,5200|C0041582|ulceration|dsyn
+5190,5200|C3887532|ulceration|patf
+5190,5200|C1963256|ulceration|fndg
+5205,5216|C0017181|GI bleeding|patf
+5222,5236|C0000737|Abdominal pain|sosy
+5241,5251|C0234233|tenderness|sosy
+5253,5258|C0015967|fever|fndg
+5253,5258|C0424755|fever|fndg
+5271,5283|C0009806|constipation|sosy
+5271,5283|C1963087|constipation|fndg
+5285,5293|C0011991|diarrhea|sosy
+5285,5293|C1963091|diarrhea|fndg
+5363,5388|C1142499|gastrointestinal toxicity|fndg
+5462,5477|C1444662|discontinuation|fndg
+5507,5520|C0035078|Renal Failure|dsyn
+5507,5520|C1963154|Renal Failure|patf
+5560,5573|C0035078|renal failure|dsyn
+5560,5573|C1963154|renal failure|patf
+5581,5586|C3244287|grade|fndg
+5672,5685|C0206277|fatal outcome|patf
+5727,5733|C0243026|sepsis|dsyn
+5727,5733|C0036690|sepsis|dsyn
+5735,5746|C0011175|dehydration|dsyn
+5751,5771|C0042075|obstructive uropathy|dsyn
+5751,5771|C0178879|obstructive uropathy|dsyn
+5813,5819|C1306577|deaths|fndg
+5827,5840|C0035078|renal failure|dsyn
+5827,5840|C1963154|renal failure|patf
+5856,5861|C1709157|clear|fndg
+5931,5944|C0035078|renal failure|dsyn
+5931,5944|C1963154|renal failure|patf
+6068,6076;6080,6083|C4062450|65 years age|fndg
+6106,6114;6118,6121|C4062450|65 years age|fndg
+6122,6126|C1306577|died|fndg
+6122,6126|C1546956|died|fndg
+6137,6142|C3831786|other|fndg
+6225,6233;6237,6240|C4062450|65 years age|fndg
+6308,6319|C0027947|neutropenia|dsyn
+6308,6319|C0023530|neutropenia|dsyn
+6308,6319|C0853697|neutropenia|fndg
+6324,6343|C0746883|febrile neutropenia|dsyn
+6450,6468|C0948807|Hepatic Impairment|dsyn
+6546,6561|C1444657|contraindicated|fndg
+6586,6604|C0948807|hepatic impairment|dsyn
+6838,6856|C0948807|hepatic impairment|dsyn
+7052,7070|C0948807|hepatic impairment|dsyn
+7109,7114|C3810854|close|fndg
+7163,7171|C0600688|Toxicity|inpo
+7598,7602|C1273517|used|fndg
+7610,7619|C0425965|pregnancy|fndg
+7647,7655|C0600457|pregnant|fndg
+7647,7655|C0549206|pregnant|fndg
+7819,7827|C0600457|pregnant|fndg
+7819,7827|C0549206|pregnant|fndg

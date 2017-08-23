@@ -1,0 +1,44 @@
+#!/bin/sh
+
+# If we are running this script at NLM, use FML's development binary
+# if [ -d /nfsvol/nls/bin -a $LOGNAME == flang ]
+# then
+#     MetaMap="SKRrun.16 $HOME/specialist/SKR/src/a.out.Linux"
+# else
+#     MetaMap=$METAMAP/bin/metamap16
+# fi
+MetaMap=metamap
+
+STs="acab,anab,cgab,comd,dsyn,emod,fndg,inpo,mobd,neop,patf,sosy"
+# OPTIONS="-V USAbase -Z 2016AA --blanklines 0 -N -J $STs --num_break --no_nums fndg"
+OPTIONS="-V USAbase -Z 2016AA --blanklines 0 -N -J $STs --num_break"
+# --num_break greatly speeds processing
+
+COMMAND="$MetaMap $OPTIONS"
+echo Running $COMMAND
+
+TxtFiles=`find Brat -name \*.ann | cut -d/ -f2 | sed -e 's/\.ann/.txt/'`
+cd Txt1
+# Run only the txt files whose annotation files have nonzero length to create
+# ZIV_warnings_and_precautions.txt --> ZIV_warnings_and_precautions.txt.out 
+SECONDS=0
+../bin/run_all -c "$COMMAND" $TxtFiles | tee typescript.MetaMap
+echo $SECONDS seconds
+# MetaMap's output files will be named *.txt.out, e.g., IVACAFTOR_adverse_reactions.txt.out.
+# Rename the *.txt.out files to *.MMI, e.g., IVACAFTOR_adverse_reactions.MMI.
+rename txt.out MMI *.txt.out
+
+# /bin/rm -f *.log
+
+cd ..
+
+/bin/rm -rf MetaMap
+
+mkdir MetaMap
+mv Txt1/*.MMI MetaMap
+cd MetaMap
+
+# Create EVEROLIMUS_adverse_reactions.offsets
+# from EVEROLIMUS_adverse_reactions.mappings
+# gen_MM_offsets now checks for the stoplist
+../bin/gen_MM_offsets

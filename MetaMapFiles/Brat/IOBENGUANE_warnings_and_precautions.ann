@@ -1,0 +1,36 @@
+T1	AdverseReaction 52 78	Hypersensitivity reactions
+T2	AdverseReaction 903 929	Hypersensitivity reactions
+T5	AdverseReaction 5941 5974	transient episode of hypertension
+T6	Factor 5863 5866	may
+T7	AdverseReaction 3852 3857	fatal
+T8	AdverseReaction 3859 3875	Gasping Syndrome
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E5	AdverseReaction:T5 Hypothetical:E6
+E6	Factor:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	LLT E1 Hypersensitivity reaction
+A6	LLT-ID E1 10020756
+A7	CUI E2 C0020517
+A8	UMLS-Preferred-Name E2 Hypersensitivity
+A9	MEDDRA-PT E2 Hypersensitivity
+A10	MEDDRA-PT-ID E2 10020751
+A11	LLT E2 Hypersensitivity reaction
+A12	LLT-ID E2 10020756
+A13	CUI E5 C0152170
+A14	UMLS-Preferred-Name E5 Transient hypertension
+A15	MEDDRA-PT E5 Hypertension
+A16	MEDDRA-PT-ID E5 10020772
+A17	CUI E7 C1306577
+A18	UMLS-Preferred-Name E7 Death (finding)
+A19	MEDDRA-PT E7 Death
+A20	MEDDRA-PT-ID E7 10011906
+A21	CUI E8 C2609173
+A22	UMLS-Preferred-Name E8 Gasping syndrome
+A23	MEDDRA-PT E8 Gasping syndrome
+A24	MEDDRA-PT-ID E8 10069162

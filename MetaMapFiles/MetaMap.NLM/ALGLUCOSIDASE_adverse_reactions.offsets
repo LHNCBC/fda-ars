@@ -1,0 +1,342 @@
+122,148|C0020517|hypersensitivity reactions|patf
+163,174|C0002792|anaphylaxis|patf
+163,174|C0850803|anaphylaxis|dsyn
+176,180|C0015230|rash|sosy
+182,189|C0015967|pyrexia|fndg
+191,199|C0016382|flushing|sosy
+191,199|C1962957|flushing|fndg
+200,211|C2939147|feeling hot|sosy
+200,211|C0424749|feeling hot|fndg
+213,222|C0042109|urticaria|dsyn
+213,222|C2186740|urticaria|fndg
+224,232|C0018681|headache|sosy
+224,232|C2096315|headache|fndg
+234,247|C0020458|hyperhidrosis|fndg
+249,255|C0027497|nausea|sosy
+249,255|C1963179|nausea|patf
+257,262|C0010200|cough|sosy
+257,262|C1961131|cough|fndg
+293,304|C0039231|tachycardia|patf
+293,304|C3827868|tachycardia|fndg
+306,315|C0231835|tachypnea|fndg
+317,333|C0235710|chest discomfort|sosy
+335,344|C0012833|dizziness|sosy
+335,344|C0042571|dizziness|sosy
+335,344|C1963093|dizziness|fndg
+346,362|C0015644|muscle twitching|sosy
+346,362|C0231530|muscle twitching|fndg
+364,373|C0085631|agitation|sosy
+375,383|C0010520|cyanosis|sosy
+385,393|C0041834|erythema|dsyn
+395,407|C0020538|hypertension|dsyn
+395,407|C1963138|hypertension|fndg
+408,432|C0020538|increased blood pressure|dsyn
+408,432|C0497247|increased blood pressure|fndg
+408,432|C2917273|increased blood pressure|fndg
+434,440|C0030232|pallor|fndg
+434,440|C0241137|pallor|fndg
+442,448|C0424790|rigors|sosy
+450,456|C0040822|tremor|sosy
+450,456|C1963252|tremor|fndg
+458,466|C0042963|vomiting|sosy
+458,466|C1963281|vomiting|patf
+468,475|C0015672|fatigue|sosy
+481,488|C0231528|myalgia|sosy
+728,738|C0012634|conditions|dsyn
+1044,1055|C0002792|Anaphylaxis|patf
+1044,1055|C0850803|Anaphylaxis|dsyn
+1060,1086|C0020517|hypersensitivity reactions|patf
+1236,1262|C0020517|hypersensitivity reactions|patf
+1277,1288|C0002792|anaphylaxis|patf
+1277,1288|C0850803|anaphylaxis|dsyn
+1290,1294|C0015230|rash|sosy
+1296,1303|C0015967|pyrexia|fndg
+1305,1313|C0016382|flushing|sosy
+1305,1313|C1962957|flushing|fndg
+1314,1325|C2939147|feeling hot|sosy
+1314,1325|C0424749|feeling hot|fndg
+1327,1336|C0042109|urticaria|dsyn
+1327,1336|C2186740|urticaria|fndg
+1338,1346|C0018681|headache|sosy
+1338,1346|C2096315|headache|fndg
+1348,1361|C0020458|hyperhidrosis|fndg
+1363,1369|C0027497|nausea|sosy
+1363,1369|C1963179|nausea|patf
+1371,1376|C0010200|cough|sosy
+1371,1376|C1961131|cough|fndg
+1407,1418|C0039231|tachycardia|patf
+1407,1418|C3827868|tachycardia|fndg
+1420,1429|C0231835|tachypnea|fndg
+1431,1447|C0235710|chest discomfort|sosy
+1449,1458|C0012833|dizziness|sosy
+1449,1458|C0042571|dizziness|sosy
+1449,1458|C1963093|dizziness|fndg
+1460,1476|C0015644|muscle twitching|sosy
+1460,1476|C0231530|muscle twitching|fndg
+1478,1487|C0085631|agitation|sosy
+1489,1497|C0010520|cyanosis|sosy
+1499,1507|C0041834|erythema|dsyn
+1509,1521|C0020538|hypertension|dsyn
+1509,1521|C1963138|hypertension|fndg
+1522,1546|C0020538|increased blood pressure|dsyn
+1522,1546|C0497247|increased blood pressure|fndg
+1522,1546|C2917273|increased blood pressure|fndg
+1548,1554|C0030232|pallor|fndg
+1548,1554|C0241137|pallor|fndg
+1556,1562|C0424790|rigors|sosy
+1564,1570|C0040822|tremor|sosy
+1564,1570|C1963252|tremor|fndg
+1572,1580|C0042963|vomiting|sosy
+1572,1580|C1963281|vomiting|patf
+1582,1589|C0015672|fatigue|sosy
+1595,1602|C0231528|myalgia|sosy
+1631,1646|C1848924|Infantile-Onset|fndg
+1666,1679|C0017921|Pompe Disease|dsyn
+1666,1679|C0342751|Pompe Disease|dsyn
+1751,1780|C3888924|infantile-onset Pompe disease|dsyn
+2101,2112|C0002792|anaphylaxis|patf
+2101,2112|C0850803|anaphylaxis|dsyn
+2123,2148|C1444565|cardiorespiratory failure|patf
+2235,2261|C0020517|hypersensitivity reactions|patf
+2346,2350|C0015230|rash|sosy
+2352,2359|C0015967|pyrexia|fndg
+2361,2370|C0042109|urticaria|dsyn
+2361,2370|C2186740|urticaria|fndg
+2372,2380|C0016382|flushing|sosy
+2372,2380|C1962957|flushing|fndg
+2411,2416|C0010200|cough|sosy
+2411,2416|C1961131|cough|fndg
+2418,2427|C0231835|tachypnea|fndg
+2429,2440|C0039231|tachycardia|patf
+2429,2440|C3827868|tachycardia|fndg
+2442,2454|C0020538|hypertension|dsyn
+2442,2454|C1963138|hypertension|fndg
+2455,2479|C0020538|increased blood pressure|dsyn
+2455,2479|C0497247|increased blood pressure|fndg
+2455,2479|C2917273|increased blood pressure|fndg
+2481,2487|C0030232|pallor|fndg
+2481,2487|C0241137|pallor|fndg
+2489,2495|C0424790|rigors|sosy
+2497,2505|C0042963|vomiting|sosy
+2497,2505|C1963281|vomiting|patf
+2507,2515|C0010520|cyanosis|sosy
+2517,2526|C0085631|agitation|sosy
+2532,2538|C0040822|tremor|sosy
+2532,2538|C1963252|tremor|fndg
+2702,2707|C1410088|still|dsyn
+2720,2746|C0020517|hypersensitivity reactions|patf
+3127,3145|C2360800|Number of Patients|fndg
+3276,3280|C0015230|Rash|sosy
+3292,3309|C0234913|rash erythematous|fndg
+3387,3394|C0015967|Pyrexia|fndg
+3494,3503|C0042109|Urticaria|dsyn
+3494,3503|C2186740|Urticaria|fndg
+3601,3609|C0016382|Flushing|sosy
+3601,3609|C1962957|Flushing|fndg
+3708,3720|C0020538|Hypertension|dsyn
+3708,3720|C1963138|Hypertension|fndg
+3721,3745|C0020538|Increased Blood Pressure|dsyn
+3721,3745|C0497247|Increased Blood Pressure|fndg
+3721,3745|C2917273|Increased Blood Pressure|fndg
+3922,3927|C0010200|Cough|sosy
+3922,3927|C1961131|Cough|fndg
+4029,4038|C0231835|Tachypnea|fndg
+4136,4147|C0039231|Tachycardia|patf
+4136,4147|C3827868|Tachycardia|fndg
+4243,4251|C0041834|Erythema|dsyn
+4350,4358|C0042963|Vomiting|sosy
+4350,4358|C1963281|Vomiting|patf
+4457,4463|C0424790|Rigors|sosy
+4564,4570|C0030232|Pallor|fndg
+4564,4570|C0241137|Pallor|fndg
+4671,4679|C0010520|Cyanosis|sosy
+4778,4787|C0085631|Agitation|sosy
+4885,4891|C0040822|Tremor|sosy
+4885,4891|C1963252|Tremor|fndg
+5012,5018|C0087136|single|fndg
+5019,5025|C3810851|center|fndg
+5068,5097|C3888924|infantile-onset Pompe disease|dsyn
+5222,5251|C3888924|infantile-onset Pompe disease|dsyn
+5334,5360|C0020517|hypersensitivity reactions|patf
+5373,5402|C3888924|infantile-onset Pompe disease|dsyn
+5507,5525|C0085642|livedo reticularis|dsyn
+5507,5525|C0263401|livedo reticularis|dsyn
+5527,5539|C0022107|irritability|fndg
+5541,5549|C0232602|retching|sosy
+5551,5572|C0152227|increased lacrimation|dsyn
+5574,5599|C0151636|ventricular extrasystoles|patf
+5601,5613|C2041132|nodal rhythm|fndg
+5601,5613|C0232208|nodal rhythm|patf
+5615,5620|C0034642|rales|sosy
+5615,5620|C0240859|rales|fndg
+5622,5650|C0854118|respiratory tract irritation|sosy
+5656,5666|C0232431|cold sweat|sosy
+5740,5753|C0017921|Pompe disease|dsyn
+5740,5753|C0342751|Pompe disease|dsyn
+5781,5792|C3846446|prospective|fndg
+6073,6076;6084,6092|C1268649|new findings|fndg
+6077,6092|C0581560|safety findings|fndg
+6194,6198;6239,6256|C1368999|Late adverse reactions|patf
+6205,6218|C0017921|Pompe Disease|dsyn
+6205,6218|C0342751|Pompe Disease|dsyn
+6274,6298|C3888925|late-onset Pompe disease|dsyn
+6681,6691|C3815594|randomized|fndg
+6985,6997|C1444662|discontinued|fndg
+7015,7037|C0002792|anaphylactic reactions|patf
+7111,7122|C0002792|anaphylaxis|patf
+7111,7122|C0850803|anaphylaxis|dsyn
+7143,7153|C0002994|angioedema|patf
+7155,7171|C0236071|throat tightness|fndg
+7176,7181;7187,7197|C0235710|chest discomfort|sosy
+7176,7186|C0008031|chest pain|sosy
+7182,7186|C0030193|pain|sosy
+7182,7186|C1962977|pain|fndg
+7218,7228|C0262926|history of|fndg
+7229,7259|C0043202|Wolff-Parkinson-White syndrome|dsyn
+7229,7259|C1963282|Wolff-Parkinson-White syndrome|fndg
+7302,7330|C0039240|supraventricular tachycardia|dsyn
+7302,7330|C1963244|supraventricular tachycardia|patf
+7302,7330|C3815188|supraventricular tachycardia|fndg
+7451,7477|C0020517|hypersensitivity reactions|patf
+7491,7502|C0002792|anaphylaxis|patf
+7491,7502|C0850803|anaphylaxis|dsyn
+7504,7512|C0018681|headache|sosy
+7504,7512|C2096315|headache|fndg
+7514,7520|C0027497|nausea|sosy
+7514,7520|C1963179|nausea|patf
+7522,7531|C0042109|urticaria|dsyn
+7522,7531|C2186740|urticaria|fndg
+7533,7542|C0012833|dizziness|sosy
+7533,7542|C0042571|dizziness|sosy
+7533,7542|C1963093|dizziness|fndg
+7544,7560|C0235710|chest discomfort|sosy
+7562,7570|C0042963|vomiting|sosy
+7562,7570|C1963281|vomiting|patf
+7572,7585|C0020458|hyperhidrosis|fndg
+7587,7595|C0016382|flushing|sosy
+7587,7595|C1962957|flushing|fndg
+7596,7607|C2939147|feeling hot|sosy
+7596,7607|C0424749|feeling hot|fndg
+7609,7633|C0020538|increased blood pressure|dsyn
+7609,7633|C0497247|increased blood pressure|fndg
+7609,7633|C2917273|increased blood pressure|fndg
+7635,7646|C0030554|paresthesia|dsyn
+7635,7646|C2242996|paresthesia|sosy
+7648,7655|C0015967|pyrexia|fndg
+7657,7671|C0853619|local swelling|sosy
+7673,7681|C0011991|diarrhea|sosy
+7673,7681|C1963091|diarrhea|fndg
+7683,7691|C0033774|pruritus|sosy
+7693,7697|C0015230|rash|sosy
+7703,7719|C0236071|throat tightness|fndg
+7990,8000|C2911690|controlled|fndg
+8017,8030|C0020458|hyperhidrosis|fndg
+8125,8132|C0015672|fatigue|sosy
+8134,8141|C0231528|myalgia|sosy
+8147,8153|C0027497|nausea|sosy
+8147,8153|C1963179|nausea|patf
+8209,8216;8223,8249|C0020522|delayed hypersensitivity reactions|patf
+8267,8276|C0589120|follow-up|fndg
+8492,8502|C3815594|randomized|fndg
+8842,8855|C0020458|Hyperhidrosis|fndg
+8951,8960|C0042109|Urticaria|dsyn
+8951,8960|C2186740|Urticaria|fndg
+9060,9071|C0002792|Anaphylaxis|patf
+9060,9071|C0850803|Anaphylaxis|dsyn
+9169,9185|C0235710|Chest Discomfort|sosy
+9278,9294|C0015644|Muscle Twitching|sosy
+9278,9294|C0231530|Muscle Twitching|fndg
+9387,9394|C0231528|Myalgia|sosy
+9496,9504;9513,9516|C0600142|Flushing Hot|sosy
+9496,9504|C0016382|Flushing|sosy
+9496,9504|C1962957|Flushing|fndg
+9505,9516|C2939147|Feeling Hot|sosy
+9505,9516|C0424749|Feeling Hot|fndg
+9605,9629|C0020538|Increased Blood Pressure|dsyn
+9605,9629|C0497247|Increased Blood Pressure|fndg
+9605,9629|C2917273|Increased Blood Pressure|fndg
+9714,9722|C0042963|Vomiting|sosy
+9714,9722|C1963281|Vomiting|patf
+9823,9828|C0013604|Edema|fndg
+9932,9940|C0033774|Pruritus|sosy
+10041,10053|C1519353|Rash Papular|fndg
+10150,10166|C0236071|Throat Tightness|fndg
+10287,10298|C0002792|anaphylaxis|patf
+10287,10298|C0850803|anaphylaxis|dsyn
+10303,10329|C0020517|hypersensitivity reactions|patf
+10498,10507|C1444656|indicated|fndg
+10526,10548|C0002792|anaphylactic reactions|patf
+10610,10621|C0002792|anaphylaxis|patf
+10610,10621|C0850803|anaphylaxis|dsyn
+10625,10651|C0020517|hypersensitivity reactions|patf
+10884,10888|C0456984|test|fndg
+10889,10896|C2825142|results|fndg
+11148,11163|C1848924|infantile-onset|fndg
+11222,11230|C1514241|positive|fndg
+11515,11523|C1514241|positive|fndg
+11733,11741|C1513916|negative|fndg
+13571,13597|C0020517|hypersensitivity reactions|patf
+13745,13767|C0002792|anaphylactic reactions|patf
+13925,13951|C0020517|hypersensitivity reactions|patf
+13957,13961|C1299581|able|fndg
+14104,14109|C3810854|close|fndg
+14280,14291|C0002792|anaphylaxis|patf
+14280,14291|C0850803|anaphylaxis|dsyn
+14296,14322|C0020517|hypersensitivity reactions|patf
+14784,14791|C0012634|disease|dsyn
+15026,15036|C1550043|identified|fndg
+15158,15167|C0087130|uncertain|fndg
+15399,15410|C0002792|anaphylaxis|patf
+15399,15410|C0850803|anaphylaxis|dsyn
+15473,15498|C1444565|cardiorespiratory failure|patf
+15562,15591|C3888924|infantile-onset Pompe disease|dsyn
+15619,15646|C0007194|hypertrophic cardiomyopathy|dsyn
+15740,15756|C0521839|flu-like illness|dsyn
+15762,15773|C3811910|combination|fndg
+15792,15799|C0015967|pyrexia|fndg
+15801,15807|C0085593|chills|sosy
+15809,15816|C0231528|myalgia|sosy
+15818,15828|C0003862|arthralgia|sosy
+15830,15834|C0030193|pain|sosy
+15830,15834|C1962977|pain|fndg
+15839,15846|C0015672|fatigue|sosy
+15915,15921|C3842675|3 days|fndg
+16021,16025|C1299581|able|fndg
+16168,16172|C1299581|able|fndg
+16201,16206|C3810854|close|fndg
+16252,16278|C0020517|hypersensitivity reactions|patf
+16354,16380|C0020517|hypersensitivity reactions|patf
+16437,16455|C0002792|anaphylactic shock|patf
+16457,16476|C1145670|respiratory failure|dsyn
+16478,16496|C0003578|respiratory arrest|patf
+16478,16496|C0162297|respiratory arrest|patf
+16498,16512|C0018790|cardiac arrest|dsyn
+16514,16521|C0242184|hypoxia|patf
+16514,16521|C1963140|hypoxia|fndg
+16523,16530|C0013404|dyspnea|sosy
+16532,16540|C0043144|wheezing|sosy
+16542,16553|C4048158|convulsions|sosy
+16542,16553|C0036572|convulsions|sosy
+16555,16574|C0277925|peripheral coldness|fndg
+16576,16588|C3887612|restlessness|fndg
+16576,16588|C3887611|restlessness|sosy
+16576,16588|C0085631|restlessness|sosy
+16590,16601|C0027769|nervousness|sosy
+16590,16601|C0849963|nervousness|sosy
+16603,16612|C0004604|back pain|sosy
+16603,16612|C1963071|back pain|fndg
+16614,16621|C0038450|stridor|sosy
+16623,16639|C0236024|pharyngeal edema|fndg
+16641,16655|C0000737|abdominal pain|sosy
+16657,16662|C0003578|apnea|patf
+16657,16662|C1963065|apnea|fndg
+16664,16676|C0037763|muscle spasm|sosy
+16664,16676|C0700153|muscle spasm|sosy
+16682,16696|C0009763|conjunctivitis|dsyn
+16723,16742|C0020502|hyperparathyroidism|dsyn
+16826,16837|C0033687|proteinuria|fndg
+16826,16837|C1962972|proteinuria|fndg
+16826,16837|C1279888|proteinuria|dsyn
+16842,16860|C0027726|nephrotic syndrome|dsyn
+16874,16903|C0017665|membranous glomerulonephritis|dsyn
+16921,16933|C0037284|skin lesions|dsyn

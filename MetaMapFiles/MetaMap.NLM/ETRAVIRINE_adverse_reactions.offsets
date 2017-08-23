@@ -1,0 +1,249 @@
+133,159|C0020517|hypersensitivity reactions|patf
+365,369|C0015230|rash|sosy
+374,395|C0031117|peripheral neuropathy|dsyn
+491,495|C0015230|rash|sosy
+500,508|C0011991|diarrhea|sosy
+500,508|C1963091|diarrhea|fndg
+795,805|C0012634|conditions|dsyn
+1193,1201|C0439663|infected|fndg
+1437,1462|C0041755|to adverse drug reactions|inpo
+1582,1587|C3244287|Grade|fndg
+1606,1610|C0015230|rash|sosy
+1620,1644|C0038325|Stevens-Johnson syndrome|dsyn
+1646,1676|C0013182|drug hypersensitivity reaction|dsyn
+1646,1676|C3662272|drug hypersensitivity reaction|dsyn
+1646,1676|C0455589|drug hypersensitivity reaction|fndg
+1681,1700|C0014742|erythema multiforme|dsyn
+1864,1872|C0439663|infected|fndg
+1926,1938|C1444662|discontinued|fndg
+1946,1950|C0015230|rash|sosy
+1984,1988|C0015230|rash|sosy
+2052,2059|C1363945|therapy|fndg
+2094,2098|C0015230|Rash|sosy
+2109,2117|C3714811|resolved|fndg
+2109,2117|C1514893|resolved|patf
+2177,2181|C0015230|rash|sosy
+2268,2272|C0015230|rash|sosy
+2276,2283|C3889824|Grade 2|fndg
+2369,2373|C0015230|rash|sosy
+2496,2506|C0262926|history of|fndg
+2496,2506|C0262926|history of|fndg
+2513,2520|C0445223|related|fndg
+2513,2520|C0445223|related|fndg
+2521,2525|C0015230|rash|sosy
+2605,2612|C0445223|related|fndg
+2605,2612|C0445223|related|fndg
+2613,2617|C0015230|rash|sosy
+2649,2659|C0262926|history of|fndg
+2649,2659|C0262926|history of|fndg
+2666,2673|C0445223|related|fndg
+2666,2673|C0445223|related|fndg
+2674,2678|C0015230|rash|sosy
+2695,2712;2728,2732|C0041755|Adverse Reactions ADRs|inpo
+2792,2797|C3244287|Grade|fndg
+2998,3002|C0041755|ADRs|inpo
+3041,3050;3060,3067;3094,3103|C0879626|Treatment Adverse reactions|patf
+3148,3155|C0445223|related|fndg
+3377,3385|C3889824|Grades 2|fndg
+3835,3856|C0031117|Peripheral neuropathy|dsyn
+3953,3965;3973,3982|C0549584|Subcutaneous Disorders|dsyn
+3973,3982|C0012634|Disorders|dsyn
+4029,4033|C0015230|Rash|sosy
+4158,4165;4201,4205|C0041755|Adverse ADRs|inpo
+4346,4351|C3244287|Grade|fndg
+4394,4411|C0018799|Cardiac Disorders|dsyn
+4415,4436|C0027051|myocardial infarction|dsyn
+4438,4453|C0002962|angina pectoris|fndg
+4455,4474|C0004238|atrial fibrillation|dsyn
+4455,4474|C1963067|atrial fibrillation|fndg
+4489,4508|C0022890|Labyrinth Disorders|dsyn
+4512,4519|C0042571|vertigo|sosy
+4526,4539|C0015397|Eye Disorders|dsyn
+4543,4557|C0344232|blurred vision|sosy
+4564,4590|C0017178|Gastrointestinal Disorders|dsyn
+4594,4625|C0017168|gastroesophageal reflux disease|dsyn
+4627,4637|C0016204|flatulence|sosy
+4627,4637|C1962956|flatulence|fndg
+4639,4648|C0017152|gastritis|dsyn
+4650,4670|C0000731|abdominal distension|fndg
+4672,4684|C0030305|pancreatitis|dsyn
+4672,4684|C1963198|pancreatitis|fndg
+4686,4698|C0009806|constipation|sosy
+4686,4698|C1963087|constipation|fndg
+4700,4709|C0043352|dry mouth|dsyn
+4711,4722|C0018926|hematemesis|sosy
+4724,4732|C0232602|retching|sosy
+4734,4744;4759,4768|C0038362|stomatitis Disorders|dsyn
+4793,4803|C0012634|Conditions|dsyn
+4807,4819|C0920289|sluggishness|sosy
+4826,4847|C0018939|Hematologic Disorders|dsyn
+4851,4867;4888,4897|C0002878|hemolytic anemia Disorders|dsyn
+4901,4916|C0085605|hepatic failure|dsyn
+4918,4930|C0019209|hepatomegaly|sosy
+4932,4951|C0919823|cytolytic hepatitis|dsyn
+4953,4970|C0015695|hepatic steatosis|dsyn
+4953,4970|C2711227|hepatic steatosis|dsyn
+4972,4981|C0019159|hepatitis|dsyn
+4972,4981|C0019158|hepatitis|dsyn
+4988,5011|C0021053|Immune System Disorders|dsyn
+5015,5036|C0013182|drug hypersensitivity|dsyn
+5038,5068|C1619738|immune reconstitution syndrome|dsyn
+5038,5068|C1096197|immune reconstitution syndrome|dsyn
+5090,5109|C3714509|Nutrition Disorders|dsyn
+5113,5130|C0011849|diabetes mellitus|dsyn
+5132,5140|C0003123|anorexia|dsyn
+5132,5140|C0426579|anorexia|sosy
+5132,5140|C1971624|anorexia|fndg
+5142,5154|C0242339|dyslipidemia|dsyn
+5189,5201|C0030554|paraesthesia|dsyn
+5189,5201|C2242996|paraesthesia|sosy
+5203,5213|C0013144|somnolence|fndg
+5203,5213|C2830004|somnolence|fndg
+5215,5225|C4048158|convulsion|sosy
+5215,5225|C0036572|convulsion|sosy
+5227,5239|C0020580|hypoesthesia|fndg
+5241,5248|C0002622|amnesia|mobd
+5250,5257|C0039070|syncope|sosy
+5259,5283|C0233414|disturbance in attention|mobd
+5285,5296|C0917799|hypersomnia|dsyn
+5298,5304|C0040822|tremor|sosy
+5298,5304|C1963252|tremor|fndg
+5336,5343|C0003467|anxiety|mobd
+5336,5343|C0003469|anxiety|mobd
+5336,5343|C0860603|anxiety|fndg
+5345,5360|C0851578|sleep disorders|dsyn
+5345,5360|C0037317|sleep disorders|sosy
+5362,5377|C0234458|abnormal dreams|mobd
+5379,5396|C0009676|confusional state|mobd
+5398,5412|C0009676|disorientation|mobd
+5398,5412|C0233407|disorientation|mobd
+5414,5425|C0027769|nervousness|sosy
+5414,5425|C0849963|nervousness|sosy
+5427,5437|C0028084|nightmares|sosy
+5427,5437|C3887605|nightmares|mobd
+5454,5471|C0042075|Urinary Disorders|dsyn
+5474,5493|C0022660|acute renal failure|dsyn
+5474,5493|C3854173|acute renal failure|dsyn
+5500,5519|C1335757|Reproductive System|fndg
+5524,5540|C0006145|Breast Disorders|dsyn
+5544,5556|C0018418|gynecomastia|dsyn
+5544,5556|C1963120|gynecomastia|fndg
+5588,5609|C0025061|Mediastinal Disorders|dsyn
+5613,5631|C0231807|exertional dyspnea|sosy
+5633,5645|C0006266|bronchospasm|dsyn
+5661,5673;5681,5690|C0549584|Subcutaneous Disorders|dsyn
+5681,5690|C0012634|Disorders|dsyn
+5694,5706|C0028081|night sweats|sosy
+5708,5723|C1262113|lipohypertrophy|dsyn
+5725,5732|C0033771|prurigo|dsyn
+5734,5747|C0020458|hyperhidrosis|fndg
+5749,5757|C0151908|dry skin|sosy
+5788,5792|C0041755|ADRs|inpo
+5863,5876|C0023787|lipodystrophy|dsyn
+5878,5897|C0002994|angioneurotic edema|patf
+5899,5918|C0014742|erythema multiforme|dsyn
+5923,5942|C0553692|haemorrhagic stroke|dsyn
+6074,6081|C3889824|Grade 2|fndg
+6085,6090|C3244287|Grade|fndg
+6135,6144|C1457868|worsening|fndg
+6263,6270|C3889824|Grade 2|fndg
+6494,6502|C0600688|Toxicity|inpo
+6849,6856|C3889824|Grade 2|fndg
+6960,6967|C3889290|Grade 3|fndg
+7071,7076|C3244287|Grade|fndg
+7071,7076|C3244287|Grade|fndg
+7293,7300|C3889824|Grade 2|fndg
+7293,7298|C3244287|Grade|fndg
+7293,7298|C3244287|Grade|fndg
+7404,7411|C3889290|Grade 3|fndg
+7404,7409|C3244287|Grade|fndg
+7404,7409|C3244287|Grade|fndg
+7737,7744|C3889824|Grade 2|fndg
+7737,7742|C3244287|Grade|fndg
+7737,7742|C3244287|Grade|fndg
+7848,7855|C3889290|Grade 3|fndg
+8193,8203|C1561562|hemoglobin|fndg
+8292,8299|C3889824|Grade 2|fndg
+8403,8408;8471,8472|C3889292|Grade 1|fndg
+8736,8743|C3889824|Grade 2|fndg
+8736,8741|C3244287|Grade|fndg
+8736,8741|C3244287|Grade|fndg
+8803,8804;8891,8893|C3842089|2 mm|fndg
+8847,8852|C3244287|Grade|fndg
+8847,8852|C3244287|Grade|fndg
+8958,8963|C3244287|Grade|fndg
+8958,8963|C3244287|Grade|fndg
+9180,9185|C3244287|Grade|fndg
+9180,9185|C3244287|Grade|fndg
+9247,9248;9333,9335|C3840882|5 mm|fndg
+9291,9296|C3244287|Grade|fndg
+9291,9296|C3244287|Grade|fndg
+9402,9407|C3244287|Grade|fndg
+9402,9407|C3244287|Grade|fndg
+9624,9629|C3244287|Grade|fndg
+9624,9629|C3244287|Grade|fndg
+10179,10186|C3889824|Grade 2|fndg
+10297,10304|C3889290|Grade 3|fndg
+10519,10524|C3244287|Grade|fndg
+10519,10524|C3244287|Grade|fndg
+10634,10641|C3889290|Grade 3|fndg
+10856,10861|C3244287|Grade|fndg
+10856,10861|C3244287|Grade|fndg
+11093,11098|C3244287|Grade|fndg
+11093,11098|C3244287|Grade|fndg
+11208,11224|C0020456|Elevated glucose|dsyn
+11317,11322|C3244287|Grade|fndg
+11317,11322|C3244287|Grade|fndg
+11676,11686|C0449381|PARAMETERS|fndg
+11889,11894|C3244287|Grade|fndg
+11889,11894|C3244287|Grade|fndg
+12336,12341|C3244287|Grade|fndg
+12336,12341|C3244287|Grade|fndg
+12694,12702|C0439663|infected|fndg
+12708,12719|C0019163|hepatitis B|dsyn
+12824,12843|C0524909|chronic hepatitis B|dsyn
+12851,12868;12872,12881|C0019196|hepatitis C virus infection|dsyn
+12937,12940|C1266129|ALT|neop
+12983,12994|C0019163|hepatitis B|dsyn
+13023,13031|C0439663|infected|fndg
+13068,13075|C3889824|Grade 2|fndg
+13128,13137|C1457868|worsening|fndg
+13160,13163|C1266129|ALT|neop
+13262,13270|C0439663|infected|fndg
+13447,13458|C0019163|hepatitis B|dsyn
+13466,13483;13487,13496|C0019196|hepatitis C virus infection|dsyn
+13555,13566|C0019163|hepatitis B|dsyn
+13574,13591;13595,13604|C0019196|hepatitis C virus infection|dsyn
+13709,13715;13730,13738|C0516535|safety children|fndg
+13795,13801|C0087136|single|fndg
+13883,13886|C0019693|HIV|dsyn
+13889,13897|C0439663|infected|fndg
+14000,14011|C3811910|combination|fndg
+14232,14236|C0015230|rash|sosy
+14376,14380|C0015230|rash|sosy
+14385,14393|C0011991|diarrhea|sosy
+14385,14393|C1963091|diarrhea|fndg
+14395,14399|C0015230|Rash|sosy
+14471,14475|C0015230|rash|sosy
+14479,14486|C3889824|Grade 2|fndg
+14575,14579|C0015230|rash|sosy
+14642,14646|C0015230|Rash|sosy
+14673,14678|C3244287|Grade|fndg
+14747,14751|C0015230|rash|sosy
+14785,14792|C0332563|papular|fndg
+14834,14841|C1363945|therapy|fndg
+14843,14847|C0015230|Rash|sosy
+14880,14888|C3714811|resolved|fndg
+14880,14888|C1514893|resolved|patf
+15146,15156|C1550043|identified|fndg
+15406,15429|C0021053|Immune System Disorders|dsyn
+15433,15466|C2220378|Severe hypersensitivity reactions|fndg
+15433,15466|C2945656|Severe hypersensitivity reactions|fndg
+15477,15482|C3541994|DRESS|dsyn
+15496,15511|C0085605|hepatic failure|dsyn
+15602,15629|C0009782|Connective Tissue Disorders|dsyn
+15633,15647|C0035410|rhabdomyolysis|patf
+15663,15675;15683,15692|C0549584|Subcutaneous Disorders|dsyn
+15683,15692|C0012634|Disorders|dsyn
+15696,15701|C1705232|Fatal|fndg
+15711,15737|C0014518|toxic epidermal necrolysis|dsyn

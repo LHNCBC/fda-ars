@@ -1,0 +1,114 @@
+00000000|AA|DRESS|Drug Reaction with Eosinophilia and Systemic Symptoms|1|5|13|53|362:5
+00000000|MMI|126.09|Vertigo|C0042571|[sosy]|["VERTIGO"-tx-19-"Vertigo"-noun-0,"dizziness"-tx-19-"Dizziness"-noun-0,"VERTIGO"-tx-16-"vertigo"-noun-0,"dizziness"-tx-16-"dizziness"-noun-0,"VERTIGO"-tx-15-"vertigo"-noun-0,"dizziness"-tx-15-"dizziness"-noun-0,"dizziness"-tx-13-"Dizziness"-noun-0,"VERTIGO"-tx-1-"vertigo"-noun-0,"dizziness"-tx-1-"dizziness"-noun-0]|TX|4994/7;6325/9;4012/7;3942/9;3732/7;3647/9;3010/9;999/7;929/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|118.56|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-21-"adverse reactions"-noun-1,"Adverse reactions"-tx-20-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-20-"adverse reactions"-noun-1,"Adverse reactions"-tx-19-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-18-"Adverse reactions"-noun-0,"Adverse reactions"-tx-17-"adverse reactions"-noun-0,"Adverse reactions"-tx-15-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-14-"adverse reaction"-noun-0,"Adverse reactions"-tx-11-"Adverse reactions"-noun-0,"ADVERSE REACTION"-tx-10-"adverse reaction"-noun-0,"ADVERSE REACTION"-tx-3-"adverse reaction"-noun-0,"Adverse reactions"-tx-2-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|7597/17;7380/17;7494/17;[4518/17],[7112/17];4297/17;4095/17;3485/17;3367/16;2757/17;2660/16;1299/16;1080/17;6/17;602/17;[41/17],[844/17]|
+00000000|MMI|65.00|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-19-"Dizziness"-noun-0,"Dizzyness"-tx-16-"dizziness"-noun-0,"Dizzyness"-tx-15-"dizziness"-noun-0,"Dizzyness"-tx-13-"Dizziness"-noun-0,"Dizzyness"-tx-1-"dizziness"-noun-0]|TX|6325/9;3942/9;3647/9;3010/9;929/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|65.00|Drowsiness|C0013144|[fndg]|["Somnolence"-tx-19-"Somnolence"-noun-0,"Somnolence"-tx-16-"somnolence"-noun-0,"Somnolence"-tx-15-"somnolence"-noun-0,"Somnolence"-tx-13-"somnolence"-noun-0,"Somnolence"-tx-1-"somnolence"-noun-0]|TX|6339/10;3953/10;3694/10;3029/10;940/10|F02.830.855.796;G11.561.600.815.754
+00000000|MMI|61.13|Diplopia|C0012569|[fndg]|["DIPLOPIA"-tx-19-"Diplopia"-noun-0,"DIPLOPIA"-tx-16-"diplopia"-noun-0,"DIPLOPIA"-tx-15-"diplopia"-noun-0,"DIPLOPIA"-tx-1-"diplopia"-noun-0]|TX|5089/8;3983/8;3684/8;970/8|C10.597.751.941.339;C11.966.339;C23.888.592.763.941.339
+00000000|MMI|61.11|Cerebellar Ataxia|C0007758|[sosy]|["Ataxia"-tx-19-"Ataxia"-noun-0,"Ataxia"-tx-16-"ataxia"-noun-0,"Ataxia"-tx-15-"ataxia"-noun-0,"Ataxia"-tx-1-"ataxia"-noun-0]|TX|6367/6;4021/6;3676/6;1008/6|C10.228.140.252.190;C10.597.350.090.500;C23.888.592.350.090.200
+00000000|MMI|51.30|Ataxia|C0004134|[sosy]|["ATAXIA"-tx-19-"Ataxia"-noun-0,"ATAXIA"-tx-16-"ataxia"-noun-0,"ATAXIA"-tx-15-"ataxia"-noun-0,"ATAXIA"-tx-1-"ataxia"-noun-0]|TX|6367/6;4021/6;3676/6;1008/6|C10.597.350.090;C23.888.592.350.090
+00000000|MMI|51.30|Headache|C0018681|[sosy]|["HEADACHE"-tx-19-"Headache"-noun-0,"HEADACHE"-tx-16-"headache"-noun-0,"HEADACHE"-tx-15-"headache"-noun-0,"HEADACHE"-tx-1-"headache"-noun-0]|TX|6354/8;3973/8;3706/8;960/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|51.30|Tremor|C0040822|[sosy]|["TREMOR"-tx-19-"Tremor"-noun-0,"TREMOR"-tx-16-"tremor"-noun-0,"TREMOR"-tx-15-"tremor"-noun-0,"TREMOR"-tx-1-"tremor"-noun-0]|TX|6399/6;4049/6;3782/6;1036/6|C10.597.350.850;C23.888.592.350.850
+00000000|MMI|50.43|Seizures, Focal|C0751495|[sosy]|["seizures partial"-tx-17-"partial seizures"-noun-0,"Partial seizures"-tx-7-"partial seizures"-noun-0,"seizures partial"-tx-6-"partial seizures"-noun-0,"Partial seizures"-tx-4-"partial seizures"-noun-0]|TX|4152/7,4166/8;2142/7,2156/8;1933/7,1947/8;1535/7,1549/8|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|45.54|Nausea|C0027497|[sosy]|["NAUSEA"-tx-16-"nausea"-noun-0,"NAUSEA"-tx-15-"nausea"-noun-0,"NAUSEA"-tx-13-"nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|3965/6;3658/6;3021/6;952/6|C23.888.821.712
+00000000|MMI|45.15|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-19-"Fatigue"-verb-0,"FATIGUE"-tx-16-"fatigue"-noun-0,"FATIGUE"-tx-15-"fatigue"-noun-0,"FATIGUE"-tx-13-"fatigue"-noun-0,"FATIGUE"-tx-1-"fatigue"-noun-0]|TX|5598/7;4003/7;3751/7;3045/7;990/7|C23.888.369
+00000000|MMI|44.42|Dysarthria|C0013362|[mobd]|["DYSARTHRIA"-tx-19-"Dysarthria"-noun-0,"DYSARTHRIA"-tx-15-"dysarthria"-noun-0]|TX|6410/10;3766/10|C10.597.606.150.500.800.150.200;C23.888.592.604.150.500.800.150.200
+00000000|MMI|41.50|Vomiting|C0042963|[sosy]|["VOMITING"-tx-19-"Vomiting"-adj-0,"VOMITING"-tx-16-"vomiting"-verb-0,"VOMITING"-tx-15-"vomiting"-verb-0,"VOMITING"-tx-1-"vomiting"-verb-0]|TX|5332/8;3993/8;3666/8;980/8|C23.888.821.937
+00000000|MMI|38.89|Disease|C0012634|[dsyn]|["Disorders"-tx-19-"disorders"-noun-0,"condition"-tx-19-"conditions"-noun-0,"condition"-tx-3-"conditions"-noun-0]|TX|[5480/9],[6897/9],[6993/9];5514/10;1287/10|C23.550.288
+00000000|MMI|33.13|1+|C3816745|[fndg]|["1+"-tx-19-"1"-integer-0,"1+"-tx-15-"1"-percentage-0,"1+"-tx-10-"1"-percentage-0]|TX|[5005/1],[5411/1],[5451/1],[6011/1],[6230/1],[6467/1],[6469/1],[6801/1];3520/1;2694/1|
+00000000|MMI|30.84|Hyponatremia|C0020625|[dsyn]|["HYPONATREMIA"-tx-19-"Hyponatremia"-noun-0,"HYPONATREMIA"-tx-10-"hyponatremia"-noun-0,"HYPONATREMIA"-tx-1-"Hyponatremia"-noun-0]|TX|6192/12;2739/12;529/12|C18.452.950.620
+00000000|MMI|19.96|2+|C3833492|[fndg]|["2+"-tx-19-"2"-integer-0,"2+"-tx-19-"2"-percentage-0,"2+"-tx-17-"2"-percentage-0,"2+"-tx-16-"2"-percentage-0,"2+"-tx-1-"2"-percentage-0]|TX|[4625/1],[5020/1],[5803/1],[6245/1];[4625/1],[5020/1],[5803/1],[6245/1];4132/1;3912/1;903/1|
+00000000|MMI|19.75|Epilepsy|C0014544|[dsyn]|["EPILEPSY"-tx-14-"epilepsy"-noun-0,"EPILEPSY"-tx-9-"epilepsy"-noun-0]|TX|3268/8;2451/8|C10.228.140.490
+00000000|MMI|16.11|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-16-"nausea"-noun-0,"Nausea"-tx-15-"nausea"-noun-0,"Nausea"-tx-13-"nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|3965/6;3658/6;3021/6;952/6|
+00000000|MMI|15.43|Exanthema|C0015230|[sosy]|["RASH"-tx-19-"Rash"-noun-0,"RASH"-tx-15-"rash"-noun-0]|TX|6911/4;3760/4|C17.800.257
+00000000|MMI|15.43|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-19-"Dizziness"-noun-0,"Dizziness"-tx-16-"dizziness"-noun-0,"Dizziness"-tx-15-"dizziness"-noun-0,"Dizziness"-tx-13-"Dizziness"-noun-0,"Dizziness"-tx-1-"dizziness"-noun-0]|TX|6325/9;3942/9;3647/9;3010/9;929/9|
+00000000|MMI|15.43|Somnolence|C2830004|[fndg]|["SOMNOLENCE"-tx-19-"Somnolence"-noun-0,"SOMNOLENCE"-tx-16-"somnolence"-noun-0,"SOMNOLENCE"-tx-15-"somnolence"-noun-0,"SOMNOLENCE"-tx-13-"somnolence"-noun-0,"SOMNOLENCE"-tx-1-"somnolence"-noun-0]|TX|6339/10;3953/10;3694/10;3029/10;940/10|
+00000000|MMI|15.42|Asthenia|C0004093|[sosy]|["ASTHENIA"-tx-19-"Asthenia"-noun-0,"ASTHENIA"-tx-15-"asthenia"-noun-0]|TX|5610/8;3741/8|C23.888.089
+00000000|MMI|15.23|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-19-"Hypertension"-noun-0,"vascular hypertension"-tx-19-"Vascular Hypertension"-noun-0]|TX|7007/12;6984/8,7007/12|C14.907.489
+00000000|MMI|14.84|Hypercholesterolemia|C0020443|[dsyn]|["Increased total cholesterol"-tx-19-"increases total cholesterol"-noun-0]|TX|7275/9,7288/17|C18.452.584.500.500.396
+00000000|MMI|13.60|Angioedema|C0002994|[patf]|["Angiooedema"-tx-1-"Angioedema"-noun-0]|TX|471/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|12.54|Drug Hypersensitivity Syndrome|C3541994|[dsyn]|["Drug Reaction with Eosinophilia and Systemic Symptoms"-tx-1-"Drug Reaction with Eosinophilia and Systemic Symptoms"-noun-0]|TX|307/53|C17.800.174.600.262;C20.543.206.380.262;C25.100.468.380.262
+00000000|MMI|12.42|Vision Disorders|C0042790|[fndg]|["disorders visual"-tx-19-"disorders Visual"-noun-0]|TX|5075/9,5121/6|C10.597.751.941;C11.966;C23.888.592.763.941
+00000000|MMI|12.39|Visual Impairment|C3665347|[fndg]|["VISUAL IMPAIRMENT"-tx-19-"Visual impairment"-noun-0]|TX|5121/17|C10.597.751.941;C11.966;C23.888.592.763.941
+00000000|MMI|12.39|Sleeplessness|C0917801|[sosy]|["INSOMNIA"-tx-19-"Insomnia"-noun-0]|TX|6566/8|C10.886.425.800.800;F03.870.400.800.800
+00000000|MMI|12.13|Blurred vision|C0344232|[sosy]|["BLURRED VISION"-tx-19-"Blurred vision"-noun-0,"BLURRED VISION"-tx-16-"blurred vision"-noun-0,"BLURRED VISION"-tx-15-"blurred vision"-noun-0,"BLURRED VISION"-tx-1-"blurred vision"-noun-0]|TX|5102/14;4029/14;3716/14;1016/14|
+00000000|MMI|12.08|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-19-"Vomiting"-adj-0,"Vomiting"-tx-16-"vomiting"-verb-0,"Vomiting"-tx-15-"vomiting"-verb-0,"Vomiting"-tx-1-"vomiting"-verb-0]|TX|5332/8;3993/8;3666/8;980/8|
+00000000|MMI|12.07|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-19-"Headache"-noun-0,"headache"-tx-16-"headache"-noun-0,"headache"-tx-15-"headache"-noun-0,"headache"-tx-1-"headache"-noun-0]|TX|6354/8;3973/8;3706/8;960/8|
+00000000|MMI|12.07|Tremor Adverse Event|C1963252|[fndg]|["Tremor"-tx-19-"Tremor"-noun-0,"Tremor"-tx-16-"tremor"-noun-0,"Tremor"-tx-15-"tremor"-noun-0,"Tremor"-tx-1-"tremor"-noun-0]|TX|6399/6;4049/6;3782/6;1036/6|
+00000000|MMI|11.19|Coughing|C0010200|[sosy]|["COUGH"-tx-19-"Cough"-verb-0]|TX|6764/5|C08.618.248;C23.888.852.293
+00000000|MMI|11.19|Falls|C0085639|[fndg]|["FALL"-tx-19-"Fall"-verb-0]|TX|5974/4|N06.850.135.122
+00000000|MMI|11.19|anaphylaxis|C0002792|[patf]|["Reactions, Anaphylactic"-tx-1-"Anaphylactic Reactions"-noun-0]|TX|444/22|C20.543.480.099
+00000000|MMI|11.00|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-15-"discontinuation"-noun-0,"Discontinuation"-tx-14-"discontinuation"-noun-0,"Discontinuation"-tx-10-"discontinuation"-noun-0,"Discontinued"-tx-9-"discontinued"-verb-0]|TX|3591/15;3332/15;2719/15;2594/12|
+00000000|MMI|10.07|Urinary tract infection|C0042029|[dsyn]|["Urinary Tract Infections"-tx-19-"Urinary tract infections"-noun-0]|TX|5761/24|C01.539.895;C12.777.892;C13.351.968.892
+00000000|MMI|10.00|Abnormal behavior|C0233514|[mobd]|["Psychiatric disorders"-tx-19-"Psychiatric disorders"-noun-0]|TX|6525/21|F01.145.126.972;F01.145.179.750
+00000000|MMI|9.98|Mental Depression|C0011570|[mobd]|["DEPRESSION"-tx-19-"Depression"-noun-0]|TX|6551/10|F01.145.126.350
+00000000|MMI|9.97|Constipation|C0009806|[sosy]|["CONSTIPATION"-tx-19-"Constipation"-noun-0]|TX|5358/12|C23.888.821.150
+00000000|MMI|9.97|Gastritis|C0017152|[dsyn]|["GASTRITIS"-tx-19-"Gastritis"-noun-0]|TX|5394/9|C06.405.205.697;C06.405.748.398
+00000000|MMI|9.97|Nystagmus|C0028738|[dsyn]|["NYSTAGMUS"-tx-19-"Nystagmus"-noun-0]|TX|6447/9|C10.292.562.675;C11.590.400
+00000000|MMI|8.78|Drug-Induced Liver Injury|C0860207|[patf]|["Drug Induced Liver Injury"-tx-1-"Drug Induced Liver Injury"-noun-0]|TX|667/25|C06.552.195;C25.100.562;C25.723.260
+00000000|MMI|8.78|Mediastinal Diseases|C0025061|[dsyn]|["Mediastinal Disorders"-tx-19-"mediastinal disorders"-noun-0]|TX|6669/21|C08.846.187
+00000000|MMI|7.95|4+ Answer to question|C3838679|[fndg]|["4+"-tx-16-"4"-percentage-0,"4+"-tx-1-"4"-percentage-0]|TX|3903/1;894/1|
+00000000|MMI|7.57|Depressive disorder|C0011581|[mobd]|["-- Depression"-tx-19-"Depression"-noun-0]|TX|6551/10|F03.600.300
+00000000|MMI|7.52|Labyrinthine disorder|C0022890|[dsyn]|["Labyrinth Disorders"-tx-19-"labyrinth disorders"-noun-0]|TX|4970/19|C09.218.568
+00000000|MMI|6.37|Poisoning|C0032343|[inpo]|["Poisoning"-tx-19-"poisoning"-verb-0]|TX|5862/9|C25.723
+00000000|MMI|5.74|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-14-"randomized"-verb-0,"RANDOMIZED"-tx-9-"randomized"-verb-0]|TX|3458/10;2506/10|
+00000000|MMI|5.70|Received therapy or drug for|C0332154|[fndg]|["Treated for"-tx-6-"treated for"-verb-0,"Treated for"-tx-4-"treated for"-verb-0]|TX|2005/11;1667/11|
+00000000|MMI|5.45|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-18-"therapy"-noun-0]|TX|[4374/7],[4486/7]|
+00000000|MMI|5.44|Experimental Result|C2825142|[fndg]|["Result"-tx-14-"result"-noun-0,"Result"-tx-9-"result"-noun-0]|TX|3353/6;2628/6|
+00000000|MMI|5.19|Infection|C3714514|[patf]|["Infections"-tx-19-"Infections"-noun-0]|TX|5729/10|C01.539
+00000000|MMI|5.19|Vascular Diseases|C0042373|[dsyn]|["Vascular Disorders"-tx-19-"Vascular disorders"-noun-0]|TX|6984/18|C14.907
+00000000|MMI|5.16|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-19-"Gastrointestinal disorders"-noun-0]|TX|5207/26|C06.405
+00000000|MMI|5.12|Hypersensitivity|C0020517|[patf]|["HYPERSENSITIVITY"-tx-1-"Hypersensitivity"-noun-0]|TX|380/16|C20.543
+00000000|MMI|5.11|Nutrition Disorders|C3714509|[dsyn]|["Nutrition Disorders"-tx-19-"nutrition disorders"-noun-0]|TX|6093/19|C18.654
+00000000|MMI|3.96|1-2|C3843716|[fndg]|["1-2"-tx-19-"1 2"-integer-0]|TX|7042/1,7064/1|
+00000000|MMI|3.96|5 - 9|C3840622|[fndg]|["5 - 9"-tx-1-"5.9"-real_number-0]|TX|805/3|
+00000000|MMI|3.96|5-6|C3843715|[fndg]|["5-6"-tx-1-"5.6"-real_number-0]|TX|653/3|
+00000000|MMI|3.96|6/5|C0442749|[fndg]|["5 6"-tx-1-"5.6"-real_number-0]|TX|653/3|
+00000000|MMI|3.96|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-19-"Cough"-verb-0]|TX|6764/5|
+00000000|MMI|3.96|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-6-"controlled"-adj-0]|TX|1853/10|
+00000000|MMI|3.96|Hematocrit level|C0518014|[fndg]|["Hematocrit"-tx-19-"hematocrit"-noun-0]|TX|7263/10|
+00000000|MMI|3.96|Hemoglobin finding|C1561562|[fndg]|["Hemoglobin"-tx-19-"hemoglobin"-noun-0]|TX|7248/10|
+00000000|MMI|3.96|Suicidal behavior|C1760428|[fndg]|["Suicidal behaviour"-tx-1-"Suicidal Behavior"-noun-0]|TX|151/17|
+00000000|MMI|3.15|Procedural complication|C1141861|[patf]|["Procedural complication"-tx-19-"procedural complications"-noun-0]|TX|5876/24|
+00000000|MMI|2.91|Abnormality of thyroid physiology|C0857576|[fndg]|["Abnormal thyroid function"-tx-1-"Abnormal Thyroid Function"-noun-0]|TX|740/25|
+00000000|MMI|2.84|Recurrent urinary tract infection|C0262655|[dsyn]|["Urinary tract infections"-tx-19-"Urinary tract infections"-noun-0]|TX|5761/24|
+00000000|MMI|2.81|50%|C3842586|[fndg]|["50%"-tx-8-"50"-percentage-0]|TX|2327/2|
+00000000|MMI|2.81|80%|C3842583|[fndg]|["80%"-tx-8-"80"-percentage-0]|TX|2360/2|
+00000000|MMI|2.81|<50|C3843766|[fndg]|["<50"-tx-8-"50"-percentage-0]|TX|2327/2|
+00000000|MMI|2.81|eyes impairment|C0848755|[fndg]|["eye impairment"-tx-19-"Eye impairment"-noun-0]|TX|5071/3,5128/10|
+00000000|MMI|2.80|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-19-"subcutaneous disorders"-noun-0]|TX|6877/12,6897/9|
+00000000|MMI|2.79|Elevated creatine kinase|C0151576|[fndg]|["Increased creatine phosphokinase"-tx-19-"increases creatine phosphokinase"-noun-0]|TX|7335/9,7348/22|
+00000000|MMI|2.79|Hypercholesterolemia result|C1522133|[fndg]|["Increased total cholesterol"-tx-19-"increases total cholesterol"-noun-0]|TX|7275/9,7288/17|
+00000000|MMI|2.79|nausea or abdominal pain|C0151263|[sosy]|["nausea abdominal pain"-tx-19-"Nausea Abdominal pain"-noun-0]|TX|5321/6,5375/14|
+00000000|MMI|2.78|Less often|C3843156|[fndg]|["Less Frequent"-tx-18-"less frequent"-adj-0]|TX|4337/13|
+00000000|MMI|2.78|1 - 3|C3843504|[fndg]|["1 - 3"-tx-19-"1 3"-integer-0]|TX|6933/1,6955/1|
+00000000|MMI|2.78|Gait abnormality|C0575081|[fndg]|["GAIT DISTURBANCE"-tx-19-"Gait disturbance"-noun-0]|TX|5623/16|
+00000000|MMI|2.78|Peripheral edema|C0085649|[fndg]|["Peripheral Oedema"-tx-19-"Peripheral edema"-noun-0]|TX|5644/16|
+00000000|MMI|2.78|Traumatic AND/OR non-traumatic injury|C3263722|[inpo]|["Injury"-tx-19-"Injury"-noun-0]|TX|5854/6|
+00000000|MMI|2.78|Traumatic injury|C3263723|[inpo]|["INJURY"-tx-19-"Injury"-noun-0]|TX|5854/6|
+00000000|MMI|2.77|Mg++ increased|C0240292|[fndg]|["increased mg"-tx-18-"increased mg"-noun-0]|TX|4431/9,4448/2|
+00000000|MMI|2.77|Mental disorders|C0004936|[mobd]|["PSYCHIATRIC DISORDERS"-tx-19-"Psychiatric disorders"-noun-0]|TX|6525/21|F03
+00000000|MMI|2.77|Equilibration disorder|C0575090|[sosy]|["Balance impairment"-tx-19-"Balance impairment"-noun-0]|TX|6378/7,6432/10|
+00000000|MMI|2.77|Impairment of balance|C0241981|[fndg]|["Balance impairment"-tx-19-"Balance impairment"-noun-0]|TX|6378/7,6432/10|
+00000000|MMI|2.75|Disorder of eye|C0015397|[dsyn]|["Eye Disorders"-tx-19-"Eye disorders"-noun-0]|TX|5071/13|C11
+00000000|MMI|2.75|Infestation|C0851341|[dsyn]|["infestations"-tx-19-"Infestations"-noun-0]|TX|5744/12|
+00000000|MMI|2.75|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-19-"Nervous system disorders"-noun-0]|TX|6296/24|C10
+00000000|MMI|2.75|Diarrhea and vomiting, symptom|C0474496|[sosy]|["vomiting diarrhoea"-tx-19-"Vomiting Diarrhea"-noun-0]|TX|5332/8,5345/8|
+00000000|MMI|2.75|Diarrhea/constipation|C3842347|[fndg]|["Diarrhea/constipation"-tx-19-"Diarrhea Constipation"-noun-0]|TX|5345/8,5358/12|
+00000000|MMI|2.75|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-19-"Hypertension"-noun-0]|TX|7007/12|
+00000000|MMI|2.75|Depressed - symptom|C1579931|[sosy]|["depression"-tx-19-"Depression"-noun-0]|TX|6551/10|
+00000000|MMI|2.75|Depressed mood|C0344315|[fndg]|["depression"-tx-19-"Depression"-noun-0]|TX|6551/10|
+00000000|MMI|2.75|Insomnia Adverse Event|C1963237|[fndg]|["Insomnia"-tx-19-"Insomnia"-noun-0]|TX|6566/8|
+00000000|MMI|2.74|Memory Impairment Adverse Event|C1963167|[patf]|["Memory impairment"-tx-19-"Memory impairment"-noun-0]|TX|6425/17|
+00000000|MMI|2.74|Memory impairment|C0233794|[mobd]|["MEMORY IMPAIRMENT"-tx-19-"Memory impairment"-noun-0]|TX|6425/17|
+00000000|MMI|2.74|Constipation Adverse Event|C1963087|[fndg]|["Constipation"-tx-19-"Constipation"-noun-0]|TX|5358/12|
+00000000|MMI|2.74|Patient reaction finding|C0521985|[fndg]|["Patient reaction"-tx-16-"reactions patients"-noun-0]|TX|3831/9,3844/8|
+00000000|MMI|2.74|Ability to balance|C0560184|[fndg]|["Balance"-tx-19-"Balance"-noun-0]|TX|6378/7|
+00000000|MMI|2.74|Memory observations|C0700327|[fndg]|["memory"-tx-19-"Memory"-noun-0]|TX|6425/6|
+00000000|MMI|2.74|Nystagmus Adverse Event|C1963184|[fndg]|["Nystagmus"-tx-19-"Nystagmus"-noun-0]|TX|6447/9|
+00000000|MMI|2.71|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-1-"Hypersensitivity"-noun-0]|TX|380/16|
+00000000|MMI|2.66|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-19-"3"-integer-0]|TX|6027/1|
+00000000|MMI|2.66|60%|C3842585|[fndg]|["60%"-tx-8-"60"-integer-0]|TX|2299/2|
+00000000|MMI|2.66|Withdrawal (dysfunction)|C2825032|[mobd]|["Withdrawal"-tx-13-"Withdrawal"-noun-0]|TX|3106/10|
+00000000|MMI|2.66|Withdrawal - birth control|C3812880|[fndg]|["Withdrawal"-tx-13-"Withdrawal"-noun-0]|TX|3106/10|
+00000000|MMI|2.63|Adverse event|C0877248|[patf]|["ADVERSE EVENT"-tx-9-"adverse event"-noun-0]|TX|2641/13|
+00000000|MMI|2.61|History of previous events|C2004062|[fndg]|["Historical"-tx-9-"Historical"-noun-0]|TX|2400/10|

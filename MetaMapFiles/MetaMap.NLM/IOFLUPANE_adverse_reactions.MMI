@@ -1,0 +1,23 @@
+00000000|MMI|73.37|Vertigo|C0042571|[sosy]|["VERTIGO"-tx-8-"vertigo"-noun-0,"dizziness"-tx-8-"dizziness"-noun-0,"VERTIGO"-tx-2-"vertigo"-noun-0,"dizziness"-tx-2-"dizziness"-noun-0]|TX|1094/7;1116/9;220/7;242/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|35.81|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-8-"dizziness"-noun-0,"Dizzyness"-tx-2-"dizziness"-noun-0]|TX|1116/9;242/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|32.91|Headache|C0018681|[sosy]|["HEADACHE"-tx-8-"headache"-noun-0,"HEADACHE"-tx-2-"headache"-noun-0]|TX|1076/8;202/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|29.46|Nausea|C0027497|[sosy]|["NAUSEA"-tx-8-"nausea"-noun-0,"NAUSEA"-tx-2-"nausea"-noun-0]|TX|1086/6;212/6|C23.888.821.712
+00000000|MMI|29.46|Xerostomia|C0043352|[dsyn]|["DRY MOUTH"-tx-8-"dry mouth"-noun-0,"DRY MOUTH"-tx-2-"dry mouth"-noun-0]|TX|1103/9;229/9|C07.465.815.929
+00000000|MMI|23.66|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-8-"adverse reactions"-noun-0,"Adverse reactions"-tx-7-"adverse reactions"-noun-1,"ADVERSE REACTION"-tx-6-"adverse reaction"-noun-0,"Adverse reactions"-tx-3-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-2-"adverse reactions"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0]|TX|988/17;949/17;724/16;318/17;183/17;6/17|
+00000000|MMI|19.32|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-10-"uncertain"-adj-0]|TX|1294/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|16.77|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-11-"hypersensitivity reactions"-noun-0,"HYPERSENSITIVITY"-tx-1-"Hypersensitivity"-noun-0]|TX|1459/26;38/16|C20.543
+00000000|MMI|13.01|Pruritus|C0033774|[sosy]|["PRURITIS"-tx-12-"pruritis"-noun-0]|TX|1550/8|C17.800.685;C23.888.885.625
+00000000|MMI|10.42|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-8-"dizziness"-noun-0,"Dizziness"-tx-2-"dizziness"-noun-0]|TX|1116/9;242/9|
+00000000|MMI|10.42|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-8-"nausea"-noun-0,"Nausea"-tx-2-"nausea"-noun-0]|TX|1086/6;212/6|
+00000000|MMI|9.90|Exanthema|C0015230|[sosy]|["RASH"-tx-12-"rash"-noun-0]|TX|1541/4|C17.800.257
+00000000|MMI|9.84|Disease|C0012634|[dsyn]|["condition"-tx-6-"conditions"-noun-0]|TX|712/10|C23.550.288
+00000000|MMI|7.53|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-8-"headache"-noun-0,"headache"-tx-2-"headache"-noun-0]|TX|1076/8;202/8|
+00000000|MMI|5.18|Either|C3844638|[fndg]|["Either"-tx-13-"either"-adv-0]|TX|1615/6|
+00000000|MMI|5.18|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-1-"Hypersensitivity"-noun-0]|TX|38/16|
+00000000|MMI|5.18|Injection site pain|C0151828|[sosy]|["INJECTION SITE PAIN"-tx-14-"Injection site pain"-noun-0]|TX|1716/19|
+00000000|MMI|5.18|Injection site reaction|C0151735|[patf]|["Injection site reactions"-tx-1-"injection site reactions"-noun-0]|TX|59/24|
+00000000|MMI|5.18|Resolved|C3714811|[fndg]|["RESOLVED"-tx-13-"resolved"-verb-0]|TX|1622/8|
+00000000|MMI|5.18|physiologic resolution|C1514893|[patf]|["Resolved"-tx-13-"resolved"-verb-0]|TX|1622/8|
+00000000|MMI|3.59|1+|C3816745|[fndg]|["1+"-tx-2-"1"-percentage-0]|TX|266/1|
+00000000|MMI|3.59|Related personal status|C0445223|[fndg]|["Related"-tx-12-"related"-verb-0]|TX|1530/7|
+00000000|MMI|3.56|90%|C3842582|[fndg]|["90%"-tx-4-"90"-integer-0]|TX|586/2|

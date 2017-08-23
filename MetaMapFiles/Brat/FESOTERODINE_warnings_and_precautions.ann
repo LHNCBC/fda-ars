@@ -1,0 +1,141 @@
+T1	AdverseReaction 54 76	Angioedema of the face
+T2	AdverseReaction 54 71;78 82	Angioedema of the lips
+T3	AdverseReaction 54 71;84 90	Angioedema of the tongue
+T4	AdverseReaction 54 71;99 105	Angioedema of the larynx
+T5	AdverseReaction 704 714	Somnolence
+T6	AdverseReaction 1061 1083	Angioedema of the face
+T7	AdverseReaction 1061 1078;1085 1089	Angioedema of the lips
+T8	AdverseReaction 1061 1078;1091 1097	Angioedema of the tongue
+T9	AdverseReaction 1061 1078;1106 1112	Angioedema of the larynx
+T10	AdverseReaction 1206 1216	Angioedema
+T11	AdverseReaction 1233 1254	upper airway swelling
+T12	Severity 1262 1278	life-threatening
+T13	Factor 1255 1258	may
+T14	AdverseReaction 2227 2264;2271 2278	anticholinergic central nervous sytem effects
+T15	AdverseReaction 2227 2242;2266 2269;2271 2278	anticholinergic CNS effects
+T16	AdverseReaction 2326 2353	CNS anticholinergic effects
+T17	AdverseReaction 2384 2392	headache
+T18	AdverseReaction 2394 2403	dizziness
+T19	AdverseReaction 2409 2419	somnolence
+T20	AdverseReaction 672 702	Central Nervous System Effects
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10 Effect:E12 Hypothetical:E14
+E11	AdverseReaction:T11
+E12	Severity:T12
+E13	AdverseReaction:T10
+E14	Factor:T13
+E15	AdverseReaction:T14
+E16	AdverseReaction:T15
+E17	AdverseReaction:T16
+E18	AdverseReaction:T17
+E19	AdverseReaction:T18
+E20	AdverseReaction:T19
+E21	AdverseReaction:T20
+A1	flag E1 duplicate
+A2	CUI E1 C0743747
+A3	UMLS-Preferred-Name E1 FACE ANGIOEDEMA
+A4	MEDDRA-PT E1 Face oedema
+A5	MEDDRA-PT-ID E1 10016029
+A6	LLT E1 Face edema
+A7	LLT-ID E1 10016025
+A8	flag E2 duplicate
+A9	CUI E2 C1304200
+A10	UMLS-Preferred-Name E2 Angioedema of lips
+A11	MEDDRA-PT E2 Face oedema
+A12	MEDDRA-PT-ID E2 10016029
+A13	LLT E2 Edema lips & face
+A14	LLT-ID E2 10054495
+A15	flag E3 duplicate
+A16	CUI E3 C1304201
+A17	UMLS-Preferred-Name E3 Angioedema of tongue
+A18	MEDDRA-PT E3 Tongue oedema
+A19	MEDDRA-PT-ID E3 10043967
+A20	LLT E3 Tongue edema
+A21	LLT-ID E3 10043955
+A22	flag E4 duplicate
+A23	CUI E4 C0023052
+A24	UMLS-Preferred-Name E4 Laryngeal Edema
+A25	MEDDRA-PT E4 Laryngeal oedema
+A26	MEDDRA-PT-ID E4 10023845
+A27	LLT E4 Angioedema of larynx
+A28	LLT-ID E4 10002427
+A29	CUI E5 C2830004
+A30	UMLS-Preferred-Name E5 Somnolence
+A31	MEDDRA-PT E5 Somnolence
+A32	MEDDRA-PT-ID E5 10041349
+A33	flag E6 duplicate
+A34	CUI E6 C0743747
+A35	UMLS-Preferred-Name E6 FACE ANGIOEDEMA
+A36	MEDDRA-PT E6 Face oedema
+A37	MEDDRA-PT-ID E6 10016029
+A38	LLT E6 Face edema
+A39	LLT-ID E6 10016025
+A40	flag E7 duplicate
+A41	CUI E7 C1304200
+A42	UMLS-Preferred-Name E7 Angioedema of lips
+A43	MEDDRA-PT E7 Face oedema
+A44	MEDDRA-PT-ID E7 10016029
+A45	LLT E7 Edema lips & face
+A46	LLT-ID E7 10054495
+A47	flag E8 duplicate
+A48	CUI E8 C1304201
+A49	UMLS-Preferred-Name E8 Angioedema of tongue
+A50	MEDDRA-PT E8 Tongue oedema
+A51	MEDDRA-PT-ID E8 10043967
+A52	LLT E8 Tongue edema
+A53	LLT-ID E8 10043955
+A54	flag E9 duplicate
+A55	CUI E9 C0023052
+A56	UMLS-Preferred-Name E9 Laryngeal Edema
+A57	MEDDRA-PT E9 Laryngeal oedema
+A58	MEDDRA-PT-ID E9 10023845
+A59	LLT E9 Angioedema of larynx
+A60	LLT-ID E9 10002427
+A61	CUI E10 C0002994
+A62	UMLS-Preferred-Name E10 Angioedema
+A63	MEDDRA-PT E10 Angioedema
+A64	MEDDRA-PT-ID E10 10002424
+A65	CUI E11 C2939065
+A66	UMLS-Preferred-Name E11 Airway edema
+A67	MEDDRA-PT E11 Respiratory tract oedema
+A68	MEDDRA-PT-ID E11 10070774
+A69	LLT E11 Airway edema
+A70	LLT-ID E11 10070778
+A71	CUI E15 C0007682
+A72	UMLS-Preferred-Name E15 CNS disorder
+A73	MEDDRA-PT E15 Nervous system disorder
+A74	MEDDRA-PT-ID E15 10029202
+A75	CUI E16 C0007682
+A76	UMLS-Preferred-Name E16 CNS disorder
+A77	MEDDRA-PT E16 Nervous system disorder
+A78	MEDDRA-PT-ID E16 10029202
+A79	CUI E17 C0007682
+A80	UMLS-Preferred-Name E17 CNS disorder
+A81	MEDDRA-PT E17 Nervous system disorder
+A82	MEDDRA-PT-ID E17 10029202
+A83	CUI E18 C0018681
+A84	UMLS-Preferred-Name E18 Headache
+A85	MEDDRA-PT E18 Headache
+A86	MEDDRA-PT-ID E18 10019211
+A87	CUI E19 C0012833
+A88	UMLS-Preferred-Name E19 Dizziness
+A89	MEDDRA-PT E19 Dizziness
+A90	MEDDRA-PT-ID E19 10013573
+A91	CUI E20 C2830004
+A92	UMLS-Preferred-Name E20 Somnolence
+A93	MEDDRA-PT E20 Somnolence
+A94	MEDDRA-PT-ID E20 10041349
+A95	CUI E21 C0161815
+A96	UMLS-Preferred-Name E21 Central nervous system complication
+A97	MEDDRA-PT E21 Post procedural complication
+A98	MEDDRA-PT-ID E21 10058046
+A99	LLT E21 Central nervous system complication, not elsewhere classified
+A100	LLT-ID E21 10007937

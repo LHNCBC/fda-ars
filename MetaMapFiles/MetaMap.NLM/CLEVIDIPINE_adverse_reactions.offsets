@@ -1,0 +1,65 @@
+93,104|C0020649|Hypotension|fndg
+93,104|C3163620|Hypotension|fndg
+109,127|C1328539|Reflex Tachycardia|fndg
+228,236|C0018681|headache|sosy
+228,236|C2096315|headache|fndg
+238,244|C0027497|nausea|sosy
+238,244|C1963179|nausea|patf
+250,258|C0042963|vomiting|sosy
+250,258|C1963281|vomiting|patf
+549,561|C0857121|hypertensive|fndg
+684,696|C0857121|hypertensive|fndg
+726,752|C3661921|perioperative hypertension|dsyn
+763,782|C4013784|severe hypertension|fndg
+804,826|C0085580|essential hypertension|dsyn
+1148,1158|C0012634|conditions|dsyn
+1359,1385|C3661921|Perioperative Hypertension|dsyn
+1529,1538;1548,1565|C0879626|treatment adverse reactions|patf
+2183,2202|C0022660|Acute renal failure|dsyn
+2183,2202|C3854173|Acute renal failure|dsyn
+2321,2340|C0004238|Atrial fibrillation|dsyn
+2321,2340|C1963067|Atrial fibrillation|fndg
+2459,2465|C0027497|Nausea|sosy
+2459,2465|C1963179|Nausea|patf
+2608,2618|C3815594|randomized|fndg
+2733,2742;2747,2755|C0521985|reactions patients|fndg
+2761,2787|C3661921|perioperative hypertension|dsyn
+2875,2878|C1847730|NTG|fndg
+3202,3209|C0445223|related|fndg
+3223,3227|C1273517|used|fndg
+3336,3343|C2674459|limited|fndg
+3632,3654|C1519255|Serious Adverse Events|fndg
+3659,3674|C1444662|Discontinuation|fndg
+3677,3703|C3661921|Perioperative Hypertension|dsyn
+3767,3782|C1444662|discontinuation|fndg
+3800,3826|C3661921|perioperative hypertension|dsyn
+3973,3995|C1519255|serious adverse events|fndg
+4029,4044|C1444662|discontinuation|fndg
+4064,4083|C4013784|Severe Hypertension|fndg
+4127,4146|C4013784|severe hypertension|fndg
+4199,4218|C4013784|severe hypertension|fndg
+4288,4307|C4013784|severe hypertension|fndg
+4317,4325|C0018681|headache|sosy
+4317,4325|C2096315|headache|fndg
+4334,4340|C0027497|nausea|sosy
+4334,4340|C1963179|nausea|patf
+4353,4361|C0042963|vomiting|sosy
+4353,4361|C1963281|vomiting|patf
+4424,4439|C1444662|discontinuation|fndg
+4457,4476|C4013784|severe hypertension|fndg
+4550,4572|C0085580|Essential Hypertension|dsyn
+4650,4672|C0085580|essential hypertension|dsyn
+4691,4712|C0027051|myocardial infarction|dsyn
+4764,4771|C0013404|dyspnea|sosy
+4902,4911|C0087130|uncertain|fndg
+5079,5089|C1550043|identified|fndg
+5129,5138;5145,5158|C0020557|increased triglycerides|dsyn
+5160,5165|C1258215|ileus|dsyn
+5160,5165|C4019039|ileus|dsyn
+5167,5183|C0020517|hypersensitivity|patf
+5167,5183|C0520946|hypersensitivity|fndg
+5185,5196|C0020649|hypotension|fndg
+5185,5196|C3163620|hypotension|fndg
+5198,5204|C0027497|nausea|sosy
+5198,5204|C1963179|nausea|patf
+5268,5286|C1328539|reflex tachycardia|fndg

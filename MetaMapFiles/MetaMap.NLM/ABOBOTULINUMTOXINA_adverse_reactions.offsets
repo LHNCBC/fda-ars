@@ -1,0 +1,279 @@
+351,360|C0011168|Dysphagia|dsyn
+365,387|C0013404|Breathing Difficulties|sosy
+744,761|C0949445|Cervical Dystonia|sosy
+833,850|C0151786|muscular weakness|sosy
+852,861|C0011168|dysphagia|dsyn
+863,872|C0043352|dry mouth|dsyn
+874,899|C1096267|injection site discomfort|inpo
+901,908|C0015672|fatigue|sosy
+910,918|C0018681|headache|sosy
+910,918|C2096315|headache|fndg
+920,929|C0007859|neck pain|sosy
+920,929|C1963180|neck pain|fndg
+931,951|C0026858|musculoskeletal pain|fndg
+953,962|C1527344|dysphonia|fndg
+953,962|C0019825|dysphonia|sosy
+964,983|C0151828|injection site pain|sosy
+989,1002|C0015397|eye disorders|dsyn
+1097,1112|C0027441|nasopharyngitis|dsyn
+1114,1122|C0018681|headache|sosy
+1114,1122|C2096315|headache|fndg
+1124,1143|C0151828|injection site pain|sosy
+1145,1168|C0151735|injection site reaction|patf
+1170,1203|C0041912|upper respiratory tract infection|dsyn
+1205,1217|C0162285|eyelid edema|fndg
+1219,1232|C0005745|eyelid ptosis|anab
+1234,1243|C0037199|sinusitis|dsyn
+1249,1255|C0027497|nausea|sosy
+1249,1255|C1963179|nausea|patf
+1269,1290|C1273957|Upper Limb Spasticity|fndg
+1356,1379|C0042029|urinary tract infection|dsyn
+1356,1379|C0262655|urinary tract infection|dsyn
+1381,1396|C0027441|nasopharyngitis|dsyn
+1398,1415|C0151786|muscular weakness|sosy
+1417,1437|C0026858|musculoskeletal pain|fndg
+1439,1448|C0042571|dizziness|sosy
+1439,1448|C0012833|dizziness|sosy
+1439,1448|C1963093|dizziness|fndg
+1450,1454|C0085639|fall|fndg
+1459,1469|C0011570|depression|mobd
+1459,1469|C0011581|depression|mobd
+1459,1469|C1579931|depression|sosy
+1459,1469|C0344315|depression|fndg
+1728,1738|C0012634|conditions|dsyn
+1941,1958|C0949445|Cervical Dystonia|sosy
+2044,2052;2065,2066|C1414216|dystonia 6|dsyn
+2103,2113|C3815594|randomized|fndg
+2129,2135|C0087136|single|fndg
+2473,2481;2485,2488|C4062450|65 years age|fndg
+2721,2738|C0949445|cervical dystonia|sosy
+2754,2771|C0151786|muscular weakness|sosy
+2773,2782|C0011168|dysphagia|dsyn
+2784,2793|C0043352|dry mouth|dsyn
+2795,2820|C1096267|injection site discomfort|inpo
+2822,2829|C0015672|fatigue|sosy
+2831,2839|C0018681|headache|sosy
+2831,2839|C2096315|headache|fndg
+2841,2850|C0007859|neck pain|sosy
+2841,2850|C1963180|neck pain|fndg
+2852,2872|C0026858|musculoskeletal pain|fndg
+2874,2883|C1527344|dysphonia|fndg
+2874,2883|C0019825|dysphonia|sosy
+2885,2904|C0151828|injection site pain|sosy
+2910,2923|C0015397|eye disorders|dsyn
+2939,2953|C0344232|blurred vision|sosy
+2955,2963|C0012569|diplopia|fndg
+2969,2990|C0234632|reduced visual acuity|fndg
+2995,3008|C1832072|accommodation|fndg
+3022,3046|C0151735|injection site reactions|patf
+3209,3219|C2911690|controlled|fndg
+3374,3384|C2825032|withdrawal|mobd
+3374,3384|C3812880|withdrawal|fndg
+3410,3434|C0233414|disturbance in attention|mobd
+3436,3451|C0015423|eyelid disorder|dsyn
+3474,3482|C0018681|headache|sosy
+3474,3482|C2096315|headache|fndg
+3512,3521|C0011168|dysphagia|dsyn
+3604,3610|C0087136|single|fndg
+3859,3876|C0949445|Cervical Dystonia|sosy
+4224,4233|C0012634|disorders|dsyn
+4258,4268|C0012634|conditions|dsyn
+4331,4356|C1096267|Injection site discomfort|inpo
+4440,4447|C0015672|Fatigue|sosy
+4549,4568|C0151828|Injection site pain|sosy
+4678,4705|C0009782|connective tissue disorders|dsyn
+4768,4785|C0151786|Muscular weakness|sosy
+4877,4897|C0026858|Musculoskeletal pain|fndg
+4986,5012|C0017178|Gastrointestinal disorders|dsyn
+5095,5104|C0011168|Dysphagia|dsyn
+5204,5213|C0043352|Dry mouth|dsyn
+5422,5430|C0018681|Headache|sosy
+5422,5430|C2096315|Headache|fndg
+5531,5541|C3714514|Infections|patf
+5546,5558|C0851341|infestations|dsyn
+5666,5687|C0025061|mediastinal disorders|dsyn
+5750,5759|C1527344|Dysphonia|fndg
+5750,5759|C0019825|Dysphonia|sosy
+5859,5872|C0015397|Eye Disorders|dsyn
+6036,6046|C3815594|randomized|fndg
+6281,6298|C0949445|Cervical Dystonia|sosy
+6580,6589|C0011168|Dysphagia|dsyn
+6693,6702|C0043352|Dry Mouth|dsyn
+6806,6823|C0151786|Muscular Weakness|sosy
+6919,6944|C1096267|Injection Site Discomfort|inpo
+7032,7041|C1527344|Dysphonia|fndg
+7032,7041|C0019825|Dysphonia|sosy
+7145,7159|C0427055|Facial Paresis|sosy
+7258,7271|C0015397|Eye Disorders|dsyn
+7383,7407|C0151735|Injection Site Reactions|patf
+7444,7463|C0151828|injection site pain|sosy
+7628,7643|C3843156|less frequently|fndg
+7659,7668;7696,7708|C0013404|Breathing difficulties|sosy
+7659,7679|C0013404|Breathing Difficulty|sosy
+7669,7679|C1299586|Difficulty|fndg
+7696,7708|C1299586|difficulties|fndg
+7904,7911|C0013404|dyspnea|sosy
+8212,8221|C0042571|dizziness|sosy
+8212,8221|C0012833|dizziness|sosy
+8212,8221|C1963093|dizziness|fndg
+8309,8323|C0026846|muscle atrophy|patf
+8309,8323|C0541794|muscle atrophy|patf
+8422,8441|C0587081|Laboratory Findings|fndg
+8612,8615;8627,8638|C1273937|not significant|fndg
+8721,8729|C0011860|diabetes|dsyn
+8721,8729|C0011849|diabetes|dsyn
+8721,8729|C0011847|diabetes|dsyn
+8733,8742|C1299586|difficult|fndg
+8763,8792|C0438154|Electrocardiographic Findings|fndg
+8840,8847|C2674459|limited|fndg
+8848,8866|C2360800|number of patients|fndg
+8973,8982;8986,8996|C0428977|reduction heart rate|patf
+9277,9292|C0027441|nasopharyngitis|dsyn
+9294,9302|C0018681|headache|sosy
+9294,9302|C2096315|headache|fndg
+9304,9323|C0151828|injection site pain|sosy
+9325,9348|C0151735|injection site reaction|patf
+9350,9383|C0041912|upper respiratory tract infection|dsyn
+9385,9397|C0162285|eyelid edema|fndg
+9399,9412|C0005745|eyelid ptosis|anab
+9414,9423|C0037199|sinusitis|dsyn
+9429,9435|C0027497|nausea|sosy
+9429,9435|C1963179|nausea|patf
+9552,9562|C3815594|randomized|fndg
+9925,9926;9968,9974|C3840593|1 Trials|fndg
+10220,10223;10336,10341|C0743680|Eye Edema|dsyn
+10220,10233|C0015397|Eye Disorders|dsyn
+10224,10233;10329,10335|C0015423|Disorders Eyelid|dsyn
+10329,10341|C0162285|Eyelid Edema|fndg
+10438,10451|C0005745|Eyelid Ptosis|anab
+10547,10573|C0017178|Gastrointestinal Disorders|dsyn
+10656,10662|C0027497|Nausea|sosy
+10656,10662|C1963179|Nausea|patf
+10773,10782|C0012634|Disorders|dsyn
+10807,10817|C0012634|Conditions|dsyn
+10880,10899|C0151828|Injection Site Pain|sosy
+10989,11012|C0151735|Injection Site Reaction|patf
+11098,11108|C3714514|Infections|patf
+11113,11125|C0851341|Infestations|dsyn
+11207,11222|C0027441|Nasopharyngitis|dsyn
+11316,11349|C0041912|Upper Respiratory Tract Infection|dsyn
+11425,11434|C0037199|Sinusitis|dsyn
+11643,11648;11657,11665|C0018965|Blood in Urine|fndg
+11861,11869|C0018681|Headache|sosy
+11861,11869|C2096315|Headache|fndg
+12212,12220|C0018681|headache|sosy
+12212,12220|C2096315|headache|fndg
+12222,12237|C0027441|nasopharyngitis|dsyn
+12239,12258|C0151828|injection site pain|sosy
+12260,12269|C0037199|sinusitis|dsyn
+12276,12299|C0521508|injection site bruising|patf
+12305,12328|C0151735|injection site reaction|patf
+12330,12338|C0020580|numbness|fndg
+12330,12338|C0028643|numbness|sosy
+12352,12360|C0041834|erythema|dsyn
+12362,12372|C0234233|tenderness|sosy
+12374,12382|C2242996|tingling|sosy
+12384,12391|C0033774|itching|sosy
+12393,12401|C0677500|stinging|sosy
+12403,12409|C0518610|warmth|fndg
+12542,12552|C0006277|bronchitis|dsyn
+12542,12552|C0149514|bronchitis|dsyn
+12554,12563|C0021400|influenza|dsyn
+12565,12587|C0858635|pharyngolaryngeal pain|sosy
+12589,12594|C0010200|cough|sosy
+12589,12594|C1961131|cough|fndg
+12596,12614|C0011616|contact dermatitis|dsyn
+12616,12639|C0151605|injection site swelling|inpo
+12645,12670|C1096267|injection site discomfort|inpo
+12690,12706|C0005745|of eyelid ptosis|anab
+12827,12829;12845,12858|C0005745|of eyelid ptosis|anab
+12897,12905|C3714811|resolved|fndg
+12897,12905|C1514893|resolved|patf
+12976,12997|C1273957|Upper Limb Spasticity|fndg
+13187,13208|C1273957|upper limb spasticity|fndg
+13375,13396|C1273957|Upper Limb Spasticity|fndg
+13638,13648|C3714514|Infections|patf
+13653,13665|C0851341|infestations|dsyn
+13749,13764|C0027441|Nasopharyngitis|dsyn
+13860,13883|C0042029|Urinary tract infection|dsyn
+13860,13883|C0262655|Urinary tract infection|dsyn
+13971,13980|C0021400|Influenza|dsyn
+14082,14091|C3714514|Infection|patf
+14082,14091|C0009450|Infection|dsyn
+14213,14240|C0009782|connective tissue disorders|dsyn
+14304,14321|C0151786|Muscular weakness|sosy
+14415,14432|C0030196|Pain in extremity|sosy
+14526,14546|C0026858|Musculoskeletal pain|fndg
+14637,14646|C0004604|Back pain|sosy
+14637,14646|C1963071|Back pain|fndg
+14859,14867|C0018681|Headache|sosy
+14859,14867|C2096315|Headache|fndg
+14970,14979|C0042571|Dizziness|sosy
+14970,14979|C0012833|Dizziness|sosy
+14970,14979|C1963093|Dizziness|fndg
+15081,15091|C4048158|Convulsion|sosy
+15081,15091|C0036572|Convulsion|sosy
+15192,15199|C0039070|Syncope|sosy
+15303,15316|C0020580|Hypoaesthesia|fndg
+15414,15430|C0751495|Partial seizures|sosy
+15533,15542|C0012634|disorders|dsyn
+15567,15577|C0012634|conditions|dsyn
+15637,15644|C0015672|Fatigue|sosy
+15748,15756|C0004093|Asthenia|sosy
+15867,15876|C0032343|poisoning|inpo
+15970,15974|C0085639|Fall|fndg
+16192,16201|C0009938|Contusion|inpo
+16303,16329|C0017178|Gastrointestinal disorders|dsyn
+16414,16422|C0011991|Diarrhea|sosy
+16414,16422|C1963091|Diarrhea|fndg
+16525,16531|C0027497|Nausea|sosy
+16525,16531|C1963179|Nausea|patf
+16636,16648|C0009806|Constipation|sosy
+16636,16648|C1963087|Constipation|fndg
+16997,17018|C0025061|mediastinal disorders|dsyn
+17080,17085|C0010200|Cough|sosy
+17080,17085|C1961131|Cough|fndg
+17191,17199;17302,17314|C0020538|Vascular Hypertension|dsyn
+17191,17209|C0042373|Vascular disorders|dsyn
+17200,17209|C0012634|disorders|dsyn
+17302,17314|C0020538|Hypertension|dsyn
+17302,17314|C1963138|Hypertension|fndg
+17524,17534|C0011570|Depression|mobd
+17524,17534|C0011581|Depression|mobd
+17524,17534|C1579931|Depression|sosy
+17524,17534|C0344315|Depression|fndg
+17646,17670|C0151735|Injection Site Reactions|patf
+17708,17712|C0030193|pain|sosy
+17708,17712|C1962977|pain|fndg
+17714,17722|C0009938|bruising|inpo
+17714,17722|C2136686|bruising|fndg
+17724,17735|C0019080|haemorrhage|patf
+17737,17751;17761,17770|C0542008|injection site haematoma|fndg
+17737,17760|C0852625|injection site erythema|fndg
+17752,17760|C0041834|erythema|dsyn
+17761,17770|C0018944|haematoma|patf
+17761,17770|C1962958|haematoma|fndg
+18029,18038|C0011168|dysphagia|dsyn
+18045,18061|C0575081|gait disturbance|fndg
+18068,18078|C0026826|hypertonia|fndg
+18089,18111|C0581912|sensation of heaviness|fndg
+18228,18237|C0087130|uncertain|fndg
+18406,18416|C1550043|identified|fndg
+18461,18468|C0042571|vertigo|sosy
+18470,18481|C0085636|photophobia|sosy
+18483,18505|C0521839|influenza-like illness|dsyn
+18483,18505|C0392171|influenza-like illness|sosy
+18507,18517|C0026846|amyotrophy|patf
+18507,18517|C0541794|amyotrophy|patf
+18519,18526|C0085624|burning|sosy
+18527,18536|C0542538|sensation|fndg
+18538,18552|C0427055|facial paresis|sosy
+18554,18566|C0020580|hypoesthesia|fndg
+18568,18576|C0041834|erythema|dsyn
+18582,18610|C0263634|excessive granulation tissue|sosy
+19047,19054|C0012634|disease|dsyn
+19174,19191|C0949445|Cervical Dystonia|sosy
+19484,19492|C1514241|positive|fndg
+19713,19734|C1273957|Upper Limb Spasticity|fndg
+19853,19861|C1514241|positive|fndg
+20141,20149|C1514241|positive|fndg

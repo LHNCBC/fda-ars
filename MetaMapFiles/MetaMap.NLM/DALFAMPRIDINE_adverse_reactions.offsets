@@ -1,0 +1,63 @@
+87,97|C0012634|conditions|dsyn
+413,421|C0036572|Seizures|sosy
+423,434|C0002792|Anaphylaxis|patf
+423,434|C0850803|Anaphylaxis|dsyn
+440,464|C0042029|Urinary Tract Infections|dsyn
+440,464|C0262655|Urinary Tract Infections|dsyn
+591,614|C0042029|urinary tract infection|dsyn
+591,614|C0262655|urinary tract infection|dsyn
+616,624|C0917801|insomnia|sosy
+616,624|C1963237|insomnia|fndg
+626,635|C0012833|dizziness|sosy
+626,635|C0042571|dizziness|sosy
+626,635|C1963093|dizziness|fndg
+637,645|C0018681|headache|sosy
+637,645|C2096315|headache|fndg
+647,653|C0027497|nausea|sosy
+647,653|C1963179|nausea|patf
+655,663|C0004093|asthenia|sosy
+665,674|C0004604|back pain|sosy
+665,674|C1963071|back pain|fndg
+676,692|C0575090|balance disorder|sosy
+694,720|C0856120|multiple sclerosis relapse|dsyn
+722,733|C0030554|paresthesia|dsyn
+722,733|C2242996|paresthesia|sosy
+735,750|C0027441|nasopharyngitis|dsyn
+752,764|C0009806|constipation|sosy
+752,764|C1963087|constipation|fndg
+766,775|C0013395|dyspepsia|sosy
+781,803|C0858635|pharyngolaryngeal pain|sosy
+1209,1224|C1444662|discontinuation|fndg
+1327,1342|C1444662|discontinuation|fndg
+1402,1417|C1444662|discontinuation|fndg
+1459,1467|C0018681|headache|sosy
+1459,1467|C2096315|headache|fndg
+1495,1511|C0575090|balance disorder|sosy
+1539,1548|C0012833|dizziness|sosy
+1539,1548|C0042571|dizziness|sosy
+1539,1548|C1963093|dizziness|fndg
+1580,1597|C0009676|confusional state|mobd
+2098,2121|C0042029|Urinary tract infection|dsyn
+2098,2121|C0262655|Urinary tract infection|dsyn
+2207,2215|C0917801|Insomnia|sosy
+2207,2215|C1963237|Insomnia|fndg
+2316,2325|C0012833|Dizziness|sosy
+2316,2325|C0042571|Dizziness|sosy
+2316,2325|C1963093|Dizziness|fndg
+2425,2433|C0018681|Headache|sosy
+2425,2433|C2096315|Headache|fndg
+2534,2540|C0027497|Nausea|sosy
+2534,2540|C1963179|Nausea|patf
+2643,2651|C0004093|Asthenia|sosy
+2752,2761|C0004604|Back pain|sosy
+2752,2761|C1963071|Back pain|fndg
+2861,2877|C0575090|Balance disorder|sosy
+2970,2996|C0856120|Multiple sclerosis relapse|dsyn
+3079,3090|C0030554|Paresthesia|dsyn
+3079,3090|C2242996|Paresthesia|sosy
+3188,3203|C0027441|Nasopharyngitis|dsyn
+3297,3309|C0009806|Constipation|sosy
+3297,3309|C1963087|Constipation|fndg
+3406,3415|C0013395|Dyspepsia|sosy
+3515,3537|C0858635|Pharyngolaryngeal pain|sosy
+4088,4096|C0036572|seizures|sosy

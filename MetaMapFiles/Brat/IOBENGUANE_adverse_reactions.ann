@@ -1,0 +1,124 @@
+T1	AdverseReaction 162 171	dizziness
+T2	AdverseReaction 173 177	rash
+T3	AdverseReaction 179 187	pruritis
+T4	AdverseReaction 189 197	flushing
+T5	AdverseReaction 199 207	headache
+T6	AdverseReaction 213 238	injection site hemorrhage
+T7	AdverseReaction 1317 1326	dizziness
+T8	AdverseReaction 1328 1332	rash
+T9	AdverseReaction 1334 1342	pruritus
+T10	AdverseReaction 1344 1352	flushing
+T11	AdverseReaction 1356 1381	injection site hemorrhage
+T12	Severity 1193 1197	mild
+T13	Severity 1201 1209	moderate
+T14	AdverseReaction 1577 1591;1600 1608	injection site problems
+T15	AdverseReaction 1577 1591;1617 1625	injection site hematoma
+T16	AdverseReaction 1577 1591;1630 1638	injection site bruising
+T17	AdverseReaction 1677 1685	flushing
+T18	AdverseReaction 1697 1705	headache
+T19	AdverseReaction 2038 2064	Hypersensitivity reactions
+T20	AdverseReaction 46 72	hypersensitivity reactions
+T21	Severity 38 45	Serious
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7 Effect:E12 Effect2:E13
+E8	AdverseReaction:T8 Effect:E13 Effect2:E12
+E9	AdverseReaction:T9 Effect:E13 Effect2:E12
+E10	AdverseReaction:T10 Effect:E12 Effect2:E13
+E11	AdverseReaction:T11 Effect:E13 Effect2:E12
+E12	Severity:T12
+E13	Severity:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20 Effect:E21
+E21	Severity:T21
+A1	CUI E1 C0012833
+A2	UMLS-Preferred-Name E1 Dizziness
+A3	MEDDRA-PT E1 Dizziness
+A4	MEDDRA-PT-ID E1 10013573
+A5	CUI E2 C0015230
+A6	UMLS-Preferred-Name E2 Exanthema
+A7	MEDDRA-PT E2 Rash
+A8	MEDDRA-PT-ID E2 10037844
+A9	CUI E3 C0033774
+A10	UMLS-Preferred-Name E3 Pruritus
+A11	MEDDRA-PT E3 Pruritus
+A12	MEDDRA-PT-ID E3 10037087
+A13	CUI E4 C0016382
+A14	UMLS-Preferred-Name E4 Flushing
+A15	MEDDRA-PT E4 Flushing
+A16	MEDDRA-PT-ID E4 10016825
+A17	CUI E5 C0018681
+A18	UMLS-Preferred-Name E5 Headache
+A19	MEDDRA-PT E5 Headache
+A20	MEDDRA-PT-ID E5 10019211
+A21	CUI E6 C0151698
+A22	UMLS-Preferred-Name E6 Injection site hemorrhage
+A23	MEDDRA-PT E6 Injection site haemorrhage
+A24	MEDDRA-PT-ID E6 10022067
+A25	LLT E6 Injection site hemorrhage
+A26	LLT-ID E6 10022068
+A27	CUI E7 C0012833
+A28	UMLS-Preferred-Name E7 Dizziness
+A29	MEDDRA-PT E7 Dizziness
+A30	MEDDRA-PT-ID E7 10013573
+A31	CUI E8 C0015230
+A32	UMLS-Preferred-Name E8 Exanthema
+A33	MEDDRA-PT E8 Rash
+A34	MEDDRA-PT-ID E8 10037844
+A35	CUI E9 C0033774
+A36	UMLS-Preferred-Name E9 Pruritus
+A37	MEDDRA-PT E9 Pruritus
+A38	MEDDRA-PT-ID E9 10037087
+A39	CUI E10 C0016382
+A40	UMLS-Preferred-Name E10 Flushing
+A41	MEDDRA-PT E10 Flushing
+A42	MEDDRA-PT-ID E10 10016825
+A43	CUI E11 C0151698
+A44	UMLS-Preferred-Name E11 Injection site hemorrhage
+A45	MEDDRA-PT E11 Injection site haemorrhage
+A46	MEDDRA-PT-ID E11 10022067
+A47	LLT E11 Injection site hemorrhage
+A48	LLT-ID E11 10022068
+A49	CUI E14 C0151735
+A50	UMLS-Preferred-Name E14 Injection site reaction
+A51	MEDDRA-PT E14 Injection site reaction
+A52	MEDDRA-PT-ID E14 10022095
+A53	CUI E15 C0542008
+A54	UMLS-Preferred-Name E15 Injection site haematoma
+A55	MEDDRA-PT E15 Injection site haematoma
+A56	MEDDRA-PT-ID E15 10022066
+A57	LLT E15 Injection site hematoma
+A58	LLT-ID E15 10055371
+A59	CUI E16 C0521508
+A60	UMLS-Preferred-Name E16 Injection site bruising
+A61	MEDDRA-PT E16 Injection site bruising
+A62	MEDDRA-PT-ID E16 10022052
+A63	CUI E17 C0016382
+A64	UMLS-Preferred-Name E17 Flushing
+A65	MEDDRA-PT E17 Flushing
+A66	MEDDRA-PT-ID E17 10016825
+A67	CUI E18 C0018681
+A68	UMLS-Preferred-Name E18 Headache
+A69	MEDDRA-PT E18 Headache
+A70	MEDDRA-PT-ID E18 10019211
+A71	CUI E19 C0020517
+A72	UMLS-Preferred-Name E19 Hypersensitivity
+A73	MEDDRA-PT E19 Hypersensitivity
+A74	MEDDRA-PT-ID E19 10020751
+A75	LLT E19 Hypersensitivity reaction
+A76	LLT-ID E19 10020756
+A77	CUI E20 C0020517
+A78	UMLS-Preferred-Name E20 Hypersensitivity
+A79	MEDDRA-PT E20 Hypersensitivity
+A80	MEDDRA-PT-ID E20 10020751
+A81	LLT E20 Hypersensitivity reaction
+A82	LLT-ID E20 10020756

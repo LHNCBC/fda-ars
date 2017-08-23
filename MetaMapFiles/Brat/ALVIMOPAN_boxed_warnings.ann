@@ -1,0 +1,44 @@
+T1	AdverseReaction 48 69	MYOCARDIAL INFARCTION
+T2	Factor 40 44	RISK
+T3	AdverseReaction 155 176	MYOCARDIAL INFARCTION
+T4	Factor 147 151	RISK
+T5	AdverseReaction 270 291	myocardial infarction
+T6	AdverseReaction 509 530	myocardial infarction
+T8	Negation 488 490	no
+T11	AdverseReaction 972 993	MYOCARDIAL INFARCTION
+T12	Factor 964 968	RISK
+T13	AdverseReaction 1149 1170	myocardial infarction
+E1	AdverseReaction:T1 Hypothetical:E2
+E2	Factor:T2
+E3	AdverseReaction:T3 Hypothetical:E4
+E4	Factor:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6 Negated:E8
+E8	Negation:T8
+E11	AdverseReaction:T11 Hypothetical:E12
+E12	Factor:T12
+E13	AdverseReaction:T13
+A1	CUI E1 C0027051
+A2	UMLS-Preferred-Name E1 Myocardial Infarction
+A3	MEDDRA-PT E1 Myocardial infarction
+A4	MEDDRA-PT-ID E1 10028596
+A5	CUI E3 C0027051
+A6	UMLS-Preferred-Name E3 Myocardial Infarction
+A7	MEDDRA-PT E3 Myocardial infarction
+A8	MEDDRA-PT-ID E3 10028596
+A9	CUI E5 C0027051
+A10	UMLS-Preferred-Name E5 Myocardial Infarction
+A11	MEDDRA-PT E5 Myocardial infarction
+A12	MEDDRA-PT-ID E5 10028596
+A13	CUI E6 C0027051
+A14	UMLS-Preferred-Name E6 Myocardial Infarction
+A15	MEDDRA-PT E6 Myocardial infarction
+A16	MEDDRA-PT-ID E6 10028596
+A17	CUI E11 C0027051
+A18	UMLS-Preferred-Name E11 Myocardial Infarction
+A19	MEDDRA-PT E11 Myocardial infarction
+A20	MEDDRA-PT-ID E11 10028596
+A21	CUI E13 C0027051
+A22	UMLS-Preferred-Name E13 Myocardial Infarction
+A23	MEDDRA-PT E13 Myocardial infarction
+A24	MEDDRA-PT-ID E13 10028596

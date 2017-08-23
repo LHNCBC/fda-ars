@@ -1,0 +1,216 @@
+81,87|C1306577|deaths|fndg
+203,213|C3714514|Infections|patf
+237,242|C1705232|fatal|fndg
+243,253|C3714514|infections|patf
+417,424|C1363945|therapy|fndg
+524,566|C0023524|Progressive Multifocal Leukoencephalopathy|dsyn
+599,608|C0746890|new-onset|fndg
+612,625|C1457868|deteriorating|fndg
+639,644|C0311392|signs|fndg
+649,657|C1457887|symptoms|sosy
+682,685|C0023524|PML|dsyn
+719,722|C0023524|PML|dsyn
+746,761|C1444662|discontinuation|fndg
+829,855|C0020517|Hypersensitivity Reactions|patf
+867,878|C0002792|Anaphylaxis|patf
+867,878|C0850803|Anaphylaxis|dsyn
+892,897|C1705232|fatal|fndg
+984,992|C4082130|prepared|fndg
+1003,1014|C0002792|anaphylaxis|patf
+1003,1014|C0850803|anaphylaxis|dsyn
+1137,1147|C0011570|Depression|mobd
+1137,1147|C0011581|Depression|mobd
+1137,1147|C1579931|Depression|sosy
+1137,1147|C0344315|Depression|fndg
+1149,1159|C0011570|Depression|mobd
+1149,1159|C0011581|Depression|mobd
+1149,1159|C1579931|Depression|sosy
+1149,1159|C0344315|Depression|fndg
+1313,1322|C1457868|worsening|fndg
+1323,1333|C0011570|depression|mobd
+1323,1333|C0011581|depression|mobd
+1323,1333|C1579931|depression|sosy
+1323,1333|C0344315|depression|fndg
+1335,1352|C0424000|suicidal thoughts|fndg
+1362,1374|C0085633|mood changes|mobd
+1526,1532|C1306577|deaths|fndg
+1685,1691|C1306577|deaths|fndg
+1764,1765|C3838680|3|fndg
+1821,1827|C1306577|deaths|fndg
+1937,1943|C0087136|single|fndg
+1944,1958|C0007465|cause of death|fndg
+1993,2002|C3714514|infection|patf
+1993,2002|C0009450|infection|dsyn
+2004,2026|C0007222|cardiovascular disease|dsyn
+2032,2039|C0038661|suicide|fndg
+2060,2070|C3714514|Infections|patf
+2098,2103|C1705232|fatal|fndg
+2104,2114|C3714514|infections|patf
+2334,2341|C1363945|therapy|fndg
+2346,2363|C0151317|chronic infection|dsyn
+2381,2388|C1363945|therapy|fndg
+2426,2433|C1363945|therapy|fndg
+2629,2639|C3714514|infections|patf
+2743,2762|C0239998|frequent infections|fndg
+2805,2838|C0041912|upper respiratory tract infection|dsyn
+2840,2863|C0042029|urinary tract infection|dsyn
+2840,2863|C0262655|urinary tract infection|dsyn
+2865,2880|C0027441|nasopharyngitis|dsyn
+2882,2891|C0037199|sinusitis|dsyn
+2893,2903|C0006277|bronchitis|dsyn
+2893,2903|C0149514|bronchitis|dsyn
+2909,2918|C0021400|influenza|dsyn
+2928,2938|C3714514|infections|patf
+3045,3053;3062,3072|C0239998|frequent infections|fndg
+3082,3091|C0032285|pneumonia|dsyn
+3093,3116|C0042029|urinary tract infection|dsyn
+3093,3116|C0262655|urinary tract infection|dsyn
+3118,3128|C0007642|cellulitis|patf
+3118,3128|C2025995|cellulitis|fndg
+3134,3144|C0006277|bronchitis|dsyn
+3134,3144|C0149514|bronchitis|dsyn
+3146,3156|C3714514|Infections|patf
+3168,3183|C1444662|discontinuation|fndg
+3285,3295|C3714514|Infections|patf
+3309,3314|C1306577|death|fndg
+3333,3334|C3838679|4|fndg
+3432,3474|C0023524|Progressive Multifocal Leukoencephalopathy|dsyn
+3476,3479|C0023524|PML|dsyn
+3516,3519|C0023524|PML|dsyn
+3533,3554|C0521654|neurological deficits|fndg
+3566,3571|C1705232|fatal|fndg
+3615,3618|C0024141|SLE|dsyn
+3669,3681|C0455624|Risk factors|fndg
+3686,3689|C0023524|PML|dsyn
+3745,3755|C0684336|impairment|patf
+3789,3798;3802,3805|C0023524|diagnosis PML|dsyn
+3837,3846|C0746890|new-onset|fndg
+3850,3863|C1457868|deteriorating|fndg
+3877,3882|C0311392|signs|fndg
+3887,3895|C1457887|symptoms|sosy
+3973,3982|C1444656|indicated|fndg
+4011,4014|C0023524|PML|dsyn
+4092,4102|C0006826|Malignancy|neop
+4092,4102|C1306459|Malignancy|neop
+4168,4180|C0006826|malignancies|neop
+4230,4242|C0006826|malignancies|neop
+4254,4279|C0699893|non-melanoma skin cancers|neop
+4409,4421|C0006826|malignancies|neop
+4433,4458|C0699893|non-melanoma skin cancers|neop
+4483,4484|C3838680|3|fndg
+4650,4662|C0006826|malignancies|neop
+4675,4701|C0020517|Hypersensitivity Reactions|patf
+4713,4724|C0002792|Anaphylaxis|patf
+4713,4724|C0850803|Anaphylaxis|dsyn
+4730,4762|C0413234|Acute hypersensitivity reactions|dsyn
+4774,4785|C0002792|anaphylaxis|patf
+4774,4785|C0850803|anaphylaxis|dsyn
+4790,4795|C1306577|death|fndg
+4986,4990|C0015230|rash|sosy
+4992,4998|C0027497|nausea|sosy
+4992,4998|C1963179|nausea|patf
+5000,5007|C0015672|fatigue|sosy
+5009,5016|C0231528|myalgia|sosy
+5018,5026|C0018681|headache|sosy
+5018,5026|C2096315|headache|fndg
+5032,5044|C0542571|facial edema|patf
+5032,5044|C0151602|facial edema|fndg
+5137,5153|C0020517|Hypersensitivity|patf
+5137,5153|C0520946|Hypersensitivity|fndg
+5262,5269|C2674459|Limited|fndg
+5304,5323;5329,5338|C0455609|history of multiple allergies|fndg
+5354,5370|C0020517|hypersensitivity|patf
+5354,5370|C0520946|hypersensitivity|fndg
+5432,5458|C0020517|hypersensitivity reactions|patf
+5611,5622|C0002792|Anaphylaxis|patf
+5611,5622|C0850803|Anaphylaxis|dsyn
+5695,5696|C3838680|3|fndg
+5757,5768|C0020649|hypotension|fndg
+5757,5768|C3163620|hypotension|fndg
+5770,5780|C0002994|angioedema|patf
+5782,5791|C0042109|urticaria|dsyn
+5782,5791|C2186740|urticaria|fndg
+5801,5805|C0015230|rash|sosy
+5807,5815|C0033774|pruritus|sosy
+5821,5828|C0013404|dyspnea|sosy
+5848,5853|C0311392|signs|fndg
+5858,5866|C1457887|symptoms|sosy
+5942,5960|C2368034|infusion reactions|patf
+6098,6123|C1817976|hypersensitivity response|patf
+6240,6266|C0020517|hypersensitivity reactions|patf
+6328,6336|C4082130|prepared|fndg
+6347,6358|C0002792|anaphylaxis|patf
+6347,6358|C0850803|anaphylaxis|dsyn
+6431,6443|C1444662|discontinued|fndg
+6645,6650|C0311392|signs|fndg
+6655,6663|C1457887|symptoms|sosy
+6670,6701|C0413234|acute hypersensitivity reaction|dsyn
+6738,6750|C0496675|medical care|fndg
+6787,6805|C2368034|Infusion Reactions|patf
+7054,7072|C2368034|infusion reactions|patf
+7084,7110|C0020517|hypersensitivity reactions|patf
+7217,7228|C0428977|bradycardia|patf
+7217,7228|C3812171|bradycardia|fndg
+7230,7237|C0231528|myalgia|sosy
+7239,7247|C0018681|headache|sosy
+7239,7247|C2096315|headache|fndg
+7249,7253|C0015230|rash|sosy
+7255,7264|C0042109|urticaria|dsyn
+7255,7264|C2186740|urticaria|fndg
+7270,7281|C0020649|hypotension|fndg
+7270,7281|C3163620|hypotension|fndg
+7299,7317|C2368034|infusion reactions|patf
+7361,7369|C0018681|headache|sosy
+7361,7369|C2096315|headache|fndg
+7371,7377|C0027497|nausea|sosy
+7371,7377|C1963179|nausea|patf
+7417,7422|C0311392|signs|fndg
+7427,7435|C1457887|symptoms|sosy
+7668,7685|C2368034|infusion reaction|patf
+7802,7820|C2368034|infusion reactions|patf
+7917,7925|C4082130|prepared|fndg
+7936,7954|C2368034|infusion reactions|patf
+8030,8047|C2368034|infusion reaction|patf
+8101,8127|C0020517|hypersensitivity reactions|patf
+8150,8168|C2368034|infusion reactions|patf
+8211,8221|C0011570|Depression|mobd
+8211,8221|C0011581|Depression|mobd
+8211,8221|C1579931|Depression|sosy
+8211,8221|C0344315|Depression|fndg
+8356,8363|C0445223|related|fndg
+8356,8363|C0445223|related|fndg
+8377,8387|C0011570|depression|mobd
+8377,8387|C0011581|depression|mobd
+8377,8387|C1579931|depression|sosy
+8377,8387|C0344315|depression|fndg
+8388,8395|C0445223|related|fndg
+8388,8395|C0445223|related|fndg
+8437,8445|C0917801|insomnia|sosy
+8437,8445|C1963237|insomnia|fndg
+8484,8491|C0003467|anxiety|mobd
+8484,8491|C0003469|anxiety|mobd
+8484,8491|C0860603|anxiety|fndg
+8704,8714|C0011570|depression|mobd
+8704,8714|C0011581|depression|mobd
+8704,8714|C1579931|depression|sosy
+8704,8714|C0344315|depression|fndg
+8829,8837|C0038661|suicides|fndg
+8937,8947|C0011570|depression|mobd
+8937,8947|C0011581|depression|mobd
+8937,8947|C1579931|depression|sosy
+8937,8947|C0344315|depression|fndg
+8951,8968|C1760428|suicidal behavior|fndg
+8975,8996|C0455503|history of depression|fndg
+9006,9035|C3841614|serious psychiatric disorders|fndg
+9295,9304|C1457868|worsening|fndg
+9305,9315|C0011570|depression|mobd
+9305,9315|C0011581|depression|mobd
+9305,9315|C1579931|depression|sosy
+9305,9315|C0344315|depression|fndg
+9317,9334|C0424000|suicidal thoughts|fndg
+9345,9357|C0085633|mood changes|mobd
+9545,9554;9571,9580|C0442886|secondary infection|dsyn
+9545,9567|C0948191|secondary transmission|patf
+9555,9567;9571,9580|C0242781|transmission infection|patf
+9765,9773|C1704632|response|fndg
+9919,9930|C3811910|combination|fndg

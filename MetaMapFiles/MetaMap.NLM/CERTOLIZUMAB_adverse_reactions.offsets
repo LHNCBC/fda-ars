@@ -1,0 +1,256 @@
+114,147|C0041912|upper respiratory tract infection|dsyn
+149,153|C0015230|rash|sosy
+159,182|C0042029|urinary tract infection|dsyn
+159,182|C0262655|urinary tract infection|dsyn
+419,429|C3714514|Infections|patf
+476,488|C0006826|Malignancies|neop
+535,548|C0018801|Heart Failure|dsyn
+535,548|C0018802|Heart Failure|dsyn
+659,669|C2911690|controlled|fndg
+670,680|C0012634|conditions|dsyn
+1036,1064|C0041912|upper respiratory infections|dsyn
+1072,1076|C0015230|rash|sosy
+1086,1110|C0042029|urinary tract infections|dsyn
+1086,1110|C0262655|urinary tract infections|dsyn
+1168,1183|C1444662|Discontinuation|fndg
+1269,1284|C0010346|Crohn's disease|dsyn
+1289,1301|C1444662|discontinued|fndg
+1302,1311;1319,1336|C0879626|treatment adverse reactions|patf
+1344,1354|C2911690|controlled|fndg
+1459,1474|C1444662|discontinuation|fndg
+1557,1571|C0000737|abdominal pain|sosy
+1601,1609|C0011991|diarrhea|sosy
+1601,1609|C1963091|diarrhea|fndg
+1641,1663|C0021843|intestinal obstruction|dsyn
+1727,1747|C0003873|rheumatoid arthritis|dsyn
+1752,1764|C1444662|discontinued|fndg
+1765,1774;1782,1799|C0879626|treatment adverse reactions|patf
+1807,1817|C2911690|controlled|fndg
+1920,1935|C1444662|discontinuation|fndg
+1951,1974|C0041296|tuberculosis infections|dsyn
+1987,1994|C0015967|pyrexia|fndg
+1996,2005|C0042109|urticaria|dsyn
+1996,2005|C2186740|urticaria|fndg
+2007,2016|C0032285|pneumonia|dsyn
+2022,2026|C0015230|rash|sosy
+2067,2082|C0010346|Crohn's Disease|dsyn
+2199,2214|C0010346|Crohn's disease|dsyn
+2244,2254|C2911690|controlled|fndg
+2293,2308|C0010346|Crohn's disease|dsyn
+2400,2410|C3815594|randomized|fndg
+2495,2505|C2911690|controlled|fndg
+2804,2814|C2911690|controlled|fndg
+3064,3074|C2911690|controlled|fndg
+3109,3137|C0041912|upper respiratory infections|dsyn
+3144,3159|C0027441|nasopharyngitis|dsyn
+3161,3171|C0023067|laryngitis|dsyn
+3161,3171|C0001327|laryngitis|dsyn
+3173,3188|C0042769|viral infection|dsyn
+3261,3285|C0042029|urinary tract infections|dsyn
+3261,3285|C0262655|urinary tract infections|dsyn
+3292,3309|C0010692|bladder infection|dsyn
+3292,3309|C0600041|bladder infection|dsyn
+3311,3322|C0004659|bacteriuria|dsyn
+3324,3332|C0010692|cystitis|dsyn
+3324,3332|C0600041|cystitis|dsyn
+3324,3332|C1963088|cystitis|fndg
+3410,3420|C0003862|arthralgia|sosy
+3558,3573|C0010346|Crohn's disease|dsyn
+3655,3665|C2911690|controlled|fndg
+3694,3709|C0010346|Crohn's disease|dsyn
+3720,3728|C0012634|diseases|dsyn
+3828,3854|C0024228|lymphatic system disorders|dsyn
+3857,3863|C0002871|Anemia|dsyn
+3865,3875|C0023530|leukopenia|dsyn
+3865,3875|C0750394|leukopenia|fndg
+3877,3892|C0497156|lymphadenopathy|fndg
+3894,3906|C0030312|pancytopenia|dsyn
+3912,3925|C0398623|thrombophilia|dsyn
+3933,3950|C0018799|Cardiac disorders|dsyn
+3953,3968|C0002962|Angina pectoris|fndg
+3970,3981|C0003811|arrhythmias|fndg
+3983,4002|C0004238|atrial fibrillation|dsyn
+3983,4002|C1963067|atrial fibrillation|fndg
+4004,4019|C0018801|cardiac failure|dsyn
+4004,4019|C0018802|cardiac failure|dsyn
+4021,4047|C0152105|hypertensive heart disease|dsyn
+4049,4070|C0027051|myocardial infarction|dsyn
+4072,4091|C0010054|myocardial ischemia|dsyn
+4072,4091|C0151744|myocardial ischemia|dsyn
+4093,4113|C0031039|pericardial effusion|dsyn
+4115,4127|C0031046|pericarditis|dsyn
+4115,4127|C1963211|pericarditis|fndg
+4129,4135|C0038454|stroke|dsyn
+4140,4165|C0917805|transient ischemic attack|dsyn
+4140,4165|C0007787|transient ischemic attack|dsyn
+4173,4186|C0015397|Eye disorders|dsyn
+4189,4203|C0029134|Optic neuritis|dsyn
+4205,4223|C0035317|retinal hemorrhage|patf
+4229,4236|C0042164|uveitis|dsyn
+4229,4236|C1963266|uveitis|fndg
+4252,4261|C0012634|disorders|dsyn
+4286,4296|C0012634|conditions|dsyn
+4299,4307|C0019080|Bleeding|patf
+4312,4336|C0151735|injection site reactions|patf
+4344,4367|C0267792|Hepatobiliary disorders|dsyn
+4371,4393|C0235996|Elevated liver enzymes|fndg
+4398,4407|C0019159|hepatitis|dsyn
+4398,4407|C0019158|hepatitis|dsyn
+4415,4438|C0021053|Immune system disorders|dsyn
+4442,4458|C0263504|Alopecia totalis|dsyn
+4490,4497|C0003467|Anxiety|mobd
+4490,4497|C0003469|Anxiety|mobd
+4490,4497|C0860603|Anxiety|fndg
+4499,4515|C0005586|bipolar disorder|mobd
+4521,4536|C0038663|suicide attempt|fndg
+4554,4571|C0042075|urinary disorders|dsyn
+4574,4592|C0027726|Nephrotic syndrome|dsyn
+4597,4610|C0035078|renal failure|dsyn
+4597,4610|C1963154|renal failure|patf
+4618,4637|C1335757|Reproductive system|fndg
+4642,4658|C0006145|breast disorders|dsyn
+4661,4679|C0025345|Menstrual disorder|patf
+4696,4708;4716,4725|C0549584|subcutaneous disorders|dsyn
+4716,4725|C0012634|disorders|dsyn
+4728,4738|C0011603|Dermatitis|dsyn
+4740,4756|C0014743|erythema nodosum|dsyn
+4762,4771|C0042109|urticaria|dsyn
+4762,4771|C2186740|urticaria|fndg
+4779,4797|C0042373|Vascular disorders|dsyn
+4800,4816|C0040046|Thrombophlebitis|dsyn
+4818,4828|C0042384|vasculitis|dsyn
+4818,4828|C1963274|vasculitis|fndg
+4862,4882|C0003873|Rheumatoid Arthritis|dsyn
+5383,5392|C0683278|suffering|mobd
+5405,5425|C0003873|rheumatoid arthritis|dsyn
+5884,5904|C0003873|Rheumatoid Arthritis|dsyn
+6059,6092|C0041912|Upper respiratory tract infection|dsyn
+6168,6176|C0018681|Headache|sosy
+6168,6176|C2096315|Headache|fndg
+6277,6289|C0020538|Hypertension|dsyn
+6277,6289|C1963138|Hypertension|fndg
+6386,6401|C0027441|Nasopharyngitis|dsyn
+6495,6504|C0004604|Back pain|sosy
+6495,6504|C1963071|Back pain|fndg
+6604,6611|C0015967|Pyrexia|fndg
+6713,6724|C0031350|Pharyngitis|dsyn
+6822,6826|C0015230|Rash|sosy
+6931,6947|C0149514|Acute bronchitis|dsyn
+7040,7047|C0015672|Fatigue|sosy
+7157,7169|C0857121|Hypertensive|fndg
+7345,7368|C0455527|history of hypertension|fndg
+7538,7558|C0003873|rheumatoid arthritis|dsyn
+7826,7841|C0010346|Crohn's disease|dsyn
+7860,7879|C0003872|Psoriatic Arthritis|dsyn
+7946,7965|C0003872|psoriatic arthritis|dsyn
+8040,8043|C0003872|PsA|dsyn
+8172,8194|C0038013|Ankylosing Spondylitis|dsyn
+8261,8284|C3203547|axial spondyloarthritis|dsyn
+8310,8332|C0038013|ankylosing spondylitis|dsyn
+8512,8522|C3714514|Infections|patf
+8548,8558|C3714514|infections|patf
+8584,8599|C0010346|Crohn's disease|dsyn
+8608,8611;8619,8626|C0332154|for treated|fndg
+8644,8647;8656,8663|C0332154|for treated|fndg
+8678,8688|C3714514|infections|patf
+8712,8740|C0041912|upper respiratory infections|dsyn
+8801,8811|C3714514|infections|patf
+8823,8833|C2911690|controlled|fndg
+8910,8913;8922,8929|C0332154|for treated|fndg
+8948,8958|C3714514|infections|patf
+8991,9007|C0042769|viral infections|dsyn
+9009,9018|C0032285|pneumonia|dsyn
+9024,9038|C0034186|pyelonephritis|dsyn
+9074,9084|C3714514|infections|patf
+9088,9098|C2911690|controlled|fndg
+9119,9139|C0003873|rheumatoid arthritis|dsyn
+9258,9268|C3714514|infections|patf
+9292,9326|C0041912|upper respiratory tract infections|dsyn
+9292,9326|C0581381|upper respiratory tract infections|dsyn
+9328,9345|C0019372|herpes infections|dsyn
+9347,9371|C0042029|urinary tract infections|dsyn
+9347,9371|C0262655|urinary tract infections|dsyn
+9377,9411|C0149725|lower respiratory tract infections|dsyn
+9431,9451|C0003873|rheumatoid arthritis|dsyn
+9673,9678;9690,9700|C2015938|Rates infections|fndg
+9849,9859|C3714514|infections|patf
+9869,9881|C0041296|tuberculosis|dsyn
+9883,9892|C0032285|pneumonia|dsyn
+9894,9904|C0007642|cellulitis|patf
+9894,9904|C2025995|cellulitis|fndg
+9910,9924|C0034186|pyelonephritis|dsyn
+9959,9968|C0009450|infection|dsyn
+10145,10157|C0041296|Tuberculosis|dsyn
+10162,10186|C0029118|Opportunistic Infections|dsyn
+10324,10336|C0041296|tuberculosis|dsyn
+10552,10564|C0041327|pulmonary TB|dsyn
+10774,10779|C1705232|fatal|fndg
+10801,10825|C0029118|opportunistic infections|dsyn
+10930,10942|C0006826|Malignancies|neop
+11012,11024|C0006826|malignancies|neop
+11037,11040;11048,11055|C0332154|for treated|fndg
+11115,11127|C0006826|malignancies|neop
+11278,11291|C0018801|Heart Failure|dsyn
+11278,11291|C0018802|Heart Failure|dsyn
+11337,11357|C0003873|rheumatoid arthritis|dsyn
+11383,11392|C1457868|worsening|fndg
+11393,11406|C0018801|heart failure|dsyn
+11393,11406|C0018802|heart failure|dsyn
+11426,11429;11437,11444|C0332154|for treated|fndg
+11653,11668|C0010346|Crohn's disease|dsyn
+11793,11801|C1514241|positive|fndg
+11846,11861|C0010346|Crohn's disease|dsyn
+11901,11909|C1457887|symptoms|sosy
+11915,11934|C0919715|lupus-like syndrome|dsyn
+12138,12152|C3540840|clinical signs|fndg
+12169,12188|C0919715|lupus-like syndrome|dsyn
+12258,12277|C0004364|autoimmune diseases|dsyn
+12944,12959|C0010346|Crohn's disease|dsyn
+13093,13107|C0000737|abdominal pain|sosy
+13109,13119|C0003862|arthralgia|sosy
+13121,13137|C0085649|edema peripheral|fndg
+13139,13155|C0014743|erythema nodosum|dsyn
+13157,13180|C0852625|injection site erythema|fndg
+13182,13201|C0151828|injection site pain|sosy
+13203,13220|C0030196|pain in extremity|sosy
+13226,13259|C0041912|upper respiratory tract infection|dsyn
+13403,13423|C0003873|rheumatoid arthritis|dsyn
+14291,14299|C1704632|response|fndg
+14550,14558|C1704632|response|fndg
+14619,14627|C1704632|response|fndg
+14900,14904|C0456984|test|fndg
+14905,14912|C2825142|results|fndg
+15344,15351|C0012634|disease|dsyn
+15516,15542|C0020517|Hypersensitivity Reactions|patf
+15565,15573|C1457887|symptoms|sosy
+15604,15630|C0020517|hypersensitivity reactions|patf
+15702,15712|C0002994|angioedema|patf
+15714,15733|C0011615|dermatitis allergic|dsyn
+15735,15744|C0012833|dizziness|sosy
+15735,15744|C0042571|dizziness|sosy
+15735,15744|C1963093|dizziness|fndg
+15757,15764|C0013404|dyspnea|sosy
+15766,15775|C0600142|hot flush|sosy
+15777,15788|C0020649|hypotension|fndg
+15777,15788|C3163620|hypotension|fndg
+15790,15814|C0151735|injection site reactions|patf
+15816,15823|C0231218|malaise|sosy
+15825,15832|C0015967|pyrexia|fndg
+15834,15838|C0015230|rash|sosy
+15840,15854|C0036830|serum sickness|dsyn
+15840,15854|C1963234|serum sickness|fndg
+15861,15870;15872,15879|C0042420|vasovagal syncope|dsyn
+16004,16014|C1550043|identified|fndg
+16121,16130|C0087130|uncertain|fndg
+16257,16274|C0042373|Vascular disorder|dsyn
+16276,16295|C0264939|systemic vasculitis|fndg
+16305,16315|C1550043|identified|fndg
+16409,16433|C0038325|Stevens-Johnson syndrome|dsyn
+16435,16461|C0014518|toxic epidermal necrolysis|dsyn
+16463,16482|C0014742|erythema multiforme|dsyn
+16495,16504|C1457868|worsening|fndg
+16505,16514|C0033860|psoriasis|dsyn
+16577,16587|C1550043|identified|fndg
+16634,16657|C0021053|Immune System Disorders|dsyn
+16659,16670|C0036202|sarcoidosis|dsyn
+16659,16670|C2697310|sarcoidosis|fndg

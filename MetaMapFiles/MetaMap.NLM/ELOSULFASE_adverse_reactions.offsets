@@ -1,0 +1,34 @@
+86,96|C0012634|conditions|dsyn
+392,403|C0002792|Anaphylaxis|patf
+392,403|C0850803|Anaphylaxis|dsyn
+408,434|C0020517|hypersensitivity reactions|patf
+769,782|C1444662|discontinuing|fndg
+1021,1028|C0015967|pyrexia|fndg
+1030,1038|C0042963|vomiting|sosy
+1030,1038|C1963281|vomiting|patf
+1040,1048|C0018681|headache|sosy
+1040,1048|C2096315|headache|fndg
+1050,1056|C0027497|nausea|sosy
+1050,1056|C1963179|nausea|patf
+1058,1072|C0000737|abdominal pain|sosy
+1074,1080|C0085593|chills|sosy
+1086,1093|C0015672|fatigue|sosy
+1290,1300|C3815594|randomized|fndg
+1396,1403|C0086651|MPS IVA|dsyn
+1626,1636|C3815594|randomized|fndg
+2431,2438|C0015967|Pyrexia|fndg
+2485,2493|C0042963|Vomiting|sosy
+2485,2493|C1963281|Vomiting|patf
+2539,2547|C0018681|Headache|sosy
+2539,2547|C2096315|Headache|fndg
+2593,2599|C0027497|Nausea|sosy
+2593,2599|C1963179|Nausea|patf
+2647,2661|C0000737|Abdominal pain|sosy
+2702,2708|C0085593|Chills|sosy
+2756,2763|C0015672|Fatigue|sosy
+3452,3468|C1518681|treatment effect|fndg
+3490,3501|C0002792|anaphylaxis|patf
+3490,3501|C0850803|anaphylaxis|dsyn
+3511,3537|C0020517|hypersensitivity reactions|patf
+4024,4040|C1518681|treatment effect|fndg
+4442,4449|C0012634|disease|dsyn

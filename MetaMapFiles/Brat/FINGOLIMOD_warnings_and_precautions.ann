@@ -1,0 +1,992 @@
+T1	AdverseReaction 56 67	Bradycardia
+T2	AdverseReaction 75 102	atrioventricular conduction
+T3	AdverseReaction 160 170	Infections
+T4	AdverseReaction 205 215	infections
+T5	Factor 197 201	risk
+T6	AdverseReaction 422 464	Progressive multifocal leukoencephalopathy
+T7	AdverseReaction 466 469	PML
+T8	AdverseReaction 552 565	Macular edema
+T9	AdverseReaction 769 813	Posterior reversible encephalopathy syndrome
+T10	AdverseReaction 815 819	PRES
+T11	AdverseReaction 872 908	Decrease in pulmonary function tests
+T12	AdverseReaction 969 981	Liver injury
+T16	AdverseReaction 1617 1636	heart rate decrease
+T17	AdverseReaction 1682 1703	decline in heart rate
+T18	AdverseReaction 1882 1901	heart rate decrease
+T19	AdverseReaction 1958 1977	heart rate decrease
+T20	AdverseReaction 2071 2108	Heart rates below 40 beats per minute
+T21	AdverseReaction 2183 2206	symptomatic bradycardia
+T22	AdverseReaction 2352 2363	bradycardia
+T23	AdverseReaction 2423 2434	hypotension
+T24	AdverseReaction 2436 2445	dizziness
+T25	AdverseReaction 2447 2454	fatigue
+T26	AdverseReaction 2456 2468	palpitations
+T27	AdverseReaction 2477 2487	chest pain
+T28	AdverseReaction 2593 2615	decrease in heart rate
+T29	AdverseReaction 2963 2983	AV conduction delays
+T30	Severity 2953 2962	transient
+T31	AdverseReaction 3016 3037	first-degree AV block
+T32	AdverseReaction 3283 3306	second-degree AV blocks
+T33	AdverseReaction 3339 3352	2:1 AV blocks
+T34	AdverseReaction 3496 3508	2:1 AV block
+T35	AdverseReaction 3599 3622;3639 3652	second degree AV blocks Mobitz Type I
+T36	Factor 3626 3633	placebo
+T37	AdverseReaction 3705 3729	conduction abnormalities
+T38	Severity 3743 3752	transient
+T40	AdverseReaction 3965 3986	third-degree AV block
+T41	AdverseReaction 4005 4022	junctional escape
+T42	AdverseReaction 4155 4163	asystole
+T43	Severity 4145 4154	transient
+T44	AdverseReaction 4180 4185	death
+T45	AdverseReaction 4375 4382	syncope
+T46	AdverseReaction 4524 4564	reduction in peripheral lymphocyte count
+T47	Severity 4568 4587	20%-30% of baseline
+T48	AdverseReaction 4617 4665	sequestration of lymphocytes in lymphoid tissues
+T49	Severity 4606 4616	reversible
+T50	AdverseReaction 4710 4720	infections
+T52	Severity 4727 4734	serious
+T53	AdverseReaction 5487 5497	infections
+T54	AdverseReaction 5550 5560	bronchitis
+T55	AdverseReaction 5562 5575	herpes zoster
+T56	AdverseReaction 5577 5586	influenza
+T57	AdverseReaction 5588 5597	sinusitis
+T58	AdverseReaction 5603 5612	pneumonia
+T59	AdverseReaction 5667 5677	infections
+T60	Severity 5659 5666	Serious
+T61	AdverseReaction 5843 5862	herpetic infections
+T62	AdverseReaction 5954 5973	herpetic infections
+T63	AdverseReaction 5946 5950	died
+T64	AdverseReaction 6004 6009	death
+T65	AdverseReaction 6021 6055	disseminated primary herpes zoster
+T66	AdverseReaction 6073 6100	herpes simplex encephalitis
+T67	Severity 6311 6327	life-threatening
+T68	Severity 6302 6309	Serious
+T69	AdverseReaction 6338 6367;6387 6397	disseminated varicella zoster infections
+T70	AdverseReaction 6372 6397	herpes simplex infections
+T71	AdverseReaction 6418 6430	encephalitis
+T72	AdverseReaction 6435 6453	multiorgan failure
+T73	AdverseReaction 6543 6548	fatal
+T74	AdverseReaction 6763 6786	Cryptococcal infections
+T75	AdverseReaction 6807 6830	cryptococcal meningitis
+T76	AdverseReaction 7480 7497	immunosuppression
+T77	Factor 7472 7476	risk
+T78	AdverseReaction 8359 8401	progressive multifocal leukoencephalopathy
+T79	AdverseReaction 8403 8406	PML
+T80	AdverseReaction 8431 8434	PML
+T81	Factor 8422 8430	probable
+T82	AdverseReaction 8740 8743	PML
+T83	AdverseReaction 8516 8519	PML
+T84	AdverseReaction 8526 8568	opportunistic viral infection of the brain
+T85	AdverseReaction 8583 8591	JC virus
+T86	AdverseReaction 8593 8596	JCV
+T87	AdverseReaction 8690 8695	death
+T88	AdverseReaction 8706 8716	disability
+T89	AdverseReaction 8831 8834	PML
+T90	Factor 8822 8830	probable
+T91	AdverseReaction 8909 8912	PML
+T92	Factor 8900 8908	probable
+T93	AdverseReaction 8960 8963;8968 8978	JCV in the CSF
+T94	AdverseReaction 9036 9039	PML
+T95	Negation 8986 8993	absence
+T96	AdverseReaction 9119 9144	compromised immune system
+T97	AdverseReaction 9243 9246	PML
+T98	Negation 9195 9206	natalizumab
+T99	AdverseReaction 9558 9561	PML
+T100	AdverseReaction 9616 9660	progressive weakness on one side of the body
+T101	AdverseReaction 9664 9683	clumsiness of limbs
+T102	AdverseReaction 9685 9706	disturbance of vision
+T103	AdverseReaction 9712 9731	changes in thinking
+T104	AdverseReaction 9712 9722;9733 9739	changes in memory
+T105	AdverseReaction 9712 9722;9745 9756	changes in orientation
+T106	AdverseReaction 9768 9777	confusion
+T107	AdverseReaction 9782 9801	personality changes
+T108	AdverseReaction 9873 9886	macular edema
+T109	AdverseReaction 10172 10185	macular edema
+T110	Factor 10164 10168	risk
+T111	AdverseReaction 10336 10349	macular edema
+T112	AdverseReaction 10366 10381	visual symptoms
+T113	AdverseReaction 10557 10570	Macular edema
+T116	AdverseReaction 10837 10850	macular edema
+T117	AdverseReaction 10860 10874	blurred vision
+T118	AdverseReaction 10879 10902	decreased visual acuity
+T119	AdverseReaction 11006 11019	Macular edema
+T120	AdverseReaction 10950 10963	macular edema
+T121	AdverseReaction 10989 11004	visual symptoms
+T122	Negation 10986 10988	no
+T123	AdverseReaction 11144 11162	visual acuity loss
+T124	AdverseReaction 11188 11201	macular edema
+T125	AdverseReaction 11203 11216	Macular edema
+T126	AdverseReaction 11406 11419	macular edema
+T127	AdverseReaction 11841 11854	macular edema
+T128	Factor 11833 11837	risk
+T129	AdverseReaction 11896 11909	macular edema
+T130	AdverseReaction 12054 12067	macular edema
+T131	AdverseReaction 12578 12622	posterior reversible encephalopathy syndrome
+T132	AdverseReaction 12624 12628	PRES
+T133	AdverseReaction 12720 12728	headache
+T134	AdverseReaction 12730 12751	altered mental status
+T135	AdverseReaction 12753 12772	visual disturbances
+T136	AdverseReaction 12778 12785	seizure
+T137	AdverseReaction 12799 12803	PRES
+T138	AdverseReaction 12847 12862	ischemic stroke
+T139	AdverseReaction 12866 12885	cerebral hemorrhage
+T140	Factor 12831 12834	may
+T141	AdverseReaction 13075 13127	reductions in forced expiratory volume over 1 second
+T142	AdverseReaction 13075 13088;13139 13182	reductions in diffusion lung capacity for carbon monoxide
+T143	AdverseReaction 13326 13335;13385 13393	reduction for FEV1
+T145	AdverseReaction 13487 13491;13497 13506	DLCO reduction
+T144	AdverseReaction 13645 13660	changes in FEV1
+T146	Severity 13674 13684	reversible
+T147	AdverseReaction 13790 13806	decrease of DLCO
+T148	AdverseReaction 13868 13875	dyspnea
+T149	AdverseReaction 14031 14038	dyspnea
+T150	AdverseReaction 14348 14375	Elevations of liver enzymes
+T151	AdverseReaction 14596 14628	elevation of liver transaminases
+T152	Severity 14632 14670	3-fold the upper limit of normal (ULN)
+T153	AdverseReaction 15146 15175	liver transaminase elevations
+T154	AdverseReaction 15584 15606	elevated liver enzymes
+T155	Animal 15913 15919	animal
+T156	AdverseReaction 15947 15957	fetal harm
+T157	AdverseReaction 16308 16316;16357 16374	increase systolic pressure
+T158	Severity 16347 16353	3 mmHg
+T159	AdverseReaction 16308 16316;16404 16422	increase diastolic pressure
+T160	Severity 16394 16400	2 mmHg
+T161	AdverseReaction 16533 16545	Hypertension
+T162	AdverseReaction 16870 16897	decreased lymphocyte counts
+T163	AdverseReaction 17287 17312	immunosuppressant effects
+T164	Factor 17270 17274	risk
+T13	AdverseReaction 3297 3306;3308 3322	AV blocks Mobitz Types I
+T14	AdverseReaction 3297 3306;3324 3334	AV blocks Wenckebach
+T15	Factor 8603 8612	typically
+T165	Factor 8673 8680	usually
+T166	Factor 9525 9532	Typical
+T167	Factor 9865 9869	risk
+T114	AdverseReaction 13075 13088;13184 13188	reductions in DLCO
+T115	AdverseReaction 13075 13088;13129 13133	reductions in FEV1
+T168	Severity 13437 13441	2.8%
+T169	Severity 13595 13599	3.3%
+T170	Factor 14376 14379	may
+T171	Factor 15565 15569	risk
+T39	AdverseReaction 872 883;910 913	Decrease in PFT
+T172	Factor 4702 4706	risk
+T51	Severity 8699 8705	severe
+T173	Severity 12713 12719	severe
+T174	AdverseReaction 3991 3999	AV block
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4 Hypothetical:E5
+E5	Factor:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29 Effect:E30
+E30	Severity:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35 Negated:E36
+E36	Factor:T36
+E37	AdverseReaction:T37 Effect:E38
+E38	Severity:T38
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42 Effect:E43
+E43	Severity:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46 Effect:E47
+E47	Severity:T47
+E48	AdverseReaction:T48 Effect:E49
+E49	Severity:T49
+E50	AdverseReaction:T50 Hypothetical:E173
+E52	AdverseReaction:T50 Effect:E53 Hypothetical:E173
+E53	Severity:T52
+E54	AdverseReaction:T53
+E55	AdverseReaction:T54
+E56	AdverseReaction:T55
+E57	AdverseReaction:T56
+E58	AdverseReaction:T57
+E59	AdverseReaction:T58
+E60	AdverseReaction:T59 Effect:E61
+E61	Severity:T60
+E62	AdverseReaction:T61
+E63	AdverseReaction:T62
+E64	AdverseReaction:T63
+E65	AdverseReaction:T64
+E66	AdverseReaction:T65
+E67	AdverseReaction:T66
+E68	Severity:T67
+E69	Severity:T68
+E70	AdverseReaction:T69 Effect:E69 Effect2:E68
+E71	AdverseReaction:T70 Effect:E68 Effect2:E69
+E72	AdverseReaction:T71
+E73	AdverseReaction:T72
+E74	AdverseReaction:T73
+E75	AdverseReaction:T74
+E76	AdverseReaction:T75
+E77	AdverseReaction:T76 Hypothetical:E78
+E78	Factor:T77
+E79	AdverseReaction:T78
+E80	AdverseReaction:T79
+E81	AdverseReaction:T80 Hypothetical:E82
+E82	Factor:T81
+E83	AdverseReaction:T82
+E84	AdverseReaction:T83 Hypothetical:E15
+E85	AdverseReaction:T84 Hypothetical:E15
+E86	AdverseReaction:T85 Hypothetical:E15
+E87	AdverseReaction:T86
+E88	AdverseReaction:T87 Hypothetical:E166
+E89	AdverseReaction:T88 Hypothetical:E166 Effect:E51
+E90	AdverseReaction:T89 Hypothetical:E91
+E91	Factor:T90
+E92	AdverseReaction:T91 Hypothetical:E93
+E93	Factor:T92
+E94	AdverseReaction:T93
+E95	AdverseReaction:T94 Negated:E96
+E96	Negation:T95
+E97	AdverseReaction:T96
+E98	AdverseReaction:T97 Negated:E99
+E99	Negation:T98
+E100	AdverseReaction:T99 Hypothetical:E167
+E101	AdverseReaction:T100 Hypothetical:E167
+E102	AdverseReaction:T101 Hypothetical:E167
+E103	AdverseReaction:T102 Hypothetical:E167
+E104	AdverseReaction:T103 Hypothetical:E167
+E105	AdverseReaction:T104 Hypothetical:E167
+E106	AdverseReaction:T105 Hypothetical:E167
+E107	AdverseReaction:T106 Hypothetical:E167
+E108	AdverseReaction:T107 Hypothetical:E167
+E109	AdverseReaction:T108 Hypothetical:E168
+E110	AdverseReaction:T109 Hypothetical:E111
+E111	Factor:T110
+E112	AdverseReaction:T111
+E113	AdverseReaction:T112
+E114	AdverseReaction:T113
+E117	AdverseReaction:T116
+E118	AdverseReaction:T117
+E119	AdverseReaction:T118
+E120	AdverseReaction:T119
+E121	AdverseReaction:T120
+E122	AdverseReaction:T121 Negated:E123
+E123	Negation:T122
+E124	AdverseReaction:T123
+E125	AdverseReaction:T124
+E126	AdverseReaction:T125
+E127	AdverseReaction:T126
+E128	AdverseReaction:T127 Hypothetical:E129
+E129	Factor:T128
+E130	AdverseReaction:T129
+E131	AdverseReaction:T130
+E132	AdverseReaction:T131
+E133	AdverseReaction:T132
+E134	AdverseReaction:T133 Effect:E174
+E135	AdverseReaction:T134
+E136	AdverseReaction:T135
+E137	AdverseReaction:T136
+E138	AdverseReaction:T137
+E139	AdverseReaction:T138 Hypothetical:E141
+E140	AdverseReaction:T139 Hypothetical:E141
+E141	Factor:T140
+E142	AdverseReaction:T141
+E143	AdverseReaction:T142
+E144	AdverseReaction:T143 Effect:E169
+E146	AdverseReaction:T145 Effect:E170
+E145	AdverseReaction:T144 Effect:E147
+E147	Severity:T146
+E148	AdverseReaction:T147
+E149	AdverseReaction:T148
+E150	AdverseReaction:T149
+E151	AdverseReaction:T150 Hypothetical:E171
+E152	AdverseReaction:T151 Effect:E153
+E153	Severity:T152
+E154	AdverseReaction:T153
+E155	AdverseReaction:T154 Hypothetical:E172
+E156	Animal:T155
+E157	AdverseReaction:T156 Hypothetical:E156
+E158	AdverseReaction:T157 Effect:E159
+E159	Severity:T158
+E160	AdverseReaction:T159 Effect:E161
+E161	Severity:T160
+E162	AdverseReaction:T161
+E163	AdverseReaction:T162
+E164	AdverseReaction:T163 Hypothetical:E165
+E165	Factor:T164
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	Factor:T15
+E166	Factor:T165
+E167	Factor:T166
+E168	Factor:T167
+E115	AdverseReaction:T114
+E116	AdverseReaction:T115
+E169	Severity:T168
+E170	Severity:T169
+E171	Factor:T170
+E172	Factor:T171
+E39	AdverseReaction:T39
+E173	Factor:T172
+E51	Severity:T51
+E174	Severity:T173
+E175	AdverseReaction:T174
+A1	CUI E1 C0428977
+A2	UMLS-Preferred-Name E1 Bradycardia
+A3	MEDDRA-PT E1 Bradycardia
+A4	MEDDRA-PT-ID E1 10006093
+A5	CUI E2 C0085614
+A6	UMLS-Preferred-Name E2 First degree atrioventricular block
+A7	MEDDRA-PT E2 Atrioventricular block first degree
+A8	MEDDRA-PT-ID E2 10003674
+A9	LLT E2 Atrioventricular conduction time prolonged
+A10	LLT-ID E2 10003681
+A11	CUI E3 C3714514
+A12	UMLS-Preferred-Name E3 Infection
+A13	MEDDRA-PT E3 Infection
+A14	MEDDRA-PT-ID E3 10021789
+A15	CUI E4 C3714514
+A16	UMLS-Preferred-Name E4 Infection
+A17	MEDDRA-PT E4 Infection
+A18	MEDDRA-PT-ID E4 10021789
+A19	CUI E6 C0023524
+A20	UMLS-Preferred-Name E6 Leukoencephalopathy, Progressive Multifocal
+A21	MEDDRA-PT E6 Progressive multifocal leukoencephalopathy
+A22	MEDDRA-PT-ID E6 10036807
+A23	CUI E7 C0023524
+A24	UMLS-Preferred-Name E7 Leukoencephalopathy, Progressive Multifocal
+A25	MEDDRA-PT E7 Progressive multifocal leukoencephalopathy
+A26	MEDDRA-PT-ID E7 10036807
+A27	CUI E8 C0271051
+A28	UMLS-Preferred-Name E8 Macular retinal edema
+A29	MEDDRA-PT E8 Macular oedema
+A30	MEDDRA-PT-ID E8 10025415
+A31	LLT E8 Macular edema
+A32	LLT-ID E8 10054467
+A33	CUI E9 C3160858
+A34	UMLS-Preferred-Name E9 Posterior reversible encephalopathy syndrome
+A35	MEDDRA-PT E9 Posterior reversible encephalopathy syndrome
+A36	MEDDRA-PT-ID E9 10071066
+A37	CUI E10 C3160858
+A38	UMLS-Preferred-Name E10 Posterior reversible encephalopathy syndrome
+A39	MEDDRA-PT E10 Posterior reversible encephalopathy syndrome
+A40	MEDDRA-PT-ID E10 10071066
+A41	CUI E11 C0855775
+A42	UMLS-Preferred-Name E11 Pulmonary function test decreased
+A43	MEDDRA-PT E11 Pulmonary function test decreased
+A44	MEDDRA-PT-ID E11 10061922
+A45	CUI E12 C0160390
+A46	UMLS-Preferred-Name E12 Injury of liver
+A47	MEDDRA-PT E12 Liver injury
+A48	MEDDRA-PT-ID E12 10067125
+A49	CUI E16 C2230138
+A50	UMLS-Preferred-Name E16 Pulse slow (finding)
+A51	MEDDRA-PT E16 Heart rate decreased
+A52	MEDDRA-PT-ID E16 10019301
+A53	CUI E17 C2230138
+A54	UMLS-Preferred-Name E17 Pulse slow (finding)
+A55	MEDDRA-PT E17 Heart rate decreased
+A56	MEDDRA-PT-ID E17 10019301
+A57	CUI E18 C2230138
+A58	UMLS-Preferred-Name E18 Pulse slow (finding)
+A59	MEDDRA-PT E18 Heart rate decreased
+A60	MEDDRA-PT-ID E18 10019301
+A61	CUI E19 C2230138
+A62	UMLS-Preferred-Name E19 Pulse slow (finding)
+A63	MEDDRA-PT E19 Heart rate decreased
+A64	MEDDRA-PT-ID E19 10019301
+A65	CUI E20 C2230138
+A66	UMLS-Preferred-Name E20 Pulse slow (finding)
+A67	MEDDRA-PT E20 Heart rate decreased
+A68	MEDDRA-PT-ID E20 10019301
+A69	CUI E21 C0741627
+A70	UMLS-Preferred-Name E21 BRADYCARDIA SYMPTOMATIC
+A71	MEDDRA-PT E21 Bradycardia
+A72	MEDDRA-PT-ID E21 10006093
+A73	CUI E22 C0428977
+A74	UMLS-Preferred-Name E22 Bradycardia
+A75	MEDDRA-PT E22 Bradycardia
+A76	MEDDRA-PT-ID E22 10006093
+A77	CUI E23 C0020649
+A78	UMLS-Preferred-Name E23 Hypotension
+A79	MEDDRA-PT E23 Hypotension
+A80	MEDDRA-PT-ID E23 10021097
+A81	CUI E24 C0012833
+A82	UMLS-Preferred-Name E24 Dizziness
+A83	MEDDRA-PT E24 Dizziness
+A84	MEDDRA-PT-ID E24 10013573
+A85	CUI E25 C0015672
+A86	UMLS-Preferred-Name E25 Fatigue
+A87	MEDDRA-PT E25 Fatigue
+A88	MEDDRA-PT-ID E25 10016256
+A89	CUI E26 C0030252
+A90	UMLS-Preferred-Name E26 Palpitations
+A91	MEDDRA-PT E26 Palpitations
+A92	MEDDRA-PT-ID E26 10033557
+A93	CUI E27 C0008031
+A94	UMLS-Preferred-Name E27 Chest Pain
+A95	MEDDRA-PT E27 Chest pain
+A96	MEDDRA-PT-ID E27 10008479
+A97	CUI E28 C2230138
+A98	UMLS-Preferred-Name E28 Pulse slow (finding)
+A99	MEDDRA-PT E28 Heart rate decreased
+A100	MEDDRA-PT-ID E28 10019301
+A101	CUI E29 C0085614
+A102	UMLS-Preferred-Name E29 First degree atrioventricular block
+A103	MEDDRA-PT E29 Atrioventricular block first degree
+A104	MEDDRA-PT-ID E29 10003674
+A105	LLT E29 Atrioventricular conduction time prolonged
+A106	LLT-ID E29 10003681
+A107	CUI E31 C0085614
+A108	UMLS-Preferred-Name E31 First degree atrioventricular block
+A109	MEDDRA-PT E31 Atrioventricular block first degree
+A110	MEDDRA-PT-ID E31 10003674
+A111	LLT E31 AV block first degree
+A112	LLT-ID E31 10003850
+A113	CUI E32 C0264906
+A114	UMLS-Preferred-Name E32 Second degree atrioventricular block
+A115	MEDDRA-PT E32 Atrioventricular block second degree
+A116	MEDDRA-PT-ID E32 10003677
+A117	LLT E32 AV block second degree
+A118	LLT-ID E32 10003851
+A119	CUI E33 C2346542
+A120	UMLS-Preferred-Name E33 2:1 Atrioventricular Block by ECG Finding
+A121	MEDDRA-PT E33 Atrioventricular block
+A122	MEDDRA-PT-ID E33 10003671
+A123	LLT E33 AV block
+A124	LLT-ID E33 10003846
+A125	CUI E34 C2346542
+A126	UMLS-Preferred-Name E34 2:1 Atrioventricular Block by ECG Finding
+A127	MEDDRA-PT E34 Atrioventricular block
+A128	MEDDRA-PT-ID E34 10003671
+A129	LLT E34 AV block
+A130	LLT-ID E34 10003846
+A131	CUI E35 C0264907
+A132	UMLS-Preferred-Name E35 Mobitz type I incomplete atrioventricular block
+A133	MEDDRA-PT E35 Atrioventricular block second degree
+A134	MEDDRA-PT-ID E35 10003677
+A135	LLT E35 Mobitz type I
+A136	LLT-ID E35 10027787
+A137	CUI E37 C0232219
+A138	UMLS-Preferred-Name E37 Abnormal cardiac conduction
+A139	MEDDRA-PT E37 Conduction disorder
+A140	MEDDRA-PT-ID E37 10010276
+A141	LLT E37 Defect conduction (NOS)
+A142	LLT-ID E37 10012117
+A143	CUI E40 C0151517
+A144	UMLS-Preferred-Name E40 Complete atrioventricular block
+A145	MEDDRA-PT E40 Atrioventricular block complete
+A146	MEDDRA-PT-ID E40 10003673
+A147	LLT E40 Third degree AV block
+A148	LLT-ID E40 10043440
+A149	CUI E41 C0232210
+A150	UMLS-Preferred-Name E41 Junctional escape beats
+A151	MEDDRA-PT E41 Nodal rhythm
+A152	MEDDRA-PT-ID E41 10029470
+A153	LLT E41 Atrioventricular junctional escape rhythm
+A154	LLT-ID E41 10057524
+A155	CUI E42 C0018790
+A156	UMLS-Preferred-Name E42 Cardiac Arrest
+A157	MEDDRA-PT E42 Cardiac arrest
+A158	MEDDRA-PT-ID E42 10007515
+A159	LLT E42 Asystole
+A160	LLT-ID E42 10003586
+A161	CUI E44 C1306577
+A162	UMLS-Preferred-Name E44 Death (finding)
+A163	MEDDRA-PT E44 Death
+A164	MEDDRA-PT-ID E44 10011906
+A165	CUI E45 C0039070
+A166	UMLS-Preferred-Name E45 Syncope
+A167	MEDDRA-PT E45 Syncope
+A168	MEDDRA-PT-ID E45 10042772
+A169	CUI E46 C0853986
+A170	UMLS-Preferred-Name E46 Lymphocyte count decreased
+A171	MEDDRA-PT E46 Lymphocyte count decreased
+A172	MEDDRA-PT-ID E46 10025256
+A173	flag E48 unmapped
+A174	CUI E50 C3714514
+A175	UMLS-Preferred-Name E50 Infection
+A176	MEDDRA-PT E50 Infection
+A177	MEDDRA-PT-ID E50 10021789
+A178	CUI E54 C3714514
+A179	UMLS-Preferred-Name E54 Infection
+A180	MEDDRA-PT E54 Infection
+A181	MEDDRA-PT-ID E54 10021789
+A182	CUI E55 C0006277
+A183	UMLS-Preferred-Name E55 Bronchitis
+A184	MEDDRA-PT E55 Bronchitis
+A185	MEDDRA-PT-ID E55 10006451
+A186	CUI E56 C0019360
+A187	UMLS-Preferred-Name E56 Herpes zoster disease
+A188	MEDDRA-PT E56 Herpes zoster
+A189	MEDDRA-PT-ID E56 10019974
+A190	CUI E57 C0021400
+A191	UMLS-Preferred-Name E57 Influenza
+A192	MEDDRA-PT E57 Influenza
+A193	MEDDRA-PT-ID E57 10022000
+A194	CUI E58 C0037199
+A195	UMLS-Preferred-Name E58 Sinusitis
+A196	MEDDRA-PT E58 Sinusitis
+A197	MEDDRA-PT-ID E58 10040753
+A198	CUI E59 C0032285
+A199	UMLS-Preferred-Name E59 Pneumonia
+A200	MEDDRA-PT E59 Pneumonia
+A201	MEDDRA-PT-ID E59 10035664
+A202	CUI E60 C3714514
+A203	UMLS-Preferred-Name E60 Infection
+A204	MEDDRA-PT E60 Infection
+A205	MEDDRA-PT-ID E60 10021789
+A206	CUI E62 C0019372
+A207	UMLS-Preferred-Name E62 Herpesviridae Infections
+A208	MEDDRA-PT E62 Herpes virus infection
+A209	MEDDRA-PT-ID E62 10019973
+A210	CUI E63 C0019372
+A211	UMLS-Preferred-Name E63 Herpesviridae Infections
+A212	MEDDRA-PT E63 Herpes virus infection
+A213	MEDDRA-PT-ID E63 10019973
+A214	CUI E64 C1306577
+A215	UMLS-Preferred-Name E64 Death (finding)
+A216	MEDDRA-PT E64 Death
+A217	MEDDRA-PT-ID E64 10011906
+A218	CUI E65 C1306577
+A219	UMLS-Preferred-Name E65 Death (finding)
+A220	MEDDRA-PT E65 Death
+A221	MEDDRA-PT-ID E65 10011906
+A222	CUI E66 C0276248
+A223	UMLS-Preferred-Name E66 Disseminated herpes zoster
+A224	MEDDRA-PT E66 Herpes zoster disseminated
+A225	MEDDRA-PT-ID E66 10065038
+A226	CUI E67 C0276226
+A227	UMLS-Preferred-Name E67 Herpes encephalitis
+A228	MEDDRA-PT E67 Herpes simplex encephalitis
+A229	MEDDRA-PT-ID E67 10019953
+A230	flag E70 unmapped
+A231	CUI E70 C0750128
+A232	UMLS-Preferred-Name E70 VARICELLA ZOSTER DISSEMINATED
+A233	CUI E71 C0019348
+A234	UMLS-Preferred-Name E71 Herpes Simplex Infections
+A235	MEDDRA-PT E71 Herpes simplex
+A236	MEDDRA-PT-ID E71 10019948
+A237	CUI E72 C0014038
+A238	UMLS-Preferred-Name E72 Encephalitis
+A239	MEDDRA-PT E72 Encephalitis
+A240	MEDDRA-PT-ID E72 10014581
+A241	CUI E73 C0026766
+A242	UMLS-Preferred-Name E73 Multiple Organ Failure
+A243	MEDDRA-PT E73 Multi-organ failure
+A244	MEDDRA-PT-ID E73 10028154
+A245	LLT E73 Multiorgan failure
+A246	LLT-ID E73 10028162
+A247	CUI E74 C1306577
+A248	UMLS-Preferred-Name E74 Death (finding)
+A249	MEDDRA-PT E74 Death
+A250	MEDDRA-PT-ID E74 10011906
+A251	flag E75 HLT
+A252	CUI E75 C0740272
+A253	UMLS-Preferred-Name E75 Cryptococcal infections
+A254	MEDDRA-PT E75 Cryptococcal infections
+A255	MEDDRA-PT-ID E75 10011486
+A256	CUI E76 C0085436
+A257	UMLS-Preferred-Name E76 Meningitis, Cryptococcal
+A258	MEDDRA-PT E76 Meningitis cryptococcal
+A259	MEDDRA-PT-ID E76 10027209
+A260	LLT E76 Cryptococcal meningitis
+A261	LLT-ID E76 10011487
+A262	CUI E77 C1373218
+A263	UMLS-Preferred-Name E77 Decreased Immunologic Activity [PE]
+A264	MEDDRA-PT E77 Immunosuppression
+A265	MEDDRA-PT-ID E77 10062016
+A266	CUI E79 C0023524
+A267	UMLS-Preferred-Name E79 Leukoencephalopathy, Progressive Multifocal
+A268	MEDDRA-PT E79 Progressive multifocal leukoencephalopathy
+A269	MEDDRA-PT-ID E79 10036807
+A270	CUI E80 C0023524
+A271	UMLS-Preferred-Name E80 Leukoencephalopathy, Progressive Multifocal
+A272	MEDDRA-PT E80 Progressive multifocal leukoencephalopathy
+A273	MEDDRA-PT-ID E80 10036807
+A274	CUI E81 C0023524
+A275	UMLS-Preferred-Name E81 Leukoencephalopathy, Progressive Multifocal
+A276	MEDDRA-PT E81 Progressive multifocal leukoencephalopathy
+A277	MEDDRA-PT-ID E81 10036807
+A278	CUI E83 C0023524
+A279	UMLS-Preferred-Name E83 Leukoencephalopathy, Progressive Multifocal
+A280	MEDDRA-PT E83 Progressive multifocal leukoencephalopathy
+A281	MEDDRA-PT-ID E83 10036807
+A282	CUI E84 C0023524
+A283	UMLS-Preferred-Name E84 Leukoencephalopathy, Progressive Multifocal
+A284	MEDDRA-PT E84 Progressive multifocal leukoencephalopathy
+A285	MEDDRA-PT-ID E84 10036807
+A286	flag E85 duplicate
+A287	CUI E85 C0348165
+A288	UMLS-Preferred-Name E85 Central Nervous System Viral Diseases
+A289	MEDDRA-PT E85 Central nervous system viral infection
+A290	MEDDRA-PT-ID E85 10061037
+A291	CUI E86 C0857836
+A292	UMLS-Preferred-Name E86 JC virus infection
+A293	MEDDRA-PT E86 JC virus infection
+A294	MEDDRA-PT-ID E86 10023163
+A295	CUI E87 C0857836
+A296	UMLS-Preferred-Name E87 JC virus infection
+A297	MEDDRA-PT E87 JC virus infection
+A298	MEDDRA-PT-ID E87 10023163
+A299	CUI E88 C1306577
+A300	UMLS-Preferred-Name E88 Death (finding)
+A301	MEDDRA-PT E88 Death
+A302	MEDDRA-PT-ID E88 10011906
+A303	CUI E89 C0231170
+A304	UMLS-Preferred-Name E89 Disability
+A305	MEDDRA-PT E89 Disability
+A306	MEDDRA-PT-ID E89 10013050
+A307	CUI E90 C0023524
+A308	UMLS-Preferred-Name E90 Leukoencephalopathy, Progressive Multifocal
+A309	MEDDRA-PT E90 Progressive multifocal leukoencephalopathy
+A310	MEDDRA-PT-ID E90 10036807
+A311	CUI E92 C0023524
+A312	UMLS-Preferred-Name E92 Leukoencephalopathy, Progressive Multifocal
+A313	MEDDRA-PT E92 Progressive multifocal leukoencephalopathy
+A314	MEDDRA-PT-ID E92 10036807
+A315	flag E94 underspecified
+A316	CUI E94 C0857836
+A317	UMLS-Preferred-Name E94 JC virus infection
+A318	MEDDRA-PT E94 JC virus infection
+A319	MEDDRA-PT-ID E94 10023163
+A320	CUI E95 C0023524
+A321	UMLS-Preferred-Name E95 Leukoencephalopathy, Progressive Multifocal
+A322	MEDDRA-PT E95 Progressive multifocal leukoencephalopathy
+A323	MEDDRA-PT-ID E95 10036807
+A324	CUI E97 C0085393
+A325	UMLS-Preferred-Name E97 Immunocompromised Host
+A326	MEDDRA-PT E97 Immunodeficiency
+A327	MEDDRA-PT-ID E97 10061598
+A328	CUI E98 C0023524
+A329	UMLS-Preferred-Name E98 Leukoencephalopathy, Progressive Multifocal
+A330	MEDDRA-PT E98 Progressive multifocal leukoencephalopathy
+A331	MEDDRA-PT-ID E98 10036807
+A332	CUI E100 C0023524
+A333	UMLS-Preferred-Name E100 Leukoencephalopathy, Progressive Multifocal
+A334	MEDDRA-PT E100 Progressive multifocal leukoencephalopathy
+A335	MEDDRA-PT-ID E100 10036807
+A336	CUI E101 C0240421
+A337	UMLS-Preferred-Name E101 Progressive muscle weakness
+A338	MEDDRA-PT E101 Muscular weakness
+A339	MEDDRA-PT-ID E101 10028372
+A340	LLT E101 Muscle weakness
+A341	LLT-ID E101 10028350
+A342	CUI E102 C0233844
+A343	UMLS-Preferred-Name E102 Clumsiness
+A344	MEDDRA-PT E102 Clumsiness
+A345	MEDDRA-PT-ID E102 10009696
+A346	CUI E103 C0547030
+A347	UMLS-Preferred-Name E103 Visual disturbance
+A348	MEDDRA-PT E103 Visual impairment
+A349	MEDDRA-PT-ID E103 10047571
+A350	LLT E103 Visual disturbances
+A351	LLT-ID E103 10047545
+A352	CUI E104 C0233632
+A353	UMLS-Preferred-Name E104 Disturbance in thinking
+A354	MEDDRA-PT E104 Thinking abnormal
+A355	MEDDRA-PT-ID E104 10043431
+A356	CUI E105 C1822023
+A357	UMLS-Preferred-Name E105 Memory changes
+A358	MEDDRA-PT E105 Memory impairment
+A359	MEDDRA-PT-ID E105 10027175
+A360	LLT E105 Memory disturbance
+A361	LLT-ID E105 10027172
+A362	CUI E106 C0233407
+A363	UMLS-Preferred-Name E106 Disorientation
+A364	MEDDRA-PT E106 Disorientation
+A365	MEDDRA-PT-ID E106 10013395
+A366	LLT E106 Orientation disturbed
+A367	LLT-ID E106 10031087
+A368	CUI E107 C0009676
+A369	UMLS-Preferred-Name E107 Confusion
+A370	MEDDRA-PT E107 Confusional state
+A371	MEDDRA-PT-ID E107 10010305
+A372	LLT E107 Confusion
+A373	LLT-ID E107 10010300
+A374	CUI E108 C0240735
+A375	UMLS-Preferred-Name E108 Personality change
+A376	MEDDRA-PT E108 Personality change
+A377	MEDDRA-PT-ID E108 10034719
+A378	CUI E109 C0271051
+A379	UMLS-Preferred-Name E109 Macular retinal edema
+A380	MEDDRA-PT E109 Macular oedema
+A381	MEDDRA-PT-ID E109 10025415
+A382	LLT E109 Macular edema
+A383	LLT-ID E109 10054467
+A384	CUI E110 C0271051
+A385	UMLS-Preferred-Name E110 Macular retinal edema
+A386	MEDDRA-PT E110 Macular oedema
+A387	MEDDRA-PT-ID E110 10025415
+A388	LLT E110 Macular edema
+A389	LLT-ID E110 10054467
+A390	CUI E112 C0271051
+A391	UMLS-Preferred-Name E112 Macular retinal edema
+A392	MEDDRA-PT E112 Macular oedema
+A393	MEDDRA-PT-ID E112 10025415
+A394	LLT E112 Macular edema
+A395	LLT-ID E112 10054467
+A396	CUI E113 C0422943
+A397	UMLS-Preferred-Name E113 Visual symptoms
+A398	MEDDRA-PT E113 Visual impairment
+A399	MEDDRA-PT-ID E113 10047571
+A400	LLT E113 Abnormal vision
+A401	LLT-ID E113 10000186
+A402	CUI E114 C0271051
+A403	UMLS-Preferred-Name E114 Macular retinal edema
+A404	MEDDRA-PT E114 Macular oedema
+A405	MEDDRA-PT-ID E114 10025415
+A406	LLT E114 Macular edema
+A407	LLT-ID E114 10054467
+A408	CUI E117 C0271051
+A409	UMLS-Preferred-Name E117 Macular retinal edema
+A410	MEDDRA-PT E117 Macular oedema
+A411	MEDDRA-PT-ID E117 10025415
+A412	LLT E117 Macular edema
+A413	LLT-ID E117 10054467
+A414	CUI E118 C0344232
+A415	UMLS-Preferred-Name E118 Blurred vision
+A416	MEDDRA-PT E118 Vision blurred
+A417	MEDDRA-PT-ID E118 10047513
+A418	LLT E118 Blurred vision
+A419	LLT-ID E118 10005886
+A420	CUI E119 C0234632
+A421	UMLS-Preferred-Name E119 Reduced visual acuity
+A422	MEDDRA-PT E119 Visual acuity reduced
+A423	MEDDRA-PT-ID E119 10047531
+A424	LLT E119 Visual acuity decreased
+A425	LLT-ID E119 10049061
+A426	CUI E120 C0271051
+A427	UMLS-Preferred-Name E120 Macular retinal edema
+A428	MEDDRA-PT E120 Macular oedema
+A429	MEDDRA-PT-ID E120 10025415
+A430	LLT E120 Macular edema
+A431	LLT-ID E120 10054467
+A432	CUI E121 C0271051
+A433	UMLS-Preferred-Name E121 Macular retinal edema
+A434	MEDDRA-PT E121 Macular oedema
+A435	MEDDRA-PT-ID E121 10025415
+A436	LLT E121 Macular edema
+A437	LLT-ID E121 10054467
+A438	CUI E122 C0422943
+A439	UMLS-Preferred-Name E122 Visual symptoms
+A440	MEDDRA-PT E122 Visual impairment
+A441	MEDDRA-PT-ID E122 10047571
+A442	LLT E122 Abnormal vision
+A443	LLT-ID E122 10000186
+A444	CUI E124 C0234632
+A445	UMLS-Preferred-Name E124 Reduced visual acuity
+A446	MEDDRA-PT E124 Visual acuity reduced
+A447	MEDDRA-PT-ID E124 10047531
+A448	LLT E124 Visual acuity lost
+A449	LLT-ID E124 10047530
+A450	CUI E125 C0271051
+A451	UMLS-Preferred-Name E125 Macular retinal edema
+A452	MEDDRA-PT E125 Macular oedema
+A453	MEDDRA-PT-ID E125 10025415
+A454	LLT E125 Macular edema
+A455	LLT-ID E125 10054467
+A456	CUI E126 C0271051
+A457	UMLS-Preferred-Name E126 Macular retinal edema
+A458	MEDDRA-PT E126 Macular oedema
+A459	MEDDRA-PT-ID E126 10025415
+A460	LLT E126 Macular edema
+A461	LLT-ID E126 10054467
+A462	CUI E127 C0271051
+A463	UMLS-Preferred-Name E127 Macular retinal edema
+A464	MEDDRA-PT E127 Macular oedema
+A465	MEDDRA-PT-ID E127 10025415
+A466	LLT E127 Macular edema
+A467	LLT-ID E127 10054467
+A468	CUI E128 C0271051
+A469	UMLS-Preferred-Name E128 Macular retinal edema
+A470	MEDDRA-PT E128 Macular oedema
+A471	MEDDRA-PT-ID E128 10025415
+A472	LLT E128 Macular edema
+A473	LLT-ID E128 10054467
+A474	CUI E130 C0271051
+A475	UMLS-Preferred-Name E130 Macular retinal edema
+A476	MEDDRA-PT E130 Macular oedema
+A477	MEDDRA-PT-ID E130 10025415
+A478	LLT E130 Macular edema
+A479	LLT-ID E130 10054467
+A480	CUI E131 C0271051
+A481	UMLS-Preferred-Name E131 Macular retinal edema
+A482	MEDDRA-PT E131 Macular oedema
+A483	MEDDRA-PT-ID E131 10025415
+A484	LLT E131 Macular edema
+A485	LLT-ID E131 10054467
+A486	CUI E132 C3160858
+A487	UMLS-Preferred-Name E132 Posterior reversible encephalopathy syndrome
+A488	MEDDRA-PT E132 Posterior reversible encephalopathy syndrome
+A489	MEDDRA-PT-ID E132 10071066
+A490	CUI E133 C3160858
+A491	UMLS-Preferred-Name E133 Posterior reversible encephalopathy syndrome
+A492	MEDDRA-PT E133 Posterior reversible encephalopathy syndrome
+A493	MEDDRA-PT-ID E133 10071066
+A494	CUI E134 C0018681
+A495	UMLS-Preferred-Name E134 Headache
+A496	MEDDRA-PT E134 Headache
+A497	MEDDRA-PT-ID E134 10019211
+A498	CUI E135 C0856054
+A499	UMLS-Preferred-Name E135 Mental status changes
+A500	MEDDRA-PT E135 Mental status changes
+A501	MEDDRA-PT-ID E135 10048294
+A502	CUI E136 C0547030
+A503	UMLS-Preferred-Name E136 Visual disturbance
+A504	MEDDRA-PT E136 Visual impairment
+A505	MEDDRA-PT-ID E136 10047571
+A506	LLT E136 Visual disturbances
+A507	LLT-ID E136 10047545
+A508	CUI E137 C0036572
+A509	UMLS-Preferred-Name E137 Seizures
+A510	MEDDRA-PT E137 Seizure
+A511	MEDDRA-PT-ID E137 10039906
+A512	CUI E138 C3160858
+A513	UMLS-Preferred-Name E138 Posterior reversible encephalopathy syndrome
+A514	MEDDRA-PT E138 Posterior reversible encephalopathy syndrome
+A515	MEDDRA-PT-ID E138 10071066
+A516	CUI E139 C0948008
+A517	UMLS-Preferred-Name E139 Ischemic stroke
+A518	MEDDRA-PT E139 Ischaemic stroke
+A519	MEDDRA-PT-ID E139 10061256
+A520	LLT E139 Ischemic stroke
+A521	LLT-ID E139 10055221
+A522	CUI E140 C2937358
+A523	UMLS-Preferred-Name E140 Cerebral Hemorrhage
+A524	MEDDRA-PT E140 Cerebral haemorrhage
+A525	MEDDRA-PT-ID E140 10008111
+A526	LLT E140 Cerebral hemorrhage
+A527	LLT-ID E140 10008114
+A528	CUI E142 C0520837
+A529	UMLS-Preferred-Name E142 Decreased forced expiratory volume
+A530	MEDDRA-PT E142 Forced expiratory volume decreased
+A531	MEDDRA-PT-ID E142 10016987
+A532	CUI E143 C1697788
+A533	UMLS-Preferred-Name E143 Carbon monoxide diffusing capacity decreased
+A534	MEDDRA-PT E143 Carbon monoxide diffusing capacity decreased
+A535	MEDDRA-PT-ID E143 10065906
+A536	CUI E144 C0520837
+A537	UMLS-Preferred-Name E144 Decreased forced expiratory volume
+A538	MEDDRA-PT E144 Forced expiratory volume decreased
+A539	MEDDRA-PT-ID E144 10016987
+A540	LLT E144 FEV 1 decreased
+A541	LLT-ID E144 10016550
+A542	CUI E146 C1697788
+A543	UMLS-Preferred-Name E146 Carbon monoxide diffusing capacity decreased
+A544	MEDDRA-PT E146 Carbon monoxide diffusing capacity decreased
+A545	MEDDRA-PT-ID E146 10065906
+A546	CUI E145 C0860906
+A547	UMLS-Preferred-Name E145 FEV 1 abnormal
+A548	MEDDRA-PT E145 Forced expiratory volume abnormal
+A549	MEDDRA-PT-ID E145 10016985
+A550	CUI E148 C1697788
+A551	UMLS-Preferred-Name E148 Carbon monoxide diffusing capacity decreased
+A552	MEDDRA-PT E148 Carbon monoxide diffusing capacity decreased
+A553	MEDDRA-PT-ID E148 10065906
+A554	CUI E149 C0013404
+A555	UMLS-Preferred-Name E149 Dyspnea
+A556	MEDDRA-PT E149 Dyspnoea
+A557	MEDDRA-PT-ID E149 10013968
+A558	LLT E149 Dyspnea
+A559	LLT-ID E149 10013963
+A560	CUI E150 C0013404
+A561	UMLS-Preferred-Name E150 Dyspnea
+A562	MEDDRA-PT E150 Dyspnoea
+A563	MEDDRA-PT-ID E150 10013968
+A564	LLT E150 Dyspnea
+A565	LLT-ID E150 10013963
+A566	CUI E151 C0235996
+A567	UMLS-Preferred-Name E151 Elevated liver enzymes
+A568	MEDDRA-PT E151 Hepatic enzyme increased
+A569	MEDDRA-PT-ID E151 10060795
+A570	LLT E151 Elevated liver enzymes
+A571	LLT-ID E151 10014481
+A572	CUI E152 C2674385
+A573	UMLS-Preferred-Name E152 Elevated liver transaminases
+A574	MEDDRA-PT E152 Transaminases increased
+A575	MEDDRA-PT-ID E152 10054889
+A576	CUI E154 C2674385
+A577	UMLS-Preferred-Name E154 Elevated liver transaminases
+A578	MEDDRA-PT E154 Transaminases increased
+A579	MEDDRA-PT-ID E154 10054889
+A580	CUI E155 C0235996
+A581	UMLS-Preferred-Name E155 Elevated liver enzymes
+A582	MEDDRA-PT E155 Hepatic enzyme increased
+A583	MEDDRA-PT-ID E155 10060795
+A584	LLT E155 Elevated liver enzymes
+A585	LLT-ID E155 10014481
+A586	CUI E157 C0854268
+A587	UMLS-Preferred-Name E157 Foetal damage
+A588	MEDDRA-PT E157 Foetal damage
+A589	MEDDRA-PT-ID E157 10016852
+A590	LLT E157 Fetal damage
+A591	LLT-ID E157 10054743
+A592	CUI E158 C0277884
+A593	UMLS-Preferred-Name E158 Increased systolic arterial pressure
+A594	MEDDRA-PT E158 Blood pressure systolic increased
+A595	MEDDRA-PT-ID E158 10005760
+A596	CUI E160 C0277889
+A597	UMLS-Preferred-Name E160 Increased diastolic arterial pressure
+A598	MEDDRA-PT E160 Blood pressure diastolic increased
+A599	MEDDRA-PT-ID E160 10005739
+A600	CUI E162 C0020538
+A601	UMLS-Preferred-Name E162 Hypertensive disease
+A602	MEDDRA-PT E162 Hypertension
+A603	MEDDRA-PT-ID E162 10020772
+A604	CUI E163 C0853986
+A605	UMLS-Preferred-Name E163 Lymphocyte count decreased
+A606	MEDDRA-PT E163 Lymphocyte count decreased
+A607	MEDDRA-PT-ID E163 10025256
+A608	CUI E164 C1373218
+A609	UMLS-Preferred-Name E164 Decreased Immunologic Activity [PE]
+A610	MEDDRA-PT E164 Immunosuppression
+A611	MEDDRA-PT-ID E164 10062016
+A612	CUI E13 C0264907
+A613	UMLS-Preferred-Name E13 Mobitz type I incomplete atrioventricular block
+A614	MEDDRA-PT E13 Atrioventricular block second degree
+A615	MEDDRA-PT-ID E13 10003677
+A616	LLT E13 Mobitz type I
+A617	LLT-ID E13 10027787
+A618	CUI E14 C0264907
+A619	UMLS-Preferred-Name E14 Mobitz type I incomplete atrioventricular block
+A620	MEDDRA-PT E14 Atrioventricular block second degree
+A621	MEDDRA-PT-ID E14 10003677
+A622	LLT E14 Wenckebach phenomenon
+A623	LLT-ID E14 10047909
+A624	CUI E115 C1697788
+A625	UMLS-Preferred-Name E115 Carbon monoxide diffusing capacity decreased
+A626	MEDDRA-PT E115 Carbon monoxide diffusing capacity decreased
+A627	MEDDRA-PT-ID E115 10065906
+A628	CUI E116 C0520837
+A629	UMLS-Preferred-Name E116 Decreased forced expiratory volume
+A630	MEDDRA-PT E116 Forced expiratory volume decreased
+A631	MEDDRA-PT-ID E116 10016987
+A632	LLT E116 FEV 1 decreased
+A633	LLT-ID E116 10016550
+A634	CUI E39 C0855775
+A635	UMLS-Preferred-Name E39 Pulmonary function test decreased
+A636	MEDDRA-PT E39 Pulmonary function test decreased
+A637	MEDDRA-PT-ID E39 10061922
+A638	CUI E175 C0004245
+A639	UMLS-Preferred-Name E175 Atrioventricular Block
+A640	MEDDRA-PT E175 Atrioventricular block
+A641	MEDDRA-PT-ID E175 10003671
+A642	LLT E175 AV block
+A643	LLT-ID E175 10003846

@@ -1,0 +1,110 @@
+T1	AdverseReaction 260 276;292 301	hypersensitivity reactions
+T2	Severity 252 259	Serious
+T3	DrugClass 326 357	beta-lactam antibacterial drugs
+T4	AdverseReaction 278 290;292 301	anaphylactic reactions
+T5	AdverseReaction 468 510	Clostridium difficile -associated diarrhea
+T6	AdverseReaction 512 516	CDAD
+T7	AdverseReaction 1813 1829;1845 1854	hypersensitivity reactions
+T8	AdverseReaction 1831 1843;1845 1854	anaphylactic reactions
+T9	Severity 1782 1789	Serious
+T10	AdverseReaction 1807 1812	fatal
+T11	AdverseReaction 1813 1829;1845 1854	hypersensitivity reactions
+T12	AdverseReaction 1831 1843;1845 1854	anaphylactic reactions
+T13	DrugClass 1896 1927	beta-lactam antibacterial drugs
+T14	AdverseReaction 2434 2477	Clostridium difficile  -associated diarrhea
+T15	AdverseReaction 2479 2483	CDAD
+T16	AdverseReaction 2604 2612	diarrhea
+T17	Severity 2599 2603	mild
+T18	AdverseReaction 2616 2621	fatal
+T19	AdverseReaction 2622 2629	colitis
+E1	AdverseReaction:T1 Effect:E2 Hypothetical:E3
+E2	Severity:T2
+E3	DrugClass:T3
+E4	AdverseReaction:T4 Effect:E2 Hypothetical:E3
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7 Effect:E9 Hypothetical:E13
+E8	AdverseReaction:T8 Effect:E9 Hypothetical:E13
+E9	Severity:T9
+E10	AdverseReaction:T10 Hypothetical:E13
+E11	AdverseReaction:T11 Hypothetical:E13
+E12	AdverseReaction:T12 Hypothetical:E13
+E13	DrugClass:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16 Effect:E17
+E17	Severity:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	LLT E1 Hypersensitivity reaction
+A6	LLT-ID E1 10020756
+A7	CUI E4 C0002792
+A8	UMLS-Preferred-Name E4 anaphylaxis
+A9	MEDDRA-PT E4 Anaphylactic reaction
+A10	MEDDRA-PT-ID E4 10002198
+A11	CUI E5 C0235952
+A12	UMLS-Preferred-Name E5 Clostridium difficile diarrhea
+A13	MEDDRA-PT E5 Clostridium difficile colitis
+A14	MEDDRA-PT-ID E5 10009657
+A15	LLT E5 Diarrhea, Clostridium difficile
+A16	LLT-ID E5 10012734
+A17	CUI E6 C0235952
+A18	UMLS-Preferred-Name E6 Clostridium difficile diarrhea
+A19	MEDDRA-PT E6 Clostridium difficile colitis
+A20	MEDDRA-PT-ID E6 10009657
+A21	LLT E6 Diarrhea, Clostridium difficile
+A22	LLT-ID E6 10012734
+A23	CUI E7 C0020517
+A24	UMLS-Preferred-Name E7 Hypersensitivity
+A25	MEDDRA-PT E7 Hypersensitivity
+A26	MEDDRA-PT-ID E7 10020751
+A27	LLT E7 Hypersensitivity reaction
+A28	LLT-ID E7 10020756
+A29	CUI E8 C0002792
+A30	UMLS-Preferred-Name E8 anaphylaxis
+A31	MEDDRA-PT E8 Anaphylactic reaction
+A32	MEDDRA-PT-ID E8 10002198
+A33	CUI E10 C1306577
+A34	UMLS-Preferred-Name E10 Death (finding)
+A35	MEDDRA-PT E10 Death
+A36	MEDDRA-PT-ID E10 10011906
+A37	CUI E11 C0020517
+A38	UMLS-Preferred-Name E11 Hypersensitivity
+A39	MEDDRA-PT E11 Hypersensitivity
+A40	MEDDRA-PT-ID E11 10020751
+A41	LLT E11 Hypersensitivity reaction
+A42	LLT-ID E11 10020756
+A43	CUI E12 C0002792
+A44	UMLS-Preferred-Name E12 anaphylaxis
+A45	MEDDRA-PT E12 Anaphylactic reaction
+A46	MEDDRA-PT-ID E12 10002198
+A47	CUI E14 C0235952
+A48	UMLS-Preferred-Name E14 Clostridium difficile diarrhea
+A49	MEDDRA-PT E14 Clostridium difficile colitis
+A50	MEDDRA-PT-ID E14 10009657
+A51	LLT E14 Diarrhea, Clostridium difficile
+A52	LLT-ID E14 10012734
+A53	CUI E15 C0235952
+A54	UMLS-Preferred-Name E15 Clostridium difficile diarrhea
+A55	MEDDRA-PT E15 Clostridium difficile colitis
+A56	MEDDRA-PT-ID E15 10009657
+A57	LLT E15 Diarrhea, Clostridium difficile
+A58	LLT-ID E15 10012734
+A59	CUI E16 C0011991
+A60	UMLS-Preferred-Name E16 Diarrhea
+A61	MEDDRA-PT E16 Diarrhoea
+A62	MEDDRA-PT-ID E16 10012735
+A63	LLT E16 Diarrhea
+A64	LLT-ID E16 10012727
+A65	CUI E18 C1306577
+A66	UMLS-Preferred-Name E18 Death (finding)
+A67	MEDDRA-PT E18 Death
+A68	MEDDRA-PT-ID E18 10011906
+A69	CUI E19 C0009319
+A70	UMLS-Preferred-Name E19 Colitis
+A71	MEDDRA-PT E19 Colitis
+A72	MEDDRA-PT-ID E19 10009887

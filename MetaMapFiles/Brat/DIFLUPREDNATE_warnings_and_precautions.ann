@@ -1,0 +1,218 @@
+T1	AdverseReaction 53 73;80 88	Intraocular pressure increase
+T2	AdverseReaction 137 145	glaucoma
+T3	DrugClass 107 122	corticosteroids
+T4	AdverseReaction 151 176	damage to the optic nerve
+T5	AdverseReaction 178 202	defects in visual acuity
+T6	AdverseReaction 178 185;207 223	defects fields of vision
+T7	DrugClass 341 356	corticosteroids
+T8	AdverseReaction 371 401	posterior subcapsular cataract
+T9	DrugClass 461 469	steroids
+T10	AdverseReaction 497 510	delay healing
+T11	AdverseReaction 515 523;541 555	increase bleb formation
+T12	AdverseReaction 617 629	perforations
+T13	DrugClass 679 687	steroids
+T14	DrugClass 1000 1015	corticosteroids
+T15	AdverseReaction 1079 1106	secondary ocular infections
+T16	DrugClass 1465 1473	steroids
+T17	AdverseReaction 1505 1515;1537 1564	exacerbate viral infections of the eye
+T18	AdverseReaction 1632 1663	Fungal infections of the cornea
+T19	DrugClass 1734 1741	steroid
+T20	DrugClass 2080 2095	corticosteroids
+T21	AdverseReaction 2110 2118	glaucoma
+T22	AdverseReaction 2124 2149	damage to the optic nerve
+T23	AdverseReaction 2151 2175	defects in visual acuity
+T24	AdverseReaction 2151 2158;2180 2196	defects fields of vision
+T25	AdverseReaction 2416 2446	posterior subcapsular cataract
+T26	DrugClass 2386 2401	corticosteroids
+T27	DrugClass 2501 2509	steroids
+T28	AdverseReaction 2537 2550	delay healing
+T29	AdverseReaction 2555 2563;2581 2595	increase bleb formation
+T30	AdverseReaction 2657 2669	perforations
+T31	DrugClass 2719 2727	steroids
+T32	DrugClass 3035 3050	corticosteroids
+T33	AdverseReaction 3114 3141	secondary ocular infections
+T34	DrugClass 3495 3503	steroids
+T35	AdverseReaction 3535 3545;3567 3594	exacerbate viral infections of the eye
+T36	AdverseReaction 3657 3688	Fungal infections of the cornea
+T37	DrugClass 3759 3766	steroid
+T38	AdverseReaction 75 78;80 88	IOP increase
+T39	AdverseReaction 1020 1046	suppress the host response
+T40	AdverseReaction 1505 1515;1576 1590	exacerbate herpes simplex
+T41	AdverseReaction 3055 3081	suppress the host response
+T42	AdverseReaction 3535 3545;3606 3620	exacerbate herpes simplex
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Hypothetical:E3
+E3	DrugClass:T3
+E4	AdverseReaction:T4 Hypothetical:E3
+E5	AdverseReaction:T5 Hypothetical:E3
+E6	AdverseReaction:T6 Hypothetical:E3
+E7	DrugClass:T7
+E8	AdverseReaction:T8 Hypothetical:E7
+E9	DrugClass:T9
+E10	AdverseReaction:T10 Hypothetical:E9
+E11	AdverseReaction:T11 Hypothetical:E9
+E12	AdverseReaction:T12 Hypothetical:E13
+E13	DrugClass:T13
+E14	DrugClass:T14
+E15	AdverseReaction:T15 Hypothetical:E14
+E16	DrugClass:T16
+E17	AdverseReaction:T17 Hypothetical:E16
+E18	AdverseReaction:T18 Hypothetical:E19
+E19	DrugClass:T19
+E20	DrugClass:T20
+E21	AdverseReaction:T21 Hypothetical:E20
+E22	AdverseReaction:T22 Hypothetical:E20
+E23	AdverseReaction:T23 Hypothetical:E20
+E24	AdverseReaction:T24 Hypothetical:E20
+E25	AdverseReaction:T25 Hypothetical:E26
+E26	DrugClass:T26
+E27	DrugClass:T27
+E28	AdverseReaction:T28 Hypothetical:E27
+E29	AdverseReaction:T29 Hypothetical:E27
+E30	AdverseReaction:T30 Hypothetical:E31
+E31	DrugClass:T31
+E32	DrugClass:T32
+E33	AdverseReaction:T33 Hypothetical:E32
+E34	DrugClass:T34
+E35	AdverseReaction:T35 Hypothetical:E34
+E36	AdverseReaction:T36 Hypothetical:E37
+E37	DrugClass:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39 Hypothetical:E14
+E40	AdverseReaction:T40 Hypothetical:E16
+E41	AdverseReaction:T41 Hypothetical:E32
+E42	AdverseReaction:T42 Hypothetical:E34
+A1	CUI E1 C0234708
+A2	UMLS-Preferred-Name E1 Raised intraocular pressure
+A3	MEDDRA-PT E1 Intraocular pressure increased
+A4	MEDDRA-PT-ID E1 10022806
+A5	CUI E2 C0017601
+A6	UMLS-Preferred-Name E2 Glaucoma
+A7	MEDDRA-PT E2 Glaucoma
+A8	MEDDRA-PT-ID E2 10018304
+A9	CUI E4 C0161398
+A10	UMLS-Preferred-Name E4 Optic Nerve Injuries
+A11	MEDDRA-PT E4 Optic nerve injury
+A12	MEDDRA-PT-ID E4 10030938
+A13	LLT E4 Optic nerve damage
+A14	LLT-ID E4 10075452
+A15	CUI E5 C0234632
+A16	UMLS-Preferred-Name E5 Reduced visual acuity
+A17	MEDDRA-PT E5 Visual acuity reduced
+A18	MEDDRA-PT-ID E5 10047531
+A19	CUI E6 C3887875
+A20	UMLS-Preferred-Name E6 Visual field defects
+A21	MEDDRA-PT E6 Visual field defect
+A22	MEDDRA-PT-ID E6 10047555
+A23	CUI E8 C0858617
+A24	UMLS-Preferred-Name E8 Posterior subcapsular cataract
+A25	MEDDRA-PT E8 Cataract subcapsular
+A26	MEDDRA-PT-ID E8 10007764
+A27	LLT E8 Posterior subcapsular cataract
+A28	LLT-ID E8 10036364
+A29	CUI E10 C0151692
+A30	UMLS-Preferred-Name E10 Impaired wound healing
+A31	MEDDRA-PT E10 Impaired healing
+A32	MEDDRA-PT-ID E10 10021519
+A33	LLT E10 Healing delayed
+A34	LLT-ID E10 10019238
+A35	flag E11 underspecified
+A36	CUI E11 C0005758
+A37	UMLS-Preferred-Name E11 Bulla
+A38	MEDDRA-PT E11 Blister
+A39	MEDDRA-PT-ID E11 10005191
+A40	CUI E12 C0549099
+A41	UMLS-Preferred-Name E12 Perforation (observation)
+A42	MEDDRA-PT E12 Perforation
+A43	MEDDRA-PT-ID E12 10076705
+A44	CUI E15 C0015403
+A45	UMLS-Preferred-Name E15 Eye Infections
+A46	MEDDRA-PT E15 Eye infection
+A47	MEDDRA-PT-ID E15 10015929
+A48	CUI E17 C0015407
+A49	UMLS-Preferred-Name E17 Eye Infections, Viral
+A50	MEDDRA-PT E17 Eye infection viral
+A51	MEDDRA-PT-ID E17 10015940
+A52	flag E18 duplicate
+A53	CUI E18 C0729777
+A54	UMLS-Preferred-Name E18 Corneal infection
+A55	MEDDRA-PT E18 Corneal infection
+A56	MEDDRA-PT-ID E18 10061788
+A57	CUI E21 C0017601
+A58	UMLS-Preferred-Name E21 Glaucoma
+A59	MEDDRA-PT E21 Glaucoma
+A60	MEDDRA-PT-ID E21 10018304
+A61	CUI E22 C0161398
+A62	UMLS-Preferred-Name E22 Optic Nerve Injuries
+A63	MEDDRA-PT E22 Optic nerve injury
+A64	MEDDRA-PT-ID E22 10030938
+A65	LLT E22 Optic nerve damage
+A66	LLT-ID E22 10075452
+A67	CUI E23 C0234632
+A68	UMLS-Preferred-Name E23 Reduced visual acuity
+A69	MEDDRA-PT E23 Visual acuity reduced
+A70	MEDDRA-PT-ID E23 10047531
+A71	CUI E24 C3887875
+A72	UMLS-Preferred-Name E24 Visual field defects
+A73	MEDDRA-PT E24 Visual field defect
+A74	MEDDRA-PT-ID E24 10047555
+A75	CUI E25 C0858617
+A76	UMLS-Preferred-Name E25 Posterior subcapsular cataract
+A77	MEDDRA-PT E25 Cataract subcapsular
+A78	MEDDRA-PT-ID E25 10007764
+A79	LLT E25 Posterior subcapsular cataract
+A80	LLT-ID E25 10036364
+A81	CUI E28 C0151692
+A82	UMLS-Preferred-Name E28 Impaired wound healing
+A83	MEDDRA-PT E28 Impaired healing
+A84	MEDDRA-PT-ID E28 10021519
+A85	LLT E28 Healing delayed
+A86	LLT-ID E28 10019238
+A87	flag E29 underspecified
+A88	CUI E29 C0005758
+A89	UMLS-Preferred-Name E29 Bulla
+A90	MEDDRA-PT E29 Blister
+A91	MEDDRA-PT-ID E29 10005191
+A92	CUI E30 C0549099
+A93	UMLS-Preferred-Name E30 Perforation (observation)
+A94	MEDDRA-PT E30 Perforation
+A95	MEDDRA-PT-ID E30 10076705
+A96	CUI E33 C0015403
+A97	UMLS-Preferred-Name E33 Eye Infections
+A98	MEDDRA-PT E33 Eye infection
+A99	MEDDRA-PT-ID E33 10015929
+A100	CUI E35 C0015407
+A101	UMLS-Preferred-Name E35 Eye Infections, Viral
+A102	MEDDRA-PT E35 Eye infection viral
+A103	MEDDRA-PT-ID E35 10015940
+A104	flag E36 duplicate
+A105	CUI E36 C0729777
+A106	UMLS-Preferred-Name E36 Corneal infection
+A107	MEDDRA-PT E36 Corneal infection
+A108	MEDDRA-PT-ID E36 10061788
+A109	CUI E38 C0234708
+A110	UMLS-Preferred-Name E38 Raised intraocular pressure
+A111	MEDDRA-PT E38 Intraocular pressure increased
+A112	MEDDRA-PT-ID E38 10022806
+A113	LLT E38 Increased intraocular pressure
+A114	LLT-ID E38 10021667
+A115	CUI E39 C1373218
+A116	UMLS-Preferred-Name E39 Decreased Immunologic Activity [PE]
+A117	MEDDRA-PT E39 Immunosuppression
+A118	MEDDRA-PT-ID E39 10062016
+A119	CUI E40 C0856138
+A120	UMLS-Preferred-Name E40 Herpes simplex aggravated
+A121	MEDDRA-PT E40 Herpes simplex
+A122	MEDDRA-PT-ID E40 10019948
+A123	LLT E40 Herpes simplex aggravated
+A124	LLT-ID E40 10048418
+A125	CUI E41 C1373218
+A126	UMLS-Preferred-Name E41 Decreased Immunologic Activity [PE]
+A127	MEDDRA-PT E41 Immunosuppression
+A128	MEDDRA-PT-ID E41 10062016
+A129	CUI E42 C0856138
+A130	UMLS-Preferred-Name E42 Herpes simplex aggravated
+A131	MEDDRA-PT E42 Herpes simplex
+A132	MEDDRA-PT-ID E42 10019948
+A133	LLT E42 Herpes simplex aggravated
+A134	LLT-ID E42 10048418

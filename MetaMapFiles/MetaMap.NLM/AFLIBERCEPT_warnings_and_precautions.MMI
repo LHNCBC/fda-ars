@@ -1,0 +1,20 @@
+00000000|AA|VEGF|vascular endothelial growth factor|1|4|7|34|1393:4
+00000000|AA|ATEs|arterial thromboembolic events|1|4|5|30|1660:4
+00000000|MMI|68.46|Endophthalmitis|C0014236|[dsyn]|["ENDOPHTHALMITIS"-tx-7-"endophthalmitis"-noun-0,"ENDOPHTHALMITIS"-tx-5-"Endophthalmitis"-noun-0,"ENDOPHTHALMITIS"-tx-5-"endophthalmitis"-noun-0,"ENDOPHTHALMITIS"-tx-2-"endophthalmitis"-noun-0,"ENDOPHTHALMITIS"-tx-1-"Endophthalmitis"-noun-0]|TX|880/15;536/15;658/15;202/15;50/15|C01.539.375.265;C11.294.265
+00000000|MMI|52.56|Retinal Detachment|C0035305|[dsyn]|["RETINAL DETACHMENT"-tx-7-"retinal detachment"-noun-0,"Retinal Detachments"-tx-5-"Retinal Detachments"-noun-0,"Retinal Detachments"-tx-5-"retinal detachments"-noun-0,"RETINAL DETACHMENT"-tx-2-"retinal detachment"-noun-0,"Retinal Detachments"-tx-1-"retinal detachments"-noun-0]|TX|899/18;556/19;678/19;221/18;70/19|C11.768.648
+00000000|MMI|39.67|Thromboembolism|C0040038|[patf]|["Thromboembolic events"-tx-15-"thromboembolic events"-noun-1,"Thromboembolic events"-tx-13-"thromboembolic events"-noun-0,"Thromboembolic events"-tx-11-"Thromboembolic Events"-noun-0]|TX|2414/21;1880/21;1572/21|C14.907.355.590
+00000000|MMI|16.18|Cerebrovascular accident|C0038454|[dsyn]|["STROKE"-tx-12-"stroke"-noun-0]|TX|1759/6|C10.228.140.300.775;C14.907.253.855
+00000000|MMI|13.22|Myocardial Infarction|C0027051|[dsyn]|["Infarction, Myocardial"-tx-12-"myocardial infarction"-noun-0]|TX|1776/21|C14.280.647.500;C14.907.585.500
+00000000|MMI|10.81|Arterial thromboembolism|C3544094|[patf]|["Arterial Thromboembolic Event"-tx-12-"ATEs"-noun-0,"Arterial Thromboembolic Event"-tx-11-"arterial thromboembolic events"-noun-0,"Arterial Thromboembolic Event"-tx-4-"arterial thromboembolic events"-noun-0]|TX|1730/4;1628/30;439/30|
+00000000|MMI|10.42|Intraocular pressure disorder|C0595921|[dsyn]|["INTRAOCULAR PRESSURE"-tx-10-"Intraocular pressure"-noun-0,"INTRAOCULAR PRESSURE"-tx-8-"intraocular pressure"-noun-0]|TX|1411/20;1113/20|
+00000000|MMI|10.42|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-7-"symptoms"-noun-0,"SYMPTOMS"-tx-2-"symptoms"-noun-0]|TX|857/8;179/8|
+00000000|MMI|7.40|2+|C3833492|[fndg]|["2+"-tx-10-"2"-real_number-0,"2+"-tx-7-"2"-real_number-0]|TX|1553/1;1001/1|
+00000000|MMI|7.32|Retinal Detachment Adverse Event|C1963229|[fndg]|["Retinal detachment"-tx-7-"retinal detachment"-noun-0,"Retinal detachment"-tx-2-"retinal detachment"-noun-0]|TX|899/18;221/18|
+00000000|MMI|5.18|6/4|C0442748|[fndg]|["6/4"-tx-14-"6.4"-percentage-0]|TX|2260/3|
+00000000|MMI|5.18|Used by|C1273517|[fndg]|["used"-tx-6-"used"-verb-0]|TX|782/4|
+00000000|MMI|4.25|Death of unknown cause|C0277589|[fndg]|["Death of unknown cause"-tx-12-"deaths of unknown cause"-noun-0]|TX|1828/23|
+00000000|MMI|3.68|1+|C3816745|[fndg]|["1+"-tx-13-"1"-percentage-0]|TX|1947/1|
+00000000|MMI|3.68|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-14-"3"-percentage-0]|TX|2085/1|
+00000000|MMI|3.68|Death (finding)|C1306577|[fndg]|["Death"-tx-12-"death"-noun-0]|TX|1811/5|
+00000000|MMI|3.50|Adverse Event Associated with Vascular|C1558950|[fndg]|["VASCULAR"-tx-12-"vascular"-adj-0]|TX|1802/8|
+00000000|MMI|3.48|Encounter due to counseling|C0740209|[fndg]|["Counseling NOS"-tx-7-"Counseling"-adj-1]|TX|1016/10|

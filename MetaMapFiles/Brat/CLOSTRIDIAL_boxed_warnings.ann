@@ -1,0 +1,176 @@
+T1	AdverseReaction 34 50	CORPORAL RUPTURE
+T2	AdverseReaction 52 67	PENILE FRACTURE
+T3	AdverseReaction 87 100	PENILE INJURY
+T4	Severity 79 86	SERIOUS
+T5	AdverseReaction 156 172	CORPORAL RUPTURE
+T6	AdverseReaction 174 189	PENILE FRACTURE
+T7	AdverseReaction 209 222	PENILE INJURY
+T8	Severity 201 208	SERIOUS
+T9	AdverseReaction 265 281	Corporal rupture
+T10	AdverseReaction 283 298	penile fracture
+T11	AdverseReaction 472 489	penile ecchymoses
+T12	AdverseReaction 472 478;493 501	penile hematoma
+T13	AdverseReaction 510 529	penile detumescence
+T14	AdverseReaction 540 562	penile "popping" sound
+T15	AdverseReaction 540 556;566 575	penile "popping" sensation
+T16	AdverseReaction 625 641	corporal rupture
+T17	Factor 642 660	cannot be excluded
+T18	AdverseReaction 669 684	penile hematoma
+T19	Severity 662 668	Severe
+T20	AdverseReaction 1370 1386	CORPORAL RUPTURE
+T21	AdverseReaction 1388 1403	PENILE FRACTURE
+T22	AdverseReaction 1422 1435	PENILE INJURY
+T23	Severity 1414 1421	SERIOUS
+T24	AdverseReaction 1554 1570	Corporal rupture
+T25	AdverseReaction 1572 1587	penile fracture
+T26	AdverseReaction 1759 1775	corporal rupture
+T27	Factor 1776 1794	cannot be excluded
+T28	AdverseReaction 1803 1818	penile hematoma
+T29	Severity 1796 1802	Severe
+T30	AdverseReaction 1071 1087	corporal rupture
+T31	Factor 1062 1067	risks
+T32	AdverseReaction 1105 1118	penile injury
+T33	Severity 1097 1104	serious
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3 Effect:E4
+E4	Severity:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7 Effect:E8
+E8	Severity:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16 Hypothetical:E17
+E17	Factor:T17
+E18	AdverseReaction:T18 Effect:E19
+E19	Severity:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22 Effect:E23
+E23	Severity:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26 Hypothetical:E27
+E27	Factor:T27
+E28	AdverseReaction:T28 Effect:E29
+E29	Severity:T29
+E30	AdverseReaction:T30 Hypothetical:E31
+E31	Factor:T31
+E32	AdverseReaction:T32 Effect:E33 Hypothetical:E31
+E33	Severity:T33
+A1	CUI E1 C0434159
+A2	UMLS-Preferred-Name E1 Rupture of corpus cavernosum of penis
+A3	MEDDRA-PT E1 Fracture of penis
+A4	MEDDRA-PT-ID E1 10052530
+A5	CUI E2 C0434159
+A6	UMLS-Preferred-Name E2 Rupture of corpus cavernosum of penis
+A7	MEDDRA-PT E2 Fracture of penis
+A8	MEDDRA-PT-ID E2 10052530
+A9	CUI E3 C0347656
+A10	UMLS-Preferred-Name E3 Injury of penis
+A11	MEDDRA-PT E3 Penis injury
+A12	MEDDRA-PT-ID E3 10068036
+A13	CUI E5 C0434159
+A14	UMLS-Preferred-Name E5 Rupture of corpus cavernosum of penis
+A15	MEDDRA-PT E5 Fracture of penis
+A16	MEDDRA-PT-ID E5 10052530
+A17	CUI E6 C0434159
+A18	UMLS-Preferred-Name E6 Rupture of corpus cavernosum of penis
+A19	MEDDRA-PT E6 Fracture of penis
+A20	MEDDRA-PT-ID E6 10052530
+A21	CUI E7 C0347656
+A22	UMLS-Preferred-Name E7 Injury of penis
+A23	MEDDRA-PT E7 Penis injury
+A24	MEDDRA-PT-ID E7 10068036
+A25	CUI E9 C0434159
+A26	UMLS-Preferred-Name E9 Rupture of corpus cavernosum of penis
+A27	MEDDRA-PT E9 Fracture of penis
+A28	MEDDRA-PT-ID E9 10052530
+A29	CUI E10 C0434159
+A30	UMLS-Preferred-Name E10 Rupture of corpus cavernosum of penis
+A31	MEDDRA-PT E10 Fracture of penis
+A32	MEDDRA-PT-ID E10 10052530
+A33	CUI E11 C2938973
+A34	UMLS-Preferred-Name E11 Penile ecchymosis
+A35	MEDDRA-PT E11 Penile haemorrhage
+A36	MEDDRA-PT-ID E11 10034305
+A37	LLT E11 Penile ecchymosis
+A38	LLT-ID E11 10070657
+A39	CUI E12 C2938972
+A40	UMLS-Preferred-Name E12 Penile haematoma
+A41	MEDDRA-PT E12 Penile haematoma
+A42	MEDDRA-PT-ID E12 10070656
+A43	LLT E12 Penile hematoma
+A44	LLT-ID E12 10070663
+A45	CUI E13 C0858253
+A46	UMLS-Preferred-Name E13 Inability to maintain erection
+A47	MEDDRA-PT E13 Erectile dysfunction
+A48	MEDDRA-PT-ID E13 10061461
+A49	LLT E13 Inability to maintain erection
+A50	LLT-ID E13 10021573
+A51	CUI E14 C3854564
+A52	UMLS-Preferred-Name E14 Penile popping sensation
+A53	MEDDRA-PT E14 Penis disorder
+A54	MEDDRA-PT-ID E14 10034336
+A55	LLT E14 Penile popping sensation
+A56	LLT-ID E14 10074968
+A57	CUI E15 C3854564
+A58	UMLS-Preferred-Name E15 Penile popping sensation
+A59	MEDDRA-PT E15 Penis disorder
+A60	MEDDRA-PT-ID E15 10034336
+A61	LLT E15 Penile popping sensation
+A62	LLT-ID E15 10074968
+A63	CUI E16 C0434159
+A64	UMLS-Preferred-Name E16 Rupture of corpus cavernosum of penis
+A65	MEDDRA-PT E16 Fracture of penis
+A66	MEDDRA-PT-ID E16 10052530
+A67	CUI E18 C2938972
+A68	UMLS-Preferred-Name E18 Penile haematoma
+A69	MEDDRA-PT E18 Penile haematoma
+A70	MEDDRA-PT-ID E18 10070656
+A71	LLT E18 Penile hematoma
+A72	LLT-ID E18 10070663
+A73	CUI E20 C0434159
+A74	UMLS-Preferred-Name E20 Rupture of corpus cavernosum of penis
+A75	MEDDRA-PT E20 Fracture of penis
+A76	MEDDRA-PT-ID E20 10052530
+A77	CUI E21 C0434159
+A78	UMLS-Preferred-Name E21 Rupture of corpus cavernosum of penis
+A79	MEDDRA-PT E21 Fracture of penis
+A80	MEDDRA-PT-ID E21 10052530
+A81	CUI E22 C0347656
+A82	UMLS-Preferred-Name E22 Injury of penis
+A83	MEDDRA-PT E22 Penis injury
+A84	MEDDRA-PT-ID E22 10068036
+A85	CUI E24 C0434159
+A86	UMLS-Preferred-Name E24 Rupture of corpus cavernosum of penis
+A87	MEDDRA-PT E24 Fracture of penis
+A88	MEDDRA-PT-ID E24 10052530
+A89	CUI E25 C0434159
+A90	UMLS-Preferred-Name E25 Rupture of corpus cavernosum of penis
+A91	MEDDRA-PT E25 Fracture of penis
+A92	MEDDRA-PT-ID E25 10052530
+A93	CUI E26 C0434159
+A94	UMLS-Preferred-Name E26 Rupture of corpus cavernosum of penis
+A95	MEDDRA-PT E26 Fracture of penis
+A96	MEDDRA-PT-ID E26 10052530
+A97	CUI E28 C2938972
+A98	UMLS-Preferred-Name E28 Penile haematoma
+A99	MEDDRA-PT E28 Penile haematoma
+A100	MEDDRA-PT-ID E28 10070656
+A101	LLT E28 Penile hematoma
+A102	LLT-ID E28 10070663
+A103	CUI E30 C0434159
+A104	UMLS-Preferred-Name E30 Rupture of corpus cavernosum of penis
+A105	MEDDRA-PT E30 Fracture of penis
+A106	MEDDRA-PT-ID E30 10052530
+A107	CUI E32 C0347656
+A108	UMLS-Preferred-Name E32 Injury of penis
+A109	MEDDRA-PT E32 Penis injury
+A110	MEDDRA-PT-ID E32 10068036

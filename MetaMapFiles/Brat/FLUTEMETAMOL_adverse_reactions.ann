@@ -1,0 +1,96 @@
+T1	AdverseReaction 84 92	flushing
+T2	AdverseReaction 99 107	headache
+T3	AdverseReaction 114 138	increased blood pressure
+T4	AdverseReaction 145 151	nausea
+T5	AdverseReaction 162 171	dizziness
+T6	AdverseReaction 904 929	hypersensitivity reaction
+T7	Severity 896 903	serious
+T8	AdverseReaction 935 943	flushing
+T9	AdverseReaction 945 952	dyspnea
+T10	AdverseReaction 957 971	chest pressure
+T11	AdverseReaction 1475 1483	Flushing
+T12	AdverseReaction 1582 1606	Increased blood pressure
+T13	AdverseReaction 1689 1697	Headache
+T14	AdverseReaction 1796 1802	Nausea
+T15	AdverseReaction 1903 1912	Dizziness
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6 Effect:E7
+E7	Severity:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+A1	CUI E1 C0016382
+A2	UMLS-Preferred-Name E1 Flushing
+A3	MEDDRA-PT E1 Flushing
+A4	MEDDRA-PT-ID E1 10016825
+A5	CUI E2 C0018681
+A6	UMLS-Preferred-Name E2 Headache
+A7	MEDDRA-PT E2 Headache
+A8	MEDDRA-PT-ID E2 10019211
+A9	CUI E3 C0497247
+A10	UMLS-Preferred-Name E3 Increase in blood pressure
+A11	MEDDRA-PT E3 Blood pressure increased
+A12	MEDDRA-PT-ID E3 10005750
+A13	LLT E3 Increased blood pressure
+A14	LLT-ID E3 10021655
+A15	CUI E4 C0027497
+A16	UMLS-Preferred-Name E4 Nausea
+A17	MEDDRA-PT E4 Nausea
+A18	MEDDRA-PT-ID E4 10028813
+A19	CUI E5 C0012833
+A20	UMLS-Preferred-Name E5 Dizziness
+A21	MEDDRA-PT E5 Dizziness
+A22	MEDDRA-PT-ID E5 10013573
+A23	CUI E6 C0020517
+A24	UMLS-Preferred-Name E6 Hypersensitivity
+A25	MEDDRA-PT E6 Hypersensitivity
+A26	MEDDRA-PT-ID E6 10020751
+A27	LLT E6 Hypersensitivity reaction
+A28	LLT-ID E6 10020756
+A29	CUI E8 C0016382
+A30	UMLS-Preferred-Name E8 Flushing
+A31	MEDDRA-PT E8 Flushing
+A32	MEDDRA-PT-ID E8 10016825
+A33	CUI E9 C0013404
+A34	UMLS-Preferred-Name E9 Dyspnea
+A35	MEDDRA-PT E9 Dyspnoea
+A36	MEDDRA-PT-ID E9 10013968
+A37	LLT E9 Dyspnea
+A38	LLT-ID E9 10013963
+A39	CUI E10 C0438716
+A40	UMLS-Preferred-Name E10 Chest pressure
+A41	MEDDRA-PT E10 Chest discomfort
+A42	MEDDRA-PT-ID E10 10008469
+A43	LLT E10 Chest pressure
+A44	LLT-ID E10 10008486
+A45	CUI E11 C0016382
+A46	UMLS-Preferred-Name E11 Flushing
+A47	MEDDRA-PT E11 Flushing
+A48	MEDDRA-PT-ID E11 10016825
+A49	CUI E12 C0497247
+A50	UMLS-Preferred-Name E12 Increase in blood pressure
+A51	MEDDRA-PT E12 Blood pressure increased
+A52	MEDDRA-PT-ID E12 10005750
+A53	LLT E12 Increased blood pressure
+A54	LLT-ID E12 10021655
+A55	CUI E13 C0018681
+A56	UMLS-Preferred-Name E13 Headache
+A57	MEDDRA-PT E13 Headache
+A58	MEDDRA-PT-ID E13 10019211
+A59	CUI E14 C0027497
+A60	UMLS-Preferred-Name E14 Nausea
+A61	MEDDRA-PT E14 Nausea
+A62	MEDDRA-PT-ID E14 10028813
+A63	CUI E15 C0012833
+A64	UMLS-Preferred-Name E15 Dizziness
+A65	MEDDRA-PT E15 Dizziness
+A66	MEDDRA-PT-ID E15 10013573

@@ -1,0 +1,67 @@
+00000000|AA|ESAs|erythropoiesis stimulating agents|1|4|5|33|4776:4
+00000000|MMI|324.18|Anemia|C0002871|[dsyn]|["ANEMIA"-tx-37-"anemia"-noun-0,"ANEMIA"-tx-35-"anemia"-noun-0,"ANEMIA"-tx-32-"anemia"-noun-0,"ANEMIA"-tx-28-"anemia"-noun-0,"ANEMIA"-tx-26-"anemia"-noun-0,"ANEMIA"-tx-25-"anemia"-noun-0,"ANEMIA"-tx-24-"anemia"-noun-0,"ANEMIA"-tx-23-"anemia"-noun-0,"ANEMIA"-tx-21-"anemia"-noun-0,"ANEMIA"-tx-18-"anemia"-noun-0,"ANEMIA"-tx-14-"Anemia"-noun-0,"ANEMIA"-tx-3-"Anemia"-noun-0]|TX|7039/6;6687/6;6147/6;5203/6;4814/6;4588/6;4375/6;4016/6;3511/6;2913/6;[2129/6],[2185/6];456/6|C15.378.071
+00000000|MMI|102.00|Neutropenia|C0027947|[dsyn]|["NEUTROPENIA"-tx-39-"neutropenia"-noun-0,"NEUTROPENIA"-tx-38-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-4-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-4-"neutropenia"-noun-0]|TX|[7455/11],[7514/11];7058/11;667/11;770/11|C15.378.553.546.184.564
+00000000|MMI|75.12|Discontinued|C1444662|[fndg]|["Discontinued"-tx-48-"discontinued"-verb-0,"Discontinuation"-tx-46-"discontinuation"-noun-0,"Discontinuation"-tx-43-"discontinuation"-noun-0,"Discontinued"-tx-42-"discontinued"-verb-0,"Discontinuation"-tx-41-"discontinuation"-noun-0,"Discontinuation"-tx-35-"discontinuation"-noun-0,"Discontinued"-tx-25-"discontinued"-verb-0,"Discontinuation"-tx-19-"discontinuation"-noun-0,"Discontinued"-tx-18-"discontinued"-verb-0,"Discontinuation"-tx-17-"discontinuation"-noun-0]|TX|9104/12;8779/15;8216/15;[7984/12],[8026/12];7879/15;6659/15;4557/12;3143/15;[2882/12],[2972/12];2746/15|
+00000000|MMI|71.45|combination - answer to question|C3811910|[fndg]|["Combination"-tx-44-"combination"-noun-0,"Combination"-tx-39-"combination"-noun-0,"Combination"-tx-38-"combination"-noun-0,"Combination"-tx-32-"combination"-noun-0,"Combination"-tx-30-"combination"-noun-0,"Combination"-tx-28-"combination"-noun-0,"Combination"-tx-27-"combination"-noun-0,"Combination"-tx-25-"combination"-noun-0,"Combination"-tx-24-"combination"-noun-0,"Combination"-tx-23-"combination"-noun-0,"Combination"-tx-22-"combination"-noun-0,"Combination"-tx-20-"combination"-noun-0]|TX|8405/11;7546/11;7193/11;6187/11;5634/11;5246/11;5016/11;4631/11;4435/11;4142/11;3789/11;3349/11|
+00000000|MMI|68.86|Leukopenia|C0023530|[dsyn]|["NEUTROPENIA"-tx-39-"neutropenia"-noun-0,"NEUTROPENIA"-tx-38-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-4-"Neutropenia"-noun-0,"NEUTROPENIA"-tx-4-"neutropenia"-noun-0]|TX|[7455/11],[7514/11];7058/11;667/11;770/11|C15.378.553.546
+00000000|MMI|56.89|Living Alone|C0439044|[fndg]|["Alone"-tx-38-"alone"-adj-0,"Alone"-tx-34-"alone"-adj-0,"Alone"-tx-30-"alone"-adj-0,"Alone"-tx-28-"alone"-adj-0,"Alone"-tx-27-"alone"-adj-0,"Alone"-tx-23-"alone"-adj-0,"Alone"-tx-20-"alone"-adj-0,"Alone"-tx-4-"alone"-adj-0,"Alone"-tx-3-"alone"-adj-0]|TX|7350/5;6638/5;5727/5;5362/5;5120/5;4235/5;3455/5;839/5;645/5|
+00000000|MMI|40.44|Thromboembolism|C0040038|[patf]|["Thromboembolic events"-tx-34-"thromboembolic events"-noun-0,"Thromboembolic events"-tx-30-"Thromboembolic events"-noun-0,"Thromboembolic events"-tx-29-"Thromboembolic events"-noun-0]|TX|6469/21;5535/21;5373/21|C14.907.355.590
+00000000|MMI|38.65|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-54-"Therapy"-noun-0,"Therapy"-tx-46-"therapy"-noun-0,"Therapy"-tx-32-"therapy"-noun-0,"Therapy"-tx-22-"therapy"-noun-0,"Therapy"-tx-14-"therapy"-noun-0,"Therapy"-tx-8-"therapy"-noun-0,"Therapy"-tx-8-"therapy"-noun-1,"Therapy"-tx-4-"therapy"-noun-0,"Therapy"-tx-2-"therapy"-noun-0]|TX|10211/7;8798/7;6161/7;3737/7;2248/7;[1328/7],[1456/7];[1328/7],[1456/7];831/7;358/7|
+00000000|MMI|35.81|Angioedema|C0002994|[patf]|["Angiooedema"-tx-47-"angioedema"-noun-0,"Angiooedema"-tx-5-"angioedema"-noun-0]|TX|8932/10;939/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|30.38|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-36-"randomized"-verb-0,"RANDOMIZED"-tx-35-"randomized"-verb-0,"RANDOMIZED"-tx-33-"randomized"-verb-0,"RANDOMIZED"-tx-32-"randomized"-adj-0]|TX|[6872/10],[6938/10];[6718/10],[6786/10];[6294/10],[6371/10];5935/10|
+00000000|MMI|29.46|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-47-"urticaria"-noun-0,"URTICARIA"-tx-5-"urticaria"-noun-0]|TX|8921/9;928/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|26.58|Fetal Death|C0015927|[patf]|["fetus death"-tx-6-"death fetus"-noun-0,"Foetal death"-tx-1-"fetal death"-noun-0]|TX|1184/5,1205/5;218/11|C13.703.223;C23.550.260.585
+00000000|MMI|24.11|Syncope|C0039070|[sosy]|["SYNCOPE"-tx-23-"syncope"-noun-0]|TX|4075/7|C10.597.606.358.800.600;C23.888.592.604.359.800.600
+00000000|MMI|20.51|Hypersensitivity|C0020517|[patf]|["Sensitive"-tx-52-"sensitive"-adj-0,"Hypersensitivity reactions"-tx-47-"Hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-5-"Hypersensitivity reactions"-noun-0]|TX|9848/9;8851/16,8904/9;861/16,911/9|C20.543
+00000000|MMI|19.77|Pancytopenia|C0030312|[dsyn]|["PANCYTOPENIA"-tx-44-"Pancytopenia"-noun-0,"PANCYTOPENIA"-tx-44-"pancytopenia"-noun-0]|TX|8244/12;8324/12|C15.378.700
+00000000|MMI|19.15|Neutrophil count decreased|C0853697|[fndg]|["Neutropenia"-tx-39-"neutropenia"-noun-0,"Neutropenia"-tx-38-"Neutropenia"-noun-0,"Neutropenia"-tx-4-"Neutropenia"-noun-0,"Neutropenia"-tx-4-"neutropenia"-noun-0]|TX|[7455/11],[7514/11];7058/11;667/11;770/11|
+00000000|MMI|18.44|10%|C3842590|[fndg]|["10%"-tx-53-"10"-integer-0,"10%"-tx-38-"10"-integer-0,"10%"-tx-22-"10"-integer-0,"10%"-tx-20-"10"-integer-0,"10%"-tx-17-"10"-integer-0]|TX|10145/2;7282/2;3702/2;3270/2;2638/2|
+00000000|MMI|17.80|Cerebrovascular accident|C0038454|[dsyn]|["CEREBROVASCULAR ACCIDENT"-tx-34-"cerebrovascular accident"-noun-0]|TX|6550/24|C10.228.140.300.775;C14.907.253.855
+00000000|MMI|17.80|Deep Vein Thrombosis|C0149871|[dsyn]|["DEEP VEIN THROMBOSIS"-tx-34-"deep vein thrombosis"-noun-0]|TX|6580/20|C14.907.355.830.925
+00000000|MMI|17.80|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-23-"dizziness"-noun-0]|TX|4061/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|17.80|Pulmonary Embolism|C0034065|[dsyn]|["PULMONARY EMBOLISM"-tx-34-"pulmonary embolism"-noun-0]|TX|6501/18|C08.381.746;C14.907.355.350.700
+00000000|MMI|17.80|Vertigo|C0042571|[sosy]|["dizziness"-tx-23-"dizziness"-noun-0]|TX|4061/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|16.77|Congenital Abnormality|C0000768|[cgab]|["BIRTH DEFECTS"-tx-6-"birth defects"-noun-0,"BIRTH DEFECTS"-tx-1-"birth defects"-noun-0]|TX|1163/13;200/13|C16.131
+00000000|MMI|16.66|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-48-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-23-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-23-"adverse reactions"-noun-0,"Adverse reactions"-tx-17-"Adverse Reactions"-noun-0]|TX|9206/17;4247/17;3970/17;2796/17|
+00000000|MMI|16.15|Hepatitis C|C0019196|[dsyn]|["HEPATITIS C"-tx-29-"hepatitis C"-noun-0]|TX|5513/11|C02.440.440;C02.782.350.350;C06.552.380.705.440
+00000000|MMI|15.81|White blood count|C1821144|[fndg]|["White blood cell counts"-tx-55-"white blood cell counts"-noun-0,"White blood cell counts"-tx-45-"white blood cell counts"-noun-0,"White blood cell counts"-tx-40-"white blood cell counts"-noun-0,"White blood cell counts"-tx-16-"white blood cell counts"-noun-0]|TX|10471/16,10501/6;8484/16,8514/6;7623/16,7653/6;2419/16,2449/6|
+00000000|MMI|14.64|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-23-"dyspnea"-noun-0]|TX|4032/7|C08.618.326;C23.888.852.371
+00000000|MMI|11.21|Hemoglobin finding|C1561562|[fndg]|["Hemoglobin"-tx-22-"hemoglobin"-noun-0,"Hemoglobin"-tx-17-"hemoglobin"-noun-0]|TX|3681/10;[2614/10],[2708/10]|
+00000000|MMI|10.77|Possible pregnancy (finding)|C0425965|[fndg]|["? Pregnancy"-tx-56-"pregnancy"-noun-0,"? Pregnancy"-tx-7-"pregnancy"-noun-0,"? Pregnancy"-tx-1-"pregnancy"-noun-0]|TX|10906/9;1248/9;237/9|
+00000000|MMI|10.69|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-38-"3"-integer-0,"3+"-tx-28-"3"-percentage-0,"3+"-tx-26-"3"-integer-1]|TX|7134/1;5214/1;4916/1|
+00000000|MMI|10.67|Experimental Result|C2825142|[fndg]|["Result"-tx-54-"result"-noun-0,"Result"-tx-54-"result"-noun-1,"Result"-tx-4-"result"-verb-0]|TX|[10298/6],[10370/6];[10298/6],[10370/6];747/6|
+00000000|MMI|10.42|Congenital defects|C0220810|[cgab]|["Birth Defects"-tx-6-"birth defects"-noun-0,"Birth Defects"-tx-1-"birth defects"-noun-0]|TX|1163/13;200/13|
+00000000|MMI|10.42|Detected (finding)|C0442726|[fndg]|["Detected"-tx-54-"Detected"-verb-1]|TX|[10402/8],[10428/8]|
+00000000|MMI|10.42|reported family history of birth defects (history)|C2186260|[fndg]|["birth defects"-tx-6-"birth defects"-noun-0,"birth defects"-tx-1-"birth defects"-noun-0]|TX|1163/13;200/13|
+00000000|MMI|10.42|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-47-"urticaria"-noun-0,"urticaria"-tx-5-"urticaria"-noun-0]|TX|8921/9;928/9|
+00000000|MMI|9.99|Disease|C0012634|[dsyn]|["DISEASE"-tx-29-"disease"-noun-0]|TX|5438/7|C23.550.288
+00000000|MMI|9.87|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-32-"infection"-noun-0]|TX|6054/9|C01.539.221
+00000000|MMI|7.53|Contraindicated|C1444657|[fndg]|["Contraindicated"-tx-49-"contraindicated"-verb-0,"Contraindicated"-tx-12-"contraindicated"-verb-1]|TX|9316/15;1972/15|
+00000000|MMI|7.33|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-6-"Toxicity"-noun-0,"Toxicity"-tx-1-"Toxicity"-noun-0]|TX|1085/8;126/8|
+00000000|MMI|7.22|1+|C3816745|[fndg]|["1+"-tx-25-"1"-percentage-0]|TX|[4599/1],[4683/1]|
+00000000|MMI|7.00|Life Threatening Adverse Event|C1517874|[fndg]|["Life Threatening Adverse Event"-tx-49-"life-threatening adverse events"-noun-0,"LIFE THREATENING"-tx-39-"life-threatening"-adj-0]|TX|9374/31;7497/16|
+00000000|MMI|7.00|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["Life Threatening Adverse Event"-tx-49-"life-threatening adverse events"-noun-0,"LIFE THREATENING"-tx-39-"life-threatening"-adj-0]|TX|9374/31;7497/16|
+00000000|MMI|6.71|Infection|C3714514|[patf]|["INFECTION"-tx-32-"infection"-noun-0]|TX|6054/9|C01.539
+00000000|MMI|5.18|Acute Myocardial Infarction by ECG Finding|C3541950|[fndg]|["Acute Myocardial Infarction"-tx-34-"acute myocardial infarction"-noun-0]|TX|6521/27|
+00000000|MMI|5.18|Acute myocardial infarction|C0155626|[dsyn]|["Acute Myocardial Infarction"-tx-34-"acute myocardial infarction"-noun-0]|TX|6521/27|
+00000000|MMI|5.18|Deep vein thrombosis of lower limb|C0340708|[dsyn]|["Deep vein thrombosis"-tx-34-"deep vein thrombosis"-noun-0]|TX|6580/20|
+00000000|MMI|5.18|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-23-"dizziness"-noun-0]|TX|4061/9|
+00000000|MMI|5.18|Dyspnea on exertion|C0231807|[sosy]|["Exertional dyspnoea"-tx-23-"exertional dyspnea"-noun-0]|TX|4041/18|
+00000000|MMI|5.18|Follow-up status|C0589120|[fndg]|["Follow-up"-tx-51-"follow-up"-adj-0]|TX|9777/9|
+00000000|MMI|5.18|Indicated|C1444656|[fndg]|["Indicated"-tx-51-"indicated"-verb-0]|TX|9828/9|
+00000000|MMI|5.18|Life-threatening infections|C1859430|[fndg]|["Life-threatening infections"-tx-39-"life-threatening infections"-noun-0]|TX|7411/27|
+00000000|MMI|3.68|In care (finding)|C0580931|[fndg]|["care"-tx-7-"care"-noun-0]|TX|1220/4|
+00000000|MMI|3.59|2+|C3833492|[fndg]|["2+"-tx-36-"2"-percentage-0]|TX|6923/1|
+00000000|MMI|3.59|4+ Answer to question|C3838679|[fndg]|["4+"-tx-36-"4"-percentage-0]|TX|6857/1|
+00000000|MMI|3.57|Medication 2|C3840903|[fndg]|["Drugs 2"-tx-49-"2 drugs"-noun-0]|TX|9281/1,9301/5|
+00000000|MMI|3.57|Observation parameter|C0449381|[fndg]|["Parameters"-tx-46-"parameters"-noun-0]|TX|8826/10|
+00000000|MMI|3.56|Did not receive therapy or drug for|C0332155|[fndg]|["untreated"-tx-32-"untreated"-adj-0]|TX|6015/9|
+00000000|MMI|3.56|Worse|C1457868|[fndg]|["Worsening"-tx-4-"worsening"-noun-0]|TX|757/9|
+00000000|MMI|3.50|5-6|C3843715|[fndg]|["5-6"-tx-49-"5.6"-real_number-0]|TX|9243/3|
+00000000|MMI|3.50|6/5|C0442749|[fndg]|["5 6"-tx-49-"5.6"-real_number-0]|TX|9243/3|
+00000000|MMI|3.50|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-39-"life-threatening"-adj-0]|TX|7497/16|
+00000000|MMI|3.48|Sustained Virologic Response|C4050171|[fndg]|["SVR"-tx-33-"SVR"-noun-0]|TX|6249/3|
+00000000|MMI|3.44|Activity (animal life circumstance)|C3668946|[fndg]|["Activity"-tx-49-"activity"-noun-0]|TX|9458/8|
+00000000|MMI|3.44|Endurance of activity|C0600075|[fndg]|["Activity"-tx-49-"activity"-noun-0]|TX|9458/8|
+00000000|MMI|3.43|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-23-"symptoms"-noun-0]|TX|4004/8|
+00000000|MMI|3.42|Disease Response|C1704632|[fndg]|["Response"-tx-54-"Response"-noun-0]|TX|10195/8|

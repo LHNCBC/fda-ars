@@ -1,0 +1,47 @@
+00000000|MMI|59.62|Tuberculosis|C0041296|[dsyn]|["TUBERCULOSIS"-tx-18-"tuberculosis"-noun-0,"TUBERCULOSIS"-tx-9-"tuberculosis"-noun-0]|TX|[2626/12],[2677/12];827/12|C01.252.410.040.552.846
+00000000|MMI|27.22|Discontinued|C1444662|[fndg]|["Discontinue"-tx-22-"Discontinue"-verb-0,"Discontinue"-tx-21-"discontinue"-verb-1,"Discontinue"-tx-17-"Discontinue"-verb-0,"Discontinue"-tx-5-"Discontinue"-verb-0,"Discontinue"-tx-2-"discontinue"-verb-0]|TX|3218/11;3118/11;2220/11;304/11;109/11|
+00000000|MMI|24.11|Syncope|C0039070|[sosy]|["SYNCOPE"-tx-17-"syncope"-noun-0]|TX|2430/7|C10.597.606.358.800.600;C23.888.592.604.359.800.600
+00000000|MMI|23.41|Prolonged QT interval|C0151878|[fndg]|["QT Prolongation"-tx-17-"QT prolongation"-noun-0,"QT Prolongation"-tx-16-"QT prolongation"-noun-0,"prolong qt"-tx-16-"QT prolonging"-noun-0,"QT Prolongation"-tx-14-"QT prolongation"-noun-0,"QT Prolongation"-tx-11-"QT Prolongation"-noun-0,"QT Prolongation"-tx-1-"QT prolongation"-noun-0]|TX|2470/15;1547/15;1622/13;1303/15;1022/15;52/15|
+00000000|MMI|19.25|Torsades de Pointes|C0040479|[dsyn]|["TORSADES DE POINTES"-tx-16-"Torsade de Pointes"-noun-0]|TX|1765/18|C14.280.067.845.940.700;C23.550.073.845.940.700
+00000000|MMI|18.98|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-26-"adverse reactions"-noun-0,"Adverse reactions"-tx-24-"adverse reactions"-noun-0,"Adverse reactions"-tx-18-"adverse reactions"-noun-0,"Adverse reactions"-tx-14-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-10-"Adverse Reactions"-noun-0]|TX|4482/17;4193/17;2539/17;1337/17;983/17|
+00000000|MMI|17.80|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-20-"ALT"-noun-0]|TX|2986/3|C04.557.450.550.400
+00000000|MMI|15.79|Used by|C1273517|[fndg]|["used"-tx-18-"used"-verb-0,"used"-tx-9-"used"-verb-0]|TX|[2612/4],[2663/4];813/4|
+00000000|MMI|15.00|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-16-"history of"-noun-0]|TX|[1754/10],[1791/10],[1837/10],[1881/10]|
+00000000|MMI|14.64|Anorexia|C0003123|[dsyn]|["ANOREXIA"-tx-20-"anorexia"-noun-0]|TX|2889/8|C23.888.821.108
+00000000|MMI|14.64|Hepatomegaly|C0019209|[sosy]|["HEPATOMEGALY"-tx-20-"hepatomegaly"-noun-0]|TX|2950/12|C06.552.416;C23.300.775.525
+00000000|MMI|14.64|Icterus|C0022346|[patf]|["JAUNDICE"-tx-20-"jaundice"-noun-0]|TX|2907/8|C23.550.429.500;C23.888.885.375
+00000000|MMI|14.64|Nausea|C0027497|[sosy]|["NAUSEA"-tx-20-"nausea"-noun-0]|TX|2899/6|C23.888.821.712
+00000000|MMI|14.34|Death (finding)|C1306577|[fndg]|["Death"-tx-9-"death"-noun-1,"DEATHS"-tx-8-"deaths"-noun-0,"Death"-tx-7-"death"-noun-0,"Death"-tx-6-"death"-noun-0]|TX|740/5;686/6;604/5;417/5|
+00000000|MMI|13.14|Bradycardia|C0428977|[patf]|["Bradyarrhythmias"-tx-16-"bradyarrhythmias"-noun-0]|TX|1903/16|C14.280.067.319;C23.550.073.300
+00000000|MMI|11.58|Ventricular arrhythmia|C0085612|[dsyn]|["Ventricular Arrythmia"-tx-17-"ventricular arrhythmia"-noun-0,"Ventricular arrhythmias"-tx-15-"ventricular arrhythmias"-noun-1,"Ventricular Arrythmia"-tx-2-"ventricular arrhythmia"-noun-0]|TX|2329/22;1446/23;144/22|
+00000000|MMI|11.49|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-20-"fatigue"-noun-0]|TX|2880/7|C23.888.369
+00000000|MMI|10.50|Related personal status|C0445223|[fndg]|["Related"-tx-26-"related"-adj-0,"Related"-tx-18-"related"-adj-0,"Related"-tx-4-"related"-adj-0]|TX|4474/7;2531/7;278/7|
+00000000|MMI|10.42|Detected (finding)|C0442726|[fndg]|["detect"-tx-17-"detect"-verb-0,"Detected"-tx-14-"detected"-verb-0]|TX|2463/6;1322/8|
+00000000|MMI|9.99|Hypothyroidism|C0020676|[dsyn]|["HYPOTHYROIDISM"-tx-16-"hypothyroidism"-noun-0]|TX|1859/14|C19.874.482
+00000000|MMI|7.47|Ventricular Arrhythmia Adverse Event|C1883529|[patf]|["Ventricular arrhythmia"-tx-17-"ventricular arrhythmia"-noun-0,"Ventricular arrhythmia"-tx-2-"ventricular arrhythmia"-noun-0]|TX|2329/22;144/22|
+00000000|MMI|7.47|Ventricular Arrhythmia Adverse Event NOS|C1963277|[patf]|["Ventricular arrhythmia NOS"-tx-17-"ventricular arrhythmia"-noun-0,"Ventricular arrhythmia NOS"-tx-2-"ventricular arrhythmia"-noun-0]|TX|2329/22;144/22|
+00000000|MMI|7.27|Hepatotoxicity|C0235378|[inpo]|["HEPATOTOXICITY"-tx-18-"Hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-3-"Hepatotoxicity"-noun-0]|TX|2498/14;218/14|
+00000000|MMI|6.91|Liver Dysfunction|C0086565|[patf]|["Dysfunction, Liver"-tx-21-"liver dysfunction"-noun-1]|TX|3192/17|C06.552
+00000000|MMI|5.18|Anorexia symptom|C0426579|[sosy]|["anorexia"-tx-20-"anorexia"-noun-0]|TX|2889/8|
+00000000|MMI|5.18|Human immunodeficiency virus (HIV) status|C0458074|[fndg]|["HIV STATUS"-tx-9-"HIV status"-noun-0]|TX|841/10|
+00000000|MMI|5.18|Liver tender|C0151767|[sosy]|["LIVER TENDERNESS"-tx-20-"liver tenderness"-noun-0]|TX|2929/16|
+00000000|MMI|5.18|Loss of appetite (finding)|C1971624|[fndg]|["Anorexia"-tx-20-"anorexia"-noun-0]|TX|2889/8|
+00000000|MMI|5.18|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-20-"nausea"-noun-0]|TX|2899/6|
+00000000|MMI|5.18|Recent myocardial infarction|C1998297|[fndg]|["Recent myocardial infarction"-tx-15-"recent myocardial infarction"-noun-1]|TX|1473/28|
+00000000|MMI|5.18|Recurrent disease|C0277556|[dsyn]|["Relapse"-tx-9-"relapse"-noun-1]|TX|777/7|
+00000000|MMI|5.18|Urine looks dark|C0426396|[sosy]|["Dark urine"-tx-20-"dark urine"-noun-0]|TX|2917/10|
+00000000|MMI|5.18|jaundice|C2010848|[fndg]|["jaundice"-tx-20-"jaundice"-noun-0]|TX|2907/8|
+00000000|MMI|5.18|yellow skin or eyes (symptom)|C2203646|[sosy]|["jaundice"-tx-20-"jaundice"-noun-0]|TX|2907/8|
+00000000|MMI|3.68|2+|C3833492|[fndg]|["2+"-tx-6-"2"-fraction-0]|TX|518/1|
+00000000|MMI|3.68|Bradyarrhythmia (disorder)|C0079035|[dsyn]|["bradyarrhythmias"-tx-16-"bradyarrhythmias"-noun-0]|TX|1903/16|
+00000000|MMI|3.68|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-22-"exposure"-noun-0]|TX|3698/8|
+00000000|MMI|3.68|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-20-"symptoms"-noun-0]|TX|2862/8|
+00000000|MMI|3.68|exposure history|C2220266|[fndg]|["exposure"-tx-22-"exposure"-noun-0]|TX|3698/8|
+00000000|MMI|3.68|H/O: heart failure|C0455531|[fndg]|["History of - heart failure"-tx-16-"history of heart failure"-noun-0]|TX|1927/10,1952/13|
+00000000|MMI|3.58|Encounter due to drug use|C0476643|[fndg]|["use; drugs"-tx-16-"use drugs"-noun-0]|TX|1607/3,1636/5|
+00000000|MMI|3.58|medication use|C0240320|[fndg]|["use Drugs"-tx-16-"use drugs"-noun-0]|TX|1607/3,1636/5|
+00000000|MMI|3.57|Imbalance|C1397014|[sosy]|["Imbalance"-tx-8-"imbalance"-noun-0]|TX|673/9|
+00000000|MMI|3.52|Injury of liver|C0160390|[inpo]|["Injury of liver"-tx-5-"of liver injury"-noun-0]|TX|328/15|
+00000000|MMI|3.50|Congenital long QT syndrome|C1141890|[dsyn]|["Congenital long QT syndrome"-tx-16-"congenital long QT syndrome"-noun-0]|TX|1802/27|
+00000000|MMI|3.48|Torsade de Pointes Adverse Event|C1963250|[fndg]|["Torsade de pointes"-tx-16-"Torsade de Pointes"-noun-0]|TX|1765/18|
+00000000|MMI|3.48|Worse|C1457868|[fndg]|["Worsening"-tx-21-"worsening"-adj-1]|TX|3182/9|

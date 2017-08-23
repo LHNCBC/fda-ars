@@ -1,0 +1,100 @@
+T1	AdverseReaction 392 403	Anaphylaxis
+T2	AdverseReaction 408 434	hypersensitivity reactions
+T3	AdverseReaction 1021 1028	pyrexia
+T4	AdverseReaction 1030 1038	vomiting
+T5	AdverseReaction 1040 1048	headache
+T6	AdverseReaction 1050 1056	nausea
+T7	AdverseReaction 1058 1072	abdominal pain
+T8	AdverseReaction 1074 1080	chills
+T9	AdverseReaction 1086 1093	fatigue
+T10	AdverseReaction 2431 2438	Pyrexia
+T11	AdverseReaction 2485 2493	Vomiting
+T12	AdverseReaction 2539 2547	Headache
+T13	AdverseReaction 2593 2599	Nausea
+T14	AdverseReaction 2647 2661	Abdominal pain
+T15	AdverseReaction 2702 2708	Chills
+T16	AdverseReaction 2756 2763	Fatigue
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+A1	CUI E1 C0002792
+A2	UMLS-Preferred-Name E1 anaphylaxis
+A3	MEDDRA-PT E1 Anaphylactic reaction
+A4	MEDDRA-PT-ID E1 10002198
+A5	LLT E1 Anaphylaxis
+A6	LLT-ID E1 10002218
+A7	CUI E2 C0020517
+A8	UMLS-Preferred-Name E2 Hypersensitivity
+A9	MEDDRA-PT E2 Hypersensitivity
+A10	MEDDRA-PT-ID E2 10020751
+A11	LLT E2 Hypersensitivity reaction
+A12	LLT-ID E2 10020756
+A13	CUI E3 C0015967
+A14	UMLS-Preferred-Name E3 Fever
+A15	MEDDRA-PT E3 Pyrexia
+A16	MEDDRA-PT-ID E3 10037660
+A17	CUI E4 C0042963
+A18	UMLS-Preferred-Name E4 Vomiting
+A19	MEDDRA-PT E4 Vomiting
+A20	MEDDRA-PT-ID E4 10047700
+A21	CUI E5 C0018681
+A22	UMLS-Preferred-Name E5 Headache
+A23	MEDDRA-PT E5 Headache
+A24	MEDDRA-PT-ID E5 10019211
+A25	CUI E6 C0027497
+A26	UMLS-Preferred-Name E6 Nausea
+A27	MEDDRA-PT E6 Nausea
+A28	MEDDRA-PT-ID E6 10028813
+A29	CUI E7 C0000737
+A30	UMLS-Preferred-Name E7 Abdominal Pain
+A31	MEDDRA-PT E7 Abdominal pain
+A32	MEDDRA-PT-ID E7 10000081
+A33	CUI E8 C0085593
+A34	UMLS-Preferred-Name E8 Chills
+A35	MEDDRA-PT E8 Chills
+A36	MEDDRA-PT-ID E8 10008531
+A37	CUI E9 C0015672
+A38	UMLS-Preferred-Name E9 Fatigue
+A39	MEDDRA-PT E9 Fatigue
+A40	MEDDRA-PT-ID E9 10016256
+A41	CUI E10 C0015967
+A42	UMLS-Preferred-Name E10 Fever
+A43	MEDDRA-PT E10 Pyrexia
+A44	MEDDRA-PT-ID E10 10037660
+A45	CUI E11 C0042963
+A46	UMLS-Preferred-Name E11 Vomiting
+A47	MEDDRA-PT E11 Vomiting
+A48	MEDDRA-PT-ID E11 10047700
+A49	CUI E12 C0018681
+A50	UMLS-Preferred-Name E12 Headache
+A51	MEDDRA-PT E12 Headache
+A52	MEDDRA-PT-ID E12 10019211
+A53	CUI E13 C0027497
+A54	UMLS-Preferred-Name E13 Nausea
+A55	MEDDRA-PT E13 Nausea
+A56	MEDDRA-PT-ID E13 10028813
+A57	CUI E14 C0000737
+A58	UMLS-Preferred-Name E14 Abdominal Pain
+A59	MEDDRA-PT E14 Abdominal pain
+A60	MEDDRA-PT-ID E14 10000081
+A61	CUI E15 C0085593
+A62	UMLS-Preferred-Name E15 Chills
+A63	MEDDRA-PT E15 Chills
+A64	MEDDRA-PT-ID E15 10008531
+A65	CUI E16 C0015672
+A66	UMLS-Preferred-Name E16 Fatigue
+A67	MEDDRA-PT E16 Fatigue
+A68	MEDDRA-PT-ID E16 10016256

@@ -1,0 +1,144 @@
+00000000|AA|WHI|Women's Health Initiative|1|3|5|25|956:3
+00000000|AA|DVT|deep vein thrombosis|1|3|5|20|1046:3
+00000000|MMI|170.93|Dementia|C0497327|[mobd]|["-- Dementia"-tx-83-"dementia"-noun-0,"-- Dementia"-tx-18-"dementia"-noun-0,"-- Dementia"-tx-16-"dementia"-noun-1,"-- Dementia"-tx-7-"dementia"-noun-0,"-- Dementia"-tx-7-"dementia"-noun-1,"-- Dementia"-tx-6-"DEMENTIA"-noun-0,"-- Dementia"-tx-3-"dementia"-noun-0,"-- Dementia"-tx-3-"dementia"-noun-1,"-- Dementia"-tx-1-"DEMENTIA"-noun-0]|TX|9828/8;3873/8;3696/8;[2401/8],[2669/8];[2401/8],[2669/8];2043/8;[869/8],[1352/8];[869/8],[1352/8];[89/8],[172/8]|C10.228.140.380;F03.615.400
+00000000|MMI|125.30|Endometrial Carcinoma|C0476089|[neop]|["ENDOMETRIAL CANCER"-tx-7-"endometrial cancer"-noun-0,"ENDOMETRIAL CANCER"-tx-6-"ENDOMETRIAL CANCER"-noun-0,"ENDOMETRIAL CANCER"-tx-2-"endometrial cancer"-noun-0,"ENDOMETRIAL CANCER"-tx-1-"ENDOMETRIAL CANCER"-noun-0,"ENDOMETRIAL CANCER"-tx-1-"endometrial cancer"-noun-0]|TX|2228/18;1984/18;492/18;[30/18],[113/18];321/18|C04.588.945.418.948.585;C13.351.500.852.762.200;C13.351.937.418.875.200
+00000000|MMI|101.01|Bulla|C0005758|[patf]|["BLISTERS"-tx-99-"blisters"-noun-0,"BLISTER"-tx-97-"blister"-noun-0,"BLISTER"-tx-72-"blister"-noun-0,"BLISTER"-tx-71-"blister"-noun-1,"BLISTER"-tx-66-"blister"-noun-1,"BLISTER"-tx-65-"blister"-noun-0,"BLISTER"-tx-64-"blister"-noun-0]|TX|12280/8;12100/7;8801/7;8713/7;8411/7;8370/7;8279/7|C17.800.865.187;C23.300.122
+00000000|MMI|84.97|Cerebrovascular accident|C0038454|[dsyn]|["STROKE"-tx-83-"stroke"-noun-0,"Strokes"-tx-17-"strokes"-noun-0,"Strokes"-tx-16-"strokes"-noun-1,"STROKE"-tx-7-"stroke"-noun-0,"STROKE"-tx-3-"stroke"-noun-0]|TX|9714/6;3792/7;3685/7;2514/6;1013/6|C10.228.140.300.775;C14.907.253.855
+00000000|MMI|66.45|Uterine Cancer|C0153567|[neop]|["Cancer of the Uterus"-tx-83-"cancer of the uterus"-noun-0,"Cancer of the Uterus"-tx-38-"of cancer the uterus"-noun-0,"Cancer of the Uterus"-tx-14-"of cancer the uterus"-noun-0,"Cancer of the Uterus"-tx-12-"of cancer the uterus"-noun-0]|TX|9744/13,9772/6;6047/9,6060/10;3496/9,3509/10;3320/2,3331/6,3341/10|C04.588.945.418.948;C13.351.500.852.762;C13.351.937.418.875
+00000000|MMI|54.84|Lupus Vulgaris|C0024131|[dsyn]|["Lupus"-tx-83-"lupus"-noun-0,"Lupus"-tx-54-"lupus"-noun-0]|TX|10184/5;7383/5|C01.252.410.040.552.846.583.470;C01.252.825.820.470;C01.539.800.720.820.470;C17.800.838.765.820.470
+00000000|MMI|54.24|Diabetes Mellitus, Non-Insulin-Dependent|C0011860|[dsyn]|["diabetes"-tx-93-"diabetes"-noun-0,"diabetes"-tx-83-"diabetes"-noun-0,"diabetes"-tx-54-"diabetes"-noun-0]|TX|11742/8;10117/8;7348/8|C18.452.394.750.149;C19.246.300
+00000000|MMI|50.26|Deep Vein Thrombosis|C0149871|[dsyn]|["DEEP VEIN THROMBOSIS"-tx-7-"DVT"-noun-0,"DEEP VEIN THROMBOSIS"-tx-7-"deep vein thrombosis"-noun-0,"DEEP VEIN THROMBOSIS"-tx-3-"deep vein thrombosis"-noun-0]|TX|2547/3;2525/20;1024/20|C14.907.355.830.925
+00000000|MMI|47.27|Presenile dementia|C0011265|[mobd]|["dementia"-tx-83-"dementia"-noun-0,"dementia"-tx-18-"dementia"-noun-0,"dementia"-tx-16-"dementia"-noun-1,"dementia"-tx-7-"dementia"-noun-0,"dementia"-tx-7-"dementia"-noun-1,"dementia"-tx-6-"DEMENTIA"-noun-0,"dementia"-tx-3-"dementia"-noun-0,"dementia"-tx-3-"dementia"-noun-1,"dementia"-tx-1-"DEMENTIA"-noun-0]|TX|9828/8;3873/8;3696/8;[2401/8],[2669/8];[2401/8],[2669/8];2043/8;[869/8],[1352/8];[869/8],[1352/8];[89/8],[172/8]|
+00000000|MMI|44.63|Breast Carcinoma|C0678222|[neop]|["Breast Cancer"-tx-92-"breast cancer"-noun-0,"Breast Cancer"-tx-83-"breast cancer"-noun-0,"Cancer of the Breast"-tx-41-"cancer of the breast"-noun-0]|TX|11544/13;9784/13;6300/20|C04.588.180;C17.800.090.500
+00000000|MMI|44.63|Diabetes Mellitus|C0011849|[dsyn]|["Diabetes"-tx-93-"diabetes"-noun-0,"Diabetes"-tx-83-"diabetes"-noun-0,"Diabetes"-tx-54-"diabetes"-noun-0]|TX|11742/8;10117/8;7348/8|C18.452.394.750;C19.246
+00000000|MMI|42.15|Gravidity|C0600457|[fndg]|["PREGNANT"-tx-45-"pregnant"-adj-0,"PREGNANT"-tx-43-"pregnant"-adj-0]|TX|6623/8;6555/8|G08.686.340;G08.686.785.760.769.213;N06.850.490.812.250
+00000000|MMI|42.15|Migraine Disorders|C0149931|[dsyn]|["MIGRAINES"-tx-83-"migraines"-noun-0,"MIGRAINE"-tx-54-"migraine"-noun-0]|TX|10137/9;7358/8|C10.228.140.546.399.750
+00000000|MMI|40.49|Disease|C0012634|[dsyn]|["condition"-tx-102-"condition"-noun-1,"condition"-tx-54-"conditions"-noun-0,"condition"-tx-53-"conditions"-noun-0,"condition"-tx-9-"condition"-noun-1]|TX|12614/9;7288/10;7194/10;3091/9|C23.550.288
+00000000|MMI|35.81|Asthma|C0004096|[dsyn]|["-- Asthma"-tx-83-"asthma"-noun-0,"-- Asthma"-tx-54-"asthma"-noun-0]|TX|10109/6;7308/6|C08.127.108;C08.381.495.108;C08.674.095;C20.543.480.680.095
+00000000|MMI|29.46|Epilepsy|C0014544|[dsyn]|["EPILEPSY"-tx-83-"epilepsy"-noun-0,"EPILEPSY"-tx-54-"epilepsy"-noun-0]|TX|10127/8;7327/8|C10.228.140.490
+00000000|MMI|29.46|Lupus Erythematosus, Discoid|C0024138|[dsyn]|["lupus"-tx-83-"lupus"-noun-0,"lupus"-tx-54-"lupus"-noun-0]|TX|10184/5;7383/5|C17.300.475.479;C17.800.480.479
+00000000|MMI|29.46|Myocardial Infarction|C0027051|[dsyn]|["-- Heart Attack"-tx-83-"heart attack"-noun-0,"Heart Attacks"-tx-16-"heart attacks"-noun-1]|TX|9726/12;3670/13|C14.280.647.500;C14.907.585.500
+00000000|MMI|29.46|WHIM syndrome|C0472817|[dsyn]|["WHIMS"-tx-7-"WHIMS"-noun-0,"WHIMS"-tx-3-"WHIMS"-noun-0]|TX|2585/5;1268/5|x.x.x.x
+00000000|MMI|28.93|Adverse effects|C0879626|[patf]|["Side Effect"-tx-88-"side effect"-noun-0,"Side effects"-tx-87-"side effects"-noun-0,"Side effects"-tx-86-"side effects"-noun-0,"Side effects"-tx-85-"side effects"-noun-0,"Side effects"-tx-83-"side effects"-noun-0,"Side effects"-tx-82-"Side effects"-noun-0]|TX|11148/11;11056/12;11027/12;10933/12;[9666/12],[10604/12];9553/12|
+00000000|MMI|28.93|Vaginal Hemorrhage|C2979982|[dsyn]|["VAGINAL BLEEDING"-tx-90-"vaginal bleeding"-noun-0,"VAGINAL BLEEDING"-tx-83-"vaginal bleeding"-noun-0,"VAGINAL BLEEDING"-tx-52-"vaginal bleeding"-noun-0,"VAGINAL BLEEDING"-tx-39-"vaginal bleeding"-noun-0,"VAGINAL BLEEDING"-tx-37-"vaginal bleeding"-noun-0,"VAGINAL BLEEDING"-tx-15-"vaginal bleeding"-noun-0,"VAGINAL BLEEDING"-tx-13-"vaginal bleeding"-adj-0]|TX|11331/16;10391/16;7148/16;6129/16;5974/16;3578/16;3384/16|
+00000000|MMI|28.25|Does talk|C0600118|[fndg]|["talk"-tx-106-"talk"-noun-0,"talk"-tx-89-"Talk"-noun-0,"talk"-tx-46-"talk"-noun-1,"talk"-tx-42-"talk"-noun-0,"talk"-tx-31-"talk"-verb-0,"talk"-tx-30-"talk"-noun-0,"talk"-tx-19-"talk"-verb-0]|TX|12878/4;11182/4;6735/4;6364/4;5474/4;5205/4;3980/4|
+00000000|MMI|27.26|Overweight|C0497406|[sosy]|["OVERWEIGHT"-tx-93-"overweight"-adj-0]|TX|11756/10|C23.888.144.699;E01.370.600.115.100.160.120.699;G07.100.100.160.120.699
+00000000|MMI|26.06|Osteoporosis|C0029456|[dsyn]|["OSTEOPOROSIS"-tx-30-"osteoporosis"-noun-0]|TX|[5109/12],[5174/12]|C05.116.198.579
+00000000|MMI|25.69|Venezuelan equine encephalomyelitis|C0014078|[dsyn]|["VEE"-tx-7-"vee"-noun-0]|TX|2816/3|C02.081.355.355;C02.182.525.450.250;C02.290.450.225;C02.782.930.100.370.325;C10.228.140.430.520.750.450.600;C10.228.228.245.340.450.600;C10.228.228.291.323.325;C10.228.228.399.750.450.600;C10.228.440.406.225
+00000000|MMI|24.07|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-103-"symptoms"-noun-1,"SYMPTOMS"-tx-83-"symptoms"-noun-0,"SYMPTOMS"-tx-81-"Symptoms"-noun-0,"SYMPTOMS"-tx-29-"symptoms"-noun-0,"SYMPTOMS"-tx-28-"symptoms"-noun-0,"SYMPTOMS"-tx-27-"symptoms"-noun-0]|TX|12720/8;10325/8;9364/8;5036/8;4959/8;4791/8|
+00000000|MMI|23.37|Malignant neoplasm of endometrium|C0007103|[neop]|["Endometrial cancer"-tx-7-"endometrial cancer"-noun-0,"Endometrial cancer"-tx-6-"ENDOMETRIAL CANCER"-noun-0,"Endometrial cancer"-tx-2-"endometrial cancer"-noun-0,"Endometrial cancer"-tx-1-"ENDOMETRIAL CANCER"-noun-0,"Endometrial cancer"-tx-1-"endometrial cancer"-noun-0]|TX|2228/18;1984/18;492/18;[30/18],[113/18];321/18|
+00000000|MMI|23.37|Uterine Corpus Cancer|C1883486|[neop]|["Endometrial Cancer"-tx-7-"endometrial cancer"-noun-0,"Endometrial Cancer"-tx-6-"ENDOMETRIAL CANCER"-noun-0,"Endometrial Cancer"-tx-2-"endometrial cancer"-noun-0,"Endometrial Cancer"-tx-1-"ENDOMETRIAL CANCER"-noun-0,"Endometrial Cancer"-tx-1-"endometrial cancer"-noun-0]|TX|2228/18;1984/18;492/18;[30/18],[113/18];321/18|
+00000000|MMI|23.12|Hot flushes|C0600142|[sosy]|["HOT FLASHES"-tx-27-"hot flashes"-noun-0,"HOT FLUSHES"-tx-27-"hot flushes"-noun-0]|TX|4908/11;4925/11|C23.888.475
+00000000|MMI|23.12|Hypertensive disease|C0020538|[dsyn]|["Blood Pressure, High"-tx-93-"high blood pressure"-noun-0,"Blood Pressure, High"-tx-83-"high blood pressure"-noun-0]|TX|11684/19;9888/19|C14.907.489
+00000000|MMI|22.58|Blister of skin AND/OR mucosa|C1579830|[fndg]|["Blister"-tx-97-"blister"-noun-0,"Blister"-tx-72-"blister"-noun-0,"Blister"-tx-71-"blister"-noun-1,"Blister"-tx-66-"blister"-noun-1,"Blister"-tx-65-"blister"-noun-0,"Blister"-tx-64-"blister"-noun-0]|TX|12100/7;8801/7;8713/7;8411/7;8370/7;8279/7|
+00000000|MMI|22.58|Friction blister|C0347555|[inpo]|["Blister"-tx-97-"blister"-noun-0,"Blister"-tx-72-"blister"-noun-0,"Blister"-tx-71-"blister"-noun-1,"Blister"-tx-66-"blister"-noun-1,"Blister"-tx-65-"blister"-noun-0,"Blister"-tx-64-"blister"-noun-0]|TX|12100/7;8801/7;8713/7;8411/7;8370/7;8279/7|
+00000000|MMI|22.21|Living Alone|C0439044|[fndg]|["Alone"-tx-7-"alone"-adj-0,"Alone"-tx-3-"alone"-adj-0]|TX|[2471/5],[2601/5];[970/5],[1177/5],[1284/5],[1484/5]|
+00000000|MMI|20.95|Blind Vision|C0456909|[fndg]|["Loss of vision"-tx-83-"loss of vision"-noun-0]|TX|9868/14|C10.597.751.941.162;C11.966.075;C23.888.592.763.941.162
+00000000|MMI|20.95|Hypercholesterolemia|C0020443|[dsyn]|["High cholesterol"-tx-93-"high cholesterol"-noun-0]|TX|11705/16|C18.452.584.500.500.396
+00000000|MMI|20.95|Low Vision|C0042798|[dsyn]|["loss of vision"-tx-83-"loss of vision"-noun-0]|TX|9868/14|C10.597.751.941.905;C11.966.905;C23.888.592.763.941.848
+00000000|MMI|20.95|Sweating|C0038990|[fndg]|["SWEATING"-tx-27-"sweating"-noun-0]|TX|4897/8|G07.110.232.693;G07.700.345.421.693;G13.750.829.855;G16.100.057.500.535.693
+00000000|MMI|20.42|Heart Diseases|C0018799|[dsyn]|["HEART DISEASE"-tx-94-"heart disease"-noun-0,"HEART DISEASE"-tx-93-"heart disease"-noun-0,"HEART DISEASE"-tx-16-"heart disease"-noun-1]|TX|11921/13;11830/13;3655/13|C14.280
+00000000|MMI|19.95|Hemorrhage|C0019080|[patf]|["BLEEDING"-tx-81-"bleeding"-noun-0,"BLEEDING"-tx-3-"bleeding"-noun-0]|TX|9483/8;734/8|C23.550.414
+00000000|MMI|19.84|Cardiovascular Diseases|C0007222|[dsyn]|["CARDIOVASCULAR DISEASE"-tx-7-"cardiovascular disease"-noun-1,"CARDIOVASCULAR DISORDERS"-tx-6-"CARDIOVASCULAR DISORDERS"-noun-0,"CARDIOVASCULAR DISEASE"-tx-3-"cardiovascular disease"-noun-1,"CARDIOVASCULAR DISORDERS"-tx-1-"CARDIOVASCULAR DISORDERS"-noun-0]|TX|2375/22;2004/24;843/22;[50/24],[133/24]|C14
+00000000|MMI|17.80|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-83-"abdominal pain"-noun-0]|TX|10699/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|17.80|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-83-"dizziness"-noun-0]|TX|10736/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|17.80|Neck Pain|C0007859|[sosy]|["NECK PAIN"-tx-83-"neck pain"-noun-0]|TX|10751/9|C10.597.617.576;C23.888.592.612.553
+00000000|MMI|17.80|Seizures|C0036572|[sosy]|["Seizures"-tx-54-"seizures"-noun-0]|TX|7337/8|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|17.80|Spasm|C0037763|[sosy]|["Muscle Spasms"-tx-83-"muscle spasms"-noun-0]|TX|10635/13|C10.597.613.750;C23.888.592.608.750
+00000000|MMI|17.80|Vertigo|C0042571|[sosy]|["dizziness"-tx-83-"dizziness"-noun-0]|TX|10736/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|17.80|Visual Impairment|C3665347|[fndg]|["Loss of vision"-tx-83-"loss of vision"-noun-0]|TX|9868/14|C10.597.751.941;C11.966;C23.888.592.763.941
+00000000|MMI|16.26|Chest Pain|C0008031|[sosy]|["Pain In Chest"-tx-83-"pains in chest"-noun-0]|TX|10486/8,10500/5|C10.597.617.192;C23.888.592.612.233
+00000000|MMI|16.08|Endometrial Hyperplasia|C0014173|[dsyn]|["ENDOMETRIAL HYPERPLASIA"-tx-2-"endometrial hyperplasia"-noun-0]|TX|439/23|C13.351.500.852.228
+00000000|MMI|15.79|Diabetes|C0011847|[dsyn]|["Diabetes"-tx-93-"diabetes"-noun-0,"Diabetes"-tx-83-"diabetes"-noun-0,"Diabetes"-tx-54-"diabetes"-noun-0]|TX|11742/8;10117/8;7348/8|
+00000000|MMI|15.79|Finding|C0243095|[fndg]|["Find"-tx-39-"find"-verb-0,"Find"-tx-15-"find"-verb-0,"Finding"-tx-4-"finding"-noun-0]|TX|6149/4;3598/4;1539/7|
+00000000|MMI|15.79|Liver problem|C0577060|[fndg]|["liver problems"-tx-83-"liver problems"-noun-0,"liver problems"-tx-43-"liver problems"-noun-0]|TX|[9947/14],[10194/14];6468/14|
+00000000|MMI|15.79|Malignant neoplasm of breast|C0006142|[neop]|["-- Breast Cancer"-tx-92-"breast cancer"-noun-0,"-- Breast Cancer"-tx-83-"breast cancer"-noun-0,"Cancer of the Breast"-tx-41-"cancer of the breast"-noun-0]|TX|11544/13;9784/13;6300/20|
+00000000|MMI|14.84|Malignant Neoplasms|C0006826|[neop]|["CANCER"-tx-42-"cancer"-noun-0,"Cancers"-tx-41-"cancers"-noun-0,"Cancers"-tx-40-"cancers"-noun-0,"MALIGNANCY"-tx-3-"malignancy"-noun-1]|TX|6356/6;6281/7;6209/7;641/10|
+00000000|MMI|14.84|Primary malignant neoplasm|C1306459|[neop]|["Cancer"-tx-42-"cancer"-noun-0,"Cancer"-tx-41-"cancers"-noun-0,"Cancer"-tx-40-"cancers"-noun-0,"Malignancy"-tx-3-"malignancy"-noun-1]|TX|6356/6;6281/7;6209/7;641/10|
+00000000|MMI|14.64|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-83-"diarrhea"-noun-0]|TX|10666/8|C23.888.821.214
+00000000|MMI|14.64|Endometriosis|C0014175|[dsyn]|["ENDOMETRIOSIS"-tx-54-"endometriosis"-noun-0]|TX|7368/13|C13.351.500.163
+00000000|MMI|14.64|Infantile Neuroaxonal Dystrophy|C0270724|[dsyn]|["PLAN"-tx-47-"plan"-verb-0]|TX|6795/4|C10.228.140.744
+00000000|MMI|14.64|Nausea|C0027497|[sosy]|["NAUSEA"-tx-83-"nausea"-noun-0]|TX|10654/6|C23.888.821.712
+00000000|MMI|14.64|Wheezing|C0043144|[sosy]|["WHEEZING"-tx-54-"wheezing"-noun-0]|TX|7316/8|C23.888.852.779;E01.370.386.720;G09.772.775
+00000000|MMI|13.14|Dyspnea|C0013404|[sosy]|["SHORTNESS OF BREATH"-tx-83-"shortness of breath"-noun-1]|TX|10530/19|C08.618.326;C23.888.852.371
+00000000|MMI|12.93|Total Hypotrichosis, Mari type|C1836672|[dsyn]|["AH"-tx-7-"ah"-noun-0]|TX|2813/2|x.x.x.x
+00000000|MMI|11.81|Deep vein thrombosis of lower limb|C0340708|[dsyn]|["Deep vein thrombosis"-tx-7-"DVT"-noun-0,"Deep vein thrombosis"-tx-7-"deep vein thrombosis"-noun-0,"Deep vein thrombosis"-tx-3-"deep vein thrombosis"-noun-0]|TX|2547/3;2525/20;1024/20|
+00000000|MMI|11.49|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-83-"fatigue"-verb-1]|TX|10564/7|C23.888.369
+00000000|MMI|11.49|Sore Throat|C0242429|[sosy]|["Throat pain"-tx-83-"throat pain"-noun-0]|TX|10719/11|C07.550.781;C08.730.561;C09.775.649
+00000000|MMI|10.42|Lupus Erythematosus|C0409974|[dsyn]|["Lupus"-tx-83-"lupus"-noun-0,"Lupus"-tx-54-"lupus"-noun-0]|TX|10184/5;7383/5|
+00000000|MMI|10.42|Patient currently pregnant|C0549206|[fndg]|["Pregnant"-tx-45-"pregnant"-adj-0,"Pregnant"-tx-43-"pregnant"-adj-0]|TX|6623/8;6555/8|
+00000000|MMI|9.92|Disorders of Porphyrin Metabolism|C0032708|[dsyn]|["PORPHYRIA"-tx-83-"porphyria"-noun-0]|TX|10173/9|C18.452.811
+00000000|MMI|9.92|Blood Coagulation Disorders|C0005779|[dsyn]|["bleeding disorder"-tx-43-"bleeding disorder"-noun-0]|TX|6515/17|C15.378.100
+00000000|MMI|8.34|Signs and Symptoms|C0037088|[sosy]|["Finding"-tx-4-"finding"-noun-0]|TX|1539/7|C23.888
+00000000|MMI|7.84|Mass in breast|C0024103|[fndg]|["Breast Lumps"-tx-92-"breast lumps"-noun-0,"Breast Lumps"-tx-83-"breast lumps"-noun-0]|TX|11582/12;10365/12|
+00000000|MMI|7.59|Postmenopausal bleeding|C0032776|[patf]|["Bleeding after menopause"-tx-38-"bleeding after menopause"-noun-0,"Bleeding after menopause"-tx-14-"bleeding after menopause"-noun-0]|TX|6000/24;3449/24|
+00000000|MMI|7.34|Bleeding tendency|C1458140|[patf]|["BLEEDING DISORDER"-tx-43-"bleeding disorder"-noun-0,"Abnormal bleeding"-tx-3-"abnormal bleeding"-noun-1]|TX|6515/17;717/8,734/8|
+00000000|MMI|7.31|Weakness|C3714552|[sosy]|["WEAKNESS"-tx-83-"weakness"-noun-1,"Weak"-tx-30-"weak"-adj-0]|TX|10551/8;5129/4|
+00000000|MMI|7.25|Menopause present (finding)|C0567312|[fndg]|["Menopause"-tx-30-"menopause"-noun-0,"Menopause"-tx-25-"menopause"-noun-0]|TX|5194/9;4510/9|
+00000000|MMI|7.20|Used by|C1273517|[fndg]|["used"-tx-99-"used"-verb-0,"used"-tx-23-"used"-verb-0]|TX|12313/4;4214/4|
+00000000|MMI|7.13|Physical findings|C0311392|[fndg]|["SIGN"-tx-38-"sign"-noun-0,"SIGN"-tx-14-"sign"-noun-0]|TX|6042/4;3491/4|
+00000000|MMI|7.11|60%|C3842585|[fndg]|["60%"-tx-99-"60"-integer-0,"60%"-tx-66-"60"-integer-1]|TX|12325/2;8455/2|
+00000000|MMI|7.07|Diagnosis|C0011900|[fndg]|["DIAGNOSED"-tx-43-"diagnosed"-verb-0,"Diagnostic"-tx-3-"diagnostic"-adj-0]|TX|6498/9;521/10|E01
+00000000|MMI|6.96|Memory observations|C0700327|[fndg]|["memory"-tx-7-"Memory"-noun-0,"memory"-tx-3-"Memory"-noun-0]|TX|2571/6;1254/6|
+00000000|MMI|6.94|1 time|C3843309|[fndg]|["1 time"-tx-72-"1 time"-noun-0,"1 time"-tx-68-"1 time"-noun-0]|TX|8773/1,8787/4;8549/1,8577/4|
+00000000|MMI|6.89|0%|C3842591|[fndg]|["0%"-tx-3-"0"-real_number-0]|TX|[1167/1],[1474/1]|
+00000000|MMI|6.89|65+|C3843765|[fndg]|["65+"-tx-7-"65"-integer-0,"65+"-tx-3-"65"-integer-0]|TX|2702/2;1385/2|
+00000000|MMI|5.18|Abnormal vision|C3665386|[fndg]|["Loss of vision"-tx-83-"loss of vision"-noun-0]|TX|9868/14|
+00000000|MMI|5.18|Body fluid retention|C0268000|[patf]|["FLUID RETENTION"-tx-83-"fluid retention"-noun-0]|TX|9989/15|
+00000000|MMI|5.18|Breastfeeding (infant)|C1623041|[fndg]|["Breast feeding"-tx-47-"breastfeeding"-noun-0]|TX|6778/13|
+00000000|MMI|5.18|Breastfeeding (mother)|C1623040|[fndg]|["Breast feeding"-tx-47-"breastfeeding"-noun-0]|TX|6778/13|
+00000000|MMI|5.18|Calcium low|C0860967|[fndg]|["low calcium"-tx-83-"low calcium"-noun-0]|TX|10010/11|
+00000000|MMI|5.18|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-83-"diarrhea"-noun-0]|TX|10666/8|
+00000000|MMI|5.18|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-83-"dizziness"-noun-0]|TX|10736/9|
+00000000|MMI|5.18|Does skip|C0560435|[fndg]|["skip"-tx-75-"skip"-verb-0]|TX|8981/4|
+00000000|MMI|5.18|ENT surgical result tongue|C2137027|[fndg]|["tongue"-tx-83-"tongue"-noun-0]|TX|10053/6|
+00000000|MMI|5.18|Else|C3842296|[fndg]|["Else"-tx-91-"else"-adv-0]|TX|11498/4|
+00000000|MMI|5.18|Encounter due to Screening for malignant neoplasm of breast|C0260913|[fndg]|["mammogram"-tx-91-"mammogram"-noun-0]|TX|11410/9|
+00000000|MMI|5.18|Experimental Finding|C2825141|[fndg]|["Finding"-tx-4-"finding"-noun-0]|TX|1539/7|
+00000000|MMI|5.18|Gallbladder problem|C0577076|[fndg]|["gallbladder problems"-tx-83-"gallbladder problems"-noun-0]|TX|9842/20|
+00000000|MMI|5.18|Hypercholesterolemia result|C1522133|[fndg]|["High Cholesterol"-tx-93-"high cholesterol"-noun-0]|TX|11705/16|
+00000000|MMI|5.18|Indicated|C1444656|[fndg]|["Indicated"-tx-3-"indicated"-verb-0]|TX|597/9|
+00000000|MMI|5.18|Kidney problem|C0812426|[sosy]|["kidney problems"-tx-33-"kidney problems"-noun-1]|TX|5647/15|
+00000000|MMI|5.18|Lupus erythematosus tumidus|C0406636|[dsyn]|["LET"-tx-56-"let"-adv-0]|TX|7572/3|
+00000000|MMI|5.18|Malignant neoplasm of ovary|C1140680|[neop]|["Cancer of the Ovary"-tx-83-"cancer of the ovary"-noun-0]|TX|9803/19|
+00000000|MMI|5.18|Mammography abnormal|C0262365|[fndg]|["ABNORMAL MAMMOGRAM"-tx-92-"abnormal mammogram"-noun-0]|TX|11601/18|
+00000000|MMI|5.18|Missed dose|C1709043|[fndg]|["Missed Dose"-tx-75-"missed dose"-noun-0]|TX|8990/11|
+00000000|MMI|5.18|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-83-"nausea"-noun-0]|TX|10654/6|
+00000000|MMI|5.18|Neck Pain Adverse Event|C1963180|[fndg]|["Neck pain"-tx-83-"neck pain"-noun-0]|TX|10751/9|
+00000000|MMI|5.18|Ovarian Carcinoma|C0029925|[neop]|["cancer of the ovary"-tx-83-"cancer of the ovary"-noun-0]|TX|9803/19|
+00000000|MMI|5.18|Positive Finding|C1514241|[fndg]|["POSITIVE"-tx-46-"positive"-adj-1]|TX|6722/8|
+00000000|MMI|5.18|Postsurgical menopause|C0740421|[dsyn]|["Surgical Menopause"-tx-27-"surgical menopause"-noun-0]|TX|4696/18|
+00000000|MMI|5.18|Pregnancy, not (yet) confirmed|C0496642|[fndg]|["pregnancy; test"-tx-45-"pregnancy test"-noun-0]|TX|6651/14|
+00000000|MMI|5.18|Reading (datum presentation)|C1705179|[fndg]|["read"-tx-7-"Read"-verb-0]|TX|2869/4|
+00000000|MMI|5.18|Test Result|C0456984|[fndg]|["Test"-tx-46-"test"-noun-1]|TX|6714/4|
+00000000|MMI|5.18|Unspecified visual loss|C3665346|[sosy]|["Loss Of Vision"-tx-83-"loss of vision"-noun-0]|TX|9868/14|
+00000000|MMI|5.18|Upset stomach|C0235309|[sosy]|["Upset Stomach"-tx-83-"upset stomach"-noun-0]|TX|10680/13|
+00000000|MMI|5.18|new information|C3242228|[fndg]|["new information"-tx-8-"new information"-noun-0]|TX|2975/15|
+00000000|MMI|5.18|outcomes otolaryngology: throat pain|C2015956|[fndg]|["throat pain"-tx-83-"throat pain"-noun-0]|TX|10719/11|
+00000000|MMI|5.18|thyroid problem|C0851024|[fndg]|["Thyroid Problems"-tx-83-"thyroid problems"-noun-0]|TX|9967/16|
+00000000|MMI|3.98|Experimental Result|C2825142|[fndg]|["Result"-tx-45-"results"-noun-0]|TX|6679/7|
+00000000|MMI|3.78|Thin bones|C3809276|[fndg]|["Thin bones"-tx-30-"thin bones"-noun-0]|TX|5123/4,5134/5|
+00000000|MMI|3.68|Abnormal blistering of the skin|C2132198|[fndg]|["Blisters"-tx-99-"blisters"-noun-0]|TX|12280/8|
+00000000|MMI|3.68|Genital hemorrhage|C0854381|[dsyn]|["Genital bleeding"-tx-3-"genital bleeding"-noun-0]|TX|726/16|
+00000000|MMI|3.67|Sensation of warmth|C0549386|[sosy]|["FEELING OF WARMTH"-tx-27-"feelings of warmth"-noun-0]|TX|4809/18|
+00000000|MMI|3.65|severe headache|C2957106|[sosy]|["HEADACHE, SEVERE"-tx-83-"severe headaches"-noun-0]|TX|10457/16|
+00000000|MMI|3.62|HEART PROBLEM|C0795691|[sosy]|["heart problems"-tx-54-"problems heart"-noun-0]|TX|7393/8,7412/5|
+00000000|MMI|3.62|Mixed Population Pregnancy Status|C2826362|[fndg]|["NOT PREGNANT"-tx-44-"not pregnant"-adj-0]|TX|6575/3,6583/8|
+00000000|MMI|3.62|Mouth swelling|C0240382|[sosy]|["swelling mouth"-tx-83-"swelling mouth"-noun-0]|TX|10027/8,10044/5|
+00000000|MMI|3.62|Not pregnant (finding)|C0232973|[fndg]|["NOT PREGNANT"-tx-44-"not pregnant"-adj-0]|TX|6575/3,6583/8|
+00000000|MMI|3.62|Age > 50 years|C4060704|[fndg]|["Age > 50 years"-tx-3-"50 years age"-noun-0]|TX|1076/2,1085/5,1094/3|
+00000000|MMI|3.61|Not sure|C3844332|[fndg]|["Not sure"-tx-78-"not sure"-adj-0]|TX|9138/8|
+00000000|MMI|3.60|Precursor B-cell lymphoblastic leukemia|C1292769|[neop]|["c all"-tx-108-"call"-noun-0]|TX|13087/4|
+00000000|MMI|3.58|Age >= 65 years|C4062450|[fndg]|["Age >= 65 years"-tx-18-"65 years age"-noun-0]|TX|3909/8,3921/3|
+00000000|MMI|3.56|Worse|C1457868|[fndg]|["Worsening"-tx-83-"worsening"-noun-0]|TX|10065/9|
+00000000|MMI|3.54|Write - language ability|C1576875|[fndg]|["Write"-tx-107-"written"-verb-0]|TX|13002/7|
+00000000|MMI|3.52|Pass (indicator)|C2828386|[fndg]|["Pass"-tx-48-"passes"-noun-1]|TX|6841/6|
+00000000|MMI|3.50|Abnormality of the genital system|C0744356|[fndg]|["abnormal genital"-tx-3-"abnormal genital"-adj-1]|TX|717/16|
+00000000|MMI|3.50|Undiagnosed|C1408353|[fndg]|["Undiagnosed"-tx-3-"undiagnosed"-adj-1]|TX|681/11|
+00000000|MMI|3.47|Problem|C0033213|[fndg]|["PROBLEM"-tx-83-"problem"-noun-0]|TX|10158/7|
+00000000|MMI|3.46|Room temperature (comfort level finding)|C1822393|[fndg]|["Room temperature"-tx-96-"room temperature"-adj-0]|TX|11990/16|
+00000000|MMI|3.45|Patient Problem|C1254481|[fndg]|["Medical Problem"-tx-83-"medical problems"-noun-0]|TX|10084/16|
+00000000|MMI|3.45|Time 2|C0808270|[fndg]|["Time 2"-tx-77-"2 time"-noun-1]|TX|9056/1,9076/4|
+00000000|MMI|3.43|Effects of heat|C0221500|[dsyn]|["heat"-tx-27-"heat"-noun-0]|TX|4888/4|
+00000000|MMI|3.43|Encounter due to counseling|C0740209|[fndg]|["advice"-tx-86-"advice"-noun-0]|TX|11014/6|
+00000000|MMI|3.42|20%|C3842589|[fndg]|["20%"-tx-96-"20"-integer-0]|TX|12045/2|

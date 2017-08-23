@@ -1,0 +1,218 @@
+T1	AdverseReaction 85 92	fatigue
+T2	AdverseReaction 94 102	headache
+T3	AdverseReaction 104 110	nausea
+T4	AdverseReaction 112 120	diarrhea
+T5	AdverseReaction 122 131	back pain
+T6	AdverseReaction 133 152	pain in extremities
+T7	AdverseReaction 158 178	upper abdominal pain
+T8	AdverseReaction 776 783	fatigue
+T9	AdverseReaction 785 793	headache
+T10	AdverseReaction 795 801	nausea
+T11	AdverseReaction 803 811	diarrhea
+T12	AdverseReaction 813 822	back pain
+T13	AdverseReaction 824 843	pain in extremities
+T14	AdverseReaction 849 869	upper abdominal pain
+T15	AdverseReaction 1584 1594	Arthralgia
+T16	AdverseReaction 1693 1701	Headache
+T17	AdverseReaction 1802 1810	Migraine
+T18	AdverseReaction 1911 1921	Flatulence
+T19	AdverseReaction 2020 2026	Nausea
+T20	AdverseReaction 2129 2147	Oropharyngeal pain
+T21	AdverseReaction 3060 3067	Fatigue
+T22	AdverseReaction 3169 3177	Headache
+T23	AdverseReaction 3278 3284	Nausea
+T24	AdverseReaction 3387 3395	Diarrhea
+T25	AdverseReaction 3496 3505	Back pain
+T26	AdverseReaction 3714 3734	Upper abdominal pain
+T27	AdverseReaction 3823 3832	Dizziness
+T28	AdverseReaction 3932 3940	Asthenia
+T29	AdverseReaction 4041 4046	Cough
+T30	AdverseReaction 4150 4159	Dyspepsia
+T31	AdverseReaction 4259 4290	Gastroesophageal reflux disease
+T32	AdverseReaction 4368 4380	Constipation
+T33	AdverseReaction 4477 4489	Palpitations
+T34	AdverseReaction 4586 4590	Rash
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+A1	CUI E1 C0015672
+A2	UMLS-Preferred-Name E1 Fatigue
+A3	MEDDRA-PT E1 Fatigue
+A4	MEDDRA-PT-ID E1 10016256
+A5	CUI E2 C0018681
+A6	UMLS-Preferred-Name E2 Headache
+A7	MEDDRA-PT E2 Headache
+A8	MEDDRA-PT-ID E2 10019211
+A9	CUI E3 C0027497
+A10	UMLS-Preferred-Name E3 Nausea
+A11	MEDDRA-PT E3 Nausea
+A12	MEDDRA-PT-ID E3 10028813
+A13	CUI E4 C0011991
+A14	UMLS-Preferred-Name E4 Diarrhea
+A15	MEDDRA-PT E4 Diarrhoea
+A16	MEDDRA-PT-ID E4 10012735
+A17	LLT E4 Diarrhea
+A18	LLT-ID E4 10012727
+A19	CUI E5 C0004604
+A20	UMLS-Preferred-Name E5 Back Pain
+A21	MEDDRA-PT E5 Back pain
+A22	MEDDRA-PT-ID E5 10003988
+A23	CUI E6 C0030196
+A24	UMLS-Preferred-Name E6 Pain in limb
+A25	MEDDRA-PT E6 Pain in extremity
+A26	MEDDRA-PT-ID E6 10033425
+A27	CUI E7 C0232492
+A28	UMLS-Preferred-Name E7 Upper abdominal pain
+A29	MEDDRA-PT E7 Abdominal pain upper
+A30	MEDDRA-PT-ID E7 10000087
+A31	LLT E7 Upper abdominal pain
+A32	LLT-ID E7 10046272
+A33	CUI E8 C0015672
+A34	UMLS-Preferred-Name E8 Fatigue
+A35	MEDDRA-PT E8 Fatigue
+A36	MEDDRA-PT-ID E8 10016256
+A37	CUI E9 C0018681
+A38	UMLS-Preferred-Name E9 Headache
+A39	MEDDRA-PT E9 Headache
+A40	MEDDRA-PT-ID E9 10019211
+A41	CUI E10 C0027497
+A42	UMLS-Preferred-Name E10 Nausea
+A43	MEDDRA-PT E10 Nausea
+A44	MEDDRA-PT-ID E10 10028813
+A45	CUI E11 C0011991
+A46	UMLS-Preferred-Name E11 Diarrhea
+A47	MEDDRA-PT E11 Diarrhoea
+A48	MEDDRA-PT-ID E11 10012735
+A49	LLT E11 Diarrhea
+A50	LLT-ID E11 10012727
+A51	CUI E12 C0004604
+A52	UMLS-Preferred-Name E12 Back Pain
+A53	MEDDRA-PT E12 Back pain
+A54	MEDDRA-PT-ID E12 10003988
+A55	CUI E13 C0030196
+A56	UMLS-Preferred-Name E13 Pain in limb
+A57	MEDDRA-PT E13 Pain in extremity
+A58	MEDDRA-PT-ID E13 10033425
+A59	CUI E14 C0232492
+A60	UMLS-Preferred-Name E14 Upper abdominal pain
+A61	MEDDRA-PT E14 Abdominal pain upper
+A62	MEDDRA-PT-ID E14 10000087
+A63	LLT E14 Upper abdominal pain
+A64	LLT-ID E14 10046272
+A65	CUI E15 C0003862
+A66	UMLS-Preferred-Name E15 Arthralgia
+A67	MEDDRA-PT E15 Arthralgia
+A68	MEDDRA-PT-ID E15 10003239
+A69	CUI E16 C0018681
+A70	UMLS-Preferred-Name E16 Headache
+A71	MEDDRA-PT E16 Headache
+A72	MEDDRA-PT-ID E16 10019211
+A73	CUI E17 C0149931
+A74	UMLS-Preferred-Name E17 Migraine Disorders
+A75	MEDDRA-PT E17 Migraine
+A76	MEDDRA-PT-ID E17 10027599
+A77	CUI E18 C0016204
+A78	UMLS-Preferred-Name E18 Flatulence
+A79	MEDDRA-PT E18 Flatulence
+A80	MEDDRA-PT-ID E18 10016766
+A81	CUI E19 C0027497
+A82	UMLS-Preferred-Name E19 Nausea
+A83	MEDDRA-PT E19 Nausea
+A84	MEDDRA-PT-ID E19 10028813
+A85	CUI E20 C2363731
+A86	UMLS-Preferred-Name E20 Oropharyngeal pain
+A87	MEDDRA-PT E20 Oropharyngeal pain
+A88	MEDDRA-PT-ID E20 10068319
+A89	CUI E21 C0015672
+A90	UMLS-Preferred-Name E21 Fatigue
+A91	MEDDRA-PT E21 Fatigue
+A92	MEDDRA-PT-ID E21 10016256
+A93	CUI E22 C0018681
+A94	UMLS-Preferred-Name E22 Headache
+A95	MEDDRA-PT E22 Headache
+A96	MEDDRA-PT-ID E22 10019211
+A97	CUI E23 C0027497
+A98	UMLS-Preferred-Name E23 Nausea
+A99	MEDDRA-PT E23 Nausea
+A100	MEDDRA-PT-ID E23 10028813
+A101	CUI E24 C0011991
+A102	UMLS-Preferred-Name E24 Diarrhea
+A103	MEDDRA-PT E24 Diarrhoea
+A104	MEDDRA-PT-ID E24 10012735
+A105	LLT E24 Diarrhea
+A106	LLT-ID E24 10012727
+A107	CUI E25 C0004604
+A108	UMLS-Preferred-Name E25 Back Pain
+A109	MEDDRA-PT E25 Back pain
+A110	MEDDRA-PT-ID E25 10003988
+A111	CUI E26 C0232492
+A112	UMLS-Preferred-Name E26 Upper abdominal pain
+A113	MEDDRA-PT E26 Abdominal pain upper
+A114	MEDDRA-PT-ID E26 10000087
+A115	LLT E26 Upper abdominal pain
+A116	LLT-ID E26 10046272
+A117	CUI E27 C0012833
+A118	UMLS-Preferred-Name E27 Dizziness
+A119	MEDDRA-PT E27 Dizziness
+A120	MEDDRA-PT-ID E27 10013573
+A121	CUI E28 C0004093
+A122	UMLS-Preferred-Name E28 Asthenia
+A123	MEDDRA-PT E28 Asthenia
+A124	MEDDRA-PT-ID E28 10003549
+A125	CUI E29 C0010200
+A126	UMLS-Preferred-Name E29 Coughing
+A127	MEDDRA-PT E29 Cough
+A128	MEDDRA-PT-ID E29 10011224
+A129	CUI E30 C0013395
+A130	UMLS-Preferred-Name E30 Dyspepsia
+A131	MEDDRA-PT E30 Dyspepsia
+A132	MEDDRA-PT-ID E30 10013946
+A133	CUI E31 C0017168
+A134	UMLS-Preferred-Name E31 Gastroesophageal reflux disease
+A135	MEDDRA-PT E31 Gastrooesophageal reflux disease
+A136	MEDDRA-PT-ID E31 10017885
+A137	LLT E31 Gastroesophageal reflux disease
+A138	LLT-ID E31 10066874
+A139	CUI E32 C0009806
+A140	UMLS-Preferred-Name E32 Constipation
+A141	MEDDRA-PT E32 Constipation
+A142	MEDDRA-PT-ID E32 10010774
+A143	CUI E33 C0030252
+A144	UMLS-Preferred-Name E33 Palpitations
+A145	MEDDRA-PT E33 Palpitations
+A146	MEDDRA-PT-ID E33 10033557
+A147	CUI E34 C0015230
+A148	UMLS-Preferred-Name E34 Exanthema
+A149	MEDDRA-PT E34 Rash
+A150	MEDDRA-PT-ID E34 10037844

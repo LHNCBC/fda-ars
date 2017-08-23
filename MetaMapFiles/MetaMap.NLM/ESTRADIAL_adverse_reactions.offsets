@@ -1,0 +1,138 @@
+146,167|C1320716|cardiovascular events|fndg
+172,178|C0038454|stroke|dsyn
+311,324|C0023895|Liver disease|dsyn
+311,324|C2186532|Liver disease|fndg
+435,461|C0156404|Irregular uterine bleeding|fndg
+469,475|C0027497|Nausea|sosy
+469,475|C1963179|Nausea|patf
+483,500|C0262397|Breast tenderness|sosy
+508,516|C0018681|Headache|sosy
+508,516|C2096315|Headache|fndg
+614,623|C0018681|headaches|sosy
+625,651|C0156404|irregular uterine bleeding|fndg
+652,660|C0018681|headache|sosy
+652,660|C2096315|headache|fndg
+672,681|C0149931|migraines|dsyn
+688,705|C0262397|breast tenderness|sosy
+706,710|C0030193|pain|sosy
+706,710|C1962977|pain|fndg
+715,734|C0025345|menstrual disorders|patf
+739,745|C0027497|nausea|sosy
+739,745|C1963179|nausea|patf
+750,758|C0042963|vomiting|sosy
+750,758|C1963281|vomiting|patf
+764,768|C0702166|acne|dsyn
+764,768|C0001144|acne|dsyn
+773,785|C0085633|mood changes|mobd
+795,811|C0043094|increased weight|fndg
+1091,1101|C0012634|conditions|dsyn
+1320,1344|C0025323|Heavy Menstrual Bleeding|patf
+1794,1812|C0032519|frequent menstrual|dsyn
+1813,1821|C0019080|bleeding|patf
+1946,1961|C1444662|Discontinuation|fndg
+1984,1996|C1444662|discontinued|fndg
+2097,2112|C1444662|discontinuation|fndg
+2118,2136|C0025345|menstrual disorder|patf
+2138,2150|C0025874|metrorrhagia|patf
+2138,2150|C2030274|metrorrhagia|sosy
+2152,2163|C0025323|menorrhagia|patf
+2165,2187|C0156404|menstruation irregular|fndg
+2189,2207|C0854381|genital hemorrhage|dsyn
+2209,2227|C2979982|vaginal hemorrhage|dsyn
+2229,2259|C0025874|dysfunctional uterine bleeding|patf
+2269,2281|C0085633|mood changes|mobd
+2283,2293|C0011570|depression|mobd
+2283,2293|C0011581|depression|mobd
+2283,2293|C0344315|depression|fndg
+2283,2293|C1579931|depression|sosy
+2295,2306|C0085633|mood swings|mobd
+2322,2336|C0011570|depressed mood|mobd
+2322,2336|C0344315|depressed mood|fndg
+2338,2356|C0013415|dysthymic disorder|mobd
+2374,2378|C0702166|acne|dsyn
+2374,2378|C0001144|acne|dsyn
+2387,2395|C0018681|headache|sosy
+2387,2395|C2096315|headache|fndg
+2407,2416|C0149931|migraines|dsyn
+2430,2436|C0424653|weight|sosy
+2497,2505|C0018681|headache|sosy
+2497,2505|C2096315|headache|fndg
+2517,2526|C0149931|migraines|dsyn
+2537,2548|C0024902|breast pain|sosy
+2537,2548|C0553713|breast pain|sosy
+2564,2574|C0234233|tenderness|sosy
+2583,2602|C0025345|menstrual disorders|patf
+2604,2616|C0025874|metrorrhagia|patf
+2604,2616|C2030274|metrorrhagia|sosy
+2618,2640|C0156404|menstruation irregular|fndg
+2642,2653|C0025323|menorrhagia|patf
+2655,2673|C2979982|vaginal hemorrhage|dsyn
+2675,2705|C0025874|dysfunctional uterine bleeding|patf
+2707,2725|C0854381|genital hemorrhage|dsyn
+2727,2755|C2609183|abnormal withdrawal bleeding|fndg
+2757,2775|C0042134|uterine hemorrhage|patf
+2785,2791|C0027497|nausea|sosy
+2785,2791|C1963179|nausea|patf
+2795,2803|C0042963|vomiting|sosy
+2795,2803|C1963281|vomiting|patf
+2812,2816|C0702166|acne|dsyn
+2812,2816|C0001144|acne|dsyn
+2825,2837|C0085633|mood changes|mobd
+2839,2849|C0011570|depression|mobd
+2839,2849|C0011581|depression|mobd
+2839,2849|C0344315|depression|fndg
+2839,2849|C1579931|depression|sosy
+2851,2862|C0085633|mood swings|mobd
+2864,2878|C0011570|depressed mood|mobd
+2864,2878|C0344315|depressed mood|fndg
+2911,2929|C0013415|dysthymic disorder|mobd
+2950,2966|C0043094|increased weight|fndg
+3009,3030|C0027051|myocardial infarction|dsyn
+3042,3050|C3203359|ruptured|inpo
+3051,3063|C0029927|ovarian cyst|dsyn
+3075,3095|C0149871|deep vein thrombosis|dsyn
+3075,3095|C0340708|deep vein thrombosis|dsyn
+3097,3135|C0700636|focal nodular hyperplasia of the liver|dsyn
+3137,3154|C0042133|uterine leiomyoma|neop
+3156,3175|C0149520|acute cholecystitis|dsyn
+3181,3213|C3272619|chronic acalculous cholecystitis|dsyn
+3295,3305|C1550043|identified|fndg
+3413,3422|C0087130|uncertain|fndg
+3549,3567|C0042373|Vascular disorders|dsyn
+3580,3610|C3544094|arterial thromboembolic events|patf
+3622,3638|C0034065|pulmonary emboli|dsyn
+3640,3660|C0149871|deep vein thrombosis|dsyn
+3640,3660|C0340708|deep vein thrombosis|dsyn
+3662,3681|C0079102|cerebral thrombosis|dsyn
+3662,3681|C0795687|cerebral thrombosis|patf
+3662,3681|C0151945|cerebral thrombosis|dsyn
+3683,3704|C0027051|myocardial infarction|dsyn
+3709,3715|C0038454|stroke|dsyn
+3718,3730|C0020538|hypertension|dsyn
+3718,3730|C1963138|hypertension|fndg
+3735,3758|C0267792|Hepatobiliary disorders|dsyn
+3760,3779|C0016977|Gallbladder disease|dsyn
+3760,3779|C0558976|Gallbladder disease|fndg
+3781,3790|C0019159|hepatitis|dsyn
+3781,3790|C0019158|hepatitis|dsyn
+3795,3818|C0021053|Immune system disorders|dsyn
+3820,3836|C0020517|Hypersensitivity|patf
+3820,3836|C0520946|Hypersensitivity|fndg
+3856,3875|C3714509|nutrition disorders|dsyn
+3877,3892|C0268000|Fluid retention|patf
+3894,3914|C0020557|hypertriglyceridemia|dsyn
+3894,3914|C0428478|hypertriglyceridemia|fndg
+3945,3954|C0012833|Dizziness|sosy
+3945,3954|C0042571|Dizziness|sosy
+3945,3954|C1963093|Dizziness|fndg
+3968,3980;3988,3997|C0549584|subcutaneous disorders|dsyn
+3988,3997|C0012634|disorders|dsyn
+3999,4007|C0025218|Chloasma|dsyn
+4009,4019|C0002994|angioedema|patf
+4021,4037|C0014743|erythema nodosum|dsyn
+4039,4058;4080,4089|C0014742|erythema multiforme disorders|dsyn
+4091,4116|C0426576|Gastrointestinal symptoms|sosy
+4131,4145|C0000737|abdominal pain|sosy
+4151,4161|C3714514|Infections|patf
+4166,4178|C0851341|infestations|dsyn
+4180,4204|C0700345|Vulvovaginal candidiasis|dsyn

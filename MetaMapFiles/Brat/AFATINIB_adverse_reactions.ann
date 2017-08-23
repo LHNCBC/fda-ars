@@ -1,0 +1,482 @@
+T1	AdverseReaction 134 142	Diarrhea
+T2	AdverseReaction 186 193;210 224	Bullous Skin Disorders
+T3	AdverseReaction 198 224	Exfoliative Skin Disorders
+T4	AdverseReaction 268 293	Interstitial Lung Disease
+T5	AdverseReaction 337 353	Hepatic Toxicity
+T6	AdverseReaction 397 406	Keratitis
+T7	AdverseReaction 505 513	diarrhea
+T8	AdverseReaction 515 519	rash
+T9	AdverseReaction 520 540	dermatitis acneiform
+T10	AdverseReaction 542 552	stomatitis
+T11	AdverseReaction 554 564	paronychia
+T12	AdverseReaction 566 574	dry skin
+T13	AdverseReaction 576 594	decreased appetite
+T14	AdverseReaction 596 602	nausea
+T15	AdverseReaction 604 612	vomiting
+T16	AdverseReaction 614 622	pruritus
+T17	AdverseReaction 2555 2563	diarrhea
+T18	AdverseReaction 2572 2580	vomiting
+T19	AdverseReaction 2593 2600	dyspnea
+T20	AdverseReaction 2602 2609	fatigue
+T21	AdverseReaction 2615 2626	hypokalemia
+T22	AdverseReaction 2713 2731	pulmonary toxicity
+T23	AdverseReaction 2732 2758	ILD-like adverse reactions
+T24	AdverseReaction 2767 2773	sepsis
+T25	AdverseReaction 2787 2796	pneumonia
+T26	AdverseReaction 2640 2645	Fatal
+T27	AdverseReaction 3008 3016	diarrhea
+T28	AdverseReaction 3024 3028	rash
+T29	AdverseReaction 3029 3033	acne
+T30	AdverseReaction 3041 3051	paronychia
+T31	AdverseReaction 3063 3073	stomatitis
+T32	AdverseReaction 3272 3280	diarrhea
+T33	AdverseReaction 3289 3292	ILD
+T34	AdverseReaction 3305 3315	paronychia
+T37	AdverseReaction 3712 3735	ventricular dysfunction
+T38	AdverseReaction 3748 3769	diastolic dysfunction
+T39	AdverseReaction 3771 3799	left ventricular dysfunction
+T40	AdverseReaction 3804 3824	ventricular dilation
+T42	AdverseReaction 4039 4049	stomatitis
+T43	AdverseReaction 4121 4131	stomatitis
+T44	AdverseReaction 4133 4152	aphthous stomatitis
+T45	AdverseReaction 4154 4174	mucosal inflammation
+T46	AdverseReaction 4176 4192	mouth ulceration
+T47	AdverseReaction 4194 4213	oral mucosa erosion
+T48	AdverseReaction 4215 4230	mucosal erosion
+T49	AdverseReaction 4232 4250	mucosal ulceration
+T50	AdverseReaction 4273 4277	rash
+T51	AdverseReaction 4295 4299	acne
+T52	AdverseReaction 4301 4314	acne pustular
+T53	AdverseReaction 4316 4336	dermatitis acneiform
+T54	AdverseReaction 4350 4360	paronychia
+T55	AdverseReaction 4362 4376	nail infection
+T56	AdverseReaction 4378 4396	nail bed infection
+T57	AdverseReaction 4612 4620	Diarrhea
+T58	AdverseReaction 4700 4710	Stomatitis
+T59	AdverseReaction 4794 4800	Nausea
+T60	AdverseReaction 4882 4890	Vomiting
+T61	AdverseReaction 4970 4979	Cheilitis
+T62	AdverseReaction 5110 5130	Dermatitis acneiform
+T63	AdverseReaction 5105 5109	Rash
+T64	AdverseReaction 5214 5222	Pruritus
+T65	AdverseReaction 5302 5310	Dry skin
+T66	AdverseReaction 5426 5436	Paronychia
+T67	AdverseReaction 5520 5528	Cystitis
+T68	AdverseReaction 5651 5669	Decreased appetite
+T69	AdverseReaction 5804 5813	Epistaxis
+T70	AdverseReaction 5892 5902	Rhinorrhea
+T71	AdverseReaction 6004 6020	Weight Decreased
+T72	AdverseReaction 6160 6167	Pyrexia
+T73	AdverseReaction 6270 6284	Conjunctivitis
+T74	AdverseReaction 6517 6528	hypokalemia
+T75	AdverseReaction 6530 6555	blood potassium decreased
+T76	AdverseReaction 6756 6790	Alanine aminotransferase increased
+T77	AdverseReaction 6863 6874	Hypokalemia
+T78	AdverseReaction 7400 7412	Pancreatitis
+T35	Severity 4088 4095	Grade 4
+T36	AdverseReaction 6952 6988	Aspartate aminotransferase increased
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E42	AdverseReaction:T42 Effect:E35
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E35	Severity:T35
+E36	AdverseReaction:T36
+A1	CUI E1 C0011991
+A2	UMLS-Preferred-Name E1 Diarrhea
+A3	MEDDRA-PT E1 Diarrhoea
+A4	MEDDRA-PT-ID E1 10012735
+A5	LLT E1 Diarrhea
+A6	LLT-ID E1 10012727
+A7	CUI E2 C0085932
+A8	UMLS-Preferred-Name E2 Skin Diseases, Bullous
+A9	MEDDRA-PT E2 Dermatitis bullous
+A10	MEDDRA-PT-ID E2 10012441
+A11	CUI E3 C0237849
+A12	UMLS-Preferred-Name E3 Peeling of skin
+A13	MEDDRA-PT E3 Skin exfoliation
+A14	MEDDRA-PT-ID E3 10040844
+A15	CUI E4 C0206062
+A16	UMLS-Preferred-Name E4 Lung Diseases, Interstitial
+A17	MEDDRA-PT E4 Interstitial lung disease
+A18	MEDDRA-PT-ID E4 10022611
+A19	CUI E5 C0348754
+A20	UMLS-Preferred-Name E5 Toxic liver disease
+A21	MEDDRA-PT E5 Hepatotoxicity
+A22	MEDDRA-PT-ID E5 10019851
+A23	CUI E6 C0022568
+A24	UMLS-Preferred-Name E6 Keratitis
+A25	MEDDRA-PT E6 Keratitis
+A26	MEDDRA-PT-ID E6 10023332
+A27	CUI E7 C0011991
+A28	UMLS-Preferred-Name E7 Diarrhea
+A29	MEDDRA-PT E7 Diarrhoea
+A30	MEDDRA-PT-ID E7 10012735
+A31	LLT E7 Diarrhea
+A32	LLT-ID E7 10012727
+A33	CUI E8 C0015230
+A34	UMLS-Preferred-Name E8 Exanthema
+A35	MEDDRA-PT E8 Rash
+A36	MEDDRA-PT-ID E8 10037844
+A37	CUI E9 C0234894
+A38	UMLS-Preferred-Name E9 Dermatitis acneiform
+A39	MEDDRA-PT E9 Dermatitis acneiform
+A40	MEDDRA-PT-ID E9 10012432
+A41	CUI E10 C0038362
+A42	UMLS-Preferred-Name E10 Stomatitis
+A43	MEDDRA-PT E10 Stomatitis
+A44	MEDDRA-PT-ID E10 10042128
+A45	CUI E11 C0030578
+A46	UMLS-Preferred-Name E11 Paronychia Inflammation
+A47	MEDDRA-PT E11 Paronychia
+A48	MEDDRA-PT-ID E11 10034016
+A49	CUI E12 C0151908
+A50	UMLS-Preferred-Name E12 Dry skin
+A51	MEDDRA-PT E12 Dry skin
+A52	MEDDRA-PT-ID E12 10013786
+A53	CUI E13 C0232462
+A54	UMLS-Preferred-Name E13 Decrease in appetite
+A55	MEDDRA-PT E13 Decreased appetite
+A56	MEDDRA-PT-ID E13 10061428
+A57	CUI E14 C0027497
+A58	UMLS-Preferred-Name E14 Nausea
+A59	MEDDRA-PT E14 Nausea
+A60	MEDDRA-PT-ID E14 10028813
+A61	CUI E15 C0042963
+A62	UMLS-Preferred-Name E15 Vomiting
+A63	MEDDRA-PT E15 Vomiting
+A64	MEDDRA-PT-ID E15 10047700
+A65	CUI E16 C0033774
+A66	UMLS-Preferred-Name E16 Pruritus
+A67	MEDDRA-PT E16 Pruritus
+A68	MEDDRA-PT-ID E16 10037087
+A69	CUI E17 C0011991
+A70	UMLS-Preferred-Name E17 Diarrhea
+A71	MEDDRA-PT E17 Diarrhoea
+A72	MEDDRA-PT-ID E17 10012735
+A73	LLT E17 Diarrhea
+A74	LLT-ID E17 10012727
+A75	CUI E18 C0042963
+A76	UMLS-Preferred-Name E18 Vomiting
+A77	MEDDRA-PT E18 Vomiting
+A78	MEDDRA-PT-ID E18 10047700
+A79	CUI E19 C0013404
+A80	UMLS-Preferred-Name E19 Dyspnea
+A81	MEDDRA-PT E19 Dyspnoea
+A82	MEDDRA-PT-ID E19 10013968
+A83	LLT E19 Dyspnea
+A84	LLT-ID E19 10013963
+A85	CUI E20 C0015672
+A86	UMLS-Preferred-Name E20 Fatigue
+A87	MEDDRA-PT E20 Fatigue
+A88	MEDDRA-PT-ID E20 10016256
+A89	CUI E21 C0020621
+A90	UMLS-Preferred-Name E21 Hypokalemia
+A91	MEDDRA-PT E21 Hypokalaemia
+A92	MEDDRA-PT-ID E21 10021015
+A93	LLT E21 Hypokalemia
+A94	LLT-ID E21 10021018
+A95	CUI E22 C0919924
+A96	UMLS-Preferred-Name E22 Pulmonary toxicity
+A97	MEDDRA-PT E22 Pulmonary toxicity
+A98	MEDDRA-PT-ID E22 10061924
+A99	CUI E23 C0206062
+A100	UMLS-Preferred-Name E23 Lung Diseases, Interstitial
+A101	MEDDRA-PT E23 Interstitial lung disease
+A102	MEDDRA-PT-ID E23 10022611
+A103	CUI E24 C0243026
+A104	UMLS-Preferred-Name E24 Sepsis
+A105	MEDDRA-PT E24 Sepsis
+A106	MEDDRA-PT-ID E24 10040047
+A107	CUI E25 C0032285
+A108	UMLS-Preferred-Name E25 Pneumonia
+A109	MEDDRA-PT E25 Pneumonia
+A110	MEDDRA-PT-ID E25 10035664
+A111	CUI E26 C1306577
+A112	UMLS-Preferred-Name E26 Death (finding)
+A113	MEDDRA-PT E26 Death
+A114	MEDDRA-PT-ID E26 10011906
+A115	CUI E27 C0011991
+A116	UMLS-Preferred-Name E27 Diarrhea
+A117	MEDDRA-PT E27 Diarrhoea
+A118	MEDDRA-PT-ID E27 10012735
+A119	LLT E27 Diarrhea
+A120	LLT-ID E27 10012727
+A121	CUI E28 C0015230
+A122	UMLS-Preferred-Name E28 Exanthema
+A123	MEDDRA-PT E28 Rash
+A124	MEDDRA-PT-ID E28 10037844
+A125	CUI E29 C0702166
+A126	UMLS-Preferred-Name E29 Acne
+A127	MEDDRA-PT E29 Acne
+A128	MEDDRA-PT-ID E29 10000496
+A129	CUI E30 C0030578
+A130	UMLS-Preferred-Name E30 Paronychia Inflammation
+A131	MEDDRA-PT E30 Paronychia
+A132	MEDDRA-PT-ID E30 10034016
+A133	CUI E31 C0038362
+A134	UMLS-Preferred-Name E31 Stomatitis
+A135	MEDDRA-PT E31 Stomatitis
+A136	MEDDRA-PT-ID E31 10042128
+A137	CUI E32 C0011991
+A138	UMLS-Preferred-Name E32 Diarrhea
+A139	MEDDRA-PT E32 Diarrhoea
+A140	MEDDRA-PT-ID E32 10012735
+A141	LLT E32 Diarrhea
+A142	LLT-ID E32 10012727
+A143	CUI E33 C0206062
+A144	UMLS-Preferred-Name E33 Lung Diseases, Interstitial
+A145	MEDDRA-PT E33 Interstitial lung disease
+A146	MEDDRA-PT-ID E33 10022611
+A147	CUI E34 C0030578
+A148	UMLS-Preferred-Name E34 Paronychia Inflammation
+A149	MEDDRA-PT E34 Paronychia
+A150	MEDDRA-PT-ID E34 10034016
+A151	CUI E37 C0242973
+A152	UMLS-Preferred-Name E37 Ventricular Dysfunction
+A153	MEDDRA-PT E37 Ventricular dysfunction
+A154	MEDDRA-PT-ID E37 10059056
+A155	CUI E38 C0520863
+A156	UMLS-Preferred-Name E38 Diastolic dysfunction
+A157	MEDDRA-PT E38 Diastolic dysfunction
+A158	MEDDRA-PT-ID E38 10052337
+A159	CUI E39 C0242698
+A160	UMLS-Preferred-Name E39 Ventricular Dysfunction, Left
+A161	MEDDRA-PT E39 Left ventricular dysfunction
+A162	MEDDRA-PT-ID E39 10049694
+A163	CUI E40 C0264733
+A164	UMLS-Preferred-Name E40 Ventricular dilatation (disorder)
+A165	MEDDRA-PT E40 Dilatation ventricular
+A166	MEDDRA-PT-ID E40 10013012
+A167	CUI E42 C0038362
+A168	UMLS-Preferred-Name E42 Stomatitis
+A169	MEDDRA-PT E42 Stomatitis
+A170	MEDDRA-PT-ID E42 10042128
+A171	CUI E43 C0038362
+A172	UMLS-Preferred-Name E43 Stomatitis
+A173	MEDDRA-PT E43 Stomatitis
+A174	MEDDRA-PT-ID E43 10042128
+A175	CUI E44 C0038363
+A176	UMLS-Preferred-Name E44 Aphthous Stomatitis
+A177	MEDDRA-PT E44 Aphthous ulcer
+A178	MEDDRA-PT-ID E44 10002959
+A179	LLT E44 Aphthous stomatitis
+A180	LLT-ID E44 10002958
+A181	CUI E45 C0333355
+A182	UMLS-Preferred-Name E45 Inflammatory disease of mucous membrane
+A183	MEDDRA-PT E45 Mucosal inflammation
+A184	MEDDRA-PT-ID E45 10028116
+A185	CUI E46 C0149745
+A186	UMLS-Preferred-Name E46 Oral Ulcer
+A187	MEDDRA-PT E46 Mouth ulceration
+A188	MEDDRA-PT-ID E46 10028034
+A189	CUI E47 C0399461
+A190	UMLS-Preferred-Name E47 Erosion of oral mucosa
+A191	MEDDRA-PT E47 Oral mucosa erosion
+A192	MEDDRA-PT-ID E47 10064594
+A193	CUI E48 C0546343
+A194	UMLS-Preferred-Name E48 Mucosal erosion
+A195	MEDDRA-PT E48 Mucosal erosion
+A196	MEDDRA-PT-ID E48 10061297
+A197	CUI E49 C0236053
+A198	UMLS-Preferred-Name E49 Mucosal ulcer
+A199	MEDDRA-PT E49 Mucosal ulceration
+A200	MEDDRA-PT-ID E49 10028124
+A201	CUI E50 C0015230
+A202	UMLS-Preferred-Name E50 Exanthema
+A203	MEDDRA-PT E50 Rash
+A204	MEDDRA-PT-ID E50 10037844
+A205	CUI E51 C0702166
+A206	UMLS-Preferred-Name E51 Acne
+A207	MEDDRA-PT E51 Acne
+A208	MEDDRA-PT-ID E51 10000496
+A209	CUI E52 C0263443
+A210	UMLS-Preferred-Name E52 Pustular acne
+A211	MEDDRA-PT E52 Acne pustular
+A212	MEDDRA-PT-ID E52 10000513
+A213	CUI E53 C0234894
+A214	UMLS-Preferred-Name E53 Dermatitis acneiform
+A215	MEDDRA-PT E53 Dermatitis acneiform
+A216	MEDDRA-PT-ID E53 10012432
+A217	CUI E54 C0030578
+A218	UMLS-Preferred-Name E54 Paronychia Inflammation
+A219	MEDDRA-PT E54 Paronychia
+A220	MEDDRA-PT-ID E54 10034016
+A221	CUI E55 C0343026
+A222	UMLS-Preferred-Name E55 Infection of nail
+A223	MEDDRA-PT E55 Nail infection
+A224	MEDDRA-PT-ID E55 10061304
+A225	CUI E56 C0521476
+A226	UMLS-Preferred-Name E56 Nail bed infection
+A227	MEDDRA-PT E56 Nail bed infection
+A228	MEDDRA-PT-ID E56 10061303
+A229	CUI E57 C0011991
+A230	UMLS-Preferred-Name E57 Diarrhea
+A231	MEDDRA-PT E57 Diarrhoea
+A232	MEDDRA-PT-ID E57 10012735
+A233	LLT E57 Diarrhea
+A234	LLT-ID E57 10012727
+A235	CUI E58 C0038362
+A236	UMLS-Preferred-Name E58 Stomatitis
+A237	MEDDRA-PT E58 Stomatitis
+A238	MEDDRA-PT-ID E58 10042128
+A239	CUI E59 C0027497
+A240	UMLS-Preferred-Name E59 Nausea
+A241	MEDDRA-PT E59 Nausea
+A242	MEDDRA-PT-ID E59 10028813
+A243	CUI E60 C0042963
+A244	UMLS-Preferred-Name E60 Vomiting
+A245	MEDDRA-PT E60 Vomiting
+A246	MEDDRA-PT-ID E60 10047700
+A247	CUI E61 C0007971
+A248	UMLS-Preferred-Name E61 Cheilitis
+A249	MEDDRA-PT E61 Cheilitis
+A250	MEDDRA-PT-ID E61 10008417
+A251	CUI E62 C0234894
+A252	UMLS-Preferred-Name E62 Dermatitis acneiform
+A253	MEDDRA-PT E62 Dermatitis acneiform
+A254	MEDDRA-PT-ID E62 10012432
+A255	CUI E63 C0015230
+A256	UMLS-Preferred-Name E63 Exanthema
+A257	MEDDRA-PT E63 Rash
+A258	MEDDRA-PT-ID E63 10037844
+A259	CUI E64 C0033774
+A260	UMLS-Preferred-Name E64 Pruritus
+A261	MEDDRA-PT E64 Pruritus
+A262	MEDDRA-PT-ID E64 10037087
+A263	CUI E65 C0151908
+A264	UMLS-Preferred-Name E65 Dry skin
+A265	MEDDRA-PT E65 Dry skin
+A266	MEDDRA-PT-ID E65 10013786
+A267	CUI E66 C0030578
+A268	UMLS-Preferred-Name E66 Paronychia Inflammation
+A269	MEDDRA-PT E66 Paronychia
+A270	MEDDRA-PT-ID E66 10034016
+A271	CUI E67 C0010692
+A272	UMLS-Preferred-Name E67 Cystitis
+A273	MEDDRA-PT E67 Cystitis
+A274	MEDDRA-PT-ID E67 10011781
+A275	CUI E68 C0232462
+A276	UMLS-Preferred-Name E68 Decrease in appetite
+A277	MEDDRA-PT E68 Decreased appetite
+A278	MEDDRA-PT-ID E68 10061428
+A279	CUI E69 C0014591
+A280	UMLS-Preferred-Name E69 Epistaxis
+A281	MEDDRA-PT E69 Epistaxis
+A282	MEDDRA-PT-ID E69 10015090
+A283	CUI E70 C1260880
+A284	UMLS-Preferred-Name E70 Rhinorrhea
+A285	MEDDRA-PT E70 Rhinorrhoea
+A286	MEDDRA-PT-ID E70 10039101
+A287	LLT E70 Rhinorrhea
+A288	LLT-ID E70 10039100
+A289	CUI E71 C1262477
+A290	UMLS-Preferred-Name E71 Weight decreased
+A291	MEDDRA-PT E71 Weight decreased
+A292	MEDDRA-PT-ID E71 10047895
+A293	CUI E72 C0015967
+A294	UMLS-Preferred-Name E72 Fever
+A295	MEDDRA-PT E72 Pyrexia
+A296	MEDDRA-PT-ID E72 10037660
+A297	CUI E73 C0009763
+A298	UMLS-Preferred-Name E73 Conjunctivitis
+A299	MEDDRA-PT E73 Conjunctivitis
+A300	MEDDRA-PT-ID E73 10010741
+A301	CUI E74 C0020621
+A302	UMLS-Preferred-Name E74 Hypokalemia
+A303	MEDDRA-PT E74 Hypokalaemia
+A304	MEDDRA-PT-ID E74 10021015
+A305	LLT E74 Hypokalemia
+A306	LLT-ID E74 10021018
+A307	CUI E75 C0853761
+A308	UMLS-Preferred-Name E75 Blood potassium decreased
+A309	MEDDRA-PT E75 Blood potassium decreased
+A310	MEDDRA-PT-ID E75 10005724
+A311	CUI E76 C0151905
+A312	UMLS-Preferred-Name E76 Alanine aminotransferase increased
+A313	MEDDRA-PT E76 Alanine aminotransferase increased
+A314	MEDDRA-PT-ID E76 10001551
+A315	CUI E77 C0020621
+A316	UMLS-Preferred-Name E77 Hypokalemia
+A317	MEDDRA-PT E77 Hypokalaemia
+A318	MEDDRA-PT-ID E77 10021015
+A319	LLT E77 Hypokalemia
+A320	LLT-ID E77 10021018
+A321	CUI E78 C0030305
+A322	UMLS-Preferred-Name E78 Pancreatitis
+A323	MEDDRA-PT E78 Pancreatitis
+A324	MEDDRA-PT-ID E78 10033645
+A325	CUI E36 C0151904
+A326	UMLS-Preferred-Name E36 Aspartate aminotransferase increased
+A327	MEDDRA-PT E36 Aspartate aminotransferase increased
+A328	MEDDRA-PT-ID E36 10003481

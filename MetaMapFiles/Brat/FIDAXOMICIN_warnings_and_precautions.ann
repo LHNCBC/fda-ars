@@ -1,0 +1,97 @@
+T1	AdverseReaction 119 151	Acute hypersensitivity reactions
+T2	AdverseReaction 153 163	angioedema
+T3	AdverseReaction 165 172	dyspnea
+T4	AdverseReaction 174 182	pruritus
+T5	AdverseReaction 188 192	rash
+T6	AdverseReaction 640 672	Acute hypersensitivity reactions
+T7	AdverseReaction 684 691	dyspnea
+T8	AdverseReaction 693 697	rash
+T9	AdverseReaction 698 706	pruritus
+T10	AdverseReaction 712 735	angioedema of the mouth
+T11	AdverseReaction 712 729;737 743	angioedema of the throat
+T12	AdverseReaction 712 729;749 753	angioedema of the face
+T13	AdverseReaction 943 969	hypersensitivity reactions
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	LLT E1 Hypersensitivity reaction
+A6	LLT-ID E1 10020756
+A7	CUI E2 C0002994
+A8	UMLS-Preferred-Name E2 Angioedema
+A9	MEDDRA-PT E2 Angioedema
+A10	MEDDRA-PT-ID E2 10002424
+A11	CUI E3 C0013404
+A12	UMLS-Preferred-Name E3 Dyspnea
+A13	MEDDRA-PT E3 Dyspnoea
+A14	MEDDRA-PT-ID E3 10013968
+A15	LLT E3 Dyspnea
+A16	LLT-ID E3 10013963
+A17	CUI E4 C0033774
+A18	UMLS-Preferred-Name E4 Pruritus
+A19	MEDDRA-PT E4 Pruritus
+A20	MEDDRA-PT-ID E4 10037087
+A21	CUI E5 C0015230
+A22	UMLS-Preferred-Name E5 Exanthema
+A23	MEDDRA-PT E5 Rash
+A24	MEDDRA-PT-ID E5 10037844
+A25	CUI E6 C0020517
+A26	UMLS-Preferred-Name E6 Hypersensitivity
+A27	MEDDRA-PT E6 Hypersensitivity
+A28	MEDDRA-PT-ID E6 10020751
+A29	LLT E6 Hypersensitivity reaction
+A30	LLT-ID E6 10020756
+A31	CUI E7 C0013404
+A32	UMLS-Preferred-Name E7 Dyspnea
+A33	MEDDRA-PT E7 Dyspnoea
+A34	MEDDRA-PT-ID E7 10013968
+A35	LLT E7 Dyspnea
+A36	LLT-ID E7 10013963
+A37	CUI E8 C0015230
+A38	UMLS-Preferred-Name E8 Exanthema
+A39	MEDDRA-PT E8 Rash
+A40	MEDDRA-PT-ID E8 10037844
+A41	CUI E9 C0033774
+A42	UMLS-Preferred-Name E9 Pruritus
+A43	MEDDRA-PT E9 Pruritus
+A44	MEDDRA-PT-ID E9 10037087
+A45	flag E10 duplicate
+A46	CUI E10 C0236065
+A47	UMLS-Preferred-Name E10 Edema of mouth
+A48	MEDDRA-PT E10 Oedema mouth
+A49	MEDDRA-PT-ID E10 10030110
+A50	LLT E10 Edema mouth
+A51	LLT-ID E10 10054496
+A52	flag E11 duplicate
+A53	CUI E11 C0236024
+A54	UMLS-Preferred-Name E11 Edema of pharynx
+A55	MEDDRA-PT E11 Pharyngeal oedema
+A56	MEDDRA-PT-ID E11 10034829
+A57	LLT E11 Throat edema
+A58	LLT-ID E11 10043519
+A59	flag E12 duplicate
+A60	CUI E12 C0743747
+A61	UMLS-Preferred-Name E12 FACE ANGIOEDEMA
+A62	MEDDRA-PT E12 Face oedema
+A63	MEDDRA-PT-ID E12 10016029
+A64	LLT E12 Face edema
+A65	LLT-ID E12 10016025
+A66	CUI E13 C0020517
+A67	UMLS-Preferred-Name E13 Hypersensitivity
+A68	MEDDRA-PT E13 Hypersensitivity
+A69	MEDDRA-PT-ID E13 10020751
+A70	LLT E13 Hypersensitivity reaction
+A71	LLT-ID E13 10020756

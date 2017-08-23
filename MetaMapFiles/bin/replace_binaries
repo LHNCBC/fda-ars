@@ -1,0 +1,12 @@
+#!/bin/sh
+
+cd $METAMAP/bin
+
+echo Renaming metamap16.BINARY.Linux and metamap16.sav
+echo to metamap16.BINARY.Linux.ORIG and metamap16.sav.ORIG
+
+mv metamap16.BINARY.Linux metamap16.BINARY.Linux.ORIG
+mv metamap16.sav metamap16.sav.ORIG
+
+echo Copying $LABELS/metamap16.BINARY.Linux $LABELS/metamap16.sav to $METAMAP/bin
+cp $LABELS/bin/metamap16.BINARY.Linux $LABELS/bin/metamap16.sav .

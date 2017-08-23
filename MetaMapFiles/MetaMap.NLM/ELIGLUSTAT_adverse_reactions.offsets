@@ -1,0 +1,67 @@
+85,92|C0015672|fatigue|sosy
+94,102|C0018681|headache|sosy
+94,102|C2096315|headache|fndg
+104,110|C0027497|nausea|sosy
+104,110|C1963179|nausea|patf
+112,120|C0011991|diarrhea|sosy
+112,120|C1963091|diarrhea|fndg
+122,131|C0004604|back pain|sosy
+122,131|C1963071|back pain|fndg
+133,152|C0030196|pain in extremities|sosy
+158,178|C0232492|upper abdominal pain|sosy
+427,437|C0012634|conditions|dsyn
+755,763|C3840593|Trials 1|fndg
+776,783|C0015672|fatigue|sosy
+785,793|C0018681|headache|sosy
+785,793|C2096315|headache|fndg
+795,801|C0027497|nausea|sosy
+795,801|C1963179|nausea|patf
+803,811|C0011991|diarrhea|sosy
+803,811|C1963091|diarrhea|fndg
+813,822|C0004604|back pain|sosy
+813,822|C1963071|back pain|fndg
+824,843|C0030196|pain in extremities|sosy
+849,869|C0232492|upper abdominal pain|sosy
+952,960|C3840593|Trials 1|fndg
+1028,1038|C3815594|randomized|fndg
+1097,1104|C3840593|Trial 1|fndg
+1133,1137;1141,1143|C3811621|ages 16|fndg
+1350,1357|C3840593|Trial 1|fndg
+1584,1594|C0003862|Arthralgia|sosy
+1693,1701|C0018681|Headache|sosy
+1693,1701|C2096315|Headache|fndg
+1802,1810|C0149931|Migraine|dsyn
+1911,1921|C0016204|Flatulence|sosy
+1911,1921|C1962956|Flatulence|fndg
+2020,2026|C0027497|Nausea|sosy
+2020,2026|C1963179|Nausea|patf
+2129,2147|C2363731|Oropharyngeal pain|sosy
+2303,2313|C3815594|randomized|fndg
+2418,2425|C3842777|Trial 2|fndg
+2711,2718|C3842777|Trial 2|fndg
+2719,2726|C3842777|Trial 2|fndg
+3060,3067|C0015672|Fatigue|sosy
+3169,3177|C0018681|Headache|sosy
+3169,3177|C2096315|Headache|fndg
+3278,3284|C0027497|Nausea|sosy
+3278,3284|C1963179|Nausea|patf
+3387,3395|C0011991|Diarrhea|sosy
+3387,3395|C1963091|Diarrhea|fndg
+3496,3505|C0004604|Back pain|sosy
+3496,3505|C1963071|Back pain|fndg
+3605,3622|C0030196|Pain in extremity|sosy
+3714,3734|C0232492|Upper abdominal pain|sosy
+3823,3832|C0012833|Dizziness|sosy
+3823,3832|C0042571|Dizziness|sosy
+3823,3832|C1963093|Dizziness|fndg
+3932,3940|C0004093|Asthenia|sosy
+4041,4046|C0010200|Cough|sosy
+4041,4046|C1961131|Cough|fndg
+4150,4159|C0013395|Dyspepsia|sosy
+4259,4290|C0017168|Gastroesophageal reflux disease|dsyn
+4368,4380|C0009806|Constipation|sosy
+4368,4380|C1963087|Constipation|fndg
+4477,4489|C0030252|Palpitations|fndg
+4477,4489|C3160712|Palpitations|fndg
+4586,4590|C0015230|Rash|sosy
+4840,4848|C3840593|Trials 1|fndg

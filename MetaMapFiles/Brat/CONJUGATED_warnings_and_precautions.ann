@@ -1,0 +1,659 @@
+T1	AdverseReaction 179 203	Cardiovascular disorders
+T2	AdverseReaction 215 237	venous thromboembolism
+T3	AdverseReaction 239 257	pulmonary embolism
+T4	AdverseReaction 259 265	stroke
+T5	AdverseReaction 271 298	retinal vascular thrombosis
+T6	AdverseReaction 322 341	Malignant neoplasms
+T7	AdverseReaction 353 371	endometrial cancer
+T8	AdverseReaction 373 386	breast cancer
+T9	AdverseReaction 392 406	ovarian cancer
+T10	AdverseReaction 453 472	gallbladder disease
+T11	Factor 445 449	risk
+T13	AdverseReaction 1174 1177	VTE
+T14	Factor 1166 1170	risk
+T15	AdverseReaction 1204 1210	stroke
+T16	AdverseReaction 1215 1218	DVT
+T18	DrugClass 1242 1250	estrogen
+T19	AdverseReaction 1740 1746	stroke
+T21	DrugClass 1807 1827	conjugated estrogens
+T22	AdverseReaction 2127 2133	stroke
+T23	Negation 2106 2108	no
+T24	DrugClass 2160 2180	conjugated estrogens
+T25	AdverseReaction 2480 2502	coronary heart disease
+T26	AdverseReaction 2504 2507	CHD
+T28	DrugClass 2636 2644	estrogen
+T29	AdverseReaction 2537 2558	myocardial infarction
+T30	AdverseReaction 2560 2588	silent myocardial infarction
+T31	AdverseReaction 2593 2602	CHD death
+T32	AdverseReaction 2813 2816	CHD
+T33	Negation 2800 2809	reduction
+T34	AdverseReaction 3043 3046	VTE
+T35	AdverseReaction 3048 3051	DVT
+T36	AdverseReaction 3056 3074	pulmonary embolism
+T37	AdverseReaction 3076 3078	PE
+T38	DrugClass 3121 3141	conjugated estrogens
+T40	AdverseReaction 3254 3257	DVT
+T42	AdverseReaction 3346 3349	VTE
+T43	Factor 3350 3354	risk
+T44	AdverseReaction 4147 4165	endometrial cancer
+T46	DrugClass 4210 4218	estrogen
+T47	AdverseReaction 4264 4282	endometrial cancer
+T49	DrugClass 4304 4312	estrogen
+T50	AdverseReaction 5798 5820	invasive breast cancer
+T52	DrugClass 5716 5735	conjugated estrogen
+T53	AdverseReaction 6478 6492	ovarian cancer
+T55	DrugClass 6373 6381	estrogen
+T56	AdverseReaction 7074 7082	dementia
+T58	DrugClass 6990 6998	estrogen
+T59	AdverseReaction 7114 7122	dementia
+T61	DrugClass 7127 7129	CE
+T64	AdverseReaction 7218 7226	dementia
+T66	DrugClass 7231 7233	CE
+T67	AdverseReaction 7452 7471	gallbladder disease
+T68	Factor 7444 7448	risk
+T70	AdverseReaction 7590 7617	Retinal vascular thrombosis
+T72	AdverseReaction 8045 8072	increases in blood pressure
+T73	Severity 8033 8044	substantial
+T75	AdverseReaction 8394 8428	elevations of plasma triglycerides
+T76	AdverseReaction 8440 8452	pancreatitis
+T77	Factor 8371 8374	may
+T79	AdverseReaction 9370 9404;9411 9417	increased thyroid-binding globulin levels
+T80	AdverseReaction 9370 9379;9406 9409;9411 9417	increased TBG levels
+T82	AdverseReaction 9477 9490	increased TBG
+T83	AdverseReaction 9955 9970	fluid retention
+T84	Factor 9930 9933	may
+T89	AdverseReaction 10495 10505;10518 10528	exacerbate angioedema
+T90	Factor 10491 10494	may
+T101	AdverseReaction 11740 11774	Increased thyroid-binding globulin
+T102	AdverseReaction 11740 11749;11776 11779	Increased TBG
+T103	AdverseReaction 11792 11835	increased circulating total thyroid hormone
+T104	AdverseReaction 12775 12801	Impaired glucose tolerance
+T105	AdverseReaction 11960 11975;11979 11988	T3 resin uptake decreased
+T106	AdverseReaction 12185 12193;12217 12248	elevated corticosteroid binding globulin
+T107	AdverseReaction 12185 12193;12250 12253	elevated CBG
+T108	AdverseReaction 12185 12193;12256 12284	elevated sex hormone-binding globulin
+T109	AdverseReaction 12185 12193;12286 12290	elevated SHBG
+T110	AdverseReaction 12304 12347	increased total circulating corticosteroids
+T111	AdverseReaction 12304 12331;12352 12364	increased total circulating sex steroids
+T112	Factor 12178 12181	may
+T113	AdverseReaction 11282 11310	Accelerated prothrombin time
+T114	AdverseReaction 11372 11396	increased platelet count
+T115	AdverseReaction 11398 11418	increased factors II
+T116	AdverseReaction 11398 11415;11420 11431	increased factors VII antigen
+T117	AdverseReaction 11398 11415;11433 11445	increased factors VIII antigen
+T118	AdverseReaction 11398 11415;11447 11470	increased factors VIII coagulant activity
+T119	AdverseReaction 11398 11415;11472 11474	increased factors IX
+T120	AdverseReaction 11398 11415;11476 11477	increased factors X
+T121	AdverseReaction 11398 11415;11479 11482	increased factors XII
+T122	AdverseReaction 11398 11415;11484 11497	increased factors VII-X complex
+T123	AdverseReaction 11398 11415;11499 11515	increased factors II-VII-X complex
+T124	AdverseReaction 11398 11407;11521 11541	increased beta-thromboglobulin
+T125	AdverseReaction 11543 11576	decreased levels of antifactor Xa
+T126	AdverseReaction 11543 11562;11581 11597	decreased levels of antithrombin III
+T127	AdverseReaction 11599 11634	decreased antithrombin III activity
+T128	AdverseReaction 11636 11666	increased levels of fibrinogen
+T129	AdverseReaction 11636 11655;11671 11690	increased levels of fibrinogen activity
+T130	AdverseReaction 11692 11721	increased plasminogen antigen
+T131	AdverseReaction 11692 11713;11726 11734	increased plasminogen activity
+T132	AdverseReaction 12005 12017	elevated TBG
+T133	AdverseReaction 12380 12407;12452 12461	Free hormone concentrations decreased
+T134	Factor 12445 12448	may
+T135	AdverseReaction 12417 12429;12452 12461	testosterone decreased
+T136	AdverseReaction 12434 12443;12452 12461	estradiol decreased
+T137	AdverseReaction 12469 12484;12492 12501	plasma proteins increased
+T138	AdverseReaction 12492 12501;12503 12518	increased angiotensinogen
+T139	AdverseReaction 12492 12501;12519 12534	increased renin substrate
+T140	AdverseReaction 12492 12501;12536 12555	increased alpha-1-antitrypsin
+T141	AdverseReaction 12492 12501;12557 12570	increased ceruloplasmin
+T142	Factor 12485 12488	may
+T143	AdverseReaction 12577 12618	Increased plasma high-density lipoprotein
+T145	AdverseReaction 12577 12586;12629 12672	Increased HDL2 cholesterol subfraction concentrations
+T146	AdverseReaction 12674 12705;12712 12738	reduced low-density lipoprotein cholesterol concentrations
+T147	AdverseReaction 12674 12681;12707 12710;12712 12738	reduced LDL cholesterol concentrations
+T148	AdverseReaction 12740 12769	increased triglyceride levels
+T27	AdverseReaction 8208 8214;8228 8245	effect on blood pressure
+T51	Negation 8250 8253	not
+T69	AdverseReaction 11282 11293;11312 11339	Accelerated partial thromboplastin time
+T71	AdverseReaction 11282 11293;11345 11370	Accelerated platelet aggregation time
+T74	AdverseReaction 11792 11801;11880 11889	increased T4 levels
+T78	AdverseReaction 11792 11801;11929 11938	increased T3 levels
+T81	AdverseReaction 12577 12586;12620 12623	Increased HDL
+T86	Severity 2528 2536	nonfatal
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10 Hypothetical:E11
+E11	Factor:T11
+E13	AdverseReaction:T13 Hypothetical:E14
+E14	Factor:T14
+E15	AdverseReaction:T15 Hypothetical2:E18
+E16	AdverseReaction:T16 Hypothetical2:E18
+E18	DrugClass:T18
+E19	AdverseReaction:T19 Hypothetical2:E21
+E21	DrugClass:T21
+E22	AdverseReaction:T22 Negated:E23 Hypothetical:E24
+E23	Negation:T23
+E24	DrugClass:T24
+E25	AdverseReaction:T25 Hypothetical:E28
+E26	AdverseReaction:T26 Hypothetical:E28
+E28	DrugClass:T28
+E29	AdverseReaction:T29 Hypothetical:E28 Effect:E86
+E30	AdverseReaction:T30 Hypothetical:E28
+E31	AdverseReaction:T31 Hypothetical:E28
+E32	AdverseReaction:T32 Negated:E33
+E33	Negation:T33
+E34	AdverseReaction:T34 Hypothetical2:E38
+E35	AdverseReaction:T35 Hypothetical2:E38
+E36	AdverseReaction:T36 Hypothetical2:E38
+E37	AdverseReaction:T37 Hypothetical2:E38
+E38	DrugClass:T38
+E40	AdverseReaction:T40 Hypothetical2:E38
+E42	AdverseReaction:T42 Hypothetical:E43
+E43	Factor:T43
+E44	AdverseReaction:T44 Hypothetical2:E46
+E46	DrugClass:T46
+E47	AdverseReaction:T47 Hypothetical:E49
+E49	DrugClass:T49
+E50	AdverseReaction:T50 Hypothetical:E52
+E52	DrugClass:T52
+E53	AdverseReaction:T53 Hypothetical2:E55
+E55	DrugClass:T55
+E56	AdverseReaction:T56 Hypothetical2:E58
+E58	DrugClass:T58
+E59	AdverseReaction:T59 Hypothetical2:E61
+E61	DrugClass:T61
+E64	AdverseReaction:T64 Hypothetical3:E66
+E66	DrugClass:T66
+E67	AdverseReaction:T67 Hypothetical:E68
+E68	Factor:T68
+E70	AdverseReaction:T70
+E72	AdverseReaction:T72 Effect:E73
+E73	Severity:T73
+E75	AdverseReaction:T75 Hypothetical:E77
+E76	AdverseReaction:T76 Hypothetical:E77
+E77	Factor:T77
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83 Hypothetical:E84
+E84	Factor:T84
+E89	AdverseReaction:T89 Hypothetical:E90
+E90	Factor:T90
+E101	AdverseReaction:T101
+E102	AdverseReaction:T102
+E103	AdverseReaction:T103
+E104	AdverseReaction:T104
+E105	AdverseReaction:T105
+E106	AdverseReaction:T106 Hypothetical:E112
+E107	AdverseReaction:T107 Hypothetical:E112
+E108	AdverseReaction:T108 Hypothetical:E112
+E109	AdverseReaction:T109 Hypothetical:E112
+E110	AdverseReaction:T110 Hypothetical:E112
+E111	AdverseReaction:T111 Hypothetical:E112
+E112	Factor:T112
+E113	AdverseReaction:T113
+E114	AdverseReaction:T114
+E115	AdverseReaction:T115
+E116	AdverseReaction:T116
+E117	AdverseReaction:T117
+E118	AdverseReaction:T118
+E119	AdverseReaction:T119
+E120	AdverseReaction:T120
+E121	AdverseReaction:T121
+E122	AdverseReaction:T122
+E123	AdverseReaction:T123
+E124	AdverseReaction:T124
+E125	AdverseReaction:T125
+E126	AdverseReaction:T126
+E127	AdverseReaction:T127
+E128	AdverseReaction:T128
+E129	AdverseReaction:T129
+E130	AdverseReaction:T130
+E131	AdverseReaction:T131
+E132	AdverseReaction:T132
+E133	AdverseReaction:T133 Hypothetical:E134
+E134	Factor:T134
+E135	AdverseReaction:T135 Hypothetical:E134
+E136	AdverseReaction:T136 Hypothetical:E134
+E137	AdverseReaction:T137 Hypothetical:E142
+E138	AdverseReaction:T138 Hypothetical:E142
+E139	AdverseReaction:T139 Hypothetical:E142
+E140	AdverseReaction:T140 Hypothetical:E142
+E141	AdverseReaction:T141 Hypothetical:E142
+E142	Factor:T142
+E143	AdverseReaction:T143
+E145	AdverseReaction:T145
+E146	AdverseReaction:T146
+E147	AdverseReaction:T147
+E148	AdverseReaction:T148
+E27	AdverseReaction:T27 Negated:E51
+E51	Negation:T51
+E69	AdverseReaction:T69
+E71	AdverseReaction:T71
+E74	AdverseReaction:T74
+E78	AdverseReaction:T78
+E81	AdverseReaction:T81
+E86	Severity:T86
+A1	CUI E1 C0007222
+A2	UMLS-Preferred-Name E1 Cardiovascular Diseases
+A3	MEDDRA-PT E1 Cardiovascular disorder
+A4	MEDDRA-PT-ID E1 10007649
+A5	CUI E2 C1861172
+A6	UMLS-Preferred-Name E2 Venous Thromboembolism
+A7	MEDDRA-PT E2 Embolism venous
+A8	MEDDRA-PT-ID E2 10014522
+A9	LLT E2 Venous thromboembolism
+A10	LLT-ID E2 10066899
+A11	CUI E3 C0034065
+A12	UMLS-Preferred-Name E3 Pulmonary Embolism
+A13	MEDDRA-PT E3 Pulmonary embolism
+A14	MEDDRA-PT-ID E3 10037377
+A15	CUI E4 C0038454
+A16	UMLS-Preferred-Name E4 Cerebrovascular accident
+A17	MEDDRA-PT E4 Cerebrovascular accident
+A18	MEDDRA-PT-ID E4 10008190
+A19	LLT E4 Stroke
+A20	LLT-ID E4 10042244
+A21	CUI E5 C0919714
+A22	UMLS-Preferred-Name E5 Retinal vascular thrombosis
+A23	MEDDRA-PT E5 Retinal vascular thrombosis
+A24	MEDDRA-PT-ID E5 10062108
+A25	CUI E6 C0006826
+A26	UMLS-Preferred-Name E6 Malignant Neoplasms
+A27	MEDDRA-PT E6 Neoplasm malignant
+A28	MEDDRA-PT-ID E6 10028997
+A29	CUI E7 C0476089
+A30	UMLS-Preferred-Name E7 Endometrial Carcinoma
+A31	MEDDRA-PT E7 Endometrial cancer
+A32	MEDDRA-PT-ID E7 10014733
+A33	CUI E8 C0006142
+A34	UMLS-Preferred-Name E8 Malignant neoplasm of breast
+A35	MEDDRA-PT E8 Breast cancer
+A36	MEDDRA-PT-ID E8 10006187
+A37	CUI E9 C1140680
+A38	UMLS-Preferred-Name E9 Malignant neoplasm of ovary
+A39	MEDDRA-PT E9 Ovarian cancer
+A40	MEDDRA-PT-ID E9 10033128
+A41	CUI E10 C0016977
+A42	UMLS-Preferred-Name E10 Gall Bladder Diseases
+A43	MEDDRA-PT E10 Gallbladder disorder
+A44	MEDDRA-PT-ID E10 10017626
+A45	LLT E10 Gallbladder disease
+A46	LLT-ID E10 10017641
+A47	CUI E13 C1861172
+A48	UMLS-Preferred-Name E13 Venous Thromboembolism
+A49	MEDDRA-PT E13 Embolism venous
+A50	MEDDRA-PT-ID E13 10014522
+A51	LLT E13 Venous thromboembolism
+A52	LLT-ID E13 10066899
+A53	CUI E15 C0038454
+A54	UMLS-Preferred-Name E15 Cerebrovascular accident
+A55	MEDDRA-PT E15 Cerebrovascular accident
+A56	MEDDRA-PT-ID E15 10008190
+A57	LLT E15 Stroke
+A58	LLT-ID E15 10042244
+A59	CUI E16 C0149871
+A60	UMLS-Preferred-Name E16 Deep Vein Thrombosis
+A61	MEDDRA-PT E16 Deep vein thrombosis
+A62	MEDDRA-PT-ID E16 10051055
+A63	LLT E16 DVT
+A64	LLT-ID E16 10013877
+A65	CUI E19 C0038454
+A66	UMLS-Preferred-Name E19 Cerebrovascular accident
+A67	MEDDRA-PT E19 Cerebrovascular accident
+A68	MEDDRA-PT-ID E19 10008190
+A69	LLT E19 Stroke
+A70	LLT-ID E19 10042244
+A71	CUI E22 C0038454
+A72	UMLS-Preferred-Name E22 Cerebrovascular accident
+A73	MEDDRA-PT E22 Cerebrovascular accident
+A74	MEDDRA-PT-ID E22 10008190
+A75	LLT E22 Stroke
+A76	LLT-ID E22 10042244
+A77	CUI E25 C0010068
+A78	UMLS-Preferred-Name E25 Coronary heart disease
+A79	MEDDRA-PT E25 Coronary artery disease
+A80	MEDDRA-PT-ID E25 10011078
+A81	LLT E25 Coronary heart disease
+A82	LLT-ID E25 10068617
+A83	CUI E26 C0010068
+A84	UMLS-Preferred-Name E26 Coronary heart disease
+A85	MEDDRA-PT E26 Coronary artery disease
+A86	MEDDRA-PT-ID E26 10011078
+A87	LLT E26 Coronary heart disease
+A88	LLT-ID E26 10068617
+A89	CUI E29 C0027051
+A90	UMLS-Preferred-Name E29 Myocardial Infarction
+A91	MEDDRA-PT E29 Myocardial infarction
+A92	MEDDRA-PT-ID E29 10028596
+A93	CUI E30 C0340324
+A94	UMLS-Preferred-Name E30 Silent myocardial infarction
+A95	MEDDRA-PT E30 Silent myocardial infarction
+A96	MEDDRA-PT-ID E30 10049768
+A97	CUI E31 C0376297
+A98	UMLS-Preferred-Name E31 Cardiac Death
+A99	MEDDRA-PT E31 Cardiac death
+A100	MEDDRA-PT-ID E31 10049993
+A101	CUI E32 C0010068
+A102	UMLS-Preferred-Name E32 Coronary heart disease
+A103	MEDDRA-PT E32 Coronary artery disease
+A104	MEDDRA-PT-ID E32 10011078
+A105	LLT E32 Coronary heart disease
+A106	LLT-ID E32 10068617
+A107	CUI E34 C1861172
+A108	UMLS-Preferred-Name E34 Venous Thromboembolism
+A109	MEDDRA-PT E34 Embolism venous
+A110	MEDDRA-PT-ID E34 10014522
+A111	LLT E34 Venous thromboembolism
+A112	LLT-ID E34 10066899
+A113	CUI E35 C0149871
+A114	UMLS-Preferred-Name E35 Deep Vein Thrombosis
+A115	MEDDRA-PT E35 Deep vein thrombosis
+A116	MEDDRA-PT-ID E35 10051055
+A117	LLT E35 DVT
+A118	LLT-ID E35 10013877
+A119	CUI E36 C0034065
+A120	UMLS-Preferred-Name E36 Pulmonary Embolism
+A121	MEDDRA-PT E36 Pulmonary embolism
+A122	MEDDRA-PT-ID E36 10037377
+A123	CUI E37 C0034065
+A124	UMLS-Preferred-Name E37 Pulmonary Embolism
+A125	MEDDRA-PT E37 Pulmonary embolism
+A126	MEDDRA-PT-ID E37 10037377
+A127	CUI E40 C0149871
+A128	UMLS-Preferred-Name E40 Deep Vein Thrombosis
+A129	MEDDRA-PT E40 Deep vein thrombosis
+A130	MEDDRA-PT-ID E40 10051055
+A131	LLT E40 DVT
+A132	LLT-ID E40 10013877
+A133	CUI E42 C1861172
+A134	UMLS-Preferred-Name E42 Venous Thromboembolism
+A135	MEDDRA-PT E42 Embolism venous
+A136	MEDDRA-PT-ID E42 10014522
+A137	LLT E42 Venous thromboembolism
+A138	LLT-ID E42 10066899
+A139	CUI E44 C0476089
+A140	UMLS-Preferred-Name E44 Endometrial Carcinoma
+A141	MEDDRA-PT E44 Endometrial cancer
+A142	MEDDRA-PT-ID E44 10014733
+A143	CUI E47 C0476089
+A144	UMLS-Preferred-Name E47 Endometrial Carcinoma
+A145	MEDDRA-PT E47 Endometrial cancer
+A146	MEDDRA-PT-ID E47 10014733
+A147	CUI E50 C0853879
+A148	UMLS-Preferred-Name E50 Invasive breast carcinoma
+A149	MEDDRA-PT E50 Invasive breast carcinoma
+A150	MEDDRA-PT-ID E50 10075713
+A151	CUI E53 C1140680
+A152	UMLS-Preferred-Name E53 Malignant neoplasm of ovary
+A153	MEDDRA-PT E53 Ovarian cancer
+A154	MEDDRA-PT-ID E53 10033128
+A155	CUI E56 C0497327
+A156	UMLS-Preferred-Name E56 Dementia
+A157	MEDDRA-PT E56 Dementia
+A158	MEDDRA-PT-ID E56 10012267
+A159	CUI E59 C0497327
+A160	UMLS-Preferred-Name E59 Dementia
+A161	MEDDRA-PT E59 Dementia
+A162	MEDDRA-PT-ID E59 10012267
+A163	CUI E64 C0497327
+A164	UMLS-Preferred-Name E64 Dementia
+A165	MEDDRA-PT E64 Dementia
+A166	MEDDRA-PT-ID E64 10012267
+A167	CUI E67 C0016977
+A168	UMLS-Preferred-Name E67 Gall Bladder Diseases
+A169	MEDDRA-PT E67 Gallbladder disorder
+A170	MEDDRA-PT-ID E67 10017626
+A171	LLT E67 Gallbladder disease
+A172	LLT-ID E67 10017641
+A173	CUI E70 C0919714
+A174	UMLS-Preferred-Name E70 Retinal vascular thrombosis
+A175	MEDDRA-PT E70 Retinal vascular thrombosis
+A176	MEDDRA-PT-ID E70 10062108
+A177	CUI E72 C0497247
+A178	UMLS-Preferred-Name E72 Increase in blood pressure
+A179	MEDDRA-PT E72 Blood pressure increased
+A180	MEDDRA-PT-ID E72 10005750
+A181	CUI E75 C0858041
+A182	UMLS-Preferred-Name E75 Plasma triglycerides increased
+A183	MEDDRA-PT E75 Blood triglycerides increased
+A184	MEDDRA-PT-ID E75 10005839
+A185	LLT E75 Plasma triglycerides increased
+A186	LLT-ID E75 10035456
+A187	CUI E76 C0030305
+A188	UMLS-Preferred-Name E76 Pancreatitis
+A189	MEDDRA-PT E76 Pancreatitis
+A190	MEDDRA-PT-ID E76 10033645
+A191	CUI E79 C1168501
+A192	UMLS-Preferred-Name E79 Thyroid hormone binding index increased
+A193	MEDDRA-PT E79 Thyroxin binding globulin increased
+A194	MEDDRA-PT-ID E79 10051420
+A195	CUI E80 C0241400
+A196	UMLS-Preferred-Name E80 Thyroxin binding globulin increased
+A197	MEDDRA-PT E80 Thyroxin binding globulin increased
+A198	MEDDRA-PT-ID E80 10051420
+A199	CUI E82 C0241400
+A200	UMLS-Preferred-Name E82 Thyroxin binding globulin increased
+A201	MEDDRA-PT E82 Thyroxin binding globulin increased
+A202	MEDDRA-PT-ID E82 10051420
+A203	CUI E83 C0268000
+A204	UMLS-Preferred-Name E83 Body fluid retention
+A205	MEDDRA-PT E83 Fluid retention
+A206	MEDDRA-PT-ID E83 10016807
+A207	CUI E89 C0863128
+A208	UMLS-Preferred-Name E89 Angioedema aggravated
+A209	MEDDRA-PT E89 Angioedema
+A210	MEDDRA-PT-ID E89 10002424
+A211	LLT E89 Angioedema aggravated
+A212	LLT-ID E89 10048331
+A213	CUI E101 C0241400
+A214	UMLS-Preferred-Name E101 Thyroxin binding globulin increased
+A215	MEDDRA-PT E101 Thyroxin binding globulin increased
+A216	MEDDRA-PT-ID E101 10051420
+A217	CUI E102 C0241400
+A218	UMLS-Preferred-Name E102 Thyroxin binding globulin increased
+A219	MEDDRA-PT E102 Thyroxin binding globulin increased
+A220	MEDDRA-PT-ID E102 10051420
+A221	CUI E103 C1328578
+A222	UMLS-Preferred-Name E103 Thyroid hormones increased
+A223	MEDDRA-PT E103 Thyroid hormones increased
+A224	MEDDRA-PT-ID E103 10063161
+A225	CUI E104 C0159069
+A226	UMLS-Preferred-Name E104 abnormal glucose tolerance test
+A227	MEDDRA-PT E104 Glucose tolerance impaired
+A228	MEDDRA-PT-ID E104 10018429
+A229	CUI E105 C0241322
+A230	UMLS-Preferred-Name E105 Tri-iodothyronine uptake decreased
+A231	MEDDRA-PT E105 Tri-iodothyronine uptake decreased
+A232	MEDDRA-PT-ID E105 10044601
+A233	LLT E105 T3 uptake decreased
+A234	LLT-ID E105 10043057
+A235	CUI E106 C3544308
+A236	UMLS-Preferred-Name E106 Corticosteroid binding globulin increased
+A237	MEDDRA-PT E106 Corticosteroid binding globulin increased
+A238	MEDDRA-PT-ID E106 10072935
+A239	CUI E107 C3544308
+A240	UMLS-Preferred-Name E107 Corticosteroid binding globulin increased
+A241	MEDDRA-PT E107 Corticosteroid binding globulin increased
+A242	MEDDRA-PT-ID E107 10072935
+A243	CUI E108 C1167859
+A244	UMLS-Preferred-Name E108 Sex hormone binding globulin increased
+A245	MEDDRA-PT E108 Sex hormone binding globulin increased
+A246	MEDDRA-PT-ID E108 10059659
+A247	CUI E109 C1167859
+A248	UMLS-Preferred-Name E109 Sex hormone binding globulin increased
+A249	MEDDRA-PT E109 Sex hormone binding globulin increased
+A250	MEDDRA-PT-ID E109 10059659
+A251	CUI E110 C0001622
+A252	UMLS-Preferred-Name E110 Adrenal Gland Hyperfunction
+A253	MEDDRA-PT E110 Hypercorticoidism
+A254	MEDDRA-PT-ID E110 10020610
+A255	flag E111 duplicate
+A256	CUI E111 C0241358
+A257	UMLS-Preferred-Name E111 Increased testosterone
+A258	MEDDRA-PT E111 Blood testosterone increased
+A259	MEDDRA-PT-ID E111 10005815
+A260	LLT E111 Testosterone increased
+A261	LLT-ID E111 10043370
+A262	CUI E113 C0580413
+A263	UMLS-Preferred-Name E113 Prothrombin time low
+A264	MEDDRA-PT E113 Prothrombin time shortened
+A265	MEDDRA-PT-ID E113 10037070
+A266	CUI E114 C0857460
+A267	UMLS-Preferred-Name E114 Increased number of platelets
+A268	MEDDRA-PT E114 Platelet count increased
+A269	MEDDRA-PT-ID E114 10051608
+A270	CUI E115 C0151872
+A271	UMLS-Preferred-Name E115 Prothrombin time increased
+A272	MEDDRA-PT E115 Prothrombin level increased
+A273	MEDDRA-PT-ID E115 10037051
+A274	LLT E115 Coagulation factor II level increased
+A275	LLT-ID E115 10009741
+A276	flag E116 unmapped
+A277	flag E117 unmapped
+A278	CUI E118 C0855412
+A279	UMLS-Preferred-Name E118 Coagulation factor VIII level increased
+A280	MEDDRA-PT E118 Coagulation factor VIII level increased
+A281	MEDDRA-PT-ID E118 10009770
+A282	CUI E119 C0855396
+A283	UMLS-Preferred-Name E119 Coagulation factor IX level increased
+A284	MEDDRA-PT E119 Coagulation factor IX level increased
+A285	MEDDRA-PT-ID E119 10009748
+A286	CUI E120 C0855416
+A287	UMLS-Preferred-Name E120 Coagulation factor X level increased
+A288	MEDDRA-PT E120 Coagulation factor X level increased
+A289	MEDDRA-PT-ID E120 10009776
+A290	CUI E121 C0855424
+A291	UMLS-Preferred-Name E121 Coagulation factor XII level increased
+A292	MEDDRA-PT E121 Coagulation factor XII level increased
+A293	MEDDRA-PT-ID E121 10009784
+A294	flag E122 unmapped
+A295	flag E123 unmapped
+A296	flag E124 unmapped
+A297	flag E125 unmapped
+A298	CUI E126 C0238665
+A299	UMLS-Preferred-Name E126 Antithrombin III decreased
+A300	MEDDRA-PT E126 Antithrombin III decreased
+A301	MEDDRA-PT-ID E126 10049547
+A302	CUI E127 C3670602
+A303	UMLS-Preferred-Name E127 Antithrombin III activity decreased below normal range
+A304	MEDDRA-PT E127 Antithrombin III decreased
+A305	MEDDRA-PT-ID E127 10049547
+A306	CUI E128 C0852921
+A307	UMLS-Preferred-Name E128 Blood fibrinogen increased
+A308	MEDDRA-PT E128 Blood fibrinogen increased
+A309	MEDDRA-PT-ID E128 10005521
+A310	LLT E128 Fibrinogen increased
+A311	LLT-ID E128 10016597
+A312	CUI E129 C0852921
+A313	UMLS-Preferred-Name E129 Blood fibrinogen increased
+A314	MEDDRA-PT E129 Blood fibrinogen increased
+A315	MEDDRA-PT-ID E129 10005521
+A316	LLT E129 Fibrinogen increased
+A317	LLT-ID E129 10016597
+A318	CUI E130 C1167843
+A319	UMLS-Preferred-Name E130 Plasminogen activator inhibitor increased
+A320	MEDDRA-PT E130 Plasminogen activator inhibitor increased
+A321	MEDDRA-PT-ID E130 10059618
+A322	CUI E131 C0855434
+A323	UMLS-Preferred-Name E131 Plasminogen increased
+A324	MEDDRA-PT E131 Plasminogen increased
+A325	MEDDRA-PT-ID E131 10035495
+A326	CUI E132 C0241400
+A327	UMLS-Preferred-Name E132 Thyroxin binding globulin increased
+A328	MEDDRA-PT E132 Thyroxin binding globulin increased
+A329	MEDDRA-PT-ID E132 10051420
+A330	flag E133 unmapped
+A331	CUI E135 C1295654
+A332	UMLS-Preferred-Name E135 Decreased testosterone level
+A333	MEDDRA-PT E135 Blood testosterone decreased
+A334	MEDDRA-PT-ID E135 10005814
+A335	LLT E135 Testosterone decreased
+A336	LLT-ID E135 10043368
+A337	CUI E136 C0860850
+A338	UMLS-Preferred-Name E136 Oestradiol decreased
+A339	MEDDRA-PT E136 Oestradiol decreased
+A340	MEDDRA-PT-ID E136 10030229
+A341	LLT E136 Estradiol decreased
+A342	LLT-ID E136 10054509
+A343	CUI E137 C0855758
+A344	UMLS-Preferred-Name E137 Protein total increased
+A345	MEDDRA-PT E137 Protein total increased
+A346	MEDDRA-PT-ID E137 10037016
+A347	flag E138 unmapped
+A348	flag E139 unmapped
+A349	CUI E140 C0860914
+A350	UMLS-Preferred-Name E140 Alpha-1 anti-trypsin increased
+A351	MEDDRA-PT E140 Alpha-1 anti-trypsin increased
+A352	MEDDRA-PT-ID E140 10001808
+A353	CUI E141 C0236043
+A354	UMLS-Preferred-Name E141 Ceruloplasmin increased
+A355	MEDDRA-PT E141 Ceruloplasmin increased
+A356	MEDDRA-PT-ID E141 10008219
+A357	CUI E143 C0853084
+A358	UMLS-Preferred-Name E143 High density lipoprotein increased
+A359	MEDDRA-PT E143 High density lipoprotein increased
+A360	MEDDRA-PT-ID E143 10020061
+A361	flag E145 underspecified
+A362	CUI E145 C0853084
+A363	UMLS-Preferred-Name E145 High density lipoprotein increased
+A364	MEDDRA-PT E145 High density lipoprotein increased
+A365	MEDDRA-PT-ID E145 10020061
+A366	LLT E145 HDL cholesterol increased
+A367	LLT-ID E145 10070544
+A368	CUI E146 C0853085
+A369	UMLS-Preferred-Name E146 Decreased LDL
+A370	MEDDRA-PT E146 Low density lipoprotein decreased
+A371	MEDDRA-PT-ID E146 10024909
+A372	CUI E147 C0853085
+A373	UMLS-Preferred-Name E147 Decreased LDL
+A374	MEDDRA-PT E147 Low density lipoprotein decreased
+A375	MEDDRA-PT-ID E147 10024909
+A376	LLT E147 Decreased LDL
+A377	LLT-ID E147 10011972
+A378	CUI E148 C1522137
+A379	UMLS-Preferred-Name E148 Hypertriglyceridemia result
+A380	MEDDRA-PT E148 Blood triglycerides increased
+A381	MEDDRA-PT-ID E148 10005839
+A382	LLT E148 Triglycerides high
+A383	LLT-ID E148 10052373
+A384	CUI E27 C1268766
+A385	UMLS-Preferred-Name E27 Blood pressure alteration (finding)
+A386	MEDDRA-PT E27 Blood pressure fluctuation
+A387	MEDDRA-PT-ID E27 10005746
+A388	LLT E27 Change in blood pressure
+A389	LLT-ID E27 10008393
+A390	CUI E69 C0853224
+A391	UMLS-Preferred-Name E69 Activated partial thromboplastin time shortened
+A392	MEDDRA-PT E69 Activated partial thromboplastin time shortened
+A393	MEDDRA-PT-ID E69 10000637
+A394	LLT E69 Partial thromboplastin time shortened
+A395	LLT-ID E69 10075335
+A396	CUI E71 C2745924
+A397	UMLS-Preferred-Name E71 Platelet aggregation increased (finding)
+A398	MEDDRA-PT E71 Platelet aggregation increased
+A399	MEDDRA-PT-ID E71 10035518
+A400	CUI E74 C1295665
+A401	UMLS-Preferred-Name E74 Increased thyroxine level
+A402	MEDDRA-PT E74 Thyroxine increased
+A403	MEDDRA-PT-ID E74 10043818
+A404	LLT E74 T4 increased
+A405	LLT-ID E74 10043063
+A406	CUI E78 C1295668
+A407	UMLS-Preferred-Name E78 Increased triiodothyronine level
+A408	MEDDRA-PT E78 Tri-iodothyronine increased
+A409	MEDDRA-PT-ID E78 10044596
+A410	LLT E78 T3 increased
+A411	LLT-ID E78 10043053
+A412	CUI E81 C0853084
+A413	UMLS-Preferred-Name E81 High density lipoprotein increased
+A414	MEDDRA-PT E81 High density lipoprotein increased
+A415	MEDDRA-PT-ID E81 10020061
+A416	LLT E81 Increased HDL
+A417	LLT-ID E81 10021662

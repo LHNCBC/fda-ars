@@ -1,0 +1,21 @@
+00000000|AA|HBV|hepatitis B virus|1|3|5|17|628:3
+00000000|AA|HIV-1|human immunodeficiency virus-1|3|5|7|30|889:5
+00000000|AA|DF|disoproxil fumarate|1|2|3|19|1665:2
+00000000|MMI|84.36|Hepatitis B|C0019163|[dsyn]|["HEPATITIS B"-tx-9-"hepatitis B"-noun-0,"HEPATITIS B"-tx-6-"HEPATITIS B"-noun-0,"HEPATITIS B"-tx-3-"hepatitis B"-noun-0,"HEPATITIS B"-tx-1-"HEPATITIS B"-noun-0]|TX|1825/11;1402/11;782/11;[122/11],[240/11]|C02.256.430.400;C02.440.435;C06.552.380.705.437
+00000000|MMI|68.40|Hepatomegaly|C0019209|[sosy]|["HEPATOMEGALY"-tx-7-"hepatomegaly"-noun-0,"HEPATOMEGALY"-tx-6-"HEPATOMEGALY"-noun-0,"HEPATOMEGALY"-tx-1-"HEPATOMEGALY"-noun-0,"HEPATOMEGALY"-tx-1-"hepatomegaly"-noun-0]|TX|1517/12;1333/12;[53/12],[171/12];286/12|C06.552.416;C23.300.775.525
+00000000|MMI|59.04|Hepatitis B, Chronic|C0524909|[dsyn]|["chronic hepatitis, B virus"-tx-8-"chronic hepatitis B virus"-noun-1,"chronic hepatitis B infection"-tx-2-"chronic hepatitis B infection"-noun-1,"chronic hepatitis, B virus"-tx-2-"chronic hepatitis B virus"-noun-1]|TX|1752/25;601/19,633/9;601/25|C02.256.430.400.100;C02.440.435.100;C06.552.380.350.100;C06.552.380.705.437.100
+00000000|MMI|51.16|Steatohepatitis|C2711227|[dsyn]|["Steatosis"-tx-7-"steatosis"-noun-0,"Steatosis"-tx-6-"STEATOSIS"-noun-0,"Steatosis"-tx-1-"STEATOSIS"-noun-0,"Steatosis"-tx-1-"steatosis"-noun-0]|TX|1535/9;1351/9;[71/9],[189/9];304/9|C06.552.241
+00000000|MMI|32.62|Acidosis, Lactic|C0001125|[dsyn]|["Acidosis, Lactic"-tx-7-"Lactic acidosis"-noun-0,"Acidosis, Lactic"-tx-1-"Lactic acidosis"-noun-0]|TX|1490/15;259/15|C18.452.076.176.180
+00000000|MMI|32.27|Hepatitis A|C0019159|[dsyn]|["Hepatitis"-tx-11-"hepatitis"-adj-0,"Hepatitis"-tx-5-"hepatitis"-adj-0]|TX|2073/9;1199/9|C02.440.420;C02.782.687.359.500;C06.552.380.705.422
+00000000|MMI|20.12|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-8-"infection"-noun-1,"Infection, NOS"-tx-2-"infection"-noun-1]|TX|1784/9;633/9|C01.539.221
+00000000|MMI|19.58|Hepatitis|C0019158|[dsyn]|["HEPATITIS"-tx-11-"hepatitis"-adj-0,"HEPATITIS"-tx-5-"hepatitis"-adj-0]|TX|2073/9;1199/9|C06.552.380
+00000000|MMI|18.79|exacerbation acute|C0743630|[fndg]|["acute exacerbations"-tx-9-"acute exacerbations"-noun-0,"acute exacerbation"-tx-6-"ACUTE EXACERBATION"-noun-0,"acute exacerbations"-tx-3-"acute exacerbations"-noun-0,"acute exacerbation"-tx-1-"ACUTE EXACERBATION"-noun-0]|TX|1802/19;1380/18;759/19;[100/18],[218/18]|
+00000000|MMI|18.02|Fatty degeneration|C0152254|[patf]|["Steatosis"-tx-7-"steatosis"-noun-0,"Steatosis"-tx-6-"STEATOSIS"-noun-0,"Steatosis"-tx-1-"STEATOSIS"-noun-0,"Steatosis"-tx-1-"steatosis"-noun-0]|TX|1535/9;1351/9;[71/9],[189/9];304/9|
+00000000|MMI|13.78|Infection|C3714514|[patf]|["INFECTION"-tx-8-"infection"-noun-1,"INFECTION"-tx-2-"infection"-noun-1]|TX|1784/9;633/9|C01.539
+00000000|MMI|10.96|Discontinued|C1444662|[fndg]|["Discontinued"-tx-9-"discontinued"-adj-0,"Discontinue"-tx-4-"discontinue"-verb-0,"Discontinued"-tx-3-"discontinued"-adj-0]|TX|1907/12;1142/11;905/12|
+00000000|MMI|10.58|Severe lactic acidosis|C1839436|[fndg]|["Lactic acidosis, severe"-tx-6-"LACTIC ACIDOSIS/SEVERE"-noun-0,"Lactic acidosis, severe"-tx-1-"LACTIC ACIDOSIS/SEVERE"-noun-0]|TX|1310/22;[30/22],[148/22]|
+00000000|MMI|7.04|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-7-"fatal"-adj-0,"FATAL"-tx-1-"fatal"-adj-0]|TX|1556/5;325/5|
+00000000|MMI|6.92|Therapy Appropriate|C1555288|[fndg]|["Therapy Appropriate"-tx-11-"appropriate therapy"-noun-0,"Therapy Appropriate"-tx-5-"appropriate therapy"-noun-0]|TX|2041/11,2085/7;1167/11,1211/7|
+00000000|MMI|3.58|Follow-up status|C0589120|[fndg]|["Follow-up"-tx-4-"follow-up"-adj-0]|TX|1050/9|
+00000000|MMI|3.56|combination - answer to question|C3811910|[fndg]|["Combination"-tx-1-"combination"-noun-0]|TX|462/11|
+00000000|MMI|3.54|Virus Diseases|C0042769|[dsyn]|["virus"-tx-2-"virus"-noun-1]|TX|621/5|C02

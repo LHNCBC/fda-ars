@@ -1,0 +1,994 @@
+T1	AdverseReaction 113 120	Seizure
+T2	AdverseReaction 230 238	asthenia
+T3	AdverseReaction 239 246	fatigue
+T4	AdverseReaction 248 257	back pain
+T5	AdverseReaction 259 277	decreased appetite
+T6	AdverseReaction 279 291	constipation
+T7	AdverseReaction 293 303	arthralgia
+T8	AdverseReaction 305 313	diarrhea
+T9	AdverseReaction 315 324	hot flush
+T10	AdverseReaction 326 359	upper respiratory tract infection
+T11	AdverseReaction 361 377	peripheral edema
+T12	AdverseReaction 379 386	dyspnea
+T13	AdverseReaction 388 408	musculoskeletal pain
+T14	AdverseReaction 410 426	weight decreased
+T15	AdverseReaction 428 436	headache
+T16	AdverseReaction 438 450	hypertension
+T17	AdverseReaction 456 465	dizziness
+T18	AdverseReaction 466 473	vertigo
+T19	AdverseReaction 1599 1607	asthenia
+T20	AdverseReaction 1608 1615	fatigue
+T21	AdverseReaction 1617 1626	back pain
+T22	AdverseReaction 1628 1646	decreased appetite
+T23	AdverseReaction 1648 1660	constipation
+T24	AdverseReaction 1662 1672	arthralgia
+T25	AdverseReaction 1674 1682	diarrhea
+T26	AdverseReaction 1684 1693	hot flush
+T27	AdverseReaction 1695 1728	upper respiratory tract infection
+T28	AdverseReaction 1730 1746	peripheral edema
+T29	AdverseReaction 1748 1755	dyspnea
+T30	AdverseReaction 1757 1777	musculoskeletal pain
+T31	AdverseReaction 1779 1795	weight decreased
+T32	AdverseReaction 1797 1805	headache
+T33	AdverseReaction 1807 1819	hypertension
+T34	AdverseReaction 1825 1834	dizziness
+T35	AdverseReaction 1835 1842	vertigo
+T36	AdverseReaction 2556 2563	seizure
+T37	AdverseReaction 3067 3085	Asthenic Condition
+T38	AdverseReaction 3178 3194	Peripheral Edema
+T39	AdverseReaction 3343 3352	Back Pain
+T40	AdverseReaction 3454 3464	Arthralgia
+T41	AdverseReaction 3565 3585	Musculoskeletal Pain
+T42	AdverseReaction 3676 3693	Muscular Weakness
+T43	AdverseReaction 3787 3812	Musculoskeletal Stiffness
+T44	AdverseReaction 3934 3942	Diarrhea
+T45	AdverseReaction 4080 4089	Hot Flush
+T46	AdverseReaction 4191 4203	Hypertension
+T47	AdverseReaction 4337 4345	Headache
+T48	AdverseReaction 4448 4457	Dizziness
+T49	AdverseReaction 4559 4582	Spinal Cord Compression
+T50	AdverseReaction 4591 4612	Cauda Equina Syndrome
+T51	AdverseReaction 4699 4710	Paresthesia
+T52	AdverseReaction 4810 4837	Mental Impairment Disorders
+T53	AdverseReaction 4925 4937	Hypoesthesia
+T54	AdverseReaction 5071 5094;5099 5108	Upper Respiratory Tract Infection
+T55	AdverseReaction 5196 5219;5233 5242	Lower Respiratory Tract Infection
+T56	AdverseReaction 5228 5242	Lung Infection
+T57	AdverseReaction 5365 5373	Insomnia
+T58	AdverseReaction 5476 5483	Anxiety
+T59	AdverseReaction 5622 5631	Hematuria
+T60	AdverseReaction 5733 5744	Pollakiuria
+T61	AdverseReaction 5897 5901	Fall
+T62	AdverseReaction 6008 6032	Non-pathologic Fractures
+T63	AdverseReaction 6164 6172	Pruritus
+T64	AdverseReaction 6275 6283	Dry Skin
+T65	AdverseReaction 6421 6430	Epistaxis
+T66	AdverseReaction 6555 6563	asthenia
+T67	AdverseReaction 6568 6575	fatigue
+T68	AdverseReaction 6590 6599	dizziness
+T69	AdverseReaction 6604 6611	vertigo
+T70	AdverseReaction 6626 6633	amnesia
+T71	AdverseReaction 6635 6652	memory impairment
+T72	AdverseReaction 6654 6672	cognitive disorder
+T73	AdverseReaction 6678 6702	disturbance in attention
+T74	AdverseReaction 6717 6732	nasopharyngitis
+T75	AdverseReaction 6734 6767	upper respiratory tract infection
+T76	AdverseReaction 6769 6778	sinusitis
+T77	AdverseReaction 6780 6788	rhinitis
+T78	AdverseReaction 6790 6801	pharyngitis
+T79	AdverseReaction 6807 6817	laryngitis
+T80	AdverseReaction 6832 6841	pneumonia
+T81	AdverseReaction 6843 6876	lower respiratory tract infection
+T82	AdverseReaction 6878 6888	bronchitis
+T83	AdverseReaction 6894 6908	lung infection
+T84	AdverseReaction 7562 7569	fatigue
+T85	AdverseReaction 7570 7578	asthenia
+T86	AdverseReaction 8055 8074	Asthenic Conditions
+T87	AdverseReaction 8167 8183	Peripheral Edema
+T88	AdverseReaction 8333 8342	Back Pain
+T89	AdverseReaction 8445 8455	Arthralgia
+T90	AdverseReaction 8593 8605	Constipation
+T91	AdverseReaction 8705 8713	Diarrhea
+T92	AdverseReaction 8853 8862	Hot Flush
+T93	AdverseReaction 8965 8977	Hypertension
+T94	AdverseReaction 9113 9122	Dizziness
+T95	AdverseReaction 9225 9233	Headache
+T96	AdverseReaction 9337 9346	Dysgeusia
+T97	AdverseReaction 9449 9476	Mental Impairment Disorders
+T98	AdverseReaction 9564 9586	Restless Legs Syndrome
+T99	AdverseReaction 9712 9720	Dyspneae
+T100	AdverseReaction 9860 9883;9888 9897	Upper Respiratory Tract Infection
+T101	AdverseReaction 10022 10031;9985 10008	Infection Lower Respiratory Tract
+T102	AdverseReaction 10017 10031	Lung Infection
+T103	AdverseReaction 10155 10163	Insomnia
+T104	AdverseReaction 10303 10312	Hematuria
+T105	AdverseReaction 10468 10472	Fall
+T106	AdverseReaction 10580 10605	Non-Pathological Fracture
+T107	AdverseReaction 10733 10751	Decreased Appetite
+T108	AdverseReaction 10881 10897	Weight Decreased
+T109	AdverseReaction 11040 11052	Gynecomastia
+T110	AdverseReaction 11175 11183	asthenia
+T111	AdverseReaction 11188 11195	fatigue
+T112	AdverseReaction 11210 11219	dizziness
+T113	AdverseReaction 11224 11231	vertigo
+T114	AdverseReaction 11246 11253	amnesia
+T115	AdverseReaction 11255 11272	memory impairment
+T116	AdverseReaction 11274 11292	cognitive disorder
+T117	AdverseReaction 11298 11322	disturbance in attention
+T118	AdverseReaction 11337 11344	dyspnea
+T119	AdverseReaction 11346 11364	exertional dyspnea
+T120	AdverseReaction 11370 11385	dyspnea at rest
+T121	AdverseReaction 11400 11415	nasopharyngitis
+T122	AdverseReaction 11417 11450	upper respiratory tract infection
+T123	AdverseReaction 11452 11461	sinusitis
+T124	AdverseReaction 11463 11471	rhinitis
+T125	AdverseReaction 11473 11484	pharyngitis
+T126	AdverseReaction 11490 11500	laryngitis
+T127	AdverseReaction 11515 11524	pneumonia
+T128	AdverseReaction 11526 11559	lower respiratory tract infection
+T129	AdverseReaction 11561 11571	bronchitis
+T130	AdverseReaction 11577 11591	lung infection
+T131	AdverseReaction 11685 11696	neutropenia
+T132	Severity 11675 11680;11683 11684	Grade 4
+T133	Severity 11675 11684	Grade 1-4
+T134	Severity 11675 11682	Grade 1
+T135	AdverseReaction 11848 11864	thrombocytopenia
+T136	Severity 11838 11847	Grade 1-4
+T137	Severity 11838 11843;11846 11847	Grade 4
+T138	Severity 11838 11845	Grade 1
+T139	AdverseReaction 11989 12006	elevations in ALT
+T140	Severity 11979 11988	Grade 1-4
+T141	Severity 11979 11986	Grade 1
+T142	Severity 11979 11984;11987 11988	Grade 4
+T143	AdverseReaction 12141 12164	elevations in bilirubin
+T144	Severity 12131 12140	Grade 1-4
+T145	Severity 12131 12138	Grade 1
+T146	Severity 12131 12136;12139 12140	Grade 4
+T147	AdverseReaction 12410 12420	infections
+T148	AdverseReaction 12424 12430	sepsis
+T149	AdverseReaction 12492 12501	infection
+T150	AdverseReaction 12515 12520	death
+T151	AdverseReaction 12600 12605	falls
+T152	AdverseReaction 12616 12637	fall-related injuries
+T153	AdverseReaction 12735 12740	Falls
+T154	AdverseReaction 12791 12798	seizure
+T155	AdverseReaction 12766 12787	loss of consciousness
+T156	Negation 12746 12749	not
+T157	AdverseReaction 12800 12821	Fall-related injuries
+T158	AdverseReaction 12884 12908	non-pathologic fractures
+T159	AdverseReaction 12910 12924	joint injuries
+T160	AdverseReaction 12930 12939	hematomas
+T161	AdverseReaction 12947 12959	Hypertension
+T162	AdverseReaction 12991 13003	hypertension
+T163	AdverseReaction 13115 13134	hypertensive crisis
+T164	Negation 13091 13093	No
+T165	AdverseReaction 13195 13207	Hypertension
+T166	AdverseReaction 12400 12404	died
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91
+E92	AdverseReaction:T92
+E93	AdverseReaction:T93
+E94	AdverseReaction:T94
+E95	AdverseReaction:T95
+E96	AdverseReaction:T96
+E97	AdverseReaction:T97
+E98	AdverseReaction:T98
+E99	AdverseReaction:T99
+E100	AdverseReaction:T100
+E101	AdverseReaction:T101
+E102	AdverseReaction:T102
+E103	AdverseReaction:T103
+E104	AdverseReaction:T104
+E105	AdverseReaction:T105
+E106	AdverseReaction:T106
+E107	AdverseReaction:T107
+E108	AdverseReaction:T108
+E109	AdverseReaction:T109
+E110	AdverseReaction:T110
+E111	AdverseReaction:T111
+E112	AdverseReaction:T112
+E113	AdverseReaction:T113
+E114	AdverseReaction:T114
+E115	AdverseReaction:T115
+E116	AdverseReaction:T116
+E117	AdverseReaction:T117
+E118	AdverseReaction:T118
+E119	AdverseReaction:T119
+E120	AdverseReaction:T120
+E121	AdverseReaction:T121
+E122	AdverseReaction:T122
+E123	AdverseReaction:T123
+E124	AdverseReaction:T124
+E125	AdverseReaction:T125
+E126	AdverseReaction:T126
+E127	AdverseReaction:T127
+E128	AdverseReaction:T128
+E129	AdverseReaction:T129
+E130	AdverseReaction:T130
+E131	AdverseReaction:T131 Effect:E132
+E132	Severity:T132
+E133	AdverseReaction:T131 Effect:E136
+E134	AdverseReaction:T131 Effect:E135
+E135	Severity:T133
+E136	Severity:T134
+E137	AdverseReaction:T135 Effect:E141
+E138	AdverseReaction:T135 Effect:E142
+E139	AdverseReaction:T135 Effect:E140
+E140	Severity:T136
+E141	Severity:T137
+E142	Severity:T138
+E143	AdverseReaction:T139 Effect:E148
+E144	AdverseReaction:T139 Effect:E147
+E145	AdverseReaction:T139 Effect:E146
+E146	Severity:T140
+E147	Severity:T141
+E148	Severity:T142
+E149	AdverseReaction:T143 Effect:E154
+E150	AdverseReaction:T143 Effect:E153
+E151	AdverseReaction:T143 Effect:E152
+E152	Severity:T144
+E153	Severity:T145
+E154	Severity:T146
+E155	AdverseReaction:T147
+E156	AdverseReaction:T148
+E157	AdverseReaction:T149
+E158	AdverseReaction:T150
+E159	AdverseReaction:T151
+E160	AdverseReaction:T152
+E161	AdverseReaction:T153
+E162	AdverseReaction:T154 Negated:E164
+E163	AdverseReaction:T155 Negated:E164
+E164	Negation:T156
+E165	AdverseReaction:T157
+E166	AdverseReaction:T158
+E167	AdverseReaction:T159
+E168	AdverseReaction:T160
+E169	AdverseReaction:T161
+E170	AdverseReaction:T162
+E171	AdverseReaction:T163 Negated:E172
+E172	Negation:T164
+E173	AdverseReaction:T165
+E174	AdverseReaction:T166
+A1	CUI E1 C0036572
+A2	UMLS-Preferred-Name E1 Seizures
+A3	MEDDRA-PT E1 Seizure
+A4	MEDDRA-PT-ID E1 10039906
+A5	CUI E2 C0004093
+A6	UMLS-Preferred-Name E2 Asthenia
+A7	MEDDRA-PT E2 Asthenia
+A8	MEDDRA-PT-ID E2 10003549
+A9	CUI E3 C0015672
+A10	UMLS-Preferred-Name E3 Fatigue
+A11	MEDDRA-PT E3 Fatigue
+A12	MEDDRA-PT-ID E3 10016256
+A13	CUI E4 C0004604
+A14	UMLS-Preferred-Name E4 Back Pain
+A15	MEDDRA-PT E4 Back pain
+A16	MEDDRA-PT-ID E4 10003988
+A17	CUI E5 C0232462
+A18	UMLS-Preferred-Name E5 Decrease in appetite
+A19	MEDDRA-PT E5 Decreased appetite
+A20	MEDDRA-PT-ID E5 10061428
+A21	CUI E6 C0009806
+A22	UMLS-Preferred-Name E6 Constipation
+A23	MEDDRA-PT E6 Constipation
+A24	MEDDRA-PT-ID E6 10010774
+A25	CUI E7 C0003862
+A26	UMLS-Preferred-Name E7 Arthralgia
+A27	MEDDRA-PT E7 Arthralgia
+A28	MEDDRA-PT-ID E7 10003239
+A29	CUI E8 C0011991
+A30	UMLS-Preferred-Name E8 Diarrhea
+A31	MEDDRA-PT E8 Diarrhoea
+A32	MEDDRA-PT-ID E8 10012735
+A33	LLT E8 Diarrhea
+A34	LLT-ID E8 10012727
+A35	CUI E9 C0600142
+A36	UMLS-Preferred-Name E9 Hot flushes
+A37	MEDDRA-PT E9 Hot flush
+A38	MEDDRA-PT-ID E9 10060800
+A39	CUI E10 C0041912
+A40	UMLS-Preferred-Name E10 Upper Respiratory Infections
+A41	MEDDRA-PT E10 Upper respiratory tract infection
+A42	MEDDRA-PT-ID E10 10046306
+A43	CUI E11 C0085649
+A44	UMLS-Preferred-Name E11 Peripheral edema
+A45	MEDDRA-PT E11 Oedema peripheral
+A46	MEDDRA-PT-ID E11 10030124
+A47	LLT E11 Peripheral edema
+A48	LLT-ID E11 10034570
+A49	CUI E12 C0013404
+A50	UMLS-Preferred-Name E12 Dyspnea
+A51	MEDDRA-PT E12 Dyspnoea
+A52	MEDDRA-PT-ID E12 10013968
+A53	LLT E12 Dyspnea
+A54	LLT-ID E12 10013963
+A55	CUI E13 C0026858
+A56	UMLS-Preferred-Name E13 Musculoskeletal Pain
+A57	MEDDRA-PT E13 Musculoskeletal pain
+A58	MEDDRA-PT-ID E13 10028391
+A59	CUI E14 C1262477
+A60	UMLS-Preferred-Name E14 Weight decreased
+A61	MEDDRA-PT E14 Weight decreased
+A62	MEDDRA-PT-ID E14 10047895
+A63	CUI E15 C0018681
+A64	UMLS-Preferred-Name E15 Headache
+A65	MEDDRA-PT E15 Headache
+A66	MEDDRA-PT-ID E15 10019211
+A67	CUI E16 C0020538
+A68	UMLS-Preferred-Name E16 Hypertensive disease
+A69	MEDDRA-PT E16 Hypertension
+A70	MEDDRA-PT-ID E16 10020772
+A71	CUI E17 C0012833
+A72	UMLS-Preferred-Name E17 Dizziness
+A73	MEDDRA-PT E17 Dizziness
+A74	MEDDRA-PT-ID E17 10013573
+A75	CUI E18 C0042571
+A76	UMLS-Preferred-Name E18 Vertigo
+A77	MEDDRA-PT E18 Vertigo
+A78	MEDDRA-PT-ID E18 10047340
+A79	CUI E19 C0004093
+A80	UMLS-Preferred-Name E19 Asthenia
+A81	MEDDRA-PT E19 Asthenia
+A82	MEDDRA-PT-ID E19 10003549
+A83	CUI E20 C0015672
+A84	UMLS-Preferred-Name E20 Fatigue
+A85	MEDDRA-PT E20 Fatigue
+A86	MEDDRA-PT-ID E20 10016256
+A87	CUI E21 C0004604
+A88	UMLS-Preferred-Name E21 Back Pain
+A89	MEDDRA-PT E21 Back pain
+A90	MEDDRA-PT-ID E21 10003988
+A91	CUI E22 C0232462
+A92	UMLS-Preferred-Name E22 Decrease in appetite
+A93	MEDDRA-PT E22 Decreased appetite
+A94	MEDDRA-PT-ID E22 10061428
+A95	CUI E23 C0009806
+A96	UMLS-Preferred-Name E23 Constipation
+A97	MEDDRA-PT E23 Constipation
+A98	MEDDRA-PT-ID E23 10010774
+A99	CUI E24 C0003862
+A100	UMLS-Preferred-Name E24 Arthralgia
+A101	MEDDRA-PT E24 Arthralgia
+A102	MEDDRA-PT-ID E24 10003239
+A103	CUI E25 C0011991
+A104	UMLS-Preferred-Name E25 Diarrhea
+A105	MEDDRA-PT E25 Diarrhoea
+A106	MEDDRA-PT-ID E25 10012735
+A107	LLT E25 Diarrhea
+A108	LLT-ID E25 10012727
+A109	CUI E26 C0600142
+A110	UMLS-Preferred-Name E26 Hot flushes
+A111	MEDDRA-PT E26 Hot flush
+A112	MEDDRA-PT-ID E26 10060800
+A113	CUI E27 C0041912
+A114	UMLS-Preferred-Name E27 Upper Respiratory Infections
+A115	MEDDRA-PT E27 Upper respiratory tract infection
+A116	MEDDRA-PT-ID E27 10046306
+A117	CUI E28 C0085649
+A118	UMLS-Preferred-Name E28 Peripheral edema
+A119	MEDDRA-PT E28 Oedema peripheral
+A120	MEDDRA-PT-ID E28 10030124
+A121	LLT E28 Peripheral edema
+A122	LLT-ID E28 10034570
+A123	CUI E29 C0013404
+A124	UMLS-Preferred-Name E29 Dyspnea
+A125	MEDDRA-PT E29 Dyspnoea
+A126	MEDDRA-PT-ID E29 10013968
+A127	LLT E29 Dyspnea
+A128	LLT-ID E29 10013963
+A129	CUI E30 C0026858
+A130	UMLS-Preferred-Name E30 Musculoskeletal Pain
+A131	MEDDRA-PT E30 Musculoskeletal pain
+A132	MEDDRA-PT-ID E30 10028391
+A133	CUI E31 C1262477
+A134	UMLS-Preferred-Name E31 Weight decreased
+A135	MEDDRA-PT E31 Weight decreased
+A136	MEDDRA-PT-ID E31 10047895
+A137	CUI E32 C0018681
+A138	UMLS-Preferred-Name E32 Headache
+A139	MEDDRA-PT E32 Headache
+A140	MEDDRA-PT-ID E32 10019211
+A141	CUI E33 C0020538
+A142	UMLS-Preferred-Name E33 Hypertensive disease
+A143	MEDDRA-PT E33 Hypertension
+A144	MEDDRA-PT-ID E33 10020772
+A145	CUI E34 C0012833
+A146	UMLS-Preferred-Name E34 Dizziness
+A147	MEDDRA-PT E34 Dizziness
+A148	MEDDRA-PT-ID E34 10013573
+A149	CUI E35 C0042571
+A150	UMLS-Preferred-Name E35 Vertigo
+A151	MEDDRA-PT E35 Vertigo
+A152	MEDDRA-PT-ID E35 10047340
+A153	CUI E36 C0036572
+A154	UMLS-Preferred-Name E36 Seizures
+A155	MEDDRA-PT E36 Seizure
+A156	MEDDRA-PT-ID E36 10039906
+A157	flag E37 HLT
+A158	CUI E37 C0852192
+A159	UMLS-Preferred-Name E37 Asthenic conditions
+A160	MEDDRA-PT E37 Asthenic conditions
+A161	MEDDRA-PT-ID E37 10003550
+A162	CUI E38 C0085649
+A163	UMLS-Preferred-Name E38 Peripheral edema
+A164	MEDDRA-PT E38 Oedema peripheral
+A165	MEDDRA-PT-ID E38 10030124
+A166	LLT E38 Peripheral edema
+A167	LLT-ID E38 10034570
+A168	CUI E39 C0004604
+A169	UMLS-Preferred-Name E39 Back Pain
+A170	MEDDRA-PT E39 Back pain
+A171	MEDDRA-PT-ID E39 10003988
+A172	CUI E40 C0003862
+A173	UMLS-Preferred-Name E40 Arthralgia
+A174	MEDDRA-PT E40 Arthralgia
+A175	MEDDRA-PT-ID E40 10003239
+A176	CUI E41 C0026858
+A177	UMLS-Preferred-Name E41 Musculoskeletal Pain
+A178	MEDDRA-PT E41 Musculoskeletal pain
+A179	MEDDRA-PT-ID E41 10028391
+A180	CUI E42 C0151786
+A181	UMLS-Preferred-Name E42 Muscle Weakness
+A182	MEDDRA-PT E42 Muscular weakness
+A183	MEDDRA-PT-ID E42 10028372
+A184	CUI E43 C0948525
+A185	UMLS-Preferred-Name E43 Musculoskeletal stiffness
+A186	MEDDRA-PT E43 Musculoskeletal stiffness
+A187	MEDDRA-PT-ID E43 10052904
+A188	CUI E44 C0011991
+A189	UMLS-Preferred-Name E44 Diarrhea
+A190	MEDDRA-PT E44 Diarrhoea
+A191	MEDDRA-PT-ID E44 10012735
+A192	LLT E44 Diarrhea
+A193	LLT-ID E44 10012727
+A194	CUI E45 C0600142
+A195	UMLS-Preferred-Name E45 Hot flushes
+A196	MEDDRA-PT E45 Hot flush
+A197	MEDDRA-PT-ID E45 10060800
+A198	CUI E46 C0020538
+A199	UMLS-Preferred-Name E46 Hypertensive disease
+A200	MEDDRA-PT E46 Hypertension
+A201	MEDDRA-PT-ID E46 10020772
+A202	CUI E47 C0018681
+A203	UMLS-Preferred-Name E47 Headache
+A204	MEDDRA-PT E47 Headache
+A205	MEDDRA-PT-ID E47 10019211
+A206	CUI E48 C0012833
+A207	UMLS-Preferred-Name E48 Dizziness
+A208	MEDDRA-PT E48 Dizziness
+A209	MEDDRA-PT-ID E48 10013573
+A210	CUI E49 C0037926
+A211	UMLS-Preferred-Name E49 Compression of spinal cord
+A212	MEDDRA-PT E49 Spinal cord compression
+A213	MEDDRA-PT-ID E49 10041549
+A214	CUI E50 C0392548
+A215	UMLS-Preferred-Name E50 Cauda Equina Syndrome
+A216	MEDDRA-PT E50 Cauda equina syndrome
+A217	MEDDRA-PT-ID E50 10007821
+A218	CUI E51 C0030554
+A219	UMLS-Preferred-Name E51 Paresthesia
+A220	MEDDRA-PT E51 Paraesthesia
+A221	MEDDRA-PT-ID E51 10033775
+A222	LLT E51 Paresthesia
+A223	LLT-ID E51 10033987
+A224	flag E52 HLGT
+A225	CUI E52 C1112722
+A226	UMLS-Preferred-Name E52 Mental impairment disorders
+A227	MEDDRA-PT E52 Mental impairment disorders
+A228	MEDDRA-PT-ID E52 10057167
+A229	CUI E53 C0020580
+A230	UMLS-Preferred-Name E53 Hypesthesia
+A231	MEDDRA-PT E53 Hypoaesthesia
+A232	MEDDRA-PT-ID E53 10020937
+A233	LLT E53 Hypoesthesia
+A234	LLT-ID E53 10020976
+A235	CUI E54 C0041912
+A236	UMLS-Preferred-Name E54 Upper Respiratory Infections
+A237	MEDDRA-PT E54 Upper respiratory tract infection
+A238	MEDDRA-PT-ID E54 10046306
+A239	CUI E55 C0149725
+A240	UMLS-Preferred-Name E55 Lower respiratory tract infection
+A241	MEDDRA-PT E55 Lower respiratory tract infection
+A242	MEDDRA-PT-ID E55 10024968
+A243	CUI E56 C0876973
+A244	UMLS-Preferred-Name E56 Infectious disease of lung
+A245	MEDDRA-PT E56 Lung infection
+A246	MEDDRA-PT-ID E56 10061229
+A247	CUI E57 C0917801
+A248	UMLS-Preferred-Name E57 Sleeplessness
+A249	MEDDRA-PT E57 Insomnia
+A250	MEDDRA-PT-ID E57 10022437
+A251	CUI E58 C0003467
+A252	UMLS-Preferred-Name E58 Anxiety
+A253	MEDDRA-PT E58 Anxiety
+A254	MEDDRA-PT-ID E58 10002855
+A255	CUI E59 C0018965
+A256	UMLS-Preferred-Name E59 Hematuria
+A257	MEDDRA-PT E59 Haematuria
+A258	MEDDRA-PT-ID E59 10018867
+A259	LLT E59 Hematuria
+A260	LLT-ID E59 10019450
+A261	CUI E60 C0042023
+A262	UMLS-Preferred-Name E60 Increased frequency of micturition
+A263	MEDDRA-PT E60 Pollakiuria
+A264	MEDDRA-PT-ID E60 10036018
+A265	CUI E61 C0085639
+A266	UMLS-Preferred-Name E61 Falls
+A267	MEDDRA-PT E61 Fall
+A268	MEDDRA-PT-ID E61 10016173
+A269	CUI E62 C0016658
+A270	UMLS-Preferred-Name E62 Fracture
+A271	MEDDRA-PT E62 Fracture
+A272	MEDDRA-PT-ID E62 10017076
+A273	CUI E63 C0033774
+A274	UMLS-Preferred-Name E63 Pruritus
+A275	MEDDRA-PT E63 Pruritus
+A276	MEDDRA-PT-ID E63 10037087
+A277	CUI E64 C0151908
+A278	UMLS-Preferred-Name E64 Dry skin
+A279	MEDDRA-PT E64 Dry skin
+A280	MEDDRA-PT-ID E64 10013786
+A281	CUI E65 C0014591
+A282	UMLS-Preferred-Name E65 Epistaxis
+A283	MEDDRA-PT E65 Epistaxis
+A284	MEDDRA-PT-ID E65 10015090
+A285	CUI E66 C0004093
+A286	UMLS-Preferred-Name E66 Asthenia
+A287	MEDDRA-PT E66 Asthenia
+A288	MEDDRA-PT-ID E66 10003549
+A289	CUI E67 C0015672
+A290	UMLS-Preferred-Name E67 Fatigue
+A291	MEDDRA-PT E67 Fatigue
+A292	MEDDRA-PT-ID E67 10016256
+A293	CUI E68 C0012833
+A294	UMLS-Preferred-Name E68 Dizziness
+A295	MEDDRA-PT E68 Dizziness
+A296	MEDDRA-PT-ID E68 10013573
+A297	CUI E69 C0042571
+A298	UMLS-Preferred-Name E69 Vertigo
+A299	MEDDRA-PT E69 Vertigo
+A300	MEDDRA-PT-ID E69 10047340
+A301	CUI E70 C0002622
+A302	UMLS-Preferred-Name E70 Amnesia
+A303	MEDDRA-PT E70 Amnesia
+A304	MEDDRA-PT-ID E70 10001949
+A305	CUI E71 C0233794
+A306	UMLS-Preferred-Name E71 Memory impairment
+A307	MEDDRA-PT E71 Memory impairment
+A308	MEDDRA-PT-ID E71 10027175
+A309	CUI E72 C0009241
+A310	UMLS-Preferred-Name E72 Cognition Disorders
+A311	MEDDRA-PT E72 Cognitive disorder
+A312	MEDDRA-PT-ID E72 10057668
+A313	CUI E73 C0233414
+A314	UMLS-Preferred-Name E73 Disturbance of attention
+A315	MEDDRA-PT E73 Disturbance in attention
+A316	MEDDRA-PT-ID E73 10013496
+A317	CUI E74 C0027441
+A318	UMLS-Preferred-Name E74 Nasopharyngitis
+A319	MEDDRA-PT E74 Nasopharyngitis
+A320	MEDDRA-PT-ID E74 10028810
+A321	CUI E75 C0041912
+A322	UMLS-Preferred-Name E75 Upper Respiratory Infections
+A323	MEDDRA-PT E75 Upper respiratory tract infection
+A324	MEDDRA-PT-ID E75 10046306
+A325	CUI E76 C0037199
+A326	UMLS-Preferred-Name E76 Sinusitis
+A327	MEDDRA-PT E76 Sinusitis
+A328	MEDDRA-PT-ID E76 10040753
+A329	CUI E77 C0035455
+A330	UMLS-Preferred-Name E77 Rhinitis
+A331	MEDDRA-PT E77 Rhinitis
+A332	MEDDRA-PT-ID E77 10039083
+A333	CUI E78 C0031350
+A334	UMLS-Preferred-Name E78 Pharyngitis
+A335	MEDDRA-PT E78 Pharyngitis
+A336	MEDDRA-PT-ID E78 10034835
+A337	CUI E79 C0023067
+A338	UMLS-Preferred-Name E79 Laryngitis
+A339	MEDDRA-PT E79 Laryngitis
+A340	MEDDRA-PT-ID E79 10023874
+A341	CUI E80 C0032285
+A342	UMLS-Preferred-Name E80 Pneumonia
+A343	MEDDRA-PT E80 Pneumonia
+A344	MEDDRA-PT-ID E80 10035664
+A345	CUI E81 C0149725
+A346	UMLS-Preferred-Name E81 Lower respiratory tract infection
+A347	MEDDRA-PT E81 Lower respiratory tract infection
+A348	MEDDRA-PT-ID E81 10024968
+A349	CUI E82 C0006277
+A350	UMLS-Preferred-Name E82 Bronchitis
+A351	MEDDRA-PT E82 Bronchitis
+A352	MEDDRA-PT-ID E82 10006451
+A353	CUI E83 C0876973
+A354	UMLS-Preferred-Name E83 Infectious disease of lung
+A355	MEDDRA-PT E83 Lung infection
+A356	MEDDRA-PT-ID E83 10061229
+A357	CUI E84 C0015672
+A358	UMLS-Preferred-Name E84 Fatigue
+A359	MEDDRA-PT E84 Fatigue
+A360	MEDDRA-PT-ID E84 10016256
+A361	CUI E85 C0004093
+A362	UMLS-Preferred-Name E85 Asthenia
+A363	MEDDRA-PT E85 Asthenia
+A364	MEDDRA-PT-ID E85 10003549
+A365	flag E86 HLT
+A366	CUI E86 C0852192
+A367	UMLS-Preferred-Name E86 Asthenic conditions
+A368	MEDDRA-PT E86 Asthenic conditions
+A369	MEDDRA-PT-ID E86 10003550
+A370	CUI E87 C0085649
+A371	UMLS-Preferred-Name E87 Peripheral edema
+A372	MEDDRA-PT E87 Oedema peripheral
+A373	MEDDRA-PT-ID E87 10030124
+A374	LLT E87 Peripheral edema
+A375	LLT-ID E87 10034570
+A376	CUI E88 C0004604
+A377	UMLS-Preferred-Name E88 Back Pain
+A378	MEDDRA-PT E88 Back pain
+A379	MEDDRA-PT-ID E88 10003988
+A380	CUI E89 C0003862
+A381	UMLS-Preferred-Name E89 Arthralgia
+A382	MEDDRA-PT E89 Arthralgia
+A383	MEDDRA-PT-ID E89 10003239
+A384	CUI E90 C0009806
+A385	UMLS-Preferred-Name E90 Constipation
+A386	MEDDRA-PT E90 Constipation
+A387	MEDDRA-PT-ID E90 10010774
+A388	CUI E91 C0011991
+A389	UMLS-Preferred-Name E91 Diarrhea
+A390	MEDDRA-PT E91 Diarrhoea
+A391	MEDDRA-PT-ID E91 10012735
+A392	LLT E91 Diarrhea
+A393	LLT-ID E91 10012727
+A394	CUI E92 C0600142
+A395	UMLS-Preferred-Name E92 Hot flushes
+A396	MEDDRA-PT E92 Hot flush
+A397	MEDDRA-PT-ID E92 10060800
+A398	CUI E93 C0020538
+A399	UMLS-Preferred-Name E93 Hypertensive disease
+A400	MEDDRA-PT E93 Hypertension
+A401	MEDDRA-PT-ID E93 10020772
+A402	CUI E94 C0012833
+A403	UMLS-Preferred-Name E94 Dizziness
+A404	MEDDRA-PT E94 Dizziness
+A405	MEDDRA-PT-ID E94 10013573
+A406	CUI E95 C0018681
+A407	UMLS-Preferred-Name E95 Headache
+A408	MEDDRA-PT E95 Headache
+A409	MEDDRA-PT-ID E95 10019211
+A410	CUI E96 C0013378
+A411	UMLS-Preferred-Name E96 Dysgeusia
+A412	MEDDRA-PT E96 Dysgeusia
+A413	MEDDRA-PT-ID E96 10013911
+A414	flag E97 HLGT
+A415	CUI E97 C1112722
+A416	UMLS-Preferred-Name E97 Mental impairment disorders
+A417	MEDDRA-PT E97 Mental impairment disorders
+A418	MEDDRA-PT-ID E97 10057167
+A419	CUI E98 C0035258
+A420	UMLS-Preferred-Name E98 Restless Legs Syndrome
+A421	MEDDRA-PT E98 Restless legs syndrome
+A422	MEDDRA-PT-ID E98 10058920
+A423	CUI E99 C0013404
+A424	UMLS-Preferred-Name E99 Dyspnea
+A425	MEDDRA-PT E99 Dyspnoea
+A426	MEDDRA-PT-ID E99 10013968
+A427	LLT E99 Dyspnea
+A428	LLT-ID E99 10013963
+A429	CUI E100 C0041912
+A430	UMLS-Preferred-Name E100 Upper Respiratory Infections
+A431	MEDDRA-PT E100 Upper respiratory tract infection
+A432	MEDDRA-PT-ID E100 10046306
+A433	CUI E101 C0149725
+A434	UMLS-Preferred-Name E101 Lower respiratory tract infection
+A435	MEDDRA-PT E101 Lower respiratory tract infection
+A436	MEDDRA-PT-ID E101 10024968
+A437	CUI E102 C0876973
+A438	UMLS-Preferred-Name E102 Infectious disease of lung
+A439	MEDDRA-PT E102 Lung infection
+A440	MEDDRA-PT-ID E102 10061229
+A441	CUI E103 C0917801
+A442	UMLS-Preferred-Name E103 Sleeplessness
+A443	MEDDRA-PT E103 Insomnia
+A444	MEDDRA-PT-ID E103 10022437
+A445	CUI E104 C0018965
+A446	UMLS-Preferred-Name E104 Hematuria
+A447	MEDDRA-PT E104 Haematuria
+A448	MEDDRA-PT-ID E104 10018867
+A449	LLT E104 Hematuria
+A450	LLT-ID E104 10019450
+A451	CUI E105 C0085639
+A452	UMLS-Preferred-Name E105 Falls
+A453	MEDDRA-PT E105 Fall
+A454	MEDDRA-PT-ID E105 10016173
+A455	CUI E106 C0016658
+A456	UMLS-Preferred-Name E106 Fracture
+A457	MEDDRA-PT E106 Fracture
+A458	MEDDRA-PT-ID E106 10017076
+A459	CUI E107 C0232462
+A460	UMLS-Preferred-Name E107 Decrease in appetite
+A461	MEDDRA-PT E107 Decreased appetite
+A462	MEDDRA-PT-ID E107 10061428
+A463	CUI E108 C1262477
+A464	UMLS-Preferred-Name E108 Weight decreased
+A465	MEDDRA-PT E108 Weight decreased
+A466	MEDDRA-PT-ID E108 10047895
+A467	CUI E109 C0018418
+A468	UMLS-Preferred-Name E109 Gynecomastia
+A469	MEDDRA-PT E109 Gynaecomastia
+A470	MEDDRA-PT-ID E109 10018800
+A471	LLT E109 Gynecomastia
+A472	LLT-ID E109 10018801
+A473	CUI E110 C0004093
+A474	UMLS-Preferred-Name E110 Asthenia
+A475	MEDDRA-PT E110 Asthenia
+A476	MEDDRA-PT-ID E110 10003549
+A477	CUI E111 C0015672
+A478	UMLS-Preferred-Name E111 Fatigue
+A479	MEDDRA-PT E111 Fatigue
+A480	MEDDRA-PT-ID E111 10016256
+A481	CUI E112 C0012833
+A482	UMLS-Preferred-Name E112 Dizziness
+A483	MEDDRA-PT E112 Dizziness
+A484	MEDDRA-PT-ID E112 10013573
+A485	CUI E113 C0042571
+A486	UMLS-Preferred-Name E113 Vertigo
+A487	MEDDRA-PT E113 Vertigo
+A488	MEDDRA-PT-ID E113 10047340
+A489	CUI E114 C0002622
+A490	UMLS-Preferred-Name E114 Amnesia
+A491	MEDDRA-PT E114 Amnesia
+A492	MEDDRA-PT-ID E114 10001949
+A493	CUI E115 C0233794
+A494	UMLS-Preferred-Name E115 Memory impairment
+A495	MEDDRA-PT E115 Memory impairment
+A496	MEDDRA-PT-ID E115 10027175
+A497	CUI E116 C0009241
+A498	UMLS-Preferred-Name E116 Cognition Disorders
+A499	MEDDRA-PT E116 Cognitive disorder
+A500	MEDDRA-PT-ID E116 10057668
+A501	CUI E117 C0233414
+A502	UMLS-Preferred-Name E117 Disturbance of attention
+A503	MEDDRA-PT E117 Disturbance in attention
+A504	MEDDRA-PT-ID E117 10013496
+A505	CUI E118 C0013404
+A506	UMLS-Preferred-Name E118 Dyspnea
+A507	MEDDRA-PT E118 Dyspnoea
+A508	MEDDRA-PT-ID E118 10013968
+A509	LLT E118 Dyspnea
+A510	LLT-ID E118 10013963
+A511	CUI E119 C0231807
+A512	UMLS-Preferred-Name E119 Dyspnea on exertion
+A513	MEDDRA-PT E119 Dyspnoea exertional
+A514	MEDDRA-PT-ID E119 10013971
+A515	LLT E119 Exertional dyspnea
+A516	LLT-ID E119 10055548
+A517	CUI E120 C2712054
+A518	UMLS-Preferred-Name E120 Actual Resting Dyspnea
+A519	MEDDRA-PT E120 Dyspnoea at rest
+A520	MEDDRA-PT-ID E120 10013969
+A521	CUI E121 C0027441
+A522	UMLS-Preferred-Name E121 Nasopharyngitis
+A523	MEDDRA-PT E121 Nasopharyngitis
+A524	MEDDRA-PT-ID E121 10028810
+A525	CUI E122 C0041912
+A526	UMLS-Preferred-Name E122 Upper Respiratory Infections
+A527	MEDDRA-PT E122 Upper respiratory tract infection
+A528	MEDDRA-PT-ID E122 10046306
+A529	CUI E123 C0037199
+A530	UMLS-Preferred-Name E123 Sinusitis
+A531	MEDDRA-PT E123 Sinusitis
+A532	MEDDRA-PT-ID E123 10040753
+A533	CUI E124 C0035455
+A534	UMLS-Preferred-Name E124 Rhinitis
+A535	MEDDRA-PT E124 Rhinitis
+A536	MEDDRA-PT-ID E124 10039083
+A537	CUI E125 C0031350
+A538	UMLS-Preferred-Name E125 Pharyngitis
+A539	MEDDRA-PT E125 Pharyngitis
+A540	MEDDRA-PT-ID E125 10034835
+A541	CUI E126 C0023067
+A542	UMLS-Preferred-Name E126 Laryngitis
+A543	MEDDRA-PT E126 Laryngitis
+A544	MEDDRA-PT-ID E126 10023874
+A545	CUI E127 C0032285
+A546	UMLS-Preferred-Name E127 Pneumonia
+A547	MEDDRA-PT E127 Pneumonia
+A548	MEDDRA-PT-ID E127 10035664
+A549	CUI E128 C0149725
+A550	UMLS-Preferred-Name E128 Lower respiratory tract infection
+A551	MEDDRA-PT E128 Lower respiratory tract infection
+A552	MEDDRA-PT-ID E128 10024968
+A553	CUI E129 C0006277
+A554	UMLS-Preferred-Name E129 Bronchitis
+A555	MEDDRA-PT E129 Bronchitis
+A556	MEDDRA-PT-ID E129 10006451
+A557	CUI E130 C0876973
+A558	UMLS-Preferred-Name E130 Infectious disease of lung
+A559	MEDDRA-PT E130 Lung infection
+A560	MEDDRA-PT-ID E130 10061229
+A561	CUI E131 C0027947
+A562	UMLS-Preferred-Name E131 Neutropenia
+A563	MEDDRA-PT E131 Neutropenia
+A564	MEDDRA-PT-ID E131 10029354
+A565	CUI E137 C0040034
+A566	UMLS-Preferred-Name E137 Thrombocytopenia
+A567	MEDDRA-PT E137 Thrombocytopenia
+A568	MEDDRA-PT-ID E137 10043554
+A569	CUI E143 C0151905
+A570	UMLS-Preferred-Name E143 Alanine aminotransferase increased
+A571	MEDDRA-PT E143 Alanine aminotransferase increased
+A572	MEDDRA-PT-ID E143 10001551
+A573	LLT E143 ALT increased
+A574	LLT-ID E143 10001845
+A575	CUI E149 C0311468
+A576	UMLS-Preferred-Name E149 Increased bilirubin level (finding)
+A577	MEDDRA-PT E149 Blood bilirubin increased
+A578	MEDDRA-PT-ID E149 10005364
+A579	LLT E149 Bilirubin elevated
+A580	LLT-ID E149 10004688
+A581	CUI E155 C3714514
+A582	UMLS-Preferred-Name E155 Infection
+A583	MEDDRA-PT E155 Infection
+A584	MEDDRA-PT-ID E155 10021789
+A585	CUI E156 C0243026
+A586	UMLS-Preferred-Name E156 Sepsis
+A587	MEDDRA-PT E156 Sepsis
+A588	MEDDRA-PT-ID E156 10040047
+A589	CUI E157 C3714514
+A590	UMLS-Preferred-Name E157 Infection
+A591	MEDDRA-PT E157 Infection
+A592	MEDDRA-PT-ID E157 10021789
+A593	CUI E158 C1306577
+A594	UMLS-Preferred-Name E158 Death (finding)
+A595	MEDDRA-PT E158 Death
+A596	MEDDRA-PT-ID E158 10011906
+A597	CUI E159 C0085639
+A598	UMLS-Preferred-Name E159 Falls
+A599	MEDDRA-PT E159 Fall
+A600	MEDDRA-PT-ID E159 10016173
+A601	CUI E160 C0085639
+A602	UMLS-Preferred-Name E160 Falls
+A603	MEDDRA-PT E160 Fall
+A604	MEDDRA-PT-ID E160 10016173
+A605	CUI E161 C0085639
+A606	UMLS-Preferred-Name E161 Falls
+A607	MEDDRA-PT E161 Fall
+A608	MEDDRA-PT-ID E161 10016173
+A609	CUI E162 C0036572
+A610	UMLS-Preferred-Name E162 Seizures
+A611	MEDDRA-PT E162 Seizure
+A612	MEDDRA-PT-ID E162 10039906
+A613	CUI E163 C0041657
+A614	UMLS-Preferred-Name E163 Unconscious State
+A615	MEDDRA-PT E163 Loss of consciousness
+A616	MEDDRA-PT-ID E163 10024855
+A617	CUI E165 C0085639
+A618	UMLS-Preferred-Name E165 Falls
+A619	MEDDRA-PT E165 Fall
+A620	MEDDRA-PT-ID E165 10016173
+A621	CUI E166 C0016658
+A622	UMLS-Preferred-Name E166 Fracture
+A623	MEDDRA-PT E166 Fracture
+A624	MEDDRA-PT-ID E166 10017076
+A625	CUI E167 C0409497
+A626	UMLS-Preferred-Name E167 Joint injury
+A627	MEDDRA-PT E167 Joint injury
+A628	MEDDRA-PT-ID E167 10060820
+A629	CUI E168 C0018944
+A630	UMLS-Preferred-Name E168 Hematoma
+A631	MEDDRA-PT E168 Haematoma
+A632	MEDDRA-PT-ID E168 10018852
+A633	LLT E168 Hematoma
+A634	LLT-ID E168 10019428
+A635	CUI E169 C0020538
+A636	UMLS-Preferred-Name E169 Hypertensive disease
+A637	MEDDRA-PT E169 Hypertension
+A638	MEDDRA-PT-ID E169 10020772
+A639	CUI E170 C0020538
+A640	UMLS-Preferred-Name E170 Hypertensive disease
+A641	MEDDRA-PT E170 Hypertension
+A642	MEDDRA-PT-ID E170 10020772
+A643	CUI E171 C0020546
+A644	UMLS-Preferred-Name E171 Hypertensive crisis
+A645	MEDDRA-PT E171 Hypertensive crisis
+A646	MEDDRA-PT-ID E171 10020802
+A647	CUI E173 C0020538
+A648	UMLS-Preferred-Name E173 Hypertensive disease
+A649	MEDDRA-PT E173 Hypertension
+A650	MEDDRA-PT-ID E173 10020772
+A651	CUI E174 C1306577
+A652	UMLS-Preferred-Name E174 Death (finding)
+A653	MEDDRA-PT E174 Death
+A654	MEDDRA-PT-ID E174 10011906

@@ -1,0 +1,231 @@
+101,109|C0018681|headache|sosy
+101,109|C2096315|headache|fndg
+111,119|C0003123|anorexia|dsyn
+111,119|C0426579|anorexia|sosy
+111,119|C1971624|anorexia|fndg
+121,130|C0042571|dizziness|sosy
+121,130|C0012833|dizziness|sosy
+121,130|C1963093|dizziness|fndg
+132,140|C0004093|asthenia|sosy
+142,152|C0003862|arthralgia|sosy
+157,164|C0231528|myalgia|sosy
+223,230|C0015967|pyrexia|fndg
+232,237|C0010200|cough|sosy
+232,237|C1961131|cough|fndg
+239,247|C0042963|vomiting|sosy
+239,247|C1963281|vomiting|patf
+249,257|C0003123|anorexia|dsyn
+249,257|C0426579|anorexia|sosy
+249,257|C1971624|anorexia|fndg
+263,271|C0018681|headache|sosy
+263,271|C2096315|headache|fndg
+617,643|C0020517|Hypersensitivity Reactions|patf
+807,817|C0012634|conditions|dsyn
+1262,1272|C2911690|controlled|fndg
+1400,1407|C0024530|malaria|dsyn
+1963,1968|C0311392|signs|fndg
+1973,1981|C1457887|symptoms|sosy
+2073,2081|C1457868|worsened|fndg
+2196,2204|C0018681|headache|sosy
+2196,2204|C2096315|headache|fndg
+2206,2214|C0003123|anorexia|dsyn
+2206,2214|C0426579|anorexia|sosy
+2206,2214|C1971624|anorexia|fndg
+2216,2225|C0042571|dizziness|sosy
+2216,2225|C0012833|dizziness|sosy
+2216,2225|C1963093|dizziness|fndg
+2231,2239|C0004093|asthenia|sosy
+2281,2288|C0015967|pyrexia|fndg
+2290,2295|C0010200|cough|sosy
+2290,2295|C1961131|cough|fndg
+2297,2305|C0042963|vomiting|sosy
+2297,2305|C1963281|vomiting|patf
+2307,2315|C0003123|anorexia|dsyn
+2307,2315|C0426579|anorexia|sosy
+2307,2315|C1971624|anorexia|fndg
+2321,2329|C0018681|headache|sosy
+2321,2329|C2096315|headache|fndg
+2381,2396|C1444662|discontinuation|fndg
+2422,2430|C3714811|resolved|fndg
+2422,2430|C1514893|resolved|patf
+2439,2446|C2674459|limited|fndg
+2578,2593|C1444662|Discontinuation|fndg
+3013,3021|C0018681|Headache|sosy
+3013,3021|C2096315|Headache|fndg
+3067,3076|C0042571|Dizziness|sosy
+3067,3076|C0012833|Dizziness|sosy
+3067,3076|C1963093|Dizziness|fndg
+3119,3138|C3714509|nutrition disorders|dsyn
+3140,3148|C0003123|Anorexia|dsyn
+3140,3148|C0426579|Anorexia|sosy
+3140,3148|C1971624|Anorexia|fndg
+3185,3194|C0012634|disorders|dsyn
+3219,3229|C0012634|conditions|dsyn
+3231,3239|C0004093|Asthenia|sosy
+3285,3292|C0015967|Pyrexia|fndg
+3339,3345|C0085593|Chills|sosy
+3393,3400|C0015672|Fatigue|sosy
+3447,3454|C0231218|Malaise|sosy
+3504,3531|C0009782|connective tissue disorders|dsyn
+3533,3543|C0003862|Arthralgia|sosy
+3587,3594|C0231528|Myalgia|sosy
+3624,3650|C0017178|Gastrointestinal disorders|dsyn
+3652,3658|C0027497|Nausea|sosy
+3652,3658|C1963179|Nausea|patf
+3706,3714|C0042963|Vomiting|sosy
+3706,3714|C1963281|Vomiting|patf
+3760,3774|C0000737|Abdominal pain|sosy
+3814,3822|C0011991|Diarrhea|sosy
+3814,3822|C1963091|Diarrhea|fndg
+3874,3888|C0851578|Sleep disorder|dsyn
+3874,3888|C0037317|Sleep disorder|sosy
+3928,3936|C0917801|Insomnia|sosy
+3928,3936|C1963237|Insomnia|fndg
+3965,3972;3984,3996|C1822022|Cardiac Palpitations|fndg
+3965,3982|C0018799|Cardiac disorders|dsyn
+3973,3982|C0012634|disorders|dsyn
+3984,3996|C0030252|Palpitations|fndg
+3984,3996|C3160712|Palpitations|fndg
+4021,4044|C0267792|Hepatobiliary disorders|dsyn
+4046,4058|C0019209|Hepatomegaly|sosy
+4093,4119|C0024228|lymphatic system disorders|dsyn
+4121,4133|C0038002|Splenomegaly|fndg
+4175,4181|C0002871|Anemia|dsyn
+4238,4259|C0025061|mediastinal disorders|dsyn
+4261,4266|C0010200|Cough|sosy
+4261,4266|C1961131|Cough|fndg
+4307,4319;4327,4336|C0549584|subcutaneous disorders|dsyn
+4327,4336|C0012634|disorders|dsyn
+4338,4346|C0033774|Pruritus|sosy
+4392,4396|C0015230|Rash|sosy
+4437,4456|C0022890|labyrinth disorders|dsyn
+4458,4465|C0042571|Vertigo|sosy
+4495,4505|C3714514|Infections|patf
+4510,4522|C0851341|infestations|dsyn
+4524,4531|C0024530|Malaria|dsyn
+4578,4593|C0027441|Nasopharyngitis|dsyn
+4655,4660;4664,4667;4678,4679|C4061124|years age 2|fndg
+4902,4911|C0012634|disorders|dsyn
+4936,4946|C0012634|conditions|dsyn
+4948,4955|C0015967|Pyrexia|fndg
+5002,5008|C0085593|Chills|sosy
+5056,5064|C0004093|Asthenia|sosy
+5110,5117|C0015672|Fatigue|sosy
+5173,5194|C0025061|mediastinal disorders|dsyn
+5196,5201|C0010200|Cough|sosy
+5196,5201|C1961131|Cough|fndg
+5233,5259|C0017178|Gastrointestinal disorders|dsyn
+5261,5269|C0042963|Vomiting|sosy
+5261,5269|C1963281|Vomiting|patf
+5315,5329|C0000737|Abdominal pain|sosy
+5369,5377|C0011991|Diarrhea|sosy
+5369,5377|C1963091|Diarrhea|fndg
+5423,5429|C0027497|Nausea|sosy
+5423,5429|C1963179|Nausea|patf
+5460,5470|C3714514|Infections|patf
+5475,5487|C0851341|infestations|dsyn
+5491,5512;5514,5523|C0858318|Plasmodium falciparum infection|dsyn
+5562,5570|C0035455|Rhinitis|dsyn
+5614,5633|C3714509|nutrition disorders|dsyn
+5635,5643|C0003123|Anorexia|dsyn
+5635,5643|C0426579|Anorexia|sosy
+5635,5643|C1971624|Anorexia|fndg
+5698,5706|C0018681|Headache|sosy
+5698,5706|C2096315|Headache|fndg
+5752,5761|C0042571|Dizziness|sosy
+5752,5761|C0012833|Dizziness|sosy
+5752,5761|C1963093|Dizziness|fndg
+5799,5825|C0024228|lymphatic system disorders|dsyn
+5827,5839|C0038002|Splenomegaly|fndg
+5881,5887|C0002871|Anemia|dsyn
+5918,5941|C0267792|Hepatobiliary disorders|dsyn
+5943,5955|C0019209|Hepatomegaly|sosy
+6075,6102|C0009782|connective tissue disorders|dsyn
+6104,6114|C0003862|Arthralgia|sosy
+6158,6165|C0231528|Myalgia|sosy
+6204,6216;6224,6233|C0549584|subcutaneous disorders|dsyn
+6224,6233|C0012634|disorders|dsyn
+6235,6239|C0015230|Rash|sosy
+6313,6315;6325,6328|C3811621|16 age|fndg
+6564,6590|C0024228|lymphatic system disorders|dsyn
+6592,6604|C0014457|eosinophilia|dsyn
+6592,6604|C1306759|eosinophilia|dsyn
+6623,6642|C0022890|labyrinth disorders|dsyn
+6644,6652|C0040264|tinnitus|fndg
+6644,6652|C1963249|tinnitus|fndg
+6663,6676|C0015397|Eye disorders|dsyn
+6678,6692|C0009763|conjunctivitis|dsyn
+6703,6729|C0017178|Gastrointestinal disorders|dsyn
+6731,6743|C0009806|constipation|sosy
+6731,6743|C1963087|constipation|fndg
+6745,6754|C0013395|dyspepsia|sosy
+6756,6765|C0011168|dysphagia|dsyn
+6767,6779;6798,6807|C0030920|peptic ulcer disorders|dsyn
+6809,6825|C0575081|gait disturbance|fndg
+6836,6846|C3714514|Infections|patf
+6851,6863|C0851341|infestations|dsyn
+6865,6872|C0000833|abscess|dsyn
+6874,6888|C0001197|acrodermatitis|dsyn
+6890,6900|C0006277|bronchitis|dsyn
+6890,6900|C0149514|bronchitis|dsyn
+6902,6915|C0699744|ear infection|dsyn
+6917,6932|C0017160|gastroenteritis|dsyn
+6934,6944;6950,6959|C0018889|helminthic infection|dsyn
+6961,6979|C0002831|hookworm infection|dsyn
+6961,6979|C0019911|hookworm infection|dsyn
+6981,6989|C0021099|impetigo|dsyn
+6991,7000|C0021400|influenza|dsyn
+7002,7035|C0149725|lower respiratory tract infection|dsyn
+7037,7044|C0024530|malaria|dsyn
+7051,7066|C0027441|nasopharyngitis|dsyn
+7068,7079|C0341012|oral herpes|dsyn
+7081,7090|C0032285|pneumonia|dsyn
+7092,7119|C0035243|respiratory tract infection|dsyn
+7121,7141|C0149777|subcutaneous abscess|patf
+7121,7141|C0241266|subcutaneous abscess|dsyn
+7143,7148;7154,7181|C0041912|upper respiratory tract infection|dsyn
+7183,7206|C0042029|urinary tract infection|dsyn
+7183,7206|C0262655|urinary tract infection|dsyn
+7307,7317|C0518014|hematocrit|fndg
+7334,7364|C0853115|lymphocyte morphology abnormal|fndg
+7356,7364;7366,7380|C0580317|abnormal platelet count|fndg
+7457,7489|C0750426|white blood cell count increased|fndg
+7515,7534|C3714509|nutrition disorders|dsyn
+7536,7547|C0020621|hypokalemia|fndg
+7578,7605|C0009782|connective tissue disorders|dsyn
+7607,7616|C0004604|back pain|sosy
+7607,7616|C1963071|back pain|fndg
+7653,7659|C0007758|ataxia|sosy
+7653,7659|C0004134|ataxia|sosy
+7661,7667|C0009024|clonus|sosy
+7669,7685|C1735324|fine motor delay|fndg
+7687,7700|C0151889|hyperreflexia|fndg
+7702,7714|C0020580|hypoesthesia|fndg
+7716,7725|C0028738|nystagmus|dsyn
+7716,7725|C1963184|nystagmus|fndg
+7732,7738|C0040822|tremor|sosy
+7732,7738|C1963252|tremor|fndg
+7772,7781|C0085631|agitation|sosy
+7783,7794|C0085633|mood swings|mobd
+7815,7832|C0042075|urinary disorders|dsyn
+7834,7843|C0018965|hematuria|fndg
+7845,7856|C0033687|proteinuria|fndg
+7845,7856|C1962972|proteinuria|fndg
+7845,7856|C1279888|proteinuria|dsyn
+7893,7914|C0025061|mediastinal disorders|dsyn
+7916,7922|C0004096|asthma|dsyn
+7933,7947|C0549373|laryngeal pain|sosy
+7943,7947;7958,7962|C0241136|pain Skin|sosy
+7967,7979;7987,7996|C0549584|subcutaneous disorders|dsyn
+7987,7996|C0012634|disorders|dsyn
+7998,8007|C0042109|urticaria|dsyn
+7998,8007|C2186740|urticaria|fndg
+8092,8102|C1550043|identified|fndg
+8215,8224|C0087130|uncertain|fndg
+8354,8380|C0020517|Hypersensitivity reactions|patf
+8382,8393|C0002792|anaphylaxis|patf
+8382,8393|C0850803|anaphylaxis|dsyn
+8395,8404|C0042109|urticaria|dsyn
+8395,8404|C2186740|urticaria|fndg
+8406,8416|C0002994|angioedema|patf
+8446,8462|C0235818|bullous eruption|fndg

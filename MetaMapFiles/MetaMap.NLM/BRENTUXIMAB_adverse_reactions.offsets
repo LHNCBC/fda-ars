@@ -1,0 +1,414 @@
+156,177|C0031117|Peripheral Neuropathy|dsyn
+236,247|C0002792|Anaphylaxis|patf
+236,247|C0850803|Anaphylaxis|dsyn
+252,270|C2368034|Infusion Reactions|patf
+418,428|C3714514|Infections|patf
+433,457|C0029118|Opportunistic Infections|dsyn
+516,536|C0041364|Tumor Lysis Syndrome|dsyn
+516,536|C1963254|Tumor Lysis Syndrome|fndg
+605,613;640,645|C0595916|Toxicity Renal|patf
+605,613|C0600688|Toxicity|inpo
+640,656|C1565489|Renal Impairment|dsyn
+646,656|C0684336|Impairment|patf
+725,733|C0600688|Toxicity|inpo
+772,790|C0948807|Hepatic Impairment|dsyn
+849,863|C0235378|Hepatotoxicity|inpo
+922,964|C0023524|Progressive Multifocal Leukoencephalopathy|dsyn
+1023,1041|C0919924|Pulmonary Toxicity|patf
+1247,1259|C1333064|classical HL|neop
+1264,1278|C1335693|relapsed sALCL|neop
+1280,1291|C0027947|neutropenia|dsyn
+1280,1291|C0023530|neutropenia|dsyn
+1280,1291|C0853697|neutropenia|fndg
+1293,1322|C0151313|peripheral sensory neuropathy|dsyn
+1324,1331|C0015672|fatigue|sosy
+1333,1339|C0027497|nausea|sosy
+1333,1339|C1963179|nausea|patf
+1341,1347|C0002871|anemia|dsyn
+1349,1382|C0041912|upper respiratory tract infection|dsyn
+1384,1392|C0011991|diarrhea|sosy
+1384,1392|C1963091|diarrhea|fndg
+1394,1401|C0015967|pyrexia|fndg
+1403,1407|C0015230|rash|sosy
+1409,1425|C0040034|thrombocytopenia|fndg
+1427,1432|C0010200|cough|sosy
+1427,1432|C1961131|cough|fndg
+1438,1446|C0042963|vomiting|sosy
+1438,1446|C1963281|vomiting|patf
+1462,1474|C1333064|Classical HL|neop
+1505,1516|C0027947|neutropenia|dsyn
+1505,1516|C0023530|neutropenia|dsyn
+1505,1516|C0853697|neutropenia|fndg
+1518,1547|C0151313|peripheral sensory neuropathy|dsyn
+1549,1565|C0040034|thrombocytopenia|fndg
+1567,1573|C0002871|anemia|dsyn
+1575,1608|C0041912|upper respiratory tract infection|dsyn
+1610,1617|C0015672|fatigue|sosy
+1619,1646|C0235025|peripheral motor neuropathy|dsyn
+1648,1654|C0027497|nausea|sosy
+1648,1654|C1963179|nausea|patf
+1656,1661|C0010200|cough|sosy
+1656,1661|C1961131|cough|fndg
+1667,1675|C0011991|diarrhea|sosy
+1667,1675|C1963091|diarrhea|fndg
+1933,1943|C0012634|conditions|dsyn
+2218,2244|C1333064|classical Hodgkin lymphoma|neop
+2254,2293|C0206180|systemic anaplastic large cell lymphoma|neop
+2254,2293|C1336548|systemic anaplastic large cell lymphoma|neop
+2346,2352|C0087136|single|fndg
+2550,2561|C0027947|neutropenia|dsyn
+2550,2561|C0023530|neutropenia|dsyn
+2550,2561|C0853697|neutropenia|fndg
+2563,2592|C0151313|peripheral sensory neuropathy|dsyn
+2594,2601|C0015672|fatigue|sosy
+2603,2609|C0027497|nausea|sosy
+2603,2609|C1963179|nausea|patf
+2611,2617|C0002871|anemia|dsyn
+2619,2652|C0041912|upper respiratory tract infection|dsyn
+2654,2662|C0011991|diarrhea|sosy
+2654,2662|C1963091|diarrhea|fndg
+2664,2671|C0015967|pyrexia|fndg
+2673,2677|C0015230|rash|sosy
+2679,2695|C0040034|thrombocytopenia|fndg
+2697,2702|C0010200|cough|sosy
+2697,2702|C1961131|cough|fndg
+2708,2716|C0042963|vomiting|sosy
+2708,2716|C1963281|vomiting|patf
+2793,2799|C3844638|either|fndg
+3042,3053|C0027947|neutropenia|dsyn
+3042,3053|C0023530|neutropenia|dsyn
+3042,3053|C0853697|neutropenia|fndg
+3055,3084|C0151313|peripheral sensory neuropathy|dsyn
+3086,3102|C0040034|thrombocytopenia|fndg
+3104,3110|C0002871|anemia|dsyn
+3112,3145|C0041912|upper respiratory tract infection|dsyn
+3147,3154|C0015672|fatigue|sosy
+3156,3183|C0235025|peripheral motor neuropathy|dsyn
+3185,3191|C0027497|nausea|sosy
+3185,3191|C1963179|nausea|patf
+3193,3198|C0010200|cough|sosy
+3193,3198|C1961131|cough|fndg
+3204,3212|C0011991|diarrhea|sosy
+3204,3212|C1963091|diarrhea|fndg
+3361,3387|C1333064|Classical Hodgkin Lymphoma|neop
+3447,3459|C1333064|Classical HL|neop
+3520,3532|C1333064|classical HL|neop
+3538,3544|C0087136|single|fndg
+3845,3856|C0027947|neutropenia|dsyn
+3845,3856|C0023530|neutropenia|dsyn
+3845,3856|C0853697|neutropenia|fndg
+3858,3887|C0151313|peripheral sensory neuropathy|dsyn
+3889,3896|C0015672|fatigue|sosy
+3898,3931|C0041912|upper respiratory tract infection|dsyn
+3933,3939|C0027497|nausea|sosy
+3933,3939|C1963179|nausea|patf
+3941,3949|C0011991|diarrhea|sosy
+3941,3949|C1963091|diarrhea|fndg
+3951,3957|C0002871|anemia|dsyn
+3959,3966|C0015967|pyrexia|fndg
+3968,3984|C0040034|thrombocytopenia|fndg
+3986,3990|C0015230|rash|sosy
+3992,4006|C0000737|abdominal pain|sosy
+4008,4013|C0010200|cough|sosy
+4008,4013|C1961131|cough|fndg
+4019,4027|C0042963|vomiting|sosy
+4019,4027|C1963281|vomiting|patf
+4077,4089|C1333064|Classical HL|neop
+4179,4191|C1333064|classical HL|neop
+4208,4215|C0277556|relapse|dsyn
+4855,4864|C3714514|infection|patf
+4855,4864|C0009450|infection|dsyn
+4944,4965;4967,4976|C1535939|Pneumocystis jiroveci pneumonia|dsyn
+4978,4981|C1535939|PCP|dsyn
+5144,5147|C1535939|PCP|dsyn
+5232,5271|C0206180|Systemic Anaplastic Large Cell Lymphoma|neop
+5232,5271|C1336548|Systemic Anaplastic Large Cell Lymphoma|neop
+5322,5336|C1335693|Relapsed sALCL|neop
+5396,5401|C0206180|sALCL|neop
+5396,5401|C1336548|sALCL|neop
+5407,5413|C0087136|single|fndg
+5714,5725|C0027947|neutropenia|dsyn
+5714,5725|C0023530|neutropenia|dsyn
+5714,5725|C0853697|neutropenia|fndg
+5727,5733|C0002871|anemia|dsyn
+5735,5764|C0151313|peripheral sensory neuropathy|dsyn
+5766,5773|C0015672|fatigue|sosy
+5775,5781|C0027497|nausea|sosy
+5775,5781|C1963179|nausea|patf
+5783,5790|C0015967|pyrexia|fndg
+5792,5796|C0015230|rash|sosy
+5798,5806|C0011991|diarrhea|sosy
+5798,5806|C1963091|diarrhea|fndg
+5812,5816|C0030193|pain|sosy
+5812,5816|C1962977|pain|fndg
+5949,5961|C1333064|Classical HL|neop
+5963,5968|C0206180|sALCL|neop
+5963,5968|C1336548|sALCL|neop
+6070,6078;6091,6099|C0521985|patients Reaction|fndg
+6212,6238|C0024228|lymphatic system disorders|dsyn
+6321,6332|C0027947|Neutropenia|dsyn
+6321,6332|C0023530|Neutropenia|dsyn
+6321,6332|C0853697|Neutropenia|fndg
+6438,6444|C0002871|Anemia|dsyn
+6555,6571|C0040034|Thrombocytopenia|fndg
+6672,6687|C0497156|Lymphadenopathy|fndg
+6906,6935|C0151313|Peripheral sensory neuropathy|dsyn
+7023,7050|C0235025|Peripheral motor neuropathy|dsyn
+7140,7148|C0018681|Headache|sosy
+7140,7148|C2096315|Headache|fndg
+7257,7266|C0012833|Dizziness|sosy
+7257,7266|C0042571|Dizziness|sosy
+7257,7266|C1963093|Dizziness|fndg
+7380,7389|C0012634|disorders|dsyn
+7414,7424|C0012634|conditions|dsyn
+7501,7508|C0015672|Fatigue|sosy
+7618,7625|C0015967|Pyrexia|fndg
+7735,7741|C0085593|Chills|sosy
+7852,7856|C0030193|Pain|sosy
+7852,7856|C1962977|Pain|fndg
+7969,7985|C0085649|Edema peripheral|fndg
+8084,8094|C3714514|Infections|patf
+8099,8111|C0851341|infestations|dsyn
+8203,8236|C0041912|Upper respiratory tract infection|dsyn
+8318,8344|C0017178|Gastrointestinal disorders|dsyn
+8437,8443|C0027497|Nausea|sosy
+8437,8443|C1963179|Nausea|patf
+8554,8562|C0011991|Diarrhea|sosy
+8554,8562|C1963091|Diarrhea|fndg
+8671,8685|C0000737|Abdominal pain|sosy
+8788,8796|C0042963|Vomiting|sosy
+8788,8796|C1963281|Vomiting|patf
+8905,8917|C0009806|Constipation|sosy
+8905,8917|C1963087|Constipation|fndg
+9029,9041;9049,9058|C0549584|subcutaneous disorders|dsyn
+9049,9058|C0012634|disorders|dsyn
+9139,9143|C0015230|Rash|sosy
+9256,9264|C0033774|Pruritus|sosy
+9373,9381|C0002170|Alopecia|dsyn
+9490,9502|C0028081|Night sweats|sosy
+9607,9615|C0151908|Dry skin|sosy
+9748,9769|C0025061|mediastinal disorders|dsyn
+9846,9851|C0010200|Cough|sosy
+9846,9851|C1961131|Cough|fndg
+9963,9970|C0013404|Dyspnea|sosy
+10080,10098|C2363731|Oropharyngeal pain|sosy
+10215,10242|C0009782|connective tissue disorders|dsyn
+10319,10329|C0003862|Arthralgia|sosy
+10436,10443|C0231528|Myalgia|sosy
+10553,10562|C0004604|Back pain|sosy
+10553,10562|C1963071|Back pain|fndg
+10670,10687|C0030196|Pain in extremity|sosy
+10787,10800|C0037763|Muscle spasms|sosy
+11021,11029|C0917801|Insomnia|sosy
+11021,11029|C1963237|Insomnia|fndg
+11138,11145|C0003467|Anxiety|mobd
+11138,11145|C0003469|Anxiety|mobd
+11138,11145|C0860603|Anxiety|fndg
+11268,11287|C3714509|nutrition disorders|dsyn
+11606,11612|C0424653|Weight|sosy
+11804,11809;11935,11940|C0947343|Study Total|fndg
+11981,11989;12002,12010|C0521985|patients Reaction|fndg
+12123,12149|C0024228|lymphatic system disorders|dsyn
+12232,12243|C0027947|Neutropenia|dsyn
+12232,12243|C0023530|Neutropenia|dsyn
+12232,12243|C0853697|Neutropenia|fndg
+12349,12365|C0040034|Thrombocytopenia|fndg
+12466,12472|C0002871|Anemia|dsyn
+12700,12729|C0151313|Peripheral sensory neuropathy|dsyn
+12817,12844|C0235025|Peripheral motor neuropathy|dsyn
+12934,12942|C0018681|Headache|sosy
+12934,12942|C2096315|Headache|fndg
+13049,13059|C3714514|Infections|patf
+13064,13076|C0851341|infestations|dsyn
+13168,13201|C0041912|Upper respiratory tract infection|dsyn
+13291,13300|C0012634|disorders|dsyn
+13325,13335|C0012634|conditions|dsyn
+13412,13419|C0015672|Fatigue|sosy
+13529,13536|C0015967|Pyrexia|fndg
+13646,13652|C0085593|Chills|sosy
+13761,13787|C0017178|Gastrointestinal disorders|dsyn
+13880,13886|C0027497|Nausea|sosy
+13880,13886|C1963179|Nausea|patf
+13997,14005|C0011991|Diarrhea|sosy
+13997,14005|C1963091|Diarrhea|fndg
+14114,14122|C0042963|Vomiting|sosy
+14114,14122|C1963281|Vomiting|patf
+14231,14245|C0000737|Abdominal pain|sosy
+14348,14360|C0009806|Constipation|sosy
+14348,14360|C1963087|Constipation|fndg
+14489,14510|C0025061|mediastinal disorders|dsyn
+14587,14592|C0010200|Cough|sosy
+14587,14592|C1961131|Cough|fndg
+14704,14711|C0013404|Dyspnea|sosy
+14938,14944|C0424653|Weight|sosy
+15073,15100|C0009782|connective tissue disorders|dsyn
+15177,15187|C0003862|Arthralgia|sosy
+15294,15307|C0037763|Muscle spasms|sosy
+15411,15418|C0231528|Myalgia|sosy
+15535,15547;15555,15564|C0549584|subcutaneous disorders|dsyn
+15555,15564|C0012634|disorders|dsyn
+15645,15653|C0033774|Pruritus|sosy
+15775,15794|C3714509|nutrition disorders|dsyn
+16046,16067|C0031117|Peripheral neuropathy|dsyn
+16126,16131|C3244287|grade|fndg
+16135,16145|C0442874|neuropathy|dsyn
+16183,16193|C1514893|resolution|patf
+16281,16291|C0442874|neuropathy|dsyn
+16310,16320|C0442874|neuropathy|dsyn
+16429,16434|C3244287|grade|fndg
+16438,16448|C0442874|neuropathy|dsyn
+16488,16493|C3244287|grade|fndg
+16527,16534|C3889824|Grade 2|fndg
+16571,16578|C3889290|Grade 3|fndg
+16638,16648|C1514893|resolution|patf
+16671,16676|C3244287|grade|fndg
+16711,16718|C3889824|Grade 2|fndg
+16754,16761|C3889290|Grade 3|fndg
+16819,16829|C0442874|neuropathy|dsyn
+16848,16858|C1514893|resolution|patf
+16880,16890|C0442874|neuropathy|dsyn
+16981,16999|C2368034|Infusion reactions|patf
+17019,17030|C0002792|anaphylaxis|patf
+17019,17030|C0850803|anaphylaxis|dsyn
+17057,17064|C0037088|finding|sosy
+17057,17064|C2825141|finding|fndg
+17057,17064|C0243095|finding|fndg
+17100,17126|C0948715|infusion-related reactions|sosy
+17100,17126|C0948715|infusion-related reactions|sosy
+17165,17172|C3889292|Grade 1|fndg
+17178,17204|C0948715|infusion-related reactions|sosy
+17178,17204|C0948715|infusion-related reactions|sosy
+17319,17345|C0948715|infusion-related reactions|sosy
+17351,17357|C0085593|chills|sosy
+17364,17370|C0027497|nausea|sosy
+17364,17370|C1963179|nausea|patf
+17377,17384|C0013404|dyspnea|sosy
+17391,17399|C0033774|pruritus|sosy
+17406,17413|C0015967|pyrexia|fndg
+17424,17429|C0010200|cough|sosy
+17424,17429|C1961131|cough|fndg
+17452,17478|C0948715|infusion-related reactions|sosy
+17582,17589|C3889290|Grade 3|fndg
+17673,17699|C0948715|infusion-related reactions|sosy
+17811,17837|C0948715|infusion-related reactions|sosy
+17843,17849|C0027497|nausea|sosy
+17843,17849|C1963179|nausea|patf
+17856,17862|C0085593|chills|sosy
+17869,17876|C0013404|dyspnea|sosy
+17883,17891|C0018681|headache|sosy
+17883,17891|C2096315|headache|fndg
+17898,17906|C0033774|pruritus|sosy
+17913,17917|C0015230|rash|sosy
+17924,17933|C0004604|back pain|sosy
+17924,17933|C1963071|back pain|fndg
+17944,17952|C0042963|vomiting|sosy
+17944,17952|C1963281|vomiting|patf
+17965,17983|C0919924|Pulmonary Toxicity|patf
+18018,18030|C1333064|classical HL|neop
+18081,18092|C3811910|combination|fndg
+18168,18178|C2004062|historical|fndg
+18259,18267;18278,18286|C0747307|Patients reported|fndg
+18287,18292|C0010200|cough|sosy
+18287,18292|C1961131|cough|fndg
+18297,18304|C0013404|dyspnea|sosy
+18319,18331|C1692321|infiltration|patf
+18319,18331|C0332448|infiltration|patf
+18522,18537|C1444657|contraindicated|fndg
+18602,18620|C0919924|pulmonary toxicity|patf
+18689,18707|C0919924|pulmonary toxicity|patf
+18834,18840|C0087136|single|fndg
+19116,19128|C1333064|classical HL|neop
+19137,19164|C0235025|peripheral motor neuropathy|dsyn
+19171,19185|C0000737|abdominal pain|sosy
+19192,19210|C0034065|pulmonary embolism|dsyn
+19217,19228|C0032285|pneumonitis|dsyn
+19217,19228|C3714636|pneumonitis|dsyn
+19235,19247|C0032326|pneumothorax|dsyn
+19235,19247|C1963215|pneumothorax|fndg
+19254,19268|C0034186|pyelonephritis|dsyn
+19279,19286|C0015967|pyrexia|fndg
+19364,19369|C0206180|sALCL|neop
+19364,19369|C1336548|sALCL|neop
+19375,19387|C0036983|septic shock|patf
+19394,19421|C1963243|supraventricular arrhythmia|patf
+19394,19421|C0428974|supraventricular arrhythmia|patf
+19428,19445|C0030196|pain in extremity|sosy
+19456,19479|C0042029|urinary tract infection|dsyn
+19456,19479|C0262655|urinary tract infection|dsyn
+19550,19574|C0038325|Stevens-Johnson syndrome|dsyn
+19580,19600|C0041364|tumor lysis syndrome|dsyn
+19580,19600|C1963254|tumor lysis syndrome|fndg
+19768,19777|C0032285|pneumonia|dsyn
+19784,19791|C0015967|pyrexia|fndg
+19798,19806|C0042963|vomiting|sosy
+19798,19806|C1963281|vomiting|patf
+19813,19819|C0027497|nausea|sosy
+19813,19819|C1963179|nausea|patf
+19826,19840|C0235378|hepatotoxicity|inpo
+19850,19879|C0151313|peripheral sensory neuropathy|dsyn
+20011,20022|C0027947|neutropenia|dsyn
+20011,20022|C0023530|neutropenia|dsyn
+20011,20022|C0853697|neutropenia|fndg
+20033,20062|C0151313|peripheral sensory neuropathy|dsyn
+20237,20248|C0027947|neutropenia|dsyn
+20237,20248|C0023530|neutropenia|dsyn
+20237,20248|C0853697|neutropenia|fndg
+20256,20285|C0151313|peripheral sensory neuropathy|dsyn
+20293,20326|C0041912|upper respiratory tract infection|dsyn
+20337,20364|C0235025|peripheral motor neuropathy|dsyn
+20495,20510|C1444662|discontinuation|fndg
+20590,20605|C1444662|discontinuation|fndg
+20633,20645|C1333064|classical HL|neop
+20649,20654|C0206180|sALCL|neop
+20649,20654|C1336548|sALCL|neop
+20660,20689|C0151313|peripheral sensory neuropathy|dsyn
+20699,20726|C0235025|peripheral motor neuropathy|dsyn
+20772,20787|C1444662|discontinuation|fndg
+20876,20891|C1444662|discontinuation|fndg
+20919,20948|C0151313|peripheral sensory neuropathy|dsyn
+20956,20983|C0235025|peripheral motor neuropathy|dsyn
+20990,21025|C0035222|acute respiratory distress syndrome|dsyn
+21032,21044|C0030554|paraesthesia|dsyn
+21032,21044|C2242996|paraesthesia|sosy
+21054,21062|C0042963|vomiting|sosy
+21054,21062|C1963281|vomiting|patf
+21150,21160|C1550043|identified|fndg
+21270,21279|C0087130|uncertain|fndg
+21418,21444|C0024228|lymphatic system disorders|dsyn
+21448,21467|C0746883|febrile neutropenia|dsyn
+21534,21557|C0267792|Hepatobiliary disorders|dsyn
+21561,21575|C0235378|hepatotoxicity|inpo
+21642,21652|C3714514|Infections|patf
+21731,21741|C3714514|infections|patf
+21746,21770|C0029118|opportunistic infections|dsyn
+21852,21871|C3714509|nutrition disorders|dsyn
+21875,21888|C0020456|hyperglycemia|dsyn
+21896,21922|C0017178|Gastrointestinal disorders|dsyn
+21926,21938|C0030305|Pancreatitis|dsyn
+21926,21938|C1963198|Pancreatitis|fndg
+21950,21964|C0206277|fatal outcomes|patf
+21981,21990;21994,22006|C0030305|diagnosis pancreatitis|dsyn
+22036,22057|C1411946|severe abdominal pain|sosy
+22091,22112|C0025061|mediastinal disorders|dsyn
+22130,22148|C0919924|pulmonary toxicity|patf
+22159,22170|C0032285|pneumonitis|dsyn
+22159,22170|C3714636|pneumonitis|dsyn
+22172,22197|C0206062|interstitial lung disease|dsyn
+22203,22207|C0035222|ARDS|dsyn
+22219,22233|C0206277|fatal outcomes|patf
+22341,22353;22361,22370|C0549584|subcutaneous disorders|dsyn
+22361,22370|C0012634|disorders|dsyn
+22374,22400|C0014518|Toxic epidermal necrolysis|dsyn
+22412,22426|C0206277|fatal outcomes|patf
+22514,22526|C1333064|classical HL|neop
+22531,22536|C0206180|sALCL|neop
+22531,22536|C1336548|sALCL|neop
+22805,22813|C1514241|positive|fndg
+22814,22818|C0456984|test|fndg
+22897,22905|C1514241|positive|fndg
+23222,23240|C2368034|infusion reactions|patf
+23253,23268|C1444662|discontinuation|fndg
+23314,23340|C0948715|infusion related reactions|sosy
+23458,23464|C3844638|either|fndg
+23834,23841|C2825142|results|fndg
+24032,24039|C0012634|disease|dsyn

@@ -1,0 +1,188 @@
+00000000|AA|MDD|major depressive disorder|1|3|5|25|1971:3
+00000000|AA|OCD|obsessive compulsive disorder|1|3|5|29|3305:3
+00000000|MMI|131.54|Malignant Carcinoid Syndrome|C0024586|[dsyn]|["Serotonin syndrome"-tx-55-"serotonin syndrome"-noun-0,"Serotonin syndrome"-tx-47-"serotonin syndrome"-noun-0,"Serotonin syndrome"-tx-46-"Serotonin syndrome"-noun-0,"Serotonin syndrome"-tx-45-"Serotonin Syndrome"-noun-0,"Serotonin syndrome"-tx-45-"serotonin syndrome"-noun-0,"Serotonin syndrome"-tx-4-"serotonin syndrome"-noun-0,"Serotonin syndrome"-tx-2-"Serotonin Syndrome"-noun-0,"Serotonin syndrome"-tx-2-"Serotonin syndrome"-noun-0]|TX|10771/18;9630/18;9179/18;8636/18;8710/18;698/18;155/18;175/18|C04.557.465.625.650.200.500;C04.557.470.200.025.200.500;C04.557.580.625.650.200.500
+00000000|MMI|118.83|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-95-"discontinuation"-noun-0,"Discontinuation"-tx-90-"Discontinuation"-noun-0,"Discontinuation"-tx-79-"discontinuation"-noun-0,"Discontinue"-tx-77-"discontinuing"-verb-0,"Discontinuation"-tx-76-"discontinuation"-noun-0,"Discontinuation"-tx-75-"discontinuation"-noun-0,"Discontinuation"-tx-74-"discontinuation"-noun-0,"Discontinuation"-tx-73-"discontinuation"-noun-0,"Discontinuation"-tx-72-"Discontinuation"-noun-0,"Discontinuation"-tx-62-"discontinuation"-noun-0,"Discontinued"-tx-56-"discontinued"-verb-0,"Discontinued"-tx-53-"discontinued"-verb-0,"Discontinuation"-tx-36-"discontinuation"-noun-0,"Discontinue"-tx-36-"discontinue"-verb-0,"Discontinue"-tx-35-"discontinuing"-verb-0,"Discontinuation"-tx-12-"Discontinuation"-noun-0,"Discontinuation"-tx-12-"discontinuation"-noun-0,"Discontinue"-tx-3-"discontinue"-verb-0]|TX|16915/15;16013/15;14825/15;14621/13;14538/15;14138/15;13853/15;13621/15;13419/15;11817/15;10929/12;10369/12;[6878/15],[7044/15];6765/11;6411/13;1491/15;1558/15;494/11|
+00000000|MMI|87.11|Major Depressive Disorder|C1269683|[mobd]|["MAJOR DEPRESSIVE DISORDER"-tx-72-"Major Depressive Disorder"-noun-0,"MAJOR DEPRESSIVE DISORDER"-tx-37-"major depressive disorder"-noun-0,"MAJOR DEPRESSIVE DISORDER"-tx-33-"major depressive disorder"-noun-0,"MAJOR DEPRESSIVE DISORDER"-tx-25-"MDD"-noun-0,"MAJOR DEPRESSIVE DISORDER"-tx-23-"MDD"-noun-0,"MAJOR DEPRESSIVE DISORDER"-tx-22-"MDD"-noun-0,"MAJOR DEPRESSIVE DISORDER"-tx-20-"MDD"-noun-0,"MAJOR DEPRESSIVE DISORDER"-tx-20-"major depressive disorder"-noun-0,"MAJOR DEPRESSIVE DISORDER"-tx-17-"major depressive disorder"-noun-0]|TX|13587/25;7155/25;5969/25;3935/3;3499/3;3269/3;2915/3;2888/25;1944/25|F03.600.300.375
+00000000|MMI|86.70|Mental Depression|C0011570|[mobd]|["DEPRESSION"-tx-43-"depression"-noun-0,"DEPRESSION"-tx-35-"depression"-noun-0,"DEPRESSION"-tx-34-"depression"-noun-0,"DEPRESSION"-tx-31-"depression"-noun-0,"DEPRESSION"-tx-19-"depression"-noun-0,"DEPRESSION"-tx-18-"depression"-noun-0,"DEPRESSION"-tx-17-"depression"-noun-0]|TX|8525/10;[6459/10],[6588/10];6156/10;[5280/10],[5351/10];2532/10;2297/10;2037/10|F01.145.126.350
+00000000|MMI|81.03|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-92-"symptoms"-noun-0,"SYMPTOMS"-tx-91-"symptoms"-noun-0,"SYMPTOMS"-tx-79-"symptoms"-noun-0,"SYMPTOMS"-tx-77-"symptoms"-noun-0,"SYMPTOMS"-tx-76-"symptoms"-noun-0,"SYMPTOMS"-tx-73-"symptoms"-noun-0,"SYMPTOMS"-tx-72-"symptoms"-noun-0,"SYMPTOMS"-tx-46-"symptoms"-noun-0,"SYMPTOMS"-tx-42-"symptoms"-noun-0,"SYMPTOMS"-tx-37-"symptoms"-noun-0,"SYMPTOMS"-tx-35-"symptoms"-noun-0,"SYMPTOMS"-tx-34-"symptoms"-noun-0,"SYMPTOMS"-tx-34-"symptoms"-noun-1,"SYMPTOMS"-tx-33-"symptoms"-noun-0,"SYMPTOMS"-tx-12-"symptoms"-noun-0,"SYMPTOMS"-tx-3-"symptoms"-noun-0]|TX|16338/8;16176/8;14769/8;14607/8;14554/8;13702/8;13465/8;9198/8;8155/8;[7382/8],[7468/8];[6541/8],[6635/8];[6119/8],[6262/8];[6119/8],[6262/8];5710/8;1574/8;478/8|
+00000000|MMI|69.08|Seizures|C0036572|[sosy]|["SEIZURE"-tx-92-"seizure"-noun-0,"Seizures"-tx-83-"seizures"-noun-0,"SEIZURE"-tx-81-"Seizure"-noun-0,"Seizures"-tx-75-"seizures"-noun-0,"Seizures"-tx-46-"seizures"-noun-0,"SEIZURE"-tx-13-"Seizure"-noun-0]|TX|16432/7;15300/8;15093/7;14445/8;9501/8;1602/7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|66.09|Unipolar Depression|C0041696|[mobd]|["Major Depressive Disorder"-tx-72-"Major Depressive Disorder"-noun-0,"Major Depressive Disorder"-tx-37-"major depressive disorder"-noun-0,"Major Depressive Disorder"-tx-33-"major depressive disorder"-noun-0,"Major Depressive Disorder"-tx-25-"MDD"-noun-0,"Major Depressive Disorder"-tx-23-"MDD"-noun-0,"Major Depressive Disorder"-tx-22-"MDD"-noun-0,"Major Depressive Disorder"-tx-20-"MDD"-noun-0,"Major Depressive Disorder"-tx-20-"major depressive disorder"-noun-0,"Major Depressive Disorder"-tx-17-"major depressive disorder"-noun-0]|TX|13587/25;7155/25;5969/25;3935/3;3499/3;3269/3;2915/3;2888/25;1944/25|F03.600.300
+00000000|MMI|65.68|Depressive disorder|C0011581|[mobd]|["-- Depression"-tx-43-"depression"-noun-0,"-- Depression"-tx-35-"depression"-noun-0,"-- Depression"-tx-34-"depression"-noun-0,"-- Depression"-tx-31-"depression"-noun-0,"-- Depression"-tx-19-"depression"-noun-0,"-- Depression"-tx-18-"depression"-noun-0,"-- Depression"-tx-17-"depression"-noun-0]|TX|8525/10;[6459/10],[6588/10];6156/10;[5280/10],[5351/10];2532/10;2297/10;2037/10|F03.600.300
+00000000|MMI|62.07|Abnormal behavior|C0233514|[mobd]|["Psychiatric disorders"-tx-48-"psychiatric disorders"-noun-0,"Psychiatric disorders"-tx-45-"psychiatric disorders"-noun-0,"Psychiatric disorders"-tx-23-"psychiatric disorders"-noun-0,"Psychiatric disorders"-tx-22-"psychiatric disorders"-noun-0,"Psychiatric disorders"-tx-20-"psychiatric disorders"-noun-0,"Psychiatric disorders"-tx-18-"psychiatric disorders"-noun-0]|TX|9714/21;9085/21;3512/21;3320/21;2930/21;2326/21|F01.145.126.972;F01.145.179.750
+00000000|MMI|58.18|Serotonin Syndrome|C0699828|[inpo]|["SEROTONIN SYNDROME"-tx-55-"serotonin syndrome"-noun-0,"SEROTONIN SYNDROME"-tx-47-"serotonin syndrome"-noun-0,"SEROTONIN SYNDROME"-tx-46-"Serotonin syndrome"-noun-0,"SEROTONIN SYNDROME"-tx-45-"Serotonin Syndrome"-noun-0,"SEROTONIN SYNDROME"-tx-45-"serotonin syndrome"-noun-0,"SEROTONIN SYNDROME"-tx-4-"serotonin syndrome"-noun-0,"SEROTONIN SYNDROME"-tx-2-"Serotonin Syndrome"-noun-0,"SEROTONIN SYNDROME"-tx-2-"Serotonin syndrome"-noun-0]|TX|10771/18;9630/18;9179/18;8636/18;8710/18;698/18;155/18;175/18|C25.100.875
+00000000|MMI|57.00|Suicide|C0038661|[fndg]|["-- Suicide"-tx-29-"suicide"-noun-1,"SUICIDES"-tx-29-"suicides"-verb-0,"SUICIDES"-tx-28-"suicides"-noun-1,"-- Suicide"-tx-18-"Suicide"-noun-0,"-- Suicide"-tx-18-"suicide"-noun-0]|TX|5069/7;4959/8;4897/8;2270/7;2412/7|F01.145.126.980.875;I01.880.735.856
+00000000|MMI|55.42|Hyponatremia|C0020625|[dsyn]|["HYPONATREMIA"-tx-91-"hyponatremia"-noun-0,"HYPONATREMIA"-tx-90-"hyponatremia"-noun-0,"HYPONATREMIA"-tx-88-"hyponatremia"-noun-0,"HYPONATREMIA"-tx-86-"hyponatremia"-noun-0,"HYPONATREMIA"-tx-85-"Hyponatremia"-noun-0,"HYPONATREMIA"-tx-15-"Hyponatremia"-noun-0]|TX|16188/12;16090/12;15808/12;15577/12;15450/12;1690/12|C18.452.950.620
+00000000|MMI|41.52|Hemorrhage|C0019080|[patf]|["BLEEDING"-tx-67-"bleeding"-noun-0,"BLEEDING"-tx-66-"Bleeding"-adj-0,"HEMORRHAGES"-tx-66-"hemorrhages"-noun-0,"BLEEDING"-tx-63-"bleeding"-adj-0,"BLEEDING"-tx-8-"bleeding"-noun-0,"BLEEDING"-tx-7-"bleeding"-adj-0]|TX|12647/8;12341/8;12468/11;11985/8;1037/8;989/8|C23.550.414
+00000000|MMI|40.59|Irritable Mood|C0022107|[fndg]|["IRRITABILITY"-tx-75-"irritability"-noun-0,"IRRITABILITY"-tx-73-"irritability"-noun-0,"IRRITABILITY"-tx-37-"irritability"-noun-0,"IRRITABILITY"-tx-33-"irritability"-noun-0]|TX|14237/12;13753/12;7325/12;5765/12|F01.470.047.110
+00000000|MMI|40.30|Inappropriate ADH Syndrome|C0021141|[patf]|["SIADH"-tx-86-"SIADH"-noun-0,"Syndrome of inappropriate secretion of antidiuretic hormone"-tx-86-"of syndrome of inappropriate antidiuretic hormone secretion"-noun-0,"SIADH"-tx-15-"SIADH"-noun-0]|TX|15680/5;15615/2,15622/56;1734/5|C10.228.140.617.738.320;C18.452.950.626;C19.700.490
+00000000|MMI|40.29|Eosinophilic Pneumonia|C1527407|[dsyn]|["EOSINOPHILIC PNEUMONIA"-tx-93-"Eosinophilic Pneumonia"-noun-0,"EOSINOPHILIC PNEUMONIA"-tx-93-"eosinophilic pneumonia"-noun-0,"EOSINOPHILIC PNEUMONIA"-tx-16-"Eosinophilic Pneumonia"-noun-0]|TX|16520/22;16578/22;1789/22|C08.381.750;C15.378.553.231.549.750
+00000000|MMI|40.29|Pulmonary Eosinophilia|C0034068|[dsyn]|["eosinophilic pneumonia"-tx-93-"Eosinophilic Pneumonia"-noun-0,"eosinophilic pneumonia"-tx-93-"eosinophilic pneumonia"-noun-0,"eosinophilic pneumonia"-tx-16-"Eosinophilic Pneumonia"-noun-0]|TX|16520/22;16578/22;1789/22|C08.381.750;C15.378.553.231.549.750
+00000000|MMI|36.76|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-75-"dizziness"-noun-0,"Dizzyness"-tx-73-"dizziness"-noun-0,"Dizzyness"-tx-46-"dizziness"-noun-0]|TX|14262/9;13724/9;9361/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|36.76|Headache|C0018681|[sosy]|["HEADACHE"-tx-91-"headache"-noun-0,"HEADACHE"-tx-75-"headache"-noun-0,"HEADACHE"-tx-73-"headache"-noun-0]|TX|16209/8;14370/8;13743/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|36.76|Sleeplessness|C0917801|[sosy]|["INSOMNIA"-tx-75-"insomnia"-noun-0,"INSOMNIA"-tx-73-"insomnia"-noun-0,"INSOMNIA"-tx-33-"insomnia"-noun-0]|TX|14410/8;13767/8;5755/8|C10.886.425.800.800;F03.870.400.800.800
+00000000|MMI|36.76|Vertigo|C0042571|[sosy]|["dizziness"-tx-75-"dizziness"-noun-0,"dizziness"-tx-73-"dizziness"-noun-0,"dizziness"-tx-46-"dizziness"-noun-0]|TX|14262/9;13724/9;9361/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|34.66|Hypertensive disease|C0020538|[dsyn]|["Elevated blood pressure"-tx-60-"elevated blood pressure"-noun-0,"HYPERTENSION"-tx-59-"hypertension"-noun-0,"HYPERTENSION"-tx-58-"hypertension"-noun-0,"Elevated blood pressure"-tx-57-"Elevated Blood Pressure"-noun-0,"Elevated blood pressure"-tx-5-"Elevated Blood Pressure"-noun-0]|TX|11541/23;11414/12;11271/12;11049/23;797/23|C14.907.489
+00000000|MMI|34.55|Bipolar Disorder|C0005586|[mobd]|["BIPOLAR DISORDER"-tx-43-"bipolar disorder"-noun-0,"BIPOLAR DISORDER"-tx-41-"bipolar disorder"-noun-0,"BIPOLAR DISORDER"-tx-40-"bipolar disorder"-noun-0,"BIPOLAR DISORDER"-tx-10-"Bipolar Disorder"-noun-0]|TX|[8384/16],[8503/16];8118/16;7875/16;1393/16|F03.084.500
+00000000|MMI|33.04|Comatose|C0009421|[dsyn]|["COMA"-tx-92-"coma"-noun-0,"COMA"-tx-46-"coma"-noun-0]|TX|16441/4;9289/4|C10.597.606.358.800.200;C23.888.592.604.359.800.200
+00000000|MMI|27.25|Angle Closure Glaucoma|C0017605|[dsyn]|["Angle Closure Glaucoma"-tx-68-"Angle Closure Glaucoma"-noun-0,"Angle Closure Glaucoma"-tx-9-"Angle Closure Glaucoma"-noun-0,"Angle Closure Glaucoma"-tx-9-"Angle closure glaucoma"-noun-0]|TX|12668/22;1168/22;1192/22|C11.525.381.056
+00000000|MMI|27.19|Epilepsy|C0014544|[dsyn]|["SEIZURE DISORDER"-tx-84-"seizure disorder"-noun-0,"SEIZURE DISORDER"-tx-82-"seizure disorder"-noun-1,"SEIZURE DISORDER"-tx-14-"seizure disorder"-noun-0]|TX|15421/16;15255/16;1654/16|C10.228.140.490
+00000000|MMI|26.87|Hallucinations|C0018524|[mobd]|["HALLUCINATION"-tx-92-"hallucination"-noun-0,"HALLUCINATIONS"-tx-46-"hallucinations"-noun-0]|TX|16408/13;9259/14|C10.597.606.762.300;C23.888.592.604.764.300;F01.700.750.300
+00000000|MMI|26.48|Feeling suicidal (finding)|C0424000|[fndg]|["SUICIDAL IDEATION"-tx-17-"suicidal ideation"-noun-0,"Suicidal thoughts"-tx-17-"Suicidal Thoughts"-noun-0]|TX|2072/17;1851/17|F01.145.126.980.875.149;I01.880.735.856.149
+00000000|MMI|24.40|Confusion|C0009676|[mobd]|["CONFUSION"-tx-91-"confusion"-noun-0,"CONFUSION"-tx-75-"confusion"-noun-0]|TX|16264/9;14359/9|C10.597.606.337;C23.888.592.604.339;F01.700.250
+00000000|MMI|23.73|Anxiety|C0003467|[mobd]|["-- Anxiety"-tx-75-"anxiety"-noun-0,"-- Anxiety"-tx-73-"anxiety"-noun-0,"-- Anxiety"-tx-33-"anxiety"-noun-0]|TX|14350/7;13787/7;5720/7|F01.470.132
+00000000|MMI|23.65|Depressed - symptom|C1579931|[sosy]|["depression"-tx-43-"depression"-noun-0,"depression"-tx-35-"depression"-noun-0,"depression"-tx-34-"depression"-noun-0,"depression"-tx-31-"depression"-noun-0,"depression"-tx-19-"depression"-noun-0,"depression"-tx-18-"depression"-noun-0,"depression"-tx-17-"depression"-noun-0]|TX|8525/10;[6459/10],[6588/10];6156/10;[5280/10],[5351/10];2532/10;2297/10;2037/10|
+00000000|MMI|23.65|Depressed mood|C0344315|[fndg]|["depression"-tx-43-"depression"-noun-0,"depression"-tx-35-"depression"-noun-0,"depression"-tx-34-"depression"-noun-0,"depression"-tx-31-"depression"-noun-0,"depression"-tx-19-"depression"-noun-0,"depression"-tx-18-"depression"-noun-0,"depression"-tx-17-"depression"-noun-0]|TX|8525/10;[6459/10],[6588/10];6156/10;[5280/10],[5351/10];2532/10;2297/10;2037/10|
+00000000|MMI|21.96|Mental disorders|C0004936|[mobd]|["PSYCHIATRIC DISORDERS"-tx-48-"psychiatric disorders"-noun-0,"PSYCHIATRIC DISORDERS"-tx-45-"psychiatric disorders"-noun-0,"PSYCHIATRIC DISORDERS"-tx-23-"psychiatric disorders"-noun-0,"PSYCHIATRIC DISORDERS"-tx-22-"psychiatric disorders"-noun-0,"PSYCHIATRIC DISORDERS"-tx-20-"psychiatric disorders"-noun-0,"PSYCHIATRIC DISORDERS"-tx-18-"psychiatric disorders"-noun-0]|TX|9714/21;9085/21;3512/21;3320/21;2930/21;2326/21|F03
+00000000|MMI|20.89|Lung Diseases, Interstitial|C0206062|[dsyn]|["INTERSTITIAL LUNG DISEASE"-tx-93-"Interstitial Lung Disease"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-93-"Interstitial lung disease"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-16-"Interstitial Lung Disease"-noun-0]|TX|16490/25;16548/25;1759/25|C08.381.483
+00000000|MMI|20.39|Worse|C1457868|[fndg]|["Worse"-tx-35-"worse"-adj-0,"Worsening"-tx-35-"worsening"-adj-0,"Worsening"-tx-34-"worsening"-noun-0,"Worsening"-tx-32-"worsening"-noun-0,"Worsening"-tx-19-"worsening"-noun-0,"Worsening"-tx-17-"worsening"-verb-0,"Worsening"-tx-1-"Worsening"-noun-0,"Worsening"-tx-1-"worsening"-noun-0]|TX|6486/5;6578/9;6143/9;5503/9;2519/9;2018/9;64/9;109/9|
+00000000|MMI|20.36|Manic|C0338831|[mobd]|["MANIA"-tx-71-"mania"-noun-0,"MANIA"-tx-70-"mania"-noun-0,"MANIA"-tx-69-"Mania"-noun-0,"MANIA"-tx-69-"mania"-noun-0,"Manic"-tx-41-"manic"-noun-0,"MANIA"-tx-33-"mania"-noun-0,"MANIA"-tx-11-"mania"-noun-0,"MANIA"-tx-10-"Mania"-noun-0]|TX|13388/5;13120/5;12964/5;13029/5;8080/5;5872/5;1456/5;1344/5|
+00000000|MMI|20.07|Apraxia, oculomotor, Cogan type|C0543874|[cgab]|["COMA"-tx-92-"coma"-noun-0,"COMA"-tx-46-"coma"-noun-0]|TX|16441/4;9289/4|x.x.x.x
+00000000|MMI|20.07|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-73-"diarrhea"-noun-0,"DIARRHOEA"-tx-46-"diarrhea"-noun-0]|TX|13777/8;9569/8|C23.888.821.214
+00000000|MMI|20.07|Nausea|C0027497|[sosy]|["NAUSEA"-tx-73-"nausea"-noun-0,"NAUSEA"-tx-46-"nausea"-noun-0]|TX|13735/6;9551/6|C23.888.821.712
+00000000|MMI|17.86|Hypomania|C0241934|[fndg]|["HYPOMANIA"-tx-75-"hypomania"-noun-0,"HYPOMANIA"-tx-71-"hypomania"-noun-0,"HYPOMANIA"-tx-70-"hypomania"-noun-0,"HYPOMANIA"-tx-69-"Hypomania"-noun-0,"HYPOMANIA"-tx-33-"hypomania"-noun-0,"HYPOMANIA"-tx-11-"hypomania"-noun-0,"HYPOMANIA"-tx-10-"Hypomania"-noun-0]|TX|14420/9;13397/9;13126/9;12970/9;5857/9;1462/9;1350/9|
+00000000|MMI|17.83|Syndrome|C0039082|[dsyn]|["Syndrome"-tx-72-"Syndrome"-noun-0,"Syndrome"-tx-12-"Syndrome"-noun-0]|TX|13435/8;1507/8|C23.550.288.500
+00000000|MMI|17.22|Anxiety Disorders|C0003469|[mobd]|["Anxiety"-tx-75-"anxiety"-noun-0,"Anxiety"-tx-73-"anxiety"-noun-0,"Anxiety"-tx-33-"anxiety"-noun-0]|TX|14350/7;13787/7;5720/7|F03.080
+00000000|MMI|16.48|Syncope|C0039070|[sosy]|["SYNCOPE"-tx-92-"syncope"-noun-0]|TX|16423/7|C10.597.606.358.800.600;C23.888.592.604.359.800.600
+00000000|MMI|15.59|Increase in blood pressure|C0497247|[fndg]|["Increase in blood pressure"-tx-62-"increase in blood pressure"-noun-0,"blood pressure increase"-tx-61-"blood pressure increases"-noun-0,"Elevated Blood Pressure"-tx-60-"elevated blood pressure"-noun-0,"Elevated Blood Pressure"-tx-57-"Elevated Blood Pressure"-noun-0,"Increase in blood pressure"-tx-57-"increases in blood pressure"-noun-0,"Elevated Blood Pressure"-tx-5-"Elevated Blood Pressure"-noun-0]|TX|11740/26;11642/24;11541/23;11049/23;11160/27;797/23|
+00000000|MMI|14.32|Akathisia|C0392156|[sosy]|["Akithisia"-tx-33-"akathisia"-noun-0]|TX|5819/9|C10.597.350.600;C10.597.606.881.700;C23.888.592.350.600;C23.888.592.604.882.700;F01.700.875.700
+00000000|MMI|14.32|Delirium|C0011206|[mobd]|["DELIRIUM"-tx-46-"delirium"-noun-0]|TX|9275/8|C10.597.606.337.500;C23.888.592.604.339.500;F01.700.250.500;F03.615.350
+00000000|MMI|14.32|Hyperreflexia|C0151889|[fndg]|["hyper-reflexia"-tx-46-"hyperreflexia"-noun-0]|TX|9469/13|C10.597.704;C23.888.592.717;E01.370.376.550.650.655;E01.370.600.550.650.655;G11.561.600.765.587
+00000000|MMI|14.32|Muscle Rigidity|C0026837|[sosy]|["RIGIDITY"-tx-46-"rigidity"-noun-0]|TX|9448/8|C05.651.504;C10.597.613.550.500;C23.888.592.608.550.500
+00000000|MMI|14.32|Paresthesia|C0030554|[dsyn]|["Parasthesia"-tx-75-"paresthesia"-noun-0]|TX|14301/11|C10.597.751.791.875;C23.888.592.763.770.875
+00000000|MMI|14.32|Psychomotor Agitation|C3887612|[fndg]|["PSYCHOMOTOR RESTLESSNESS"-tx-33-"psychomotor restlessness"-noun-0]|TX|5830/24|C10.597.350.600;C10.597.606.881.700;C23.888.592.350.600;C23.888.592.604.882.700;F01.700.875.700
+00000000|MMI|14.32|Tinnitus|C0040264|[fndg]|["TINNITUS"-tx-75-"tinnitus"-noun-0]|TX|14431/8|C09.218.458.670;C10.597.751.418.670;C23.888.592.763.393.670
+00000000|MMI|12.17|Lethargy|C0023380|[sosy]|["LETHARGY"-tx-75-"lethargy"-noun-0]|TX|14380/8|C10.597.606.441;C23.888.592.604.444;F01.700.470
+00000000|MMI|12.17|Myoclonus|C0027066|[sosy]|["MYOCLONUS"-tx-46-"myoclonus"-noun-0]|TX|9458/9|C10.597.350.500;C23.888.592.350.500
+00000000|MMI|12.17|Systemic arterial pressure|C1272641|[fndg]|["Blood pressure"-tx-59-"blood pressure"-noun-0]|TX|11516/14|G09.330.380.076.347
+00000000|MMI|12.17|Tremor|C0040822|[sosy]|["TREMOR"-tx-46-"tremor"-noun-0]|TX|9440/6|C10.597.350.850;C23.888.592.350.850
+00000000|MMI|10.70|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-80-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-62-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-57-"Adverse Reactions"-noun-0]|TX|15052/17;11860/17;11228/17|
+00000000|MMI|10.70|Anxiety symptoms|C0860603|[fndg]|["Anxiety"-tx-75-"anxiety"-noun-0,"Anxiety"-tx-73-"anxiety"-noun-0,"Anxiety"-tx-33-"anxiety"-noun-0]|TX|14350/7;13787/7;5720/7|
+00000000|MMI|10.70|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-75-"dizziness"-noun-0,"Dizziness"-tx-73-"dizziness"-noun-0,"Dizziness"-tx-46-"dizziness"-noun-0]|TX|14262/9;13724/9;9361/9|
+00000000|MMI|10.70|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-91-"headache"-noun-0,"headache"-tx-75-"headache"-noun-0,"headache"-tx-73-"headache"-noun-0]|TX|16209/8;14370/8;13743/8|
+00000000|MMI|10.70|Insomnia Adverse Event|C1963237|[fndg]|["Insomnia"-tx-75-"insomnia"-noun-0,"Insomnia"-tx-73-"insomnia"-noun-0,"Insomnia"-tx-33-"insomnia"-noun-0]|TX|14410/8;13767/8;5755/8|
+00000000|MMI|10.70|Living Alone|C0439044|[fndg]|["Alone"-tx-45-"alone"-adj-0,"Alone"-tx-41-"alone"-adj-0,"Alone"-tx-2-"alone"-adj-0]|TX|8788/5;8018/5;274/5|
+00000000|MMI|10.38|Agitation|C0085631|[sosy]|["AGITATION"-tx-75-"agitation"-noun-0,"AGITATION"-tx-46-"agitation"-noun-0,"AGITATION"-tx-37-"agitation"-noun-0,"AGITATION"-tx-33-"agitation"-noun-0]|TX|14251/9;9248/9;7314/9;5729/9|
+00000000|MMI|10.01|Aggressive behavior|C0001807|[mobd]|["AGGRESSIVENESS"-tx-33-"aggressiveness"-noun-0]|TX|5790/14|F01.145.126.125;F01.145.813.045
+00000000|MMI|10.01|Apnea|C0003578|[patf]|["Arrest, Respiratory"-tx-92-"respiratory arrest"-noun-0]|TX|16447/18|C08.618.085;C23.888.852.130
+00000000|MMI|10.01|Coughing|C0010200|[sosy]|["COUGH"-tx-94-"cough"-noun-0]|TX|16825/5|C08.618.248;C23.888.852.293
+00000000|MMI|10.01|Epistaxis|C0014591|[patf]|["EPISTAXIS"-tx-66-"epistaxis"-noun-0]|TX|12423/9|C08.460.261;C09.603.261;C23.550.414.712
+00000000|MMI|10.01|Fever|C0015967|[fndg]|["HYPERTHERMIA"-tx-46-"hyperthermia"-noun-0]|TX|9395/12|C23.888.119.344
+00000000|MMI|10.01|Hematoma|C0018944|[patf]|["HEMATOMA"-tx-66-"hematoma"-noun-0]|TX|12413/8|C23.550.414.838
+00000000|MMI|10.01|Hyperhidrosis disorder|C0020458|[fndg]|["HYPERHIDROSIS"-tx-73-"hyperhidrosis"-noun-0]|TX|13826/13|C17.800.946.350
+00000000|MMI|10.01|Obsessive compulsive behavior|C0600104|[mobd]|["Obsessive-compulsive disorder"-tx-22-"obsessive compulsive disorder"-noun-0]|TX|3274/29|F01.145.527.100
+00000000|MMI|10.01|Sensory Disorders|C0152027|[dsyn]|["sensory disturbances"-tx-75-"sensory disturbances"-noun-0]|TX|14273/20|C10.597.751;C23.888.592.763
+00000000|MMI|10.01|Tachycardia|C0039231|[patf]|["TACHYCARDIA"-tx-46-"tachycardia"-noun-0]|TX|9325/11|C14.280.067.845;C23.550.073.845
+00000000|MMI|10.01|Vomiting|C0042963|[sosy]|["VOMITING"-tx-46-"vomiting"-verb-0]|TX|9559/8|C23.888.821.937
+00000000|MMI|9.28|Cerebrovascular Disorders|C0007820|[dsyn]|["Cerebrovascular condition"-tx-59-"cerebrovascular conditions"-noun-0]|TX|11447/26|C10.228.140.300;C14.907.253
+00000000|MMI|9.09|Major Depressive Disorder 2|C1837529|[dsyn]|["MAJOR DEPRESSIVE DISORDER 2"-tx-69-"MDD 2"-noun-0]|TX|12996/3,13006/1|x.x.x.x
+00000000|MMI|8.92|Accidental Falls|C0000921|[inpo]|["Falls"-tx-91-"falls"-noun-0]|TX|16321/5|N06.850.135.122
+00000000|MMI|8.92|Ecchymosis|C0013491|[patf]|["ECCHYMOSIS"-tx-66-"ecchymosis"-noun-0]|TX|12401/10|C15.378.100.452;C23.550.414.625;C23.888.885.312
+00000000|MMI|8.92|Falls|C0085639|[fndg]|["FALLS"-tx-91-"falls"-noun-0]|TX|16321/5|N06.850.135.122
+00000000|MMI|8.91|Recurrence (disease attribute)|C2825055|[patf]|["RECURRENCE"-tx-31-"recurrence"-noun-0]|TX|5337/10|C23.550.291.937
+00000000|MMI|8.90|Petechiae|C0031256|[dsyn]|["PETECHIAE"-tx-66-"petechiae"-noun-0]|TX|12438/9|C15.378.100.802;C23.550.414.950;C23.888.885.687
+00000000|MMI|8.83|Gastrointestinal Hemorrhage|C0017181|[patf]|["Gastro intestinal bleeding"-tx-65-"gastrointestinal bleeding"-noun-0]|TX|12314/25|C06.405.227;C23.550.414.788
+00000000|MMI|8.82|Drug Overdose|C0029944|[inpo]|["OVERDOSE"-tx-39-"overdose"-noun-0]|TX|7750/8|C25.775.383;E02.319.754.500
+00000000|MMI|8.77|Unusual change in behavior|C1997335|[fndg]|["Unusual change in behaviour"-tx-37-"unusual changes in behavior"-noun-0,"Unusual change in behaviour"-tx-32-"unusual changes in behavior"-noun-0,"Unusual change in behaviour"-tx-17-"unusual changes in behavior"-noun-0]|TX|7339/27;5531/27;2120/27|
+00000000|MMI|7.85|Disease|C0012634|[dsyn]|["Disorders"-tx-18-"disorders"-noun-0]|TX|2359/9|C23.550.288
+00000000|MMI|7.85|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-73-"fatigue"-noun-0]|TX|13796/7|C23.888.369
+00000000|MMI|7.85|Flushing|C0016382|[sosy]|["FLUSHING"-tx-46-"flushing"-verb-0]|TX|9385/8|C23.888.388
+00000000|MMI|7.85|Mydriasis|C0026961|[sosy]|["PUPILLARY DILATION"-tx-68-"pupillary dilation"-noun-0]|TX|12725/18|C11.710.570
+00000000|MMI|7.85|Obsessive-Compulsive Disorder|C0028768|[mobd]|["-- Obsessive Compulsive Disorder"-tx-22-"obsessive compulsive disorder"-noun-0]|TX|3274/29|F03.080.600
+00000000|MMI|7.85|Panic Attacks|C0086769|[mobd]|["PANIC ATTACKS"-tx-33-"panic attacks"-noun-0]|TX|5740/13|F03.080.700
+00000000|MMI|7.60|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-92-"seizure"-noun-0,"Seizure"-tx-81-"Seizure"-noun-0,"Seizure"-tx-13-"Seizure"-noun-0]|TX|16432/7;15093/7;1602/7|
+00000000|MMI|7.60|2+|C3833492|[fndg]|["2+"-tx-80-"2"-real_number-0,"2+"-tx-53-"2"-real_number-0,"2+"-tx-36-"2"-real_number-0]|TX|15041/1;10487/1;6967/1|
+00000000|MMI|7.40|Either|C3844638|[fndg]|["Either"-tx-62-"either"-adv-0,"Either"-tx-34-"either"-adv-0,"Either"-tx-32-"either"-adv-0]|TX|11792/6;6132/6;5659/6|
+00000000|MMI|7.10|65+|C3843765|[fndg]|["65+"-tx-28-"65"-integer-0,"65+"-tx-21-"65"-integer-0]|TX|4796/2;3168/2|
+00000000|MMI|7.10|Clouded consciousness|C0683369|[sosy]|["Confusion"-tx-91-"confusion"-noun-0,"Confusion"-tx-75-"confusion"-noun-0]|TX|16264/9;14359/9|
+00000000|MMI|7.10|Confusion Adverse Event|C1963086|[fndg]|["Confusion"-tx-91-"confusion"-noun-0,"Confusion"-tx-75-"confusion"-noun-0]|TX|16264/9;14359/9|
+00000000|MMI|7.10|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-73-"diarrhea"-noun-0,"Diarrhea"-tx-46-"diarrhea"-noun-0]|TX|13777/8;9569/8|
+00000000|MMI|7.10|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-73-"nausea"-noun-0,"Nausea"-tx-46-"nausea"-noun-0]|TX|13735/6;9551/6|
+00000000|MMI|7.10|Physical findings|C0311392|[fndg]|["SIGNS"-tx-92-"Signs"-noun-0,"SIGNS"-tx-91-"Signs"-noun-0]|TX|16328/5;16166/5|
+00000000|MMI|7.10|intended - ParticipationSignature|C1551357|[fndg]|["intended"-tx-48-"intended"-verb-0,"intended"-tx-45-"intended"-verb-0]|TX|9696/8;9067/8|
+00000000|MMI|6.88|Depression, Bipolar|C0005587|[mobd]|["Bipolar Depression"-tx-44-"bipolar depression"-noun-1]|TX|8605/18|F03.084.500
+00000000|MMI|5.25|At risk for suicide|C0563664|[fndg]|["SUICIDE RISK"-tx-1-"Suicide Risk"-noun-0,"SUICIDE RISK"-tx-1-"suicide risk"-noun-0]|TX|74/12;123/12|
+00000000|MMI|5.25|Others - Allergy|C1955473|[fndg]|["Others"-tx-45-"others"-noun-0,"Others"-tx-20-"others"-noun-0]|TX|9116/6;2726/6|
+00000000|MMI|5.05|Narrow angle|C1410927|[dsyn]|["Narrow angle"-tx-68-"narrow angles"-noun-0,"Narrow angle"-tx-9-"narrow angles"-noun-0]|TX|12884/13;1268/13|
+00000000|MMI|5.02|5 - 9|C3840622|[fndg]|["5 - 9"-tx-85-"5.9"-real_number-0,"5 - 9"-tx-15-"5.9"-real_number-0]|TX|15446/3;1743/3|
+00000000|MMI|5.00|Bleeding tendency|C1458140|[patf]|["Abnormal bleeding"-tx-63-"Abnormal Bleeding"-adj-0,"Abnormal bleeding"-tx-7-"Abnormal Bleeding"-noun-0]|TX|11901/17;941/17|
+00000000|MMI|4.98|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-59-"hypertension"-noun-0,"Hypertension"-tx-58-"hypertension"-noun-0]|TX|11414/12;11271/12|
+00000000|MMI|4.95|5-6|C3843715|[fndg]|["5-6"-tx-69-"5.6"-real_number-0,"5-6"-tx-11-"5.6"-real_number-0]|TX|12946/3;1475/3|
+00000000|MMI|4.95|6/5|C0442749|[fndg]|["5 6"-tx-69-"5.6"-real_number-0,"5 6"-tx-11-"5.6"-real_number-0]|TX|12946/3;1475/3|
+00000000|MMI|4.95|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-83-"history of"-noun-0,"HISTORY"-tx-71-"history"-noun-0]|TX|15289/10;13359/7|
+00000000|MMI|4.86|10%|C3842590|[fndg]|["10%"-tx-93-"10"-real_number-0,"10%"-tx-16-"10"-real_number-0]|TX|16487/2;1828/2|
+00000000|MMI|4.73|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-66-"life-threatening"-adj-0,"Life Threatening"-tx-45-"life-threatening"-adj-0]|TX|12451/16;8693/16|
+00000000|MMI|4.73|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-66-"life-threatening"-adj-0,"LIFE THREATENING"-tx-45-"life-threatening"-adj-0]|TX|12451/16;8693/16|
+00000000|MMI|4.73|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-66-"life-threatening"-adj-0,"LIFE THREATENING"-tx-45-"life-threatening"-adj-0]|TX|12451/16;8693/16|
+00000000|MMI|3.54|Abnormal coordination|C0520966|[sosy]|["INCOORDINATION"-tx-46-"incoordination"-noun-0]|TX|9484/14|
+00000000|MMI|3.54|Aggressive reaction|C1457883|[mobd]|["Aggressiveness"-tx-33-"aggressiveness"-noun-0]|TX|5790/14|
+00000000|MMI|3.54|Autonomic nervous system imbalance|C0262385|[dsyn]|["AUTONOMIC INSTABILITY"-tx-46-"autonomic instability"-noun-0]|TX|9296/21|
+00000000|MMI|3.54|Blood pressure finding|C1271104|[fndg]|["Blood Pressure"-tx-59-"blood pressure"-noun-0]|TX|11516/14|
+00000000|MMI|3.54|Chest discomfort|C0235710|[sosy]|["CHEST DISCOMFORT"-tx-94-"chest discomfort"-noun-0]|TX|16835/16|
+00000000|MMI|3.54|Contraindicated|C1444657|[fndg]|["Contraindicated"-tx-48-"contraindicated"-verb-0]|TX|9739/15|
+00000000|MMI|3.54|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-94-"cough"-noun-0]|TX|16825/5|
+00000000|MMI|3.54|Death (finding)|C1306577|[fndg]|["Death"-tx-92-"death"-noun-0]|TX|16471/5|
+00000000|MMI|3.54|Dream disorder|C0234458|[mobd]|["ABNORMAL DREAMS"-tx-73-"abnormal dreams"-noun-0]|TX|13805/15|
+00000000|MMI|3.54|Dysphoric mood|C0233477|[mobd]|["Dysphoric mood"-tx-75-"dysphoric mood"-noun-0]|TX|14221/14|
+00000000|MMI|3.54|Epistaxis on exam|C2228238|[fndg]|["epistaxis"-tx-66-"epistaxis"-noun-0]|TX|12423/9|
+00000000|MMI|3.54|Flushing Adverse Event|C1962957|[fndg]|["Flushing"-tx-46-"flushing"-verb-0]|TX|9385/8|
+00000000|MMI|3.54|Gastrointestinal symptom|C0426576|[sosy]|["Gastrointestinal symptoms"-tx-46-"gastrointestinal symptoms"-noun-0]|TX|9518/25|
+00000000|MMI|3.54|General unsteadiness|C0427108|[fndg]|["UNSTEADINESS"-tx-91-"unsteadiness"-noun-0]|TX|16289/12|
+00000000|MMI|3.54|Has tingling sensation|C2242996|[sosy]|["paresthesia"-tx-75-"paresthesia"-noun-0]|TX|14301/11|
+00000000|MMI|3.54|Hematoma Adverse Event|C1962958|[fndg]|["Hematoma"-tx-66-"hematoma"-noun-0]|TX|12413/8|
+00000000|MMI|3.54|History of previous events|C2004062|[fndg]|["History"-tx-71-"history"-noun-0]|TX|13359/7|
+00000000|MMI|3.54|Increased sweating|C0700590|[sosy]|["DIAPHORESIS"-tx-46-"diaphoresis"-noun-0]|TX|9372/11|
+00000000|MMI|3.54|Labile blood pressure|C0428895|[fndg]|["Labile blood pressure"-tx-46-"labile blood pressure"-noun-0]|TX|9338/21|
+00000000|MMI|3.54|Memory Impairment Adverse Event|C1963167|[patf]|["Memory impairment"-tx-91-"memory impairment"-noun-0]|TX|16245/17|
+00000000|MMI|3.54|Memory impairment|C0233794|[mobd]|["MEMORY IMPAIRMENT"-tx-91-"memory impairment"-noun-0]|TX|16245/17|
+00000000|MMI|3.54|Mental status changes|C0856054|[mobd]|["Mental status changes"-tx-46-"mental status changes"-noun-0]|TX|9219/21|
+00000000|MMI|3.54|Mood swings|C0085633|[mobd]|["EMOTIONAL LABILITY"-tx-75-"emotional lability"-noun-0]|TX|14390/18|
+00000000|MMI|3.54|Respiratory arrest|C0162297|[patf]|["RESPIRATORY ARREST"-tx-92-"respiratory arrest"-noun-0]|TX|16447/18|
+00000000|MMI|3.54|Single major depressive episode|C0024517|[mobd]|["depressive; episode, major"-tx-40-"major depressive episode"-noun-0]|TX|7815/24|
+00000000|MMI|3.54|Special screening finding|C1409616|[fndg]|["screening"-tx-43-"screening"-verb-0]|TX|8407/9|
+00000000|MMI|3.54|Tachycardia by ECG Finding|C3827868|[fndg]|["TACHYCARDIA"-tx-46-"tachycardia"-noun-0]|TX|9325/11|
+00000000|MMI|3.54|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-93-"therapy"-noun-0]|TX|16658/7|
+00000000|MMI|3.54|Tinnitus Adverse Event|C1963249|[fndg]|["Tinnitus"-tx-75-"tinnitus"-noun-0]|TX|14431/8|
+00000000|MMI|3.54|Tremor Adverse Event|C1963252|[fndg]|["Tremor"-tx-46-"tremor"-noun-0]|TX|9440/6|
+00000000|MMI|3.54|Used by|C1273517|[fndg]|["used"-tx-71-"used"-verb-0]|TX|13324/4|
+00000000|MMI|3.54|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-46-"vomiting"-verb-0]|TX|9559/8|
+00000000|MMI|3.54|Weakness|C3714552|[sosy]|["WEAKNESS"-tx-91-"weakness"-noun-0]|TX|16275/8|
+00000000|MMI|3.54|consideration|C0518609|[fndg]|["CONSIDERATION"-tx-35-"Consideration"-noun-0]|TX|6325/13|
+00000000|MMI|3.54|major affective disorder|C0302847|[mobd]|["AFFECTIVE DISORDER, MAJOR"-tx-70-"major affective disorder"-noun-0]|TX|13198/24|
+00000000|MMI|2.81|Electric shock sensation|C0549248|[sosy]|["ELECTRIC SHOCK SENSATION"-tx-75-"electric shock sensations"-noun-0]|TX|14322/25|
+00000000|MMI|2.81|NEUROMUSCULAR SYMPTOM|C0746868|[sosy]|["NEUROMUSCULAR SYMPTOM"-tx-46-"neuromuscular symptoms"-noun-0]|TX|9410/22|
+00000000|MMI|2.61|FH: Suicide|C0455386|[fndg]|["Family history of suicide"-tx-43-"family history of suicide"-noun-0]|TX|8476/25|
+00000000|MMI|2.58|Family history|C0241889|[fndg]|["FAMILY HISTORY OF"-tx-71-"family history of"-noun-0]|TX|13370/17|
+00000000|MMI|2.57|Psychiatric History|C0748059|[fndg]|["PSYCHIATRIC HISTORY"-tx-43-"psychiatric history"-noun-0]|TX|8443/19|
+00000000|MMI|2.52|4+ Answer to question|C3838679|[fndg]|["4+"-tx-53-"4"-real_number-0]|TX|10448/1|
+00000000|MMI|2.52|Deterioration of status|C1279889|[fndg]|["Worse"-tx-35-"worse"-adj-0]|TX|6486/5|
+00000000|MMI|2.49|Dyspnea, progressive|C0239202|[fndg]|["DYSPNEA, PROGRESSIVE"-tx-94-"progressive dyspnea"-noun-0]|TX|16804/19|
+00000000|MMI|2.49|Progressive breathing difficulty|C3806899|[fndg]|["Progressive Dyspnoea"-tx-94-"progressive dyspnea"-noun-0]|TX|16804/19|
+00000000|MMI|2.48|Associated symptom|C0521989|[sosy]|["associated symptoms"-tx-36-"associated symptoms"-noun-0]|TX|6901/10,6925/8|
+00000000|MMI|2.48|patient symptoms|C1317600|[fndg]|["patients symptoms"-tx-43-"patients symptoms"-noun-0]|TX|8283/8,8308/8|
+00000000|MMI|2.45|Related personal status|C0445223|[fndg]|["Related"-tx-66-"related"-verb-0]|TX|12357/7|
+00000000|MMI|2.45|Bleeding Risk|C3251812|[fndg]|["Bleeding Risk"-tx-67-"risk bleeding"-noun-0]|TX|12520/4,12528/8|
+00000000|MMI|2.44|Cancer Remission|C0687702|[neop]|["remission"-tx-17-"remission"-noun-1]|TX|2252/9|
+00000000|MMI|2.44|Consciousness clear|C0239110|[fndg]|["alerted"-tx-37-"alerted"-verb-0]|TX|7250/7|
+00000000|MMI|2.44|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-58-"controlled"-verb-0]|TX|11294/10|
+00000000|MMI|2.44|Disease remission|C0544452|[fndg]|["Remission"-tx-17-"remission"-noun-1]|TX|2252/9|
+00000000|MMI|2.44|Examination and observation for unspecified reason|C0478530|[fndg]|["observation"-tx-38-"observation"-noun-0]|TX|7551/11|
+00000000|MMI|2.44|Recurrent Malignant Neoplasm|C1458156|[neop]|["recurrence"-tx-31-"recurrence"-noun-0]|TX|5337/10|
+00000000|MMI|2.43|study.total|C0947343|[fndg]|["Study.total"-tx-23-"total studies"-noun-0]|TX|3545/5,3569/7|
+00000000|MMI|2.43|compromise|C2945640|[fndg]|["compromise"-tx-59-"compromised"-verb-0]|TX|11488/11|
+00000000|MMI|2.42|Observation of attack|C1304680|[fndg]|["Attack"-tx-68-"attack"-noun-0]|TX|12846/6|
+00000000|MMI|2.42|Experimental Result|C2825142|[fndg]|["Result"-tx-86-"result"-noun-0]|TX|15608/6|
+00000000|MMI|2.42|taking medication for depression|C2054147|[fndg]|["taking antidepressant"-tx-17-"taking antidepressant"-noun-1]|TX|2173/21|
+00000000|MMI|2.40|Write - language ability|C1576875|[fndg]|["Write"-tx-39-"written"-verb-0]|TX|7633/7|
+00000000|MMI|2.38|1+|C3816745|[fndg]|["1+"-tx-28-"1"-integer-0]|TX|4720/1|
+00000000|MMI|2.37|Did not receive therapy or drug for|C0332155|[fndg]|["untreated"-tx-9-"untreated"-adj-0]|TX|1245/9|
+00000000|MMI|2.37|Drug effect disorder|C0728867|[patf]|["Drug effect"-tx-29-"drug effect"-noun-1]|TX|5054/11|
+00000000|MMI|2.37|suicidal impulses|C0850336|[mobd]|["suicidal impulses"-tx-34-"suicidal impulses"-noun-0]|TX|6191/17|
+00000000|MMI|2.36|Asymptomatic|C0231221|[fndg]|["Not Present symptoms"-tx-35-"not presenting symptoms"-noun-0]|TX|6681/3,6707/19|
+00000000|MMI|2.36|Adverse event|C0877248|[patf]|["adverse events"-tx-94-"adverse events"-noun-0]|TX|16718/14|
+00000000|MMI|2.35|Angle closure|C0429528|[fndg]|["Angle closure"-tx-68-"angle closure"-noun-0]|TX|12832/13|
+00000000|MMI|2.35|Overdose|C4018909|[fndg]|["Overdose"-tx-39-"overdose"-noun-0]|TX|7750/8|
+00000000|MMI|2.35|Suicidal|C0438696|[fndg]|["SUICIDAL"-tx-20-"suicidal"-adj-0]|TX|2779/8|
+00000000|MMI|2.35|Thinking and speaking disturbances|C0233629|[mobd]|["Thinking, NOS"-tx-20-"thinking"-noun-0]|TX|2788/8|
+00000000|MMI|2.34|Manic mood|C0564408|[fndg]|["Manic"-tx-41-"manic"-noun-0]|TX|8080/5|
+00000000|MMI|2.34|Mixed Cell Morphology|C3160715|[fndg]|["Mixed"-tx-41-"mixed"-adj-0]|TX|8074/5|
+00000000|MMI|2.32|Medication 1|C3843494|[fndg]|["Drugs 1"-tx-28-"1 Drug"-noun-0]|TX|4204/1,4229/4|

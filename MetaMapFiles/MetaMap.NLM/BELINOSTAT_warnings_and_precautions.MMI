@@ -1,0 +1,43 @@
+00000000|MMI|60.37|Leukopenia|C0023530|[dsyn]|["LEUKOPENIA"-tx-8-"leukopenia"-noun-0,"NEUTROPENIA"-tx-8-"neutropenia"-noun-0,"LEUKOPENIA"-tx-1-"leukopenia"-noun-0,"NEUTROPENIA"-tx-1-"neutropenia"-noun-0]|TX|927/10;939/11;72/10;84/11|C15.378.553.546
+00000000|MMI|42.15|Neutropenia|C0027947|[dsyn]|["NEUTROPENIA"-tx-8-"neutropenia"-noun-0,"NEUTROPENIA"-tx-1-"neutropenia"-noun-0]|TX|939/11;84/11|C15.378.553.546.184.564
+00000000|MMI|36.02|Infection|C3714514|[patf]|["INFECTION"-tx-10-"infection"-noun-1,"Infections"-tx-9-"Infections"-noun-0,"Infections"-tx-9-"infections"-noun-0,"INFECTION"-tx-2-"Infection"-noun-0,"Infections"-tx-2-"infections"-noun-0]|TX|1325/9;1154/10;1198/10;220/9;249/10|C01.539
+00000000|MMI|35.81|Lymphopenia|C0024312|[dsyn]|["LYMPHOPENIA"-tx-8-"lymphopenia"-noun-0,"LYMPHOPENIA"-tx-1-"lymphopenia"-noun-0]|TX|955/11;100/11|C15.378.553.546.605;C20.673.627
+00000000|MMI|35.81|Sepsis|C0243026|[dsyn]|["SEPSIS"-tx-9-"sepsis"-noun-0,"SEPSIS"-tx-2-"sepsis"-noun-0]|TX|1234/6;281/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|35.81|Septicemia|C0036690|[dsyn]|["Sepsis"-tx-9-"sepsis"-noun-0,"Sepsis"-tx-2-"sepsis"-noun-0]|TX|1234/6;281/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|29.46|Thrombocytopenia|C0040034|[fndg]|["Thrombocytopaenia"-tx-8-"thrombocytopenia"-noun-0,"Thrombocytopaenia"-tx-1-"Thrombocytopenia"-noun-0]|TX|909/16;54/16|C15.378.140.855
+00000000|MMI|27.22|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-17-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-16-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-12-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-11-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-8-"Adverse Reactions"-noun-0]|TX|2354/17;2219/17;1604/17;1457/17;1109/17|
+00000000|MMI|26.36|Tumor Lysis Syndrome|C0041364|[dsyn]|["TUMOUR LYSIS SYNDROME"-tx-15-"Tumor Lysis Syndrome"-noun-0,"TUMOUR LYSIS SYNDROME"-tx-5-"Tumor lysis syndrome"-noun-0]|TX|1907/20;506/20|C15.604.515.880;C20.683.515.950
+00000000|MMI|23.12|Anemia|C0002871|[dsyn]|["ANEMIA"-tx-8-"anemia"-noun-0,"ANEMIA"-tx-1-"anemia"-noun-0]|TX|976/6;118/6|C15.378.071
+00000000|MMI|23.12|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-9-"pneumonia"-noun-0,"PNEUMONIA"-tx-2-"pneumonia"-noun-0]|TX|1220/9;267/9|C08.381.677;C08.730.610
+00000000|MMI|22.61|Peripheral T-Cell Lymphoma|C0079774|[neop]|["PTCL"-tx-15-"PTCL"-noun-0]|TX|2058/4|C04.557.386.480.750.825;C15.604.515.569.480.750.825;C20.683.515.761.480.750.825
+00000000|MMI|20.95|Gravidity|C0600457|[fndg]|["PREGNANT"-tx-21-"pregnant"-adj-0]|TX|2893/8|G08.686.340;G08.686.785.760.769.213;N06.850.490.812.250
+00000000|MMI|20.39|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-10-"infection"-noun-1,"Infection, NOS"-tx-2-"Infection"-noun-0]|TX|1325/9;220/9|C01.539.221
+00000000|MMI|19.58|Disease|C0012634|[dsyn]|["DISEASE"-tx-16-"disease"-noun-0,"DISEASE"-tx-5-"disease"-noun-0]|TX|2144/7;565/7|C23.550.288
+00000000|MMI|15.17|2+|C3833492|[fndg]|["2+"-tx-14-"2"-real_number-0,"2+"-tx-8-"2"-real_number-0,"2+"-tx-5-"2"-real_number-0,"2+"-tx-2-"2"-real_number-0]|TX|1882/1;1096/1;483/1;197/1|
+00000000|MMI|14.64|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-17-"diarrhea"-noun-0]|TX|2319/8|C23.888.821.214
+00000000|MMI|14.64|Vomiting|C0042963|[sosy]|["VOMITING"-tx-17-"vomiting"-verb-0]|TX|2306/8|C23.888.821.937
+00000000|MMI|14.37|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-18-"Toxicity"-noun-0,"Toxicity"-tx-8-"Toxicity"-noun-0,"Toxicity"-tx-6-"toxicity"-noun-0,"toxicities"-tx-1-"toxicities"-noun-0]|TX|2477/8;876/8;664/8;181/10|
+00000000|MMI|13.61|Congenital Abnormality|C0000768|[cgab]|["Abnormalities"-tx-12-"abnormalities"-noun-0,"Abnormalities"-tx-3-"abnormalities"-noun-0]|TX|1584/13;385/13|C16.131
+00000000|MMI|13.07|Nausea|C0027497|[sosy]|["NAUSEA"-tx-17-"Nausea"-noun-0]|TX|2298/6|C23.888.821.712
+00000000|MMI|11.66|Possible pregnancy (finding)|C0425965|[fndg]|["? Pregnancy"-tx-21-"pregnancy"-noun-0,"? Pregnancy"-tx-20-"pregnancy"-noun-0,"? Pregnancy"-tx-7-"pregnancy"-noun-0]|TX|2856/9;2792/9;800/9|
+00000000|MMI|11.49|Teratogenesis|C0232910|[patf]|["TERATOGENICITY"-tx-19-"teratogenicity"-noun-0]|TX|2579/14|C23.550.863
+00000000|MMI|11.10|Hepatotoxicity|C0235378|[inpo]|["HEPATOTOXICITY"-tx-12-"Hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-12-"hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-3-"Hepatotoxicity"-noun-0]|TX|1500/14;1545/14;309/14|
+00000000|MMI|10.99|Toxic liver disease|C0348754|[dsyn]|["Hepatic toxicity"-tx-14-"hepatic toxicity"-noun-0,"Hepatic toxicity"-tx-4-"hepatic toxicities"-noun-0,"Hepatic toxicity"-tx-3-"hepatic toxicity"-noun-0]|TX|1828/16;459/18;344/16|
+00000000|MMI|10.64|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-12-"fatal"-adj-0,"FATAL"-tx-9-"fatal"-adj-0,"FATAL"-tx-2-"fatal"-adj-0]|TX|1539/5;1192/5;243/5|
+00000000|MMI|10.42|Lymphocyte count decreased|C0853986|[fndg]|["Lymphopenia"-tx-8-"lymphopenia"-noun-0,"Lymphopenia"-tx-1-"lymphopenia"-noun-0]|TX|955/11;100/11|
+00000000|MMI|10.42|Lymphopenia Adverse Event|C1963164|[fndg]|["Lymphopenia"-tx-8-"lymphopenia"-noun-0,"Lymphopenia"-tx-1-"lymphopenia"-noun-0]|TX|955/11;100/11|
+00000000|MMI|10.42|Neutrophil count decreased|C0853697|[fndg]|["Neutropenia"-tx-8-"neutropenia"-noun-0,"Neutropenia"-tx-1-"neutropenia"-noun-0]|TX|939/11;84/11|
+00000000|MMI|10.42|White blood cell count decreased|C0750394|[fndg]|["Leukopenia"-tx-8-"leukopenia"-noun-0,"Leukopenia"-tx-1-"leukopenia"-noun-0]|TX|927/10;72/10|
+00000000|MMI|7.33|Tumor Lysis Syndrome Adverse Event|C1963254|[fndg]|["Tumor lysis syndrome"-tx-15-"Tumor Lysis Syndrome"-noun-0,"Tumor lysis syndrome"-tx-5-"Tumor lysis syndrome"-noun-0]|TX|1907/20;506/20|
+00000000|MMI|7.31|5-6|C3843715|[fndg]|["5-6"-tx-18-"5.6"-real_number-0,"5-6"-tx-8-"5.6"-real_number-0]|TX|2460/3;840/3|
+00000000|MMI|7.31|6/5|C0442749|[fndg]|["5 6"-tx-18-"5.6"-real_number-0,"5 6"-tx-8-"5.6"-real_number-0]|TX|2460/3;840/3|
+00000000|MMI|6.93|advanced disease|C0679246|[fndg]|["advanced disease"-tx-16-"advanced disease"-noun-0,"advanced disease"-tx-5-"advanced disease"-noun-0]|TX|2129/8,2144/7;550/8,565/7|
+00000000|MMI|5.18|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-17-"diarrhea"-noun-0]|TX|2319/8|
+00000000|MMI|5.18|Discontinued|C1444662|[fndg]|["Discontinue"-tx-14-"discontinue"-verb-0]|TX|1778/11|
+00000000|MMI|5.18|Patient currently pregnant|C0549206|[fndg]|["Pregnant"-tx-21-"pregnant"-adj-0]|TX|2893/8|
+00000000|MMI|5.18|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-17-"vomiting"-verb-0]|TX|2306/8|
+00000000|MMI|3.60|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-17-"Nausea"-noun-0]|TX|2298/6|
+00000000|MMI|3.60|Life-threatening infections|C1859430|[fndg]|["Life-threatening infections"-tx-11-"life threatening infections"-noun-0]|TX|1424/27|
+00000000|MMI|3.59|Used by|C1273517|[fndg]|["used"-tx-21-"used"-verb-0]|TX|2844/4|
+00000000|MMI|3.49|Gastrointestinal toxicity|C1142499|[fndg]|["Gastrointestinal toxicity"-tx-17-"Gastrointestinal Toxicity"-noun-0]|TX|2267/25|
+00000000|MMI|3.45|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-11-"history of"-noun-0]|TX|1352/10|

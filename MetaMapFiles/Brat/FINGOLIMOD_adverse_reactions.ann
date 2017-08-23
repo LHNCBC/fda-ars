@@ -1,0 +1,422 @@
+T1	AdverseReaction 115 130	Bradyarrhythmia
+T2	AdverseReaction 135 158	Atrioventricular Blocks
+T3	AdverseReaction 202 212	Infections
+T4	AdverseReaction 256 298	Progressive multifocal leukoencephalopathy
+T5	AdverseReaction 342 355	Macular Edema
+T6	AdverseReaction 399 443	Posterior Reversible Encephalopathy Syndrome
+T7	AdverseReaction 550 562	Liver Injury
+T8	AdverseReaction 682 690	Headache
+T9	AdverseReaction 692 720	liver transaminase elevation
+T10	AdverseReaction 722 730	diarrhea
+T11	AdverseReaction 732 737	cough
+T12	AdverseReaction 739 748	influenza
+T13	AdverseReaction 750 759	sinusitis
+T14	AdverseReaction 761 770	back pain
+T15	AdverseReaction 772 786	abdominal pain
+T16	AdverseReaction 792 809	pain in extremity
+T17	AdverseReaction 2070 2078	headache
+T18	AdverseReaction 2080 2108	liver transaminase elevation
+T19	AdverseReaction 2110 2118	diarrhea
+T20	AdverseReaction 2120 2125	cough
+T21	AdverseReaction 2127 2136	influenza
+T22	AdverseReaction 2138 2147	sinusitis
+T23	AdverseReaction 2149 2158	back pain
+T24	AdverseReaction 2160 2174	abdominal pain
+T25	AdverseReaction 2180 2197	pain in extremity
+T26	AdverseReaction 2320 2349	serum transaminase elevations
+T27	AdverseReaction 2387 2407	basal cell carcinoma
+T28	AdverseReaction 2903 2912	Influenza
+T29	AdverseReaction 2958 2967	Sinusitis
+T30	AdverseReaction 3012 3022	Bronchitis
+T31	AdverseReaction 3067 3080	Herpes zoster
+T32	AdverseReaction 3125 3141	Tinea versicolor
+T33	AdverseReaction 3246 3257	Bradycardia
+T34	AdverseReaction 3369 3377	Headache
+T35	AdverseReaction 3423 3431	Migraine
+T36	AdverseReaction 3546 3552	Nausea
+T37	AdverseReaction 3600 3608	Diarrhea
+T38	AdverseReaction 3654 3668	Abdominal pain
+T39	AdverseReaction 3808 3816	Asthenia
+T40	AdverseReaction 3952 3961	Back pain
+T41	AdverseReaction 4006 4023	Pain in extremity
+T42	AdverseReaction 4149 4157	Alopecia
+T43	AdverseReaction 4203 4220	Actinic keratosis
+T44	AdverseReaction 4322 4351	Liver transaminase elevations
+T45	AdverseReaction 4341 4351;4358 4361	elevations ALT
+T46	AdverseReaction 4341 4351;4362 4365	elevations GGT
+T47	AdverseReaction 4341 4351;4366 4369	elevations AST
+T48	AdverseReaction 4415 4444	Blood triglycerides increased
+T49	AdverseReaction 4580 4585	Cough
+T50	AdverseReaction 4634 4641	Dyspnea
+T51	AdverseReaction 4744 4758	Vision blurred
+T52	AdverseReaction 4864 4876	Hypertension
+T53	AdverseReaction 5000 5011	Lymphopenia
+T54	AdverseReaction 5056 5066	Leukopenia
+T55	AdverseReaction 5225 5239	Skin papilloma
+T56	AdverseReaction 5284 5304	Basal cell carcinoma
+T57	AdverseReaction 5372 5381	dizziness
+T58	AdverseReaction 5383 5392	pneumonia
+T59	AdverseReaction 5394 5400	eczema
+T60	AdverseReaction 5405 5413	pruritus
+T61	AdverseReaction 5750 5765	Vascular events
+T62	AdverseReaction 5790 5809	hemorrhagic strokes
+T63	AdverseReaction 5815 5852	peripheral arterial occlusive disease
+T64	AdverseReaction 6160 6168	lymphoma
+T65	AdverseReaction 5777 5785;5802 5809	ischemic strokes
+T66	AdverseReaction 487 506	Respiratory Effects
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E63	AdverseReaction:T62
+E64	AdverseReaction:T63
+E65	AdverseReaction:T64
+E62	AdverseReaction:T65
+E66	AdverseReaction:T66
+A1	CUI E1 C0079035
+A2	UMLS-Preferred-Name E1 Bradyarrhythmia (disorder)
+A3	MEDDRA-PT E1 Bradyarrhythmia
+A4	MEDDRA-PT-ID E1 10049765
+A5	CUI E2 C0004245
+A6	UMLS-Preferred-Name E2 Atrioventricular Block
+A7	MEDDRA-PT E2 Atrioventricular block
+A8	MEDDRA-PT-ID E2 10003671
+A9	CUI E3 C3714514
+A10	UMLS-Preferred-Name E3 Infection
+A11	MEDDRA-PT E3 Infection
+A12	MEDDRA-PT-ID E3 10021789
+A13	CUI E4 C0023524
+A14	UMLS-Preferred-Name E4 Leukoencephalopathy, Progressive Multifocal
+A15	MEDDRA-PT E4 Progressive multifocal leukoencephalopathy
+A16	MEDDRA-PT-ID E4 10036807
+A17	CUI E5 C0271051
+A18	UMLS-Preferred-Name E5 Macular retinal edema
+A19	MEDDRA-PT E5 Macular oedema
+A20	MEDDRA-PT-ID E5 10025415
+A21	LLT E5 Macular edema
+A22	LLT-ID E5 10054467
+A23	CUI E6 C3160858
+A24	UMLS-Preferred-Name E6 Posterior reversible encephalopathy syndrome
+A25	MEDDRA-PT E6 Posterior reversible encephalopathy syndrome
+A26	MEDDRA-PT-ID E6 10071066
+A27	CUI E7 C0160390
+A28	UMLS-Preferred-Name E7 Injury of liver
+A29	MEDDRA-PT E7 Liver injury
+A30	MEDDRA-PT-ID E7 10067125
+A31	CUI E8 C0018681
+A32	UMLS-Preferred-Name E8 Headache
+A33	MEDDRA-PT E8 Headache
+A34	MEDDRA-PT-ID E8 10019211
+A35	CUI E9 C2674385
+A36	UMLS-Preferred-Name E9 Elevated liver transaminases
+A37	MEDDRA-PT E9 Transaminases increased
+A38	MEDDRA-PT-ID E9 10054889
+A39	CUI E10 C0011991
+A40	UMLS-Preferred-Name E10 Diarrhea
+A41	MEDDRA-PT E10 Diarrhoea
+A42	MEDDRA-PT-ID E10 10012735
+A43	LLT E10 Diarrhea
+A44	LLT-ID E10 10012727
+A45	CUI E11 C0010200
+A46	UMLS-Preferred-Name E11 Coughing
+A47	MEDDRA-PT E11 Cough
+A48	MEDDRA-PT-ID E11 10011224
+A49	CUI E12 C0021400
+A50	UMLS-Preferred-Name E12 Influenza
+A51	MEDDRA-PT E12 Influenza
+A52	MEDDRA-PT-ID E12 10022000
+A53	CUI E13 C0037199
+A54	UMLS-Preferred-Name E13 Sinusitis
+A55	MEDDRA-PT E13 Sinusitis
+A56	MEDDRA-PT-ID E13 10040753
+A57	CUI E14 C0004604
+A58	UMLS-Preferred-Name E14 Back Pain
+A59	MEDDRA-PT E14 Back pain
+A60	MEDDRA-PT-ID E14 10003988
+A61	CUI E15 C0000737
+A62	UMLS-Preferred-Name E15 Abdominal Pain
+A63	MEDDRA-PT E15 Abdominal pain
+A64	MEDDRA-PT-ID E15 10000081
+A65	CUI E16 C0030196
+A66	UMLS-Preferred-Name E16 Pain in limb
+A67	MEDDRA-PT E16 Pain in extremity
+A68	MEDDRA-PT-ID E16 10033425
+A69	CUI E17 C0018681
+A70	UMLS-Preferred-Name E17 Headache
+A71	MEDDRA-PT E17 Headache
+A72	MEDDRA-PT-ID E17 10019211
+A73	CUI E18 C2674385
+A74	UMLS-Preferred-Name E18 Elevated liver transaminases
+A75	MEDDRA-PT E18 Transaminases increased
+A76	MEDDRA-PT-ID E18 10054889
+A77	CUI E19 C0011991
+A78	UMLS-Preferred-Name E19 Diarrhea
+A79	MEDDRA-PT E19 Diarrhoea
+A80	MEDDRA-PT-ID E19 10012735
+A81	LLT E19 Diarrhea
+A82	LLT-ID E19 10012727
+A83	CUI E20 C0010200
+A84	UMLS-Preferred-Name E20 Coughing
+A85	MEDDRA-PT E20 Cough
+A86	MEDDRA-PT-ID E20 10011224
+A87	CUI E21 C0021400
+A88	UMLS-Preferred-Name E21 Influenza
+A89	MEDDRA-PT E21 Influenza
+A90	MEDDRA-PT-ID E21 10022000
+A91	CUI E22 C0037199
+A92	UMLS-Preferred-Name E22 Sinusitis
+A93	MEDDRA-PT E22 Sinusitis
+A94	MEDDRA-PT-ID E22 10040753
+A95	CUI E23 C0004604
+A96	UMLS-Preferred-Name E23 Back Pain
+A97	MEDDRA-PT E23 Back pain
+A98	MEDDRA-PT-ID E23 10003988
+A99	CUI E24 C0000737
+A100	UMLS-Preferred-Name E24 Abdominal Pain
+A101	MEDDRA-PT E24 Abdominal pain
+A102	MEDDRA-PT-ID E24 10000081
+A103	CUI E25 C0030196
+A104	UMLS-Preferred-Name E25 Pain in limb
+A105	MEDDRA-PT E25 Pain in extremity
+A106	MEDDRA-PT-ID E25 10033425
+A107	CUI E26 C0859350
+A108	UMLS-Preferred-Name E26 Serum transaminase increased
+A109	MEDDRA-PT E26 Transaminases increased
+A110	MEDDRA-PT-ID E26 10054889
+A111	LLT E26 Serum transaminase increased
+A112	LLT-ID E26 10040421
+A113	CUI E27 C0007117
+A114	UMLS-Preferred-Name E27 Basal cell carcinoma
+A115	MEDDRA-PT E27 Basal cell carcinoma
+A116	MEDDRA-PT-ID E27 10004146
+A117	CUI E28 C0021400
+A118	UMLS-Preferred-Name E28 Influenza
+A119	MEDDRA-PT E28 Influenza
+A120	MEDDRA-PT-ID E28 10022000
+A121	CUI E29 C0037199
+A122	UMLS-Preferred-Name E29 Sinusitis
+A123	MEDDRA-PT E29 Sinusitis
+A124	MEDDRA-PT-ID E29 10040753
+A125	CUI E30 C0006277
+A126	UMLS-Preferred-Name E30 Bronchitis
+A127	MEDDRA-PT E30 Bronchitis
+A128	MEDDRA-PT-ID E30 10006451
+A129	CUI E31 C0019360
+A130	UMLS-Preferred-Name E31 Herpes zoster disease
+A131	MEDDRA-PT E31 Herpes zoster
+A132	MEDDRA-PT-ID E31 10019974
+A133	CUI E32 C0040262
+A134	UMLS-Preferred-Name E32 Tinea Versicolor
+A135	MEDDRA-PT E32 Tinea versicolour
+A136	MEDDRA-PT-ID E32 10056131
+A137	LLT E32 Tinea versicolor
+A138	LLT-ID E32 10043875
+A139	CUI E33 C0428977
+A140	UMLS-Preferred-Name E33 Bradycardia
+A141	MEDDRA-PT E33 Bradycardia
+A142	MEDDRA-PT-ID E33 10006093
+A143	CUI E34 C0018681
+A144	UMLS-Preferred-Name E34 Headache
+A145	MEDDRA-PT E34 Headache
+A146	MEDDRA-PT-ID E34 10019211
+A147	CUI E35 C0149931
+A148	UMLS-Preferred-Name E35 Migraine Disorders
+A149	MEDDRA-PT E35 Migraine
+A150	MEDDRA-PT-ID E35 10027599
+A151	CUI E36 C0027497
+A152	UMLS-Preferred-Name E36 Nausea
+A153	MEDDRA-PT E36 Nausea
+A154	MEDDRA-PT-ID E36 10028813
+A155	CUI E37 C0011991
+A156	UMLS-Preferred-Name E37 Diarrhea
+A157	MEDDRA-PT E37 Diarrhoea
+A158	MEDDRA-PT-ID E37 10012735
+A159	LLT E37 Diarrhea
+A160	LLT-ID E37 10012727
+A161	CUI E38 C0000737
+A162	UMLS-Preferred-Name E38 Abdominal Pain
+A163	MEDDRA-PT E38 Abdominal pain
+A164	MEDDRA-PT-ID E38 10000081
+A165	CUI E39 C0004093
+A166	UMLS-Preferred-Name E39 Asthenia
+A167	MEDDRA-PT E39 Asthenia
+A168	MEDDRA-PT-ID E39 10003549
+A169	CUI E40 C0004604
+A170	UMLS-Preferred-Name E40 Back Pain
+A171	MEDDRA-PT E40 Back pain
+A172	MEDDRA-PT-ID E40 10003988
+A173	CUI E41 C0030196
+A174	UMLS-Preferred-Name E41 Pain in limb
+A175	MEDDRA-PT E41 Pain in extremity
+A176	MEDDRA-PT-ID E41 10033425
+A177	CUI E42 C0002170
+A178	UMLS-Preferred-Name E42 Alopecia
+A179	MEDDRA-PT E42 Alopecia
+A180	MEDDRA-PT-ID E42 10001760
+A181	CUI E43 C0022602
+A182	UMLS-Preferred-Name E43 Actinic keratosis
+A183	MEDDRA-PT E43 Actinic keratosis
+A184	MEDDRA-PT-ID E43 10000614
+A185	CUI E44 C2674385
+A186	UMLS-Preferred-Name E44 Elevated liver transaminases
+A187	MEDDRA-PT E44 Transaminases increased
+A188	MEDDRA-PT-ID E44 10054889
+A189	CUI E45 C0151905
+A190	UMLS-Preferred-Name E45 Alanine aminotransferase increased
+A191	MEDDRA-PT E45 Alanine aminotransferase increased
+A192	MEDDRA-PT-ID E45 10001551
+A193	LLT E45 ALT increased
+A194	LLT-ID E45 10001845
+A195	CUI E46 C0151662
+A196	UMLS-Preferred-Name E46 Gamma-glutamyl transferase raised
+A197	MEDDRA-PT E46 Gamma-glutamyltransferase increased
+A198	MEDDRA-PT-ID E46 10017693
+A199	LLT E46 GGT increased
+A200	LLT-ID E46 10056910
+A201	CUI E47 C0151904
+A202	UMLS-Preferred-Name E47 Aspartate aminotransferase increased
+A203	MEDDRA-PT E47 Aspartate aminotransferase increased
+A204	MEDDRA-PT-ID E47 10003481
+A205	LLT E47 AST increased
+A206	LLT-ID E47 10003544
+A207	CUI E48 C0853692
+A208	UMLS-Preferred-Name E48 Blood triglycerides increased
+A209	MEDDRA-PT E48 Blood triglycerides increased
+A210	MEDDRA-PT-ID E48 10005839
+A211	CUI E49 C0010200
+A212	UMLS-Preferred-Name E49 Coughing
+A213	MEDDRA-PT E49 Cough
+A214	MEDDRA-PT-ID E49 10011224
+A215	CUI E50 C0013404
+A216	UMLS-Preferred-Name E50 Dyspnea
+A217	MEDDRA-PT E50 Dyspnoea
+A218	MEDDRA-PT-ID E50 10013968
+A219	LLT E50 Dyspnea
+A220	LLT-ID E50 10013963
+A221	CUI E51 C0344232
+A222	UMLS-Preferred-Name E51 Blurred vision
+A223	MEDDRA-PT E51 Vision blurred
+A224	MEDDRA-PT-ID E51 10047513
+A225	CUI E52 C0020538
+A226	UMLS-Preferred-Name E52 Hypertensive disease
+A227	MEDDRA-PT E52 Hypertension
+A228	MEDDRA-PT-ID E52 10020772
+A229	CUI E53 C0024312
+A230	UMLS-Preferred-Name E53 Lymphopenia
+A231	MEDDRA-PT E53 Lymphopenia
+A232	MEDDRA-PT-ID E53 10025327
+A233	CUI E54 C0023530
+A234	UMLS-Preferred-Name E54 Leukopenia
+A235	MEDDRA-PT E54 Leukopenia
+A236	MEDDRA-PT-ID E54 10024384
+A237	CUI E55 C0347390
+A238	UMLS-Preferred-Name E55 Skin Papilloma
+A239	MEDDRA-PT E55 Skin papilloma
+A240	MEDDRA-PT-ID E55 10040907
+A241	CUI E56 C0007117
+A242	UMLS-Preferred-Name E56 Basal cell carcinoma
+A243	MEDDRA-PT E56 Basal cell carcinoma
+A244	MEDDRA-PT-ID E56 10004146
+A245	CUI E57 C0012833
+A246	UMLS-Preferred-Name E57 Dizziness
+A247	MEDDRA-PT E57 Dizziness
+A248	MEDDRA-PT-ID E57 10013573
+A249	CUI E58 C0032285
+A250	UMLS-Preferred-Name E58 Pneumonia
+A251	MEDDRA-PT E58 Pneumonia
+A252	MEDDRA-PT-ID E58 10035664
+A253	CUI E59 C0013595
+A254	UMLS-Preferred-Name E59 Eczema
+A255	MEDDRA-PT E59 Eczema
+A256	MEDDRA-PT-ID E59 10014184
+A257	CUI E60 C0033774
+A258	UMLS-Preferred-Name E60 Pruritus
+A259	MEDDRA-PT E60 Pruritus
+A260	MEDDRA-PT-ID E60 10037087
+A261	CUI E61 C0042373
+A262	UMLS-Preferred-Name E61 Vascular Diseases
+A263	MEDDRA-PT E61 Angiopathy
+A264	MEDDRA-PT-ID E61 10059245
+A265	LLT E61 Vascular disorder
+A266	LLT-ID E61 10047059
+A267	CUI E63 C0553692
+A268	UMLS-Preferred-Name E63 Brain hemorrhage
+A269	MEDDRA-PT E63 Haemorrhagic stroke
+A270	MEDDRA-PT-ID E63 10019016
+A271	LLT E63 Hemorrhagic stroke
+A272	LLT-ID E63 10048863
+A273	CUI E64 C1306889
+A274	UMLS-Preferred-Name E64 Peripheral arterial occlusive disease
+A275	MEDDRA-PT E64 Peripheral arterial occlusive disease
+A276	MEDDRA-PT-ID E64 10062585
+A277	CUI E65 C0024299
+A278	UMLS-Preferred-Name E65 Lymphoma
+A279	MEDDRA-PT E65 Lymphoma
+A280	MEDDRA-PT-ID E65 10025310
+A281	CUI E62 C0948008
+A282	UMLS-Preferred-Name E62 Ischemic stroke
+A283	MEDDRA-PT E62 Ischaemic stroke
+A284	MEDDRA-PT-ID E62 10061256
+A285	LLT E62 Ischemic stroke
+A286	LLT-ID E62 10055221
+A287	CUI E66 C0035204
+A288	UMLS-Preferred-Name E66 Respiration Disorders
+A289	MEDDRA-PT E66 Respiratory disorder
+A290	MEDDRA-PT-ID E66 10038683

@@ -1,0 +1,581 @@
+T1	AdverseReaction 95 100	death
+T3	AdverseReaction 436 469;480 487	Candida albicans infection of the pharynx
+T4	AdverseReaction 679 688	pneumonia
+T5	Factor 671 675	risk
+T6	AdverseReaction 793 816	worsening of infections
+T7	Factor 783 792	Potential
+T8	AdverseReaction 793 802;824 845	worsening existing tuberculosis
+T9	AdverseReaction 793 802;847 853;886 896	worsening fungal infections
+T10	AdverseReaction 793 802;855 864;886 896	worsening bacterial infections
+T11	AdverseReaction 793 802;866 871;886 896	worsening viral infections
+T12	AdverseReaction 793 802;876 896	worsening parasitic infections
+T13	AdverseReaction 793 802;898 919	worsening ocular herpes simplex
+T14	AdverseReaction 995 1000	fatal
+T15	AdverseReaction 1011 1021	chickenpox
+T16	Severity 979 986	serious
+T17	AdverseReaction 1025 1032	measles
+T18	Factor 1033 1036	can
+T19	AdverseReaction 1093 1118	impaired adrenal function
+T20	Factor 1085 1089	Risk
+T21	AdverseReaction 1270 1284	Hypercorticism
+T22	AdverseReaction 1289 1308	adrenal suppression
+T23	Factor 1309 1312	may
+T26	AdverseReaction 2209 2214	death
+T28	AdverseReaction 2406 2411	death
+T30	AdverseReaction 3500 3506	deaths
+T31	DrugClass 3395 3399	LABA
+T32	AdverseReaction 3715 3720	death
+T33	DrugClass 3753 3757	LABA
+T35	AdverseReaction 3894 3899	death
+T36	Factor 3828 3845	No trial adequate
+T37	AdverseReaction 4031 4036	death
+T38	Factor 3984 3997	not available
+T39	AdverseReaction 6626 6636	fatalities
+T40	AdverseReaction 7000 7023;7036 7057	infections of the mouth with Candida albicans
+T41	AdverseReaction 7000 7017;7028 7057	infections of the pharynx with Candida albicans
+T42	AdverseReaction 7549 7558	pneumonia
+T43	AdverseReaction 7690 7700	pneumonias
+T44	AdverseReaction 7756 7765	pneumonia
+T45	AdverseReaction 7778 7783	fatal
+T46	AdverseReaction 8131 8140	pneumonia
+T47	AdverseReaction 8427 8436	pneumonia
+T48	Negation 8418 8420	no
+T49	AdverseReaction 8535 8544	pneumonia
+T50	AdverseReaction 8832 8842	Chickenpox
+T51	AdverseReaction 8847 8854	measles
+T52	Severity 8885 8892	serious
+T53	AdverseReaction 8901 8906	fatal
+T54	DrugClass 8954 8969	corticosteroids
+T57	AdverseReaction 13276 13291	HPA dysfunction
+T58	AdverseReaction 13797 13811	hypercorticism
+T59	AdverseReaction 13816 13835	adrenal suppression
+T60	AdverseReaction 13847 13861	adrenal crisis
+T61	Factor 13863 13866	may
+T62	AdverseReaction 14813 14837	paradoxical bronchospasm
+T63	Factor 14801 14804	can
+T64	Severity 14852 14868	life threatening
+T65	Factor 14845 14848	may
+T24	AdverseReaction 15182 15208	Hypersensitivity reactions
+T25	AdverseReaction 15217 15228	anaphylaxis
+T66	AdverseReaction 15230 15240	angioedema
+T67	AdverseReaction 15242 15246	rash
+T68	AdverseReaction 15252 15261	urticaria
+T69	Factor 15262 15265	may
+T70	AdverseReaction 15387 15409	anaphylactic reactions
+T71	DrugClass 15481 15518	powder medications containing lactose
+T72	AdverseReaction 15802 15825	increases in pulse rate
+T73	AdverseReaction 15802 15811;15827 15835;15849 15863	increases systolic blood pressure
+T74	AdverseReaction 15802 15811;15839 15863	increases diastolic blood pressure
+T75	AdverseReaction 15874 15893	cardiac arrhythmias
+T76	AdverseReaction 15903 15931	supraventricular tachycardia
+T77	AdverseReaction 15936 15949	extrasystoles
+T78	Factor 15711 15714	can
+T79	AdverseReaction 16111 16135	flattening of the T wave
+T80	AdverseReaction 16137 16169	prolongation of the QTc interval
+T81	AdverseReaction 16175 16196	ST segment depression
+T82	DrugClass 16029 16042	beta-agonists
+T83	AdverseReaction 16263 16273	Fatalities
+T84	AdverseReaction 16646 16678	prolongation of the QTc interval
+T85	AdverseReaction 16718 16741	ventricular arrhythmias
+T86	Factor 16694 16703	potential
+T87	AdverseReaction 16999 17032	Decreases in bone mineral density
+T88	AdverseReaction 16999 17011;17034 17037	Decreases in BMD
+T89	DrugClass 17119 17134	corticosteroids
+T90	AdverseReaction 18040 18048	Glaucoma
+T91	AdverseReaction 18050 18080	increased intraocular pressure
+T92	AdverseReaction 18086 18095	cataracts
+T93	DrugClass 18197 18212	corticosteroids
+T94	AdverseReaction 18909 18920	hypokalemia
+T95	Factor 18885 18888	may
+T99	AdverseReaction 19051 19078	decrease in serum potassium
+T100	AdverseReaction 19179 19192	hyperglycemia
+T101	DrugClass 19132 19156	Beta-agonist medications
+T102	AdverseReaction 19439 19467	reduction in growth velocity
+T103	DrugClass 54 58	LABA
+T104	Factor 488 491	may
+T105	DrugClass 2100 2104	LABA
+T106	DrugClass 2417 2421	LABA
+T107	DrugClass 6693 6722	inhaled sympathomimetic drugs
+T108	DrugClass 8733 8770	drugs that suppress the immune system
+T109	AdverseReaction 8795 8805	infections
+T55	Factor 13262 13265	may
+T56	AdverseReaction 16073 16101	electrocardiographic changes
+T110	Severity 16623 16645	clinically significant
+T111	AdverseReaction 18746 18785	aggravate preexisting diabetes mellitus
+T112	AdverseReaction 18746 18767;18790 18802	aggravate preexisting ketoacidosis
+T113	DrugClass 18653 18679	beta2-adrenoceptor agonist
+T114	Severity 18897 18908	significant
+T96	Severity 19169 19178	transient
+T98	DrugClass 19396 19426	Orally inhaled corticosteroids
+T2	AdverseReaction 436 475	Candida albicans infection of the mouth
+T115	AdverseReaction 8529 8534	fatal
+T116	AdverseReaction 8421 8426	fatal
+E1	AdverseReaction:T1 Hypothetical:E104
+E3	AdverseReaction:T3 Hypothetical:E105
+E4	AdverseReaction:T4 Hypothetical:E5
+E5	Factor:T5
+E6	AdverseReaction:T6 Hypothetical:E7
+E7	Factor:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15 Effect:E16 Hypothetical:E18
+E16	Severity:T16
+E17	AdverseReaction:T17 Effect:E16 Hypothetical:E18
+E18	Factor:T18
+E19	AdverseReaction:T19 Hypothetical:E20
+E20	Factor:T20
+E21	AdverseReaction:T21 Hypothetical:E23
+E22	AdverseReaction:T22 Hypothetical:E23
+E23	Factor:T23
+E26	AdverseReaction:T26 Hypothetical2:E106
+E28	AdverseReaction:T28 Hypothetical2:E107
+E30	AdverseReaction:T30 Hypothetical:E31
+E31	DrugClass:T31
+E32	AdverseReaction:T32 Hypothetical:E33
+E33	DrugClass:T33
+E35	AdverseReaction:T35 Negated:E36
+E36	Factor:T36
+E37	AdverseReaction:T37 Negated:E38
+E38	Factor:T38
+E39	AdverseReaction:T39 Hypothetical:E108
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47 Negated:E48
+E48	Negation:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50 Effect:E52 Hypothetical:E54
+E51	AdverseReaction:T51 Effect:E52 Hypothetical:E54
+E52	Severity:T52
+E53	AdverseReaction:T53 Hypothetical:E54
+E54	DrugClass:T54
+E57	AdverseReaction:T57 Hypothetical:E55
+E58	AdverseReaction:T58 Hypothetical:E61
+E59	AdverseReaction:T59 Hypothetical:E61
+E60	AdverseReaction:T60 Hypothetical:E61
+E61	Factor:T61
+E62	AdverseReaction:T62 Hypothetical:E63
+E63	Factor:T63
+E64	Severity:T64
+E65	AdverseReaction:T62 Effect:E64 Hypothetical:E66
+E66	Factor:T65
+E24	AdverseReaction:T24 Hypothetical:E70
+E25	AdverseReaction:T25 Hypothetical:E70
+E67	AdverseReaction:T66 Hypothetical:E70
+E68	AdverseReaction:T67 Hypothetical:E70
+E69	AdverseReaction:T68 Hypothetical:E70
+E70	Factor:T69
+E71	AdverseReaction:T70 Hypothetical:E72
+E72	DrugClass:T71
+E73	AdverseReaction:T72 Hypothetical:E79
+E74	AdverseReaction:T73 Hypothetical:E79
+E75	AdverseReaction:T74 Hypothetical:E79
+E76	AdverseReaction:T75 Hypothetical:E79
+E77	AdverseReaction:T76 Hypothetical:E79
+E78	AdverseReaction:T77 Hypothetical:E79
+E79	Factor:T78
+E80	AdverseReaction:T79 Hypothetical:E83
+E81	AdverseReaction:T80 Hypothetical:E83
+E82	AdverseReaction:T81 Hypothetical:E83
+E83	DrugClass:T82
+E84	AdverseReaction:T83
+E85	AdverseReaction:T84 Effect:E111
+E86	AdverseReaction:T85 Hypothetical:E87
+E87	Factor:T86
+E88	AdverseReaction:T87 Hypothetical:E90
+E89	AdverseReaction:T88 Hypothetical:E90
+E90	DrugClass:T89
+E91	AdverseReaction:T90 Hypothetical:E94
+E92	AdverseReaction:T91 Hypothetical:E94
+E93	AdverseReaction:T92 Hypothetical:E94
+E94	DrugClass:T93
+E95	AdverseReaction:T94 Hypothetical:E96 Effect:E115
+E96	Factor:T95
+E100	AdverseReaction:T99
+E101	AdverseReaction:T100 Hypothetical:E102 Effect:E97
+E102	DrugClass:T101
+E103	AdverseReaction:T102 Hypothetical2:E99
+E104	DrugClass:T103
+E105	Factor:T104
+E106	DrugClass:T105
+E107	DrugClass:T106
+E108	DrugClass:T107
+E109	DrugClass:T108
+E110	AdverseReaction:T109 Hypothetical:E109
+E55	Factor:T55
+E56	AdverseReaction:T56 Hypothetical:E83
+E111	Severity:T110
+E112	AdverseReaction:T111 Hypothetical:E114
+E113	AdverseReaction:T112 Hypothetical:E114
+E114	DrugClass:T113
+E115	Severity:T114
+E97	Severity:T96
+E99	DrugClass:T98
+E2	AdverseReaction:T2 Hypothetical:E105
+E116	AdverseReaction:T115
+E117	AdverseReaction:T116 Negated:E48
+A1	CUI E1 C1306577
+A2	UMLS-Preferred-Name E1 Death (finding)
+A3	MEDDRA-PT E1 Death
+A4	MEDDRA-PT-ID E1 10011906
+A5	flag E3 underspecified
+A6	CUI E3 C0343861
+A7	UMLS-Preferred-Name E3 Pharyngeal candidiasis
+A8	MEDDRA-PT E3 Oropharyngeal candidiasis
+A9	MEDDRA-PT-ID E3 10050346
+A10	LLT E3 Pharyngeal candidiasis
+A11	LLT-ID E3 10049651
+A12	CUI E4 C0032285
+A13	UMLS-Preferred-Name E4 Pneumonia
+A14	MEDDRA-PT E4 Pneumonia
+A15	MEDDRA-PT-ID E4 10035664
+A16	CUI E6 C0235737
+A17	UMLS-Preferred-Name E6 Infection aggravated NOS
+A18	MEDDRA-PT E6 Infection
+A19	MEDDRA-PT-ID E6 10021789
+A20	LLT E6 Infection aggravated NOS
+A21	LLT-ID E6 10021792
+A22	CUI E8 C0151960
+A23	UMLS-Preferred-Name E8 Tuberculosis aggravated
+A24	MEDDRA-PT E8 Tuberculosis
+A25	MEDDRA-PT-ID E8 10044755
+A26	LLT E8 Tuberculosis aggravated
+A27	LLT-ID E8 10044757
+A28	CUI E9 C0026946
+A29	UMLS-Preferred-Name E9 Mycoses
+A30	MEDDRA-PT E9 Fungal infection
+A31	MEDDRA-PT-ID E9 10017533
+A32	CUI E10 C0004623
+A33	UMLS-Preferred-Name E10 Bacterial Infections
+A34	MEDDRA-PT E10 Bacterial infection
+A35	MEDDRA-PT-ID E10 10060945
+A36	CUI E11 C0042769
+A37	UMLS-Preferred-Name E11 Virus Diseases
+A38	MEDDRA-PT E11 Viral infection
+A39	MEDDRA-PT-ID E11 10047461
+A40	CUI E12 C0747256
+A41	UMLS-Preferred-Name E12 Parasitic infection
+A42	MEDDRA-PT E12 Infection parasitic
+A43	MEDDRA-PT-ID E12 10021857
+A44	CUI E13 C0494081
+A45	UMLS-Preferred-Name E13 Herpesviral ocular disease
+A46	MEDDRA-PT E13 Ophthalmic herpes simplex
+A47	MEDDRA-PT-ID E13 10073938
+A48	LLT E13 Herpes simplex ophthalmic
+A49	LLT-ID E13 10019958
+A50	CUI E14 C1306577
+A51	UMLS-Preferred-Name E14 Death (finding)
+A52	MEDDRA-PT E14 Death
+A53	MEDDRA-PT-ID E14 10011906
+A54	CUI E15 C0008049
+A55	UMLS-Preferred-Name E15 Chickenpox
+A56	MEDDRA-PT E15 Varicella
+A57	MEDDRA-PT-ID E15 10046980
+A58	LLT E15 Chickenpox
+A59	LLT-ID E15 10008505
+A60	CUI E17 C0025007
+A61	UMLS-Preferred-Name E17 Measles
+A62	MEDDRA-PT E17 Measles
+A63	MEDDRA-PT-ID E17 10027011
+A64	CUI E19 C0549609
+A65	UMLS-Preferred-Name E19 Dysfunction adrenal
+A66	MEDDRA-PT E19 Adrenal disorder
+A67	MEDDRA-PT-ID E19 10001347
+A68	LLT E19 Dysfunction adrenal
+A69	LLT-ID E19 10013900
+A70	CUI E21 C0001622
+A71	UMLS-Preferred-Name E21 Adrenal Gland Hyperfunction
+A72	MEDDRA-PT E21 Hyperadrenocorticism
+A73	MEDDRA-PT-ID E21 10020564
+A74	LLT E21 Adrenal hypercorticism
+A75	LLT-ID E21 10001365
+A76	CUI E22 C0271738
+A77	UMLS-Preferred-Name E22 Hypocortisolism secondary to another disorder
+A78	MEDDRA-PT E22 Adrenal suppression
+A79	MEDDRA-PT-ID E22 10001382
+A80	CUI E26 C1306577
+A81	UMLS-Preferred-Name E26 Death (finding)
+A82	MEDDRA-PT E26 Death
+A83	MEDDRA-PT-ID E26 10011906
+A84	CUI E28 C1306577
+A85	UMLS-Preferred-Name E28 Death (finding)
+A86	MEDDRA-PT E28 Death
+A87	MEDDRA-PT-ID E28 10011906
+A88	CUI E30 C1306577
+A89	UMLS-Preferred-Name E30 Death (finding)
+A90	MEDDRA-PT E30 Death
+A91	MEDDRA-PT-ID E30 10011906
+A92	CUI E32 C1306577
+A93	UMLS-Preferred-Name E32 Death (finding)
+A94	MEDDRA-PT E32 Death
+A95	MEDDRA-PT-ID E32 10011906
+A96	CUI E35 C1306577
+A97	UMLS-Preferred-Name E35 Death (finding)
+A98	MEDDRA-PT E35 Death
+A99	MEDDRA-PT-ID E35 10011906
+A100	CUI E37 C1306577
+A101	UMLS-Preferred-Name E37 Death (finding)
+A102	MEDDRA-PT E37 Death
+A103	MEDDRA-PT-ID E37 10011906
+A104	CUI E39 C1306577
+A105	UMLS-Preferred-Name E39 Death (finding)
+A106	MEDDRA-PT E39 Death
+A107	MEDDRA-PT-ID E39 10011906
+A108	flag E40 duplicate
+A109	CUI E40 C0276680
+A110	UMLS-Preferred-Name E40 Infection by Candida albicans
+A111	MEDDRA-PT E40 Candida infection
+A112	MEDDRA-PT-ID E40 10074170
+A113	LLT E40 Candida albicans infection
+A114	LLT-ID E40 10054230
+A115	flag E41 duplicate
+A116	CUI E41 C0343861
+A117	UMLS-Preferred-Name E41 Pharyngeal candidiasis
+A118	MEDDRA-PT E41 Oropharyngeal candidiasis
+A119	MEDDRA-PT-ID E41 10050346
+A120	LLT E41 Pharyngeal candidiasis
+A121	LLT-ID E41 10049651
+A122	CUI E42 C0032285
+A123	UMLS-Preferred-Name E42 Pneumonia
+A124	MEDDRA-PT E42 Pneumonia
+A125	MEDDRA-PT-ID E42 10035664
+A126	CUI E43 C0032285
+A127	UMLS-Preferred-Name E43 Pneumonia
+A128	MEDDRA-PT E43 Pneumonia
+A129	MEDDRA-PT-ID E43 10035664
+A130	CUI E44 C0032285
+A131	UMLS-Preferred-Name E44 Pneumonia
+A132	MEDDRA-PT E44 Pneumonia
+A133	MEDDRA-PT-ID E44 10035664
+A134	CUI E45 C1306577
+A135	UMLS-Preferred-Name E45 Death (finding)
+A136	MEDDRA-PT E45 Death
+A137	MEDDRA-PT-ID E45 10011906
+A138	CUI E46 C0032285
+A139	UMLS-Preferred-Name E46 Pneumonia
+A140	MEDDRA-PT E46 Pneumonia
+A141	MEDDRA-PT-ID E46 10035664
+A142	CUI E47 C0032285
+A143	UMLS-Preferred-Name E47 Pneumonia
+A144	MEDDRA-PT E47 Pneumonia
+A145	MEDDRA-PT-ID E47 10035664
+A146	CUI E49 C0032285
+A147	UMLS-Preferred-Name E49 Pneumonia
+A148	MEDDRA-PT E49 Pneumonia
+A149	MEDDRA-PT-ID E49 10035664
+A150	CUI E50 C0008049
+A151	UMLS-Preferred-Name E50 Chickenpox
+A152	MEDDRA-PT E50 Varicella
+A153	MEDDRA-PT-ID E50 10046980
+A154	LLT E50 Chickenpox
+A155	LLT-ID E50 10008505
+A156	CUI E51 C0025007
+A157	UMLS-Preferred-Name E51 Measles
+A158	MEDDRA-PT E51 Measles
+A159	MEDDRA-PT-ID E51 10027011
+A160	CUI E53 C1306577
+A161	UMLS-Preferred-Name E53 Death (finding)
+A162	MEDDRA-PT E53 Death
+A163	MEDDRA-PT-ID E53 10011906
+A164	CUI E57 C2711029
+A165	UMLS-Preferred-Name E57 Hypothalamic-pituitary-adrenal axis dysfunction
+A166	MEDDRA-PT E57 Hypothalamic pituitary adrenal axis suppression
+A167	MEDDRA-PT-ID E57 10074052
+A168	CUI E58 C0001622
+A169	UMLS-Preferred-Name E58 Adrenal Gland Hyperfunction
+A170	MEDDRA-PT E58 Hyperadrenocorticism
+A171	MEDDRA-PT-ID E58 10020564
+A172	LLT E58 Adrenal hypercorticism
+A173	LLT-ID E58 10001365
+A174	CUI E59 C0271738
+A175	UMLS-Preferred-Name E59 Hypocortisolism secondary to another disorder
+A176	MEDDRA-PT E59 Adrenal suppression
+A177	MEDDRA-PT-ID E59 10001382
+A178	CUI E60 C0151467
+A179	UMLS-Preferred-Name E60 Addisonian crisis
+A180	MEDDRA-PT E60 Adrenocortical insufficiency acute
+A181	MEDDRA-PT-ID E60 10001389
+A182	LLT E60 Adrenal crisis
+A183	LLT-ID E60 10001346
+A184	CUI E62 C0236072
+A185	UMLS-Preferred-Name E62 Paradoxical bronchospasm
+A186	MEDDRA-PT E62 Bronchospasm paradoxical
+A187	MEDDRA-PT-ID E62 10006486
+A188	LLT E62 Paradoxical bronchospasm
+A189	LLT-ID E62 10033770
+A190	CUI E24 C0020517
+A191	UMLS-Preferred-Name E24 Hypersensitivity
+A192	MEDDRA-PT E24 Hypersensitivity
+A193	MEDDRA-PT-ID E24 10020751
+A194	LLT E24 Hypersensitivity reaction
+A195	LLT-ID E24 10020756
+A196	CUI E25 C0002792
+A197	UMLS-Preferred-Name E25 anaphylaxis
+A198	MEDDRA-PT E25 Anaphylactic reaction
+A199	MEDDRA-PT-ID E25 10002198
+A200	LLT E25 Anaphylaxis
+A201	LLT-ID E25 10002218
+A202	CUI E67 C0002994
+A203	UMLS-Preferred-Name E67 Angioedema
+A204	MEDDRA-PT E67 Angioedema
+A205	MEDDRA-PT-ID E67 10002424
+A206	CUI E68 C0015230
+A207	UMLS-Preferred-Name E68 Exanthema
+A208	MEDDRA-PT E68 Rash
+A209	MEDDRA-PT-ID E68 10037844
+A210	CUI E69 C0042109
+A211	UMLS-Preferred-Name E69 Urticaria
+A212	MEDDRA-PT E69 Urticaria
+A213	MEDDRA-PT-ID E69 10046735
+A214	CUI E71 C0002792
+A215	UMLS-Preferred-Name E71 anaphylaxis
+A216	MEDDRA-PT E71 Anaphylactic reaction
+A217	MEDDRA-PT-ID E71 10002198
+A218	CUI E73 C0039231
+A219	UMLS-Preferred-Name E73 Tachycardia
+A220	MEDDRA-PT E73 Heart rate increased
+A221	MEDDRA-PT-ID E73 10019303
+A222	LLT E73 Pulse rate increased
+A223	LLT-ID E73 10037490
+A224	CUI E74 C0277884
+A225	UMLS-Preferred-Name E74 Increased systolic arterial pressure
+A226	MEDDRA-PT E74 Blood pressure systolic increased
+A227	MEDDRA-PT-ID E74 10005760
+A228	CUI E75 C0277889
+A229	UMLS-Preferred-Name E75 Increased diastolic arterial pressure
+A230	MEDDRA-PT E75 Blood pressure diastolic increased
+A231	MEDDRA-PT-ID E75 10005739
+A232	CUI E76 C0003811
+A233	UMLS-Preferred-Name E76 Cardiac Arrhythmia
+A234	MEDDRA-PT E76 Arrhythmia
+A235	MEDDRA-PT-ID E76 10003119
+A236	LLT E76 Cardiac arrhythmia
+A237	LLT-ID E76 10007518
+A238	CUI E77 C0039240
+A239	UMLS-Preferred-Name E77 Supraventricular tachycardia
+A240	MEDDRA-PT E77 Supraventricular tachycardia
+A241	MEDDRA-PT-ID E77 10042604
+A242	CUI E78 C0340464
+A243	UMLS-Preferred-Name E78 Premature Cardiac Complex
+A244	MEDDRA-PT E78 Extrasystoles
+A245	MEDDRA-PT-ID E78 10015856
+A246	CUI E80 C0429059
+A247	UMLS-Preferred-Name E80 Flattened T wave (finding)
+A248	MEDDRA-PT E80 Electrocardiogram T wave amplitude decreased
+A249	MEDDRA-PT-ID E80 10014394
+A250	LLT E80 T wave flattening of
+A251	LLT-ID E80 10042965
+A252	CUI E81 C0855333
+A253	UMLS-Preferred-Name E81 Electrocardiogram QT corrected interval prolonged
+A254	MEDDRA-PT E81 Electrocardiogram QT prolonged
+A255	MEDDRA-PT-ID E81 10014387
+A256	LLT E81 Electrocardiogram QTc interval prolonged
+A257	LLT-ID E81 10053698
+A258	CUI E82 C0520887
+A259	UMLS-Preferred-Name E82 ST segment depression (finding)
+A260	MEDDRA-PT E82 Electrocardiogram ST segment depression
+A261	MEDDRA-PT-ID E82 10014391
+A262	LLT E82 ST segment depression
+A263	LLT-ID E82 10041892
+A264	CUI E84 C1306577
+A265	UMLS-Preferred-Name E84 Death (finding)
+A266	MEDDRA-PT E84 Death
+A267	MEDDRA-PT-ID E84 10011906
+A268	CUI E85 C0855333
+A269	UMLS-Preferred-Name E85 Electrocardiogram QT corrected interval prolonged
+A270	MEDDRA-PT E85 Electrocardiogram QT prolonged
+A271	MEDDRA-PT-ID E85 10014387
+A272	LLT E85 Electrocardiogram QTc interval prolonged
+A273	LLT-ID E85 10053698
+A274	CUI E86 C0085612
+A275	UMLS-Preferred-Name E86 Ventricular arrhythmia
+A276	MEDDRA-PT E86 Ventricular arrhythmia
+A277	MEDDRA-PT-ID E86 10047281
+A278	CUI E88 C0877225
+A279	UMLS-Preferred-Name E88 Bone density decreased
+A280	MEDDRA-PT E88 Bone density decreased
+A281	MEDDRA-PT-ID E88 10049470
+A282	CUI E89 C0877225
+A283	UMLS-Preferred-Name E89 Bone density decreased
+A284	MEDDRA-PT E89 Bone density decreased
+A285	MEDDRA-PT-ID E89 10049470
+A286	CUI E91 C0017601
+A287	UMLS-Preferred-Name E91 Glaucoma
+A288	MEDDRA-PT E91 Glaucoma
+A289	MEDDRA-PT-ID E91 10018304
+A290	CUI E92 C0234708
+A291	UMLS-Preferred-Name E92 Raised intraocular pressure
+A292	MEDDRA-PT E92 Intraocular pressure increased
+A293	MEDDRA-PT-ID E92 10022806
+A294	LLT E92 Increased intraocular pressure
+A295	LLT-ID E92 10021667
+A296	CUI E93 C0086543
+A297	UMLS-Preferred-Name E93 Cataract
+A298	MEDDRA-PT E93 Cataract
+A299	MEDDRA-PT-ID E93 10007739
+A300	LLT E93 Cataracts
+A301	LLT-ID E93 10007771
+A302	CUI E95 C0020621
+A303	UMLS-Preferred-Name E95 Hypokalemia
+A304	MEDDRA-PT E95 Hypokalaemia
+A305	MEDDRA-PT-ID E95 10021015
+A306	LLT E95 Hypokalemia
+A307	LLT-ID E95 10021018
+A308	CUI E100 C0595885
+A309	UMLS-Preferred-Name E100 Serum potassium decreased
+A310	MEDDRA-PT E100 Blood potassium decreased
+A311	MEDDRA-PT-ID E100 10005724
+A312	LLT E100 Serum potassium decreased
+A313	LLT-ID E100 10040378
+A314	CUI E101 C0020456
+A315	UMLS-Preferred-Name E101 Hyperglycemia
+A316	MEDDRA-PT E101 Hyperglycaemia
+A317	MEDDRA-PT-ID E101 10020635
+A318	LLT E101 Hyperglycemia
+A319	LLT-ID E101 10020639
+A320	CUI E103 C0151686
+A321	UMLS-Preferred-Name E103 Growth retardation
+A322	MEDDRA-PT E103 Growth retardation
+A323	MEDDRA-PT-ID E103 10053759
+A324	CUI E110 C3714514
+A325	UMLS-Preferred-Name E110 Infection
+A326	MEDDRA-PT E110 Infection
+A327	MEDDRA-PT-ID E110 10021789
+A328	CUI E56 C0855329
+A329	UMLS-Preferred-Name E56 Electrocardiographic changes
+A330	MEDDRA-PT E56 Electrocardiogram change
+A331	MEDDRA-PT-ID E56 10061116
+A332	CUI E112 C0235398
+A333	UMLS-Preferred-Name E112 Diabetes mellitus exacerbated
+A334	MEDDRA-PT E112 Diabetes mellitus
+A335	MEDDRA-PT-ID E112 10012601
+A336	LLT E112 Diabetes mellitus aggravated
+A337	LLT-ID E112 10012603
+A338	CUI E113 C0220982
+A339	UMLS-Preferred-Name E113 Ketoacidosis
+A340	MEDDRA-PT E113 Ketoacidosis
+A341	MEDDRA-PT-ID E113 10023379
+A342	flag E2 duplicate
+A343	CUI E2 C1142268
+A344	UMLS-Preferred-Name E2 Oral yeast infection
+A345	MEDDRA-PT E2 Oral fungal infection
+A346	MEDDRA-PT-ID E2 10061324
+A347	LLT E2 Yeast infection of the mouth
+A348	LLT-ID E2 10058087
+A349	CUI E116 C1306577
+A350	UMLS-Preferred-Name E116 Death (finding)
+A351	MEDDRA-PT E116 Death
+A352	MEDDRA-PT-ID E116 10011906
+A353	CUI E117 C1306577
+A354	UMLS-Preferred-Name E117 Death (finding)
+A355	MEDDRA-PT E117 Death
+A356	MEDDRA-PT-ID E117 10011906

@@ -1,0 +1,65 @@
+00000000|MMI|210.15|Asthma|C0004096|[dsyn]|["-- Asthma"-tx-16-"asthma"-noun-0,"-- Asthma"-tx-14-"asthma"-noun-1,"-- Asthma"-tx-13-"asthma"-noun-0,"-- Asthma"-tx-12-"asthma"-noun-1,"-- Asthma"-tx-11-"asthma"-noun-0,"-- Asthma"-tx-10-"asthma"-noun-0,"-- Asthma"-tx-8-"Asthma"-noun-0,"-- Asthma"-tx-8-"asthma"-noun-0]|TX|2076/6;2020/6;1929/6;1768/6;1586/6;[1347/6],[1385/6];817/6;[917/6],[1012/6]|C08.127.108;C08.381.495.108;C08.674.095;C20.543.480.680.095
+00000000|MMI|84.63|Chronic Obstructive Airway Disease|C0024117|[dsyn]|["-- COPD"-tx-30-"COPD"-noun-0,"-- COPD"-tx-28-"COPD"-noun-0,"-- COPD"-tx-20-"COPD"-noun-1,"-- COPD"-tx-19-"COPD"-noun-1,"-- COPD"-tx-9-"COPD"-noun-0,"-- COPD"-tx-1-"COPD"-noun-1]|TX|4069/4;3636/4;2631/4;2505/4;1113/4;100/4|C08.381.495.389
+00000000|MMI|33.49|Discontinued|C1444662|[fndg]|["Discontinued"-tx-39-"discontinued"-verb-0,"Discontinued"-tx-37-"discontinued"-verb-0,"Discontinued"-tx-35-"discontinued"-verb-0,"Discontinue"-tx-25-"discontinue"-verb-0,"Discontinue"-tx-6-"Discontinue"-verb-0,"Discontinue"-tx-4-"Discontinue"-verb-0]|TX|5720/12;5349/12;5056/12;3222/11;608/11;515/11|
+00000000|MMI|30.22|Disease|C0012634|[dsyn]|["condition"-tx-42-"Conditions"-verb-0,"DISEASE"-tx-27-"disease"-noun-0,"condition"-tx-19-"condition"-noun-1]|TX|6199/10;3575/7;2543/9|C23.550.288
+00000000|MMI|29.46|Thyrotoxicosis|C0040156|[dsyn]|["THYROTOXICOSIS"-tx-42-"thyrotoxicosis"-noun-0,"THYROTOXICOSIS"-tx-7-"thyrotoxicosis"-noun-0]|TX|6337/14;722/14|C19.874.397.685
+00000000|MMI|26.74|Related personal status|C0445223|[fndg]|["Related"-tx-43-"related"-adj-0,"Related"-tx-16-"related"-adj-0,"Related"-tx-12-"related"-adj-1,"Related"-tx-11-"related"-adj-0,"Related"-tx-10-"related"-adj-0,"Related"-tx-8-"Related"-adj-0,"Related"-tx-8-"related"-adj-0]|TX|6438/7;2083/7;1775/7;1593/7;1392/7;824/7;1019/7|
+00000000|MMI|26.26|Hypokalemia|C0020621|[fndg]|["HYPOKALEMIA"-tx-44-"Hypokalemia"-noun-0,"HYPOKALEMIA"-tx-44-"hypokalemia"-noun-0]|TX|6601/11;6686/11|C18.452.950.565
+00000000|MMI|23.47|Chronic obstructive pulmonary disease of horses|C3714496|[dsyn]|["COPD"-tx-30-"COPD"-noun-0,"COPD"-tx-28-"COPD"-noun-0,"COPD"-tx-20-"COPD"-noun-1,"COPD"-tx-19-"COPD"-noun-1,"COPD"-tx-9-"COPD"-noun-0,"COPD"-tx-1-"COPD"-noun-1]|TX|4069/4;3636/4;2631/4;2505/4;1113/4;100/4|
+00000000|MMI|23.36|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-38-"symptoms"-noun-0,"SYMPTOMS"-tx-29-"symptoms"-noun-1,"SYMPTOMS"-tx-24-"symptoms"-noun-0,"SYMPTOMS"-tx-23-"symptoms"-noun-1,"SYMPTOMS"-tx-22-"symptoms"-noun-1,"SYMPTOMS"-tx-1-"symptoms"-noun-1]|TX|5655/8;3775/8;2979/8;2911/8;2764/8;160/8|
+00000000|MMI|20.02|Immediate hypersensitivity|C0020523|[patf]|["Immediate Hypersensitivity reactions"-tx-34-"Immediate Hypersensitivity Reactions"-noun-0,"Immediate Hypersensitivity reactions"-tx-3-"Immediate hypersensitivity reactions"-noun-0]|TX|4737/36;467/36|C20.543.480
+00000000|MMI|19.93|Worse|C1457868|[fndg]|["Deteriorate"-tx-28-"deteriorate"-verb-0,"deteriorating"-tx-27-"deteriorating"-adj-0,"deteriorating"-tx-20-"deteriorating"-verb-1,"deteriorating"-tx-19-"deteriorating"-verb-1,"deteriorating"-tx-1-"deteriorating"-verb-1]|TX|3645/11;3561/13;2617/13;2491/13;86/13|
+00000000|MMI|18.46|Death (finding)|C1306577|[fndg]|["Death"-tx-16-"death"-noun-0,"Death"-tx-11-"death"-noun-0,"DEATHS"-tx-10-"deaths"-noun-0,"Death"-tx-8-"Death"-noun-0,"Death"-tx-8-"death"-noun-0]|TX|2109/5;1601/5;1400/6;832/5;1027/5|
+00000000|MMI|17.80|Ketoacidosis|C0220982|[patf]|["KETOACIDOSIS"-tx-43-"ketoacidosis"-noun-0]|TX|6571/12|C18.452.076.176.652
+00000000|MMI|17.80|Ketosis|C0022638|[dsyn]|["Ketoacidosis"-tx-43-"ketoacidosis"-noun-0]|TX|6571/12|C18.452.076.176.652
+00000000|MMI|15.79|Used by|C1273517|[fndg]|["used"-tx-32-"used"-verb-1,"used"-tx-26-"used"-verb-0,"used"-tx-2-"used"-verb-0]|TX|4414/4;3503/4;217/4|
+00000000|MMI|15.78|Paradoxical bronchospasm|C0236072|[patf]|["Paradoxical bronchospasm"-tx-37-"paradoxical bronchospasm"-noun-0,"Paradoxical bronchospasm"-tx-36-"Paradoxical Bronchospasm"-noun-0,"Paradoxical bronchospasm"-tx-36-"paradoxical bronchospasm"-noun-0,"Paradoxical bronchospasm"-tx-5-"paradoxical bronchospasm"-noun-0]|TX|5289/24;5134/24;5231/24;572/24|
+00000000|MMI|14.64|Diabetes Mellitus|C0011849|[dsyn]|["DIABETES MELLITUS"-tx-48-"diabetes mellitus"-noun-1]|TX|7327/17|C18.452.394.750;C19.246
+00000000|MMI|14.64|Drug Overdose|C0029944|[inpo]|["OVERDOSE"-tx-32-"overdose"-noun-0]|TX|4551/8|C25.775.383;E02.319.754.500
+00000000|MMI|14.64|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-35-"urticaria"-noun-0]|TX|5000/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|14.49|Feeling relief|C0564405|[fndg]|["Relief"-tx-23-"relief"-noun-1,"Relief"-tx-22-"relief"-noun-1,"Relief"-tx-2-"relief"-noun-0,"Relief"-tx-1-"relief"-noun-1]|TX|2895/6;2748/6;242/6;144/6|
+00000000|MMI|13.83|Hypersensitivity|C0020517|[patf]|["Allergic reactions"-tx-35-"allergic reactions"-noun-0,"Sensitivity"-tx-7-"sensitivity"-noun-0]|TX|4889/18;740/11|C20.543
+00000000|MMI|13.06|Dyspnea|C0013404|[sosy]|["Breathing Difficulties"-tx-35-"difficulties breathing"-noun-0]|TX|4924/12,4940/9|C08.618.326;C23.888.852.371
+00000000|MMI|12.93|Hyperglycemia|C0020456|[dsyn]|["HYPERGLYCEMIA"-tx-44-"Hyperglycemia"-noun-0]|TX|6617/13|C18.452.394.952
+00000000|MMI|11.49|Cardiac Arrhythmia|C0003811|[fndg]|["Cardiac Arrhythmias"-tx-41-"cardiac arrhythmias"-noun-0]|TX|6134/19|C14.280.067;C23.550.073
+00000000|MMI|11.49|Exanthema|C0015230|[sosy]|["Skin Rash"-tx-35-"skin rash"-noun-0]|TX|5011/9|C17.800.257
+00000000|MMI|11.49|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-41-"hypertension"-noun-0]|TX|6159/12|C14.907.489
+00000000|MMI|11.00|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-36-"life-threatening"-adj-0,"Life Threatening"-tx-19-"life-threatening"-adj-1,"Life Threatening"-tx-5-"Life-threatening"-adj-0]|TX|5268/16;2526/16;555/16|
+00000000|MMI|11.00|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-36-"life-threatening"-adj-0,"LIFE THREATENING"-tx-19-"life-threatening"-adj-1,"LIFE THREATENING"-tx-5-"Life-threatening"-adj-0]|TX|5268/16;2526/16;555/16|
+00000000|MMI|11.00|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-36-"life-threatening"-adj-0,"LIFE THREATENING"-tx-19-"life-threatening"-adj-1,"LIFE THREATENING"-tx-5-"Life-threatening"-adj-0]|TX|5268/16;2526/16;555/16|
+00000000|MMI|9.87|Signs and Symptoms, Respiratory|C0037090|[sosy]|["Respiratory symptoms NOS"-tx-25-"respiratory symptoms"-noun-0]|TX|3315/20|C23.888.852
+00000000|MMI|9.73|Bronchial Spasm|C0006266|[dsyn]|["BRONCHOSPASM"-tx-22-"bronchospasm"-noun-0]|TX|2836/12|C08.127.321
+00000000|MMI|8.34|Allergic Reaction|C1527304|[patf]|["Reactions, Allergic"-tx-35-"allergic reactions"-noun-0]|TX|4889/18|C20.543
+00000000|MMI|7.46|Experimental Result|C2825142|[fndg]|["Result"-tx-32-"result"-verb-0,"Result"-tx-3-"result"-verb-0]|TX|4564/6;379/6|
+00000000|MMI|7.46|Indicated|C1444656|[fndg]|["Indicated"-tx-27-"indicated"-verb-0,"Indicated"-tx-14-"indicated"-verb-1]|TX|3621/9;1989/9|
+00000000|MMI|7.31|5-6|C3843715|[fndg]|["5-6"-tx-38-"5.6"-real_number-0,"5-6"-tx-8-"5.6"-real_number-0]|TX|5417/3;781/3|
+00000000|MMI|7.31|6/5|C0442749|[fndg]|["5 6"-tx-38-"5.6"-real_number-0,"5 6"-tx-8-"5.6"-real_number-0]|TX|5417/3;781/3|
+00000000|MMI|7.29|Convulsive disorder|C0234972|[dsyn]|["convulsive disorders"-tx-42-"convulsive disorders"-noun-0,"convulsive disorders"-tx-7-"convulsive disorders"-noun-0]|TX|6313/20;700/20|
+00000000|MMI|6.60|Signs and Symptoms|C0037088|[sosy]|["Clinical findings"-tx-40-"clinical findings"-noun-0]|TX|5912/8,5943/8|C23.888
+00000000|MMI|5.18|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-18-"Adverse Reactions"-noun-0]|TX|2327/17|
+00000000|MMI|5.18|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-3-"fatal"-adj-0]|TX|446/5|
+00000000|MMI|5.18|Does swallow|C0740170|[fndg]|["Swallowing"-tx-35-"swallowing"-noun-0]|TX|4953/10|
+00000000|MMI|5.18|H/O: diabetes mellitus|C0455488|[fndg]|["Pre-existing diabetes mellitus"-tx-43-"pre-existing diabetes mellitus"-noun-0]|TX|6536/30|
+00000000|MMI|5.18|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-41-"hypertension"-noun-0]|TX|6159/12|
+00000000|MMI|5.18|Overdose|C4018909|[fndg]|["Overdose"-tx-32-"overdose"-noun-0]|TX|4551/8|
+00000000|MMI|5.18|Physical findings|C0311392|[fndg]|["SIGNS"-tx-35-"signs"-noun-0]|TX|4872/5|
+00000000|MMI|5.18|ST segment depression (finding)|C0520887|[fndg]|["ST Segment Depression"-tx-40-"ST segment depression"-noun-0]|TX|5876/21|
+00000000|MMI|5.18|Symptom aggravating factors|C0436331|[fndg]|["aggravate"-tx-43-"aggravate"-verb-0]|TX|6526/9|
+00000000|MMI|5.18|Tongue swelling|C0236068|[patf]|["Swelling of tongue"-tx-35-"swelling of tongue"-noun-0]|TX|4965/18|
+00000000|MMI|5.18|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-35-"urticaria"-noun-0]|TX|5000/9|
+00000000|MMI|4.12|Electrocardiographic changes|C0855329|[fndg]|["ecg change"-tx-40-"ECG changes"-noun-0]|TX|5791/11|
+00000000|MMI|4.12|Extra dose|C3845824|[fndg]|["Extra dose"-tx-23-"extra doses"-noun-1]|TX|2924/11|
+00000000|MMI|3.78|Adverse effects|C0879626|[patf]|["Adverse effects"-tx-44-"adverse effects"-noun-0]|TX|6792/7,6815/7|
+00000000|MMI|3.75|Coronary artery insufficiency|C0542052|[dsyn]|["CORONARY INSUFFICIENCY"-tx-41-"coronary insufficiency"-noun-0]|TX|6110/22|
+00000000|MMI|3.75|Not well|C3841798|[fndg]|["Not well"-tx-48-"not well"-adj-0]|TX|7348/8|
+00000000|MMI|3.68|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-10-"3"-fraction-0]|TX|1491/1|
+00000000|MMI|3.64|Flattened T wave (finding)|C0429059|[fndg]|["T wave flattening of"-tx-40-"flattening of T wave"-noun-0]|TX|5812/13,5830/6|
+00000000|MMI|3.63|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-48-"controlled"-adj-1]|TX|7357/10|
+00000000|MMI|3.60|Electrocardiogram QT corrected interval prolonged|C0855333|[fndg]|["QTC PROLONGATION"-tx-40-"prolongation QTc"-noun-0]|TX|5838/12,5858/3|
+00000000|MMI|3.59|Clinical Significance|C2826293|[fndg]|["Clinical Significance"-tx-40-"clinical significance"-noun-0]|TX|5912/21|
+00000000|MMI|3.58|medication use|C0240320|[fndg]|["medications use"-tx-3-"use medications"-noun-0]|TX|317/3,347/11|
+00000000|MMI|3.57|Antimicrobial susceptibility|C0427965|[fndg]|["Sensitivity"-tx-7-"sensitivity"-noun-0]|TX|740/11|
+00000000|MMI|3.56|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-10-"therapy"-noun-0]|TX|1354/7|
+00000000|MMI|3.46|Cardiovascular Diseases|C0007222|[dsyn]|["CARDIOVASCULAR DISORDERS"-tx-41-"cardiovascular disorders"-noun-0]|TX|6073/24|C14
+00000000|MMI|3.44|Exacerbation of asthma|C0349790|[fndg]|["asthma exacerbation"-tx-17-"asthma exacerbation"-noun-1]|TX|2267/19|
+00000000|MMI|3.44|sympathomimetic disorder|C1323099|[dsyn]|["SYMPATHOMIMETIC"-tx-7-"sympathomimetic"-adj-0]|TX|755/15|

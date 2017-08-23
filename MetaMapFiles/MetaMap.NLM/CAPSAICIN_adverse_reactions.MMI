@@ -1,0 +1,75 @@
+00000000|MMI|92.00|Disease|C0012634|[dsyn]|["Disorder"-tx-15-"Disorder"-noun-0,"Disorders"-tx-15-"Disorders"-noun-0,"condition"-tx-15-"Conditions"-noun-0,"condition"-tx-15-"Conditions"-verb-0,"condition"-tx-3-"conditions"-noun-0]|TX|4425/8;[2763/9],[4623/9],[4928/9],[5533/9];[2797/10],[4962/10];[2797/10],[4962/10];707/10|C23.550.288
+00000000|MMI|49.16|Pain|C0030193|[sosy]|["PAIN"-tx-12-"Pain"-noun-0,"PAIN"-tx-11-"pain"-noun-0,"PAIN"-tx-1-"Pain"-noun-0]|TX|2057/4;1971/4;135/4|C10.597.617;C23.888.592.612;F02.830.816.444;G11.561.600.810.444
+00000000|MMI|47.59|Adverse reactions|C0559546|[patf]|["ADVERSE REACTION"-tx-15-"adverse reaction"-noun-0,"Adverse reactions"-tx-15-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-14-"adverse reactions"-noun-0,"Adverse reactions"-tx-9-"adverse reactions"-noun-0,"Adverse reactions"-tx-8-"Adverse Reactions"-noun-0,"ADVERSE REACTION"-tx-3-"adverse reaction"-noun-0,"Adverse reactions"-tx-2-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|2440/16;4848/17;2340/17;1685/17;1399/17;719/16;489/17;6/17;[49/17],[292/17]|
+00000000|MMI|38.78|Postherpetic neuralgia|C0032768|[dsyn]|["Postherpetic Neuralgia"-tx-15-"Postherpetic Neuralgia"-noun-0,"Postherpetic Neuralgia"-tx-9-"postherpetic neuralgia"-noun-0]|TX|2495/22;1765/22|C10.597.617.682.550;C10.668.829.600.550;C23.888.592.612.664.550
+00000000|MMI|27.72|1+|C3816745|[fndg]|["1+"-tx-15-"1"-integer-0,"1+"-tx-15-"1"-percentage-0,"1+"-tx-9-"1"-percentage-0,"1+"-tx-7-"1"-percentage-0]|TX|[2532/1],[3395/1],[3613/1],[4376/1],[4812/1];[2532/1],[3395/1],[3613/1],[4376/1],[4812/1];1745/1;1293/1|
+00000000|MMI|20.95|Dysgeusia|C0013378|[fndg]|["DYSGEUSIA"-tx-15-"Dysgeusia"-noun-0]|TX|5383/9|C10.597.751.861.479;C23.888.592.763.861.479
+00000000|MMI|20.95|Hyperesthesia|C0020453|[sosy]|["HYPERESTHESIA"-tx-15-"Hyperesthesia"-noun-0]|TX|5394/13|C10.597.751.791.450;C23.888.592.763.770.450
+00000000|MMI|20.00|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-15-"Hypertension"-noun-0,"vascular hypertension"-tx-15-"Vascular Hypertension"-noun-0]|TX|4721/12;4614/8,4721/12|C14.907.489
+00000000|MMI|19.98|Edema|C0013604|[fndg]|["OEDEMA"-tx-15-"edema"-noun-0,"SWELLING"-tx-15-"Swelling"-verb-0]|TX|5276/5;3430/8|C23.888.277
+00000000|MMI|19.25|Hypesthesia|C0020580|[fndg]|["HYPOESTHESIA"-tx-15-"Hypoesthesia"-noun-0]|TX|5409/12|C10.597.751.791.500;C23.888.592.763.770.500
+00000000|MMI|17.80|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-15-"Dizziness"-noun-0]|TX|5372/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|17.80|Headache|C0018681|[sosy]|["HEADACHE"-tx-15-"Headache"-noun-0]|TX|5312/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|17.80|Vertigo|C0042571|[sosy]|["dizziness"-tx-15-"Dizziness"-noun-0]|TX|5372/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|14.64|Coughing|C0010200|[sosy]|["COUGH"-tx-15-"Cough"-noun-0]|TX|5475/5|C08.618.248;C23.888.852.293
+00000000|MMI|14.64|Vomiting|C0042963|[sosy]|["VOMITING"-tx-15-"Vomiting"-verb-0]|TX|4285/8|C23.888.821.937
+00000000|MMI|13.09|Bronchitis|C0006277|[dsyn]|["BRONCHITIS"-tx-15-"Bronchitis"-noun-0]|TX|3849/10|C08.127.446;C08.381.495.146;C08.730.099
+00000000|MMI|13.09|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-15-"Nasopharyngitis"-noun-0]|TX|3740/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|13.09|Sinusitis|C0037199|[dsyn]|["SINUSITIS"-tx-15-"Sinusitis"-noun-0]|TX|3958/9|C08.460.692.752;C08.730.749;C09.603.692.752
+00000000|MMI|13.07|Nausea|C0027497|[sosy]|["NAUSEA"-tx-15-"Nausea"-noun-0]|TX|4176/6|C23.888.821.712
+00000000|MMI|13.07|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-15-"Pruritus"-noun-0]|TX|4503/8|C17.800.685;C23.888.885.625
+00000000|MMI|12.29|Application site erythema|C0853700|[inpo]|["Application site erythema"-tx-15-"Application Site Erythema"-noun-0,"Application site erythema"-tx-8-"application site erythema"-noun-0,"Application site erythema"-tx-1-"application site erythema"-noun-0]|TX|2868/25;1552/25;347/25|
+00000000|MMI|12.04|Application site pain|C0521491|[sosy]|["Application site pain"-tx-15-"Application Site Pain"-noun-0,"Application site pain"-tx-8-"application site pain"-noun-0,"Application site pain"-tx-1-"application site pain"-noun-0]|TX|2977/21;1579/21;374/21|
+00000000|MMI|12.04|Application site papules|C0877127|[sosy]|["Application site papules"-tx-15-"Application Site Papules"-noun-0,"Application site papules"-tx-8-"application site papules"-noun-0,"Application site papules"-tx-1-"application site papules"-noun-0]|TX|3195/24;1632/24;427/24|
+00000000|MMI|12.04|Application site pruritus|C0853714|[sosy]|["Application site pruritus"-tx-15-"Application Site Pruritus"-noun-0,"Application site pruritus"-tx-8-"application site pruritus"-noun-0,"Application site pruritus"-tx-1-"application site pruritus"-noun-0]|TX|3086/25;1602/25;397/25|
+00000000|MMI|11.79|2+|C3833492|[fndg]|["2+"-tx-15-"2"-integer-0]|TX|[3477/1],[3831/1],[4267/1]|
+00000000|MMI|11.49|Mediastinal Diseases|C0025061|[dsyn]|["Mediastinal Disorders"-tx-15-"Mediastinal Disorders"-noun-0]|TX|5452/21|C08.846.187
+00000000|MMI|10.85|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-8-"Controlled"-adj-0,"Controlled"-tx-6-"controlled"-adj-0,"Controlled"-tx-4-"controlled"-verb-0]|TX|1354/10;1150/10;935/10|
+00000000|MMI|10.71|Pain NOS Adverse Event|C1962977|[fndg]|["Pain NOS"-tx-12-"Pain"-noun-0,"Pain NOS"-tx-11-"pain"-noun-0,"Pain NOS"-tx-1-"Pain"-noun-0]|TX|2057/4;1971/4;135/4|
+00000000|MMI|10.14|Peripheral Neuropathy|C0031117|[dsyn]|["Peripheral Nervous System Disorders"-tx-15-"Peripheral Nervous System Disorders"-noun-0]|TX|5265/10,5286/24|C10.668.829
+00000000|MMI|7.53|1-2|C3843716|[fndg]|["1-2"-tx-15-"1 2"-integer-0]|TX|[3504/1,3586/1],[4595/1,4785/1]|
+00000000|MMI|7.16|Plaque (lesion)|C0332461|[fndg]|["Patch"-tx-12-"patch"-noun-0,"Patch"-tx-6-"patch"-noun-0]|TX|2089/5;1228/5|
+00000000|MMI|6.83|Infection|C3714514|[patf]|["Infections"-tx-15-"Infections"-noun-0]|TX|3633/10|C01.539
+00000000|MMI|6.80|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-15-"Gastrointestinal Disorders"-noun-0]|TX|4069/26|C06.405
+00000000|MMI|6.80|Vascular Diseases|C0042373|[dsyn]|["Vascular Disorders"-tx-15-"Vascular Disorders"-noun-0]|TX|4614/18|C14.907
+00000000|MMI|5.18|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-15-"3"-integer-0]|TX|4349/1|
+00000000|MMI|5.18|Application site anesthesia|C0234943|[sosy]|["APPLICATION SITE ANESTHESIA"-tx-15-"Application site anesthesia"-noun-0]|TX|5148/27|
+00000000|MMI|5.18|Application site excoriation|C1142498|[dsyn]|["Application site excoriation"-tx-15-"Application site excoriation"-noun-0]|TX|5093/28|
+00000000|MMI|5.18|Application site exfoliation|C1610049|[fndg]|["Application site exfoliation"-tx-15-"Application site exfoliation"-noun-0]|TX|5235/28|
+00000000|MMI|5.18|Application site haematoma|C0877095|[fndg]|["Application site bruising"-tx-15-"Application site bruising"-noun-0]|TX|5177/25|
+00000000|MMI|5.18|Application site hyperaesthesia|C0919600|[inpo]|["Application site hyperesthesia"-tx-15-"Application site hyperesthesia"-noun-0]|TX|5061/30|
+00000000|MMI|5.18|Application site inflammation|C0877126|[inpo]|["Application site inflammation"-tx-15-"Application site inflammation"-noun-0]|TX|5204/29|
+00000000|MMI|5.18|Application site paraesthesia|C0877096|[sosy]|["Application site paresthesia"-tx-15-"Application site paresthesia"-noun-0]|TX|5002/28|
+00000000|MMI|5.18|Application site rash|C0521495|[inpo]|["APPLICATION SITE DERMATITIS"-tx-15-"Application site dermatitis"-noun-0]|TX|5032/27|
+00000000|MMI|5.18|Application site urticaria|C0919603|[inpo]|["Application site urticaria"-tx-15-"Application site urticaria"-noun-0]|TX|4974/26|
+00000000|MMI|5.18|Application site warmth|C0858794|[fndg]|["Application site warmth"-tx-15-"Application site warmth"-noun-0]|TX|5123/23|
+00000000|MMI|5.18|Burning sensation|C0085624|[sosy]|["Burning"-tx-15-"Burning"-verb-0]|TX|5322/7|
+00000000|MMI|5.18|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-15-"Cough"-noun-0]|TX|5475/5|
+00000000|MMI|5.18|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-15-"Dizziness"-noun-0]|TX|5372/9|
+00000000|MMI|5.18|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-15-"Headache"-noun-0]|TX|5312/8|
+00000000|MMI|5.18|Increase in blood pressure|C0497247|[fndg]|["Increase in blood pressure"-tx-1-"Increase in Blood Pressure"-noun-0]|TX|188/26|
+00000000|MMI|5.18|Observation of Sensation|C0542538|[fndg]|["Sensation"-tx-15-"sensation"-noun-0]|TX|5330/9|
+00000000|MMI|5.18|Pain score|C0582148|[fndg]|["pain scores"-tx-13-"pain scores"-noun-0]|TX|2165/11|
+00000000|MMI|5.18|Sensory neuropathy|C0151313|[dsyn]|["PERIPHERAL SENSORY NEUROPATHY"-tx-15-"Peripheral sensory neuropathy"-noun-0]|TX|5341/29|
+00000000|MMI|5.18|Swelling|C0038999|[fndg]|["SWELLING"-tx-15-"Swelling"-verb-0]|TX|3430/8|
+00000000|MMI|5.18|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-15-"Vomiting"-verb-0]|TX|4285/8|
+00000000|MMI|3.78|1 - 3|C3843504|[fndg]|["1 - 3"-tx-15-"1 3"-integer-0]|TX|3940/1,4022/1|
+00000000|MMI|3.78|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-15-"Subcutaneous Disorders"-noun-0]|TX|5513/12,5533/9|
+00000000|MMI|3.75|Skin irritation|C0152030|[fndg]|["IRRITATION SKIN"-tx-15-"irritation Skin"-noun-0]|TX|5489/10,5504/4|
+00000000|MMI|3.74|3-4|C3840617|[fndg]|["3-4"-tx-15-"3 4"-integer-0]|TX|3286/1,3368/1|
+00000000|MMI|3.74|3/4|C0442757|[fndg]|["3 4"-tx-15-"3 4"-integer-0]|TX|3286/1,3368/1|
+00000000|MMI|3.72|Application site dryness|C0877098|[fndg]|["Application site dryness"-tx-15-"Application Site Dryness"-noun-0]|TX|3522/24|
+00000000|MMI|3.72|Application site edema|C0234936|[patf]|["APPLICATION SITE OEDEMA"-tx-15-"Application Site Edema"-noun-0]|TX|3304/22|
+00000000|MMI|3.68|Limited Walking Ability|C2674459|[fndg]|["Limited"-tx-10-"limited"-adj-0]|TX|1939/7|
+00000000|MMI|3.63|Acute bronchitis|C0149514|[dsyn]|["bronchitis"-tx-15-"Bronchitis"-noun-0]|TX|3849/10|
+00000000|MMI|3.63|Infestation|C0851341|[dsyn]|["infestations"-tx-15-"Infestations"-noun-0]|TX|3648/12|
+00000000|MMI|3.60|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-15-"Hypertension"-noun-0]|TX|4721/12|
+00000000|MMI|3.60|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-15-"Nausea"-noun-0]|TX|4176/6|
+00000000|MMI|3.57|Adverse event|C0877248|[patf]|["ADVERSE EVENT"-tx-7-"adverse event"-noun-0]|TX|1331/13|
+00000000|MMI|3.55|90%|C3842582|[fndg]|["90%"-tx-6-"90"-percentage-0]|TX|1208/2|
+00000000|MMI|3.55|intended - ParticipationSignature|C1551357|[fndg]|["intended"-tx-6-"intended"-adj-0]|TX|1219/8|
+00000000|MMI|3.54|Discontinued|C1444662|[fndg]|["Discontinued"-tx-7-"discontinued"-adj-0]|TX|1296/12|
+00000000|MMI|3.53|Throat irritation|C0700184|[sosy]|["THROAT IRRITATION"-tx-15-"Throat irritation"-noun-0]|TX|5482/17|
+00000000|MMI|3.53|skin abnormal|C0748736|[fndg]|["abnormal skin"-tx-15-"Abnormal skin"-noun-0]|TX|5544/13|
+00000000|MMI|3.47|Application site reaction|C0151505|[fndg]|["APPLICATION SITE REACTION"-tx-10-"application site reactions"-noun-0]|TX|1888/26|
+00000000|MMI|3.44|Mild intensity|C3845610|[fndg]|["Mild intensity"-tx-14-"intensity mild"-noun-0]|TX|2373/9,2387/4|

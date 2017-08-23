@@ -1,0 +1,47 @@
+120,130|FP|infections|C3714514|10021789|patf
+250,260|TP|infections|C3714514|10021789|250,260|infections|C3714514|10021789|patf
+328,338|TP|infections|C3714514|10021789|328,338|infections|C3714514|10021789|patf
+418,428|FP|infections|C3714514|10021789|patf
+518,528|FP|infections|C3714514|10021789|patf
+596,605|FP|infection|C3714514|10021789|patf
+914,924|FP|Infections|C3714514|10021789|patf
+991,1001|TP|infections|C3714514|10021789|991,1001|infections|C3714514|10021789|patf
+1081,1091|FP|infections|C3714514|10021789|patf
+1181,1191|FP|infections|C3714514|10021789|patf
+1378,1387|FP|infection|C3714514|10021789|patf
+1394,1404;1420,1450|FN|Infections of the upper respiratory tract|C0041912
+1394,1404|TP|Infections|C3714514|10021789|1394,1404|Infections|C3714514|10021789|patf
+1535,1545|TP|infections|C3714514|10021789|1535,1545|infections|C3714514|10021789|patf
+1595,1602;1620,1630|FN|unusual infections|C3714514
+1606,1630|TP|opportunistic infections|C0029118|10030901|1606,1630|opportunistic infections|C0029118|10030901|dsyn
+1620,1630;1688,1703|FN|infections cytomegalovirus|C0010823
+1638,1651|FN|aspergillosis|C0004030
+1653,1686|TP|atypical mycobacterial infections|C0026919|10061663|1653,1686|atypical mycobacterial infections|C0026919|10061663|dsyn
+1705,1718|TP|herpes zoster|C0019360|10019974|1705,1718|herpes zoster|C0019360|10019974|dsyn
+1973,1983|TP|infections|C3714514|10021789|1973,1983|infections|C3714514|10021789|patf
+2285,2293|FP|blocking|C0233660|10043495|mobd
+2349,2361|FP|tuberculosis|C0041296|10044755|dsyn
+2366,2378;2389,2401|FP|reactivation tuberculosis|C0275965|10044755|dsyn
+2488,2516|FN|reactivation of tuberculosis|C0275965
+2488,2500;2504,2516|FP|reactivation tuberculosis|C0275965|10044755|dsyn
+2523,2547|TP|opportunistic infections|C0029118|10030901|2523,2547|opportunistic infections|C0029118|10030901|dsyn
+2663,2692|FP|latent tuberculosis infection|C1609538|10065048|dsyn
+2881,2910|FP|latent tuberculosis infection|C1609538|10065048|dsyn
+3175,3187|FP|tuberculosis|C0041296|10044755|dsyn
+3213,3224|FP|weight loss|C2911645,C1262477|10060933,10047895|patf,fndg
+3479,3496|FP|Immunosuppression|C4048329|10062016|dsyn
+3587,3599|FN|malignancies|C1306459
+3717,3729|FN|malignancies|C1306459
+3746,3762;3785,3794|FP|Hypersensitivity reactions|C0020517|10020751|patf
+3768,3794|FN|Hypersensitivity reactions|C0020517
+3862,3884|FP|anaphylactic reactions|C0002792|10002198|patf
+4001,4009;4013,4029|FP|symptoms hypersensitivity|C0020517|10020751|patf
+4374,4379;4409,4418|FP|risks infection|C0582147|10021789|fndg
+4383,4405|FP|secondary transmission|C0948191|10051854|patf
+4558,4595|FN|interfere with normal immune response|C1373218
+4897,4907|FP|infections|C3714514|10021789|patf
+5106,5115|FP|influenza|C0021400|10022000|dsyn
+5435,5455|FP|rheumatic conditions|C3495832|10072736|dsyn
+5559,5568|FP|infection|C3714514|10021789|patf
+5644,5647|FN|MAS|C1096155
+5820,5823|FN|MAS|C1096155

@@ -1,0 +1,122 @@
+T1	AdverseReaction 92 108	gasping syndrome
+T2	Factor 84 88	Risk
+T4	AdverseReaction 163 177	Eye irritation
+T5	AdverseReaction 300 318	Contact dermatitis
+T6	Factor 320 323	May
+T7	AdverseReaction 682 707	neonatal gasping syndrome
+T8	AdverseReaction 729 747	metabolic acidosis
+T9	Severity 722 728	severe
+T10	AdverseReaction 749 769	gasping respirations
+T11	AdverseReaction 771 794	progressive hypotension
+T12	AdverseReaction 796 804	seizures
+T13	AdverseReaction 806 839	central nervous system depression
+T14	AdverseReaction 841 868	intraventricular hemorrhage
+T15	AdverseReaction 874 879	death
+T16	AdverseReaction 1051 1067	gasping syndrome
+T17	Factor 1042 1046	risk
+T18	AdverseReaction 1292 1306	eye irritation
+T19	Factor 1282 1285	may
+T20	AdverseReaction 1562 1581	irritant dermatitis
+T21	AdverseReaction 1550 1558;1571 1581	allergic dermatitis
+T22	Factor 1540 1543	may
+T3	AdverseReaction 65 82	Neonatal toxicity
+E1	AdverseReaction:T1 Hypothetical:E2
+E2	Factor:T2
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E6
+E6	Factor:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8 Effect:E9
+E9	Severity:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16 Hypothetical:E17
+E17	Factor:T17
+E18	AdverseReaction:T18 Hypothetical:E19
+E19	Factor:T19
+E20	AdverseReaction:T20 Hypothetical:E22
+E21	AdverseReaction:T21 Hypothetical:E22
+E22	Factor:T22
+E3	AdverseReaction:T3
+A1	CUI E1 C2609173
+A2	UMLS-Preferred-Name E1 Gasping syndrome
+A3	MEDDRA-PT E1 Gasping syndrome
+A4	MEDDRA-PT-ID E1 10069162
+A5	CUI E4 C0235266
+A6	UMLS-Preferred-Name E4 Eye irritation
+A7	MEDDRA-PT E4 Eye irritation
+A8	MEDDRA-PT-ID E4 10015946
+A9	CUI E5 C0011616
+A10	UMLS-Preferred-Name E5 Contact Dermatitis
+A11	MEDDRA-PT E5 Dermatitis contact
+A12	MEDDRA-PT-ID E5 10012442
+A13	LLT E5 Contact dermatitis
+A14	LLT-ID E5 10010790
+A15	CUI E7 C2609173
+A16	UMLS-Preferred-Name E7 Gasping syndrome
+A17	MEDDRA-PT E7 Gasping syndrome
+A18	MEDDRA-PT-ID E7 10069162
+A19	CUI E8 C0220981
+A20	UMLS-Preferred-Name E8 Metabolic acidosis
+A21	MEDDRA-PT E8 Metabolic acidosis
+A22	MEDDRA-PT-ID E8 10027417
+A23	CUI E10 C0425449
+A24	UMLS-Preferred-Name E10 Gasping for breath
+A25	MEDDRA-PT E10 Dyspnoea
+A26	MEDDRA-PT-ID E10 10013968
+A27	LLT E10 Gasping
+A28	LLT-ID E10 10017745
+A29	flag E11 underspecified
+A30	CUI E11 C0856090
+A31	UMLS-Preferred-Name E11 Hypotension aggravated
+A32	MEDDRA-PT E11 Hypotension
+A33	MEDDRA-PT-ID E11 10021097
+A34	LLT E11 Hypotension aggravated
+A35	LLT-ID E11 10048348
+A36	CUI E12 C0036572
+A37	UMLS-Preferred-Name E12 Seizures
+A38	MEDDRA-PT E12 Seizure
+A39	MEDDRA-PT-ID E12 10039906
+A40	LLT E12 Seizures
+A41	LLT-ID E12 10039910
+A42	CUI E13 C0151559
+A43	UMLS-Preferred-Name E13 Central nervous system depression (disorder)
+A44	MEDDRA-PT E13 Depressed level of consciousness
+A45	MEDDRA-PT-ID E13 10012373
+A46	LLT E13 Depression central nervous system
+A47	LLT-ID E13 10012383
+A48	CUI E14 C0240059
+A49	UMLS-Preferred-Name E14 Ventricular hemorrhage
+A50	MEDDRA-PT E14 Intraventricular haemorrhage
+A51	MEDDRA-PT-ID E14 10022840
+A52	LLT E14 Intraventricular hemorrhage
+A53	LLT-ID E14 10055299
+A54	CUI E15 C1306577
+A55	UMLS-Preferred-Name E15 Death (finding)
+A56	MEDDRA-PT E15 Death
+A57	MEDDRA-PT-ID E15 10011906
+A58	CUI E16 C2609173
+A59	UMLS-Preferred-Name E16 Gasping syndrome
+A60	MEDDRA-PT E16 Gasping syndrome
+A61	MEDDRA-PT-ID E16 10069162
+A62	CUI E18 C0235266
+A63	UMLS-Preferred-Name E18 Eye irritation
+A64	MEDDRA-PT E18 Eye irritation
+A65	MEDDRA-PT-ID E18 10015946
+A66	CUI E20 C0162823
+A67	UMLS-Preferred-Name E20 Dermatitis, Irritant
+A68	MEDDRA-PT E20 Dermatitis contact
+A69	MEDDRA-PT-ID E20 10012442
+A70	LLT E20 Dermatitis irritant contact
+A71	LLT-ID E20 10056540
+A72	CUI E21 C0011615
+A73	UMLS-Preferred-Name E21 Dermatitis, Atopic
+A74	MEDDRA-PT E21 Dermatitis allergic
+A75	MEDDRA-PT-ID E21 10012434
+A76	LLT E21 Allergic dermatitis
+A77	LLT-ID E21 10001711
+A78	flag E3 unmapped

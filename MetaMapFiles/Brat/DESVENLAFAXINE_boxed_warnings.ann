@@ -1,0 +1,90 @@
+T1	AdverseReaction 30 47	SUICIDAL THOUGHTS
+T2	AdverseReaction 30 38;52 61	SUICIDAL BEHAVIORS
+T3	AdverseReaction 76 84;98 107	SUICIDAL BEHAVIORS
+T4	AdverseReaction 76 93	SUICIDAL THOUGHTS
+T5	AdverseReaction 153 170	suicidal thoughts
+T6	DrugClass 115 130	Antidepressants
+T7	AdverseReaction 153 161;175 183	suicidal behavior
+T8	AdverseReaction 304 312;326 334	suicidal behavior
+T9	AdverseReaction 304 321	suicidal thoughts
+T10	Negation 268 271	not
+T11	AdverseReaction 964 972;986 995	SUICIDAL BEHAVIORS
+T12	AdverseReaction 964 981	SUICIDAL THOUGHTS
+T13	AdverseReaction 1094 1111	suicidal thinking
+T14	AdverseReaction 1094 1102;1116 1124	suicidal behavior
+T15	DrugClass 1174 1189	antidepressants
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E6
+E6	DrugClass:T6
+E7	AdverseReaction:T7 Hypothetical:E6
+E8	AdverseReaction:T8 Negated:E10
+E9	AdverseReaction:T9 Negated:E10
+E10	Negation:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13 Hypothetical:E15
+E14	AdverseReaction:T14 Hypothetical:E15
+E15	DrugClass:T15
+A1	CUI E1 C0424000
+A2	UMLS-Preferred-Name E1 Feeling suicidal (finding)
+A3	MEDDRA-PT E1 Suicidal ideation
+A4	MEDDRA-PT-ID E1 10042458
+A5	CUI E2 C1760428
+A6	UMLS-Preferred-Name E2 Suicidal behavior
+A7	MEDDRA-PT E2 Suicidal behaviour
+A8	MEDDRA-PT-ID E2 10065604
+A9	LLT E2 Suicidal behavior
+A10	LLT-ID E2 10065607
+A11	CUI E3 C1760428
+A12	UMLS-Preferred-Name E3 Suicidal behavior
+A13	MEDDRA-PT E3 Suicidal behaviour
+A14	MEDDRA-PT-ID E3 10065604
+A15	LLT E3 Suicidal behavior
+A16	LLT-ID E3 10065607
+A17	CUI E4 C0424000
+A18	UMLS-Preferred-Name E4 Feeling suicidal (finding)
+A19	MEDDRA-PT E4 Suicidal ideation
+A20	MEDDRA-PT-ID E4 10042458
+A21	CUI E5 C0424000
+A22	UMLS-Preferred-Name E5 Feeling suicidal (finding)
+A23	MEDDRA-PT E5 Suicidal ideation
+A24	MEDDRA-PT-ID E5 10042458
+A25	CUI E7 C1760428
+A26	UMLS-Preferred-Name E7 Suicidal behavior
+A27	MEDDRA-PT E7 Suicidal behaviour
+A28	MEDDRA-PT-ID E7 10065604
+A29	LLT E7 Suicidal behavior
+A30	LLT-ID E7 10065607
+A31	CUI E8 C1760428
+A32	UMLS-Preferred-Name E8 Suicidal behavior
+A33	MEDDRA-PT E8 Suicidal behaviour
+A34	MEDDRA-PT-ID E8 10065604
+A35	LLT E8 Suicidal behavior
+A36	LLT-ID E8 10065607
+A37	CUI E9 C0424000
+A38	UMLS-Preferred-Name E9 Feeling suicidal (finding)
+A39	MEDDRA-PT E9 Suicidal ideation
+A40	MEDDRA-PT-ID E9 10042458
+A41	CUI E11 C1760428
+A42	UMLS-Preferred-Name E11 Suicidal behavior
+A43	MEDDRA-PT E11 Suicidal behaviour
+A44	MEDDRA-PT-ID E11 10065604
+A45	LLT E11 Suicidal behavior
+A46	LLT-ID E11 10065607
+A47	CUI E12 C0424000
+A48	UMLS-Preferred-Name E12 Feeling suicidal (finding)
+A49	MEDDRA-PT E12 Suicidal ideation
+A50	MEDDRA-PT-ID E12 10042458
+A51	CUI E13 C0424000
+A52	UMLS-Preferred-Name E13 Feeling suicidal (finding)
+A53	MEDDRA-PT E13 Suicidal ideation
+A54	MEDDRA-PT-ID E13 10042458
+A55	CUI E14 C1760428
+A56	UMLS-Preferred-Name E14 Suicidal behavior
+A57	MEDDRA-PT E14 Suicidal behaviour
+A58	MEDDRA-PT-ID E14 10065604
+A59	LLT E14 Suicidal behavior
+A60	LLT-ID E14 10065607

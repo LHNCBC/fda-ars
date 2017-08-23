@@ -1,0 +1,113 @@
+00000000|MMI|143.98|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-46-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-15-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-13-"anaphylaxis"-noun-0,"ANAPHYLACTIC SHOCK"-tx-10-"anaphylactic shock"-noun-0,"ANAPHYLAXIS"-tx-9-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-3-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-1-"Anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-1-"anaphylaxis"-noun-0]|TX|7393/11;2594/11;2235/11;1554/18;[1315/11],[1363/11];370/11;51/11;112/11|C20.543.480.099
+00000000|MMI|55.33|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-46-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-44-"hypersensitivity reactions"-noun-0,"HYPERSENSITIVITY REACTION (NOS)"-tx-17-"hypersensitivity reaction"-noun-0,"Hypersensitivity reactions"-tx-9-"Hypersensitivity Reactions"-noun-0,"Hypersensitivity reactions"-tx-9-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-1-"Hypersensitivity Reactions"-noun-0,"Hypersensitivity reactions"-tx-1-"hypersensitivity reactions"-noun-0]|TX|7283/26;7052/26;2886/25;1331/26;1379/26;67/26;128/26|C20.543
+00000000|MMI|33.74|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-46-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-15-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-13-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-9-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-3-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-1-"Anaphylaxis"-noun-0,"Anaphylaxis"-tx-1-"anaphylaxis"-noun-0]|TX|7393/11;2594/11;2235/11;[1315/11],[1363/11];370/11;51/11;112/11|
+00000000|MMI|32.70|Sudden Cardiac Death|C0085298|[patf]|["SUDDEN CARDIAC DEATH"-tx-36-"Sudden Cardiac Death"-noun-0,"SUDDEN CARDIAC DEATH"-tx-8-"Sudden Cardiac Death"-noun-0]|TX|5676/20;1060/20|C14.280.383.220;C23.550.260.322.250
+00000000|MMI|29.46|Apnea|C0003578|[patf]|["APNOEA"-tx-10-"apnea"-noun-0,"Arrest, Respiratory"-tx-10-"respiratory arrest"-noun-0]|TX|1641/5;1590/18|C08.618.085;C23.888.852.130
+00000000|MMI|29.46|Bradycardia|C0428977|[patf]|["BRADYCARDIA"-tx-38-"bradycardia"-noun-0,"BRADYCARDIA"-tx-10-"bradycardia"-noun-0]|TX|6011/11;1657/11|C14.280.067.319;C23.550.073.300
+00000000|MMI|29.46|Fever|C0015967|[fndg]|["PYREXIA"-tx-24-"pyrexia"-noun-0,"PYREXIA"-tx-11-"pyrexia"-noun-0]|TX|3814/7;2080/7|C23.888.119.344
+00000000|MMI|26.39|Cardiac Hypertrophy|C1383860|[patf]|["CARDIAC HYPERTROPHY"-tx-38-"cardiac hypertrophy"-noun-0,"CARDIAC HYPERTROPHY"-tx-35-"cardiac hypertrophy"-noun-0]|TX|6181/19;5479/19|C14.280.195;C23.300.775.250
+00000000|MMI|26.01|Conduction disorder of the heart|C0264886|[patf]|["CARDIAC Arrythmia"-tx-36-"Cardiac Arrhythmia"-noun-0,"CARDIAC Arrythmia"-tx-8-"Cardiac Arrhythmia"-noun-0]|TX|5653/18;1037/18|x.x.x.x
+00000000|MMI|22.51|Glycogen storage disease type II|C0017921|[dsyn]|["Disease, Pompe's"-tx-25-"Pompe disease"-noun-0]|TX|3950/13|C10.228.140.163.100.435.340;C16.320.565.189.435.340;C16.320.565.202.449.500;C16.320.565.595.554.340;C18.452.132.100.435.340;C18.452.648.189.435.340;C18.452.648.202.449.500;C18.452.648.595.554.340
+00000000|MMI|22.41|Membranous glomerulonephritis|C0017665|[dsyn]|["GLOMERULONEPHRITIS, MEMBRANOUS"-tx-25-"membranous glomerulonephritis"-noun-0]|TX|3899/29|C12.777.419.570.363.625;C13.351.968.419.570.363.625;C20.111.535
+00000000|MMI|20.95|Nephrotic Syndrome|C0027726|[dsyn]|["-- Nephrotic Syndrome"-tx-25-"Nephrotic syndrome"-noun-0]|TX|3867/18|C12.777.419.630.643;C13.351.968.419.630.643
+00000000|MMI|20.95|Paresthesia|C0030554|[dsyn]|["Parasthesia"-tx-11-"paresthesia"-noun-0]|TX|2170/11|C10.597.751.791.875;C23.888.592.763.770.875
+00000000|MMI|20.95|Psychomotor Agitation|C3887612|[fndg]|["Restlessness"-tx-11-"restlessness"-noun-0]|TX|2118/12|C10.597.350.600;C10.597.606.881.700;C23.888.592.350.600;C23.888.592.604.882.700;F01.700.875.700
+00000000|MMI|20.95|Restlessness|C3887611|[sosy]|["RESTLESSNESS"-tx-11-"restlessness"-noun-0]|TX|2118/12|C10.597.350.600;C10.597.606.881.700;C23.888.592.350.600;C23.888.592.604.882.700;F01.700.875.700
+00000000|MMI|20.31|Cardiac Arrest|C0018790|[dsyn]|["Arrest, Cardiac"-tx-38-"cardiac arrest"-noun-0,"Arrest, Cardiac"-tx-10-"cardiac arrest"-noun-0]|TX|6037/14;1574/14|C14.280.383
+00000000|MMI|19.90|Hypertensive disease|C0020538|[dsyn]|["Blood Pressure, Increased"-tx-11-"increased blood pressure"-noun-0,"HYPERTENSION"-tx-11-"hypertension"-noun-0]|TX|2022/24;2009/12|C14.907.489
+00000000|MMI|19.66|Cardiac Arrhythmia|C0003811|[fndg]|["Arrhythmia, Cardiac"-tx-36-"Cardiac Arrhythmia"-noun-0,"Arrhythmia, Cardiac"-tx-8-"Cardiac Arrhythmia"-noun-0]|TX|5653/18;1037/18|C14.280.067;C23.550.073
+00000000|MMI|17.80|Angioedema|C0002994|[patf]|["Angiooedema"-tx-10-"angioedema"-noun-0]|TX|1728/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|17.80|Back Pain|C0004604|[sosy]|["BACKPAIN"-tx-11-"back pain"-noun-0]|TX|2155/9|C10.597.617.140;C23.888.592.612.107
+00000000|MMI|17.80|Convulsions|C4048158|[sosy]|["Convulsions"-tx-11-"convulsions"-noun-0]|TX|1946/11|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|17.80|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-11-"dizziness"-noun-0]|TX|1998/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|17.80|Headache|C0018681|[sosy]|["HEADACHE"-tx-11-"headache"-noun-0]|TX|2145/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|17.80|Seizures|C0036572|[sosy]|["CONVULSIONS"-tx-11-"convulsions"-noun-0]|TX|1946/11|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|17.80|Vertigo|C0042571|[sosy]|["dizziness"-tx-11-"dizziness"-noun-0]|TX|1998/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|16.40|Chest Pain|C0008031|[sosy]|["CHEST PAIN"-tx-11-"chest pain"-noun-0]|TX|1863/5,1880/4|C10.597.617.192;C23.888.592.612.233
+00000000|MMI|16.25|Pain|C0030193|[sosy]|["PAIN"-tx-11-"pain"-noun-0]|TX|1880/4|C10.597.617;C23.888.592.612;F02.830.816.444;G11.561.600.810.444
+00000000|MMI|14.64|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-10-"dyspnea"-noun-0]|TX|1648/7|C08.618.326;C23.888.852.371
+00000000|MMI|14.64|Hyperhidrosis disorder|C0020458|[fndg]|["HYPERHIDROSIS"-tx-11-"hyperhidrosis"-noun-0]|TX|1975/13|C17.800.946.350
+00000000|MMI|14.64|Hypoxia|C0242184|[patf]|["HYPOXIA"-tx-10-"hypoxia"-noun-0]|TX|1632/7|C23.888.852.079
+00000000|MMI|14.64|Nausea|C0027497|[sosy]|["NAUSEA"-tx-11-"nausea"-noun-0]|TX|1990/6|C23.888.821.712
+00000000|MMI|14.64|Pallor|C0030232|[fndg]|["PALLOR"-tx-11-"pallor"-noun-0]|TX|2089/6|C23.888.885.500
+00000000|MMI|14.64|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-11-"pruritus"-noun-0]|TX|1959/8|C17.800.685;C23.888.885.625
+00000000|MMI|14.64|Tachycardia|C0039231|[patf]|["TACHYCARDIA"-tx-10-"tachycardia"-noun-0]|TX|1670/11|C14.280.067.845;C23.550.073.845
+00000000|MMI|14.64|Tachypnea|C0231835|[fndg]|["TACHYPNOEA"-tx-11-"tachypnea"-noun-0]|TX|1896/9|C08.618.961;C23.888.852.944
+00000000|MMI|14.64|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-10-"urticaria"-noun-0]|TX|1814/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|14.64|Wheezing|C0043144|[sosy]|["WHEEZING"-tx-11-"wheezing"-noun-0]|TX|1886/8|C23.888.852.779;E01.370.386.720;G09.772.775
+00000000|MMI|14.56|Cardiorespiratory failure|C1444565|[patf]|["Cardio-respiratory failure"-tx-35-"cardiorespiratory failure"-noun-0,"Cardio-respiratory failure"-tx-33-"Cardiorespiratory Failure"-noun-0,"Cardio-respiratory failure"-tx-5-"Cardiorespiratory Failure"-noun-0,"Cardio-respiratory failure"-tx-5-"cardiorespiratory failure"-noun-0]|TX|5377/25;4901/25;676/25;785/25|
+00000000|MMI|11.54|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-30-"discontinuation"-noun-0,"Discontinue"-tx-13-"discontinue"-verb-0,"Discontinue"-tx-3-"discontinue"-verb-0]|TX|4519/15;2303/11;438/11|
+00000000|MMI|11.49|Bronchial Spasm|C0006266|[dsyn]|["BRONCHOSPASM"-tx-10-"bronchospasm"-noun-0]|TX|1683/12|C08.127.321
+00000000|MMI|11.49|Cyanosis|C0010520|[sosy]|["CYANOSIS"-tx-11-"cyanosis"-noun-0]|TX|1907/8|C23.888.248
+00000000|MMI|11.49|Exanthema|C0015230|[sosy]|["RASH"-tx-11-"rash"-noun-0]|TX|1969/4|C17.800.257
+00000000|MMI|11.49|Flushing|C0016382|[sosy]|["FLUSHING"-tx-11-"flushing"-verb-0]|TX|2048/8|C23.888.388
+00000000|MMI|11.49|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-10-"hypotension"-noun-0]|TX|1715/11|C14.907.514
+00000000|MMI|11.49|Nervousness|C0027769|[sosy]|["NERVOUSNESS"-tx-11-"nervousness"-noun-0]|TX|2132/11|F01.470.132
+00000000|MMI|10.42|6/3|C1630409|[fndg]|["6/3"-tx-28-"6.3"-real_number-0,"6/3"-tx-20-"6.3"-real_number-0]|TX|4306/3;3402/3|
+00000000|MMI|10.42|Bradycardia by ECG Finding|C3812171|[fndg]|["BRADYCARDIA"-tx-38-"bradycardia"-noun-0,"BRADYCARDIA"-tx-10-"bradycardia"-noun-0]|TX|6011/11;1657/11|
+00000000|MMI|10.42|Death (finding)|C1306577|[fndg]|["Death"-tx-41-"death"-noun-0,"Death"-tx-38-"death"-noun-0]|TX|6750/5;6055/5|
+00000000|MMI|10.42|Used by|C1273517|[fndg]|["used"-tx-37-"used"-verb-0,"used"-tx-8-"used"-verb-0]|TX|5939/4;1164/4|
+00000000|MMI|10.42|severe allergic reaction|C2220378|[fndg]|["severe Hypersensitivity reactions"-tx-13-"severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-3-"severe hypersensitivity reactions"-noun-0]|TX|2250/33;385/33|
+00000000|MMI|10.42|severe allergy|C2945656|[fndg]|["severe Hypersensitivity reactions"-tx-13-"severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-3-"severe hypersensitivity reactions"-noun-0]|TX|2250/33;385/33|
+00000000|MMI|9.94|Erythema|C0041834|[dsyn]|["ERYTHEMA"-tx-11-"erythema"-noun-0]|TX|2070/8|C17.800.229
+00000000|MMI|7.84|Clinical Response|C4055223|[fndg]|["Clinical Response"-tx-45-"clinical response"-noun-0,"Clinical Response"-tx-44-"clinical response"-noun-0]|TX|7172/17;7121/17|
+00000000|MMI|7.42|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-10-"life-threatening"-adj-0,"Life Threatening"-tx-1-"Life-threatening"-adj-0]|TX|1524/16;95/16|
+00000000|MMI|7.42|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-10-"life-threatening"-adj-0,"LIFE THREATENING"-tx-1-"Life-threatening"-adj-0]|TX|1524/16;95/16|
+00000000|MMI|7.42|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-10-"life-threatening"-adj-0,"LIFE THREATENING"-tx-1-"Life-threatening"-adj-0]|TX|1524/16;95/16|
+00000000|MMI|7.33|Pompe's disease infantile onset|C3888924|[dsyn]|["Pompe's disease infantile onset"-tx-38-"infantile-onset Pompe disease"-noun-0,"Pompe's disease infantile onset"-tx-35-"infantile-onset Pompe disease"-noun-0]|TX|6137/29;5424/29|
+00000000|MMI|6.97|Adverse Event Associated with Cardiac Arrhythmia|C1560249|[patf]|["CARDIAC ARRHYTHMIA"-tx-36-"Cardiac Arrhythmia"-noun-0,"CARDIAC ARRHYTHMIA"-tx-8-"Cardiac Arrhythmia"-noun-0]|TX|5653/18;1037/18|
+00000000|MMI|6.89|Close|C3810854|[fndg]|["Close"-tx-32-"close"-adj-0,"Close"-tx-18-"close"-adj-0]|TX|4849/5;3026/5|
+00000000|MMI|6.76|Arthropathy|C0022408|[dsyn]|["Inflammatory arthropathy"-tx-24-"inflammatory arthropathy"-noun-0]|TX|3769/24|C05.550
+00000000|MMI|5.18|Able (finding)|C1299581|[fndg]|["Able"-tx-32-"able"-adj-0]|TX|4770/4|
+00000000|MMI|5.18|Agitation|C0085631|[sosy]|["Restlessness"-tx-11-"restlessness"-noun-0]|TX|2118/12|
+00000000|MMI|5.18|Apnea Adverse Event|C1963065|[fndg]|["Apnea"-tx-10-"apnea"-noun-0]|TX|1641/5|
+00000000|MMI|5.18|Back Pain Adverse Event|C1963071|[fndg]|["Back pain"-tx-11-"back pain"-noun-0]|TX|2155/9|
+00000000|MMI|5.18|Cold extremities|C0277925|[fndg]|["PERIPHERAL COLDNESS"-tx-11-"peripheral coldness"-noun-0]|TX|2097/19|
+00000000|MMI|5.18|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-11-"dizziness"-noun-0]|TX|1998/9|
+00000000|MMI|5.18|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-11-"headache"-noun-0]|TX|2145/8|
+00000000|MMI|5.18|ENT surgical result tongue|C2137027|[fndg]|["tongue"-tx-10-"tongue"-noun-0]|TX|1750/6|
+00000000|MMI|5.18|ESR raised|C0151632|[fndg]|["Elevated erythrocyte sedimentation rate"-tx-24-"elevated erythrocyte sedimentation rate"-noun-0]|TX|3826/39|
+00000000|MMI|5.18|Encounter due to dependence on respirator|C1321831|[fndg]|["ventilator dependence"-tx-41-"ventilator dependence"-noun-0]|TX|6724/21|
+00000000|MMI|5.18|Facial edema|C0542571|[patf]|["FACE OEDEMA"-tx-10-"face edema"-noun-0]|TX|1797/10|
+00000000|MMI|5.18|Feeling nervous|C0849963|[sosy]|["Nervousness"-tx-11-"nervousness"-noun-0]|TX|2132/11|
+00000000|MMI|5.18|Feeling of throat tightness|C0236071|[fndg]|["THROAT TIGHTNESS"-tx-10-"throat tightness"-noun-0]|TX|1697/16|
+00000000|MMI|5.18|Flushing Adverse Event|C1962957|[fndg]|["Flushing"-tx-11-"flushing"-verb-0]|TX|2048/8|
+00000000|MMI|5.18|Has tingling sensation|C2242996|[sosy]|["paresthesia"-tx-11-"paresthesia"-noun-0]|TX|2170/11|
+00000000|MMI|5.18|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-10-"hypotension"-noun-0]|TX|1715/11|
+00000000|MMI|5.18|Hypoxia Adverse Event|C1963140|[fndg]|["HYPOXIA"-tx-10-"hypoxia"-noun-0]|TX|1632/7|
+00000000|MMI|5.18|Indicated|C1444656|[fndg]|["Indicated"-tx-14-"indicated"-verb-0]|TX|2566/9|
+00000000|MMI|5.18|Lesion|C0221198|[fndg]|["LESION"-tx-23-"lesion"-noun-0]|TX|3728/6|
+00000000|MMI|5.18|Lip swelling|C0240211|[sosy]|["LIP SWELLING"-tx-10-"lip swelling"-noun-0]|TX|1760/12|
+00000000|MMI|5.18|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-11-"nausea"-noun-0]|TX|1990/6|
+00000000|MMI|5.18|Pallor of skin|C0241137|[fndg]|["pallor"-tx-11-"pallor"-noun-0]|TX|2089/6|
+00000000|MMI|5.18|Periorbital edema|C0151205|[sosy]|["Periorbital oedema"-tx-10-"periorbital edema"-noun-0]|TX|1774/17|
+00000000|MMI|5.18|Respirator dependence|C0260701|[fndg]|["ventilator dependence"-tx-41-"ventilator dependence"-noun-0]|TX|6724/21|
+00000000|MMI|5.18|Respiratory arrest|C0162297|[patf]|["RESPIRATORY ARREST"-tx-10-"respiratory arrest"-noun-0]|TX|1590/18|
+00000000|MMI|5.18|Respiratory distress|C0476273|[sosy]|["Distress, Respiratory"-tx-10-"respiratory distress"-noun-0]|TX|1610/20|
+00000000|MMI|5.18|Respiratory insufficiency due to muscle weakness|C3806467|[fndg]|["Respiratory muscle weakness"-tx-36-"respiratory muscle weakness"-noun-0]|TX|5880/11,5893/15|
+00000000|MMI|5.18|Respiratory muscle weakness|C1836141|[fndg]|["Respiratory muscle weakness"-tx-36-"respiratory muscle weakness"-noun-0]|TX|5880/11,5893/15|
+00000000|MMI|5.18|Tachycardia by ECG Finding|C3827868|[fndg]|["TACHYCARDIA"-tx-10-"tachycardia"-noun-0]|TX|1670/11|
+00000000|MMI|5.18|Ventricular arrhythmia|C0085612|[dsyn]|["Ventricular arrhythmias"-tx-38-"Ventricular arrhythmias"-noun-0]|TX|5983/23|
+00000000|MMI|5.18|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-10-"urticaria"-noun-0]|TX|1814/9|
+00000000|MMI|3.81|Increase in blood pressure|C0497247|[fndg]|["Increased blood pressure"-tx-11-"increased blood pressure"-noun-0]|TX|2022/24|
+00000000|MMI|3.81|Increased Blood Pressure [PE]|C2917273|[fndg]|["Increased Blood Pressure"-tx-11-"increased blood pressure"-noun-0]|TX|2022/24|
+00000000|MMI|3.76|Acute illness|C4061114|[patf]|["Acute illness"-tx-33-"acute illness"-noun-0]|TX|4944/5,4973/7|
+00000000|MMI|3.75|Skin lesion|C0037284|[dsyn]|["Skin lesions"-tx-20-"skin lesions"-noun-0]|TX|3365/12|
+00000000|MMI|3.72|Loss of motor functions|C1864672|[fndg]|["Loss of motor function"-tx-41-"loss of motor function"-noun-0]|TX|6700/22|
+00000000|MMI|3.70|Hypersensitivity reaction mediated by immune complex|C0301918|[dsyn]|["Type III reaction"-tx-21-"type III reactions"-noun-0]|TX|3466/8,3491/9|
+00000000|MMI|3.68|2+|C3833492|[fndg]|["2+"-tx-35-"2"-real_number-0]|TX|5626/1|
+00000000|MMI|3.68|In care (finding)|C0580931|[fndg]|["care"-tx-19-"care"-noun-0]|TX|3062/4|
+00000000|MMI|3.63|Pain NOS Adverse Event|C1962977|[fndg]|["Pain NOS"-tx-11-"pain"-noun-0]|TX|1880/4|
+00000000|MMI|3.59|Generalized glycogen storage disease of infants|C0342751|[dsyn]|["Pompe disease"-tx-25-"Pompe disease"-noun-0]|TX|3950/13|
+00000000|MMI|3.57|compromise|C2945640|[fndg]|["compromise"-tx-33-"compromise"-noun-0]|TX|5103/10|
+00000000|MMI|3.56|Activity (animal life circumstance)|C3668946|[fndg]|["Activity"-tx-45-"activity"-noun-0]|TX|7233/8|
+00000000|MMI|3.56|Endurance of activity|C0600075|[fndg]|["Activity"-tx-45-"activity"-noun-0]|TX|7233/8|
+00000000|MMI|3.56|intended - ParticipationSignature|C1551357|[fndg]|["intended"-tx-8-"intended"-verb-0]|TX|1254/8|
+00000000|MMI|3.53|Chest discomfort|C0235710|[sosy]|["CHEST DISCOMFORT"-tx-11-"chest discomfort"-noun-0]|TX|1863/16|
+00000000|MMI|3.53|Feels hot|C2939147|[sosy]|["Feeling hot"-tx-11-"feeling hot"-adj-0]|TX|2057/11|
+00000000|MMI|3.53|Feels hot/feverish|C0424749|[fndg]|["feeling hot"-tx-11-"feeling hot"-adj-0]|TX|2057/11|
+00000000|MMI|3.48|Actual Discomfort|C2364135|[sosy]|["Discomfort"-tx-11-"discomfort"-noun-0]|TX|1869/10|
+00000000|MMI|3.48|Examination and observation for unspecified reason|C0478530|[fndg]|["observation"-tx-34-"observation"-noun-0]|TX|5288/11|
+00000000|MMI|3.48|Malaise|C0231218|[sosy]|["DISCOMFORT"-tx-11-"discomfort"-noun-0]|TX|1869/10|
+00000000|MMI|3.47|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-11-"hypertension"-noun-0]|TX|2009/12|
+00000000|MMI|3.45|Positive Finding|C1514241|[fndg]|["POSITIVE"-tx-25-"positive"-adj-0]|TX|4026/8|

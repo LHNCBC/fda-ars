@@ -1,0 +1,274 @@
+T1	AdverseReaction 200 213	birth defects
+T2	AdverseReaction 218 229	fetal death
+T3	Factor 190 193	may
+T4	AdverseReaction 560 597	decrease in hemoglobin concentrations
+T5	AdverseReaction 757 781	worsening of neutropenia
+T6	Factor 743 746	may
+T7	AdverseReaction 888 920	acute hypersensitivity reactions
+T8	Severity 880 887	Serious
+T9	AdverseReaction 928 937	urticaria
+T10	AdverseReaction 939 949	angioedema
+T11	AdverseReaction 1163 1176	birth defects
+T12	AdverseReaction 1184 1210	death of the exposed fetus
+T13	Factor 1153 1156	may
+T14	AdverseReaction 2185 2191	Anemia
+T15	AdverseReaction 2341 2389	additional decrease in hemoglobin concentrations
+T16	AdverseReaction 3242 3281	hemoglobin values less than 10 g per dL
+T20	AdverseReaction 4016 4022	anemia
+T21	AdverseReaction 4032 4039	dyspnea
+T22	AdverseReaction 4041 4059	exertional dyspnea
+T23	AdverseReaction 4061 4070	dizziness
+T24	AdverseReaction 4075 4082	syncope
+T28	AdverseReaction 5535 5556	Thromboembolic events
+T36	AdverseReaction 7245 7294	neutrophil counts of less than 0.5 * 10  9  per L
+T38	AdverseReaction 7428 7438	infections
+T39	Severity 7401 7407	severe
+T40	Severity 7411 7427	life-threatening
+T41	AdverseReaction 7455 7466	neutropenia
+T42	AdverseReaction 7514 7525	neutropenia
+T43	Severity 7497 7513	life-threatening
+T44	Severity 8307 8314	Serious
+T45	AdverseReaction 8324 8336	pancytopenia
+T46	AdverseReaction 8881 8913	acute hypersensitivity reactions
+T47	Severity 8873 8880	Serious
+T48	AdverseReaction 8921 8930	urticaria
+T49	AdverseReaction 8932 8942	angioedema
+T17	AdverseReaction 3242 3259;3286 3308	hemoglobin values less than 8.5 g per dL
+T18	AdverseReaction 3681 3713	hemoglobin less than 10 g per dL
+T50	AdverseReaction 4375 4381	anemia
+T51	AdverseReaction 4588 4594	anemia
+T52	AdverseReaction 6687 6693	anemia
+T37	AdverseReaction 114 134	Embryofetal Toxicity
+T53	AdverseReaction 667 678	Neutropenia
+T19	AdverseReaction 456 462	Anemia
+T25	AdverseReaction 861 877	Hypersensitivity
+E1	AdverseReaction:T1 Hypothetical:E3
+E2	AdverseReaction:T2 Hypothetical:E3
+E3	Factor:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E6
+E6	Factor:T6
+E7	AdverseReaction:T7 Effect:E8
+E8	Severity:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11 Hypothetical:E13
+E12	AdverseReaction:T12 Hypothetical:E13
+E13	Factor:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E21	AdverseReaction:T20
+E22	AdverseReaction:T21
+E23	AdverseReaction:T22
+E24	AdverseReaction:T23
+E25	AdverseReaction:T24
+E29	AdverseReaction:T28
+E37	AdverseReaction:T36
+E39	AdverseReaction:T38 Effect:E40 Effect2:E41
+E40	Severity:T39
+E41	Severity:T40
+E42	AdverseReaction:T41
+E43	AdverseReaction:T42 Effect:E44
+E44	Severity:T43
+E45	Severity:T44
+E46	AdverseReaction:T45 Effect:E45
+E47	AdverseReaction:T46 Effect:E48
+E48	Severity:T47
+E49	AdverseReaction:T48
+E50	AdverseReaction:T49
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E38	AdverseReaction:T37
+E53	AdverseReaction:T53
+E20	AdverseReaction:T19
+E26	AdverseReaction:T25
+A1	CUI E1 C0000768
+A2	UMLS-Preferred-Name E1 Congenital Abnormality
+A3	MEDDRA-PT E1 Congenital anomaly
+A4	MEDDRA-PT-ID E1 10010356
+A5	LLT E1 Birth defects
+A6	LLT-ID E1 10048305
+A7	CUI E2 C0015927
+A8	UMLS-Preferred-Name E2 Fetal Death
+A9	MEDDRA-PT E2 Foetal death
+A10	MEDDRA-PT-ID E2 10055690
+A11	LLT E2 Fetal death
+A12	LLT-ID E2 10016479
+A13	CUI E4 C0162119
+A14	UMLS-Preferred-Name E4 Hemoglobin low
+A15	MEDDRA-PT E4 Haemoglobin decreased
+A16	MEDDRA-PT-ID E4 10018884
+A17	LLT E4 Decreased hemoglobin
+A18	LLT-ID E4 10011964
+A19	CUI E5 C0549294
+A20	UMLS-Preferred-Name E5 Neutropenia aggravated
+A21	MEDDRA-PT E5 Neutropenia
+A22	MEDDRA-PT-ID E5 10029354
+A23	LLT E5 Neutropenia aggravated
+A24	LLT-ID E5 10029356
+A25	CUI E7 C0020517
+A26	UMLS-Preferred-Name E7 Hypersensitivity
+A27	MEDDRA-PT E7 Hypersensitivity
+A28	MEDDRA-PT-ID E7 10020751
+A29	LLT E7 Hypersensitivity reaction
+A30	LLT-ID E7 10020756
+A31	CUI E9 C0042109
+A32	UMLS-Preferred-Name E9 Urticaria
+A33	MEDDRA-PT E9 Urticaria
+A34	MEDDRA-PT-ID E9 10046735
+A35	CUI E10 C0002994
+A36	UMLS-Preferred-Name E10 Angioedema
+A37	MEDDRA-PT E10 Angioedema
+A38	MEDDRA-PT-ID E10 10002424
+A39	CUI E11 C0000768
+A40	UMLS-Preferred-Name E11 Congenital Abnormality
+A41	MEDDRA-PT E11 Congenital anomaly
+A42	MEDDRA-PT-ID E11 10010356
+A43	LLT E11 Birth defects
+A44	LLT-ID E11 10048305
+A45	CUI E12 C0015927
+A46	UMLS-Preferred-Name E12 Fetal Death
+A47	MEDDRA-PT E12 Foetal death
+A48	MEDDRA-PT-ID E12 10055690
+A49	LLT E12 Fetal death
+A50	LLT-ID E12 10016479
+A51	CUI E14 C0002871
+A52	UMLS-Preferred-Name E14 Anemia
+A53	MEDDRA-PT E14 Anaemia
+A54	MEDDRA-PT-ID E14 10002034
+A55	LLT E14 Anemia
+A56	LLT-ID E14 10002272
+A57	CUI E15 C0162119
+A58	UMLS-Preferred-Name E15 Hemoglobin low
+A59	MEDDRA-PT E15 Haemoglobin decreased
+A60	MEDDRA-PT-ID E15 10018884
+A61	LLT E15 Decreased hemoglobin
+A62	LLT-ID E15 10011964
+A63	CUI E16 C0162119
+A64	UMLS-Preferred-Name E16 Hemoglobin low
+A65	MEDDRA-PT E16 Haemoglobin decreased
+A66	MEDDRA-PT-ID E16 10018884
+A67	LLT E16 Hemoglobin low
+A68	LLT-ID E16 10055600
+A69	CUI E21 C0002871
+A70	UMLS-Preferred-Name E21 Anemia
+A71	MEDDRA-PT E21 Anaemia
+A72	MEDDRA-PT-ID E21 10002034
+A73	LLT E21 Anemia
+A74	LLT-ID E21 10002272
+A75	CUI E22 C0013404
+A76	UMLS-Preferred-Name E22 Dyspnea
+A77	MEDDRA-PT E22 Dyspnoea
+A78	MEDDRA-PT-ID E22 10013968
+A79	LLT E22 Dyspnea
+A80	LLT-ID E22 10013963
+A81	CUI E23 C0231807
+A82	UMLS-Preferred-Name E23 Dyspnea on exertion
+A83	MEDDRA-PT E23 Dyspnoea exertional
+A84	MEDDRA-PT-ID E23 10013971
+A85	LLT E23 Exertional dyspnea
+A86	LLT-ID E23 10055548
+A87	CUI E24 C0012833
+A88	UMLS-Preferred-Name E24 Dizziness
+A89	MEDDRA-PT E24 Dizziness
+A90	MEDDRA-PT-ID E24 10013573
+A91	CUI E25 C0039070
+A92	UMLS-Preferred-Name E25 Syncope
+A93	MEDDRA-PT E25 Syncope
+A94	MEDDRA-PT-ID E25 10042772
+A95	CUI E29 C0040038
+A96	UMLS-Preferred-Name E29 Thromboembolism
+A97	MEDDRA-PT E29 Embolism
+A98	MEDDRA-PT-ID E29 10061169
+A99	LLT E29 Thromboembolic event
+A100	LLT-ID E29 10043565
+A101	CUI E37 C0853697
+A102	UMLS-Preferred-Name E37 Neutrophil count decreased
+A103	MEDDRA-PT E37 Neutrophil count decreased
+A104	MEDDRA-PT-ID E37 10029366
+A105	LLT E37 Neutrophil count low
+A106	LLT-ID E37 10029369
+A107	CUI E39 C3714514
+A108	UMLS-Preferred-Name E39 Infection
+A109	MEDDRA-PT E39 Infection
+A110	MEDDRA-PT-ID E39 10021789
+A111	CUI E42 C0027947
+A112	UMLS-Preferred-Name E42 Neutropenia
+A113	MEDDRA-PT E42 Neutropenia
+A114	MEDDRA-PT-ID E42 10029354
+A115	CUI E43 C0027947
+A116	UMLS-Preferred-Name E43 Neutropenia
+A117	MEDDRA-PT E43 Neutropenia
+A118	MEDDRA-PT-ID E43 10029354
+A119	CUI E46 C0030312
+A120	UMLS-Preferred-Name E46 Pancytopenia
+A121	MEDDRA-PT E46 Pancytopenia
+A122	MEDDRA-PT-ID E46 10033661
+A123	CUI E47 C0020517
+A124	UMLS-Preferred-Name E47 Hypersensitivity
+A125	MEDDRA-PT E47 Hypersensitivity
+A126	MEDDRA-PT-ID E47 10020751
+A127	LLT E47 Hypersensitivity reaction
+A128	LLT-ID E47 10020756
+A129	CUI E49 C0042109
+A130	UMLS-Preferred-Name E49 Urticaria
+A131	MEDDRA-PT E49 Urticaria
+A132	MEDDRA-PT-ID E49 10046735
+A133	CUI E50 C0002994
+A134	UMLS-Preferred-Name E50 Angioedema
+A135	MEDDRA-PT E50 Angioedema
+A136	MEDDRA-PT-ID E50 10002424
+A137	CUI E17 C0162119
+A138	UMLS-Preferred-Name E17 Hemoglobin low
+A139	MEDDRA-PT E17 Haemoglobin decreased
+A140	MEDDRA-PT-ID E17 10018884
+A141	LLT E17 Hemoglobin low
+A142	LLT-ID E17 10055600
+A143	CUI E18 C0162119
+A144	UMLS-Preferred-Name E18 Hemoglobin low
+A145	MEDDRA-PT E18 Haemoglobin decreased
+A146	MEDDRA-PT-ID E18 10018884
+A147	LLT E18 Hemoglobin low
+A148	LLT-ID E18 10055600
+A149	CUI E19 C0002871
+A150	UMLS-Preferred-Name E19 Anemia
+A151	MEDDRA-PT E19 Anaemia
+A152	MEDDRA-PT-ID E19 10002034
+A153	LLT E19 Anemia
+A154	LLT-ID E19 10002272
+A155	CUI E51 C0002871
+A156	UMLS-Preferred-Name E51 Anemia
+A157	MEDDRA-PT E51 Anaemia
+A158	MEDDRA-PT-ID E51 10002034
+A159	LLT E51 Anemia
+A160	LLT-ID E51 10002272
+A161	CUI E52 C0002871
+A162	UMLS-Preferred-Name E52 Anemia
+A163	MEDDRA-PT E52 Anaemia
+A164	MEDDRA-PT-ID E52 10002034
+A165	LLT E52 Anemia
+A166	LLT-ID E52 10002272
+A167	CUI E38 C0270009
+A168	UMLS-Preferred-Name E38 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A169	MEDDRA-PT E38 Maternal drugs affecting foetus
+A170	MEDDRA-PT-ID E38 10026923
+A171	LLT E38 Drug toxicity NEC affecting foetus
+A172	LLT-ID E38 10013750
+A173	CUI E53 C0027947
+A174	UMLS-Preferred-Name E53 Neutropenia
+A175	MEDDRA-PT E53 Neutropenia
+A176	MEDDRA-PT-ID E53 10029354
+A177	CUI E20 C0002871
+A178	UMLS-Preferred-Name E20 Anemia
+A179	MEDDRA-PT E20 Anaemia
+A180	MEDDRA-PT-ID E20 10002034
+A181	LLT E20 Anemia
+A182	LLT-ID E20 10002272
+A183	CUI E26 C0020517
+A184	UMLS-Preferred-Name E26 Hypersensitivity
+A185	MEDDRA-PT E26 Hypersensitivity
+A186	MEDDRA-PT-ID E26 10020751

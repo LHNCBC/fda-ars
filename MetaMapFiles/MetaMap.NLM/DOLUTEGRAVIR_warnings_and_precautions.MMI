@@ -1,0 +1,73 @@
+00000000|MMI|84.38|Hepatitis B|C0019163|[dsyn]|["HEPATITIS B"-tx-14-"hepatitis B"-noun-0,"HEPATITIS B"-tx-12-"Hepatitis B"-noun-0,"HEPATITIS B"-tx-12-"hepatitis B"-noun-0,"HEPATITIS B"-tx-4-"hepatitis B"-noun-0,"HEPATITIS B"-tx-3-"hepatitis B"-noun-0]|TX|2680/11;2082/11;2142/11;748/11;441/11|C02.256.430.400;C02.440.435;C06.552.380.705.437
+00000000|MMI|41.17|Exanthema|C0015230|[sosy]|["RASH"-tx-8-"rash"-noun-1,"RASH"-tx-6-"rash"-noun-0,"RASH"-tx-1-"rash"-noun-0]|TX|[1418/4],[1426/4];1076/4;98/4|C17.800.257
+00000000|MMI|35.24|Hypersensitivity|C0020517|[patf]|["HYPERSENSITIVITY REACTION (NOS)"-tx-11-"hypersensitivity reaction"-noun-0,"Hypersensitivity reactions"-tx-8-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-6-"Hypersensitivity Reactions"-noun-0,"Hypersensitivity reactions"-tx-2-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-1-"Hypersensitivity reactions"-noun-0]|TX|1973/25;1344/26;972/26;287/26;54/26|C20.543
+00000000|MMI|30.42|Obesity, Abdominal|C0311277|[fndg]|["Central Obesity"-tx-15-"central obesity"-noun-0]|TX|2784/15|C18.654.726.500.697;E01.370.600.115.100.160.120.699.500.249;G07.100.100.160.120.699.500.249
+00000000|MMI|29.46|Pneumocystis jiroveci pneumonia|C1535939|[dsyn]|["PCP"-tx-19-"PCP"-noun-0,"Pneumocystis jirovecii Pneumonia"-tx-19-"Pneumocystis jirovecii pneumonia"-noun-0]|TX|3583/3;3548/22,3572/9|C01.703.534.700;C01.703.770.700;C08.381.472.700;C08.381.677.675;C08.730.435.700;C08.730.610.675
+00000000|MMI|24.11|Mycobacterium avium-intracellulare Infection|C0026916|[dsyn]|["Mycobacterium Avium Infection"-tx-19-"Mycobacterium avium infection"-noun-0]|TX|3499/19,3520/9|C01.252.410.040.552.475.495
+00000000|MMI|22.61|Cachexia|C0006625|[sosy]|["Wasting"-tx-15-"wasting"-noun-0]|TX|2858/7|C23.888.144.243.963.500.500
+00000000|MMI|20.95|Acute inflammatory demyelinating polyneuropathy|C3542501|[dsyn]|["Guillain-Barre Syndrome"-tx-20-"Guillain-Barre syndrome"-noun-0]|TX|3732/23|C10.114.750.100;C10.314.750.450;C10.668.829.350;C10.668.829.800.750.300;C20.111.258.750.400
+00000000|MMI|20.95|Guillain-Barre Syndrome|C0018378|[dsyn]|["GUILLAIN BARRE SYNDROME"-tx-20-"Guillain-Barre syndrome"-noun-0]|TX|3732/23|C10.114.750.100;C10.314.750.450;C10.668.829.350;C10.668.829.800.750.300;C20.111.258.750.400
+00000000|MMI|20.95|Tuberculosis|C0041296|[dsyn]|["TUBERCULOSIS"-tx-19-"tuberculosis"-noun-0]|TX|3592/12|C01.252.410.040.552.846
+00000000|MMI|20.54|Immune Reconstitution Inflammatory Syndrome|C1619738|[dsyn]|["Immune Reconstitution Syndrome"-tx-18-"Immune Reconstitution Syndrome"-noun-0,"Immune Reconstitution Syndrome"-tx-13-"immune reconstitution syndrome"-noun-0,"Immune Reconstitution Syndrome"-tx-5-"immune reconstitution syndrome"-noun-0]|TX|3135/30;2360/30;827/30|C20.608
+00000000|MMI|19.89|Arthralgia|C0003862|[sosy]|["JOINT ACHE"-tx-8-"joint aches"-noun-0]|TX|1489/11|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|17.80|Angioedema|C0002994|[patf]|["Angiooedema"-tx-8-"angioedema"-noun-0]|TX|1616/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|17.80|Hepatitis A|C0019159|[dsyn]|["Hepatitis"-tx-8-"hepatitis"-noun-0]|TX|1591/9|C02.440.420;C02.782.687.359.500;C06.552.380.705.422
+00000000|MMI|17.80|Polymyositis|C0085655|[dsyn]|["POLYMYOSITIS"-tx-20-"polymyositis"-noun-0]|TX|3714/12|C05.651.594.819;C10.668.491.562.575
+00000000|MMI|14.64|Bulla|C0005758|[patf]|["BLISTERS"-tx-8-"blisters"-noun-0]|TX|1502/8|C17.800.865.187;C23.300.122
+00000000|MMI|14.64|Dyspnea|C0013404|[sosy]|["DIFFICULTY BREATHING"-tx-8-"difficulty breathing"-noun-0]|TX|1628/20|C08.618.326;C23.888.852.371
+00000000|MMI|14.64|Eosinophilia|C0014457|[dsyn]|["EOSINOPHILIA"-tx-8-"eosinophilia"-noun-0]|TX|1602/12|C15.378.553.231
+00000000|MMI|14.64|Graves Disease|C0018213|[dsyn]|["GRAVE DISEASE"-tx-20-"Graves disease"-noun-0]|TX|3697/6,3705/7|C11.675.349.500;C19.874.283.605;C19.874.397.370;C20.111.555
+00000000|MMI|14.60|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-14-"therapy"-noun-0,"Therapy"-tx-13-"therapy"-noun-0,"Therapy"-tx-9-"therapy"-noun-0,"Therapy"-tx-4-"therapy"-noun-0]|TX|2591/7;2468/7;1739/7;660/7|
+00000000|MMI|13.52|Liver diseases|C0023895|[dsyn]|["HEPATIC DISEASE"-tx-14-"hepatic disease"-noun-0,"HEPATIC DISEASE"-tx-4-"hepatic disease"-noun-0]|TX|2656/15;724/15|C06.552
+00000000|MMI|13.05|Fever|C0015967|[fndg]|["FEVER"-tx-8-"fever"-noun-1]|TX|1446/5|C23.888.119.344
+00000000|MMI|11.49|Conjunctivitis|C0009763|[dsyn]|["CONJUNCTIVITIS"-tx-8-"conjunctivitis"-noun-0]|TX|1561/14|C11.187.183
+00000000|MMI|11.49|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-8-"fatigue"-noun-0]|TX|1470/7|C23.888.369
+00000000|MMI|11.49|Hepatitis|C0019158|[dsyn]|["HEPATITIS"-tx-8-"hepatitis"-noun-0]|TX|1591/9|C06.552.380
+00000000|MMI|10.93|Immune reconstitution syndrome|C1096197|[dsyn]|["Immune reconstitution syndrome"-tx-18-"Immune Reconstitution Syndrome"-noun-0,"Immune reconstitution syndrome"-tx-13-"immune reconstitution syndrome"-noun-0,"Immune reconstitution syndrome"-tx-5-"immune reconstitution syndrome"-noun-0]|TX|3135/30;2360/30;827/30|
+00000000|MMI|10.68|combination - answer to question|C3811910|[fndg]|["Combination"-tx-19-"combination"-noun-0,"Combination"-tx-18-"combination"-noun-0,"Combination"-tx-5-"combination"-noun-0]|TX|3328/11;3245/11;902/11|
+00000000|MMI|10.42|Discontinued|C1444662|[fndg]|["Discontinue"-tx-8-"Discontinue"-verb-0,"Discontinue"-tx-2-"Discontinue"-verb-0]|TX|1263/11;206/11|
+00000000|MMI|10.42|Injury of liver|C0160390|[inpo]|["LIVER INJURY"-tx-6-"liver injury"-noun-0,"LIVER INJURY"-tx-1-"liver injury"-noun-0]|TX|1150/12;172/12|
+00000000|MMI|10.42|Physical findings|C0311392|[fndg]|["SIGNS"-tx-8-"signs"-noun-0,"SIGNS"-tx-2-"signs"-noun-0]|TX|1323/5;266/5|
+00000000|MMI|10.42|Worse|C1457868|[fndg]|["Worsening"-tx-12-"worsening"-noun-0,"Worsening"-tx-3-"worsening"-noun-0]|TX|2188/9;487/9|
+00000000|MMI|10.06|Opportunistic Infections|C0029118|[dsyn]|["Opportunistic Infections"-tx-19-"opportunistic infections"-noun-0]|TX|3465/24|C01.539.597;C02.597;C03.684
+00000000|MMI|8.34|Autoimmune Diseases|C0004364|[dsyn]|["Autoimmune Disorders"-tx-20-"Autoimmune disorders"-noun-0]|TX|3667/20|C20.111
+00000000|MMI|8.28|Constitutional Symptom|C0009812|[sosy]|["Constitutional Finding"-tx-6-"constitutional findings"-noun-0,"Constitutional Finding"-tx-1-"constitutional findings"-noun-0]|TX|1082/23;104/23|
+00000000|MMI|7.44|Single organ dysfunction|C0349410|[sosy]|["Organ Malfunction"-tx-6-"organ dysfunction"-noun-0,"Organ Malfunction"-tx-1-"organ dysfunction"-noun-0]|TX|1121/17;143/17|
+00000000|MMI|7.22|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-10-"life-threatening"-adj-0,"Life Threatening"-tx-2-"life-threatening"-adj-0]|TX|1875/16;372/16|
+00000000|MMI|7.22|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-10-"life-threatening"-adj-0,"LIFE THREATENING"-tx-2-"life-threatening"-adj-0]|TX|1875/16;372/16|
+00000000|MMI|7.22|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-10-"life-threatening"-adj-0,"LIFE THREATENING"-tx-2-"life-threatening"-adj-0]|TX|1875/16;372/16|
+00000000|MMI|7.18|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-8-"symptoms"-noun-0,"SYMPTOMS"-tx-2-"symptoms"-noun-0]|TX|1332/8;275/8|
+00000000|MMI|7.14|Experimental Result|C2825142|[fndg]|["Result"-tx-10-"result"-verb-0,"Result"-tx-2-"result"-verb-0]|TX|1863/6;360/6|
+00000000|MMI|7.14|Accumulation|C4055506|[fndg]|["ACCUMULATION"-tx-15-"accumulation"-noun-0,"ACCUMULATION"-tx-5-"accumulation"-noun-0]|TX|2748/12;798/12|
+00000000|MMI|6.94|Hepatotoxicity|C0235378|[inpo]|["HEPATOTOXICITY"-tx-14-"hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-4-"hepatotoxicity"-noun-0]|TX|2569/14;638/14|
+00000000|MMI|6.94|body fat percentage (physical finding)|C0518026|[fndg]|["body fat"-tx-15-"Fat body"-noun-0,"body fat"-tx-5-"body fat"-noun-0]|TX|2709/3,2764/4;814/8|
+00000000|MMI|6.93|Fat redistribution|C0856151|[dsyn]|["Fat redistribution"-tx-15-"Fat Redistribution"-noun-0,"Fat redistribution"-tx-5-"Redistribution fat"-noun-0]|TX|2709/18;783/14,819/3|
+00000000|MMI|6.92|Therapy Appropriate|C1555288|[fndg]|["Therapy Appropriate"-tx-14-"Appropriate therapy"-noun-0,"Therapy Appropriate"-tx-4-"Appropriate therapy"-noun-0]|TX|2491/11,2542/7;560/11,611/7|
+00000000|MMI|5.18|Abnormal blistering of the skin|C2132198|[fndg]|["Blisters"-tx-8-"blisters"-noun-0]|TX|1502/8|
+00000000|MMI|5.18|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-12-"Adverse Reactions"-noun-0]|TX|2265/17|
+00000000|MMI|5.18|Breast enlargement female|C0235648|[fndg]|["breast enlargement"-tx-15-"breast enlargement"-noun-0]|TX|2883/18|
+00000000|MMI|5.18|Buffalo hump|C0520573|[acab]|["BUFFALO HUMP"-tx-15-"buffalo hump"-noun-0]|TX|2832/12|
+00000000|MMI|5.18|CUSHINGOID APPEARANCE|C0742929|[dsyn]|["CUSHINGOID APPEARANCE"-tx-15-"cushingoid appearance"-noun-0]|TX|2908/21|
+00000000|MMI|5.18|Eosinophilic disorder|C1306759|[dsyn]|["Eosinophilia"-tx-8-"eosinophilia"-noun-0]|TX|1602/12|
+00000000|MMI|5.18|Facial edema|C0542571|[patf]|["FACIAL EDEMA"-tx-8-"facial edema"-noun-0]|TX|1577/12|
+00000000|MMI|5.18|Facial swelling|C0151602|[fndg]|["Facial Oedema"-tx-8-"facial edema"-noun-0]|TX|1577/12|
+00000000|MMI|5.18|Facial wasting|C1112303|[dsyn]|["Facial wasting"-tx-15-"facial wasting"-noun-0]|TX|2867/14|
+00000000|MMI|5.18|Hypertrophy of Breast|C0020565|[patf]|["breast enlargement"-tx-15-"breast enlargement"-noun-0]|TX|2883/18|
+00000000|MMI|5.18|Lesion|C0221198|[fndg]|["Lesions"-tx-8-"lesions"-noun-0]|TX|1552/7|
+00000000|MMI|5.18|Macromastia|C2225524|[fndg]|["BREAST ENLARGEMENT"-tx-15-"breast enlargement"-noun-0]|TX|2883/18|
+00000000|MMI|5.18|Malaise|C0231218|[sosy]|["General malaise"-tx-8-"general malaise"-noun-1]|TX|1453/15|
+00000000|MMI|5.18|Mycobacterium avium infection|C1411980|[dsyn]|["Mycobacterium avium infection"-tx-19-"Mycobacterium avium infection"-noun-0]|TX|3499/19,3520/9|
+00000000|MMI|5.18|Oral blisters|C2673616|[fndg]|["Oral blisters"-tx-8-"oral blisters"-noun-0]|TX|1535/13|
+00000000|MMI|5.18|Withdrawal (dysfunction)|C2825032|[mobd]|["Withdrawn"-tx-13-"withdrawn"-verb-0]|TX|2480/9|
+00000000|MMI|5.18|Withdrawn|C0424092|[fndg]|["Withdrawn"-tx-13-"withdrawn"-verb-0]|TX|2480/9|
+00000000|MMI|3.75|Fat hypertrophy|C0406602|[patf]|["Fat enlargement"-tx-15-"fat enlargement"-noun-0]|TX|2815/15|
+00000000|MMI|3.71|Peeling of skin|C0237849|[fndg]|["Peeling of skin"-tx-8-"peeling of skin"-noun-0]|TX|1514/10,1529/4|
+00000000|MMI|3.68|Wasting|C0235394|[dsyn]|["WASTING"-tx-15-"wasting"-noun-0]|TX|2858/7|
+00000000|MMI|3.64|Limited Walking Ability|C2674459|[fndg]|["Limited"-tx-8-"limited"-verb-1]|TX|1399/7|
+00000000|MMI|3.61|inflammatory response|C1155266|[patf]|["Inflammatory Response"-tx-19-"inflammatory response"-noun-0]|TX|3419/21|
+00000000|MMI|3.59|Contraindicated|C1444657|[fndg]|["Contraindicated"-tx-11-"contraindicated"-verb-0]|TX|1913/15|
+00000000|MMI|3.59|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-8-"fever"-noun-1]|TX|1446/5|
+00000000|MMI|3.57|Hepatitis B reactivation|C1142420|[dsyn]|["Hepatitis B reactivation"-tx-13-"hepatitis B reactivation"-noun-0]|TX|2394/24|
+00000000|MMI|3.57|1+|C3816745|[fndg]|["1+"-tx-7-"1"-percentage-0]|TX|1202/1|
+00000000|MMI|3.44|Other hypersensitivity|C0301925|[patf]|["Hypersensitivity, other"-tx-10-"other hypersensitivity"-noun-0]|TX|1802/5,1842/16|
+00000000|MMI|3.44|underlying infection|C0749769|[dsyn]|["infection underlying"-tx-12-"infection underlying"-noun-0]|TX|2102/9,2131/10|

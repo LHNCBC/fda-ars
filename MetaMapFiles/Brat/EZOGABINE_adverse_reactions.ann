@@ -1,0 +1,745 @@
+T1	AdverseReaction 153 174	Retinal abnormalities
+T2	AdverseReaction 189 200	vision loss
+T3	Factor 179 188	potential
+T4	AdverseReaction 246 263	Urinary retention
+T5	AdverseReaction 309 327	Skin discoloration
+T6	AdverseReaction 373 398	Neuropsychiatric symptoms
+T7	AdverseReaction 444 453	Dizziness
+T8	AdverseReaction 458 468	somnolence
+T9	AdverseReaction 578 595	Suicidal behavior
+T10	AdverseReaction 578 586;600 608	Suicidal ideation
+T11	AdverseReaction 654 673	Withdrawal seizures
+T12	AdverseReaction 800 809	dizziness
+T13	AdverseReaction 811 821	somnolence
+T14	AdverseReaction 823 830	fatigue
+T15	AdverseReaction 832 849	confusional state
+T16	AdverseReaction 851 858	vertigo
+T17	AdverseReaction 860 866	tremor
+T18	AdverseReaction 868 889	abnormal coordination
+T19	AdverseReaction 891 899	diplopia
+T20	AdverseReaction 901 925	disturbance in attention
+T21	AdverseReaction 927 944	memory impairment
+T22	AdverseReaction 946 954	asthenia
+T23	AdverseReaction 956 970	blurred vision
+T24	AdverseReaction 972 988	gait disturbance
+T25	AdverseReaction 990 997	aphasia
+T26	AdverseReaction 999 1009	dysarthria
+T27	AdverseReaction 1015 1031	balance disorder
+T28	AdverseReaction 2212 2221	dizziness
+T29	AdverseReaction 2228 2245	confusional state
+T30	AdverseReaction 2252 2259	fatigue
+T31	AdverseReaction 2270 2280	somnolence
+T32	AdverseReaction 2507 2516	dizziness
+T33	AdverseReaction 2524 2534	somnolence
+T34	AdverseReaction 2542 2549	fatigue
+T35	AdverseReaction 2557 2574	confusional state
+T36	AdverseReaction 2581 2588	vertigo
+T37	AdverseReaction 2595 2601	tremor
+T38	AdverseReaction 2608 2629	abnormal coordination
+T39	AdverseReaction 2636 2644	diplopia
+T40	AdverseReaction 2651 2675	disturbance in attention
+T41	AdverseReaction 2682 2699	memory impairment
+T42	AdverseReaction 2706 2714	asthenia
+T43	AdverseReaction 2721 2735	blurred vision
+T44	AdverseReaction 2742 2758	gait disturbance
+T45	AdverseReaction 2765 2772	aphasia
+T46	AdverseReaction 2779 2789	dysarthria
+T47	AdverseReaction 2800 2816	balance disorder
+T48	AdverseReaction 3647 3655	Diplopia
+T49	AdverseReaction 3842 3856	Blurred vision
+T50	AdverseReaction 4232 4238	Nausea
+T51	AdverseReaction 4427 4439	Constipation
+T52	AdverseReaction 4622 4631	Dyspepsia
+T53	AdverseReaction 5012 5019	Fatigue
+T54	AdverseReaction 5207 5215	Asthenia
+T55	AdverseReaction 5597 5606	Influenza
+T56	AdverseReaction 5987 6003	Weight increased
+T57	AdverseReaction 6377 6386	Dizziness
+T58	AdverseReaction 6572 6582	Somnolence
+T59	AdverseReaction 6767 6794	Memory impairment          
+T60	AdverseReaction 6962 6968	Tremor
+T61	AdverseReaction 7157 7164	Vertigo
+T62	AdverseReaction 7352 7379	Abnormal coordination      
+T63	AdverseReaction 7547 7571	Disturbance in attention
+T64	AdverseReaction 7742 7758	Gait disturbance
+T65	AdverseReaction 7937 7944	Aphasia
+T66	AdverseReaction 8132 8142	Dysarthria
+T67	AdverseReaction 8327 8343	Balance disorder
+T68	AdverseReaction 8522 8533	Paresthesia
+T69	AdverseReaction 8717 8724	Amnesia
+T70	AdverseReaction 8912 8921	Dysphasia
+T71	AdverseReaction 9302 9319	Confusional state
+T72	AdverseReaction 9497 9504	Anxiety
+T73	AdverseReaction 9692 9706	Disorientation
+T74	AdverseReaction 9887 9905	Psychotic disorder
+T75	AdverseReaction 10277 10284	Dysuria
+T76	AdverseReaction 10472 10490	Urinary hesitation
+T77	AdverseReaction 10667 10676	Hematuria
+T78	AdverseReaction 10862 10873	Chromaturia
+T79	AdverseReaction 11172 11190	increased appetite
+T80	AdverseReaction 11192 11206	hallucinations
+T81	AdverseReaction 11208 11217	myoclonus
+T82	AdverseReaction 11219 11235	peripheral edema
+T83	AdverseReaction 11237 11248	hypokinesia
+T84	AdverseReaction 11250 11259	dry mouth
+T85	AdverseReaction 11261 11270	dysphagia
+T86	AdverseReaction 11272 11285	hyperhydrosis
+T87	AdverseReaction 11287 11304	urinary retention
+T88	AdverseReaction 11306 11313	malaise
+T89	AdverseReaction 11319 11342	increased liver enzymes
+T90	AdverseReaction 11488 11497	dizziness
+T91	AdverseReaction 11499 11509	somnolence
+T92	AdverseReaction 11511 11528	confusional state
+T93	AdverseReaction 11530 11536	tremor
+T94	AdverseReaction 11538 11559	abnormal coordination
+T95	AdverseReaction 11561 11578	memory impairment
+T96	AdverseReaction 11580 11594	blurred vision
+T97	AdverseReaction 11596 11612	gait disturbance
+T98	AdverseReaction 11614 11621	aphasia
+T99	AdverseReaction 11623 11639	balance disorder
+T100	AdverseReaction 11641 11653	constipation
+T101	AdverseReaction 11655 11662	dysuria
+T102	AdverseReaction 11668 11679	chromaturia
+T103	AdverseReaction 11725 11736	weight gain
+T104	AdverseReaction 11748 11765	weight increasing
+T105	AdverseReaction 12096 12100	rash
+T106	AdverseReaction 12102 12111	nystagmus
+T107	AdverseReaction 12113 12120	dyspnea
+T108	AdverseReaction 12122 12132	leukopenia
+T109	AdverseReaction 12134 12146	muscle spasm
+T110	AdverseReaction 12149 12157	alopecia
+T111	AdverseReaction 12159 12174	nephrolithiasis
+T112	AdverseReaction 12176 12183	syncope
+T113	AdverseReaction 12185 12196	neutropenia
+T114	AdverseReaction 12198 12214	thrombocytopenia
+T115	AdverseReaction 12216 12229	euphoric mood
+T116	AdverseReaction 12231 12242	renal colic
+T117	AdverseReaction 12244 12248	coma
+T118	AdverseReaction 12250 12264	encephalopathy
+T119	AdverseReaction 514 532	QT interval effect
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Hypothetical:E3
+E3	Factor:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91
+E92	AdverseReaction:T92
+E93	AdverseReaction:T93
+E94	AdverseReaction:T94
+E95	AdverseReaction:T95
+E96	AdverseReaction:T96
+E97	AdverseReaction:T97
+E98	AdverseReaction:T98
+E99	AdverseReaction:T99
+E100	AdverseReaction:T100
+E101	AdverseReaction:T101
+E102	AdverseReaction:T102
+E103	AdverseReaction:T103
+E104	AdverseReaction:T104
+E105	AdverseReaction:T105
+E106	AdverseReaction:T106
+E107	AdverseReaction:T107
+E108	AdverseReaction:T108
+E109	AdverseReaction:T109
+E110	AdverseReaction:T110
+E111	AdverseReaction:T111
+E112	AdverseReaction:T112
+E113	AdverseReaction:T113
+E114	AdverseReaction:T114
+E115	AdverseReaction:T115
+E116	AdverseReaction:T116
+E117	AdverseReaction:T117
+E118	AdverseReaction:T118
+E119	AdverseReaction:T119
+A1	CUI E1 C0035300
+A2	UMLS-Preferred-Name E1 Abnormality of the retina
+A3	MEDDRA-PT E1 Retinal disorder
+A4	MEDDRA-PT-ID E1 10038853
+A5	CUI E2 C3665386
+A6	UMLS-Preferred-Name E2 Abnormal vision
+A7	MEDDRA-PT E2 Blindness
+A8	MEDDRA-PT-ID E2 10005169
+A9	LLT E2 Vision loss
+A10	LLT-ID E2 10047522
+A11	CUI E4 C0080274
+A12	UMLS-Preferred-Name E4 Urinary Retention
+A13	MEDDRA-PT E4 Urinary retention
+A14	MEDDRA-PT-ID E4 10046555
+A15	CUI E5 C0151907
+A16	UMLS-Preferred-Name E5 Discoloration of skin
+A17	MEDDRA-PT E5 Skin discolouration
+A18	MEDDRA-PT-ID E5 10040829
+A19	LLT E5 Skin discoloration
+A20	LLT-ID E5 10040828
+A21	flag E6 unmapped
+A22	CUI E6 C3534763
+A23	UMLS-Preferred-Name E6 One or more neuropsychiatric symptoms
+A24	CUI E7 C0012833
+A25	UMLS-Preferred-Name E7 Dizziness
+A26	MEDDRA-PT E7 Dizziness
+A27	MEDDRA-PT-ID E7 10013573
+A28	CUI E8 C2830004
+A29	UMLS-Preferred-Name E8 Somnolence
+A30	MEDDRA-PT E8 Somnolence
+A31	MEDDRA-PT-ID E8 10041349
+A32	CUI E9 C1760428
+A33	UMLS-Preferred-Name E9 Suicidal behavior
+A34	MEDDRA-PT E9 Suicidal behaviour
+A35	MEDDRA-PT-ID E9 10065604
+A36	LLT E9 Suicidal behavior
+A37	LLT-ID E9 10065607
+A38	CUI E10 C0424000
+A39	UMLS-Preferred-Name E10 Feeling suicidal (finding)
+A40	MEDDRA-PT E10 Suicidal ideation
+A41	MEDDRA-PT-ID E10 10042458
+A42	CUI E11 C0235097
+A43	UMLS-Preferred-Name E11 Withdrawal seizures
+A44	MEDDRA-PT E11 Drug withdrawal convulsions
+A45	MEDDRA-PT-ID E11 10013752
+A46	LLT E11 Withdrawal seizures
+A47	LLT-ID E11 10048009
+A48	CUI E12 C0012833
+A49	UMLS-Preferred-Name E12 Dizziness
+A50	MEDDRA-PT E12 Dizziness
+A51	MEDDRA-PT-ID E12 10013573
+A52	CUI E13 C2830004
+A53	UMLS-Preferred-Name E13 Somnolence
+A54	MEDDRA-PT E13 Somnolence
+A55	MEDDRA-PT-ID E13 10041349
+A56	CUI E14 C0015672
+A57	UMLS-Preferred-Name E14 Fatigue
+A58	MEDDRA-PT E14 Fatigue
+A59	MEDDRA-PT-ID E14 10016256
+A60	CUI E15 C0009676
+A61	UMLS-Preferred-Name E15 Confusion
+A62	MEDDRA-PT E15 Confusional state
+A63	MEDDRA-PT-ID E15 10010305
+A64	CUI E16 C0042571
+A65	UMLS-Preferred-Name E16 Vertigo
+A66	MEDDRA-PT E16 Vertigo
+A67	MEDDRA-PT-ID E16 10047340
+A68	CUI E17 C0040822
+A69	UMLS-Preferred-Name E17 Tremor
+A70	MEDDRA-PT E17 Tremor
+A71	MEDDRA-PT-ID E17 10044565
+A72	CUI E18 C0520966
+A73	UMLS-Preferred-Name E18 Abnormal coordination
+A74	MEDDRA-PT E18 Coordination abnormal
+A75	MEDDRA-PT-ID E18 10010947
+A76	CUI E19 C0012569
+A77	UMLS-Preferred-Name E19 Diplopia
+A78	MEDDRA-PT E19 Diplopia
+A79	MEDDRA-PT-ID E19 10013036
+A80	CUI E20 C0233414
+A81	UMLS-Preferred-Name E20 Disturbance of attention
+A82	MEDDRA-PT E20 Disturbance in attention
+A83	MEDDRA-PT-ID E20 10013496
+A84	CUI E21 C0233794
+A85	UMLS-Preferred-Name E21 Memory impairment
+A86	MEDDRA-PT E21 Memory impairment
+A87	MEDDRA-PT-ID E21 10027175
+A88	CUI E22 C0004093
+A89	UMLS-Preferred-Name E22 Asthenia
+A90	MEDDRA-PT E22 Asthenia
+A91	MEDDRA-PT-ID E22 10003549
+A92	CUI E23 C0344232
+A93	UMLS-Preferred-Name E23 Blurred vision
+A94	MEDDRA-PT E23 Vision blurred
+A95	MEDDRA-PT-ID E23 10047513
+A96	LLT E23 Blurred vision
+A97	LLT-ID E23 10005886
+A98	CUI E24 C0575081
+A99	UMLS-Preferred-Name E24 Gait abnormality
+A100	MEDDRA-PT E24 Gait disturbance
+A101	MEDDRA-PT-ID E24 10017577
+A102	CUI E25 C0003537
+A103	UMLS-Preferred-Name E25 Aphasia
+A104	MEDDRA-PT E25 Aphasia
+A105	MEDDRA-PT-ID E25 10002948
+A106	CUI E26 C0013362
+A107	UMLS-Preferred-Name E26 Dysarthria
+A108	MEDDRA-PT E26 Dysarthria
+A109	MEDDRA-PT-ID E26 10013887
+A110	CUI E27 C0575090
+A111	UMLS-Preferred-Name E27 Equilibration disorder
+A112	MEDDRA-PT E27 Balance disorder
+A113	MEDDRA-PT-ID E27 10049848
+A114	CUI E28 C0012833
+A115	UMLS-Preferred-Name E28 Dizziness
+A116	MEDDRA-PT E28 Dizziness
+A117	MEDDRA-PT-ID E28 10013573
+A118	CUI E29 C0009676
+A119	UMLS-Preferred-Name E29 Confusion
+A120	MEDDRA-PT E29 Confusional state
+A121	MEDDRA-PT-ID E29 10010305
+A122	CUI E30 C0015672
+A123	UMLS-Preferred-Name E30 Fatigue
+A124	MEDDRA-PT E30 Fatigue
+A125	MEDDRA-PT-ID E30 10016256
+A126	CUI E31 C2830004
+A127	UMLS-Preferred-Name E31 Somnolence
+A128	MEDDRA-PT E31 Somnolence
+A129	MEDDRA-PT-ID E31 10041349
+A130	CUI E32 C0012833
+A131	UMLS-Preferred-Name E32 Dizziness
+A132	MEDDRA-PT E32 Dizziness
+A133	MEDDRA-PT-ID E32 10013573
+A134	CUI E33 C2830004
+A135	UMLS-Preferred-Name E33 Somnolence
+A136	MEDDRA-PT E33 Somnolence
+A137	MEDDRA-PT-ID E33 10041349
+A138	CUI E34 C0015672
+A139	UMLS-Preferred-Name E34 Fatigue
+A140	MEDDRA-PT E34 Fatigue
+A141	MEDDRA-PT-ID E34 10016256
+A142	CUI E35 C0009676
+A143	UMLS-Preferred-Name E35 Confusion
+A144	MEDDRA-PT E35 Confusional state
+A145	MEDDRA-PT-ID E35 10010305
+A146	CUI E36 C0042571
+A147	UMLS-Preferred-Name E36 Vertigo
+A148	MEDDRA-PT E36 Vertigo
+A149	MEDDRA-PT-ID E36 10047340
+A150	CUI E37 C0040822
+A151	UMLS-Preferred-Name E37 Tremor
+A152	MEDDRA-PT E37 Tremor
+A153	MEDDRA-PT-ID E37 10044565
+A154	CUI E38 C0520966
+A155	UMLS-Preferred-Name E38 Abnormal coordination
+A156	MEDDRA-PT E38 Coordination abnormal
+A157	MEDDRA-PT-ID E38 10010947
+A158	CUI E39 C0012569
+A159	UMLS-Preferred-Name E39 Diplopia
+A160	MEDDRA-PT E39 Diplopia
+A161	MEDDRA-PT-ID E39 10013036
+A162	CUI E40 C0233414
+A163	UMLS-Preferred-Name E40 Disturbance of attention
+A164	MEDDRA-PT E40 Disturbance in attention
+A165	MEDDRA-PT-ID E40 10013496
+A166	CUI E41 C0233794
+A167	UMLS-Preferred-Name E41 Memory impairment
+A168	MEDDRA-PT E41 Memory impairment
+A169	MEDDRA-PT-ID E41 10027175
+A170	CUI E42 C0004093
+A171	UMLS-Preferred-Name E42 Asthenia
+A172	MEDDRA-PT E42 Asthenia
+A173	MEDDRA-PT-ID E42 10003549
+A174	CUI E43 C0344232
+A175	UMLS-Preferred-Name E43 Blurred vision
+A176	MEDDRA-PT E43 Vision blurred
+A177	MEDDRA-PT-ID E43 10047513
+A178	LLT E43 Blurred vision
+A179	LLT-ID E43 10005886
+A180	CUI E44 C0575081
+A181	UMLS-Preferred-Name E44 Gait abnormality
+A182	MEDDRA-PT E44 Gait disturbance
+A183	MEDDRA-PT-ID E44 10017577
+A184	CUI E45 C0003537
+A185	UMLS-Preferred-Name E45 Aphasia
+A186	MEDDRA-PT E45 Aphasia
+A187	MEDDRA-PT-ID E45 10002948
+A188	CUI E46 C0013362
+A189	UMLS-Preferred-Name E46 Dysarthria
+A190	MEDDRA-PT E46 Dysarthria
+A191	MEDDRA-PT-ID E46 10013887
+A192	CUI E47 C0575090
+A193	UMLS-Preferred-Name E47 Equilibration disorder
+A194	MEDDRA-PT E47 Balance disorder
+A195	MEDDRA-PT-ID E47 10049848
+A196	CUI E48 C0012569
+A197	UMLS-Preferred-Name E48 Diplopia
+A198	MEDDRA-PT E48 Diplopia
+A199	MEDDRA-PT-ID E48 10013036
+A200	CUI E49 C0344232
+A201	UMLS-Preferred-Name E49 Blurred vision
+A202	MEDDRA-PT E49 Vision blurred
+A203	MEDDRA-PT-ID E49 10047513
+A204	LLT E49 Blurred vision
+A205	LLT-ID E49 10005886
+A206	CUI E50 C0027497
+A207	UMLS-Preferred-Name E50 Nausea
+A208	MEDDRA-PT E50 Nausea
+A209	MEDDRA-PT-ID E50 10028813
+A210	CUI E51 C0009806
+A211	UMLS-Preferred-Name E51 Constipation
+A212	MEDDRA-PT E51 Constipation
+A213	MEDDRA-PT-ID E51 10010774
+A214	CUI E52 C0013395
+A215	UMLS-Preferred-Name E52 Dyspepsia
+A216	MEDDRA-PT E52 Dyspepsia
+A217	MEDDRA-PT-ID E52 10013946
+A218	CUI E53 C0015672
+A219	UMLS-Preferred-Name E53 Fatigue
+A220	MEDDRA-PT E53 Fatigue
+A221	MEDDRA-PT-ID E53 10016256
+A222	CUI E54 C0004093
+A223	UMLS-Preferred-Name E54 Asthenia
+A224	MEDDRA-PT E54 Asthenia
+A225	MEDDRA-PT-ID E54 10003549
+A226	CUI E55 C0021400
+A227	UMLS-Preferred-Name E55 Influenza
+A228	MEDDRA-PT E55 Influenza
+A229	MEDDRA-PT-ID E55 10022000
+A230	CUI E56 C0043094
+A231	UMLS-Preferred-Name E56 Weight Gain
+A232	MEDDRA-PT E56 Weight increased
+A233	MEDDRA-PT-ID E56 10047899
+A234	CUI E57 C0012833
+A235	UMLS-Preferred-Name E57 Dizziness
+A236	MEDDRA-PT E57 Dizziness
+A237	MEDDRA-PT-ID E57 10013573
+A238	CUI E58 C2830004
+A239	UMLS-Preferred-Name E58 Somnolence
+A240	MEDDRA-PT E58 Somnolence
+A241	MEDDRA-PT-ID E58 10041349
+A242	CUI E59 C0233794
+A243	UMLS-Preferred-Name E59 Memory impairment
+A244	MEDDRA-PT E59 Memory impairment
+A245	MEDDRA-PT-ID E59 10027175
+A246	CUI E60 C0040822
+A247	UMLS-Preferred-Name E60 Tremor
+A248	MEDDRA-PT E60 Tremor
+A249	MEDDRA-PT-ID E60 10044565
+A250	CUI E61 C0042571
+A251	UMLS-Preferred-Name E61 Vertigo
+A252	MEDDRA-PT E61 Vertigo
+A253	MEDDRA-PT-ID E61 10047340
+A254	CUI E62 C0520966
+A255	UMLS-Preferred-Name E62 Abnormal coordination
+A256	MEDDRA-PT E62 Coordination abnormal
+A257	MEDDRA-PT-ID E62 10010947
+A258	CUI E63 C0233414
+A259	UMLS-Preferred-Name E63 Disturbance of attention
+A260	MEDDRA-PT E63 Disturbance in attention
+A261	MEDDRA-PT-ID E63 10013496
+A262	CUI E64 C0575081
+A263	UMLS-Preferred-Name E64 Gait abnormality
+A264	MEDDRA-PT E64 Gait disturbance
+A265	MEDDRA-PT-ID E64 10017577
+A266	CUI E65 C0003537
+A267	UMLS-Preferred-Name E65 Aphasia
+A268	MEDDRA-PT E65 Aphasia
+A269	MEDDRA-PT-ID E65 10002948
+A270	CUI E66 C0013362
+A271	UMLS-Preferred-Name E66 Dysarthria
+A272	MEDDRA-PT E66 Dysarthria
+A273	MEDDRA-PT-ID E66 10013887
+A274	CUI E67 C0575090
+A275	UMLS-Preferred-Name E67 Equilibration disorder
+A276	MEDDRA-PT E67 Balance disorder
+A277	MEDDRA-PT-ID E67 10049848
+A278	CUI E68 C0030554
+A279	UMLS-Preferred-Name E68 Paresthesia
+A280	MEDDRA-PT E68 Paraesthesia
+A281	MEDDRA-PT-ID E68 10033775
+A282	LLT E68 Paresthesia
+A283	LLT-ID E68 10033987
+A284	CUI E69 C0002622
+A285	UMLS-Preferred-Name E69 Amnesia
+A286	MEDDRA-PT E69 Amnesia
+A287	MEDDRA-PT-ID E69 10001949
+A288	CUI E70 C0973461
+A289	UMLS-Preferred-Name E70 Dysphasia
+A290	MEDDRA-PT E70 Aphasia
+A291	MEDDRA-PT-ID E70 10002948
+A292	LLT E70 Dysphasia
+A293	LLT-ID E70 10013951
+A294	CUI E71 C0009676
+A295	UMLS-Preferred-Name E71 Confusion
+A296	MEDDRA-PT E71 Confusional state
+A297	MEDDRA-PT-ID E71 10010305
+A298	CUI E72 C0003467
+A299	UMLS-Preferred-Name E72 Anxiety
+A300	MEDDRA-PT E72 Anxiety
+A301	MEDDRA-PT-ID E72 10002855
+A302	CUI E73 C0233407
+A303	UMLS-Preferred-Name E73 Disorientation
+A304	MEDDRA-PT E73 Disorientation
+A305	MEDDRA-PT-ID E73 10013395
+A306	CUI E74 C0033975
+A307	UMLS-Preferred-Name E74 Psychotic Disorders
+A308	MEDDRA-PT E74 Psychotic disorder
+A309	MEDDRA-PT-ID E74 10061920
+A310	CUI E75 C0013428
+A311	UMLS-Preferred-Name E75 Dysuria
+A312	MEDDRA-PT E75 Dysuria
+A313	MEDDRA-PT-ID E75 10013990
+A314	CUI E76 C0152032
+A315	UMLS-Preferred-Name E76 Urinary hesitation
+A316	MEDDRA-PT E76 Urinary hesitation
+A317	MEDDRA-PT-ID E76 10046542
+A318	CUI E77 C0018965
+A319	UMLS-Preferred-Name E77 Hematuria
+A320	MEDDRA-PT E77 Haematuria
+A321	MEDDRA-PT-ID E77 10018867
+A322	LLT E77 Hematuria
+A323	LLT-ID E77 10019450
+A324	CUI E78 C0541832
+A325	UMLS-Preferred-Name E78 Chromaturia
+A326	MEDDRA-PT E78 Chromaturia
+A327	MEDDRA-PT-ID E78 10008796
+A328	CUI E79 C0232461
+A329	UMLS-Preferred-Name E79 Increased appetite (finding)
+A330	MEDDRA-PT E79 Increased appetite
+A331	MEDDRA-PT-ID E79 10021654
+A332	CUI E80 C0018524
+A333	UMLS-Preferred-Name E80 Hallucinations
+A334	MEDDRA-PT E80 Hallucination
+A335	MEDDRA-PT-ID E80 10019063
+A336	LLT E80 Hallucinations
+A337	LLT-ID E80 10019077
+A338	CUI E81 C0027066
+A339	UMLS-Preferred-Name E81 Myoclonus
+A340	MEDDRA-PT E81 Myoclonus
+A341	MEDDRA-PT-ID E81 10028622
+A342	CUI E82 C0085649
+A343	UMLS-Preferred-Name E82 Peripheral edema
+A344	MEDDRA-PT E82 Oedema peripheral
+A345	MEDDRA-PT-ID E82 10030124
+A346	LLT E82 Peripheral edema
+A347	LLT-ID E82 10034570
+A348	CUI E83 C0086439
+A349	UMLS-Preferred-Name E83 Hypokinesia
+A350	MEDDRA-PT E83 Hypokinesia
+A351	MEDDRA-PT-ID E83 10021021
+A352	CUI E84 C0043352
+A353	UMLS-Preferred-Name E84 Xerostomia
+A354	MEDDRA-PT E84 Dry mouth
+A355	MEDDRA-PT-ID E84 10013781
+A356	CUI E85 C0011168
+A357	UMLS-Preferred-Name E85 Deglutition Disorders
+A358	MEDDRA-PT E85 Dysphagia
+A359	MEDDRA-PT-ID E85 10013950
+A360	CUI E86 C0020458
+A361	UMLS-Preferred-Name E86 Hyperhidrosis disorder
+A362	MEDDRA-PT E86 Hyperhidrosis
+A363	MEDDRA-PT-ID E86 10020642
+A364	CUI E87 C0080274
+A365	UMLS-Preferred-Name E87 Urinary Retention
+A366	MEDDRA-PT E87 Urinary retention
+A367	MEDDRA-PT-ID E87 10046555
+A368	CUI E88 C0231218
+A369	UMLS-Preferred-Name E88 Malaise
+A370	MEDDRA-PT E88 Malaise
+A371	MEDDRA-PT-ID E88 10025482
+A372	CUI E89 C0235996
+A373	UMLS-Preferred-Name E89 Elevated liver enzymes
+A374	MEDDRA-PT E89 Hepatic enzyme increased
+A375	MEDDRA-PT-ID E89 10060795
+A376	LLT E89 Elevated liver enzymes
+A377	LLT-ID E89 10014481
+A378	CUI E90 C0012833
+A379	UMLS-Preferred-Name E90 Dizziness
+A380	MEDDRA-PT E90 Dizziness
+A381	MEDDRA-PT-ID E90 10013573
+A382	CUI E91 C2830004
+A383	UMLS-Preferred-Name E91 Somnolence
+A384	MEDDRA-PT E91 Somnolence
+A385	MEDDRA-PT-ID E91 10041349
+A386	CUI E92 C0009676
+A387	UMLS-Preferred-Name E92 Confusion
+A388	MEDDRA-PT E92 Confusional state
+A389	MEDDRA-PT-ID E92 10010305
+A390	CUI E93 C0040822
+A391	UMLS-Preferred-Name E93 Tremor
+A392	MEDDRA-PT E93 Tremor
+A393	MEDDRA-PT-ID E93 10044565
+A394	CUI E94 C0520966
+A395	UMLS-Preferred-Name E94 Abnormal coordination
+A396	MEDDRA-PT E94 Coordination abnormal
+A397	MEDDRA-PT-ID E94 10010947
+A398	CUI E95 C0233794
+A399	UMLS-Preferred-Name E95 Memory impairment
+A400	MEDDRA-PT E95 Memory impairment
+A401	MEDDRA-PT-ID E95 10027175
+A402	CUI E96 C0344232
+A403	UMLS-Preferred-Name E96 Blurred vision
+A404	MEDDRA-PT E96 Vision blurred
+A405	MEDDRA-PT-ID E96 10047513
+A406	LLT E96 Blurred vision
+A407	LLT-ID E96 10005886
+A408	CUI E97 C0575081
+A409	UMLS-Preferred-Name E97 Gait abnormality
+A410	MEDDRA-PT E97 Gait disturbance
+A411	MEDDRA-PT-ID E97 10017577
+A412	CUI E98 C0003537
+A413	UMLS-Preferred-Name E98 Aphasia
+A414	MEDDRA-PT E98 Aphasia
+A415	MEDDRA-PT-ID E98 10002948
+A416	CUI E99 C0575090
+A417	UMLS-Preferred-Name E99 Equilibration disorder
+A418	MEDDRA-PT E99 Balance disorder
+A419	MEDDRA-PT-ID E99 10049848
+A420	CUI E100 C0009806
+A421	UMLS-Preferred-Name E100 Constipation
+A422	MEDDRA-PT E100 Constipation
+A423	MEDDRA-PT-ID E100 10010774
+A424	CUI E101 C0013428
+A425	UMLS-Preferred-Name E101 Dysuria
+A426	MEDDRA-PT E101 Dysuria
+A427	MEDDRA-PT-ID E101 10013990
+A428	CUI E102 C0541832
+A429	UMLS-Preferred-Name E102 Chromaturia
+A430	MEDDRA-PT E102 Chromaturia
+A431	MEDDRA-PT-ID E102 10008796
+A432	CUI E103 C0043094
+A433	UMLS-Preferred-Name E103 Weight Gain
+A434	MEDDRA-PT E103 Weight increased
+A435	MEDDRA-PT-ID E103 10047899
+A436	LLT E103 Weight gain
+A437	LLT-ID E103 10047896
+A438	CUI E104 C0043094
+A439	UMLS-Preferred-Name E104 Weight Gain
+A440	MEDDRA-PT E104 Weight increased
+A441	MEDDRA-PT-ID E104 10047899
+A442	CUI E105 C0015230
+A443	UMLS-Preferred-Name E105 Exanthema
+A444	MEDDRA-PT E105 Rash
+A445	MEDDRA-PT-ID E105 10037844
+A446	CUI E106 C0028738
+A447	UMLS-Preferred-Name E106 Nystagmus
+A448	MEDDRA-PT E106 Nystagmus
+A449	MEDDRA-PT-ID E106 10029864
+A450	CUI E107 C0013404
+A451	UMLS-Preferred-Name E107 Dyspnea
+A452	MEDDRA-PT E107 Dyspnoea
+A453	MEDDRA-PT-ID E107 10013968
+A454	LLT E107 Dyspnea
+A455	LLT-ID E107 10013963
+A456	CUI E108 C0023530
+A457	UMLS-Preferred-Name E108 Leukopenia
+A458	MEDDRA-PT E108 Leukopenia
+A459	MEDDRA-PT-ID E108 10024384
+A460	CUI E109 C0037763
+A461	UMLS-Preferred-Name E109 Spasm
+A462	MEDDRA-PT E109 Muscle spasms
+A463	MEDDRA-PT-ID E109 10028334
+A464	LLT E109 Muscle spasm
+A465	LLT-ID E109 10028333
+A466	CUI E110 C0002170
+A467	UMLS-Preferred-Name E110 Alopecia
+A468	MEDDRA-PT E110 Alopecia
+A469	MEDDRA-PT-ID E110 10001760
+A470	CUI E111 C0392525
+A471	UMLS-Preferred-Name E111 Nephrolithiasis
+A472	MEDDRA-PT E111 Nephrolithiasis
+A473	MEDDRA-PT-ID E111 10029148
+A474	CUI E112 C0039070
+A475	UMLS-Preferred-Name E112 Syncope
+A476	MEDDRA-PT E112 Syncope
+A477	MEDDRA-PT-ID E112 10042772
+A478	CUI E113 C0027947
+A479	UMLS-Preferred-Name E113 Neutropenia
+A480	MEDDRA-PT E113 Neutropenia
+A481	MEDDRA-PT-ID E113 10029354
+A482	CUI E114 C0040034
+A483	UMLS-Preferred-Name E114 Thrombocytopenia
+A484	MEDDRA-PT E114 Thrombocytopenia
+A485	MEDDRA-PT-ID E114 10043554
+A486	CUI E115 C0235146
+A487	UMLS-Preferred-Name E115 Euphoric mood
+A488	MEDDRA-PT E115 Euphoric mood
+A489	MEDDRA-PT-ID E115 10015535
+A490	CUI E116 C0152169
+A491	UMLS-Preferred-Name E116 Renal Colic
+A492	MEDDRA-PT E116 Renal colic
+A493	MEDDRA-PT-ID E116 10038419
+A494	CUI E117 C0009421
+A495	UMLS-Preferred-Name E117 Comatose
+A496	MEDDRA-PT E117 Coma
+A497	MEDDRA-PT-ID E117 10010071
+A498	CUI E118 C0085584
+A499	UMLS-Preferred-Name E118 Encephalopathies
+A500	MEDDRA-PT E118 Encephalopathy
+A501	MEDDRA-PT-ID E118 10014625
+A502	CUI E119 C0151878
+A503	UMLS-Preferred-Name E119 Prolonged QT interval
+A504	MEDDRA-PT E119 Electrocardiogram QT prolonged
+A505	MEDDRA-PT-ID E119 10014387
+A506	LLT E119 QT interval prolonged
+A507	LLT-ID E119 10037703

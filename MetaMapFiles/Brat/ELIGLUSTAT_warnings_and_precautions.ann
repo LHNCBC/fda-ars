@@ -1,0 +1,74 @@
+T1	AdverseReaction 82 101	Cardiac Arrhythmias
+T2	AdverseReaction 468 480;488 490;508 525	prolongation PR cardiac intervals
+T3	AdverseReaction 468 480;492 495;508 525	prolongation QTc cardiac intervals
+T4	AdverseReaction 468 480;504 507;508 525	prolongation QRS cardiac intervals
+T5	AdverseReaction 547 566	cardiac arrhythmias
+T6	AdverseReaction 1111 1137;1143 1146	increases in ECG intervals QTc
+T7	AdverseReaction 1111 1137;1139 1141	increases in ECG intervals PR
+T8	AdverseReaction 1111 1137;1152 1155	increases in ECG intervals QRS
+T9	Factor 68 77	Potential
+T10	Factor 531 536	could
+T11	AdverseReaction 52 63	ECG Changes
+E1	AdverseReaction:T1 Hypothetical:E9
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E10
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	Factor:T9
+E10	Factor:T10
+E11	AdverseReaction:T11
+A1	CUI E1 C0003811
+A2	UMLS-Preferred-Name E1 Cardiac Arrhythmia
+A3	MEDDRA-PT E1 Arrhythmia
+A4	MEDDRA-PT-ID E1 10003119
+A5	LLT E1 Cardiac arrhythmia
+A6	LLT-ID E1 10007518
+A7	CUI E2 C0600125
+A8	UMLS-Preferred-Name E2 Prolonged PR interval
+A9	MEDDRA-PT E2 Electrocardiogram PR prolongation
+A10	MEDDRA-PT-ID E2 10053657
+A11	LLT E2 Electrocardiogram PR interval prolonged
+A12	LLT-ID E2 10053655
+A13	CUI E3 C0855333
+A14	UMLS-Preferred-Name E3 Electrocardiogram QT corrected interval prolonged
+A15	MEDDRA-PT E3 Electrocardiogram QT prolonged
+A16	MEDDRA-PT-ID E3 10014387
+A17	LLT E3 Electrocardiogram QTc interval prolonged
+A18	LLT-ID E3 10053698
+A19	CUI E4 C0235475
+A20	UMLS-Preferred-Name E4 Wide QRS complex
+A21	MEDDRA-PT E4 Electrocardiogram QRS complex prolonged
+A22	MEDDRA-PT-ID E4 10014380
+A23	LLT E4 QRS prolonged
+A24	LLT-ID E4 10037697
+A25	CUI E5 C0003811
+A26	UMLS-Preferred-Name E5 Cardiac Arrhythmia
+A27	MEDDRA-PT E5 Arrhythmia
+A28	MEDDRA-PT-ID E5 10003119
+A29	LLT E5 Cardiac arrhythmia
+A30	LLT-ID E5 10007518
+A31	CUI E6 C0855333
+A32	UMLS-Preferred-Name E6 Electrocardiogram QT corrected interval prolonged
+A33	MEDDRA-PT E6 Electrocardiogram QT prolonged
+A34	MEDDRA-PT-ID E6 10014387
+A35	LLT E6 Electrocardiogram QTc interval prolonged
+A36	LLT-ID E6 10053698
+A37	CUI E7 C0600125
+A38	UMLS-Preferred-Name E7 Prolonged PR interval
+A39	MEDDRA-PT E7 Electrocardiogram PR prolongation
+A40	MEDDRA-PT-ID E7 10053657
+A41	LLT E7 Electrocardiogram PR interval prolonged
+A42	LLT-ID E7 10053655
+A43	CUI E8 C0235475
+A44	UMLS-Preferred-Name E8 Wide QRS complex
+A45	MEDDRA-PT E8 Electrocardiogram QRS complex prolonged
+A46	MEDDRA-PT-ID E8 10014380
+A47	CUI E11 C0855329
+A48	UMLS-Preferred-Name E11 Electrocardiographic changes
+A49	MEDDRA-PT E11 Electrocardiogram change
+A50	MEDDRA-PT-ID E11 10061116
+A51	LLT E11 Change in ECG
+A52	LLT-ID E11 10008396

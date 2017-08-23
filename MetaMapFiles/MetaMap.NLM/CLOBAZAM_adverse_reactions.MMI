@@ -1,0 +1,104 @@
+00000000|MMI|86.26|Drowsiness|C0013144|[fndg]|["Somnolence"-tx-9-"Somnolence"-noun-0,"Somnolence"-tx-6-"somnolence"-noun-0,"Somnolence"-tx-1-"Somnolence"-noun-0,"Somnolence"-tx-1-"somnolence"-noun-0]|TX|[4729/10],[4851/10];2204/10;148/10;823/10|F02.830.855.796;G11.561.600.815.754
+00000000|MMI|84.78|Lennox-Gastaut syndrome|C0238111|[dsyn]|["LGS"-tx-7-"LGS"-noun-0,"LGS"-tx-6-"LGS"-noun-0,"LGS"-tx-4-"LGS"-noun-0,"LGS"-tx-3-"LGS"-noun-0]|TX|2301/3;2014/3;1779/3;[1421/3],[1528/3]|C10.228.140.490.583;C16.320.495
+00000000|MMI|77.60|Disease|C0012634|[dsyn]|["Disorders"-tx-11-"Disorders"-noun-0,"condition"-tx-11-"Conditions"-noun-0,"Disorders"-tx-9-"Disorders"-noun-0,"condition"-tx-9-"Conditions"-verb-0,"condition"-tx-4-"conditions"-noun-0,"condition"-tx-2-"conditions"-noun-0]|TX|[6466/9],[6882/9];6500/10;3552/9;3586/10;1591/10;1132/10|C23.550.288
+00000000|MMI|58.77|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-10-"Adverse reactions"-noun-0,"Adverse reactions"-tx-9-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-7-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-7-"adverse reactions"-noun-0,"Adverse reactions"-tx-6-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-6-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-5-"adverse reaction"-noun-0,"ADVERSE REACTION"-tx-2-"adverse reaction"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"Adverse reactions"-noun-0]|TX|6218/17;2647/17;2277/17;2368/17;1963/17;2067/17;1897/16;1144/16;[8/17],[918/17];709/17|
+00000000|MMI|50.18|Lethargy|C0023380|[sosy]|["LETHARGY"-tx-9-"Lethargy"-noun-0,"LETHARGY"-tx-6-"lethargy"-noun-0,"LETHARGY"-tx-1-"lethargy"-noun-0]|TX|5065/8;2194/8;856/8|C10.597.606.441;C23.888.592.604.444;F01.700.470
+00000000|MMI|39.30|Cerebellar Ataxia|C0007758|[sosy]|["Ataxia"-tx-9-"Ataxia"-noun-0,"Ataxia"-tx-6-"ataxia"-noun-0]|TX|5275/6;2216/6|C10.228.140.252.190;C10.597.350.090.500;C23.888.592.350.090.200
+00000000|MMI|33.02|10%|C3842590|[fndg]|["10%"-tx-9-"10"-integer-0,"10%"-tx-1-"10"-percentage-0]|TX|[2810/2],[2865/2],[3401/2],[3656/2],[4001/2],[4018/2],[5095/2];750/2|
+00000000|MMI|32.95|Ataxia|C0004134|[sosy]|["ATAXIA"-tx-9-"Ataxia"-noun-0,"ATAXIA"-tx-6-"ataxia"-noun-0]|TX|5275/6;2216/6|C10.597.350.090;C23.888.592.350.090
+00000000|MMI|32.95|Sleeplessness|C0917801|[sosy]|["INSOMNIA"-tx-9-"Insomnia"-noun-0,"INSOMNIA"-tx-6-"insomnia"-noun-0]|TX|5744/8;2249/8|C10.886.425.800.800;F03.870.400.800.800
+00000000|MMI|28.85|Dysarthria|C0013362|[mobd]|["DYSARTHRIA"-tx-9-"Dysarthria"-noun-0]|TX|5501/10|C10.597.606.150.500.800.150.200;C23.888.592.604.150.500.800.150.200
+00000000|MMI|26.74|Fever|C0015967|[fndg]|["PYREXIA"-tx-9-"Pyrexia"-noun-0,"PYREXIA"-tx-1-"pyrexia"-noun-0]|TX|3609/7;847/7|C23.888.119.344
+00000000|MMI|26.61|Constipation|C0009806|[sosy]|["CONSTIPATION"-tx-9-"Constipation"-noun-0,"CONSTIPATION"-tx-1-"constipation"-noun-0]|TX|3334/12;809/12|C23.888.821.150
+00000000|MMI|26.61|Drooling|C0013132|[sosy]|["DROOLING"-tx-9-"Drooling"-noun-0,"DROOLING"-tx-1-"drooling"-noun-0]|TX|5170/8;870/8|C07.465.815.815
+00000000|MMI|26.58|Aggressive behavior|C0001807|[mobd]|["Aggression"-tx-9-"Aggression"-noun-0,"Aggression"-tx-6-"aggression"-noun-0]|TX|5638/10;2224/10|F01.145.126.125;F01.145.813.045
+00000000|MMI|26.39|Abnormal behavior|C0233514|[mobd]|["Psychiatric disorders"-tx-11-"Psychiatric Disorders"-noun-0,"Psychiatric disorders"-tx-9-"Psychiatric Disorders"-noun-0]|TX|6614/21;5604/21|F01.145.126.972;F01.145.179.750
+00000000|MMI|23.78|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-9-"3"-integer-0]|TX|[3747/1],[4123/1],[4506/1],[5305/1],[5426/1],[5669/1]|
+00000000|MMI|22.61|Unmarried|C0087136|[fndg]|["single"-tx-4-"single"-adj-0]|TX|1655/6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+00000000|MMI|22.28|30%|C3842588|[fndg]|["30%"-tx-9-"30"-integer-0]|TX|[2791/2],[2821/2],[2877/2],[2907/2],[2963/2],[2993/2]|
+00000000|MMI|20.95|Delirium|C0011206|[mobd]|["DELIRIUM"-tx-11-"delirium"-noun-0]|TX|6699/8|C10.597.606.337.500;C23.888.592.604.339.500;F01.700.250.500;F03.615.350
+00000000|MMI|20.95|Diplopia|C0012569|[fndg]|["DIPLOPIA"-tx-11-"Diplopia"-noun-0]|TX|6375/8|C10.597.751.941.339;C11.966.339;C23.888.592.763.941.339
+00000000|MMI|20.95|Hallucinations|C0018524|[mobd]|["HALLUCINATION"-tx-11-"hallucination"-noun-0]|TX|6719/13|C10.597.606.762.300;C23.888.592.604.764.300;F01.700.750.300
+00000000|MMI|20.26|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-9-"Fatigue"-noun-0,"FATIGUE"-tx-6-"fatigue"-noun-0]|TX|3822/7;2236/7|C23.888.369
+00000000|MMI|19.98|Somnolence|C2830004|[fndg]|["SOMNOLENCE"-tx-9-"Somnolence"-noun-0,"SOMNOLENCE"-tx-6-"somnolence"-noun-0,"SOMNOLENCE"-tx-1-"Somnolence"-noun-0,"SOMNOLENCE"-tx-1-"somnolence"-noun-0]|TX|[4729/10],[4851/10];2204/10;148/10;823/10|
+00000000|MMI|19.42|Psychomotor Agitation|C3887612|[fndg]|["PSYCHOMOTOR HYPERACTIVITY"-tx-9-"Psychomotor hyperactivity"-noun-0]|TX|5380/25|C10.597.350.600;C10.597.606.881.700;C23.888.592.350.600;C23.888.592.604.882.700;F01.700.875.700
+00000000|MMI|19.32|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-9-"uncertain"-adj-0]|TX|6091/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|19.32|Sedated state|C0235195|[fndg]|["SEDATION"-tx-9-"Sedation"-noun-0,"SEDATION"-tx-1-"Sedation"-noun-0,"SEDATION"-tx-1-"sedation"-noun-0]|TX|[4743/8],[4961/8];[162/8],[234/8];837/8|
+00000000|MMI|17.80|Angioedema|C0002994|[patf]|["Angiooedema"-tx-11-"angioedema"-noun-0]|TX|6913/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|17.80|Confusion|C0009676|[mobd]|["CONFUSIONAL STATE"-tx-11-"confusional state"-noun-0]|TX|6668/17|C10.597.606.337;C23.888.592.604.339;F01.700.250
+00000000|MMI|16.12|Spasm|C0037763|[sosy]|["Muscle Spasms"-tx-11-"Muscle spasms"-noun-0]|TX|6597/13|C10.597.613.750;C23.888.592.608.750
+00000000|MMI|16.12|Urinary Retention|C0080274|[fndg]|["URINARY RETENTION"-tx-11-"Urinary retention"-noun-0]|TX|6768/17|C12.777.934.880;C13.351.968.934.880
+00000000|MMI|16.04|Seizures|C0036572|[sosy]|["Seizures"-tx-3-"seizures"-noun-0]|TX|1396/8|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|15.43|2+|C3833492|[fndg]|["2+"-tx-9-"2"-integer-0,"2+"-tx-4-"2"-integer-0]|TX|[3367/1],[4348/1],[5532/1];1796/1|
+00000000|MMI|14.64|Coughing|C0010200|[sosy]|["COUGH"-tx-9-"Cough"-verb-0]|TX|5880/5|C08.618.248;C23.888.852.293
+00000000|MMI|14.64|Delusions|C0011253|[mobd]|["DELUSION"-tx-11-"delusion"-noun-0]|TX|6709/8|F01.145.126.200
+00000000|MMI|14.64|Eosinophilia|C0014457|[dsyn]|["EOSINOPHILIA"-tx-11-"eosinophilia"-noun-0]|TX|6311/12|C15.378.553.231
+00000000|MMI|14.64|Leukopenia|C0023530|[dsyn]|["LEUKOPENIA"-tx-11-"leukopenia"-noun-0]|TX|6325/10|C15.378.553.546
+00000000|MMI|14.64|Mental Depression|C0011570|[mobd]|["DEPRESSION"-tx-11-"depression"-noun-0]|TX|6687/10|F01.145.126.350
+00000000|MMI|14.64|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-11-"urticaria"-noun-0]|TX|6902/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|14.64|Vomiting|C0042963|[sosy]|["VOMITING"-tx-9-"Vomiting"-verb-0]|TX|3229/8|C23.888.821.937
+00000000|MMI|14.19|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-11-"Gastrointestinal Disorders"-noun-0,"GASTROINTESTINAL DISORDERS"-tx-9-"Gastrointestinal Disorders"-noun-0]|TX|6403/26;3190/26|C06.405
+00000000|MMI|13.75|Respiration Disorders|C0035204|[dsyn]|["respiratory disorders"-tx-11-"Respiratory Disorders"-noun-0,"respiratory disorders"-tx-9-"Respiratory Disorders"-noun-0]|TX|6789/21;5846/21|C08.618
+00000000|MMI|13.14|Urinary tract infection|C0042029|[dsyn]|["URINARY TRACT INFECTION"-tx-9-"Urinary tract infection"-noun-0]|TX|4198/23|C01.539.895;C12.777.892;C13.351.968.892
+00000000|MMI|13.08|Bronchitis|C0006277|[dsyn]|["BRONCHITIS"-tx-9-"Bronchitis"-noun-0]|TX|4317/10|C08.127.446;C08.381.495.146;C08.730.099
+00000000|MMI|13.08|Deglutition Disorders|C0011168|[dsyn]|["DYSPHAGIA"-tx-9-"Dysphagia"-noun-0]|TX|3442/9|C06.405.117.119;C09.775.174
+00000000|MMI|13.08|Irritable Mood|C0022107|[fndg]|["IRRITABILITY"-tx-9-"Irritability"-noun-0]|TX|3714/12|F01.470.047.110
+00000000|MMI|12.96|Hypothermia, natural|C0020672|[fndg]|["HYPOTHERMIA"-tx-11-"Hypothermia"-noun-0]|TX|6515/11|C23.888.119.565
+00000000|MMI|12.94|Thrombocytopenia|C0040034|[fndg]|["Thrombocytopaenia"-tx-11-"thrombocytopenia"-noun-0]|TX|6337/16|C15.378.140.855
+00000000|MMI|11.49|Anemia|C0002871|[dsyn]|["ANEMIA"-tx-11-"Anemia"-noun-0]|TX|6303/6|C15.378.071
+00000000|MMI|11.49|Anxiety|C0003467|[mobd]|["-- Anxiety"-tx-11-"anxiety"-noun-0]|TX|6651/7|F01.470.132
+00000000|MMI|11.49|Apathy|C0085632|[sosy]|["APATHY"-tx-11-"apathy"-noun-0]|TX|6660/6|F01.470.137
+00000000|MMI|11.49|Depressive disorder|C0011581|[mobd]|["-- Depression"-tx-11-"depression"-noun-0]|TX|6687/10|F03.600.300
+00000000|MMI|11.49|Exanthema|C0015230|[sosy]|["RASH"-tx-11-"Rash"-noun-0]|TX|6896/4|C17.800.257
+00000000|MMI|11.49|Urologic Diseases|C0042075|[dsyn]|["Urinary disorders"-tx-11-"Urinary Disorders"-noun-0]|TX|6746/17|C12.777;C13.351.968
+00000000|MMI|11.49|Withdrawal Symptoms|C0087169|[sosy]|["WITHDRAWAL SYMPTOMS"-tx-1-"Withdrawal Symptoms"-noun-0]|TX|351/19|C25.775.835;F03.900.825
+00000000|MMI|11.48|0%|C3842591|[fndg]|["0%"-tx-9-"0"-integer-0]|TX|[3472/1],[5200/1],[5893/1]|
+00000000|MMI|10.06|Upper Respiratory Infections|C0041912|[dsyn]|["Infection, Upper Respiratory Tract"-tx-9-"Upper respiratory tract infection"-noun-0]|TX|3964/33|C01.539.739;C08.730
+00000000|MMI|9.92|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-9-"Pneumonia"-noun-0]|TX|4093/9|C08.381.677;C08.730.610
+00000000|MMI|9.84|Respiratory Depression|C0235063|[patf]|["RESPIRATORY DEPRESSION"-tx-11-"respiratory depression"-noun-0]|TX|6827/22|C08.618.846
+00000000|MMI|9.77|Pathological Dilatation|C0012359|[patf]|["Distention, NOS"-tx-11-"distention"-noun-0]|TX|6444/10|C23.300.325
+00000000|MMI|8.34|Anxiety Disorders|C0003469|[mobd]|["Anxiety"-tx-11-"anxiety"-noun-0]|TX|6651/7|F03.080
+00000000|MMI|8.34|Hematological Disease|C0018939|[dsyn]|["Blood Disorders"-tx-11-"Blood Disorders"-noun-0]|TX|6283/15|C15.378
+00000000|MMI|8.34|Nutrition Disorders|C3714509|[dsyn]|["Nutrition Disorders"-tx-9-"Nutrition Disorders"-noun-0]|TX|4435/19|C18.654
+00000000|MMI|7.57|Constipation Adverse Event|C1963087|[fndg]|["Constipation"-tx-9-"Constipation"-noun-0,"Constipation"-tx-1-"constipation"-noun-0]|TX|3334/12;809/12|
+00000000|MMI|7.57|Insomnia Adverse Event|C1963237|[fndg]|["Insomnia"-tx-9-"Insomnia"-noun-0,"Insomnia"-tx-6-"insomnia"-noun-0]|TX|5744/8;2249/8|
+00000000|MMI|7.54|Aggressive reaction|C1457883|[mobd]|["Aggression"-tx-9-"Aggression"-noun-0,"Aggression"-tx-6-"aggression"-noun-0]|TX|5638/10;2224/10|
+00000000|MMI|7.53|1+|C3816745|[fndg]|["1+"-tx-6-"1"-percentage-0,"1+"-tx-5-"1"-integer-0]|TX|2137/1;1846/1|
+00000000|MMI|7.35|Mental disorders|C0004936|[mobd]|["PSYCHIATRIC DISORDERS"-tx-11-"Psychiatric Disorders"-noun-0,"PSYCHIATRIC DISORDERS"-tx-9-"Psychiatric Disorders"-noun-0]|TX|6614/21;5604/21|F03
+00000000|MMI|7.19|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-6-"Discontinuation"-noun-0,"Discontinuation"-tx-6-"discontinuation"-noun-0]|TX|1992/15;2116/15|
+00000000|MMI|6.91|20%|C3842589|[fndg]|["20%"-tx-9-"20"-integer-0]|TX|[2896/2],[2951/2]|
+00000000|MMI|6.79|Infection|C3714514|[patf]|["Infections"-tx-9-"Infections"-noun-0]|TX|3924/10|C01.539
+00000000|MMI|5.18|4+ Answer to question|C3838679|[fndg]|["4+"-tx-1-"4"-integer-0]|TX|481/1|
+00000000|MMI|5.18|5-6|C3843715|[fndg]|["5-6"-tx-1-"5.6"-real_number-0]|TX|682/3|
+00000000|MMI|5.18|6/5|C0442749|[fndg]|["5 6"-tx-1-"5.6"-real_number-0]|TX|682/3|
+00000000|MMI|5.18|Actual Aspiration|C2712334|[fndg]|["Aspiration"-tx-11-"Aspiration"-noun-0]|TX|6815/10|
+00000000|MMI|5.18|Agitation|C0085631|[sosy]|["AGITATION"-tx-11-"Agitation"-noun-0]|TX|6640/9|
+00000000|MMI|5.18|Anxiety symptoms|C0860603|[fndg]|["Anxiety"-tx-11-"anxiety"-noun-0]|TX|6651/7|
+00000000|MMI|5.18|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-9-"Cough"-verb-0]|TX|5880/5|
+00000000|MMI|5.18|Depressed - symptom|C1579931|[sosy]|["depression"-tx-11-"depression"-noun-0]|TX|6687/10|
+00000000|MMI|5.18|Depressed mood|C0344315|[fndg]|["depression"-tx-11-"depression"-noun-0]|TX|6687/10|
+00000000|MMI|5.18|Eosinophilic disorder|C1306759|[dsyn]|["Eosinophilia"-tx-11-"eosinophilia"-noun-0]|TX|6311/12|
+00000000|MMI|5.18|Greatly|C3840786|[fndg]|["Greatly"-tx-4-"greatly"-adv-0]|TX|1634/7|
+00000000|MMI|5.18|Lip oedema|C0541923|[fndg]|["Lip oedema"-tx-11-"lip edema"-noun-0]|TX|6940/9|
+00000000|MMI|5.18|On examination - apathetic|C0436596|[fndg]|["Apathy"-tx-11-"apathy"-noun-0]|TX|6660/6|
+00000000|MMI|5.18|Physical assessment findings|C1509143|[fndg]|["Physical"-tx-1-"Physical"-adj-0]|TX|533/8|
+00000000|MMI|5.18|Psychological addiction|C0278079|[mobd]|["Dependence, psychological"-tx-1-"Psychological Dependence"-noun-0]|TX|546/24|
+00000000|MMI|5.18|Pulmonary aspiration|C0700198|[patf]|["ASPIRATION"-tx-11-"Aspiration"-noun-0]|TX|6815/10|
+00000000|MMI|5.18|Suicidal behavior|C1760428|[fndg]|["Suicidal behaviour"-tx-1-"Suicidal Behavior"-noun-0]|TX|618/17|
+00000000|MMI|5.18|Unintentional Material Aspiration|C2827071|[fndg]|["Aspiration"-tx-11-"Aspiration"-noun-0]|TX|6815/10|
+00000000|MMI|5.18|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-9-"Vomiting"-verb-0]|TX|3229/8|
+00000000|MMI|5.18|White blood cell count decreased|C0750394|[fndg]|["Leukopenia"-tx-11-"leukopenia"-noun-0]|TX|6325/10|
+00000000|MMI|5.18|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-11-"urticaria"-noun-0]|TX|6902/9|
+00000000|MMI|3.78|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-11-"Subcutaneous Disorders"-noun-0]|TX|6862/12,6882/9|
+00000000|MMI|3.76|Disorder of abdomen|C1290864|[dsyn]|["ABDOMINAL DISORDERS"-tx-11-"Abdominal Disorders"-noun-0]|TX|6434/9,6466/9|
+00000000|MMI|3.75|Disorder of eye|C0015397|[dsyn]|["Eye Disorders"-tx-11-"Eye Disorders"-noun-0]|TX|6357/13|C11
+00000000|MMI|3.68|Recurrent urinary tract infection|C0262655|[dsyn]|["Urinary tract infection"-tx-9-"Urinary tract infection"-noun-0]|TX|4198/23|
+00000000|MMI|3.65|Increased appetite (finding)|C0232461|[fndg]|["INCREASED APPETITE"-tx-9-"Increased appetite"-noun-0]|TX|4581/18|
+00000000|MMI|3.64|Received therapy or drug for|C0332154|[fndg]|["Treated for"-tx-3-"treated for"-verb-0]|TX|1556/11|
+00000000|MMI|3.61|Acute bronchitis|C0149514|[dsyn]|["bronchitis"-tx-9-"Bronchitis"-noun-0]|TX|4317/10|
+00000000|MMI|3.60|Infestation|C0851341|[dsyn]|["infestations"-tx-9-"Infestations"-noun-0]|TX|3939/12|
+00000000|MMI|3.50|Abdomen distended|C0000731|[fndg]|["ABDOMINAL DISTENTION"-tx-11-"Abdominal distention"-noun-0]|TX|6434/20|
+00000000|MMI|3.50|Hypothermia due to exposure|C0413252|[inpo]|["Hypothermia"-tx-11-"Hypothermia"-noun-0]|TX|6515/11|
+00000000|MMI|3.50|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-9-"Nervous System Disorders"-noun-0]|TX|4692/24|C10
+00000000|MMI|3.47|Distention|C3714614|[fndg]|["Distension NOS"-tx-11-"distention"-noun-0]|TX|6444/10|
+00000000|MMI|3.42|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-7-"randomized"-adj-0]|TX|2508/10|

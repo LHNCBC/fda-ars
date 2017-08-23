@@ -1,0 +1,95 @@
+00000000|AA|PPES|Palmar-plantar Erythrodysesthesia syndrome|1|4|7|42|539:4
+00000000|AA|RPLS|Reversible posterior leukoencephalopathy syndrome|1|4|7|49|734:4
+00000000|AA|GI|Gastrointestinal|1|2|1|16|949:2
+00000000|AA|ONJ|Osteonecrosis of the jaw|1|3|7|24|3232:3
+00000000|MMI|85.72|Palmar-plantar erythrodysesthesia syndrome|C0549410|[dsyn]|["Palmar-plantar erythrodysesthesia syndrome"-tx-40-"PPES"-noun-0,"Palmar-plantar erythrodysesthesia syndrome"-tx-39-"PPES"-noun-0,"Palmar-plantar erythrodysesthesia syndrome"-tx-39-"Palmar-Plantar Erythrodysesthesia Syndrome"-noun-0,"Palmar-plantar erythrodysesthesia syndrome"-tx-7-"Palmar-plantar Erythrodysesthesia syndrome"-noun-0]|TX|[4052/4],[4070/4];3886/4;3794/42;495/42|C17.800.174.600.587;C25.100.468.380.587
+00000000|MMI|59.16|Nephrotic Syndrome|C0027726|[dsyn]|["-- Nephrotic Syndrome"-tx-43-"nephrotic syndrome"-noun-0,"-- Nephrotic Syndrome"-tx-41-"nephrotic syndrome"-noun-0,"-- Nephrotic Syndrome"-tx-9-"nephrotic syndrome"-noun-0]|TX|4433/18;4254/18;648/18|C12.777.419.630.643;C13.351.968.419.630.643
+00000000|MMI|53.01|Discontinued|C1444662|[fndg]|["Discontinue"-tx-46-"Discontinue"-verb-0,"Discontinue"-tx-43-"Discontinue"-verb-0,"Discontinue"-tx-33-"Discontinue"-verb-0,"Discontinue"-tx-25-"Discontinue"-verb-0,"Discontinue"-tx-18-"Discontinue"-verb-0,"Discontinue"-tx-10-"Discontinue"-verb-0,"Discontinue"-tx-9-"Discontinue"-verb-0,"Discontinue"-tx-5-"Discontinue"-verb-0,"Discontinue"-tx-4-"Discontinue"-verb-0,"Discontinue"-tx-1-"Discontinue"-verb-0]|TX|4835/11;4388/11;3062/11;1927/11;1294/11;741/11;632/11;457/11;370/11;71/11|
+00000000|MMI|40.87|Hypertensive disease|C0020538|[dsyn]|["HYPERTENSION"-tx-32-"hypertension"-noun-0,"HYPERTENSION"-tx-30-"hypertension"-noun-0,"HYPERTENSION"-tx-3-"Hypertension"-noun-0]|TX|2938/12;[2546/12],[2701/12];322/12|C14.907.489
+00000000|MMI|39.96|Digestive System Fistula|C0079238|[anab,dsyn]|["Gastrointestinal Fistula"-tx-15-"GI fistulas"-noun-1,"Gastrointestinal Fistula"-tx-14-"GI fistula"-noun-0,"fistulas gastrointestinal"-tx-13-"Fistulas Gastrointestinal"-noun-0]|TX|1108/11;1075/10;917/8,931/16|C06.267;C23.300.575.185
+00000000|MMI|39.50|Thrombus|C0087086|[patf]|["Thrombotic"-tx-22-"Thrombotic"-adj-0,"Thrombotic"-tx-22-"thrombotic"-adj-0,"Thrombotic"-tx-1-"Thrombotic"-adj-0]|TX|1686/10;1765/10;52/10|C14.907.355.830
+00000000|MMI|35.02|pathologic fistula|C0016169|[anab]|["FISTULA"-tx-18-"fistula"-noun-0,"Fistulas"-tx-17-"fistulas"-noun-0,"Fistulas"-tx-13-"fistulas"-noun-0]|TX|1361/7;1284/8;970/8|C23.300.575
+00000000|MMI|32.68|Proteinuria|C0033687|[fndg]|["PROTEINURIA"-tx-41-"Proteinuria"-noun-0,"PROTEINURIA"-tx-8-"Proteinuria"-noun-0]|TX|4151/11;596/11|C12.777.934.734;C13.351.968.934.734;C23.888.942.750
+00000000|MMI|30.03|Hemorrhage|C0019080|[patf]|["HEMORRHAGE"-tx-21-"hemorrhage"-noun-1,"HEMORRHAGE"-tx-19-"Hemorrhage"-noun-0,"HEMORRHAGE"-tx-19-"hemorrhage"-noun-0]|TX|1649/10;1381/10;1425/10|C23.550.414
+00000000|MMI|25.48|1+|C3816745|[fndg]|["1+"-tx-44-"1"-percentage-0,"1+"-tx-40-"1"-integer-0,"1+"-tx-20-"1"-percentage-0,"1+"-tx-16-"1"-percentage-0,"1+"-tx-14-"1"-percentage-0,"1+"-tx-13-"1"-percentage-0]|TX|4681/1;4102/1;1576/1;1205/1;1099/1;1003/1|
+00000000|MMI|24.11|Cerebral Infarction|C0007785|[dsyn]|["CEREBRAL INFARCTION"-tx-1-"cerebral infarction"-noun-0]|TX|119/19|C10.228.140.300.150.477.200;C10.228.140.300.775.200.200;C14.907.253.092.477.200;C14.907.253.855.200.200
+00000000|MMI|23.12|Complication Aspects|C1171258|[patf]|["complications"-tx-26-"complications"-noun-0,"complications"-tx-2-"complications"-noun-0]|TX|2119/13;261/13|x.x.x
+00000000|MMI|20.95|Gravidity|C0600457|[fndg]|["PREGNANT"-tx-51-"pregnant"-adj-0]|TX|5653/8|G08.686.340;G08.686.785.760.769.213;N06.850.490.812.250
+00000000|MMI|20.95|Toothache|C0040460|[sosy]|["TOOTHACHE"-tx-35-"toothache"-noun-0]|TX|3383/9|C07.793.929;C10.597.617.203.500;C23.888.592.612.330.500
+00000000|MMI|19.43|Posterior reversible encephalopathy syndrome|C3160858|[dsyn]|["Reversible Posterior Leukoencephalopathy Syndrome"-tx-46-"RPLS"-noun-0,"Reversible Posterior Leukoencephalopathy Syndrome"-tx-45-"RPLS"-noun-0,"Reversible Posterior Leukoencephalopathy Syndrome"-tx-44-"RPLS"-noun-0,"Reversible Posterior Leukoencephalopathy Syndrome"-tx-44-"Reversible Posterior Leukoencephalopathy Syndrome"-noun-0,"Reversible Posterior Leukoencephalopathy Syndrome"-tx-10-"Reversible posterior leukoencephalopathy syndrome"-noun-0]|TX|4880/4;4720/4;4570/4;4464/49;683/49|
+00000000|MMI|17.80|Confusion|C0009676|[mobd]|["CONFUSION"-tx-45-"confusion"-noun-0]|TX|4797/9|C10.597.606.337;C23.888.592.604.339;F01.700.250
+00000000|MMI|17.80|Headache|C0018681|[sosy]|["HEADACHE"-tx-45-"headache"-noun-0]|TX|4766/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|17.80|Venous Thromboembolism|C1861172|[patf]|["VENOUS THROMBOEMBOLISM"-tx-22-"venous thromboembolism"-noun-0]|TX|1784/22|C14.907.355.590.700
+00000000|MMI|16.04|Seizures|C0036572|[sosy]|["Seizures"-tx-45-"seizures"-noun-0]|TX|4756/8|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|14.89|Perforation (observation)|C0549099|[fndg]|["PERFORATION"-tx-18-"perforation"-noun-0,"Perforations"-tx-17-"perforations"-noun-0,"Perforations"-tx-13-"Perforations"-noun-0,"Perforations"-tx-13-"perforations"-noun-0]|TX|1344/11;1267/12;900/12;953/12|
+00000000|MMI|14.87|Hypertension Adverse Event|C1963138|[fndg]|["Hypertension"-tx-32-"hypertension"-noun-0,"Hypertension"-tx-30-"hypertension"-noun-0,"Hypertension"-tx-3-"Hypertension"-noun-0]|TX|2938/12;[2546/12],[2701/12];322/12|
+00000000|MMI|14.64|Hemoptysis|C0019079|[sosy]|["HEMOPTYSIS"-tx-21-"hemoptysis"-noun-1]|TX|1663/10|C08.381.348;C23.550.414.896;C23.888.852.430
+00000000|MMI|14.64|Osteomyelitis|C0029443|[dsyn]|["OSTEOMYELITIS"-tx-35-"osteomyelitis"-noun-0]|TX|3312/13|C01.539.160.495;C05.116.165.495
+00000000|MMI|13.01|Syndrome|C0039082|[dsyn]|["Syndrome"-tx-44-"syndrome"-noun-0]|TX|4579/8|C23.550.288.500
+00000000|MMI|12.94|Myocardial Infarction|C0027051|[dsyn]|["Infarction, Myocardial"-tx-1-"myocardial infarction"-noun-0]|TX|96/21|C14.280.647.500;C14.907.585.500
+00000000|MMI|11.73|Wound complication|C1096106|[inpo]|["Wound Healing Complication"-tx-29-"wound healing complications"-noun-0,"Wound Complication"-tx-26-"Wound Complications"-noun-0,"Wound Complication"-tx-2-"Wound Complications"-noun-0]|TX|2382/27;2088/19;204/19|
+00000000|MMI|11.71|Complication|C0009566|[patf]|["Complications"-tx-26-"complications"-noun-0,"Complication"-tx-25-"complication"-noun-0,"Complications"-tx-2-"complications"-noun-0]|TX|2119/13;2063/12;261/13|
+00000000|MMI|11.49|Osteitis|C0029400|[dsyn]|["Osteitis"-tx-35-"osteitis"-noun-0]|TX|3327/8|C05.116.680
+00000000|MMI|11.42|2+|C3833492|[fndg]|["2+"-tx-41-"2"-percentage-0,"2+"-tx-30-"2"-integer-0,"2+"-tx-23-"2"-percentage-0]|TX|4199/1;2699/1;1848/1|
+00000000|MMI|11.35|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-19-"fatal"-adj-0,"FATAL"-tx-16-"fatal"-adj-0,"FATAL"-tx-14-"fatal"-adj-0]|TX|1419/5;1223/5;1090/5|
+00000000|MMI|11.14|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-33-"controlled"-verb-1,"Controlled"-tx-32-"controlled"-verb-1]|TX|3122/10;[2974/10],[3015/10]|
+00000000|MMI|10.94|Aseptic necrosis of bone of jaw|C2711248|[dsyn]|["Osteonecrosis of Jaw"-tx-35-"ONJ"-noun-0,"Osteonecrosis of Jaw"-tx-34-"Osteonecrosis of Jaw"-noun-0,"Osteonecrosis of Jaw"-tx-5-"Osteonecrosis of jaw"-noun-0]|TX|3282/3;3176/16,3197/3;431/16,452/3|
+00000000|MMI|10.85|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-36-"therapy"-noun-0,"Therapy"-tx-33-"therapy"-noun-1,"Therapy"-tx-28-"therapy"-noun-0]|TX|3597/7;3156/7;2257/7|
+00000000|MMI|10.42|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-23-"3"-percentage-0,"3+"-tx-20-"3"-percentage-0]|TX|1815/1;1569/1|
+00000000|MMI|10.42|Scheduled surgical procedure|C3845500|[fndg]|["Scheduled Surgery"-tx-38-"scheduled surgery"-noun-0,"Scheduled Surgery"-tx-27-"scheduled surgery"-noun-0]|TX|3751/17;2222/17|
+00000000|MMI|7.86|Arterial thromboembolism|C3544094|[patf]|["Arterial thromboembolism"-tx-23-"arterial thromboembolism"-noun-0,"Arterial Thromboembolic Event"-tx-1-"arterial thromboembolic events"-noun-0]|TX|1822/24;157/30|
+00000000|MMI|7.42|Jaw pain|C0236000|[sosy]|["JAW PAIN"-tx-35-"jaw pain"-noun-0]|TX|[3302/8],[3437/8]|
+00000000|MMI|7.42|outcomes otolaryngology: jaw pain|C2015951|[fndg]|["jaw pain"-tx-35-"jaw pain"-noun-0]|TX|[3302/8],[3437/8]|
+00000000|MMI|7.30|Proteinuria Adverse Event|C1962972|[fndg]|["Proteinuria"-tx-41-"Proteinuria"-noun-0,"Proteinuria"-tx-8-"Proteinuria"-noun-0]|TX|4151/11;596/11|
+00000000|MMI|7.30|Proteinuria of undiagnosed cause|C1279888|[dsyn]|["Proteinuria"-tx-41-"Proteinuria"-noun-0,"Proteinuria"-tx-8-"Proteinuria"-noun-0]|TX|4151/11;596/11|
+00000000|MMI|7.27|Dehiscence|C0149663|[fndg]|["DEHISCENCE"-tx-29-"dehiscence"-noun-0,"DEHISCENCE"-tx-2-"dehiscence"-noun-0]|TX|2368/10;247/10|
+00000000|MMI|7.26|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-39-"Grade 3"-noun-0,"GRADE 3"-tx-20-"Grade 3"-noun-0]|TX|3961/7;1477/5,1485/1|
+00000000|MMI|7.23|5-6|C3843715|[fndg]|["5-6"-tx-34-"5.6"-real_number-0,"5-6"-tx-6-"5.6"-real_number-0]|TX|3172/3;482/3|
+00000000|MMI|7.23|6/5|C0442749|[fndg]|["5 6"-tx-34-"5.6"-real_number-0,"5 6"-tx-6-"5.6"-real_number-0]|TX|3172/3;482/3|
+00000000|MMI|7.21|Hepatic impairment|C0948807|[dsyn]|["Hepatic impairment"-tx-48-"Hepatic Impairment"-noun-0,"Hepatic impairment"-tx-48-"hepatic impairment"-noun-1]|TX|5117/18;5213/18|
+00000000|MMI|7.13|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-49-"Toxicity"-noun-0,"Toxicity"-tx-11-"toxicity"-noun-0]|TX|5309/8;790/8|
+00000000|MMI|7.13|Experimental Result|C2825142|[fndg]|["Result"-tx-30-"results"-verb-0,"Result"-tx-22-"results"-verb-0]|TX|2490/7;1728/7|
+00000000|MMI|6.74|Congenital Abnormality|C0000768|[cgab]|["malformations"-tx-50-"malformations"-noun-0]|TX|5562/13|C16.131
+00000000|MMI|6.72|Signs and Symptoms|C0037088|[sosy]|["Finding"-tx-44-"finding"-noun-0]|TX|4647/7|C23.888
+00000000|MMI|5.18|5 - 9|C3840622|[fndg]|["5 - 9"-tx-11-"5.9"-real_number-0]|TX|766/3|
+00000000|MMI|5.18|Acute Myocardial Infarction by ECG Finding|C3541950|[fndg]|["Acute Myocardial Infarction"-tx-25-"acute myocardial infarction"-noun-0]|TX|1975/27|
+00000000|MMI|5.18|Acute myocardial infarction|C0155626|[dsyn]|["Acute Myocardial Infarction"-tx-25-"acute myocardial infarction"-noun-0]|TX|1975/27|
+00000000|MMI|5.18|Bone erosion|C0587240|[patf]|["Bone erosion"-tx-35-"bone erosion"-noun-0]|TX|3337/12|
+00000000|MMI|5.18|Clouded consciousness|C0683369|[sosy]|["Confusion"-tx-45-"confusion"-noun-0]|TX|4797/9|
+00000000|MMI|5.18|Confusion Adverse Event|C1963086|[fndg]|["Confusion"-tx-45-"confusion"-noun-0]|TX|4797/9|
+00000000|MMI|5.18|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-45-"headache"-noun-0]|TX|4766/8|
+00000000|MMI|5.18|Erosion lesion|C1959609|[patf]|["EROSION"-tx-35-"erosion"-noun-0]|TX|3417/7|
+00000000|MMI|5.18|Injury wounds|C0043250|[inpo]|["WOUND"-tx-26-"Wound"-verb-0]|TX|2113/5|
+00000000|MMI|5.18|Medical Device Material Perforation|C1881710|[patf]|["Perforation"-tx-18-"perforation"-noun-0]|TX|1344/11|
+00000000|MMI|5.18|Patient currently pregnant|C0549206|[fndg]|["Pregnant"-tx-51-"pregnant"-adj-0]|TX|5653/8|
+00000000|MMI|5.18|Periodontal infection|C0747479|[dsyn]|["Periodontal Infection"-tx-35-"periodontal infection"-noun-0]|TX|3360/21|
+00000000|MMI|5.18|School Grade|C3244287|[fndg]|["grade"-tx-40-"Grade"-verb-0]|TX|4096/5|
+00000000|MMI|5.18|Skin Erosion|C3887524|[dsyn]|["Erosion"-tx-35-"erosion"-noun-0]|TX|3417/7|
+00000000|MMI|5.18|Stage 1|C3840271|[fndg]|["Stage 1"-tx-30-"stage 1"-noun-0]|TX|2688/7|
+00000000|MMI|5.18|Superficial ulcer|C0333307|[acab]|["Erosion"-tx-35-"erosion"-noun-0]|TX|3417/7|
+00000000|MMI|5.18|Traumatic injury|C3263723|[inpo]|["Wound"-tx-26-"Wound"-verb-0]|TX|2113/5|
+00000000|MMI|5.18|Ulceration of gingivae|C0392378|[dsyn]|["GINGIVAL ULCERATION"-tx-35-"gingival ulceration"-noun-0]|TX|3394/19|
+00000000|MMI|5.18|Visual disturbance|C0547030|[sosy]|["Visual Disturbances"-tx-45-"visual disturbances"-noun-0]|TX|4776/19|
+00000000|MMI|5.18|Wounds and Injuries|C0043251|[inpo]|["Wound"-tx-26-"Wound"-verb-0]|TX|2113/5|C26
+00000000|MMI|3.59|Container status - Identified|C1550043|[fndg]|["Identified"-tx-30-"identified"-verb-0]|TX|2714/10|
+00000000|MMI|3.59|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-21-"history of"-noun-1]|TX|1638/10|
+00000000|MMI|3.59|Possible pregnancy (finding)|C0425965|[fndg]|["? Pregnancy"-tx-51-"pregnancy"-noun-0]|TX|5616/9|
+00000000|MMI|3.59|Used by|C1273517|[fndg]|["used"-tx-51-"used"-verb-0]|TX|5604/4|
+00000000|MMI|3.58|patient symptoms|C1317600|[fndg]|["patients symptoms"-tx-17-"patients symptoms"-noun-0]|TX|1242/8,1255/8|
+00000000|MMI|3.57|0%|C3842591|[fndg]|["0%"-tx-24-"0"-percentage-0]|TX|1855/1|
+00000000|MMI|3.57|Diagnosis|C0011900|[fndg]|["DIAGNOSED"-tx-44-"diagnosed"-verb-0]|TX|4619/9|E01
+00000000|MMI|3.57|Experimental Finding|C2825141|[fndg]|["Finding"-tx-44-"finding"-noun-0]|TX|4647/7|
+00000000|MMI|3.57|Finding|C0243095|[fndg]|["Finding"-tx-44-"finding"-noun-0]|TX|4647/7|
+00000000|MMI|3.56|50%|C3842586|[fndg]|["50%"-tx-39-"50"-percentage-0]|TX|3904/2|
+00000000|MMI|3.56|<50|C3843766|[fndg]|["<50"-tx-39-"50"-percentage-0]|TX|3904/2|
+00000000|MMI|3.55|Good oral hygiene|C0457639|[fndg]|["Good oral hygiene"-tx-37-"good oral hygiene"-noun-0]|TX|3632/17|
+00000000|MMI|3.55|30%|C3842588|[fndg]|["30%"-tx-30-"30"-percentage-0]|TX|2775/2|
+00000000|MMI|3.48|Hypertension, severe|C4013784|[fndg]|["Hypertension, severe"-tx-33-"severe hypertension"-noun-0]|TX|3087/19|
+00000000|MMI|3.48|Hypertensive crisis|C0020546|[patf]|["HYPERTENSIVE CRISIS"-tx-4-"hypertensive crisis"-noun-0]|TX|395/19|
+00000000|MMI|3.48|Invasive Lesion|C1334278|[fndg]|["Invasive"-tx-38-"invasive"-adj-0]|TX|3665/8|
+00000000|MMI|3.47|West Haven Hepatic Encephalopathy Grade 2|C3889824|[fndg]|["GRADE 2"-tx-40-"Grade 2"-noun-0]|TX|4044/7|
+00000000|MMI|3.47|10%|C3842590|[fndg]|["10%"-tx-47-"10"-real_number-0]|TX|4895/2|
+00000000|MMI|3.45|Vasogenic Edema|C2825502|[fndg]|["Vasogenic Edema"-tx-44-"vasogenic edema"-noun-0]|TX|4603/15|
+00000000|MMI|3.43|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["Grade 4"-tx-40-"Grade 4"-noun-0]|TX|4060/5,4068/1|
+00000000|MMI|3.43|West Haven Hepatic Encephalopathy Grade 4|C3889293|[fndg]|["GRADE 4"-tx-40-"Grade 4"-noun-0]|TX|4060/5,4068/1|
+00000000|MMI|3.43|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-17-"symptoms"-noun-0]|TX|1255/8|

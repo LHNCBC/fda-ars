@@ -1,0 +1,173 @@
+78,103|C1142499|Gastrointestinal Toxicity|fndg
+131,139|C0011991|diarrhea|sosy
+131,139|C1963091|diarrhea|fndg
+141,147|C0027497|nausea|sosy
+141,147|C1963179|nausea|patf
+149,157|C0042963|vomiting|sosy
+149,157|C1963281|vomiting|patf
+161,175|C0000737|abdominal pain|sosy
+318,332|C0235378|Hepatotoxicity|inpo
+353,367|C0235378|hepatotoxicity|inpo
+460,471|C1444662|discontinue|fndg
+505,530|C0206062|Interstitial Lung Disease|dsyn
+537,548|C0032285|Pneumonitis|dsyn
+537,548|C3714636|Pneumonitis|dsyn
+591,602|C1444662|discontinue|fndg
+648,655|C0445223|related|fndg
+656,659|C0206062|ILD|dsyn
+660,671|C0032285|pneumonitis|dsyn
+660,671|C3714636|pneumonitis|dsyn
+697,699;709,721|C0151878|QT Prolongation|fndg
+742,745;755,767|C0855333|QTc prolongation|fndg
+777,795|C0013798|electrocardiograms|fndg
+830,854|C0018802|congestive heart failure|dsyn
+856,872|C0428977|bradyarrhythmias|patf
+856,872|C0079035|bradyarrhythmias|dsyn
+874,899|C0151613|electrolyte abnormalities|fndg
+1023,1034|C1444662|discontinue|fndg
+1068,1081|C0020456|Hyperglycemia|dsyn
+1102,1115|C0020456|hyperglycemia|dsyn
+1202,1211|C1444656|indicated|fndg
+1268,1277|C1444656|indicated|fndg
+1321,1332|C1444662|discontinue|fndg
+1366,1377|C0428977|Bradycardia|patf
+1366,1377|C3812171|Bradycardia|fndg
+1398,1409|C0428977|bradycardia|patf
+1398,1409|C3812171|bradycardia|fndg
+1502,1513|C1444662|discontinue|fndg
+1547,1559|C0030305|Pancreatitis|dsyn
+1547,1559|C1963198|Pancreatitis|fndg
+1602,1614|C0030305|pancreatitis|dsyn
+1602,1614|C1963198|pancreatitis|fndg
+1714,1723|C1444656|indicated|fndg
+1761,1769|C0600688|Toxicity|inpo
+1933,1943;1975,1983|C0743188|Persistent Diarrhea|dsyn
+1944,1969|C1142499|Gastrointestinal Toxicity|fndg
+1985,1991|C0027497|nausea|sosy
+1985,1991|C1963179|nausea|patf
+1993,2001|C0042963|vomiting|sosy
+1993,2001|C1963281|vomiting|patf
+2006,2020|C0000737|abdominal pain|sosy
+2153,2161|C0011991|diarrhea|sosy
+2153,2161|C1963091|diarrhea|fndg
+2163,2169|C0027497|nausea|sosy
+2163,2169|C1963179|nausea|patf
+2171,2179|C0042963|vomiting|sosy
+2171,2179|C1963281|vomiting|patf
+2184,2198|C0000737|abdominal pain|sosy
+2351,2360|C1444656|indicated|fndg
+2571,2585|C0235378|Hepatotoxicity|inpo
+2703,2706|C1266129|ALT|neop
+2843,2858|C1444662|discontinuation|fndg
+2866,2888|C0438717|elevated transaminases|fndg
+2894,2902|C0022346|jaundice|patf
+2894,2902|C2010848|jaundice|fndg
+2894,2902|C2203646|jaundice|sosy
+2929,2932|C1266129|ALT|neop
+2995,3002|C0808270|2 times|fndg
+3017,3044|C0858306|normal alkaline phosphatase|fndg
+3156,3159|C1266129|ALT|neop
+3246,3255|C1444656|indicated|fndg
+3452,3463|C1444662|discontinue|fndg
+3578,3603|C0206062|Interstitial Lung Disease|dsyn
+3605,3608|C0206062|ILD|dsyn
+3610,3621|C0032285|Pneumonitis|dsyn
+3610,3621|C3714636|Pneumonitis|dsyn
+3656,3661|C1705232|fatal|fndg
+3662,3665|C0206062|ILD|dsyn
+3666,3677|C0032285|pneumonitis|dsyn
+3666,3677|C3714636|pneumonitis|dsyn
+3734,3745|C0032285|pneumonitis|dsyn
+3734,3745|C3714636|pneumonitis|dsyn
+3803,3816|C1519275|CTCAE Grade 3|fndg
+3822,3825|C0206062|ILD|dsyn
+3826,3837|C0032285|pneumonitis|dsyn
+3826,3837|C3714636|pneumonitis|dsyn
+3874,3879|C1705232|fatal|fndg
+3880,3883|C0206062|ILD|dsyn
+3884,3895|C0032285|pneumonitis|dsyn
+3884,3895|C3714636|pneumonitis|dsyn
+3900,3908;3914,3921|C0747307|reported patient|fndg
+3970,3982|C1444662|discontinued|fndg
+4013,4024|C0032285|pneumonitis|dsyn
+4013,4024|C3714636|pneumonitis|dsyn
+4051,4069|C0037090|pulmonary symptoms|sosy
+4081,4087|C0024115|of ILD|dsyn
+4088,4099|C0032285|pneumonitis|dsyn
+4088,4099|C3714636|pneumonitis|dsyn
+4132,4138|C0024115|of ILD|dsyn
+4139,4150|C0032285|pneumonitis|dsyn
+4139,4150|C3714636|pneumonitis|dsyn
+4168,4179|C1444662|discontinue|fndg
+4225,4232|C0445223|related|fndg
+4233,4236|C0206062|ILD|dsyn
+4237,4248|C0032285|pneumonitis|dsyn
+4237,4248|C3714636|pneumonitis|dsyn
+4331,4333;4343,4355|C0151878|QT Prolongation|fndg
+4399,4403;4410,4419|C0861064|lead increased|fndg
+4465,4483|C0040479|Torsade de pointes|dsyn
+4465,4483|C1963250|Torsade de pointes|fndg
+4488,4500|C0011071|sudden death|patf
+4488,4500|C1964022|sudden death|fndg
+5105,5132|C1141890|congenital long QT syndrome|dsyn
+5167,5185|C0013798|electrocardiograms|fndg
+5227,5251|C0018802|congestive heart failure|dsyn
+5253,5269|C0428977|bradyarrhythmias|patf
+5253,5269|C0079035|bradyarrhythmias|dsyn
+5271,5296|C0151613|electrolyte abnormalities|fndg
+5479,5483|C0013798|ECGs|fndg
+5686,5697|C1444662|discontinue|fndg
+5730,5733;5743,5755|C0855333|QTc prolongation|fndg
+5759,5770|C3811910|combination|fndg
+5776,5794|C0040479|Torsade de pointes|dsyn
+5776,5794|C1963250|Torsade de pointes|fndg
+5798,5833|C0344432|polymorphic ventricular tachycardia|dsyn
+5837,5851|C0037088|signs/symptoms|sosy
+5863,5873|C0003811|arrhythmia|fndg
+5963,5976|C0020456|Hyperglycemia|dsyn
+6049,6054;6063,6064|C3537125|CTCAE 4|fndg
+6055,6062|C3889290|Grade 3|fndg
+6065,6078|C0020456|hyperglycemia|dsyn
+6184,6197|C1519275|CTCAE Grade 3|fndg
+6200,6213|C0020456|hyperglycemia|dsyn
+6231,6239|C0011860|diabetes|dsyn
+6231,6239|C0011849|diabetes|dsyn
+6231,6239|C0011847|diabetes|dsyn
+6243,6262|C0271650|glucose intolerance|dsyn
+6438,6447|C1444656|indicated|fndg
+6504,6513|C1444656|indicated|fndg
+6590,6603|C0020456|hyperglycemia|dsyn
+6618,6628|C2911690|controlled|fndg
+6895,6906|C0428977|Bradycardia|patf
+6895,6906|C3812171|Bradycardia|fndg
+6977,6994|C1963175|sinus bradycardia|fndg
+6977,6994|C0085610|sinus bradycardia|patf
+6977,6994|C2108107|sinus bradycardia|fndg
+7069,7080|C1268649|new finding|fndg
+7104,7115|C0428977|Bradycardia|patf
+7104,7115|C3812171|Bradycardia|fndg
+7214,7225|C3811910|combination|fndg
+7259,7270|C0428977|bradycardia|patf
+7259,7270|C3812171|bradycardia|fndg
+7448,7471|C0741627|symptomatic bradycardia|dsyn
+7537,7549|C0231221|asymptomatic|fndg
+7690,7701|C1444662|discontinue|fndg
+7731,7742|C0428977|bradycardia|patf
+7731,7742|C3812171|bradycardia|fndg
+7788,7798|C1550043|identified|fndg
+7868,7879|C0428977|bradycardia|patf
+7868,7879|C3812171|bradycardia|fndg
+7883,7894|C0020649|hypotension|fndg
+7883,7894|C3163620|hypotension|fndg
+7931,7943|C0231221|asymptomatic|fndg
+7944,7955|C0428977|bradycardia|patf
+7944,7955|C3812171|bradycardia|fndg
+8048,8060|C1444662|discontinued|fndg
+8136,8160|C0741624|asymptomatic bradycardia|dsyn
+8307,8319|C0030305|Pancreatitis|dsyn
+8307,8319|C1963198|Pancreatitis|fndg
+8448,8461;8478,8484|C1559932|CTCAE Grade 3 lipase|fndg
+8667,8676|C1444656|indicated|fndg
+8904,8912|C0600688|Toxicity|inpo
+9206,9224|C4021790|skeletal anomalies|anab
+9515,9522|C1363945|therapy|fndg

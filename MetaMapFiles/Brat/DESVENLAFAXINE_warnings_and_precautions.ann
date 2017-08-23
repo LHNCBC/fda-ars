@@ -1,0 +1,872 @@
+T1	AdverseReaction 55 73	Clinical Worsening
+T2	AdverseReaction 74 86	Suicide Risk
+T3	AdverseReaction 155 173	Serotonin Syndrome
+T4	AdverseReaction 175 193	Serotonin syndrome
+T5	AdverseReaction 797 820	Elevated Blood Pressure
+T6	AdverseReaction 941 958	Abnormal Bleeding
+T7	AdverseReaction 989 997	bleeding
+T8	Factor 968 971	may
+T9	AdverseReaction 1168 1190	Angle Closure Glaucoma
+T10	AdverseReaction 1192 1214	Angle closure glaucoma
+T11	DrugClass 1295 1310	antidepressants
+T12	AdverseReaction 1330 1349	Activation of Mania
+T13	AdverseReaction 1330 1343;1350 1359	Activation of Hypomania
+T14	AdverseReaction 1491 1515	Discontinuation Syndrome
+T15	AdverseReaction 1602 1609	Seizure
+T16	AdverseReaction 1690 1702	Hyponatremia
+T17	AdverseReaction 1759 1784	Interstitial Lung Disease
+T18	AdverseReaction 1789 1811	Eosinophilic Pneumonia
+T19	AdverseReaction 2519 2542	worsening of depression
+T20	AdverseReaction 2564 2575	suicidality
+T22	AdverseReaction 2779 2796	suicidal thinking
+T23	AdverseReaction 2779 2787;2801 2809	suicidal behavior
+T24	AdverseReaction 2811 2822	suicidality
+T25	DrugClass 2694 2714	antidepressant drugs
+T26	AdverseReaction 3012 3023	suicidality
+T27	Negation 2976 2979	not
+T28	AdverseReaction 3703 3714	suicidality
+T29	AdverseReaction 3859 3870	suicidality
+T30	AdverseReaction 4129 4140	suicidality
+T31	AdverseReaction 4275 4286	Suicidality
+T32	AdverseReaction 4897 4905	suicides
+T33	Negation 4894 4896	No
+T34	AdverseReaction 4959 4967	suicides
+T35	AdverseReaction 5108 5119	suicidality
+T37	AdverseReaction 5720 5727	anxiety
+T38	AdverseReaction 5729 5738	agitation
+T39	AdverseReaction 5740 5753	panic attacks
+T40	AdverseReaction 5755 5763	insomnia
+T41	AdverseReaction 5765 5777	irritability
+T42	AdverseReaction 5779 5788	hostility
+T43	AdverseReaction 5790 5804	aggressiveness
+T44	AdverseReaction 5806 5817	impulsivity
+T45	AdverseReaction 5819 5828	akathisia
+T46	AdverseReaction 5830 5854	psychomotor restlessness
+T47	AdverseReaction 5857 5866	hypomania
+T48	AdverseReaction 5872 5877	mania
+T49	DrugClass 5949 5964	antidepressants
+T50	AdverseReaction 6143 6166	worsening of depression
+T51	AdverseReaction 6191 6208	suicidal impulses
+T52	Negation 6213 6233	not been established
+T53	AdverseReaction 6308 6319	suicidality
+T54	Factor 6271 6274	may
+T55	AdverseReaction 8055 8079;8086 8093	precipitation of a mixed episode
+T57	AdverseReaction 8710 8728	serotonin syndrome
+T58	Severity 8693 8709	life-threatening
+T59	AdverseReaction 9179 9197	Serotonin syndrome
+T60	AdverseReaction 9219 9240	mental status changes
+T61	AdverseReaction 9248 9257	agitation
+T62	AdverseReaction 9259 9273	hallucinations
+T63	AdverseReaction 9275 9283	delirium
+T64	AdverseReaction 9289 9293	coma
+T65	AdverseReaction 9296 9317	autonomic instability
+T66	AdverseReaction 9325 9336	tachycardia
+T67	AdverseReaction 9338 9359	labile blood pressure
+T68	AdverseReaction 9361 9370	dizziness
+T69	AdverseReaction 9372 9383	diaphoresis
+T70	AdverseReaction 9385 9393	flushing
+T71	AdverseReaction 9395 9407	hyperthermia
+T72	AdverseReaction 9410 9432	neuromuscular symptoms
+T73	AdverseReaction 9440 9446	tremor
+T74	AdverseReaction 9448 9456	rigidity
+T75	AdverseReaction 9458 9467	myoclonus
+T76	AdverseReaction 9469 9482	hyperreflexia
+T77	AdverseReaction 9484 9498	incoordination
+T78	AdverseReaction 9501 9509	seizures
+T79	AdverseReaction 9518 9543	gastrointestinal symptoms
+T80	AdverseReaction 9551 9557	nausea
+T81	AdverseReaction 9559 9567	vomiting
+T82	AdverseReaction 9569 9577	diarrhea
+T83	AdverseReaction 11160 11187	increases in blood pressure
+T84	AdverseReaction 11642 11666	blood pressure increases
+T85	Severity 11632 11641	Sustained
+T86	AdverseReaction 11985 11993	bleeding
+T87	AdverseReaction 12314 12339	gastrointestinal bleeding
+T88	DrugClass 12247 12291	drugs that interfere with serotonin reuptake
+T89	AdverseReaction 12341 12349	Bleeding
+T90	AdverseReaction 12401 12411	ecchymosis
+T91	AdverseReaction 12413 12421	hematoma
+T92	AdverseReaction 12423 12432	epistaxis
+T93	AdverseReaction 12438 12447	petechiae
+T94	Severity 12451 12467	life-threatening
+T95	AdverseReaction 12468 12479	hemorrhages
+T96	AdverseReaction 12697 12719	Angle-Closure Glaucoma
+T97	AdverseReaction 12832 12852	angle closure attack
+T98	Factor 12817 12820	may
+T101	DrugClass 13260 13275	antidepressants
+T103	AdverseReaction 13724 13733	dizziness
+T104	AdverseReaction 13735 13741	nausea
+T105	AdverseReaction 13743 13751	headache
+T106	AdverseReaction 13753 13765	irritability
+T107	AdverseReaction 13767 13775	insomnia
+T108	AdverseReaction 13777 13785	diarrhea
+T109	AdverseReaction 13787 13794	anxiety
+T110	AdverseReaction 13796 13803	fatigue
+T111	AdverseReaction 13805 13820	abnormal dreams
+T112	AdverseReaction 13826 13839	hyperhidrosis
+T130	AdverseReaction 15115 15122	seizure
+T131	AdverseReaction 15468 15480	Hyponatremia
+T132	Factor 15481 15484	may
+T133	AdverseReaction 15577 15589	hyponatremia
+T134	AdverseReaction 15622 15678	syndrome of inappropriate antidiuretic hormone secretion
+T135	AdverseReaction 15680 15685	SIADH
+T136	AdverseReaction 15699 15733	serum sodium lower than 110 mmol/L
+T137	AdverseReaction 15808 15820	hyponatremia
+T139	AdverseReaction 16188 16200	hyponatremia
+T140	AdverseReaction 16209 16217	headache
+T141	AdverseReaction 16219 16243	difficulty concentrating
+T142	AdverseReaction 16245 16262	memory impairment
+T143	AdverseReaction 16264 16273	confusion
+T144	AdverseReaction 16275 16283	weakness
+T145	AdverseReaction 16408 16421	hallucination
+T146	AdverseReaction 16423 16430	syncope
+T147	AdverseReaction 16432 16439	seizure
+T148	AdverseReaction 16441 16445	coma
+T149	AdverseReaction 16289 16301	unsteadiness
+T150	AdverseReaction 16447 16465	respiratory arrest
+T151	AdverseReaction 16471 16476	death
+T152	AdverseReaction 16321 16326	falls
+T153	Factor 16309 16312	can
+T154	AdverseReaction 16548 16573	Interstitial lung disease
+T155	AdverseReaction 16578 16600	eosinophilic pneumonia
+T156	DrugClass 16617 16628	venlafaxine
+T157	DrugClass 2475 2490	antidepressants
+T158	DrugClass 3721 3726	drugs
+T159	DrugClass 8003 8017	antidepressant
+T160	Factor 8681 8692	potentially
+T161	AdverseReaction 11541 11564	elevated blood pressure
+T162	Factor 11977 11981	risk
+T163	DrugClass 12378 12383	SNRIs
+T99	AdverseReaction 13029 13034	mania
+T100	AdverseReaction 13106 13125	Activation of mania
+T164	AdverseReaction 13106 13119;13126 13135	Activation of hypomania
+T165	DrugClass 15836 15841	SNRIs
+T166	AdverseReaction 8055 8073;8080 8093	precipitation of a manic episode
+T102	Factor 9207 9210	may
+T21	Factor 5120 5124	risk
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7 Hypothetical:E8
+E8	Factor:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10 Hypothetical:E11
+E11	DrugClass:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19 Hypothetical2:E157
+E20	AdverseReaction:T20 Hypothetical2:E157
+E22	AdverseReaction:T22 Hypothetical:E25
+E23	AdverseReaction:T23 Hypothetical:E25
+E24	AdverseReaction:T24 Hypothetical:E25
+E25	DrugClass:T25
+E26	AdverseReaction:T26 Negated:E27
+E27	Negation:T27
+E28	AdverseReaction:T28 Hypothetical:E158
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32 Negated:E33
+E33	Negation:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35 Hypothetical:E21
+E37	AdverseReaction:T37 Hypothetical:E49
+E38	AdverseReaction:T38 Hypothetical:E49
+E39	AdverseReaction:T39 Hypothetical:E49
+E40	AdverseReaction:T40 Hypothetical:E49
+E41	AdverseReaction:T41 Hypothetical:E49
+E42	AdverseReaction:T42 Hypothetical:E49
+E43	AdverseReaction:T43 Hypothetical:E49
+E44	AdverseReaction:T44 Hypothetical:E49
+E45	AdverseReaction:T45 Hypothetical:E49
+E46	AdverseReaction:T46 Hypothetical:E49
+E47	AdverseReaction:T47 Hypothetical:E49
+E48	AdverseReaction:T48 Hypothetical:E49
+E49	DrugClass:T49
+E50	AdverseReaction:T50 Negated:E52
+E51	AdverseReaction:T51 Negated:E52
+E52	Negation:T52
+E53	AdverseReaction:T53 Hypothetical:E54
+E54	Factor:T54
+E55	AdverseReaction:T55 Hypothetical2:E159
+E57	AdverseReaction:T57 Effect:E58 Hypothetical:E160
+E58	Severity:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60 Hypothetical:E102
+E61	AdverseReaction:T61 Hypothetical:E102
+E62	AdverseReaction:T62 Hypothetical:E102
+E63	AdverseReaction:T63 Hypothetical:E102
+E64	AdverseReaction:T64 Hypothetical:E102
+E65	AdverseReaction:T65 Hypothetical:E102
+E66	AdverseReaction:T66 Hypothetical:E102
+E67	AdverseReaction:T67 Hypothetical:E102
+E68	AdverseReaction:T68 Hypothetical:E102
+E69	AdverseReaction:T69 Hypothetical:E102
+E70	AdverseReaction:T70 Hypothetical:E102
+E71	AdverseReaction:T71 Hypothetical:E102
+E72	AdverseReaction:T72 Hypothetical:E102
+E73	AdverseReaction:T73 Hypothetical:E102
+E74	AdverseReaction:T74 Hypothetical:E102
+E75	AdverseReaction:T75 Hypothetical:E102
+E76	AdverseReaction:T76 Hypothetical:E102
+E77	AdverseReaction:T77 Hypothetical:E102
+E78	AdverseReaction:T78 Hypothetical:E102
+E79	AdverseReaction:T79 Hypothetical:E102
+E80	AdverseReaction:T80 Hypothetical:E102
+E81	AdverseReaction:T81 Hypothetical:E102
+E82	AdverseReaction:T82 Hypothetical:E102
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84 Effect:E85
+E85	Severity:T85
+E86	AdverseReaction:T86 Hypothetical:E162
+E87	AdverseReaction:T87 Hypothetical:E88
+E88	DrugClass:T88
+E89	AdverseReaction:T89 Hypothetical:E163
+E90	AdverseReaction:T90 Hypothetical:E163
+E91	AdverseReaction:T91 Hypothetical:E163
+E92	AdverseReaction:T92 Hypothetical:E163
+E93	AdverseReaction:T93 Hypothetical:E163
+E94	Severity:T94
+E95	AdverseReaction:T95 Hypothetical:E163 Effect:E94
+E96	AdverseReaction:T96
+E97	AdverseReaction:T97 Hypothetical:E98
+E98	Factor:T98
+E101	DrugClass:T101
+E103	AdverseReaction:T103
+E104	AdverseReaction:T104
+E105	AdverseReaction:T105
+E106	AdverseReaction:T106
+E107	AdverseReaction:T107
+E108	AdverseReaction:T108
+E109	AdverseReaction:T109
+E110	AdverseReaction:T110
+E111	AdverseReaction:T111
+E112	AdverseReaction:T112
+E130	AdverseReaction:T130
+E131	AdverseReaction:T131 Hypothetical:E132
+E132	Factor:T132
+E133	AdverseReaction:T133
+E134	AdverseReaction:T134
+E135	AdverseReaction:T135
+E136	AdverseReaction:T136
+E137	AdverseReaction:T137 Hypothetical2:E165
+E139	AdverseReaction:T139
+E140	AdverseReaction:T140
+E141	AdverseReaction:T141
+E142	AdverseReaction:T142
+E143	AdverseReaction:T143
+E144	AdverseReaction:T144
+E145	AdverseReaction:T145
+E146	AdverseReaction:T146
+E147	AdverseReaction:T147
+E148	AdverseReaction:T148
+E149	AdverseReaction:T149
+E150	AdverseReaction:T150
+E151	AdverseReaction:T151
+E152	AdverseReaction:T152 Hypothetical:E153
+E153	Factor:T153
+E154	AdverseReaction:T154 Hypothetical:E156
+E155	AdverseReaction:T155 Hypothetical:E156
+E156	DrugClass:T156
+E157	DrugClass:T157
+E158	DrugClass:T158
+E159	DrugClass:T159
+E160	Factor:T160
+E161	AdverseReaction:T161
+E162	Factor:T162
+E163	DrugClass:T163
+E99	AdverseReaction:T99
+E100	AdverseReaction:T100 Hypothetical:E101
+E164	AdverseReaction:T164 Hypothetical:E101
+E165	DrugClass:T165
+E166	AdverseReaction:T166 Hypothetical2:E159
+E102	Factor:T102
+E21	Factor:T21
+A1	CUI E1 C0235874
+A2	UMLS-Preferred-Name E1 Disease Exacerbation
+A3	MEDDRA-PT E1 Condition aggravated
+A4	MEDDRA-PT-ID E1 10010264
+A5	CUI E2 C0563664
+A6	UMLS-Preferred-Name E2 At risk for suicide
+A7	MEDDRA-PT E2 Suicidal ideation
+A8	MEDDRA-PT-ID E2 10042458
+A9	LLT E2 Suicidal tendency
+A10	LLT-ID E2 10042461
+A11	CUI E3 C0699828
+A12	UMLS-Preferred-Name E3 Serotonin Syndrome
+A13	MEDDRA-PT E3 Serotonin syndrome
+A14	MEDDRA-PT-ID E3 10040108
+A15	CUI E4 C0699828
+A16	UMLS-Preferred-Name E4 Serotonin Syndrome
+A17	MEDDRA-PT E4 Serotonin syndrome
+A18	MEDDRA-PT-ID E4 10040108
+A19	CUI E5 C0497247
+A20	UMLS-Preferred-Name E5 Increase in blood pressure
+A21	MEDDRA-PT E5 Blood pressure increased
+A22	MEDDRA-PT-ID E5 10005750
+A23	CUI E6 C1458140
+A24	UMLS-Preferred-Name E6 Bleeding tendency
+A25	MEDDRA-PT E6 Haemorrhagic disorder
+A26	MEDDRA-PT-ID E6 10019009
+A27	LLT E6 Hemorrhage abnormal
+A28	LLT-ID E6 10055261
+A29	CUI E7 C0019080
+A30	UMLS-Preferred-Name E7 Hemorrhage
+A31	MEDDRA-PT E7 Haemorrhage
+A32	MEDDRA-PT-ID E7 10055798
+A33	LLT E7 Bleeding
+A34	LLT-ID E7 10005103
+A35	CUI E9 C0017605
+A36	UMLS-Preferred-Name E9 Angle Closure Glaucoma
+A37	MEDDRA-PT E9 Angle closure glaucoma
+A38	MEDDRA-PT-ID E9 10002500
+A39	CUI E10 C0017605
+A40	UMLS-Preferred-Name E10 Angle Closure Glaucoma
+A41	MEDDRA-PT E10 Angle closure glaucoma
+A42	MEDDRA-PT-ID E10 10002500
+A43	CUI E12 C0338831
+A44	UMLS-Preferred-Name E12 Manic
+A45	MEDDRA-PT E12 Mania
+A46	MEDDRA-PT-ID E12 10026749
+A47	CUI E13 C0241934
+A48	UMLS-Preferred-Name E13 Hypomania
+A49	MEDDRA-PT E13 Hypomania
+A50	MEDDRA-PT-ID E13 10021030
+A51	CUI E14 C0152128
+A52	UMLS-Preferred-Name E14 Drug withdrawal syndrome
+A53	MEDDRA-PT E14 Drug withdrawal syndrome
+A54	MEDDRA-PT-ID E14 10013754
+A55	CUI E15 C0036572
+A56	UMLS-Preferred-Name E15 Seizures
+A57	MEDDRA-PT E15 Seizure
+A58	MEDDRA-PT-ID E15 10039906
+A59	CUI E16 C0020625
+A60	UMLS-Preferred-Name E16 Hyponatremia
+A61	MEDDRA-PT E16 Hyponatraemia
+A62	MEDDRA-PT-ID E16 10021036
+A63	LLT E16 Hyponatremia
+A64	LLT-ID E16 10021038
+A65	CUI E17 C0206062
+A66	UMLS-Preferred-Name E17 Lung Diseases, Interstitial
+A67	MEDDRA-PT E17 Interstitial lung disease
+A68	MEDDRA-PT-ID E17 10022611
+A69	CUI E18 C1527407
+A70	UMLS-Preferred-Name E18 Eosinophilic Pneumonia
+A71	MEDDRA-PT E18 Eosinophilic pneumonia
+A72	MEDDRA-PT-ID E18 10014962
+A73	CUI E19 C0541869
+A74	UMLS-Preferred-Name E19 Depression worsened
+A75	MEDDRA-PT E19 Depression
+A76	MEDDRA-PT-ID E19 10012378
+A77	LLT E19 Depression worsened
+A78	LLT-ID E19 10012398
+A79	CUI E20 C3166387
+A80	UMLS-Preferred-Name E20 Suicidality
+A81	MEDDRA-PT E20 Suicidal behaviour
+A82	MEDDRA-PT-ID E20 10065604
+A83	LLT E20 Suicidal behavior
+A84	LLT-ID E20 10065607
+A85	CUI E22 C0424000
+A86	UMLS-Preferred-Name E22 Feeling suicidal (finding)
+A87	MEDDRA-PT E22 Suicidal ideation
+A88	MEDDRA-PT-ID E22 10042458
+A89	CUI E23 C1760428
+A90	UMLS-Preferred-Name E23 Suicidal behavior
+A91	MEDDRA-PT E23 Suicidal behaviour
+A92	MEDDRA-PT-ID E23 10065604
+A93	LLT E23 Suicidal behavior
+A94	LLT-ID E23 10065607
+A95	CUI E24 C3166387
+A96	UMLS-Preferred-Name E24 Suicidality
+A97	MEDDRA-PT E24 Suicidal behaviour
+A98	MEDDRA-PT-ID E24 10065604
+A99	LLT E24 Suicidal behavior
+A100	LLT-ID E24 10065607
+A101	CUI E26 C3166387
+A102	UMLS-Preferred-Name E26 Suicidality
+A103	MEDDRA-PT E26 Suicidal behaviour
+A104	MEDDRA-PT-ID E26 10065604
+A105	LLT E26 Suicidal behavior
+A106	LLT-ID E26 10065607
+A107	CUI E28 C3166387
+A108	UMLS-Preferred-Name E28 Suicidality
+A109	MEDDRA-PT E28 Suicidal behaviour
+A110	MEDDRA-PT-ID E28 10065604
+A111	LLT E28 Suicidal behavior
+A112	LLT-ID E28 10065607
+A113	CUI E29 C3166387
+A114	UMLS-Preferred-Name E29 Suicidality
+A115	MEDDRA-PT E29 Suicidal behaviour
+A116	MEDDRA-PT-ID E29 10065604
+A117	LLT E29 Suicidal behavior
+A118	LLT-ID E29 10065607
+A119	CUI E30 C3166387
+A120	UMLS-Preferred-Name E30 Suicidality
+A121	MEDDRA-PT E30 Suicidal behaviour
+A122	MEDDRA-PT-ID E30 10065604
+A123	LLT E30 Suicidal behavior
+A124	LLT-ID E30 10065607
+A125	CUI E31 C3166387
+A126	UMLS-Preferred-Name E31 Suicidality
+A127	MEDDRA-PT E31 Suicidal behaviour
+A128	MEDDRA-PT-ID E31 10065604
+A129	LLT E31 Suicidal behavior
+A130	LLT-ID E31 10065607
+A131	CUI E32 C0038661
+A132	UMLS-Preferred-Name E32 Suicide
+A133	MEDDRA-PT E32 Completed suicide
+A134	MEDDRA-PT-ID E32 10010144
+A135	LLT E32 Suicide
+A136	LLT-ID E32 10042462
+A137	CUI E34 C0038661
+A138	UMLS-Preferred-Name E34 Suicide
+A139	MEDDRA-PT E34 Completed suicide
+A140	MEDDRA-PT-ID E34 10010144
+A141	LLT E34 Suicide
+A142	LLT-ID E34 10042462
+A143	CUI E35 C3166387
+A144	UMLS-Preferred-Name E35 Suicidality
+A145	MEDDRA-PT E35 Suicidal behaviour
+A146	MEDDRA-PT-ID E35 10065604
+A147	LLT E35 Suicidal behavior
+A148	LLT-ID E35 10065607
+A149	CUI E37 C0003467
+A150	UMLS-Preferred-Name E37 Anxiety
+A151	MEDDRA-PT E37 Anxiety
+A152	MEDDRA-PT-ID E37 10002855
+A153	CUI E38 C0085631
+A154	UMLS-Preferred-Name E38 Agitation
+A155	MEDDRA-PT E38 Agitation
+A156	MEDDRA-PT-ID E38 10001497
+A157	CUI E39 C0086769
+A158	UMLS-Preferred-Name E39 Panic Attacks
+A159	MEDDRA-PT E39 Panic attack
+A160	MEDDRA-PT-ID E39 10033664
+A161	LLT E39 Panic attacks
+A162	LLT-ID E39 10033665
+A163	CUI E40 C0917801
+A164	UMLS-Preferred-Name E40 Sleeplessness
+A165	MEDDRA-PT E40 Insomnia
+A166	MEDDRA-PT-ID E40 10022437
+A167	CUI E41 C0022107
+A168	UMLS-Preferred-Name E41 Irritable Mood
+A169	MEDDRA-PT E41 Irritability
+A170	MEDDRA-PT-ID E41 10022998
+A171	CUI E42 C0020039
+A172	UMLS-Preferred-Name E42 Hostility
+A173	MEDDRA-PT E42 Hostility
+A174	MEDDRA-PT-ID E42 10020400
+A175	CUI E43 C0001807
+A176	UMLS-Preferred-Name E43 Aggressive behavior
+A177	MEDDRA-PT E43 Aggression
+A178	MEDDRA-PT-ID E43 10001488
+A179	LLT E43 Aggressiveness
+A180	LLT-ID E43 10001494
+A181	CUI E44 C0021125
+A182	UMLS-Preferred-Name E44 Impulsive Behavior
+A183	MEDDRA-PT E44 Impulsive behaviour
+A184	MEDDRA-PT-ID E44 10021567
+A185	LLT E44 Impulsive behavior
+A186	LLT-ID E44 10060909
+A187	CUI E45 C0392156
+A188	UMLS-Preferred-Name E45 Akathisia
+A189	MEDDRA-PT E45 Akathisia
+A190	MEDDRA-PT-ID E45 10001540
+A191	CUI E46 C3887612
+A192	UMLS-Preferred-Name E46 Psychomotor Agitation
+A193	MEDDRA-PT E46 Restlessness
+A194	MEDDRA-PT-ID E46 10038743
+A195	LLT E46 Psychomotor restlessness
+A196	LLT-ID E46 10037212
+A197	CUI E47 C0241934
+A198	UMLS-Preferred-Name E47 Hypomania
+A199	MEDDRA-PT E47 Hypomania
+A200	MEDDRA-PT-ID E47 10021030
+A201	CUI E48 C0338831
+A202	UMLS-Preferred-Name E48 Manic
+A203	MEDDRA-PT E48 Mania
+A204	MEDDRA-PT-ID E48 10026749
+A205	CUI E50 C0541869
+A206	UMLS-Preferred-Name E50 Depression worsened
+A207	MEDDRA-PT E50 Depression
+A208	MEDDRA-PT-ID E50 10012378
+A209	LLT E50 Depression worsened
+A210	LLT-ID E50 10012398
+A211	CUI E51 C0850336
+A212	UMLS-Preferred-Name E51 suicidal impulses
+A213	MEDDRA-PT E51 Suicidal ideation
+A214	MEDDRA-PT-ID E51 10042458
+A215	CUI E53 C3166387
+A216	UMLS-Preferred-Name E53 Suicidality
+A217	MEDDRA-PT E53 Suicidal behaviour
+A218	MEDDRA-PT-ID E53 10065604
+A219	LLT E53 Suicidal behavior
+A220	LLT-ID E53 10065607
+A221	CUI E55 C1608433
+A222	UMLS-Preferred-Name E55 Mixed manic depressive episode
+A223	MEDDRA-PT E55 Bipolar I disorder
+A224	MEDDRA-PT-ID E55 10004939
+A225	LLT E55 Mixed manic depressive episode
+A226	LLT-ID E55 10065032
+A227	CUI E57 C0699828
+A228	UMLS-Preferred-Name E57 Serotonin Syndrome
+A229	MEDDRA-PT E57 Serotonin syndrome
+A230	MEDDRA-PT-ID E57 10040108
+A231	CUI E59 C0699828
+A232	UMLS-Preferred-Name E59 Serotonin Syndrome
+A233	MEDDRA-PT E59 Serotonin syndrome
+A234	MEDDRA-PT-ID E59 10040108
+A235	CUI E60 C0856054
+A236	UMLS-Preferred-Name E60 Mental status changes
+A237	MEDDRA-PT E60 Mental status changes
+A238	MEDDRA-PT-ID E60 10048294
+A239	CUI E61 C0085631
+A240	UMLS-Preferred-Name E61 Agitation
+A241	MEDDRA-PT E61 Agitation
+A242	MEDDRA-PT-ID E61 10001497
+A243	CUI E62 C0018524
+A244	UMLS-Preferred-Name E62 Hallucinations
+A245	MEDDRA-PT E62 Hallucination
+A246	MEDDRA-PT-ID E62 10019063
+A247	LLT E62 Hallucinations
+A248	LLT-ID E62 10019077
+A249	CUI E63 C0011206
+A250	UMLS-Preferred-Name E63 Delirium
+A251	MEDDRA-PT E63 Delirium
+A252	MEDDRA-PT-ID E63 10012218
+A253	CUI E64 C0009421
+A254	UMLS-Preferred-Name E64 Comatose
+A255	MEDDRA-PT E64 Coma
+A256	MEDDRA-PT-ID E64 10010071
+A257	CUI E65 C0262385
+A258	UMLS-Preferred-Name E65 Autonomic nervous system imbalance
+A259	MEDDRA-PT E65 Autonomic nervous system imbalance
+A260	MEDDRA-PT-ID E65 10003840
+A261	LLT E65 Autonomic instability
+A262	LLT-ID E65 10049218
+A263	CUI E66 C0039231
+A264	UMLS-Preferred-Name E66 Tachycardia
+A265	MEDDRA-PT E66 Tachycardia
+A266	MEDDRA-PT-ID E66 10043071
+A267	CUI E67 C0428895
+A268	UMLS-Preferred-Name E67 Labile blood pressure
+A269	MEDDRA-PT E67 Labile blood pressure
+A270	MEDDRA-PT-ID E67 10023533
+A271	CUI E68 C0012833
+A272	UMLS-Preferred-Name E68 Dizziness
+A273	MEDDRA-PT E68 Dizziness
+A274	MEDDRA-PT-ID E68 10013573
+A275	CUI E69 C0700590
+A276	UMLS-Preferred-Name E69 Increased sweating
+A277	MEDDRA-PT E69 Hyperhidrosis
+A278	MEDDRA-PT-ID E69 10020642
+A279	LLT E69 Diaphoresis
+A280	LLT-ID E69 10012703
+A281	CUI E70 C0016382
+A282	UMLS-Preferred-Name E70 Flushing
+A283	MEDDRA-PT E70 Flushing
+A284	MEDDRA-PT-ID E70 10016825
+A285	CUI E71 C0015967
+A286	UMLS-Preferred-Name E71 Fever
+A287	MEDDRA-PT E71 Hyperthermia
+A288	MEDDRA-PT-ID E71 10020843
+A289	CUI E72 C0752252
+A290	UMLS-Preferred-Name E72 Neuromuscular Manifestations
+A291	MEDDRA-PT E72 Neuromyopathy
+A292	MEDDRA-PT-ID E72 10029323
+A293	LLT E72 Neuromuscular disorder NOS
+A294	LLT-ID E72 10029316
+A295	CUI E73 C0040822
+A296	UMLS-Preferred-Name E73 Tremor
+A297	MEDDRA-PT E73 Tremor
+A298	MEDDRA-PT-ID E73 10044565
+A299	CUI E74 C0026837
+A300	UMLS-Preferred-Name E74 Muscle Rigidity
+A301	MEDDRA-PT E74 Muscle rigidity
+A302	MEDDRA-PT-ID E74 10028330
+A303	LLT E74 Rigidity
+A304	LLT-ID E74 10039168
+A305	CUI E75 C0027066
+A306	UMLS-Preferred-Name E75 Myoclonus
+A307	MEDDRA-PT E75 Myoclonus
+A308	MEDDRA-PT-ID E75 10028622
+A309	CUI E76 C0151889
+A310	UMLS-Preferred-Name E76 Hyperreflexia
+A311	MEDDRA-PT E76 Hyperreflexia
+A312	MEDDRA-PT-ID E76 10020745
+A313	CUI E77 C0520966
+A314	UMLS-Preferred-Name E77 Abnormal coordination
+A315	MEDDRA-PT E77 Coordination abnormal
+A316	MEDDRA-PT-ID E77 10010947
+A317	LLT E77 Incoordination
+A318	LLT-ID E77 10021649
+A319	CUI E78 C0036572
+A320	UMLS-Preferred-Name E78 Seizures
+A321	MEDDRA-PT E78 Seizure
+A322	MEDDRA-PT-ID E78 10039906
+A323	LLT E78 Seizures
+A324	LLT-ID E78 10039910
+A325	CUI E79 C0426576
+A326	UMLS-Preferred-Name E79 Gastrointestinal symptom
+A327	MEDDRA-PT E79 Gastrointestinal disorder
+A328	MEDDRA-PT-ID E79 10017944
+A329	LLT E79 Gastrointestinal symptom NOS
+A330	LLT-ID E79 10018011
+A331	CUI E80 C0027497
+A332	UMLS-Preferred-Name E80 Nausea
+A333	MEDDRA-PT E80 Nausea
+A334	MEDDRA-PT-ID E80 10028813
+A335	CUI E81 C0042963
+A336	UMLS-Preferred-Name E81 Vomiting
+A337	MEDDRA-PT E81 Vomiting
+A338	MEDDRA-PT-ID E81 10047700
+A339	CUI E82 C0011991
+A340	UMLS-Preferred-Name E82 Diarrhea
+A341	MEDDRA-PT E82 Diarrhoea
+A342	MEDDRA-PT-ID E82 10012735
+A343	LLT E82 Diarrhea
+A344	LLT-ID E82 10012727
+A345	CUI E83 C0497247
+A346	UMLS-Preferred-Name E83 Increase in blood pressure
+A347	MEDDRA-PT E83 Blood pressure increased
+A348	MEDDRA-PT-ID E83 10005750
+A349	CUI E84 C0497247
+A350	UMLS-Preferred-Name E84 Increase in blood pressure
+A351	MEDDRA-PT E84 Blood pressure increased
+A352	MEDDRA-PT-ID E84 10005750
+A353	CUI E86 C0019080
+A354	UMLS-Preferred-Name E86 Hemorrhage
+A355	MEDDRA-PT E86 Haemorrhage
+A356	MEDDRA-PT-ID E86 10055798
+A357	LLT E86 Bleeding
+A358	LLT-ID E86 10005103
+A359	CUI E87 C0017181
+A360	UMLS-Preferred-Name E87 Gastrointestinal Hemorrhage
+A361	MEDDRA-PT E87 Gastrointestinal haemorrhage
+A362	MEDDRA-PT-ID E87 10017955
+A363	LLT E87 Gastrointestinal bleeding
+A364	LLT-ID E87 10017936
+A365	CUI E89 C0019080
+A366	UMLS-Preferred-Name E89 Hemorrhage
+A367	MEDDRA-PT E89 Haemorrhage
+A368	MEDDRA-PT-ID E89 10055798
+A369	LLT E89 Bleeding
+A370	LLT-ID E89 10005103
+A371	CUI E90 C0013491
+A372	UMLS-Preferred-Name E90 Ecchymosis
+A373	MEDDRA-PT E90 Ecchymosis
+A374	MEDDRA-PT-ID E90 10014080
+A375	CUI E91 C0018944
+A376	UMLS-Preferred-Name E91 Hematoma
+A377	MEDDRA-PT E91 Haematoma
+A378	MEDDRA-PT-ID E91 10018852
+A379	LLT E91 Hematoma
+A380	LLT-ID E91 10019428
+A381	CUI E92 C0014591
+A382	UMLS-Preferred-Name E92 Epistaxis
+A383	MEDDRA-PT E92 Epistaxis
+A384	MEDDRA-PT-ID E92 10015090
+A385	CUI E93 C0031256
+A386	UMLS-Preferred-Name E93 Petechiae
+A387	MEDDRA-PT E93 Petechiae
+A388	MEDDRA-PT-ID E93 10034754
+A389	CUI E95 C0019080
+A390	UMLS-Preferred-Name E95 Hemorrhage
+A391	MEDDRA-PT E95 Haemorrhage
+A392	MEDDRA-PT-ID E95 10055798
+A393	LLT E95 Hemorrhage
+A394	LLT-ID E95 10019524
+A395	CUI E96 C0017605
+A396	UMLS-Preferred-Name E96 Angle Closure Glaucoma
+A397	MEDDRA-PT E96 Angle closure glaucoma
+A398	MEDDRA-PT-ID E96 10002500
+A399	CUI E97 C0154946
+A400	UMLS-Preferred-Name E97 Acute angle-closure glaucoma
+A401	MEDDRA-PT E97 Angle closure glaucoma
+A402	MEDDRA-PT-ID E97 10002500
+A403	LLT E97 Acute angle closure glaucoma
+A404	LLT-ID E97 10000673
+A405	CUI E103 C0012833
+A406	UMLS-Preferred-Name E103 Dizziness
+A407	MEDDRA-PT E103 Dizziness
+A408	MEDDRA-PT-ID E103 10013573
+A409	CUI E104 C0027497
+A410	UMLS-Preferred-Name E104 Nausea
+A411	MEDDRA-PT E104 Nausea
+A412	MEDDRA-PT-ID E104 10028813
+A413	CUI E105 C0018681
+A414	UMLS-Preferred-Name E105 Headache
+A415	MEDDRA-PT E105 Headache
+A416	MEDDRA-PT-ID E105 10019211
+A417	CUI E106 C0022107
+A418	UMLS-Preferred-Name E106 Irritable Mood
+A419	MEDDRA-PT E106 Irritability
+A420	MEDDRA-PT-ID E106 10022998
+A421	CUI E107 C0917801
+A422	UMLS-Preferred-Name E107 Sleeplessness
+A423	MEDDRA-PT E107 Insomnia
+A424	MEDDRA-PT-ID E107 10022437
+A425	CUI E108 C0011991
+A426	UMLS-Preferred-Name E108 Diarrhea
+A427	MEDDRA-PT E108 Diarrhoea
+A428	MEDDRA-PT-ID E108 10012735
+A429	LLT E108 Diarrhea
+A430	LLT-ID E108 10012727
+A431	CUI E109 C0003467
+A432	UMLS-Preferred-Name E109 Anxiety
+A433	MEDDRA-PT E109 Anxiety
+A434	MEDDRA-PT-ID E109 10002855
+A435	CUI E110 C0015672
+A436	UMLS-Preferred-Name E110 Fatigue
+A437	MEDDRA-PT E110 Fatigue
+A438	MEDDRA-PT-ID E110 10016256
+A439	CUI E111 C0234458
+A440	UMLS-Preferred-Name E111 Dream disorder
+A441	MEDDRA-PT E111 Abnormal dreams
+A442	MEDDRA-PT-ID E111 10000125
+A443	CUI E112 C0020458
+A444	UMLS-Preferred-Name E112 Hyperhidrosis disorder
+A445	MEDDRA-PT E112 Hyperhidrosis
+A446	MEDDRA-PT-ID E112 10020642
+A447	CUI E130 C0036572
+A448	UMLS-Preferred-Name E130 Seizures
+A449	MEDDRA-PT E130 Seizure
+A450	MEDDRA-PT-ID E130 10039906
+A451	CUI E131 C0020625
+A452	UMLS-Preferred-Name E131 Hyponatremia
+A453	MEDDRA-PT E131 Hyponatraemia
+A454	MEDDRA-PT-ID E131 10021036
+A455	LLT E131 Hyponatremia
+A456	LLT-ID E131 10021038
+A457	CUI E133 C0020625
+A458	UMLS-Preferred-Name E133 Hyponatremia
+A459	MEDDRA-PT E133 Hyponatraemia
+A460	MEDDRA-PT-ID E133 10021036
+A461	LLT E133 Hyponatremia
+A462	LLT-ID E133 10021038
+A463	CUI E134 C0021141
+A464	UMLS-Preferred-Name E134 Inappropriate ADH Syndrome
+A465	MEDDRA-PT E134 Inappropriate antidiuretic hormone secretion
+A466	MEDDRA-PT-ID E134 10053198
+A467	CUI E135 C0021141
+A468	UMLS-Preferred-Name E135 Inappropriate ADH Syndrome
+A469	MEDDRA-PT E135 Inappropriate antidiuretic hormone secretion
+A470	MEDDRA-PT-ID E135 10053198
+A471	LLT E135 SIADH
+A472	LLT-ID E135 10040626
+A473	CUI E136 C3888023
+A474	UMLS-Preferred-Name E136 Blood sodium decreased
+A475	MEDDRA-PT E136 Blood sodium decreased
+A476	MEDDRA-PT-ID E136 10005802
+A477	LLT E136 Serum sodium decreased
+A478	LLT-ID E136 10054863
+A479	CUI E137 C0020625
+A480	UMLS-Preferred-Name E137 Hyponatremia
+A481	MEDDRA-PT E137 Hyponatraemia
+A482	MEDDRA-PT-ID E137 10021036
+A483	LLT E137 Hyponatremia
+A484	LLT-ID E137 10021038
+A485	CUI E139 C0020625
+A486	UMLS-Preferred-Name E139 Hyponatremia
+A487	MEDDRA-PT E139 Hyponatraemia
+A488	MEDDRA-PT-ID E139 10021036
+A489	LLT E139 Hyponatremia
+A490	LLT-ID E139 10021038
+A491	CUI E140 C0018681
+A492	UMLS-Preferred-Name E140 Headache
+A493	MEDDRA-PT E140 Headache
+A494	MEDDRA-PT-ID E140 10019211
+A495	CUI E141 C0858899
+A496	UMLS-Preferred-Name E141 Attention concentration difficulty
+A497	MEDDRA-PT E141 Disturbance in attention
+A498	MEDDRA-PT-ID E141 10013496
+A499	LLT E141 Attention concentration difficulty
+A500	LLT-ID E141 10003729
+A501	CUI E142 C0233794
+A502	UMLS-Preferred-Name E142 Memory impairment
+A503	MEDDRA-PT E142 Memory impairment
+A504	MEDDRA-PT-ID E142 10027175
+A505	CUI E143 C0009676
+A506	UMLS-Preferred-Name E143 Confusion
+A507	MEDDRA-PT E143 Confusional state
+A508	MEDDRA-PT-ID E143 10010305
+A509	LLT E143 Confusion
+A510	LLT-ID E143 10010300
+A511	CUI E144 C3714552
+A512	UMLS-Preferred-Name E144 Weakness
+A513	MEDDRA-PT E144 Asthenia
+A514	MEDDRA-PT-ID E144 10003549
+A515	LLT E144 Weakness
+A516	LLT-ID E144 10047862
+A517	CUI E145 C0018524
+A518	UMLS-Preferred-Name E145 Hallucinations
+A519	MEDDRA-PT E145 Hallucination
+A520	MEDDRA-PT-ID E145 10019063
+A521	CUI E146 C0039070
+A522	UMLS-Preferred-Name E146 Syncope
+A523	MEDDRA-PT E146 Syncope
+A524	MEDDRA-PT-ID E146 10042772
+A525	CUI E147 C0036572
+A526	UMLS-Preferred-Name E147 Seizures
+A527	MEDDRA-PT E147 Seizure
+A528	MEDDRA-PT-ID E147 10039906
+A529	CUI E148 C0009421
+A530	UMLS-Preferred-Name E148 Comatose
+A531	MEDDRA-PT E148 Coma
+A532	MEDDRA-PT-ID E148 10010071
+A533	CUI E149 C0427108
+A534	UMLS-Preferred-Name E149 General unsteadiness
+A535	MEDDRA-PT E149 Balance disorder
+A536	MEDDRA-PT-ID E149 10049848
+A537	LLT E149 Unsteadiness
+A538	LLT-ID E149 10046260
+A539	CUI E150 C0162297
+A540	UMLS-Preferred-Name E150 Respiratory arrest
+A541	MEDDRA-PT E150 Respiratory arrest
+A542	MEDDRA-PT-ID E150 10038669
+A543	CUI E151 C1306577
+A544	UMLS-Preferred-Name E151 Death (finding)
+A545	MEDDRA-PT E151 Death
+A546	MEDDRA-PT-ID E151 10011906
+A547	CUI E152 C0085639
+A548	UMLS-Preferred-Name E152 Falls
+A549	MEDDRA-PT E152 Fall
+A550	MEDDRA-PT-ID E152 10016173
+A551	CUI E154 C0206062
+A552	UMLS-Preferred-Name E154 Lung Diseases, Interstitial
+A553	MEDDRA-PT E154 Interstitial lung disease
+A554	MEDDRA-PT-ID E154 10022611
+A555	CUI E155 C1527407
+A556	UMLS-Preferred-Name E155 Eosinophilic Pneumonia
+A557	MEDDRA-PT E155 Eosinophilic pneumonia
+A558	MEDDRA-PT-ID E155 10014962
+A559	CUI E161 C0497247
+A560	UMLS-Preferred-Name E161 Increase in blood pressure
+A561	MEDDRA-PT E161 Blood pressure increased
+A562	MEDDRA-PT-ID E161 10005750
+A563	CUI E99 C0338831
+A564	UMLS-Preferred-Name E99 Manic
+A565	MEDDRA-PT E99 Mania
+A566	MEDDRA-PT-ID E99 10026749
+A567	CUI E100 C0338831
+A568	UMLS-Preferred-Name E100 Manic
+A569	MEDDRA-PT E100 Mania
+A570	MEDDRA-PT-ID E100 10026749
+A571	CUI E164 C0241934
+A572	UMLS-Preferred-Name E164 Hypomania
+A573	MEDDRA-PT E164 Hypomania
+A574	MEDDRA-PT-ID E164 10021030
+A575	CUI E166 C0349208
+A576	UMLS-Preferred-Name E166 Manic episode
+A577	MEDDRA-PT E166 Mania
+A578	MEDDRA-PT-ID E166 10026749
+A579	LLT E166 Manic episode
+A580	LLT-ID E166 10026778

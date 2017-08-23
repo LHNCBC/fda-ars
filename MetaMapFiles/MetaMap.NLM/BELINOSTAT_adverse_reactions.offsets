@@ -1,0 +1,102 @@
+167,175|C0600688|Toxicity|inpo
+227,236|C0009450|Infection|dsyn
+227,236|C3714514|Infection|patf
+286,300|C0235378|Hepatotoxicity|inpo
+350,370|C0041364|Tumor Lysis Syndrome|dsyn
+350,370|C1963254|Tumor Lysis Syndrome|fndg
+420,445|C1142499|Gastrointestinal Toxicity|fndg
+589,593|C0079774|PTCL|neop
+621,627|C0027497|nausea|sosy
+621,627|C1963179|nausea|patf
+629,636|C0015672|fatigue|sosy
+638,645|C0015967|pyrexia|fndg
+647,653|C0002871|anemia|dsyn
+659,667|C0042963|vomiting|sosy
+659,667|C1963281|vomiting|patf
+773,779|C0027497|nausea|sosy
+773,779|C1963179|nausea|patf
+781,788|C0015672|fatigue|sosy
+790,797|C0015967|pyrexia|fndg
+799,805|C0002871|anemia|dsyn
+811,819|C0042963|vomiting|sosy
+811,819|C1963281|vomiting|patf
+1099,1109|C0012634|conditions|dsyn
+1240,1249;1253,1261|C0521985|Reactions Patients|fndg
+1267,1293|C0079774|Peripheral T-Cell Lymphoma|neop
+1381,1385|C0079774|PTCL|neop
+1393,1399|C0087136|single|fndg
+1812,1816|C0079774|PTCL|neop
+1952,1956|C0079774|PTCL|neop
+2134,2140|C3244287|Grades|fndg
+2156,2163|C3889290|Grade 3|fndg
+2294,2300|C0027497|Nausea|sosy
+2294,2300|C1963179|Nausea|patf
+2403,2410|C0015672|Fatigue|sosy
+2512,2519|C0015967|Pyrexia|fndg
+2621,2627|C0002871|Anemia|dsyn
+2730,2738|C0042963|Vomiting|sosy
+2730,2738|C1963281|Vomiting|patf
+2839,2851|C0009806|Constipation|sosy
+2839,2851|C1963087|Constipation|fndg
+2948,2956|C0011991|Diarrhea|sosy
+2948,2956|C1963091|Diarrhea|fndg
+3057,3064|C0013404|Dyspnea|sosy
+3166,3170|C0015230|Rash|sosy
+3275,3291|C0085649|Peripheral Edema|fndg
+3384,3389|C0010200|Cough|sosy
+3384,3389|C1961131|Cough|fndg
+3493,3509|C0040034|Thrombocytopenia|fndg
+3602,3610|C0033774|Pruritus|sosy
+3711,3717|C0085593|Chills|sosy
+3820,3829;3836,3857|C0151754|Increased Lactate Dehydrogenase|fndg
+3820,3843|C0795692|Increased Blood Lactate|dsyn
+3820,3843|C1836440|Increased Blood Lactate|fndg
+3929,3947|C0232462|Decreased Appetite|sosy
+4038,4046|C0018681|Headache|sosy
+4038,4046|C2096315|Headache|fndg
+4147,4165|C1096035|Infusion Site Pain|inpo
+4256,4267|C0020621|Hypokalemia|fndg
+4365,4377|C0151878|Prolonged QT|fndg
+4474,4488|C0000737|Abdominal pain|sosy
+4583,4594|C0020649|Hypotension|fndg
+4583,4594|C3163620|Hypotension|fndg
+4692,4701|C0031542|Phlebitis|dsyn
+4801,4810|C0012833|Dizziness|sosy
+4801,4810|C0042571|Dizziness|sosy
+4801,4810|C1963093|Dizziness|fndg
+4986,4992|C3244287|Grades|fndg
+5036,5043|C3889290|Grade 3|fndg
+5465,5474|C0032285|pneumonia|dsyn
+5476,5483|C0015967|pyrexia|fndg
+5485,5494|C0009450|infection|dsyn
+5485,5494|C3714514|infection|patf
+5496,5502|C0002871|anemia|dsyn
+5504,5524|C0151578|increased creatinine|fndg
+5504,5524|C0700225|increased creatinine|fndg
+5526,5542|C0040034|thrombocytopenia|fndg
+5548,5567|C0026766|multi-organ failure|patf
+5548,5567|C1963169|multi-organ failure|fndg
+5583,5590|C0445223|related|fndg
+5591,5596|C1306577|death|fndg
+5613,5628|C0085605|hepatic failure|dsyn
+5686,5699|C0740394|hyperuricemia|dsyn
+5704,5717|C1511341|bulky disease|fndg
+5738,5758|C0041364|tumor lysis syndrome|dsyn
+5738,5758|C1963254|tumor lysis syndrome|fndg
+5799,5803|C1306577|died|fndg
+5799,5803|C1546956|died|fndg
+5811,5830|C0026766|multi-organ failure|patf
+5811,5830|C1963169|multi-organ failure|fndg
+5844,5851|C0445223|related|fndg
+5852,5857|C1306577|death|fndg
+5863,5887|C0042510|ventricular fibrillation|dsyn
+5863,5887|C1962976|ventricular fibrillation|patf
+5863,5887|C2108112|ventricular fibrillation|fndg
+5984,6000|C0855333|QTc prolongation|fndg
+6085,6097|C1444662|discontinued|fndg
+6213,6228|C1444662|discontinuation|fndg
+6251,6257|C0002871|anemia|dsyn
+6259,6278|C0746883|febrile neutropenia|dsyn
+6280,6287|C0015672|fatigue|sosy
+6293,6312|C0026766|multi-organ failure|patf
+6293,6312|C1963169|multi-organ failure|fndg

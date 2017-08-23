@@ -1,0 +1,176 @@
+152,162|C0013144|Somnolence|fndg
+152,162|C2830004|Somnolence|fndg
+163,171|C0235195|sedation|fndg
+176,185|C0042571|dizziness|sosy
+176,185|C0012833|dizziness|sosy
+176,185|C1963093|dizziness|fndg
+237,240|C0035258|RLS|dsyn
+326,336|C0013144|somnolence|fndg
+326,336|C2830004|somnolence|fndg
+337,345|C0235195|sedation|fndg
+350,359|C0042571|dizziness|sosy
+350,359|C0012833|dizziness|sosy
+350,359|C1963093|dizziness|fndg
+378,381|C0032768|PHN|dsyn
+378,381|C3714958|PHN|fndg
+451,460|C0042571|dizziness|sosy
+451,460|C0012833|dizziness|sosy
+451,460|C1963093|dizziness|fndg
+462,472|C0013144|somnolence|fndg
+462,472|C2830004|somnolence|fndg
+478,486|C0018681|headache|sosy
+478,486|C2096315|headache|fndg
+761,771|C0012634|conditions|dsyn
+979,989|C2911690|controlled|fndg
+1140,1141|C3838680|3|fndg
+1156,1178|C0035258|Restless Legs Syndrome|dsyn
+1229,1232|C0035258|RLS|dsyn
+1342,1345|C0035258|RLS|dsyn
+1464,1467|C0035258|RLS|dsyn
+1655,1658|C0035258|RLS|dsyn
+1838,1850|C1444662|discontinued|fndg
+1851,1860;1868,1885|C0879626|treatment adverse reactions|patf
+2100,2110|C0013144|somnolence|fndg
+2100,2110|C2830004|somnolence|fndg
+2111,2119|C0235195|sedation|fndg
+2124,2133|C0042571|dizziness|sosy
+2124,2133|C0012833|dizziness|sosy
+2124,2133|C1963093|dizziness|fndg
+2166,2175;2185,2202|C0879626|treatment adverse reactions|patf
+2242,2245|C0035258|RLS|dsyn
+2361,2364|C0035258|RLS|dsyn
+2729,2739|C0013144|Somnolence|fndg
+2729,2739|C2830004|Somnolence|fndg
+2740,2748|C0235195|sedation|fndg
+2840,2849|C0042571|Dizziness|sosy
+2840,2849|C0012833|Dizziness|sosy
+2840,2849|C1963093|Dizziness|fndg
+2951,2959|C0018681|Headache|sosy
+2951,2959|C2096315|Headache|fndg
+3058,3084|C0017178|Gastrointestinal disorders|dsyn
+3174,3180|C0027497|Nausea|sosy
+3174,3180|C1963179|Nausea|patf
+3285,3294|C0043352|Dry mouth|dsyn
+3396,3406|C0016204|Flatulence|sosy
+3396,3406|C1962956|Flatulence|fndg
+3511,3520|C0012634|disorders|dsyn
+3545,3555|C0012634|conditions|dsyn
+3645,3652|C0015672|Fatigue|sosy
+3756,3768|C0022107|Irritability|fndg
+3867,3880|C0522172|Feeling drunk|fndg
+4089,4105|C0085649|Peripheral edema|fndg
+4211,4232|C3714509|nutritional disorders|dsyn
+4322,4328|C0424653|Weight|sosy
+4433,4451|C0232461|Increased appetite|fndg
+4548,4567|C0022890|labyrinth disorders|dsyn
+4657,4664|C0042571|Vertigo|sosy
+4879,4889|C0011570|Depression|mobd
+4879,4889|C0011581|Depression|mobd
+4879,4889|C1579931|Depression|sosy
+4879,4889|C0344315|Depression|fndg
+4990,4996|C0517356|Libido|fndg
+5626,5642|C0575090|balance disorder|sosy
+5644,5658|C0344232|blurred vision|sosy
+5660,5674|C0009676|disorientation|mobd
+5660,5674|C0233407|disorientation|mobd
+5684,5689|C0001969|drunk|mobd
+5684,5689|C0394996|drunk|mobd
+5691,5699|C0023380|lethargy|sosy
+5705,5712|C0042571|vertigo|sosy
+5760,5767|C0445223|related|fndg
+5769,5779|C0013144|somnolence|fndg
+5769,5779|C2830004|somnolence|fndg
+5780,5788|C0235195|sedation|fndg
+5790,5799|C0042571|dizziness|sosy
+5790,5799|C0012833|dizziness|sosy
+5790,5799|C1963093|dizziness|fndg
+5809,5814|C0001969|drunk|mobd
+5809,5814|C0394996|drunk|mobd
+5816,5822|C0517356|libido|fndg
+5834,5844|C0011570|depression|mobd
+5834,5844|C0011581|depression|mobd
+5834,5844|C1579931|depression|sosy
+5834,5844|C0344315|depression|fndg
+5846,5854|C0018681|headache|sosy
+5846,5854|C2096315|headache|fndg
+5856,5872|C0085649|peripheral edema|fndg
+5878,5885|C0042571|vertigo|sosy
+5893,5915|C0032768|Postherpetic Neuralgia|dsyn
+5964,5967|C0032768|PHN|dsyn
+5964,5967|C3714958|PHN|fndg
+6062,6065|C0032768|PHN|dsyn
+6062,6065|C3714958|PHN|fndg
+6262,6263|C3838680|3|fndg
+6311,6314|C0032768|PHN|dsyn
+6311,6314|C3714958|PHN|fndg
+6435,6438|C0032768|PHN|dsyn
+6435,6438|C3714958|PHN|fndg
+6510,6511;6519,6522|C3843641|2 day|fndg
+6510,6511;6519,6522|C3843640|2 day|fndg
+6527,6528;6536,6539|C3842675|3 day|fndg
+6527,6528|C3838680|3|fndg
+6615,6627|C1444662|discontinued|fndg
+6814,6819;6828,6829|C3840593|trial 1|fndg
+6859,6868|C0042571|dizziness|sosy
+6859,6868|C0012833|dizziness|sosy
+6859,6868|C1963093|dizziness|fndg
+6870,6880|C0013144|somnolence|fndg
+6870,6880|C2830004|somnolence|fndg
+6886,6894|C0018681|headache|sosy
+6886,6894|C2096315|headache|fndg
+6927,6936;6946,6963|C0879626|treatment adverse reactions|patf
+7003,7006|C0032768|PHN|dsyn
+7003,7006|C3714958|PHN|fndg
+7277,7280|C0032768|PHN|dsyn
+7277,7280|C3714958|PHN|fndg
+7445,7459|C0422837|Nervous System|fndg
+7587,7596|C0042571|Dizziness|sosy
+7587,7596|C0012833|Dizziness|sosy
+7587,7596|C1963093|Dizziness|fndg
+7725,7735|C0013144|Somnolence|fndg
+7725,7735|C2830004|Somnolence|fndg
+7863,7871|C0018681|Headache|sosy
+7863,7871|C2096315|Headache|fndg
+7997,8023|C0017178|Gastrointestinal disorders|dsyn
+8141,8147|C0027497|Nausea|sosy
+8141,8147|C1963179|Nausea|patf
+8283,8292|C0012634|disorders|dsyn
+8317,8327|C0012634|conditions|dsyn
+8445,8452|C0015672|Fatigue|sosy
+8453,8461|C0004093|Asthenia|sosy
+8583,8599|C0085649|Peripheral edema|fndg
+8859,8867|C0917801|Insomnia|sosy
+8859,8867|C1963237|Insomnia|fndg
+9008,9029|C3714509|nutritional disorders|dsyn
+9147,9153|C0424653|Weight|sosy
+9281,9294|C0015397|Eye disorders|dsyn
+9423,9437|C0344232|Blurred vision|sosy
+9643,9644|C3838680|3|fndg
+9680,9687|C0445223|related|fndg
+9718,9734|C0575090|balance disorder|sosy
+9736,9753|C0009676|confusional state|mobd
+9755,9765|C0011570|depression|mobd
+9755,9765|C0011581|depression|mobd
+9755,9765|C1579931|depression|sosy
+9755,9765|C0344315|depression|fndg
+9767,9776|C0043352|dry mouth|dsyn
+9778,9788|C0016204|flatulence|sosy
+9778,9788|C1962956|flatulence|fndg
+9790,9808|C0232461|increased appetite|fndg
+9810,9822|C0022107|irritability|fndg
+9828,9835|C0042571|vertigo|sosy
+9837,9846|C0042571|Dizziness|sosy
+9837,9846|C0012833|Dizziness|sosy
+9837,9846|C1963093|Dizziness|fndg
+9848,9858|C0013144|somnolence|fndg
+9848,9858|C2830004|somnolence|fndg
+9860,9867|C0015672|fatigue|sosy
+9873,9881|C0917801|insomnia|sosy
+9873,9881|C1963237|insomnia|fndg
+10057,10063|C3844638|either|fndg
+10101,10119|C0235648|breast enlargement|fndg
+10101,10119|C0020565|breast enlargement|patf
+10101,10119|C2225524|breast enlargement|fndg
+10121,10133|C0018418|gynecomastia|dsyn
+10121,10133|C1963120|gynecomastia|fndg
+10139,10163|C0151576|elevated creatine kinase|fndg

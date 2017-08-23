@@ -1,0 +1,33 @@
+61,77;93,102|FN|hypersensitivity reactions|C0020517
+61,77|FP|hypersensitivity|C0020517|10020751|patf
+79,91;93,102|TP|anaphylactic reactions|C0002792|10002198|79,91;93,102|anaphylactic reactions|C0002792|10002198,10002199|patf
+184,209|FP|hypersensitivity reaction|C0020517|10020751|patf
+255,297|FN|Clostridium difficile -associated diarrhea|C0235952
+299,303|FN|CDAD|C0235952
+401,409|FP|diarrhea|C1963091,C0011991|10060933,10012735|fndg,sosy
+433,467|FN|Direct Coombs' test seroconversion|C0151569
+503,509|FP|anemia|C0002871|10002034|dsyn
+699,725|FP|Hypersensitivity Reactions|C0020517|10020751|patf
+756,761|CUIDiff|fatal|C1306577|10011906|756,761|fatal|C1705232|10060933|fndg
+756,761|TP|fatal|C1306577|10011906|756,761|fatal|C1705232|10060933|fndg
+762,778;794,803|FN|hypersensitivity reactions|C0020517
+762,778|FP|hypersensitivity|C0020517|10020751|patf
+780,792;794,803|TP|anaphylactic reactions|C0002792|10002198|780,792;794,803|anaphylactic reactions|C0002792|10002198,10002199|patf
+816,830|FN|skin reactions|C0221743
+979,1005|FP|hypersensitivity reactions|C0020517|10020751|patf
+1297,1314|FP|allergic reaction|C0020517,C1527304|10020751,10020751|patf,patf
+1474,1517|FN|Clostridium difficile  -associated diarrhea|C0235952
+1519,1523|FN|CDAD|C0235952
+1644,1652;1656,1661|FP|diarrhea fatal|C1559312|10060933|fndg
+1644,1652|TP|diarrhea|C0011991|10012735|1644,1652|diarrhea|C0011991,C1963091|10012735,10060933|fndg,sosy
+1656,1669|FP|fatal colitis|C1559281|10009887|fndg
+1656,1661|FN|fatal|C1306577
+1662,1669|TP|colitis|C0009319|10009887|1662,1669|colitis|C0009319,C1963084|10009887,10009887,10060933|dsyn,fndg
+1902,1909|FP|strains|C0080194|10050031|inpo
+1977,1987|FP|infections|C3714514|10021789|patf
+2115,2123|FP|diarrhea|C1963091,C0011991|10060933,10012735|fndg,sosy
+2690,2761|FN|Seroconversion from a negative to a positive direct Coombs' test result|C0151569
+3053,3123|FN|seroconverted from a negative to a positive direct Coombs' test result|C0151569
+3159,3175|FP|hemolytic anemia|C0002878|10018916|dsyn
+3221,3227|FP|anemia|C0002871|10002034|dsyn
+3723,3742|FP|bacterial infection|C0004623|10060945|dsyn

@@ -1,0 +1,123 @@
+161,176|C0014236|Endophthalmitis|dsyn
+181,200|C0035305|retinal detachments|dsyn
+206,236|C0234708|Increased intraocular pressure|fndg
+242,263|C0040038|Thromboembolic events|patf
+365,388|C0009760|conjunctival hemorrhage|patf
+390,398|C0151827|eye pain|sosy
+390,398|C1959630|eye pain|fndg
+400,408|C0086543|cataract|acab
+410,427|C0016242|vitreous floaters|fndg
+429,449|C0595921|intraocular pressure|dsyn
+465,484|C0423361|vitreous detachment|dsyn
+465,484|C0042907|vitreous detachment|dsyn
+729,739|C0012634|conditions|dsyn
+1157,1164;1182,1191|C2924519|related procedure|fndg
+1157,1164|C0445223|related|fndg
+1263,1278|C0014236|endophthalmitis|dsyn
+1283,1301|C0035305|retinal detachment|dsyn
+1283,1301|C1963229|retinal detachment|fndg
+1386,1409|C0009760|conjunctival hemorrhage|patf
+1411,1419|C0151827|eye pain|sosy
+1411,1419|C1959630|eye pain|fndg
+1421,1429|C0086543|cataract|acab
+1431,1448|C0016242|vitreous floaters|fndg
+1450,1470|C0595921|intraocular pressure|dsyn
+1486,1505|C0423361|vitreous detachment|dsyn
+1486,1505|C0042907|vitreous detachment|dsyn
+1515,1526|C4068891|Neovascular|fndg
+1528,1531;1533,1565|C2237660|Wet Age-Related Macular Degeneration|dsyn
+1528,1531;1533,1565|C0271084|Wet Age-Related Macular Degeneration|dsyn
+1528,1531;1533,1565|C3888896|Wet Age-Related Macular Degeneration|dsyn
+1651,1658|C2237660|wet AMD|dsyn
+1651,1658|C0271084|wet AMD|dsyn
+1651,1658|C3888896|wet AMD|dsyn
+1739,1749|C2911690|controlled|fndg
+1886,1893|C2237660|Wet AMD|dsyn
+1886,1893|C0271084|Wet AMD|dsyn
+1886,1893|C3888896|Wet AMD|dsyn
+2021,2044|C0009760|Conjunctival hemorrhage|patf
+2130,2138|C0151827|Eye pain|sosy
+2130,2138|C1959630|Eye pain|fndg
+2239,2247;2295,2296|C0344523|Cataract 7|cgab
+2348,2367|C0423361|Vitreous detachment|dsyn
+2348,2367|C0042907|Vitreous detachment|dsyn
+2457,2474|C0016242|Vitreous floaters|fndg
+2566,2586|C0595921|Intraocular pressure|dsyn
+2675,2691|C0155169|Ocular hyperemia|dsyn
+2784,2809|C0854114|Corneal epithelium defect|dsyn
+2893,2906;2911,2937|C0948862|Detachment of retinal pigment epithelium|acab
+3006,3025|C0151828|Injection site pain|sosy
+3115,3145|C0920171|Foreign body sensation in eyes|sosy
+3224,3235|C0423153|Lacrimation|fndg
+3442,3466|C0042164|Intraocular inflammation|dsyn
+3578,3582|C0043246|tear|inpo
+3578,3582|C3203359|tear|inpo
+3660,3685|C0151698|Injection site hemorrhage|patf
+3769,3781|C0162285|Eyelid edema|fndg
+3878,3891|C0010037|Corneal edema|dsyn
+4089,4105|C0020517|hypersensitivity|patf
+4089,4105|C0520946|hypersensitivity|fndg
+4107,4125|C0035305|retinal detachment|dsyn
+4107,4125|C1963229|retinal detachment|fndg
+4127,4139|C0035321|retinal tear|dsyn
+4145,4160|C0014236|endophthalmitis|dsyn
+4170,4183|C0024440|Macular Edema|dsyn
+4170,4183|C0271051|Macular Edema|dsyn
+4194,4216|C0035328|Retinal Vein Occlusion|dsyn
+4549,4552|C0035328|RVO|dsyn
+4758,4766|C0151827|Eye pain|sosy
+4758,4766|C1959630|Eye pain|fndg
+4871,4894|C0009760|Conjunctival hemorrhage|patf
+4984,5004|C0595921|Intraocular pressure|dsyn
+5097,5122|C0854114|Corneal epithelium defect|dsyn
+5210,5227|C0016242|Vitreous floaters|fndg
+5323,5339|C0155169|Ocular hyperemia|dsyn
+5436,5466|C0920171|Foreign body sensation in eyes|sosy
+5549,5568|C0423361|Vitreous detachment|dsyn
+5549,5568|C0042907|Vitreous detachment|dsyn
+5662,5673|C0423153|Lacrimation|fndg
+5775,5794|C0151828|Injection site pain|sosy
+6001,6025|C0042164|Intraocular inflammation|dsyn
+6114,6122|C0086543|Cataract|acab
+6227,6239|C0162285|Eyelid edema|fndg
+6456,6469|C0010037|corneal edema|dsyn
+6471,6483|C0035321|retinal tear|dsyn
+6485,6501|C0020517|hypersensitivity|patf
+6485,6501|C0520946|hypersensitivity|fndg
+6507,6522|C0014236|endophthalmitis|dsyn
+6532,6554|C0730285|Diabetic Macular Edema|dsyn
+6639,6642|C0730285|DME|dsyn
+6690,6700|C2911690|controlled|fndg
+6878,6881|C0730285|DME|dsyn
+7096,7119|C0009760|Conjunctival hemorrhage|patf
+7209,7217|C0151827|Eye pain|sosy
+7209,7217|C1959630|Eye pain|fndg
+7322,7330|C0086543|Cataract|acab
+7435,7452|C0016242|Vitreous floaters|fndg
+7548,7573|C0854114|Corneal epithelium defect|dsyn
+7661,7681|C0595921|Intraocular pressure|dsyn
+7774,7790|C0155169|Ocular hyperemia|dsyn
+7887,7906|C0423361|Vitreous detachment|dsyn
+7887,7906|C0042907|Vitreous detachment|dsyn
+8000,8030|C0920171|Foreign body sensation in eyes|sosy
+8113,8124|C0423153|Lacrimation|fndg
+8339,8363|C0042164|Intraocular inflammation|dsyn
+8452,8471|C0151828|Injection site pain|sosy
+8565,8577|C0162285|Eyelid edema|fndg
+8774,8790|C0020517|hypersensitivity|patf
+8774,8790|C0520946|hypersensitivity|fndg
+8792,8810|C0035305|retinal detachment|dsyn
+8792,8810|C1963229|retinal detachment|fndg
+8812,8824|C0035321|retinal tear|dsyn
+8826,8839|C0010037|corneal edema|dsyn
+8845,8870|C0151698|injection site hemorrhage|patf
+9135,9139|C0456984|test|fndg
+9140,9147|C2825142|results|fndg
+9319,9323|C1273517|used|fndg
+9411,9418|C0012634|disease|dsyn
+9571,9578|C2237660|wet AMD|dsyn
+9571,9578|C0271084|wet AMD|dsyn
+9571,9578|C3888896|wet AMD|dsyn
+9580,9583|C0035328|RVO|dsyn
+9589,9592|C0730285|DME|dsyn
+9778,9786|C0442726|detected|fndg

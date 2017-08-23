@@ -1,0 +1,15 @@
+144,158|FN|Radiation risk|C4032503
+217,219;253,271|FP|to radiation exposure|C0015333|10073306|inpo
+232,271|FN|long-term cumulative radiation exposure|C0015333
+357,375|FP|radiation exposure|C0015333|10073306|inpo
+517,532|FP|neuritic plaque|C0333463|10056677|acab
+857,870|FP|brain atrophy|C0235946|10008096|dsyn
+1055,1063;1072,1078|FP|neuritic plaque|C0333463|10056677|acab
+1064,1071|FP|amyloid|C0011560,C0002726|10021425,10002022|patf,dsyn
+1195,1202|FP|amyloid|C0011560,C0002726|10021425,10002022|patf,dsyn
+1308,1310;1352,1370|FP|to radiation exposure|C0015333|10073306|inpo
+1331,1370|FN|long-term cumulative radiation exposure|C0015333
+1372,1411|FN|Long-term cumulative radiation exposure|C0015333
+1393,1411|FP|radiation exposure|C0015333|10073306|inpo
+1452,1458|FN|cancer|C0006826
+1544,1562|FP|radiation exposure|C0015333|10073306|inpo

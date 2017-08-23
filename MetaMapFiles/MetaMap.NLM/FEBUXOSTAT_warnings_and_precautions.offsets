@@ -1,0 +1,58 @@
+55,65|C1619733|Gout Flare|dsyn
+80,87|C0018099|in gout|dsyn
+88,94|C3540542|flares|fndg
+88,94|C1517205|flares|sosy
+144,157|C0740394|hyperuricemic|dsyn
+189,199|C1619733|gout flare|dsyn
+244,256|C1444662|discontinued|fndg
+441,462|C1320716|Cardiovascular Events|fndg
+482,496;512,518|C1320716|cardiovascular events|fndg
+497,518|C0040038|thromboembolic events|patf
+613,618|C0311392|signs|fndg
+623,631|C1457887|symptoms|sosy
+635,637|C0027051|MI|dsyn
+642,648|C0038454|stroke|dsyn
+710,725|C0085605|hepatic failure|dsyn
+737,742|C1705232|fatal|fndg
+777,789|C0160390|liver injury|inpo
+793,801|C0442726|detected|fndg
+901,911|C1514893|resolution|patf
+1047,1057|C1619733|Gout Flare|dsyn
+1103,1110|C0018099|in gout|dsyn
+1111,1117|C3540542|flares|fndg
+1111,1117|C1517205|flares|sosy
+1232,1237|C0729829|urate|fndg
+1284,1295|C1619733|gout flares|dsyn
+1454,1475|C1320716|Cardiovascular Events|fndg
+1488,1498|C3815594|randomized|fndg
+1546,1560;1576,1582|C1320716|cardiovascular events|fndg
+1561,1582|C0040038|thromboembolic events|patf
+1599,1605|C1306577|deaths|fndg
+1919,1924|C0311392|signs|fndg
+1929,1937|C1457887|symptoms|sosy
+1941,1962|C0027051|myocardial infarction|dsyn
+1972,1978|C0038454|stroke|dsyn
+2054,2059|C1705232|fatal|fndg
+2068,2073|C1705232|fatal|fndg
+2146,2170|C4062889|insufficient information|fndg
+2221,2231|C3815594|randomized|fndg
+2365,2368|C1266129|ALT|neop
+2581,2585|C0456984|test|fndg
+2625,2628|C1266129|ALT|neop
+2769,2774|C0456984|tests|fndg
+2807,2815|C1457887|symptoms|sosy
+2834,2846|C0160390|liver injury|inpo
+2858,2865|C0015672|fatigue|sosy
+2867,2875|C0003123|anorexia|dsyn
+2867,2875|C0426579|anorexia|sosy
+2867,2875|C1971624|anorexia|fndg
+2883,2909|C1868919|upper abdominal discomfort|sosy
+2911,2921|C0426396|dark urine|sosy
+2925,2933|C0022346|jaundice|patf
+2925,2933|C2010848|jaundice|fndg
+2925,2933|C2203646|jaundice|sosy
+2993,3013|C0745768|abnormal liver tests|fndg
+3015,3018|C1266129|ALT|neop
+3265,3270;3276,3289|C0266257|liver abnormalities|cgab
+3265,3270;3276,3289|C0478037|liver abnormalities|cgab
+3476,3487;3514,3520|C0582456|at risk for injury|fndg

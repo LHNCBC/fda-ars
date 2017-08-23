@@ -1,0 +1,137 @@
+126,134|C0600688|Toxicity|inpo
+200,213|C0000768|birth defects|cgab
+200,213|C0220810|birth defects|cgab
+200,213|C2186260|birth defects|fndg
+218,229|C0015927|fetal death|patf
+237,246|C0425965|pregnancy|fndg
+358,365|C1363945|therapy|fndg
+456,462|C0002871|Anemia|dsyn
+667,678|C0027947|Neutropenia|dsyn
+667,678|C0023530|Neutropenia|dsyn
+667,678|C0853697|Neutropenia|fndg
+747,753|C2825142|result|fndg
+757,766|C1457868|worsening|fndg
+770,781|C0027947|neutropenia|dsyn
+770,781|C0023530|neutropenia|dsyn
+770,781|C0853697|neutropenia|fndg
+831,838|C1363945|therapy|fndg
+861,877;911,920|C0020517|Hypersensitivity reactions|patf
+928,937|C0042109|urticaria|dsyn
+928,937|C2186740|urticaria|fndg
+939,949|C0002994|angioedema|patf
+1085,1093|C0600688|Toxicity|inpo
+1163,1176|C0000768|birth defects|cgab
+1163,1176|C0220810|birth defects|cgab
+1163,1176|C2186260|birth defects|fndg
+1184,1189;1205,1210|C0015927|death fetus|patf
+1220,1224|C0580931|care|fndg
+1248,1257|C0425965|pregnancy|fndg
+1328,1335|C1363945|therapy|fndg
+1456,1463|C1363945|therapy|fndg
+1972,1987|C1444657|contraindicated|fndg
+2129,2135|C0002871|Anemia|dsyn
+2185,2191|C0002871|Anemia|dsyn
+2248,2255|C1363945|therapy|fndg
+2419,2435;2449,2455|C1821144|white blood cell counts|fndg
+2614,2624|C1561562|hemoglobin|fndg
+2708,2718|C1561562|hemoglobin|fndg
+2746,2761|C1444662|discontinuation|fndg
+2882,2894|C1444662|discontinued|fndg
+2913,2919|C0002871|anemia|dsyn
+2972,2984|C1444662|discontinued|fndg
+3143,3158|C1444662|discontinuation|fndg
+3349,3360|C3811910|combination|fndg
+3511,3517|C0002871|anemia|dsyn
+3681,3691|C1561562|hemoglobin|fndg
+3737,3744|C1363945|therapy|fndg
+3789,3800|C3811910|combination|fndg
+4004,4012|C1457887|symptoms|sosy
+4016,4022|C0002871|anemia|dsyn
+4032,4039|C0013404|dyspnea|sosy
+4041,4059|C0231807|exertional dyspnea|sosy
+4061,4070|C0012833|dizziness|sosy
+4061,4070|C0042571|dizziness|sosy
+4061,4070|C1963093|dizziness|fndg
+4075,4082|C0039070|syncope|sosy
+4142,4153|C3811910|combination|fndg
+4375,4381|C0002871|anemia|dsyn
+4435,4446|C3811910|combination|fndg
+4557,4569|C1444662|discontinued|fndg
+4588,4594|C0002871|anemia|dsyn
+4631,4642|C3811910|combination|fndg
+4814,4820|C0002871|anemia|dsyn
+5016,5027|C3811910|combination|fndg
+5203,5209|C0002871|anemia|dsyn
+5246,5257|C3811910|combination|fndg
+5373,5394|C0040038|Thromboembolic events|patf
+5438,5445|C0012634|disease|dsyn
+5513,5524|C0019196|hepatitis C|dsyn
+5535,5556|C0040038|Thromboembolic events|patf
+5634,5645|C3811910|combination|fndg
+5935,5945|C3815594|randomized|fndg
+6015,6024|C0332155|untreated|fndg
+6054,6063|C0009450|infection|dsyn
+6054,6063|C3714514|infection|patf
+6147,6153|C0002871|anemia|dsyn
+6161,6168|C1363945|therapy|fndg
+6187,6198|C3811910|combination|fndg
+6249,6252|C4050171|SVR|fndg
+6294,6304|C3815594|randomized|fndg
+6371,6381|C3815594|randomized|fndg
+6469,6490|C0040038|thromboembolic events|patf
+6501,6519|C0034065|pulmonary embolism|dsyn
+6521,6548|C3541950|acute myocardial infarction|fndg
+6521,6548|C0155626|acute myocardial infarction|dsyn
+6550,6574|C0038454|cerebrovascular accident|dsyn
+6580,6600|C0149871|deep vein thrombosis|dsyn
+6580,6600|C0340708|deep vein thrombosis|dsyn
+6659,6674|C1444662|discontinuation|fndg
+6687,6693|C0002871|anemia|dsyn
+6718,6728|C3815594|randomized|fndg
+6786,6796|C3815594|randomized|fndg
+6872,6882|C3815594|randomized|fndg
+6938,6948|C3815594|randomized|fndg
+7039,7045|C0002871|anemia|dsyn
+7058,7069|C0027947|Neutropenia|dsyn
+7058,7069|C0023530|Neutropenia|dsyn
+7058,7069|C0853697|Neutropenia|fndg
+7193,7204|C3811910|combination|fndg
+7411,7438|C1859430|life-threatening infections|fndg
+7455,7466|C0027947|neutropenia|dsyn
+7455,7466|C0023530|neutropenia|dsyn
+7455,7466|C0853697|neutropenia|fndg
+7514,7525|C0027947|neutropenia|dsyn
+7514,7525|C0023530|neutropenia|dsyn
+7514,7525|C0853697|neutropenia|fndg
+7546,7557|C3811910|combination|fndg
+7623,7639;7653,7659|C1821144|white blood cell counts|fndg
+7879,7894|C1444662|discontinuation|fndg
+7984,7996|C1444662|discontinued|fndg
+8026,8038|C1444662|discontinued|fndg
+8216,8231|C1444662|discontinuation|fndg
+8244,8256|C0030312|Pancytopenia|dsyn
+8324,8336|C0030312|pancytopenia|dsyn
+8405,8416|C3811910|combination|fndg
+8484,8500;8514,8520|C1821144|white blood cell counts|fndg
+8779,8794|C1444662|discontinuation|fndg
+8798,8805|C1363945|therapy|fndg
+8826,8836|C0449381|parameters|fndg
+8851,8867;8904,8913|C0020517|Hypersensitivity reactions|patf
+8921,8930|C0042109|urticaria|dsyn
+8921,8930|C2186740|urticaria|fndg
+8932,8942|C0002994|angioedema|patf
+9104,9116|C1444662|discontinued|fndg
+9281,9282;9301,9306|C3840903|2 drugs|fndg
+9316,9331|C1444657|contraindicated|fndg
+9374,9405|C1517874|life-threatening adverse events|fndg
+9374,9405|C3537125|life-threatening adverse events|fndg
+9777,9786|C0589120|follow-up|fndg
+9828,9837|C1444656|indicated|fndg
+10195,10203|C1704632|Response|fndg
+10211,10218|C1363945|Therapy|fndg
+10298,10304|C2825142|result|fndg
+10370,10376|C2825142|result|fndg
+10402,10410|C0442726|Detected|fndg
+10428,10436|C0442726|Detected|fndg
+10471,10487;10501,10507|C1821144|white blood cell counts|fndg
+10906,10915|C0425965|pregnancy|fndg

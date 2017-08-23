@@ -1,0 +1,190 @@
+T1	AdverseReaction 30 42	PERFORATIONS
+T2	AdverseReaction 47 55	FISTULAS
+T3	AdverseReaction 61 71	HEMORRHAGE
+T4	AdverseReaction 84 96	PERFORATIONS
+T5	AdverseReaction 101 109	FISTULAS
+T6	AdverseReaction 115 125	HEMORRHAGE
+T7	AdverseReaction 158 187	Gastrointestinal perforations
+T8	AdverseReaction 207 224	fistula formation
+T9	AdverseReaction 417 422	fatal
+T10	AdverseReaction 424 434	hemorrhage
+T11	Severity 399 405	Severe
+T12	AdverseReaction 445 455	hemoptysis
+T13	AdverseReaction 460 487	gastrointestinal hemorrhage
+T14	AdverseReaction 732 744	PERFORATIONS
+T15	AdverseReaction 749 757	FISTULAS
+T16	AdverseReaction 762 772	HEMORRHAGE
+T17	AdverseReaction 878 907	Gastrointestinal perforations
+T18	AdverseReaction 927 944	fistula formation
+T19	AdverseReaction 1084 1089	fatal
+T20	AdverseReaction 1091 1101	hemorrhage
+T21	Severity 1066 1072	Severe
+T22	AdverseReaction 1112 1122	hemoptysis
+T23	AdverseReaction 1127 1154	gastrointestinal hemorrhage
+T24	AdverseReaction 387 397	Hemorrhage
+T25	AdverseReaction 131 143	Perforations
+T26	AdverseReaction 148 156	fistulas
+T27	AdverseReaction 851 863	Perforations
+T28	AdverseReaction 868 876	Fistulas
+T29	AdverseReaction 1054 1064	Hemorrhage
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10 Effect:E11
+E11	Severity:T11
+E12	AdverseReaction:T10
+E13	AdverseReaction:T12
+E14	AdverseReaction:T13
+E15	AdverseReaction:T14
+E16	AdverseReaction:T15
+E17	AdverseReaction:T16
+E18	AdverseReaction:T17
+E19	AdverseReaction:T18
+E20	AdverseReaction:T19
+E21	AdverseReaction:T20
+E22	AdverseReaction:T20 Effect:E23
+E23	Severity:T21
+E24	AdverseReaction:T22
+E25	AdverseReaction:T23
+E26	AdverseReaction:T24
+E27	AdverseReaction:T25
+E28	AdverseReaction:T26
+E29	AdverseReaction:T27
+E30	AdverseReaction:T28
+E31	AdverseReaction:T29
+A1	CUI E1 C0549099
+A2	UMLS-Preferred-Name E1 Perforation (observation)
+A3	MEDDRA-PT E1 Perforation
+A4	MEDDRA-PT-ID E1 10076705
+A5	CUI E2 C0016169
+A6	UMLS-Preferred-Name E2 pathologic fistula
+A7	MEDDRA-PT E2 Fistula
+A8	MEDDRA-PT-ID E2 10016717
+A9	CUI E3 C0019080
+A10	UMLS-Preferred-Name E3 Hemorrhage
+A11	MEDDRA-PT E3 Haemorrhage
+A12	MEDDRA-PT-ID E3 10055798
+A13	LLT E3 Hemorrhage
+A14	LLT-ID E3 10019524
+A15	CUI E4 C0549099
+A16	UMLS-Preferred-Name E4 Perforation (observation)
+A17	MEDDRA-PT E4 Perforation
+A18	MEDDRA-PT-ID E4 10076705
+A19	CUI E5 C0016169
+A20	UMLS-Preferred-Name E5 pathologic fistula
+A21	MEDDRA-PT E5 Fistula
+A22	MEDDRA-PT-ID E5 10016717
+A23	CUI E6 C0019080
+A24	UMLS-Preferred-Name E6 Hemorrhage
+A25	MEDDRA-PT E6 Haemorrhage
+A26	MEDDRA-PT-ID E6 10055798
+A27	LLT E6 Hemorrhage
+A28	LLT-ID E6 10019524
+A29	CUI E7 C0151664
+A30	UMLS-Preferred-Name E7 Gastrointestinal perforation
+A31	MEDDRA-PT E7 Gastrointestinal perforation
+A32	MEDDRA-PT-ID E7 10018001
+A33	CUI E8 C0016169
+A34	UMLS-Preferred-Name E8 pathologic fistula
+A35	MEDDRA-PT E8 Fistula
+A36	MEDDRA-PT-ID E8 10016717
+A37	CUI E9 C1306577
+A38	UMLS-Preferred-Name E9 Death (finding)
+A39	MEDDRA-PT E9 Death
+A40	MEDDRA-PT-ID E9 10011906
+A41	CUI E10 C0019080
+A42	UMLS-Preferred-Name E10 Hemorrhage
+A43	MEDDRA-PT E10 Haemorrhage
+A44	MEDDRA-PT-ID E10 10055798
+A45	LLT E10 Hemorrhage
+A46	LLT-ID E10 10019524
+A47	CUI E13 C0019079
+A48	UMLS-Preferred-Name E13 Hemoptysis
+A49	MEDDRA-PT E13 Haemoptysis
+A50	MEDDRA-PT-ID E13 10018964
+A51	LLT E13 Hemoptysis
+A52	LLT-ID E13 10019523
+A53	CUI E14 C0017181
+A54	UMLS-Preferred-Name E14 Gastrointestinal Hemorrhage
+A55	MEDDRA-PT E14 Gastrointestinal haemorrhage
+A56	MEDDRA-PT-ID E14 10017955
+A57	LLT E14 Gastrointestinal hemorrhage
+A58	LLT-ID E14 10017960
+A59	CUI E15 C0549099
+A60	UMLS-Preferred-Name E15 Perforation (observation)
+A61	MEDDRA-PT E15 Perforation
+A62	MEDDRA-PT-ID E15 10076705
+A63	CUI E16 C0016169
+A64	UMLS-Preferred-Name E16 pathologic fistula
+A65	MEDDRA-PT E16 Fistula
+A66	MEDDRA-PT-ID E16 10016717
+A67	CUI E17 C0019080
+A68	UMLS-Preferred-Name E17 Hemorrhage
+A69	MEDDRA-PT E17 Haemorrhage
+A70	MEDDRA-PT-ID E17 10055798
+A71	LLT E17 Hemorrhage
+A72	LLT-ID E17 10019524
+A73	CUI E18 C0151664
+A74	UMLS-Preferred-Name E18 Gastrointestinal perforation
+A75	MEDDRA-PT E18 Gastrointestinal perforation
+A76	MEDDRA-PT-ID E18 10018001
+A77	CUI E19 C0016169
+A78	UMLS-Preferred-Name E19 pathologic fistula
+A79	MEDDRA-PT E19 Fistula
+A80	MEDDRA-PT-ID E19 10016717
+A81	CUI E20 C1306577
+A82	UMLS-Preferred-Name E20 Death (finding)
+A83	MEDDRA-PT E20 Death
+A84	MEDDRA-PT-ID E20 10011906
+A85	CUI E21 C0019080
+A86	UMLS-Preferred-Name E21 Hemorrhage
+A87	MEDDRA-PT E21 Haemorrhage
+A88	MEDDRA-PT-ID E21 10055798
+A89	LLT E21 Hemorrhage
+A90	LLT-ID E21 10019524
+A91	CUI E24 C0019079
+A92	UMLS-Preferred-Name E24 Hemoptysis
+A93	MEDDRA-PT E24 Haemoptysis
+A94	MEDDRA-PT-ID E24 10018964
+A95	LLT E24 Hemoptysis
+A96	LLT-ID E24 10019523
+A97	CUI E25 C0017181
+A98	UMLS-Preferred-Name E25 Gastrointestinal Hemorrhage
+A99	MEDDRA-PT E25 Gastrointestinal haemorrhage
+A100	MEDDRA-PT-ID E25 10017955
+A101	LLT E25 Gastrointestinal hemorrhage
+A102	LLT-ID E25 10017960
+A103	CUI E26 C0019080
+A104	UMLS-Preferred-Name E26 Hemorrhage
+A105	MEDDRA-PT E26 Haemorrhage
+A106	MEDDRA-PT-ID E26 10055798
+A107	LLT E26 Hemorrhage
+A108	LLT-ID E26 10019524
+A109	CUI E27 C0549099
+A110	UMLS-Preferred-Name E27 Perforation (observation)
+A111	MEDDRA-PT E27 Perforation
+A112	MEDDRA-PT-ID E27 10076705
+A113	CUI E28 C0016169
+A114	UMLS-Preferred-Name E28 pathologic fistula
+A115	MEDDRA-PT E28 Fistula
+A116	MEDDRA-PT-ID E28 10016717
+A117	CUI E29 C0549099
+A118	UMLS-Preferred-Name E29 Perforation (observation)
+A119	MEDDRA-PT E29 Perforation
+A120	MEDDRA-PT-ID E29 10076705
+A121	CUI E30 C0016169
+A122	UMLS-Preferred-Name E30 pathologic fistula
+A123	MEDDRA-PT E30 Fistula
+A124	MEDDRA-PT-ID E30 10016717
+A125	CUI E31 C0019080
+A126	UMLS-Preferred-Name E31 Hemorrhage
+A127	MEDDRA-PT E31 Haemorrhage
+A128	MEDDRA-PT-ID E31 10055798
+A129	LLT E31 Hemorrhage
+A130	LLT-ID E31 10019524

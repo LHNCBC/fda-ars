@@ -1,0 +1,84 @@
+155,168|C0014356|enterocolitis|dsyn
+219,225;235,244|C0744855|Immune hepatitis|dsyn
+295,321|C3670617|Immune-mediated dermatitis|dsyn
+388,400|C0442874|neuropathies|dsyn
+467,483|C0014130|endocrinopathies|dsyn
+708,715|C0015672|fatigue|sosy
+717,725|C0011991|diarrhea|sosy
+717,725|C1963091|diarrhea|fndg
+727,735|C0033774|pruritus|sosy
+737,741|C0015230|rash|sosy
+747,754|C0009319|colitis|dsyn
+747,754|C1963084|colitis|fndg
+1015,1025|C0012634|conditions|dsyn
+1305,1323|C0004364|autoimmune disease|dsyn
+1352,1369|C4048329|immunosuppression|dsyn
+1352,1369|C1373218|immunosuppression|patf
+1518,1537|C0278883|metastatic melanoma|neop
+1556,1566|C3815594|randomized|fndg
+1726,1732|C0087136|single|fndg
+2025,2037|C1444662|discontinued|fndg
+2173,2180|C0015672|fatigue|sosy
+2182,2190|C0011991|diarrhea|sosy
+2182,2190|C1963091|diarrhea|fndg
+2192,2200|C0033774|pruritus|sosy
+2202,2206|C0015230|rash|sosy
+2212,2219|C0009319|colitis|dsyn
+2212,2219|C1963084|colitis|fndg
+2431,2436|C3244287|grade|fndg
+2497,2504|C3889290|Grade 3|fndg
+2978,3004|C0017178|Gastrointestinal Disorders|dsyn
+3034,3042|C0011991|Diarrhea|sosy
+3034,3042|C1963091|Diarrhea|fndg
+3151,3158|C0009319|Colitis|dsyn
+3151,3158|C1963084|Colitis|fndg
+3273,3285;3293,3302|C0549584|Subcutaneous Disorders|dsyn
+3293,3302|C0012634|Disorders|dsyn
+3326,3334|C0033774|Pruritus|sosy
+3443,3447|C0015230|Rash|sosy
+3564,3573|C0012634|Disorders|dsyn
+3598,3608|C0012634|Conditions|dsyn
+3632,3639|C0015672|Fatigue|sosy
+3831,3836|C1705232|fatal|fndg
+3912,3917|C1705232|Fatal|fndg
+3983,3996|C0206277|fatal outcome|patf
+4015,4037|C0021845|intestinal perforation|dsyn
+4822,4836|C0014130|Endocrinopathy|dsyn
+4935,4950|C0020635|Hypopituitarism|dsyn
+5044,5065|C0001623|Adrenal insufficiency|dsyn
+5044,5065|C0405580|Adrenal insufficiency|dsyn
+5262,5273|C0032285|Pneumonitis|dsyn
+5262,5273|C3714636|Pneumonitis|dsyn
+5371,5381|C0025289|Meningitis|dsyn
+5480,5489|C0027697|Nephritis|dsyn
+5991,6000|C0042109|urticaria|dsyn
+5991,6000|C2186740|urticaria|fndg
+6007,6029|C0267491|large intestinal ulcer|dsyn
+6031,6042|C0014868|esophagitis|dsyn
+6031,6042|C1963106|esophagitis|fndg
+6044,6079|C0035222|acute respiratory distress syndrome|dsyn
+6081,6094|C0035078|renal failure|dsyn
+6081,6094|C1963154|renal failure|patf
+6100,6117|C2368034|infusion reaction|patf
+6182,6190|C0025202|melanoma|neop
+6222,6235|C0014356|enterocolitis|dsyn
+6240,6249|C0019159|hepatitis|dsyn
+6240,6249|C0019158|hepatitis|dsyn
+6361,6371|C1550043|identified|fndg
+6477,6486|C0087130|uncertain|fndg
+6624,6636;6644,6653|C0549584|Subcutaneous Disorders|dsyn
+6644,6653|C0012634|Disorders|dsyn
+6675,6687|C0014457|eosinophilia|dsyn
+6675,6687|C1306759|eosinophilia|dsyn
+6692,6709|C2039684|systemic symptoms|sosy
+6711,6725|C3541994|DRESS syndrome|dsyn
+6959,6968|C0442726|detecting|fndg
+7036,7043|C0445223|related|fndg
+7089,7105|C0020517|hypersensitivity|patf
+7089,7105|C0520946|hypersensitivity|fndg
+7109,7120|C0002792|anaphylaxis|patf
+7109,7120|C0850803|anaphylaxis|dsyn
+7291,7298|C2825142|results|fndg
+7476,7484|C1514241|positive|fndg
+7553,7560|C2825142|results|fndg
+7751,7758|C0012634|disease|dsyn

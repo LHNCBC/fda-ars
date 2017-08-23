@@ -1,0 +1,16 @@
+00000000|MMI|49.29|Sepsis|C0243026|[dsyn]|["Systemic infections"-tx-5-"Systemic Infections"-noun-1,"Systemic infections"-tx-5-"systemic infections"-noun-1,"Systemic infections"-tx-1-"systemic infections"-noun-1]|TX|450/19;576/19;83/19|C01.539.757;C23.550.470.790.500
+00000000|MMI|32.87|Angioedema|C0002994|[patf]|["Angiooedema"-tx-6-"angioedema"-noun-0,"Angiooedema"-tx-2-"angioedema"-noun-0]|TX|712/10;153/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|29.46|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-6-"dyspnea"-noun-0,"DYSPNOEA"-tx-2-"dyspnea"-noun-0]|TX|684/7;165/7|C08.618.326;C23.888.852.371
+00000000|MMI|26.74|Pruritus|C0033774|[sosy]|["PRURITUS"-tx-6-"pruritus"-noun-0,"PRURITUS"-tx-2-"pruritus"-noun-0]|TX|698/8;174/8|C17.800.685;C23.888.885.625
+00000000|MMI|20.15|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-9-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-8-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-6-"Hypersensitivity Reactions"-noun-0]|TX|1138/26;943/26;608/26|C20.543
+00000000|MMI|20.05|Exanthema|C0015230|[sosy]|["RASH"-tx-6-"rash"-noun-0,"RASH"-tx-2-"rash"-noun-0]|TX|693/4;188/4|C17.800.257
+00000000|MMI|19.77|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-10-"infection"-noun-1,"Infection, NOS"-tx-4-"infection"-noun-0]|TX|1304/9;346/9|C01.539.221
+00000000|MMI|13.42|Infection|C3714514|[patf]|["INFECTION"-tx-10-"infection"-noun-1,"INFECTION"-tx-4-"infection"-noun-0]|TX|1304/9;346/9|C01.539
+00000000|MMI|10.42|Discontinued|C1444662|[fndg]|["Discontinued"-tx-7-"discontinued"-verb-0,"Discontinue"-tx-3-"discontinue"-verb-0]|TX|861/12;249/11|
+00000000|MMI|5.18|Acute allergic reaction|C0413234|[dsyn]|["Acute Hypersensitivity reactions"-tx-2-"Acute hypersensitivity reactions"-noun-0]|TX|119/32|
+00000000|MMI|5.18|severe allergic reaction|C2220378|[fndg]|["severe Hypersensitivity reaction"-tx-7-"severe hypersensitivity reaction"-noun-0]|TX|796/32|
+00000000|MMI|5.18|severe allergy|C2945656|[fndg]|["severe Hypersensitivity reaction"-tx-7-"severe hypersensitivity reaction"-noun-0]|TX|796/32|
+00000000|MMI|3.78|Known allergy|C3845888|[fndg]|["Known allergy"-tx-9-"known allergy"-noun-0]|TX|1076/5,1092/7|
+00000000|MMI|3.77|History of allergies|C0489531|[fndg]|["History of allergy"-tx-8-"history of allergy"-noun-0]|TX|986/18|
+00000000|MMI|3.75|Allergy to macrolide antibiotic|C0571383|[inpo]|["Macrolide allergy"-tx-9-"macrolide allergy"-noun-0]|TX|1082/17|
+00000000|MMI|3.68|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-7-"therapy"-noun-0]|TX|890/7|

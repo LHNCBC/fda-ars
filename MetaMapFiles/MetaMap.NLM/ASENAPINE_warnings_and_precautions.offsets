@@ -1,0 +1,490 @@
+151,157|C0038454|stroke|dsyn
+159,184|C0917805|transient ischemic attack|dsyn
+159,184|C0007787|transient ischemic attack|dsyn
+225,233|C0497327|dementia|mobd
+225,233|C0011265|dementia|mobd
+234,241|C0445223|related|fndg
+242,251|C0033975|psychoses|mobd
+242,251|C0004936|psychoses|mobd
+307,337|C0027849|Neuroleptic Malignant Syndrome|dsyn
+361,376|C1444662|discontinuation|fndg
+381,386|C3810854|close|fndg
+411,429|C0686347|Tardive Dyskinesia|dsyn
+411,429|C3714760|Tardive Dyskinesia|patf
+431,442|C1444662|Discontinue|fndg
+806,819|C0020456|hyperglycemia|dsyn
+821,833|C0242339|dyslipidemia|dsyn
+839,850|C0043094|weight gain|fndg
+839,850|C2911647|weight gain|fndg
+864,890|C0020517|Hypersensitivity Reactions|patf
+892,918|C0020517|Hypersensitivity reactions|patf
+930,941|C0002792|anaphylaxis|patf
+930,941|C0850803|anaphylaxis|dsyn
+946,956|C0002994|angioedema|patf
+990,1013|C0020651|Orthostatic Hypotension|fndg
+1015,1022|C0039070|Syncope|sosy
+1055,1064|C0012833|Dizziness|sosy
+1055,1064|C0042571|Dizziness|sosy
+1055,1064|C1963093|Dizziness|fndg
+1066,1077|C0039231|tachycardia|patf
+1066,1077|C3827868|tachycardia|fndg
+1081,1092|C0428977|bradycardia|patf
+1081,1092|C3812171|bradycardia|fndg
+1098,1105|C0039070|syncope|sosy
+1206,1229|C0007820|cerebrovascular disease|dsyn
+1280,1290|C0023530|Leukopenia|dsyn
+1280,1290|C0750394|Leukopenia|fndg
+1292,1303|C0023530|Neutropenia|dsyn
+1292,1303|C0027947|Neutropenia|dsyn
+1292,1303|C0853697|Neutropenia|fndg
+1309,1324|C0001824|Agranulocytosis|dsyn
+1394,1420|C0948695|low white blood cell count|fndg
+1432,1442;1454,1465|C4040114|history of neutropenia|fndg
+1443,1453|C0023530|leukopenia|dsyn
+1443,1453|C0750394|leukopenia|fndg
+1563,1570|C1363945|therapy|fndg
+1593,1605|C1444662|discontinued|fndg
+1699,1714|C0151878|QT Prolongation|fndg
+1748,1751;1757,1762|C0476643|use drugs|fndg
+1748,1751;1757,1762|C0240320|use drugs|fndg
+1819,1831|C0455624|risk factors|fndg
+1836,1857|C0151878|prolonged QT interval|fndg
+1871,1879|C0036572|Seizures|sosy
+1915,1925|C0262926|history of|fndg
+1926,1934|C0036572|seizures|sosy
+1943,1953|C0012634|conditions|dsyn
+1969,1986|C0520967|seizure threshold|fndg
+2035,2045|C0684336|Impairment|patf
+2074,2083|C0337246|machinery|inpo
+2098,2105|C0038661|Suicide|fndg
+2128,2143|C0038663|suicide attempt|fndg
+2159,2172|C0036341|schizophrenia|mobd
+2177,2193|C0005586|bipolar disorder|mobd
+2213,2222|C3272283|high-risk|fndg
+2297,2310;2319,2328|C0543884|with Dementia Psychosis|mobd
+2311,2318|C0445223|Related|fndg
+2446,2451|C1306577|death|fndg
+2600,2605|C1306577|death|fndg
+2646,2647;2657,2662|C3843309|1 times|fndg
+2739,2749|C2911690|controlled|fndg
+2884,2899|C0007465|causes of death|fndg
+2925,2931|C1306577|deaths|fndg
+2947,2953|C3844638|either|fndg
+2976,2989|C0018801|heart failure|dsyn
+2976,2989|C0018802|heart failure|dsyn
+2991,3003|C0011071|sudden death|patf
+2991,3003|C1964022|sudden death|fndg
+3026,3035|C0032285|pneumonia|dsyn
+3382,3387|C1709157|clear|fndg
+3465,3474|C0349204|psychosis|mobd
+3588,3594|C0038454|Stroke|dsyn
+3616,3629;3638,3647|C0543884|with Dementia Psychosis|mobd
+3630,3637|C0445223|Related|fndg
+3756,3764|C0497327|dementia|mobd
+3756,3764|C0011265|dementia|mobd
+3833,3858|C0038454|cerebrovascular accidents|dsyn
+3863,3889|C0917805|transient ischemic attacks|dsyn
+3863,3889|C0007787|transient ischemic attacks|dsyn
+4112,4142|C0027849|Neuroleptic Malignant Syndrome|dsyn
+4164,4169|C1705232|fatal|fndg
+4170,4177|C1457887|symptom|sosy
+4211,4241|C0027849|Neuroleptic Malignant Syndrome|dsyn
+4371,4374|C0027849|NMS|dsyn
+4379,4391|C0392676|hyperpyrexia|patf
+4393,4408|C0026837|muscle rigidity|sosy
+4410,4431|C0278061|altered mental status|mobd
+4449,4470|C0262385|autonomic instability|dsyn
+4472,4487|C0392684|irregular pulse|fndg
+4507,4518|C0039231|tachycardia|patf
+4507,4518|C3827868|tachycardia|fndg
+4520,4531|C0700590|diaphoresis|sosy
+4537,4556|C0003811|cardiac dysrhythmia|fndg
+4570,4575|C0311392|signs|fndg
+4588,4619|C0151576|elevated creatine phosphokinase|fndg
+4621,4634|C0027080|myoglobinuria|fndg
+4636,4650|C0035410|rhabdomyolysis|patf
+4657,4676|C0022660|acute renal failure|dsyn
+4657,4676|C3854173|acute renal failure|dsyn
+4734,4742|C0039082|syndrome|dsyn
+4868,4877|C0032285|pneumonia|dsyn
+4903,4912|C0332155|untreated|fndg
+4952,4970|C0037088|signs and symptoms|sosy
+4994,5008|C0518609|considerations|fndg
+5055,5079|C0237996|anticholinergic toxicity|inpo
+5081,5092|C0018843|heat stroke|inpo
+5094,5104|C1320835|drug fever|patf
+5178,5181|C0027849|NMS|dsyn
+5211,5226|C1444662|discontinuation|fndg
+5636,5639|C0027849|NMS|dsyn
+5767,5778|C2825055|recurrences|patf
+5782,5785|C0027849|NMS|dsyn
+5820,5838|C0686347|Tardive Dyskinesia|dsyn
+5820,5838|C3714760|Tardive Dyskinesia|patf
+5848,5856|C0039082|syndrome|dsyn
+5899,5919|C2678069|dyskinetic movements|fndg
+6009,6017|C0039082|syndrome|dsyn
+6234,6242|C0039082|syndrome|dsyn
+6315,6333|C0686347|Tardive Dyskinesia|dsyn
+6315,6333|C3714760|Tardive Dyskinesia|patf
+6382,6384|C0686347|TD|dsyn
+6382,6384|C3714760|TD|patf
+6595,6603|C0039082|syndrome|dsyn
+6779,6787|C0039082|syndrome|dsyn
+6854,6863|C2825032|withdrawn|mobd
+6854,6863|C0424092|withdrawn|fndg
+6948,6953|C0311392|signs|fndg
+6958,6966|C1457887|symptoms|sosy
+6974,6982|C0039082|syndrome|dsyn
+7065,7076|C0221103|suppression|patf
+7114,7122|C0039082|syndrome|dsyn
+7155,7169|C0518609|considerations|fndg
+7262,7264|C0686347|TD|dsyn
+7262,7264|C3714760|TD|patf
+7344,7350|C0683278|suffer|mobd
+7678,7695|C4055223|clinical response|fndg
+7718,7726;7737,7746|C0815189|need for treatment|fndg
+7793,7798|C0311392|signs|fndg
+7803,7811|C1457887|symptoms|sosy
+7815,7817|C0686347|TD|dsyn
+7815,7817|C3714760|TD|patf
+7855,7870|C1444662|discontinuation|fndg
+7979,7987|C0039082|syndrome|dsyn
+8188,8201|C0020456|hyperglycemia|dsyn
+8203,8215|C0242339|dyslipidemia|dsyn
+8221,8237|C0043094|body weight gain|fndg
+8383,8396|C0020456|Hyperglycemia|dsyn
+8401,8418|C0011849|Diabetes Mellitus|dsyn
+8429,8442|C0020456|Hyperglycemia|dsyn
+8486,8498|C0220982|ketoacidosis|patf
+8486,8498|C0022638|ketoacidosis|dsyn
+8502,8519|C0020457|hyperosmolar coma|dsyn
+8523,8528|C1306577|death|fndg
+8693,8704;8759,8776|C0342257|complicated diabetes mellitus|patf
+8751,8755;8759,8776|C0743140|risk diabetes mellitus|dsyn
+8794,8807|C0036341|schizophrenia|mobd
+8840,8857|C0011849|diabetes mellitus|dsyn
+8966,8979|C0020456|hyperglycemia|dsyn
+8980,8987|C0445223|related|fndg
+9117,9130|C0020456|hyperglycemia|dsyn
+9131,9138|C0445223|related|fndg
+9261,9274|C0020456|hyperglycemia|dsyn
+9275,9282|C0445223|related|fndg
+9403,9412;9416,9433|C0011849|diagnosis diabetes mellitus|dsyn
+9511,9520|C1457868|worsening|fndg
+9555,9567|C0455624|risk factors|fndg
+9572,9589|C0011849|diabetes mellitus|dsyn
+9597,9604|C0028754|obesity|dsyn
+9597,9604|C1963185|obesity|fndg
+9606,9632|C1313937|family history of diabetes|fndg
+9873,9881|C1457887|symptoms|sosy
+9885,9898|C0020456|hyperglycemia|dsyn
+9909,9919|C0085602|polydipsia|sosy
+9921,9929|C0032617|polyuria|sosy
+9931,9941|C0020505|polyphagia|fndg
+9931,9941|C0232461|polyphagia|fndg
+9947,9955|C3714552|weakness|sosy
+9978,9986|C1457887|symptoms|sosy
+9990,10003|C0020456|hyperglycemia|dsyn
+10111,10124|C0020456|hyperglycemia|dsyn
+10129,10137|C3714811|resolved|fndg
+10129,10137|C1514893|resolved|patf
+10241,10249|C0241863|diabetic|fndg
+10268,10283|C1444662|discontinuation|fndg
+10389,10402|C0036341|schizophrenia|mobd
+10415,10420|C0338831|mania|mobd
+10523,10541|C2360800|Number of patients|fndg
+10605,10623|C2360800|Number of patients|fndg
+10878,10891|C0036341|Schizophrenia|mobd
+11296,11297|C3838680|3|fndg
+11323,11324|C3838680|3|fndg
+11433,11439|C0231683|Normal|fndg
+11644,11645|C3838680|3|fndg
+11817,11818|C3838680|3|fndg
+11831,11832|C3838680|3|fndg
+11885,11886|C3838679|4|fndg
+12015,12028|C0036341|schizophrenia|mobd
+12205,12223|C0853193|bipolar I disorder|mobd
+12332,12350|C0853193|Bipolar I Disorder|mobd
+12760,12766|C0231683|Normal|fndg
+13019,13031|C0242339|Dyslipidemia|dsyn
+13224,13237|C0036341|schizophrenia|mobd
+13250,13255|C0338831|mania|mobd
+13603,13616|C0036341|Schizophrenia|mobd
+13897,13898|C3838680|3|fndg
+14261,14262|C3838680|3|fndg
+14438,14439|C3838680|3|fndg
+14469,14470|C3838680|3|fndg
+14876,14877|C3838679|4|fndg
+14937,14938|C3838679|4|fndg
+14995,15008|C0036341|schizophrenia|mobd
+15113,15116;15125,15132|C0332154|for treated|fndg
+15152,15155;15164,15171|C0332154|for treated|fndg
+15278,15281;15290,15297|C0332154|for treated|fndg
+15320,15323;15332,15339|C0332154|for treated|fndg
+15392,15397|C0338831|mania|mobd
+15502,15505;15514,15521|C0332154|for treated|fndg
+15543,15546;15555,15562|C0332154|for treated|fndg
+15669,15672;15681,15688|C0332154|for treated|fndg
+15711,15714;15723,15730|C0332154|for treated|fndg
+15843,15856|C0036341|schizophrenia|mobd
+16085,16090|C0338831|mania|mobd
+16195,16213|C2360800|Number of patients|fndg
+16304,16322|C0853193|Bipolar I Disorder|mobd
+16549,16550|C3838680|3|fndg
+16680,16681|C3838680|3|fndg
+17353,17354|C3838680|3|fndg
+17572,17583|C0043094|Weight Gain|fndg
+17572,17583|C2911647|Weight Gain|fndg
+17765,17775|C0740209|Counseling|fndg
+17844,17854;17860,17866|C0005911|changes in weight|fndg
+17908,17919|C0043094|weight gain|fndg
+17908,17919|C2911647|weight gain|fndg
+17993,18006|C0036341|schizophrenia|mobd
+18019,18024|C0338831|mania|mobd
+18074,18083;18089,18095|C0005911|Change in Weight|fndg
+18391,18404|C0036341|Schizophrenia|mobd
+18753,18761;18765,18776|C0043094|Increase Body Weight|fndg
+18793,18801;18805,18816|C0043094|increase body weight|fndg
+19048,19061|C0036341|schizophrenia|mobd
+19072,19083|C0043094|weight gain|fndg
+19072,19083|C2911647|weight gain|fndg
+19149,19157;19161,19172|C0043094|increase body weight|fndg
+19222,19235|C0005911|weight change|fndg
+19288,19299|C0043094|weight gain|fndg
+19288,19299|C2911647|weight gain|fndg
+19371,19384|C0005911|Weight Change|fndg
+19385,19392|C2825142|Results|fndg
+19436,19446|C2911690|Controlled|fndg
+19476,19489|C0036341|Schizophrenia|mobd
+19755,19763;19767,19778|C0043094|increase body weight|fndg
+19915,19925;19931,19937|C0005911|changes in weight|fndg
+19989,20000|C0043094|weight gain|fndg
+19989,20000|C2911647|weight gain|fndg
+20082,20087|C0338831|mania|mobd
+20137,20150|C0578019|normal growth|fndg
+20302,20305|C1314687|sex|fndg
+20500,20503|C1314687|sex|fndg
+20550,20556|C0424653|weight|sosy
+20724,20735|C0043094|weight gain|fndg
+20724,20735|C2911647|weight gain|fndg
+20795,20808|C0578019|normal growth|fndg
+20823,20832;20838,20844|C0005911|Change in Weight|fndg
+20985,21003|C0853193|Bipolar I Disorder|mobd
+21291,21299;21303,21314|C0043094|Increase Body Weight|fndg
+21331,21339;21343,21354|C0043094|increase body weight|fndg
+21468,21494|C0020517|Hypersensitivity Reactions|patf
+21653,21679|C0020517|hypersensitivity reactions|patf
+21690,21701|C0002792|anaphylaxis|patf
+21690,21701|C0850803|anaphylaxis|dsyn
+21703,21713|C0002994|angioedema|patf
+21715,21726|C0020649|hypotension|fndg
+21715,21726|C3163620|hypotension|fndg
+21728,21739|C0039231|tachycardia|patf
+21728,21739|C3827868|tachycardia|fndg
+21741,21755|C0236068|swollen tongue|patf
+21757,21764|C0013404|dyspnea|sosy
+21766,21774|C0043144|wheezing|sosy
+21779,21783|C0015230|rash|sosy
+21799,21822|C0020651|Orthostatic Hypotension|fndg
+21824,21831|C0039070|Syncope|sosy
+21889,21912|C0020651|orthostatic hypotension|fndg
+21917,21941|C4014404|syncope in some patients|fndg
+22042,22055|C0036341|schizophrenia|mobd
+22070,22077|C0039070|syncope|sosy
+22271,22276|C0338831|mania|mobd
+22291,22298|C0039070|syncope|sosy
+22677,22682|C0338831|mania|mobd
+22700,22707|C0039070|syncope|sosy
+23118,23125|C0277814|sitting|fndg
+23190,23195|C0596013|stand|fndg
+23317,23339|C0007222|cardiovascular disease|dsyn
+23341,23373|C1275835|history of myocardial infarction|fndg
+23341,23373|C0155668|history of myocardial infarction|dsyn
+23377,23399|C0010054|ischemic heart disease|dsyn
+23377,23399|C0151744|ischemic heart disease|dsyn
+23377,23399|C1313980|ischemic heart disease|fndg
+23401,23414|C0018801|heart failure|dsyn
+23401,23414|C0018802|heart failure|dsyn
+23418,23442|C0232219|conduction abnormalities|patf
+23445,23468|C0007820|cerebrovascular disease|dsyn
+23473,23483|C0012634|conditions|dsyn
+23519,23530|C0020649|hypotension|fndg
+23519,23530|C3163620|hypotension|fndg
+23532,23543|C0011175|dehydration|dsyn
+23545,23556|C0546884|hypovolemia|fndg
+23650,23654|C1273517|used|fndg
+23744,23755|C0020649|hypotension|fndg
+23744,23755|C3163620|hypotension|fndg
+23757,23768|C0428977|bradycardia|patf
+23757,23768|C3812171|bradycardia|fndg
+23785,23818|C0151559|central nervous system depression|dsyn
+23979,23990|C0020649|hypotension|fndg
+23979,23990|C3163620|hypotension|fndg
+24013,24023|C0023530|Leukopenia|dsyn
+24013,24023|C0750394|Leukopenia|fndg
+24025,24036|C0023530|Neutropenia|dsyn
+24025,24036|C0027947|Neutropenia|dsyn
+24025,24036|C0853697|Neutropenia|fndg
+24042,24057|C0001824|Agranulocytosis|dsyn
+24113,24123|C0023530|leukopenia|dsyn
+24113,24123|C0750394|leukopenia|fndg
+24128,24139|C0023530|neutropenia|dsyn
+24128,24139|C0027947|neutropenia|dsyn
+24128,24139|C0853697|neutropenia|fndg
+24170,24177|C0445223|related|fndg
+24222,24237|C0001824|Agranulocytosis|dsyn
+24249,24254|C1705232|fatal|fndg
+24329,24341|C0455624|risk factors|fndg
+24346,24356|C0023530|leukopenia|dsyn
+24346,24356|C0750394|leukopenia|fndg
+24357,24368|C0023530|neutropenia|dsyn
+24357,24368|C0027947|neutropenia|dsyn
+24357,24368|C0853697|neutropenia|fndg
+24390,24416|C0948695|low white blood cell count|fndg
+24459,24469;24494,24505|C4040114|history of neutropenia|fndg
+24470,24493|C0272178|drug induced leukopenia|dsyn
+24539,24546|C0948695|low WBC|fndg
+24554,24566;24578,24589|C0272178|drug-induced neutropenia|dsyn
+24554,24577|C0272178|drug-induced leukopenia|dsyn
+24567,24577|C0023530|leukopenia|dsyn
+24567,24577|C0750394|leukopenia|fndg
+24578,24589|C0023530|neutropenia|dsyn
+24578,24589|C0027947|neutropenia|dsyn
+24578,24589|C0853697|neutropenia|fndg
+24670,24677|C1363945|therapy|fndg
+24706,24721|C1444662|discontinuation|fndg
+24890,24901|C0023530|neutropenia|dsyn
+24890,24901|C0027947|neutropenia|dsyn
+24890,24901|C0853697|neutropenia|fndg
+24906,24911|C0015967|fever|fndg
+24906,24911|C0424755|fever|fndg
+24921,24929|C1457887|symptoms|sosy
+24933,24938|C0311392|signs|fndg
+24942,24951|C0009450|infection|dsyn
+24942,24951|C3714514|infection|patf
+24979,24987|C1457887|symptoms|sosy
+24991,24996|C0311392|signs|fndg
+25004,25015|C1444662|Discontinue|fndg
+25048,25059|C0023530|neutropenia|dsyn
+25048,25059|C0027947|neutropenia|dsyn
+25048,25059|C0853697|neutropenia|fndg
+25153,25168|C0151878|QT Prolongation|fndg
+25418,25431|C0036341|schizophrenia|mobd
+25805,25822|C0013798|Electrocardiogram|fndg
+25967,25983|C0151878|QT prolongations|fndg
+26114,26132|C0040479|Torsade de Pointes|dsyn
+26114,26132|C1963250|Torsade de Pointes|fndg
+26264,26275|C3811910|combination|fndg
+26616,26646|C3494593|history of cardiac arrhythmias|fndg
+26722,26740|C0040479|torsade de pointes|dsyn
+26722,26740|C1963250|torsade de pointes|fndg
+26748,26760|C0011071|sudden death|patf
+26748,26760|C1964022|sudden death|fndg
+26785,26788;26792,26797|C0476643|use drugs|fndg
+26785,26788;26792,26797|C0240320|use drugs|fndg
+26839,26850|C0428977|bradycardia|patf
+26839,26850|C3812171|bradycardia|fndg
+26852,26863|C0020621|hypokalemia|fndg
+26867,26881|C0151723|hypomagnesemia|fndg
+26910,26922;26930,26932|C0151878|prolongation QT|fndg
+26958,26976|C0020514|Hyperprolactinemia|dsyn
+27138,27156|C0020514|Hyperprolactinemia|dsyn
+27210,27219|C0032002|pituitary|dsyn
+27253,27257|C0541749|turn|fndg
+27364,27376|C3665358|Galactorrhea|dsyn
+27364,27376|C0235660|Galactorrhea|dsyn
+27364,27376|C0269995|Galactorrhea|dsyn
+27378,27388|C0002453|amenorrhea|dsyn
+27378,27388|C2219717|amenorrhea|sosy
+27390,27402|C0018418|gynecomastia|dsyn
+27390,27402|C1963120|gynecomastia|fndg
+27408,27417|C0242350|impotence|dsyn
+27408,27417|C2187990|impotence|sosy
+27504,27522|C0020514|hyperprolactinemia|dsyn
+27544,27556|C0020619|hypogonadism|dsyn
+27569,27591|C0877225|decreased bone density|fndg
+27693,27700|C0445223|related|fndg
+27704,27729|C4022448|abnormal prolactin levels|fndg
+27784,27789|C0338831|mania|mobd
+27839,27846|C0445223|related|fndg
+27850,27875|C4022448|abnormal prolactin levels|fndg
+28197,28199;28206,28220|C0678222|of breast cancers|neop
+28197,28199;28206,28220|C0006142|of breast cancers|neop
+28369,28377|C0442726|detected|fndg
+28378,28391|C0678222|breast cancer|neop
+28378,28391|C0006142|breast cancer|neop
+28546,28559|C0007621|tumorigenesis|neop
+28546,28559|C0596263|tumorigenesis|neop
+28605,28612|C2674459|limited|fndg
+28646,28654|C0036572|Seizures|sosy
+28885,28898|C0036341|schizophrenia|mobd
+28911,28916|C0338831|mania|mobd
+29342,29352|C0262926|history of|fndg
+29353,29361|C0036572|seizures|sosy
+29370,29380|C0012634|conditions|dsyn
+29408,29425|C0520967|seizure threshold|fndg
+29427,29437|C0012634|Conditions|dsyn
+29453,29470|C0520967|seizure threshold|fndg
+29573,29583|C0684336|Impairment|patf
+29591,29601|C0013144|Somnolence|fndg
+29591,29601|C2830004|Somnolence|fndg
+29792,29805|C0036341|schizophrenia|mobd
+29820,29830|C0013144|somnolence|fndg
+29820,29830|C2830004|somnolence|fndg
+30048,30053|C0338831|mania|mobd
+30111,30121|C0013144|somnolence|fndg
+30111,30121|C2830004|somnolence|fndg
+30410,30420|C0013144|Somnolence|fndg
+30410,30420|C2830004|Somnolence|fndg
+30432,30440|C0235195|sedation|fndg
+30449,30464|C1444662|discontinuation|fndg
+30622,30632|C0013144|somnolence|fndg
+30622,30632|C2830004|somnolence|fndg
+30644,30652|C0235195|sedation|fndg
+30657,30668|C0917799|hypersomnia|dsyn
+30828,30838|C0013144|Somnolence|fndg
+30828,30838|C2830004|Somnolence|fndg
+30846,30861|C1444662|discontinuation|fndg
+31059,31069|C2239122|activities|fndg
+31080,31096|C0549164|mental alertness|fndg
+31126,31135|C0337246|machinery|inpo
+31213,31220|C1363945|therapy|fndg
+31346,31367|C0456240|core body temperature|fndg
+31466,31479|C0036341|schizophrenia|mobd
+31484,31489;31498,31506|C0001314|acute disorder|dsyn
+31490,31506|C0005586|bipolar disorder|mobd
+31557,31583|C0015967|body temperature increases|fndg
+31815,31826|C2939147|feeling hot|sosy
+31815,31826|C0424749|feeling hot|fndg
+31858,31862|C0580931|care|fndg
+31937,31947|C0012634|conditions|dsyn
+31987,32008|C0456240|core body temperature|fndg
+32040,32064|C2220321|exposure to extreme heat|fndg
+32150,32161|C0011175|dehydration|dsyn
+32178,32185|C0038661|Suicide|fndg
+32214,32229|C0038663|suicide attempt|fndg
+32245,32264|C1860474|psychotic illnesses|fndg
+32269,32285|C0005586|bipolar disorder|mobd
+32398,32405|C1576875|written|fndg
+32539,32548|C0011168|Dysphagia|dsyn
+32552,32574|C0014863|Esophageal dysmotility|dsyn
+32552,32574|C0014858|Esophageal dysmotility|dsyn
+32579,32589|C2712334|aspiration|fndg
+32579,32589|C0700198|aspiration|patf
+32579,32589|C2827071|aspiration|fndg
+32640,32649|C0011168|Dysphagia|dsyn
+32849,32862|C0036341|schizophrenia|mobd
+32875,32880|C0338831|mania|mobd
+33106,33126|C0032290|Aspiration pneumonia|dsyn
+33106,33126|C1761609|Aspiration pneumonia|dsyn
+33227,33247|C0002395|Alzheimer's dementia|dsyn
+33264,33273|C1444656|indicated|fndg
+33358,33380|C0150012|at risk for aspiration|fndg
+33485,33492|C0221423|Illness|sosy
+33570,33588|C0442893|systemic illnesses|dsyn
+33592,33599|C2674459|limited|fndg
+33697,33711;33715,33736|C1998297|recent history myocardial infarction|fndg
+33740,33748|C0443343|unstable|fndg
+33749,33762|C0018799|heart disease|dsyn
+33784,33793|C0011900|diagnoses|fndg
+33867,33890|C0020651|orthostatic hypotension|fndg

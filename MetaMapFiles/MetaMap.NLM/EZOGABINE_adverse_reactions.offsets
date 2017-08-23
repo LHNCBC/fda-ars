@@ -1,0 +1,183 @@
+153,174|C0035300|Retinal abnormalities|fndg
+189,200|C0456909|vision loss|fndg
+189,200|C3665347|vision loss|fndg
+189,200|C3665386|vision loss|fndg
+189,200|C3665346|vision loss|sosy
+246,263|C0080274|Urinary retention|fndg
+309,327|C0151907|Skin discoloration|patf
+390,398|C1457887|symptoms|sosy
+444,453|C0042571|Dizziness|sosy
+444,453|C0012833|Dizziness|sosy
+444,453|C1963093|Dizziness|fndg
+458,468|C0013144|somnolence|fndg
+458,468|C2830004|somnolence|fndg
+578,595|C1760428|Suicidal behavior|fndg
+654,673|C0235097|Withdrawal seizures|patf
+800,809|C0042571|dizziness|sosy
+800,809|C0012833|dizziness|sosy
+800,809|C1963093|dizziness|fndg
+811,821|C0013144|somnolence|fndg
+811,821|C2830004|somnolence|fndg
+823,830|C0015672|fatigue|sosy
+832,849|C0009676|confusional state|mobd
+851,858|C0042571|vertigo|sosy
+860,866|C0040822|tremor|sosy
+860,866|C1963252|tremor|fndg
+868,889|C0520966|abnormal coordination|sosy
+891,899|C0012569|diplopia|fndg
+901,925|C0233414|disturbance in attention|mobd
+927,944|C1963167|memory impairment|patf
+927,944|C0233794|memory impairment|mobd
+946,954|C0004093|asthenia|sosy
+956,970|C0344232|blurred vision|sosy
+972,988|C0575081|gait disturbance|fndg
+990,997|C0003537|aphasia|mobd
+999,1009|C0013362|dysarthria|mobd
+1015,1031|C0575090|balance disorder|sosy
+1286,1296|C0012634|conditions|dsyn
+1566,1574|C0014544|epilepsy|dsyn
+1582,1592|C2911690|controlled|fndg
+1693,1704|C0332154|treated for|fndg
+1742,1753|C0332154|treated for|fndg
+1794,1805|C0332154|treated for|fndg
+1859,1874|C1444662|Discontinuation|fndg
+1882,1892|C2911690|Controlled|fndg
+1925,1935|C3815594|randomized|fndg
+2069,2081|C1444662|discontinued|fndg
+2082,2091;2103,2120|C0879626|treatment adverse reactions|patf
+2167,2177|C2825032|withdrawal|mobd
+2167,2177|C3812880|withdrawal|fndg
+2212,2221|C0042571|dizziness|sosy
+2212,2221|C0012833|dizziness|sosy
+2212,2221|C1963093|dizziness|fndg
+2228,2245|C0009676|confusional state|mobd
+2252,2259|C0015672|fatigue|sosy
+2270,2280|C0013144|somnolence|fndg
+2270,2280|C2830004|somnolence|fndg
+2293,2299;2321,2324|C1292769|Common All|neop
+2325,2335|C2911690|Controlled|fndg
+2405,2414;2418,2426|C0521985|reactions patients|fndg
+2507,2516|C0042571|dizziness|sosy
+2507,2516|C0012833|dizziness|sosy
+2507,2516|C1963093|dizziness|fndg
+2524,2534|C0013144|somnolence|fndg
+2524,2534|C2830004|somnolence|fndg
+2542,2549|C0015672|fatigue|sosy
+2557,2574|C0009676|confusional state|mobd
+2581,2588|C0042571|vertigo|sosy
+2595,2601|C0040822|tremor|sosy
+2595,2601|C1963252|tremor|fndg
+2608,2629|C0520966|abnormal coordination|sosy
+2636,2644|C0012569|diplopia|fndg
+2651,2675|C0233414|disturbance in attention|mobd
+2682,2699|C1963167|memory impairment|patf
+2682,2699|C0233794|memory impairment|mobd
+2706,2714|C0004093|asthenia|sosy
+2721,2735|C0344232|blurred vision|sosy
+2742,2758|C0575081|gait disturbance|fndg
+2765,2772|C0003537|aphasia|mobd
+2779,2789|C0013362|dysarthria|mobd
+2800,2816|C0575090|balance disorder|sosy
+2987,2992;3021,3029|C1859679|Adult Seizures|fndg
+2987,2992;3015,3020|C1853562|Adult Onset|fndg
+3007,3014;3021,3029|C0751495|Partial Seizures|sosy
+3021,3029|C0036572|Seizures|sosy
+3039,3048;3067,3075|C0521985|reactions patients|fndg
+3647,3655|C0012569|Diplopia|fndg
+3842,3856|C0344232|Blurred vision|sosy
+4232,4238|C0027497|Nausea|sosy
+4232,4238|C1963179|Nausea|patf
+4427,4439|C0009806|Constipation|sosy
+4427,4439|C1963087|Constipation|fndg
+4622,4631|C0013395|Dyspepsia|sosy
+4817,4824;5012,5019|C0241898|General Fatigue|sosy
+5207,5215|C0004093|Asthenia|sosy
+5402,5412|C3714514|Infections|patf
+5417,5429|C0851341|infestations|dsyn
+5597,5606|C0021400|Influenza|dsyn
+5987,5993|C0424653|Weight|sosy
+6182,6196|C0422837|Nervous system|fndg
+6377,6386|C0042571|Dizziness|sosy
+6377,6386|C0012833|Dizziness|sosy
+6377,6386|C1963093|Dizziness|fndg
+6572,6582|C0013144|Somnolence|fndg
+6572,6582|C2830004|Somnolence|fndg
+6767,6784|C1963167|Memory impairment|patf
+6767,6784|C0233794|Memory impairment|mobd
+6962,6968|C0040822|Tremor|sosy
+6962,6968|C1963252|Tremor|fndg
+7157,7164|C0042571|Vertigo|sosy
+7352,7373|C0520966|Abnormal coordination|sosy
+7547,7571|C0233414|Disturbance in attention|mobd
+7742,7758|C0575081|Gait disturbance|fndg
+7937,7944|C0003537|Aphasia|mobd
+8132,8142|C0013362|Dysarthria|mobd
+8327,8343|C0575090|Balance disorder|sosy
+8522,8533|C0030554|Paresthesia|dsyn
+8522,8533|C2242996|Paresthesia|sosy
+8717,8724|C0002622|Amnesia|mobd
+8912,8921|C0973461|Dysphasia|mobd
+9302,9319|C0009676|Confusional state|mobd
+9497,9504|C0003467|Anxiety|mobd
+9497,9504|C0003469|Anxiety|mobd
+9497,9504|C0860603|Anxiety|fndg
+9692,9706|C0009676|Disorientation|mobd
+9692,9706|C0233407|Disorientation|mobd
+9887,9905|C0033975|Psychotic disorder|mobd
+10277,10284|C0013428|Dysuria|sosy
+10472,10490|C0152032|Urinary hesitation|dsyn
+10667,10676|C0018965|Hematuria|fndg
+11192,11206|C0018524|hallucinations|mobd
+11208,11217|C0027066|myoclonus|sosy
+11219,11235|C0085649|peripheral edema|fndg
+11237,11248|C0086439|hypokinesia|sosy
+11250,11259|C0043352|dry mouth|dsyn
+11261,11270|C0011168|dysphagia|dsyn
+11272,11285|C0020458|hyperhydrosis|fndg
+11287,11304|C0080274|urinary retention|fndg
+11306,11313|C0231218|malaise|sosy
+11319,11342|C0235996|increased liver enzymes|fndg
+11396,11403|C0445223|related|fndg
+11452,11475|C0235031|nervous system symptoms|sosy
+11488,11497|C0042571|dizziness|sosy
+11488,11497|C0012833|dizziness|sosy
+11488,11497|C1963093|dizziness|fndg
+11499,11509|C0013144|somnolence|fndg
+11499,11509|C2830004|somnolence|fndg
+11511,11528|C0009676|confusional state|mobd
+11530,11536|C0040822|tremor|sosy
+11530,11536|C1963252|tremor|fndg
+11538,11559|C0520966|abnormal coordination|sosy
+11561,11578|C1963167|memory impairment|patf
+11561,11578|C0233794|memory impairment|mobd
+11580,11594|C0344232|blurred vision|sosy
+11596,11612|C0575081|gait disturbance|fndg
+11614,11621|C0003537|aphasia|mobd
+11623,11639|C0575090|balance disorder|sosy
+11641,11653|C0009806|constipation|sosy
+11641,11653|C1963087|constipation|fndg
+11655,11662|C0013428|dysuria|sosy
+11717,11724|C0445223|related|fndg
+11725,11736|C0043094|weight gain|fndg
+11725,11736|C2911647|weight gain|fndg
+12096,12100|C0015230|rash|sosy
+12102,12111|C0028738|nystagmus|dsyn
+12102,12111|C1963184|nystagmus|fndg
+12113,12120|C0013404|dyspnea|sosy
+12122,12132|C0023530|leukopenia|dsyn
+12122,12132|C0750394|leukopenia|fndg
+12134,12147|C0037763|muscle spasms|sosy
+12149,12157|C0002170|alopecia|dsyn
+12159,12174|C0022650|nephrolithiasis|dsyn
+12159,12174|C0392525|nephrolithiasis|dsyn
+12176,12183|C0039070|syncope|sosy
+12185,12196|C0023530|neutropenia|dsyn
+12185,12196|C0027947|neutropenia|dsyn
+12185,12196|C0853697|neutropenia|fndg
+12198,12214|C0040034|thrombocytopenia|fndg
+12231,12242|C0152169|renal colic|sosy
+12244,12248|C0009421|coma|dsyn
+12244,12248|C0543874|coma|cgab
+12250,12264|C0006111|encephalopathy|dsyn
+12250,12264|C0085584|encephalopathy|dsyn
+12250,12264|C1963101|encephalopathy|fndg

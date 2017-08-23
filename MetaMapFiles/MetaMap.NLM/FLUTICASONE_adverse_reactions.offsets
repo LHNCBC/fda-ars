@@ -1,0 +1,184 @@
+123,129|C0004096|asthma|dsyn
+130,137|C0445223|related|fndg
+138,143|C1306577|death|fndg
+267,273|C0004096|asthma|dsyn
+320,326|C0004096|asthma|dsyn
+327,334|C0445223|related|fndg
+335,340|C1306577|death|fndg
+438,444|C0004096|asthma|dsyn
+445,452|C0445223|related|fndg
+633,639|C0004096|asthma|dsyn
+640,647|C1363945|therapy|fndg
+670,676|C0004096|asthma|dsyn
+677,684|C0445223|related|fndg
+685,691|C1306577|deaths|fndg
+792,810|C0239126|corticosteroid use|fndg
+815,821|C2825142|result|fndg
+850,876|C0276680|Candida albicans infection|dsyn
+940,949|C0032285|pneumonia|dsyn
+953,957|C0024117|COPD|dsyn
+953,957|C3714496|COPD|dsyn
+1003,1020|C4048329|Immunosuppression|dsyn
+1003,1020|C1373218|Immunosuppression|patf
+1066,1080|C0001622|Hypercorticism|dsyn
+1085,1104|C0271738|adrenal suppression|dsyn
+1150,1159;1163,1167;1176,1183|C0877225|Reduction bone density|fndg
+1287,1297|C0012634|conditions|dsyn
+1518,1522|C0024117|COPD|dsyn
+1518,1522|C3714496|COPD|dsyn
+1598,1613|C0027441|nasopharyngitis|dsyn
+1615,1648|C0041912|upper respiratory tract infection|dsyn
+1650,1658|C0018681|headache|sosy
+1650,1658|C2096315|headache|fndg
+1664,1680|C0006849|oral candidiasis|dsyn
+1699,1705|C0004096|Asthma|dsyn
+1781,1796|C0027441|nasopharyngitis|dsyn
+1798,1814|C0006849|oral candidiasis|dsyn
+1816,1824|C0018681|headache|sosy
+1816,1824|C2096315|headache|fndg
+1826,1835|C0021400|influenza|dsyn
+1837,1870|C0041912|upper respiratory tract infection|dsyn
+1872,1882|C0006277|bronchitis|dsyn
+1872,1882|C0149514|bronchitis|dsyn
+1884,1893|C0037199|sinusitis|dsyn
+1895,1913|C2363731|oropharyngeal pain|sosy
+1915,1924|C1527344|dysphonia|fndg
+1915,1924|C0019825|dysphonia|sosy
+1930,1935|C0010200|cough|sosy
+1930,1935|C1961131|cough|fndg
+2129,2166|C0024117|Chronic Obstructive Pulmonary Disease|dsyn
+2237,2241|C0024117|COPD|dsyn
+2237,2241|C3714496|COPD|dsyn
+2384,2388|C0024117|COPD|dsyn
+2384,2388|C3714496|COPD|dsyn
+2832,2833;2862,2877|C3842777|2 clinical trials|fndg
+2879,2887|C3840593|Trials 1|fndg
+3039,3057|C1519384|smoking history of|fndg
+3082,3092|C1550043|identified|fndg
+3096,3111|C3241966|current smokers|fndg
+3096,3111|C0337664|current smokers|fndg
+3116,3125|C1409616|screening|fndg
+3234,3238|C1561566|FEV1|fndg
+3234,3238|C0429706|FEV1|fndg
+3733,3770|C0024117|Chronic Obstructive Pulmonary Disease|dsyn
+3968,3978|C3714514|Infections|patf
+3983,3995|C0851341|infestations|dsyn
+4122,4137|C0027441|Nasopharyngitis|dsyn
+4360,4393|C0041912|Upper respiratory tract infection|dsyn
+4598,4623|C0919659|Oropharyngeal candidiasis|dsyn
+4950,4958|C0018681|Headache|sosy
+4950,4958|C2096315|Headache|fndg
+5171,5187|C0006849|oral candidiasis|dsyn
+5189,5214|C0919659|oropharyngeal candidiasis|dsyn
+5216,5227|C0006840|candidiasis|dsyn
+5240,5254|C1112611|oropharyngitis|dsyn
+5419,5420|C3838680|3|fndg
+5525,5543|C1519384|smoking history of|fndg
+5568,5578|C1550043|identified|fndg
+5582,5597|C3241966|current smokers|fndg
+5582,5597|C0337664|current smokers|fndg
+5602,5611|C1409616|screening|fndg
+5724,5728|C1561566|FEV1|fndg
+5724,5728|C0429706|FEV1|fndg
+6225,6234|C0004604|back pain|sosy
+6225,6234|C1963071|back pain|fndg
+6236,6245|C0032285|pneumonia|dsyn
+6287,6297|C0006277|bronchitis|dsyn
+6287,6297|C0149514|bronchitis|dsyn
+6299,6308|C0037199|sinusitis|dsyn
+6310,6315|C0010200|cough|sosy
+6310,6315|C1961131|cough|fndg
+6317,6335|C2363731|oropharyngeal pain|sosy
+6337,6347|C0003862|arthralgia|sosy
+6349,6358|C0021400|influenza|dsyn
+6360,6371|C0031350|pharyngitis|dsyn
+6377,6384|C0015967|pyrexia|fndg
+6426,6432|C0004096|Asthma|dsyn
+6470,6476|C0004096|asthma|dsyn
+6624,6630|C0004096|asthma|dsyn
+7042,7048;7061,7062|C3840593|Trials 1|fndg
+7172,7178|C0004096|asthma|dsyn
+7534,7540|C0004096|Asthma|dsyn
+7542,7549|C3840593|Trial 1|fndg
+7720,7730|C3714514|Infections|patf
+7735,7747|C0851341|infestations|dsyn
+7879,7894|C0027441|Nasopharyngitis|dsyn
+8138,8154|C0006849|Oral candidiasis|dsyn
+8508,8516|C0018681|Headache|sosy
+8508,8516|C2096315|Headache|fndg
+8746,8767|C0025061|mediastinal disorders|dsyn
+8881,8899|C2363731|Oropharyngeal pain|sosy
+9140,9149|C1527344|Dysphonia|fndg
+9140,9149|C0019825|Dysphonia|sosy
+9373,9389|C0006849|oral candidiasis|dsyn
+9394,9419|C0919659|oropharyngeal candidiasis|dsyn
+9425,9432|C3842777|Trial 2|fndg
+9596,9602|C0004096|asthma|dsyn
+9964,9970|C0004096|Asthma|dsyn
+9972,9979|C3842777|Trial 2|fndg
+10314,10322|C0018681|Headache|sosy
+10314,10322|C2096315|Headache|fndg
+10517,10527|C3714514|Infections|patf
+10532,10544|C0851341|infestations|dsyn
+10672,10687|C0027441|Nasopharyngitis|dsyn
+10919,10928|C0021400|Influenza|dsyn
+11166,11199|C0041912|Upper respiratory tract infection|dsyn
+11413,11422|C0037199|Sinusitis|dsyn
+11660,11670|C0006277|Bronchitis|dsyn
+11660,11670|C0149514|Bronchitis|dsyn
+11889,11910|C0025061|mediastinal disorders|dsyn
+12024,12042|C2363731|Oropharyngeal pain|sosy
+12271,12276|C0010200|Cough|sosy
+12271,12276|C1961131|Cough|fndg
+12720,12726|C0004096|asthma|dsyn
+13018,13051|C0877203|viral respiratory tract infection|dsyn
+13053,13064|C0031350|pharyngitis|dsyn
+13066,13073|C0015967|pyrexia|fndg
+13079,13089|C0003862|arthralgia|sosy
+13377,13383|C0004096|asthma|dsyn
+13740,13747|C0015967|pyrexia|fndg
+13749,13758|C0004604|back pain|sosy
+13749,13758|C1963071|back pain|fndg
+13760,13773|C0340464|extrasystoles|patf
+13775,13795|C0232492|upper abdominal pain|sosy
+13797,13824|C0035243|respiratory tract infection|dsyn
+13826,13843|C2607914|allergic rhinitis|dsyn
+13845,13856|C0031350|pharyngitis|dsyn
+13858,13866|C0035455|rhinitis|dsyn
+13868,13878|C0003862|arthralgia|sosy
+13880,13910|C0033036|supraventricular extrasystoles|fndg
+13912,13937|C0151636|ventricular extrasystoles|patf
+13939,13954|C0149512|acute sinusitis|dsyn
+13960,13969|C0032285|pneumonia|dsyn
+14176,14186|C0262926|history of|fndg
+14199,14219|C0349790|asthma exacerbations|fndg
+14360,14366|C0004096|asthma|dsyn
+14700,14706|C0004096|Asthma|dsyn
+14707,14714|C0445223|related|fndg
+14904,14910|C0004096|asthma|dsyn
+14911,14918|C0445223|related|fndg
+15320,15330|C1550043|identified|fndg
+15442,15451|C0087130|uncertain|fndg
+15625,15631|C3844638|either|fndg
+15717,15728|C3811910|combination|fndg
+15753,15760;15777,15789|C1822022|Cardiac Palpitations|fndg
+15753,15770|C0018799|Cardiac Disorders|dsyn
+15761,15770|C0012634|Disorders|dsyn
+15777,15789|C0030252|Palpitations|fndg
+15777,15789|C3160712|Palpitations|fndg
+15791,15802|C0039231|tachycardia|patf
+15791,15802|C3827868|tachycardia|fndg
+15810,15833|C0021053|Immune System Disorders|dsyn
+15840,15866|C0020517|Hypersensitivity reactions|patf
+15878,15889|C0002792|anaphylaxis|patf
+15878,15889|C0850803|anaphylaxis|dsyn
+15891,15901|C0002994|angioedema|patf
+15903,15907|C0015230|rash|sosy
+15913,15922|C0042109|urticaria|dsyn
+15913,15922|C2186740|urticaria|fndg
+15950,15977|C0009782|Connective Tissue Disorders|dsyn
+15984,15997|C0037763|Muscle spasms|sosy
+16036,16042|C0040822|Tremor|sosy
+16036,16042|C1963252|Tremor|fndg
+16078,16089|C0027769|Nervousness|sosy
+16078,16089|C0849963|Nervousness|sosy

@@ -1,0 +1,62 @@
+112,139|FN|Application-Associated Pain|C0521491
+135,139|FP|Pain|C1962977,C0030193|10060933,10033371|fndg,sosy
+188,214|TP|Increase in Blood Pressure|C0497247|10005750|188,214|Increase in Blood Pressure|C0497247|10005750|fndg
+347,372|TP|application site erythema|C0853700|10003041|347,372|application site erythema|C0853700|10003041|inpo
+374,395|TP|application site pain|C0521491|10003051|374,395|application site pain|C0521491|10003051,10058049|sosy
+397,422|TP|application site pruritus|C0853714|10003053|397,422|application site pruritus|C0853714|10003053|sosy
+427,451|TP|application site papules|C0877127|10049043|427,451|application site papules|C0877127|10049043|sosy
+1552,1577|TP|application site erythema|C0853700|10003041|1552,1577|application site erythema|C0853700|10003041|inpo
+1579,1600|TP|application site pain|C0521491|10003051|1579,1600|application site pain|C0521491|10003051,10058049|sosy
+1602,1627|TP|application site pruritus|C0853714|10003053|1602,1627|application site pruritus|C0853714|10003053|sosy
+1632,1656|TP|application site papules|C0877127|10049043|1632,1656|application site papules|C0877127|10049043|sosy
+1765,1787|FP|postherpetic neuralgia|C0032768|10036376|dsyn
+1888,1914|TP|application site reactions|C0151505|10003055|1888,1914|application site reactions|C0151505|10003055|fndg
+1958,1975|FN|increases in pain|C0853946
+1971,1975|FP|pain|C1962977,C0030193|10060933,10033371|fndg,sosy
+2057,2071|FN|Pain increases|C0853946
+2057,2061|FP|Pain|C1962977,C0030193|10060933,10033371|fndg,sosy
+2495,2517|FP|Postherpetic Neuralgia|C0032768|10036376|dsyn
+2868,2893|TP|Application Site Erythema|C0853700|10003041|2868,2893|Application Site Erythema|C0853700|10003041|inpo
+2977,2998|TP|Application Site Pain|C0521491|10003051|2977,2998|Application Site Pain|C0521491|10003051,10058049|sosy
+3086,3111|TP|Application Site Pruritus|C0853714|10003053|3086,3111|Application Site Pruritus|C0853714|10003053|sosy
+3195,3219|TP|Application Site Papules|C0877127|10049043|3195,3219|Application Site Papules|C0877127|10049043|sosy
+3304,3326|TP|Application Site Edema|C0234936|10003050|3304,3326|Application Site Edema|C0234936|10003050|patf
+3413,3438|FN|Application Site Swelling|C1096001
+3522,3546|TP|Application Site Dryness|C0877098|10048943|3522,3546|Application Site Dryness|C0877098|10048943|fndg
+3633,3643|FP|Infections|C3714514|10021789|patf
+3740,3755|TP|Nasopharyngitis|C0027441|10028810|3740,3755|Nasopharyngitis|C0027441|10028810|dsyn
+3849,3859|TP|Bronchitis|C0006277|10006451|3849,3859|Bronchitis|C0006277|10006451|dsyn
+3958,3967|TP|Sinusitis|C0037199|10040753|3958,3967|Sinusitis|C0037199|10040753|dsyn
+4069,4095|FP|Gastrointestinal Disorders|C0017178|10017944|dsyn
+4176,4182|TP|Nausea|C0027497|10028813|4176,4182|Nausea|C0027497,C1963179|10028813,10060933|patf,sosy
+4285,4293|TP|Vomiting|C0042963|10047700|4285,4293|Vomiting|C0042963,C1963281|10047700,10060933|patf,sosy
+4503,4511|TP|Pruritus|C0033774|10037087|4503,4511|Pruritus|C0033774|10037087|sosy
+4614,4622;4721,4733|FP|Vascular Hypertension|C0020538|10020772|dsyn
+4614,4632|FP|Vascular Disorders|C0042373|10059245|dsyn
+4721,4733|TP|Hypertension|C0020538|10020772|4721,4733|Hypertension|C0020538,C1963138|10020772,10060933|dsyn,fndg
+4974,5000|TP|Application site urticaria|C0919603|10050104|4974,5000|Application site urticaria|C0919603|10050104|inpo
+5002,5030|TP|Application site paresthesia|C0877096|10050103|5002,5030|Application site paresthesia|C0877096|10050103|sosy
+5032,5059|TP|Application site dermatitis|C0521495|10003036|5032,5059|Application site dermatitis|C0521495|10003036,10003054|inpo
+5061,5091|TP|Application site hyperesthesia|C0919600|10050100|5061,5091|Application site hyperesthesia|C0919600|10050100|inpo
+5093,5121|FN|Application site excoriation|C1142498
+5123,5146|TP|Application site warmth|C0858794|10003060|5123,5146|Application site warmth|C0858794|10003060|fndg
+5148,5175|TP|Application site anesthesia|C0234943|10003033|5148,5175|Application site anesthesia|C0234943|10003033|sosy
+5177,5202|TP|Application site bruising|C0877095|10050114|5177,5202|Application site bruising|C0877095|10050114,10068317|fndg
+5204,5233|TP|Application site inflammation|C0877126|10049042|5204,5233|Application site inflammation|C0877126|10049042|inpo
+5235,5263|TP|Application site exfoliation|C1610049|10064578|5235,5263|Application site exfoliation|C1610049|10064578|fndg
+5265,5275;5286,5310|FP|Peripheral Nervous System Disorders|C0031117|10029331|dsyn
+5265,5281|FN|Peripheral edema|C0085649
+5276,5281|FP|edema|C0013604|10030095|fndg
+5312,5320|TP|Headache|C0018681|10019211|5312,5320|Headache|C0018681,C2096315|10019211,10019211|fndg,sosy
+5322,5339|FN|Burning sensation|C0085624
+5322,5329|FP|Burning|C0085624|10006784|sosy
+5341,5370|TP|Peripheral sensory neuropathy|C0151313|10034620|5341,5370|Peripheral sensory neuropathy|C0151313|10034620|dsyn
+5372,5381|TP|Dizziness|C0012833|10013573|5372,5381|Dizziness|C0012833,C0042571,C1963093|10013573,10047340,10060933|sosy,sosy,fndg
+5383,5392|TP|Dysgeusia|C0013378|10013911|5383,5392|Dysgeusia|C0013378|10013911|fndg
+5394,5407|TP|Hyperesthesia|C0020453|10020568|5394,5407|Hyperesthesia|C0020453|10020568|sosy
+5409,5421|TP|Hypoesthesia|C0020580|10020937|5409,5421|Hypoesthesia|C0020580|10020937|fndg
+5452,5473|FP|Mediastinal Disorders|C0025061|10061280|dsyn
+5475,5480|TP|Cough|C0010200|10011224|5475,5480|Cough|C0010200,C1961131|10011224,10060933|fndg,sosy
+5482,5499|TP|Throat irritation|C0700184|10043521|5482,5499|Throat irritation|C0700184|10043521|sosy
+5489,5499;5504,5508|FP|irritation Skin|C0152030|10040880|fndg
+5544,5562|FN|Abnormal skin odor|C0234930

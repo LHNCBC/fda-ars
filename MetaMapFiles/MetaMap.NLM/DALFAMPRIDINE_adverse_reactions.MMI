@@ -1,0 +1,35 @@
+00000000|MMI|50.24|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-8-"Dizziness"-noun-0,"Dizzyness"-tx-6-"dizziness"-noun-0,"Dizzyness"-tx-3-"dizziness"-noun-0]|TX|2316/9;1539/9;626/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|50.24|Headache|C0018681|[sosy]|["HEADACHE"-tx-8-"Headache"-noun-0,"HEADACHE"-tx-6-"headache"-noun-0,"HEADACHE"-tx-3-"headache"-noun-0]|TX|2425/8;1459/8;637/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|50.24|Vertigo|C0042571|[sosy]|["dizziness"-tx-8-"Dizziness"-noun-0,"dizziness"-tx-6-"dizziness"-noun-0,"dizziness"-tx-3-"dizziness"-noun-0]|TX|2316/9;1539/9;626/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|41.13|Urinary tract infection|C0042029|[dsyn]|["URINARY TRACT INFECTION"-tx-8-"Urinary tract infection"-noun-0,"URINARY TRACT INFECTION"-tx-3-"urinary tract infection"-noun-0,"Urinary Tract Infections"-tx-2-"Urinary Tract Infections"-noun-0]|TX|2098/23;591/23;440/24|C01.539.895;C12.777.892;C13.351.968.892
+00000000|MMI|39.33|Paresthesia|C0030554|[dsyn]|["Parasthesia"-tx-8-"Paresthesia"-noun-0,"Parasthesia"-tx-3-"paresthesia"-noun-0]|TX|3079/11;722/11|C10.597.751.791.875;C23.888.592.763.770.875
+00000000|MMI|33.68|Adverse reactions|C0559546|[patf]|["ADVERSE REACTION"-tx-8-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-8-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-8-"Adverse reactions"-noun-0,"Adverse reactions"-tx-7-"adverse reactions"-noun-0,"Adverse reactions"-tx-4-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-2-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-1-"adverse reaction"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0]|TX|1986/16;3644/17;1832/17;1643/17;836/17;312/17;99/16;6/17|
+00000000|MMI|33.08|Back Pain|C0004604|[sosy]|["BACKPAIN"-tx-8-"Back pain"-noun-0,"BACKPAIN"-tx-3-"back pain"-noun-0]|TX|2752/9;665/9|C10.597.617.140;C23.888.592.612.107
+00000000|MMI|32.99|Sleeplessness|C0917801|[sosy]|["INSOMNIA"-tx-8-"Insomnia"-noun-0,"INSOMNIA"-tx-3-"insomnia"-noun-0]|TX|2207/8;616/8|C10.886.425.800.800;F03.870.400.800.800
+00000000|MMI|32.60|Seizures|C0036572|[sosy]|["Seizures"-tx-11-"seizures"-noun-0,"Seizures"-tx-2-"Seizures"-noun-0]|TX|4088/8;413/8|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|26.64|Constipation|C0009806|[sosy]|["CONSTIPATION"-tx-8-"Constipation"-noun-0,"CONSTIPATION"-tx-3-"constipation"-noun-0]|TX|3297/12;752/12|C23.888.821.150
+00000000|MMI|26.64|Dyspepsia|C0013395|[sosy]|["DYSPEPSIA"-tx-8-"Dyspepsia"-noun-0,"DYSPEPSIA"-tx-3-"dyspepsia"-noun-0]|TX|3406/9;766/9|C23.888.821.236
+00000000|MMI|26.64|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-8-"Nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-3-"nasopharyngitis"-noun-0]|TX|3188/15;735/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|26.64|Nausea|C0027497|[sosy]|["NAUSEA"-tx-8-"Nausea"-noun-0,"NAUSEA"-tx-3-"nausea"-noun-0]|TX|2534/6;647/6|C23.888.821.712
+00000000|MMI|20.30|Asthenia|C0004093|[sosy]|["ASTHENIA"-tx-8-"Asthenia"-noun-0,"ASTHENIA"-tx-3-"asthenia"-noun-0]|TX|2643/8;655/8|C23.888.089
+00000000|MMI|17.80|Confusion|C0009676|[mobd]|["CONFUSIONAL STATE"-tx-6-"confusional state"-noun-0]|TX|1580/17|C10.597.606.337;C23.888.592.604.339;F01.700.250
+00000000|MMI|15.23|4+ Answer to question|C3838679|[fndg]|["4+"-tx-8-"4"-percentage-0,"4+"-tx-5-"4"-percentage-0]|TX|[3053/1],[3162/1],[3271/1];1078/1|
+00000000|MMI|15.11|2+|C3833492|[fndg]|["2+"-tx-8-"2"-percentage-0,"2+"-tx-7-"2"-percentage-0,"2+"-tx-3-"2"-percentage-0]|TX|[1870/1],[3598/1];1680/1;527/1|
+00000000|MMI|14.64|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-2-"Anaphylaxis"-noun-0]|TX|423/11|C20.543.480.099
+00000000|MMI|12.29|Recurrent urinary tract infection|C0262655|[dsyn]|["Urinary tract infection"-tx-8-"Urinary tract infection"-noun-0,"Urinary tract infection"-tx-3-"urinary tract infection"-noun-0,"Urinary tract infections"-tx-2-"Urinary Tract Infections"-noun-0]|TX|2098/23;591/23;440/24|
+00000000|MMI|11.92|Equilibration disorder|C0575090|[sosy]|["Balance disorder"-tx-8-"Balance disorder"-noun-0,"Balance disorder"-tx-6-"balance disorder"-noun-0,"Balance disorder"-tx-3-"balance disorder"-noun-0]|TX|2861/16;1495/16;676/16|
+00000000|MMI|11.79|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-8-"Dizziness"-noun-0,"Dizziness"-tx-6-"dizziness"-noun-0,"Dizziness"-tx-3-"dizziness"-noun-0]|TX|2316/9;1539/9;626/9|
+00000000|MMI|11.79|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-8-"Headache"-noun-0,"headache"-tx-6-"headache"-noun-0,"headache"-tx-3-"headache"-noun-0]|TX|2425/8;1459/8;637/8|
+00000000|MMI|11.18|Adverse event|C0877248|[patf]|["adverse events"-tx-6-"adverse events"-noun-0,"adverse events"-tx-5-"adverse events"-noun-0,"adverse events"-tx-3-"adverse events"-noun-0]|TX|1301/14;1183/14;499/14|
+00000000|MMI|10.87|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-6-"discontinuation"-noun-0,"Discontinuation"-tx-5-"discontinuation"-noun-0]|TX|[1327/15],[1402/15];1209/15|
+00000000|MMI|10.79|10%|C3842590|[fndg]|["10%"-tx-11-"10"-integer-0,"10%"-tx-7-"10"-integer-0,"10%"-tx-5-"10"-integer-0]|TX|4196/2;1715/2;1122/2|
+00000000|MMI|9.84|Disease|C0012634|[dsyn]|["condition"-tx-1-"conditions"-noun-0]|TX|87/10|C23.550.288
+00000000|MMI|7.78|Multiple sclerosis relapse|C0856120|[dsyn]|["Multiple sclerosis relapse"-tx-8-"Multiple sclerosis relapse"-noun-0,"Multiple sclerosis relapse"-tx-3-"multiple sclerosis relapse"-noun-0]|TX|2970/26;694/26|
+00000000|MMI|7.70|Back Pain Adverse Event|C1963071|[fndg]|["Back pain"-tx-8-"Back pain"-noun-0,"Back pain"-tx-3-"back pain"-noun-0]|TX|2752/9;665/9|
+00000000|MMI|7.70|Pharyngolaryngeal pain|C0858635|[sosy]|["Pharyngolaryngeal Pain"-tx-8-"Pharyngolaryngeal pain"-noun-0,"Pharyngolaryngeal Pain"-tx-3-"pharyngolaryngeal pain"-noun-0]|TX|3515/22;781/22|
+00000000|MMI|7.61|Constipation Adverse Event|C1963087|[fndg]|["Constipation"-tx-8-"Constipation"-noun-0,"Constipation"-tx-3-"constipation"-noun-0]|TX|3297/12;752/12|
+00000000|MMI|7.61|Has tingling sensation|C2242996|[sosy]|["paresthesia"-tx-8-"Paresthesia"-noun-0,"paresthesia"-tx-3-"paresthesia"-noun-0]|TX|3079/11;722/11|
+00000000|MMI|7.61|Insomnia Adverse Event|C1963237|[fndg]|["Insomnia"-tx-8-"Insomnia"-noun-0,"Insomnia"-tx-3-"insomnia"-noun-0]|TX|2207/8;616/8|
+00000000|MMI|7.61|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-8-"Nausea"-noun-0,"Nausea"-tx-3-"nausea"-noun-0]|TX|2534/6;647/6|
+00000000|MMI|5.18|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-2-"Anaphylaxis"-noun-0]|TX|423/11|
+00000000|MMI|3.63|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-8-"3"-percentage-0]|TX|3380/1|

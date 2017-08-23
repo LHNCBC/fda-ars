@@ -1,0 +1,282 @@
+T1	AdverseReaction 30 35	FATAL
+T2	AdverseReaction 48 58	TOXICITIES
+T3	Severity 40 47	SERIOUS
+T4	AdverseReaction 76 84	DIARRHEA
+T5	Severity 69 75	SEVERE
+T6	AdverseReaction 86 93	COLITIS
+T7	AdverseReaction 95 106	PNEUMONITIS
+T8	AdverseReaction 113 135	INTESTINAL PERFORATION
+T9	AdverseReaction 148 153	FATAL
+T10	Severity 158 165	SERIOUS
+T11	AdverseReaction 166 176	TOXICITIES
+T12	AdverseReaction 48 58;60 67	TOXICITIES HEPATIC
+T14	Severity 187 193	SEVERE
+T15	AdverseReaction 194 202	DIARRHEA
+T16	AdverseReaction 204 211	COLITIS
+T17	AdverseReaction 213 224	PNEUMONITIS
+T18	AdverseReaction 231 253	INTESTINAL PERFORATION
+T19	AdverseReaction 262 267	Fatal
+T20	Severity 275 282	serious
+T21	AdverseReaction 283 297	hepatotoxicity
+T22	AdverseReaction 539 544	Fatal
+T23	Severity 552 559	serious
+T24	Severity 564 570	severe
+T25	AdverseReaction 571 579	diarrhea
+T26	AdverseReaction 583 590	colitis
+T27	AdverseReaction 835 840	Fatal
+T28	Severity 845 852	serious
+T29	AdverseReaction 853 864	pneumonitis
+T30	AdverseReaction 1099 1104	Fatal
+T31	Severity 1109 1116	serious
+T32	AdverseReaction 1117 1139	intestinal perforation
+T33	AdverseReaction 1314 1319	FATAL
+T34	Severity 1324 1331	SERIOUS
+T35	AdverseReaction 1332 1342	TOXICITIES
+T36	AdverseReaction 1332 1342;1344 1351	TOXICITIES HEPATIC
+T37	Severity 1353 1359	SEVERE
+T38	AdverseReaction 1360 1368	DIARRHEA
+T39	AdverseReaction 1370 1377	COLITIS
+T40	AdverseReaction 1379 1390	PNEUMONITIS
+T41	AdverseReaction 1396 1418	INTESTINAL PERFORATION
+T42	AdverseReaction 1499 1504	Fatal
+T43	Severity 1512 1519	serious
+T44	AdverseReaction 1520 1534	hepatotoxicity
+T45	AdverseReaction 1698 1703	Fatal
+T46	Severity 1711 1718	serious
+T47	Severity 1723 1729	severe
+T48	AdverseReaction 1730 1738	diarrhea
+T49	AdverseReaction 1742 1749	colitis
+T50	AdverseReaction 1916 1921	Fatal
+T51	Severity 1926 1933	serious
+T52	AdverseReaction 1934 1945	pneumonitis
+T53	AdverseReaction 2102 2107	Fatal
+T54	Severity 2112 2119	serious
+T55	AdverseReaction 2120 2142	intestinal perforation
+T13	AdverseReaction 166 176;178 185	TOXICITIES HEPATIC
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Effect:E3
+E3	Severity:T3
+E4	AdverseReaction:T4 Effect:E5
+E5	Severity:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	Severity:T10
+E11	AdverseReaction:T11 Effect:E10
+E12	AdverseReaction:T12
+E14	Severity:T14
+E15	AdverseReaction:T15 Effect:E14
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	Severity:T20
+E21	AdverseReaction:T21 Effect:E20
+E22	AdverseReaction:T22
+E23	Severity:T23
+E24	Severity:T24
+E25	AdverseReaction:T25 Effect:E24 Effect2:E23
+E26	AdverseReaction:T26 Effect:E24 Effect2:E23
+E27	AdverseReaction:T27
+E28	Severity:T28
+E29	AdverseReaction:T29 Effect:E28
+E30	AdverseReaction:T30
+E31	Severity:T31
+E32	AdverseReaction:T32 Effect:E31
+E33	AdverseReaction:T33
+E34	Severity:T34
+E35	AdverseReaction:T35 Effect:E34
+E36	AdverseReaction:T36
+E37	Severity:T37
+E38	AdverseReaction:T38 Effect:E37
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	Severity:T43
+E44	AdverseReaction:T44 Effect:E43
+E45	AdverseReaction:T45
+E46	Severity:T46
+E47	Severity:T47
+E48	AdverseReaction:T48 Effect:E47 Effect2:E46
+E49	AdverseReaction:T49 Effect:E47 Effect2:E46
+E50	AdverseReaction:T50
+E51	Severity:T51
+E52	AdverseReaction:T52 Effect:E51
+E53	AdverseReaction:T53
+E54	Severity:T54
+E55	AdverseReaction:T55 Effect:E54
+E13	AdverseReaction:T13
+A1	CUI E1 C1306577
+A2	UMLS-Preferred-Name E1 Death (finding)
+A3	MEDDRA-PT E1 Death
+A4	MEDDRA-PT-ID E1 10011906
+A5	CUI E2 C0013221
+A6	UMLS-Preferred-Name E2 Drug toxicity
+A7	MEDDRA-PT E2 Toxicity to various agents
+A8	MEDDRA-PT-ID E2 10070863
+A9	LLT E2 Drug toxicity
+A10	LLT-ID E2 10013746
+A11	CUI E4 C0011991
+A12	UMLS-Preferred-Name E4 Diarrhea
+A13	MEDDRA-PT E4 Diarrhoea
+A14	MEDDRA-PT-ID E4 10012735
+A15	LLT E4 Diarrhea
+A16	LLT-ID E4 10012727
+A17	CUI E6 C0009319
+A18	UMLS-Preferred-Name E6 Colitis
+A19	MEDDRA-PT E6 Colitis
+A20	MEDDRA-PT-ID E6 10009887
+A21	CUI E7 C3714636
+A22	UMLS-Preferred-Name E7 Pneumonitis
+A23	MEDDRA-PT E7 Pneumonitis
+A24	MEDDRA-PT-ID E7 10035742
+A25	CUI E8 C0021845
+A26	UMLS-Preferred-Name E8 Intestinal Perforation
+A27	MEDDRA-PT E8 Intestinal perforation
+A28	MEDDRA-PT-ID E8 10022694
+A29	CUI E9 C1306577
+A30	UMLS-Preferred-Name E9 Death (finding)
+A31	MEDDRA-PT E9 Death
+A32	MEDDRA-PT-ID E9 10011906
+A33	CUI E11 C0013221
+A34	UMLS-Preferred-Name E11 Drug toxicity
+A35	MEDDRA-PT E11 Toxicity to various agents
+A36	MEDDRA-PT-ID E11 10070863
+A37	LLT E11 Drug toxicity
+A38	LLT-ID E11 10013746
+A39	CUI E12 C0235378
+A40	UMLS-Preferred-Name E12 Hepatotoxicity
+A41	MEDDRA-PT E12 Hepatotoxicity
+A42	MEDDRA-PT-ID E12 10019851
+A43	CUI E15 C0011991
+A44	UMLS-Preferred-Name E15 Diarrhea
+A45	MEDDRA-PT E15 Diarrhoea
+A46	MEDDRA-PT-ID E15 10012735
+A47	LLT E15 Diarrhea
+A48	LLT-ID E15 10012727
+A49	CUI E16 C0009319
+A50	UMLS-Preferred-Name E16 Colitis
+A51	MEDDRA-PT E16 Colitis
+A52	MEDDRA-PT-ID E16 10009887
+A53	CUI E17 C3714636
+A54	UMLS-Preferred-Name E17 Pneumonitis
+A55	MEDDRA-PT E17 Pneumonitis
+A56	MEDDRA-PT-ID E17 10035742
+A57	CUI E18 C0021845
+A58	UMLS-Preferred-Name E18 Intestinal Perforation
+A59	MEDDRA-PT E18 Intestinal perforation
+A60	MEDDRA-PT-ID E18 10022694
+A61	CUI E19 C1306577
+A62	UMLS-Preferred-Name E19 Death (finding)
+A63	MEDDRA-PT E19 Death
+A64	MEDDRA-PT-ID E19 10011906
+A65	CUI E21 C0235378
+A66	UMLS-Preferred-Name E21 Hepatotoxicity
+A67	MEDDRA-PT E21 Hepatotoxicity
+A68	MEDDRA-PT-ID E21 10019851
+A69	CUI E22 C1306577
+A70	UMLS-Preferred-Name E22 Death (finding)
+A71	MEDDRA-PT E22 Death
+A72	MEDDRA-PT-ID E22 10011906
+A73	CUI E25 C0011991
+A74	UMLS-Preferred-Name E25 Diarrhea
+A75	MEDDRA-PT E25 Diarrhoea
+A76	MEDDRA-PT-ID E25 10012735
+A77	LLT E25 Diarrhea
+A78	LLT-ID E25 10012727
+A79	CUI E26 C0009319
+A80	UMLS-Preferred-Name E26 Colitis
+A81	MEDDRA-PT E26 Colitis
+A82	MEDDRA-PT-ID E26 10009887
+A83	CUI E27 C1306577
+A84	UMLS-Preferred-Name E27 Death (finding)
+A85	MEDDRA-PT E27 Death
+A86	MEDDRA-PT-ID E27 10011906
+A87	CUI E29 C3714636
+A88	UMLS-Preferred-Name E29 Pneumonitis
+A89	MEDDRA-PT E29 Pneumonitis
+A90	MEDDRA-PT-ID E29 10035742
+A91	CUI E30 C1306577
+A92	UMLS-Preferred-Name E30 Death (finding)
+A93	MEDDRA-PT E30 Death
+A94	MEDDRA-PT-ID E30 10011906
+A95	CUI E32 C0021845
+A96	UMLS-Preferred-Name E32 Intestinal Perforation
+A97	MEDDRA-PT E32 Intestinal perforation
+A98	MEDDRA-PT-ID E32 10022694
+A99	CUI E33 C1306577
+A100	UMLS-Preferred-Name E33 Death (finding)
+A101	MEDDRA-PT E33 Death
+A102	MEDDRA-PT-ID E33 10011906
+A103	CUI E35 C0013221
+A104	UMLS-Preferred-Name E35 Drug toxicity
+A105	MEDDRA-PT E35 Toxicity to various agents
+A106	MEDDRA-PT-ID E35 10070863
+A107	LLT E35 Drug toxicity
+A108	LLT-ID E35 10013746
+A109	CUI E36 C0235378
+A110	UMLS-Preferred-Name E36 Hepatotoxicity
+A111	MEDDRA-PT E36 Hepatotoxicity
+A112	MEDDRA-PT-ID E36 10019851
+A113	CUI E38 C0011991
+A114	UMLS-Preferred-Name E38 Diarrhea
+A115	MEDDRA-PT E38 Diarrhoea
+A116	MEDDRA-PT-ID E38 10012735
+A117	LLT E38 Diarrhea
+A118	LLT-ID E38 10012727
+A119	CUI E39 C0009319
+A120	UMLS-Preferred-Name E39 Colitis
+A121	MEDDRA-PT E39 Colitis
+A122	MEDDRA-PT-ID E39 10009887
+A123	CUI E40 C3714636
+A124	UMLS-Preferred-Name E40 Pneumonitis
+A125	MEDDRA-PT E40 Pneumonitis
+A126	MEDDRA-PT-ID E40 10035742
+A127	CUI E41 C0021845
+A128	UMLS-Preferred-Name E41 Intestinal Perforation
+A129	MEDDRA-PT E41 Intestinal perforation
+A130	MEDDRA-PT-ID E41 10022694
+A131	CUI E42 C1306577
+A132	UMLS-Preferred-Name E42 Death (finding)
+A133	MEDDRA-PT E42 Death
+A134	MEDDRA-PT-ID E42 10011906
+A135	CUI E44 C0235378
+A136	UMLS-Preferred-Name E44 Hepatotoxicity
+A137	MEDDRA-PT E44 Hepatotoxicity
+A138	MEDDRA-PT-ID E44 10019851
+A139	CUI E45 C1306577
+A140	UMLS-Preferred-Name E45 Death (finding)
+A141	MEDDRA-PT E45 Death
+A142	MEDDRA-PT-ID E45 10011906
+A143	CUI E48 C0011991
+A144	UMLS-Preferred-Name E48 Diarrhea
+A145	MEDDRA-PT E48 Diarrhoea
+A146	MEDDRA-PT-ID E48 10012735
+A147	LLT E48 Diarrhea
+A148	LLT-ID E48 10012727
+A149	CUI E49 C0009319
+A150	UMLS-Preferred-Name E49 Colitis
+A151	MEDDRA-PT E49 Colitis
+A152	MEDDRA-PT-ID E49 10009887
+A153	CUI E50 C1306577
+A154	UMLS-Preferred-Name E50 Death (finding)
+A155	MEDDRA-PT E50 Death
+A156	MEDDRA-PT-ID E50 10011906
+A157	CUI E52 C3714636
+A158	UMLS-Preferred-Name E52 Pneumonitis
+A159	MEDDRA-PT E52 Pneumonitis
+A160	MEDDRA-PT-ID E52 10035742
+A161	CUI E53 C1306577
+A162	UMLS-Preferred-Name E53 Death (finding)
+A163	MEDDRA-PT E53 Death
+A164	MEDDRA-PT-ID E53 10011906
+A165	CUI E55 C0021845
+A166	UMLS-Preferred-Name E55 Intestinal Perforation
+A167	MEDDRA-PT E55 Intestinal perforation
+A168	MEDDRA-PT-ID E55 10022694
+A169	CUI E13 C0235378
+A170	UMLS-Preferred-Name E13 Hepatotoxicity
+A171	MEDDRA-PT E13 Hepatotoxicity
+A172	MEDDRA-PT-ID E13 10019851

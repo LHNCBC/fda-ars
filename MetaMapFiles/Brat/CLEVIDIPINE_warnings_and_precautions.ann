@@ -1,0 +1,64 @@
+T1	AdverseReaction 150 161	Hypotension
+T2	AdverseReaction 166 184	reflex tachycardia
+T3	Factor 189 198	potential
+T4	AdverseReaction 319 345	negative inotropic effects
+T5	AdverseReaction 350 374	exacerbate heart failure
+T7	DrugClass 266 306	Dihydropyridine calcium channel blockers
+T8	AdverseReaction 1023 1043	systemic hypotension
+T9	AdverseReaction 1048 1066	reflex tachycardia
+T10	Factor 1011 1014	may
+T11	AdverseReaction 1769 1795	negative inotropic effects
+T12	AdverseReaction 1800 1824	exacerbate heart failure
+T14	DrugClass 1716 1756	Dihydropyridine calcium channel blockers
+E1	AdverseReaction:T1 Hypothetical:E3
+E2	AdverseReaction:T2 Hypothetical:E3
+E3	Factor:T3
+E4	AdverseReaction:T4 Hypothetical2:E7
+E5	AdverseReaction:T5 Hypothetical2:E7
+E7	DrugClass:T7
+E8	AdverseReaction:T8 Hypothetical:E10
+E9	AdverseReaction:T9 Hypothetical:E10
+E10	Factor:T10
+E11	AdverseReaction:T11 Hypothetical2:E14
+E12	AdverseReaction:T12 Hypothetical2:E14
+E14	DrugClass:T14
+A1	CUI E1 C0020649
+A2	UMLS-Preferred-Name E1 Hypotension
+A3	MEDDRA-PT E1 Hypotension
+A4	MEDDRA-PT-ID E1 10021097
+A5	CUI E2 C1328539
+A6	UMLS-Preferred-Name E2 Reflex tachycardia
+A7	MEDDRA-PT E2 Tachycardia
+A8	MEDDRA-PT-ID E2 10043071
+A9	LLT E2 Reflex tachycardia
+A10	LLT-ID E2 10063096
+A11	CUI E4 C0877281
+A12	UMLS-Preferred-Name E4 Negative cardiac inotropic effect
+A13	MEDDRA-PT E4 Negative cardiac inotropic effect
+A14	MEDDRA-PT-ID E4 10049671
+A15	CUI E5 C0235875
+A16	UMLS-Preferred-Name E5 Cardiac failure aggravated
+A17	MEDDRA-PT E5 Cardiac failure
+A18	MEDDRA-PT-ID E5 10007554
+A19	LLT E5 Cardiac failure aggravated
+A20	LLT-ID E5 10007557
+A21	CUI E8 C0020649
+A22	UMLS-Preferred-Name E8 Hypotension
+A23	MEDDRA-PT E8 Hypotension
+A24	MEDDRA-PT-ID E8 10021097
+A25	CUI E9 C1328539
+A26	UMLS-Preferred-Name E9 Reflex tachycardia
+A27	MEDDRA-PT E9 Tachycardia
+A28	MEDDRA-PT-ID E9 10043071
+A29	LLT E9 Reflex tachycardia
+A30	LLT-ID E9 10063096
+A31	CUI E11 C0877281
+A32	UMLS-Preferred-Name E11 Negative cardiac inotropic effect
+A33	MEDDRA-PT E11 Negative cardiac inotropic effect
+A34	MEDDRA-PT-ID E11 10049671
+A35	CUI E12 C0235875
+A36	UMLS-Preferred-Name E12 Cardiac failure aggravated
+A37	MEDDRA-PT E12 Cardiac failure
+A38	MEDDRA-PT-ID E12 10007554
+A39	LLT E12 Cardiac failure aggravated
+A40	LLT-ID E12 10007557

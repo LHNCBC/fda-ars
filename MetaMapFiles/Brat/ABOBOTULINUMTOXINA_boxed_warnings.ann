@@ -1,0 +1,131 @@
+T1	AdverseReaction 208 214;288 301	spread toxin effects
+T2	AdverseReaction 321 329	asthenia
+T3	AdverseReaction 331 358	generalized muscle weakness
+T4	AdverseReaction 360 368	diplopia
+T5	AdverseReaction 370 384	blurred vision
+T6	AdverseReaction 386 392	ptosis
+T7	AdverseReaction 394 403	dysphagia
+T8	AdverseReaction 405 414	dysphonia
+T9	AdverseReaction 416 426	dysarthria
+T10	AdverseReaction 428 448	urinary incontinence
+T11	AdverseReaction 453 475	breathing difficulties
+T12	AdverseReaction 543 553;568 580	Swallowing difficulties
+T13	AdverseReaction 558 580	breathing difficulties
+T14	AdverseReaction 636 641	death
+T15	AdverseReaction 1170 1200	DISTANT SPREAD OF TOXIN EFFECT
+T16	AdverseReaction 1339 1345;1419 1432	spread toxin effects
+T17	AdverseReaction 1500 1510;1525 1537	Swallowing difficulties
+T18	AdverseReaction 1515 1537	breathing difficulties
+T19	AdverseReaction 1593 1598	death
+T20	AdverseReaction 73 103	DISTANT SPREAD OF TOXIN EFFECT
+T21	AdverseReaction 30 60	DISTANT SPREAD OF TOXIN EFFECT
+T22	Factor 1335 1338	may
+T23	Factor 204 207	may
+T24	Factor 309 312	may
+E1	AdverseReaction:T1 Hypothetical:E23
+E2	AdverseReaction:T2 Hypothetical:E24
+E3	AdverseReaction:T3 Hypothetical:E24
+E4	AdverseReaction:T4 Hypothetical:E24
+E5	AdverseReaction:T5 Hypothetical:E24
+E6	AdverseReaction:T6 Hypothetical:E24
+E7	AdverseReaction:T7 Hypothetical:E24
+E8	AdverseReaction:T8 Hypothetical:E24
+E9	AdverseReaction:T9 Hypothetical:E24
+E10	AdverseReaction:T10 Hypothetical:E24
+E11	AdverseReaction:T11 Hypothetical:E24
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16 Hypothetical:E22
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	Factor:T22
+E23	Factor:T23
+E24	Factor:T24
+A1	CUI E2 C0004093
+A2	UMLS-Preferred-Name E2 Asthenia
+A3	MEDDRA-PT E2 Asthenia
+A4	MEDDRA-PT-ID E2 10003549
+A5	CUI E3 C0746674
+A6	UMLS-Preferred-Name E3 Generalized muscle weakness
+A7	MEDDRA-PT E3 Muscular weakness
+A8	MEDDRA-PT-ID E3 10028372
+A9	LLT E3 Generalized muscle weakness
+A10	LLT-ID E3 10062572
+A11	CUI E4 C0012569
+A12	UMLS-Preferred-Name E4 Diplopia
+A13	MEDDRA-PT E4 Diplopia
+A14	MEDDRA-PT-ID E4 10013036
+A15	CUI E5 C0344232
+A16	UMLS-Preferred-Name E5 Blurred vision
+A17	MEDDRA-PT E5 Vision blurred
+A18	MEDDRA-PT-ID E5 10047513
+A19	LLT E5 Blurred vision
+A20	LLT-ID E5 10005886
+A21	CUI E6 C0033377
+A22	UMLS-Preferred-Name E6 Ptosis
+A23	MEDDRA-PT E6 Eyelid ptosis
+A24	MEDDRA-PT-ID E6 10015995
+A25	LLT E6 Ptosis
+A26	LLT-ID E6 10037272
+A27	CUI E7 C0011168
+A28	UMLS-Preferred-Name E7 Deglutition Disorders
+A29	MEDDRA-PT E7 Dysphagia
+A30	MEDDRA-PT-ID E7 10013950
+A31	CUI E8 C1527344
+A32	UMLS-Preferred-Name E8 Dysphonia
+A33	MEDDRA-PT E8 Dysphonia
+A34	MEDDRA-PT-ID E8 10013952
+A35	CUI E9 C0013362
+A36	UMLS-Preferred-Name E9 Dysarthria
+A37	MEDDRA-PT E9 Dysarthria
+A38	MEDDRA-PT-ID E9 10013887
+A39	CUI E10 C0042024
+A40	UMLS-Preferred-Name E10 Urinary Incontinence
+A41	MEDDRA-PT E10 Urinary incontinence
+A42	MEDDRA-PT-ID E10 10046543
+A43	CUI E11 C0013404
+A44	UMLS-Preferred-Name E11 Dyspnea
+A45	MEDDRA-PT E11 Dyspnoea
+A46	MEDDRA-PT-ID E11 10013968
+A47	LLT E11 Difficulty breathing
+A48	LLT-ID E11 10012791
+A49	CUI E12 C0011168
+A50	UMLS-Preferred-Name E12 Deglutition Disorders
+A51	MEDDRA-PT E12 Dysphagia
+A52	MEDDRA-PT-ID E12 10013950
+A53	LLT E12 Swallowing difficult
+A54	LLT-ID E12 10042645
+A55	CUI E13 C0013404
+A56	UMLS-Preferred-Name E13 Dyspnea
+A57	MEDDRA-PT E13 Dyspnoea
+A58	MEDDRA-PT-ID E13 10013968
+A59	LLT E13 Difficulty breathing
+A60	LLT-ID E13 10012791
+A61	CUI E14 C1306577
+A62	UMLS-Preferred-Name E14 Death (finding)
+A63	MEDDRA-PT E14 Death
+A64	MEDDRA-PT-ID E14 10011906
+A65	flag E15 unmapped
+A66	CUI E17 C0011168
+A67	UMLS-Preferred-Name E17 Deglutition Disorders
+A68	MEDDRA-PT E17 Dysphagia
+A69	MEDDRA-PT-ID E17 10013950
+A70	LLT E17 Swallowing difficult
+A71	LLT-ID E17 10042645
+A72	CUI E18 C0013404
+A73	UMLS-Preferred-Name E18 Dyspnea
+A74	MEDDRA-PT E18 Dyspnoea
+A75	MEDDRA-PT-ID E18 10013968
+A76	LLT E18 Difficulty breathing
+A77	LLT-ID E18 10012791
+A78	CUI E19 C1306577
+A79	UMLS-Preferred-Name E19 Death (finding)
+A80	MEDDRA-PT E19 Death
+A81	MEDDRA-PT-ID E19 10011906
+A82	flag E20 unmapped
+A83	flag E21 unmapped

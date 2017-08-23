@@ -1,0 +1,97 @@
+T1	AdverseReaction 50 65	Endophthalmitis
+T2	AdverseReaction 70 89	retinal detachments
+T3	Factor 90 93	may
+T7	AdverseReaction 302 335	Increases in intraocular pressure
+T8	AdverseReaction 439 469	arterial thromboembolic events
+T12	AdverseReaction 658 673	endophthalmitis
+T13	AdverseReaction 678 697	retinal detachments
+T18	AdverseReaction 1094 1133	Acute increases in intraocular pressure
+T19	AdverseReaction 1249 1292	Sustained increases in intraocular pressure
+T21	AdverseReaction 1628 1658	arterial thromboembolic events
+T22	AdverseReaction 1660 1664	ATEs
+T23	Factor 1620 1624	risk
+T29	AdverseReaction 1880 1901	thromboembolic events
+T30	AdverseReaction 2414 2435	thromboembolic events
+T31	Negation 2402 2404	no
+T4	DrugClass 500 515	VEGF inhibitors
+T5	DrugClass 1357 1391;1399 1409	vascular endothelial growth factor inhibitors
+E1	AdverseReaction:T1 Hypothetical:E3
+E2	AdverseReaction:T2 Hypothetical:E3
+E3	Factor:T3
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8 Hypothetical2:E4
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19 Hypothetical:E5
+E21	AdverseReaction:T21 Hypothetical:E23
+E22	AdverseReaction:T22 Hypothetical:E23
+E23	Factor:T23
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30 Negated:E31
+E31	Negation:T31
+E4	DrugClass:T4
+E5	DrugClass:T5
+A1	CUI E1 C0014236
+A2	UMLS-Preferred-Name E1 Endophthalmitis
+A3	MEDDRA-PT E1 Endophthalmitis
+A4	MEDDRA-PT-ID E1 10014801
+A5	CUI E2 C0035305
+A6	UMLS-Preferred-Name E2 Retinal Detachment
+A7	MEDDRA-PT E2 Retinal detachment
+A8	MEDDRA-PT-ID E2 10038848
+A9	CUI E7 C0234708
+A10	UMLS-Preferred-Name E7 Raised intraocular pressure
+A11	MEDDRA-PT E7 Intraocular pressure increased
+A12	MEDDRA-PT-ID E7 10022806
+A13	LLT E7 Increased intraocular pressure
+A14	LLT-ID E7 10021667
+A15	CUI E8 C3544094
+A16	UMLS-Preferred-Name E8 Arterial thromboembolism
+A17	MEDDRA-PT E8 Embolism arterial
+A18	MEDDRA-PT-ID E8 10014513
+A19	LLT E8 Arterial thromboembolism
+A20	LLT-ID E8 10073529
+A21	CUI E12 C0014236
+A22	UMLS-Preferred-Name E12 Endophthalmitis
+A23	MEDDRA-PT E12 Endophthalmitis
+A24	MEDDRA-PT-ID E12 10014801
+A25	CUI E13 C0035305
+A26	UMLS-Preferred-Name E13 Retinal Detachment
+A27	MEDDRA-PT E13 Retinal detachment
+A28	MEDDRA-PT-ID E13 10038848
+A29	CUI E18 C3805171
+A30	UMLS-Preferred-Name E18 Acute intraocular pressure increase
+A31	MEDDRA-PT E18 Intraocular pressure increased
+A32	MEDDRA-PT-ID E18 10022806
+A33	LLT E18 Acute intraocular pressure increase
+A34	LLT-ID E18 10074448
+A35	flag E19 underspecified
+A36	CUI E19 C0234708
+A37	UMLS-Preferred-Name E19 Raised intraocular pressure
+A38	MEDDRA-PT E19 Intraocular pressure increased
+A39	MEDDRA-PT-ID E19 10022806
+A40	CUI E21 C3544094
+A41	UMLS-Preferred-Name E21 Arterial thromboembolism
+A42	MEDDRA-PT E21 Embolism arterial
+A43	MEDDRA-PT-ID E21 10014513
+A44	LLT E21 Arterial thromboembolism
+A45	LLT-ID E21 10073529
+A46	CUI E22 C3544094
+A47	UMLS-Preferred-Name E22 Arterial thromboembolism
+A48	MEDDRA-PT E22 Embolism arterial
+A49	MEDDRA-PT-ID E22 10014513
+A50	LLT E22 Arterial thromboembolism
+A51	LLT-ID E22 10073529
+A52	CUI E29 C0040038
+A53	UMLS-Preferred-Name E29 Thromboembolism
+A54	MEDDRA-PT E29 Embolism
+A55	MEDDRA-PT-ID E29 10061169
+A56	LLT E29 Thromboembolic event
+A57	LLT-ID E29 10043565
+A58	CUI E30 C0040038
+A59	UMLS-Preferred-Name E30 Thromboembolism
+A60	MEDDRA-PT E30 Embolism
+A61	MEDDRA-PT-ID E30 10061169
+A62	LLT E30 Thromboembolic event
+A63	LLT-ID E30 10043565

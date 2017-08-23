@@ -1,0 +1,51 @@
+00000000|AA|ARDS|Acute Respiratory Distress Syndrome|1|4|7|35|157:4
+00000000|AA|CLS|Capillary leak syndrome|1|3|5|23|2286:3
+00000000|AA|G-CSF|granulocyte colony-stimulating factor|3|5|7|37|2840:5
+00000000|MMI|81.45|Respiratory Distress Syndrome, Adult|C0035222|[dsyn]|["Acute Respiratory Distress Syndrome"-tx-7-"ARDS"-noun-0,"Acute Respiratory Distress Syndrome"-tx-6-"ARDS"-noun-0,"Acute Respiratory Distress Syndrome"-tx-5-"ARDS"-noun-0,"Acute Respiratory Distress Syndrome"-tx-5-"Acute Respiratory Distress Syndrome"-noun-0,"Acute Respiratory Distress Syndrome"-tx-5-"Acute respiratory distress syndrome"-noun-0,"Acute Respiratory Distress Syndrome"-tx-1-"Acute Respiratory Distress Syndrome"-noun-0]|TX|1270/4;1228/4;[987/4],[1035/4];950/35;998/35;120/35|C08.381.840;C08.618.840
+00000000|MMI|58.96|Anemia, Sickle Cell|C0002895|[dsyn]|["Cell Disease, Sickle"-tx-14-"sickle cell disease"-noun-0,"Cell Disease, Sickle"-tx-13-"Sickle Cell Disease"-noun-0,"Cell Disease, Sickle"-tx-13-"sickle cell disease"-noun-0]|TX|2136/19;1827/19;1925/19|C15.378.071.141.150.150;C15.378.420.155;C16.320.070.150;C16.320.365.155
+00000000|MMI|40.34|Discontinued|C1444662|[fndg]|["Discontinue"-tx-15-"Discontinue"-verb-0,"Discontinue"-tx-11-"discontinue"-verb-0,"Discontinue"-tx-7-"Discontinue"-verb-0,"Discontinue"-tx-4-"discontinue"-verb-0,"Discontinue"-tx-3-"Discontinue"-verb-0,"Discontinue"-tx-2-"Discontinue"-verb-0,"Discontinue"-tx-1-"Discontinue"-verb-0]|TX|2157/11;1617/11;1234/11;864/11;469/11;200/11;71/11|
+00000000|MMI|40.19|Splenic Rupture|C0038000|[inpo]|["SPLENIC RUPTURE"-tx-4-"splenic rupture"-noun-1,"SPLENIC RUPTURE"-tx-3-"Splenic Rupture"-noun-0,"SPLENIC RUPTURE"-tx-1-"Splenic Rupture"-noun-0]|TX|922/15;639/15;54/15|C15.604.744.742;C26.017.680;C26.761.555
+00000000|MMI|30.16|Capillary Leak Syndrome|C0343084|[dsyn]|["CAPILLARY LEAK SYNDROME"-tx-18-"capillary leak syndrome"-noun-0,"CAPILLARY LEAK SYNDROME"-tx-16-"Capillary Leak Syndrome"-noun-0,"CAPILLARY LEAK SYNDROME"-tx-3-"Capillary Leak Syndrome"-noun-0]|TX|2574/23;2232/23;518/23|C14.907.218
+00000000|MMI|28.37|Hypersensitivity|C0020517|[patf]|["Allergic reactions"-tx-11-"allergic reactions"-noun-0,"Allergic reactions"-tx-8-"Allergic Reactions"-noun-0,"Allergic reactions"-tx-2-"Allergic reactions"-noun-0,"HYPERSENSITIVITY"-tx-2-"hypersensitivity"-noun-0]|TX|1661/18;1287/18;249/18;334/16|C20.543
+00000000|MMI|22.53|Shoulder Pain|C0037011|[sosy]|["SHOULDER PAIN"-tx-4-"shoulder pain"-noun-0]|TX|826/13|C05.550.091.700;C10.597.617.133.700;C23.888.592.612.094.700;F02.830.816.444.350.500;G11.561.600.810.444.350.500
+00000000|MMI|20.78|Allergic Reaction|C1527304|[patf]|["Reactions, Allergic"-tx-11-"allergic reactions"-noun-0,"Reactions, Allergic"-tx-8-"Allergic Reactions"-noun-0,"Reactions, Allergic"-tx-2-"Allergic reactions"-noun-0]|TX|1661/18;1287/18;249/18|C20.543
+00000000|MMI|17.80|Angioedema|C0002994|[patf]|["ANGIONEUROTIC OEDEMA"-tx-2-"angioneurotic edema"-noun-0]|TX|269/19|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|17.80|Hypoalbuminemia|C0239981|[dsyn]|["Hypoalbuminaemia"-tx-16-"hypoalbuminemia"-noun-0]|TX|2405/15|C15.378.147.607.500
+00000000|MMI|14.64|Fever|C0015967|[fndg]|["FEVER"-tx-6-"fever"-noun-0]|TX|1149/5|C23.888.119.344
+00000000|MMI|14.64|MYELODYSPLASTIC SYNDROME|C3463824|[neop]|["Myelodysplasia"-tx-20-"myelodysplasia"-noun-0]|TX|3025/14|C15.378.190.625
+00000000|MMI|14.64|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-2-"urticaria"-noun-0]|TX|376/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|14.64|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-8-"anaphylaxis"-noun-0]|TX|1348/11|C20.543.480.099
+00000000|MMI|13.07|Splenomegaly|C0038002|[fndg]|["Enlarged Spleen"-tx-4-"enlarged spleen"-noun-1]|TX|903/15|C23.300.775.750
+00000000|MMI|12.96|Dermatitis, Atopic|C0011615|[dsyn]|["DERMATITIS ALLERGIC"-tx-2-"dermatitis allergic"-noun-0]|TX|290/19|C16.320.850.210;C17.800.174.193;C17.800.815.193;C17.800.827.210;C20.543.480.343
+00000000|MMI|11.95|Hemoglobin SS disease with crisis|C0238425|[dsyn]|["SICKLE CELL CRISIS"-tx-15-"sickle cell crisis"-noun-0,"SICKLE CELL CRISIS"-tx-13-"sickle cell crises"-noun-0,"SICKLE CELL CRISIS"-tx-2-"Sickle cell crisis"-noun-0]|TX|2201/18;1879/18;404/18|
+00000000|MMI|11.95|Vaso-Occlusive Crisis|C0750151|[dsyn]|["Sickle Cell Crisis"-tx-15-"sickle cell crisis"-noun-0,"Sickle Cell Crisis"-tx-13-"sickle cell crises"-noun-0,"Sickle Cell Crisis"-tx-2-"Sickle cell crisis"-noun-0]|TX|2201/18;1879/18;404/18|
+00000000|MMI|11.49|Edema|C0013604|[fndg]|["OEDEMA"-tx-16-"edema"-noun-0]|TX|2422/5|C23.888.277
+00000000|MMI|11.49|Exanthema|C0015230|[sosy]|["RASH"-tx-2-"rash"-noun-0]|TX|352/4|C17.800.257
+00000000|MMI|11.49|Prurigo|C0033771|[dsyn]|["PRURITIC RASH"-tx-2-"pruritic rash"-noun-0]|TX|358/13|C17.800.674
+00000000|MMI|10.60|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-13-"fatal"-adj-0,"FATAL"-tx-3-"fatal"-adj-0,"FATAL"-tx-2-"fatal"-adj-0]|TX|1873/5;687/5;445/5|
+00000000|MMI|9.99|Drug Allergy|C0013182|[dsyn]|["Drug Hypersensitivity"-tx-2-"drug hypersensitivity"-noun-0]|TX|311/21|C20.543.206;C25.100.468
+00000000|MMI|9.90|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-16-"hypotension"-noun-0]|TX|2392/11|C14.907.514
+00000000|MMI|9.88|Disease|C0012634|[dsyn]|["Diseases"-tx-20-"diseases"-noun-0]|TX|3041/8|C23.550.288
+00000000|MMI|7.47|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-18-"symptoms"-noun-0,"SYMPTOMS"-tx-3-"symptoms"-noun-0]|TX|2562/8;554/8|
+00000000|MMI|5.18|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-8-"anaphylaxis"-noun-0]|TX|1348/11|
+00000000|MMI|5.18|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-2-"hypersensitivity"-noun-0]|TX|334/16|
+00000000|MMI|5.18|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-6-"fever"-noun-0]|TX|1149/5|
+00000000|MMI|5.18|Haemoconcentration|C0854379|[fndg]|["Hemoconcentration"-tx-16-"hemoconcentration"-noun-0]|TX|2432/17|
+00000000|MMI|5.18|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-17-"life-threatening"-adj-0]|TX|2499/16|
+00000000|MMI|5.18|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-17-"life-threatening"-adj-0]|TX|2499/16|
+00000000|MMI|5.18|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-17-"life-threatening"-adj-0]|TX|2499/16|
+00000000|MMI|5.18|Myelodysplasia|C0026985|[cgab]|["MYELODYSPLASIA"-tx-20-"myelodysplasia"-noun-0]|TX|3025/14|
+00000000|MMI|5.18|Packed cell volume increased|C0549409|[fndg]|["Hemoconcentration"-tx-16-"hemoconcentration"-noun-0]|TX|2432/17|
+00000000|MMI|5.18|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-2-"urticaria"-noun-0]|TX|376/9|
+00000000|MMI|4.12|Infiltrate of lung|C0235896|[fndg]|["Lung Infiltrate"-tx-6-"lung infiltrates"-noun-0]|TX|1159/16|
+00000000|MMI|4.12|Myeloid neoplasm|C2939461|[neop]|["Myeloid Malignancy"-tx-20-"myeloid malignancies"-noun-0]|TX|3000/20|
+00000000|MMI|3.63|Crisis|C0231224|[fndg]|["CRISIS"-tx-2-"crisis"-noun-0]|TX|451/6|
+00000000|MMI|3.63|history of allergic reaction|C2106654|[sosy]|["history of allergic reaction"-tx-12-"history of allergic reactions"-noun-1]|TX|1725/10,1744/18|
+00000000|MMI|3.61|Respiratory distress|C0476273|[sosy]|["Distress, Respiratory"-tx-6-"respiratory distress"-noun-0]|TX|1179/20|
+00000000|MMI|3.61|Shoulder joint pain|C0423670|[sosy]|["shoulder pain"-tx-4-"shoulder pain"-noun-0]|TX|826/13|
+00000000|MMI|3.59|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-16-"hypotension"-noun-0]|TX|2392/11|
+00000000|MMI|3.57|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-9-"exposure"-noun-0]|TX|1469/8|
+00000000|MMI|3.57|exposure history|C2220266|[fndg]|["exposure"-tx-9-"exposure"-noun-0]|TX|1469/8|
+00000000|MMI|3.44|5-6|C3843715|[fndg]|["5-6"-tx-19-"5.6"-real_number-0]|TX|2722/3|
+00000000|MMI|3.44|6/5|C0442749|[fndg]|["5 6"-tx-19-"5.6"-real_number-0]|TX|2722/3|
+00000000|MMI|3.44|tumor growth|C0598934|[neop]|["tumor growth"-tx-19-"Tumor Growth"-noun-0]|TX|2740/12|

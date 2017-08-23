@@ -1,0 +1,517 @@
+T1	AdverseReaction 379 401	anaphylactic reactions
+T2	AdverseReaction 348 366	Infusion Reactions
+T3	AdverseReaction 235 245	Infections
+T4	AdverseReaction 54 70	Myelosuppression
+T5	AdverseReaction 332 343	Anaphylaxis
+T7	AdverseReaction 534 554	Tumor Lysis Syndrome
+T8	AdverseReaction 557 576	Acute renal failure
+T9	AdverseReaction 581 586	death
+T10	AdverseReaction 645 659	Skin Reactions
+T11	AdverseReaction 710 713	SJS
+T12	AdverseReaction 718 721	TEN
+T13	AdverseReaction 728 733	fatal
+T14	AdverseReaction 924 942	malignant diseases
+T15	AdverseReaction 906 919;934 942	Pre-malignant diseases
+T16	AdverseReaction 980 993	Extravasation
+T17	AdverseReaction 1121 1131	Fetal harm
+T18	Factor 1132 1135	can
+T19	AdverseReaction 1335 1351	myelosuppression
+T20	Severity 1328 1334	severe
+T21	Severity 1353 1360	Grade 3
+T23	Severity 1353 1358;1361 1362	Grade 4
+T22	AdverseReaction 1441 1445	died
+T24	AdverseReaction 1451 1493	myelosuppression-related adverse reactions
+T25	AdverseReaction 1509 1527	neutropenic sepsis
+T26	AdverseReaction 1529 1556	diffuse alveolar hemorrhage
+T27	AdverseReaction 1570 1586	thrombocytopenia
+T28	Severity 1562 1567	Grade
+T29	AdverseReaction 1592 1601	pneumonia
+T30	AdverseReaction 1610 1633	opportunistic infection
+T31	AdverseReaction 1624 1633;1635 1638	infection CMV
+T32	AdverseReaction 2330 2339	Infection
+T33	AdverseReaction 2351 2360	pneumonia
+T34	AdverseReaction 2362 2368	sepsis
+T35	AdverseReaction 2370 2382	septic shock
+T36	AdverseReaction 2388 2393	death
+T37	AdverseReaction 2503 2519	myelosuppression
+T38	AdverseReaction 2775 2793	Infusion reactions
+T39	AdverseReaction 2865 2870	fever
+T40	AdverseReaction 2872 2878	chills
+T41	AdverseReaction 2880 2888	pruritus
+T42	AdverseReaction 2893 2897	rash
+T43	AdverseReaction 2924 2936;2955 2964	anaphylactic reactions
+T44	AdverseReaction 2941 2964	anaphylactoid reactions
+T45	Severity 2917 2923	severe
+T46	AdverseReaction 3734 3754	Tumor lysis syndrome
+T47	AdverseReaction 3968 3987	acute renal failure
+T48	AdverseReaction 3992 3997	death
+T49	AdverseReaction 4254 4267	skin toxicity
+T50	Severity 4247 4253	severe
+T51	AdverseReaction 4406 4420	Skin reactions
+T52	AdverseReaction 4526 4530	rash
+T53	AdverseReaction 4532 4552	toxic skin reactions
+T54	AdverseReaction 4557 4574	bullous exanthema
+T55	AdverseReaction 4749 4775	toxic epidermal necrolysis
+T56	AdverseReaction 4777 4780	TEN
+T58	AdverseReaction 4869 4893	Stevens-Johnson syndrome
+T59	AdverseReaction 4895 4898	SJS
+T60	AdverseReaction 4904 4907	TEN
+T61	AdverseReaction 4914 4919	fatal
+T62	AdverseReaction 5115 5129	skin reactions
+T63	AdverseReaction 5391 5404;5419 5427	pre-malignant diseases
+T64	AdverseReaction 5409 5427	malignant diseases
+T65	AdverseReaction 5506 5530	myelodysplastic syndrome
+T66	AdverseReaction 5532 5560	myeloproliferative disorders
+T67	AdverseReaction 5562 5584	acute myeloid leukemia
+T68	AdverseReaction 5589 5608	bronchial carcinoma
+T69	AdverseReaction 5719 5733	extravasations
+T70	AdverseReaction 5806 5814	erythema
+T71	AdverseReaction 5823 5831	swelling
+T72	AdverseReaction 5837 5841	pain
+T73	AdverseReaction 6100 6110	fetal harm
+T74	Factor 6090 6093	can
+T75	Animal 6199 6203	mice
+T76	Animal 6208 6212	rats
+T77	AdverseReaction 6257 6280	increase in resorptions
+T78	AdverseReaction 6282 6290;6304 6317	skeletal malformations
+T79	AdverseReaction 6295 6317	visceral malformations
+T80	AdverseReaction 6323 6351	decreased fetal body weights
+T81	AdverseReaction 182 198	myelosuppression
+T82	AdverseReaction 211 216	death
+T83	Factor 199 202	may
+T84	Severity 1353 1362	Grade 3-4
+T85	AdverseReaction 2577 2587	infections
+T86	Factor 2562 2573	susceptible
+T87	Factor 3956 3959	may
+T88	Factor 4239 4243	risk
+T6	AdverseReaction 892 904	Malignancies
+T57	AdverseReaction 1097 1118	Embryo-fetal toxicity
+T89	Severity 5816 5822	marked
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17 Hypothetical:E18
+E18	Factor:T18
+E19	AdverseReaction:T19 Effect:E20 Effect2:E23 Effect3:E21 Effect4:E84
+E20	Severity:T20
+E21	Severity:T21
+E23	Severity:T23
+E22	AdverseReaction:T22
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27 Effect:E28
+E28	Severity:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43 Effect:E45
+E44	AdverseReaction:T44 Effect:E45
+E45	Severity:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47 Hypothetical:E87
+E48	AdverseReaction:T48 Hypothetical:E87
+E49	AdverseReaction:T49 Effect:E50 Hypothetical:E88
+E50	Severity:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71 Effect:E89
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73 Hypothetical:E74
+E74	Factor:T74
+E75	Animal:T75
+E76	Animal:T76
+E77	AdverseReaction:T77 Hypothetical:E75 Hypothetical2:E76
+E78	AdverseReaction:T78 Hypothetical:E75 Hypothetical2:E76
+E79	AdverseReaction:T79 Hypothetical:E75 Hypothetical2:E76
+E80	AdverseReaction:T80 Hypothetical:E75 Hypothetical2:E76
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82 Hypothetical:E83
+E83	Factor:T83
+E84	Severity:T84
+E85	AdverseReaction:T85 Hypothetical:E86
+E86	Factor:T86
+E87	Factor:T87
+E88	Factor:T88
+E6	AdverseReaction:T6
+E57	AdverseReaction:T57
+E89	Severity:T89
+A1	CUI E1 C0002792
+A2	UMLS-Preferred-Name E1 anaphylaxis
+A3	MEDDRA-PT E1 Anaphylactic reaction
+A4	MEDDRA-PT-ID E1 10002198
+A5	CUI E2 C0948715
+A6	UMLS-Preferred-Name E2 Infusion related reaction
+A7	MEDDRA-PT E2 Infusion related reaction
+A8	MEDDRA-PT-ID E2 10051792
+A9	CUI E3 C3714514
+A10	UMLS-Preferred-Name E3 Infection
+A11	MEDDRA-PT E3 Infection
+A12	MEDDRA-PT-ID E3 10021789
+A13	CUI E4 C0854467
+A14	UMLS-Preferred-Name E4 Myelosuppression
+A15	MEDDRA-PT E4 Bone marrow failure
+A16	MEDDRA-PT-ID E4 10065553
+A17	LLT E4 Myelosuppression
+A18	LLT-ID E4 10028584
+A19	CUI E5 C0002792
+A20	UMLS-Preferred-Name E5 anaphylaxis
+A21	MEDDRA-PT E5 Anaphylactic reaction
+A22	MEDDRA-PT-ID E5 10002198
+A23	LLT E5 Anaphylaxis
+A24	LLT-ID E5 10002218
+A25	CUI E7 C0041364
+A26	UMLS-Preferred-Name E7 Tumor Lysis Syndrome
+A27	MEDDRA-PT E7 Tumour lysis syndrome
+A28	MEDDRA-PT-ID E7 10045170
+A29	LLT E7 Tumor lysis syndrome
+A30	LLT-ID E7 10045152
+A31	CUI E8 C0022660
+A32	UMLS-Preferred-Name E8 Kidney Failure, Acute
+A33	MEDDRA-PT E8 Acute kidney injury
+A34	MEDDRA-PT-ID E8 10069339
+A35	LLT E8 Acute renal failure
+A36	LLT-ID E8 10001041
+A37	CUI E9 C1306577
+A38	UMLS-Preferred-Name E9 Death (finding)
+A39	MEDDRA-PT E9 Death
+A40	MEDDRA-PT-ID E9 10011906
+A41	CUI E10 C0221743
+A42	UMLS-Preferred-Name E10 Skin reaction
+A43	MEDDRA-PT E10 Skin reaction
+A44	MEDDRA-PT-ID E10 10040914
+A45	CUI E11 C0038325
+A46	UMLS-Preferred-Name E11 Stevens-Johnson Syndrome
+A47	MEDDRA-PT E11 Stevens-Johnson syndrome
+A48	MEDDRA-PT-ID E11 10042033
+A49	CUI E12 C0014518
+A50	UMLS-Preferred-Name E12 Toxic Epidermal Necrolysis
+A51	MEDDRA-PT E12 Toxic epidermal necrolysis
+A52	MEDDRA-PT-ID E12 10044223
+A53	LLT E12 TEN
+A54	LLT-ID E12 10043221
+A55	CUI E13 C1306577
+A56	UMLS-Preferred-Name E13 Death (finding)
+A57	MEDDRA-PT E13 Death
+A58	MEDDRA-PT-ID E13 10011906
+A59	CUI E14 C0442867
+A60	UMLS-Preferred-Name E14 malignant disease
+A61	MEDDRA-PT E14 Neoplasm malignant
+A62	MEDDRA-PT-ID E14 10028997
+A63	CUI E15 C0032927
+A64	UMLS-Preferred-Name E15 Precancerous Conditions
+A65	MEDDRA-PT E15 Precancerous cells present
+A66	MEDDRA-PT-ID E15 10049673
+A67	CUI E16 C0015376
+A68	UMLS-Preferred-Name E16 Extravasation
+A69	MEDDRA-PT E16 Extravasation
+A70	MEDDRA-PT-ID E16 10015866
+A71	CUI E17 C0854268
+A72	UMLS-Preferred-Name E17 Foetal damage
+A73	MEDDRA-PT E17 Foetal damage
+A74	MEDDRA-PT-ID E17 10016852
+A75	LLT E17 Fetal damage
+A76	LLT-ID E17 10054743
+A77	CUI E19 C0854467
+A78	UMLS-Preferred-Name E19 Myelosuppression
+A79	MEDDRA-PT E19 Bone marrow failure
+A80	MEDDRA-PT-ID E19 10065553
+A81	LLT E19 Myelosuppression
+A82	LLT-ID E19 10028584
+A83	CUI E22 C1306577
+A84	UMLS-Preferred-Name E22 Death (finding)
+A85	MEDDRA-PT E22 Death
+A86	MEDDRA-PT-ID E22 10011906
+A87	CUI E24 C0854467
+A88	UMLS-Preferred-Name E24 Myelosuppression
+A89	MEDDRA-PT E24 Bone marrow failure
+A90	MEDDRA-PT-ID E24 10065553
+A91	LLT E24 Myelosuppression
+A92	LLT-ID E24 10028584
+A93	CUI E25 C0877153
+A94	UMLS-Preferred-Name E25 Neutropenic sepsis
+A95	MEDDRA-PT E25 Neutropenic sepsis
+A96	MEDDRA-PT-ID E25 10049151
+A97	CUI E26 C0852879
+A98	UMLS-Preferred-Name E26 Pulmonary Alveolar Hemorrhage
+A99	MEDDRA-PT E26 Pulmonary alveolar haemorrhage
+A100	MEDDRA-PT-ID E26 10037313
+A101	LLT E26 Pulmonary alveolar hemorrhage
+A102	LLT-ID E26 10037314
+A103	CUI E27 C0040034
+A104	UMLS-Preferred-Name E27 Thrombocytopenia
+A105	MEDDRA-PT E27 Thrombocytopenia
+A106	MEDDRA-PT-ID E27 10043554
+A107	CUI E29 C0032285
+A108	UMLS-Preferred-Name E29 Pneumonia
+A109	MEDDRA-PT E29 Pneumonia
+A110	MEDDRA-PT-ID E29 10035664
+A111	CUI E30 C0029118
+A112	UMLS-Preferred-Name E30 Opportunistic Infections
+A113	MEDDRA-PT E30 Opportunistic infection
+A114	MEDDRA-PT-ID E30 10030901
+A115	CUI E31 C0010823
+A116	UMLS-Preferred-Name E31 Cytomegalovirus Infections
+A117	MEDDRA-PT E31 Cytomegalovirus infection
+A118	MEDDRA-PT-ID E31 10011831
+A119	LLT E31 CMV infection
+A120	LLT-ID E31 10009703
+A121	CUI E32 C3714514
+A122	UMLS-Preferred-Name E32 Infection
+A123	MEDDRA-PT E32 Infection
+A124	MEDDRA-PT-ID E32 10021789
+A125	CUI E33 C0032285
+A126	UMLS-Preferred-Name E33 Pneumonia
+A127	MEDDRA-PT E33 Pneumonia
+A128	MEDDRA-PT-ID E33 10035664
+A129	CUI E34 C0243026
+A130	UMLS-Preferred-Name E34 Sepsis
+A131	MEDDRA-PT E34 Sepsis
+A132	MEDDRA-PT-ID E34 10040047
+A133	CUI E35 C0036983
+A134	UMLS-Preferred-Name E35 Septic Shock
+A135	MEDDRA-PT E35 Septic shock
+A136	MEDDRA-PT-ID E35 10040070
+A137	CUI E36 C1306577
+A138	UMLS-Preferred-Name E36 Death (finding)
+A139	MEDDRA-PT E36 Death
+A140	MEDDRA-PT-ID E36 10011906
+A141	CUI E37 C0854467
+A142	UMLS-Preferred-Name E37 Myelosuppression
+A143	MEDDRA-PT E37 Bone marrow failure
+A144	MEDDRA-PT-ID E37 10065553
+A145	LLT E37 Myelosuppression
+A146	LLT-ID E37 10028584
+A147	CUI E38 C0948715
+A148	UMLS-Preferred-Name E38 Infusion related reaction
+A149	MEDDRA-PT E38 Infusion related reaction
+A150	MEDDRA-PT-ID E38 10051792
+A151	CUI E39 C0015967
+A152	UMLS-Preferred-Name E39 Fever
+A153	MEDDRA-PT E39 Pyrexia
+A154	MEDDRA-PT-ID E39 10037660
+A155	LLT E39 Fever
+A156	LLT-ID E39 10016558
+A157	CUI E40 C0085593
+A158	UMLS-Preferred-Name E40 Chills
+A159	MEDDRA-PT E40 Chills
+A160	MEDDRA-PT-ID E40 10008531
+A161	CUI E41 C0033774
+A162	UMLS-Preferred-Name E41 Pruritus
+A163	MEDDRA-PT E41 Pruritus
+A164	MEDDRA-PT-ID E41 10037087
+A165	CUI E42 C0015230
+A166	UMLS-Preferred-Name E42 Exanthema
+A167	MEDDRA-PT E42 Rash
+A168	MEDDRA-PT-ID E42 10037844
+A169	CUI E43 C0002792
+A170	UMLS-Preferred-Name E43 anaphylaxis
+A171	MEDDRA-PT E43 Anaphylactic reaction
+A172	MEDDRA-PT-ID E43 10002198
+A173	CUI E44 C0340865
+A174	UMLS-Preferred-Name E44 Anaphylactoid reaction
+A175	MEDDRA-PT E44 Anaphylactoid reaction
+A176	MEDDRA-PT-ID E44 10002216
+A177	CUI E46 C0041364
+A178	UMLS-Preferred-Name E46 Tumor Lysis Syndrome
+A179	MEDDRA-PT E46 Tumour lysis syndrome
+A180	MEDDRA-PT-ID E46 10045170
+A181	LLT E46 Tumor lysis syndrome
+A182	LLT-ID E46 10045152
+A183	CUI E47 C0022660
+A184	UMLS-Preferred-Name E47 Kidney Failure, Acute
+A185	MEDDRA-PT E47 Acute kidney injury
+A186	MEDDRA-PT-ID E47 10069339
+A187	LLT E47 Acute renal failure
+A188	LLT-ID E47 10001041
+A189	CUI E48 C1306577
+A190	UMLS-Preferred-Name E48 Death (finding)
+A191	MEDDRA-PT E48 Death
+A192	MEDDRA-PT-ID E48 10011906
+A193	CUI E49 C1167791
+A194	UMLS-Preferred-Name E49 Skin toxicity
+A195	MEDDRA-PT E49 Skin toxicity
+A196	MEDDRA-PT-ID E49 10059516
+A197	CUI E51 C0221743
+A198	UMLS-Preferred-Name E51 Skin reaction
+A199	MEDDRA-PT E51 Skin reaction
+A200	MEDDRA-PT-ID E51 10040914
+A201	CUI E52 C0015230
+A202	UMLS-Preferred-Name E52 Exanthema
+A203	MEDDRA-PT E52 Rash
+A204	MEDDRA-PT-ID E52 10037844
+A205	CUI E53 C0521465
+A206	UMLS-Preferred-Name E53 Toxicoderma
+A207	MEDDRA-PT E53 Toxic skin eruption
+A208	MEDDRA-PT-ID E53 10057970
+A209	LLT E53 Toxicoderma
+A210	LLT-ID E53 10044259
+A211	CUI E54 C0235819
+A212	UMLS-Preferred-Name E54 Rash bullous
+A213	MEDDRA-PT E54 Dermatitis bullous
+A214	MEDDRA-PT-ID E54 10012441
+A215	LLT E54 Rash bullous
+A216	LLT-ID E54 10037852
+A217	CUI E55 C0014518
+A218	UMLS-Preferred-Name E55 Toxic Epidermal Necrolysis
+A219	MEDDRA-PT E55 Toxic epidermal necrolysis
+A220	MEDDRA-PT-ID E55 10044223
+A221	CUI E56 C0014518
+A222	UMLS-Preferred-Name E56 Toxic Epidermal Necrolysis
+A223	MEDDRA-PT E56 Toxic epidermal necrolysis
+A224	MEDDRA-PT-ID E56 10044223
+A225	LLT E56 TEN
+A226	LLT-ID E56 10043221
+A227	CUI E58 C0038325
+A228	UMLS-Preferred-Name E58 Stevens-Johnson Syndrome
+A229	MEDDRA-PT E58 Stevens-Johnson syndrome
+A230	MEDDRA-PT-ID E58 10042033
+A231	CUI E59 C0038325
+A232	UMLS-Preferred-Name E59 Stevens-Johnson Syndrome
+A233	MEDDRA-PT E59 Stevens-Johnson syndrome
+A234	MEDDRA-PT-ID E59 10042033
+A235	CUI E60 C0014518
+A236	UMLS-Preferred-Name E60 Toxic Epidermal Necrolysis
+A237	MEDDRA-PT E60 Toxic epidermal necrolysis
+A238	MEDDRA-PT-ID E60 10044223
+A239	LLT E60 TEN
+A240	LLT-ID E60 10043221
+A241	CUI E61 C1306577
+A242	UMLS-Preferred-Name E61 Death (finding)
+A243	MEDDRA-PT E61 Death
+A244	MEDDRA-PT-ID E61 10011906
+A245	CUI E62 C0221743
+A246	UMLS-Preferred-Name E62 Skin reaction
+A247	MEDDRA-PT E62 Skin reaction
+A248	MEDDRA-PT-ID E62 10040914
+A249	CUI E63 C0032927
+A250	UMLS-Preferred-Name E63 Precancerous Conditions
+A251	MEDDRA-PT E63 Precancerous cells present
+A252	MEDDRA-PT-ID E63 10049673
+A253	CUI E64 C0442867
+A254	UMLS-Preferred-Name E64 malignant disease
+A255	MEDDRA-PT E64 Neoplasm malignant
+A256	MEDDRA-PT-ID E64 10028997
+A257	CUI E65 C3463824
+A258	UMLS-Preferred-Name E65 MYELODYSPLASTIC SYNDROME
+A259	MEDDRA-PT E65 Myelodysplastic syndrome
+A260	MEDDRA-PT-ID E65 10028533
+A261	CUI E66 C0027022
+A262	UMLS-Preferred-Name E66 Myeloproliferative disease
+A263	MEDDRA-PT E66 Myeloproliferative disorder
+A264	MEDDRA-PT-ID E66 10028576
+A265	CUI E67 C0023467
+A266	UMLS-Preferred-Name E67 Leukemia, Myelocytic, Acute
+A267	MEDDRA-PT E67 Acute myeloid leukaemia
+A268	MEDDRA-PT-ID E67 10000880
+A269	LLT E67 Acute myeloid leukemia
+A270	LLT-ID E67 10000886
+A271	CUI E68 C0007121
+A272	UMLS-Preferred-Name E68 Bronchogenic Carcinoma
+A273	MEDDRA-PT E68 Bronchial carcinoma
+A274	MEDDRA-PT-ID E68 10006417
+A275	CUI E69 C0015376
+A276	UMLS-Preferred-Name E69 Extravasation
+A277	MEDDRA-PT E69 Extravasation
+A278	MEDDRA-PT-ID E69 10015866
+A279	CUI E70 C0041834
+A280	UMLS-Preferred-Name E70 Erythema
+A281	MEDDRA-PT E70 Erythema
+A282	MEDDRA-PT-ID E70 10015150
+A283	CUI E71 C0038999
+A284	UMLS-Preferred-Name E71 Swelling
+A285	MEDDRA-PT E71 Swelling
+A286	MEDDRA-PT-ID E71 10042674
+A287	CUI E72 C0030193
+A288	UMLS-Preferred-Name E72 Pain
+A289	MEDDRA-PT E72 Pain
+A290	MEDDRA-PT-ID E72 10033371
+A291	CUI E73 C0854268
+A292	UMLS-Preferred-Name E73 Foetal damage
+A293	MEDDRA-PT E73 Foetal damage
+A294	MEDDRA-PT-ID E73 10016852
+A295	LLT E73 Fetal damage
+A296	LLT-ID E73 10054743
+A297	flag E77 unmapped
+A298	CUI E77 C0015951
+A299	UMLS-Preferred-Name E77 Fetal Resorption
+A300	CUI E78 C0795693
+A301	UMLS-Preferred-Name E78 Skeletal malformation
+A302	MEDDRA-PT E78 Congenital musculoskeletal anomaly
+A303	MEDDRA-PT-ID E78 10062344
+A304	LLT E78 Skeletal malformation
+A305	LLT-ID E78 10040771
+A306	CUI E79 C3808677
+A307	UMLS-Preferred-Name E79 Visceral malformations
+A308	MEDDRA-PT E79 Gastrointestinal malformation
+A309	MEDDRA-PT-ID E79 10061596
+A310	CUI E80 C0015934
+A311	UMLS-Preferred-Name E80 Fetal Growth Retardation
+A312	MEDDRA-PT E80 Foetal growth restriction
+A313	MEDDRA-PT-ID E80 10070531
+A314	LLT E80 Fetal growth restriction
+A315	LLT-ID E80 10070532
+A316	CUI E81 C0854467
+A317	UMLS-Preferred-Name E81 Myelosuppression
+A318	MEDDRA-PT E81 Bone marrow failure
+A319	MEDDRA-PT-ID E81 10065553
+A320	LLT E81 Myelosuppression
+A321	LLT-ID E81 10028584
+A322	CUI E82 C1306577
+A323	UMLS-Preferred-Name E82 Death (finding)
+A324	MEDDRA-PT E82 Death
+A325	MEDDRA-PT-ID E82 10011906
+A326	CUI E85 C3714514
+A327	UMLS-Preferred-Name E85 Infection
+A328	MEDDRA-PT E85 Infection
+A329	MEDDRA-PT-ID E85 10021789
+A330	CUI E6 C0006826
+A331	UMLS-Preferred-Name E6 Malignant Neoplasms
+A332	MEDDRA-PT E6 Neoplasm malignant
+A333	MEDDRA-PT-ID E6 10028997
+A334	CUI E57 C0270009
+A335	UMLS-Preferred-Name E57 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A336	MEDDRA-PT E57 Maternal drugs affecting foetus
+A337	MEDDRA-PT-ID E57 10026923
+A338	LLT E57 Drug toxicity NEC affecting foetus
+A339	LLT-ID E57 10013750

@@ -1,0 +1,307 @@
+197,213|C0854467|Myelosuppression|fndg
+265,275|C3714514|Infections|patf
+327,338|C0002792|Anaphylaxis|patf
+327,338|C0850803|Anaphylaxis|dsyn
+343,361|C2368034|Infusion Reactions|patf
+413,433|C0041364|Tumor Lysis Syndrome|dsyn
+413,433|C1963254|Tumor Lysis Syndrome|fndg
+557,569|C0006826|Malignancies|neop
+621,641|C1299641|Extravasation injury|dsyn
+752,755|C0023434|CLL|neop
+779,786|C0015967|pyrexia|fndg
+788,794|C0027497|nausea|sosy
+788,794|C1963179|nausea|patf
+800,808|C0042963|vomiting|sosy
+800,808|C1963281|vomiting|patf
+879,882|C0024305|NHL|neop
+914,921|C0015672|fatigue|sosy
+923,931|C0042963|vomiting|sosy
+923,931|C1963281|vomiting|patf
+933,941|C0011991|diarrhea|sosy
+933,941|C1963091|diarrhea|fndg
+943,950|C0015967|pyrexia|fndg
+952,964|C0009806|constipation|sosy
+952,964|C1963087|constipation|fndg
+966,974|C0003123|anorexia|dsyn
+966,974|C0426579|anorexia|sosy
+966,974|C1971624|anorexia|fndg
+976,981|C0010200|cough|sosy
+976,981|C1961131|cough|fndg
+983,991|C0018681|headache|sosy
+983,991|C2096315|headache|fndg
+993,999|C0424653|weight|sosy
+1011,1018|C0013404|dyspnea|sosy
+1020,1024|C0015230|rash|sosy
+1030,1040|C0038362|stomatitis|dsyn
+1144,1155|C0024312|lymphopenia|dsyn
+1144,1155|C0853986|lymphopenia|fndg
+1144,1155|C1963164|lymphopenia|fndg
+1157,1163|C0002871|anemia|dsyn
+1165,1175|C0023530|leukopenia|dsyn
+1165,1175|C0750394|leukopenia|fndg
+1177,1193|C0040034|thrombocytopenia|fndg
+1199,1210|C0023530|neutropenia|dsyn
+1199,1210|C0027947|neutropenia|dsyn
+1199,1210|C0853697|neutropenia|fndg
+1488,1498|C0012634|conditions|dsyn
+1699,1727|C0023434|Chronic Lymphocytic Leukemia|neop
+1808,1811|C0023434|CLL|neop
+1883,1885;1889,1894;1898,1901|C4060930|45 years age|fndg
+2174,2179|C3244287|grade|fndg
+2255,2262|C0015967|pyrexia|fndg
+2270,2276|C0027497|nausea|sosy
+2270,2276|C1963179|nausea|patf
+2288,2296|C0042963|vomiting|sosy
+2288,2296|C1963281|vomiting|patf
+2382,2390|C0004093|asthenia|sosy
+2392,2399|C0015672|fatigue|sosy
+2401,2408|C0231218|malaise|sosy
+2414,2422|C3714552|weakness|sosy
+2424,2433|C0043352|dry mouth|dsyn
+2435,2445|C0013144|somnolence|fndg
+2435,2445|C2830004|somnolence|fndg
+2447,2452|C0010200|cough|sosy
+2447,2452|C1961131|cough|fndg
+2454,2466|C0009806|constipation|sosy
+2454,2466|C1963087|constipation|fndg
+2468,2476|C0018681|headache|sosy
+2468,2476|C2096315|headache|fndg
+2478,2498|C0333355|mucosal inflammation|patf
+2503,2513|C0038362|stomatitis|dsyn
+2520,2529|C1457868|Worsening|fndg
+2530,2542|C0020538|hypertension|dsyn
+2530,2542|C1963138|hypertension|fndg
+2598,2601|C0023434|CLL|neop
+2703,2722|C0020546|hypertensive crisis|patf
+2766,2774|C3714811|resolved|fndg
+2766,2774|C1514893|resolved|patf
+2833,2843|C2825032|withdrawal|mobd
+2833,2843|C3812880|withdrawal|fndg
+2880,2896|C0020517|hypersensitivity|patf
+2880,2896|C0520946|hypersensitivity|fndg
+2906,2913|C0015967|pyrexia|fndg
+2945,2954;2964,2981|C0879626|treatment adverse reactions|patf
+3053,3059|C3844638|either|fndg
+3083,3093|C3815594|randomized|fndg
+3094,3097|C0023434|CLL|neop
+3185,3188|C0023434|CLL|neop
+3219,3230;3289,3295|C2360800|of Patients Number|fndg
+3474,3480|C3244287|Grades|fndg
+3503,3509|C3244287|Grades|fndg
+3537,3555|C2360800|number of patients|fndg
+3649,3675|C0017178|Gastrointestinal disorders|dsyn
+3762,3768|C0027497|Nausea|sosy
+3762,3768|C1963179|Nausea|patf
+3873,3881|C0042963|Vomiting|sosy
+3873,3881|C1963281|Vomiting|patf
+3984,3992|C0011991|Diarrhea|sosy
+3984,3992|C1963091|Diarrhea|fndg
+4101,4110|C0012634|disorders|dsyn
+4135,4145|C0012634|conditions|dsyn
+4208,4215|C0015967|Pyrexia|fndg
+4319,4326|C0015672|Fatigue|sosy
+4430,4438|C0004093|Asthenia|sosy
+4541,4547|C0085593|Chills|sosy
+4650,4673|C0021053|Immune system disorders|dsyn
+4763,4779|C0020517|Hypersensitivity|patf
+4763,4779|C0520946|Hypersensitivity|fndg
+4872,4882|C3714514|Infections|patf
+4887,4899|C0851341|infestations|dsyn
+4985,5000|C0027441|Nasopharyngitis|dsyn
+5096,5105|C3714514|Infection|patf
+5096,5105|C0009450|Infection|dsyn
+5207,5221|C0019348|Herpes simplex|dsyn
+5429,5435|C0424653|Weight|sosy
+5553,5572|C3714509|nutrition disorders|dsyn
+5651,5664|C0740394|Hyperuricemia|dsyn
+5786,5807|C0025061|mediastinal disorders|dsyn
+5873,5878|C0010200|Cough|sosy
+5873,5878|C1961131|Cough|fndg
+5991,6003;6011,6020|C0549584|subcutaneous disorders|dsyn
+6011,6020|C0012634|disorders|dsyn
+6095,6099|C0015230|Rash|sosy
+6206,6214|C0033774|Pruritus|sosy
+6328,6335|C3889290|Grade 3|fndg
+6342,6363|C3845859|hematology laboratory|fndg
+6402,6412|C3815594|randomized|fndg
+6413,6416|C0023434|CLL|neop
+6712,6733|C3845859|Hematology Laboratory|fndg
+6804,6814|C3815594|Randomized|fndg
+6815,6818|C0023434|CLL|neop
+6907,6929|C4021768|Laboratory Abnormality|fndg
+6955,6962|C3889290|Grade 3|fndg
+6992,6999|C3889290|Grade 3|fndg
+7013,7023|C1561562|Hemoglobin|fndg
+7479,7482|C0023434|CLL|neop
+7590,7593|C1266129|ALT|neop
+7596,7603|C3889290|Grade 3|fndg
+7609,7628|C0741494|increased bilirubin|fndg
+7609,7628|C0311468|increased bilirubin|fndg
+7679,7682|C1266129|ALT|neop
+7686,7693|C3889290|Grade 3|fndg
+7704,7711|C2674459|limited|fndg
+7814,7831|C0428279|creatinine levels|fndg
+7854,7862|C0442726|detected|fndg
+7884,7894|C0449381|parameters|fndg
+7974,7994|C0024305|Non-Hodgkin Lymphoma|neop
+8075,8083;8091,8094|C1334170|indolent NHL|neop
+8459,8462|C0024305|NHL|neop
+8752,8771|C0746883|febrile neutropenia|dsyn
+8782,8791|C0032285|pneumonia|dsyn
+8793,8804|C0020621|hypokalemia|fndg
+8809,8820|C0011175|dehydration|dsyn
+9190,9196|C3244287|Grades|fndg
+9230,9248|C2360800|number of patients|fndg
+9332,9349|C0018799|Cardiac disorders|dsyn
+9409,9420|C0039231|Tachycardia|patf
+9409,9420|C3827868|Tachycardia|fndg
+9513,9539|C0017178|Gastrointestinal disorders|dsyn
+9590,9596|C0027497|Nausea|sosy
+9590,9596|C1963179|Nausea|patf
+9698,9706|C0042963|Vomiting|sosy
+9698,9706|C1963281|Vomiting|patf
+9806,9814|C0011991|Diarrhea|sosy
+9806,9814|C1963091|Diarrhea|fndg
+9914,9926|C0009806|Constipation|sosy
+9914,9926|C1963087|Constipation|fndg
+10022,10032|C0038362|Stomatitis|dsyn
+10130,10144|C0000737|Abdominal pain|sosy
+10238,10247|C0013395|Dyspepsia|sosy
+10346,10377|C0017168|Gastroesophageal reflux disease|dsyn
+10454,10463|C0043352|Dry mouth|dsyn
+10562,10582|C0232492|Abdominal pain upper|sosy
+10670,10690|C0000731|Abdominal distension|fndg
+10782,10791|C0012634|disorders|dsyn
+10816,10826|C0012634|conditions|dsyn
+10851,10858|C0015672|Fatigue|sosy
+10959,10966|C0015967|Pyrexia|fndg
+11067,11073|C0085593|Chills|sosy
+11175,11191|C0085649|Edema peripheral|fndg
+11283,11291|C0004093|Asthenia|sosy
+11391,11401|C0008031|Chest pain|sosy
+11499,11517|C1096035|Infusion site pain|inpo
+11607,11611|C0030193|Pain|sosy
+11607,11611|C1962977|Pain|fndg
+11715,11733|C0949103|Catheter site pain|inpo
+11819,11829|C3714514|Infections|patf
+11834,11846|C0851341|infestations|dsyn
+11896,11909|C0019360|Herpes zoster|dsyn
+12004,12037|C0041912|Upper respiratory tract infection|dsyn
+12112,12135|C0042029|Urinary tract infection|dsyn
+12112,12135|C0262655|Urinary tract infection|dsyn
+12220,12229|C0037199|Sinusitis|dsyn
+12328,12337|C0032285|Pneumonia|dsyn
+12436,12455|C0746883|Febrile neutropenia|dsyn
+12544,12560|C0006849|Oral candidiasis|dsyn
+12652,12667|C0027441|Nasopharyngitis|dsyn
+12833,12839|C0424653|Weight|sosy
+12952,12971|C3714509|nutrition disorders|dsyn
+13014,13022|C0003123|Anorexia|dsyn
+13014,13022|C0426579|Anorexia|sosy
+13014,13022|C1971624|Anorexia|fndg
+13122,13133|C0011175|Dehydration|dsyn
+13230,13248|C0232462|Decreased appetite|sosy
+13338,13349|C0020621|Hypokalemia|fndg
+13462,13489|C0009782|connective tissue disorders|dsyn
+13519,13528|C0004604|Back pain|sosy
+13519,13528|C1963071|Back pain|fndg
+13627,13637|C0003862|Arthralgia|sosy
+13735,13752|C0030196|Pain in extremity|sosy
+13843,13852|C1963077|Bone pain|fndg
+13843,13852|C0151825|Bone pain|sosy
+14024,14032|C0018681|Headache|sosy
+14024,14032|C2096315|Headache|fndg
+14132,14141|C0012833|Dizziness|sosy
+14132,14141|C0042571|Dizziness|sosy
+14132,14141|C1963093|Dizziness|fndg
+14240,14249|C0013378|Dysgeusia|fndg
+14421,14429|C0917801|Insomnia|sosy
+14421,14429|C1963237|Insomnia|fndg
+14529,14536|C0003467|Anxiety|mobd
+14529,14536|C0003469|Anxiety|mobd
+14529,14536|C0860603|Anxiety|fndg
+14637,14647|C0011570|Depression|mobd
+14637,14647|C0011581|Depression|mobd
+14637,14647|C1579931|Depression|sosy
+14637,14647|C0344315|Depression|fndg
+14767,14788|C0025061|mediastinal disorders|dsyn
+14818,14823|C0010200|Cough|sosy
+14818,14823|C1961131|Cough|fndg
+14926,14933|C0013404|Dyspnea|sosy
+15034,15056|C0858635|Pharyngolaryngeal pain|sosy
+15142,15150|C0043144|Wheezing|sosy
+15250,15266|C2136984|Nasal congestion|patf
+15250,15266|C0027424|Nasal congestion|sosy
+15363,15375;15383,15392|C0549584|subcutaneous disorders|dsyn
+15383,15392|C0012634|disorders|dsyn
+15431,15435|C0015230|Rash|sosy
+15539,15547|C0033774|Pruritus|sosy
+15647,15655|C0151908|Dry skin|sosy
+15755,15767|C0028081|Night sweats|sosy
+15863,15876|C0020458|Hyperhidrosis|fndg
+15967,15975;16044,16055|C0020649|Vascular Hypotension|fndg
+15967,15985|C0042373|Vascular disorders|dsyn
+15976,15985|C0012634|disorders|dsyn
+16044,16055|C0020649|Hypotension|fndg
+16044,16055|C3163620|Hypotension|fndg
+16388,16393|C3244287|grade|fndg
+16398,16401|C0024305|NHL|neop
+16548,16556|C1457868|worsened|fndg
+16606,16613|C3889290|Grade 3|fndg
+16624,16627|C0024305|NHL|neop
+16686,16699|C0020456|hyperglycemia|dsyn
+16706,16725|C0151578|elevated creatinine|fndg
+16706,16725|C0700225|elevated creatinine|fndg
+16732,16744|C0020625|hyponatremia|dsyn
+16755,16767|C0020598|hypocalcemia|dsyn
+16801,16822|C3845859|Hematology Laboratory|fndg
+16877,16880|C0024305|NHL|neop
+16972,16978|C3244287|Grades|fndg
+16983,16989|C3244287|Grades|fndg
+17117,17127|C1561562|Hemoglobin|fndg
+17497,17516|C0746883|febrile neutropenia|dsyn
+17521,17530|C0032285|pneumonia|dsyn
+17640,17659|C0022660|acute renal failure|dsyn
+17640,17659|C3854173|acute renal failure|dsyn
+17661,17676|C0018801|cardiac failure|dsyn
+17661,17676|C0018802|cardiac failure|dsyn
+17678,17694|C0020517|hypersensitivity|patf
+17678,17694|C0520946|hypersensitivity|fndg
+17712,17730|C0034069|pulmonary fibrosis|dsyn
+17736,17760|C3463824|myelodysplastic syndrome|neop
+17779,17786|C0445223|related|fndg
+17842,17858|C0854467|myelosuppression|fndg
+17860,17869|C3714514|infection|patf
+17860,17869|C0009450|infection|dsyn
+17871,17880|C0032285|pneumonia|dsyn
+17882,17902|C0041364|tumor lysis syndrome|dsyn
+17882,17902|C1963254|tumor lysis syndrome|fndg
+17907,17925|C2368034|infusion reactions|patf
+17999,18014|C3843156|less frequently|fndg
+18028,18035|C0445223|related|fndg
+18062,18071|C0019054|hemolysis|patf
+18073,18082|C0013378|dysgeusia|fndg
+18083,18097|C0013378|taste disorder|fndg
+18083,18097|C0039338|taste disorder|dsyn
+18099,18117|C1412002|atypical pneumonia|dsyn
+18099,18117|C0702135|atypical pneumonia|dsyn
+18119,18125|C0243026|sepsis|dsyn
+18119,18125|C0036690|sepsis|dsyn
+18127,18140|C0019360|herpes zoster|dsyn
+18142,18150|C0041834|erythema|dsyn
+18152,18162|C0011603|dermatitis|dsyn
+18168,18181|C0151799|skin necrosis|patf
+18264,18274|C1550043|identified|fndg
+18383,18392|C0087130|uncertain|fndg
+18515,18526|C0002792|anaphylaxis|patf
+18515,18526|C0850803|anaphylaxis|dsyn
+18545,18568|C2609445|infusion site reactions|patf
+18579,18588|C0031542|phlebitis|dsyn
+18590,18598|C0033774|pruritus|sosy
+18612,18616|C0030193|pain|sosy
+18612,18616|C1962977|pain|fndg
+18632,18663|C1535939|pneumocystis jiroveci pneumonia|dsyn
+18668,18679|C0032285|pneumonitis|dsyn
+18668,18679|C3714636|pneumonitis|dsyn
+18710,18713|C0036391|SJS|cgab,dsyn
+18718,18721|C0014518|TEN|dsyn

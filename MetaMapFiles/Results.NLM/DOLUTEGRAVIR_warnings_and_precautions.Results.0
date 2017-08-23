@@ -1,0 +1,72 @@
+54,80|TP|Hypersensitivity reactions|C0020517|10020751|54,80|Hypersensitivity reactions|C0020517|10020751|patf
+98,102|TP|rash|C0015230|10037844|98,102|rash|C0015230|10037844|sosy
+143,160|TP|organ dysfunction|C0349410|10053159|143,160|organ dysfunction|C0349410|10053159|sosy
+172,184|TP|liver injury|C0160390|10067125|172,184|liver injury|C0160390|10067125|inpo
+287,313|FP|hypersensitivity reactions|C0020517|10020751|patf
+441,452|FP|hepatitis B|C0019163|10019731|dsyn
+515,538|FN|transaminase elevations|C0438717
+638,652|FP|hepatotoxicity|C0235378|10019851|inpo
+724,739|FP|hepatic disease|C0023895|10024670|dsyn
+748,759|FP|hepatitis B|C0019163|10019731|dsyn
+783,797;811,822|FN|Redistribution of body fat|C0856151
+783,797;819,822|FP|Redistribution fat|C0856151|10048474|dsyn
+798,822|FN|accumulation of body fat|C1096393
+827,857|CUIDiff|immune reconstitution syndrome|C1096197|10065042|827,857|immune reconstitution syndrome|C1619738|10065042|dsyn
+827,857|TP|immune reconstitution syndrome|C1096197|10065042|827,857|immune reconstitution syndrome|C1619738|10065042|dsyn
+972,998|FP|Hypersensitivity Reactions|C0020517|10020751|patf
+1004,1020|FN|Hypersensitivity|C0020517
+1076,1080|TP|rash|C0015230|10037844|1076,1080|rash|C0015230|10037844|sosy
+1121,1138|TP|organ dysfunction|C0349410|10053159|1121,1138|organ dysfunction|C0349410|10053159|sosy
+1150,1162|TP|liver injury|C0160390|10067125|1150,1162|liver injury|C0160390|10067125|inpo
+1344,1370|FP|hypersensitivity reactions|C0020517|10020751|patf
+1446,1451|FP|fever|C0424755,C0015967|10020843,10020843|fndg,fndg
+1453,1468|FP|general malaise|C0231218|10025482|sosy
+1470,1477|FP|fatigue|C0015672|10016256|sosy
+1489,1500|FP|joint aches|C0003862|10003239|sosy
+1502,1510|FP|blisters|C0005758|10005191|patf
+1514,1524;1529,1533|FP|peeling of skin|C0237849|10040844|fndg
+1561,1575|FP|conjunctivitis|C0009763|10010741|dsyn
+1577,1589|FP|facial edema|C0151602,C0542571|10042682,10016029|fndg,patf
+1591,1600|FP|hepatitis|C0019158,C0019159|10019717,10019780|dsyn,dsyn
+1602,1614|FP|eosinophilia|C0014457|10014950|dsyn
+1616,1626|FP|angioedema|C0002994|10002424|patf
+1628,1648|FP|difficulty breathing|C0013404|10013968|sosy
+1973,1998|FP|hypersensitivity reaction|C0020517|10020751|patf
+2082,2093|FP|Hepatitis B|C0019163|10019731|dsyn
+2142,2153|FP|hepatitis B|C0019163|10019731|dsyn
+2216,2239|FN|transaminase elevations|C0438717
+2311,2338|FN|elevations in transaminases|C0438717
+2360,2390|CUIDiff|immune reconstitution syndrome|C1096197|10065042|2360,2390|immune reconstitution syndrome|C1619738|10065042|dsyn
+2360,2390|TP|immune reconstitution syndrome|C1096197|10065042|2360,2390|immune reconstitution syndrome|C1619738|10065042|dsyn
+2394,2418|FN|hepatitis B reactivation|C1142420
+2569,2583|FP|hepatotoxicity|C0235378|10019851|inpo
+2656,2671|FP|hepatic disease|C0023895|10024670|dsyn
+2680,2691|FP|hepatitis B|C0019163|10019731|dsyn
+2709,2727|FP|Fat Redistribution|C0856151|10048474|dsyn
+2733,2747;2761,2772|FN|Redistribution of body fat|C0856151
+2748,2772|FN|accumulation of body fat|C1096393
+2764,2772;2847,2865|FN|body fat peripheral wasting|C0333650
+2784,2799|TP|central obesity|C0311277|10065941|2784,2799|central obesity|C0311277|10065941|fndg
+2801,2830|FN|dorsocervical fat enlargement|C1096393
+2832,2844|FN|buffalo hump|C0520573
+2858,2865|FP|wasting|C0006625|10006895|sosy
+2867,2881|TP|facial wasting|C1112303|10056866|2867,2881|facial wasting|C1112303|10056866|dsyn
+2883,2901|TP|breast enlargement|C2225524|10006242|2883,2901|breast enlargement|C2225524|10006242|fndg
+2908,2929|FN|cushingoid appearance|C0742929
+3135,3165|FP|Immune Reconstitution Syndrome|C1619738|10065042|dsyn
+3171,3201|FN|Immune reconstitution syndrome|C1096197
+3419,3440|FN|inflammatory response|C1155266
+3456,3489|FN|residual opportunistic infections|C0029118
+3465,3489|FP|opportunistic infections|C0029118|10030901|dsyn
+3499,3529|FN|Mycobacterium avium  infection|C1411980
+3499,3518;3520,3529|FP|Mycobacterium avium infection|C0026916,C1411980|10058806,10061663|dsyn,dsyn
+3531,3546|FN|cytomegalovirus|C0010823
+3548,3581|FN|Pneumocystis jirovecii  pneumonia|C1535939
+3548,3570;3572,3581|FP|Pneumocystis jirovecii pneumonia|C1535939|10073755|dsyn
+3583,3586|TP|PCP|C1535939|10073755|3583,3586|PCP|C1535939|10073755|dsyn
+3592,3604|TP|tuberculosis|C0041296|10044755|3592,3604|tuberculosis|C0041296|10044755|dsyn
+3667,3687|TP|Autoimmune disorders|C0004364|10061664|3667,3687|Autoimmune disorders|C0004364|10061664|dsyn
+3697,3712|FN|Graves' disease|C0018213
+3697,3703;3705,3712|FP|Graves disease|C0018213|10004161|dsyn
+3714,3726|TP|polymyositis|C0085655|10036102|3714,3726|polymyositis|C0085655|10036102|dsyn
+3732,3755|TP|Guillain-Barre syndrome|C0018378|10018767|3732,3755|Guillain-Barre syndrome|C0018378,C3542501|10018767,10061811|dsyn,dsyn

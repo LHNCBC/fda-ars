@@ -1,0 +1,113 @@
+53,63|C3714514|Infections|patf
+86,91|C0311392|signs|fndg
+95,103|C1457887|symptoms|sosy
+234,242|C0425152|engaging|fndg
+271,281|C2239122|activities|fndg
+331,340|C0337246|machinery|inpo
+410,431|C0679862|Administration Errors|patf
+549,574|C0948245|Cytokine Release Syndrome|dsyn
+646,651|C1705232|fatal|fndg
+699,717|C2368034|Infusion reactions|patf
+822,825|C0948245|CRS|dsyn
+835,857|C1519255|Serious adverse events|fndg
+886,889|C0948245|CRS|dsyn
+899,906|C0015967|pyrexia|fndg
+908,916|C0018681|headache|sosy
+908,916|C2096315|headache|fndg
+918,924|C0027497|nausea|sosy
+918,924|C1963179|nausea|patf
+926,934|C0004093|asthenia|sosy
+936,947|C0020649|hypotension|fndg
+936,947|C3163620|hypotension|fndg
+949,983|C0151905|increased alanine aminotransferase|fndg
+985,994;1005,1021|C0438717|increased aminotransferase|fndg
+1027,1052|C0741494|increased total bilirubin|fndg
+1096,1111|C1444662|discontinuation|fndg
+1133,1138|C1705232|fatal|fndg
+1139,1142|C0948245|CRS|dsyn
+1216,1254|C0012739|disseminated intravascular coagulation|dsyn
+1262,1285|C0343084|capillary leak syndrome|dsyn
+1297,1331|C0024291|hemophagocytic lymphohistiocytosis|dsyn
+1332,1362|C1096155|macrophage activation syndrome|dsyn
+1410,1413|C0948245|CRS|dsyn
+1461,1466|C0311392|signs|fndg
+1470,1478|C1457887|symptoms|sosy
+1535,1541|C3844638|either|fndg
+1568,1583|C1444662|discontinuation|fndg
+1853,1861|C0600688|toxicity|inpo
+1874,1881|C3889290|Grade 3|fndg
+1922,1927|C1705232|fatal|fndg
+2056,2070|C0006111|encephalopathy|dsyn
+2056,2070|C0085584|encephalopathy|dsyn
+2056,2070|C1963101|encephalopathy|fndg
+2072,2083|C0036572|convulsions|sosy
+2072,2083|C4048158|convulsions|sosy
+2085,2101|C0037822|speech disorders|dsyn
+2103,2115;2119,2132|C0234428|disturbances consciousness|sosy
+2134,2143|C0009676|confusion|mobd
+2134,2143|C0683369|confusion|sosy
+2134,2143|C1963086|confusion|fndg
+2148,2162|C0009676|disorientation|mobd
+2148,2162|C0233407|disorientation|mobd
+2185,2202|C0575090|balance disorders|sosy
+2227,2235|C3714811|resolved|fndg
+2227,2235|C1514893|resolved|patf
+2281,2289|C2825142|resulted|fndg
+2303,2318|C1444662|discontinuation|fndg
+2365,2370|C0311392|signs|fndg
+2429,2440|C1444662|discontinue|fndg
+2528,2538|C3714514|Infections|patf
+2603,2613|C3714514|infections|patf
+2622,2628|C0243026|sepsis|dsyn
+2622,2628|C0036690|sepsis|dsyn
+2630,2639|C0032285|pneumonia|dsyn
+2641,2651|C0004610|bacteremia|dsyn
+2653,2677|C0029118|opportunistic infections|dsyn
+2683,2707|C1112210|catheter-site infections|dsyn
+2795,2800|C1705232|fatal|fndg
+2858,2864|C0557351|employ|fndg
+2940,2945|C0311392|signs|fndg
+2950,2958|C1457887|symptoms|sosy
+2962,2971|C3714514|infection|patf
+2962,2971|C0009450|infection|dsyn
+3012,3032|C0041364|Tumor Lysis Syndrome|dsyn
+3012,3032|C1963254|Tumor Lysis Syndrome|fndg
+3099,3104|C1705232|fatal|fndg
+3254,3263|C1321013|hydration|fndg
+3302,3305|C0041364|TLS|dsyn
+3302,3305|C1963254|TLS|fndg
+3345,3350|C0311392|signs|fndg
+3354,3362|C1457887|symptoms|sosy
+3366,3369|C0041364|TLS|dsyn
+3366,3369|C1963254|TLS|fndg
+3410,3416|C3844638|either|fndg
+3443,3458|C1444662|discontinuation|fndg
+3531,3542|C0027947|Neutropenia|dsyn
+3531,3542|C0023530|Neutropenia|dsyn
+3531,3542|C0853697|Neutropenia|fndg
+3547,3566|C0746883|Febrile Neutropenia|dsyn
+3588,3607|C0746883|febrile neutropenia|dsyn
+3713,3723|C0449381|parameters|fndg
+3744,3751|C2674459|limited|fndg
+3868,3879|C0027947|neutropenia|dsyn
+3868,3879|C0023530|neutropenia|dsyn
+3868,3879|C0853697|neutropenia|fndg
+4008,4016|C0036572|seizures|sosy
+4062,4083|C0041657|loss of consciousness|fndg
+4172,4180|C0425152|engaging|fndg
+4209,4219|C2239122|activities|fndg
+4269,4278|C0337246|machinery|inpo
+4333,4355|C0235996|Elevated Liver Enzymes|fndg
+4514,4517|C0948245|CRS|dsyn
+4671,4678|C3889290|Grade 3|fndg
+4782,4785|C0948245|CRS|dsyn
+4790,4798|C2825142|resulted|fndg
+4812,4827|C1444662|discontinuation|fndg
+4895,4898|C1266129|ALT|neop
+5231,5250|C0270612|Leukoencephalopathy|dsyn
+5313,5332|C0270612|leukoencephalopathy|dsyn
+5412,5417;5441,5452|C0279134|prior irradiation|fndg
+5558,5579|C2826293|clinical significance|fndg
+5652,5673|C0679862|Administration Errors|patf
+5695,5716|C0679862|administration errors|patf
+5882,5891|C1112363|underdose|inpo

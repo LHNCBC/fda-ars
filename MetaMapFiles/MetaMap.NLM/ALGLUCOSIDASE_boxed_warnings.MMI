@@ -1,0 +1,43 @@
+00000000|MMI|142.66|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-10-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-9-"anaphylaxis"-noun-0,"Reactions, Anaphylactic"-tx-7-"anaphylactic reactions"-noun-0,"ANAPHYLAXIS"-tx-6-"ANAPHYLAXIS"-noun-0,"ANAPHYLAXIS"-tx-4-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-3-"anaphylaxis"-noun-0,"ANAPHYLAXIS"-tx-1-"ANAPHYLAXIS"-noun-0,"Reactions, Anaphylactic"-tx-1-"anaphylactic reactions"-noun-0]|TX|2223/11;2134/11;1720/22;1528/11;1021/11;932/11;[39/11],[161/11];286/22|C20.543.480.099
+00000000|MMI|64.89|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-10-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-9-"hypersensitivity reactions"-noun-0,"HYPERSENSITIVITY"-tx-6-"HYPERSENSITIVITY"-noun-0,"Hypersensitivity reactions"-tx-4-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-3-"hypersensitivity reactions"-noun-0,"HYPERSENSITIVITY"-tx-1-"HYPERSENSITIVITY"-noun-0]|TX|2236/26;2150/26;1541/16;1034/26;948/26;[52/16],[174/16]|C20.543
+00000000|MMI|42.15|Nephrotic Syndrome|C0027726|[dsyn]|["-- Nephrotic Syndrome"-tx-8-"nephrotic syndrome"-noun-0,"-- Nephrotic Syndrome"-tx-2-"nephrotic syndrome"-noun-0]|TX|1912/18;709/18|C12.777.419.630.643;C13.351.968.419.630.643
+00000000|MMI|32.60|Proteinuria|C0033687|[fndg]|["PROTEINURIA"-tx-8-"proteinuria"-noun-0,"PROTEINURIA"-tx-2-"proteinuria"-noun-0]|TX|1899/11;696/11|C12.777.934.734;C13.351.968.934.734;C23.888.942.750
+00000000|MMI|27.49|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-10-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-9-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-6-"ANAPHYLAXIS"-noun-0,"Anaphylaxis"-tx-4-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-3-"anaphylaxis"-noun-0,"Anaphylaxis"-tx-1-"ANAPHYLAXIS"-noun-0]|TX|2223/11;2134/11;1528/11;1021/11;932/11;[39/11],[161/11]|
+00000000|MMI|17.80|Angioedema|C0002994|[patf]|["Angiooedema"-tx-1-"angioedema"-noun-0]|TX|480/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|15.79|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-6-"HYPERSENSITIVITY"-noun-0,"Hypersensitivity"-tx-1-"HYPERSENSITIVITY"-noun-0]|TX|1541/16;[52/16],[174/16]|
+00000000|MMI|15.42|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-10-"symptoms"-noun-0,"SYMPTOMS"-tx-4-"symptoms"-noun-0]|TX|[2211/8],[2353/8];[1009/8],[1151/8]|
+00000000|MMI|14.85|Physical findings|C0311392|[fndg]|["SIGNS"-tx-10-"signs"-noun-0,"SIGNS"-tx-4-"signs"-noun-0]|TX|[2201/5],[2343/5];[999/5],[1141/5]|
+00000000|MMI|14.64|Apnea|C0003578|[patf]|["APNOEA"-tx-1-"apnea"-noun-0]|TX|393/5|C08.618.085;C23.888.852.130
+00000000|MMI|14.64|Bradycardia|C0428977|[patf]|["BRADYCARDIA"-tx-1-"bradycardia"-noun-0]|TX|409/11|C14.280.067.319;C23.550.073.300
+00000000|MMI|14.64|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-1-"dyspnea"-noun-0]|TX|400/7|C08.618.326;C23.888.852.371
+00000000|MMI|14.64|Hypoxia|C0242184|[patf]|["HYPOXIA"-tx-1-"hypoxia"-noun-0]|TX|384/7|C23.888.852.079
+00000000|MMI|14.64|Tachycardia|C0039231|[patf]|["TACHYCARDIA"-tx-1-"tachycardia"-noun-0]|TX|422/11|C14.280.067.845;C23.550.073.845
+00000000|MMI|14.64|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-1-"urticaria"-noun-0]|TX|566/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|11.49|Bronchial Spasm|C0006266|[dsyn]|["BRONCHOSPASM"-tx-1-"bronchospasm"-noun-0]|TX|435/12|C08.127.321
+00000000|MMI|11.49|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-1-"hypotension"-noun-0]|TX|467/11|C14.907.514
+00000000|MMI|10.54|Cardiorespiratory failure|C1444565|[patf]|["Cardio-respiratory failure"-tx-6-"CARDIORESPIRATORY FAILURE"-noun-0,"Cardio-respiratory failure"-tx-1-"CARDIORESPIRATORY FAILURE"-noun-0]|TX|1601/25;[112/25],[234/25]|
+00000000|MMI|10.42|Prepared|C4082130|[fndg]|["Prepared"-tx-9-"prepared"-verb-0,"Prepared"-tx-3-"prepared"-verb-0]|TX|2115/8;913/8|
+00000000|MMI|10.42|severe allergic reaction|C2220378|[fndg]|["severe Hypersensitivity reactions"-tx-7-"severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-1-"severe hypersensitivity reactions"-noun-0]|TX|1747/33;313/33|
+00000000|MMI|10.42|severe allergy|C2945656|[fndg]|["severe Hypersensitivity reactions"-tx-7-"severe hypersensitivity reactions"-noun-0,"severe Hypersensitivity reactions"-tx-1-"severe hypersensitivity reactions"-noun-0]|TX|1747/33;313/33|
+00000000|MMI|7.55|Medical care, unspecified|C0496675|[fndg]|["Medical care"-tx-10-"medical care"-noun-0,"Medical care"-tx-4-"medical care"-noun-0]|TX|2323/12;1121/12|
+00000000|MMI|7.55|Skin lesion|C0037284|[dsyn]|["Skin lesions"-tx-8-"skin lesions"-noun-0,"Skin lesions"-tx-2-"skin lesions"-noun-0]|TX|1948/12;745/12|
+00000000|MMI|7.22|Proteinuria Adverse Event|C1962972|[fndg]|["Proteinuria"-tx-8-"proteinuria"-noun-0,"Proteinuria"-tx-2-"proteinuria"-noun-0]|TX|1899/11;696/11|
+00000000|MMI|7.22|Proteinuria of undiagnosed cause|C1279888|[dsyn]|["Proteinuria"-tx-8-"proteinuria"-noun-0,"Proteinuria"-tx-2-"proteinuria"-noun-0]|TX|1899/11;696/11|
+00000000|MMI|7.16|compromise|C2945640|[fndg]|["compromise"-tx-11-"compromise"-noun-0,"compromise"-tx-5-"compromise"-noun-0]|TX|2550/10;1390/10|
+00000000|MMI|7.16|exacerbation acute|C0743630|[fndg]|["acute exacerbation"-tx-11-"acute exacerbation"-noun-0,"acute exacerbation"-tx-5-"acute exacerbation"-noun-0]|TX|2499/18;1339/18|
+00000000|MMI|6.98|Pompe's disease infantile onset|C3888924|[dsyn]|["Pompe's disease infantile onset"-tx-11-"Infantile-onset Pompe disease"-noun-0,"Pompe's disease infantile onset"-tx-5-"Infantile-onset Pompe disease"-noun-0]|TX|2385/29;1225/29|
+00000000|MMI|6.98|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-7-"Life-threatening"-adj-0,"Life Threatening"-tx-1-"Life-threatening"-adj-0]|TX|1703/16;269/16|
+00000000|MMI|6.98|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-7-"Life-threatening"-adj-0,"LIFE THREATENING"-tx-1-"Life-threatening"-adj-0]|TX|1703/16;269/16|
+00000000|MMI|6.98|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-7-"Life-threatening"-adj-0,"LIFE THREATENING"-tx-1-"Life-threatening"-adj-0]|TX|1703/16;269/16|
+00000000|MMI|5.18|Apnea Adverse Event|C1963065|[fndg]|["Apnea"-tx-1-"apnea"-noun-0]|TX|393/5|
+00000000|MMI|5.18|Bradycardia by ECG Finding|C3812171|[fndg]|["BRADYCARDIA"-tx-1-"bradycardia"-noun-0]|TX|409/11|
+00000000|MMI|5.18|ENT surgical result tongue|C2137027|[fndg]|["tongue"-tx-1-"tongue"-noun-0]|TX|502/6|
+00000000|MMI|5.18|Facial edema|C0542571|[patf]|["FACE OEDEMA"-tx-1-"face edema"-noun-0]|TX|549/10|
+00000000|MMI|5.18|Feeling of throat tightness|C0236071|[fndg]|["THROAT TIGHTNESS"-tx-1-"throat tightness"-noun-0]|TX|449/16|
+00000000|MMI|5.18|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-1-"hypotension"-noun-0]|TX|467/11|
+00000000|MMI|5.18|Hypoxia Adverse Event|C1963140|[fndg]|["HYPOXIA"-tx-1-"hypoxia"-noun-0]|TX|384/7|
+00000000|MMI|5.18|Lip swelling|C0240211|[sosy]|["LIP SWELLING"-tx-1-"lip swelling"-noun-0]|TX|512/12|
+00000000|MMI|5.18|Periorbital edema|C0151205|[sosy]|["Periorbital oedema"-tx-1-"periorbital edema"-noun-0]|TX|526/17|
+00000000|MMI|5.18|Tachycardia by ECG Finding|C3827868|[fndg]|["TACHYCARDIA"-tx-1-"tachycardia"-noun-0]|TX|422/11|
+00000000|MMI|5.18|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-1-"urticaria"-noun-0]|TX|566/9|
+00000000|MMI|3.64|Respiratory distress|C0476273|[sosy]|["Distress, Respiratory"-tx-1-"respiratory distress"-noun-0]|TX|362/20|

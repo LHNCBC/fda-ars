@@ -1,0 +1,58 @@
+00000000|MMI|116.32|Mutation Abnormality|C1705285|[comd]|["Mutation"-tx-16-"Mutation"-noun-0,"Mutation"-tx-15-"mutation"-noun-0,"Mutation"-tx-14-"mutation"-noun-0,"Mutation"-tx-10-"mutation"-noun-0,"Mutation"-tx-9-"mutation"-noun-0,"Mutation"-tx-8-"mutation"-noun-0,"Mutation"-tx-6-"mutation"-noun-0,"Mutation"-tx-5-"mutation"-noun-0,"Mutation"-tx-4-"mutation"-noun-0,"Mutation"-tx-1-"mutation"-noun-0]|TX|3746/8;3494/8;3287/8;[2230/8],[2276/8];[2089/8],[2118/8];2020/8;1771/8;1623/8;[1189/8],[1271/8];323/8|
+00000000|MMI|79.69|2+|C3833492|[fndg]|["2+"-tx-21-"2"-integer-0,"2+"-tx-18-"2"-percentage-0,"2+"-tx-17-"2"-integer-0,"2+"-tx-17-"2"-percentage-0,"2+"-tx-16-"2"-integer-0,"2+"-tx-14-"2"-integer-0,"2+"-tx-11-"2"-percentage-0,"2+"-tx-9-"2"-integer-0,"2+"-tx-4-"2"-integer-0]|TX|6769/1;6289/1;[6085/1],[6169/1],[6173/1],[6217/1],[6221/1];[6085/1],[6169/1],[6173/1],[6217/1],[6221/1];6001/1;3217/1;2526/1;2102/1;1231/1|
+00000000|MMI|57.11|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-19-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-16-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-16-"Adverse reactions"-noun-0,"Adverse reactions"-tx-15-"adverse reactions"-noun-0,"Adverse reactions"-tx-14-"adverse reactions"-noun-0,"Adverse reactions"-tx-13-"adverse reactions"-noun-0,"Adverse reactions"-tx-12-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-3-"adverse reaction"-noun-0,"Adverse reactions"-tx-2-"ADVERSE REACTIONS"-noun-0,"ADVERSE REACTION"-tx-1-"adverse reaction"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0]|TX|6479/17;3868/16;5140/17;3402/17;3103/17;2833/17;2604/17;797/16;548/17;41/16;6/17|
+00000000|MMI|50.59|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-16-"Abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-12-"abdominal pain"-noun-1,"ABDOMINAL PAIN"-tx-1-"abdominal pain"-noun-0]|TX|4478/14;2752/14;440/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|50.38|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-22-"ALT"-noun-0,"ALT"-tx-21-"ALT"-noun-0,"ALT"-tx-17-"ALT"-noun-0]|TX|7048/3;6982/3;6133/3|C04.557.450.550.400
+00000000|MMI|50.38|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-16-"Dizziness"-noun-0,"Dizzyness"-tx-13-"dizziness"-noun-0,"Dizzyness"-tx-1-"dizziness"-noun-0]|TX|5023/9;3020/9;501/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|50.38|Headache|C0018681|[sosy]|["HEADACHE"-tx-16-"Headache"-noun-0,"HEADACHE"-tx-13-"headache"-noun-0,"HEADACHE"-tx-1-"headache"-noun-0]|TX|4042/8;2898/8;357/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|50.38|Vertigo|C0042571|[sosy]|["dizziness"-tx-16-"Dizziness"-noun-0,"dizziness"-tx-13-"dizziness"-noun-0,"dizziness"-tx-1-"dizziness"-noun-0]|TX|5023/9;3020/9;501/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|42.15|Arthralgia|C0003862|[sosy]|["ARTHRALGIA"-tx-16-"arthralgia"-noun-0,"ARTHRALGIA"-tx-13-"arthralgia"-noun-0]|TX|5547/10;3036/10|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|40.76|Nausea|C0027497|[sosy]|["NAUSEA"-tx-16-"Nausea"-noun-0,"NAUSEA"-tx-13-"nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|4914/6;2979/6;489/6|C23.888.821.712
+00000000|MMI|31.65|Upper Respiratory Infections|C0041912|[dsyn]|["Infection, Upper Respiratory Tract"-tx-16-"Upper respiratory tract infection"-noun-0,"Infection, Upper Respiratory Tract"-tx-13-"upper respiratory tract infection"-noun-0,"Infection, Upper Respiratory Tract"-tx-1-"upper respiratory tract infection"-noun-0]|TX|4260/33;2914/33;387/33|C01.539.739;C08.730
+00000000|MMI|31.15|Exanthema|C0015230|[sosy]|["RASH"-tx-16-"Rash"-noun-0,"RASH"-tx-13-"rash"-noun-0,"RASH"-tx-1-"rash"-noun-0]|TX|4805/4;2993/4;483/4|C17.800.257
+00000000|MMI|26.74|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-16-"Diarrhea"-noun-0,"DIARRHOEA"-tx-1-"diarrhea"-noun-0]|TX|4696/8;473/8|C23.888.821.214
+00000000|MMI|26.74|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-16-"Nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-1-"nasopharyngitis"-noun-0]|TX|4587/15;456/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|23.12|Rhinitis|C0035455|[dsyn]|["RHINITIS"-tx-16-"rhinitis"-noun-0,"RHINITIS"-tx-13-"rhinitis"-noun-0]|TX|5347/8;3005/8|C08.460.799;C08.730.674;C09.603.799
+00000000|MMI|20.95|Myalgia|C0231528|[sosy]|["MYALGIA"-tx-16-"myalgia"-noun-0]|TX|5587/7|C05.651.542;C10.597.617.231.249;C10.668.491.525;C23.888.592.612.547.249;F02.830.816.353.500;G11.561.600.810.353.500
+00000000|MMI|20.47|Adverse reaction to drug|C0041755|[inpo]|["Reactions, Adverse Drug"-tx-16-"Adverse Drug Reactions"-noun-0,"Adverse reaction to drug"-tx-11-"drug to adverse reactions"-noun-0,"Adverse reaction to drug"-tx-1-"adverse drug reactions to"-noun-0]|TX|3673/22;2492/4,2501/20;230/25|C25.100
+00000000|MMI|19.88|Disease|C0012634|[dsyn]|["Disorders"-tx-16-"disorders"-noun-0,"condition"-tx-3-"conditions"-noun-0]|TX|5805/9;785/10|C23.550.288
+00000000|MMI|16.98|Trial 1|C3840593|[fndg]|["Trial 1"-tx-17-"Trials 1"-noun-0,"Trial 1"-tx-16-"Trials 1"-noun-0,"Trial 1"-tx-14-"Trials 1"-noun-0,"Trial 1"-tx-4-"Trials 1"-noun-0]|TX|6075/8;5988/8;3204/8;1218/8|
+00000000|MMI|15.79|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-21-"3"-integer-0,"3+"-tx-17-"3"-integer-0]|TX|6995/1;[6092/1],[6157/1]|
+00000000|MMI|14.64|Acne|C0702166|[dsyn]|["ACNE"-tx-16-"acne"-noun-0]|TX|5816/4|C17.800.030.150;C17.800.794.111
+00000000|MMI|14.64|Acne Vulgaris|C0001144|[dsyn]|["Acne"-tx-16-"acne"-noun-0]|TX|5816/4|C17.800.030.150;C17.800.794.111
+00000000|MMI|14.64|Hypoglycemia|C0020615|[dsyn]|["HYPOGLYCEMIA"-tx-12-"hypoglycemia"-noun-1]|TX|2799/12|C18.452.394.984
+00000000|MMI|14.64|Wheezing|C0043144|[sosy]|["WHEEZING"-tx-16-"wheezing"-noun-0]|TX|5758/8|C23.888.852.779;E01.370.386.720;G09.772.775
+00000000|MMI|12.14|ENT surgical result - nose nasal congestion|C2136984|[patf]|["nasal congestion"-tx-16-"Nasal congestion"-noun-0,"nasal congestion"-tx-13-"nasal congestion"-noun-0,"nasal congestion"-tx-1-"nasal congestion"-noun-0]|TX|4369/16;2955/16;422/16|
+00000000|MMI|12.14|Nasal congestion (finding)|C0027424|[sosy]|["NASAL CONGESTION"-tx-16-"Nasal congestion"-noun-0,"NASAL CONGESTION"-tx-13-"nasal congestion"-noun-0,"NASAL CONGESTION"-tx-1-"nasal congestion"-noun-0]|TX|4369/16;2955/16;422/16|
+00000000|MMI|11.92|10%|C3842590|[fndg]|["10%"-tx-16-"10"-integer-0,"10%"-tx-13-"10"-percentage-0]|TX|5084/2;[2987/2],[2999/2]|
+00000000|MMI|11.92|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-16-"Dizziness"-noun-0,"Dizziness"-tx-13-"dizziness"-noun-0,"Dizziness"-tx-1-"dizziness"-noun-0]|TX|5023/9;3020/9;501/9|
+00000000|MMI|11.92|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-16-"Headache"-noun-0,"headache"-tx-13-"headache"-noun-0,"headache"-tx-1-"headache"-noun-0]|TX|4042/8;2898/8;357/8|
+00000000|MMI|11.92|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-16-"Nausea"-noun-0,"Nausea"-tx-13-"nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|4914/6;2979/6;489/6|
+00000000|MMI|11.49|Mediastinal Diseases|C0025061|[dsyn]|["Mediastinal Disorders"-tx-16-"mediastinal disorders"-noun-0]|TX|5680/21|C08.846.187
+00000000|MMI|11.42|1+|C3816745|[fndg]|["1+"-tx-18-"1"-integer-0,"1+"-tx-16-"1"-integer-0]|TX|6308/1;[5112/1],[5115/1]|
+00000000|MMI|10.55|Discontinued|C1444662|[fndg]|["Discontinued"-tx-24-"discontinued"-verb-0,"Discontinued"-tx-18-"discontinued"-adj-0,"Discontinued"-tx-11-"discontinued"-adj-0]|TX|7275/12;6349/12;2473/12|
+00000000|MMI|8.34|Connective Tissue Diseases|C0009782|[dsyn]|["Connective Tissue Disorders"-tx-16-"connective tissue disorders"-noun-0]|TX|5518/27|C17.300
+00000000|MMI|8.34|Infection|C3714514|[patf]|["Infections"-tx-16-"Infections"-noun-0]|TX|5318/10|C01.539
+00000000|MMI|7.84|Oropharyngeal pain|C2363731|[sosy]|["Oropharyngeal pain"-tx-16-"Oropharyngeal pain"-noun-0,"Oropharyngeal pain"-tx-1-"oropharyngeal pain"-noun-0]|TX|4151/18;367/18|
+00000000|MMI|7.70|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-16-"Diarrhea"-noun-0,"Diarrhea"-tx-1-"diarrhea"-noun-0]|TX|4696/8;473/8|
+00000000|MMI|7.31|Either|C3844638|[fndg]|["Either"-tx-21-"either"-adv-0,"Either"-tx-10-"either"-adv-0]|TX|6827/6;2213/6|
+00000000|MMI|7.23|Received therapy or drug for|C0332154|[fndg]|["Treated for"-tx-11-"for treated"-adj-0]|TX|[2529/3,2542/7],[2566/3,2578/7]|
+00000000|MMI|7.22|Bacteria present|C4038931|[fndg]|["Bacterium"-tx-16-"bacteria"-noun-0,"Bacterium"-tx-13-"bacteria"-noun-0]|TX|5419/8;3057/8|
+00000000|MMI|7.09|50%|C3842586|[fndg]|["50%"-tx-21-"50"-integer-0,"50%"-tx-10-"50"-percentage-0]|TX|6834/2;2305/2|
+00000000|MMI|7.09|<50|C3843766|[fndg]|["<50"-tx-21-"50"-integer-0,"<50"-tx-10-"50"-percentage-0]|TX|6834/2;2305/2|
+00000000|MMI|5.18|20%|C3842589|[fndg]|["20%"-tx-16-"20"-integer-0]|TX|4434/2|
+00000000|MMI|5.18|Chest wall pain|C0008035|[sosy]|["Musculoskeletal Chest Pain"-tx-16-"musculoskeletal chest pain"-noun-0]|TX|5559/26|
+00000000|MMI|5.18|Congestion of nasal sinus|C0152029|[sosy]|["SINUS CONGESTION"-tx-16-"sinus congestion"-noun-0]|TX|5740/16|
+00000000|MMI|5.18|Infestation|C0851341|[dsyn]|["infestations"-tx-16-"infestations"-noun-0]|TX|5333/12|
+00000000|MMI|5.18|Musculoskeletal chest pain|C0476280|[sosy]|["Musculoskeletal chest pain"-tx-16-"musculoskeletal chest pain"-noun-0]|TX|5559/26|
+00000000|MMI|5.18|Pleuritic pain|C0008033|[sosy]|["PLEURITIC PAIN"-tx-16-"pleuritic pain"-noun-0]|TX|5724/14|
+00000000|MMI|5.18|Red throat|C0455899|[fndg]|["PHARYNGEAL ERYTHEMA"-tx-16-"pharyngeal erythema"-noun-0]|TX|5703/19|
+00000000|MMI|5.18|Sinus headache|C0037195|[fndg]|["SINUS HEADACHE"-tx-16-"sinus headache"-noun-0]|TX|5630/14|
+00000000|MMI|5.18|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-16-"Nervous system disorders"-noun-0]|TX|5604/24|C10
+00000000|MMI|3.78|Subcutaneous Disorders|C0549584|[dsyn]|["Subcutaneous Disorders"-tx-16-"subcutaneous disorders"-noun-0]|TX|5785/12,5805/9|
+00000000|MMI|3.63|Related personal status|C0445223|[fndg]|["Related"-tx-12-"related"-adj-0]|TX|2647/7|
+00000000|MMI|3.62|Transaminases abnormal|C1328397|[fndg]|["Transaminases abnormal"-tx-23-"abnormal transaminases"-noun-0]|TX|7214/22|
+00000000|MMI|3.59|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-20-"history of"-noun-0]|TX|6618/10|
+00000000|MMI|3.50|75%)|C4015571|[fndg]|["75%)"-tx-21-"75"-integer-0]|TX|6861/2|
+00000000|MMI|3.47|Elevated liver transaminases|C2674385|[fndg]|["Elevated liver transaminases"-tx-19-"elevated liver transaminases"-noun-0]|TX|6500/28|
+00000000|MMI|3.44|Transaminases increased|C0438717|[fndg]|["Elevated Transaminases"-tx-18-"elevated transaminases"-noun-0]|TX|6376/22|

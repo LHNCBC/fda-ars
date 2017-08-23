@@ -1,0 +1,217 @@
+T1	AdverseReaction 183 198	nasopharyngitis
+T2	AdverseReaction 200 208	headache
+T3	AdverseReaction 213 246	upper respiratory tract infection
+T4	AdverseReaction 3298 3313	Nasopharyngitis
+T5	AdverseReaction 3408 3416	Headache
+T6	AdverseReaction 3518 3551	Upper Respiratory Tract Infection
+T7	AdverseReaction 3690 3702	pancreatitis
+T8	AdverseReaction 3932 3958	hypersensitivity reactions
+T9	AdverseReaction 4043 4057	serum sickness
+T10	AdverseReaction 4138 4157	Hypoglycemic events
+T11	AdverseReaction 4245 4257	hypoglycemia
+T12	AdverseReaction 4306 4318	hypoglycemia
+T13	AdverseReaction 4485 4497	hypoglycemia
+T14	AdverseReaction 4615 4627	hypoglycemia
+T15	AdverseReaction 4764 4776	hypoglycemia
+T16	AdverseReaction 4835 4847	hypoglycemia
+T18	AdverseReaction 5439 5451	hypoglycemia
+T19	Severity 5422 5428	Severe
+T20	AdverseReaction 8933 8959	Hypersensitivity reactions
+T21	AdverseReaction 8970 8981	anaphylaxis
+T22	AdverseReaction 8983 8993	angioedema
+T23	AdverseReaction 8995 8999	rash
+T24	AdverseReaction 9001 9010	urticaria
+T25	AdverseReaction 9022 9049	cutaneous adverse reactions
+T26	Severity 9015 9021	severe
+T27	AdverseReaction 9061 9085	Stevens-Johnson syndrome
+T28	AdverseReaction 9087 9112	hepatic enzyme elevations
+T29	AdverseReaction 9114 9139	fulminant hepatic failure
+T30	AdverseReaction 9162 9172	arthralgia
+T31	Severity 9152 9161	disabling
+T32	Severity 9141 9147	severe
+T33	AdverseReaction 9177 9195	acute pancreatitis
+T34	AdverseReaction 4731 4743	Hypoglycemia
+T36	Severity 4806 4817	symptomatic
+T17	AdverseReaction 8345 8367	changes in vital signs
+T37	Negation 8320 8322	No
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16 Effect2:E36
+E18	AdverseReaction:T18 Effect:E19
+E19	Severity:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25 Effect:E26
+E26	Severity:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E31	Severity:T31
+E32	Severity:T32
+E33	AdverseReaction:T30 Effect:E32 Effect2:E31
+E34	AdverseReaction:T33
+E30	AdverseReaction:T34
+E36	Severity:T36
+E17	AdverseReaction:T17 Negated:E37
+E37	Negation:T37
+A1	CUI E1 C0027441
+A2	UMLS-Preferred-Name E1 Nasopharyngitis
+A3	MEDDRA-PT E1 Nasopharyngitis
+A4	MEDDRA-PT-ID E1 10028810
+A5	CUI E2 C0018681
+A6	UMLS-Preferred-Name E2 Headache
+A7	MEDDRA-PT E2 Headache
+A8	MEDDRA-PT-ID E2 10019211
+A9	CUI E3 C0041912
+A10	UMLS-Preferred-Name E3 Upper Respiratory Infections
+A11	MEDDRA-PT E3 Upper respiratory tract infection
+A12	MEDDRA-PT-ID E3 10046306
+A13	CUI E4 C0027441
+A14	UMLS-Preferred-Name E4 Nasopharyngitis
+A15	MEDDRA-PT E4 Nasopharyngitis
+A16	MEDDRA-PT-ID E4 10028810
+A17	CUI E5 C0018681
+A18	UMLS-Preferred-Name E5 Headache
+A19	MEDDRA-PT E5 Headache
+A20	MEDDRA-PT-ID E5 10019211
+A21	CUI E6 C0041912
+A22	UMLS-Preferred-Name E6 Upper Respiratory Infections
+A23	MEDDRA-PT E6 Upper respiratory tract infection
+A24	MEDDRA-PT-ID E6 10046306
+A25	CUI E7 C0030305
+A26	UMLS-Preferred-Name E7 Pancreatitis
+A27	MEDDRA-PT E7 Pancreatitis
+A28	MEDDRA-PT-ID E7 10033645
+A29	CUI E8 C0020517
+A30	UMLS-Preferred-Name E8 Hypersensitivity
+A31	MEDDRA-PT E8 Hypersensitivity
+A32	MEDDRA-PT-ID E8 10020751
+A33	LLT E8 Hypersensitivity reaction
+A34	LLT-ID E8 10020756
+A35	CUI E9 C0036830
+A36	UMLS-Preferred-Name E9 Serum Sickness
+A37	MEDDRA-PT E9 Serum sickness
+A38	MEDDRA-PT-ID E9 10040400
+A39	CUI E10 C0020615
+A40	UMLS-Preferred-Name E10 Hypoglycemia
+A41	MEDDRA-PT E10 Hypoglycaemia
+A42	MEDDRA-PT-ID E10 10020993
+A43	CUI E11 C0020615
+A44	UMLS-Preferred-Name E11 Hypoglycemia
+A45	MEDDRA-PT E11 Hypoglycaemia
+A46	MEDDRA-PT-ID E11 10020993
+A47	LLT E11 Hypoglycemia
+A48	LLT-ID E11 10021005
+A49	CUI E12 C0020615
+A50	UMLS-Preferred-Name E12 Hypoglycemia
+A51	MEDDRA-PT E12 Hypoglycaemia
+A52	MEDDRA-PT-ID E12 10020993
+A53	LLT E12 Hypoglycemia
+A54	LLT-ID E12 10021005
+A55	CUI E13 C0020615
+A56	UMLS-Preferred-Name E13 Hypoglycemia
+A57	MEDDRA-PT E13 Hypoglycaemia
+A58	MEDDRA-PT-ID E13 10020993
+A59	LLT E13 Hypoglycemia
+A60	LLT-ID E13 10021005
+A61	CUI E14 C0020615
+A62	UMLS-Preferred-Name E14 Hypoglycemia
+A63	MEDDRA-PT E14 Hypoglycaemia
+A64	MEDDRA-PT-ID E14 10020993
+A65	LLT E14 Hypoglycemia
+A66	LLT-ID E14 10021005
+A67	CUI E15 C0020615
+A68	UMLS-Preferred-Name E15 Hypoglycemia
+A69	MEDDRA-PT E15 Hypoglycaemia
+A70	MEDDRA-PT-ID E15 10020993
+A71	LLT E15 Hypoglycemia
+A72	LLT-ID E15 10021005
+A73	CUI E16 C0020615
+A74	UMLS-Preferred-Name E16 Hypoglycemia
+A75	MEDDRA-PT E16 Hypoglycaemia
+A76	MEDDRA-PT-ID E16 10020993
+A77	LLT E16 Hypoglycemia
+A78	LLT-ID E16 10021005
+A79	CUI E18 C0020615
+A80	UMLS-Preferred-Name E18 Hypoglycemia
+A81	MEDDRA-PT E18 Hypoglycaemia
+A82	MEDDRA-PT-ID E18 10020993
+A83	LLT E18 Hypoglycemia
+A84	LLT-ID E18 10021005
+A85	CUI E20 C0020517
+A86	UMLS-Preferred-Name E20 Hypersensitivity
+A87	MEDDRA-PT E20 Hypersensitivity
+A88	MEDDRA-PT-ID E20 10020751
+A89	LLT E20 Hypersensitivity reaction
+A90	LLT-ID E20 10020756
+A91	CUI E21 C0002792
+A92	UMLS-Preferred-Name E21 anaphylaxis
+A93	MEDDRA-PT E21 Anaphylactic reaction
+A94	MEDDRA-PT-ID E21 10002198
+A95	LLT E21 Anaphylaxis
+A96	LLT-ID E21 10002218
+A97	CUI E22 C0002994
+A98	UMLS-Preferred-Name E22 Angioedema
+A99	MEDDRA-PT E22 Angioedema
+A100	MEDDRA-PT-ID E22 10002424
+A101	CUI E23 C0015230
+A102	UMLS-Preferred-Name E23 Exanthema
+A103	MEDDRA-PT E23 Rash
+A104	MEDDRA-PT-ID E23 10037844
+A105	CUI E24 C0042109
+A106	UMLS-Preferred-Name E24 Urticaria
+A107	MEDDRA-PT E24 Urticaria
+A108	MEDDRA-PT-ID E24 10046735
+A109	CUI E25 C0221743
+A110	UMLS-Preferred-Name E25 Skin reaction
+A111	MEDDRA-PT E25 Skin reaction
+A112	MEDDRA-PT-ID E25 10040914
+A113	CUI E27 C0038325
+A114	UMLS-Preferred-Name E27 Stevens-Johnson Syndrome
+A115	MEDDRA-PT E27 Stevens-Johnson syndrome
+A116	MEDDRA-PT-ID E27 10042033
+A117	CUI E28 C0235996
+A118	UMLS-Preferred-Name E28 Elevated liver enzymes
+A119	MEDDRA-PT E28 Hepatic enzyme increased
+A120	MEDDRA-PT-ID E28 10060795
+A121	CUI E29 C0162557
+A122	UMLS-Preferred-Name E29 Liver Failure, Acute
+A123	MEDDRA-PT E29 Acute hepatic failure
+A124	MEDDRA-PT-ID E29 10000804
+A125	LLT E29 Fulminant hepatic failure
+A126	LLT-ID E29 10017469
+A127	CUI E33 C0003862
+A128	UMLS-Preferred-Name E33 Arthralgia
+A129	MEDDRA-PT E33 Arthralgia
+A130	MEDDRA-PT-ID E33 10003239
+A131	CUI E34 C0001339
+A132	UMLS-Preferred-Name E34 Acute pancreatitis
+A133	MEDDRA-PT E34 Pancreatitis acute
+A134	MEDDRA-PT-ID E34 10033647
+A135	LLT E34 Acute pancreatitis
+A136	LLT-ID E34 10000971
+A137	CUI E30 C0020615
+A138	UMLS-Preferred-Name E30 Hypoglycemia
+A139	MEDDRA-PT E30 Hypoglycaemia
+A140	MEDDRA-PT-ID E30 10020993
+A141	LLT E30 Hypoglycemia
+A142	LLT-ID E30 10021005
+A143	flag E17 unmapped
+A144	CUI E17 C0548952
+A145	UMLS-Preferred-Name E17 Vital sign alteration

@@ -1,0 +1,210 @@
+T1	AdverseReaction 28 44	Hypersensitivity
+T2	AdverseReaction 66 77	anaphylaxis
+T3	AdverseReaction 336 344	headache
+T4	AdverseReaction 346 352	nausea
+T5	AdverseReaction 354 362	diarrhea
+T6	AdverseReaction 364 371	pyrexia
+T7	AdverseReaction 373 397	injection site reactions
+T8	AdverseReaction 403 418	nasopharyngitis
+T9	AdverseReaction 1240 1248	headache
+T10	AdverseReaction 1256 1262	nausea
+T11	AdverseReaction 1270 1277	fatigue
+T12	AdverseReaction 1285 1293	diarrhea
+T13	AdverseReaction 1301 1334	upper respiratory tract infection
+T14	AdverseReaction 1341 1365	injection site reactions
+T15	AdverseReaction 1372 1387	nasopharyngitis
+T16	AdverseReaction 1394 1402	vomiting
+T17	AdverseReaction 1409 1417	pruritus
+T18	AdverseReaction 1424 1444	upper abdominal pain
+T19	AdverseReaction 1455 1462	pyrexia
+T20	AdverseReaction 1473 1484	Anaphylaxis
+T21	AdverseReaction 1526 1550	Injection site reactions
+T22	AdverseReaction 1526 1540;1579 1587	Injection site pruritus
+T23	AdverseReaction 1526 1540;1589 1597	Injection site erythema
+T24	AdverseReaction 1526 1540;1599 1603	Injection site pain
+T25	AdverseReaction 1526 1540;1605 1615	Injection site irritation
+T26	AdverseReaction 1526 1540;1617 1626	Injection site urticaria
+T27	AdverseReaction 1526 1540;1635 1643	Injection site bruising
+T28	AdverseReaction 2932 2940	Headache
+T29	AdverseReaction 3016 3022	Nausea
+T30	AdverseReaction 3100 3108	Diarrhea
+T31	AdverseReaction 3184 3191	Pyrexia
+T32	AdverseReaction 3268 3292	Injection site reactions
+T33	AdverseReaction 3352 3367	Nasopharyngitis
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	CUI E2 C0002792
+A6	UMLS-Preferred-Name E2 anaphylaxis
+A7	MEDDRA-PT E2 Anaphylactic reaction
+A8	MEDDRA-PT-ID E2 10002198
+A9	LLT E2 Anaphylaxis
+A10	LLT-ID E2 10002218
+A11	CUI E3 C0018681
+A12	UMLS-Preferred-Name E3 Headache
+A13	MEDDRA-PT E3 Headache
+A14	MEDDRA-PT-ID E3 10019211
+A15	CUI E4 C0027497
+A16	UMLS-Preferred-Name E4 Nausea
+A17	MEDDRA-PT E4 Nausea
+A18	MEDDRA-PT-ID E4 10028813
+A19	CUI E5 C0011991
+A20	UMLS-Preferred-Name E5 Diarrhea
+A21	MEDDRA-PT E5 Diarrhoea
+A22	MEDDRA-PT-ID E5 10012735
+A23	LLT E5 Diarrhea
+A24	LLT-ID E5 10012727
+A25	CUI E6 C0015967
+A26	UMLS-Preferred-Name E6 Fever
+A27	MEDDRA-PT E6 Pyrexia
+A28	MEDDRA-PT-ID E6 10037660
+A29	CUI E7 C0151735
+A30	UMLS-Preferred-Name E7 Injection site reaction
+A31	MEDDRA-PT E7 Injection site reaction
+A32	MEDDRA-PT-ID E7 10022095
+A33	CUI E8 C0027441
+A34	UMLS-Preferred-Name E8 Nasopharyngitis
+A35	MEDDRA-PT E8 Nasopharyngitis
+A36	MEDDRA-PT-ID E8 10028810
+A37	CUI E9 C0018681
+A38	UMLS-Preferred-Name E9 Headache
+A39	MEDDRA-PT E9 Headache
+A40	MEDDRA-PT-ID E9 10019211
+A41	CUI E10 C0027497
+A42	UMLS-Preferred-Name E10 Nausea
+A43	MEDDRA-PT E10 Nausea
+A44	MEDDRA-PT-ID E10 10028813
+A45	CUI E11 C0015672
+A46	UMLS-Preferred-Name E11 Fatigue
+A47	MEDDRA-PT E11 Fatigue
+A48	MEDDRA-PT-ID E11 10016256
+A49	CUI E12 C0011991
+A50	UMLS-Preferred-Name E12 Diarrhea
+A51	MEDDRA-PT E12 Diarrhoea
+A52	MEDDRA-PT-ID E12 10012735
+A53	LLT E12 Diarrhea
+A54	LLT-ID E12 10012727
+A55	CUI E13 C0041912
+A56	UMLS-Preferred-Name E13 Upper Respiratory Infections
+A57	MEDDRA-PT E13 Upper respiratory tract infection
+A58	MEDDRA-PT-ID E13 10046306
+A59	CUI E14 C0151735
+A60	UMLS-Preferred-Name E14 Injection site reaction
+A61	MEDDRA-PT E14 Injection site reaction
+A62	MEDDRA-PT-ID E14 10022095
+A63	CUI E15 C0027441
+A64	UMLS-Preferred-Name E15 Nasopharyngitis
+A65	MEDDRA-PT E15 Nasopharyngitis
+A66	MEDDRA-PT-ID E15 10028810
+A67	CUI E16 C0042963
+A68	UMLS-Preferred-Name E16 Vomiting
+A69	MEDDRA-PT E16 Vomiting
+A70	MEDDRA-PT-ID E16 10047700
+A71	CUI E17 C0033774
+A72	UMLS-Preferred-Name E17 Pruritus
+A73	MEDDRA-PT E17 Pruritus
+A74	MEDDRA-PT-ID E17 10037087
+A75	CUI E18 C0232492
+A76	UMLS-Preferred-Name E18 Upper abdominal pain
+A77	MEDDRA-PT E18 Abdominal pain upper
+A78	MEDDRA-PT-ID E18 10000087
+A79	LLT E18 Upper abdominal pain
+A80	LLT-ID E18 10046272
+A81	CUI E19 C0015967
+A82	UMLS-Preferred-Name E19 Fever
+A83	MEDDRA-PT E19 Pyrexia
+A84	MEDDRA-PT-ID E19 10037660
+A85	CUI E20 C0002792
+A86	UMLS-Preferred-Name E20 anaphylaxis
+A87	MEDDRA-PT E20 Anaphylactic reaction
+A88	MEDDRA-PT-ID E20 10002198
+A89	LLT E20 Anaphylaxis
+A90	LLT-ID E20 10002218
+A91	CUI E21 C0151735
+A92	UMLS-Preferred-Name E21 Injection site reaction
+A93	MEDDRA-PT E21 Injection site reaction
+A94	MEDDRA-PT-ID E21 10022095
+A95	CUI E22 C0852995
+A96	UMLS-Preferred-Name E22 Injection site pruritus
+A97	MEDDRA-PT E22 Injection site pruritus
+A98	MEDDRA-PT-ID E22 10022093
+A99	CUI E23 C0852625
+A100	UMLS-Preferred-Name E23 Injection site erythema
+A101	MEDDRA-PT E23 Injection site erythema
+A102	MEDDRA-PT-ID E23 10022061
+A103	CUI E24 C0151828
+A104	UMLS-Preferred-Name E24 Injection site pain
+A105	MEDDRA-PT E24 Injection site pain
+A106	MEDDRA-PT-ID E24 10022086
+A107	CUI E25 C0521498
+A108	UMLS-Preferred-Name E25 Injection site irritation
+A109	MEDDRA-PT E25 Injection site irritation
+A110	MEDDRA-PT-ID E25 10022079
+A111	CUI E26 C0392196
+A112	UMLS-Preferred-Name E26 Injection site urticaria
+A113	MEDDRA-PT E26 Injection site urticaria
+A114	MEDDRA-PT-ID E26 10022107
+A115	CUI E27 C0521508
+A116	UMLS-Preferred-Name E27 Injection site bruising
+A117	MEDDRA-PT E27 Injection site bruising
+A118	MEDDRA-PT-ID E27 10022052
+A119	CUI E28 C0018681
+A120	UMLS-Preferred-Name E28 Headache
+A121	MEDDRA-PT E28 Headache
+A122	MEDDRA-PT-ID E28 10019211
+A123	CUI E29 C0027497
+A124	UMLS-Preferred-Name E29 Nausea
+A125	MEDDRA-PT E29 Nausea
+A126	MEDDRA-PT-ID E29 10028813
+A127	CUI E30 C0011991
+A128	UMLS-Preferred-Name E30 Diarrhea
+A129	MEDDRA-PT E30 Diarrhoea
+A130	MEDDRA-PT-ID E30 10012735
+A131	LLT E30 Diarrhea
+A132	LLT-ID E30 10012727
+A133	CUI E31 C0015967
+A134	UMLS-Preferred-Name E31 Fever
+A135	MEDDRA-PT E31 Pyrexia
+A136	MEDDRA-PT-ID E31 10037660
+A137	CUI E32 C0151735
+A138	UMLS-Preferred-Name E32 Injection site reaction
+A139	MEDDRA-PT E32 Injection site reaction
+A140	MEDDRA-PT-ID E32 10022095
+A141	CUI E33 C0027441
+A142	UMLS-Preferred-Name E33 Nasopharyngitis
+A143	MEDDRA-PT E33 Nasopharyngitis
+A144	MEDDRA-PT-ID E33 10028810

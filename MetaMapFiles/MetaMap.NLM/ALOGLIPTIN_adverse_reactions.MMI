@@ -1,0 +1,63 @@
+00000000|AA|BMI|body mass index|1|3|5|15|1391:3
+00000000|MMI|122.42|0%|C3842591|[fndg]|["0%"-tx-25-"0"-integer-0,"0%"-tx-25-"0"-real_number-0,"0%"-tx-17-"0"-percentage-0,"0%"-tx-16-"0"-percentage-0]|TX|[5580/1],[6036/1],[6357/1],[6465/1],[6492/1],[6922/1],[7354/1],[7786/1],[7813/1],[8228/1];[5580/1],[6036/1],[6357/1],[6465/1],[6492/1],[6922/1],[7354/1],[7786/1],[7813/1],[8228/1];3963/1;[3731/1],[3802/1]|
+00000000|MMI|100.46|Hypoglycemia|C0020615|[dsyn]|["HYPOGLYCEMIA"-tx-24-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-22-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-21-"hypoglycemia"-noun-1,"HYPOGLYCEMIA"-tx-20-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-19-"Hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-19-"hypoglycemia"-noun-0]|TX|[4764/12],[5439/12];4615/12;4485/12;4306/12;4119/12;4245/12|C18.452.394.984
+00000000|MMI|60.13|1+|C3816745|[fndg]|["1+"-tx-25-"1"-integer-0,"1+"-tx-25-"1"-real_number-0,"1+"-tx-2-"1"-integer-0]|TX|[5607/1],[5610/1],[6033/1],[6063/1],[6949/1],[6952/1],[7384/1],[7681/1],[7708/1],[8124/1];[5607/1],[5610/1],[6033/1],[6063/1],[6949/1],[6952/1],[7384/1],[7681/1],[7708/1],[8124/1];355/1|
+00000000|MMI|34.29|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-29-"adverse reactions"-noun-0,"Adverse reactions"-tx-27-"adverse reactions"-noun-0,"Adverse reactions"-tx-16-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-14-"Adverse reactions"-noun-0,"ADVERSE REACTION"-tx-3-"adverse reaction"-noun-0,"Adverse reactions"-tx-2-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|9032/17;8648/17;2859/17;2686/17;547/16;286/17;6/17;45/17|
+00000000|MMI|33.08|Headache|C0018681|[sosy]|["HEADACHE"-tx-16-"Headache"-noun-0,"HEADACHE"-tx-1-"headache"-noun-0]|TX|3408/8;200/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|32.32|Diabetes Mellitus, Non-Insulin-Dependent|C0011860|[dsyn]|["diabetes"-tx-7-"diabetes"-noun-0,"Type II Diabetes"-tx-4-"type 2 diabetes"-noun-0]|TX|1339/8;786/15|C18.452.394.750.149;C19.246.300
+00000000|MMI|28.03|4+ Answer to question|C3838679|[fndg]|["4+"-tx-16-"4"-percentage-0,"4+"-tx-16-"4"-real_number-0,"4+"-tx-14-"4"-percentage-0,"4+"-tx-13-"4"-percentage-0,"4+"-tx-1-"4"-percentage-0]|TX|[2891/1],[3347/1],[3457/1],[3567/1];[2891/1],[3347/1],[3457/1],[3567/1];2718/1;2597/1;78/1|
+00000000|MMI|26.64|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-16-"Nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-1-"nasopharyngitis"-noun-0]|TX|3298/15;183/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|22.39|Angina, Unstable|C0002965|[dsyn]|["Angina, Unstable"-tx-6-"unstable angina"-noun-0]|TX|1252/15|C10.597.617.192.500.150;C14.280.647.187.150;C14.907.585.187.150;C23.888.592.612.233.500.150
+00000000|MMI|20.95|Unconscious State|C0041657|[fndg]|["LOSS OF CONSCIOUSNESS"-tx-24-"loss of consciousness"-noun-0]|TX|5543/21|C10.597.606.358.800;C23.888.592.604.359.800
+00000000|MMI|20.72|Upper Respiratory Infections|C0041912|[dsyn]|["Infection, Upper Respiratory Tract"-tx-16-"Upper Respiratory Tract Infection"-noun-0,"Infection, Upper Respiratory Tract"-tx-1-"upper respiratory tract infection"-noun-0]|TX|3518/33;213/33|C01.539.739;C08.730
+00000000|MMI|20.60|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-29-"Hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-17-"Hypersensitivity Reactions"-noun-0,"Hypersensitivity reactions"-tx-17-"hypersensitivity reactions"-noun-0]|TX|8933/26;3852/26;3932/26|C20.543
+00000000|MMI|20.15|Pancreatitis|C0030305|[dsyn]|["PANCREATITIS"-tx-16-"Pancreatitis"-noun-0,"PANCREATITIS"-tx-16-"pancreatitis"-noun-0]|TX|3640/12;3690/12|C06.689.750
+00000000|MMI|19.45|Arthralgia|C0003862|[sosy]|["ARTHRALGIA"-tx-29-"arthralgia"-noun-0]|TX|9162/10|C05.550.091;C10.597.617.133;C23.888.592.612.094;F02.830.816.444.350;G11.561.600.810.444.350
+00000000|MMI|19.32|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-28-"uncertain"-adj-0]|TX|8797/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|17.80|Angioedema|C0002994|[patf]|["Angiooedema"-tx-29-"angioedema"-noun-0]|TX|8983/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|17.80|Liver Failure, Acute|C0162557|[dsyn]|["Fulminant Hepatic Failure"-tx-29-"fulminant hepatic failure"-noun-0]|TX|9114/25|C06.552.308.500.750
+00000000|MMI|17.80|Seizures|C0036572|[sosy]|["SEIZURE"-tx-24-"seizure"-noun-0]|TX|5568/7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|17.80|Stevens-Johnson Syndrome|C0038325|[dsyn]|["STEVENS JOHNSON SYNDROME"-tx-29-"Stevens-Johnson syndrome"-noun-0]|TX|9061/24|C07.465.864.500;C17.800.174.600.900;C17.800.229.400.683;C17.800.865.475.683;C20.543.206.380.900;C25.100.468.380.900
+00000000|MMI|16.37|2+|C3833492|[fndg]|["2+"-tx-25-"2"-integer-0,"2+"-tx-25-"2"-real_number-0]|TX|[6060/1],[6387/1],[7678/1],[7705/1];[6060/1],[6387/1],[7678/1],[7705/1]|
+00000000|MMI|16.21|Electrocardiogram|C0013798|[fndg]|["Electrocardiograms"-tx-25-"electrocardiograms"-noun-1]|TX|8374/18|E01.370.370.380.240;E01.370.405.240
+00000000|MMI|16.09|Depressed Level of Consciousness|C0549249|[fndg]|["DEPRESSED"-tx-24-"depressed"-adj-0]|TX|5524/9|C10.597.606.358;C23.888.592.604.359;F01.700.315;F03.615.300
+00000000|MMI|16.07|Serum Sickness|C0036830|[dsyn]|["SERUM SICKNESS"-tx-18-"serum sickness"-noun-0]|TX|4043/14|C17.800.174.600.800;C20.543.206.380.800;C20.543.520.770;C25.100.468.380.800
+00000000|MMI|14.64|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-29-"urticaria"-noun-0]|TX|9001/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|14.64|anaphylaxis|C0002792|[patf]|["ANAPHYLAXIS"-tx-29-"anaphylaxis"-noun-0]|TX|8970/11|C20.543.480.099
+00000000|MMI|14.54|combination - answer to question|C3811910|[fndg]|["Combination"-tx-11-"combination"-noun-0,"Combination"-tx-10-"combination"-noun-0,"Combination"-tx-9-"combination"-noun-0]|TX|2255/11;[1998/11],[2029/11];1725/11|
+00000000|MMI|14.51|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-24-"Therapy"-noun-0,"Therapy"-tx-21-"therapy"-noun-0,"Therapy"-tx-13-"therapy"-noun-0,"Therapy"-tx-10-"therapy"-noun-0]|TX|5000/7;4419/7;2563/7;2116/7|
+00000000|MMI|12.90|Dyslipidemias|C0242339|[dsyn]|["Dyslipidaemia"-tx-6-"dyslipidemia"-noun-0]|TX|1174/12|C18.452.584.500
+00000000|MMI|12.89|Diabetes Mellitus|C0011849|[dsyn]|["Diabetes"-tx-7-"diabetes"-noun-0]|TX|1339/8|C18.452.394.750;C19.246
+00000000|MMI|11.92|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-25-"3"-integer-0,"3+"-tx-16-"3"-real_number-0]|TX|[6384/1],[7381/1];3367/1|
+00000000|MMI|11.49|Exanthema|C0015230|[sosy]|["RASH"-tx-29-"rash"-noun-0]|TX|8995/4|C17.800.257
+00000000|MMI|9.84|Disease|C0012634|[dsyn]|["condition"-tx-3-"conditions"-noun-0]|TX|535/10|C23.550.288
+00000000|MMI|7.70|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-16-"Headache"-noun-0,"headache"-tx-1-"headache"-noun-0]|TX|3408/8;200/8|
+00000000|MMI|7.46|Pancreatitis Adverse Event|C1963198|[fndg]|["Pancreatitis"-tx-16-"Pancreatitis"-noun-0,"Pancreatitis"-tx-16-"pancreatitis"-noun-0]|TX|3640/12;3690/12|
+00000000|MMI|7.29|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-6-"history of"-noun-0]|TX|[1163/10],[1241/10]|
+00000000|MMI|7.27|Adverse event|C0877248|[patf]|["adverse events"-tx-13-"adverse events"-noun-0,"adverse events"-tx-12-"adverse events"-noun-0]|TX|2578/14;2414/14|
+00000000|MMI|5.18|Acute pancreatitis|C0001339|[dsyn]|["Acute Pancreatitis"-tx-29-"acute pancreatitis"-noun-0]|TX|9177/18|
+00000000|MMI|5.18|Anaphylaxis (non medication)|C0850803|[dsyn]|["Anaphylaxis"-tx-29-"anaphylaxis"-noun-0]|TX|8970/11|
+00000000|MMI|5.18|Asymptomatic hypoglycaemia|C3544295|[dsyn]|["Asymptomatic hypoglycemia"-tx-24-"asymptomatic hypoglycemia"-noun-0]|TX|4822/25|
+00000000|MMI|5.18|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-24-"seizure"-noun-0]|TX|5568/7|
+00000000|MMI|5.18|Sign or Symptom|C3540840|[fndg]|["Clinical Signs"-tx-19-"clinical signs"-noun-0]|TX|4214/14|
+00000000|MMI|5.18|Used by|C1273517|[fndg]|["used"-tx-24-"Used"-verb-0]|TX|4985/4|
+00000000|MMI|5.18|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-29-"urticaria"-noun-0]|TX|9001/9|
+00000000|MMI|3.81|History of myocardial infarction|C1275835|[fndg]|["History of - myocardial infarction"-tx-6-"history of myocardial infarction"-noun-0]|TX|1198/32|
+00000000|MMI|3.81|Old myocardial infarction|C0155668|[dsyn]|["History of Myocardial Infarction"-tx-6-"history of myocardial infarction"-noun-0]|TX|1198/32|
+00000000|MMI|3.81|Mean body mass|C0517424|[fndg]|["Mean body mass"-tx-7-"mean body mass"-noun-0]|TX|1369/14|
+00000000|MMI|3.77|H/O: hypertension|C0455527|[fndg]|["History of - hypertension"-tx-6-"history of hypertension"-noun-0]|TX|1128/23|
+00000000|MMI|3.72|Received therapy or drug for|C0332154|[fndg]|["Treated for"-tx-5-"treated for"-verb-0]|TX|1064/11|
+00000000|MMI|3.71|Age >= 65 years|C4062450|[fndg]|["Age >= 65 years"-tx-7-"65 years age"-noun-0]|TX|1505/8,1517/3|
+00000000|MMI|3.68|H/O: heart failure|C0455531|[fndg]|["History of - heart failure"-tx-6-"history of heart failure"-noun-0]|TX|1281/10,1303/13|
+00000000|MMI|3.62|patient report|C0747307|[fndg]|["Patient reported"-tx-18-"reported patient"-noun-0]|TX|4062/8,4076/7|
+00000000|MMI|3.61|30%|C3842588|[fndg]|["30%"-tx-7-"30"-integer-0]|TX|1441/2|
+00000000|MMI|3.59|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-4-"randomized"-verb-0]|TX|924/10|
+00000000|MMI|3.59|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-19-"symptoms"-noun-0]|TX|4233/8|
+00000000|MMI|3.57|70%|C3842584|[fndg]|["70%"-tx-12-"70"-percentage-0]|TX|2508/2|
+00000000|MMI|3.57|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-13-"discontinuation"-noun-0]|TX|2544/15|
+00000000|MMI|3.55|Container status - Identified|C1550043|[fndg]|["Identified"-tx-27-"identified"-verb-0]|TX|8676/10|
+00000000|MMI|3.48|Depressed mood|C0344315|[fndg]|["Depressed"-tx-24-"depressed"-adj-0]|TX|5524/9|
+00000000|MMI|3.48|Disease Controlled|C2911690|[fndg]|["Controlled"-tx-24-"Controlled"-adj-1]|TX|4950/10|
+00000000|MMI|3.47|Number of patients|C2360800|[fndg]|["Number of patients"-tx-16-"Number of Patients"-noun-0]|TX|3048/18|
+00000000|MMI|3.45|Serum Sickness Adverse Event|C1963234|[fndg]|["Serum sickness"-tx-18-"serum sickness"-noun-0]|TX|4043/14|
+00000000|MMI|3.43|Diabetes|C0011847|[dsyn]|["Diabetes"-tx-7-"diabetes"-noun-0]|TX|1339/8|

@@ -1,0 +1,18 @@
+00000000|AA|PTLD|post-transplant lymphoproliferative disorder|1|4|7|44|301:4
+00000000|AA|CNS|central nervous system|1|3|5|22|360:3
+00000000|AA|EBV|Epstein-Barr virus|1|3|5|18|417:3
+00000000|MMI|32.60|Immunosuppression|C4048329|[dsyn]|["Immunosuppression"-tx-14-"immunosuppression"-noun-0,"Immunosuppression"-tx-7-"immunosuppression"-noun-0]|TX|2322/17;1245/17|E02.095.465.425.450;E05.478.610
+00000000|MMI|24.04|Post-transplant lymphoproliferative disorder|C0432487|[neop]|["Post transplant lymphoproliferative disorder"-tx-10-"PTLD"-noun-0,"Post transplant lymphoproliferative disorder"-tx-10-"post-transplant lymphoproliferative disorder"-noun-0,"Post transplant lymphoproliferative disorder"-tx-9-"POST-TRANSPLANT LYMPHOPROLIFERATIVE DISORDER"-noun-0,"Post transplant lymphoproliferative disorder"-tx-1-"POST-TRANSPLANT LYMPHOPROLIFERATIVE DISORDER"-noun-0,"Post transplant lymphoproliferative disorder"-tx-1-"post-transplant lymphoproliferative disorder"-noun-0]|TX|1764/4;1718/44;1519/44;[30/44],[131/44];255/44|
+00000000|MMI|19.15|Malignant Neoplasms|C0006826|[neop]|["MALIGNANCIES"-tx-14-"malignancies"-noun-0,"MALIGNANCIES"-tx-9-"MALIGNANCIES"-noun-0,"MALIGNANCIES"-tx-7-"malignancies"-noun-0,"MALIGNANCIES"-tx-1-"MALIGNANCIES"-noun-0]|TX|2293/12;1571/12;1216/12;[82/12],[183/12]|
+00000000|MMI|13.50|Infection|C3714514|[patf]|["Infections"-tx-9-"INFECTIONS"-noun-0,"Infections"-tx-1-"INFECTIONS"-noun-0]|TX|1597/10;108/10|C01.539
+00000000|MMI|10.42|5-6|C3843715|[fndg]|["5-6"-tx-16-"5.6"-real_number-0,"5-6"-tx-8-"5.6"-real_number-0]|TX|2470/3;1480/3|
+00000000|MMI|10.42|6/5|C0442749|[fndg]|["5 6"-tx-16-"5.6"-real_number-0,"5 6"-tx-8-"5.6"-real_number-0]|TX|2470/3;1480/3|
+00000000|MMI|10.42|Death (finding)|C1306577|[fndg]|["Death"-tx-15-"death"-noun-1,"Death"-tx-8-"death"-noun-1]|TX|2462/5;1439/5|
+00000000|MMI|10.42|Increased susceptibility to infections|C0236171|[fndg]|["Increased susceptibility to infection"-tx-14-"Increased susceptibility to infection"-noun-0,"Increased susceptibility to infection"-tx-7-"Increased susceptibility to infection"-noun-0]|TX|2223/37;1146/37|
+00000000|MMI|7.22|Decreased Immunologic Activity [PE]|C1373218|[patf]|["Immunosuppression"-tx-14-"immunosuppression"-noun-0,"Immunosuppression"-tx-7-"immunosuppression"-noun-0]|TX|2322/17;1245/17|
+00000000|MMI|7.22|Experimental Result|C2825142|[fndg]|["Result"-tx-14-"result"-verb-0,"Result"-tx-7-"result"-verb-0]|TX|2310/6;1233/6|
+00000000|MMI|7.17|Graft loss|C0877042|[patf]|["Graft loss"-tx-15-"graft loss"-noun-1,"Graft loss"-tx-8-"graft loss"-noun-1]|TX|2447/10;1424/10|
+00000000|MMI|5.18|4+ Answer to question|C3838679|[fndg]|["4+"-tx-13-"4"-integer-0]|TX|2071/1|
+00000000|MMI|3.57|Responsible to|C1273518|[fndg]|["Responsible"-tx-6-"responsible"-adj-0]|TX|980/11|
+00000000|MMI|3.56|At risk of infection|C0582147|[fndg]|["Risk For Infection"-tx-1-"INFECTIONS risk for"-noun-0]|TX|209/10,235/8|
+00000000|MMI|3.43|Follow-up status|C0589120|[fndg]|["Follow-up"-tx-6-"follow-up"-adj-0]|TX|1067/9|

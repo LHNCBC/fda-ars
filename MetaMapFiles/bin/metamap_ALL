@@ -1,0 +1,21 @@
+#!/bin/sh
+
+# COMMAND is set in local_sched
+COMMAND=$1
+shift
+
+for FILE in $*
+do
+   LOCALFILE=`echo $FILE | sed -e 's@.*/@@'`
+   if [ -f $LOCALFILE.out -o -f $LOCALFILE.log ]
+   then
+       echo $LOCALFILE has already been run
+   else
+       touch $LOCALFILE.out $LOCALFILE.log
+       echo $COMMAND $FILE $LOCALFILE.out
+       SECONDS=0
+       $COMMAND $FILE $LOCALFILE.out
+       echo $SECONDS seconds > $LOCALFILE.log
+       echo "DONE" >> $LOCALFILE.log
+   fi
+done

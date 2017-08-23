@@ -1,0 +1,12 @@
+T1	AdverseReaction 225 234	dyspepsia
+T2	AdverseReaction 1582 1591	dyspepsia
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+A1	CUI E1 C0013395
+A2	UMLS-Preferred-Name E1 Dyspepsia
+A3	MEDDRA-PT E1 Dyspepsia
+A4	MEDDRA-PT-ID E1 10013946
+A5	CUI E2 C0013395
+A6	UMLS-Preferred-Name E2 Dyspepsia
+A7	MEDDRA-PT E2 Dyspepsia
+A8	MEDDRA-PT-ID E2 10013946

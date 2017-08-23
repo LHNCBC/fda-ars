@@ -1,0 +1,110 @@
+T1	AdverseReaction 126 154	taste following instillation
+T2	AdverseReaction 220 234	eye irritation
+T3	AdverseReaction 236 244	headache
+T4	AdverseReaction 250 265	nasopharyngitis
+T5	AdverseReaction 846 874	taste following instillation
+T6	AdverseReaction 935 949	eye irritation
+T7	AdverseReaction 951 959	headache
+T8	AdverseReaction 965 980	nasopharyngitis
+T9	AdverseReaction 1021 1047	Hypersensitivity reactions
+T10	AdverseReaction 1320 1346	hypersensitivity reactions
+T11	AdverseReaction 1355 1362	itching
+T12	AdverseReaction 1364 1373	body rash
+T13	AdverseReaction 1379 1395	swelling of lips
+T14	AdverseReaction 1379 1390;1397 1403	swelling of tongue
+T15	AdverseReaction 1379 1390;1411 1417	swelling of throat
+T16	Severity 121 125	mild
+T17	Severity 841 845	mild
+E1	AdverseReaction:T1 Effect:E16
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Effect:E17
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	Severity:T16
+E17	Severity:T17
+A1	CUI E1 C1868941
+A2	UMLS-Preferred-Name E1 Medication after taste
+A3	MEDDRA-PT E1 Product taste abnormal
+A4	MEDDRA-PT-ID E1 10069227
+A5	LLT E1 Medication after taste
+A6	LLT-ID E1 10067060
+A7	CUI E2 C0235266
+A8	UMLS-Preferred-Name E2 Eye irritation
+A9	MEDDRA-PT E2 Eye irritation
+A10	MEDDRA-PT-ID E2 10015946
+A11	CUI E3 C0018681
+A12	UMLS-Preferred-Name E3 Headache
+A13	MEDDRA-PT E3 Headache
+A14	MEDDRA-PT-ID E3 10019211
+A15	CUI E4 C0027441
+A16	UMLS-Preferred-Name E4 Nasopharyngitis
+A17	MEDDRA-PT E4 Nasopharyngitis
+A18	MEDDRA-PT-ID E4 10028810
+A19	CUI E5 C1868941
+A20	UMLS-Preferred-Name E5 Medication after taste
+A21	MEDDRA-PT E5 Product taste abnormal
+A22	MEDDRA-PT-ID E5 10069227
+A23	LLT E5 Medication after taste
+A24	LLT-ID E5 10067060
+A25	CUI E6 C0235266
+A26	UMLS-Preferred-Name E6 Eye irritation
+A27	MEDDRA-PT E6 Eye irritation
+A28	MEDDRA-PT-ID E6 10015946
+A29	CUI E7 C0018681
+A30	UMLS-Preferred-Name E7 Headache
+A31	MEDDRA-PT E7 Headache
+A32	MEDDRA-PT-ID E7 10019211
+A33	CUI E8 C0027441
+A34	UMLS-Preferred-Name E8 Nasopharyngitis
+A35	MEDDRA-PT E8 Nasopharyngitis
+A36	MEDDRA-PT-ID E8 10028810
+A37	CUI E9 C0020517
+A38	UMLS-Preferred-Name E9 Hypersensitivity
+A39	MEDDRA-PT E9 Hypersensitivity
+A40	MEDDRA-PT-ID E9 10020751
+A41	LLT E9 Hypersensitivity reaction
+A42	LLT-ID E9 10020756
+A43	CUI E10 C0020517
+A44	UMLS-Preferred-Name E10 Hypersensitivity
+A45	MEDDRA-PT E10 Hypersensitivity
+A46	MEDDRA-PT-ID E10 10020751
+A47	LLT E10 Hypersensitivity reaction
+A48	LLT-ID E10 10020756
+A49	CUI E11 C0033774
+A50	UMLS-Preferred-Name E11 Pruritus
+A51	MEDDRA-PT E11 Pruritus
+A52	MEDDRA-PT-ID E11 10037087
+A53	LLT E11 Itching
+A54	LLT-ID E11 10023084
+A55	CUI E12 C0015230
+A56	UMLS-Preferred-Name E12 Exanthema
+A57	MEDDRA-PT E12 Rash
+A58	MEDDRA-PT-ID E12 10037844
+A59	CUI E13 C0240211
+A60	UMLS-Preferred-Name E13 Lip swelling
+A61	MEDDRA-PT E13 Lip swelling
+A62	MEDDRA-PT-ID E13 10024570
+A63	LLT E13 Swelling of lips
+A64	LLT-ID E13 10042703
+A65	CUI E14 C0236068
+A66	UMLS-Preferred-Name E14 Tongue swelling
+A67	MEDDRA-PT E14 Swollen tongue
+A68	MEDDRA-PT-ID E14 10042727
+A69	LLT E14 Swelling of tongue
+A70	LLT-ID E14 10042706
+A71	CUI E15 C0559687
+A72	UMLS-Preferred-Name E15 Congestion of throat
+A73	MEDDRA-PT E15 Pharyngeal oedema
+A74	MEDDRA-PT-ID E15 10034829
+A75	LLT E15 Throat swelling
+A76	LLT-ID E15 10043525

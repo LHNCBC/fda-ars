@@ -1,0 +1,75 @@
+00000000|AA|PTLD|Post-Transplant Lymphoproliferative Disorder|1|4|7|44|101:4
+00000000|AA|PML|Progressive Multifocal Leukoencephalopathy|1|3|5|42|522:3
+00000000|AA|VCA|viral capsid antigen|1|3|5|20|2597:3
+00000000|AA|EBNA|EBV nuclear antigen|1|4|5|19|2627:4
+00000000|AA|CMV|cytomegalovirus|1|3|1|15|3049:3
+00000000|AA|UV|ultraviolet|1|2|1|11|4497:2
+00000000|AA|MMF|mycophenolate mofetil|1|3|3|21|5054:3
+00000000|AA|CSF|cerebrospinal fluid|1|3|3|19|5653:3
+00000000|AA|PCR|polymerase chain reaction|1|3|5|25|5713:3
+00000000|AA|PVAN|polyoma virus-associated nephropathy|1|4|7|36|7128:4
+00000000|MMI|367.75|Leukoencephalopathy, Progressive Multifocal|C0023524|[dsyn]|["Progressive multifocal leucoencephalopathy"-tx-54-"PML"-noun-0,"Progressive multifocal leucoencephalopathy"-tx-52-"PML"-noun-0,"Progressive multifocal leucoencephalopathy"-tx-45-"PML"-noun-0,"Progressive multifocal leucoencephalopathy"-tx-37-"PML"-noun-0,"Progressive multifocal leucoencephalopathy"-tx-36-"PML"-noun-0,"Progressive multifocal leucoencephalopathy"-tx-35-"PML"-noun-0,"progressive multifocal leukoencephalopathy (diagnosis)"-tx-34-"PML diagnosis"-noun-0,"Progressive multifocal leucoencephalopathy"-tx-33-"PML"-noun-0,"Progressive multifocal leucoencephalopathy"-tx-32-"PML"-noun-0,"Progressive multifocal leucoencephalopathy"-tx-31-"PML"-noun-0,"Progressive multifocal leucoencephalopathy"-tx-31-"Progressive Multifocal Leukoencephalopathy"-noun-0,"Progressive multifocal leucoencephalopathy"-tx-4-"Progressive Multifocal Leukoencephalopathy"-noun-0]|TX|8313/3;8147/3;7033/3;5890/3;5878/3;5589/3;5463/3,5487/9;5239/3;4895/3;4712/3;4620/42;478/42|C02.182.525.500;C02.256.721.500;C02.290.575;C02.839.550;C10.228.140.430.520.750.500;C10.228.140.695.750;C10.228.228.245.340.500;C10.228.228.399.750.500;C10.314.450
+00000000|MMI|118.41|Post-transplant lymphoproliferative disorder|C0432487|[neop]|["Post transplant lymphoproliferative disorder"-tx-53-"PTLD"-noun-0,"Post transplant lymphoproliferative disorder"-tx-52-"PTLD"-noun-0,"Post transplant lymphoproliferative disorder"-tx-29-"PTLD"-noun-0,"Post transplant lymphoproliferative disorder"-tx-25-"PTLD"-noun-0,"Post transplant lymphoproliferative disorder"-tx-24-"PTLD"-noun-0,"Post transplant lymphoproliferative disorder"-tx-21-"PTLD"-noun-0,"Post transplant lymphoproliferative disorder"-tx-17-"PTLD"-noun-0,"Post transplant lymphoproliferative disorder"-tx-16-"PTLD"-noun-0,"Post transplant lymphoproliferative disorder"-tx-15-"PTLD"-noun-0,"Post transplant lymphoproliferative disorder"-tx-14-"PTLD"-noun-0,"Post transplant lymphoproliferative disorder"-tx-14-"Post-Transplant Lymphoproliferative Disorder"-noun-0,"Post transplant lymphoproliferative disorder"-tx-14-"post-transplant lymphoproliferative disorder"-noun-0,"Post transplant lymphoproliferative disorder"-tx-1-"Post-Transplant Lymphoproliferative Disorder"-noun-0]|TX|8228/4;8078/4;4367/4;[3584/4],[3637/4];3380/4;3019/4;2370/4;2229/4;1948/4;1743/4;1584/44;1697/44;55/44|
+00000000|MMI|114.38|Immunosuppression|C4048329|[dsyn]|["Immunosuppression"-tx-49-"immunosuppression"-noun-0,"Immunosuppression"-tx-48-"immunosuppression"-noun-0,"Immunosuppression"-tx-37-"immunosuppression"-noun-0,"Immunosuppression"-tx-33-"immunosuppression"-noun-0,"Immunosuppression"-tx-26-"Immunosuppression"-noun-0,"Immunosuppression"-tx-15-"immunosuppression"-noun-0,"Immunosuppression"-tx-8-"immunosuppression"-noun-0]|TX|7541/17;7405/17;5968/17;5291/17;3764/17;1909/17;1018/17|E02.095.465.425.450;E05.478.610
+00000000|MMI|73.89|Tuberculosis|C0041296|[dsyn]|["TUBERCULOSIS"-tx-43-"tuberculosis"-noun-0,"TUBERCULOSIS"-tx-42-"Tuberculosis"-noun-0,"TUBERCULOSIS"-tx-9-"tuberculosis"-noun-1,"TUBERCULOSIS"-tx-6-"tuberculosis"-noun-0]|TX|6792/12;6595/12;1050/12;886/12|C01.252.410.040.552.846
+00000000|MMI|27.33|Cytomegalovirus Infections|C0010823|[dsyn]|["Cytomegalovirus disease"-tx-25-"CMV disease"-noun-0,"CYTOMEGALOVIRUS INFECTION"-tx-21-"cytomegalovirus infection"-noun-0]|TX|3547/11;3032/15,3054/9|C02.256.466.245
+00000000|MMI|26.16|Infection|C3714514|[patf]|["Infections"-tx-39-"infections"-noun-0,"Infections"-tx-38-"Infections"-noun-0,"Infections"-tx-7-"infections"-noun-0,"Infections"-tx-6-"infections"-noun-0]|TX|6297/10;6058/10;905/10;764/10|C01.539
+00000000|MMI|25.09|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-46-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-42-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-39-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-24-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-14-"Adverse Reactions"-noun-0]|TX|7299/17;6729/17;6385/17;3459/17;1843/17|
+00000000|MMI|24.71|Decreased Immunologic Activity [PE]|C1373218|[patf]|["Immunosuppression"-tx-49-"immunosuppression"-noun-0,"Immunosuppression"-tx-48-"immunosuppression"-noun-0,"Immunosuppression"-tx-37-"immunosuppression"-noun-0,"Immunosuppression"-tx-33-"immunosuppression"-noun-0,"Immunosuppression"-tx-26-"Immunosuppression"-noun-0,"Immunosuppression"-tx-15-"immunosuppression"-noun-0,"Immunosuppression"-tx-8-"immunosuppression"-noun-0]|TX|7541/17;7405/17;5968/17;5291/17;3764/17;1909/17;1018/17|
+00000000|MMI|22.38|Fatal Outcome|C0206277|[patf]|["Fatal outcomes"-tx-39-"fatal outcomes"-noun-0]|TX|6339/5,6346/8|E05.318.308.985.550.325;L01.280.975.550.325;N01.224.935.698.201;N06.850.505.400.975.550.325;N06.850.520.308.985.550.325
+00000000|MMI|21.46|Polyomavirus-associated nephropathy|C1696946|[dsyn]|["Polyomavirus-associated nephropathy"-tx-48-"PVAN"-noun-0,"Polyomavirus-associated nephropathy"-tx-47-"PVAN"-noun-0,"Polyomavirus-associated nephropathy"-tx-46-"PVAN"-noun-0,"Polyomavirus-associated nephropathy"-tx-45-"Polyoma Virus Nephropathy associated"-noun-0,"Polyomavirus-associated nephropathy"-tx-45-"polyoma virus-associated nephropathy"-noun-0,"Polyomavirus-associated nephropathy"-tx-8-"Polyoma virus-associated nephropathy"-noun-0]|TX|7481/4;7385/4;7189/4;6958/25,7022/10;7090/36;928/36|
+00000000|MMI|21.44|Opportunistic Infections|C0029118|[dsyn]|["Opportunistic Infections"-tx-38-"opportunistic infections"-noun-0,"Opportunistic Infections"-tx-6-"opportunistic infections"-noun-0]|TX|6265/24;857/24|C01.539.597;C02.597;C03.684
+00000000|MMI|20.87|Alveolar rhabdomyosarcoma|C0206655|[neop]|["ARMS"-tx-51-"arms"-noun-0]|TX|8046/4|C04.557.450.590.550.660.665;C04.557.450.795.550.660.665
+00000000|MMI|20.82|Latent Tuberculosis|C1609538|[dsyn]|["Latent Tuberculosis Infection"-tx-44-"latent tuberculosis infection"-noun-0]|TX|6879/29|C01.252.410.040.552.846.122
+00000000|MMI|19.74|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-34-"symptoms"-noun-0,"SYMPTOMS"-tx-16-"symptoms"-noun-0,"SYMPTOMS"-tx-4-"symptoms"-noun-0,"SYMPTOMS"-tx-1-"symptoms"-noun-0]|TX|5579/8;2321/8;659/8;236/8|
+00000000|MMI|19.45|Measles|C0025007|[dsyn]|["MEASLES"-tx-59-"measles"-noun-1]|TX|9298/7|C02.782.580.600.500.500
+00000000|MMI|19.45|Mumps|C0026780|[dsyn]|["MUMPS"-tx-59-"mumps"-noun-1]|TX|9307/5|C02.782.580.600.680.500;C07.465.815.470.800.630
+00000000|MMI|18.42|5-6|C3843715|[fndg]|["5-6"-tx-50-"5.6"-real_number-0,"5-6"-tx-32-"5.6"-real_number-0,"5-6"-tx-15-"5.6"-real_number-0,"5-6"-tx-12-"5.6"-real_number-0,"5-6"-tx-2-"5.6"-real_number-0]|TX|7607/3;5225/3;2191/3;1291/3;280/3|
+00000000|MMI|18.42|6/5|C0442749|[fndg]|["5 6"-tx-50-"5.6"-real_number-0,"5 6"-tx-32-"5.6"-real_number-0,"5 6"-tx-15-"5.6"-real_number-0,"5 6"-tx-12-"5.6"-real_number-0,"5 6"-tx-2-"5.6"-real_number-0]|TX|7607/3;5225/3;2191/3;1291/3;280/3|
+00000000|MMI|17.09|Worse|C1457868|[fndg]|["deteriorating"-tx-46-"deteriorating"-verb-0,"Worsening"-tx-34-"worsening"-adj-0,"Worsening"-tx-16-"worsening"-adj-0,"Worsening"-tx-4-"worsening"-adj-0,"Worsening"-tx-1-"worsening"-adj-0]|TX|7241/13;5521/9;2263/9;600/9;177/9|
+00000000|MMI|16.52|Rubella|C0035920|[dsyn]|["RUBELLA"-tx-59-"rubella"-noun-1]|TX|9314/7|C02.782.930.700.700
+00000000|MMI|16.52|Yellow Fever|C0043395|[dsyn]|["Fever, Yellow"-tx-59-"yellow fever"-noun-1]|TX|9340/12|C02.081.980;C02.782.350.250.980;C02.782.417.881
+00000000|MMI|15.56|Protozoan Infections|C0033740|[dsyn]|["protozoal Infections"-tx-38-"protozoal infections"-noun-0,"protozoal Infections"-tx-6-"protozoal infections"-noun-0]|TX|6233/20;825/20|C03.752
+00000000|MMI|15.13|Poliomyelitis|C0032371|[dsyn]|["POLIO"-tx-59-"polio"-noun-1]|TX|9328/5|C02.782.687.359.764;C10.228.228.618.750;C10.228.854.525.850;C10.668.864
+00000000|MMI|14.16|Acute Rejection|C3273245|[fndg]|["Acute Rejection"-tx-55-"Acute Rejection"-noun-0,"Acute Rejection"-tx-55-"acute rejection"-noun-0,"Acute Rejection"-tx-22-"acute rejection"-noun-0,"Acute Rejection"-tx-12-"Acute Rejection"-noun-0]|TX|8457/15;8758/15;3130/15;1306/15|
+00000000|MMI|14.02|Physical findings|C0311392|[fndg]|["SIGNS"-tx-34-"signs"-noun-0,"SIGNS"-tx-16-"signs"-noun-0,"SIGNS"-tx-4-"signs"-noun-0,"SIGNS"-tx-1-"signs"-noun-0]|TX|5570/5;2312/5;649/5;226/5|
+00000000|MMI|13.93|Graft loss|C0877042|[patf]|["Graft loss"-tx-57-"Graft loss"-noun-0,"Graft loss"-tx-55-"Graft Loss"-noun-0,"Graft loss"-tx-51-"graft loss"-noun-0,"Graft loss"-tx-12-"Graft Loss"-noun-0]|TX|8885/10;8477/10;7990/10;1326/10|
+00000000|MMI|13.68|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-54-"fatal"-adj-0,"FATAL"-tx-52-"fatal"-adj-0,"FATAL"-tx-7-"fatal"-adj-0]|TX|8299/5;[8118/5],[8133/5];921/5|
+00000000|MMI|13.60|Chickenpox|C0008049|[dsyn]|["VARICELLA"-tx-59-"varicella"-noun-1]|TX|9354/9|C02.256.466.175
+00000000|MMI|12.20|Influenza|C0021400|[dsyn]|["INFLUENZA"-tx-59-"influenza"-noun-1]|TX|9287/9|C02.782.620.365;C08.730.310
+00000000|MMI|12.03|Pneumocystis jiroveci pneumonia|C1535939|[dsyn]|["Pneumocystis"-tx-10-"pneumocystis"-noun-0]|TX|1149/12|C01.703.534.700;C01.703.770.700;C08.381.472.700;C08.381.677.675;C08.730.435.700;C08.730.610.675
+00000000|MMI|10.67|Communicable Diseases|C0009450|[dsyn]|["INFECTIOUS DISEASE"-tx-36-"infectious disease"-noun-0]|TX|5797/18|C01.539.221
+00000000|MMI|10.28|Diagnosis|C0011900|[fndg]|["DIAGNOSED"-tx-37-"diagnosed"-verb-0,"DIAGNOSED"-tx-35-"diagnosed"-verb-0,"DIAGNOSIS"-tx-4-"diagnosis"-noun-0]|TX|5897/9;5604/9;561/9|E01
+00000000|MMI|7.05|Renal graft loss|C0877690|[patf]|["Renal graft loss"-tx-46-"kidney graft loss"-noun-0,"Renal graft loss"-tx-8-"kidney graft loss"-noun-0]|TX|7274/17;977/17|
+00000000|MMI|6.93|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-21-"Risk Factors"-noun-0,"risk factors"-tx-21-"risk factors"-noun-0]|TX|2972/12;3002/12|
+00000000|MMI|6.62|latent infection|C0872054|[dsyn]|["Latent Infection"-tx-43-"latent infection"-noun-0,"Latent Infection"-tx-9-"latent infection"-noun-1]|TX|6820/16;1090/16|
+00000000|MMI|6.56|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-56-"Grade III"-noun-0,"GRADE 3"-tx-55-"Grade III"-noun-0]|TX|8815/9;8788/9|
+00000000|MMI|6.28|Transplant|C3841811|[fndg]|["Transplant"-tx-55-"transplant"-adj-0]|TX|8696/10|A01.941
+00000000|MMI|4.81|4+ Answer to question|C3838679|[fndg]|["4+"-tx-2-"4"-integer-0]|TX|266/1|
+00000000|MMI|4.81|Death (finding)|C1306577|[fndg]|["Death"-tx-51-"death"-noun-0]|TX|8005/5|
+00000000|MMI|4.81|Detected (finding)|C0442726|[fndg]|["detect"-tx-47-"detect"-verb-0]|TX|7357/6|
+00000000|MMI|4.81|Exposure to sunlight as an external cause of morbidity and mortality|C0497062|[inpo]|["Exposure to sunlight"-tx-30-"Exposure to sunlight"-noun-0]|TX|4459/20|
+00000000|MMI|4.81|Herpes NOS|C0019340|[dsyn]|["HERPES"-tx-38-"herpes"-noun-0]|TX|6212/6|
+00000000|MMI|4.81|Malignant Neoplasms|C0006826|[neop]|["MALIGNANCIES"-tx-2-"malignancies"-noun-0]|TX|301/12|
+00000000|MMI|4.81|Used by|C1273517|[fndg]|["used"-tx-22-"used"-verb-0]|TX|3156/4|
+00000000|MMI|4.81|consideration|C0518609|[fndg]|["CONSIDERATION"-tx-37-"consideration"-noun-0]|TX|5908/13|
+00000000|MMI|3.48|Rapidly progressive|C1838681|[fndg]|["Rapidly progressive"-tx-31-"rapidly progressive"-adj-0]|TX|4729/19|
+00000000|MMI|3.42|1+|C3816745|[fndg]|["1+"-tx-53-"1"-percentage-0]|TX|8288/1|
+00000000|MMI|3.38|BK virus infection|C1096691|[dsyn]|["BK Virus Infection"-tx-45-"BK virus infection"-noun-0]|TX|7149/18|
+00000000|MMI|3.38|CTCAE Grade 5 Opportunistic Infection|C1557113|[fndg]|["Fatal Opportunistic Infection"-tx-31-"fatal opportunistic infection"-noun-0]|TX|4753/29|
+00000000|MMI|3.38|History of liver recipient|C0455647|[fndg]|["liver transplant recipient"-tx-32-"liver transplant recipient"-noun-0]|TX|5165/26|
+00000000|MMI|3.38|Liver transplant recipient|C3811922|[fndg]|["Liver transplant recipient"-tx-32-"liver transplant recipient"-noun-0]|TX|5165/26|
+00000000|MMI|3.37|Increased risk of malignancy|C1857701|[fndg]|["Increased risk of malignancy"-tx-29-"increased risk of malignancies"-noun-0]|TX|4309/17,4338/12|
+00000000|MMI|3.36|patient report|C0747307|[fndg]|["Patient reported"-tx-54-"reported patient"-noun-0]|TX|8321/8,8335/7|
+00000000|MMI|3.35|Transplanted organ and tissue status|C0478647|[fndg]|["transplant"-tx-55-"transplant"-adj-0]|TX|8696/10|
+00000000|MMI|3.33|Clinical Significance|C2826293|[fndg]|["Clinical Significance"-tx-25-"clinical significance"-noun-0]|TX|3595/21|
+00000000|MMI|3.33|Related personal status|C0445223|[fndg]|["Related"-tx-2-"related"-verb-0]|TX|368/7|
+00000000|MMI|3.33|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-52-"randomized"-verb-0]|TX|8188/10|
+00000000|MMI|3.31|Limited Walking Ability|C2674459|[fndg]|["Limited"-tx-59-"limited"-verb-1]|TX|9250/7|
+00000000|MMI|3.31|School Grade|C3244287|[fndg]|["grade"-tx-55-"grade"-noun-0]|TX|8749/5|
+00000000|MMI|3.31|Withdrawal (dysfunction)|C2825032|[mobd]|["Withdrawal"-tx-37-"withdrawal"-noun-0]|TX|5954/10|
+00000000|MMI|3.31|Withdrawal - birth control|C3812880|[fndg]|["Withdrawal"-tx-37-"withdrawal"-noun-0]|TX|5954/10|
+00000000|MMI|3.30|Responsible to|C1273518|[fndg]|["Responsible"-tx-28-"responsible"-adj-0]|TX|4066/11|
+00000000|MMI|3.21|Day 3|C3842675|[fndg]|["Day 3"-tx-55-"day 3"-noun-0]|TX|8662/3,8678/1|
+00000000|MMI|3.18|Follow-up status|C0589120|[fndg]|["Follow-up"-tx-28-"follow-up"-adj-0]|TX|4157/9|
+00000000|MMI|3.18|Protection|C1545588|[fndg]|["Protection"-tx-30-"protection"-noun-0]|TX|4590/10|

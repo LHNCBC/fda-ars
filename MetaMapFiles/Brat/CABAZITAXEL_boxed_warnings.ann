@@ -1,0 +1,148 @@
+T1	AdverseReaction 30 41	NEUTROPENIA
+T2	AdverseReaction 46 62	HYPERSENSITIVITY
+T3	AdverseReaction 77 88	NEUTROPENIA
+T4	AdverseReaction 93 109	HYPERSENSITIVITY
+T5	AdverseReaction 137 148	NEUTROPENIA
+T6	AdverseReaction 153 169	HYPERSENSITIVITY
+T7	AdverseReaction 252 263	Neutropenic
+T8	AdverseReaction 264 270	deaths
+T9	AdverseReaction 433 449	hypersensitivity
+T10	Severity 426 432	Severe
+T11	Factor 450 453	can
+T12	Factor 464 467	may
+T13	AdverseReaction 476 492	generalized rash
+T14	AdverseReaction 493 501	erythema
+T15	AdverseReaction 503 514	hypotension
+T16	AdverseReaction 519 531	bronchospasm
+T17	AdverseReaction 796 807	Neutropenic
+T18	AdverseReaction 808 814	deaths
+T19	AdverseReaction 1181 1207	hypersensitivity reactions
+T20	Severity 1174 1180	Severe
+T21	Factor 1208 1211	can
+T22	Factor 1222 1225	may
+T23	AdverseReaction 1234 1250	generalized rash
+T24	AdverseReaction 1251 1259	erythema
+T25	AdverseReaction 1261 1272	hypotension
+T26	AdverseReaction 1277 1289	bronchospasm
+T27	AdverseReaction 1298 1324	hypersensitivity reactions
+T28	Severity 1291 1297	Severe
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9 Effect:E10 Hypothetical:E11
+E10	Severity:T10
+E11	Factor:T11
+E12	Factor:T12
+E13	AdverseReaction:T13 Hypothetical:E12
+E14	AdverseReaction:T14 Hypothetical:E12
+E15	AdverseReaction:T15 Hypothetical:E12
+E16	AdverseReaction:T16 Hypothetical:E12
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19 Effect:E20 Hypothetical:E21
+E20	Severity:T20
+E21	Factor:T21
+E22	Factor:T22
+E23	AdverseReaction:T23 Hypothetical:E22
+E24	AdverseReaction:T24 Hypothetical:E22
+E25	AdverseReaction:T25 Hypothetical:E22
+E26	AdverseReaction:T26 Hypothetical:E22
+E27	AdverseReaction:T27 Effect:E28
+E28	Severity:T28
+A1	CUI E1 C0027947
+A2	UMLS-Preferred-Name E1 Neutropenia
+A3	MEDDRA-PT E1 Neutropenia
+A4	MEDDRA-PT-ID E1 10029354
+A5	CUI E2 C0020517
+A6	UMLS-Preferred-Name E2 Hypersensitivity
+A7	MEDDRA-PT E2 Hypersensitivity
+A8	MEDDRA-PT-ID E2 10020751
+A9	CUI E3 C0027947
+A10	UMLS-Preferred-Name E3 Neutropenia
+A11	MEDDRA-PT E3 Neutropenia
+A12	MEDDRA-PT-ID E3 10029354
+A13	CUI E4 C0020517
+A14	UMLS-Preferred-Name E4 Hypersensitivity
+A15	MEDDRA-PT E4 Hypersensitivity
+A16	MEDDRA-PT-ID E4 10020751
+A17	CUI E5 C0027947
+A18	UMLS-Preferred-Name E5 Neutropenia
+A19	MEDDRA-PT E5 Neutropenia
+A20	MEDDRA-PT-ID E5 10029354
+A21	CUI E6 C0020517
+A22	UMLS-Preferred-Name E6 Hypersensitivity
+A23	MEDDRA-PT E6 Hypersensitivity
+A24	MEDDRA-PT-ID E6 10020751
+A25	CUI E7 C0027947
+A26	UMLS-Preferred-Name E7 Neutropenia
+A27	MEDDRA-PT E7 Neutropenia
+A28	MEDDRA-PT-ID E7 10029354
+A29	CUI E8 C1306577
+A30	UMLS-Preferred-Name E8 Death (finding)
+A31	MEDDRA-PT E8 Death
+A32	MEDDRA-PT-ID E8 10011906
+A33	CUI E9 C0020517
+A34	UMLS-Preferred-Name E9 Hypersensitivity
+A35	MEDDRA-PT E9 Hypersensitivity
+A36	MEDDRA-PT-ID E9 10020751
+A37	CUI E13 C0497365
+A38	UMLS-Preferred-Name E13 Rash generalised
+A39	MEDDRA-PT E13 Rash generalised
+A40	MEDDRA-PT-ID E13 10037858
+A41	LLT E13 Generalized rash
+A42	LLT-ID E13 10049201
+A43	CUI E14 C0041834
+A44	UMLS-Preferred-Name E14 Erythema
+A45	MEDDRA-PT E14 Erythema
+A46	MEDDRA-PT-ID E14 10015150
+A47	CUI E15 C0020649
+A48	UMLS-Preferred-Name E15 Hypotension
+A49	MEDDRA-PT E15 Hypotension
+A50	MEDDRA-PT-ID E15 10021097
+A51	CUI E16 C0006266
+A52	UMLS-Preferred-Name E16 Bronchial Spasm
+A53	MEDDRA-PT E16 Bronchospasm
+A54	MEDDRA-PT-ID E16 10006482
+A55	CUI E17 C0027947
+A56	UMLS-Preferred-Name E17 Neutropenia
+A57	MEDDRA-PT E17 Neutropenia
+A58	MEDDRA-PT-ID E17 10029354
+A59	CUI E18 C1306577
+A60	UMLS-Preferred-Name E18 Death (finding)
+A61	MEDDRA-PT E18 Death
+A62	MEDDRA-PT-ID E18 10011906
+A63	CUI E19 C0020517
+A64	UMLS-Preferred-Name E19 Hypersensitivity
+A65	MEDDRA-PT E19 Hypersensitivity
+A66	MEDDRA-PT-ID E19 10020751
+A67	LLT E19 Hypersensitivity reaction
+A68	LLT-ID E19 10020756
+A69	CUI E23 C0497365
+A70	UMLS-Preferred-Name E23 Rash generalised
+A71	MEDDRA-PT E23 Rash generalised
+A72	MEDDRA-PT-ID E23 10037858
+A73	LLT E23 Generalized rash
+A74	LLT-ID E23 10049201
+A75	CUI E24 C0041834
+A76	UMLS-Preferred-Name E24 Erythema
+A77	MEDDRA-PT E24 Erythema
+A78	MEDDRA-PT-ID E24 10015150
+A79	CUI E25 C0020649
+A80	UMLS-Preferred-Name E25 Hypotension
+A81	MEDDRA-PT E25 Hypotension
+A82	MEDDRA-PT-ID E25 10021097
+A83	CUI E26 C0006266
+A84	UMLS-Preferred-Name E26 Bronchial Spasm
+A85	MEDDRA-PT E26 Bronchospasm
+A86	MEDDRA-PT-ID E26 10006482
+A87	CUI E27 C0020517
+A88	UMLS-Preferred-Name E27 Hypersensitivity
+A89	MEDDRA-PT E27 Hypersensitivity
+A90	MEDDRA-PT-ID E27 10020751
+A91	LLT E27 Hypersensitivity reaction
+A92	LLT-ID E27 10020756

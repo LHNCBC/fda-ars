@@ -1,0 +1,72 @@
+00000000|MMI|119.44|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-29-"adverse reactions"-noun-0,"Adverse reactions"-tx-27-"adverse reactions"-noun-0,"Adverse reactions"-tx-26-"adverse reactions"-noun-1,"Adverse reactions"-tx-24-"adverse reactions"-noun-0,"Adverse reactions"-tx-17-"adverse reactions"-noun-1,"Adverse reactions"-tx-16-"adverse reactions"-noun-0,"Adverse reactions"-tx-13-"adverse reactions"-noun-0,"Adverse reactions"-tx-12-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-11-"adverse reaction"-noun-0,"ADVERSE REACTION"-tx-10-"adverse reaction"-noun-0,"ADVERSE REACTION"-tx-5-"adverse reaction"-noun-0,"Adverse reactions"-tx-4-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-3-"adverse reactions"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0]|TX|6326/17;5985/17;5851/17;5460/17;3688/17;3526/17;2183/17;2065/17;1950/16;1820/16;817/16;525/17;368/17;12/17|
+00000000|MMI|64.10|Coughing|C0010200|[sosy]|["COUGH"-tx-20-"Cough"-verb-0,"COUGH"-tx-19-"cough"-noun-0,"COUGH"-tx-18-"cough"-noun-0,"COUGH"-tx-16-"Cough"-noun-0,"COUGH"-tx-3-"cough"-noun-0]|TX|4731/5;4629/5;4475/5;3091/5;425/5|C08.618.248;C23.888.852.293
+00000000|MMI|61.41|Asthma|C0004096|[dsyn]|["-- Asthma"-tx-21-"Asthma"-noun-0,"-- Asthma"-tx-21-"asthma"-noun-0,"-- Asthma"-tx-2-"asthma"-noun-1,"-- Asthma"-tx-1-"asthma"-noun-0]|TX|4921/6;4974/6;245/6;158/6|C08.127.108;C08.381.495.108;C08.674.095;C20.543.480.680.095
+00000000|MMI|49.81|Chronic Obstructive Airway Disease|C0024117|[dsyn]|["-- COPD"-tx-16-"COPD"-noun-0,"-- COPD"-tx-12-"COPD"-noun-0,"-- COPD"-tx-7-"COPD"-noun-0,"CHRONIC OBSTRUCTIVE PULMONARY DISEASE"-tx-5-"Chronic Obstructive Pulmonary Disease"-noun-0]|TX|2748/4;2137/4;1386/4;705/37|C08.381.495.389
+00000000|MMI|37.56|Disease|C0012634|[dsyn]|["DISEASE"-tx-20-"disease"-noun-1,"Disorders"-tx-18-"disorders"-noun-0,"condition"-tx-18-"conditions"-noun-0,"condition"-tx-5-"conditions"-noun-0]|TX|4848/7;4066/9;4100/10;805/10|C23.550.288
+00000000|MMI|30.55|Headache|C0018681|[sosy]|["HEADACHE"-tx-16-"Headache"-noun-0,"HEADACHE"-tx-3-"headache"-noun-0]|TX|3321/8;469/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|29.09|75%)|C4015571|[fndg]|["75%)"-tx-18-"75"-integer-0,"75%)"-tx-17-"75"-integer-1,"75%)"-tx-16-"75"-integer-0,"75%)"-tx-14-"75"-integer-0,"75%)"-tx-7-"75"-integer-0,"75%)"-tx-6-"75"-integer-0]|TX|4547/2;3727/2;[2790/2],[2888/2],[3574/2];2486/2;1338/2;1118/2|
+00000000|MMI|26.35|Adverse reaction to drug|C0041755|[inpo]|["Reactions, Adverse Drug"-tx-18-"adverse drug reactions"-noun-0,"Reactions, Adverse Drug"-tx-16-"adverse drug reactions"-noun-0,"Reactions, Adverse Drug"-tx-15-"Adverse drug reactions"-noun-0,"Reactions, Adverse Drug"-tx-14-"adverse drug reactions"-noun-0]|TX|3799/22;2680/22;2510/22;2356/22|C25.100
+00000000|MMI|24.71|Nasopharyngitis|C0027441|[dsyn]|["NASOPHARYNGITIS"-tx-16-"Nasopharyngitis"-noun-0,"NASOPHARYNGITIS"-tx-3-"nasopharyngitis"-noun-0]|TX|3236/15;452/15|C07.550.350.700;C07.550.781.500;C08.730.561.500;C09.775.350.700;C09.775.649.500
+00000000|MMI|24.68|Nausea|C0027497|[sosy]|["NAUSEA"-tx-16-"Nausea"-noun-0,"NAUSEA"-tx-3-"nausea"-noun-0]|TX|3406/6;482/6|C23.888.821.712
+00000000|MMI|24.14|Tachycardia|C0039231|[patf]|["HEART RATE INCREASED"-tx-29-"heart rate increase"-noun-0,"TACHYCARDIA"-tx-29-"tachycardia"-noun-0]|TX|6415/19;6403/11|C14.280.067.845;C23.550.073.845
+00000000|MMI|19.45|Angina Pectoris|C0002962|[fndg]|["ANGINA PECTORIS"-tx-13-"angina pectoris"-noun-0]|TX|2236/15|C10.597.617.192.500;C14.280.647.187;C14.907.585.187;C23.888.592.612.233.500
+00000000|MMI|18.35|2+|C3833492|[fndg]|["2+"-tx-18-"2"-percentage-0,"2+"-tx-16-"2"-real_number-0,"2+"-tx-3-"2"-percentage-0]|TX|3847/1;[3169/1],[3274/1],[3425/1];388/1|
+00000000|MMI|18.28|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-20-"Cough"-verb-0,"Cough"-tx-19-"cough"-noun-0,"Cough"-tx-18-"cough"-noun-0,"Cough"-tx-16-"Cough"-noun-0,"Cough"-tx-3-"cough"-noun-0]|TX|4731/5;4629/5;4475/5;3091/5;425/5|
+00000000|MMI|17.93|Uncertainty|C0087130|[fndg]|["Uncertain"-tx-28-"uncertain"-adj-0]|TX|6188/9|E05.318.740.600.900;F02.463.785.373.820;G17.680.875;N05.715.360.750.625.850;N06.850.520.830.600.900
+00000000|MMI|16.52|Dizziness|C0012833|[sosy]|["Dizzyness"-tx-29-"dizziness"-noun-0]|TX|6467/9|C10.597.751.237;C23.888.592.763.237
+00000000|MMI|16.52|Musculoskeletal Pain|C0026858|[fndg]|["MUSCULOSKELETAL PAIN"-tx-18-"musculoskeletal pain"-noun-0]|TX|4030/20|C05.651.538;C10.597.617.231;C23.888.592.612.547;F02.830.816.353;G11.561.600.810.353
+00000000|MMI|16.52|Spasm|C0037763|[sosy]|["MUSCLE SPASM"-tx-18-"muscle spasm"-noun-0]|TX|4016/12|C10.597.613.750;C23.888.592.608.750
+00000000|MMI|16.52|Vertigo|C0042571|[sosy]|["dizziness"-tx-29-"dizziness"-noun-0]|TX|6467/9|C09.218.568.900.883;C10.597.951;C23.888.592.958
+00000000|MMI|15.56|Infection|C3714514|[patf]|["Infections"-tx-18-"Infections"-noun-0,"Infections"-tx-16-"Infections"-noun-0]|TX|4207/10;3202/10|C01.539
+00000000|MMI|13.60|Atrial Fibrillation|C0004238|[dsyn]|["ATRIAL FIBRILLATION"-tx-13-"atrial fibrillation"-noun-0]|TX|2257/19|C14.280.067.198;C23.550.073.198
+00000000|MMI|13.60|Diabetes Mellitus|C0011849|[dsyn]|["DIABETES MELLITUS"-tx-18-"diabetes mellitus"-noun-0]|TX|4169/17|C18.452.394.750;C19.246
+00000000|MMI|13.60|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-12-"dyspnea"-noun-0]|TX|2146/7|C08.618.326;C23.888.852.371
+00000000|MMI|13.60|Hyperglycemia|C0020456|[dsyn]|["HYPERGLYCEMIA"-tx-18-"hyperglycemia"-noun-0]|TX|4188/13|C18.452.394.952
+00000000|MMI|13.60|Sinusitis|C0037199|[dsyn]|["SINUSITIS"-tx-18-"sinusitis"-noun-0]|TX|4236/9|C08.460.692.752;C08.730.749;C09.603.692.752
+00000000|MMI|13.58|Death (finding)|C1306577|[fndg]|["DEATHS"-tx-26-"deaths"-noun-1,"DEATHS"-tx-23-"deaths"-noun-1,"DEATHS"-tx-22-"deaths"-noun-0,"Death"-tx-1-"death"-noun-0]|TX|5819/6;5359/6;5294/6;173/5|
+00000000|MMI|13.28|Related personal status|C0445223|[fndg]|["Related"-tx-26-"related"-verb-1,"Related"-tx-24-"related"-verb-0,"Related"-tx-22-"related"-adj-0,"Related"-tx-1-"related"-adj-0]|TX|5869/7;5478/7;5286/7;165/7|
+00000000|MMI|10.67|Edema|C0013604|[fndg]|["OEDEMA"-tx-18-"edema"-noun-0]|TX|4112/5|C23.888.277
+00000000|MMI|10.67|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-13-"pneumonia"-noun-0]|TX|2225/9|C08.381.677;C08.730.610
+00000000|MMI|10.67|Prurigo|C0033771|[dsyn]|["Pruritus rash"-tx-29-"pruritus/rash"-noun-0]|TX|6449/13|C17.800.674
+00000000|MMI|10.47|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-21-"randomized"-verb-0,"RANDOMIZED"-tx-21-"randomized"-verb-1,"RANDOMIZED"-tx-6-"randomized"-adj-0]|TX|[4944/10],[5230/10];[4944/10],[5230/10];1178/10|
+00000000|MMI|10.11|Chronic obstructive pulmonary disease of horses|C3714496|[dsyn]|["COPD"-tx-16-"COPD"-noun-0,"COPD"-tx-12-"COPD"-noun-0,"COPD"-tx-7-"COPD"-noun-0]|TX|2748/4;2137/4;1386/4|
+00000000|MMI|10.00|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-16-"3"-integer-0,"3+"-tx-14-"3"-integer-0]|TX|[3182/1],[3611/1];2450/1|
+00000000|MMI|9.27|Mediastinal Diseases|C0025061|[dsyn]|["Mediastinal Disorders"-tx-16-"mediastinal disorders"-noun-0]|TX|3063/21|C08.846.187
+00000000|MMI|9.19|Bronchial Spasm|C0006266|[dsyn]|["BRONCHOSPASM"-tx-20-"bronchospasm"-noun-1]|TX|4801/12|C08.127.321
+00000000|MMI|9.05|Upper Respiratory Infections|C0041912|[dsyn]|["Infection, Upper Respiratory Tract"-tx-18-"upper respiratory tract infection"-noun-0]|TX|4247/33|C01.539.739;C08.730
+00000000|MMI|7.74|Connective Tissue Diseases|C0009782|[dsyn]|["Connective Tissue Disorders"-tx-18-"connective tissue disorders"-noun-0]|TX|3987/27|C17.300
+00000000|MMI|7.74|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-29-"hypersensitivity reactions"-noun-0]|TX|6349/26|C20.543
+00000000|MMI|7.74|Nutrition Disorders|C3714509|[dsyn]|["Nutrition Disorder"-tx-18-"nutrition disorder"-noun-0]|TX|4149/18|C18.654
+00000000|MMI|7.28|Oropharyngeal pain|C2363731|[sosy]|["Oropharyngeal pain"-tx-16-"Oropharyngeal pain"-noun-0,"Oropharyngeal pain"-tx-3-"oropharyngeal pain"-noun-0]|TX|3145/18;432/18|
+00000000|MMI|7.06|Infestation|C0851341|[dsyn]|["infestations"-tx-18-"infestations"-noun-0,"infestations"-tx-16-"infestations"-noun-0]|TX|4222/12;3217/12|
+00000000|MMI|7.02|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-16-"Nausea"-noun-0,"Nausea"-tx-3-"nausea"-noun-0]|TX|3406/6;482/6|
+00000000|MMI|7.01|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-16-"Headache"-noun-0,"headache"-tx-3-"headache"-noun-0]|TX|3321/8;469/8|
+00000000|MMI|6.92|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-12-"discontinuation"-noun-0,"Discontinued"-tx-11-"discontinued"-verb-0]|TX|2096/15;1920/12|
+00000000|MMI|6.87|0%|C3842591|[fndg]|["0%"-tx-16-"0"-real_number-0]|TX|[3185/1],[3441/1]|
+00000000|MMI|6.79|Exacerbation of asthma|C0349790|[fndg]|["asthma exacerbation"-tx-26-"asthma exacerbation"-noun-1,"asthma exacerbation"-tx-24-"asthma exacerbation"-noun-0]|TX|5880/19;5489/19|
+00000000|MMI|6.71|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-16-"exposure"-noun-0,"Exposure NOS"-tx-6-"exposure"-noun-0]|TX|3619/8;1060/8|
+00000000|MMI|6.71|exposure history|C2220266|[fndg]|["exposure"-tx-16-"exposure"-noun-0,"exposure"-tx-6-"exposure"-noun-0]|TX|3619/8;1060/8|
+00000000|MMI|6.70|Received therapy or drug for|C0332154|[fndg]|["Treated for"-tx-11-"for treated"-adj-0]|TX|[1974/3,1995/7],[2019/3,2031/7]|
+00000000|MMI|6.69|20%|C3842589|[fndg]|["20%"-tx-18-"20"-percentage-0,"20%"-tx-16-"20"-integer-0]|TX|4493/2;3123/2|
+00000000|MMI|6.34|Gastrointestinal Diseases|C0017178|[dsyn]|["GASTROINTESTINAL DISORDERS"-tx-16-"Gastrointestinal disorders"-noun-0]|TX|3373/26|C06.405
+00000000|MMI|4.81|6/5|C0442749|[fndg]|["6/5"-tx-16-"6.5"-real_number-0]|TX|3110/3|
+00000000|MMI|4.81|Atrial Fibrillation Adverse Event|C1963067|[fndg]|["Atrial fibrillation"-tx-13-"atrial fibrillation"-noun-0]|TX|2257/19|
+00000000|MMI|4.81|COPD exacerbation|C0740304|[dsyn]|["COPD EXACERBATION"-tx-13-"COPD exacerbation"-noun-0]|TX|2206/17|
+00000000|MMI|4.81|Dizziness Adverse Event|C1963093|[fndg]|["Dizziness"-tx-29-"dizziness"-noun-0]|TX|6467/9|
+00000000|MMI|4.81|Myotonus (finding)|C0700153|[sosy]|["Muscle spasm"-tx-18-"muscle spasm"-noun-0]|TX|4016/12|
+00000000|MMI|4.81|Paradoxical bronchospasm|C0236072|[patf]|["Paradoxical bronchospasm"-tx-29-"paradoxical bronchospasm"-noun-0]|TX|6377/24|
+00000000|MMI|4.81|Severe persistent asthma|C1960048|[dsyn]|["Severe persistent asthma"-tx-21-"severe persistent asthma"-noun-0]|TX|5031/24|
+00000000|MMI|3.45|nervous system disorder|C0027765|[dsyn]|["Disorders, Nervous System"-tx-16-"Nervous system disorders"-noun-0]|TX|3290/24|C10
+00000000|MMI|3.37|10%|C3842590|[fndg]|["10%"-tx-16-"10"-integer-0]|TX|3165/2|
+00000000|MMI|3.35|29+|C3843708|[fndg]|["29+"-tx-16-"29"-integer-0]|TX|3106/2|
+00000000|MMI|3.35|Palpitations|C0030252|[fndg]|["PALPITATIONS"-tx-29-"palpitations"-noun-0]|TX|6435/12|
+00000000|MMI|3.35|Palpitations Adverse Event|C3160712|[fndg]|["Palpitations"-tx-29-"palpitations"-noun-0]|TX|6435/12|
+00000000|MMI|3.31|1+|C3816745|[fndg]|["1+"-tx-16-"1"-percentage-0]|TX|3585/1|
+00000000|MMI|3.30|Indicated|C1444656|[fndg]|["Indicated"-tx-2-"indicated"-verb-1]|TX|214/9|
+00000000|MMI|3.29|Container status - Identified|C1550043|[fndg]|["Identified"-tx-27-"identified"-verb-0]|TX|6013/10|
+00000000|MMI|3.28|6/3|C1630409|[fndg]|["6/3"-tx-27-"6.3"-real_number-0]|TX|5935/3|
+00000000|MMI|3.25|65+|C3843765|[fndg]|["65+"-tx-9-"65"-integer-0]|TX|1659/2|
+00000000|MMI|3.25|FEV1 Adverse Event|C1561566|[fndg]|["FEV(1)"-tx-8-"FEV1"-noun-0]|TX|1562/4|
+00000000|MMI|3.25|Forced expiratory volume in 1 second finding|C0429706|[fndg]|["FEV 1.0"-tx-8-"FEV1"-noun-0]|TX|1562/4|
+00000000|MMI|3.25|Mild persistent asthma|C1960046|[dsyn]|["Mild persistent asthma"-tx-25-"mild persistent asthma"-noun-0]|TX|5761/22|
+00000000|MMI|3.21|Tachycardia by ECG Finding|C3827868|[fndg]|["TACHYCARDIA"-tx-29-"tachycardia"-noun-0]|TX|6403/11|

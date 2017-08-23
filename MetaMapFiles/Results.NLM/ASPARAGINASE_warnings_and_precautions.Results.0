@@ -1,0 +1,34 @@
+105,131|TP|hypersensitivity reactions|C0020517|10020751|105,131|hypersensitivity reactions|C0020517|10020751|patf
+143,154|TP|anaphylaxis|C0002792|10002198|143,154|anaphylaxis|C0002792,C0850803|10002198,10002198,10002199,10002199|patf,dsyn
+170,194|TP|hemorrhagic pancreatitis|C0267940|10033650|170,194|hemorrhagic pancreatitis|C0267940|10033650|dsyn
+182,194|FN|pancreatitis|C0030305
+208,227|TP|Glucose intolerance|C0271650|10018429|208,227|Glucose intolerance|C0271650|10018429|dsyn
+320,333|FP|hyperglycemia|C0020456|10020635|dsyn
+374,384|TP|Thrombosis|C0040053|10043607|374,384|Thrombosis|C0040053,C2586211|10043607,10043607|patf,patf
+386,396|TP|hemorrhage|C0019080|10055798|386,396|hemorrhage|C0019080|10015867,10055798|patf
+499,525|TP|hypersensitivity reactions|C0020517|10020751|499,525|hypersensitivity reactions|C0020517|10020751|patf
+746,757|FP|anaphylaxis|C0002792,C0850803|10002198,10002198|patf,dsyn
+772,797|FP|hypersensitivity reaction|C0020517|10020751|patf
+871,883|FP|Pancreatitis|C1963198,C0030305|10060933,10033645|fndg,dsyn
+889,901|FN|Pancreatitis|C0030305
+1046,1058|FP|pancreatitis|C1963198,C0030305|10060933,10033645|fndg,dsyn
+1120,1144|FP|hemorrhagic pancreatitis|C0267940|10033650|dsyn
+1159,1173|FP|abdominal pain|C0000737|10000081|sosy
+1228,1240|FP|pancreatitis|C1963198,C0030305|10060933,10033645|fndg,dsyn
+1326,1338|FP|pancreatitis|C1963198,C0030305|10060933,10033645|fndg,dsyn
+1496,1515|FP|Glucose Intolerance|C0271650|10018429|dsyn
+1521,1540|FN|Glucose intolerance|C0271650
+1670,1689|TP|glucose intolerance|C0271650|10018429|1670,1689|glucose intolerance|C0271650|10018429|dsyn
+1850,1863|FP|hyperglycemia|C0020456|10020635|dsyn
+1875,1885|FP|Thrombosis|C2586211,C0040053|10043607,10043607|patf,patf
+1890,1900|FP|Hemorrhage|C0019080|10055798|patf
+1912,1929|FN|thrombotic events|C0040053
+1912,1922|FP|thrombotic|C0087086|10061169|patf
+1941,1966|TP|sagittal sinus thrombosis|C0338575|10042567|1941,1966|sagittal sinus thrombosis|C0338575|10042567|dsyn
+1971,1989|TP|pulmonary embolism|C0034065|10037377|1971,1989|pulmonary embolism|C0034065|10037377|dsyn
+2090,2110;2116,2125|FN|coagulation proteins decreased|C1371533
+2116,2125;2277,2294|FN|decreased anti-thrombin III|C0238665
+2116,2125;2253,2271|FN|decreased protein S activity|C0919888
+2116,2125;2233,2251|FN|decreased protein C activity|C0852955
+2116,2125;2221,2231|FN|decreased fibrinogen|C1295715
+2323,2333|FP|thrombotic|C0087086|10061169|patf

@@ -1,0 +1,147 @@
+54,71|TP|Urinary retention|C0080274|10046555|54,71|Urinary retention|C0080274|10046555|fndg
+169,187|TP|skin discoloration|C0151907|10040829|169,187|skin discoloration|C0151907|10040829|patf
+211,229|FP|skin discoloration|C0151907|10040829|patf
+354,371|FP|confusional state|C0009676|10010305|mobd
+397,411|FP|hallucinations|C0018524|10019063|mobd
+442,451|FP|dizziness|C0042571,C0012833,C1963093|10047340,10013573,10060933|sosy,sosy,fndg
+456,466|FP|somnolence|C2830004|10041349|fndg
+485,500|TP|QT prolongation|C0151878|10014387|485,500|QT prolongation|C0151878|10014387|fndg
+674,691|FP|suicidal thoughts|C0424000|10042458|fndg
+768,779|FP|Vision Loss|C3665347,C0456909|10047571,10005169|fndg,fndg
+802,829|FN|abnormalities of the retina|C0035300
+891,922;937,964|FN|funduscopic features similar to retinal pigment dystrophies|C0854723
+937,944;953,964|FP|retinal dystrophies|C0854723|10038857|dsyn
+993,1017|FN|damage to photoreceptors|C0235272
+1022,1033|CUIDiff|vision loss|C3665346|10005169|1022,1033|vision loss|C0456909,C3665347|10005169,10047571|fndg,fndg
+1022,1033|TP|vision loss|C3665346|10005169|1022,1033|vision loss|C0456909,C3665347|10005169,10047571|fndg,fndg
+1043,1064|FN|retinal abnormalities|C0035300
+1407,1439|FN|retinal pigmentary abnormalities|C0151891
+1512,1533|FN|retinal abnormalities|C0035300
+1606,1610;1647,1660|FN|skin discoloration|C0151907
+1612,1619;1647,1660|FN|scleral discoloration|C0235980
+1621,1625;1647,1660|FN|nail discoloration|C0221345
+1631,1660|FN|mucous membrane discoloration|C1096311
+1722,1743|FN|retinal abnormalities|C0035300
+1819,1851|FN|retinal pigmentary abnormalities|C0151891
+1946,1971;1973,1993;1995,2019|FN|perivascular pigmentation bone spicule pattern in the retinal periphery|C3552986
+1946,1971;1995,2019|FN|perivascular pigmentation in the retinal periphery|C3552986
+1959,1971|FP|pigmentation|C3665492|10062080|patf
+2039,2080|FN|focal retinal pigment epithelium clumping|C1328514
+2117,2138|FN|retinal abnormalities|C0035300
+2163,2185|FN|abnormal visual acuity|C0234632
+2244,2267|TP|decreased visual acuity|C0234632|10047531|2244,2267|decreased visual acuity|C0234632|10047531|fndg
+2349,2370|FN|retinal abnormalities|C0035300
+2483,2500|TP|retinal dystrophy|C0854723|10038857|2483,2500|retinal dystrophy|C0854723|10038857|dsyn
+2512,2528;2555,2571|FN|abnormalities in electrooculogram|C0159104
+2512,2550|FN|abnormalities in the electroretinogram|C0476397
+2595,2627|FN|abnormal fluorescein angiography|C0861125
+2632,2670|FN|diminished sensitivity on visual field|C3887875
+2632,2654|FP|diminished sensitivity|C0020580|10020937|fndg
+2726,2747|FN|retinal abnormalities|C0035300
+3060,3071|FP|vision loss|C3665347,C0456909|10047571,10005169|fndg,fndg
+4003,4020|FP|Urinary Retention|C0080274|10046555|fndg
+4040,4057|TP|urinary retention|C0080274|10046555|4040,4057|urinary retention|C0080274|10046555|fndg
+4078,4095|TP|Urinary retention|C0080274|10046555|4078,4095|Urinary retention|C0080274|10046555|fndg
+4188,4205|TP|Urinary retention|C0080274|10046555|4188,4205|Urinary retention|C0080274|10046555|fndg
+4343,4351|FP|epilepsy|C0014544|10015037|dsyn
+4792,4806|TP|Hydronephrosis|C0020295|10020524|4792,4806|Hydronephrosis|C0020295|10020524|dsyn
+4858,4883|FN|renal function impairment|C1565489
+4858,4863;4873,4883|FP|renal impairment|C1565489|10062237|dsyn
+4930,4944|FP|Hydronephrosis|C0020295|10020524|dsyn
+5013,5021|FP|epilepsy|C0014544|10015037|dsyn
+5031,5048|TP|urinary retention|C0080274|10046555|5031,5048|urinary retention|C0080274|10046555|fndg
+5052,5070|TP|urinary hesitation|C0152032|10046542|5052,5070|urinary hesitation|C0152032|10046542|dsyn
+5078,5085|TP|dysuria|C0013428|10013990|5078,5085|dysuria|C0013428|10013990|sosy
+5265,5282|FP|urinary retention|C0080274|10046555|fndg
+5421,5438|FP|urinary retention|C0080274|10046555|fndg
+5446,5474|FP|benign prostatic hyperplasia|C1704272|10004446|neop
+5813,5831|FP|Skin Discoloration|C0151907|10040829|patf
+5854,5872|TP|skin discoloration|C0151907|10040829|5854,5872|skin discoloration|C0151907|10040829|patf
+5878,5896|TP|skin discoloration|C0151907|10040829|5878,5896|skin discoloration|C0151907|10040829|patf
+6143,6163;6184,6195|FN|Discoloration of the conjunctiva|C0235979
+6143,6163;6172,6178|FN|Discoloration of the sclera|C0235980
+6143,6170|FN|Discoloration of the palate|C0853939
+6293,6311|TP|skin discoloration|C0151907|10040829|6293,6311|skin discoloration|C0151907|10040829|patf
+6451,6455;6487,6500|FN|skin discoloration|C0151907
+6457,6461;6487,6500|FN|nail discoloration|C0221345
+6463,6466;6487,6500|FN|lip discoloration|C0854373
+6471,6500|FN|mucous membrane discoloration|C1096311
+6505,6537|FN|retinal pigmentary abnormalities|C0151891
+6590,6594;6626,6639|FN|skin discoloration|C0151907
+6596,6600;6626,6639|FN|nail discoloration|C0221345
+6602,6605;6626,6639|FN|lip discoloration|C0854373
+6610,6639|FN|mucous membrane discoloration|C1096311
+6655,6687|FN|retinal pigmentary abnormalities|C0151891
+6815,6840|FP|of the skin abnormalities|C0037268|10040888|dsyn
+6822,6840|FN|skin abnormalities|C0037268
+6961,6979|FP|skin discoloration|C0151907|10040829|patf
+7101,7118|TP|Confusional state|C0009676|10010305|7101,7118|Confusional state|C0009676|10010305|mobd
+7120,7138|FN|psychotic symptoms|C0871189
+7144,7158|TP|hallucinations|C0018524|10019063|7144,7158|hallucinations|C0018524|10019063|mobd
+7299,7307|FP|epilepsy|C0014544|10015037|dsyn
+7607,7621|TP|hallucinations|C0018524|10019063|7607,7621|hallucinations|C0018524|10019063|mobd
+7625,7634|TP|psychosis|C0033975|10061920|7625,7634|psychosis|C0033975,C0349204|10061920,10061920|mobd,mobd
+7703,7712|TP|psychosis|C0033975|10061920|7703,7712|psychosis|C0033975,C0349204|10061920,10061920|mobd,mobd
+7772,7792|FN|psychiatric symptoms|C0233401
+8007,8016|TP|psychosis|C0033975|10061920|8007,8016|psychosis|C0033975,C0349204|10061920,10061920|mobd,mobd
+8021,8035|TP|hallucinations|C0018524|10019063|8021,8035|hallucinations|C0018524|10019063|mobd
+8308,8325|TP|Confusional state|C0009676|10010305|8308,8325|Confusional state|C0009676|10010305|mobd
+8408,8417|TP|Psychosis|C0033975|10061920|8408,8417|Psychosis|C0033975,C0349204|10061920,10061920|mobd,mobd
+8508,8522|FN|Hallucinations|C0018524
+8622,8636|TP|Hallucinations|C0018524|10019063|8622,8636|Hallucinations|C0018524|10019063|mobd
+8646,8652;8674,8688|FN|visual hallucinations|C0233763
+8654,8662;8674,8688|FN|auditory hallucinations|C0233762
+8668,8688|TP|mixed hallucinations|C0855223|10019079|8668,8688|mixed hallucinations|C0855223|10019079|mobd
+8701,8710|FP|Dizziness|C0042571,C0012833,C1963093|10047340,10013573,10060933|sosy,sosy,fndg
+8715,8725|FP|Somnolence|C2830004|10041349|fndg
+8771,8780|TP|dizziness|C0012833|10013573|8771,8780|dizziness|C0012833,C0042571,C1963093|10013573,10047340,10060933|sosy,sosy,fndg
+8785,8795|TP|somnolence|C2830004|10041349|8785,8795|somnolence|C2830004|10041349|fndg
+8875,8883|FP|epilepsy|C0014544|10015037|dsyn
+8885,8894|TP|dizziness|C0012833|10013573|8885,8894|dizziness|C0012833,C0042571,C1963093|10013573,10047340,10060933|sosy,sosy,fndg
+8988,8998|TP|Somnolence|C2830004|10041349|8988,8998|Somnolence|C2830004|10041349|fndg
+9188,9197|TP|dizziness|C0012833|10013573|9188,9197|dizziness|C0012833,C0042571,C1963093|10013573,10047340,10060933|sosy,sosy,fndg
+9269,9279|TP|somnolence|C2830004|10041349|9269,9279|somnolence|C2830004|10041349|fndg
+9433,9442|TP|dizziness|C0012833|10013573|9433,9442|dizziness|C0012833,C0042571,C1963093|10013573,10047340,10060933|sosy,sosy,fndg
+9447,9457|TP|somnolence|C2830004|10041349|9447,9457|somnolence|C2830004|10041349|fndg
+9608,9623|TP|QT prolongation|C0151878|10014387|9608,9623|QT prolongation|C0151878|10014387|fndg
+9684,9697|FN|QT-prolonging|C0151878
+9864,9885|FP|prolonged QT interval|C0151878|10014387|fndg
+9887,9911|FP|congestive heart failure|C0018802|10007559|dsyn
+9913,9936|FP|ventricular hypertrophy|C0340279|10047295|dsyn
+9938,9949|FP|hypokalemia|C0020621|10021017|fndg
+9954,9968|FP|hypomagnesemia|C0151723|10021027|fndg
+10018,10035|FP|Suicidal Behavior|C1760428|10065604|fndg
+10121,10129;10142,10150|FN|suicidal behavior|C1760428
+10121,10138|TP|suicidal thoughts|C0424000|10042458|10121,10138|suicidal thoughts|C0424000|10042458|fndg
+10305,10315|FP|depression|C0011570,C0344315|10012378,10012374|mobd,fndg
+10317,10334|FP|suicidal thoughts|C0424000|10042458|fndg
+10367,10382|FP|changes in mood|C0085633|10027951|mobd
+10666,10674;10687,10695|FN|suicidal behavior|C1760428
+10666,10683|FN|suicidal thinking|C0424000
+10666,10674|FP|suicidal|C0438696|10042458|fndg
+10837,10845;10858,10866|FN|suicidal ideation|C0424000
+10837,10854|TP|suicidal behavior|C1760428|10065604|10837,10854|suicidal behavior|C1760428|10065604|fndg
+11022,11030;11043,11051|FN|suicidal behavior|C1760428
+11022,11039|FN|suicidal thinking|C0424000
+11022,11030|FP|suicidal|C0438696|10042458|fndg
+11097,11105|FN|suicides|C0038661
+11291,11299;11312,11320|FN|suicidal behavior|C1760428
+11291,11308|TP|suicidal thoughts|C0424000|10042458|11291,11308|suicidal thoughts|C0424000|10042458|fndg
+11626,11634;11647,11655|FN|suicidal behavior|C1760428
+11626,11643|TP|suicidal thoughts|C0424000|10042458|11626,11643|suicidal thoughts|C0424000|10042458|fndg
+12086,12094;12107,12116|FN|Suicidal Behaviors|C1760428
+12086,12103|TP|Suicidal Thoughts|C0424000|10042458|12086,12103|Suicidal Thoughts|C0424000|10042458|fndg
+12463,12471|FP|Epilepsy|C0014544|10015037|dsyn
+12952,12960;12973,12981|FN|suicidal behavior|C1760428
+12952,12969|TP|suicidal thoughts|C0424000|10042458|12952,12969|suicidal thoughts|C0424000|10042458|fndg
+13029,13037|FP|epilepsy|C0014544|10015037|dsyn
+13163,13171|FP|epilepsy|C0014544|10015037|dsyn
+13319,13327|FP|Epilepsy|C0014544|10015037|dsyn
+13463,13480|FP|suicidal thoughts|C0424000|10042458|fndg
+13502,13519|FP|suicidal thoughts|C0424000|10042458|fndg
+13792,13809|FP|suicidal thoughts|C0424000|10042458|fndg
+13917,13939|FP|symptoms of depression|C0086132|10054089|sosy
+13953,13968|FP|changes in mood|C0085633|10027951|mobd
+14002,14019|FP|suicidal thoughts|C0424000|10042458|fndg
+14049,14058|FP|self-harm|C0424366|10063495|inpo
+14306,14323|FP|seizure frequency|C0149775|10039906|fndg

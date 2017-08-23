@@ -1,0 +1,34 @@
+00000000|AA|CDAD|Clostridium difficile -associated diarrhea|1|4|8|42|512:4
+00000000|AA|CrCl|creatinine clearance|1|4|3|20|876:4
+00000000|MMI|40.55|anaphylaxis|C0002792|[patf]|["ANAPHYLACTIC REACTION"-tx-14-"anaphylactic reaction"-noun-0,"Reactions, Anaphylactic"-tx-11-"anaphylactic reactions"-noun-0,"Reactions, Anaphylactic"-tx-3-"anaphylactic reactions"-noun-0]|TX|2276/21;1831/12,1845/9;278/12,292/9|C20.543.480.099
+00000000|MMI|39.99|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-18-"diarrhea"-noun-0,"DIARRHOEA"-tx-15-"diarrhea"-noun-0,"DIARRHOEA"-tx-6-"diarrhea"-noun-0]|TX|2896/8;2604/8;614/8|C23.888.821.214
+00000000|MMI|35.52|Hypersensitivity|C0020517|[patf]|["Sensitivity"-tx-13-"sensitivity"-noun-0,"Hypersensitivity reactions"-tx-12-"hypersensitivity reactions"-noun-0,"HYPERSENSITIVITY"-tx-11-"hypersensitivity"-noun-0,"Hypersensitivity reactions"-tx-11-"Hypersensitivity Reactions"-noun-0,"HYPERSENSITIVITY"-tx-3-"hypersensitivity"-noun-0]|TX|2236/11;2009/26;1813/16;1750/26;260/16|C20.543
+00000000|MMI|28.70|Clostridium difficile diarrhea|C0235952|[dsyn]|["Clostridium difficile diarrhoea"-tx-20-"CDAD"-noun-0,"Clostridium difficile diarrhoea"-tx-19-"CDAD"-noun-0,"Clostridium difficile diarrhoea"-tx-18-"CDAD"-noun-0,"Clostridium difficile diarrhoea"-tx-17-"CDAD"-noun-0,"Clostridium difficile diarrhoea"-tx-15-"CDAD"-noun-0,"Clostridium difficile diarrhoea"-tx-15-"Clostridium difficile Diarrhea"-noun-0,"Clostridium difficile diarrhoea"-tx-5-"Clostridium difficile diarrhea"-noun-0]|TX|3087/4;2979/4;2839/4;2833/4;2479/4;2384/21,2419/8;468/21,502/8|
+00000000|MMI|22.75|50%|C3842586|[fndg]|["50%"-tx-11-"50"-integer-0,"50%"-tx-7-"50"-integer-0,"50%"-tx-1-"50"-integer-0]|TX|[1532/2],[1650/2];[734/2],[893/2],[933/2];113/2|
+00000000|MMI|22.75|<50|C3843766|[fndg]|["<50"-tx-11-"50"-integer-0,"<50"-tx-7-"50"-integer-0,"<50"-tx-1-"50"-integer-0]|TX|[1532/2],[1650/2];[734/2],[893/2],[933/2];113/2|
+00000000|MMI|19.16|Creatinine clearance|C0812399|[fndg]|["Creatinine clearance"-tx-11-"CrCl"-noun-0,"Creatinine clearance"-tx-10-"CrCl"-noun-0,"Creatinine clearance"-tx-7-"CrCl"-noun-0,"Creatinine clearance"-tx-2-"CrCl"-noun-0]|TX|[1525/4],[1637/4];1133/4;926/4;132/4|
+00000000|MMI|16.04|Colitis|C0009319|[dsyn]|["COLITIS"-tx-15-"colitis"-noun-0]|TX|2622/7|C06.405.205.265;C06.405.469.158.188
+00000000|MMI|14.27|30%|C3842588|[fndg]|["30%"-tx-11-"30"-integer-0,"30%"-tx-7-"30"-integer-0,"30%"-tx-1-"30"-integer-0]|TX|1642/2;[726/2],[885/2];105/2|
+00000000|MMI|13.14|Cross syndrome|C2936910|[dsyn]|["Cross"-tx-13-"cross"-noun-0]|TX|2230/5|x.x.x.x
+00000000|MMI|11.15|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-18-"diarrhea"-noun-0,"Diarrhea"-tx-15-"diarrhea"-noun-0,"Diarrhea"-tx-6-"diarrhea"-noun-0]|TX|2896/8;2604/8;614/8|
+00000000|MMI|10.89|CREATININE BASE LINE|C0742903|[fndg]|["CREATININE BASE LINE"-tx-7-"Baseline Creatinine"-noun-0,"CREATININE BASE LINE"-tx-7-"baseline creatinine"-noun-0,"CREATININE BASE LINE"-tx-1-"baseline CrCl"-noun-0]|TX|693/19;845/19;88/13|
+00000000|MMI|10.42|Discontinued|C1444662|[fndg]|["Discontinue"-tx-20-"discontinue"-verb-0,"Discontinue"-tx-14-"discontinue"-verb-0]|TX|3106/11;2317/11|
+00000000|MMI|8.34|Bacterial Infections|C0004623|[dsyn]|["BACTERIAL INFECTION"-tx-22-"bacterial infection"-noun-1]|TX|3496/19|C01.252
+00000000|MMI|7.61|Impaired health|C0684336|[patf]|["Impairment"-tx-11-"impairment"-noun-0]|TX|[1514/10],[1626/10]|
+00000000|MMI|7.35|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-11-"hypersensitivity"-noun-0,"Hypersensitivity"-tx-3-"hypersensitivity"-noun-0]|TX|1813/16;260/16|
+00000000|MMI|7.28|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-14-"therapy"-noun-0,"Therapy"-tx-12-"therapy"-noun-0]|TX|2364/7;1951/7|
+00000000|MMI|7.24|At least daily|C3845350|[fndg]|["At least daily"-tx-10-"at least daily"-adv-0,"At least daily"-tx-2-"at least daily"-adv-0]|TX|1138/14;137/14|
+00000000|MMI|7.02|Clinical Cure|C3640840|[fndg]|["CLINICAL CURE"-tx-8-"clinical cure"-noun-0,"CLINICAL CURE"-tx-7-"clinical cure"-noun-0]|TX|971/13;797/13|
+00000000|MMI|5.18|BETA LACTAM ALLERGY|C0741476|[dsyn]|["BETA LACTAM ALLERGY"-tx-13-"beta-lactam allergy"-noun-0]|TX|2184/19|
+00000000|MMI|5.18|Indicated|C1444656|[fndg]|["Indicated"-tx-21-"indicated"-verb-0]|TX|3361/9|
+00000000|MMI|3.75|Medical History|C0262926|[fndg]|["Medical History"-tx-19-"medical history"-noun-0]|TX|2942/15|
+00000000|MMI|3.68|2+|C3833492|[fndg]|["2+"-tx-10-"2"-real_number-0]|TX|1272/1|
+00000000|MMI|3.68|Antimicrobial susceptibility|C0427965|[fndg]|["Sensitivity"-tx-13-"sensitivity"-noun-0]|TX|2236/11|
+00000000|MMI|3.60|Mouse MIN NOS|C1524029|[neop]|["MIN NOS"-tx-11-"min"-noun-0]|TX|1656/3|
+00000000|MMI|3.59|History of - drug allergy|C0455589|[fndg]|["Hypersensitivity to drugs"-tx-4-"hypersensitivity to drugs"-noun-0]|TX|399/19,445/5|
+00000000|MMI|3.58|CTCAE Grade 5 Diarrhea|C1559312|[fndg]|["Fatal Diarrhea"-tx-15-"diarrhea fatal"-noun-0]|TX|2604/8,2616/5|
+00000000|MMI|3.57|Overgrowth|C1849265|[fndg]|["Overgrowth"-tx-16-"overgrowth"-noun-0]|TX|2719/10|
+00000000|MMI|3.48|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-11-"fatal"-adj-0]|TX|1807/5|
+00000000|MMI|3.48|Gait normal|C0231683|[fndg]|["Normal"-tx-11-"Normal"-adj-0]|TX|1502/6|
+00000000|MMI|3.45|CTCAE Grade 5 Colitis|C1559281|[fndg]|["Fatal Colitis"-tx-15-"fatal colitis"-noun-0]|TX|2616/13|
+00000000|MMI|3.43|Colitis Adverse Event|C1963084|[fndg]|["Colitis"-tx-15-"colitis"-noun-0]|TX|2622/7|

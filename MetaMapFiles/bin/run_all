@@ -1,0 +1,71 @@
+#!/bin/sh
+
+# Set the COMMAND variable below to the desired MetaMap call.
+# Call local_sched as follows:
+# local_sched [ -p $MAX_PROCESSES ] [ $FILES ]
+# e.g.,
+# local_sched -p 20 *.txt
+
+PROGRAM=$0
+DIRNAME=`dirname $PROGRAM`
+
+MAX_PROCESSES=`grep -c ^processor /proc/cpuinfo`
+
+if [ $MAX_PROCESSES -lt 3 ]
+then
+    MAX_PROCESSES=1
+else
+    let "MAX_PROCESSES = MAX_PROCESSES - 2"
+fi
+
+# COMMAND=metamap
+# COMMAND="metamap.FML -Z 2014AB -q"
+# COMMAND="SKRrun.14 $HOME/specialist/SKR/src/a.out.Linux -I"
+
+
+while getopts c:p: option
+do
+   case $option
+   in
+         # override the default
+      p) MAX_PROCESSES=$OPTARG;;
+         # override the default
+      c) COMMAND="$OPTARG";;
+   esac
+done
+
+shift `expr $OPTIND - 1`
+OPTIND=1
+
+if [ "$*" == "" ]
+then
+   ALLFILES=*.txt
+else
+   ALLFILES=$*
+fi
+
+CURR_PROCESS=1
+
+while [ $CURR_PROCESS -le $MAX_PROCESSES ]
+do
+   ALLOCATED_FILES=`$DIRNAME/allocate_files $MAX_PROCESSES $CURR_PROCESS $ALLFILES`
+   FILECOUNT=`echo $ALLOCATED_FILES | wc -w`
+
+   if [ $FILECOUNT -eq 0 ]
+   then
+       break
+   else
+      echo PROCS: $CURR_PROCESS of $MAX_PROCESSES: $FILECOUNT files
+      echo RUNNING $CURR_PROCESS $ALLOCATED_FILES
+      $DIRNAME/metamap_ALL "$COMMAND" $ALLOCATED_FILES &
+   fi
+   let "CURR_PROCESS = CURR_PROCESS + 1"
+   # echo ""
+done
+
+
+wait
+
+echo '########################################################'
+echo ALL DONE
+echo '########################################################'

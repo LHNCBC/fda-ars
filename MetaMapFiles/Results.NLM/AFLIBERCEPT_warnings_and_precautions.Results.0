@@ -1,0 +1,22 @@
+50,65|TP|Endophthalmitis|C0014236|10014801|50,65|Endophthalmitis|C0014236|10014801,10015943|dsyn
+70,89|TP|retinal detachments|C0035305|10038848|70,89|retinal detachments|C0035305|10038848|dsyn
+202,217|FP|endophthalmitis|C0014236|10014801|dsyn
+221,239|FP|retinal detachment|C1963229,C0035305|10060933,10038848|fndg,dsyn
+302,335|FN|Increases in intraocular pressure|C0234708
+439,469|FN|arterial thromboembolic events|C0040038,C0151942
+536,551|FP|Endophthalmitis|C0014236|10014801|dsyn
+556,575|FP|Retinal Detachments|C0035305|10038848|dsyn
+658,673|TP|endophthalmitis|C0014236|10014801|658,673|endophthalmitis|C0014236|10014801,10015943|dsyn
+678,697|TP|retinal detachments|C0035305|10038848|678,697|retinal detachments|C0035305|10038848|dsyn
+880,895|FP|endophthalmitis|C0014236|10014801|dsyn
+899,917|FP|retinal detachment|C1963229,C0035305|10060933,10038848|fndg,dsyn
+1094,1133|FN|Acute increases in intraocular pressure|C3805171
+1113,1133|FP|intraocular pressure|C0595921|10061641|dsyn
+1249,1292|FN|Sustained increases in intraocular pressure|C0234708
+1411,1431|FP|Intraocular pressure|C0595921|10061641|dsyn
+1628,1658|FN|arterial thromboembolic events|C0040038,C0151942
+1660,1664|FN|ATEs|C0040038,C0151942
+1759,1765|FP|stroke|C0038454|10008190|dsyn
+1776,1797|FP|myocardial infarction|C0027051|10028596|dsyn
+1811,1816|FP|death|C1306577|10011906|fndg
+1880,1901|FN|thromboembolic events|C0040038

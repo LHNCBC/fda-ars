@@ -1,0 +1,130 @@
+00000000|AA|ACE|Angiotensin-Converting Enzyme|1|3|5|29|5428:3
+00000000|AA|BUN|blood urea nitrogen|1|3|5|19|7949:3
+00000000|AA|ACIP|according to American Council on Immunization Practices|1|4|13|55|11248:4
+00000000|MMI|93.14|Fatal Outcome|C0206277|[patf]|["Fatal Outcome"-tx-53-"fatal outcome"-noun-0,"Fatal Outcome"-tx-44-"fatal outcome"-noun-0,"Fatal outcomes"-tx-21-"Fatal outcomes"-noun-0,"Fatal Outcome"-tx-8-"fatal outcome"-noun-0]|TX|6560/13;5050/13;1983/14;753/13|E05.318.308.985.550.325;L01.280.975.550.325;N01.224.935.698.201;N06.850.505.400.975.550.325;N06.850.520.308.985.550.325
+00000000|MMI|85.67|Angioedema|C0002994|[patf]|["Angiooedema"-tx-48-"angioedema"-noun-0,"Angiooedema"-tx-47-"Angioedema"-noun-0,"Angiooedema"-tx-47-"angioedema"-noun-0,"Angiooedema"-tx-5-"Angioedema"-noun-0,"Angiooedema"-tx-5-"angioedema"-noun-0]|TX|5714/10;5362/10;5529/10;407/10;498/10|C14.907.079;C17.800.862.945.066;C20.543.480.904.066
+00000000|MMI|85.08|Pneumocystis jiroveci pneumonia|C1535939|[dsyn]|["PJP"-tx-46-"PJP"-noun-0,"Pneumocystis jiroveci pneumonia"-tx-44-"Pneumocystis jiroveci pneumonia"-noun-0,"PJP"-tx-38-"PJP"-noun-0,"Pneumocystis jiroveci pneumonia"-tx-38-"pneumocystis jiroveci pneumonia"-noun-0,"PJP"-tx-35-"PJP"-noun-1,"PJP"-tx-23-"PJP"-noun-0]|TX|5234/3;5005/31;4242/3;4209/31;3678/3;2377/3|C01.703.534.700;C01.703.770.700;C08.381.472.700;C08.381.677.675;C08.730.435.700;C08.730.610.675
+00000000|MMI|68.15|Subependymal Giant Cell Astrocytoma|C0205768|[neop]|["SEGA"-tx-78-"SEGA"-noun-0,"SEGA"-tx-76-"SEGA"-noun-0,"SEGA"-tx-75-"SEGA"-noun-0]|TX|11076/4;10521/4;10363/4|C04.557.465.625.600.380.080;C04.557.470.670.380.080;C04.557.580.625.600.380.080
+00000000|MMI|64.57|Oral Ulcer|C0149745|[dsyn]|["Mouth ulcers"-tx-49-"Mouth ulcers"-noun-0,"ORAL ULCERATION"-tx-49-"Oral Ulceration"-noun-0,"Oral ulcers"-tx-49-"Oral ulcers"-noun-0,"ULCERATION MOUTH"-tx-49-"Ulceration Mouth"-noun-0,"Mouth ulcers"-tx-6-"Mouth ulcers"-noun-0,"ORAL ULCERATION"-tx-6-"Oral ulceration"-noun-0]|TX|5883/12;5862/15;5862/4,5889/6;5867/10,5883/5;542/12;525/15|C07.465.672
+00000000|MMI|54.24|Stomatitis|C0038362|[dsyn]|["STOMATITIS"-tx-50-"stomatitis"-noun-0,"Oral Mucositis"-tx-49-"oral mucositis"-noun-0,"STOMATITIS"-tx-49-"stomatitis"-noun-0,"Oral Mucositis"-tx-6-"oral mucositis"-noun-0,"STOMATITIS"-tx-6-"stomatitis"-noun-0]|TX|6064/10;5913/14;5897/10;572/14;556/10|C07.465.864
+00000000|MMI|51.77|Infection|C3714514|[patf]|["INFECTION"-tx-42-"infection"-noun-0,"INFECTION"-tx-40-"infection"-noun-0,"Infections"-tx-39-"infections"-noun-0,"Infections"-tx-37-"Infections"-noun-0,"Infections"-tx-3-"Infections"-noun-0,"Infections"-tx-3-"infections"-noun-0]|TX|[4721/9],[4753/9];4530/9;4369/10;3789/10;286/10;316/10|C01.539
+00000000|MMI|49.29|Kidney Failure|C0035078|[dsyn]|["Failure, Renal"-tx-53-"Renal Failure"-noun-0,"Failure, Renal"-tx-8-"Renal failure"-noun-0,"Failure, Renal"-tx-8-"renal failure"-noun-0]|TX|6473/13;670/13;694/13|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|47.32|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-42-"symptoms"-noun-0,"SYMPTOMS"-tx-34-"symptoms"-noun-0,"SYMPTOMS"-tx-27-"symptoms"-noun-0,"SYMPTOMS"-tx-25-"symptoms"-noun-1,"SYMPTOMS"-tx-22-"symptoms"-noun-1,"SYMPTOMS"-tx-10-"symptoms"-noun-0,"SYMPTOMS"-tx-4-"symptoms"-noun-0,"SYMPTOMS"-tx-2-"symptoms"-noun-0,"SYMPTOMS"-tx-1-"symptoms"-noun-1]|TX|4709/8;3551/8;[2760/8],[2819/8];2618/8;2136/8;892/8;362/8;216/8;105/8|
+00000000|MMI|42.15|Gravidity|C0600457|[fndg]|["PREGNANT"-tx-83-"pregnant"-adj-0,"PREGNANT"-tx-82-"pregnant"-adj-0]|TX|11850/8;11637/8|G08.686.340;G08.686.785.760.769.213;N06.850.490.812.250
+00000000|MMI|42.15|Kidney Failure, Acute|C0022660|[dsyn]|["ACUTE RENAL FAILURE"-tx-53-"acute renal failure"-noun-0,"ACUTE RENAL FAILURE"-tx-8-"acute renal failure"-noun-0]|TX|6526/19;719/19|C12.777.419.780.050;C13.351.968.419.780.050
+00000000|MMI|38.59|Infectious pneumonitis|C2721563|[dsyn]|["Infectious pneumonitis"-tx-35-"infectious pneumonitis"-noun-1,"Infectious pneumonitis"-tx-33-"infectious pneumonitis"-noun-1,"Infectious pneumonitis"-tx-30-"infectious pneumonitis"-noun-1,"Infectious pneumonitis"-tx-25-"infectious pneumonitis"-noun-1,"Infectious pneumonitis"-tx-22-"infectious pneumonitis"-noun-1,"Infectious pneumonitis"-tx-20-"infectious pneumonitis"-noun-1,"Infectious pneumonitis"-tx-19-"infectious pneumonitis"-noun-1,"Infectious pneumonitis"-tx-18-"infectious Pneumonitis"-noun-1,"Infectious pneumonitis"-tx-1-"infectious pneumonitis"-noun-1]|TX|3638/22;3457/22;3070/22;2576/22;2050/22;1862/22;1690/22;1567/22;60/22|
+00000000|MMI|36.31|6/5|C0442749|[fndg]|["6/5"-tx-67-"6.5"-real_number-0,"6/5"-tx-63-"6.5"-real_number-0,"6/5"-tx-60-"6.5"-real_number-0,"5 6"-tx-54-"5.6"-real_number-0,"6/5"-tx-50-"6.5"-real_number-0,"6/5"-tx-37-"6.5"-real_number-0,"6/5"-tx-20-"6.5"-real_number-0,"5 6"-tx-12-"5.6"-real_number-0]|TX|9019/3;8403/3;7864/3;6682/3;6153/3;4023/3;1974/3;951/3|
+00000000|MMI|36.21|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-67-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-63-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-60-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-59-"adverse reactions"-noun-0,"Adverse reactions"-tx-58-"Adverse reactions"-noun-0,"Adverse reactions"-tx-50-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-37-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-20-"Adverse Reactions"-noun-0]|TX|8980/17;8364/17;7825/17;7542/17;7327/17;6114/17;3984/17;1935/17|
+00000000|MMI|34.09|2+|C3833492|[fndg]|["2+"-tx-76-"2"-real_number-0,"2+"-tx-74-"2"-real_number-0,"2+"-tx-71-"2"-real_number-0,"2+"-tx-70-"2"-real_number-0,"2+"-tx-69-"2"-real_number-0,"2+"-tx-59-"2"-real_number-0,"2+"-tx-31-"2"-real_number-0,"2+"-tx-29-"2"-real_number-0]|TX|10740/1;10299/1;9712/1;9532/1;9348/1;7608/1;3354/1;3032/1|
+00000000|MMI|33.49|6/3|C1630409|[fndg]|["6/3"-tx-67-"6.3"-real_number-0,"6/3"-tx-63-"6.3"-real_number-0,"6/3"-tx-60-"6.3"-real_number-0,"6/3"-tx-50-"6.3"-real_number-0,"6/3"-tx-37-"6.3"-real_number-0,"6/3"-tx-20-"6.3"-real_number-0]|TX|9009/3;8393/3;7854/3;6143/3;4013/3;1964/3|
+00000000|MMI|33.49|6/4|C0442748|[fndg]|["6/4"-tx-67-"6.4"-real_number-0,"6/4"-tx-63-"6.4"-real_number-0,"6/4"-tx-60-"6.4"-real_number-0,"6/4"-tx-50-"6.4"-real_number-0,"6/4"-tx-37-"6.4"-real_number-0,"6/4"-tx-20-"6.4"-real_number-0]|TX|9014/3;8398/3;7859/3;6148/3;4018/3;1969/3|
+00000000|MMI|32.91|Sepsis|C0243026|[dsyn]|["SEPSIS"-tx-39-"sepsis"-noun-0,"Systemic infections"-tx-38-"systemic infections"-noun-0]|TX|4415/6;4046/19|C01.539.757;C23.550.470.790.500
+00000000|MMI|29.69|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-42-"infection"-noun-0,"Infection, NOS"-tx-40-"infection"-noun-0]|TX|[4721/9],[4753/9];4530/9|C01.539.221
+00000000|MMI|26.74|Hyperglycemia|C0020456|[dsyn]|["HYPERGLYCEMIA"-tx-65-"hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-63-"Hyperglycemia"-noun-0]|TX|8710/13;8256/13|C18.452.394.952
+00000000|MMI|23.74|Hepatic impairment|C0948807|[dsyn]|["Hepatic impairment"-tx-76-"hepatic impairment"-noun-0,"Hepatic impairment"-tx-75-"hepatic impairment"-noun-0,"Hepatic impairment"-tx-74-"hepatic impairment"-noun-0,"Hepatic impairment"-tx-73-"hepatic impairment"-noun-0,"Hepatic impairment"-tx-72-"Hepatic Impairment"-noun-0,"Hepatic impairment"-tx-72-"hepatic impairment"-noun-0]|TX|10537/18;10389/18;10215/18;10015/18;9770/18;9848/18|
+00000000|MMI|23.73|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-58-"discontinuation"-noun-0,"Discontinue"-tx-43-"discontinue"-verb-0,"Discontinuation"-tx-42-"discontinuation"-noun-0,"Discontinue"-tx-33-"discontinue"-verb-1,"Discontinuation"-tx-32-"discontinuation"-noun-0,"Discontinuation"-tx-2-"discontinuation"-noun-0]|TX|7376/15;4933/11;4842/15;3481/11;3403/15;194/15|
+00000000|MMI|23.12|Oral Mucositis|C1568868|[dsyn]|["Oral Mucositis"-tx-49-"oral mucositis"-noun-0,"Oral Mucositis"-tx-6-"oral mucositis"-noun-0]|TX|5913/14;572/14|C07.465.864
+00000000|MMI|22.80|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-78-"therapy"-noun-0,"Therapy"-tx-68-"therapy"-noun-0,"Therapy"-tx-64-"therapy"-noun-0,"Therapy"-tx-61-"therapy"-noun-0,"Therapy"-tx-27-"therapy"-noun-0,"Therapy"-tx-25-"therapy"-noun-1]|TX|11287/7;9109/7;8512/7;8039/7;2805/7;2649/7|
+00000000|MMI|20.95|Aspergillosis|C0004030|[dsyn]|["ASPERGILLOSIS"-tx-38-"aspergillosis"-noun-0]|TX|4178/13|C01.539.800.200.383.249;C01.703.295.328.249;C17.800.838.208.416.249
+00000000|MMI|20.95|Hypertriglyceridemia|C0020557|[dsyn]|["HYPERTRIGLYCERIDEMIA"-tx-63-"hypertriglyceridemia"-noun-0]|TX|8291/20|C18.452.584.500.500.851
+00000000|MMI|20.95|Measles|C0025007|[dsyn]|["MEASLES"-tx-77-"measles"-noun-0]|TX|10948/7|C02.782.580.600.500.500
+00000000|MMI|20.95|Mumps|C0026780|[dsyn]|["MUMPS"-tx-77-"mumps"-noun-0]|TX|10957/5|C02.782.580.600.680.500;C07.465.815.470.800.630
+00000000|MMI|19.94|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-38-"pneumonia"-noun-0,"Pneumonitis"-tx-36-"pneumonitis"-noun-0]|TX|4077/9;3720/11|C08.381.677;C08.730.610
+00000000|MMI|17.80|Hyperlipidemia|C0020473|[dsyn]|["Hyperlipidaemia NOS"-tx-63-"hyperlipidemia"-noun-0]|TX|8271/14|C18.452.584.500.500
+00000000|MMI|17.80|Maternal Exposure|C0243033|[inpo]|["Maternal Exposures"-tx-81-"maternal exposures"-noun-0]|TX|11516/18|N06.850.460.350.145
+00000000|MMI|17.80|Mycobacterium Infections|C0026918|[dsyn]|["Mycobacterial Infections"-tx-38-"mycobacterial infections"-noun-0]|TX|4088/24|C01.252.410.040.552
+00000000|MMI|17.80|Proteinuria|C0033687|[fndg]|["PROTEINURIA"-tx-60-"proteinuria"-noun-0]|TX|7761/11|C12.777.934.734;C13.351.968.934.734;C23.888.942.750
+00000000|MMI|17.80|Rubella|C0035920|[dsyn]|["RUBELLA"-tx-77-"rubella"-noun-0]|TX|10964/7|C02.782.930.700.700
+00000000|MMI|17.80|Yellow Fever|C0043395|[dsyn]|["Fever, Yellow"-tx-77-"yellow fever"-noun-0]|TX|10990/12|C02.081.980;C02.782.350.250.980;C02.782.417.881
+00000000|MMI|16.30|Poliomyelitis|C0032371|[dsyn]|["POLIO"-tx-77-"polio"-noun-0]|TX|10978/5|C02.782.687.359.764;C10.228.228.618.750;C10.228.854.525.850;C10.668.864
+00000000|MMI|16.21|Septicemia|C0036690|[dsyn]|["Sepsis"-tx-39-"sepsis"-noun-0]|TX|4415/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|16.05|Fasting|C0015663|[fndg]|["FASTING"-tx-64-"fasting"-noun-0]|TX|8426/7|F01.145.407.400;G07.203.650.240.587;G07.203.650.353.400
+00000000|MMI|15.31|Age >= 65 years|C4062450|[fndg]|["Age >= 65 years"-tx-58-"65 years age"-noun-0,"Age >= 65 years"-tx-57-"65 years age"-noun-0]|TX|[7423/8,7435/3],[7469/8,7481/3];[7265/8,7277/3],[7310/8,7322/3]|
+00000000|MMI|15.07|Toxic effect|C0600688|[inpo]|["toxicities"-tx-81-"toxicities"-noun-0,"Toxicity"-tx-80-"Toxicity"-noun-0,"Toxicity"-tx-32-"toxicity"-noun-0,"Toxicity"-tx-16-"toxicity"-noun-0]|TX|11491/10;11381/8;3366/8;1408/8|
+00000000|MMI|15.01|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-50-"Grade 3"-noun-0,"GRADE 3"-tx-32-"Grade 3"-noun-0,"GRADE 3"-tx-30-"Grade 3"-noun-1,"GRADE 3"-tx-20-"Grade 3"-noun-0]|TX|6051/7;3385/7;3058/7;1844/7|
+00000000|MMI|14.91|Diagnosis|C0011900|[fndg]|["DIAGNOSED"-tx-52-"diagnosed"-verb-1,"DIAGNOSIS"-tx-43-"diagnosis"-noun-0,"DIAGNOSIS"-tx-42-"diagnosis"-noun-0,"DIAGNOSIS"-tx-22-"diagnosis"-noun-1]|TX|6415/9;4876/9;4737/9;2033/9|E01
+00000000|MMI|14.64|Chickenpox|C0008049|[dsyn]|["VARICELLA"-tx-77-"varicella"-noun-0]|TX|11004/9|C02.256.466.175
+00000000|MMI|14.64|Coughing|C0010200|[sosy]|["COUGH"-tx-22-"cough"-noun-0]|TX|2180/5|C08.618.248;C23.888.852.293
+00000000|MMI|14.64|Dyspnea|C0013404|[sosy]|["DYSPNOEA"-tx-22-"dyspnea"-noun-0]|TX|2190/7|C08.618.326;C23.888.852.371
+00000000|MMI|14.64|Incisional hernia|C0267716|[patf]|["Hernia, incisional"-tx-54-"incisional hernia"-noun-0]|TX|6850/17|C23.300.707.945;C23.550.767.500
+00000000|MMI|14.64|Liver Failure|C0085605|[dsyn]|["HEPATIC FAILURE"-tx-39-"hepatic failure"-noun-0]|TX|4438/15|C06.552.308.500
+00000000|MMI|14.64|Seroma|C0262627|[patf]|["SEROMA"-tx-54-"seroma"-noun-0]|TX|6885/6|C23.550.470.640
+00000000|MMI|14.50|Physical findings|C0311392|[fndg]|["SIGNS"-tx-42-"signs"-noun-0,"SIGNS"-tx-22-"signs"-noun-1,"SIGNS"-tx-10-"signs"-noun-0,"SIGNS"-tx-4-"signs"-noun-0]|TX|4699/5;2126/5;882/5;352/5|
+00000000|MMI|13.90|Mycoses|C0026946|[dsyn]|["FUNGAL INFECTION"-tx-52-"fungal infection"-noun-1,"fungal infection (diagnosis)"-tx-43-"diagnosis fungal infection"-noun-0]|TX|6389/16;4876/9,4907/16|C01.703
+00000000|MMI|13.14|Influenza|C0021400|[dsyn]|["INFLUENZA"-tx-77-"influenza"-noun-0]|TX|10937/9|C02.782.620.365;C08.730.310
+00000000|MMI|12.95|Breast Carcinoma|C0678222|[neop]|["Breast Cancer"-tx-57-"breast cancer"-noun-0]|TX|7140/13|C04.588.180;C17.800.090.500
+00000000|MMI|12.90|Hypoxia|C0242184|[patf]|["HYPOXIA"-tx-22-"hypoxia"-noun-1]|TX|2153/7|C23.888.852.079
+00000000|MMI|11.49|Candidiasis|C0006840|[dsyn]|["CANDIDIASIS"-tx-38-"candidiasis"-noun-0]|TX|4193/11|C01.703.160
+00000000|MMI|11.49|Disease|C0012634|[dsyn]|["condition"-tx-51-"condition"-noun-0]|TX|6334/9|C23.550.288
+00000000|MMI|11.49|Lymphocele|C0024248|[dsyn]|["Lymphocoele"-tx-54-"lymphocele"-noun-0]|TX|6869/10|C04.182.430;C15.604.510
+00000000|MMI|11.49|Pleural effusion disorder|C0032227|[dsyn]|["PLEURAL EFFUSION"-tx-22-"pleural effusion"-noun-1]|TX|2162/16|C08.528.652
+00000000|MMI|11.49|Wound Infection|C0043241|[patf]|["WOUND INFECTION"-tx-54-"wound infection"-noun-0]|TX|6833/15|C01.539.947;C26.951
+00000000|MMI|11.42|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-39-"fatal"-adj-0,"FATAL"-tx-3-"fatal"-adj-0,"FATAL"-tx-1-"fatal"-adj-1]|TX|4458/5;333/5;139/5|
+00000000|MMI|11.17|Used by|C1273517|[fndg]|["used"-tx-82-"used"-verb-0,"used"-tx-73-"used"-verb-0,"used"-tx-52-"used"-verb-1]|TX|11589/4;10072/4;6377/4|
+00000000|MMI|10.84|Serum creatinine level|C0600061|[fndg]|["Serum creatinine"-tx-61-"serum creatinine"-noun-0,"Serum creatinine"-tx-60-"serum creatinine"-noun-0,"Serum creatinine"-tx-12-"serum creatinine"-noun-0]|TX|7975/16;7740/16;1006/16|
+00000000|MMI|10.84|Invasive mycosis|C1262313|[dsyn]|["Invasive Fungal infection"-tx-43-"invasive fungal infection"-noun-0,"Invasive Fungal infections"-tx-41-"invasive fungal infections"-noun-0,"Invasive Fungal infections"-tx-38-"invasive fungal infections"-noun-0]|TX|4889/8,4907/16;4590/26;4142/26|
+00000000|MMI|10.83|Renal Failure Adverse Event|C1963154|[patf]|["Renal failure"-tx-53-"Renal Failure"-noun-0,"Renal failure"-tx-8-"Renal failure"-noun-0,"Renal failure"-tx-8-"renal failure"-noun-0]|TX|6473/13;670/13;694/13|
+00000000|MMI|10.71|Wound complication|C1096106|[inpo]|["Wound Complication"-tx-55-"wound complications"-noun-0,"complications wound"-tx-54-"wound complications"-noun-0,"complications wound"-tx-9-"wound complications"-noun-0]|TX|6899/5,6913/13;6782/5,6796/13;845/5,859/13|
+00000000|MMI|10.67|50%|C3842586|[fndg]|["50%"-tx-76-"50"-percentage-0,"50%"-tx-31-"50"-percentage-0,"50%"-tx-29-"50"-percentage-0]|TX|10639/2;3223/2;2941/2|
+00000000|MMI|10.67|<50|C3843766|[fndg]|["<50"-tx-76-"50"-percentage-0,"<50"-tx-31-"50"-percentage-0,"<50"-tx-29-"50"-percentage-0]|TX|10639/2;3223/2;2941/2|
+00000000|MMI|10.49|Related personal status|C0445223|[fndg]|["Related"-tx-55-"related"-adj-0,"Related"-tx-54-"related"-adj-0,"Related"-tx-9-"related"-adj-0]|TX|6905/7;6788/7;851/7|
+00000000|MMI|10.42|Patient currently pregnant|C0549206|[fndg]|["Pregnant"-tx-83-"pregnant"-adj-0,"Pregnant"-tx-82-"pregnant"-adj-0]|TX|11850/8;11637/8|
+00000000|MMI|10.42|Platelets Adverse Event|C1963076|[fndg]|["Platelets"-tx-67-"platelets"-noun-0,"Platelets"-tx-13-"platelets"-noun-0]|TX|8918/9;1120/9|
+00000000|MMI|10.42|Pre-renal acute kidney injury|C3854173|[dsyn]|["Acute renal failure"-tx-53-"acute renal failure"-noun-0,"Acute renal failure"-tx-8-"acute renal failure"-noun-0]|TX|6526/19;719/19|
+00000000|MMI|10.06|Signs and Symptoms, Respiratory|C0037090|[sosy]|["Respiratory symptoms NOS"-tx-24-"respiratory symptoms"-noun-0]|TX|2490/20|C23.888.852
+00000000|MMI|9.95|Respiratory Insufficiency|C0035229|[patf]|["Respiratory impairment"-tx-47-"respiratory impairment"-noun-1]|TX|5598/22|C08.618.846
+00000000|MMI|9.93|Opportunistic Infections|C0029118|[dsyn]|["infections opportunistic"-tx-37-"infections opportunistic"-noun-0]|TX|3939/10,3955/13|C01.539.597;C02.597;C03.684
+00000000|MMI|9.90|Pneumocystis Infections|C0851886|[dsyn]|["Pneumocystis Pneumonia Infection"-tx-23-"infections pneumocystis pneumonia"-noun-0]|TX|2325/10,2344/12,2366/9|C01.703.770
+00000000|MMI|9.75|Pneumonitis|C3714636|[dsyn]|["PNEUMONITIS"-tx-36-"pneumonitis"-noun-0]|TX|3720/11|C08.381.677;C08.730.610
+00000000|MMI|8.34|Bacterial Infections|C0004623|[dsyn]|["Bacterial Infections"-tx-38-"bacterial infections"-noun-0]|TX|4120/20|C01.252
+00000000|MMI|8.34|Protozoan Infections|C0033740|[dsyn]|["protozoal Infections"-tx-37-"protozoal infections"-noun-0]|TX|3907/20|C03.752
+00000000|MMI|7.49|Indicated|C1444656|[fndg]|["Indicated"-tx-34-"indicated"-verb-0,"Indicated"-tx-28-"indicated"-verb-0]|TX|3526/9;2871/9|
+00000000|MMI|7.31|Impaired wound healing|C0151692|[patf]|["Impaired wound healing"-tx-54-"Impaired Wound Healing"-noun-0,"Impaired wound healing"-tx-9-"Impaired wound healing"-noun-0]|TX|6690/22;803/22|
+00000000|MMI|7.29|5-6|C3843715|[fndg]|["5-6"-tx-54-"5.6"-real_number-0,"5-6"-tx-12-"5.6"-real_number-0]|TX|6682/3;951/3|
+00000000|MMI|7.27|Observation parameter|C0449381|[fndg]|["Parameters"-tx-67-"Parameters"-noun-0,"Parameters"-tx-14-"parameters"-noun-0]|TX|8849/10;1209/10|
+00000000|MMI|7.22|Virus Diseases|C0042769|[dsyn]|["virus"-tx-78-"virus"-noun-0,"Infections, Viral"-tx-38-"viral infections"-noun-0]|TX|11172/5;4251/16|C02
+00000000|MMI|7.08|Therapy Appropriate|C1555288|[fndg]|["Therapy Appropriate"-tx-64-"appropriate therapy"-noun-0,"Therapy Appropriate"-tx-43-"appropriate therapy"-noun-0]|TX|8575/11,8595/7;4969/11,4992/7|
+00000000|MMI|7.03|Injury due to exposure to external cause|C0274281|[inpo]|["EXPOSURES"-tx-81-"exposures"-noun-0,"Exposure NOS"-tx-69-"exposure"-noun-0]|TX|11562/9;9221/8|
+00000000|MMI|7.01|4+ Answer to question|C3838679|[fndg]|["4+"-tx-50-"4"-integer-0,"4+"-tx-20-"4"-integer-1]|TX|6062/1;1856/1|
+00000000|MMI|6.92|Close|C3810854|[fndg]|["Close"-tx-77-"close"-adj-0,"Close"-tx-15-"close"-adj-0]|TX|10856/5;1321/5|
+00000000|MMI|5.18|1+|C3816745|[fndg]|["1+"-tx-30-"1"-integer-0]|TX|3160/1|
+00000000|MMI|5.18|Cough Adverse Event|C1961131|[fndg]|["Cough"-tx-22-"cough"-noun-0]|TX|2180/5|
+00000000|MMI|5.18|ENT surgical result tongue|C2137027|[fndg]|["tongue"-tx-47-"tongue"-noun-0]|TX|5574/6|
+00000000|MMI|5.18|Hemoglobin finding|C1561562|[fndg]|["Hemoglobin"-tx-67-"hemoglobin"-noun-0]|TX|8876/10|
+00000000|MMI|5.18|Lymphocele Adverse Event|C1963162|[patf]|["Lymphocele"-tx-54-"lymphocele"-noun-0]|TX|6869/10|
+00000000|MMI|5.18|Proteinuria Adverse Event|C1962972|[fndg]|["Proteinuria"-tx-60-"proteinuria"-noun-0]|TX|7761/11|
+00000000|MMI|5.18|Proteinuria of undiagnosed cause|C1279888|[dsyn]|["Proteinuria"-tx-60-"proteinuria"-noun-0]|TX|7761/11|
+00000000|MMI|5.18|Reactivation of hepatitis B viral hepatitis|C2960634|[dsyn]|["reactivation of hepatitis B virus"-tx-38-"reactivation of hepatitis B virus"-noun-0]|TX|4278/33|
+00000000|MMI|5.18|School Grade|C3244287|[fndg]|["grade"-tx-30-"Grade"-verb-1]|TX|3154/5|
+00000000|MMI|5.18|Seroma Adverse Event|C1963233|[fndg]|["Seroma"-tx-54-"seroma"-noun-0]|TX|6885/6|
+00000000|MMI|5.18|Serum lipids high (finding)|C0428465|[fndg]|["Hyperlipidemia"-tx-63-"hyperlipidemia"-noun-0]|TX|8271/14|
+00000000|MMI|5.18|Serum triglycerides raised|C0428478|[fndg]|["Hypertriglyceridemia"-tx-63-"hypertriglyceridemia"-noun-0]|TX|8291/20|
+00000000|MMI|5.18|Surgical intervention (finding)|C0549433|[fndg]|["SURGICAL INTERVENTION"-tx-55-"surgical intervention"-noun-0]|TX|6939/21|
+00000000|MMI|5.18|Symptom aggravating factors|C0436331|[fndg]|["exacerbate"-tx-51-"exacerbate"-verb-0]|TX|6319/10|
+00000000|MMI|5.18|Wound dehiscence|C0259768|[acab]|["WOUND DEHISCENCE"-tx-54-"wound dehiscence"-noun-0]|TX|6815/16|
+00000000|MMI|5.18|x-ray of chest: pleural effusion|C2073625|[fndg]|["pleural effusion"-tx-22-"pleural effusion"-noun-1]|TX|2162/16|
+00000000|MMI|4.19|Hemoglobin low|C0162119|[fndg]|["Decrease in hemoglobin"-tx-13-"Decreases in hemoglobin"-noun-0]|TX|1078/23|
+00000000|MMI|3.75|History of - risk factor|C0455624|[fndg]|["risk factors"-tx-62-"risk factors"-noun-0]|TX|8167/12|
+00000000|MMI|3.74|5 ulcers|C3845175|[fndg]|["5 ulcers"-tx-49-"5 ulcers"-noun-0]|TX|5854/1,5889/6|
+00000000|MMI|3.68|Conventional (Clear Cell) Renal Cell Carcinoma|C0279702|[neop]|["RCC"-tx-73-"RCC"-noun-0]|TX|9955/3|
+00000000|MMI|3.61|Angiomyolipoma of kidney|C0241961|[neop]|["Renal Angiomyolipoma"-tx-73-"renal angiomyolipoma"-noun-0]|TX|9964/20|
+00000000|MMI|3.60|Airway edema|C2939065|[patf]|["Airway swelling"-tx-47-"swelling airways"-noun-0]|TX|5547/8,5563/7|
+00000000|MMI|3.59|Possible pregnancy (finding)|C0425965|[fndg]|["? Pregnancy"-tx-82-"pregnancy"-noun-0]|TX|11601/9|
+00000000|MMI|3.57|exposure history|C2220266|[fndg]|["exposure"-tx-69-"exposure"-noun-0]|TX|9221/8|
+00000000|MMI|3.49|Malignant neoplasm of breast|C0006142|[neop]|["-- Breast Cancer"-tx-57-"breast cancer"-noun-0]|TX|7140/13|
+00000000|MMI|3.48|Worse|C1457868|[fndg]|["Worsening"-tx-24-"worsening"-adj-0]|TX|2480/9|
+00000000|MMI|3.47|Systemic mycosis|C0553576|[dsyn]|["Systemic fungal infection"-tx-43-"systemic fungal infection"-noun-0]|TX|4898/25|
+00000000|MMI|3.46|pneumonia clinical|C0543829|[dsyn]|["Clinical Pneumonitis"-tx-26-"clinical pneumonitis"-noun-0]|TX|2731/20|
+00000000|MMI|3.46|Negative Finding|C1513916|[fndg]|["NEGATIVE"-tx-57-"negative"-noun-0]|TX|7131/8|
+00000000|MMI|3.45|physiologic resolution|C1514893|[patf]|["Resolution"-tx-30-"resolution"-noun-1]|TX|3118/10|
+00000000|MMI|3.44|Death (finding)|C1306577|[fndg]|["DEATHS"-tx-57-"deaths"-noun-0]|TX|7178/6|
+00000000|MMI|3.44|Hypoxia Adverse Event|C1963140|[fndg]|["HYPOXIA"-tx-22-"hypoxia"-noun-1]|TX|2153/7|
+00000000|MMI|3.44|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["Grade 4"-tx-33-"Grade 4"-noun-1]|TX|3445/7|
+00000000|MMI|3.44|West Haven Hepatic Encephalopathy Grade 4|C3889293|[fndg]|["GRADE 4"-tx-33-"Grade 4"-noun-1]|TX|3445/7|
+00000000|MMI|3.44|Childhood Viral Infection|C3272758|[dsyn]|["Childhood virus"-tx-78-"childhood virus"-noun-1]|TX|11147/9,11172/5|
+00000000|MMI|3.43|5 - 9|C3840622|[fndg]|["5 - 9"-tx-69-"5.9"-real_number-0]|TX|9153/3|
+00000000|MMI|3.42|10%|C3842590|[fndg]|["10%"-tx-72-"10"-real_number-0]|TX|9763/2|
+00000000|MMI|3.42|Invasive Lesion|C1334278|[fndg]|["Invasive"-tx-43-"invasive"-adj-0]|TX|4889/8|
+00000000|MMI|3.42|Neoplasms|C0027651|[neop]|["Oncology"-tx-48-"oncology"-noun-0]|TX|5671/8|C04
+00000000|MMI|3.42|Positive Finding|C1514241|[fndg]|["POSITIVE"-tx-57-"positive"-noun-0]|TX|7116/8|
+00000000|MMI|3.42|Subject is Randomized|C3815594|[fndg]|["RANDOMIZED"-tx-57-"randomized"-adj-0]|TX|7079/10|

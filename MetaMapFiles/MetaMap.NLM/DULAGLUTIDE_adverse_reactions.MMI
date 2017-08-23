@@ -1,0 +1,96 @@
+00000000|AA|HR|heart rate|1|2|3|10|8255:2
+00000000|AA|bpm|beats per minute|1|3|5|16|8284:3
+00000000|AA|ADAs|antibodies|1|4|1|10|9254:4
+00000000|AA|AV|Atrioventricular|1|2|1|16|10658:2
+00000000|MMI|118.64|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-48-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-37-"Adverse reactions"-noun-0,"Adverse reactions"-tx-34-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-29-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-28-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-27-"adverse reactions"-noun-0,"Adverse reactions"-tx-19-"adverse reactions"-noun-0,"Adverse reactions"-tx-18-"adverse reactions"-noun-0,"Adverse reactions"-tx-17-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-15-"Adverse Reaction"-noun-0,"Adverse reactions"-tx-15-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-15-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-14-"adverse reaction"-noun-0,"Adverse reactions"-tx-13-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-12-"adverse reactions"-noun-0,"Adverse reactions"-tx-11-"adverse reactions"-noun-0,"ADVERSE REACTION"-tx-3-"adverse reaction"-noun-0,"Adverse reactions"-tx-2-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|10606/17;8418/17;8158/17;6424/17;6139/17;6038/17;5043/17;4616/17;4342/17;2959/16;3886/17;3969/17;2931/16;2396/17;2218/17;2090/17;1061/16;811/17;6/17;631/17|
+00000000|MMI|93.19|Hypoglycemia|C0020615|[dsyn]|["HYPOGLYCEMIA"-tx-33-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-32-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-31-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-30-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-29-"Hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-28-"Hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-28-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-27-"hypoglycemia"-noun-0,"HYPOGLYCEMIA"-tx-11-"hypoglycemia"-noun-0]|TX|7963/12;7815/12;7653/12;7507/12;[6411/12],[7338/12];6167/12;6290/12;6067/12;2119/12|C18.452.394.984
+00000000|MMI|50.78|Sinus Tachycardia|C0039239|[dsyn]|["SINUS TACHYCARDIA"-tx-40-"sinus tachycardia"-noun-0,"SINUS TACHYCARDIA"-tx-39-"sinus tachycardia"-noun-0,"SINUS TACHYCARDIA"-tx-38-"Sinus tachycardia"-noun-0,"SINUS TACHYCARDIA"-tx-37-"sinus tachycardia"-noun-0]|TX|8865/17;8678/17;8521/17;8439/17|C14.280.067.845.880.845;C23.550.073.845.880.845
+00000000|MMI|44.77|0%|C3842591|[fndg]|["0%"-tx-49-"0"-percentage-0,"0%"-tx-47-"0"-percentage-0,"0%"-tx-42-"0"-percentage-0,"0%"-tx-39-"0"-percentage-0,"0%"-tx-31-"0"-percentage-0,"0%"-tx-29-"0"-integer-0,"0%"-tx-18-"0"-percentage-0,"0%"-tx-18-"0"-real_number-0,"0%"-tx-16-"0"-percentage-0,"0%"-tx-15-"0"-real_number-0]|TX|10981/1;10535/1;[9408/1],[9498/1];8751/1;7685/1;[6893/1],[7272/1];[4755/1],[4787/1],[4859/1],[4946/1],[4952/1];[4755/1],[4787/1],[4859/1],[4946/1],[4952/1];4281/1;4076/1|
+00000000|MMI|43.37|75%)|C4015571|[fndg]|["75%)"-tx-50-"75"-real_number-0,"75%)"-tx-49-"75"-real_number-0,"75%)"-tx-40-"75"-real_number-0,"75%)"-tx-39-"75"-real_number-0,"75%)"-tx-38-"75"-real_number-0,"75%)"-tx-35-"75"-real_number-0,"75%)"-tx-33-"75"-real_number-0,"75%)"-tx-32-"75"-real_number-0,"75%)"-tx-31-"75"-real_number-0,"75%)"-tx-30-"75"-real_number-0,"75%)"-tx-29-"75"-real_number-0,"75%)"-tx-18-"75"-real_number-0,"75%)"-tx-17-"75"-real_number-0,"75%)"-tx-16-"75"-real_number-0,"75%)"-tx-15-"75"-real_number-0]|TX|11226/2;11026/2;9059/2;8811/2;8621/2;8195/2;8031/2;7881/2;7719/2;7573/2;6541/2;4757/2;4375/2;4142/2;3027/2|
+00000000|MMI|42.59|Diabetes Mellitus, Non-Insulin-Dependent|C0011860|[dsyn]|["diabetes"-tx-24-"diabetes"-noun-0,"Type II Diabetes"-tx-21-"type 2 diabetes"-noun-0,"Type II Diabetes"-tx-19-"type 2 diabetes"-noun-0,"diabetes"-tx-8-"diabetes"-noun-0]|TX|5688/8;5365/15;5114/15;1804/8|C18.452.394.750.149;C19.246.300
+00000000|MMI|35.11|Vomiting|C0042963|[sosy]|["VOMITING"-tx-15-"Vomiting"-adj-0,"VOMITING"-tx-13-"vomiting"-verb-0,"VOMITING"-tx-1-"vomiting"-verb-0]|TX|3311/8;[2591/8],[2601/8];725/8|C23.888.821.937
+00000000|MMI|32.27|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-15-"Abdominal Pain"-noun-0,"ABDOMINAL PAIN"-tx-13-"abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-1-"abdominal pain"-noun-0]|TX|3420/14;2661/14;735/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|26.08|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-15-"Diarrhea"-noun-0,"DIARRHOEA"-tx-13-"diarrhea"-noun-0,"DIARRHOEA"-tx-1-"diarrhea"-noun-0]|TX|3202/8;2504/8;715/8|C23.888.821.214
+00000000|MMI|17.62|Tachycardia|C0039231|[patf]|["HEART RATE INCREASED"-tx-34-"Heart Rate Increase"-noun-0,"TACHYCARDIA"-tx-34-"Tachycardia"-noun-0]|TX|8114/19;8138/11|C14.280.067.845;C23.550.073.845
+00000000|MMI|17.43|1+|C3816745|[fndg]|["1+"-tx-41-"1"-percentage-0,"1+"-tx-39-"1"-percentage-0,"1+"-tx-18-"1"-percentage-0,"1+"-tx-6-"1"-percentage-0,"1+"-tx-2-"1"-integer-0]|TX|9189/1;8760/1;[4818/1],[4824/1],[4958/1];1597/1;878/1|
+00000000|MMI|17.24|Nausea|C0027497|[sosy]|["NAUSEA"-tx-15-"Nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|3093/6;707/6|C23.888.821.712
+00000000|MMI|16.93|Diabetes Mellitus|C0011849|[dsyn]|["Diabetes"-tx-24-"diabetes"-noun-0,"Diabetes"-tx-8-"diabetes"-noun-0]|TX|5688/8;1804/8|C18.452.394.750;C19.246
+00000000|MMI|14.65|2+|C3833492|[fndg]|["2+"-tx-40-"2"-percentage-0,"2+"-tx-39-"2"-integer-0,"2+"-tx-38-"2"-percentage-0,"2+"-tx-22-"2"-percentage-0,"2+"-tx-18-"2"-percentage-0]|TX|9009/1;8719/1;8561/1;5481/1;[4865/1],[4923/1]|
+00000000|MMI|13.60|Gastroesophageal reflux disease|C0017168|[dsyn]|["Gastrooesophageal reflux disease"-tx-18-"gastroesophageal reflux disease"-noun-0]|TX|4878/31|C06.405.117.119.500.484
+00000000|MMI|13.09|Fatigue|C0015672|[sosy]|["FATIGUE"-tx-15-"Fatigue"-noun-0,"FATIGUE"-tx-13-"fatigue"-noun-0]|TX|3747/7;2783/7|C23.888.369
+00000000|MMI|12.89|Disease|C0012634|[dsyn]|["DISEASE"-tx-44-"disease"-noun-0,"condition"-tx-3-"conditions"-noun-0]|TX|9940/7;1049/10|C23.550.288
+00000000|MMI|11.56|Electrocardiogram|C0013798|[fndg]|["Electrocardiograms"-tx-50-"electrocardiograms"-noun-0]|TX|11072/18|E01.370.370.380.240;E01.370.405.240
+00000000|MMI|11.56|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-1-"Renal impairment"-noun-0]|TX|459/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|10.85|Retinal Diseases|C0035309|[dsyn]|["RETINOPATHY"-tx-25-"retinopathy"-noun-0,"RETINOPATHY"-tx-9-"retinopathy"-noun-0]|TX|5804/11;1916/11|C11.768
+00000000|MMI|10.23|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-15-"Vomiting"-adj-0,"Vomiting"-tx-13-"vomiting"-verb-0,"Vomiting"-tx-1-"vomiting"-verb-0]|TX|3311/8;[2591/8],[2601/8];725/8|
+00000000|MMI|9.51|Constipation|C0009806|[sosy]|["CONSTIPATION"-tx-18-"constipation"-noun-0]|TX|4773/12|C23.888.821.150
+00000000|MMI|9.51|Eructation|C0014724|[sosy]|["ERUCTATION"-tx-18-"eructation"-noun-0]|TX|4934/10|C23.888.821.297
+00000000|MMI|9.51|Flatulence|C0016204|[sosy]|["FLATULENCE"-tx-18-"flatulence"-noun-0]|TX|4806/10|C23.888.821.360
+00000000|MMI|9.31|Sinus Tachycardia Adverse Event|C1963246|[fndg]|["Sinus tachycardia"-tx-40-"sinus tachycardia"-noun-0,"Sinus tachycardia"-tx-39-"sinus tachycardia"-noun-0,"Sinus tachycardia"-tx-38-"Sinus tachycardia"-noun-0,"Sinus tachycardia"-tx-37-"sinus tachycardia"-noun-0]|TX|8865/17;8678/17;8521/17;8439/17|
+00000000|MMI|9.31|continuous electrocardiogram sinus tachycardia|C2108109|[fndg]|["Sinus Tachycardia"-tx-40-"sinus tachycardia"-noun-0,"Sinus Tachycardia"-tx-39-"sinus tachycardia"-noun-0,"Sinus Tachycardia"-tx-38-"Sinus tachycardia"-noun-0,"Sinus Tachycardia"-tx-37-"sinus tachycardia"-noun-0]|TX|8865/17;8678/17;8521/17;8439/17|
+00000000|MMI|9.17|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-46-"Hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-1-"Hypersensitivity reactions"-noun-0]|TX|10099/16,10156/9;385/26|C20.543
+00000000|MMI|8.53|Urticaria|C0042109|[dsyn]|["URTICARIA"-tx-46-"urticaria"-noun-0]|TX|10197/9|C17.800.862.945;C20.543.480.904
+00000000|MMI|8.48|Dyspepsia|C0013395|[sosy]|["DYSPEPSIA"-tx-15-"Dyspepsia"-noun-0]|TX|3638/9|C23.888.821.236
+00000000|MMI|7.53|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-15-"Diarrhea"-noun-0,"Diarrhea"-tx-13-"diarrhea"-noun-0,"Diarrhea"-tx-1-"diarrhea"-noun-0]|TX|3202/8;2504/8;715/8|
+00000000|MMI|7.46|Asthenia|C0004093|[sosy]|["ASTHENIA"-tx-13-"asthenia"-noun-0]|TX|2792/8|C23.888.089
+00000000|MMI|7.46|Erythema|C0041834|[dsyn]|["ERYTHEMA"-tx-47-"erythema"-noun-0]|TX|10466/8|C17.800.229
+00000000|MMI|7.46|Pancreatitis|C0030305|[dsyn]|["PANCREATITIS"-tx-1-"Pancreatitis"-noun-0]|TX|208/12|C06.689.750
+00000000|MMI|7.27|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-51-"3"-percentage-0,"3+"-tx-50-"3"-percentage-0,"3+"-tx-18-"3"-percentage-0]|TX|11483/1;11175/1;4799/1|
+00000000|MMI|6.97|AV Block First Degree by ECG Finding|C3715208|[fndg]|["First Degree Atrioventricular Block"-tx-49-"first degree AV block"-noun-0,"First Degree Atrioventricular Block"-tx-48-"First Degree Atrioventricular Block"-noun-0,"PR Prolongation"-tx-48-"PR Prolongation"-noun-0]|TX|10885/21;10627/29,10662/5;10577/2,10589/12|
+00000000|MMI|6.75|1 - 3|C3843504|[fndg]|["1 - 3"-tx-40-"1.3"-percentage-0,"1 - 3"-tx-16-"1.3"-percentage-0]|TX|9000/3;4149/3|
+00000000|MMI|6.75|75+ years|C3840862|[fndg]|["75+ years"-tx-22-"75 years"-noun-0,"75+ years"-tx-6-"75 years"-noun-0]|TX|5489/8;1605/8|
+00000000|MMI|6.75|Gait normal|C0231683|[fndg]|["Normal"-tx-26-"normal"-adj-0,"Normal"-tx-10-"normal"-adj-0]|TX|5855/6;1967/6|
+00000000|MMI|6.75|Retinopathy Adverse Event|C1962966|[fndg]|["Retinopathy"-tx-25-"retinopathy"-noun-0,"Retinopathy"-tx-9-"retinopathy"-noun-0]|TX|5804/11;1916/11|
+00000000|MMI|6.49|Exanthema|C0015230|[sosy]|["RASH"-tx-46-"rash"-noun-0]|TX|10217/4|C17.800.257
+00000000|MMI|4.93|3-4|C3840617|[fndg]|["3-4"-tx-33-"3.4"-percentage-0,"3-4"-tx-18-"3.4"-percentage-0]|TX|7997/3;4830/3|
+00000000|MMI|4.93|3/4|C0442757|[fndg]|["3 4"-tx-33-"3.4"-percentage-0,"3 4"-tx-18-"3.4"-percentage-0]|TX|7997/3;4830/3|
+00000000|MMI|4.93|5-6|C3843715|[fndg]|["5-6"-tx-38-"5.6"-percentage-0,"5-6"-tx-1-"5.6"-real_number-0]|TX|8571/3;588/3|
+00000000|MMI|4.93|6/5|C0442749|[fndg]|["5 6"-tx-38-"5.6"-percentage-0,"5 6"-tx-1-"5.6"-real_number-0]|TX|8571/3;588/3|
+00000000|MMI|4.92|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-15-"Nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|3093/6;707/6|
+00000000|MMI|4.90|Decrease in appetite|C0232462|[sosy]|["Decreased appetite"-tx-15-"Decreased Appetite"-noun-0,"Decreased appetite"-tx-1-"decreased appetite"-noun-0]|TX|3529/18;755/18|
+00000000|MMI|4.88|Injection site reaction|C0151735|[patf]|["Injection site reactions"-tx-47-"Injection-site Reactions"-noun-0,"Injection site reactions"-tx-47-"injection-site reactions"-noun-0]|TX|10347/24;10413/24|
+00000000|MMI|4.85|Electrocardiogram: P-R interval|C0429087|[fndg]|["PR Interval"-tx-50-"PR interval"-noun-0,"PR Interval"-tx-48-"PR interval"-noun-0]|TX|11094/11;10707/11|
+00000000|MMI|4.61|Diabetes|C0011847|[dsyn]|["Diabetes"-tx-24-"diabetes"-noun-0,"Diabetes"-tx-8-"diabetes"-noun-0]|TX|5688/8;1804/8|
+00000000|MMI|4.54|Continuous electrocardiogram first degree atrioventricular block|C2108089|[fndg]|["first degree atrioventricular block"-tx-49-"first degree AV block"-noun-0,"first degree atrioventricular block"-tx-48-"First Degree Atrioventricular Block"-noun-0]|TX|10885/21;10627/29,10662/5|
+00000000|MMI|4.54|First degree atrioventricular block|C0085614|[dsyn]|["Atrioventricular Block, First Degree"-tx-49-"first degree AV block"-noun-0,"Atrioventricular Block, First Degree"-tx-48-"First Degree Atrioventricular Block"-noun-0]|TX|10885/21;10627/29,10662/5|
+00000000|MMI|4.48|Gastrointestinal Diseases|C0017178|[dsyn]|["Disease, Gastrointestinal"-tx-1-"Gastrointestinal Disease"-noun-0]|TX|530/24|C06.405
+00000000|MMI|3.36|20%|C3842589|[fndg]|["20%"-tx-51-"20"-percentage-0]|TX|11419/2|
+00000000|MMI|3.36|3/9|C0442760|[fndg]|["3/9"-tx-18-"3.9"-percentage-0]|TX|4793/3|
+00000000|MMI|3.36|30%|C3842588|[fndg]|["30%"-tx-7-"30"-percentage-0]|TX|1730/2|
+00000000|MMI|3.36|Abdomen distended|C0000731|[fndg]|["ABDOMINAL DISTENTION"-tx-18-"abdominal distension"-noun-0]|TX|4837/20|
+00000000|MMI|3.36|Abdominal discomfort|C0232487|[sosy]|["ABDOMINAL DISCOMFORT"-tx-13-"abdominal discomfort"-noun-0]|TX|2639/20|
+00000000|MMI|3.36|Constipation Adverse Event|C1963087|[fndg]|["Constipation"-tx-18-"constipation"-noun-0]|TX|4773/12|
+00000000|MMI|3.36|Facial edema|C0542571|[patf]|["FACIAL EDEMA"-tx-46-"facial edema"-noun-0]|TX|10223/12|
+00000000|MMI|3.36|Facial swelling|C0151602|[fndg]|["Facial Oedema"-tx-46-"facial edema"-noun-0]|TX|10223/12|
+00000000|MMI|3.36|Flatulence Adverse Event|C1962956|[fndg]|["Flatulence"-tx-18-"flatulence"-noun-0]|TX|4806/10|
+00000000|MMI|3.36|Injection site dermatitis|C0521505|[inpo]|["Injection site rash"-tx-47-"injection-site rash"-noun-0]|TX|10445/19|
+00000000|MMI|3.36|Lip swelling|C0240211|[sosy]|["LIP SWELLING"-tx-46-"lip swelling"-noun-0]|TX|10237/12|
+00000000|MMI|3.36|Malaise|C0231218|[sosy]|["MALAISE"-tx-13-"malaise"-noun-0]|TX|2802/7|
+00000000|MMI|3.36|Pancreatitis Adverse Event|C1963198|[fndg]|["Pancreatitis"-tx-1-"Pancreatitis"-noun-0]|TX|208/12|
+00000000|MMI|3.36|Related personal status|C0445223|[fndg]|["Related"-tx-34-"Related"-verb-0]|TX|8150/7|
+00000000|MMI|3.36|Retching|C0232602|[sosy]|["RETCHING"-tx-13-"retching"-noun-0]|TX|2581/8|
+00000000|MMI|3.36|Tachycardia by ECG Finding|C3827868|[fndg]|["TACHYCARDIA"-tx-34-"Tachycardia"-noun-0]|TX|8138/11|
+00000000|MMI|2.58|School Grade|C3244287|[fndg]|["grade"-tx-17-"graded"-verb-0]|TX|4302/6|
+00000000|MMI|2.45|Prolonged PR interval|C0600125|[fndg]|["PR prolongation"-tx-48-"PR Prolongation"-noun-0]|TX|10577/2,10589/12|
+00000000|MMI|2.45|Severe disorder|C1836348|[fndg]|["Severe Disease"-tx-1-"Severe Disease"-noun-0]|TX|523/6,547/7|
+00000000|MMI|2.45|Number of patients|C2360800|[fndg]|["Number of patients"-tx-14-"number of patients"-noun-0]|TX|2849/18|
+00000000|MMI|2.42|Distance vision 6/9|C0442751|[fndg]|["6 9"-tx-15-"6 9"-real_number-0]|TX|3365/1,3449/1|
+00000000|MMI|2.39|reported urticaria (physical finding)|C2186740|[fndg]|["urticaria"-tx-46-"urticaria"-noun-0]|TX|10197/9|
+00000000|MMI|2.34|Adverse effects|C0879626|[patf]|["treatment Adverse reactions"-tx-16-"treatment adverse reactions"-noun-0]|TX|4196/9,4230/17|
+00000000|MMI|2.33|Sore to touch|C0234233|[sosy]|["TENDERNESS"-tx-13-"tenderness"-noun-0]|TX|2731/10|
+00000000|MMI|2.33|80%|C3842583|[fndg]|["80%"-tx-32-"80"-percentage-0]|TX|7848/2|
+00000000|MMI|2.33|Used by|C1273517|[fndg]|["used"-tx-29-"used"-verb-0]|TX|7388/4|
+00000000|MMI|2.33|combination - answer to question|C3811910|[fndg]|["Combination"-tx-29-"combination"-noun-0]|TX|7396/11|
+00000000|MMI|2.32|Insulin hypoglycemia|C0858734|[dsyn]|["hypoglycemia insulin"-tx-1-"Hypoglycemia Insulin"-noun-0]|TX|268/12,305/7|
+00000000|MMI|2.32|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-5-"exposure"-noun-0]|TX|1432/8|
+00000000|MMI|2.32|exposure history|C2220266|[fndg]|["exposure"-tx-5-"exposure"-noun-0]|TX|1432/8|
+00000000|MMI|2.31|Increased frequency of defecation|C0239978|[fndg]|["FREQUENT BOWEL MOVEMENTS"-tx-13-"frequent bowel movements"-noun-0]|TX|2538/24|
+00000000|MMI|2.31|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-19-"therapy"-noun-0]|TX|5245/7|
+00000000|MMI|2.29|Gastrointestinal pain|C0687713|[sosy]|["GASTROINTESTINAL PAIN"-tx-13-"gastrointestinal pain"-noun-0]|TX|2743/21|
+00000000|MMI|2.29|Experimental Result|C2825142|[fndg]|["Result"-tx-35-"resulted"-verb-0]|TX|8212/8|
+00000000|MMI|2.28|Upper abdominal pain|C0232492|[sosy]|["ABDOMINAL PAIN UPPER"-tx-13-"abdominal pain upper"-noun-0]|TX|2677/14,2714/5|
+00000000|MMI|2.26|Lower abdominal pain|C0232495|[sosy]|["ABDOMINAL PAIN LOWER"-tx-13-"abdominal pain lower"-noun-0]|TX|2677/20|
+00000000|MMI|2.25|70%|C3842584|[fndg]|["70%"-tx-28-"70"-integer-0]|TX|6251/2|
+00000000|MMI|2.24|60%|C3842585|[fndg]|["60%"-tx-26-"60"-integer-0]|TX|5889/2|
+00000000|MMI|2.22|Neoplasms|C0027651|[neop]|["Tumors"-tx-1-"Tumors"-noun-0]|TX|154/6|C04
+00000000|MMI|2.22|Discontinued|C1444662|[fndg]|["Discontinued"-tx-16-"discontinued"-adj-0]|TX|4183/12|

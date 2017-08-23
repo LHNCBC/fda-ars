@@ -1,0 +1,148 @@
+T1	AdverseReaction 69 77	seizures
+T2	Factor 59 62	can
+T3	AdverseReaction 91 99	seizures
+T4	Factor 83 87	risk
+T5	AdverseReaction 368 379	anaphylaxis
+T6	Factor 358 361	can
+T7	AdverseReaction 491 499	seizures
+T8	Factor 481 484	can
+T9	AdverseReaction 524 532	seizures
+T10	AdverseReaction 730 738	seizures
+T11	AdverseReaction 930 938	seizures
+T12	AdverseReaction 975 983	seizures
+T13	AdverseReaction 2264 2272	seizures
+T14	Factor 2220 2223	may
+T15	AdverseReaction 2742 2753	anaphylaxis
+T16	AdverseReaction 2765 2783	allergic reactions
+T17	Severity 2758 2764	severe
+T18	Factor 2732 2735	can
+T19	AdverseReaction 2818 2840	respiratory compromise
+T20	AdverseReaction 2842 2851	urticaria
+T21	AdverseReaction 2857 2881	angioedema of the throat
+T22	AdverseReaction 2857 2874;2889 2895	angioedema of the tongue
+T23	AdverseReaction 3126 3150	Urinary tract infections
+T24	AdverseReaction 3152 3156	UTIs
+E1	AdverseReaction:T1 Hypothetical:E2
+E2	Factor:T2
+E3	AdverseReaction:T3 Hypothetical:E4
+E4	Factor:T4
+E5	AdverseReaction:T5 Hypothetical:E6
+E6	Factor:T6
+E7	AdverseReaction:T7 Hypothetical:E8
+E8	Factor:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13 Hypothetical:E14
+E14	Factor:T14
+E15	AdverseReaction:T15 Hypothetical:E18
+E16	AdverseReaction:T16 Effect:E17 Hypothetical:E18
+E17	Severity:T17
+E18	Factor:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+A1	CUI E1 C0036572
+A2	UMLS-Preferred-Name E1 Seizures
+A3	MEDDRA-PT E1 Seizure
+A4	MEDDRA-PT-ID E1 10039906
+A5	LLT E1 Seizures
+A6	LLT-ID E1 10039910
+A7	CUI E3 C0036572
+A8	UMLS-Preferred-Name E3 Seizures
+A9	MEDDRA-PT E3 Seizure
+A10	MEDDRA-PT-ID E3 10039906
+A11	LLT E3 Seizures
+A12	LLT-ID E3 10039910
+A13	CUI E5 C0002792
+A14	UMLS-Preferred-Name E5 anaphylaxis
+A15	MEDDRA-PT E5 Anaphylactic reaction
+A16	MEDDRA-PT-ID E5 10002198
+A17	LLT E5 Anaphylaxis
+A18	LLT-ID E5 10002218
+A19	CUI E7 C0036572
+A20	UMLS-Preferred-Name E7 Seizures
+A21	MEDDRA-PT E7 Seizure
+A22	MEDDRA-PT-ID E7 10039906
+A23	LLT E7 Seizures
+A24	LLT-ID E7 10039910
+A25	CUI E9 C0036572
+A26	UMLS-Preferred-Name E9 Seizures
+A27	MEDDRA-PT E9 Seizure
+A28	MEDDRA-PT-ID E9 10039906
+A29	LLT E9 Seizures
+A30	LLT-ID E9 10039910
+A31	CUI E10 C0036572
+A32	UMLS-Preferred-Name E10 Seizures
+A33	MEDDRA-PT E10 Seizure
+A34	MEDDRA-PT-ID E10 10039906
+A35	LLT E10 Seizures
+A36	LLT-ID E10 10039910
+A37	CUI E11 C0036572
+A38	UMLS-Preferred-Name E11 Seizures
+A39	MEDDRA-PT E11 Seizure
+A40	MEDDRA-PT-ID E11 10039906
+A41	LLT E11 Seizures
+A42	LLT-ID E11 10039910
+A43	CUI E12 C0036572
+A44	UMLS-Preferred-Name E12 Seizures
+A45	MEDDRA-PT E12 Seizure
+A46	MEDDRA-PT-ID E12 10039906
+A47	LLT E12 Seizures
+A48	LLT-ID E12 10039910
+A49	CUI E13 C0036572
+A50	UMLS-Preferred-Name E13 Seizures
+A51	MEDDRA-PT E13 Seizure
+A52	MEDDRA-PT-ID E13 10039906
+A53	LLT E13 Seizures
+A54	LLT-ID E13 10039910
+A55	CUI E15 C0002792
+A56	UMLS-Preferred-Name E15 anaphylaxis
+A57	MEDDRA-PT E15 Anaphylactic reaction
+A58	MEDDRA-PT-ID E15 10002198
+A59	LLT E15 Anaphylaxis
+A60	LLT-ID E15 10002218
+A61	CUI E16 C1527304
+A62	UMLS-Preferred-Name E16 Allergic Reaction
+A63	MEDDRA-PT E16 Hypersensitivity
+A64	MEDDRA-PT-ID E16 10020751
+A65	LLT E16 Allergic reaction
+A66	LLT-ID E16 10001718
+A67	CUI E19 C0035229
+A68	UMLS-Preferred-Name E19 Respiratory Insufficiency
+A69	MEDDRA-PT E19 Respiratory failure
+A70	MEDDRA-PT-ID E19 10038695
+A71	LLT E19 Respiratory insufficiency
+A72	LLT-ID E19 10038701
+A73	CUI E20 C0042109
+A74	UMLS-Preferred-Name E20 Urticaria
+A75	MEDDRA-PT E20 Urticaria
+A76	MEDDRA-PT-ID E20 10046735
+A77	flag E21 duplicate
+A78	CUI E21 C0236024
+A79	UMLS-Preferred-Name E21 Edema of pharynx
+A80	MEDDRA-PT E21 Pharyngeal oedema
+A81	MEDDRA-PT-ID E21 10034829
+A82	LLT E21 Throat edema
+A83	LLT-ID E21 10043519
+A84	flag E22 duplicate
+A85	CUI E22 C1304201
+A86	UMLS-Preferred-Name E22 Angioedema of tongue
+A87	MEDDRA-PT E22 Tongue oedema
+A88	MEDDRA-PT-ID E22 10043967
+A89	LLT E22 Tongue edema
+A90	LLT-ID E22 10043955
+A91	CUI E23 C0042029
+A92	UMLS-Preferred-Name E23 Urinary tract infection
+A93	MEDDRA-PT E23 Urinary tract infection
+A94	MEDDRA-PT-ID E23 10046571
+A95	CUI E24 C0042029
+A96	UMLS-Preferred-Name E24 Urinary tract infection
+A97	MEDDRA-PT E24 Urinary tract infection
+A98	MEDDRA-PT-ID E24 10046571
+A99	LLT E24 UTI
+A100	LLT-ID E24 10046848

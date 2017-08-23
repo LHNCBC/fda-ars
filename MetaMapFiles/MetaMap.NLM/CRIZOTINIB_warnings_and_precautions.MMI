@@ -1,0 +1,78 @@
+00000000|AA|ILD|Interstitial Lung Disease|1|3|5|25|268:3
+00000000|AA|ULN|upper limit of normal|1|3|7|21|1570:3
+00000000|AA|ECGs|electrocardiograms|1|4|1|18|3755:4
+00000000|AA|OCT|optical coherence tomography|1|3|5|28|6351:3
+00000000|MMI|146.34|Bradycardia|C0428977|[patf]|["BRADYCARDIA"-tx-42-"bradycardia"-noun-0,"BRADYCARDIA"-tx-41-"bradycardia"-noun-1,"BRADYCARDIA"-tx-39-"bradycardia"-noun-0,"BRADYCARDIA"-tx-36-"bradycardia"-noun-0,"Bradyarrhythmias"-tx-32-"bradyarrhythmias"-noun-0,"BRADYCARDIA"-tx-9-"Bradycardia"-noun-0,"BRADYCARDIA"-tx-9-"bradycardia"-noun-0]|TX|[5409/11],[5504/11],[5576/11];5233/11;4947/11;4587/11;3821/16;700/11;731/11|C14.280.067.319;C23.550.073.300
+00000000|MMI|92.67|Lung Diseases, Interstitial|C0206062|[dsyn]|["INTERSTITIAL LUNG DISEASE"-tx-28-"ILD"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-25-"ILD"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-24-"ILD"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-24-"Interstitial Lung Disease"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-24-"interstitial lung disease"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-5-"ILD"-noun-0,"INTERSTITIAL LUNG DISEASE"-tx-4-"Interstitial Lung Disease"-noun-0]|TX|3163/3;[2837/3],[2874/3];2650/3;2542/25;2623/25;357/3;241/25|C08.381.483
+00000000|MMI|77.87|Discontinued|C1444662|[fndg]|["Discontinue"-tx-45-"Discontinue"-verb-0,"Discontinue"-tx-42-"discontinue"-verb-0,"Discontinued"-tx-42-"discontinued"-adj-0,"Discontinue"-tx-33-"discontinue"-verb-0,"Discontinue"-tx-28-"discontinue"-verb-0,"Discontinue"-tx-23-"discontinue"-verb-0,"Discontinuation"-tx-20-"discontinuation"-noun-0,"Discontinue"-tx-13-"Discontinue"-verb-0,"Discontinue"-tx-11-"discontinue"-verb-0,"Discontinue"-tx-8-"discontinue"-verb-0,"Discontinue"-tx-5-"discontinue"-verb-0,"Discontinue"-tx-3-"discontinue"-verb-0]|TX|6071/11;5376/11;5677/12;3951/11;3103/11;2415/11;1902/15;928/11;842/11;664/11;328/11;205/11|
+00000000|MMI|77.04|Pneumonia|C0032285|[dsyn]|["Pneumonitis"-tx-28-"pneumonitis"-noun-0,"Pneumonitis"-tx-27-"pneumonitis"-noun-0,"Pneumonitis"-tx-24-"Pneumonitis"-noun-0,"Pneumonitis"-tx-24-"pneumonitis"-noun-0,"Pneumonitis"-tx-5-"pneumonitis"-noun-0,"Pneumonitis"-tx-4-"Pneumonitis"-noun-0]|TX|[3074/11],[3167/11];3023/11;2569/11;2655/11;361/11;273/11|C08.381.677;C08.730.610
+00000000|MMI|77.04|Pneumonitis|C3714636|[dsyn]|["PNEUMONITIS"-tx-28-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-27-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-24-"Pneumonitis"-noun-0,"PNEUMONITIS"-tx-24-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-5-"pneumonitis"-noun-0,"PNEUMONITIS"-tx-4-"Pneumonitis"-noun-0]|TX|[3074/11],[3167/11];3023/11;2569/11;2655/11;361/11;273/11|C08.381.677;C08.730.610
+00000000|MMI|49.73|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-22-"ALT"-noun-0,"ALT"-tx-19-"ALT"-noun-0,"ALT"-tx-18-"ALT"-noun-0]|TX|2082/3;1754/3;1465/3|C04.557.450.550.400
+00000000|MMI|49.04|Electrocardiogram|C0013798|[fndg]|["Electrocardiograms"-tx-34-"ECGs"-noun-0,"Electrocardiograms"-tx-32-"electrocardiograms"-noun-0,"Electrocardiograms"-tx-7-"electrocardiograms"-noun-0]|TX|4266/4;3735/18;458/18|E01.370.370.380.240;E01.370.405.240
+00000000|MMI|39.28|Blind Vision|C0456909|[fndg]|["Loss of vision"-tx-44-"of vision loss"-noun-0,"VISION LOSS"-tx-43-"vision loss"-noun-0]|TX|6048/14;5939/11|C10.597.751.941.162;C11.966.075;C23.888.592.763.941.162
+00000000|MMI|35.60|Bradycardia by ECG Finding|C3812171|[fndg]|["BRADYCARDIA"-tx-42-"bradycardia"-noun-0,"BRADYCARDIA"-tx-41-"bradycardia"-noun-1,"BRADYCARDIA"-tx-39-"bradycardia"-noun-0,"BRADYCARDIA"-tx-36-"bradycardia"-noun-0,"BRADYCARDIA"-tx-9-"Bradycardia"-noun-0,"BRADYCARDIA"-tx-9-"bradycardia"-noun-0]|TX|[5409/11],[5504/11],[5576/11];5233/11;4947/11;4587/11;700/11;731/11|
+00000000|MMI|32.94|Visual Impairment|C3665347|[fndg]|["Loss of vision"-tx-44-"of vision loss"-noun-0,"vision loss"-tx-43-"vision loss"-noun-0]|TX|6048/14;5939/11|C10.597.751.941;C11.966;C23.888.592.763.941
+00000000|MMI|32.93|Systemic arterial pressure|C1272641|[fndg]|["Blood pressure"-tx-40-"blood pressure"-noun-0,"Blood pressure"-tx-10-"blood pressure"-noun-0]|TX|5097/14;767/14|G09.330.380.076.347
+00000000|MMI|27.26|Non-Small Cell Lung Carcinoma|C0007131|[neop]|["NSCLC"-tx-17-"NSCLC"-noun-0]|TX|1407/5|C04.588.894.797.520.109.220.249;C08.381.540.140.500;C08.785.520.100.220.500
+00000000|MMI|23.18|Severe loss of vision|C3552074|[fndg]|["Severe Visual loss"-tx-47-"severe visual loss"-noun-0,"Severe Visual loss"-tx-46-"severe visual loss"-noun-0,"Severe Visual loss"-tx-45-"severe visual loss"-noun-0,"Severe Visual loss"-tx-43-"Severe Visual Loss"-noun-0,"Severe Visual loss"-tx-13-"severe visual loss"-noun-0,"Severe Visual loss"-tx-12-"Severe Visual Loss"-noun-0]|TX|6534/18;6410/18;6121/18;5836/18;965/18;878/18|
+00000000|MMI|22.56|Syncope|C0039070|[sosy]|["SYNCOPE"-tx-38-"syncope"-noun-0]|TX|4770/7|C10.597.606.358.800.600;C23.888.592.604.359.800.600
+00000000|MMI|22.36|Fatal Outcome|C0206277|[patf]|["Fatal Outcome"-tx-17-"fatal outcome"-noun-0]|TX|1290/13|E05.318.308.985.550.325;L01.280.975.550.325;N01.224.935.698.201;N06.850.505.400.975.550.325;N06.850.520.308.985.550.325
+00000000|MMI|20.29|Lung diseases|C0024115|[dsyn]|["Disease of lung"-tx-28-"of ILD"-noun-0,"Disease of lung"-tx-27-"of ILD"-noun-0,"Disease of lung"-tx-25-"ILD of"-noun-0]|TX|3067/6;3016/6;2783/6|C08.381
+00000000|MMI|19.38|Low Vision|C0042798|[dsyn]|["loss of vision"-tx-44-"of vision loss"-noun-0]|TX|6048/14|C10.597.751.941.905;C11.966.905;C23.888.592.763.941.848
+00000000|MMI|19.25|Torsades de Pointes|C0040479|[dsyn]|["TORSADES DE POINTES"-tx-33-"Torsade de pointes"-noun-0]|TX|4079/18|C14.280.067.845.940.700;C23.550.073.845.940.700
+00000000|MMI|19.20|Gravidity|C0600457|[fndg]|["PREGNANT"-tx-49-"pregnant"-adj-0]|TX|6849/8|G08.686.340;G08.686.785.760.769.213;N06.850.490.812.250
+00000000|MMI|15.79|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-42-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-28-"Adverse Reactions"-noun-0,"Adverse reactions"-tx-23-"Adverse Reactions"-noun-0]|TX|5797/17;3223/17;2503/17|
+00000000|MMI|15.00|0%|C3842591|[fndg]|["0%"-tx-43-"0"-percentage-0,"0%"-tx-38-"0"-percentage-0,"0%"-tx-18-"0"-percentage-0,"0%"-tx-17-"0"-percentage-0]|TX|5955/1;4830/1;1698/1;1319/1|
+00000000|MMI|14.85|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["Grade 4"-tx-43-"Grade 4"-noun-0,"LIFE THREATENING"-tx-42-"life-threatening"-adj-0,"LIFE THREATENING"-tx-41-"life-threatening"-adj-1,"LIFE THREATENING"-tx-24-"life-threatening"-adj-0]|TX|5906/7;5392/16;5171/16;2596/16|
+00000000|MMI|14.64|Optic Atrophy|C0029124|[dsyn]|["OPTIC ATROPHY"-tx-44-"Optic atrophy"-noun-0]|TX|5970/13|C10.292.700.225;C11.640.451
+00000000|MMI|14.36|60%|C3842585|[fndg]|["60%"-tx-42-"60"-integer-0,"60%"-tx-41-"60"-integer-0,"60%"-tx-33-"60"-integer-0,"60%"-tx-30-"60"-integer-0]|TX|5610/2;5267/2;4047/2;3577/2|
+00000000|MMI|11.49|Disorder of the optic nerve|C0029132|[dsyn]|["Optic Nerve Disorder"-tx-44-"optic nerve disorder"-noun-0]|TX|5988/20|C10.292.700;C11.640
+00000000|MMI|11.49|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-42-"hypotension"-noun-0]|TX|5519/11|C14.907.514
+00000000|MMI|11.26|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-42-"life-threatening"-adj-0,"Life Threatening"-tx-41-"life-threatening"-adj-1,"Life Threatening"-tx-24-"life-threatening"-adj-0]|TX|5392/16;5171/16;2596/16|
+00000000|MMI|11.26|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-42-"life-threatening"-adj-0,"LIFE THREATENING"-tx-41-"life-threatening"-adj-1,"LIFE THREATENING"-tx-24-"life-threatening"-adj-0]|TX|5392/16;5171/16;2596/16|
+00000000|MMI|11.01|2+|C3833492|[fndg]|["2+"-tx-38-"2"-integer-0,"2+"-tx-25-"2"-percentage-0,"2+"-tx-22-"2"-integer-0]|TX|4759/1;2773/1;2112/1|
+00000000|MMI|10.60|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-25-"fatal"-adj-0,"FATAL"-tx-24-"fatal"-adj-0,"FATAL"-tx-1-"Fatal"-adj-0]|TX|2868/5;2617/5;68/5|
+00000000|MMI|9.77|Signs and Symptoms, Respiratory|C0037090|[sosy]|["pulmonary symptoms"-tx-27-"pulmonary symptoms"-noun-0]|TX|2986/18|C23.888.852
+00000000|MMI|9.75|Drug-Induced Liver Injury|C0860207|[patf]|["Drug-induced hepatotoxicity"-tx-17-"Hepatotoxicity Drug-induced"-noun-0]|TX|1236/14,1257/12|C06.552.195;C25.100.562;C25.723.260
+00000000|MMI|9.74|Cardiac Arrhythmia|C0003811|[fndg]|["Arrythmia"-tx-33-"arrhythmia"-noun-0]|TX|4166/10|C14.280.067;C23.550.073
+00000000|MMI|7.70|Hepatotoxicity|C0235378|[inpo]|["HEPATOTOXICITY"-tx-1-"Hepatotoxicity"-noun-0,"HEPATOTOXICITY"-tx-1-"hepatotoxicity"-noun-0]|TX|52/14;74/14|
+00000000|MMI|7.55|Abnormal vision|C3665386|[fndg]|["Loss of vision"-tx-44-"of vision loss"-noun-0,"Vision loss"-tx-43-"vision loss"-noun-0]|TX|6048/14;5939/11|
+00000000|MMI|7.55|Unspecified visual loss|C3665346|[sosy]|["Vision, Loss Of"-tx-44-"of vision loss"-noun-0,"VISION LOSS"-tx-43-"vision loss"-noun-0]|TX|6048/14;5939/11|
+00000000|MMI|7.55|Blood pressure finding|C1271104|[fndg]|["Blood Pressure"-tx-40-"blood pressure"-noun-0,"Blood Pressure"-tx-10-"blood pressure"-noun-0]|TX|5097/14;767/14|
+00000000|MMI|7.42|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-38-"Grade 3"-noun-0,"GRADE 3"-tx-25-"Grade 3"-noun-0]|TX|4762/7;2824/7|
+00000000|MMI|7.40|1+|C3816745|[fndg]|["1+"-tx-25-"1"-percentage-0,"1+"-tx-20-"1"-percentage-0]|TX|2814/1;1877/1|
+00000000|MMI|7.36|5-6|C3843715|[fndg]|["5-6"-tx-48-"5.6"-real_number-0,"5-6"-tx-17-"5.6"-real_number-0]|TX|6647/3;1197/3|
+00000000|MMI|7.36|6/5|C0442749|[fndg]|["5 6"-tx-48-"5.6"-real_number-0,"5 6"-tx-17-"5.6"-real_number-0]|TX|6647/3;1197/3|
+00000000|MMI|7.33|Toxic effect|C0600688|[inpo]|["Toxicity"-tx-48-"Toxicity"-noun-0,"Toxicity"-tx-15-"Toxicity"-noun-0]|TX|6663/8;1052/8|
+00000000|MMI|7.22|Prolonged QT interval|C0151878|[fndg]|["QT Prolongation"-tx-29-"QT Prolongation"-noun-0,"QT Prolongation"-tx-6-"QT Prolongation"-noun-0]|TX|3262/2,3274/12;389/2,401/12|
+00000000|MMI|7.14|4+ Answer to question|C3838679|[fndg]|["4+"-tx-43-"4"-fraction-0,"4+"-tx-25-"4"-integer-0]|TX|5961/1;2835/1|
+00000000|MMI|7.04|Asymptomatic|C0231221|[fndg]|["ASYMPTOMATIC"-tx-42-"asymptomatic"-adj-0,"ASYMPTOMATIC"-tx-41-"asymptomatic"-adj-1]|TX|5563/12;5220/12|
+00000000|MMI|6.98|BRADYCARDIA SYMPTOMATIC|C0741627|[dsyn]|["BRADYCARDIA SYMPTOMATIC"-tx-41-"symptomatic bradycardia"-noun-0,"BRADYCARDIA SYMPTOMATIC"-tx-35-"Bradycardia Symptomatic"-noun-0]|TX|5135/23;4480/11,4498/11|
+00000000|MMI|6.92|Transaminases increased|C0438717|[fndg]|["Transaminases increased"-tx-22-"increased transaminases"-noun-0,"Elevated Transaminases"-tx-20-"elevated transaminases"-noun-0]|TX|2245/9,2261/13;1925/22|
+00000000|MMI|6.76|Signs and Symptoms|C0037088|[sosy]|["SIGNS SYMPTOMS"-tx-33-"signs/symptoms"-noun-0]|TX|4140/14|C23.888
+00000000|MMI|5.18|Alkaline phosphatase normal|C0858306|[fndg]|["Normal alkaline phosphatase"-tx-18-"normal alkaline phosphatase"-noun-0]|TX|1644/27|
+00000000|MMI|5.18|Bradyarrhythmia (disorder)|C0079035|[dsyn]|["bradyarrhythmias"-tx-32-"bradyarrhythmias"-noun-0]|TX|3821/16|
+00000000|MMI|5.18|Congestive heart failure|C0018802|[dsyn]|["CONGESTIVE HEART FAILURE"-tx-32-"congestive heart failure"-noun-0]|TX|3795/24|
+00000000|MMI|5.18|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-42-"hypotension"-noun-0]|TX|5519/11|
+00000000|MMI|5.18|Indicated|C1444656|[fndg]|["Indicated"-tx-22-"indicated"-verb-0]|TX|2196/9|
+00000000|MMI|5.18|Injury due to exposure to external cause|C0274281|[inpo]|["EXPOSURES"-tx-49-"exposures"-noun-0]|TX|6887/9|
+00000000|MMI|5.18|Insufficient information|C4062889|[fndg]|["Insufficient information"-tx-47-"insufficient information"-noun-0]|TX|6439/24|
+00000000|MMI|5.18|Ventricular tachycardia, polymorphic|C0344432|[dsyn]|["Polymorphic Ventricular Tachycardia"-tx-33-"polymorphic ventricular tachycardia"-noun-0]|TX|4101/35|
+00000000|MMI|4.12|Electrolytes abnormal|C0151613|[fndg]|["ELECTROLYTE ABNORMALITY"-tx-32-"electrolyte abnormalities"-noun-0]|TX|3839/25|
+00000000|MMI|3.72|Medical History|C0262926|[fndg]|["HISTORY OF"-tx-7-"history of"-noun-0]|TX|517/10|
+00000000|MMI|3.57|10%|C3842590|[fndg]|["10%"-tx-18-"10"-integer-0]|TX|1685/2|
+00000000|MMI|3.55|Experimental Result|C2825142|[fndg]|["Result"-tx-49-"resulted"-verb-0]|TX|6963/8|
+00000000|MMI|3.54|Diagnosis|C0011900|[fndg]|["DIAGNOSED"-tx-28-"diagnosed"-verb-0]|TX|3135/9|E01
+00000000|MMI|3.54|Related personal status|C0445223|[fndg]|["Related"-tx-28-"related"-adj-0]|TX|3155/7|
+00000000|MMI|3.50|Congenital long QT syndrome|C1141890|[dsyn]|["Congenital long QT syndrome"-tx-31-"congenital long QT syndrome"-noun-0]|TX|3672/27|
+00000000|MMI|3.48|Electrocardiogram QT corrected interval prolonged|C0855333|[fndg]|["QTC PROLONGATION"-tx-7-"QTc prolongation"-noun-0]|TX|550/16|
+00000000|MMI|3.48|Torsade de Pointes Adverse Event|C1963250|[fndg]|["Torsade de pointes"-tx-33-"Torsade de pointes"-noun-0]|TX|4079/18|
+00000000|MMI|3.46|Visual field defects|C3887875|[fndg]|["VISUAL FIELD DEFECT"-tx-43-"visual field defect"-noun-0]|TX|5914/19|
+00000000|MMI|3.45|combination - answer to question|C3811910|[fndg]|["Combination"-tx-39-"combination"-noun-0]|TX|4902/11|
+00000000|MMI|3.44|West Haven Hepatic Encephalopathy Grade 4|C3889293|[fndg]|["GRADE 4"-tx-43-"Grade 4"-noun-0]|TX|5906/7|
+00000000|MMI|3.43|Patient currently pregnant|C0549206|[fndg]|["Pregnant"-tx-49-"pregnant"-adj-0]|TX|6849/8|
+00000000|MMI|3.43|School Grade|C3244287|[fndg]|["grade"-tx-25-"grade"-noun-0]|TX|2794/5|
+00000000|MMI|3.42|20%|C3842589|[fndg]|["20%"-tx-45-"20"-fraction-0]|TX|6173/2|
+00000000|MMI|3.42|50%|C3842586|[fndg]|["50%"-tx-37-"50"-integer-0]|TX|4721/2|
+00000000|MMI|3.42|<50|C3843766|[fndg]|["<50"-tx-37-"50"-integer-0]|TX|4721/2|
+00000000|MMI|3.42|Reading (datum presentation)|C1705179|[fndg]|["read"-tx-30-"read"-adj-0]|TX|3604/4|

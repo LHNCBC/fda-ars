@@ -1,0 +1,158 @@
+T1	AdverseReaction 153 186	immune-mediated adverse reactions
+T2	AdverseReaction 147 152	fatal
+T3	Severity 136 142	severe
+T4	AdverseReaction 363 376	enterocolitis
+T5	AdverseReaction 378 387	hepatitis
+T6	AdverseReaction 389 399	dermatitis
+T7	AdverseReaction 411 437	toxic epidermal necrolysis
+T8	AdverseReaction 440 450	neuropathy
+T9	AdverseReaction 456 470	endocrinopathy
+T10	Factor 1276 1279	can
+T11	Severity 1290 1296	severe
+T12	AdverseReaction 1301 1306	fatal
+T13	AdverseReaction 1307 1340	immune-mediated adverse reactions
+T14	Factor 122 125	can
+T15	Factor 263 266	may
+T16	Factor 1417 1420	may
+T17	Severity 1472 1478	severe
+T18	AdverseReaction 1479 1512	immune-mediated adverse reactions
+T19	AdverseReaction 1517 1530	enterocolitis
+T20	AdverseReaction 1532 1541	hepatitis
+T21	AdverseReaction 1543 1553	dermatitis
+T22	AdverseReaction 1565 1591	toxic epidermal necrolysis
+T23	AdverseReaction 1594 1604	neuropathy
+T24	AdverseReaction 1610 1624	endocrinopathy
+T25	AdverseReaction 30 63	IMMUNE-MEDIATED ADVERSE REACTIONS
+T26	AdverseReaction 76 109	IMMUNE-MEDIATED ADVERSE REACTIONS
+T27	AdverseReaction 325 358	immune-mediated adverse reactions
+T28	AdverseReaction 237 262	immune-mediated reactions
+T29	Severity 318 324	severe
+T30	AdverseReaction 1160 1193	IMMUNE-MEDIATED ADVERSE REACTIONS
+T31	AdverseReaction 1648 1673	immune-mediated reactions
+E1	AdverseReaction:T1 Effect:E3 Hypothetical:E14
+E2	AdverseReaction:T2 Hypothetical:E14
+E3	Severity:T3
+E4	AdverseReaction:T4 Hypothetical:E15 Effect:E29
+E5	AdverseReaction:T5 Hypothetical:E15 Effect:E29
+E6	AdverseReaction:T6 Hypothetical:E15 Effect:E29
+E7	AdverseReaction:T7 Hypothetical:E15 Effect:E29
+E8	AdverseReaction:T8 Hypothetical:E15 Effect:E29
+E9	AdverseReaction:T9 Hypothetical:E15 Effect:E29
+E10	Factor:T10
+E11	Severity:T11
+E12	AdverseReaction:T12 Hypothetical:E10
+E13	AdverseReaction:T13 Effect:E11 Hypothetical:E10
+E14	Factor:T14
+E15	Factor:T15
+E16	Factor:T16
+E17	Severity:T17
+E18	AdverseReaction:T18 Effect:E17 Hypothetical:E16
+E19	AdverseReaction:T19 Hypothetical:E16 Effect:E17
+E20	AdverseReaction:T20 Hypothetical:E16 Effect:E17
+E21	AdverseReaction:T21 Hypothetical:E16 Effect:E17
+E22	AdverseReaction:T22 Hypothetical:E16 Effect:E17
+E23	AdverseReaction:T23 Hypothetical:E16 Effect:E17
+E24	AdverseReaction:T24 Hypothetical:E16 Effect:E17
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27 Effect:E29
+E28	AdverseReaction:T28
+E29	Severity:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	CUI E2 C1306577
+A6	UMLS-Preferred-Name E2 Death (finding)
+A7	MEDDRA-PT E2 Death
+A8	MEDDRA-PT-ID E2 10011906
+A9	CUI E4 C0014356
+A10	UMLS-Preferred-Name E4 Enterocolitis
+A11	MEDDRA-PT E4 Enterocolitis
+A12	MEDDRA-PT-ID E4 10014893
+A13	CUI E5 C0019158
+A14	UMLS-Preferred-Name E5 Hepatitis
+A15	MEDDRA-PT E5 Hepatitis
+A16	MEDDRA-PT-ID E5 10019717
+A17	CUI E6 C0011603
+A18	UMLS-Preferred-Name E6 Dermatitis
+A19	MEDDRA-PT E6 Dermatitis
+A20	MEDDRA-PT-ID E6 10012431
+A21	CUI E7 C0014518
+A22	UMLS-Preferred-Name E7 Toxic Epidermal Necrolysis
+A23	MEDDRA-PT E7 Toxic epidermal necrolysis
+A24	MEDDRA-PT-ID E7 10044223
+A25	CUI E8 C0442874
+A26	UMLS-Preferred-Name E8 Neuropathy
+A27	MEDDRA-PT E8 Neuropathy peripheral
+A28	MEDDRA-PT-ID E8 10029331
+A29	LLT E8 Neuropathy
+A30	LLT-ID E8 10029328
+A31	CUI E9 C0014130
+A32	UMLS-Preferred-Name E9 Endocrine System Diseases
+A33	MEDDRA-PT E9 Endocrine disorder
+A34	MEDDRA-PT-ID E9 10014695
+A35	CUI E12 C1306577
+A36	UMLS-Preferred-Name E12 Death (finding)
+A37	MEDDRA-PT E12 Death
+A38	MEDDRA-PT-ID E12 10011906
+A39	CUI E13 C0020517
+A40	UMLS-Preferred-Name E13 Hypersensitivity
+A41	MEDDRA-PT E13 Hypersensitivity
+A42	MEDDRA-PT-ID E13 10020751
+A43	CUI E18 C0020517
+A44	UMLS-Preferred-Name E18 Hypersensitivity
+A45	MEDDRA-PT E18 Hypersensitivity
+A46	MEDDRA-PT-ID E18 10020751
+A47	CUI E19 C0014356
+A48	UMLS-Preferred-Name E19 Enterocolitis
+A49	MEDDRA-PT E19 Enterocolitis
+A50	MEDDRA-PT-ID E19 10014893
+A51	CUI E20 C0019158
+A52	UMLS-Preferred-Name E20 Hepatitis
+A53	MEDDRA-PT E20 Hepatitis
+A54	MEDDRA-PT-ID E20 10019717
+A55	CUI E21 C0011603
+A56	UMLS-Preferred-Name E21 Dermatitis
+A57	MEDDRA-PT E21 Dermatitis
+A58	MEDDRA-PT-ID E21 10012431
+A59	CUI E22 C0014518
+A60	UMLS-Preferred-Name E22 Toxic Epidermal Necrolysis
+A61	MEDDRA-PT E22 Toxic epidermal necrolysis
+A62	MEDDRA-PT-ID E22 10044223
+A63	CUI E23 C0442874
+A64	UMLS-Preferred-Name E23 Neuropathy
+A65	MEDDRA-PT E23 Neuropathy peripheral
+A66	MEDDRA-PT-ID E23 10029331
+A67	LLT E23 Neuropathy
+A68	LLT-ID E23 10029328
+A69	CUI E24 C0014130
+A70	UMLS-Preferred-Name E24 Endocrine System Diseases
+A71	MEDDRA-PT E24 Endocrine disorder
+A72	MEDDRA-PT-ID E24 10014695
+A73	CUI E25 C0020517
+A74	UMLS-Preferred-Name E25 Hypersensitivity
+A75	MEDDRA-PT E25 Hypersensitivity
+A76	MEDDRA-PT-ID E25 10020751
+A77	CUI E26 C0020517
+A78	UMLS-Preferred-Name E26 Hypersensitivity
+A79	MEDDRA-PT E26 Hypersensitivity
+A80	MEDDRA-PT-ID E26 10020751
+A81	CUI E27 C0020517
+A82	UMLS-Preferred-Name E27 Hypersensitivity
+A83	MEDDRA-PT E27 Hypersensitivity
+A84	MEDDRA-PT-ID E27 10020751
+A85	CUI E28 C0020517
+A86	UMLS-Preferred-Name E28 Hypersensitivity
+A87	MEDDRA-PT E28 Hypersensitivity
+A88	MEDDRA-PT-ID E28 10020751
+A89	CUI E30 C0020517
+A90	UMLS-Preferred-Name E30 Hypersensitivity
+A91	MEDDRA-PT E30 Hypersensitivity
+A92	MEDDRA-PT-ID E30 10020751
+A93	CUI E31 C0020517
+A94	UMLS-Preferred-Name E31 Hypersensitivity
+A95	MEDDRA-PT E31 Hypersensitivity
+A96	MEDDRA-PT-ID E31 10020751

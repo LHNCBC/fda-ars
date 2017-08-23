@@ -1,0 +1,63 @@
+75,85|C3714514|Infections|patf
+87,95|C0042963|vomiting|sosy
+87,95|C1963281|vomiting|patf
+97,111|C0000737|abdominal pain|sosy
+113,120|C0015967|pyrexia|fndg
+134,140|C0002871|anemia|dsyn
+142,155|C0699744|ear infection|dsyn
+157,165|C0011991|diarrhea|sosy
+157,165|C1963091|diarrhea|fndg
+167,182|C0027441|nasopharyngitis|dsyn
+188,196|C0018681|headache|sosy
+188,196|C2096315|headache|fndg
+561,571|C3714514|Infections|patf
+573,581|C0042963|vomiting|sosy
+573,581|C1963281|vomiting|patf
+583,597|C0000737|abdominal pain|sosy
+599,606|C0015967|pyrexia|fndg
+620,626|C0002871|anemia|dsyn
+628,641|C0699744|ear infection|dsyn
+643,651|C0011991|diarrhea|sosy
+643,651|C1963091|diarrhea|fndg
+653,668|C0027441|nasopharyngitis|dsyn
+674,682|C0018681|headache|sosy
+674,682|C2096315|headache|fndg
+1190,1208|C2360800|Number of Patients|fndg
+1342,1368|C0024228|lymphatic system disorders|dsyn
+1439,1445|C0002871|Anemia|dsyn
+1554,1573|C0022890|labyrinth disorders|dsyn
+1657,1666|C3714514|infection|patf
+1657,1666|C0009450|infection|dsyn
+1760,1786|C0017178|Gastrointestinal disorders|dsyn
+1867,1881|C0000737|Abdominal pain|sosy
+1974,1982|C0011991|Diarrhea|sosy
+1974,1982|C1963091|Diarrhea|fndg
+2081,2089|C0042963|Vomiting|sosy
+2081,2089|C1963281|Vomiting|patf
+2188,2197|C0013378|Dysgeusia|fndg
+2303,2312|C0012634|disorders|dsyn
+2337,2347|C0012634|conditions|dsyn
+2402,2410|C0004093|Asthenia|sosy
+2509,2522|C0020458|Hyperhidrosis|fndg
+2616,2623|C0015967|Pyrexia|fndg
+2723,2733|C3714514|Infections|patf
+2738,2750|C0851341|infestations|dsyn
+2830,2839|C3714514|Infection|patf
+2830,2839|C0009450|Infection|dsyn
+2937,2946|C0021400|Influenza|dsyn
+3044,3059|C0027441|Nasopharyngitis|dsyn
+3151,3160|C0032285|Pneumonia|dsyn
+3258,3269|C0040425|Tonsillitis|dsyn
+3472,3482|C1561562|Hemoglobin|fndg
+3579,3585|C0424653|Weight|sosy
+3701,3720|C3714509|nutrition disorders|dsyn
+3793,3801|C0003123|Anorexia|dsyn
+3793,3801|C0426579|Anorexia|sosy
+3793,3801|C1971624|Anorexia|fndg
+4007,4015|C0018681|Headache|sosy
+4007,4015|C2096315|Headache|fndg
+4114,4124|C0013144|Somnolence|fndg
+4114,4124|C2830004|Somnolence|fndg
+4230,4242;4250,4259|C0549584|subcutaneous disorders|dsyn
+4250,4259|C0012634|disorders|dsyn
+4328,4332|C0015230|Rash|sosy

@@ -1,0 +1,186 @@
+T1	AdverseReaction 84 92	headache
+T2	AdverseReaction 135 155	musculoskeletal pain
+T3	AdverseReaction 157 181	blood pressure increased
+T4	AdverseReaction 183 190	fatigue
+T5	AdverseReaction 192 198	nausea
+T6	AdverseReaction 204 227	injection site reaction
+T7	AdverseReaction 1150 1174	blood pressure increased
+T8	AdverseReaction 1179 1191	hypertension
+T9	AdverseReaction 1220 1246	injection site haemorrhage
+T10	AdverseReaction 1248 1273	injection site irritation
+T11	AdverseReaction 1279 1298	injection site pain
+T12	AdverseReaction 1327 1339	feeling cold
+T13	AdverseReaction 1344 1350	chills
+T14	AdverseReaction 1468 1476	Headache
+T15	AdverseReaction 1574 1594	Musculoskeletal pain
+T16	AdverseReaction 1680 1704	Blood pressure increased
+T17	AdverseReaction 1786 1792	Nausea
+T18	AdverseReaction 1892 1899	Fatigue
+T19	AdverseReaction 1998 2021	Injection site reaction
+T20	AdverseReaction 2104 2111	Anxiety
+T21	AdverseReaction 2210 2219	Back pain
+T22	AdverseReaction 2316 2330	Claustrophobia
+T23	AdverseReaction 2422 2431	Dizziness
+T24	AdverseReaction 2528 2540	Feeling cold
+T25	AdverseReaction 2634 2642	Insomnia
+T26	AdverseReaction 2740 2749	Neck pain
+T27	AdverseReaction 2920 2938	infusion site rash
+T28	AdverseReaction 2940 2949	dysgeusia
+T29	AdverseReaction 2951 2959	pruritis
+T30	AdverseReaction 2961 2970	urticaria
+T31	AdverseReaction 2976 2984	flushing
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+A1	CUI E1 C0018681
+A2	UMLS-Preferred-Name E1 Headache
+A3	MEDDRA-PT E1 Headache
+A4	MEDDRA-PT-ID E1 10019211
+A5	CUI E2 C0026858
+A6	UMLS-Preferred-Name E2 Musculoskeletal Pain
+A7	MEDDRA-PT E2 Musculoskeletal pain
+A8	MEDDRA-PT-ID E2 10028391
+A9	CUI E3 C0497247
+A10	UMLS-Preferred-Name E3 Increase in blood pressure
+A11	MEDDRA-PT E3 Blood pressure increased
+A12	MEDDRA-PT-ID E3 10005750
+A13	CUI E4 C0015672
+A14	UMLS-Preferred-Name E4 Fatigue
+A15	MEDDRA-PT E4 Fatigue
+A16	MEDDRA-PT-ID E4 10016256
+A17	CUI E5 C0027497
+A18	UMLS-Preferred-Name E5 Nausea
+A19	MEDDRA-PT E5 Nausea
+A20	MEDDRA-PT-ID E5 10028813
+A21	CUI E6 C0151735
+A22	UMLS-Preferred-Name E6 Injection site reaction
+A23	MEDDRA-PT E6 Injection site reaction
+A24	MEDDRA-PT-ID E6 10022095
+A25	CUI E7 C0497247
+A26	UMLS-Preferred-Name E7 Increase in blood pressure
+A27	MEDDRA-PT E7 Blood pressure increased
+A28	MEDDRA-PT-ID E7 10005750
+A29	CUI E8 C0020538
+A30	UMLS-Preferred-Name E8 Hypertensive disease
+A31	MEDDRA-PT E8 Hypertension
+A32	MEDDRA-PT-ID E8 10020772
+A33	CUI E9 C0151698
+A34	UMLS-Preferred-Name E9 Injection site hemorrhage
+A35	MEDDRA-PT E9 Injection site haemorrhage
+A36	MEDDRA-PT-ID E9 10022067
+A37	CUI E10 C0521498
+A38	UMLS-Preferred-Name E10 Injection site irritation
+A39	MEDDRA-PT E10 Injection site irritation
+A40	MEDDRA-PT-ID E10 10022079
+A41	CUI E11 C0151828
+A42	UMLS-Preferred-Name E11 Injection site pain
+A43	MEDDRA-PT E11 Injection site pain
+A44	MEDDRA-PT-ID E11 10022086
+A45	CUI E12 C0235150
+A46	UMLS-Preferred-Name E12 Feeling Cold
+A47	MEDDRA-PT E12 Feeling cold
+A48	MEDDRA-PT-ID E12 10016326
+A49	CUI E13 C0085593
+A50	UMLS-Preferred-Name E13 Chills
+A51	MEDDRA-PT E13 Chills
+A52	MEDDRA-PT-ID E13 10008531
+A53	CUI E14 C0018681
+A54	UMLS-Preferred-Name E14 Headache
+A55	MEDDRA-PT E14 Headache
+A56	MEDDRA-PT-ID E14 10019211
+A57	CUI E15 C0026858
+A58	UMLS-Preferred-Name E15 Musculoskeletal Pain
+A59	MEDDRA-PT E15 Musculoskeletal pain
+A60	MEDDRA-PT-ID E15 10028391
+A61	CUI E16 C0497247
+A62	UMLS-Preferred-Name E16 Increase in blood pressure
+A63	MEDDRA-PT E16 Blood pressure increased
+A64	MEDDRA-PT-ID E16 10005750
+A65	CUI E17 C0027497
+A66	UMLS-Preferred-Name E17 Nausea
+A67	MEDDRA-PT E17 Nausea
+A68	MEDDRA-PT-ID E17 10028813
+A69	CUI E18 C0015672
+A70	UMLS-Preferred-Name E18 Fatigue
+A71	MEDDRA-PT E18 Fatigue
+A72	MEDDRA-PT-ID E18 10016256
+A73	CUI E19 C0151735
+A74	UMLS-Preferred-Name E19 Injection site reaction
+A75	MEDDRA-PT E19 Injection site reaction
+A76	MEDDRA-PT-ID E19 10022095
+A77	CUI E20 C0003467
+A78	UMLS-Preferred-Name E20 Anxiety
+A79	MEDDRA-PT E20 Anxiety
+A80	MEDDRA-PT-ID E20 10002855
+A81	CUI E21 C0004604
+A82	UMLS-Preferred-Name E21 Back Pain
+A83	MEDDRA-PT E21 Back pain
+A84	MEDDRA-PT-ID E21 10003988
+A85	CUI E22 C0008909
+A86	UMLS-Preferred-Name E22 Claustrophobia
+A87	MEDDRA-PT E22 Claustrophobia
+A88	MEDDRA-PT-ID E22 10009244
+A89	CUI E23 C0012833
+A90	UMLS-Preferred-Name E23 Dizziness
+A91	MEDDRA-PT E23 Dizziness
+A92	MEDDRA-PT-ID E23 10013573
+A93	CUI E24 C0235150
+A94	UMLS-Preferred-Name E24 Feeling Cold
+A95	MEDDRA-PT E24 Feeling cold
+A96	MEDDRA-PT-ID E24 10016326
+A97	CUI E25 C0917801
+A98	UMLS-Preferred-Name E25 Sleeplessness
+A99	MEDDRA-PT E25 Insomnia
+A100	MEDDRA-PT-ID E25 10022437
+A101	CUI E26 C0007859
+A102	UMLS-Preferred-Name E26 Neck Pain
+A103	MEDDRA-PT E26 Neck pain
+A104	MEDDRA-PT-ID E26 10028836
+A105	CUI E27 C1167945
+A106	UMLS-Preferred-Name E27 Infusion site rash
+A107	MEDDRA-PT E27 Infusion site rash
+A108	MEDDRA-PT-ID E27 10059830
+A109	CUI E28 C0013378
+A110	UMLS-Preferred-Name E28 Dysgeusia
+A111	MEDDRA-PT E28 Dysgeusia
+A112	MEDDRA-PT-ID E28 10013911
+A113	CUI E29 C0033774
+A114	UMLS-Preferred-Name E29 Pruritus
+A115	MEDDRA-PT E29 Pruritus
+A116	MEDDRA-PT-ID E29 10037087
+A117	CUI E30 C0042109
+A118	UMLS-Preferred-Name E30 Urticaria
+A119	MEDDRA-PT E30 Urticaria
+A120	MEDDRA-PT-ID E30 10046735
+A121	CUI E31 C0016382
+A122	UMLS-Preferred-Name E31 Flushing
+A123	MEDDRA-PT E31 Flushing
+A124	MEDDRA-PT-ID E31 10016825

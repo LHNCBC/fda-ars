@@ -1,0 +1,281 @@
+T1	AdverseReaction 54 68	Hepatotoxicity
+T2	AdverseReaction 137 147;163 176	Thrombotic Complications
+T3	AdverseReaction 148 176	Thromboembolic Complications
+T4	AdverseReaction 178 200	Portal vein thrombosis
+T5	AdverseReaction 521 543	hepatic decompensation
+T6	AdverseReaction 638 645	ascites
+T7	AdverseReaction 650 664	encephalopathy
+T8	AdverseReaction 966 988	hepatic decompensation
+T9	AdverseReaction 1160 1183	liver enzyme elevations
+T12	AdverseReaction 1517 1544	indirect hyperbilirubinemia
+T13	AdverseReaction 2834 2850	thrombotic event
+T14	AdverseReaction 2834 2844;2904 2910;2916 2943	thrombotic events of the portal venous system
+T15	AdverseReaction 3020 3030;3046 3059	Thrombotic complications
+T16	AdverseReaction 3031 3059	thromboembolic complications
+T17	AdverseReaction 3076 3104	increases in platelet counts
+T18	AdverseReaction 3129 3139;3155 3168	thrombotic complications
+T19	AdverseReaction 3140 3168	thromboembolic complications
+T20	AdverseReaction 3129 3139;3183 3189;3203 3209	thrombotic venous events
+T21	AdverseReaction 3129 3139;3194 3209	thrombotic arterial events
+T22	AdverseReaction 3945 3962	thrombotic events
+T23	AdverseReaction 4038 4062	thrombotic complications
+T24	AdverseReaction 4138 4162	thrombotic complications
+T25	Factor 4184 4191	placebo
+T26	AdverseReaction 4225 4249	thrombotic complications
+T27	AdverseReaction 4300 4322	portal vein thrombosis
+T28	AdverseReaction 4324 4327	PVT
+T29	AdverseReaction 4342 4345	PVT
+T30	AdverseReaction 4355 4369	abdominal pain
+T31	AdverseReaction 4371 4377	nausea
+T32	AdverseReaction 4379 4387	vomiting
+T33	AdverseReaction 4393 4401	diarrhea
+T34	AdverseReaction 4478 4501	thrombotic complication
+T35	AdverseReaction 4614 4638	portal venous thrombosis
+T36	AdverseReaction 4897 4906	cataracts
+T37	AdverseReaction 5045 5054	cataracts
+T38	AdverseReaction 5257 5266	cataracts
+T39	AdverseReaction 5368 5377	Cataracts
+T40	Animal 5432 5439	rodents
+T41	Factor 513 517	risk
+T42	Factor 957 961	risk
+T43	Factor 1150 1153	can
+T44	Factor 1505 1508	may
+T45	AdverseReaction 2489 2503	Hepatotoxicity
+T46	Factor 2504 2507	may
+T47	Factor 3060 3063	may
+T48	Factor 3937 3941	risk
+T49	Factor 4606 4610	risk
+T50	AdverseReaction 3140 3154;3183 3189;3203 3209	thromboembolic venous events
+T51	AdverseReaction 3140 3154;3194 3209	thromboembolic arterial events
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Hypothetical:E41
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8 Hypothetical:E42
+E9	AdverseReaction:T9 Hypothetical:E43
+E12	AdverseReaction:T12 Hypothetical:E44
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15 Hypothetical:E47
+E16	AdverseReaction:T16 Hypothetical:E47
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E22	AdverseReaction:T22 Hypothetical:E48
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24 Negated:E25
+E25	Factor:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35 Hypothetical:E49
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39 Hypothetical:E40
+E40	Animal:T40
+E41	Factor:T41
+E42	Factor:T42
+E43	Factor:T43
+E44	Factor:T44
+E45	AdverseReaction:T45 Hypothetical:E46
+E46	Factor:T46
+E47	Factor:T47
+E48	Factor:T48
+E49	Factor:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T21
+E52	AdverseReaction:T51
+A1	CUI E1 C0235378
+A2	UMLS-Preferred-Name E1 Hepatotoxicity
+A3	MEDDRA-PT E1 Hepatotoxicity
+A4	MEDDRA-PT-ID E1 10019851
+A5	CUI E2 C0040053
+A6	UMLS-Preferred-Name E2 Thrombosis
+A7	MEDDRA-PT E2 Thrombosis
+A8	MEDDRA-PT-ID E2 10043607
+A9	CUI E3 C0040038
+A10	UMLS-Preferred-Name E3 Thromboembolism
+A11	MEDDRA-PT E3 Embolism
+A12	MEDDRA-PT-ID E3 10061169
+A13	LLT E3 Thromboembolic event
+A14	LLT-ID E3 10043565
+A15	CUI E4 C0155773
+A16	UMLS-Preferred-Name E4 Portal vein thrombosis
+A17	MEDDRA-PT E4 Portal vein thrombosis
+A18	MEDDRA-PT-ID E4 10036206
+A19	CUI E5 C1394798
+A20	UMLS-Preferred-Name E5 hepatic; decompensation
+A21	MEDDRA-PT E5 Hepatic failure
+A22	MEDDRA-PT-ID E5 10019663
+A23	LLT E5 Hepatic decompensation
+A24	LLT-ID E5 10076894
+A25	CUI E6 C0003962
+A26	UMLS-Preferred-Name E6 Ascites
+A27	MEDDRA-PT E6 Ascites
+A28	MEDDRA-PT-ID E6 10003445
+A29	CUI E7 C0085584
+A30	UMLS-Preferred-Name E7 Encephalopathies
+A31	MEDDRA-PT E7 Encephalopathy
+A32	MEDDRA-PT-ID E7 10014625
+A33	CUI E8 C1394798
+A34	UMLS-Preferred-Name E8 hepatic; decompensation
+A35	MEDDRA-PT E8 Hepatic failure
+A36	MEDDRA-PT-ID E8 10019663
+A37	LLT E8 Hepatic decompensation
+A38	LLT-ID E8 10076894
+A39	CUI E9 C0235996
+A40	UMLS-Preferred-Name E9 Elevated liver enzymes
+A41	MEDDRA-PT E9 Hepatic enzyme increased
+A42	MEDDRA-PT-ID E9 10060795
+A43	LLT E9 Elevated liver enzymes
+A44	LLT-ID E9 10014481
+A45	CUI E12 C0268306
+A46	UMLS-Preferred-Name E12 Unconjugated hyperbilirubinemia
+A47	MEDDRA-PT E12 Hyperbilirubinaemia
+A48	MEDDRA-PT-ID E12 10020578
+A49	LLT E12 Indirect hyperbilirubinemia
+A50	LLT-ID E12 10075817
+A51	CUI E13 C0040053
+A52	UMLS-Preferred-Name E13 Thrombosis
+A53	MEDDRA-PT E13 Thrombosis
+A54	MEDDRA-PT-ID E13 10043607
+A55	CUI E14 C0019154
+A56	UMLS-Preferred-Name E14 Hepatic Vein Thrombosis
+A57	MEDDRA-PT E14 Hepatic vein thrombosis
+A58	MEDDRA-PT-ID E14 10019713
+A59	CUI E15 C0040053
+A60	UMLS-Preferred-Name E15 Thrombosis
+A61	MEDDRA-PT E15 Thrombosis
+A62	MEDDRA-PT-ID E15 10043607
+A63	CUI E16 C0040038
+A64	UMLS-Preferred-Name E16 Thromboembolism
+A65	MEDDRA-PT E16 Embolism
+A66	MEDDRA-PT-ID E16 10061169
+A67	LLT E16 Thromboembolic event
+A68	LLT-ID E16 10043565
+A69	CUI E17 C0857460
+A70	UMLS-Preferred-Name E17 Increased number of platelets
+A71	MEDDRA-PT E17 Platelet count increased
+A72	MEDDRA-PT-ID E17 10051608
+A73	CUI E18 C0040053
+A74	UMLS-Preferred-Name E18 Thrombosis
+A75	MEDDRA-PT E18 Thrombosis
+A76	MEDDRA-PT-ID E18 10043607
+A77	CUI E19 C0040038
+A78	UMLS-Preferred-Name E19 Thromboembolism
+A79	MEDDRA-PT E19 Embolism
+A80	MEDDRA-PT-ID E19 10061169
+A81	LLT E19 Thromboembolic event
+A82	LLT-ID E19 10043565
+A83	CUI E20 C0042487
+A84	UMLS-Preferred-Name E20 Venous Thrombosis
+A85	MEDDRA-PT E20 Venous thrombosis
+A86	MEDDRA-PT-ID E20 10047249
+A87	CUI E51 C0151942
+A88	UMLS-Preferred-Name E51 Arterial thrombosis
+A89	MEDDRA-PT E51 Arterial thrombosis
+A90	MEDDRA-PT-ID E51 10003178
+A91	CUI E22 C0040053
+A92	UMLS-Preferred-Name E22 Thrombosis
+A93	MEDDRA-PT E22 Thrombosis
+A94	MEDDRA-PT-ID E22 10043607
+A95	CUI E23 C0040053
+A96	UMLS-Preferred-Name E23 Thrombosis
+A97	MEDDRA-PT E23 Thrombosis
+A98	MEDDRA-PT-ID E23 10043607
+A99	CUI E24 C0040053
+A100	UMLS-Preferred-Name E24 Thrombosis
+A101	MEDDRA-PT E24 Thrombosis
+A102	MEDDRA-PT-ID E24 10043607
+A103	CUI E26 C0040053
+A104	UMLS-Preferred-Name E26 Thrombosis
+A105	MEDDRA-PT E26 Thrombosis
+A106	MEDDRA-PT-ID E26 10043607
+A107	CUI E27 C0155773
+A108	UMLS-Preferred-Name E27 Portal vein thrombosis
+A109	MEDDRA-PT E27 Portal vein thrombosis
+A110	MEDDRA-PT-ID E27 10036206
+A111	CUI E28 C0155773
+A112	UMLS-Preferred-Name E28 Portal vein thrombosis
+A113	MEDDRA-PT E28 Portal vein thrombosis
+A114	MEDDRA-PT-ID E28 10036206
+A115	CUI E29 C0155773
+A116	UMLS-Preferred-Name E29 Portal vein thrombosis
+A117	MEDDRA-PT E29 Portal vein thrombosis
+A118	MEDDRA-PT-ID E29 10036206
+A119	CUI E30 C0000737
+A120	UMLS-Preferred-Name E30 Abdominal Pain
+A121	MEDDRA-PT E30 Abdominal pain
+A122	MEDDRA-PT-ID E30 10000081
+A123	CUI E31 C0027497
+A124	UMLS-Preferred-Name E31 Nausea
+A125	MEDDRA-PT E31 Nausea
+A126	MEDDRA-PT-ID E31 10028813
+A127	CUI E32 C0042963
+A128	UMLS-Preferred-Name E32 Vomiting
+A129	MEDDRA-PT E32 Vomiting
+A130	MEDDRA-PT-ID E32 10047700
+A131	CUI E33 C0011991
+A132	UMLS-Preferred-Name E33 Diarrhea
+A133	MEDDRA-PT E33 Diarrhoea
+A134	MEDDRA-PT-ID E33 10012735
+A135	LLT E33 Diarrhea
+A136	LLT-ID E33 10012727
+A137	CUI E34 C0040053
+A138	UMLS-Preferred-Name E34 Thrombosis
+A139	MEDDRA-PT E34 Thrombosis
+A140	MEDDRA-PT-ID E34 10043607
+A141	CUI E35 C0155773
+A142	UMLS-Preferred-Name E35 Portal vein thrombosis
+A143	MEDDRA-PT E35 Portal vein thrombosis
+A144	MEDDRA-PT-ID E35 10036206
+A145	CUI E36 C0086543
+A146	UMLS-Preferred-Name E36 Cataract
+A147	MEDDRA-PT E36 Cataract
+A148	MEDDRA-PT-ID E36 10007739
+A149	LLT E36 Cataracts
+A150	LLT-ID E36 10007771
+A151	CUI E37 C0086543
+A152	UMLS-Preferred-Name E37 Cataract
+A153	MEDDRA-PT E37 Cataract
+A154	MEDDRA-PT-ID E37 10007739
+A155	LLT E37 Cataracts
+A156	LLT-ID E37 10007771
+A157	CUI E38 C0086543
+A158	UMLS-Preferred-Name E38 Cataract
+A159	MEDDRA-PT E38 Cataract
+A160	MEDDRA-PT-ID E38 10007739
+A161	LLT E38 Cataracts
+A162	LLT-ID E38 10007771
+A163	CUI E39 C0086543
+A164	UMLS-Preferred-Name E39 Cataract
+A165	MEDDRA-PT E39 Cataract
+A166	MEDDRA-PT-ID E39 10007739
+A167	LLT E39 Cataracts
+A168	LLT-ID E39 10007771
+A169	CUI E45 C0235378
+A170	UMLS-Preferred-Name E45 Hepatotoxicity
+A171	MEDDRA-PT E45 Hepatotoxicity
+A172	MEDDRA-PT-ID E45 10019851
+A173	CUI E50 C1861172
+A174	UMLS-Preferred-Name E50 Venous Thromboembolism
+A175	MEDDRA-PT E50 Embolism venous
+A176	MEDDRA-PT-ID E50 10014522
+A177	LLT E50 Venous thromboembolism
+A178	LLT-ID E50 10066899
+A179	flag E52 duplicate
+A180	CUI E52 C0151942
+A181	UMLS-Preferred-Name E52 Arterial thrombosis
+A182	MEDDRA-PT E52 Arterial thrombosis
+A183	MEDDRA-PT-ID E52 10003178

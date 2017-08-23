@@ -1,0 +1,414 @@
+T1	AdverseReaction 357 365	headache
+T2	AdverseReaction 367 385	oropharyngeal pain
+T3	AdverseReaction 387 420	upper respiratory tract infection
+T4	AdverseReaction 422 438	nasal congestion
+T5	AdverseReaction 440 454	abdominal pain
+T6	AdverseReaction 456 471	nasopharyngitis
+T7	AdverseReaction 473 481	diarrhea
+T8	AdverseReaction 483 487	rash
+T9	AdverseReaction 489 495	nausea
+T10	AdverseReaction 501 510	dizziness
+T11	AdverseReaction 2752 2766	abdominal pain
+T12	AdverseReaction 2768 2793	increased hepatic enzymes
+T13	AdverseReaction 2799 2811	hypoglycemia
+T14	AdverseReaction 2898 2906	headache
+T15	AdverseReaction 2914 2947	upper respiratory tract infection
+T16	AdverseReaction 2955 2971	nasal congestion
+T17	AdverseReaction 2979 2985	nausea
+T18	AdverseReaction 2993 2997	rash
+T19	AdverseReaction 3005 3013	rhinitis
+T20	AdverseReaction 3020 3029	dizziness
+T21	AdverseReaction 3036 3046	arthralgia
+T22	AdverseReaction 3057 3075	bacteria in sputum
+T23	AdverseReaction 4042 4050	Headache
+T24	AdverseReaction 4151 4169	Oropharyngeal pain
+T25	AdverseReaction 4260 4293	Upper respiratory tract infection
+T26	AdverseReaction 4369 4385	Nasal congestion
+T27	AdverseReaction 4478 4492	Abdominal pain
+T28	AdverseReaction 4587 4602	Nasopharyngitis
+T29	AdverseReaction 4696 4704	Diarrhea
+T30	AdverseReaction 4805 4809	Rash
+T31	AdverseReaction 4914 4920	Nausea
+T32	AdverseReaction 5023 5032	Dizziness
+T34	AdverseReaction 5347 5355	rhinitis
+T35	AdverseReaction 5381 5417	aspartate aminotransferase increased
+T36	AdverseReaction 5419 5437	bacteria in sputum
+T37	AdverseReaction 5439 5462	blood glucose increased
+T38	AdverseReaction 5464 5488	hepatic enzyme increased
+T39	AdverseReaction 5547 5557	arthralgia
+T41	AdverseReaction 5559 5585	musculoskeletal chest pain
+T42	AdverseReaction 5587 5594	myalgia
+T44	AdverseReaction 5630 5644	sinus headache
+T48	AdverseReaction 5703 5722	pharyngeal erythema
+T49	AdverseReaction 5724 5738	pleuritic pain
+T50	AdverseReaction 5740 5756	sinus congestion
+T51	AdverseReaction 5758 5766	wheezing
+T54	AdverseReaction 5816 5821;5822 5824	acne    
+T55	AdverseReaction 6119 6131;6145 6147;6159 6164	transaminase >8 * ULN
+T59	AdverseReaction 6133 6136;6145 6147;6159 6164	ALT >8 * ULN
+T60	AdverseReaction 6140 6143;6145 6147;6159 6164	AST >8 * ULN
+T61	AdverseReaction 6376 6398	elevated transaminases
+T62	Severity 6404 6412	>8 * ULN
+T63	Severity 6471 6478	serious
+T64	AdverseReaction 6500 6528	elevated liver transaminases
+T65	AdverseReaction 6957 6980	transaminase elevations
+T66	AdverseReaction 6982 6985;6994 7002	ALT >3 * ULN
+T67	AdverseReaction 6989 6992;6994 7002	AST >3 * ULN
+T68	Severity 6994 7002	>3 * ULN
+T69	AdverseReaction 7048 7051;7059 7074	ALT levels >8 * ULN
+T71	AdverseReaction 7055 7074	AST levels >8 * ULN
+T72	AdverseReaction 128 151	Transaminase Elevations
+T33	AdverseReaction 6119 6131;6149 6151;6159 6164	transaminase >5 * ULN
+T40	AdverseReaction 6119 6131;6156 6158;6159 6164	transaminase >3 * ULN
+T43	AdverseReaction 6133 6136;6149 6151;6159 6164	ALT >5 * ULN
+T45	AdverseReaction 6133 6136;6156 6158;6159 6164	ALT >3 * ULN
+T46	AdverseReaction 6140 6143;6149 6151;6159 6164	AST >5 * ULN
+T47	AdverseReaction 6140 6143;6156 6158;6159 6164	AST >3 * ULN
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E44	AdverseReaction:T44
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61 Effect:E62
+E62	Severity:T62
+E63	Severity:T63
+E64	AdverseReaction:T64 Effect:E63
+E65	AdverseReaction:T65 Effect:E68
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	Severity:T68
+E69	AdverseReaction:T69
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E33	AdverseReaction:T33
+E40	AdverseReaction:T40
+E43	AdverseReaction:T43
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+A1	CUI E1 C0018681
+A2	UMLS-Preferred-Name E1 Headache
+A3	MEDDRA-PT E1 Headache
+A4	MEDDRA-PT-ID E1 10019211
+A5	CUI E2 C2363731
+A6	UMLS-Preferred-Name E2 Oropharyngeal pain
+A7	MEDDRA-PT E2 Oropharyngeal pain
+A8	MEDDRA-PT-ID E2 10068319
+A9	CUI E3 C0041912
+A10	UMLS-Preferred-Name E3 Upper Respiratory Infections
+A11	MEDDRA-PT E3 Upper respiratory tract infection
+A12	MEDDRA-PT-ID E3 10046306
+A13	CUI E4 C0027424
+A14	UMLS-Preferred-Name E4 Nasal congestion (finding)
+A15	MEDDRA-PT E4 Nasal congestion
+A16	MEDDRA-PT-ID E4 10028735
+A17	CUI E5 C0000737
+A18	UMLS-Preferred-Name E5 Abdominal Pain
+A19	MEDDRA-PT E5 Abdominal pain
+A20	MEDDRA-PT-ID E5 10000081
+A21	CUI E6 C0027441
+A22	UMLS-Preferred-Name E6 Nasopharyngitis
+A23	MEDDRA-PT E6 Nasopharyngitis
+A24	MEDDRA-PT-ID E6 10028810
+A25	CUI E7 C0011991
+A26	UMLS-Preferred-Name E7 Diarrhea
+A27	MEDDRA-PT E7 Diarrhoea
+A28	MEDDRA-PT-ID E7 10012735
+A29	LLT E7 Diarrhea
+A30	LLT-ID E7 10012727
+A31	CUI E8 C0015230
+A32	UMLS-Preferred-Name E8 Exanthema
+A33	MEDDRA-PT E8 Rash
+A34	MEDDRA-PT-ID E8 10037844
+A35	CUI E9 C0027497
+A36	UMLS-Preferred-Name E9 Nausea
+A37	MEDDRA-PT E9 Nausea
+A38	MEDDRA-PT-ID E9 10028813
+A39	CUI E10 C0012833
+A40	UMLS-Preferred-Name E10 Dizziness
+A41	MEDDRA-PT E10 Dizziness
+A42	MEDDRA-PT-ID E10 10013573
+A43	CUI E11 C0000737
+A44	UMLS-Preferred-Name E11 Abdominal Pain
+A45	MEDDRA-PT E11 Abdominal pain
+A46	MEDDRA-PT-ID E11 10000081
+A47	CUI E12 C0235996
+A48	UMLS-Preferred-Name E12 Elevated liver enzymes
+A49	MEDDRA-PT E12 Hepatic enzyme increased
+A50	MEDDRA-PT-ID E12 10060795
+A51	CUI E13 C0020615
+A52	UMLS-Preferred-Name E13 Hypoglycemia
+A53	MEDDRA-PT E13 Hypoglycaemia
+A54	MEDDRA-PT-ID E13 10020993
+A55	LLT E13 Hypoglycemia
+A56	LLT-ID E13 10021005
+A57	CUI E14 C0018681
+A58	UMLS-Preferred-Name E14 Headache
+A59	MEDDRA-PT E14 Headache
+A60	MEDDRA-PT-ID E14 10019211
+A61	CUI E15 C0041912
+A62	UMLS-Preferred-Name E15 Upper Respiratory Infections
+A63	MEDDRA-PT E15 Upper respiratory tract infection
+A64	MEDDRA-PT-ID E15 10046306
+A65	CUI E16 C0027424
+A66	UMLS-Preferred-Name E16 Nasal congestion (finding)
+A67	MEDDRA-PT E16 Nasal congestion
+A68	MEDDRA-PT-ID E16 10028735
+A69	CUI E17 C0027497
+A70	UMLS-Preferred-Name E17 Nausea
+A71	MEDDRA-PT E17 Nausea
+A72	MEDDRA-PT-ID E17 10028813
+A73	CUI E18 C0015230
+A74	UMLS-Preferred-Name E18 Exanthema
+A75	MEDDRA-PT E18 Rash
+A76	MEDDRA-PT-ID E18 10037844
+A77	CUI E19 C0035455
+A78	UMLS-Preferred-Name E19 Rhinitis
+A79	MEDDRA-PT E19 Rhinitis
+A80	MEDDRA-PT-ID E19 10039083
+A81	CUI E20 C0012833
+A82	UMLS-Preferred-Name E20 Dizziness
+A83	MEDDRA-PT E20 Dizziness
+A84	MEDDRA-PT-ID E20 10013573
+A85	CUI E21 C0003862
+A86	UMLS-Preferred-Name E21 Arthralgia
+A87	MEDDRA-PT E21 Arthralgia
+A88	MEDDRA-PT-ID E21 10003239
+A89	CUI E22 C0855270
+A90	UMLS-Preferred-Name E22 Bacteria sputum identified
+A91	MEDDRA-PT E22 Bacterial test positive
+A92	MEDDRA-PT-ID E22 10059421
+A93	LLT E22 Bacteria sputum identified
+A94	LLT-ID E22 10061673
+A95	CUI E23 C0018681
+A96	UMLS-Preferred-Name E23 Headache
+A97	MEDDRA-PT E23 Headache
+A98	MEDDRA-PT-ID E23 10019211
+A99	CUI E24 C2363731
+A100	UMLS-Preferred-Name E24 Oropharyngeal pain
+A101	MEDDRA-PT E24 Oropharyngeal pain
+A102	MEDDRA-PT-ID E24 10068319
+A103	CUI E25 C0041912
+A104	UMLS-Preferred-Name E25 Upper Respiratory Infections
+A105	MEDDRA-PT E25 Upper respiratory tract infection
+A106	MEDDRA-PT-ID E25 10046306
+A107	CUI E26 C0027424
+A108	UMLS-Preferred-Name E26 Nasal congestion (finding)
+A109	MEDDRA-PT E26 Nasal congestion
+A110	MEDDRA-PT-ID E26 10028735
+A111	CUI E27 C0000737
+A112	UMLS-Preferred-Name E27 Abdominal Pain
+A113	MEDDRA-PT E27 Abdominal pain
+A114	MEDDRA-PT-ID E27 10000081
+A115	CUI E28 C0027441
+A116	UMLS-Preferred-Name E28 Nasopharyngitis
+A117	MEDDRA-PT E28 Nasopharyngitis
+A118	MEDDRA-PT-ID E28 10028810
+A119	CUI E29 C0011991
+A120	UMLS-Preferred-Name E29 Diarrhea
+A121	MEDDRA-PT E29 Diarrhoea
+A122	MEDDRA-PT-ID E29 10012735
+A123	LLT E29 Diarrhea
+A124	LLT-ID E29 10012727
+A125	CUI E30 C0015230
+A126	UMLS-Preferred-Name E30 Exanthema
+A127	MEDDRA-PT E30 Rash
+A128	MEDDRA-PT-ID E30 10037844
+A129	CUI E31 C0027497
+A130	UMLS-Preferred-Name E31 Nausea
+A131	MEDDRA-PT E31 Nausea
+A132	MEDDRA-PT-ID E31 10028813
+A133	CUI E32 C0012833
+A134	UMLS-Preferred-Name E32 Dizziness
+A135	MEDDRA-PT E32 Dizziness
+A136	MEDDRA-PT-ID E32 10013573
+A137	CUI E34 C0035455
+A138	UMLS-Preferred-Name E34 Rhinitis
+A139	MEDDRA-PT E34 Rhinitis
+A140	MEDDRA-PT-ID E34 10039083
+A141	CUI E35 C0151904
+A142	UMLS-Preferred-Name E35 Aspartate aminotransferase increased
+A143	MEDDRA-PT E35 Aspartate aminotransferase increased
+A144	MEDDRA-PT-ID E35 10003481
+A145	CUI E36 C0855270
+A146	UMLS-Preferred-Name E36 Bacteria sputum identified
+A147	MEDDRA-PT E36 Bacterial test positive
+A148	MEDDRA-PT-ID E36 10059421
+A149	LLT E36 Bacteria sputum identified
+A150	LLT-ID E36 10061673
+A151	CUI E37 C0595877
+A152	UMLS-Preferred-Name E37 Blood glucose increased
+A153	MEDDRA-PT E37 Blood glucose increased
+A154	MEDDRA-PT-ID E37 10005557
+A155	CUI E38 C0235996
+A156	UMLS-Preferred-Name E38 Elevated liver enzymes
+A157	MEDDRA-PT E38 Hepatic enzyme increased
+A158	MEDDRA-PT-ID E38 10060795
+A159	CUI E39 C0003862
+A160	UMLS-Preferred-Name E39 Arthralgia
+A161	MEDDRA-PT E39 Arthralgia
+A162	MEDDRA-PT-ID E39 10003239
+A163	CUI E41 C0476280
+A164	UMLS-Preferred-Name E41 Musculoskeletal chest pain
+A165	MEDDRA-PT E41 Musculoskeletal chest pain
+A166	MEDDRA-PT-ID E41 10050819
+A167	CUI E42 C0231528
+A168	UMLS-Preferred-Name E42 Myalgia
+A169	MEDDRA-PT E42 Myalgia
+A170	MEDDRA-PT-ID E42 10028411
+A171	CUI E44 C0037195
+A172	UMLS-Preferred-Name E44 Sinus headache
+A173	MEDDRA-PT E44 Sinus headache
+A174	MEDDRA-PT-ID E44 10040744
+A175	CUI E48 C0455899
+A176	UMLS-Preferred-Name E48 Red throat
+A177	MEDDRA-PT E48 Pharyngeal erythema
+A178	MEDDRA-PT-ID E48 10057009
+A179	CUI E49 C0008033
+A180	UMLS-Preferred-Name E49 Pleuritic pain
+A181	MEDDRA-PT E49 Pleuritic pain
+A182	MEDDRA-PT-ID E49 10035623
+A183	CUI E50 C0152029
+A184	UMLS-Preferred-Name E50 Congestion of nasal sinus
+A185	MEDDRA-PT E50 Sinus congestion
+A186	MEDDRA-PT-ID E50 10040742
+A187	CUI E51 C0043144
+A188	UMLS-Preferred-Name E51 Wheezing
+A189	MEDDRA-PT E51 Wheezing
+A190	MEDDRA-PT-ID E51 10047924
+A191	CUI E54 C0702166
+A192	UMLS-Preferred-Name E54 Acne
+A193	MEDDRA-PT E54 Acne
+A194	MEDDRA-PT-ID E54 10000496
+A195	CUI E55 C0438717
+A196	UMLS-Preferred-Name E55 Transaminases increased
+A197	MEDDRA-PT E55 Transaminases increased
+A198	MEDDRA-PT-ID E55 10054889
+A199	CUI E59 C0151905
+A200	UMLS-Preferred-Name E59 Alanine aminotransferase increased
+A201	MEDDRA-PT E59 Alanine aminotransferase increased
+A202	MEDDRA-PT-ID E59 10001551
+A203	LLT E59 ALT increased
+A204	LLT-ID E59 10001845
+A205	CUI E60 C0151904
+A206	UMLS-Preferred-Name E60 Aspartate aminotransferase increased
+A207	MEDDRA-PT E60 Aspartate aminotransferase increased
+A208	MEDDRA-PT-ID E60 10003481
+A209	LLT E60 AST increased
+A210	LLT-ID E60 10003544
+A211	CUI E61 C0438717
+A212	UMLS-Preferred-Name E61 Transaminases increased
+A213	MEDDRA-PT E61 Transaminases increased
+A214	MEDDRA-PT-ID E61 10054889
+A215	CUI E64 C2674385
+A216	UMLS-Preferred-Name E64 Elevated liver transaminases
+A217	MEDDRA-PT E64 Transaminases increased
+A218	MEDDRA-PT-ID E64 10054889
+A219	CUI E65 C0438717
+A220	UMLS-Preferred-Name E65 Transaminases increased
+A221	MEDDRA-PT E65 Transaminases increased
+A222	MEDDRA-PT-ID E65 10054889
+A223	CUI E66 C0151905
+A224	UMLS-Preferred-Name E66 Alanine aminotransferase increased
+A225	MEDDRA-PT E66 Alanine aminotransferase increased
+A226	MEDDRA-PT-ID E66 10001551
+A227	LLT E66 ALT increased
+A228	LLT-ID E66 10001845
+A229	CUI E67 C0151904
+A230	UMLS-Preferred-Name E67 Aspartate aminotransferase increased
+A231	MEDDRA-PT E67 Aspartate aminotransferase increased
+A232	MEDDRA-PT-ID E67 10003481
+A233	LLT E67 AST increased
+A234	LLT-ID E67 10003544
+A235	CUI E69 C0151905
+A236	UMLS-Preferred-Name E69 Alanine aminotransferase increased
+A237	MEDDRA-PT E69 Alanine aminotransferase increased
+A238	MEDDRA-PT-ID E69 10001551
+A239	LLT E69 ALT increased
+A240	LLT-ID E69 10001845
+A241	CUI E71 C0151904
+A242	UMLS-Preferred-Name E71 Aspartate aminotransferase increased
+A243	MEDDRA-PT E71 Aspartate aminotransferase increased
+A244	MEDDRA-PT-ID E71 10003481
+A245	LLT E71 AST increased
+A246	LLT-ID E71 10003544
+A247	CUI E72 C0438717
+A248	UMLS-Preferred-Name E72 Transaminases increased
+A249	MEDDRA-PT E72 Transaminases increased
+A250	MEDDRA-PT-ID E72 10054889
+A251	CUI E33 C0438717
+A252	UMLS-Preferred-Name E33 Transaminases increased
+A253	MEDDRA-PT E33 Transaminases increased
+A254	MEDDRA-PT-ID E33 10054889
+A255	CUI E40 C0438717
+A256	UMLS-Preferred-Name E40 Transaminases increased
+A257	MEDDRA-PT E40 Transaminases increased
+A258	MEDDRA-PT-ID E40 10054889
+A259	CUI E43 C0151905
+A260	UMLS-Preferred-Name E43 Alanine aminotransferase increased
+A261	MEDDRA-PT E43 Alanine aminotransferase increased
+A262	MEDDRA-PT-ID E43 10001551
+A263	LLT E43 ALT increased
+A264	LLT-ID E43 10001845
+A265	CUI E45 C0151905
+A266	UMLS-Preferred-Name E45 Alanine aminotransferase increased
+A267	MEDDRA-PT E45 Alanine aminotransferase increased
+A268	MEDDRA-PT-ID E45 10001551
+A269	LLT E45 ALT increased
+A270	LLT-ID E45 10001845
+A271	CUI E46 C0151904
+A272	UMLS-Preferred-Name E46 Aspartate aminotransferase increased
+A273	MEDDRA-PT E46 Aspartate aminotransferase increased
+A274	MEDDRA-PT-ID E46 10003481
+A275	LLT E46 AST increased
+A276	LLT-ID E46 10003544
+A277	CUI E47 C0151904
+A278	UMLS-Preferred-Name E47 Aspartate aminotransferase increased
+A279	MEDDRA-PT E47 Aspartate aminotransferase increased
+A280	MEDDRA-PT-ID E47 10003481
+A281	LLT E47 AST increased
+A282	LLT-ID E47 10003544

@@ -1,0 +1,21 @@
+T1	AdverseReaction 30 49	SUPINE HYPERTENSION
+T2	AdverseReaction 64 83	SUPINE HYPERTENSION
+T3	AdverseReaction 514 533	SUPINE HYPERTENSION
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+A1	flag E1 underspecified
+A2	CUI E1 C0020538
+A3	UMLS-Preferred-Name E1 Hypertensive disease
+A4	MEDDRA-PT E1 Hypertension
+A5	MEDDRA-PT-ID E1 10020772
+A6	flag E2 underspecified
+A7	CUI E2 C0020538
+A8	UMLS-Preferred-Name E2 Hypertensive disease
+A9	MEDDRA-PT E2 Hypertension
+A10	MEDDRA-PT-ID E2 10020772
+A11	flag E3 underspecified
+A12	CUI E3 C0020538
+A13	UMLS-Preferred-Name E3 Hypertensive disease
+A14	MEDDRA-PT E3 Hypertension
+A15	MEDDRA-PT-ID E3 10020772

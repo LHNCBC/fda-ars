@@ -1,0 +1,329 @@
+T1	AdverseReaction 111 134	worsening heart failure
+T2	AdverseReaction 183 195	Liver Injury
+T3	AdverseReaction 244 262	Pulmonary toxicity
+T4	AdverseReaction 311 322	Hypokalemia
+T5	AdverseReaction 327 341	hypomagnesemia
+T6	AdverseReaction 425 440	QT prolongation
+T7	AdverseReaction 541 549	diarrhea
+T8	AdverseReaction 551 557	nausea
+T9	AdverseReaction 559 573	abdominal pain
+T10	AdverseReaction 575 583	vomiting
+T11	AdverseReaction 589 597	asthenia
+T12	AdverseReaction 1451 1477	gastrointestinal disorders
+T13	AdverseReaction 1523 1538	QT prolongation
+T14	AdverseReaction 1682 1690	diarrhea
+T15	AdverseReaction 1692 1698	nausea
+T16	AdverseReaction 1700 1714	abdominal pain
+T17	AdverseReaction 1716 1724	vomiting
+T18	AdverseReaction 1730 1738	asthenia
+T19	AdverseReaction 2557 2563	Nausea
+T20	AdverseReaction 2666 2680	Abdominal pain
+T21	AdverseReaction 2775 2783	Vomiting
+T22	AdverseReaction 2884 2912	Dyspeptic signs and symptoms
+T23	AdverseReaction 3320 3331	Bradycardia
+T24	AdverseReaction 3102 3121	Asthenic conditions
+T25	AdverseReaction 3548 3554	rashes
+T26	AdverseReaction 3548 3554;3556 3567	rashes generalized
+T27	AdverseReaction 3548 3554;3569 3576	rashes macular
+T28	AdverseReaction 3548 3554;3578 3592	rashes maculo-papular
+T29	AdverseReaction 3548 3554;3594 3606	rashes erythematous
+T30	AdverseReaction 3609 3617	pruritus
+T31	AdverseReaction 3619 3625	eczema
+T32	AdverseReaction 3627 3637	dermatitis
+T33	AdverseReaction 3639 3658	dermatitis allergic
+T34	AdverseReaction 3736 3761	Photosensitivity reaction
+T35	AdverseReaction 3766 3775	dysgeusia
+T36	AdverseReaction 4281 4304	increases in creatinine
+T37	AdverseReaction 4493 4506	QTc prolonged
+T38	AdverseReaction 5157 5170	heart failure
+T39	AdverseReaction 5218 5269	Atrial flutter with 1:1 atrioventricular conduction
+T40	AdverseReaction 5319 5331	Liver Injury
+T41	AdverseReaction 5397 5422	Interstitial lung disease
+T42	AdverseReaction 5433 5444	pneumonitis
+T43	AdverseReaction 5449 5467	pulmonary fibrosis
+T44	AdverseReaction 5528 5550	Anaphylactic reactions
+T45	AdverseReaction 5561 5571	angioedema
+T46	AdverseReaction 5591 5601	Vasculitis
+T47	AdverseReaction 5613 5640	leukocytoclastic vasculitis
+T49	AdverseReaction 2448 2456	Diarrhea
+T50	AdverseReaction 5218 5232	Atrial flutter
+T48	AdverseReaction 104 107;121 134	New heart failure
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E48	AdverseReaction:T48
+A1	CUI E1 C0235875
+A2	UMLS-Preferred-Name E1 Cardiac failure aggravated
+A3	MEDDRA-PT E1 Cardiac failure
+A4	MEDDRA-PT-ID E1 10007554
+A5	LLT E1 Cardiac failure aggravated
+A6	LLT-ID E1 10007557
+A7	CUI E2 C0160390
+A8	UMLS-Preferred-Name E2 Injury of liver
+A9	MEDDRA-PT E2 Liver injury
+A10	MEDDRA-PT-ID E2 10067125
+A11	CUI E3 C0919924
+A12	UMLS-Preferred-Name E3 Pulmonary toxicity
+A13	MEDDRA-PT E3 Pulmonary toxicity
+A14	MEDDRA-PT-ID E3 10061924
+A15	CUI E4 C0020621
+A16	UMLS-Preferred-Name E4 Hypokalemia
+A17	MEDDRA-PT E4 Hypokalaemia
+A18	MEDDRA-PT-ID E4 10021015
+A19	LLT E4 Hypokalemia
+A20	LLT-ID E4 10021018
+A21	CUI E5 C0151723
+A22	UMLS-Preferred-Name E5 Hypomagnesemia
+A23	MEDDRA-PT E5 Hypomagnesaemia
+A24	MEDDRA-PT-ID E5 10021027
+A25	LLT E5 Hypomagnesemia
+A26	LLT-ID E5 10021028
+A27	CUI E6 C0151878
+A28	UMLS-Preferred-Name E6 Prolonged QT interval
+A29	MEDDRA-PT E6 Electrocardiogram QT prolonged
+A30	MEDDRA-PT-ID E6 10014387
+A31	LLT E6 QT prolonged
+A32	LLT-ID E6 10037705
+A33	CUI E7 C0011991
+A34	UMLS-Preferred-Name E7 Diarrhea
+A35	MEDDRA-PT E7 Diarrhoea
+A36	MEDDRA-PT-ID E7 10012735
+A37	LLT E7 Diarrhea
+A38	LLT-ID E7 10012727
+A39	CUI E8 C0027497
+A40	UMLS-Preferred-Name E8 Nausea
+A41	MEDDRA-PT E8 Nausea
+A42	MEDDRA-PT-ID E8 10028813
+A43	CUI E9 C0000737
+A44	UMLS-Preferred-Name E9 Abdominal Pain
+A45	MEDDRA-PT E9 Abdominal pain
+A46	MEDDRA-PT-ID E9 10000081
+A47	CUI E10 C0042963
+A48	UMLS-Preferred-Name E10 Vomiting
+A49	MEDDRA-PT E10 Vomiting
+A50	MEDDRA-PT-ID E10 10047700
+A51	CUI E11 C0004093
+A52	UMLS-Preferred-Name E11 Asthenia
+A53	MEDDRA-PT E11 Asthenia
+A54	MEDDRA-PT-ID E11 10003549
+A55	CUI E12 C0017178
+A56	UMLS-Preferred-Name E12 Gastrointestinal Diseases
+A57	MEDDRA-PT E12 Gastrointestinal disorder
+A58	MEDDRA-PT-ID E12 10017944
+A59	CUI E13 C0151878
+A60	UMLS-Preferred-Name E13 Prolonged QT interval
+A61	MEDDRA-PT E13 Electrocardiogram QT prolonged
+A62	MEDDRA-PT-ID E13 10014387
+A63	LLT E13 QT prolonged
+A64	LLT-ID E13 10037705
+A65	CUI E14 C0011991
+A66	UMLS-Preferred-Name E14 Diarrhea
+A67	MEDDRA-PT E14 Diarrhoea
+A68	MEDDRA-PT-ID E14 10012735
+A69	LLT E14 Diarrhea
+A70	LLT-ID E14 10012727
+A71	CUI E15 C0027497
+A72	UMLS-Preferred-Name E15 Nausea
+A73	MEDDRA-PT E15 Nausea
+A74	MEDDRA-PT-ID E15 10028813
+A75	CUI E16 C0000737
+A76	UMLS-Preferred-Name E16 Abdominal Pain
+A77	MEDDRA-PT E16 Abdominal pain
+A78	MEDDRA-PT-ID E16 10000081
+A79	CUI E17 C0042963
+A80	UMLS-Preferred-Name E17 Vomiting
+A81	MEDDRA-PT E17 Vomiting
+A82	MEDDRA-PT-ID E17 10047700
+A83	CUI E18 C0004093
+A84	UMLS-Preferred-Name E18 Asthenia
+A85	MEDDRA-PT E18 Asthenia
+A86	MEDDRA-PT-ID E18 10003549
+A87	CUI E19 C0027497
+A88	UMLS-Preferred-Name E19 Nausea
+A89	MEDDRA-PT E19 Nausea
+A90	MEDDRA-PT-ID E19 10028813
+A91	CUI E20 C0000737
+A92	UMLS-Preferred-Name E20 Abdominal Pain
+A93	MEDDRA-PT E20 Abdominal pain
+A94	MEDDRA-PT-ID E20 10000081
+A95	CUI E21 C0042963
+A96	UMLS-Preferred-Name E21 Vomiting
+A97	MEDDRA-PT E21 Vomiting
+A98	MEDDRA-PT-ID E21 10047700
+A99	CUI E22 C0851976
+A100	UMLS-Preferred-Name E22 Dyspeptic signs and symptoms
+A101	MEDDRA-PT E22 Dyspepsia
+A102	MEDDRA-PT-ID E22 10013946
+A103	CUI E23 C0428977
+A104	UMLS-Preferred-Name E23 Bradycardia
+A105	MEDDRA-PT E23 Bradycardia
+A106	MEDDRA-PT-ID E23 10006093
+A107	flag E24 HLT
+A108	CUI E24 C0852192
+A109	UMLS-Preferred-Name E24 Asthenic conditions
+A110	MEDDRA-PT E24 Asthenic conditions
+A111	MEDDRA-PT-ID E24 10003550
+A112	CUI E25 C0015230
+A113	UMLS-Preferred-Name E25 Exanthema
+A114	MEDDRA-PT E25 Rash
+A115	MEDDRA-PT-ID E25 10037844
+A116	CUI E26 C0497365
+A117	UMLS-Preferred-Name E26 Rash generalised
+A118	MEDDRA-PT E26 Rash generalised
+A119	MEDDRA-PT-ID E26 10037858
+A120	LLT E26 Generalized rash
+A121	LLT-ID E26 10049201
+A122	CUI E27 C0221201
+A123	UMLS-Preferred-Name E27 Macular rash
+A124	MEDDRA-PT E27 Rash macular
+A125	MEDDRA-PT-ID E27 10037867
+A126	CUI E28 C0423791
+A127	UMLS-Preferred-Name E28 Maculopapular eruption
+A128	MEDDRA-PT E28 Rash maculo-papular
+A129	MEDDRA-PT-ID E28 10037868
+A130	CUI E29 C0234913
+A131	UMLS-Preferred-Name E29 Rash erythematous
+A132	MEDDRA-PT E29 Rash erythematous
+A133	MEDDRA-PT-ID E29 10037855
+A134	CUI E30 C0033774
+A135	UMLS-Preferred-Name E30 Pruritus
+A136	MEDDRA-PT E30 Pruritus
+A137	MEDDRA-PT-ID E30 10037087
+A138	CUI E31 C0013595
+A139	UMLS-Preferred-Name E31 Eczema
+A140	MEDDRA-PT E31 Eczema
+A141	MEDDRA-PT-ID E31 10014184
+A142	CUI E32 C0011603
+A143	UMLS-Preferred-Name E32 Dermatitis
+A144	MEDDRA-PT E32 Dermatitis
+A145	MEDDRA-PT-ID E32 10012431
+A146	CUI E33 C0011615
+A147	UMLS-Preferred-Name E33 Dermatitis, Atopic
+A148	MEDDRA-PT E33 Dermatitis allergic
+A149	MEDDRA-PT-ID E33 10012434
+A150	CUI E34 C0162830
+A151	UMLS-Preferred-Name E34 Dermatitis, Phototoxic
+A152	MEDDRA-PT E34 Photosensitivity reaction
+A153	MEDDRA-PT-ID E34 10034972
+A154	CUI E35 C0013378
+A155	UMLS-Preferred-Name E35 Dysgeusia
+A156	MEDDRA-PT E35 Dysgeusia
+A157	MEDDRA-PT-ID E35 10013911
+A158	CUI E36 C0151578
+A159	UMLS-Preferred-Name E36 Creatinine increased
+A160	MEDDRA-PT E36 Blood creatinine increased
+A161	MEDDRA-PT-ID E36 10005483
+A162	LLT E36 Creatinine increased
+A163	LLT-ID E36 10011368
+A164	CUI E37 C0855333
+A165	UMLS-Preferred-Name E37 Electrocardiogram QT corrected interval prolonged
+A166	MEDDRA-PT E37 Electrocardiogram QT prolonged
+A167	MEDDRA-PT-ID E37 10014387
+A168	LLT E37 Electrocardiogram QTc interval prolonged
+A169	LLT-ID E37 10053698
+A170	CUI E38 C0018801
+A171	UMLS-Preferred-Name E38 Heart failure
+A172	MEDDRA-PT E38 Cardiac failure
+A173	MEDDRA-PT-ID E38 10007554
+A174	LLT E38 Heart failure
+A175	LLT-ID E38 10019279
+A176	CUI E39 C3888662
+A177	UMLS-Preferred-Name E39 Atrial flutter with 1:1 atrioventricular conduction
+A178	MEDDRA-PT E39 Atrial flutter
+A179	MEDDRA-PT-ID E39 10003662
+A180	LLT E39 Atrial flutter with 1:1 atrioventricular conduction
+A181	LLT-ID E39 10076040
+A182	CUI E40 C0160390
+A183	UMLS-Preferred-Name E40 Injury of liver
+A184	MEDDRA-PT E40 Liver injury
+A185	MEDDRA-PT-ID E40 10067125
+A186	CUI E41 C0206062
+A187	UMLS-Preferred-Name E41 Lung Diseases, Interstitial
+A188	MEDDRA-PT E41 Interstitial lung disease
+A189	MEDDRA-PT-ID E41 10022611
+A190	CUI E42 C3714636
+A191	UMLS-Preferred-Name E42 Pneumonitis
+A192	MEDDRA-PT E42 Pneumonitis
+A193	MEDDRA-PT-ID E42 10035742
+A194	CUI E43 C0034069
+A195	UMLS-Preferred-Name E43 Pulmonary Fibrosis
+A196	MEDDRA-PT E43 Pulmonary fibrosis
+A197	MEDDRA-PT-ID E43 10037383
+A198	CUI E44 C0002792
+A199	UMLS-Preferred-Name E44 anaphylaxis
+A200	MEDDRA-PT E44 Anaphylactic reaction
+A201	MEDDRA-PT-ID E44 10002198
+A202	CUI E45 C0002994
+A203	UMLS-Preferred-Name E45 Angioedema
+A204	MEDDRA-PT E45 Angioedema
+A205	MEDDRA-PT-ID E45 10002424
+A206	CUI E46 C0042384
+A207	UMLS-Preferred-Name E46 Vasculitis
+A208	MEDDRA-PT E46 Vasculitis
+A209	MEDDRA-PT-ID E46 10047115
+A210	CUI E47 C2973529
+A211	UMLS-Preferred-Name E47 Leukocytoclastic vasculitis
+A212	MEDDRA-PT E47 Hypersensitivity vasculitis
+A213	MEDDRA-PT-ID E47 10020764
+A214	LLT E47 Leukocytoclastic vasculitis
+A215	LLT-ID E47 10024377
+A216	CUI E49 C0011991
+A217	UMLS-Preferred-Name E49 Diarrhea
+A218	MEDDRA-PT E49 Diarrhoea
+A219	MEDDRA-PT-ID E49 10012735
+A220	LLT E49 Diarrhea
+A221	LLT-ID E49 10012727
+A222	CUI E50 C0004239
+A223	UMLS-Preferred-Name E50 Atrial Flutter
+A224	MEDDRA-PT E50 Atrial flutter
+A225	MEDDRA-PT-ID E50 10003662
+A226	CUI E48 C0018801
+A227	UMLS-Preferred-Name E48 Heart failure
+A228	MEDDRA-PT E48 Cardiac failure
+A229	MEDDRA-PT-ID E48 10007554

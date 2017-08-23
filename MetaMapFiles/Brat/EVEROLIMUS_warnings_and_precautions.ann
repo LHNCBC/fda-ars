@@ -1,0 +1,611 @@
+T1	AdverseReaction 56 82	Non-infectious pneumonitis
+T2	AdverseReaction 316 326	infections
+T3	Factor 308 312	risk
+T4	AdverseReaction 333 338	fatal
+T5	AdverseReaction 407 417	Angioedema
+T8	AdverseReaction 525 540	Oral ulceration
+T9	AdverseReaction 542 554	Mouth ulcers
+T10	AdverseReaction 556 566	stomatitis
+T11	AdverseReaction 572 586	oral mucositis
+T12	AdverseReaction 670 683	Renal failure
+T13	AdverseReaction 694 707	renal failure
+T14	AdverseReaction 719 738	acute renal failure
+T15	AdverseReaction 753 758	fatal
+T16	AdverseReaction 803 825	Impaired wound healing
+T17	AdverseReaction 845 872	wound-related complications
+T18	Factor 837 841	risk
+T19	AdverseReaction 992 1022	Elevations of serum creatinine
+T20	AdverseReaction 1024 1039;992 1002	urinary protein Elevations
+T21	AdverseReaction 1041 1054;992 1002	blood glucose Elevations
+T22	AdverseReaction 1060 1066;992 1002	lipids Elevations
+T23	AdverseReaction 1078 1101	Decreases in hemoglobin
+T24	AdverseReaction 1078 1090;1103 1114	Decreases in neutrophils
+T25	AdverseReaction 1078 1090;1120 1129	Decreases in platelets
+T26	AdverseReaction 1395 1416	Embryo-fetal toxicity
+T27	AdverseReaction 1418 1428	Fetal harm
+T28	Factor 1429 1432	can
+T29	AdverseReaction 1595 1621	Non-infectious pneumonitis
+T30	AdverseReaction 1686 1712	Non-infectious pneumonitis
+T31	AdverseReaction 1858 1884	non-infectious pneumonitis
+T32	Severity 1844 1851	Grade 3
+T33	Severity 1844 1849;1856 1857	Grade 4
+T34	AdverseReaction 1983 1988	Fatal
+T35	AdverseReaction 3720 3731	pneumonitis
+T36	AdverseReaction 3878 3887;3917 3927	bacterial infections
+T37	AdverseReaction 3889 3895;3917 3927	fungal infections
+T38	AdverseReaction 3897 3902;3917 3927	viral infections
+T39	AdverseReaction 3907 3927	protozoal infections
+T40	Factor 3851 3854	may
+T41	AdverseReaction 3939 3978	infections with opportunistic pathogens
+T42	AdverseReaction 4077 4086	pneumonia
+T43	AdverseReaction 4088 4111	mycobacterial infection
+T44	AdverseReaction 4120 4140	bacterial infections
+T45	AdverseReaction 4142 4168	invasive fungal infections
+T46	AdverseReaction 4178 4191	aspergillosis
+T47	AdverseReaction 4193 4204	candidiasis
+T48	AdverseReaction 4209 4240	pneumocystis jiroveci pneumonia
+T49	AdverseReaction 4242 4245	PJP
+T50	AdverseReaction 4251 4267	viral infections
+T51	AdverseReaction 4278 4311	reactivation of hepatitis B virus
+T52	AdverseReaction 4415 4421	sepsis
+T53	AdverseReaction 4423 4434;4446 4453	respiratory failure
+T54	AdverseReaction 4438 4453	hepatic failure
+T55	AdverseReaction 4458 4463	fatal
+T56	AdverseReaction 5005 5036	Pneumocystis jiroveci pneumonia
+T57	AdverseReaction 5050 5055	fatal
+T58	AdverseReaction 5529 5539	angioedema
+T59	Factor 5520 5524	risk
+T60	AdverseReaction 5547 5570	swelling of the airways
+T61	AdverseReaction 5547 5562;5574 5580	swelling of the tongue
+T62	AdverseReaction 5598 5620	respiratory impairment
+T63	AdverseReaction 5714 5724	angioedema
+T64	AdverseReaction 5883 5895	Mouth ulcers
+T65	AdverseReaction 5897 5907	stomatitis
+T66	AdverseReaction 5913 5927	oral mucositis
+T67	AdverseReaction 6064 6074	stomatitis
+T68	Severity 6051 6056;6062 6063	Grade 4
+T69	Severity 6051 6058	Grade 3
+T70	AdverseReaction 6501 6514	renal failure
+T71	AdverseReaction 6526 6545	acute renal failure
+T72	AdverseReaction 6560 6565	fatal
+T73	AdverseReaction 6729 6749	delays wound healing
+T74	AdverseReaction 6782 6809	wound-related complications
+T75	AdverseReaction 6815 6831	wound dehiscence
+T76	AdverseReaction 6833 6848	wound infection
+T77	AdverseReaction 6850 6867	incisional hernia
+T78	AdverseReaction 6869 6879	lymphocele
+T79	AdverseReaction 6885 6891	seroma
+T80	AdverseReaction 7178 7184	deaths
+T81	AdverseReaction 7726 7756	Elevations of serum creatinine
+T82	AdverseReaction 7761 7772	proteinuria
+T83	AdverseReaction 8256 8269	Hyperglycemia
+T84	AdverseReaction 8271 8285	hyperlipidemia
+T85	AdverseReaction 8291 8311	hypertriglyceridemia
+T86	AdverseReaction 8866 8886	Decreased hemoglobin
+T87	AdverseReaction 8866 8875;8901 8912	Decreased neutrophils
+T88	AdverseReaction 8866 8875;8888 8899	Decreased lymphocytes
+T89	AdverseReaction 9848 9866	hepatic impairment
+T90	AdverseReaction 10015 10033	hepatic impairment
+T91	Severity 10008 10014	severe
+T92	AdverseReaction 11448 11458	fetal harm
+T93	Factor 11438 11441	can
+T94	AdverseReaction 11478 11501	embryo-fetal toxicities
+T95	Animal 11505 11512	animals
+T96	AdverseReaction 139 144	fatal
+T98	Factor 1130 1133	may
+T99	Factor 2022 2030	Consider
+T100	Factor 2871 2880	indicated
+T101	AdverseReaction 4369 4379	infections
+T102	Severity 4390 4396	severe
+T103	AdverseReaction 8866 8875;8918 8927	Decreased platelets
+T104	AdverseReaction 286 296	Infections
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Hypothetical:E3
+E3	Factor:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17 Hypothetical:E18
+E18	Factor:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23 Hypothetical:E99
+E24	AdverseReaction:T24 Hypothetical:E99
+E25	AdverseReaction:T25 Hypothetical:E99
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27 Hypothetical:E28
+E28	Factor:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31 Effect:E32
+E32	Severity:T32
+E33	Severity:T33
+E34	AdverseReaction:T31 Effect:E33
+E35	AdverseReaction:T34
+E36	AdverseReaction:T35
+E37	AdverseReaction:T36 Hypothetical:E41
+E38	AdverseReaction:T37 Hypothetical:E41
+E39	AdverseReaction:T38 Hypothetical:E41
+E40	AdverseReaction:T39
+E41	Factor:T40
+E42	AdverseReaction:T41
+E43	AdverseReaction:T42
+E44	AdverseReaction:T43
+E45	AdverseReaction:T44
+E46	AdverseReaction:T45
+E47	AdverseReaction:T46
+E48	AdverseReaction:T47
+E49	AdverseReaction:T48
+E50	AdverseReaction:T49
+E51	AdverseReaction:T50
+E52	AdverseReaction:T51
+E53	AdverseReaction:T52
+E54	AdverseReaction:T53
+E55	AdverseReaction:T54
+E56	AdverseReaction:T55
+E57	AdverseReaction:T56
+E58	AdverseReaction:T57
+E59	AdverseReaction:T58 Hypothetical:E60
+E60	Factor:T59
+E61	AdverseReaction:T60 Hypothetical:E60
+E62	AdverseReaction:T61 Hypothetical:E60
+E63	AdverseReaction:T62 Hypothetical:E60
+E64	AdverseReaction:T63
+E65	AdverseReaction:T64
+E66	AdverseReaction:T65
+E67	AdverseReaction:T66
+E68	AdverseReaction:T67 Effect:E70 Effect2:E69
+E69	Severity:T68
+E70	Severity:T69
+E71	AdverseReaction:T70
+E72	AdverseReaction:T71
+E73	AdverseReaction:T72
+E74	AdverseReaction:T73
+E75	AdverseReaction:T74
+E76	AdverseReaction:T75
+E77	AdverseReaction:T76
+E78	AdverseReaction:T77
+E79	AdverseReaction:T78
+E80	AdverseReaction:T79
+E81	AdverseReaction:T80
+E82	AdverseReaction:T81
+E83	AdverseReaction:T82
+E84	AdverseReaction:T83
+E85	AdverseReaction:T84
+E86	AdverseReaction:T85
+E87	AdverseReaction:T86
+E88	AdverseReaction:T87
+E89	AdverseReaction:T88
+E90	AdverseReaction:T89
+E91	AdverseReaction:T90 Effect:E92
+E92	Severity:T91
+E93	AdverseReaction:T92 Hypothetical:E94
+E94	Factor:T93
+E95	AdverseReaction:T94 Hypothetical:E96
+E96	Animal:T95
+E97	AdverseReaction:T96
+E99	Factor:T98
+E100	Factor:T99
+E101	Factor:T100
+E102	AdverseReaction:T101 Effect:E103
+E103	Severity:T102
+E104	AdverseReaction:T103
+E105	AdverseReaction:T104
+A1	CUI E1 C0264376
+A2	UMLS-Preferred-Name E1 Non-infectious pneumonia
+A3	MEDDRA-PT E1 Pneumonitis
+A4	MEDDRA-PT-ID E1 10035742
+A5	CUI E2 C3714514
+A6	UMLS-Preferred-Name E2 Infection
+A7	MEDDRA-PT E2 Infection
+A8	MEDDRA-PT-ID E2 10021789
+A9	CUI E4 C1306577
+A10	UMLS-Preferred-Name E4 Death (finding)
+A11	MEDDRA-PT E4 Death
+A12	MEDDRA-PT-ID E4 10011906
+A13	CUI E5 C0002994
+A14	UMLS-Preferred-Name E5 Angioedema
+A15	MEDDRA-PT E5 Angioedema
+A16	MEDDRA-PT-ID E5 10002424
+A17	CUI E8 C0149745
+A18	UMLS-Preferred-Name E8 Oral Ulcer
+A19	MEDDRA-PT E8 Mouth ulceration
+A20	MEDDRA-PT-ID E8 10028034
+A21	LLT E8 Oral ulceration
+A22	LLT-ID E8 10031027
+A23	CUI E9 C0149745
+A24	UMLS-Preferred-Name E9 Oral Ulcer
+A25	MEDDRA-PT E9 Mouth ulceration
+A26	MEDDRA-PT-ID E9 10028034
+A27	LLT E9 Mouth ulcer
+A28	LLT-ID E9 10028033
+A29	CUI E10 C0038362
+A30	UMLS-Preferred-Name E10 Stomatitis
+A31	MEDDRA-PT E10 Stomatitis
+A32	MEDDRA-PT-ID E10 10042128
+A33	CUI E11 C1568868
+A34	UMLS-Preferred-Name E11 Oral Mucositis
+A35	MEDDRA-PT E11 Stomatitis
+A36	MEDDRA-PT-ID E11 10042128
+A37	LLT E11 Mucositis oral
+A38	LLT-ID E11 10028130
+A39	CUI E12 C0035078
+A40	UMLS-Preferred-Name E12 Kidney Failure
+A41	MEDDRA-PT E12 Renal failure
+A42	MEDDRA-PT-ID E12 10038435
+A43	CUI E13 C0035078
+A44	UMLS-Preferred-Name E13 Kidney Failure
+A45	MEDDRA-PT E13 Renal failure
+A46	MEDDRA-PT-ID E13 10038435
+A47	CUI E14 C0022660
+A48	UMLS-Preferred-Name E14 Kidney Failure, Acute
+A49	MEDDRA-PT E14 Acute kidney injury
+A50	MEDDRA-PT-ID E14 10069339
+A51	LLT E14 Acute renal failure
+A52	LLT-ID E14 10001041
+A53	CUI E15 C1306577
+A54	UMLS-Preferred-Name E15 Death (finding)
+A55	MEDDRA-PT E15 Death
+A56	MEDDRA-PT-ID E15 10011906
+A57	CUI E16 C0151692
+A58	UMLS-Preferred-Name E16 Impaired wound healing
+A59	MEDDRA-PT E16 Impaired healing
+A60	MEDDRA-PT-ID E16 10021519
+A61	LLT E16 Wound healing disturbance of
+A62	LLT-ID E16 10048037
+A63	CUI E17 C1096106
+A64	UMLS-Preferred-Name E17 Wound complication
+A65	MEDDRA-PT E17 Wound complication
+A66	MEDDRA-PT-ID E17 10053692
+A67	CUI E19 C0700225
+A68	UMLS-Preferred-Name E19 Serum creatinine raised
+A69	MEDDRA-PT E19 Blood creatinine increased
+A70	MEDDRA-PT-ID E19 10005483
+A71	LLT E19 Raised serum creatinine
+A72	LLT-ID E19 10037825
+A73	CUI E20 C0858667
+A74	UMLS-Preferred-Name E20 Urinary protein increased
+A75	MEDDRA-PT E20 Protein urine present
+A76	MEDDRA-PT-ID E20 10053123
+A77	LLT E20 Urinary protein increased
+A78	LLT-ID E20 10046553
+A79	CUI E21 C0595877
+A80	UMLS-Preferred-Name E21 Blood glucose increased
+A81	MEDDRA-PT E21 Blood glucose increased
+A82	MEDDRA-PT-ID E21 10005557
+A83	CUI E22 C0851043
+A84	UMLS-Preferred-Name E22 Increased lipid
+A85	MEDDRA-PT E22 Lipids increased
+A86	MEDDRA-PT-ID E22 10024592
+A87	CUI E23 C0162119
+A88	UMLS-Preferred-Name E23 Hemoglobin low
+A89	MEDDRA-PT E23 Haemoglobin decreased
+A90	MEDDRA-PT-ID E23 10018884
+A91	LLT E23 Decreased hemoglobin
+A92	LLT-ID E23 10011964
+A93	CUI E24 C0853697
+A94	UMLS-Preferred-Name E24 Neutrophil count decreased
+A95	MEDDRA-PT E24 Neutrophil count decreased
+A96	MEDDRA-PT-ID E24 10029366
+A97	CUI E25 C0392386
+A98	UMLS-Preferred-Name E25 Decreased platelet count
+A99	MEDDRA-PT E25 Platelet count decreased
+A100	MEDDRA-PT-ID E25 10035528
+A101	LLT E25 Platelets decreased
+A102	LLT-ID E25 10035545
+A103	CUI E26 C0270009
+A104	UMLS-Preferred-Name E26 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A105	MEDDRA-PT E26 Maternal drugs affecting foetus
+A106	MEDDRA-PT-ID E26 10026923
+A107	LLT E26 Drug toxicity NEC affecting foetus
+A108	LLT-ID E26 10013750
+A109	CUI E27 C0854268
+A110	UMLS-Preferred-Name E27 Foetal damage
+A111	MEDDRA-PT E27 Foetal damage
+A112	MEDDRA-PT-ID E27 10016852
+A113	LLT E27 Fetal damage
+A114	LLT-ID E27 10054743
+A115	CUI E29 C0264376
+A116	UMLS-Preferred-Name E29 Non-infectious pneumonia
+A117	MEDDRA-PT E29 Pneumonitis
+A118	MEDDRA-PT-ID E29 10035742
+A119	CUI E30 C0264376
+A120	UMLS-Preferred-Name E30 Non-infectious pneumonia
+A121	MEDDRA-PT E30 Pneumonitis
+A122	MEDDRA-PT-ID E30 10035742
+A123	CUI E31 C0264376
+A124	UMLS-Preferred-Name E31 Non-infectious pneumonia
+A125	MEDDRA-PT E31 Pneumonitis
+A126	MEDDRA-PT-ID E31 10035742
+A127	CUI E35 C1306577
+A128	UMLS-Preferred-Name E35 Death (finding)
+A129	MEDDRA-PT E35 Death
+A130	MEDDRA-PT-ID E35 10011906
+A131	CUI E36 C3714636
+A132	UMLS-Preferred-Name E36 Pneumonitis
+A133	MEDDRA-PT E36 Pneumonitis
+A134	MEDDRA-PT-ID E36 10035742
+A135	CUI E37 C0004623
+A136	UMLS-Preferred-Name E37 Bacterial Infections
+A137	MEDDRA-PT E37 Bacterial infection
+A138	MEDDRA-PT-ID E37 10060945
+A139	CUI E38 C0026946
+A140	UMLS-Preferred-Name E38 Mycoses
+A141	MEDDRA-PT E38 Fungal infection
+A142	MEDDRA-PT-ID E38 10017533
+A143	CUI E39 C0042769
+A144	UMLS-Preferred-Name E39 Virus Diseases
+A145	MEDDRA-PT E39 Viral infection
+A146	MEDDRA-PT-ID E39 10047461
+A147	CUI E40 C0033740
+A148	UMLS-Preferred-Name E40 Protozoan Infections
+A149	MEDDRA-PT E40 Infection protozoal
+A150	MEDDRA-PT-ID E40 10021859
+A151	CUI E42 C0029118
+A152	UMLS-Preferred-Name E42 Opportunistic Infections
+A153	MEDDRA-PT E42 Opportunistic infection
+A154	MEDDRA-PT-ID E42 10030901
+A155	CUI E43 C0032285
+A156	UMLS-Preferred-Name E43 Pneumonia
+A157	MEDDRA-PT E43 Pneumonia
+A158	MEDDRA-PT-ID E43 10035664
+A159	CUI E44 C0026918
+A160	UMLS-Preferred-Name E44 Mycobacterium Infections
+A161	MEDDRA-PT E44 Mycobacterial infection
+A162	MEDDRA-PT-ID E44 10062207
+A163	CUI E45 C0004623
+A164	UMLS-Preferred-Name E45 Bacterial Infections
+A165	MEDDRA-PT E45 Bacterial infection
+A166	MEDDRA-PT-ID E45 10060945
+A167	CUI E46 C1262313
+A168	UMLS-Preferred-Name E46 Invasive mycosis
+A169	MEDDRA-PT E46 Systemic mycosis
+A170	MEDDRA-PT-ID E46 10052366
+A171	LLT E46 Invasive mycosis
+A172	LLT-ID E46 10062642
+A173	CUI E47 C0004030
+A174	UMLS-Preferred-Name E47 Aspergillosis
+A175	MEDDRA-PT E47 Aspergillus infection
+A176	MEDDRA-PT-ID E47 10074171
+A177	LLT E47 Aspergillosis
+A178	LLT-ID E47 10003488
+A179	CUI E48 C0006840
+A180	UMLS-Preferred-Name E48 Candidiasis
+A181	MEDDRA-PT E48 Candida infection
+A182	MEDDRA-PT-ID E48 10074170
+A183	LLT E48 Candidiasis
+A184	LLT-ID E48 10007152
+A185	CUI E49 C1535939
+A186	UMLS-Preferred-Name E49 Pneumocystis jiroveci pneumonia
+A187	MEDDRA-PT E49 Pneumocystis jirovecii pneumonia
+A188	MEDDRA-PT-ID E49 10073755
+A189	LLT E49 Pneumocystis jiroveci pneumonia
+A190	LLT-ID E49 10064108
+A191	CUI E50 C1535939
+A192	UMLS-Preferred-Name E50 Pneumocystis jiroveci pneumonia
+A193	MEDDRA-PT E50 Pneumocystis jirovecii pneumonia
+A194	MEDDRA-PT-ID E50 10073755
+A195	CUI E51 C0042769
+A196	UMLS-Preferred-Name E51 Virus Diseases
+A197	MEDDRA-PT E51 Viral infection
+A198	MEDDRA-PT-ID E51 10047461
+A199	CUI E52 C1142420
+A200	UMLS-Preferred-Name E52 Hepatitis B reactivation
+A201	MEDDRA-PT E52 Hepatitis B
+A202	MEDDRA-PT-ID E52 10019731
+A203	LLT E52 Hepatitis B reactivation
+A204	LLT-ID E52 10058827
+A205	CUI E53 C0243026
+A206	UMLS-Preferred-Name E53 Sepsis
+A207	MEDDRA-PT E53 Sepsis
+A208	MEDDRA-PT-ID E53 10040047
+A209	CUI E54 C1145670
+A210	UMLS-Preferred-Name E54 Respiratory Failure
+A211	MEDDRA-PT E54 Respiratory failure
+A212	MEDDRA-PT-ID E54 10038695
+A213	CUI E55 C0085605
+A214	UMLS-Preferred-Name E55 Liver Failure
+A215	MEDDRA-PT E55 Hepatic failure
+A216	MEDDRA-PT-ID E55 10019663
+A217	CUI E56 C1306577
+A218	UMLS-Preferred-Name E56 Death (finding)
+A219	MEDDRA-PT E56 Death
+A220	MEDDRA-PT-ID E56 10011906
+A221	CUI E57 C1535939
+A222	UMLS-Preferred-Name E57 Pneumocystis jiroveci pneumonia
+A223	MEDDRA-PT E57 Pneumocystis jirovecii pneumonia
+A224	MEDDRA-PT-ID E57 10073755
+A225	LLT E57 Pneumocystis jiroveci pneumonia
+A226	LLT-ID E57 10064108
+A227	CUI E58 C1306577
+A228	UMLS-Preferred-Name E58 Death (finding)
+A229	MEDDRA-PT E58 Death
+A230	MEDDRA-PT-ID E58 10011906
+A231	CUI E59 C0002994
+A232	UMLS-Preferred-Name E59 Angioedema
+A233	MEDDRA-PT E59 Angioedema
+A234	MEDDRA-PT-ID E59 10002424
+A235	CUI E61 C2939065
+A236	UMLS-Preferred-Name E61 Airway edema
+A237	MEDDRA-PT E61 Respiratory tract oedema
+A238	MEDDRA-PT-ID E61 10070774
+A239	LLT E61 Airway edema
+A240	LLT-ID E61 10070778
+A241	CUI E62 C0236068
+A242	UMLS-Preferred-Name E62 Tongue swelling
+A243	MEDDRA-PT E62 Swollen tongue
+A244	MEDDRA-PT-ID E62 10042727
+A245	LLT E62 Swelling of tongue
+A246	LLT-ID E62 10042706
+A247	CUI E63 C0035229
+A248	UMLS-Preferred-Name E63 Respiratory Insufficiency
+A249	MEDDRA-PT E63 Lung disorder
+A250	MEDDRA-PT-ID E63 10025082
+A251	LLT E63 Pulmonary function impairment
+A252	LLT-ID E63 10037386
+A253	CUI E64 C0002994
+A254	UMLS-Preferred-Name E64 Angioedema
+A255	MEDDRA-PT E64 Angioedema
+A256	MEDDRA-PT-ID E64 10002424
+A257	CUI E65 C0149745
+A258	UMLS-Preferred-Name E65 Oral Ulcer
+A259	MEDDRA-PT E65 Mouth ulceration
+A260	MEDDRA-PT-ID E65 10028034
+A261	LLT E65 Mouth ulcer
+A262	LLT-ID E65 10028033
+A263	CUI E66 C0038362
+A264	UMLS-Preferred-Name E66 Stomatitis
+A265	MEDDRA-PT E66 Stomatitis
+A266	MEDDRA-PT-ID E66 10042128
+A267	CUI E67 C1568868
+A268	UMLS-Preferred-Name E67 Oral Mucositis
+A269	MEDDRA-PT E67 Stomatitis
+A270	MEDDRA-PT-ID E67 10042128
+A271	LLT E67 Mucositis oral
+A272	LLT-ID E67 10028130
+A273	CUI E68 C0038362
+A274	UMLS-Preferred-Name E68 Stomatitis
+A275	MEDDRA-PT E68 Stomatitis
+A276	MEDDRA-PT-ID E68 10042128
+A277	CUI E71 C0035078
+A278	UMLS-Preferred-Name E71 Kidney Failure
+A279	MEDDRA-PT E71 Renal failure
+A280	MEDDRA-PT-ID E71 10038435
+A281	CUI E72 C0022660
+A282	UMLS-Preferred-Name E72 Kidney Failure, Acute
+A283	MEDDRA-PT E72 Acute kidney injury
+A284	MEDDRA-PT-ID E72 10069339
+A285	LLT E72 Acute renal failure
+A286	LLT-ID E72 10001041
+A287	CUI E73 C1306577
+A288	UMLS-Preferred-Name E73 Death (finding)
+A289	MEDDRA-PT E73 Death
+A290	MEDDRA-PT-ID E73 10011906
+A291	CUI E74 C0151692
+A292	UMLS-Preferred-Name E74 Impaired wound healing
+A293	MEDDRA-PT E74 Impaired healing
+A294	MEDDRA-PT-ID E74 10021519
+A295	LLT E74 Wound healing delayed
+A296	LLT-ID E74 10048036
+A297	CUI E75 C1096106
+A298	UMLS-Preferred-Name E75 Wound complication
+A299	MEDDRA-PT E75 Wound complication
+A300	MEDDRA-PT-ID E75 10053692
+A301	CUI E76 C0259768
+A302	UMLS-Preferred-Name E76 Wound dehiscence
+A303	MEDDRA-PT E76 Wound dehiscence
+A304	MEDDRA-PT-ID E76 10048031
+A305	CUI E77 C0043241
+A306	UMLS-Preferred-Name E77 Wound Infection
+A307	MEDDRA-PT E77 Wound infection
+A308	MEDDRA-PT-ID E77 10048038
+A309	CUI E78 C0267716
+A310	UMLS-Preferred-Name E78 Incisional hernia
+A311	MEDDRA-PT E78 Incisional hernia
+A312	MEDDRA-PT-ID E78 10021619
+A313	CUI E79 C0024248
+A314	UMLS-Preferred-Name E79 Lymphocele
+A315	MEDDRA-PT E79 Lymphocele
+A316	MEDDRA-PT-ID E79 10048642
+A317	CUI E80 C0262627
+A318	UMLS-Preferred-Name E80 Seroma
+A319	MEDDRA-PT E80 Seroma
+A320	MEDDRA-PT-ID E80 10040102
+A321	CUI E81 C1306577
+A322	UMLS-Preferred-Name E81 Death (finding)
+A323	MEDDRA-PT E81 Death
+A324	MEDDRA-PT-ID E81 10011906
+A325	CUI E82 C0700225
+A326	UMLS-Preferred-Name E82 Serum creatinine raised
+A327	MEDDRA-PT E82 Blood creatinine increased
+A328	MEDDRA-PT-ID E82 10005483
+A329	LLT E82 Raised serum creatinine
+A330	LLT-ID E82 10037825
+A331	CUI E83 C0033687
+A332	UMLS-Preferred-Name E83 Proteinuria
+A333	MEDDRA-PT E83 Proteinuria
+A334	MEDDRA-PT-ID E83 10037032
+A335	CUI E84 C0020456
+A336	UMLS-Preferred-Name E84 Hyperglycemia
+A337	MEDDRA-PT E84 Hyperglycaemia
+A338	MEDDRA-PT-ID E84 10020635
+A339	LLT E84 Hyperglycemia
+A340	LLT-ID E84 10020639
+A341	CUI E85 C0020473
+A342	UMLS-Preferred-Name E85 Hyperlipidemia
+A343	MEDDRA-PT E85 Hyperlipidaemia
+A344	MEDDRA-PT-ID E85 10062060
+A345	LLT E85 Hyperlipidemia
+A346	LLT-ID E85 10020667
+A347	CUI E86 C0020557
+A348	UMLS-Preferred-Name E86 Hypertriglyceridemia
+A349	MEDDRA-PT E86 Hypertriglyceridaemia
+A350	MEDDRA-PT-ID E86 10020869
+A351	LLT E86 Hypertriglyceridemia
+A352	LLT-ID E86 10020870
+A353	CUI E87 C0162119
+A354	UMLS-Preferred-Name E87 Hemoglobin low
+A355	MEDDRA-PT E87 Haemoglobin decreased
+A356	MEDDRA-PT-ID E87 10018884
+A357	LLT E87 Decreased hemoglobin
+A358	LLT-ID E87 10011964
+A359	CUI E88 C0853697
+A360	UMLS-Preferred-Name E88 Neutrophil count decreased
+A361	MEDDRA-PT E88 Neutrophil count decreased
+A362	MEDDRA-PT-ID E88 10029366
+A363	CUI E89 C0853986
+A364	UMLS-Preferred-Name E89 Lymphocyte count decreased
+A365	MEDDRA-PT E89 Lymphocyte count decreased
+A366	MEDDRA-PT-ID E89 10025256
+A367	CUI E90 C0948807
+A368	UMLS-Preferred-Name E90 Hepatic impairment
+A369	MEDDRA-PT E90 Liver disorder
+A370	MEDDRA-PT-ID E90 10024670
+A371	LLT E90 Hepatic impairment
+A372	LLT-ID E90 10052254
+A373	CUI E91 C0948807
+A374	UMLS-Preferred-Name E91 Hepatic impairment
+A375	MEDDRA-PT E91 Liver disorder
+A376	MEDDRA-PT-ID E91 10024670
+A377	LLT E91 Hepatic impairment
+A378	LLT-ID E91 10052254
+A379	CUI E93 C0854268
+A380	UMLS-Preferred-Name E93 Foetal damage
+A381	MEDDRA-PT E93 Foetal damage
+A382	MEDDRA-PT-ID E93 10016852
+A383	LLT E93 Fetal damage
+A384	LLT-ID E93 10054743
+A385	CUI E95 C0270009
+A386	UMLS-Preferred-Name E95 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A387	MEDDRA-PT E95 Maternal drugs affecting foetus
+A388	MEDDRA-PT-ID E95 10026923
+A389	LLT E95 Drug toxicity NEC affecting foetus
+A390	LLT-ID E95 10013750
+A391	CUI E97 C1306577
+A392	UMLS-Preferred-Name E97 Death (finding)
+A393	MEDDRA-PT E97 Death
+A394	MEDDRA-PT-ID E97 10011906
+A395	CUI E102 C3714514
+A396	UMLS-Preferred-Name E102 Infection
+A397	MEDDRA-PT E102 Infection
+A398	MEDDRA-PT-ID E102 10021789
+A399	CUI E104 C0392386
+A400	UMLS-Preferred-Name E104 Decreased platelet count
+A401	MEDDRA-PT E104 Platelet count decreased
+A402	MEDDRA-PT-ID E104 10035528
+A403	LLT E104 Platelets decreased
+A404	LLT-ID E104 10035545
+A405	CUI E105 C3714514
+A406	UMLS-Preferred-Name E105 Infection
+A407	MEDDRA-PT E105 Infection
+A408	MEDDRA-PT-ID E105 10021789

@@ -1,0 +1,903 @@
+T1	AdverseReaction 174 189	Tendon ruptures
+T2	AdverseReaction 207 239	injury to the injected extremity
+T3	Severity 199 206	serious
+T4	AdverseReaction 429 445	Corporal rupture
+T5	AdverseReaction 447 462	penile fracture
+T6	AdverseReaction 475 490	penile hematoma
+T7	Severity 468 474	severe
+T8	AdverseReaction 590 607	penile ecchymoses
+T9	AdverseReaction 590 596;611 619	penile hematoma
+T10	AdverseReaction 628 647	penile detumescence
+T11	AdverseReaction 658 680	penile "popping" sound
+T12	AdverseReaction 658 674;684 693	penile "popping" sensation
+T13	AdverseReaction 743 759	corporal rupture
+T14	Factor 760 778	cannot be excluded
+T15	AdverseReaction 1013 1029	edema peripheral
+T16	AdverseReaction 1037 1066	swelling of the injected hand
+T17	AdverseReaction 1069 1078	contusion
+T18	AdverseReaction 1080 1105	injection site hemorrhage
+T19	AdverseReaction 1107 1130	injection site reaction
+T20	AdverseReaction 1136 1166	pain in the injected extremity
+T21	AdverseReaction 1361 1376	penile hematoma
+T22	AdverseReaction 1378 1393	penile swelling
+T23	AdverseReaction 1398 1409	penile pain
+T24	AdverseReaction 2094 2122;2131 2137	flexor tendon rupture of the finger
+T25	AdverseReaction 3103 3145	adverse reaction of the injected extremity
+T26	AdverseReaction 3423 3431	pruritus
+T27	AdverseReaction 3654 3670	edema peripheral
+T28	AdverseReaction 3679 3708	swelling of the injected hand
+T29	AdverseReaction 3711 3720	contusion
+T30	AdverseReaction 3722 3747	injection site hemorrhage
+T31	AdverseReaction 3749 3772	injection site reaction
+T32	AdverseReaction 3778 3807	pain in the treated extremity
+T33	AdverseReaction 4346 4375	swelling of the injected hand
+T34	AdverseReaction 4407 4416	contusion
+T36	AdverseReaction 4439 4449	ecchymosis        
+T35	AdverseReaction 4480 4503	injection site reaction
+T37	AdverseReaction 4505 4528	injection site erythema
+T38	AdverseReaction 4530 4557	injection site inflammation
+T39	AdverseReaction 4559 4584	injection site irritation
+T40	AdverseReaction 4586 4605	injection site pain
+T41	AdverseReaction 4611 4632	injection site warmth
+T42	AdverseReaction 4663 4686	injection site swelling
+T43	AdverseReaction 4691 4711	injection site edema
+T44	AdverseReaction 4742 4750	pruritus
+T45	AdverseReaction 4755 4778	injection site pruritus
+T46	AdverseReaction 4809 4824	lymphadenopathy
+T47	AdverseReaction 4829 4842	axillary mass
+T48	AdverseReaction 4954 4970	Edema Peripheral
+T49	AdverseReaction 4992 5001	Contusion
+T50	AdverseReaction 5023 5048	Injection Site Hemorrhage
+T51	AdverseReaction 5065 5088	Injection Site Reaction
+T52	AdverseReaction 5110 5127	Pain in Extremity
+T53	AdverseReaction 5144 5154	Tenderness
+T54	AdverseReaction 5171 5194	Injection Site Swelling
+T55	AdverseReaction 5216 5224	Pruritus
+T56	AdverseReaction 5246 5261	Lymphadenopathy
+T57	AdverseReaction 5283 5298	Skin Laceration
+T58	AdverseReaction 5314 5329	Lymph Node Pain
+T59	AdverseReaction 5345 5353	Erythema
+T60	AdverseReaction 5369 5382	Axillary Pain
+T61	AdverseReaction 5429 5446	vasovagal syncope
+T62	AdverseReaction 6050 6071;6080 6086	tendon rupture of the finger
+T63	AdverseReaction 6677 6693	Edema peripheral
+T64	AdverseReaction 6784 6793	Contusion
+T65	AdverseReaction 6891 6908	Pain in extremity
+T66	AdverseReaction 6998 7008	Laceration
+T67	AdverseReaction 7105 7113	Pruritus
+T68	AdverseReaction 7212 7231	Injection site pain
+T69	AdverseReaction 7319 7334	Lymphadenopathy
+T70	AdverseReaction 7426 7439	Blood blister
+T71	AdverseReaction 7533 7556	Injection site hematoma
+T72	AdverseReaction 7640 7653	Axillary pain
+T73	AdverseReaction 7747 7772	Injection site hemorrhage
+T74	AdverseReaction 7854 7877	Injection site swelling
+T75	AdverseReaction 7961 7971	Ecchymosis
+T76	AdverseReaction 9081 9097	Corporal rupture
+T77	AdverseReaction 9280 9297	penile ecchymoses
+T78	AdverseReaction 9280 9286;9301 9309	penile hematoma
+T79	AdverseReaction 9318 9337	penile detumescence
+T80	AdverseReaction 9348 9370	penile "popping" sound
+T81	AdverseReaction 9348 9364;9374 9383	penile "popping" sensation
+T82	AdverseReaction 9433 9449	corporal rupture
+T83	Factor 9450 9468	cannot be excluded
+T84	AdverseReaction 9585 9600	penile hematoma
+T85	Severity 9578 9584	Severe
+T86	AdverseReaction 11188 11203	penile hematoma
+T87	AdverseReaction 11205 11220	penile swelling
+T88	AdverseReaction 11226 11237	penile pain
+T89	AdverseReaction 11727 11750	injection site hematoma
+T90	AdverseReaction 11755 11770	penile hematoma
+T91	AdverseReaction 11811 11826	penile bruising
+T92	AdverseReaction 11830 11853	injection site bruising
+T93	AdverseReaction 11894 11917	injection site swelling
+T94	AdverseReaction 11919 11931	penile edema
+T95	AdverseReaction 11933 11948	penile swelling
+T96	AdverseReaction 11950 11964	local swelling
+T97	AdverseReaction 11966 11982	scrotal swelling
+T98	AdverseReaction 11988 12008	injection site edema
+T99	AdverseReaction 12030 12049	injection site pain
+T100	AdverseReaction 12051 12062	penile pain
+T101	AdverseReaction 12068 12093	injection site discomfort
+T102	AdverseReaction 12115 12124	contusion
+T103	AdverseReaction 12126 12136	ecchymoses
+T104	AdverseReaction 12138 12155	penile hemorrhage
+T105	AdverseReaction 12161 12186	injection site hemorrhage
+T106	AdverseReaction 12414 12429	Penile hematoma
+T107	AdverseReaction 12523 12538	Penile swelling
+T108	AdverseReaction 12632 12643	Penile pain
+T109	AdverseReaction 12741 12758	Penile ecchymoses
+T110	AdverseReaction 12850 12863	Blood blister
+T111	AdverseReaction 12959 12973	Penile blister
+T112	AdverseReaction 13068 13084	Pruritus genital
+T113	AdverseReaction 13177 13193	Painful erection
+T114	AdverseReaction 13286 13306	Erectile dysfunction
+T115	AdverseReaction 13395 13413	Skin discoloration
+T116	AdverseReaction 13504 13519	Procedural pain
+T117	AdverseReaction 13613 13636	Injection site vesicles
+T118	AdverseReaction 13722 13737	Localized edema
+T119	AdverseReaction 13831 13842	Dyspareunia
+T120	AdverseReaction 13940 13963	Injection site pruritus
+T121	AdverseReaction 14049 14055	Nodule
+T122	AdverseReaction 14158 14173	Suprapubic pain
+T123	AdverseReaction 14281 14296	penile hematoma
+T124	Severity 14274 14280	Severe
+T125	AdverseReaction 14307 14330	injection site hematoma
+T126	Severity 14300 14306	severe
+T127	AdverseReaction 14542 14572	popping sensation in the penis
+T128	AdverseReaction 14525 14538;14560 14572	popping noise in the penis
+T129	AdverseReaction 14567 14572;14598 14606	penis snapping
+T130	AdverseReaction 14567 14572;14612 14620	penis cracking
+T131	AdverseReaction 14652 14664	detumescence
+T132	AdverseReaction 14666 14674	hematoma
+T133	AdverseReaction 14682 14686	pain
+T134	AdverseReaction 15061 15088	shortening of penile length
+T135	Negation 15041 15044	not
+T136	AdverseReaction 10751 10768;10787 10799	adverse reactions of the penis
+T137	AdverseReaction 10751 10768;10787 10793;10804 10809	adverse reactions of the groin
+T138	Severity 10851 10855	mild
+T139	Severity 10859 10867	moderate
+T140	AdverseReaction 10751 10768;10787 10799	adverse reactions of the penis
+T141	AdverseReaction 10751 10768;10787 10793;10804 10809	adverse reactions of the groin
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Effect:E3
+E3	Severity:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6 Effect:E7
+E7	Severity:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13 Hypothetical:E14
+E14	Factor:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E36	AdverseReaction:T36
+E35	AdverseReaction:T35
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+E52	AdverseReaction:T52
+E53	AdverseReaction:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56
+E57	AdverseReaction:T57
+E58	AdverseReaction:T58
+E59	AdverseReaction:T59
+E60	AdverseReaction:T60
+E61	AdverseReaction:T61
+E62	AdverseReaction:T62
+E63	AdverseReaction:T63
+E64	AdverseReaction:T64
+E65	AdverseReaction:T65
+E66	AdverseReaction:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E70	AdverseReaction:T70
+E71	AdverseReaction:T71
+E72	AdverseReaction:T72
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82 Hypothetical:E83
+E83	Factor:T83
+E84	AdverseReaction:T84 Effect:E85
+E85	Severity:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89
+E90	AdverseReaction:T90
+E91	AdverseReaction:T91
+E92	AdverseReaction:T92
+E93	AdverseReaction:T93
+E94	AdverseReaction:T94
+E95	AdverseReaction:T95
+E96	AdverseReaction:T96
+E97	AdverseReaction:T97
+E98	AdverseReaction:T98
+E99	AdverseReaction:T99
+E100	AdverseReaction:T100
+E101	AdverseReaction:T101
+E102	AdverseReaction:T102
+E103	AdverseReaction:T103
+E104	AdverseReaction:T104
+E105	AdverseReaction:T105
+E106	AdverseReaction:T106
+E107	AdverseReaction:T107
+E108	AdverseReaction:T108
+E109	AdverseReaction:T109
+E110	AdverseReaction:T110
+E111	AdverseReaction:T111
+E112	AdverseReaction:T112
+E113	AdverseReaction:T113
+E114	AdverseReaction:T114
+E115	AdverseReaction:T115
+E116	AdverseReaction:T116
+E117	AdverseReaction:T117
+E118	AdverseReaction:T118
+E119	AdverseReaction:T119
+E120	AdverseReaction:T120
+E121	AdverseReaction:T121
+E122	AdverseReaction:T122
+E123	AdverseReaction:T123 Effect:E124
+E124	Severity:T124
+E125	AdverseReaction:T125 Effect:E126
+E126	Severity:T126
+E127	AdverseReaction:T127
+E128	AdverseReaction:T128
+E129	AdverseReaction:T129
+E130	AdverseReaction:T130
+E131	AdverseReaction:T131
+E132	AdverseReaction:T132
+E133	AdverseReaction:T133
+E134	AdverseReaction:T134 Negated:E135
+E135	Negation:T135
+E136	AdverseReaction:T136 Effect:E138 Effect2:E139
+E137	AdverseReaction:T137 Effect:E138 Effect2:E139
+E138	Severity:T138
+E139	Severity:T139
+E140	AdverseReaction:T140
+E141	AdverseReaction:T141
+A1	CUI E1 C0151937
+A2	UMLS-Preferred-Name E1 Rupture of tendon
+A3	MEDDRA-PT E1 Tendon rupture
+A4	MEDDRA-PT-ID E1 10043248
+A5	flag E2 duplicate
+A6	CUI E2 C1737214
+A7	UMLS-Preferred-Name E2 Injection site injury
+A8	MEDDRA-PT E2 Injection site injury
+A9	MEDDRA-PT-ID E2 10066083
+A10	CUI E4 C0434159
+A11	UMLS-Preferred-Name E4 Rupture of corpus cavernosum of penis
+A12	MEDDRA-PT E4 Fracture of penis
+A13	MEDDRA-PT-ID E4 10052530
+A14	CUI E5 C0434159
+A15	UMLS-Preferred-Name E5 Rupture of corpus cavernosum of penis
+A16	MEDDRA-PT E5 Fracture of penis
+A17	MEDDRA-PT-ID E5 10052530
+A18	CUI E6 C2938972
+A19	UMLS-Preferred-Name E6 Penile haematoma
+A20	MEDDRA-PT E6 Penile haematoma
+A21	MEDDRA-PT-ID E6 10070656
+A22	LLT E6 Penile hematoma
+A23	LLT-ID E6 10070663
+A24	CUI E8 C2938973
+A25	UMLS-Preferred-Name E8 Penile ecchymosis
+A26	MEDDRA-PT E8 Penile haemorrhage
+A27	MEDDRA-PT-ID E8 10034305
+A28	LLT E8 Penile ecchymosis
+A29	LLT-ID E8 10070657
+A30	CUI E9 C2938972
+A31	UMLS-Preferred-Name E9 Penile haematoma
+A32	MEDDRA-PT E9 Penile haematoma
+A33	MEDDRA-PT-ID E9 10070656
+A34	LLT E9 Penile hematoma
+A35	LLT-ID E9 10070663
+A36	CUI E10 C0858253
+A37	UMLS-Preferred-Name E10 Inability to maintain erection
+A38	MEDDRA-PT E10 Erectile dysfunction
+A39	MEDDRA-PT-ID E10 10061461
+A40	LLT E10 Inability to maintain erection
+A41	LLT-ID E10 10021573
+A42	CUI E11 C3854564
+A43	UMLS-Preferred-Name E11 Penile popping sensation
+A44	MEDDRA-PT E11 Penis disorder
+A45	MEDDRA-PT-ID E11 10034336
+A46	LLT E11 Penile popping sensation
+A47	LLT-ID E11 10074968
+A48	CUI E12 C3854564
+A49	UMLS-Preferred-Name E12 Penile popping sensation
+A50	MEDDRA-PT E12 Penis disorder
+A51	MEDDRA-PT-ID E12 10034336
+A52	LLT E12 Penile popping sensation
+A53	LLT-ID E12 10074968
+A54	CUI E13 C0434159
+A55	UMLS-Preferred-Name E13 Rupture of corpus cavernosum of penis
+A56	MEDDRA-PT E13 Fracture of penis
+A57	MEDDRA-PT-ID E13 10052530
+A58	CUI E15 C0085649
+A59	UMLS-Preferred-Name E15 Peripheral edema
+A60	MEDDRA-PT E15 Oedema peripheral
+A61	MEDDRA-PT-ID E15 10030124
+A62	LLT E15 Edema peripheral
+A63	LLT-ID E15 10014251
+A64	flag E16 duplicate
+A65	CUI E16 C0575805
+A66	UMLS-Preferred-Name E16 swelling of hands (finding)
+A67	MEDDRA-PT E16 Peripheral swelling
+A68	MEDDRA-PT-ID E16 10048959
+A69	LLT E16 Swelling of hands
+A70	LLT-ID E16 10042695
+A71	CUI E17 C0009938
+A72	UMLS-Preferred-Name E17 Contusions
+A73	MEDDRA-PT E17 Contusion
+A74	MEDDRA-PT-ID E17 10050584
+A75	CUI E18 C0151698
+A76	UMLS-Preferred-Name E18 Injection site hemorrhage
+A77	MEDDRA-PT E18 Injection site haemorrhage
+A78	MEDDRA-PT-ID E18 10022067
+A79	LLT E18 Injection site hemorrhage
+A80	LLT-ID E18 10022068
+A81	CUI E19 C0151735
+A82	UMLS-Preferred-Name E19 Injection site reaction
+A83	MEDDRA-PT E19 Injection site reaction
+A84	MEDDRA-PT-ID E19 10022095
+A85	flag E20 duplicate
+A86	CUI E20 C0151828
+A87	UMLS-Preferred-Name E20 Injection site pain
+A88	MEDDRA-PT E20 Injection site pain
+A89	MEDDRA-PT-ID E20 10022086
+A90	CUI E21 C2938972
+A91	UMLS-Preferred-Name E21 Penile haematoma
+A92	MEDDRA-PT E21 Penile haematoma
+A93	MEDDRA-PT-ID E21 10070656
+A94	LLT E21 Penile hematoma
+A95	LLT-ID E21 10070663
+A96	CUI E22 C1282799
+A97	UMLS-Preferred-Name E22 Penile swelling
+A98	MEDDRA-PT E22 Penile swelling
+A99	MEDDRA-PT-ID E22 10034319
+A100	CUI E23 C0497481
+A101	UMLS-Preferred-Name E23 Pain in penis
+A102	MEDDRA-PT E23 Penile pain
+A103	MEDDRA-PT-ID E23 10034310
+A104	CUI E24 C0410050
+A105	UMLS-Preferred-Name E24 Rupture of flexor tendon of finger
+A106	MEDDRA-PT E24 Tendon rupture
+A107	MEDDRA-PT-ID E24 10043248
+A108	LLT E24 Nontraumatic rupture of flexor tendons of hand and wrist
+A109	LLT-ID E24 10029738
+A110	CUI E25 C3160907
+A111	UMLS-Preferred-Name E25 Injection related reaction
+A112	MEDDRA-PT E25 Injection related reaction
+A113	MEDDRA-PT-ID E25 10071152
+A114	CUI E26 C0033774
+A115	UMLS-Preferred-Name E26 Pruritus
+A116	MEDDRA-PT E26 Pruritus
+A117	MEDDRA-PT-ID E26 10037087
+A118	CUI E27 C0085649
+A119	UMLS-Preferred-Name E27 Peripheral edema
+A120	MEDDRA-PT E27 Oedema peripheral
+A121	MEDDRA-PT-ID E27 10030124
+A122	LLT E27 Edema peripheral
+A123	LLT-ID E27 10014251
+A124	flag E28 duplicate
+A125	CUI E28 C0575805
+A126	UMLS-Preferred-Name E28 swelling of hands (finding)
+A127	MEDDRA-PT E28 Peripheral swelling
+A128	MEDDRA-PT-ID E28 10048959
+A129	LLT E28 Swelling of hands
+A130	LLT-ID E28 10042695
+A131	CUI E29 C0009938
+A132	UMLS-Preferred-Name E29 Contusions
+A133	MEDDRA-PT E29 Contusion
+A134	MEDDRA-PT-ID E29 10050584
+A135	CUI E30 C0151698
+A136	UMLS-Preferred-Name E30 Injection site hemorrhage
+A137	MEDDRA-PT E30 Injection site haemorrhage
+A138	MEDDRA-PT-ID E30 10022067
+A139	LLT E30 Injection site hemorrhage
+A140	LLT-ID E30 10022068
+A141	CUI E31 C0151735
+A142	UMLS-Preferred-Name E31 Injection site reaction
+A143	MEDDRA-PT E31 Injection site reaction
+A144	MEDDRA-PT-ID E31 10022095
+A145	flag E32 duplicate
+A146	CUI E32 C0521491
+A147	UMLS-Preferred-Name E32 Application site pain
+A148	MEDDRA-PT E32 Administration site pain
+A149	MEDDRA-PT-ID E32 10058049
+A150	flag E33 duplicate
+A151	CUI E33 C0575805
+A152	UMLS-Preferred-Name E33 swelling of hands (finding)
+A153	MEDDRA-PT E33 Peripheral swelling
+A154	MEDDRA-PT-ID E33 10048959
+A155	LLT E33 Swelling of hands
+A156	LLT-ID E33 10042695
+A157	CUI E34 C0009938
+A158	UMLS-Preferred-Name E34 Contusions
+A159	MEDDRA-PT E34 Contusion
+A160	MEDDRA-PT-ID E34 10050584
+A161	CUI E36 C0013491
+A162	UMLS-Preferred-Name E36 Ecchymosis
+A163	MEDDRA-PT E36 Ecchymosis
+A164	MEDDRA-PT-ID E36 10014080
+A165	CUI E35 C0151735
+A166	UMLS-Preferred-Name E35 Injection site reaction
+A167	MEDDRA-PT E35 Injection site reaction
+A168	MEDDRA-PT-ID E35 10022095
+A169	CUI E37 C0852625
+A170	UMLS-Preferred-Name E37 Injection site erythema
+A171	MEDDRA-PT E37 Injection site erythema
+A172	MEDDRA-PT-ID E37 10022061
+A173	CUI E38 C0151734
+A174	UMLS-Preferred-Name E38 Injection site inflammation
+A175	MEDDRA-PT E38 Injection site inflammation
+A176	MEDDRA-PT-ID E38 10022078
+A177	CUI E39 C0521498
+A178	UMLS-Preferred-Name E39 Injection site irritation
+A179	MEDDRA-PT E39 Injection site irritation
+A180	MEDDRA-PT-ID E39 10022079
+A181	CUI E40 C0151828
+A182	UMLS-Preferred-Name E40 Injection site pain
+A183	MEDDRA-PT E40 Injection site pain
+A184	MEDDRA-PT-ID E40 10022086
+A185	CUI E41 C0858934
+A186	UMLS-Preferred-Name E41 Injection site warmth
+A187	MEDDRA-PT E41 Injection site warmth
+A188	MEDDRA-PT-ID E41 10022112
+A189	CUI E42 C0151605
+A190	UMLS-Preferred-Name E42 Injection site edema
+A191	MEDDRA-PT E42 Injection site swelling
+A192	MEDDRA-PT-ID E42 10053425
+A193	CUI E43 C0151605
+A194	UMLS-Preferred-Name E43 Injection site edema
+A195	MEDDRA-PT E43 Injection site oedema
+A196	MEDDRA-PT-ID E43 10022085
+A197	LLT E43 Injection site edema
+A198	LLT-ID E43 10022058
+A199	CUI E44 C0033774
+A200	UMLS-Preferred-Name E44 Pruritus
+A201	MEDDRA-PT E44 Pruritus
+A202	MEDDRA-PT-ID E44 10037087
+A203	CUI E45 C0852995
+A204	UMLS-Preferred-Name E45 Injection site pruritus
+A205	MEDDRA-PT E45 Injection site pruritus
+A206	MEDDRA-PT-ID E45 10022093
+A207	CUI E46 C0497156
+A208	UMLS-Preferred-Name E46 Lymphadenopathy
+A209	MEDDRA-PT E46 Lymphadenopathy
+A210	MEDDRA-PT-ID E46 10025197
+A211	CUI E47 C0238729
+A212	UMLS-Preferred-Name E47 Mass of axilla
+A213	MEDDRA-PT E47 Axillary mass
+A214	MEDDRA-PT-ID E47 10049021
+A215	CUI E48 C0085649
+A216	UMLS-Preferred-Name E48 Peripheral edema
+A217	MEDDRA-PT E48 Oedema peripheral
+A218	MEDDRA-PT-ID E48 10030124
+A219	LLT E48 Edema peripheral
+A220	LLT-ID E48 10014251
+A221	CUI E49 C0009938
+A222	UMLS-Preferred-Name E49 Contusions
+A223	MEDDRA-PT E49 Contusion
+A224	MEDDRA-PT-ID E49 10050584
+A225	CUI E50 C0151698
+A226	UMLS-Preferred-Name E50 Injection site hemorrhage
+A227	MEDDRA-PT E50 Injection site haemorrhage
+A228	MEDDRA-PT-ID E50 10022067
+A229	LLT E50 Injection site hemorrhage
+A230	LLT-ID E50 10022068
+A231	CUI E51 C0151735
+A232	UMLS-Preferred-Name E51 Injection site reaction
+A233	MEDDRA-PT E51 Injection site reaction
+A234	MEDDRA-PT-ID E51 10022095
+A235	CUI E52 C0030196
+A236	UMLS-Preferred-Name E52 Pain in limb
+A237	MEDDRA-PT E52 Pain in extremity
+A238	MEDDRA-PT-ID E52 10033425
+A239	CUI E53 C0234233
+A240	UMLS-Preferred-Name E53 Sore to touch
+A241	MEDDRA-PT E53 Tenderness
+A242	MEDDRA-PT-ID E53 10043224
+A243	CUI E54 C0151605
+A244	UMLS-Preferred-Name E54 Injection site edema
+A245	MEDDRA-PT E54 Injection site swelling
+A246	MEDDRA-PT-ID E54 10053425
+A247	CUI E55 C0033774
+A248	UMLS-Preferred-Name E55 Pruritus
+A249	MEDDRA-PT E55 Pruritus
+A250	MEDDRA-PT-ID E55 10037087
+A251	CUI E56 C0497156
+A252	UMLS-Preferred-Name E56 Lymphadenopathy
+A253	MEDDRA-PT E56 Lymphadenopathy
+A254	MEDDRA-PT-ID E56 10025197
+A255	CUI E57 C0558401
+A256	UMLS-Preferred-Name E57 Skin laceration
+A257	MEDDRA-PT E57 Laceration
+A258	MEDDRA-PT-ID E57 10023572
+A259	LLT E57 Skin laceration
+A260	LLT-ID E57 10058818
+A261	CUI E58 C0578050
+A262	UMLS-Preferred-Name E58 Pain of lymph node
+A263	MEDDRA-PT E58 Lymph node pain
+A264	MEDDRA-PT-ID E58 10025182
+A265	CUI E59 C0041834
+A266	UMLS-Preferred-Name E59 Erythema
+A267	MEDDRA-PT E59 Erythema
+A268	MEDDRA-PT-ID E59 10015150
+A269	CUI E60 C0577659
+A270	UMLS-Preferred-Name E60 Pain in axilla
+A271	MEDDRA-PT E60 Axillary pain
+A272	MEDDRA-PT-ID E60 10048750
+A273	CUI E61 C0042420
+A274	UMLS-Preferred-Name E61 Vasovagal syncope
+A275	MEDDRA-PT E61 Syncope
+A276	MEDDRA-PT-ID E61 10042772
+A277	LLT E61 Syncope vasovagal
+A278	LLT-ID E61 10042777
+A279	CUI E62 C0434348
+A280	UMLS-Preferred-Name E62 Rupture of tendon of finger
+A281	MEDDRA-PT E62 Ligament rupture
+A282	MEDDRA-PT-ID E62 10065433
+A283	LLT E62 Finger tendon pulley rupture
+A284	LLT-ID E62 10074965
+A285	CUI E63 C0085649
+A286	UMLS-Preferred-Name E63 Peripheral edema
+A287	MEDDRA-PT E63 Oedema peripheral
+A288	MEDDRA-PT-ID E63 10030124
+A289	LLT E63 Edema peripheral
+A290	LLT-ID E63 10014251
+A291	CUI E64 C0009938
+A292	UMLS-Preferred-Name E64 Contusions
+A293	MEDDRA-PT E64 Contusion
+A294	MEDDRA-PT-ID E64 10050584
+A295	CUI E65 C0030196
+A296	UMLS-Preferred-Name E65 Pain in limb
+A297	MEDDRA-PT E65 Pain in extremity
+A298	MEDDRA-PT-ID E65 10033425
+A299	CUI E66 C0043246
+A300	UMLS-Preferred-Name E66 Laceration
+A301	MEDDRA-PT E66 Laceration
+A302	MEDDRA-PT-ID E66 10023572
+A303	CUI E67 C0033774
+A304	UMLS-Preferred-Name E67 Pruritus
+A305	MEDDRA-PT E67 Pruritus
+A306	MEDDRA-PT-ID E67 10037087
+A307	CUI E68 C0151828
+A308	UMLS-Preferred-Name E68 Injection site pain
+A309	MEDDRA-PT E68 Injection site pain
+A310	MEDDRA-PT-ID E68 10022086
+A311	CUI E69 C0497156
+A312	UMLS-Preferred-Name E69 Lymphadenopathy
+A313	MEDDRA-PT E69 Lymphadenopathy
+A314	MEDDRA-PT-ID E69 10025197
+A315	CUI E70 C0563247
+A316	UMLS-Preferred-Name E70 Blood blister
+A317	MEDDRA-PT E70 Blood blister
+A318	MEDDRA-PT-ID E70 10005372
+A319	CUI E71 C0542008
+A320	UMLS-Preferred-Name E71 Injection site haematoma
+A321	MEDDRA-PT E71 Injection site haematoma
+A322	MEDDRA-PT-ID E71 10022066
+A323	LLT E71 Injection site hematoma
+A324	LLT-ID E71 10055371
+A325	CUI E72 C0577659
+A326	UMLS-Preferred-Name E72 Pain in axilla
+A327	MEDDRA-PT E72 Axillary pain
+A328	MEDDRA-PT-ID E72 10048750
+A329	CUI E73 C0151698
+A330	UMLS-Preferred-Name E73 Injection site hemorrhage
+A331	MEDDRA-PT E73 Injection site haemorrhage
+A332	MEDDRA-PT-ID E73 10022067
+A333	LLT E73 Injection site hemorrhage
+A334	LLT-ID E73 10022068
+A335	CUI E74 C0151605
+A336	UMLS-Preferred-Name E74 Injection site edema
+A337	MEDDRA-PT E74 Injection site swelling
+A338	MEDDRA-PT-ID E74 10053425
+A339	CUI E75 C0013491
+A340	UMLS-Preferred-Name E75 Ecchymosis
+A341	MEDDRA-PT E75 Ecchymosis
+A342	MEDDRA-PT-ID E75 10014080
+A343	CUI E76 C0434159
+A344	UMLS-Preferred-Name E76 Rupture of corpus cavernosum of penis
+A345	MEDDRA-PT E76 Fracture of penis
+A346	MEDDRA-PT-ID E76 10052530
+A347	CUI E77 C2938973
+A348	UMLS-Preferred-Name E77 Penile ecchymosis
+A349	MEDDRA-PT E77 Penile haemorrhage
+A350	MEDDRA-PT-ID E77 10034305
+A351	LLT E77 Penile ecchymosis
+A352	LLT-ID E77 10070657
+A353	CUI E78 C2938972
+A354	UMLS-Preferred-Name E78 Penile haematoma
+A355	MEDDRA-PT E78 Penile haematoma
+A356	MEDDRA-PT-ID E78 10070656
+A357	LLT E78 Penile hematoma
+A358	LLT-ID E78 10070663
+A359	CUI E79 C0858253
+A360	UMLS-Preferred-Name E79 Inability to maintain erection
+A361	MEDDRA-PT E79 Erectile dysfunction
+A362	MEDDRA-PT-ID E79 10061461
+A363	LLT E79 Inability to maintain erection
+A364	LLT-ID E79 10021573
+A365	CUI E80 C3854564
+A366	UMLS-Preferred-Name E80 Penile popping sensation
+A367	MEDDRA-PT E80 Penis disorder
+A368	MEDDRA-PT-ID E80 10034336
+A369	LLT E80 Penile popping sensation
+A370	LLT-ID E80 10074968
+A371	CUI E81 C3854564
+A372	UMLS-Preferred-Name E81 Penile popping sensation
+A373	MEDDRA-PT E81 Penis disorder
+A374	MEDDRA-PT-ID E81 10034336
+A375	LLT E81 Penile popping sensation
+A376	LLT-ID E81 10074968
+A377	CUI E82 C0434159
+A378	UMLS-Preferred-Name E82 Rupture of corpus cavernosum of penis
+A379	MEDDRA-PT E82 Fracture of penis
+A380	MEDDRA-PT-ID E82 10052530
+A381	CUI E84 C2938972
+A382	UMLS-Preferred-Name E84 Penile haematoma
+A383	MEDDRA-PT E84 Penile haematoma
+A384	MEDDRA-PT-ID E84 10070656
+A385	LLT E84 Penile hematoma
+A386	LLT-ID E84 10070663
+A387	CUI E86 C2938972
+A388	UMLS-Preferred-Name E86 Penile haematoma
+A389	MEDDRA-PT E86 Penile haematoma
+A390	MEDDRA-PT-ID E86 10070656
+A391	LLT E86 Penile hematoma
+A392	LLT-ID E86 10070663
+A393	CUI E87 C1282799
+A394	UMLS-Preferred-Name E87 Penile swelling
+A395	MEDDRA-PT E87 Penile swelling
+A396	MEDDRA-PT-ID E87 10034319
+A397	CUI E88 C0497481
+A398	UMLS-Preferred-Name E88 Pain in penis
+A399	MEDDRA-PT E88 Penile pain
+A400	MEDDRA-PT-ID E88 10034310
+A401	CUI E89 C0542008
+A402	UMLS-Preferred-Name E89 Injection site haematoma
+A403	MEDDRA-PT E89 Injection site haematoma
+A404	MEDDRA-PT-ID E89 10022066
+A405	LLT E89 Injection site hematoma
+A406	LLT-ID E89 10055371
+A407	CUI E90 C2938972
+A408	UMLS-Preferred-Name E90 Penile haematoma
+A409	MEDDRA-PT E90 Penile haematoma
+A410	MEDDRA-PT-ID E90 10070656
+A411	LLT E90 Penile hematoma
+A412	LLT-ID E90 10070663
+A413	CUI E91 C2938977
+A414	UMLS-Preferred-Name E91 Penile contusion
+A415	MEDDRA-PT E91 Penile contusion
+A416	MEDDRA-PT-ID E91 10073352
+A417	LLT E91 Penile bruise
+A418	LLT-ID E91 10070661
+A419	CUI E92 C0521508
+A420	UMLS-Preferred-Name E92 Injection site bruising
+A421	MEDDRA-PT E92 Injection site bruising
+A422	MEDDRA-PT-ID E92 10022052
+A423	CUI E93 C0151605
+A424	UMLS-Preferred-Name E93 Injection site edema
+A425	MEDDRA-PT E93 Injection site swelling
+A426	MEDDRA-PT-ID E93 10053425
+A427	CUI E94 C0156308
+A428	UMLS-Preferred-Name E94 Edema of penis
+A429	MEDDRA-PT E94 Penile oedema
+A430	MEDDRA-PT-ID E94 10066774
+A431	LLT E94 Penile edema
+A432	LLT-ID E94 10066853
+A433	CUI E95 C1282799
+A434	UMLS-Preferred-Name E95 Penile swelling
+A435	MEDDRA-PT E95 Penile swelling
+A436	MEDDRA-PT-ID E95 10034319
+A437	CUI E96 C0853619
+A438	UMLS-Preferred-Name E96 Local swelling
+A439	MEDDRA-PT E96 Local swelling
+A440	MEDDRA-PT-ID E96 10024770
+A441	CUI E97 C0282005
+A442	UMLS-Preferred-Name E97 Swelling of scrotum
+A443	MEDDRA-PT E97 Scrotal swelling
+A444	MEDDRA-PT-ID E97 10039759
+A445	CUI E98 C0151605
+A446	UMLS-Preferred-Name E98 Injection site edema
+A447	MEDDRA-PT E98 Injection site oedema
+A448	MEDDRA-PT-ID E98 10022085
+A449	LLT E98 Injection site edema
+A450	LLT-ID E98 10022058
+A451	CUI E99 C0151828
+A452	UMLS-Preferred-Name E99 Injection site pain
+A453	MEDDRA-PT E99 Injection site pain
+A454	MEDDRA-PT-ID E99 10022086
+A455	CUI E100 C0497481
+A456	UMLS-Preferred-Name E100 Pain in penis
+A457	MEDDRA-PT E100 Penile pain
+A458	MEDDRA-PT-ID E100 10034310
+A459	CUI E101 C1096267
+A460	UMLS-Preferred-Name E101 Injection site discomfort
+A461	MEDDRA-PT E101 Injection site discomfort
+A462	MEDDRA-PT-ID E101 10054266
+A463	CUI E102 C0009938
+A464	UMLS-Preferred-Name E102 Contusions
+A465	MEDDRA-PT E102 Contusion
+A466	MEDDRA-PT-ID E102 10050584
+A467	CUI E103 C0013491
+A468	UMLS-Preferred-Name E103 Ecchymosis
+A469	MEDDRA-PT E103 Ecchymosis
+A470	MEDDRA-PT-ID E103 10014080
+A471	LLT E103 Ecchymoses
+A472	LLT-ID E103 10014079
+A473	CUI E104 C0269002
+A474	UMLS-Preferred-Name E104 Hemorrhage of penis
+A475	MEDDRA-PT E104 Penile haemorrhage
+A476	MEDDRA-PT-ID E104 10034305
+A477	LLT E104 Penile hemorrhage
+A478	LLT-ID E104 10055314
+A479	CUI E105 C0151698
+A480	UMLS-Preferred-Name E105 Injection site hemorrhage
+A481	MEDDRA-PT E105 Injection site haemorrhage
+A482	MEDDRA-PT-ID E105 10022067
+A483	LLT E105 Injection site hemorrhage
+A484	LLT-ID E105 10022068
+A485	CUI E106 C2938972
+A486	UMLS-Preferred-Name E106 Penile haematoma
+A487	MEDDRA-PT E106 Penile haematoma
+A488	MEDDRA-PT-ID E106 10070656
+A489	LLT E106 Penile hematoma
+A490	LLT-ID E106 10070663
+A491	CUI E107 C1282799
+A492	UMLS-Preferred-Name E107 Penile swelling
+A493	MEDDRA-PT E107 Penile swelling
+A494	MEDDRA-PT-ID E107 10034319
+A495	CUI E108 C0497481
+A496	UMLS-Preferred-Name E108 Pain in penis
+A497	MEDDRA-PT E108 Penile pain
+A498	MEDDRA-PT-ID E108 10034310
+A499	CUI E109 C2938973
+A500	UMLS-Preferred-Name E109 Penile ecchymosis
+A501	MEDDRA-PT E109 Penile haemorrhage
+A502	MEDDRA-PT-ID E109 10034305
+A503	LLT E109 Penile ecchymosis
+A504	LLT-ID E109 10070657
+A505	CUI E110 C0563247
+A506	UMLS-Preferred-Name E110 Blood blister
+A507	MEDDRA-PT E110 Blood blister
+A508	MEDDRA-PT-ID E110 10005372
+A509	CUI E111 C1540763
+A510	UMLS-Preferred-Name E111 Penile blister
+A511	MEDDRA-PT E111 Penile blister
+A512	MEDDRA-PT-ID E111 10052898
+A513	CUI E112 C0033777
+A514	UMLS-Preferred-Name E112 Pruritus of genital organs
+A515	MEDDRA-PT E112 Pruritus genital
+A516	MEDDRA-PT-ID E112 10037093
+A517	CUI E113 C0233973
+A518	UMLS-Preferred-Name E113 Painful penile erection
+A519	MEDDRA-PT E113 Painful erection
+A520	MEDDRA-PT-ID E113 10056303
+A521	CUI E114 C0242350
+A522	UMLS-Preferred-Name E114 Erectile dysfunction
+A523	MEDDRA-PT E114 Erectile dysfunction
+A524	MEDDRA-PT-ID E114 10061461
+A525	CUI E115 C0151907
+A526	UMLS-Preferred-Name E115 Discoloration of skin
+A527	MEDDRA-PT E115 Skin discolouration
+A528	MEDDRA-PT-ID E115 10040829
+A529	LLT E115 Skin discoloration
+A530	LLT-ID E115 10040828
+A531	CUI E116 C1619712
+A532	UMLS-Preferred-Name E116 Procedural pain
+A533	MEDDRA-PT E116 Procedural pain
+A534	MEDDRA-PT-ID E116 10064882
+A535	CUI E117 C0854431
+A536	UMLS-Preferred-Name E117 Injection site vesicles
+A537	MEDDRA-PT E117 Injection site vesicles
+A538	MEDDRA-PT-ID E117 10022111
+A539	CUI E118 C0013609
+A540	UMLS-Preferred-Name E118 Localized edema
+A541	MEDDRA-PT E118 Localised oedema
+A542	MEDDRA-PT-ID E118 10048961
+A543	LLT E118 Localized edema
+A544	LLT-ID E118 10062466
+A545	CUI E119 C1384606
+A546	UMLS-Preferred-Name E119 Dyspareunia
+A547	MEDDRA-PT E119 Dyspareunia
+A548	MEDDRA-PT-ID E119 10013941
+A549	CUI E120 C0852995
+A550	UMLS-Preferred-Name E120 Injection site pruritus
+A551	MEDDRA-PT E120 Injection site pruritus
+A552	MEDDRA-PT-ID E120 10022093
+A553	CUI E121 C0028259
+A554	UMLS-Preferred-Name E121 Nodule
+A555	MEDDRA-PT E121 Nodule
+A556	MEDDRA-PT-ID E121 10054107
+A557	CUI E122 C0241310
+A558	UMLS-Preferred-Name E122 Suprapubic pain
+A559	MEDDRA-PT E122 Suprapubic pain
+A560	MEDDRA-PT-ID E122 10050822
+A561	CUI E123 C2938972
+A562	UMLS-Preferred-Name E123 Penile haematoma
+A563	MEDDRA-PT E123 Penile haematoma
+A564	MEDDRA-PT-ID E123 10070656
+A565	LLT E123 Penile hematoma
+A566	LLT-ID E123 10070663
+A567	CUI E125 C0542008
+A568	UMLS-Preferred-Name E125 Injection site haematoma
+A569	MEDDRA-PT E125 Injection site haematoma
+A570	MEDDRA-PT-ID E125 10022066
+A571	LLT E125 Injection site hematoma
+A572	LLT-ID E125 10055371
+A573	CUI E127 C3854564
+A574	UMLS-Preferred-Name E127 Penile popping sensation
+A575	MEDDRA-PT E127 Penis disorder
+A576	MEDDRA-PT-ID E127 10034336
+A577	LLT E127 Penile popping sensation
+A578	LLT-ID E127 10074968
+A579	flag E128 unmapped
+A580	CUI E129 C3854564
+A581	UMLS-Preferred-Name E129 Penile popping sensation
+A582	MEDDRA-PT E129 Penis disorder
+A583	MEDDRA-PT-ID E129 10034336
+A584	LLT E129 Penile popping sensation
+A585	LLT-ID E129 10074968
+A586	CUI E130 C3854564
+A587	UMLS-Preferred-Name E130 Penile popping sensation
+A588	MEDDRA-PT E130 Penis disorder
+A589	MEDDRA-PT-ID E130 10034336
+A590	LLT E130 Penile popping sensation
+A591	LLT-ID E130 10074968
+A592	CUI E131 C0858253
+A593	UMLS-Preferred-Name E131 Inability to maintain erection
+A594	MEDDRA-PT E131 Erectile dysfunction
+A595	MEDDRA-PT-ID E131 10061461
+A596	LLT E131 Inability to maintain erection
+A597	LLT-ID E131 10021573
+A598	CUI E132 C0018944
+A599	UMLS-Preferred-Name E132 Hematoma
+A600	MEDDRA-PT E132 Haematoma
+A601	MEDDRA-PT-ID E132 10018852
+A602	LLT E132 Hematoma
+A603	LLT-ID E132 10019428
+A604	CUI E133 C0030193
+A605	UMLS-Preferred-Name E133 Pain
+A606	MEDDRA-PT E133 Pain
+A607	MEDDRA-PT-ID E133 10033371
+A608	CUI E134 C0853327
+A609	UMLS-Preferred-Name E134 Penile size reduced
+A610	MEDDRA-PT E134 Penile size reduced
+A611	MEDDRA-PT-ID E134 10034311
+A612	CUI E136 C0030846
+A613	UMLS-Preferred-Name E136 Penile Diseases
+A614	MEDDRA-PT E136 Penis disorder
+A615	MEDDRA-PT-ID E136 10034336
+A616	flag E137 unmapped
+A617	CUI E140 C0030846
+A618	UMLS-Preferred-Name E140 Penile Diseases
+A619	MEDDRA-PT E140 Penis disorder
+A620	MEDDRA-PT-ID E140 10034336
+A621	flag E141 unmapped

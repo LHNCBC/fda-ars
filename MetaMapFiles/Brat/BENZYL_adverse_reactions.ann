@@ -1,0 +1,166 @@
+T1	AdverseReaction 126 143	ocular irritation
+T2	AdverseReaction 145 172	application site irritation
+T3	AdverseReaction 178 205	application site anesthesia
+T4	AdverseReaction 178 194;210 222	application site hypoesthesia
+T5	AdverseReaction 1257 1284	Application site Irritation
+T6	AdverseReaction 1322 1349	Application site anesthesia
+T7	AdverseReaction 1322 1338;1351 1363	Application site hypoesthesia
+T8	AdverseReaction 1900 1908	Pruritus
+T9	AdverseReaction 1954 1962	Erythema
+T10	AdverseReaction 1757 1765	Pruritus
+T11	AdverseReaction 1767 1775	Erythema
+T12	AdverseReaction 1777 1785	Pyoderma
+T13	AdverseReaction 1790 1807	Ocular Irritation
+T14	AdverseReaction 2008 2016	Pyoderma
+T15	AdverseReaction 2062 2079	Ocular irritation
+T16	AdverseReaction 2234 2258	application site dryness
+T17	AdverseReaction 2260 2288	application site excoriation
+T18	AdverseReaction 2304 2331	application site dermatitis
+T19	AdverseReaction 2333 2344	excoriation
+T20	AdverseReaction 2346 2358	thermal burn
+T21	AdverseReaction 2360 2368	dandruff
+T22	AdverseReaction 2370 2378	erythema
+T23	AdverseReaction 2380 2384	rash
+T24	AdverseReaction 2390 2406	skin exfoliation
+T25	AdverseReaction 1401 1405	Pain
+T26	AdverseReaction 2290 2302	paraesthesia
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+A1	CUI E1 C0235266
+A2	UMLS-Preferred-Name E1 Eye irritation
+A3	MEDDRA-PT E1 Eye irritation
+A4	MEDDRA-PT-ID E1 10015946
+A5	CUI E2 C0521490
+A6	UMLS-Preferred-Name E2 Application site irritation
+A7	MEDDRA-PT E2 Application site irritation
+A8	MEDDRA-PT-ID E2 10003046
+A9	CUI E3 C0234943
+A10	UMLS-Preferred-Name E3 Application site anesthesia
+A11	MEDDRA-PT E3 Application site anaesthesia
+A12	MEDDRA-PT-ID E3 10003033
+A13	LLT E3 Application site anesthesia
+A14	LLT-ID E3 10003034
+A15	CUI E4 C3805045
+A16	UMLS-Preferred-Name E4 Application site hypoaesthesia
+A17	MEDDRA-PT E4 Application site hypoaesthesia
+A18	MEDDRA-PT-ID E4 10074585
+A19	LLT E4 Application site hypoesthesia
+A20	LLT-ID E4 10074589
+A21	CUI E5 C0521490
+A22	UMLS-Preferred-Name E5 Application site irritation
+A23	MEDDRA-PT E5 Application site irritation
+A24	MEDDRA-PT-ID E5 10003046
+A25	CUI E6 C0234943
+A26	UMLS-Preferred-Name E6 Application site anesthesia
+A27	MEDDRA-PT E6 Application site anaesthesia
+A28	MEDDRA-PT-ID E6 10003033
+A29	LLT E6 Application site anesthesia
+A30	LLT-ID E6 10003034
+A31	CUI E7 C3805045
+A32	UMLS-Preferred-Name E7 Application site hypoaesthesia
+A33	MEDDRA-PT E7 Application site hypoaesthesia
+A34	MEDDRA-PT-ID E7 10074585
+A35	LLT E7 Application site hypoesthesia
+A36	LLT-ID E7 10074589
+A37	CUI E8 C0033774
+A38	UMLS-Preferred-Name E8 Pruritus
+A39	MEDDRA-PT E8 Pruritus
+A40	MEDDRA-PT-ID E8 10037087
+A41	CUI E9 C0041834
+A42	UMLS-Preferred-Name E9 Erythema
+A43	MEDDRA-PT E9 Erythema
+A44	MEDDRA-PT-ID E9 10015150
+A45	CUI E10 C0033774
+A46	UMLS-Preferred-Name E10 Pruritus
+A47	MEDDRA-PT E10 Pruritus
+A48	MEDDRA-PT-ID E10 10037087
+A49	CUI E11 C0041834
+A50	UMLS-Preferred-Name E11 Erythema
+A51	MEDDRA-PT E11 Erythema
+A52	MEDDRA-PT-ID E11 10015150
+A53	CUI E12 C0034212
+A54	UMLS-Preferred-Name E12 Pyoderma
+A55	MEDDRA-PT E12 Pyoderma
+A56	MEDDRA-PT-ID E12 10037632
+A57	CUI E13 C0235266
+A58	UMLS-Preferred-Name E13 Eye irritation
+A59	MEDDRA-PT E13 Eye irritation
+A60	MEDDRA-PT-ID E13 10015946
+A61	CUI E14 C0034212
+A62	UMLS-Preferred-Name E14 Pyoderma
+A63	MEDDRA-PT E14 Pyoderma
+A64	MEDDRA-PT-ID E14 10037632
+A65	CUI E15 C0235266
+A66	UMLS-Preferred-Name E15 Eye irritation
+A67	MEDDRA-PT E15 Eye irritation
+A68	MEDDRA-PT-ID E15 10015946
+A69	CUI E16 C0877098
+A70	UMLS-Preferred-Name E16 Application site dryness
+A71	MEDDRA-PT E16 Application site dryness
+A72	MEDDRA-PT-ID E16 10048943
+A73	CUI E17 C1142498
+A74	UMLS-Preferred-Name E17 Application site excoriation
+A75	MEDDRA-PT E17 Application site erosion
+A76	MEDDRA-PT-ID E17 10065577
+A77	LLT E17 Application site excoriation
+A78	LLT-ID E17 10059006
+A79	CUI E18 C0521495
+A80	UMLS-Preferred-Name E18 Application site rash
+A81	MEDDRA-PT E18 Application site dermatitis
+A82	MEDDRA-PT-ID E18 10003036
+A83	CUI E19 C0015256
+A84	UMLS-Preferred-Name E19 Excoriation
+A85	MEDDRA-PT E19 Excoriation
+A86	MEDDRA-PT-ID E19 10049796
+A87	CUI E20 C0701836
+A88	UMLS-Preferred-Name E20 Thermal burn
+A89	MEDDRA-PT E20 Thermal burn
+A90	MEDDRA-PT-ID E20 10053615
+A91	CUI E21 C0221244
+A92	UMLS-Preferred-Name E21 Seborrheic dermatitis of scalp
+A93	MEDDRA-PT E21 Dandruff
+A94	MEDDRA-PT-ID E21 10011859
+A95	CUI E22 C0041834
+A96	UMLS-Preferred-Name E22 Erythema
+A97	MEDDRA-PT E22 Erythema
+A98	MEDDRA-PT-ID E22 10015150
+A99	CUI E23 C0015230
+A100	UMLS-Preferred-Name E23 Exanthema
+A101	MEDDRA-PT E23 Rash
+A102	MEDDRA-PT-ID E23 10037844
+A103	CUI E24 C0237849
+A104	UMLS-Preferred-Name E24 Peeling of skin
+A105	MEDDRA-PT E24 Skin exfoliation
+A106	MEDDRA-PT-ID E24 10040844
+A107	CUI E25 C0030193
+A108	UMLS-Preferred-Name E25 Pain
+A109	MEDDRA-PT E25 Pain
+A110	MEDDRA-PT-ID E25 10033371
+A111	CUI E26 C0030554
+A112	UMLS-Preferred-Name E26 Paresthesia
+A113	MEDDRA-PT E26 Paraesthesia
+A114	MEDDRA-PT-ID E26 10033775

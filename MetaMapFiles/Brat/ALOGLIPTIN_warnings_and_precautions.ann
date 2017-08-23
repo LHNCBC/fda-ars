@@ -1,0 +1,189 @@
+T1	AdverseReaction 113 131	acute pancreatitis
+T2	AdverseReaction 272 298	hypersensitivity reactions
+T3	Severity 264 271	serious
+T4	AdverseReaction 339 350	anaphylaxis
+T5	AdverseReaction 352 362	angioedema
+T6	AdverseReaction 374 401	cutaneous adverse reactions
+T7	Severity 367 373	severe
+T8	AdverseReaction 633 648	hepatic failure
+T9	AdverseReaction 660 665	fatal
+T10	AdverseReaction 1222 1232	arthralgia
+T11	Severity 1201 1207	Severe
+T12	Severity 1212 1221	disabling
+T13	AdverseReaction 1634 1652	acute pancreatitis
+T14	AdverseReaction 2132 2158	hypersensitivity reactions
+T15	Severity 2124 2131	serious
+T16	AdverseReaction 2216 2227	anaphylaxis
+T17	AdverseReaction 2229 2239	angioedema
+T18	AdverseReaction 2251 2278	cutaneous adverse reactions
+T19	Severity 2244 2250	severe
+T20	AdverseReaction 2290 2314	Stevens-Johnson syndrome
+T21	AdverseReaction 2782 2797	hepatic failure
+T22	Severity 2773 2781	nonfatal
+T23	AdverseReaction 2763 2768	fatal
+T24	AdverseReaction 2996 3026;3033 3043	serum alanine aminotransferase elevations
+T29	AdverseReaction 4540 4550	arthralgia
+T30	Severity 4530 4539	disabling
+T31	Severity 4519 4525	severe
+T32	DrugClass 4570 4586	DPP-4 inhibitors
+T33	Severity 3057 3100	three times the upper limit of normal (ULN)
+T34	DrugClass 1270 1286	DPP-4 inhibitors
+T35	AdverseReaction 3028 3031;3033 3043	ALT elevations
+T36	AdverseReaction 959 971	Hypoglycemia
+T37	AdverseReaction 52 70	Acute pancreatitis
+T38	AdverseReaction 205 221	Hypersensitivity
+T39	AdverseReaction 591 606	Hepatic effects
+T40	AdverseReaction 1189 1199	Arthralgia
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Effect:E3
+E3	Severity:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6 Effect:E7
+E7	Severity:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E11	AdverseReaction:T10 Effect:E12 Effect2:E13 Hypothetical:E30
+E12	Severity:T11
+E13	Severity:T12
+E14	AdverseReaction:T13
+E15	AdverseReaction:T14 Effect:E16
+E16	Severity:T15
+E17	AdverseReaction:T16
+E18	AdverseReaction:T17
+E19	AdverseReaction:T18 Effect:E20
+E20	Severity:T19
+E21	AdverseReaction:T20
+E22	AdverseReaction:T21 Effect:E23
+E23	Severity:T22
+E24	AdverseReaction:T23
+E25	AdverseReaction:T24 Effect:E35
+E31	Severity:T30
+E32	Severity:T31
+E33	AdverseReaction:T29 Effect:E32 Hypothetical:E34 Effect2:E31
+E34	DrugClass:T32
+E10	AdverseReaction:T21
+E35	Severity:T33
+E30	DrugClass:T34
+E36	AdverseReaction:T35 Effect:E35
+E37	AdverseReaction:T36
+E38	AdverseReaction:T37
+E39	AdverseReaction:T38
+E40	AdverseReaction:T39
+E41	AdverseReaction:T40
+A1	CUI E1 C0001339
+A2	UMLS-Preferred-Name E1 Acute pancreatitis
+A3	MEDDRA-PT E1 Pancreatitis acute
+A4	MEDDRA-PT-ID E1 10033647
+A5	LLT E1 Acute pancreatitis
+A6	LLT-ID E1 10000971
+A7	CUI E2 C0020517
+A8	UMLS-Preferred-Name E2 Hypersensitivity
+A9	MEDDRA-PT E2 Hypersensitivity
+A10	MEDDRA-PT-ID E2 10020751
+A11	LLT E2 Hypersensitivity reaction
+A12	LLT-ID E2 10020756
+A13	CUI E4 C0002792
+A14	UMLS-Preferred-Name E4 anaphylaxis
+A15	MEDDRA-PT E4 Anaphylactic reaction
+A16	MEDDRA-PT-ID E4 10002198
+A17	LLT E4 Anaphylaxis
+A18	LLT-ID E4 10002218
+A19	CUI E5 C0002994
+A20	UMLS-Preferred-Name E5 Angioedema
+A21	MEDDRA-PT E5 Angioedema
+A22	MEDDRA-PT-ID E5 10002424
+A23	CUI E6 C0221743
+A24	UMLS-Preferred-Name E6 Skin reaction
+A25	MEDDRA-PT E6 Skin reaction
+A26	MEDDRA-PT-ID E6 10040914
+A27	CUI E8 C0085605
+A28	UMLS-Preferred-Name E8 Liver Failure
+A29	MEDDRA-PT E8 Hepatic failure
+A30	MEDDRA-PT-ID E8 10019663
+A31	CUI E9 C1306577
+A32	UMLS-Preferred-Name E9 Death (finding)
+A33	MEDDRA-PT E9 Death
+A34	MEDDRA-PT-ID E9 10011906
+A35	CUI E11 C0003862
+A36	UMLS-Preferred-Name E11 Arthralgia
+A37	MEDDRA-PT E11 Arthralgia
+A38	MEDDRA-PT-ID E11 10003239
+A39	CUI E14 C0001339
+A40	UMLS-Preferred-Name E14 Acute pancreatitis
+A41	MEDDRA-PT E14 Pancreatitis acute
+A42	MEDDRA-PT-ID E14 10033647
+A43	LLT E14 Acute pancreatitis
+A44	LLT-ID E14 10000971
+A45	CUI E15 C0020517
+A46	UMLS-Preferred-Name E15 Hypersensitivity
+A47	MEDDRA-PT E15 Hypersensitivity
+A48	MEDDRA-PT-ID E15 10020751
+A49	LLT E15 Hypersensitivity reaction
+A50	LLT-ID E15 10020756
+A51	CUI E17 C0002792
+A52	UMLS-Preferred-Name E17 anaphylaxis
+A53	MEDDRA-PT E17 Anaphylactic reaction
+A54	MEDDRA-PT-ID E17 10002198
+A55	LLT E17 Anaphylaxis
+A56	LLT-ID E17 10002218
+A57	CUI E18 C0002994
+A58	UMLS-Preferred-Name E18 Angioedema
+A59	MEDDRA-PT E18 Angioedema
+A60	MEDDRA-PT-ID E18 10002424
+A61	CUI E19 C0221743
+A62	UMLS-Preferred-Name E19 Skin reaction
+A63	MEDDRA-PT E19 Skin reaction
+A64	MEDDRA-PT-ID E19 10040914
+A65	CUI E21 C0038325
+A66	UMLS-Preferred-Name E21 Stevens-Johnson Syndrome
+A67	MEDDRA-PT E21 Stevens-Johnson syndrome
+A68	MEDDRA-PT-ID E21 10042033
+A69	CUI E22 C0085605
+A70	UMLS-Preferred-Name E22 Liver Failure
+A71	MEDDRA-PT E22 Hepatic failure
+A72	MEDDRA-PT-ID E22 10019663
+A73	CUI E24 C1306577
+A74	UMLS-Preferred-Name E24 Death (finding)
+A75	MEDDRA-PT E24 Death
+A76	MEDDRA-PT-ID E24 10011906
+A77	CUI E25 C0151905
+A78	UMLS-Preferred-Name E25 Alanine aminotransferase increased
+A79	MEDDRA-PT E25 Alanine aminotransferase increased
+A80	MEDDRA-PT-ID E25 10001551
+A81	CUI E33 C0003862
+A82	UMLS-Preferred-Name E33 Arthralgia
+A83	MEDDRA-PT E33 Arthralgia
+A84	MEDDRA-PT-ID E33 10003239
+A85	CUI E36 C0151905
+A86	UMLS-Preferred-Name E36 Alanine aminotransferase increased
+A87	MEDDRA-PT E36 Alanine aminotransferase increased
+A88	MEDDRA-PT-ID E36 10001551
+A89	LLT E36 ALT increased
+A90	LLT-ID E36 10001845
+A91	CUI E37 C0020615
+A92	UMLS-Preferred-Name E37 Hypoglycemia
+A93	MEDDRA-PT E37 Hypoglycaemia
+A94	MEDDRA-PT-ID E37 10020993
+A95	LLT E37 Hypoglycemia
+A96	LLT-ID E37 10021005
+A97	CUI E38 C0001339
+A98	UMLS-Preferred-Name E38 Acute pancreatitis
+A99	MEDDRA-PT E38 Pancreatitis acute
+A100	MEDDRA-PT-ID E38 10033647
+A101	LLT E38 Acute pancreatitis
+A102	LLT-ID E38 10000971
+A103	CUI E39 C0020517
+A104	UMLS-Preferred-Name E39 Hypersensitivity
+A105	MEDDRA-PT E39 Hypersensitivity
+A106	MEDDRA-PT-ID E39 10020751
+A107	CUI E40 C0235378
+A108	UMLS-Preferred-Name E40 Hepatotoxicity
+A109	MEDDRA-PT E40 Hepatotoxicity
+A110	MEDDRA-PT-ID E40 10019851
+A111	LLT E40 Hepatotoxic effect
+A112	LLT-ID E40 10019850
+A113	CUI E41 C0003862
+A114	UMLS-Preferred-Name E41 Arthralgia
+A115	MEDDRA-PT E41 Arthralgia
+A116	MEDDRA-PT-ID E41 10003239

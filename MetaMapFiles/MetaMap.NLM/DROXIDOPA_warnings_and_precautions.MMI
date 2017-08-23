@@ -1,0 +1,38 @@
+00000000|AA|NMS|neuroleptic malignant syndrome|1|3|5|30|998:3
+00000000|MMI|50.17|Coronary Arteriosclerosis|C0010054|[dsyn]|["ischaemic heart disease"-tx-11-"Ischemic Heart Disease"-noun-0,"ischaemic heart disease"-tx-11-"ischemic heart disease"-noun-0,"ischaemic heart disease"-tx-2-"ischemic heart disease"-noun-0]|TX|1567/22;1671/22;279/22|C14.280.647.250.260;C14.907.137.126.339;C14.907.585.250.260
+00000000|MMI|35.02|Cardiac Arrhythmia|C0003811|[fndg]|["Arrhythmias"-tx-11-"Arrhythmias"-noun-0,"Arrhythmias"-tx-11-"arrhythmias"-noun-0,"Arrhythmias"-tx-2-"arrhythmias"-noun-0]|TX|1591/11;1695/11;303/11|C14.280.067;C23.550.073
+00000000|MMI|32.63|Neuroleptic Malignant Syndrome|C0027849|[dsyn]|["NEUROLEPTIC MALIGNANT SYNDROME"-tx-9-"NMS"-noun-0,"NEUROLEPTIC MALIGNANT SYNDROME"-tx-7-"neuroleptic malignant syndrome"-noun-0]|TX|1275/3;966/30|C10.228.140.079.737;C10.720.737;C25.723.705.600
+00000000|MMI|32.61|Confusion|C0009676|[mobd]|["confusion (symptom)"-tx-7-"Confusion symptom"-noun-0,"CONFUSION"-tx-2-"confusion"-noun-0]|TX|898/9,939/7;204/9|C10.597.606.337;C23.888.592.604.339;F01.700.250
+00000000|MMI|30.94|Myocardial Ischemia|C0151744|[dsyn]|["Ischaemic heart disease"-tx-11-"Ischemic Heart Disease"-noun-0,"Ischaemic heart disease"-tx-11-"ischemic heart disease"-noun-0,"Ischaemic heart disease"-tx-2-"ischemic heart disease"-noun-0]|TX|1567/22;1671/22;279/22|C14.280.647;C14.907.585
+00000000|MMI|28.33|Hypersensitivity|C0020517|[patf]|["Sensitivity"-tx-16-"sensitivity"-noun-0,"Allergic reactions"-tx-14-"allergic reactions"-noun-0,"Allergic reactions"-tx-13-"Allergic Reactions"-noun-0,"Allergic reactions"-tx-2-"Allergic reactions"-noun-0]|TX|2117/11;1967/8,1981/9;1874/18;360/18|C20.543
+00000000|MMI|26.56|Fever|C0015967|[fndg]|["FEVER"-tx-9-"fever"-noun-0,"HYPERTHERMIA"-tx-9-"hyperthermia"-noun-0]|TX|1341/5;1350/12|C23.888.119.344
+00000000|MMI|24.47|Supine hypertension|C4076686|[dsyn]|["Supine hypertension"-tx-6-"supine hypertension"-noun-0,"Supine hypertension"-tx-5-"supine hypertension"-noun-0,"Supine hypertension"-tx-2-"Supine Hypertension"-noun-0,"Supine hypertension"-tx-2-"supine hypertension"-noun-0,"Supine hypertension"-tx-1-"supine hypertension"-noun-0]|TX|772/19;739/19;405/19;471/19;[71/19],[131/19]|
+00000000|MMI|21.23|Allergic Reaction|C1527304|[patf]|["Reactions, Allergic"-tx-14-"allergic reactions"-noun-0,"Reactions, Allergic"-tx-13-"Allergic Reactions"-noun-0,"Reactions, Allergic"-tx-2-"Allergic reactions"-noun-0]|TX|1967/8,1981/9;1874/18;360/18|C20.543
+00000000|MMI|20.95|Muscle Rigidity|C0026837|[sosy]|["MUSCLE RIGIDITY"-tx-9-"muscle rigidity"-noun-0]|TX|1364/15|C05.651.504;C10.597.613.550.500;C23.888.592.608.550.500
+00000000|MMI|19.88|Disease|C0012634|[dsyn]|["condition"-tx-12-"conditions"-noun-0,"condition"-tx-10-"condition"-noun-0]|TX|1851/10;1483/9|C23.550.288
+00000000|MMI|17.80|Asthma|C0004096|[dsyn]|["ASTHMA, BRONCHIAL"-tx-14-"bronchial asthma"-noun-0]|TX|2002/16|C08.127.108;C08.381.495.108;C08.674.095;C20.543.480.680.095
+00000000|MMI|15.79|Symptom aggravating factors|C0436331|[fndg]|["exacerbate"-tx-11-"exacerbate"-verb-0,"exacerbate"-tx-2-"exacerbate"-verb-0]|TX|1651/10;[233/10],[460/10]|
+00000000|MMI|14.64|Involuntary Movements|C0427086|[sosy]|["Involuntary Movements"-tx-9-"involuntary movements"-noun-0]|TX|1381/21|C10.228.662.262;C10.597.350;C23.888.592.350
+00000000|MMI|13.09|Syndrome|C0039082|[dsyn]|["Syndrome"-tx-9-"syndrome"-noun-0]|TX|1315/8|C23.550.288.500
+00000000|MMI|11.72|Family history of ischemic heart disease|C1313980|[fndg]|["ischemic heart disease"-tx-11-"Ischemic Heart Disease"-noun-0,"ischemic heart disease"-tx-11-"ischemic heart disease"-noun-0,"ischemic heart disease"-tx-2-"ischemic heart disease"-noun-0]|TX|1567/22;1671/22;279/22|
+00000000|MMI|11.57|Congestive heart failure|C0018802|[dsyn]|["CONGESTIVE HEART FAILURE"-tx-11-"Congestive Heart Failure"-noun-0,"CONGESTIVE HEART FAILURE"-tx-11-"congestive heart failure"-noun-0,"CONGESTIVE HEART FAILURE"-tx-2-"congestive heart failure"-noun-0]|TX|1608/24;1712/24;320/24|
+00000000|MMI|7.70|Discontinued|C1444662|[fndg]|["Discontinued"-tx-8-"discontinued"-adj-0,"Discontinue"-tx-5-"discontinue"-verb-0]|TX|1204/12;715/11|
+00000000|MMI|7.61|Hyperpyrexia|C0392676|[patf]|["HYPERPYREXIA"-tx-7-"Hyperpyrexia"-noun-0,"HYPERPYREXIA"-tx-2-"Hyperpyrexia"-noun-0]|TX|881/12;187/12|
+00000000|MMI|7.44|Asleep|C0424522|[fndg]|["Sleeping"-tx-4-"sleeping"-adj-0,"Sleeping"-tx-3-"sleeping"-noun-0]|TX|686/8;587/8|
+00000000|MMI|7.24|Not well|C3841798|[fndg]|["Not well"-tx-6-"not well"-adj-0,"Not well"-tx-1-"not well"-adj-0]|TX|795/8;154/8|
+00000000|MMI|7.19|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-12-"therapy"-noun-0,"Therapy"-tx-2-"therapy"-noun-0]|TX|1820/7;439/7|
+00000000|MMI|5.18|ASTHMA, SUSCEPTIBILITY TO (finding)|C1869116|[fndg]|["ASTHMA, BRONCHIAL"-tx-14-"bronchial asthma"-noun-0]|TX|2002/16|
+00000000|MMI|5.18|Aspirin allergy|C0004058|[patf]|["Aspirin Hypersensitivity"-tx-16-"aspirin hypersensitivity"-noun-0]|TX|2211/24|
+00000000|MMI|5.18|Clouded consciousness|C0683369|[sosy]|["Confusion"-tx-2-"confusion"-noun-0]|TX|204/9|
+00000000|MMI|5.18|Confusion Adverse Event|C1963086|[fndg]|["Confusion"-tx-2-"confusion"-noun-0]|TX|204/9|
+00000000|MMI|5.18|Disturbance of consciousness|C0234428|[sosy]|["Altered consciousness"-tx-9-"altered consciousness"-noun-0]|TX|1404/21|
+00000000|MMI|5.18|Mental status changes|C0856054|[mobd]|["Mental status changes"-tx-9-"mental status changes"-noun-0]|TX|1431/21|
+00000000|MMI|3.68|consideration|C0518609|[fndg]|["CONSIDERATION"-tx-12-"consideration"-noun-0]|TX|1747/13|
+00000000|MMI|3.68|patient symptoms|C1317600|[fndg]|["patients symptoms"-tx-2-"symptoms patients"-noun-0]|TX|244/8,256/8|
+00000000|MMI|3.63|Cardiovascular event risk|C1273410|[fndg]|["Cardiovascular event risk"-tx-6-"risk cardiovascular events"-noun-1]|TX|839/4,847/21|
+00000000|MMI|3.59|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-9-"fever"-noun-0]|TX|1341/5|
+00000000|MMI|3.56|Antimicrobial susceptibility|C0427965|[fndg]|["Sensitivity"-tx-16-"sensitivity"-noun-0]|TX|2117/11|
+00000000|MMI|3.55|Diagnosis|C0011900|[fndg]|["DIAGNOSIS"-tx-10-"diagnosis"-noun-0]|TX|1465/9|E01
+00000000|MMI|3.53|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-9-"life-threatening"-adj-0]|TX|1298/16|
+00000000|MMI|3.53|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-9-"life-threatening"-adj-0]|TX|1298/16|
+00000000|MMI|3.53|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-9-"life-threatening"-adj-0]|TX|1298/16|

@@ -1,0 +1,545 @@
+T1	AdverseReaction 112 123	anaphylaxis
+T2	Severity 95 111	Life-threatening
+T3	AdverseReaction 128 154	hypersensitivity reactions
+T4	AdverseReaction 779 810	acute cardiorespiratory failure
+T5	Factor 761 764	may
+T6	AdverseReaction 1363 1374	Anaphylaxis
+T7	AdverseReaction 1379 1405	hypersensitivity reactions
+T8	AdverseReaction 1554 1572	anaphylactic shock
+T9	AdverseReaction 1574 1588	cardiac arrest
+T10	AdverseReaction 1590 1608	respiratory arrest
+T11	AdverseReaction 1610 1630	respiratory distress
+T12	AdverseReaction 1632 1639	hypoxia
+T13	AdverseReaction 1641 1646	apnea
+T14	AdverseReaction 1648 1655	dyspnea
+T15	AdverseReaction 1657 1668	bradycardia
+T16	AdverseReaction 1670 1681	tachycardia
+T17	AdverseReaction 1683 1695	bronchospasm
+T18	AdverseReaction 1697 1713	throat tightness
+T19	AdverseReaction 1715 1726	hypotension
+T20	AdverseReaction 1728 1738	angioedema
+T21	AdverseReaction 1750 1756;1764 1772	tongue swelling
+T22	AdverseReaction 1760 1772	lip swelling
+T23	AdverseReaction 1774 1791	periorbital edema
+T24	AdverseReaction 1797 1807	face edema
+T25	AdverseReaction 1814 1823	urticaria
+T26	Severity 1524 1540	life-threatening
+T27	AdverseReaction 1750 1756;1764 1772	tongue swelling
+T28	AdverseReaction 1863 1879	chest discomfort
+T29	AdverseReaction 1863 1868;1880 1884	chest pain
+T30	AdverseReaction 1886 1894	wheezing
+T31	AdverseReaction 1896 1905	tachypnea
+T32	AdverseReaction 1907 1915	cyanosis
+T33	AdverseReaction 1917 1944	decreased oxygen saturation
+T34	AdverseReaction 1946 1957	convulsions
+T35	AdverseReaction 1959 1967	pruritus
+T36	AdverseReaction 1969 1973	rash
+T37	AdverseReaction 1975 1988	hyperhidrosis
+T38	AdverseReaction 1990 1996	nausea
+T39	AdverseReaction 1998 2007	dizziness
+T40	AdverseReaction 2009 2021	hypertension
+T41	AdverseReaction 2022 2046	increased blood pressure
+T42	AdverseReaction 2048 2056	flushing
+T43	AdverseReaction 2057 2068	feeling hot
+T44	AdverseReaction 2070 2078	erythema
+T45	AdverseReaction 2080 2087	pyrexia
+T46	AdverseReaction 2089 2095	pallor
+T47	AdverseReaction 2097 2116	peripheral coldness
+T48	AdverseReaction 2118 2130	restlessness
+T49	AdverseReaction 2132 2143	nervousness
+T50	AdverseReaction 2145 2153	headache
+T51	AdverseReaction 2155 2164	back pain
+T52	AdverseReaction 2170 2181	paresthesia
+T53	AdverseReaction 3264 3299	Immune-mediated cutaneous reactions
+T54	AdverseReaction 3353 3377	necrotizing skin lesions
+T55	AdverseReaction 3411 3445	Systemic immune-mediated reactions
+T56	AdverseReaction 3466 3500	type III immune-mediated reactions
+T57	Factor 3457 3465	possible
+T58	AdverseReaction 3685 3720	deposition of anti-rhGAA antibodies
+T59	AdverseReaction 3769 3793	inflammatory arthropathy
+T60	Severity 3762 3768	severe
+T61	AdverseReaction 3814 3821	pyrexia
+T62	AdverseReaction 3826 3865	elevated erythrocyte sedimentation rate
+T63	AdverseReaction 3867 3885	Nephrotic syndrome
+T64	AdverseReaction 3899 3928	membranous glomerulonephritis
+T65	AdverseReaction 4119 4144	immune complex deposition
+T66	AdverseReaction 4026 4065	positive anti-rhGAA IgG antibody titers
+T67	AdverseReaction 5058 5073;5091 5113	exacerbation of respiratory compromise
+T68	AdverseReaction 5058 5073;5080 5087;5103 5113	exacerbation of cardiac compromise
+T69	Severity 5050 5057	serious
+T70	Factor 5032 5035	may
+T71	AdverseReaction 5371 5402	Acute cardiorespiratory failure
+T72	AdverseReaction 5525 5539	fluid overload
+T73	AdverseReaction 5983 6006	Ventricular arrhythmias
+T74	AdverseReaction 6011 6022	bradycardia
+T75	AdverseReaction 6037 6051	cardiac arrest
+T76	AdverseReaction 6055 6060	death
+T77	AdverseReaction 6700 6722	loss of motor function
+T79	AdverseReaction 6750 6755	death
+T80	Factor 6618 6621	may
+T78	AdverseReaction 1037 1055	Cardiac Arrhythmia
+T82	AdverseReaction 1060 1080	Sudden Cardiac Death
+T83	Factor 1029 1033	Risk
+T84	AdverseReaction 51 62	Anaphylaxis
+T85	AdverseReaction 67 93	Hypersensitivity Reactions
+T86	AdverseReaction 515 540	Immune-Mediated Reactions
+T87	AdverseReaction 670 701	Acute Cardiorespiratory Failure
+T88	Factor 662 666	Risk
+T89	AdverseReaction 6633 6658	reduced clinical efficacy
+E1	AdverseReaction:T1 Effect:E2
+E2	Severity:T2
+E3	AdverseReaction:T3 Effect:E2
+E4	AdverseReaction:T4 Hypothetical:E5
+E5	Factor:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	Severity:T26
+E27	AdverseReaction:T8 Effect:E26
+E28	AdverseReaction:T9 Effect:E26
+E29	AdverseReaction:T10 Effect:E26
+E30	AdverseReaction:T11 Effect:E26
+E31	AdverseReaction:T12 Effect:E26
+E32	AdverseReaction:T13 Effect:E26
+E33	AdverseReaction:T14 Effect:E26
+E34	AdverseReaction:T15 Effect:E26
+E35	AdverseReaction:T16 Effect:E26
+E36	AdverseReaction:T17 Effect:E26
+E37	AdverseReaction:T18 Effect:E26
+E38	AdverseReaction:T19 Effect:E26
+E39	AdverseReaction:T20 Effect:E26
+E40	AdverseReaction:T27 Effect:E26
+E41	AdverseReaction:T22 Effect:E26
+E42	AdverseReaction:T23 Effect:E26
+E43	AdverseReaction:T24 Effect:E26
+E44	AdverseReaction:T25 Effect:E26
+E45	AdverseReaction:T28
+E46	AdverseReaction:T29
+E47	AdverseReaction:T30
+E48	AdverseReaction:T31
+E49	AdverseReaction:T32
+E50	AdverseReaction:T33
+E51	AdverseReaction:T34
+E52	AdverseReaction:T35
+E53	AdverseReaction:T36
+E54	AdverseReaction:T37
+E55	AdverseReaction:T38
+E56	AdverseReaction:T39
+E57	AdverseReaction:T40
+E58	AdverseReaction:T41
+E59	AdverseReaction:T42
+E60	AdverseReaction:T43
+E61	AdverseReaction:T44
+E62	AdverseReaction:T45
+E63	AdverseReaction:T46
+E64	AdverseReaction:T47
+E65	AdverseReaction:T48
+E66	AdverseReaction:T49
+E67	AdverseReaction:T50
+E68	AdverseReaction:T51
+E69	AdverseReaction:T52
+E70	AdverseReaction:T53
+E71	AdverseReaction:T54
+E72	AdverseReaction:T55
+E73	AdverseReaction:T56 Hypothetical:E74
+E74	Factor:T57
+E75	AdverseReaction:T58
+E76	AdverseReaction:T59 Effect:E77
+E77	Severity:T60
+E78	AdverseReaction:T61
+E79	AdverseReaction:T62
+E80	AdverseReaction:T63
+E81	AdverseReaction:T64
+E82	AdverseReaction:T65
+E83	AdverseReaction:T66
+E84	AdverseReaction:T67 Effect:E86 Hypothetical:E87
+E85	AdverseReaction:T68 Effect:E86 Hypothetical:E87
+E86	Severity:T69
+E87	Factor:T70
+E88	AdverseReaction:T71
+E89	AdverseReaction:T72
+E90	AdverseReaction:T73
+E91	AdverseReaction:T74
+E92	AdverseReaction:T75
+E93	AdverseReaction:T76
+E94	AdverseReaction:T77 Hypothetical:E97
+E96	AdverseReaction:T79 Hypothetical:E97
+E97	Factor:T80
+E95	AdverseReaction:T78 Hypothetical:E100
+E99	AdverseReaction:T82 Hypothetical:E100
+E100	Factor:T83
+E101	AdverseReaction:T84
+E102	AdverseReaction:T85
+E103	AdverseReaction:T86
+E104	AdverseReaction:T87 Hypothetical:E105
+E105	Factor:T88
+E106	AdverseReaction:T89 Hypothetical:E97
+A1	CUI E1 C0002792
+A2	UMLS-Preferred-Name E1 anaphylaxis
+A3	MEDDRA-PT E1 Anaphylactic reaction
+A4	MEDDRA-PT-ID E1 10002198
+A5	LLT E1 Anaphylaxis
+A6	LLT-ID E1 10002218
+A7	CUI E3 C0020517
+A8	UMLS-Preferred-Name E3 Hypersensitivity
+A9	MEDDRA-PT E3 Hypersensitivity
+A10	MEDDRA-PT-ID E3 10020751
+A11	LLT E3 Hypersensitivity reaction
+A12	LLT-ID E3 10020756
+A13	CUI E4 C1444565
+A14	UMLS-Preferred-Name E4 Cardiorespiratory failure
+A15	MEDDRA-PT E4 Cardiopulmonary failure
+A16	MEDDRA-PT-ID E4 10051093
+A17	LLT E4 Cardio-respiratory failure
+A18	LLT-ID E4 10049125
+A19	CUI E6 C0002792
+A20	UMLS-Preferred-Name E6 anaphylaxis
+A21	MEDDRA-PT E6 Anaphylactic reaction
+A22	MEDDRA-PT-ID E6 10002198
+A23	LLT E6 Anaphylaxis
+A24	LLT-ID E6 10002218
+A25	CUI E7 C0020517
+A26	UMLS-Preferred-Name E7 Hypersensitivity
+A27	MEDDRA-PT E7 Hypersensitivity
+A28	MEDDRA-PT-ID E7 10020751
+A29	LLT E7 Hypersensitivity reaction
+A30	LLT-ID E7 10020756
+A31	CUI E8 C0002792
+A32	UMLS-Preferred-Name E8 anaphylaxis
+A33	MEDDRA-PT E8 Anaphylactic shock
+A34	MEDDRA-PT-ID E8 10002199
+A35	CUI E9 C0018790
+A36	UMLS-Preferred-Name E9 Cardiac Arrest
+A37	MEDDRA-PT E9 Cardiac arrest
+A38	MEDDRA-PT-ID E9 10007515
+A39	CUI E10 C0162297
+A40	UMLS-Preferred-Name E10 Respiratory arrest
+A41	MEDDRA-PT E10 Respiratory arrest
+A42	MEDDRA-PT-ID E10 10038669
+A43	CUI E11 C0476273
+A44	UMLS-Preferred-Name E11 Respiratory distress
+A45	MEDDRA-PT E11 Respiratory distress
+A46	MEDDRA-PT-ID E11 10038687
+A47	CUI E12 C0242184
+A48	UMLS-Preferred-Name E12 Hypoxia
+A49	MEDDRA-PT E12 Hypoxia
+A50	MEDDRA-PT-ID E12 10021143
+A51	CUI E13 C0003578
+A52	UMLS-Preferred-Name E13 Apnea
+A53	MEDDRA-PT E13 Apnoea
+A54	MEDDRA-PT-ID E13 10002974
+A55	LLT E13 Apnea
+A56	LLT-ID E13 10002972
+A57	CUI E14 C0013404
+A58	UMLS-Preferred-Name E14 Dyspnea
+A59	MEDDRA-PT E14 Dyspnoea
+A60	MEDDRA-PT-ID E14 10013968
+A61	LLT E14 Dyspnea
+A62	LLT-ID E14 10013963
+A63	CUI E15 C0428977
+A64	UMLS-Preferred-Name E15 Bradycardia
+A65	MEDDRA-PT E15 Bradycardia
+A66	MEDDRA-PT-ID E15 10006093
+A67	CUI E16 C0039231
+A68	UMLS-Preferred-Name E16 Tachycardia
+A69	MEDDRA-PT E16 Tachycardia
+A70	MEDDRA-PT-ID E16 10043071
+A71	CUI E17 C0006266
+A72	UMLS-Preferred-Name E17 Bronchial Spasm
+A73	MEDDRA-PT E17 Bronchospasm
+A74	MEDDRA-PT-ID E17 10006482
+A75	CUI E18 C0236071
+A76	UMLS-Preferred-Name E18 Feeling of throat tightness
+A77	MEDDRA-PT E18 Throat tightness
+A78	MEDDRA-PT-ID E18 10043528
+A79	CUI E19 C0020649
+A80	UMLS-Preferred-Name E19 Hypotension
+A81	MEDDRA-PT E19 Hypotension
+A82	MEDDRA-PT-ID E19 10021097
+A83	CUI E20 C0002994
+A84	UMLS-Preferred-Name E20 Angioedema
+A85	MEDDRA-PT E20 Angioedema
+A86	MEDDRA-PT-ID E20 10002424
+A87	CUI E21 C0236068
+A88	UMLS-Preferred-Name E21 Tongue swelling
+A89	MEDDRA-PT E21 Swollen tongue
+A90	MEDDRA-PT-ID E21 10042727
+A91	LLT E21 Tongue swelling non-specific
+A92	LLT-ID E21 10043984
+A93	CUI E22 C0240211
+A94	UMLS-Preferred-Name E22 Lip swelling
+A95	MEDDRA-PT E22 Lip swelling
+A96	MEDDRA-PT-ID E22 10024570
+A97	CUI E23 C0151205
+A98	UMLS-Preferred-Name E23 Periorbital edema
+A99	MEDDRA-PT E23 Periorbital oedema
+A100	MEDDRA-PT-ID E23 10034545
+A101	LLT E23 Periorbital edema
+A102	LLT-ID E23 10054541
+A103	CUI E24 C0542571
+A104	UMLS-Preferred-Name E24 Facial edema
+A105	MEDDRA-PT E24 Face oedema
+A106	MEDDRA-PT-ID E24 10016029
+A107	LLT E24 Face edema
+A108	LLT-ID E24 10016025
+A109	CUI E25 C0042109
+A110	UMLS-Preferred-Name E25 Urticaria
+A111	MEDDRA-PT E25 Urticaria
+A112	MEDDRA-PT-ID E25 10046735
+A113	CUI E40 C0236068
+A114	UMLS-Preferred-Name E40 Tongue swelling
+A115	MEDDRA-PT E40 Swollen tongue
+A116	MEDDRA-PT-ID E40 10042727
+A117	LLT E40 Tongue swelling non-specific
+A118	LLT-ID E40 10043984
+A119	CUI E45 C0235710
+A120	UMLS-Preferred-Name E45 Chest discomfort
+A121	MEDDRA-PT E45 Chest discomfort
+A122	MEDDRA-PT-ID E45 10008469
+A123	CUI E46 C0008031
+A124	UMLS-Preferred-Name E46 Chest Pain
+A125	MEDDRA-PT E46 Chest pain
+A126	MEDDRA-PT-ID E46 10008479
+A127	CUI E47 C0043144
+A128	UMLS-Preferred-Name E47 Wheezing
+A129	MEDDRA-PT E47 Wheezing
+A130	MEDDRA-PT-ID E47 10047924
+A131	CUI E48 C0231835
+A132	UMLS-Preferred-Name E48 Tachypnea
+A133	MEDDRA-PT E48 Tachypnoea
+A134	MEDDRA-PT-ID E48 10043089
+A135	LLT E48 Tachypnea
+A136	LLT-ID E48 10043088
+A137	CUI E49 C0010520
+A138	UMLS-Preferred-Name E49 Cyanosis
+A139	MEDDRA-PT E49 Cyanosis
+A140	MEDDRA-PT-ID E49 10011703
+A141	CUI E50 C0746961
+A142	UMLS-Preferred-Name E50 Oxygen saturation below reference range
+A143	MEDDRA-PT E50 Oxygen saturation decreased
+A144	MEDDRA-PT-ID E50 10033318
+A145	CUI E51 C0036572
+A146	UMLS-Preferred-Name E51 Seizures
+A147	MEDDRA-PT E51 Seizure
+A148	MEDDRA-PT-ID E51 10039906
+A149	LLT E51 Convulsions
+A150	LLT-ID E51 10010914
+A151	CUI E52 C0033774
+A152	UMLS-Preferred-Name E52 Pruritus
+A153	MEDDRA-PT E52 Pruritus
+A154	MEDDRA-PT-ID E52 10037087
+A155	CUI E53 C0015230
+A156	UMLS-Preferred-Name E53 Exanthema
+A157	MEDDRA-PT E53 Rash
+A158	MEDDRA-PT-ID E53 10037844
+A159	CUI E54 C0020458
+A160	UMLS-Preferred-Name E54 Hyperhidrosis disorder
+A161	MEDDRA-PT E54 Hyperhidrosis
+A162	MEDDRA-PT-ID E54 10020642
+A163	CUI E55 C0027497
+A164	UMLS-Preferred-Name E55 Nausea
+A165	MEDDRA-PT E55 Nausea
+A166	MEDDRA-PT-ID E55 10028813
+A167	CUI E56 C0012833
+A168	UMLS-Preferred-Name E56 Dizziness
+A169	MEDDRA-PT E56 Dizziness
+A170	MEDDRA-PT-ID E56 10013573
+A171	CUI E57 C0020538
+A172	UMLS-Preferred-Name E57 Hypertensive disease
+A173	MEDDRA-PT E57 Hypertension
+A174	MEDDRA-PT-ID E57 10020772
+A175	CUI E58 C0497247
+A176	UMLS-Preferred-Name E58 Increase in blood pressure
+A177	MEDDRA-PT E58 Blood pressure increased
+A178	MEDDRA-PT-ID E58 10005750
+A179	LLT E58 Increased blood pressure
+A180	LLT-ID E58 10021655
+A181	CUI E59 C0016382
+A182	UMLS-Preferred-Name E59 Flushing
+A183	MEDDRA-PT E59 Flushing
+A184	MEDDRA-PT-ID E59 10016825
+A185	CUI E60 C2939147
+A186	UMLS-Preferred-Name E60 Feels hot
+A187	MEDDRA-PT E60 Feeling hot
+A188	MEDDRA-PT-ID E60 10016334
+A189	CUI E61 C0041834
+A190	UMLS-Preferred-Name E61 Erythema
+A191	MEDDRA-PT E61 Erythema
+A192	MEDDRA-PT-ID E61 10015150
+A193	CUI E62 C0015967
+A194	UMLS-Preferred-Name E62 Fever
+A195	MEDDRA-PT E62 Pyrexia
+A196	MEDDRA-PT-ID E62 10037660
+A197	CUI E63 C0030232
+A198	UMLS-Preferred-Name E63 Pallor
+A199	MEDDRA-PT E63 Pallor
+A200	MEDDRA-PT-ID E63 10033546
+A201	CUI E64 C0277925
+A202	UMLS-Preferred-Name E64 Cold extremities
+A203	MEDDRA-PT E64 Peripheral coldness
+A204	MEDDRA-PT-ID E64 10034568
+A205	CUI E65 C3887611
+A206	UMLS-Preferred-Name E65 Restlessness
+A207	MEDDRA-PT E65 Restlessness
+A208	MEDDRA-PT-ID E65 10038743
+A209	CUI E66 C0027769
+A210	UMLS-Preferred-Name E66 Nervousness
+A211	MEDDRA-PT E66 Nervousness
+A212	MEDDRA-PT-ID E66 10029216
+A213	CUI E67 C0018681
+A214	UMLS-Preferred-Name E67 Headache
+A215	MEDDRA-PT E67 Headache
+A216	MEDDRA-PT-ID E67 10019211
+A217	CUI E68 C0004604
+A218	UMLS-Preferred-Name E68 Back Pain
+A219	MEDDRA-PT E68 Back pain
+A220	MEDDRA-PT-ID E68 10003988
+A221	CUI E69 C0030554
+A222	UMLS-Preferred-Name E69 Paresthesia
+A223	MEDDRA-PT E69 Paraesthesia
+A224	MEDDRA-PT-ID E69 10033775
+A225	LLT E69 Paresthesia
+A226	LLT-ID E69 10033987
+A227	CUI E70 C0863090
+A228	UMLS-Preferred-Name E70 Allergic skin reaction
+A229	MEDDRA-PT E70 Dermatitis allergic
+A230	MEDDRA-PT-ID E70 10012434
+A231	LLT E70 Allergic skin reaction
+A232	LLT-ID E70 10001729
+A233	CUI E71 C0151799
+A234	UMLS-Preferred-Name E71 Skin necrosis
+A235	MEDDRA-PT E71 Skin necrosis
+A236	MEDDRA-PT-ID E71 10040893
+A237	CUI E72 C1736167
+A238	UMLS-Preferred-Name E72 Systemic allergic reaction
+A239	MEDDRA-PT E72 Hypersensitivity
+A240	MEDDRA-PT-ID E72 10020751
+A241	LLT E72 Systemic allergic reaction
+A242	LLT-ID E72 10066472
+A243	CUI E73 C1096071
+A244	UMLS-Preferred-Name E73 Type III immune complex mediated reaction
+A245	MEDDRA-PT E73 Type III immune complex mediated reaction
+A246	MEDDRA-PT-ID E73 10053614
+A247	flag E75 unmapped
+A248	flag E76 underspecified
+A249	CUI E76 C0022408
+A250	UMLS-Preferred-Name E76 Arthropathy
+A251	MEDDRA-PT E76 Arthropathy
+A252	MEDDRA-PT-ID E76 10003285
+A253	CUI E78 C0015967
+A254	UMLS-Preferred-Name E78 Fever
+A255	MEDDRA-PT E78 Pyrexia
+A256	MEDDRA-PT-ID E78 10037660
+A257	CUI E79 C0151632
+A258	UMLS-Preferred-Name E79 ESR raised
+A259	MEDDRA-PT E79 Red blood cell sedimentation rate increased
+A260	MEDDRA-PT-ID E79 10049187
+A261	LLT E79 Erythrocyte sedimentation increased
+A262	LLT-ID E79 10015257
+A263	CUI E80 C0027726
+A264	UMLS-Preferred-Name E80 Nephrotic Syndrome
+A265	MEDDRA-PT E80 Nephrotic syndrome
+A266	MEDDRA-PT-ID E80 10029164
+A267	CUI E81 C0017665
+A268	UMLS-Preferred-Name E81 Membranous glomerulonephritis
+A269	MEDDRA-PT E81 Glomerulonephritis membranous
+A270	MEDDRA-PT-ID E81 10018372
+A271	flag E82 unmapped
+A272	flag E83 unmapped
+A273	CUI E84 C2363912
+A274	UMLS-Preferred-Name E84 Respiratory failure aggravated
+A275	MEDDRA-PT E84 Respiratory failure
+A276	MEDDRA-PT-ID E84 10038695
+A277	LLT E84 Respiratory failure aggravated
+A278	LLT-ID E84 10068615
+A279	CUI E85 C0018799
+A280	UMLS-Preferred-Name E85 Heart Diseases
+A281	MEDDRA-PT E85 Cardiac disorder
+A282	MEDDRA-PT-ID E85 10061024
+A283	CUI E88 C1444565
+A284	UMLS-Preferred-Name E88 Cardiorespiratory failure
+A285	MEDDRA-PT E88 Cardiopulmonary failure
+A286	MEDDRA-PT-ID E88 10051093
+A287	LLT E88 Cardio-respiratory failure
+A288	LLT-ID E88 10049125
+A289	CUI E89 C0546817
+A290	UMLS-Preferred-Name E89 Fluid overload
+A291	MEDDRA-PT E89 Fluid overload
+A292	MEDDRA-PT-ID E89 10016803
+A293	CUI E90 C0085612
+A294	UMLS-Preferred-Name E90 Ventricular arrhythmia
+A295	MEDDRA-PT E90 Ventricular arrhythmia
+A296	MEDDRA-PT-ID E90 10047281
+A297	CUI E91 C0428977
+A298	UMLS-Preferred-Name E91 Bradycardia
+A299	MEDDRA-PT E91 Bradycardia
+A300	MEDDRA-PT-ID E91 10006093
+A301	CUI E92 C0018790
+A302	UMLS-Preferred-Name E92 Cardiac Arrest
+A303	MEDDRA-PT E92 Cardiac arrest
+A304	MEDDRA-PT-ID E92 10007515
+A305	CUI E93 C1306577
+A306	UMLS-Preferred-Name E93 Death (finding)
+A307	MEDDRA-PT E93 Death
+A308	MEDDRA-PT-ID E93 10011906
+A309	CUI E94 C1864672
+A310	UMLS-Preferred-Name E94 Loss of motor functions
+A311	MEDDRA-PT E94 Motor dysfunction
+A312	MEDDRA-PT-ID E94 10061296
+A313	CUI E96 C1306577
+A314	UMLS-Preferred-Name E96 Death (finding)
+A315	MEDDRA-PT E96 Death
+A316	MEDDRA-PT-ID E96 10011906
+A317	CUI E95 C0003811
+A318	UMLS-Preferred-Name E95 Cardiac Arrhythmia
+A319	MEDDRA-PT E95 Arrhythmia
+A320	MEDDRA-PT-ID E95 10003119
+A321	LLT E95 Cardiac arrhythmia
+A322	LLT-ID E95 10007518
+A323	CUI E99 C0085298
+A324	UMLS-Preferred-Name E99 Sudden Cardiac Death
+A325	MEDDRA-PT E99 Sudden cardiac death
+A326	MEDDRA-PT-ID E99 10049418
+A327	CUI E101 C0002792
+A328	UMLS-Preferred-Name E101 anaphylaxis
+A329	MEDDRA-PT E101 Anaphylactic reaction
+A330	MEDDRA-PT-ID E101 10002198
+A331	LLT E101 Anaphylaxis
+A332	LLT-ID E101 10002218
+A333	CUI E102 C0020517
+A334	UMLS-Preferred-Name E102 Hypersensitivity
+A335	MEDDRA-PT E102 Hypersensitivity
+A336	MEDDRA-PT-ID E102 10020751
+A337	LLT E102 Hypersensitivity reaction
+A338	LLT-ID E102 10020756
+A339	CUI E103 C0020517
+A340	UMLS-Preferred-Name E103 Hypersensitivity
+A341	MEDDRA-PT E103 Hypersensitivity
+A342	MEDDRA-PT-ID E103 10020751
+A343	CUI E104 C1444565
+A344	UMLS-Preferred-Name E104 Cardiorespiratory failure
+A345	MEDDRA-PT E104 Cardiopulmonary failure
+A346	MEDDRA-PT-ID E104 10051093
+A347	LLT E104 Cardio-respiratory failure
+A348	LLT-ID E104 10049125
+A349	CUI E106 C0521845
+A350	UMLS-Preferred-Name E106 Drug action decreased
+A351	MEDDRA-PT E106 Drug effect decreased
+A352	MEDDRA-PT-ID E106 10013678

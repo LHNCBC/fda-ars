@@ -1,0 +1,23 @@
+#!/usr/bin/perl -w
+
+use strict;
+
+my @SelectedFiles;
+my $MAX_PROCESSES;
+my $PROC_NUM;
+my $FILEBASE;
+
+# Get the first three arguments
+$MAX_PROCESSES = shift @ARGV;
+$PROC_NUM     = shift @ARGV;
+my @ALLFILES   = @ARGV;
+
+# printf "MP = %d\nRM = %d\n", $MAX_PROCESSES, $PROC_NUM;
+my $FileNum = 0;
+foreach my $File ( @ALLFILES ) {
+   ++$FileNum;
+   my $REMAINDER = ( $PROC_NUM == $MAX_PROCESSES ) ? 0 : $PROC_NUM;
+   push @SelectedFiles, $File if $FileNum % $MAX_PROCESSES == $REMAINDER;
+} # foreach $File ( @AllFiles )
+
+print "@SelectedFiles\n\n";

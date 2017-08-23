@@ -1,0 +1,504 @@
+T1	Factor 133 137	Risk
+T2	AdverseReaction 141 162	Thyroid C-cell Tumors
+T3	AdverseReaction 208 226	Acute Pancreatitis
+T4	AdverseReaction 272 284	Hypoglycemia
+T5	AdverseReaction 387 413	Hypersensitivity Reactions
+T6	AdverseReaction 459 475	Renal Impairment
+T7	AdverseReaction 655 688	upper respiratory tract infection
+T8	AdverseReaction 690 698	diarrhea
+T9	AdverseReaction 700 706	nausea
+T10	AdverseReaction 708 731	injection site reaction
+T11	AdverseReaction 733 738	cough
+T12	AdverseReaction 740 749	back pain
+T13	AdverseReaction 751 761	arthralgia
+T14	AdverseReaction 763 772	sinusitis
+T15	AdverseReaction 778 787	influenza
+T16	AdverseReaction 2758 2791	Upper respiratory tract infection
+T17	AdverseReaction 2867 2875	Diarrhea
+T18	AdverseReaction 2976 2982	Nausea
+T19	AdverseReaction 3085 3108	Injection site reaction
+T20	AdverseReaction 3194 3199	Cough
+T21	AdverseReaction 3303 3312	Back pain
+T22	AdverseReaction 3412 3422	Arthralgia
+T23	AdverseReaction 3521 3530	Sinusitis
+T24	AdverseReaction 3630 3639	Influenza
+T25	AdverseReaction 4146 4173	gastrointestinal complaints
+T26	AdverseReaction 4292 4300	diarrhea
+T27	AdverseReaction 4305 4311	nausea
+T28	AdverseReaction 4341 4375	gastrointestinal adverse reactions
+T29	AdverseReaction 4437 4445	vomiting
+T30	AdverseReaction 4493 4524	gastroesophageal reflux disease
+T31	AdverseReaction 4576 4585	dyspepsia
+T32	AdverseReaction 4633 4645	Constipation
+T33	AdverseReaction 4773 4785	GI reactions
+T34	Severity 4790 4794	mild
+T35	Severity 4814 4822	moderate
+T36	Severity 4846 4852	severe
+T37	AdverseReaction 4893 4913	GI adverse reactions
+T38	AdverseReaction 5046 5070	injection site reactions
+T39	AdverseReaction 5159 5182	injection site reaction
+T40	AdverseReaction 5294 5317	injection site hematoma
+T41	AdverseReaction 5366 5389	injection site erythema
+T42	AdverseReaction 5437 5456	injection site rash
+T43	AdverseReaction 5502 5533	injection site hypersensitivity
+T44	AdverseReaction 5583 5608	injection site hemorrhage
+T45	AdverseReaction 5656 5679	Injection site pruritus
+T46	AdverseReaction 5751 5775	injection site reactions
+T47	Severity 5792 5796	mild
+T48	AdverseReaction 5937 5960	injection site reaction
+T49	AdverseReaction 2264 2276	hypoglycemia
+T50	AdverseReaction 7499 7511	hypoglycemia
+T51	AdverseReaction 7686 7706	hypoglycemic episode
+T52	AdverseReaction 7782 7802	hypoglycemic episode
+T53	Severity 7775 7781	severe
+T54	AdverseReaction 7884 7896	Hypoglycemia
+T55	AdverseReaction 11603 11615	hypoglycemia
+T56	Severity 11596 11602	severe
+T58	Negation 11567 11569	no
+T59	AdverseReaction 11760 11781	hypoglycemic symptoms
+T60	AdverseReaction 11704 11743	Plasma glucose concentration <=70 mg/dL
+T61	AdverseReaction 11909 11921	hypoglycemia
+T62	AdverseReaction 12085 12094	pneumonia
+T63	AdverseReaction 12229 12238	pneumonia
+T64	Severity 12275 12282	serious
+T65	AdverseReaction 12452 12471	atrial fibrillation
+T66	AdverseReaction 12483 12497	atrial flutter
+T67	AdverseReaction 12911 12923	appendicitis
+T68	Severity 12893 12900	serious
+T69	AdverseReaction 14527 14551;14558 14566	alanine aminotransferase increase
+T70	AdverseReaction 14776 14788	ALT increase
+T71	AdverseReaction 15086 15102	elevation in ALT
+T72	AdverseReaction 15162 15189	increase in total bilirubin
+T73	AdverseReaction 15295 15316	hepatocellular injury
+T74	AdverseReaction 15604 15617	increased GGT
+T75	AdverseReaction 16005 16027	increase in heart rate
+T76	AdverseReaction 15795 15810;15848 15882	mean heart rate higher by an average of 1 to 2 bpm
+T77	AdverseReaction 4021 4045	injection site reactions
+T78	AdverseReaction 5227 5251	injection site reactions
+T79	Severity 7674 7685	symptomatic
+T80	Severity 11581 11592	symptomatic
+T57	Severity 11897 11908	symptomatic
+T81	AdverseReaction 14553 14556;14558 14566	ALT increase
+T82	AdverseReaction 14921 14941	rise in liver enzyme
+T83	Negation 14872 14890	alternate etiology
+T84	Severity 15104 15138	10 times the upper limit of normal
+T85	Severity 15191 15224	4 times the upper limit of normal
+E1	Factor:T1
+E2	AdverseReaction:T2 Hypothetical:E1
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E34	Severity:T34
+E35	Severity:T35
+E36	Severity:T36
+E38	AdverseReaction:T33 Effect:E36 Effect2:E35 Effect3:E34
+E39	AdverseReaction:T37
+E40	AdverseReaction:T38
+E41	AdverseReaction:T39
+E42	AdverseReaction:T40
+E43	AdverseReaction:T41
+E44	AdverseReaction:T42
+E45	AdverseReaction:T43
+E46	AdverseReaction:T44
+E47	AdverseReaction:T45
+E48	AdverseReaction:T46 Effect:E50
+E49	AdverseReaction:T46
+E50	Severity:T47
+E51	AdverseReaction:T48
+E52	AdverseReaction:T49
+E53	AdverseReaction:T50
+E54	AdverseReaction:T51 Effect:E80
+E55	AdverseReaction:T52 Effect:E56
+E56	Severity:T53
+E57	AdverseReaction:T54
+E58	AdverseReaction:T55 Effect:E59 Negated:E61 Effect2:E81
+E59	Severity:T56
+E61	Negation:T58
+E62	AdverseReaction:T59
+E63	AdverseReaction:T60
+E64	AdverseReaction:T61 Effect:E60
+E65	AdverseReaction:T62
+E66	AdverseReaction:T63 Effect:E67
+E67	Severity:T64
+E68	AdverseReaction:T65
+E69	AdverseReaction:T66
+E70	AdverseReaction:T67 Effect:E71
+E71	Severity:T68
+E72	AdverseReaction:T69
+E73	AdverseReaction:T70
+E74	AdverseReaction:T71 Effect:E85
+E75	AdverseReaction:T72 Effect:E86
+E76	AdverseReaction:T73
+E77	AdverseReaction:T74
+E78	AdverseReaction:T75
+E79	AdverseReaction:T76
+E33	AdverseReaction:T77
+E37	AdverseReaction:T78
+E80	Severity:T79
+E81	Severity:T80
+E60	Severity:T57
+E82	AdverseReaction:T81
+E83	AdverseReaction:T82 Negated:E84
+E84	Negation:T83
+E85	Severity:T84
+E86	Severity:T85
+A1	flag E2 duplicate
+A2	CUI E2 C0342190
+A3	UMLS-Preferred-Name E2 C-cell hyperplasia of thyroid
+A4	MEDDRA-PT E2 Thyroid C-cell hyperplasia
+A5	MEDDRA-PT-ID E2 10070568
+A6	CUI E3 C0001339
+A7	UMLS-Preferred-Name E3 Acute pancreatitis
+A8	MEDDRA-PT E3 Pancreatitis acute
+A9	MEDDRA-PT-ID E3 10033647
+A10	LLT E3 Acute pancreatitis
+A11	LLT-ID E3 10000971
+A12	CUI E4 C0020615
+A13	UMLS-Preferred-Name E4 Hypoglycemia
+A14	MEDDRA-PT E4 Hypoglycaemia
+A15	MEDDRA-PT-ID E4 10020993
+A16	LLT E4 Hypoglycemia
+A17	LLT-ID E4 10021005
+A18	CUI E5 C0020517
+A19	UMLS-Preferred-Name E5 Hypersensitivity
+A20	MEDDRA-PT E5 Hypersensitivity
+A21	MEDDRA-PT-ID E5 10020751
+A22	LLT E5 Hypersensitivity reaction
+A23	LLT-ID E5 10020756
+A24	CUI E6 C1565489
+A25	UMLS-Preferred-Name E6 Renal Insufficiency
+A26	MEDDRA-PT E6 Renal impairment
+A27	MEDDRA-PT-ID E6 10062237
+A28	CUI E7 C0041912
+A29	UMLS-Preferred-Name E7 Upper Respiratory Infections
+A30	MEDDRA-PT E7 Upper respiratory tract infection
+A31	MEDDRA-PT-ID E7 10046306
+A32	CUI E8 C0011991
+A33	UMLS-Preferred-Name E8 Diarrhea
+A34	MEDDRA-PT E8 Diarrhoea
+A35	MEDDRA-PT-ID E8 10012735
+A36	LLT E8 Diarrhea
+A37	LLT-ID E8 10012727
+A38	CUI E9 C0027497
+A39	UMLS-Preferred-Name E9 Nausea
+A40	MEDDRA-PT E9 Nausea
+A41	MEDDRA-PT-ID E9 10028813
+A42	CUI E10 C0151735
+A43	UMLS-Preferred-Name E10 Injection site reaction
+A44	MEDDRA-PT E10 Injection site reaction
+A45	MEDDRA-PT-ID E10 10022095
+A46	CUI E11 C0010200
+A47	UMLS-Preferred-Name E11 Coughing
+A48	MEDDRA-PT E11 Cough
+A49	MEDDRA-PT-ID E11 10011224
+A50	CUI E12 C0004604
+A51	UMLS-Preferred-Name E12 Back Pain
+A52	MEDDRA-PT E12 Back pain
+A53	MEDDRA-PT-ID E12 10003988
+A54	CUI E13 C0003862
+A55	UMLS-Preferred-Name E13 Arthralgia
+A56	MEDDRA-PT E13 Arthralgia
+A57	MEDDRA-PT-ID E13 10003239
+A58	CUI E14 C0037199
+A59	UMLS-Preferred-Name E14 Sinusitis
+A60	MEDDRA-PT E14 Sinusitis
+A61	MEDDRA-PT-ID E14 10040753
+A62	CUI E15 C0021400
+A63	UMLS-Preferred-Name E15 Influenza
+A64	MEDDRA-PT E15 Influenza
+A65	MEDDRA-PT-ID E15 10022000
+A66	CUI E16 C0041912
+A67	UMLS-Preferred-Name E16 Upper Respiratory Infections
+A68	MEDDRA-PT E16 Upper respiratory tract infection
+A69	MEDDRA-PT-ID E16 10046306
+A70	CUI E17 C0011991
+A71	UMLS-Preferred-Name E17 Diarrhea
+A72	MEDDRA-PT E17 Diarrhoea
+A73	MEDDRA-PT-ID E17 10012735
+A74	LLT E17 Diarrhea
+A75	LLT-ID E17 10012727
+A76	CUI E18 C0027497
+A77	UMLS-Preferred-Name E18 Nausea
+A78	MEDDRA-PT E18 Nausea
+A79	MEDDRA-PT-ID E18 10028813
+A80	CUI E19 C0151735
+A81	UMLS-Preferred-Name E19 Injection site reaction
+A82	MEDDRA-PT E19 Injection site reaction
+A83	MEDDRA-PT-ID E19 10022095
+A84	CUI E20 C0010200
+A85	UMLS-Preferred-Name E20 Coughing
+A86	MEDDRA-PT E20 Cough
+A87	MEDDRA-PT-ID E20 10011224
+A88	CUI E21 C0004604
+A89	UMLS-Preferred-Name E21 Back Pain
+A90	MEDDRA-PT E21 Back pain
+A91	MEDDRA-PT-ID E21 10003988
+A92	CUI E22 C0003862
+A93	UMLS-Preferred-Name E22 Arthralgia
+A94	MEDDRA-PT E22 Arthralgia
+A95	MEDDRA-PT-ID E22 10003239
+A96	CUI E23 C0037199
+A97	UMLS-Preferred-Name E23 Sinusitis
+A98	MEDDRA-PT E23 Sinusitis
+A99	MEDDRA-PT-ID E23 10040753
+A100	CUI E24 C0021400
+A101	UMLS-Preferred-Name E24 Influenza
+A102	MEDDRA-PT E24 Influenza
+A103	MEDDRA-PT-ID E24 10022000
+A104	CUI E25 C0548823
+A105	UMLS-Preferred-Name E25 Distress gastrointestinal
+A106	MEDDRA-PT E25 Abdominal discomfort
+A107	MEDDRA-PT-ID E25 10000059
+A108	LLT E25 Distress gastrointestinal
+A109	LLT-ID E25 10013491
+A110	CUI E26 C0011991
+A111	UMLS-Preferred-Name E26 Diarrhea
+A112	MEDDRA-PT E26 Diarrhoea
+A113	MEDDRA-PT-ID E26 10012735
+A114	LLT E26 Diarrhea
+A115	LLT-ID E26 10012727
+A116	CUI E27 C0027497
+A117	UMLS-Preferred-Name E27 Nausea
+A118	MEDDRA-PT E27 Nausea
+A119	MEDDRA-PT-ID E27 10028813
+A120	CUI E28 C0426576
+A121	UMLS-Preferred-Name E28 Gastrointestinal symptom
+A122	MEDDRA-PT E28 Gastrointestinal disorder
+A123	MEDDRA-PT-ID E28 10017944
+A124	LLT E28 Gastrointestinal symptom NOS
+A125	LLT-ID E28 10018011
+A126	CUI E29 C0042963
+A127	UMLS-Preferred-Name E29 Vomiting
+A128	MEDDRA-PT E29 Vomiting
+A129	MEDDRA-PT-ID E29 10047700
+A130	CUI E30 C0017168
+A131	UMLS-Preferred-Name E30 Gastroesophageal reflux disease
+A132	MEDDRA-PT E30 Gastrooesophageal reflux disease
+A133	MEDDRA-PT-ID E30 10017885
+A134	LLT E30 Gastroesophageal reflux disease
+A135	LLT-ID E30 10066874
+A136	CUI E31 C0013395
+A137	UMLS-Preferred-Name E31 Dyspepsia
+A138	MEDDRA-PT E31 Dyspepsia
+A139	MEDDRA-PT-ID E31 10013946
+A140	CUI E32 C0009806
+A141	UMLS-Preferred-Name E32 Constipation
+A142	MEDDRA-PT E32 Constipation
+A143	MEDDRA-PT-ID E32 10010774
+A144	CUI E38 C0542184
+A145	UMLS-Preferred-Name E38 Reaction gastrointestinal
+A146	MEDDRA-PT E38 Gastrointestinal disorder
+A147	MEDDRA-PT-ID E38 10017944
+A148	LLT E38 Reaction gastrointestinal
+A149	LLT-ID E38 10037947
+A150	CUI E39 C0426576
+A151	UMLS-Preferred-Name E39 Gastrointestinal symptom
+A152	MEDDRA-PT E39 Gastrointestinal disorder
+A153	MEDDRA-PT-ID E39 10017944
+A154	LLT E39 Gastrointestinal symptom NOS
+A155	LLT-ID E39 10018011
+A156	CUI E40 C0151735
+A157	UMLS-Preferred-Name E40 Injection site reaction
+A158	MEDDRA-PT E40 Injection site reaction
+A159	MEDDRA-PT-ID E40 10022095
+A160	CUI E41 C0151735
+A161	UMLS-Preferred-Name E41 Injection site reaction
+A162	MEDDRA-PT E41 Injection site reaction
+A163	MEDDRA-PT-ID E41 10022095
+A164	CUI E42 C0542008
+A165	UMLS-Preferred-Name E42 Injection site haematoma
+A166	MEDDRA-PT E42 Injection site haematoma
+A167	MEDDRA-PT-ID E42 10022066
+A168	LLT E42 Injection site hematoma
+A169	LLT-ID E42 10055371
+A170	CUI E43 C0852625
+A171	UMLS-Preferred-Name E43 Injection site erythema
+A172	MEDDRA-PT E43 Injection site erythema
+A173	MEDDRA-PT-ID E43 10022061
+A174	CUI E44 C0521505
+A175	UMLS-Preferred-Name E44 Injection site dermatitis
+A176	MEDDRA-PT E44 Injection site rash
+A177	MEDDRA-PT-ID E44 10022094
+A178	CUI E45 C0151726
+A179	UMLS-Preferred-Name E45 Injection site hypersensitivity
+A180	MEDDRA-PT E45 Injection site hypersensitivity
+A181	MEDDRA-PT-ID E45 10022071
+A182	CUI E46 C0151698
+A183	UMLS-Preferred-Name E46 Injection site hemorrhage
+A184	MEDDRA-PT E46 Injection site haemorrhage
+A185	MEDDRA-PT-ID E46 10022067
+A186	LLT E46 Injection site hemorrhage
+A187	LLT-ID E46 10022068
+A188	CUI E47 C0852995
+A189	UMLS-Preferred-Name E47 Injection site pruritus
+A190	MEDDRA-PT E47 Injection site pruritus
+A191	MEDDRA-PT-ID E47 10022093
+A192	CUI E48 C0151735
+A193	UMLS-Preferred-Name E48 Injection site reaction
+A194	MEDDRA-PT E48 Injection site reaction
+A195	MEDDRA-PT-ID E48 10022095
+A196	CUI E51 C0151735
+A197	UMLS-Preferred-Name E51 Injection site reaction
+A198	MEDDRA-PT E51 Injection site reaction
+A199	MEDDRA-PT-ID E51 10022095
+A200	CUI E52 C0020615
+A201	UMLS-Preferred-Name E52 Hypoglycemia
+A202	MEDDRA-PT E52 Hypoglycaemia
+A203	MEDDRA-PT-ID E52 10020993
+A204	LLT E52 Hypoglycemia
+A205	LLT-ID E52 10021005
+A206	CUI E53 C0020615
+A207	UMLS-Preferred-Name E53 Hypoglycemia
+A208	MEDDRA-PT E53 Hypoglycaemia
+A209	MEDDRA-PT-ID E53 10020993
+A210	LLT E53 Hypoglycemia
+A211	LLT-ID E53 10021005
+A212	CUI E54 C0745153
+A213	UMLS-Preferred-Name E54 Hypoglycaemic episode
+A214	MEDDRA-PT E54 Hypoglycaemia
+A215	MEDDRA-PT-ID E54 10020993
+A216	LLT E54 Hypoglycemic episode
+A217	LLT-ID E54 10049635
+A218	CUI E55 C0745153
+A219	UMLS-Preferred-Name E55 Hypoglycaemic episode
+A220	MEDDRA-PT E55 Hypoglycaemia
+A221	MEDDRA-PT-ID E55 10020993
+A222	LLT E55 Hypoglycemic episode
+A223	LLT-ID E55 10049635
+A224	CUI E57 C0020615
+A225	UMLS-Preferred-Name E57 Hypoglycemia
+A226	MEDDRA-PT E57 Hypoglycaemia
+A227	MEDDRA-PT-ID E57 10020993
+A228	LLT E57 Hypoglycemia
+A229	LLT-ID E57 10021005
+A230	CUI E58 C0020615
+A231	UMLS-Preferred-Name E58 Hypoglycemia
+A232	MEDDRA-PT E58 Hypoglycaemia
+A233	MEDDRA-PT-ID E58 10020993
+A234	LLT E58 Hypoglycemia
+A235	LLT-ID E58 10021005
+A236	CUI E62 C0020615
+A237	UMLS-Preferred-Name E62 Hypoglycemia
+A238	MEDDRA-PT E62 Hypoglycaemia
+A239	MEDDRA-PT-ID E62 10020993
+A240	CUI E63 C0860802
+A241	UMLS-Preferred-Name E63 Plasma glucose decreased
+A242	MEDDRA-PT E63 Blood glucose decreased
+A243	MEDDRA-PT-ID E63 10005555
+A244	LLT E63 Plasma glucose decreased
+A245	LLT-ID E63 10035305
+A246	CUI E64 C0020615
+A247	UMLS-Preferred-Name E64 Hypoglycemia
+A248	MEDDRA-PT E64 Hypoglycaemia
+A249	MEDDRA-PT-ID E64 10020993
+A250	LLT E64 Hypoglycemia
+A251	LLT-ID E64 10021005
+A252	CUI E65 C0032285
+A253	UMLS-Preferred-Name E65 Pneumonia
+A254	MEDDRA-PT E65 Pneumonia
+A255	MEDDRA-PT-ID E65 10035664
+A256	CUI E66 C0032285
+A257	UMLS-Preferred-Name E66 Pneumonia
+A258	MEDDRA-PT E66 Pneumonia
+A259	MEDDRA-PT-ID E66 10035664
+A260	CUI E68 C0004238
+A261	UMLS-Preferred-Name E68 Atrial Fibrillation
+A262	MEDDRA-PT E68 Atrial fibrillation
+A263	MEDDRA-PT-ID E68 10003658
+A264	CUI E69 C0004239
+A265	UMLS-Preferred-Name E69 Atrial Flutter
+A266	MEDDRA-PT E69 Atrial flutter
+A267	MEDDRA-PT-ID E69 10003662
+A268	CUI E70 C0003615
+A269	UMLS-Preferred-Name E70 Appendicitis
+A270	MEDDRA-PT E70 Appendicitis
+A271	MEDDRA-PT-ID E70 10003011
+A272	CUI E72 C0151905
+A273	UMLS-Preferred-Name E72 Alanine aminotransferase increased
+A274	MEDDRA-PT E72 Alanine aminotransferase increased
+A275	MEDDRA-PT-ID E72 10001551
+A276	LLT E72 Alanine aminotransferase increase
+A277	LLT-ID E72 10001550
+A278	CUI E73 C0151905
+A279	UMLS-Preferred-Name E73 Alanine aminotransferase increased
+A280	MEDDRA-PT E73 Alanine aminotransferase increased
+A281	MEDDRA-PT-ID E73 10001551
+A282	LLT E73 ALT increased
+A283	LLT-ID E73 10001845
+A284	CUI E74 C0151905
+A285	UMLS-Preferred-Name E74 Alanine aminotransferase increased
+A286	MEDDRA-PT E74 Alanine aminotransferase increased
+A287	MEDDRA-PT-ID E74 10001551
+A288	LLT E74 ALT increased
+A289	LLT-ID E74 10001845
+A290	CUI E75 C0741494
+A291	UMLS-Preferred-Name E75 Elevated total bilirubin
+A292	MEDDRA-PT E75 Blood bilirubin increased
+A293	MEDDRA-PT-ID E75 10005364
+A294	LLT E75 Bilirubin total increased
+A295	LLT-ID E75 10056806
+A296	CUI E76 C0151763
+A297	UMLS-Preferred-Name E76 Liver damage
+A298	MEDDRA-PT E76 Hepatocellular injury
+A299	MEDDRA-PT-ID E76 10019837
+A300	CUI E77 C0151662
+A301	UMLS-Preferred-Name E77 Gamma-glutamyl transferase raised
+A302	MEDDRA-PT E77 Gamma-glutamyltransferase increased
+A303	MEDDRA-PT-ID E77 10017693
+A304	LLT E77 GGT increased
+A305	LLT-ID E77 10056910
+A306	CUI E78 C0039231
+A307	UMLS-Preferred-Name E78 Tachycardia
+A308	MEDDRA-PT E78 Heart rate increased
+A309	MEDDRA-PT-ID E78 10019303
+A310	CUI E79 C0039231
+A311	UMLS-Preferred-Name E79 Tachycardia
+A312	MEDDRA-PT E79 Heart rate increased
+A313	MEDDRA-PT-ID E79 10019303
+A314	CUI E33 C0151735
+A315	UMLS-Preferred-Name E33 Injection site reaction
+A316	MEDDRA-PT E33 Injection site reaction
+A317	MEDDRA-PT-ID E33 10022095
+A318	CUI E37 C0151735
+A319	UMLS-Preferred-Name E37 Injection site reaction
+A320	MEDDRA-PT E37 Injection site reaction
+A321	MEDDRA-PT-ID E37 10022095
+A322	CUI E82 C0151905
+A323	UMLS-Preferred-Name E82 Alanine aminotransferase increased
+A324	MEDDRA-PT E82 Alanine aminotransferase increased
+A325	MEDDRA-PT-ID E82 10001551
+A326	LLT E82 ALT increased
+A327	LLT-ID E82 10001845
+A328	CUI E83 C0235996
+A329	UMLS-Preferred-Name E83 Elevated liver enzymes
+A330	MEDDRA-PT E83 Hepatic enzyme increased
+A331	MEDDRA-PT-ID E83 10060795
+A332	LLT E83 Raised liver enzymes
+A333	LLT-ID E83 10037823

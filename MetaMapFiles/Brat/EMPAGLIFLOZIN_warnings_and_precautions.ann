@@ -1,0 +1,128 @@
+T1	AdverseReaction 54 65	Hypotension
+T2	AdverseReaction 315 343	Impairment in renal function
+T3	AdverseReaction 489 501	Hypoglycemia
+T4	AdverseReaction 642 668	Genital mycotic infections
+T5	AdverseReaction 719 743	Urinary tract infections
+T6	AdverseReaction 794 809	Increased LDL-C
+T7	AdverseReaction 1060 1092	intravascular volume contraction
+T8	AdverseReaction 1094 1117	Symptomatic hypotension
+T9	Factor 1118 1121	may
+T10	AdverseReaction 1683 1709	increases serum creatinine
+T11	AdverseReaction 1714 1728	decreases eGFR
+T12	AdverseReaction 1778 1801	impaired renal function
+T15	AdverseReaction 2288 2300	hypoglycemia
+T16	AdverseReaction 2679 2705	genital mycotic infections
+T17	AdverseReaction 2982 3006	urinary tract infections
+T18	AdverseReaction 3148 3166	Increases in LDL-C
+T19	Factor 1770 1774	risk
+T13	Factor 2280 2284	risk
+T14	Factor 2670 2674	risk
+T20	AdverseReaction 2846 2872	mycotic genital infections
+T21	Factor 2973 2977	risk
+T22	Factor 3167 3170	can
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8 Hypothetical:E9
+E9	Factor:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12 Hypothetical:E19
+E15	AdverseReaction:T15 Hypothetical:E13
+E16	AdverseReaction:T16 Hypothetical:E14
+E17	AdverseReaction:T17 Hypothetical:E21
+E18	AdverseReaction:T18 Hypothetical:E22
+E19	Factor:T19
+E13	Factor:T13
+E14	Factor:T14
+E20	AdverseReaction:T20
+E21	Factor:T21
+E22	Factor:T22
+A1	CUI E1 C0020649
+A2	UMLS-Preferred-Name E1 Hypotension
+A3	MEDDRA-PT E1 Hypotension
+A4	MEDDRA-PT-ID E1 10021097
+A5	CUI E2 C1565489
+A6	UMLS-Preferred-Name E2 Renal Insufficiency
+A7	MEDDRA-PT E2 Renal impairment
+A8	MEDDRA-PT-ID E2 10062237
+A9	LLT E2 Impaired renal function
+A10	LLT-ID E2 10021523
+A11	CUI E3 C0020615
+A12	UMLS-Preferred-Name E3 Hypoglycemia
+A13	MEDDRA-PT E3 Hypoglycaemia
+A14	MEDDRA-PT-ID E3 10020993
+A15	LLT E3 Hypoglycemia
+A16	LLT-ID E3 10021005
+A17	CUI E4 C0740330
+A18	UMLS-Preferred-Name E4 Genital infection fungal
+A19	MEDDRA-PT E4 Genital infection fungal
+A20	MEDDRA-PT-ID E4 10061180
+A21	CUI E5 C0042029
+A22	UMLS-Preferred-Name E5 Urinary tract infection
+A23	MEDDRA-PT E5 Urinary tract infection
+A24	MEDDRA-PT-ID E5 10046571
+A25	CUI E6 C0549399
+A26	UMLS-Preferred-Name E6 Low density lipoprotein increased
+A27	MEDDRA-PT E6 Low density lipoprotein increased
+A28	MEDDRA-PT-ID E6 10024910
+A29	LLT E6 LDL cholesterol increased
+A30	LLT-ID E6 10024055
+A31	CUI E7 C0750310
+A32	UMLS-Preferred-Name E7 Intravascular depletion
+A33	MEDDRA-PT E7 Hypovolaemia
+A34	MEDDRA-PT-ID E7 10021137
+A35	LLT E7 Intravascular depletion
+A36	LLT-ID E7 10074191
+A37	CUI E8 C0863113
+A38	UMLS-Preferred-Name E8 Hypotension symptomatic
+A39	MEDDRA-PT E8 Hypotension
+A40	MEDDRA-PT-ID E8 10021097
+A41	LLT E8 Hypotension symptomatic
+A42	LLT-ID E8 10021105
+A43	CUI E10 C0700225
+A44	UMLS-Preferred-Name E10 Serum creatinine raised
+A45	MEDDRA-PT E10 Blood creatinine increased
+A46	MEDDRA-PT-ID E10 10005483
+A47	LLT E10 Serum creatinine increased
+A48	LLT-ID E10 10040233
+A49	CUI E11 C0853068
+A50	UMLS-Preferred-Name E11 Decreased glomerular filtration rate
+A51	MEDDRA-PT E11 Glomerular filtration rate decreased
+A52	MEDDRA-PT-ID E11 10018358
+A53	LLT E11 GFR decreased
+A54	LLT-ID E11 10018214
+A55	CUI E12 C1565489
+A56	UMLS-Preferred-Name E12 Renal Insufficiency
+A57	MEDDRA-PT E12 Renal impairment
+A58	MEDDRA-PT-ID E12 10062237
+A59	LLT E12 Impaired renal function
+A60	LLT-ID E12 10021523
+A61	CUI E15 C0020615
+A62	UMLS-Preferred-Name E15 Hypoglycemia
+A63	MEDDRA-PT E15 Hypoglycaemia
+A64	MEDDRA-PT-ID E15 10020993
+A65	LLT E15 Hypoglycemia
+A66	LLT-ID E15 10021005
+A67	CUI E16 C0740330
+A68	UMLS-Preferred-Name E16 Genital infection fungal
+A69	MEDDRA-PT E16 Genital infection fungal
+A70	MEDDRA-PT-ID E16 10061180
+A71	CUI E17 C0042029
+A72	UMLS-Preferred-Name E17 Urinary tract infection
+A73	MEDDRA-PT E17 Urinary tract infection
+A74	MEDDRA-PT-ID E17 10046571
+A75	CUI E18 C0549399
+A76	UMLS-Preferred-Name E18 Low density lipoprotein increased
+A77	MEDDRA-PT E18 Low density lipoprotein increased
+A78	MEDDRA-PT-ID E18 10024910
+A79	LLT E18 LDL cholesterol increased
+A80	LLT-ID E18 10024055
+A81	CUI E20 C0740330
+A82	UMLS-Preferred-Name E20 Genital infection fungal
+A83	MEDDRA-PT E20 Genital infection fungal
+A84	MEDDRA-PT-ID E20 10061180

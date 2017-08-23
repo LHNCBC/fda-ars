@@ -1,0 +1,310 @@
+T1	AdverseReaction 158 164	asthma
+T2	AdverseReaction 173 178	death
+T3	Factor 150 154	risk
+T4	AdverseReaction 425 430	cough
+T5	AdverseReaction 432 450	oropharyngeal pain
+T6	AdverseReaction 452 467	nasopharyngitis
+T7	AdverseReaction 469 477	headache
+T8	AdverseReaction 482 488	nausea
+T9	AdverseReaction 2137 2141	COPD
+T10	AdverseReaction 2146 2153	dyspnea
+T11	AdverseReaction 2206 2223	COPD exacerbation
+T12	AdverseReaction 2225 2234	pneumonia
+T13	AdverseReaction 2236 2251	angina pectoris
+T14	AdverseReaction 2257 2276	atrial fibrillation
+T15	AdverseReaction 3091 3096	Cough
+T16	AdverseReaction 3145 3163	Oropharyngeal pain
+T17	AdverseReaction 3236 3251	Nasopharyngitis
+T18	AdverseReaction 3321 3329	Headache
+T19	AdverseReaction 3406 3412	Nausea
+T20	AdverseReaction 4016 4028	muscle spasm
+T21	AdverseReaction 4030 4050	musculoskeletal pain
+T22	AdverseReaction 4112 4128	edema peripheral
+T23	AdverseReaction 4169 4186	diabetes mellitus
+T24	AdverseReaction 4188 4201	hyperglycemia
+T25	AdverseReaction 4236 4245	sinusitis
+T26	AdverseReaction 4247 4280	upper respiratory tract infection
+T28	AdverseReaction 4475 4480	cough
+T29	AdverseReaction 4629 4634	cough
+T30	AdverseReaction 4731 4736	Cough
+T31	AdverseReaction 5489 5508	asthma exacerbation
+T32	AdverseReaction 5294 5300	deaths
+T34	AdverseReaction 6349 6375	hypersensitivity reactions
+T35	AdverseReaction 6377 6401	paradoxical bronchospasm
+T36	AdverseReaction 6403 6414	tachycardia
+T37	AdverseReaction 6415 6434	heart rate increase
+T38	AdverseReaction 6435 6447	palpitations
+T39	AdverseReaction 6449 6457	pruritus
+T40	AdverseReaction 6458 6462	rash
+T41	AdverseReaction 6467 6476	dizziness
+T42	AdverseReaction 3511 3543	cardiovascular adverse reactions
+T43	Negation 4781 4784	not
+T44	AdverseReaction 4801 4813	bronchospasm
+T45	AdverseReaction 4815 4828;705 742	exacerbations Chronic Obstructive Pulmonary Disease
+T46	AdverseReaction 4830 4855;705 742	deteriorations of disease Chronic Obstructive Pulmonary Disease
+T47	AdverseReaction 4859 4875	loss of efficacy
+T48	Negation 5356 5358	no
+T49	AdverseReaction 5359 5365	deaths
+T33	AdverseReaction 5819 5825	deaths
+T50	Negation 5816 5818	No
+T52	AdverseReaction 5880 5899	asthma exacerbation
+E1	AdverseReaction:T1 Hypothetical:E3
+E2	AdverseReaction:T2 Hypothetical:E3
+E3	Factor:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E28	AdverseReaction:T28
+E29	AdverseReaction:T29
+E30	AdverseReaction:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	Negation:T43
+E44	AdverseReaction:T44 Negated:E43
+E45	AdverseReaction:T45 Negated:E43
+E46	AdverseReaction:T46 Negated:E43
+E47	AdverseReaction:T47 Negated:E43
+E48	Negation:T48
+E49	AdverseReaction:T49 Negated:E48
+E33	AdverseReaction:T33 Negated:E50
+E50	Negation:T50
+E52	AdverseReaction:T52
+A1	CUI E1 C0004096
+A2	UMLS-Preferred-Name E1 Asthma
+A3	MEDDRA-PT E1 Asthma
+A4	MEDDRA-PT-ID E1 10003553
+A5	CUI E2 C1306577
+A6	UMLS-Preferred-Name E2 Death (finding)
+A7	MEDDRA-PT E2 Death
+A8	MEDDRA-PT-ID E2 10011906
+A9	CUI E4 C0010200
+A10	UMLS-Preferred-Name E4 Coughing
+A11	MEDDRA-PT E4 Cough
+A12	MEDDRA-PT-ID E4 10011224
+A13	CUI E5 C2363731
+A14	UMLS-Preferred-Name E5 Oropharyngeal pain
+A15	MEDDRA-PT E5 Oropharyngeal pain
+A16	MEDDRA-PT-ID E5 10068319
+A17	CUI E6 C0027441
+A18	UMLS-Preferred-Name E6 Nasopharyngitis
+A19	MEDDRA-PT E6 Nasopharyngitis
+A20	MEDDRA-PT-ID E6 10028810
+A21	CUI E7 C0018681
+A22	UMLS-Preferred-Name E7 Headache
+A23	MEDDRA-PT E7 Headache
+A24	MEDDRA-PT-ID E7 10019211
+A25	CUI E8 C0027497
+A26	UMLS-Preferred-Name E8 Nausea
+A27	MEDDRA-PT E8 Nausea
+A28	MEDDRA-PT-ID E8 10028813
+A29	CUI E9 C0024117
+A30	UMLS-Preferred-Name E9 Chronic Obstructive Airway Disease
+A31	MEDDRA-PT E9 Chronic obstructive pulmonary disease
+A32	MEDDRA-PT-ID E9 10009033
+A33	LLT E9 COPD
+A34	LLT-ID E9 10010952
+A35	CUI E10 C0013404
+A36	UMLS-Preferred-Name E10 Dyspnea
+A37	MEDDRA-PT E10 Dyspnoea
+A38	MEDDRA-PT-ID E10 10013968
+A39	LLT E10 Dyspnea
+A40	LLT-ID E10 10013963
+A41	CUI E11 C0740304
+A42	UMLS-Preferred-Name E11 COPD exacerbation
+A43	MEDDRA-PT E11 Chronic obstructive pulmonary disease
+A44	MEDDRA-PT-ID E11 10009033
+A45	LLT E11 COPD exacerbation
+A46	LLT-ID E11 10010953
+A47	CUI E12 C0032285
+A48	UMLS-Preferred-Name E12 Pneumonia
+A49	MEDDRA-PT E12 Pneumonia
+A50	MEDDRA-PT-ID E12 10035664
+A51	CUI E13 C0002962
+A52	UMLS-Preferred-Name E13 Angina Pectoris
+A53	MEDDRA-PT E13 Angina pectoris
+A54	MEDDRA-PT-ID E13 10002383
+A55	CUI E14 C0004238
+A56	UMLS-Preferred-Name E14 Atrial Fibrillation
+A57	MEDDRA-PT E14 Atrial fibrillation
+A58	MEDDRA-PT-ID E14 10003658
+A59	CUI E15 C0010200
+A60	UMLS-Preferred-Name E15 Coughing
+A61	MEDDRA-PT E15 Cough
+A62	MEDDRA-PT-ID E15 10011224
+A63	CUI E16 C2363731
+A64	UMLS-Preferred-Name E16 Oropharyngeal pain
+A65	MEDDRA-PT E16 Oropharyngeal pain
+A66	MEDDRA-PT-ID E16 10068319
+A67	CUI E17 C0027441
+A68	UMLS-Preferred-Name E17 Nasopharyngitis
+A69	MEDDRA-PT E17 Nasopharyngitis
+A70	MEDDRA-PT-ID E17 10028810
+A71	CUI E18 C0018681
+A72	UMLS-Preferred-Name E18 Headache
+A73	MEDDRA-PT E18 Headache
+A74	MEDDRA-PT-ID E18 10019211
+A75	CUI E19 C0027497
+A76	UMLS-Preferred-Name E19 Nausea
+A77	MEDDRA-PT E19 Nausea
+A78	MEDDRA-PT-ID E19 10028813
+A79	CUI E20 C0037763
+A80	UMLS-Preferred-Name E20 Spasm
+A81	MEDDRA-PT E20 Muscle spasms
+A82	MEDDRA-PT-ID E20 10028334
+A83	LLT E20 Muscle spasm
+A84	LLT-ID E20 10028333
+A85	CUI E21 C0026858
+A86	UMLS-Preferred-Name E21 Musculoskeletal Pain
+A87	MEDDRA-PT E21 Musculoskeletal pain
+A88	MEDDRA-PT-ID E21 10028391
+A89	CUI E22 C0085649
+A90	UMLS-Preferred-Name E22 Peripheral edema
+A91	MEDDRA-PT E22 Oedema peripheral
+A92	MEDDRA-PT-ID E22 10030124
+A93	LLT E22 Edema peripheral
+A94	LLT-ID E22 10014251
+A95	CUI E23 C0011849
+A96	UMLS-Preferred-Name E23 Diabetes Mellitus
+A97	MEDDRA-PT E23 Diabetes mellitus
+A98	MEDDRA-PT-ID E23 10012601
+A99	CUI E24 C0020456
+A100	UMLS-Preferred-Name E24 Hyperglycemia
+A101	MEDDRA-PT E24 Hyperglycaemia
+A102	MEDDRA-PT-ID E24 10020635
+A103	LLT E24 Hyperglycemia
+A104	LLT-ID E24 10020639
+A105	CUI E25 C0037199
+A106	UMLS-Preferred-Name E25 Sinusitis
+A107	MEDDRA-PT E25 Sinusitis
+A108	MEDDRA-PT-ID E25 10040753
+A109	CUI E26 C0041912
+A110	UMLS-Preferred-Name E26 Upper Respiratory Infections
+A111	MEDDRA-PT E26 Upper respiratory tract infection
+A112	MEDDRA-PT-ID E26 10046306
+A113	CUI E28 C0010200
+A114	UMLS-Preferred-Name E28 Coughing
+A115	MEDDRA-PT E28 Cough
+A116	MEDDRA-PT-ID E28 10011224
+A117	CUI E29 C0010200
+A118	UMLS-Preferred-Name E29 Coughing
+A119	MEDDRA-PT E29 Cough
+A120	MEDDRA-PT-ID E29 10011224
+A121	CUI E30 C0010200
+A122	UMLS-Preferred-Name E30 Coughing
+A123	MEDDRA-PT E30 Cough
+A124	MEDDRA-PT-ID E30 10011224
+A125	CUI E31 C0349790
+A126	UMLS-Preferred-Name E31 Exacerbation of asthma
+A127	MEDDRA-PT E31 Asthma
+A128	MEDDRA-PT-ID E31 10003553
+A129	LLT E31 Exacerbation of asthma
+A130	LLT-ID E31 10015575
+A131	CUI E32 C1306577
+A132	UMLS-Preferred-Name E32 Death (finding)
+A133	MEDDRA-PT E32 Death
+A134	MEDDRA-PT-ID E32 10011906
+A135	CUI E34 C0020517
+A136	UMLS-Preferred-Name E34 Hypersensitivity
+A137	MEDDRA-PT E34 Hypersensitivity
+A138	MEDDRA-PT-ID E34 10020751
+A139	LLT E34 Hypersensitivity reaction
+A140	LLT-ID E34 10020756
+A141	CUI E35 C0236072
+A142	UMLS-Preferred-Name E35 Paradoxical bronchospasm
+A143	MEDDRA-PT E35 Bronchospasm paradoxical
+A144	MEDDRA-PT-ID E35 10006486
+A145	LLT E35 Paradoxical bronchospasm
+A146	LLT-ID E35 10033770
+A147	CUI E36 C0039231
+A148	UMLS-Preferred-Name E36 Tachycardia
+A149	MEDDRA-PT E36 Tachycardia
+A150	MEDDRA-PT-ID E36 10043071
+A151	CUI E37 C0039231
+A152	UMLS-Preferred-Name E37 Tachycardia
+A153	MEDDRA-PT E37 Heart rate increased
+A154	MEDDRA-PT-ID E37 10019303
+A155	CUI E38 C0030252
+A156	UMLS-Preferred-Name E38 Palpitations
+A157	MEDDRA-PT E38 Palpitations
+A158	MEDDRA-PT-ID E38 10033557
+A159	CUI E39 C0033774
+A160	UMLS-Preferred-Name E39 Pruritus
+A161	MEDDRA-PT E39 Pruritus
+A162	MEDDRA-PT-ID E39 10037087
+A163	CUI E40 C0015230
+A164	UMLS-Preferred-Name E40 Exanthema
+A165	MEDDRA-PT E40 Rash
+A166	MEDDRA-PT-ID E40 10037844
+A167	CUI E41 C0012833
+A168	UMLS-Preferred-Name E41 Dizziness
+A169	MEDDRA-PT E41 Dizziness
+A170	MEDDRA-PT-ID E41 10013573
+A171	CUI E42 C0476270
+A172	UMLS-Preferred-Name E42 Cardiovascular symptoms
+A173	MEDDRA-PT E42 Cardiovascular symptom
+A174	MEDDRA-PT-ID E42 10075534
+A175	CUI E44 C0006266
+A176	UMLS-Preferred-Name E44 Bronchial Spasm
+A177	MEDDRA-PT E44 Bronchospasm
+A178	MEDDRA-PT-ID E44 10006482
+A179	CUI E45 C0740304
+A180	UMLS-Preferred-Name E45 COPD exacerbation
+A181	MEDDRA-PT E45 Chronic obstructive pulmonary disease
+A182	MEDDRA-PT-ID E45 10009033
+A183	LLT E45 COPD exacerbation
+A184	LLT-ID E45 10010953
+A185	CUI E46 C0740304
+A186	UMLS-Preferred-Name E46 COPD exacerbation
+A187	MEDDRA-PT E46 Chronic obstructive pulmonary disease
+A188	MEDDRA-PT-ID E46 10009033
+A189	LLT E46 COPD exacerbation
+A190	LLT-ID E46 10010953
+A191	CUI E47 C0235828
+A192	UMLS-Preferred-Name E47 Lack of Efficacy
+A193	MEDDRA-PT E47 Drug ineffective
+A194	MEDDRA-PT-ID E47 10013709
+A195	LLT E47 Efficacy lack of
+A196	LLT-ID E47 10048506
+A197	CUI E49 C1306577
+A198	UMLS-Preferred-Name E49 Death (finding)
+A199	MEDDRA-PT E49 Death
+A200	MEDDRA-PT-ID E49 10011906
+A201	CUI E33 C1306577
+A202	UMLS-Preferred-Name E33 Death (finding)
+A203	MEDDRA-PT E33 Death
+A204	MEDDRA-PT-ID E33 10011906
+A205	CUI E52 C0349790
+A206	UMLS-Preferred-Name E52 Exacerbation of asthma
+A207	MEDDRA-PT E52 Asthma
+A208	MEDDRA-PT-ID E52 10003553
+A209	LLT E52 Exacerbation of asthma
+A210	LLT-ID E52 10015575

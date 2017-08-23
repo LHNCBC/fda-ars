@@ -1,0 +1,32 @@
+00000000|MMI|39.66|Prolonged QT interval|C0151878|[fndg]|["QT Prolongation"-tx-18-"QT prolongation"-noun-0,"prolong qt"-tx-12-"QT Prolonging"-noun-0,"QT Prolongation"-tx-8-"prolongation QT"-noun-0,"Long QT syndrome"-tx-7-"long QT syndrome"-noun-0,"QT Prolongation"-tx-7-"prolongation QT"-noun-0,"QT Prolongation"-tx-6-"Prolongation QT"-noun-0,"QT Prolongation"-tx-6-"prolongation QT"-noun-0,"QT Prolongation"-tx-5-"QT prolongation"-noun-0,"QT Prolongation"-tx-1-"QT prolongation"-noun-0]|TX|4080/15;2305/13;1485/12,1505/2;1223/16;1184/12,1204/2;905/12,925/2;1052/12,1072/2;857/15;91/15|
+00000000|MMI|32.74|Renal Insufficiency|C1565489|[dsyn]|["Renal Impairment"-tx-28-"Renal Impairment"-noun-0,"Renal Impairment"-tx-28-"renal impairment"-noun-0]|TX|5984/16;6105/16|C12.777.419.780;C13.351.968.419.780
+00000000|MMI|26.56|Hypokalemia|C0020621|[fndg]|["HYPOKALEMIA"-tx-9-"hypokalemia"-noun-0,"HYPOKALEMIA"-tx-1-"hypokalemia"-noun-0]|TX|1593/11;119/11|C18.452.950.565
+00000000|MMI|19.58|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-29-"infection"-noun-0,"Infection, NOS"-tx-27-"infection"-noun-0]|TX|6338/9;5847/9|C01.539.221
+00000000|MMI|17.80|Electrocardiogram|C0013798|[fndg]|["Electrocardiogram"-tx-6-"electrocardiogram"-noun-0]|TX|1091/17|E01.370.370.380.240;E01.370.405.240
+00000000|MMI|17.80|Long QT Syndrome|C0023976|[dsyn]|["Long Q-T syndrome"-tx-7-"long QT syndrome"-noun-0]|TX|1223/16|C14.280.067.565;C16.131.240.400.715;C23.550.073.547
+00000000|MMI|15.79|Used by|C1273517|[fndg]|["used"-tx-14-"used"-verb-0,"used"-tx-5-"used"-verb-0,"used"-tx-4-"used"-verb-0]|TX|2885/4;747/4;585/4|
+00000000|MMI|14.64|Sudden death|C0011071|[patf]|["Death, Sudden"-tx-8-"sudden death"-noun-0]|TX|1520/12|C23.550.260.322
+00000000|MMI|13.23|Infection|C3714514|[patf]|["INFECTION"-tx-29-"infection"-noun-0,"INFECTION"-tx-27-"infection"-noun-0]|TX|6338/9;5847/9|C01.539
+00000000|MMI|13.09|Bradycardia|C0428977|[patf]|["BRADYCARDIA"-tx-7-"bradycardia"-noun-0]|TX|1400/11|C14.280.067.319;C23.550.073.300
+00000000|MMI|11.49|Malaria|C0024530|[dsyn]|["MALARIA"-tx-30-"malaria"-noun-0]|TX|6368/7|C03.752.530
+00000000|MMI|10.82|Experimental Result|C2825142|[fndg]|["Result"-tx-19-"result"-verb-0,"Result"-tx-18-"result"-verb-0,"Result"-tx-17-"result"-verb-0]|TX|4168/6;3996/6;3799/6|
+00000000|MMI|10.68|Limited Walking Ability|C2674459|[fndg]|["Limited"-tx-29-"limited"-adj-0,"Limited"-tx-13-"limited"-adj-1,"Limited"-tx-3-"limited"-adj-1]|TX|6246/7;2759/7;489/7|
+00000000|MMI|10.42|Hypomagnesemia|C0151723|[fndg]|["HYPOMAGNESEMIA"-tx-9-"hypomagnesemia"-noun-0,"HYPOMAGNESEMIA"-tx-1-"hypomagnesemia"-noun-0]|TX|1608/14;134/14|
+00000000|MMI|9.99|Disease|C0012634|[dsyn]|["condition"-tx-7-"condition"-noun-0]|TX|1263/9|C23.550.288
+00000000|MMI|7.17|Decreased Concentration|C3899403|[sosy]|["Decreased Concentration"-tx-19-"decreased concentrations"-noun-0,"Decreased Concentration"-tx-17-"decreased concentrations"-noun-0]|TX|4178/24;3809/24|
+00000000|MMI|7.17|Reduced concentration|C0424099|[fndg]|["Decreased concentration"-tx-19-"decreased concentrations"-noun-0,"Decreased concentration"-tx-17-"decreased concentrations"-noun-0]|TX|4178/24;3809/24|
+00000000|MMI|6.76|Heart Diseases|C0018799|[dsyn]|["Disease, Cardiac"-tx-7-"cardiac disease"-noun-0]|TX|1427/15|C14.280
+00000000|MMI|5.18|Canadian Cardiovascular Society Grading Scale Class III|C2698969|[fndg]|["Class III"-tx-10-"class III"-noun-0]|TX|1748/9|
+00000000|MMI|5.18|Sudden Death Adverse Event Not Associated with More Specific CTCAE Term|C1964022|[fndg]|["Sudden death"-tx-8-"sudden death"-noun-0]|TX|1520/12|
+00000000|MMI|3.68|2+|C3833492|[fndg]|["2+"-tx-28-"2"-real_number-0]|TX|6155/1|
+00000000|MMI|3.63|Bradycardia by ECG Finding|C3812171|[fndg]|["BRADYCARDIA"-tx-7-"bradycardia"-noun-0]|TX|1400/11|
+00000000|MMI|3.63|History of cardiac arrhythmia|C3494593|[fndg]|["History of cardiac arrhythmia"-tx-7-"history of cardiac arrhythmias"-noun-0]|TX|1331/10,1354/19|
+00000000|MMI|3.60|Electrolyte imbalance|C0342579|[patf]|["disturbance; balance, electrolyte"-tx-9-"disturbances electrolyte balance"-noun-0]|TX|1550/12,1566/19|
+00000000|MMI|3.60|Severe disorder|C1836348|[fndg]|["Severe Disease"-tx-7-"severe disease"-noun-0]|TX|1420/6,1435/7|
+00000000|MMI|3.57|Family history|C0241889|[fndg]|["FAMILY HISTORY OF"-tx-8-"family history of"-noun-0]|TX|1456/17|
+00000000|MMI|3.53|5-6|C3843715|[fndg]|["5-6"-tx-28-"5.6"-real_number-0]|TX|5964/3|
+00000000|MMI|3.53|6/5|C0442749|[fndg]|["5 6"-tx-28-"5.6"-real_number-0]|TX|5964/3|
+00000000|MMI|3.49|Plasmodium vivax infection|C0858321|[dsyn]|["Plasmodium vivax infection"-tx-29-"Plasmodium vivax Infection"-noun-0]|TX|6180/16,6198/9|
+00000000|MMI|3.46|Adverse effects|C0879626|[patf]|["Adverse effects"-tx-23-"adverse effects"-noun-0]|TX|5147/15|
+00000000|MMI|3.44|Medication 2|C3840903|[fndg]|["Drugs 2"-tx-12-"2 Drugs"-noun-0]|TX|2292/1,2319/5|
+00000000|MMI|3.43|Mixed Cell Morphology|C3160715|[fndg]|["Mixed"-tx-20-"mixed"-adj-0]|TX|4351/5|

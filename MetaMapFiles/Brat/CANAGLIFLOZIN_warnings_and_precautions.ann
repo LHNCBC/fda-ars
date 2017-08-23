@@ -1,0 +1,185 @@
+T1	AdverseReaction 52 63	Hypotension
+T2	AdverseReaction 327 355	Impairment in Renal Function
+T3	AdverseReaction 500 512	Hyperkalemia
+T4	AdverseReaction 663 675	Hypoglycemia
+T5	AdverseReaction 827 853	Genital mycotic infections
+T6	AdverseReaction 901 927	Hypersensitivity reactions
+T7	AdverseReaction 1010 1023	Bone fracture
+T8	AdverseReaction 1117 1132	Increased LDL-C
+T9	AdverseReaction 1232 1264	intravascular volume contraction
+T10	AdverseReaction 1266 1289	Symptomatic hypotension
+T11	AdverseReaction 1958 1984	increases serum creatinine
+T12	AdverseReaction 1989 2003	decreases eGFR
+T13	AdverseReaction 2073 2101	Renal function abnormalities
+T14	Factor 2102 2105	can
+T15	AdverseReaction 2333 2345	hyperkalemia
+T16	Factor 2321 2324	can
+T17	AdverseReaction 2607 2619	hyperkalemia
+T18	Factor 2588 2592	risk
+T22	AdverseReaction 3091 3103	hypoglycemia
+T23	Factor 3083 3087	risk
+T24	AdverseReaction 3420 3446	genital mycotic infections
+T25	Factor 3412 3416	risk
+T26	AdverseReaction 3554 3580	genital mycotic infections
+T27	AdverseReaction 3693 3719	Hypersensitivity reactions
+T28	AdverseReaction 3727 3748	generalized urticaria
+T29	Severity 3756 3763	serious
+T30	AdverseReaction 4120 4133	bone fracture
+T31	Factor 4112 4116	risk
+T32	AdverseReaction 4426 4444	increases in LDL-C
+T33	Factor 1290 1293	can
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10 Hypothetical:E34
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13 Hypothetical:E14
+E14	Factor:T14
+E15	AdverseReaction:T15 Hypothetical:E16
+E16	Factor:T16
+E17	AdverseReaction:T17 Hypothetical:E18
+E18	Factor:T18
+E22	AdverseReaction:T22 Hypothetical:E23
+E23	Factor:T23
+E24	AdverseReaction:T24 Hypothetical:E25
+E25	Factor:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27 Effect:E29
+E28	AdverseReaction:T28
+E29	Severity:T29
+E30	AdverseReaction:T27
+E31	AdverseReaction:T30 Hypothetical:E32
+E32	Factor:T31
+E33	AdverseReaction:T32
+E34	Factor:T33
+A1	CUI E1 C0020649
+A2	UMLS-Preferred-Name E1 Hypotension
+A3	MEDDRA-PT E1 Hypotension
+A4	MEDDRA-PT-ID E1 10021097
+A5	CUI E2 C1565489
+A6	UMLS-Preferred-Name E2 Renal Insufficiency
+A7	MEDDRA-PT E2 Renal impairment
+A8	MEDDRA-PT-ID E2 10062237
+A9	LLT E2 Impaired renal function
+A10	LLT-ID E2 10021523
+A11	CUI E3 C0020461
+A12	UMLS-Preferred-Name E3 Hyperkalemia
+A13	MEDDRA-PT E3 Hyperkalaemia
+A14	MEDDRA-PT-ID E3 10020646
+A15	LLT E3 Hyperkalemia
+A16	LLT-ID E3 10020647
+A17	CUI E4 C0020615
+A18	UMLS-Preferred-Name E4 Hypoglycemia
+A19	MEDDRA-PT E4 Hypoglycaemia
+A20	MEDDRA-PT-ID E4 10020993
+A21	LLT E4 Hypoglycemia
+A22	LLT-ID E4 10021005
+A23	CUI E5 C0740330
+A24	UMLS-Preferred-Name E5 Genital infection fungal
+A25	MEDDRA-PT E5 Genital infection fungal
+A26	MEDDRA-PT-ID E5 10061180
+A27	CUI E6 C0020517
+A28	UMLS-Preferred-Name E6 Hypersensitivity
+A29	MEDDRA-PT E6 Hypersensitivity
+A30	MEDDRA-PT-ID E6 10020751
+A31	LLT E6 Hypersensitivity reaction
+A32	LLT-ID E6 10020756
+A33	CUI E7 C0016658
+A34	UMLS-Preferred-Name E7 Fracture
+A35	MEDDRA-PT E7 Fracture
+A36	MEDDRA-PT-ID E7 10017076
+A37	LLT E7 Fracture bone
+A38	LLT-ID E7 10017077
+A39	CUI E8 C0549399
+A40	UMLS-Preferred-Name E8 Low density lipoprotein increased
+A41	MEDDRA-PT E8 Low density lipoprotein increased
+A42	MEDDRA-PT-ID E8 10024910
+A43	LLT E8 LDL cholesterol increased
+A44	LLT-ID E8 10024055
+A45	CUI E9 C0750310
+A46	UMLS-Preferred-Name E9 Intravascular depletion
+A47	MEDDRA-PT E9 Hypovolaemia
+A48	MEDDRA-PT-ID E9 10021137
+A49	LLT E9 Intravascular depletion
+A50	LLT-ID E9 10074191
+A51	CUI E10 C0863113
+A52	UMLS-Preferred-Name E10 Hypotension symptomatic
+A53	MEDDRA-PT E10 Hypotension
+A54	MEDDRA-PT-ID E10 10021097
+A55	LLT E10 Hypotension symptomatic
+A56	LLT-ID E10 10021105
+A57	CUI E11 C0700225
+A58	UMLS-Preferred-Name E11 Serum creatinine raised
+A59	MEDDRA-PT E11 Blood creatinine increased
+A60	MEDDRA-PT-ID E11 10005483
+A61	LLT E11 Serum creatinine increased
+A62	LLT-ID E11 10040233
+A63	CUI E12 C0853068
+A64	UMLS-Preferred-Name E12 Decreased glomerular filtration rate
+A65	MEDDRA-PT E12 Glomerular filtration rate decreased
+A66	MEDDRA-PT-ID E12 10018358
+A67	LLT E12 GFR decreased
+A68	LLT-ID E12 10018214
+A69	CUI E13 C0151746
+A70	UMLS-Preferred-Name E13 Abnormal renal function
+A71	MEDDRA-PT E13 Renal impairment
+A72	MEDDRA-PT-ID E13 10062237
+A73	LLT E13 Renal function abnormal
+A74	LLT-ID E13 10038451
+A75	CUI E15 C0020461
+A76	UMLS-Preferred-Name E15 Hyperkalemia
+A77	MEDDRA-PT E15 Hyperkalaemia
+A78	MEDDRA-PT-ID E15 10020646
+A79	LLT E15 Hyperkalemia
+A80	LLT-ID E15 10020647
+A81	CUI E17 C0020461
+A82	UMLS-Preferred-Name E17 Hyperkalemia
+A83	MEDDRA-PT E17 Hyperkalaemia
+A84	MEDDRA-PT-ID E17 10020646
+A85	LLT E17 Hyperkalemia
+A86	LLT-ID E17 10020647
+A87	CUI E22 C0020615
+A88	UMLS-Preferred-Name E22 Hypoglycemia
+A89	MEDDRA-PT E22 Hypoglycaemia
+A90	MEDDRA-PT-ID E22 10020993
+A91	LLT E22 Hypoglycemia
+A92	LLT-ID E22 10021005
+A93	CUI E24 C0740330
+A94	UMLS-Preferred-Name E24 Genital infection fungal
+A95	MEDDRA-PT E24 Genital infection fungal
+A96	MEDDRA-PT-ID E24 10061180
+A97	CUI E26 C0740330
+A98	UMLS-Preferred-Name E26 Genital infection fungal
+A99	MEDDRA-PT E26 Genital infection fungal
+A100	MEDDRA-PT-ID E26 10061180
+A101	CUI E27 C0020517
+A102	UMLS-Preferred-Name E27 Hypersensitivity
+A103	MEDDRA-PT E27 Hypersensitivity
+A104	MEDDRA-PT-ID E27 10020751
+A105	LLT E27 Hypersensitivity reaction
+A106	LLT-ID E27 10020756
+A107	CUI E28 C0750016
+A108	UMLS-Preferred-Name E28 Generalized urticaria
+A109	MEDDRA-PT E28 Urticaria
+A110	MEDDRA-PT-ID E28 10046735
+A111	LLT E28 Generalized urticaria
+A112	LLT-ID E28 10049198
+A113	CUI E31 C0016658
+A114	UMLS-Preferred-Name E31 Fracture
+A115	MEDDRA-PT E31 Fracture
+A116	MEDDRA-PT-ID E31 10017076
+A117	LLT E31 Fracture bone
+A118	LLT-ID E31 10017077
+A119	CUI E33 C0549399
+A120	UMLS-Preferred-Name E33 Low density lipoprotein increased
+A121	MEDDRA-PT E33 Low density lipoprotein increased
+A122	MEDDRA-PT-ID E33 10024910
+A123	LLT E33 LDL cholesterol increased
+A124	LLT-ID E33 10024055

@@ -1,0 +1,133 @@
+52,62|C0087086|Thrombotic|patf
+71,82|C1444662|Discontinue|fndg
+96,117|C0027051|myocardial infarction|dsyn
+119,138|C0007785|cerebral infarction|dsyn
+157,187|C3544094|arterial thromboembolic events|patf
+204,223|C1096106|Wound Complications|inpo
+247,257|C0149663|dehiscence|fndg
+261,274|C1171258|complications|patf
+261,274|C0009566|complications|patf
+322,334|C0020538|Hypertension|dsyn
+322,334|C1963138|Hypertension|fndg
+370,381|C1444662|Discontinue|fndg
+395,414|C0020546|hypertensive crisis|patf
+431,447;452,455|C2711248|Osteonecrosis of jaw|dsyn
+457,468|C1444662|Discontinue|fndg
+495,537|C0549410|Palmar-plantar Erythrodysesthesia syndrome|dsyn
+596,607|C0033687|Proteinuria|fndg
+596,607|C1962972|Proteinuria|fndg
+596,607|C1279888|Proteinuria|dsyn
+632,643|C1444662|Discontinue|fndg
+648,666|C0027726|nephrotic syndrome|dsyn
+683,732|C3160858|Reversible posterior leukoencephalopathy syndrome|dsyn
+741,752|C1444662|Discontinue|fndg
+790,798|C0600688|toxicity|inpo
+900,912|C0549099|Perforations|fndg
+917,925;931,947|C0079238|Fistulas Gastrointestinal|anab,dsyn
+953,965|C0549099|perforations|fndg
+970,978|C0016169|fistulas|anab
+1075,1085|C0079238|GI fistula|anab,dsyn
+1090,1095|C1705232|fatal|fndg
+1223,1228|C1705232|fatal|fndg
+1255,1263|C1457887|symptoms|sosy
+1267,1279|C0549099|perforations|fndg
+1284,1292|C0016169|fistulas|anab
+1294,1305|C1444662|Discontinue|fndg
+1344,1355|C0549099|perforation|fndg
+1344,1355|C1881710|perforation|patf
+1361,1368|C0016169|fistula|anab
+1381,1391|C0019080|Hemorrhage|patf
+1419,1424|C1705232|fatal|fndg
+1425,1435|C0019080|hemorrhage|patf
+1477,1482;1485,1486|C3889290|Grade 3|fndg
+1638,1648|C0262926|history of|fndg
+1663,1673|C0019079|hemoptysis|sosy
+1686,1696|C0087086|Thrombotic|patf
+1728,1735|C2825142|results|fndg
+1765,1775|C0087086|thrombotic|patf
+1784,1806|C1861172|venous thromboembolism|patf
+1822,1846|C3544094|arterial thromboembolism|patf
+1927,1938|C1444662|Discontinue|fndg
+1975,2002|C3541950|acute myocardial infarction|fndg
+1975,2002|C0155626|acute myocardial infarction|dsyn
+2063,2075|C0009566|complication|patf
+2088,2107|C1096106|Wound Complications|inpo
+2113,2118|C0043250|Wound|inpo
+2113,2118|C3263723|Wound|inpo
+2113,2118|C0043251|Wound|inpo
+2119,2132|C1171258|complications|patf
+2119,2132|C0009566|complications|patf
+2222,2239|C3845500|scheduled surgery|fndg
+2257,2264|C1363945|therapy|fndg
+2368,2378|C0149663|dehiscence|fndg
+2382,2409|C1096106|wound healing complications|inpo
+2490,2497|C2825142|results|fndg
+2546,2558|C0020538|hypertension|dsyn
+2546,2558|C1963138|hypertension|fndg
+2688,2695|C3840271|stage 1|fndg
+2701,2713|C0020538|hypertension|dsyn
+2701,2713|C1963138|hypertension|fndg
+2714,2724|C1550043|identified|fndg
+2938,2950|C0020538|hypertension|dsyn
+2938,2950|C1963138|hypertension|fndg
+2974,2984|C2911690|controlled|fndg
+3015,3025|C2911690|controlled|fndg
+3062,3073|C1444662|Discontinue|fndg
+3087,3106|C4013784|severe hypertension|fndg
+3176,3192;3197,3200|C2711248|Osteonecrosis of Jaw|dsyn
+3282,3285|C2711248|ONJ|dsyn
+3302,3310|C0236000|jaw pain|sosy
+3302,3310|C2015951|jaw pain|fndg
+3312,3325|C0029443|osteomyelitis|dsyn
+3327,3335|C0029400|osteitis|dsyn
+3337,3349|C0587240|bone erosion|patf
+3360,3381|C0747479|periodontal infection|dsyn
+3383,3392|C0040460|toothache|sosy
+3394,3413|C0392378|gingival ulceration|dsyn
+3417,3424|C1959609|erosion|patf
+3417,3424|C3887524|erosion|dsyn
+3417,3424|C0333307|erosion|acab
+3437,3445|C0236000|jaw pain|sosy
+3437,3445|C2015951|jaw pain|fndg
+3597,3604|C1363945|therapy|fndg
+3632,3649|C0457639|good oral hygiene|fndg
+3665,3673|C1334278|invasive|fndg
+3751,3768|C3845500|scheduled surgery|fndg
+3794,3836|C0549410|Palmar-Plantar Erythrodysesthesia Syndrome|dsyn
+3886,3890|C0549410|PPES|dsyn
+3961,3968|C3889290|Grade 3|fndg
+4044,4051|C3889824|Grade 2|fndg
+4052,4056|C0549410|PPES|dsyn
+4070,4074|C0549410|PPES|dsyn
+4096,4101|C3244287|Grade|fndg
+4151,4162|C0033687|Proteinuria|fndg
+4151,4162|C1962972|Proteinuria|fndg
+4151,4162|C1279888|Proteinuria|dsyn
+4254,4272|C0027726|nephrotic syndrome|dsyn
+4388,4399|C1444662|Discontinue|fndg
+4433,4451|C0027726|nephrotic syndrome|dsyn
+4464,4513|C3160858|Reversible Posterior Leukoencephalopathy Syndrome|dsyn
+4570,4574|C3160858|RPLS|dsyn
+4579,4587|C0039082|syndrome|dsyn
+4603,4618|C2825502|vasogenic edema|fndg
+4647,4654|C0037088|finding|sosy
+4647,4654|C2825141|finding|fndg
+4647,4654|C0243095|finding|fndg
+4720,4724|C3160858|RPLS|dsyn
+4756,4764|C0036572|seizures|sosy
+4766,4774|C0018681|headache|sosy
+4766,4774|C2096315|headache|fndg
+4776,4795|C0547030|visual disturbances|sosy
+4797,4806|C0009676|confusion|mobd
+4797,4806|C0683369|confusion|sosy
+4797,4806|C1963086|confusion|fndg
+4835,4846|C1444662|Discontinue|fndg
+4880,4884|C3160858|RPLS|dsyn
+5117,5135|C0948807|Hepatic Impairment|dsyn
+5213,5231|C0948807|hepatic impairment|dsyn
+5309,5317|C0600688|Toxicity|inpo
+5562,5575|C0000768|malformations|cgab
+5604,5608|C1273517|used|fndg
+5616,5625|C0425965|pregnancy|fndg
+5653,5661|C0600457|pregnant|fndg
+5653,5661|C0549206|pregnant|fndg

@@ -1,0 +1,172 @@
+55,76|C0031117|Peripheral neuropathy|dsyn
+100,110|C0442874|neuropathy|dsyn
+172,183|C0002792|Anaphylaxis|patf
+172,183|C0850803|Anaphylaxis|dsyn
+188,206|C2368034|infusion reactions|patf
+215,232|C2368034|infusion reaction|patf
+269,280|C0002792|anaphylaxis|patf
+269,280|C0850803|anaphylaxis|dsyn
+301,312|C1444662|discontinue|fndg
+459,464|C0015967|fever|fndg
+459,464|C0424755|fever|fndg
+470,477|C3889290|Grade 3|fndg
+483,494|C0027947|neutropenia|dsyn
+483,494|C0023530|neutropenia|dsyn
+483,494|C0853697|neutropenia|fndg
+539,554|C1444662|discontinuation|fndg
+623,633|C3714514|infections|patf
+638,662|C0029118|opportunistic infections|dsyn
+732,748|C0042769|viral infections|dsyn
+765,785|C0041364|Tumor lysis syndrome|dsyn
+765,785|C1963254|Tumor lysis syndrome|fndg
+840,845|C0027651|tumor|neop
+840,845|C3273930|tumor|fndg
+883,897|C0235378|Hepatotoxicity|inpo
+952,970|C0919924|Pulmonary Toxicity|patf
+1001,1010|C1457868|worsening|fndg
+1011,1019|C1457887|symptoms|sosy
+1070,1081|C1444662|Discontinue|fndg
+1085,1109|C0038325|Stevens-Johnson syndrome|dsyn
+1113,1139|C0014518|toxic epidermal necrolysis|dsyn
+1177,1185|C0600688|toxicity|inpo
+1297,1318|C0031117|Peripheral Neuropathy|dsyn
+1352,1373|C0031117|peripheral neuropathy|dsyn
+1414,1441|C0235025|peripheral motor neuropathy|dsyn
+1484,1505|C0031117|peripheral neuropathy|dsyn
+1609,1614|C3244287|grade|fndg
+1618,1628|C0442874|neuropathy|dsyn
+1666,1676|C1514893|resolution|patf
+1764,1774|C0442874|neuropathy|dsyn
+1793,1803|C0442874|neuropathy|dsyn
+1863,1871|C1457887|symptoms|sosy
+1875,1885|C0442874|neuropathy|dsyn
+1895,1907|C0020580|hypoesthesia|fndg
+1909,1922|C0020453|hyperesthesia|sosy
+1924,1935|C0030554|paresthesia|dsyn
+1924,1935|C2242996|paresthesia|sosy
+1951,1968|C0085624|burning sensation|sosy
+1951,1968|C0241057|burning sensation|sosy
+1970,1986|C0027796|neuropathic pain|sosy
+1970,1986|C3714625|neuropathic pain|fndg
+1991,1999|C3714552|weakness|sosy
+2030,2039|C1457868|worsening|fndg
+2040,2061|C0031117|peripheral neuropathy|dsyn
+2102,2117|C1444662|discontinuation|fndg
+2229,2240|C0002792|Anaphylaxis|patf
+2229,2240|C0850803|Anaphylaxis|dsyn
+2245,2263|C2368034|Infusion Reactions|patf
+2278,2285|C0445223|related|fndg
+2307,2318|C0002792|anaphylaxis|patf
+2307,2318|C0850803|anaphylaxis|dsyn
+2386,2397|C0002792|anaphylaxis|patf
+2386,2397|C0850803|anaphylaxis|dsyn
+2434,2445|C1444662|discontinue|fndg
+2523,2548|C0948715|infusion-related reaction|sosy
+2677,2702|C0948715|infusion-related reaction|sosy
+2900,2911|C0027947|neutropenia|dsyn
+2900,2911|C0023530|neutropenia|dsyn
+2900,2911|C0853697|neutropenia|fndg
+2916,2923|C3889290|Grade 3|fndg
+2935,2951|C0040034|thrombocytopenia|fndg
+2955,2961|C0002871|anemia|dsyn
+2987,3006|C0746883|Febrile neutropenia|dsyn
+3196,3203|C3889290|Grade 3|fndg
+3209,3220|C0027947|neutropenia|dsyn
+3209,3220|C0023530|neutropenia|dsyn
+3209,3220|C0853697|neutropenia|fndg
+3243,3248|C0015967|fever|fndg
+3243,3248|C0424755|fever|fndg
+3253,3260|C3889290|Grade 3|fndg
+3266,3277|C0027947|neutropenia|dsyn
+3266,3277|C0023530|neutropenia|dsyn
+3266,3277|C0853697|neutropenia|fndg
+3322,3337|C1444662|discontinuation|fndg
+3468,3478|C3714514|Infections|patf
+3483,3507|C0029118|Opportunistic Infections|dsyn
+3536,3560|C0029118|opportunistic infections|dsyn
+3569,3578|C0032285|pneumonia|dsyn
+3580,3590|C0004610|bacteremia|dsyn
+3596,3602|C0243026|sepsis|dsyn
+3596,3602|C0036690|sepsis|dsyn
+3606,3618|C0036983|septic shock|patf
+3630,3644|C0206277|fatal outcomes|patf
+3806,3822|C0042769|viral infections|dsyn
+3835,3855|C0041364|Tumor Lysis Syndrome|dsyn
+3835,3855|C1963254|Tumor Lysis Syndrome|fndg
+3897,3902|C0027651|tumor|neop
+3897,3902|C3273930|tumor|fndg
+3953,3973|C0041364|tumor lysis syndrome|dsyn
+3953,3973|C1963254|tumor lysis syndrome|fndg
+4044,4052;4079,4084|C0595916|Toxicity Renal|patf
+4044,4052|C0600688|Toxicity|inpo
+4079,4095|C1565489|Renal Impairment|dsyn
+4085,4095|C0684336|Impairment|patf
+4123,4130|C3889290|Grade 3|fndg
+4153,4159|C1306577|deaths|fndg
+4196,4212|C1565489|renal impairment|dsyn
+4239,4260|C0232805|normal renal function|fndg
+4293,4300|C3889290|Grade 3|fndg
+4364,4380|C1565489|renal impairment|dsyn
+4407,4428|C0232805|normal renal function|fndg
+4480,4496|C1565489|renal impairment|dsyn
+4498,4518|C0812399|creatinine clearance|fndg
+4527,4529;4533,4536|C3842955|30 min|fndg
+4608,4609;4650,4658|C4035847|5 Moderate|fndg
+4622,4630|C0600688|Toxicity|inpo
+4669,4687|C0948807|Hepatic Impairment|dsyn
+4715,4722|C3889290|Grade 3|fndg
+4745,4751|C1306577|deaths|fndg
+4801,4819|C0948807|hepatic impairment|dsyn
+4846,4852|C0231683|normal|fndg
+4963,4981|C0948807|hepatic impairment|dsyn
+5056,5070|C0235378|Hepatotoxicity|inpo
+5122,5136|C0206277|fatal outcomes|patf
+5211,5232|C0151763|hepatocellular injury|patf
+5401,5409;5419,5432|C0235996|elevated liver enzymes|fndg
+5554,5563|C1457868|worsening|fndg
+5578,5592|C0235378|hepatotoxicity|inpo
+5633,5648|C1444662|discontinuation|fndg
+5676,5718|C0023524|Progressive Multifocal Leukoencephalopathy|dsyn
+5725,5743|C0857836|JC virus infection|dsyn
+5765,5770|C1306577|death|fndg
+5834,5842|C1457887|symptoms|sosy
+5897,5904|C1363945|therapy|fndg
+5993,6000|C1363945|therapy|fndg
+6077,6084|C0012634|disease|dsyn
+6100,6117|C4048329|immunosuppression|dsyn
+6100,6117|C1373218|immunosuppression|patf
+6180,6189|C0746890|new-onset|fndg
+6190,6195|C0311392|signs|fndg
+6200,6208|C1457887|symptoms|sosy
+6212,6248|C0151490|central nervous system abnormalities|cgab
+6305,6316|C1444662|discontinue|fndg
+6394,6402|C0600688|Toxicity|inpo
+6464,6475|C0032285|pneumonitis|dsyn
+6464,6475|C3714636|pneumonitis|dsyn
+6477,6502|C0206062|interstitial lung disease|dsyn
+6508,6543|C0035222|acute respiratory distress syndrome|dsyn
+6562,6576|C0206277|fatal outcomes|patf
+6619,6624|C0311392|signs|fndg
+6629,6637;6641,6650|C0037090|symptoms pulmonary|sosy
+6629,6637|C1457887|symptoms|sosy
+6641,6659|C0919924|pulmonary toxicity|patf
+6651,6659|C0600688|toxicity|inpo
+6671,6676|C0010200|cough|sosy
+6671,6676|C1961131|cough|fndg
+6681,6688|C0013404|dyspnea|sosy
+6713,6722|C1457868|worsening|fndg
+6723,6741|C0037090|pulmonary symptoms|sosy
+6871,6895|C0038325|Stevens-Johnson syndrome|dsyn
+6897,6900|C0036391|SJS|cgab,dsyn
+6906,6932|C0014518|toxic epidermal necrolysis|dsyn
+6950,6964|C0206277|fatal outcomes|patf
+7003,7006|C0036391|SJS|cgab,dsyn
+7010,7013|C0014518|TEN|dsyn
+7022,7033|C1444662|discontinue|fndg
+7114,7122|C0600688|Toxicity|inpo
+7452,7471|C0000768|fetal malformations|cgab
+7487,7505|C0243033|maternal exposures|inpo
+7626,7630|C1273517|used|fndg
+7638,7647|C0425965|pregnancy|fndg
+7675,7683|C0600457|pregnant|fndg
+7675,7683|C0549206|pregnant|fndg

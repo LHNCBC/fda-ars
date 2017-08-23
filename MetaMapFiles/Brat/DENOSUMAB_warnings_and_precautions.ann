@@ -1,0 +1,389 @@
+T1	AdverseReaction 148 164	Hypersensitivity
+T2	AdverseReaction 175 197	anaphylactic reactions
+T3	AdverseReaction 481 505	Osteonecrosis of the jaw
+T4	AdverseReaction 574 600	Atypical femoral fractures
+T5	AdverseReaction 719 729	infections
+T6	AdverseReaction 740 755	skin infections
+T7	AdverseReaction 969 979	Dermatitis
+T8	AdverseReaction 981 987	rashes
+T9	AdverseReaction 993 999	eczema
+T10	AdverseReaction 1099 1103;1119 1123	Bone Pain
+T11	AdverseReaction 1105 1110;1119 1123	Joint Pain
+T12	AdverseReaction 1112 1123	Muscle Pain
+T13	Severity 1092 1098	Severe
+T14	AdverseReaction 1193 1221	Suppression of bone turnover
+T15	AdverseReaction 1571 1587	hypersensitivity
+T16	AdverseReaction 1598 1609	anaphylaxis
+T17	AdverseReaction 1664 1675	hypotension
+T18	AdverseReaction 1677 1684	dyspnea
+T19	AdverseReaction 1686 1702	throat tightness
+T20	AdverseReaction 1704 1710;1728 1733	facial edema
+T21	AdverseReaction 1715 1733	upper airway edema
+T22	AdverseReaction 1735 1743	pruritus
+T23	AdverseReaction 1749 1758	urticaria
+T24	AdverseReaction 2023 2035;2043 2054	Hypocalcemia exacerbated
+T25	AdverseReaction 2617 2629	hypocalcemia
+T26	AdverseReaction 2775 2787	Hypocalcemia
+T27	AdverseReaction 2980 3019	elevations of serum parathyroid hormone
+T28	Factor 2956 2959	may
+T31	AdverseReaction 3666 3669	ONJ
+T32	AdverseReaction 5112 5119;5135 5143;5169 5191	Femoral Atypical fractures of the shaft
+T33	AdverseReaction 5283 5292;5312 5332	fractures in the femoral shaft
+T34	AdverseReaction 5637 5663	Atypical femoral fractures
+T35	AdverseReaction 5851 5861	thigh pain
+T36	AdverseReaction 6688 6698	infections
+T37	AdverseReaction 6847 6862	skin infections
+T38	AdverseReaction 6875 6900	infections of the abdomen
+T39	AdverseReaction 6875 6892;6902 6915	infections of the urinary tract
+T40	AdverseReaction 6875 6892;6921 6924	infections of the ear
+T41	AdverseReaction 6978 6990	Endocarditis
+T42	AdverseReaction 7070 7094	opportunistic infections
+T43	AdverseReaction 7171 7181	infections
+T44	AdverseReaction 7816 7825;7837 7851	epidermal adverse events
+T45	AdverseReaction 7830 7851	dermal adverse events
+T46	AdverseReaction 7860 7870	dermatitis
+T47	AdverseReaction 7872 7878	eczema
+T48	AdverseReaction 7884 7890	rashes
+T49	AdverseReaction 8245 8249;8272 8276	bone pain
+T50	AdverseReaction 8251 8256;8272 8276	joint pain
+T51	AdverseReaction 8265 8276	muscle pain
+T52	Severity 8206 8212	severe
+T53	Severity 8230 8244	incapacitating
+T54	AdverseReaction 8709 8739	suppression of bone remodeling
+T55	AdverseReaction 9023 9053	suppression of bone remodeling
+T56	AdverseReaction 9118 9142	osteonecrosis of the jaw
+T57	AdverseReaction 9144 9162	atypical fractures
+T58	AdverseReaction 9168 9192	delayed fracture healing
+T59	Severity 711 718	Serious
+T60	Factor 2036 2039	may
+T61	Severity 2973 2979	marked
+T29	Severity 6680 6687	serious
+T30	Severity 6839 6846	Serious
+T62	AdverseReaction 7473 7483	infections
+T63	Severity 7465 7472	serious
+T64	Factor 7436 7439	may
+T65	Factor 9075 9078	may
+T68	AdverseReaction 292 304	Hypocalcemia
+T69	AdverseReaction 945 967	Dermatologic reactions
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Effect:E59
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10 Effect:E13
+E11	AdverseReaction:T11 Effect:E13
+E12	AdverseReaction:T12 Effect:E13
+E13	Severity:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24 Hypothetical:E60
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27 Hypothetical:E28 Effect:E61
+E28	Factor:T28
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36 Effect:E29
+E37	AdverseReaction:T37 Effect:E30
+E38	AdverseReaction:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42
+E43	AdverseReaction:T43
+E44	AdverseReaction:T44
+E45	AdverseReaction:T45
+E46	AdverseReaction:T46
+E47	AdverseReaction:T47
+E48	AdverseReaction:T48
+E49	AdverseReaction:T49 Effect:E52 Effect2:E53
+E50	AdverseReaction:T50 Effect:E53 Effect2:E52
+E51	AdverseReaction:T51 Effect:E53 Effect2:E52
+E52	Severity:T52
+E53	Severity:T53
+E54	AdverseReaction:T54
+E55	AdverseReaction:T55
+E56	AdverseReaction:T56 Hypothetical:E65
+E57	AdverseReaction:T57 Hypothetical:E65
+E58	AdverseReaction:T58 Hypothetical:E65
+E59	Severity:T59
+E60	Factor:T60
+E61	Severity:T61
+E29	Severity:T29
+E30	Severity:T30
+E62	AdverseReaction:T62 Effect:E63 Hypothetical:E64
+E63	Severity:T63
+E64	Factor:T64
+E65	Factor:T65
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	CUI E2 C0002792
+A6	UMLS-Preferred-Name E2 anaphylaxis
+A7	MEDDRA-PT E2 Anaphylactic reaction
+A8	MEDDRA-PT-ID E2 10002198
+A9	CUI E3 C2902031
+A10	UMLS-Preferred-Name E3 Osteonecrosis of jaw caused by drug
+A11	MEDDRA-PT E3 Osteonecrosis of jaw
+A12	MEDDRA-PT-ID E3 10064658
+A13	CUI E4 C3160754
+A14	UMLS-Preferred-Name E4 Atypical femur fracture
+A15	MEDDRA-PT E4 Atypical femur fracture
+A16	MEDDRA-PT-ID E4 10070884
+A17	CUI E5 C3714514
+A18	UMLS-Preferred-Name E5 Infection
+A19	MEDDRA-PT E5 Infection
+A20	MEDDRA-PT-ID E5 10021789
+A21	CUI E6 C0037278
+A22	UMLS-Preferred-Name E6 Skin Diseases, Infectious
+A23	MEDDRA-PT E6 Skin infection
+A24	MEDDRA-PT-ID E6 10040872
+A25	CUI E7 C0011603
+A26	UMLS-Preferred-Name E7 Dermatitis
+A27	MEDDRA-PT E7 Dermatitis
+A28	MEDDRA-PT-ID E7 10012431
+A29	CUI E8 C0015230
+A30	UMLS-Preferred-Name E8 Exanthema
+A31	MEDDRA-PT E8 Rash
+A32	MEDDRA-PT-ID E8 10037844
+A33	CUI E9 C0013595
+A34	UMLS-Preferred-Name E9 Eczema
+A35	MEDDRA-PT E9 Eczema
+A36	MEDDRA-PT-ID E9 10014184
+A37	CUI E10 C0151825
+A38	UMLS-Preferred-Name E10 Bone pain
+A39	MEDDRA-PT E10 Bone pain
+A40	MEDDRA-PT-ID E10 10006002
+A41	CUI E11 C0003862
+A42	UMLS-Preferred-Name E11 Arthralgia
+A43	MEDDRA-PT E11 Arthralgia
+A44	MEDDRA-PT-ID E11 10003239
+A45	LLT E11 Joint pain
+A46	LLT-ID E11 10023222
+A47	CUI E12 C0231528
+A48	UMLS-Preferred-Name E12 Myalgia
+A49	MEDDRA-PT E12 Myalgia
+A50	MEDDRA-PT-ID E12 10028411
+A51	LLT E12 Muscle pain
+A52	LLT-ID E12 10028322
+A53	CUI E14 C0231548
+A54	UMLS-Preferred-Name E14 Bone turnover rate decreased
+A55	MEDDRA-PT E14 Low turnover osteopathy
+A56	MEDDRA-PT-ID E14 10063000
+A57	LLT E14 Low turnover bone disease
+A58	LLT-ID E14 10062634
+A59	CUI E15 C0020517
+A60	UMLS-Preferred-Name E15 Hypersensitivity
+A61	MEDDRA-PT E15 Hypersensitivity
+A62	MEDDRA-PT-ID E15 10020751
+A63	CUI E16 C0002792
+A64	UMLS-Preferred-Name E16 anaphylaxis
+A65	MEDDRA-PT E16 Anaphylactic reaction
+A66	MEDDRA-PT-ID E16 10002198
+A67	LLT E16 Anaphylaxis
+A68	LLT-ID E16 10002218
+A69	CUI E17 C0020649
+A70	UMLS-Preferred-Name E17 Hypotension
+A71	MEDDRA-PT E17 Hypotension
+A72	MEDDRA-PT-ID E17 10021097
+A73	CUI E18 C0013404
+A74	UMLS-Preferred-Name E18 Dyspnea
+A75	MEDDRA-PT E18 Dyspnoea
+A76	MEDDRA-PT-ID E18 10013968
+A77	LLT E18 Dyspnea
+A78	LLT-ID E18 10013963
+A79	CUI E19 C0236071
+A80	UMLS-Preferred-Name E19 Feeling of throat tightness
+A81	MEDDRA-PT E19 Throat tightness
+A82	MEDDRA-PT-ID E19 10043528
+A83	CUI E20 C0542571
+A84	UMLS-Preferred-Name E20 Facial edema
+A85	MEDDRA-PT E20 Face oedema
+A86	MEDDRA-PT-ID E20 10016029
+A87	LLT E20 Face edema
+A88	LLT-ID E20 10016025
+A89	CUI E21 C2939065
+A90	UMLS-Preferred-Name E21 Airway edema
+A91	MEDDRA-PT E21 Respiratory tract oedema
+A92	MEDDRA-PT-ID E21 10070774
+A93	LLT E21 Airway edema
+A94	LLT-ID E21 10070778
+A95	CUI E22 C0033774
+A96	UMLS-Preferred-Name E22 Pruritus
+A97	MEDDRA-PT E22 Pruritus
+A98	MEDDRA-PT-ID E22 10037087
+A99	CUI E23 C0042109
+A100	UMLS-Preferred-Name E23 Urticaria
+A101	MEDDRA-PT E23 Urticaria
+A102	MEDDRA-PT-ID E23 10046735
+A103	CUI E24 C0020598
+A104	UMLS-Preferred-Name E24 Hypocalcemia
+A105	MEDDRA-PT E24 Hypocalcaemia
+A106	MEDDRA-PT-ID E24 10020947
+A107	LLT E24 Hypocalcemia
+A108	LLT-ID E24 10020949
+A109	CUI E25 C0020598
+A110	UMLS-Preferred-Name E25 Hypocalcemia
+A111	MEDDRA-PT E25 Hypocalcaemia
+A112	MEDDRA-PT-ID E25 10020947
+A113	LLT E25 Hypocalcemia
+A114	LLT-ID E25 10020949
+A115	CUI E26 C0020598
+A116	UMLS-Preferred-Name E26 Hypocalcemia
+A117	MEDDRA-PT E26 Hypocalcaemia
+A118	MEDDRA-PT-ID E26 10020947
+A119	LLT E26 Hypocalcemia
+A120	LLT-ID E26 10020949
+A121	CUI E27 C0857973
+A122	UMLS-Preferred-Name E27 Elevated circulating parathyroid hormone (PTH) level
+A123	MEDDRA-PT E27 Blood parathyroid hormone increased
+A124	MEDDRA-PT-ID E27 10005703
+A125	LLT E27 Serum parathyroid hormone increased
+A126	LLT-ID E27 10040363
+A127	CUI E31 C2902031
+A128	UMLS-Preferred-Name E31 Osteonecrosis of jaw caused by drug
+A129	MEDDRA-PT E31 Osteonecrosis of jaw
+A130	MEDDRA-PT-ID E31 10064658
+A131	flag E32 duplicate
+A132	CUI E32 C3160754
+A133	UMLS-Preferred-Name E32 Atypical femur fracture
+A134	MEDDRA-PT E32 Atypical femur fracture
+A135	MEDDRA-PT-ID E32 10070884
+A136	CUI E33 C0272753
+A137	UMLS-Preferred-Name E33 Fracture of shaft of femur
+A138	MEDDRA-PT E33 Femur fracture
+A139	MEDDRA-PT-ID E33 10016454
+A140	LLT E33 Femur shaft fracture
+A141	LLT-ID E33 10069887
+A142	CUI E34 C3160754
+A143	UMLS-Preferred-Name E34 Atypical femur fracture
+A144	MEDDRA-PT E34 Atypical femur fracture
+A145	MEDDRA-PT-ID E34 10070884
+A146	CUI E35 C0241374
+A147	UMLS-Preferred-Name E35 Thigh pain
+A148	MEDDRA-PT E35 Pain in extremity
+A149	MEDDRA-PT-ID E35 10033425
+A150	LLT E35 Pain in thigh
+A151	LLT-ID E35 10048973
+A152	CUI E36 C3714514
+A153	UMLS-Preferred-Name E36 Infection
+A154	MEDDRA-PT E36 Infection
+A155	MEDDRA-PT-ID E36 10021789
+A156	CUI E37 C0037278
+A157	UMLS-Preferred-Name E37 Skin Diseases, Infectious
+A158	MEDDRA-PT E37 Skin infection
+A159	MEDDRA-PT-ID E37 10040872
+A160	CUI E38 C1112209
+A161	UMLS-Preferred-Name E38 Intraabdominal Infections
+A162	MEDDRA-PT E38 Abdominal infection
+A163	MEDDRA-PT-ID E38 10056519
+A164	CUI E39 C0042029
+A165	UMLS-Preferred-Name E39 Urinary tract infection
+A166	MEDDRA-PT E39 Urinary tract infection
+A167	MEDDRA-PT-ID E39 10046571
+A168	CUI E40 C0699744
+A169	UMLS-Preferred-Name E40 Infection of ear
+A170	MEDDRA-PT E40 Ear infection
+A171	MEDDRA-PT-ID E40 10014011
+A172	CUI E41 C0014118
+A173	UMLS-Preferred-Name E41 Endocarditis
+A174	MEDDRA-PT E41 Endocarditis
+A175	MEDDRA-PT-ID E41 10014665
+A176	CUI E42 C0029118
+A177	UMLS-Preferred-Name E42 Opportunistic Infections
+A178	MEDDRA-PT E42 Opportunistic infection
+A179	MEDDRA-PT-ID E42 10030901
+A180	CUI E43 C3714514
+A181	UMLS-Preferred-Name E43 Infection
+A182	MEDDRA-PT E43 Infection
+A183	MEDDRA-PT-ID E43 10021789
+A184	CUI E44 C0221743
+A185	UMLS-Preferred-Name E44 Skin reaction
+A186	MEDDRA-PT E44 Skin reaction
+A187	MEDDRA-PT-ID E44 10040914
+A188	CUI E45 C0221743
+A189	UMLS-Preferred-Name E45 Skin reaction
+A190	MEDDRA-PT E45 Skin reaction
+A191	MEDDRA-PT-ID E45 10040914
+A192	CUI E46 C0011603
+A193	UMLS-Preferred-Name E46 Dermatitis
+A194	MEDDRA-PT E46 Dermatitis
+A195	MEDDRA-PT-ID E46 10012431
+A196	CUI E47 C0013595
+A197	UMLS-Preferred-Name E47 Eczema
+A198	MEDDRA-PT E47 Eczema
+A199	MEDDRA-PT-ID E47 10014184
+A200	CUI E48 C0015230
+A201	UMLS-Preferred-Name E48 Exanthema
+A202	MEDDRA-PT E48 Rash
+A203	MEDDRA-PT-ID E48 10037844
+A204	CUI E49 C0151825
+A205	UMLS-Preferred-Name E49 Bone pain
+A206	MEDDRA-PT E49 Bone pain
+A207	MEDDRA-PT-ID E49 10006002
+A208	CUI E50 C0003862
+A209	UMLS-Preferred-Name E50 Arthralgia
+A210	MEDDRA-PT E50 Arthralgia
+A211	MEDDRA-PT-ID E50 10003239
+A212	LLT E50 Joint pain
+A213	LLT-ID E50 10023222
+A214	CUI E51 C0231528
+A215	UMLS-Preferred-Name E51 Myalgia
+A216	MEDDRA-PT E51 Myalgia
+A217	MEDDRA-PT-ID E51 10028411
+A218	LLT E51 Muscle pain
+A219	LLT-ID E51 10028322
+A220	CUI E54 C0231557
+A221	UMLS-Preferred-Name E54 Abnormal bone formation
+A222	MEDDRA-PT E54 Bone development abnormal
+A223	MEDDRA-PT-ID E54 10005954
+A224	CUI E55 C0231557
+A225	UMLS-Preferred-Name E55 Abnormal bone formation
+A226	MEDDRA-PT E55 Bone development abnormal
+A227	MEDDRA-PT-ID E55 10005954
+A228	CUI E56 C2902031
+A229	UMLS-Preferred-Name E56 Osteonecrosis of jaw caused by drug
+A230	MEDDRA-PT E56 Osteonecrosis of jaw
+A231	MEDDRA-PT-ID E56 10064658
+A232	CUI E57 C3495700
+A233	UMLS-Preferred-Name E57 Atypical fracture
+A234	MEDDRA-PT E57 Atypical fracture
+A235	MEDDRA-PT-ID E57 10072395
+A236	CUI E58 C0151692
+A237	UMLS-Preferred-Name E58 Impaired wound healing
+A238	MEDDRA-PT E58 Impaired healing
+A239	MEDDRA-PT-ID E58 10021519
+A240	LLT E58 Delayed healing of wound
+A241	LLT-ID E58 10012200
+A242	CUI E62 C3714514
+A243	UMLS-Preferred-Name E62 Infection
+A244	MEDDRA-PT E62 Infection
+A245	MEDDRA-PT-ID E62 10021789
+A246	CUI E68 C0020598
+A247	UMLS-Preferred-Name E68 Hypocalcemia
+A248	MEDDRA-PT E68 Hypocalcaemia
+A249	MEDDRA-PT-ID E68 10020947
+A250	LLT E68 Hypocalcemia
+A251	LLT-ID E68 10020949
+A252	CUI E69 C0221743
+A253	UMLS-Preferred-Name E69 Skin reaction
+A254	MEDDRA-PT E69 Skin reaction
+A255	MEDDRA-PT-ID E69 10040914

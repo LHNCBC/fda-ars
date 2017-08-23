@@ -1,0 +1,330 @@
+T1	AdverseReaction 729 739	fetal harm
+T2	Factor 719 722	May
+T3	AdverseReaction 897 905	Diarrhea
+T4	AdverseReaction 907 913	nausea
+T5	AdverseReaction 915 923	vomiting
+T6	AdverseReaction 929 943	abdominal pain
+T7	AdverseReaction 1591 1607	Thrombocytopenia
+T8	AdverseReaction 1609 1615	anemia
+T9	AdverseReaction 1620 1631	neutropenia
+T10	AdverseReaction 2004 2029	drug induced liver injury
+T11	AdverseReaction 2053 2070	elevations in ALT
+T12	Severity 2103 2108	3*ULN
+T13	AdverseReaction 2053 2066;2074 2077	elevations in AST
+T14	AdverseReaction 2114 2148	total bilirubin greater than 2*ULN
+T16	AdverseReaction 2153 2189	alkaline phosphatase less than 2*ULN
+T18	AdverseReaction 2461 2474	ALT elevation
+T19	AdverseReaction 2487 2500	AST elevation
+T20	AdverseReaction 2556 2567;2582 2585	increase in AST
+T21	AdverseReaction 2556 2567;2575 2578	increase in ALT
+T22	AdverseReaction 2601 2624	transaminase elevations
+T23	AdverseReaction 2682 2705	transaminase elevations
+T24	AdverseReaction 2819 2832	increased ALT
+T25	AdverseReaction 2819 2828;2837 2840	increased AST
+T26	AdverseReaction 3283 3298	Fluid retention
+T27	AdverseReaction 3339 3359	pericardial effusion
+T28	AdverseReaction 3361 3377	pleural effusion
+T29	Factor 3323 3326	may
+T30	AdverseReaction 3379 3394	pulmonary edema
+T31	AdverseReaction 3403 3419	peripheral edema
+T32	AdverseReaction 3528 3543	fluid retention
+T33	Severity 3521 3527	severe
+T34	AdverseReaction 3622 3638	pleural effusion
+T35	Severity 3609 3616	Grade 3
+T36	Severity 3609 3614;3620 3621	Grade 4
+T37	AdverseReaction 3687 3694;3711 3720	pleural effusions
+T38	AdverseReaction 3699 3720	pericardial effusions
+T39	Severity 3668 3675	Grade 3
+T40	Severity 3679 3686	Grade 4
+T41	Severity 3744 3751	Grade 3
+T42	AdverseReaction 3752 3762;3777 3782	peripheral edema
+T43	AdverseReaction 3767 3782	pulmonary edema
+T44	AdverseReaction 3812 3817	edema
+T45	Severity 3804 3811	Grade 3
+T46	AdverseReaction 4055 4102	decline in estimated glomerular filtration rate
+T59	AdverseReaction 4886 4900	Kidney Failure
+T60	AdverseReaction 6436 6446	fetal harm
+T61	Factor 6426 6429	can
+T62	AdverseReaction 6503 6525	embryofetal toxicities
+T63	Animal 6529 6536	rabbits
+T64	AdverseReaction 52 77	Gastrointestinal Toxicity
+T65	AdverseReaction 182 198	Myelosuppression
+T66	AdverseReaction 269 285	Hepatic Toxicity
+T67	AdverseReaction 438 453	Fluid Retention
+T68	AdverseReaction 587 601	Renal Toxicity
+T15	AdverseReaction 697 717	Embryofetal Toxicity
+E1	AdverseReaction:T1 Hypothetical:E2
+E2	Factor:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11 Effect:E12
+E12	Severity:T12
+E13	AdverseReaction:T13 Effect:E12
+E14	AdverseReaction:T14
+E16	AdverseReaction:T16
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24
+E25	AdverseReaction:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27 Hypothetical:E29
+E28	AdverseReaction:T28 Hypothetical:E29
+E29	Factor:T29
+E30	AdverseReaction:T30 Hypothetical:E29
+E31	AdverseReaction:T31 Hypothetical:E29
+E32	AdverseReaction:T32 Effect:E33
+E33	Severity:T33
+E34	AdverseReaction:T34 Effect:E35 Effect2:E36
+E35	Severity:T35
+E36	Severity:T36
+E37	AdverseReaction:T37 Effect:E39 Effect2:E40
+E38	AdverseReaction:T38 Effect:E39 Effect2:E40
+E39	Severity:T39
+E40	Severity:T40
+E41	Severity:T41
+E42	AdverseReaction:T42 Effect:E41
+E43	AdverseReaction:T43 Effect:E41
+E44	AdverseReaction:T44 Effect:E45
+E45	Severity:T45
+E46	AdverseReaction:T46
+E62	AdverseReaction:T59
+E63	AdverseReaction:T60 Hypothetical:E64
+E64	Factor:T61
+E65	AdverseReaction:T62 Hypothetical:E66
+E66	Animal:T63
+E67	AdverseReaction:T64
+E68	AdverseReaction:T65
+E69	AdverseReaction:T66
+E70	AdverseReaction:T67
+E71	AdverseReaction:T68
+E15	AdverseReaction:T15
+A1	CUI E1 C0854268
+A2	UMLS-Preferred-Name E1 Foetal damage
+A3	MEDDRA-PT E1 Foetal damage
+A4	MEDDRA-PT-ID E1 10016852
+A5	LLT E1 Fetal damage
+A6	LLT-ID E1 10054743
+A7	CUI E3 C0011991
+A8	UMLS-Preferred-Name E3 Diarrhea
+A9	MEDDRA-PT E3 Diarrhoea
+A10	MEDDRA-PT-ID E3 10012735
+A11	LLT E3 Diarrhea
+A12	LLT-ID E3 10012727
+A13	CUI E4 C0027497
+A14	UMLS-Preferred-Name E4 Nausea
+A15	MEDDRA-PT E4 Nausea
+A16	MEDDRA-PT-ID E4 10028813
+A17	CUI E5 C0042963
+A18	UMLS-Preferred-Name E5 Vomiting
+A19	MEDDRA-PT E5 Vomiting
+A20	MEDDRA-PT-ID E5 10047700
+A21	CUI E6 C0000737
+A22	UMLS-Preferred-Name E6 Abdominal Pain
+A23	MEDDRA-PT E6 Abdominal pain
+A24	MEDDRA-PT-ID E6 10000081
+A25	CUI E7 C0040034
+A26	UMLS-Preferred-Name E7 Thrombocytopenia
+A27	MEDDRA-PT E7 Thrombocytopenia
+A28	MEDDRA-PT-ID E7 10043554
+A29	CUI E8 C0002871
+A30	UMLS-Preferred-Name E8 Anemia
+A31	MEDDRA-PT E8 Anaemia
+A32	MEDDRA-PT-ID E8 10002034
+A33	LLT E8 Anemia
+A34	LLT-ID E8 10002272
+A35	CUI E9 C0027947
+A36	UMLS-Preferred-Name E9 Neutropenia
+A37	MEDDRA-PT E9 Neutropenia
+A38	MEDDRA-PT-ID E9 10029354
+A39	CUI E10 C0860207
+A40	UMLS-Preferred-Name E10 Drug-Induced Liver Injury
+A41	MEDDRA-PT E10 Drug-induced liver injury
+A42	MEDDRA-PT-ID E10 10072268
+A43	CUI E11 C0151905
+A44	UMLS-Preferred-Name E11 Alanine aminotransferase increased
+A45	MEDDRA-PT E11 Alanine aminotransferase increased
+A46	MEDDRA-PT-ID E11 10001551
+A47	LLT E11 ALT increased
+A48	LLT-ID E11 10001845
+A49	CUI E13 C0151904
+A50	UMLS-Preferred-Name E13 Aspartate aminotransferase increased
+A51	MEDDRA-PT E13 Aspartate aminotransferase increased
+A52	MEDDRA-PT-ID E13 10003481
+A53	LLT E13 AST increased
+A54	LLT-ID E13 10003544
+A55	CUI E14 C0741494
+A56	UMLS-Preferred-Name E14 Elevated total bilirubin
+A57	MEDDRA-PT E14 Blood bilirubin increased
+A58	MEDDRA-PT-ID E14 10005364
+A59	LLT E14 Bilirubin total increased
+A60	LLT-ID E14 10056806
+A61	CUI E16 C0151849
+A62	UMLS-Preferred-Name E16 Alkaline phosphatase raised
+A63	MEDDRA-PT E16 Blood alkaline phosphatase increased
+A64	MEDDRA-PT-ID E16 10059570
+A65	LLT E16 Alkaline phosphatase increased
+A66	LLT-ID E16 10001675
+A67	CUI E18 C0151905
+A68	UMLS-Preferred-Name E18 Alanine aminotransferase increased
+A69	MEDDRA-PT E18 Alanine aminotransferase increased
+A70	MEDDRA-PT-ID E18 10001551
+A71	LLT E18 ALT increased
+A72	LLT-ID E18 10001845
+A73	CUI E19 C0151904
+A74	UMLS-Preferred-Name E19 Aspartate aminotransferase increased
+A75	MEDDRA-PT E19 Aspartate aminotransferase increased
+A76	MEDDRA-PT-ID E19 10003481
+A77	LLT E19 AST increased
+A78	LLT-ID E19 10003544
+A79	CUI E20 C0151904
+A80	UMLS-Preferred-Name E20 Aspartate aminotransferase increased
+A81	MEDDRA-PT E20 Aspartate aminotransferase increased
+A82	MEDDRA-PT-ID E20 10003481
+A83	LLT E20 AST increased
+A84	LLT-ID E20 10003544
+A85	CUI E21 C0151905
+A86	UMLS-Preferred-Name E21 Alanine aminotransferase increased
+A87	MEDDRA-PT E21 Alanine aminotransferase increased
+A88	MEDDRA-PT-ID E21 10001551
+A89	LLT E21 ALT increased
+A90	LLT-ID E21 10001845
+A91	CUI E22 C0438717
+A92	UMLS-Preferred-Name E22 Transaminases increased
+A93	MEDDRA-PT E22 Transaminases increased
+A94	MEDDRA-PT-ID E22 10054889
+A95	CUI E23 C0438717
+A96	UMLS-Preferred-Name E23 Transaminases increased
+A97	MEDDRA-PT E23 Transaminases increased
+A98	MEDDRA-PT-ID E23 10054889
+A99	CUI E24 C0151905
+A100	UMLS-Preferred-Name E24 Alanine aminotransferase increased
+A101	MEDDRA-PT E24 Alanine aminotransferase increased
+A102	MEDDRA-PT-ID E24 10001551
+A103	LLT E24 ALT increased
+A104	LLT-ID E24 10001845
+A105	CUI E25 C0151904
+A106	UMLS-Preferred-Name E25 Aspartate aminotransferase increased
+A107	MEDDRA-PT E25 Aspartate aminotransferase increased
+A108	MEDDRA-PT-ID E25 10003481
+A109	LLT E25 AST increased
+A110	LLT-ID E25 10003544
+A111	CUI E26 C0268000
+A112	UMLS-Preferred-Name E26 Body fluid retention
+A113	MEDDRA-PT E26 Fluid retention
+A114	MEDDRA-PT-ID E26 10016807
+A115	CUI E27 C0031039
+A116	UMLS-Preferred-Name E27 Pericardial effusion
+A117	MEDDRA-PT E27 Pericardial effusion
+A118	MEDDRA-PT-ID E27 10034474
+A119	CUI E28 C0032227
+A120	UMLS-Preferred-Name E28 Pleural effusion disorder
+A121	MEDDRA-PT E28 Pleural effusion
+A122	MEDDRA-PT-ID E28 10035598
+A123	CUI E30 C0034063
+A124	UMLS-Preferred-Name E30 Pulmonary Edema
+A125	MEDDRA-PT E30 Pulmonary oedema
+A126	MEDDRA-PT-ID E30 10037423
+A127	LLT E30 Pulmonary edema
+A128	LLT-ID E30 10037375
+A129	CUI E31 C0085649
+A130	UMLS-Preferred-Name E31 Peripheral edema
+A131	MEDDRA-PT E31 Oedema peripheral
+A132	MEDDRA-PT-ID E31 10030124
+A133	LLT E31 Peripheral edema
+A134	LLT-ID E31 10034570
+A135	CUI E32 C0268000
+A136	UMLS-Preferred-Name E32 Body fluid retention
+A137	MEDDRA-PT E32 Fluid retention
+A138	MEDDRA-PT-ID E32 10016807
+A139	CUI E34 C0032227
+A140	UMLS-Preferred-Name E34 Pleural effusion disorder
+A141	MEDDRA-PT E34 Pleural effusion
+A142	MEDDRA-PT-ID E34 10035598
+A143	CUI E37 C0032227
+A144	UMLS-Preferred-Name E37 Pleural effusion disorder
+A145	MEDDRA-PT E37 Pleural effusion
+A146	MEDDRA-PT-ID E37 10035598
+A147	CUI E38 C0031039
+A148	UMLS-Preferred-Name E38 Pericardial effusion
+A149	MEDDRA-PT E38 Pericardial effusion
+A150	MEDDRA-PT-ID E38 10034474
+A151	CUI E42 C0085649
+A152	UMLS-Preferred-Name E42 Peripheral edema
+A153	MEDDRA-PT E42 Oedema peripheral
+A154	MEDDRA-PT-ID E42 10030124
+A155	LLT E42 Peripheral edema
+A156	LLT-ID E42 10034570
+A157	CUI E43 C0034063
+A158	UMLS-Preferred-Name E43 Pulmonary Edema
+A159	MEDDRA-PT E43 Pulmonary oedema
+A160	MEDDRA-PT-ID E43 10037423
+A161	LLT E43 Pulmonary edema
+A162	LLT-ID E43 10037375
+A163	CUI E44 C0013604
+A164	UMLS-Preferred-Name E44 Edema
+A165	MEDDRA-PT E44 Oedema
+A166	MEDDRA-PT-ID E44 10030095
+A167	LLT E44 Edema
+A168	LLT-ID E44 10014210
+A169	CUI E46 C0853068
+A170	UMLS-Preferred-Name E46 Decreased glomerular filtration rate
+A171	MEDDRA-PT E46 Glomerular filtration rate decreased
+A172	MEDDRA-PT-ID E46 10018358
+A173	CUI E62 C0035078
+A174	UMLS-Preferred-Name E62 Kidney Failure
+A175	MEDDRA-PT E62 Renal failure
+A176	MEDDRA-PT-ID E62 10038435
+A177	LLT E62 Kidney failure
+A178	LLT-ID E62 10023418
+A179	CUI E63 C0854268
+A180	UMLS-Preferred-Name E63 Foetal damage
+A181	MEDDRA-PT E63 Foetal damage
+A182	MEDDRA-PT-ID E63 10016852
+A183	LLT E63 Fetal damage
+A184	LLT-ID E63 10054743
+A185	CUI E65 C0270009
+A186	UMLS-Preferred-Name E65 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A187	MEDDRA-PT E65 Maternal drugs affecting foetus
+A188	MEDDRA-PT-ID E65 10026923
+A189	LLT E65 Drug toxicity NEC affecting foetus
+A190	LLT-ID E65 10013750
+A191	CUI E67 C1142499
+A192	UMLS-Preferred-Name E67 Gastrointestinal toxicity
+A193	MEDDRA-PT E67 Gastrointestinal toxicity
+A194	MEDDRA-PT-ID E67 10059024
+A195	CUI E68 C0854467
+A196	UMLS-Preferred-Name E68 Myelosuppression
+A197	MEDDRA-PT E68 Bone marrow failure
+A198	MEDDRA-PT-ID E68 10065553
+A199	LLT E68 Myelosuppression
+A200	LLT-ID E68 10028584
+A201	CUI E69 C0348754
+A202	UMLS-Preferred-Name E69 Toxic liver disease
+A203	MEDDRA-PT E69 Hepatotoxicity
+A204	MEDDRA-PT-ID E69 10019851
+A205	CUI E70 C0268000
+A206	UMLS-Preferred-Name E70 Body fluid retention
+A207	MEDDRA-PT E70 Fluid retention
+A208	MEDDRA-PT-ID E70 10016807
+A209	CUI E71 C0595916
+A210	UMLS-Preferred-Name E71 Toxic nephropathy
+A211	MEDDRA-PT E71 Nephropathy toxic
+A212	MEDDRA-PT-ID E71 10029155
+A213	LLT E71 Toxicity renal
+A214	LLT-ID E71 10044258
+A215	CUI E15 C0270009
+A216	UMLS-Preferred-Name E15 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A217	MEDDRA-PT E15 Maternal drugs affecting foetus
+A218	MEDDRA-PT-ID E15 10026923
+A219	LLT E15 Drug toxicity NEC affecting foetus
+A220	LLT-ID E15 10013750

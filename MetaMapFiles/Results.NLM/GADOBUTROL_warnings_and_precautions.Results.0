@@ -1,0 +1,49 @@
+54,83|TP|Nephrogenic Systemic Fibrosis|C3888044|10067467|54,83|Nephrogenic Systemic Fibrosis|C3888044|10067467|dsyn
+241,253;281,290|FN|Anaphylactic reactions|C0002792
+264,290;312,323|FP|hypersensitivity reactions respiratory|C0035228|10038683|patf
+264,290|FN|hypersensitivity reactions|C0020517
+296,310;337,351|FN|cardiovascular manifestations|C0425560
+312,323;337,351|FN|respiratory manifestations|C0037090
+327,351|MedDRADiff|cutaneous manifestations|C0037285|10075531|327,351|cutaneous manifestations|C0037285|10040831,10048768|sosy
+327,351|TP|cutaneous manifestations|C0037285|10075531|327,351|cutaneous manifestations|C0037285|10040831,10048768|sosy
+392,397|TP|death|C1306577|10011906|392,397|death|C1306577|10011906|fndg
+509,538|FP|Nephrogenic Systemic Fibrosis|C3888044|10067467|dsyn
+607,636|TP|nephrogenic systemic fibrosis|C3888044|10067467|607,636|nephrogenic systemic fibrosis|C3888044|10067467|dsyn
+638,641|FN|NSF|C3888044
+866,869|TP|NSF|C3888044|10067467|866,869|NSF|C3888044|10067467|dsyn
+909,916;925,939|FP|chronic kidney disease|C1561643|10064848|dsyn
+994,1013|FP|acute kidney injury|C2609414|10069339|inpo
+1056,1063;1074,1088|FP|chronic kidney disease|C1561643|10064848|dsyn
+1160,1167;1174,1188|FP|chronic kidney disease|C1561643|10064848|dsyn
+1223,1226|TP|NSF|C3888044|10067467|1223,1226|NSF|C3888044|10067467|dsyn
+1241,1246|FN|fatal|C1306577
+1263,1271|TP|fibrosis|C0016059|10016642|1263,1271|fibrosis|C0016059|10016642|patf
+1344,1347|FP|NSF|C3888044|10067467|dsyn
+1495,1514|FP|acute kidney injury|C2609414|10069339|inpo
+1577,1599|FP|of acute kidney injury|C2609414|10069339|inpo
+1733,1742|FP|infection|C3714514|10021789|patf
+1767,1782|FP|kidney toxicity|C0595916|10029155|patf
+1994,2011|FP|diabetes mellitus|C0011849|10012601|dsyn
+2136,2139|FP|NSF|C3888044|10067467|dsyn
+2210,2226|FP|renal impairment|C1565489|10062237|dsyn
+2350,2353|FP|NSF|C3888044|10067467|dsyn
+2804,2807|FP|NSF|C3888044|10067467|dsyn
+2868,2894|FP|Hypersensitivity Reactions|C0020517|10020751|patf
+2900,2912;2940,2949|FN|Anaphylactic reactions|C0002792
+2923,2949;2971,2982|FP|hypersensitivity reactions respiratory|C0035228|10038683|patf
+2923,2949|FN|hypersensitivity reactions|C0020517
+2986,3010|FP|cutaneous manifestations|C0037285|10048768|sosy
+3051,3056|TP|death|C1306577|10011906|3051,3056|death|C1306577|10011906|fndg
+3234,3242;3246,3260|FP|reaction contrast media|C0853800|10010836|dsyn
+3262,3278|FP|bronchial asthma|C1869116,C0004096|10003553,10003553|fndg,dsyn
+3286,3304|FP|allergic disorders|C0020517|10020751|patf
+3354,3379|FP|hypersensitivity reaction|C0020517|10020751|patf
+3521,3547|FP|hypersensitivity reactions|C0020517|10020751|patf
+3605,3631|FP|hypersensitivity reactions|C0020517|10020751|patf
+3812,3838|FP|hypersensitivity reactions|C0020517|10020751|patf
+3964,3983|TP|acute kidney injury|C2609414|10069339|3964,3983|acute kidney injury|C2609414|10069339|inpo
+4187,4200|FP|Extravasation|C0015376|10015866|patf
+4205,4229|FP|Injection Site Reactions|C0151735|10022095|patf
+4304,4317|FP|Extravasation|C0015376|10015866|patf
+4347,4361;4385,4395|FN|administration irritation|C3888600
+4603,4613|FP|malignancy|C1306459,C0006826|10061268,10028997|neop,neop

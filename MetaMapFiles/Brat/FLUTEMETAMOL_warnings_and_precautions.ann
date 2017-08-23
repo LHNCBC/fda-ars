@@ -1,0 +1,67 @@
+T1	AdverseReaction 52 78	Hypersensitivity reactions
+T2	AdverseReaction 410 424	Radiation risk
+T3	AdverseReaction 499 538	long-term cumulative radiation exposure
+T4	AdverseReaction 709 735	Hypersensitivity reactions
+T5	AdverseReaction 744 752	flushing
+T6	AdverseReaction 757 764	dyspnea
+T7	AdverseReaction 2151 2190	long-term cumulative radiation exposure
+T8	AdverseReaction 2192 2231	Long-term cumulative radiation exposure
+T9	AdverseReaction 2272 2278	cancer
+T10	Factor 2264 2268	risk
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6
+E7	AdverseReaction:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9 Hypothetical:E10
+E10	Factor:T10
+A1	CUI E1 C0020517
+A2	UMLS-Preferred-Name E1 Hypersensitivity
+A3	MEDDRA-PT E1 Hypersensitivity
+A4	MEDDRA-PT-ID E1 10020751
+A5	LLT E1 Hypersensitivity reaction
+A6	LLT-ID E1 10020756
+A7	CUI E2 C4032503
+A8	UMLS-Preferred-Name E2 Risk For Radiation Exposure
+A9	MEDDRA-PT E2 Exposure to radiation
+A10	MEDDRA-PT-ID E2 10073306
+A11	flag E3 underspecified
+A12	CUI E3 C0015333
+A13	UMLS-Preferred-Name E3 Exposure to radiation
+A14	MEDDRA-PT E3 Exposure to radiation
+A15	MEDDRA-PT-ID E3 10073306
+A16	CUI E4 C0020517
+A17	UMLS-Preferred-Name E4 Hypersensitivity
+A18	MEDDRA-PT E4 Hypersensitivity
+A19	MEDDRA-PT-ID E4 10020751
+A20	LLT E4 Hypersensitivity reaction
+A21	LLT-ID E4 10020756
+A22	CUI E5 C0016382
+A23	UMLS-Preferred-Name E5 Flushing
+A24	MEDDRA-PT E5 Flushing
+A25	MEDDRA-PT-ID E5 10016825
+A26	CUI E6 C0013404
+A27	UMLS-Preferred-Name E6 Dyspnea
+A28	MEDDRA-PT E6 Dyspnoea
+A29	MEDDRA-PT-ID E6 10013968
+A30	LLT E6 Dyspnea
+A31	LLT-ID E6 10013963
+A32	flag E7 underspecified
+A33	CUI E7 C0015333
+A34	UMLS-Preferred-Name E7 Exposure to radiation
+A35	MEDDRA-PT E7 Exposure to radiation
+A36	MEDDRA-PT-ID E7 10073306
+A37	flag E8 underspecified
+A38	CUI E8 C0015333
+A39	UMLS-Preferred-Name E8 Exposure to radiation
+A40	MEDDRA-PT E8 Exposure to radiation
+A41	MEDDRA-PT-ID E8 10073306
+A42	CUI E9 C0006826
+A43	UMLS-Preferred-Name E9 Malignant Neoplasms
+A44	MEDDRA-PT E9 Neoplasm malignant
+A45	MEDDRA-PT-ID E9 10028997
+A46	LLT E9 Cancer
+A47	LLT-ID E9 10007050

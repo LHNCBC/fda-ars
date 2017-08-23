@@ -1,0 +1,650 @@
+#!/usr/bin/perl -w
+
+use strict;
+use Getopt::Std;
+
+# Call this script on
+# /nfsvol/nls/II_Group_WorkArea/flang/Projects/FDA/.../Gold
+# directory containing the Gold offsets files
+# and
+# /nfsvol/nls/II_Group_WorkArea/flang/Projects/FDA/.../MetaMap
+# directory containing the MetaMap offsets files
+# i.e., gen_results -G Gold -M MetaMap
+# or gen_results Gold MetaMap EVEROLIMUS_adverse_reactions.offsets
+
+# system("/bin/rm -rf Results.SAVE");
+# system("/bin/mv Results Results.SAVE > /dev/null 2>&1");
+
+my $PROGRAM = $0;
+my $USAGE = "$PROGRAM [ GoldDir MetaMapDir ] [ OffsetFileNames ]";
+
+my %OPTS;
+getopts('c:p:s:DG:M:R:', \%OPTS);
+
+my $DISCARD = defined $OPTS{D} ? 1        : 0;
+my $GOLD    = defined $OPTS{G} ? $OPTS{G} : "Gold";
+my $METAMAP = defined $OPTS{M} ? $OPTS{M} : "MetaMap";
+my $RUN     = defined $OPTS{R} ? $OPTS{R} : "0";
+
+my $CUI2MedDRAFile = defined $OPTS{c} ? $OPTS{c} : "CUI.MedDRA.PT";
+# my $EXT            = defined $OPTS{p} ? $OPTS{p} : "SAVE";
+my $STRICT         = defined $OPTS{s} ? $OPTS{s} : 0;
+
+my $ResultsDir = "Results.${RUN}.${STRICT}";
+system("/bin/rm -rf $ResultsDir");
+system("mkdir $ResultsDir");
+
+# Assuming STRICT processing:
+# 61.83|69.64|65.50 CUI.MedDRA.PT
+# 57.36|71.97|63.84 CUI.MedDRA.PT.LLT
+# 57.26|71.98|63.78 CUI.MedDRA.HT.PT.LLT
+
+die "CUI2MedDRA file must be one of CUI.MedDRA.PT, CUI.MedDRA.PT.LLT, or CUI.MedDRA.HT.PT.LLT\n"
+    if $CUI2MedDRAFile ne "CUI.MedDRA.PT"
+    && $CUI2MedDRAFile ne "CUI.MedDRA.PT.LLT"
+    && $CUI2MedDRAFile ne "CUI.MedDRA.HT.PT.LLT";
+
+$CUI2MedDRAFile = "DATA/$CUI2MedDRAFile";
+
+# die "PID must be a string of digits, not $PID\n" if $PID !~ /^\d+$/;
+
+die "STRICT must be 0, 1, 2, or 3\n"
+    if    ( $STRICT !~ /^\d$/ )
+       || ( $STRICT != 0 && $STRICT != 1 && $STRICT != 2 && $STRICT != 3 );
+
+# if ( scalar @ARGV == 0 ) {
+#     $GOLD    = "Gold";
+#     $METAMAP = "MetaMap";
+# } # if ( scalar @ARGV < 2 )
+
+# In case I want to run script on specific files on the command line,
+# override the default selection of Gold/*.offsets
+my @FILES = @ARGV;
+
+opendir(my $IN, $GOLD) || die "can't open directory $GOLD: $!";
+my @GoldFiles = grep { /\.offsets$/ } readdir($IN);
+close $IN;
+
+opendir($IN, $METAMAP) || die "can't open directory $METAMAP: $!";
+my @MetaMapFiles = grep { /\.offsets$/ } readdir($IN);
+close $IN;
+
+my %GoldFiles = map { $_ => 1 } @GoldFiles;
+my %MetaMapFiles = map { $_ => 1 } @MetaMapFiles;
+
+# Ensure that the Gold and MetaMap directories contain the same filenames.
+for my $F ( keys %GoldFiles ) {
+    die "File $F does not exist in the $METAMAP directory\n" if not exists $MetaMapFiles{$F};
+} # for my $F ( keys $GoldFiles )
+
+for my $F ( keys %MetaMapFiles ) {
+    die "File $F does not exist in the $GOLD directory\n" if not exists $GoldFiles{$F};
+} # for my $F ( keys $GoldFiles )
+
+# my @LengthSort = sort { length(&shorten($b))<=> length(&shorten($a)) } @GoldFiles;
+# my $Longest = shift @LengthSort;
+# my $MAXLEN = length(shorten($Longest));
+
+# Strict 0:             P|R|F1 = 61.83|69.64|65.50
+# Strict 1:             P|R|F1 = 63.66|71.69|67.44
+# Strict 2:             P|R|F1 = 64.45|72.58|68.27
+# Strict 3:             P|R|F1 = 69.29|78.03|73.40
+
+my %CUI2MedDRA;
+
+open(IN, "<", $CUI2MedDRAFile) || die "can't open CUI2MedDRA file $CUI2MedDRAFile: $!";
+while (<IN>) {
+    chomp;
+    my $Line = $_;
+    my ( $CUI, $MedDRA ) = split /\|/, $Line;
+    die "Line \"$Line\" in CUI2MedDRA file $CUI2MedDRAFile not of form \"CUI|MedDRAID\"\n"
+        if $CUI !~ /^C\d+$/ || $MedDRA !~ /^\d+$/;
+
+    $CUI2MedDRA{$CUI}{$MedDRA} = 1;
+} # while (<IN>)
+close IN;
+
+my %AGG =
+    ( "TP"         => 0,
+      "FP"         => 0,
+      "FN"         => 0,
+      "CUIDiff"    => 0,
+      "MedDRADiff" => 0 );
+
+my @OVERALLresults;
+my %SemTypes;
+
+# The %AllFileText hash stores the actual text strings,
+# $AllFileText{$ShortFileName}{$Offsets} = $String;
+my %AllFileText;
+
+my @LoopFiles = scalar @FILES == 0 ? @GoldFiles : @FILES;
+for my $FILE ( @LoopFiles ) {
+    # Each call to &process_one_file_pair($FILE) adds to the @OVERALLresults array
+    print "Generating results for $FILE\n";
+    &process_one_file_pair($FILE);
+} # for my $INFILE ( @INFILES )
+
+@OVERALLresults = sort by_F1 @OVERALLresults;
+
+my $OUTFILE = "$ResultsDir/OVERALL.$STRICT";
+open(OUT, ">", $OUTFILE) || die "Can't open $OUTFILE for writing: $!\n";
+print "Writing results to $OUTFILE\n";
+my $HEADER='|Drug file|GS|MM|CUIDiffs|MedDRADiffs|TPs|FPs|FNs|Precision|Recall|F1';
+print OUT "$HEADER\n";
+
+my $i = 0;
+# Generate the final output
+foreach my $Datum ( @OVERALLresults ) {
+    print OUT ++$i, "|$Datum\n";
+} # foreach my $Datum ( @OVERALLresults )
+
+my $AGGPrecision = &precision($AGG{"TP"}, $AGG{"FP"});
+my $AGGRecall    = &recall($AGG{"TP"},    $AGG{"FN"});
+my $AGGF1        = &F1($AGGPrecision,     $AGGRecall);
+
+my $OUTPUT = &gen_output("|TOTAL", $AGG{"TotalGoldOffsets"}, $AGG{"TotalMetaMapOffsets"},
+	    	         $AGG{"CUIDiff"}, $AGG{"MedDRADiff"},
+			 $AGG{"TP"}, $AGG{"FP"}, $AGG{"FN"},
+	                 $AGGPrecision, $AGGRecall, $AGGF1);
+
+printf OUT "$OUTPUT\n";
+
+printf "$OUTPUT\n";
+
+################################################################
+
+sub process_one_file_pair {
+    my ( $FILE ) = @_;
+    # print "$FILE\n";
+
+    # $AllGoldOffsetGroups and $AllMetaMapOffsetGroups are references to hashes
+    # An Offset is simply a single character position
+    # An OffsetPair is a StartPos,EndPos pair of character positions
+    # An OffsetGroup is one or more semicolon-separated OffsetPairs
+    my $AllGoldOffsetGroups    = &get_offsets($GOLD,    $FILE);
+    my $AllMetaMapOffsetGroups = &get_offsets($METAMAP, $FILE);
+
+    my $ShortFileName = &shorten($FILE);
+
+    my $TotalGoldOffsets    = scalar keys %$AllGoldOffsetGroups;
+    my $TotalMetaMapOffsets = scalar keys %$AllMetaMapOffsetGroups;
+
+    $AGG{"TotalGoldOffsets"}    += $TotalGoldOffsets;
+    $AGG{"TotalMetaMapOffsets"} += $TotalMetaMapOffsets;
+
+    my $TPCount = 0;
+    my $FPCount = 0;
+    my $FNCount = 0;
+    my $CUIDiffCount = 0;
+    my $MedDRADiffCount = 0;
+
+    my %LabelResults;
+
+    my ($AllGoldCUIs, $AllMetaMapCUIs);
+    
+    for my $GoldOffsetGroup ( sort by_offsets keys %$AllGoldOffsetGroups ) {
+	
+	my $MatchingMetaMapOffsetGroup =
+	   &find_match($STRICT, $GoldOffsetGroup, $AllMetaMapOffsetGroups);
+
+ 	if ( $MatchingMetaMapOffsetGroup ne "" ) {
+	
+	    # Record the TP
+	    ++$TPCount;
+	    ++$AGG{"TP"};
+
+	    my @AllGoldCUIs      = keys %{$AllGoldOffsetGroups->{$GoldOffsetGroup}};
+
+	    my @AllMetaMapCUIs   = keys %{$AllMetaMapOffsetGroups->{$MatchingMetaMapOffsetGroup}};
+            # E.g., "C0040136,C0342190"
+
+	    $AllGoldCUIs      = join ",", sort @AllGoldCUIs;
+	    $AllMetaMapCUIs   = join ",", sort @AllMetaMapCUIs;
+
+	    # Now check for differences in CUIs
+	    # E.g., ( C0040136 C0342190 )
+
+	    my $CUIMatch = 0;
+OUTERCUI:   for my $GoldCUI ( @AllGoldCUIs ) {
+		for my $MetaMapCUI ( @AllMetaMapCUIs ) {
+		    if ( $GoldCUI eq $MetaMapCUI ) {
+			$CUIMatch = 1;
+			last OUTERCUI;
+		    } # if ( $GoldCUI eq $MetaMapCUI )
+		} # for my $MetaMapCUI ( @AllMetaMapCUIs )
+	    } # for my $GoldCUI ( @AllGoldCUIs )
+
+	    # The Gold and MetaMap data are stored as
+	    # $AllGoldOffsetGroups{$Offsets}{$CUI}{$MedDRA} = 1;
+	    # $AllMetaMapOffsetGroups{$Offsets}{$CUI}{$MedDRA} = 1;
+
+	    # Now check for differences in MedDRA IDs
+	    # Assemble @AllGoldMedDRAs
+	    my @AllGoldMedDRAs = ();
+	    for my $GoldCUI ( @AllGoldCUIs ) {
+		my @MedDRAs = keys %{$AllGoldOffsetGroups->{$GoldOffsetGroup}{$GoldCUI}};
+	        push @AllGoldMedDRAs, @MedDRAs;
+	    } # for my $GoldCUI ( @AllGoldCUIs ) {
+
+	    # Assemble @AllMetaMapMedDRAs and $AllMetaMapSemTypes
+	    my @AllMetaMapMedDRAs = ();
+	    my $AllMetaMapSemTypes = "";
+	    for my $MMCUI ( @AllMetaMapCUIs ) {
+		# my @MedDRAs = keys %{$AllMetaMapOffsetGroups->{$GoldOffsetGroup}{$MMCUI}};
+		my @MedDRAs = keys %{$AllMetaMapOffsetGroups->{$MatchingMetaMapOffsetGroup}{$MMCUI}};
+	        push @AllMetaMapMedDRAs, @MedDRAs;
+		$AllMetaMapSemTypes .= "," . $SemTypes{$MMCUI};
+	    } # for my $MMCUI ( @AllMetaMapCUIs ) {
+
+	    my $MedDRAmatch = 0;
+OUTERMDR:   for my $GoldMedDRA ( @AllGoldMedDRAs ) {
+		for my $MetaMapMedDRA ( @AllMetaMapMedDRAs ) {
+		    if ( $GoldMedDRA eq $MetaMapMedDRA ) {
+			$MedDRAmatch = 1;
+			last OUTERMDR;
+		    } # if ( $GoldMedDRA eq $MetaMapMedDRA )
+		} # for my $MetaMapMedDRA ( @AllMetaMapMedDRAs )
+	    } # for my $GoldMedDRA ( @AllGoldMedDRAs )
+
+	    my $AllGoldMedDRAs      = join ",", sort @AllGoldMedDRAs;
+	    my $AllMetaMapMedDRAs   = join ",", sort @AllMetaMapMedDRAs;
+	    
+	    $AllMetaMapSemTypes =~ s/^,//;
+	    my $GoldText    = $AllFileText{$ShortFileName}{$GoldOffsetGroup};
+	    my $MetaMapText = $AllFileText{$ShortFileName}{$MatchingMetaMapOffsetGroup};
+
+	    my $TPdata = join "|", $GoldOffsetGroup, "TP",
+				   $GoldText, $AllGoldCUIs, $AllGoldMedDRAs,
+                                   $MatchingMetaMapOffsetGroup, $MetaMapText,
+                                   $AllMetaMapCUIs, $AllMetaMapMedDRAs, $AllMetaMapSemTypes;
+
+	    $LabelResults{$TPdata} = 1;
+	    my $DiffData = join "|", $GoldText, $AllGoldCUIs, $AllGoldMedDRAs,
+                                     $MatchingMetaMapOffsetGroup, $MetaMapText,
+                                     $AllMetaMapCUIs, $AllMetaMapMedDRAs, $AllMetaMapSemTypes;
+	    if ( $CUIMatch == 0 ) {
+		my $CUIDiffData = "$GoldOffsetGroup|CUIDiff|$DiffData";
+		$LabelResults{$CUIDiffData} = 1;
+		++$CUIDiffCount;
+		++$AGG{"CUIDiff"};
+
+	    } # if ( $CUIMatch == 0 )
+	    elsif ( ( $CUIMatch == 1 ) && ( $MedDRAmatch == 0 ) ) {
+		my $MedDRADiffData = "$GoldOffsetGroup|MedDRADiff|$DiffData";
+		$LabelResults{$MedDRADiffData} = 1;
+		++$MedDRADiffCount;
+		++$AGG{"MedDRADiff"};
+	    } # elsif ( ( $CUIMatch == 1 ) && ( $MedDRAmatch == 0 ) )
+		
+	    delete $AllMetaMapOffsetGroups->{$MatchingMetaMapOffsetGroup};
+	    delete $AllGoldOffsetGroups->{$GoldOffsetGroup};
+
+	} # if ( $MatchingMetaMapOffsetGroup ne "" ) {
+	# print "MM|" . (scalar keys %$AllMetaMapOffsetGroups) . "\n";
+    } # for my $GoldOffsetGroup ( keys %$AllGoldOffsetGroups )
+
+    # After we've deleted the TPs from both Gold and MetaMap,
+    # any offsets left in    Gold are FNs, and
+    # any offsets left in MetaMap are FPs.
+    $FNCount = scalar keys %$AllGoldOffsetGroups;
+    $AGG{"FN"} += $FNCount;
+    # print "$ShortFileName|FNs|" . (scalar keys %$AllGoldOffsetGroups) . "\n";
+    if ( scalar keys %$AllGoldOffsetGroups > 0 ) {
+	# print "SORTING Gold: ", join "@", keys %$AllGoldOffsetGroups, "\n";
+	foreach my $GoldOffsetGroup ( sort by_offsets keys %$AllGoldOffsetGroups ) {
+	    # my $MedDRA = $AllGoldOffsetGroups->{$GoldOffsetGroup};
+	    # my @OffsetChunks = split /;/, $GoldOffsetGroup;
+	    my @AllGoldCUIs = keys %{$AllGoldOffsetGroups->{$GoldOffsetGroup}};
+	    my $AllGoldCUIs      = join ",", sort @AllGoldCUIs;
+	    my $Text = $AllFileText{$ShortFileName}{$GoldOffsetGroup};
+	    my $FNdata = "$GoldOffsetGroup|FN|$Text|$AllGoldCUIs";
+	    $LabelResults{$FNdata} = 1;
+	} # foreach my $GoldOffsetGroup ( sort by_offsets keys %$AllGoldOffsetGroups )
+    } # if ( scalar keys %$AllGoldOffsetGroups > 0 )
+
+    $FPCount = scalar keys %$AllMetaMapOffsetGroups;
+    $AGG{"FP"} += $FPCount;
+    # After we've deleted the TPs from both Gold and MetaMap,
+    # any offsets left in    Gold are FNs, and
+    # any offsets left in MetaMap are FPs.
+    if ( scalar keys %$AllMetaMapOffsetGroups > 0 ) {
+	foreach my $MetaMapOffsetGroup ( sort by_offsets keys %$AllMetaMapOffsetGroups ) {
+	    # my $CUI = $AllMetaMapOffsetGroups->{$MetaMapOffsetGroup};
+	    # my @OffsetChunks = split /;/, $MetaMapOffsetGroup;
+	    my $Text = $AllFileText{$ShortFileName}{$MetaMapOffsetGroup};
+	    my $AllMetaMapCUIs = "";
+	    my $AllMetaMapMedDRAs = "";
+	    my $AllMetaMapSemTypes = "";
+	    for my $MetaMapCUI ( keys %{$AllMetaMapOffsetGroups->{$MetaMapOffsetGroup}} ) {
+	        $AllMetaMapCUIs .= ",$MetaMapCUI";
+		my $MetaMapMedDRAs = ( keys %{$AllMetaMapOffsetGroups->{$MetaMapOffsetGroup}{$MetaMapCUI}})[0];
+	        $AllMetaMapMedDRAs .= ",$MetaMapMedDRAs";
+		$AllMetaMapSemTypes .= "," . $SemTypes{$MetaMapCUI};
+	    } # for my $MedDRA ( keys %{$AllMetaMapOffsetGroups->{$MetaMapOffsetGroup}} )		
+	    $AllMetaMapCUIs   =~ s/^,//;
+	    $AllMetaMapMedDRAs    =~ s/^,//;
+	    $AllMetaMapSemTypes =~ s/^,//;
+
+	    my $FPdata = join "|", $MetaMapOffsetGroup, "FP", $Text, $AllMetaMapCUIs,
+				   $AllMetaMapMedDRAs, $AllMetaMapSemTypes;
+
+	    $LabelResults{$FPdata} = 1;
+	    # print FP "$MetaMapOffsetGroup\n";
+
+	} # foreach my $MetaMapOffsetGroup ( sort by_offsets keys %$AllMetaMapOffsetGroups )
+
+    } # if ( scalar keys %$AllMetaMapOffsetGroups > 0 )
+
+    my $ResultsFile = "$ResultsDir/${ShortFileName}.Results.${STRICT}";
+    open(RESULT, ">", $ResultsFile)
+	          || die "can't open file $ResultsFile $!\n";
+    print RESULT join "\n", ( sort by_offsets keys %LabelResults );
+    print RESULT "\n";
+    close RESULT;
+    
+    my $Precision = &precision($TPCount, $FPCount);
+    my $Recall    = &recall($TPCount, $FNCount);
+    my $F1        = &F1($Precision, $Recall);
+    # ESTRADIAL_boxed_warnings.offsets | 5 | 0 | 0 | 5 | 5 | 0.00 | 0.00 | 0.00
+    #                                    TG  TM  TP  FP  FN
+    my $OUTPUT = &gen_output($ShortFileName, $TotalGoldOffsets, $TotalMetaMapOffsets,
+			     $CUIDiffCount, $MedDRADiffCount,
+			     $TPCount, $FPCount, $FNCount,
+			     $Precision, $Recall, $F1);
+    push @OVERALLresults, $OUTPUT;
+    die "MISCOUNT for $ShortFileName!\n"
+       if ( ( $TotalGoldOffsets + $TotalMetaMapOffsets ) != ( 2*$TPCount + $FPCount + $FNCount ) );
+
+    # Gold MedDRAs|MetaMap MedDRAs|CUIDiff|MedDRADiff|TPs|FPs|FNs|Precision|Recall|F1
+
+    # METHOD |Gold#|MM  #|CUIDiff|MedDRADiff|TPs  |FPs |FNs|Prec  |Rcll |F1
+    # STRICT |13427|15281|295    |48        |9498 |5783|3929|62.16|70.74|66.17
+    # RLXD 1 |13427|15281|544    |49        |9790 |5491|3637|64.07|72.91|68.20
+    # RLXD 2 |13427|15281|603    |51        |9924 |5357|3503|64.94|73.91|69.14
+    # RLXD 3 |13427|15281|1146   |55        |10570|4711|2857|69.17|78.72|73.64
+
+} # sub process_one_file_pair
+
+################################################################
+
+# The *.offsets files in the Gold directory contain lines like
+# 112,124|C0020538|Hypertension|10020772
+# 126,137|C0020621|Hypokalemia|10021015
+# 143,158|C0268000|Fluid Retention|10016807
+# 166,190|C0020428|Mineralocorticoid Excess|10020571
+# 234,262|C0405580|Adrenocortical Insufficiency|10001367
+# Offset pairs are not necessarily unique in each file
+
+# The *.offsets files in the MetaMap directory contain lines like
+# 34479,34482|C0206655
+# 30783,30786|C0206655 
+# 24949,24952|C0206655
+# 24973,24976|C0206655
+# Offset pairs are not necessarily unique in each file
+
+sub get_offsets {
+    my ( $DIR, $FILE ) = @_;
+    my $PATH = "$DIR/$FILE";
+    # print "calling get_offsets on $PATH\n";
+    open(IN, "<", "$PATH") || die "can't open file $PATH: $!\n";
+    my @DATA = <IN>;
+    close IN;
+    chomp @DATA;
+
+    # print "$DIR/$FILE: ", scalar @DATA, "\n";
+    my $ShortFileName = &shorten($FILE);
+    # @DATA contains all lines in the offsets file.
+
+    # Lines in the Gold offsets file are of the form "Offsets|CUI|String|MedDRA", e.g.,
+    # 1043,1061|C0232462|decreased appetite|10061428
+    # 10556,10578;10585,10594|C0151904|Aspartate transaminase increased|10003481
+
+    # Lines in the MetaMap offsets file are of the form "Offsets|CUI|String|SemType", e.g.,
+    # 4258,4276|C0034069|pulmonary fibrosis|dsyn
+    # 4475,4480;4498,4499|C3537125|Grade 4|fndg
+    # The CUIs need to be mapped to MedDRAs via the CUI.MedDRA file
+
+    my %DATA;
+    # my $Count = 0;
+    foreach my $Line ( @DATA ) {
+       # print "LINE|$Line\n";
+       my ( $Offsets, $CUI, $String, $OtherField ) = split /\|/, $Line;
+       # Store the actual text string
+       $AllFileText{$ShortFileName}{$Offsets} = $String;
+       # If $OtherField is all digits, the line is from a Gold file,
+       # If $OtherField is all digits, then it's a MedDRA ID; otherwise, it's a SemType
+       if ( $OtherField =~ /^\d+$/ ) {
+	   my $MedDRA = $OtherField;
+	   # $DATA{$Offsets}{$MedDRA} = 1;
+	   # print "$DIR/$FILE|$Offsets|$CUI|$MedDRA\n";
+	   $DATA{$Offsets}{$CUI}{$MedDRA} = 1;
+       } # if ( $OtherField ~ /^\d+$/ )
+       # If $OtherField consists of comma-separated strings of 4 lowercase letters,
+       # the line is from a MetaMap offsets file, and $OtherField a SemType
+       # "?:" makes the parens non capturing	
+       elsif ( $OtherField =~ /^[a-z][a-z][a-z][a-z](?:,[a-z][a-z][a-z][a-z])*$/ ) {
+	   my $STs = $OtherField;
+	   $SemTypes{$CUI} = $STs;
+
+	   # Results with the $CUI2MedDRA{$CUI}{0} = 1 line commented out:
+	   # |TOTAL|13427|15357|306|43|9335|6022|4092|60.79|69.52|64.86
+	   # Results with the $CUI2MedDRA{$CUI}{0} = 1 line NOT commented out:
+	   # |TOTAL|13427|22656|313|400|9736|12920|3691|42.97|72.51|53.96
+
+	   # !!! This is the line that discards CUIs with no MedDRA mapping.
+	   # If $DISCARD,   discard CUIs with no MedDRA mapping.
+	   # If ! $DISCARD, retain  CUIs with no MedDRA mapping.
+
+	   # Store "0" as the MedDRA ID if the CUI has no MedDRA mapping.
+	   # print "DISCARD = $DISCARD\n";
+	   if ( ( ! exists $CUI2MedDRA{$CUI} ) && ( $DISCARD == 0 ) ) {
+	       $CUI2MedDRA{$CUI}{0} = 1;
+	   } # if ( ( ! exists $CUI2MedDRA{$CUI} ) && ( $DISCARD == 0 ) )
+	   # print "CUI $CUI has no MedDRA mapping\n" if ! exists $CUI2MedDRA{$CUI};
+	   # print "$CUI --> $CUI2MedDRA{$CUI}\n";
+	   # for my $M ( keys %{$CUI2MedDRA{$CUI}}) { print "M:>$M< " }; print "\n";
+	   # Find the MedDRAs corresponding to this CUI in the %CUI2MedDRA hash
+	   # print "CUI = $CUI\n";
+	   # The "for" loop must be inside the "if";
+	   # otherwise the call to keys %{$CUI2MedDRA{$CUI}}
+	   # will autovivify $CUI2MedDRA{$CUI}, which we do not want
+	   if ( exists $CUI2MedDRA{$CUI} ) { 
+ 	      for my $MedDRA ( keys %{$CUI2MedDRA{$CUI}} ) {
+	          $DATA{$Offsets}{$CUI}{$MedDRA} = 1;
+	          # print "$DIR/$FILE|$Offsets|$CUI|$MedDRA\n";
+	          # print "MMCountIN|", scalar keys %DATA, "|$Offsets\n";
+	          # ++$Count;
+	      } # for my $MedDRA ( keys %{$CUI2MedDRA{$CUI}} )
+	   } # if ( exists $CUI2MedDRA{$CUI} )
+       } # elsif ( $OtherField ~ /^\d+$/ )
+       else {
+	   die "$FILE: $OtherField is unexpected in $Line\n";
+       } # else
+    } # foreach my $Line ( @DATA )
+
+    # printf "%d DATA in %s\n", scalar keys %DATA, $FILE;
+    # print sort  keys %DATA; print "\n";
+    # print "$DIR/$FILE: ", scalar keys %DATA, "\n";
+    return \%DATA;
+    
+} # sub get_offsets
+
+################################################################
+
+sub shorten {
+    my ( $FILE ) = @_;
+    $FILE =~ s/.offsets//;
+    # $FILE =~ s/warnings_and_precautions/wp/;
+    # $FILE =~ s/adverse_reactions/ar/;
+    # $FILE =~ s/boxed_warnings/bw/;
+    return $FILE;
+} # sub shorten
+
+################################################################
+
+sub precision {
+    my ( $TP, $FP ) = @_;
+    return ( $TP + $FP == 0 ) ? 0 : 100 * $TP / ( $TP + $FP );
+} # sub precision
+
+################################################################
+
+sub recall {
+    my ( $TP, $FN ) = @_;
+    return ( $TP + $FN == 0 ) ? 0 : 100 * $TP / ( $TP + $FN );
+} # sub recall
+
+################################################################
+
+sub F1 {
+    my ( $Precision, $Recall ) = @_;
+    return ( $Precision + $Recall == 0 ) ? 0 :
+           ( 2 * $Precision * $Recall ) / ( $Precision + $Recall );
+} # sub F1
+
+################################################################
+
+sub by_offsets {
+    # Offsets are of the form
+    # 38534,38539                          or
+    # 38534,38539;38991,38992              or
+    # 38534,38539;38991,38992;39967,39987
+    # And, in the case of LabelResults, followed by "|" and other data
+    # We want offsets sorted first by StartPos,
+    # and then, for a given StartPos, longest first;
+    # the next level of sorting is on the Type
+    # (TP, FP, FN, CUIDiff, or MedDRADiff).
+
+    my ( $OffsetsA, $TypeA, $OffsetsB, $TypeB ); 
+    # If we're sorting LabelResults, $a and $b will contain a "|",
+    # and the next pipe-separated field will be the type
+
+    if ( $a =~ /\|/ && $b =~ /\|/ ) {
+        ( $OffsetsA, $TypeA ) = ( split /\|/, $a )[0,1];
+        ( $OffsetsB, $TypeB ) = ( split /\|/, $b )[0,1];
+    } # if ( $a =~ /\|/ && $b =~ /\|/ )
+    # If we're sorting just Offsets, $a and $b will NOT contain a "|",
+    # so set the Type to "".
+    else {
+        ( $OffsetsA = $a ) =~ s/\|.*//;
+        ( $OffsetsB = $b ) =~ s/\|.*//;
+	$TypeA = "";
+	$TypeB = "";
+    } # else
+
+    # StartPos[AB] is everything before the first comma
+    ( my $StartPosA = $OffsetsA ) =~ s/,.*//;
+    ( my $StartPosB = $OffsetsB ) =~ s/,.*//;
+    # EndPos[AB] is everything after the last comma
+    ( my $EndPosA   = $OffsetsA ) =~ s/.*,//;
+    ( my $EndPosB   = $OffsetsB ) =~ s/.*,//;
+    # print "OFF2-$StartPosA-$EndPosA-$StartPosB-$EndPosB\n";
+    return $StartPosA <=> $StartPosB
+        || $EndPosB   <=> $EndPosA
+	|| $TypeA     cmp $TypeB
+	|| $OffsetsA  cmp $OffsetsB;
+} # sub by_offsets
+
+################################################################
+
+sub by_F1 {
+    # $a and $b will be strings like
+    # CERITINIB_warnings_and_precautions|68|110|37|73|31|33.64|54.41|41.57
+    # Label and F1 are fields 0 and 8.
+    # Sort by F1 first, and then by Label
+
+#    ( my $F1a = $a ) =~ s/.*\|//;
+#    ( my $F1b = $b ) =~ s/.*\|//;
+    my ( $LabelA, $F1A ) = ( split /\|/, $a )[0,8];
+    my ( $LabelB, $F1B ) = ( split /\|/, $b )[0,8];
+
+    # print "OFF2-$StartPosA-$EndPosA-$StartPosB-$EndPosB\n";
+    return $F1A    <=> $F1B
+        || $LabelA cmp $LabelB;
+} # sub by_F1
+
+sub find_match {
+
+     # $STRICT == 0:
+     # require an exact match between $GoldOffsetGroup and $MatchingMetaMapOffsetGroup, e.g.,
+     # $GoldOffsetGroup            == "14373,14378;14386,14399"
+     # $MatchingMetaMapOffsetGroup == "14373,14378;14386,14399"
+
+     # $STRICT == 1:
+     # require an exact match between
+     # any GoldOffsetPair    in $GoldOffsetGroup and
+     # any MetaMapOffsetPair in $MatchingMetaMapOffsetGroup, e.g.,
+     # $GoldOffsetGroup            = "52,60;76,79"
+     # $MatchingMetaMapOffsetGroup =       "76,79"
+
+     # $STRICT == 2:
+     # Require both a StartPos or EndPos match,
+     # possibly in different pairs, but in the same group
+
+     # $STRICT == 3:
+     # Require only a StartPos or EndPos match,
+     # possibly in different pairs, but in the same group
+    
+     my ( $STRICT, $GoldOffsetGroup, $AllMetaMapOffsetGroups) = @_;
+
+     if ( exists $AllMetaMapOffsetGroups->{$GoldOffsetGroup} ) {
+	# This match succeeds for all four strictness levels: 0, 1, 2, and 3.
+        return $GoldOffsetGroup;
+     } # if ( exists $AllMetaMapOffsetGroups->{$GoldOffsetGroup} )	
+
+      my %AllGoldOffsetPairs;
+      foreach my $GoldOffsetPair ( split /;/, $GoldOffsetGroup ) {
+          $AllGoldOffsetPairs{$GoldOffsetPair} = 1;
+      } # foreach my $GoldOffsetPair ( split /;/, $GoldOffsetGroup )
+
+      foreach my $MetaMapOffsetGroup ( keys %$AllMetaMapOffsetGroups ) {
+ 	  foreach my $MetaMapOffsetPair ( split /;/, $MetaMapOffsetGroup ) {
+	      if ( exists $AllGoldOffsetPairs{$MetaMapOffsetPair} ) {
+	         # This match succeeds for all the three strictness levels 1, 2, and 3.
+	         return $MetaMapOffsetGroup if $STRICT != 0;
+	      } # if ( exists $AllGoldStartPairs{$MetaMapOffsetPair )
+ 	  } # foreach my $MetaMapOffsetPair ( split /;/, $MetaMapOffsetGroup )
+      } # foreach my $MetaMapOffsetGroup ( keys %$AllMetaMapOffsetGroups )
+
+      my %AllGoldStartPos;
+      my %AllGoldEndPos;
+	 
+      # record every StartPos and EndPos in GoldOffsetGroup
+      foreach my $GoldOffsetPair ( split /;/, $GoldOffsetGroup ) {
+ 	  my ( $GoldStartPos, $GoldEndPos ) = split /,/, $GoldOffsetPair;
+ 	  $AllGoldStartPos{$GoldStartPos} = 1;
+ 	  $AllGoldEndPos{$GoldEndPos} = 1;
+      } # foreach $GoldOffsetPair ( split /;/, $GoldOffsetGroup )
+     
+      foreach my $MetaMapOffsetGroup ( keys %$AllMetaMapOffsetGroups ) {
+	  my $StartPosMatchFound = 0;
+	  my $EndPosMatchFound = 0;
+
+ 	  foreach my $MetaMapOffsetPair ( split /;/, $MetaMapOffsetGroup ) {
+ 	      my ( $MetaMapStartPos, $MetaMapEndPos ) = split /,/, $MetaMapOffsetPair;
+ 	      $StartPosMatchFound = 1 if exists $AllGoldStartPos{$MetaMapStartPos};
+ 	      $EndPosMatchFound   = 1 if exists $AllGoldEndPos{$MetaMapEndPos};
+	      if (  $StartPosMatchFound && $EndPosMatchFound ) {
+		  return $MetaMapOffsetGroup if $STRICT == 2 || $STRICT == 3;
+		 } # if (  && $StartPosMatchFound && $EndPosMatchFound )
+		 elsif (  $StartPosMatchFound || $EndPosMatchFound ) {
+		     return $MetaMapOffsetGroup if $STRICT == 3;
+		 } # elsif ( $StartPosMatchFound || $EndPosMatchFound ) {
+ 	     } # foreach $MetaMapOffsetPair ( split /;/, $MetaMapOffsetGroup )
+         } # foreach $MetaMapOffsetGroup ( keys %$AllMetaMapOffsetGroups )
+     return "";
+} # sub find_match
+
+sub gen_output {
+    my ( $Category, $Gold, $MetaMap, $CUIDiff, $MedDRADiff,
+	 $TP, $FP, $FN, $Precision, $Recall, $F1 ) = @_;
+
+   return join "|",
+	        $Category, $Gold, $MetaMap,
+		$CUIDiff, $MedDRADiff,
+		$TP, $FP, $FN,
+		sprintf("%4.2f", $Precision),
+		sprintf("%4.2f", $Recall),
+		sprintf("%4.2f", $F1);
+} # sub gen_output

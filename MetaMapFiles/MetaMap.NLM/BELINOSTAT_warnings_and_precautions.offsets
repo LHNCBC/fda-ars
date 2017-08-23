@@ -1,0 +1,69 @@
+54,70|C0040034|Thrombocytopenia|fndg
+72,82|C0023530|leukopenia|dsyn
+72,82|C0750394|leukopenia|fndg
+84,95|C0023530|neutropenia|dsyn
+84,95|C0027947|neutropenia|dsyn
+84,95|C0853697|neutropenia|fndg
+100,111|C0024312|lymphopenia|dsyn
+100,111|C0853986|lymphopenia|fndg
+100,111|C1963164|lymphopenia|fndg
+118,124|C0002871|anemia|dsyn
+220,229|C3714514|Infection|patf
+220,229|C0009450|Infection|dsyn
+243,248|C1705232|fatal|fndg
+249,259|C3714514|infections|patf
+267,276|C0032285|pneumonia|dsyn
+281,287|C0243026|sepsis|dsyn
+281,287|C0036690|sepsis|dsyn
+309,323|C0235378|Hepatotoxicity|inpo
+344,360|C0348754|hepatic toxicity|dsyn
+459,477|C0348754|hepatic toxicities|dsyn
+506,526|C0041364|Tumor lysis syndrome|dsyn
+506,526|C1963254|Tumor lysis syndrome|fndg
+550,558;565,572|C0679246|advanced disease|fndg
+565,572|C0012634|disease|dsyn
+664,672|C0600688|toxicity|inpo
+800,809|C0425965|pregnancy|fndg
+876,884|C0600688|Toxicity|inpo
+909,925|C0040034|thrombocytopenia|fndg
+927,937|C0023530|leukopenia|dsyn
+927,937|C0750394|leukopenia|fndg
+939,950|C0023530|neutropenia|dsyn
+939,950|C0027947|neutropenia|dsyn
+939,950|C0853697|neutropenia|fndg
+955,966|C0024312|lymphopenia|dsyn
+955,966|C0853986|lymphopenia|fndg
+955,966|C1963164|lymphopenia|fndg
+976,982|C0002871|anemia|dsyn
+1154,1164|C3714514|Infections|patf
+1192,1197|C1705232|fatal|fndg
+1198,1208|C3714514|infections|patf
+1220,1229|C0032285|pneumonia|dsyn
+1234,1240|C0243026|sepsis|dsyn
+1234,1240|C0036690|sepsis|dsyn
+1352,1362|C0262926|history of|fndg
+1424,1451|C1859430|life threatening infections|fndg
+1500,1514|C0235378|Hepatotoxicity|inpo
+1539,1544|C1705232|fatal|fndg
+1545,1559|C0235378|hepatotoxicity|inpo
+1778,1789|C1444662|discontinue|fndg
+1828,1844|C0348754|hepatic toxicity|dsyn
+1907,1927|C0041364|Tumor Lysis Syndrome|dsyn
+1907,1927|C1963254|Tumor Lysis Syndrome|fndg
+2058,2062|C0079774|PTCL|neop
+2129,2137;2144,2151|C0679246|advanced disease|fndg
+2144,2151|C0012634|disease|dsyn
+2267,2292|C1142499|Gastrointestinal Toxicity|fndg
+2298,2304|C0027497|Nausea|sosy
+2298,2304|C1963179|Nausea|patf
+2306,2314|C0042963|vomiting|sosy
+2306,2314|C1963281|vomiting|patf
+2319,2327|C0011991|diarrhea|sosy
+2319,2327|C1963091|diarrhea|fndg
+2477,2485|C0600688|Toxicity|inpo
+2579,2593|C0232910|teratogenicity|patf
+2792,2801|C0425965|pregnancy|fndg
+2844,2848|C1273517|used|fndg
+2856,2865|C0425965|pregnancy|fndg
+2893,2901|C0600457|pregnant|fndg
+2893,2901|C0549206|pregnant|fndg

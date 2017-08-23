@@ -1,0 +1,61 @@
+89,118|TP|elevated intraocular pressure|C0234708|10022806|89,118|elevated intraocular pressure|C0234708|10022806|fndg
+149,167|TP|optic nerve damage|C0161398|10030938|149,167|optic nerve damage|C0161398|10030938|inpo
+169,175;187,200|FN|visual field defects|C3887875
+169,182;193,200|FN|visual acuity defects|C0234632
+202,242|FN|posterior subcapsular cataract formation|C0858617
+244,270;296,310|FN|secondary ocular infection herpes simplex|C0494081
+244,270|FN|secondary ocular infection|C0015403
+254,270|FP|ocular infection|C0015403|10015929|dsyn
+296,310|FP|herpes simplex|C0019348|10019948|dsyn
+316,340|FN|perforation of the globe|C0860533
+316,330;335,340|FP|perforation of globe|C0339198|10052428|inpo
+356,364;372,378|FP|thinning cornea|C1096274|10054760|dsyn
+418,442|FN|Ocular adverse reactions|C1557306
+516,529|TP|corneal edema|C0010037|10011033|516,529|corneal edema|C0010037|10011033|dsyn
+531,538;556,565|FN|ciliary hyperemia|C0948784
+543,565|TP|conjunctival hyperemia|C1761613|10051625|543,565|conjunctival hyperemia|C0155169,C1761613|10030041,10051625|dsyn,sosy
+567,575|TP|eye pain|C0151827|10015958|567,575|eye pain|C0151827,C1959630|10015958,10060933|sosy,fndg
+577,588|TP|photophobia|C0085636|10034960|577,588|photophobia|C0085636|10034960|sosy
+590,621|TP|posterior capsule opacification|C1444680|10036346|590,621|posterior capsule opacification|C1444680|10036346|acab,dsyn
+623,645|TP|anterior chamber cells|C0423282|10053781|623,645|anterior chamber cells|C0423282|10053781|fndg
+647,669|TP|anterior chamber flare|C0423281|10052127|647,669|anterior chamber flare|C0423281|10052127|fndg
+671,689|TP|conjunctival edema|C0151601|10010726|671,689|conjunctival edema|C0151601|10010726|fndg
+695,706|TP|blepharitis|C0005741|10005148|695,706|blepharitis|C0005741|10005148|dsyn
+779,800|TP|reduced visual acuity|C0234632|10047531|779,800|reduced visual acuity|C0234632|10047531|fndg
+802,820|TP|punctate keratitis|C0259799|10037508|802,820|punctate keratitis|C0259799|10037508|dsyn
+822,838|TP|eye inflammation|C0014236|10015943|822,838|eye inflammation|C0014236|10014801,10015943|dsyn
+844,850|TP|iritis|C0022081|10022955|844,850|iritis|C0022081|10022955|dsyn
+917,933;948,958|FN|application site irritation|C0521490
+917,944|TP|application site discomfort|C1328375|10063072|917,944|application site discomfort|C1328375|10063072|inpo
+960,967;985,991|FN|corneal striae|C0948285
+960,980|TP|corneal pigmentation|C0423226|10011040|960,980|corneal pigmentation|C0423226|10011040|fndg
+985,991|FP|striae|C0152459,C1963160|10040925,10060933|acab,fndg
+993,1005|TP|episcleritis|C0014583|10015084|993,1005|episcleritis|C0014583|10015084|dsyn
+1007,1019|FN|eye pruritis|C0022281
+1011,1019|FP|pruritis|C0033774|10037087|sosy
+1021,1027;1043,1051|FN|eyelid crusting|C2138747
+1021,1038|TP|eyelid irritation|C1112366|10057385|1021,1038|eyelid irritation|C1112366|10057385|dsyn
+1043,1051|FP|crusting|C0205204|10039509|acab
+1053,1075|TP|foreign body sensation|C0423602|10061549|1053,1075|foreign body sensation|C0423602|10061549|fndg
+1077,1098|TP|increased lacrimation|C0152227|10023644|1077,1098|increased lacrimation|C0152227|10023644|dsyn
+1100,1113|TP|macular edema|C0271051|10025415|1100,1113|macular edema|C0024440,C0271051|10025415,10058202|dsyn,dsyn
+1115,1131|FN|sclera hyperemia|C0423271
+1122,1131|FP|hyperemia|C0020452|10020565|dsyn
+1137,1144|TP|uveitis|C0042164|10046851|1137,1144|uveitis|C0042164,C1963266|10046851,10060933|dsyn,fndg
+1503,1517|TP|blurred vision|C0344232|10047513|1503,1517|blurred vision|C0344232|10047513|sosy
+1519,1533|TP|eye irritation|C0235266|10015946|1519,1533|eye irritation|C0235266|10015946|fndg
+1535,1543|TP|eye pain|C0151827|10015958|1535,1543|eye pain|C0151827,C1959630|10015958,10060933|sosy,fndg
+1545,1553|TP|headache|C0018681|10019211|1545,1553|headache|C0018681,C2096315|10019211,10019211|fndg,sosy
+1555,1568|FN|increased IOP|C0234708
+1565,1568|FP|IOP|C0595921|10061641|dsyn
+1570,1576|TP|iritis|C0022081|10022955|1570,1576|iritis|C0022081|10022955|dsyn
+1578,1584;1602,1611|FN|limbal hyperemia|C0423193
+1589,1611|TP|conjunctival hyperemia|C1761613|10051625|1589,1611|conjunctival hyperemia|C0155169,C1761613|10030041,10051625|dsyn,sosy
+1613,1631|TP|punctate keratitis|C0259799|10037508|1613,1631|punctate keratitis|C0259799|10037508|dsyn
+1637,1644|TP|uveitis|C0042164|10046851|1637,1644|uveitis|C0042164,C1963266|10046851,10060933|dsyn,fndg
+1704,1726|TP|anterior chamber flare|C0423281|10052127|1704,1726|anterior chamber flare|C0423281|10052127|fndg
+1728,1741|TP|corneal edema|C0010037|10011033|1728,1741|corneal edema|C0010037|10011033|dsyn
+1743,1750|TP|dry eye|C0314719|10013774|1743,1750|dry eye|C0314719|10013774|sosy
+1752,1765|TP|iridocyclitis|C0022073|10022941|1752,1765|iridocyclitis|C0022073|10022941|dsyn
+1767,1778|TP|photophobia|C0085636|10034960|1767,1778|photophobia|C0085636|10034960|sosy
+1784,1805|TP|reduced visual acuity|C0234632|10047531|1784,1805|reduced visual acuity|C0234632|10047531|fndg

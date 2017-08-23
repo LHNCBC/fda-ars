@@ -1,0 +1,49 @@
+00000000|AA|TNF|tumor necrosis factor|1|3|5|21|1922:3
+00000000|AA|TB|tuberculosis|1|2|1|12|2403:2
+00000000|AA|IL-1|interleukin-1|3|4|3|13|3551:4
+00000000|AA|MAS|Macrophage activation syndrome|1|3|5|30|5358:3
+00000000|MMI|222.71|Infection|C3714514|[patf]|["INFECTION"-tx-41-"infection"-noun-0,"Infections"-tx-38-"infections"-noun-0,"Infections"-tx-19-"infections"-noun-1,"Infections"-tx-18-"infections"-noun-0,"Infections"-tx-14-"infections"-noun-0,"Infections"-tx-13-"Infections"-noun-0,"INFECTION"-tx-12-"infection"-noun-0,"INFECTION"-tx-11-"infection"-noun-1,"Infections"-tx-10-"infections"-noun-0,"Infections"-tx-9-"Infections"-noun-0,"Infections"-tx-9-"infections"-noun-0,"INFECTION"-tx-6-"infection"-noun-1,"INFECTION"-tx-5-"infection"-noun-0,"Infections"-tx-4-"infections"-noun-0,"Infections"-tx-3-"infections"-noun-0,"Infections"-tx-2-"infections"-noun-0,"Infections"-tx-1-"infections"-noun-0]|TX|5559/9;4897/10;2196/10;1973/10;1535/10;1394/10;1378/9;1256/9;[1081/10],[1181/10];914/10;991/10;661/9;596/9;[418/10],[518/10];328/10;250/10;120/10|C01.539
+00000000|MMI|46.59|Latent Tuberculosis|C1609538|[dsyn]|["Tuberculosis Infections, Latent"-tx-27-"latent tuberculosis infections"-noun-1,"Latent Tuberculosis Infection"-tx-24-"latent tuberculosis infection"-noun-0,"Latent Tuberculosis Infection"-tx-22-"latent tuberculosis infection"-noun-0]|TX|3394/30;2881/29;2663/29|C01.252.410.040.552.846.122
+00000000|MMI|39.78|Tuberculosis|C0041296|[dsyn]|["TUBERCULOSIS"-tx-26-"tuberculosis"-noun-0,"TUBERCULOSIS"-tx-24-"tuberculosis"-noun-1,"TUBERCULOSIS"-tx-20-"tuberculosis"-noun-0]|TX|3175/12;2815/12;2349/12|C01.252.410.040.552.846
+00000000|MMI|35.89|Macrophage Activation Syndrome|C1096155|[dsyn]|["Macrophage Activation Syndrome"-tx-43-"MAS"-noun-1,"Macrophage Activation Syndrome"-tx-42-"MAS"-noun-0,"Macrophage Activation Syndrome"-tx-41-"MAS"-noun-0,"Macrophage Activation Syndrome"-tx-40-"Macrophage Activation Syndrome"-noun-0]|TX|5820/3;5644/3;5623/3;5290/30|C20.683.515.800
+00000000|MMI|34.65|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-41-"infection"-noun-0,"Infection, NOS"-tx-12-"infection"-noun-0,"Infection, NOS"-tx-11-"infection"-noun-1,"Infection, NOS"-tx-6-"infection"-noun-1,"Infection, NOS"-tx-5-"infection"-noun-0]|TX|5559/9;1378/9;1256/9;661/9;596/9|C01.539.221
+00000000|MMI|27.36|Disease|C0012634|[dsyn]|["Disorder"-tx-40-"disorder"-noun-0,"DISEASE"-tx-32-"disease"-noun-0,"condition"-tx-10-"conditions"-noun-0,"condition"-tx-4-"conditions"-noun-0]|TX|5392/8;3961/7;1141/10;478/10|C23.550.288
+00000000|MMI|18.63|Weight decreased|C1262477|[fndg]|["WEIGHTLOSS"-tx-26-"weight loss"-noun-0]|TX|3213/11|C23.888.144.243.963;G07.700.320.249.314.120.200.963
+00000000|MMI|14.87|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-38-"therapy"-noun-0,"Therapy"-tx-30-"therapy"-noun-0,"Therapy"-tx-27-"therapy"-noun-1,"Therapy"-tx-26-"therapy"-noun-0,"Therapy"-tx-25-"therapy"-noun-0,"Therapy"-tx-8-"therapy"-noun-0]|TX|4955/7;3826/7;3443/7;3280/7;3041/7;801/7|
+00000000|MMI|14.32|Aspergillosis|C0004030|[dsyn]|["ASPERGILLOSIS"-tx-15-"aspergillosis"-noun-0]|TX|1638/13|C01.539.800.200.383.249;C01.703.295.328.249;C17.800.838.208.416.249
+00000000|MMI|14.32|Mycobacterium Infections, Nontuberculous|C0026919|[dsyn]|["Atypical mycobacterial infections"-tx-15-"atypical mycobacterial infections"-noun-0]|TX|1653/33|C01.252.410.040.552.475
+00000000|MMI|13.84|Opportunistic Infections|C0029118|[dsyn]|["Opportunistic Infections"-tx-21-"opportunistic infections"-noun-0,"Opportunistic Infections"-tx-15-"opportunistic infections"-noun-0]|TX|2523/24;1606/24|C01.539.597;C02.597;C03.684
+00000000|MMI|11.11|Immunosuppression|C4048329|[dsyn]|["Immunosuppression"-tx-28-"Immunosuppression"-noun-0]|TX|3479/17|E02.095.465.425.450;E05.478.610
+00000000|MMI|10.01|Herpes zoster disease|C0019360|[dsyn]|["HERPES ZOSTER"-tx-15-"herpes zoster"-noun-0]|TX|1705/13|C02.256.466.423
+00000000|MMI|10.01|anaphylaxis|C0002792|[patf]|["Reactions, Anaphylactic"-tx-31-"anaphylactic reactions"-noun-1]|TX|3862/22|C20.543.480.099
+00000000|MMI|9.80|Systemic onset juvenile chronic arthritis|C1384600|[dsyn]|["sJIA"-tx-43-"SJIA"-noun-1,"sJIA"-tx-42-"SJIA"-noun-0,"sJIA"-tx-41-"SJIA"-noun-0,"sJIA"-tx-40-"SJIA"-noun-0]|TX|5827/4;5669/4;5585/4;5471/4|
+00000000|MMI|9.18|Hypersensitivity|C0020517|[patf]|["hypersensitivity symptoms"-tx-32-"symptoms hypersensitivity"-noun-0,"Hypersensitivity reactions"-tx-30-"Hypersensitivity reactions"-noun-0]|TX|4001/8,4013/16;3746/16,3785/9|C20.543
+00000000|MMI|8.95|Influenza|C0021400|[dsyn]|["INFLUENZA"-tx-38-"influenza"-noun-0]|TX|5106/9|C02.782.620.365;C08.730.310
+00000000|MMI|7.39|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-41-"symptoms"-noun-0,"SYMPTOMS"-tx-32-"symptoms"-noun-0,"SYMPTOMS"-tx-26-"symptoms"-noun-0]|TX|5547/8;3934/8;3129/8|
+00000000|MMI|7.13|Rheumatism|C0035435|[dsyn]|["Rheumatic condition"-tx-40-"rheumatic conditions"-noun-0]|TX|5435/20|C05.799;C17.300.775
+00000000|MMI|7.10|Discontinued|C1444662|[fndg]|["Discontinued"-tx-12-"discontinued"-verb-0,"Discontinue"-tx-5-"Discontinue"-verb-0]|TX|1333/12;530/11|
+00000000|MMI|4.99|history of infection|C2049826|[fndg]|["history of infection"-tx-10-"history of infections"-noun-0,"history of infection"-tx-4-"history of infections"-noun-0]|TX|1095/10,1116/10;432/10,453/10|
+00000000|MMI|4.83|Reactivation tuberculosis|C0275965|[dsyn]|["TUBERCULOSIS REACTIVATION"-tx-21-"reactivation tuberculosis"-noun-0,"TUBERCULOSIS REACTIVATION"-tx-20-"reactivation tuberculosis"-noun-0]|TX|2488/12,2504/12;2366/12,2389/12|
+00000000|MMI|4.82|Positive Finding|C1514241|[fndg]|["POSITIVE"-tx-25-"positive"-noun-0,"POSITIVE"-tx-24-"positive"-adj-1]|TX|2940/8;2806/8|
+00000000|MMI|3.54|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-33-"Adverse Reactions"-noun-1]|TX|4159/17|
+00000000|MMI|3.54|Persistent cough|C0562483|[sosy]|["Persistent cough"-tx-26-"persistent cough"-noun-0]|TX|3195/16|
+00000000|MMI|3.54|Physical findings|C0311392|[fndg]|["SIGNS"-tx-26-"signs"-noun-0]|TX|3122/5|
+00000000|MMI|3.54|Weight Loss Adverse Event|C2911645|[patf]|["Weight loss"-tx-26-"weight loss"-noun-0]|TX|3213/11|
+00000000|MMI|2.81|Rheumatic disorder|C3495832|[dsyn]|["Rheumatic condition"-tx-40-"rheumatic conditions"-noun-0]|TX|5435/20|
+00000000|MMI|2.49|Isolated cases|C1853237|[fndg]|["Isolated cases"-tx-15-"Isolated cases"-noun-0]|TX|1577/14|
+00000000|MMI|2.48|Decreased Immunologic Activity [PE]|C1373218|[patf]|["Immunosuppression"-tx-28-"Immunosuppression"-noun-0]|TX|3479/17|
+00000000|MMI|2.48|Injury due to exposure to external cause|C0274281|[inpo]|["Exposure NOS"-tx-26-"exposure"-noun-0]|TX|3152/8|
+00000000|MMI|2.48|exposure history|C2220266|[fndg]|["exposure"-tx-26-"exposure"-noun-0]|TX|3152/8|
+00000000|MMI|2.45|Worse|C1457868|[fndg]|["Worsening"-tx-41-"worsening"-noun-0]|TX|5572/9|
+00000000|MMI|2.45|Known allergy|C3845888|[fndg]|["Known Hypersensitivity"-tx-33-"known hypersensitivity"-noun-1]|TX|4086/5,4101/16|
+00000000|MMI|2.44|Experimental Result|C2825142|[fndg]|["Result"-tx-29-"result"-verb-0]|TX|3680/6|
+00000000|MMI|2.44|Immune System Finding|C1291764|[fndg]|["IMMUNE SYSTEM"-tx-20-"immune system"-noun-0]|TX|2268/13|
+00000000|MMI|2.43|Secondary transmission|C0948191|[patf]|["Secondary transmission"-tx-35-"secondary transmission"-noun-0]|TX|4383/22|
+00000000|MMI|2.43|At risk of infection|C0582147|[fndg]|["infection risks"-tx-35-"risks infection"-noun-0]|TX|4374/5,4409/9|
+00000000|MMI|2.43|Gait normal|C0231683|[fndg]|["Normal"-tx-36-"normal"-adj-0]|TX|4573/6|
+00000000|MMI|2.42|combination - answer to question|C3811910|[fndg]|["Combination"-tx-18-"combination"-noun-0]|TX|2051/11|
+00000000|MMI|2.42|American College of Cardiology/American Heart Association Lesion Complexity Score C|C3272283|[fndg]|["High Risk"-tx-26-"high risk"-adj-0]|TX|3142/9|
+00000000|MMI|2.39|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-40-"life-threatening"-adj-0]|TX|5375/16|
+00000000|MMI|2.39|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-40-"life-threatening"-adj-0]|TX|5375/16|
+00000000|MMI|2.39|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-40-"life-threatening"-adj-0]|TX|5375/16|
+00000000|MMI|2.34|Mental blocking|C0233660|[mobd]|["Blocking"-tx-20-"blocking"-adj-0]|TX|2285/8|

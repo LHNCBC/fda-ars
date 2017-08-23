@@ -1,0 +1,101 @@
+54,80|C0020517|Hypersensitivity reactions|patf
+98,102|C0015230|rash|sosy
+104,127|C0009812|constitutional findings|sosy
+143,160|C0349410|organ dysfunction|sosy
+172,184|C0160390|liver injury|inpo
+206,217|C1444662|Discontinue|fndg
+266,271|C0311392|signs|fndg
+275,283|C1457887|symptoms|sosy
+287,313|C0020517|hypersensitivity reactions|patf
+360,366|C2825142|result|fndg
+441,452|C0019163|hepatitis B|dsyn
+487,496|C1457868|worsening|fndg
+560,571;611,618|C1555288|Appropriate therapy|fndg
+638,652|C0235378|hepatotoxicity|inpo
+660,667|C1363945|therapy|fndg
+724,739|C0023895|hepatic disease|dsyn
+748,759|C0019163|hepatitis B|dsyn
+783,797;819,822|C0856151|Redistribution fat|dsyn
+798,810|C4055506|accumulation|fndg
+814,822|C0518026|body fat|fndg
+827,857|C1619738|immune reconstitution syndrome|dsyn
+827,857|C1096197|immune reconstitution syndrome|dsyn
+902,913|C3811910|combination|fndg
+972,998|C0020517|Hypersensitivity Reactions|patf
+1076,1080|C0015230|rash|sosy
+1082,1105|C0009812|constitutional findings|sosy
+1121,1138|C0349410|organ dysfunction|sosy
+1150,1162|C0160390|liver injury|inpo
+1263,1274|C1444662|Discontinue|fndg
+1323,1328|C0311392|signs|fndg
+1332,1340|C1457887|symptoms|sosy
+1344,1370|C0020517|hypersensitivity reactions|patf
+1399,1406|C2674459|limited|fndg
+1446,1451|C0015967|fever|fndg
+1446,1451|C0424755|fever|fndg
+1453,1468|C0231218|general malaise|sosy
+1470,1477|C0015672|fatigue|sosy
+1489,1500|C0003862|joint aches|sosy
+1502,1510|C0005758|blisters|patf
+1502,1510|C2132198|blisters|fndg
+1514,1524;1529,1533|C0237849|peeling of skin|fndg
+1535,1548|C2673616|oral blisters|fndg
+1552,1559|C0221198|lesions|fndg
+1561,1575|C0009763|conjunctivitis|dsyn
+1577,1589|C0542571|facial edema|patf
+1577,1589|C0151602|facial edema|fndg
+1591,1600|C0019159|hepatitis|dsyn
+1591,1600|C0019158|hepatitis|dsyn
+1602,1614|C0014457|eosinophilia|dsyn
+1602,1614|C1306759|eosinophilia|dsyn
+1616,1626|C0002994|angioedema|patf
+1628,1648|C0013404|difficulty breathing|sosy
+1739,1746|C1363945|therapy|fndg
+1802,1807;1842,1858|C0301925|other hypersensitivity|patf
+1863,1869|C2825142|result|fndg
+1913,1928|C1444657|contraindicated|fndg
+1973,1998|C0020517|hypersensitivity reaction|patf
+2082,2093|C0019163|Hepatitis B|dsyn
+2102,2111;2131,2141|C0749769|infection underlying|dsyn
+2142,2153|C0019163|hepatitis B|dsyn
+2188,2197|C1457868|worsening|fndg
+2360,2390|C1619738|immune reconstitution syndrome|dsyn
+2360,2390|C1096197|immune reconstitution syndrome|dsyn
+2394,2418|C1142420|hepatitis B reactivation|dsyn
+2468,2475|C1363945|therapy|fndg
+2480,2489|C2825032|withdrawn|mobd
+2480,2489|C0424092|withdrawn|fndg
+2491,2502;2542,2549|C1555288|Appropriate therapy|fndg
+2569,2583|C0235378|hepatotoxicity|inpo
+2591,2598|C1363945|therapy|fndg
+2656,2671|C0023895|hepatic disease|dsyn
+2680,2691|C0019163|hepatitis B|dsyn
+2709,2712;2764,2768|C0518026|Fat body|fndg
+2709,2727|C0856151|Fat Redistribution|dsyn
+2748,2760|C4055506|accumulation|fndg
+2784,2799|C0311277|central obesity|fndg
+2815,2830|C0406602|fat enlargement|patf
+2832,2844|C0520573|buffalo hump|acab
+2858,2865|C0006625|wasting|sosy
+2858,2865|C0235394|wasting|dsyn
+2867,2881|C1112303|facial wasting|dsyn
+2883,2901|C0235648|breast enlargement|fndg
+2883,2901|C0020565|breast enlargement|patf
+2883,2901|C2225524|breast enlargement|fndg
+2908,2929|C0742929|cushingoid appearance|dsyn
+3135,3165|C1619738|Immune Reconstitution Syndrome|dsyn
+3135,3165|C1096197|Immune Reconstitution Syndrome|dsyn
+3245,3256|C3811910|combination|fndg
+3328,3339|C3811910|combination|fndg
+3419,3440|C1155266|inflammatory response|patf
+3465,3489|C0029118|opportunistic infections|dsyn
+3499,3518;3520,3529|C0026916|Mycobacterium avium infection|dsyn
+3499,3518;3520,3529|C1411980|Mycobacterium avium infection|dsyn
+3548,3570;3572,3581|C1535939|Pneumocystis jirovecii pneumonia|dsyn
+3583,3586|C1535939|PCP|dsyn
+3592,3604|C0041296|tuberculosis|dsyn
+3667,3687|C0004364|Autoimmune disorders|dsyn
+3697,3703;3705,3712|C0018213|Graves disease|dsyn
+3714,3726|C0085655|polymyositis|dsyn
+3732,3755|C3542501|Guillain-Barre syndrome|dsyn
+3732,3755|C0018378|Guillain-Barre syndrome|dsyn

@@ -1,0 +1,77 @@
+00000000|AA|EMTP|ERWINAZE Master Treatment Protocol|1|4|7|34|1653:4
+00000000|AA|PK|pharmacokinetic|1|2|1|15|1829:2
+00000000|AA|NCI|National Cancer Institute|1|3|5|25|1954:3
+00000000|AA|LBL|lymphoblastic lymphoma|1|3|3|22|3135:3
+00000000|MMI|76.93|Thrombosis|C0040053|[patf]|["THROMBOSIS"-tx-23-"thrombosis"-noun-0,"THROMBOSIS"-tx-2-"thrombosis"-noun-0,"THROMBOSIS"-tx-1-"Thrombosis"-noun-0,"THROMBOSIS"-tx-1-"thrombosis"-noun-0]|TX|[4847/10],[4964/10];891/10;338/10;618/10|C14.907.355.830
+00000000|MMI|74.17|Hypersensitivity|C0020517|[patf]|["Hypersensitivity reactions"-tx-33-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-32-"hypersensitivity reactions"-noun-0,"HYPERSENSITIVITY REACTION (NOS)"-tx-30-"hypersensitivity reaction"-noun-0,"Allergic reactions"-tx-26-"allergic reactions"-noun-0,"ALLERGY"-tx-23-"allergy"-noun-0,"ALLERGY"-tx-13-"allergy"-noun-0,"Allergic reactions"-tx-11-"allergic reactions"-noun-0,"Hypersensitivity reactions"-tx-5-"hypersensitivity reactions"-noun-0,"Hypersensitivity reactions"-tx-1-"Hypersensitivity reactions"-noun-0]|TX|6654/26;6473/26;6131/25;5337/18;4798/7;3151/7;2759/18;2060/26;140/26|C20.543
+00000000|MMI|60.37|Hyperglycemia|C0020456|[dsyn]|["HYPERGLYCEMIA"-tx-26-"hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-23-"hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-2-"hyperglycemia"-noun-0,"HYPERGLYCEMIA"-tx-1-"hyperglycemia"-noun-0]|TX|5447/13;4891/13;796/13;523/13|C18.452.394.952
+00000000|MMI|47.37|Pancreatitis|C0030305|[dsyn]|["PANCREATITIS"-tx-23-"pancreatitis"-noun-0,"PANCREATITIS"-tx-2-"pancreatitis"-noun-0,"PANCREATITIS"-tx-1-"Pancreatitis"-noun-0,"PANCREATITIS"-tx-1-"pancreatitis"-noun-0]|TX|4807/12;842/12;213/12;569/12|C06.689.750
+00000000|MMI|45.12|Unmarried|C0087136|[fndg]|["single"-tx-4-"single"-adj-0]|TX|[1504/6],[1774/6]|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+00000000|MMI|35.02|Hemorrhage|C0019080|[patf]|["HEMORRHAGE"-tx-23-"hemorrhage"-noun-0,"HEMORRHAGE"-tx-1-"hemorrhage"-noun-0]|TX|[4835/10],[4952/10];353/10|C23.550.414
+00000000|MMI|35.02|Hyperbilirubinemia|C0020433|[dsyn]|["Hyper bilirubinemia"-tx-23-"hyperbilirubinemia"-noun-0,"Hyper bilirubinemia"-tx-2-"hyperbilirubinemia"-noun-0,"Hyper bilirubinemia"-tx-1-"hyperbilirubinemia"-noun-0]|TX|4871/18;903/18;630/18|C23.550.429
+00000000|MMI|32.70|Precursor Cell Lymphoblastic Leukemia Lymphoma|C1961102|[neop]|["Lymphoma, Lymphoblastic"-tx-16-"lymphoblastic lymphoma"-noun-0,"Lymphoma, Lymphoblastic"-tx-13-"lymphoblastic lymphoma"-noun-0]|TX|3779/22;3111/22|C04.557.337.428.600;C15.604.515.560.600;C20.683.515.528.600
+00000000|MMI|32.49|Abdominal Pain|C0000737|[sosy]|["ABDOMINAL PAIN"-tx-2-"abdominal pain"-noun-0,"ABDOMINAL PAIN"-tx-1-"abdominal pain"-noun-0]|TX|923/14;650/14|C10.597.617.044;C23.888.592.612.054;C23.888.821.030
+00000000|MMI|32.37|Pain|C0030193|[sosy]|["PAIN"-tx-2-"pain"-noun-0,"PAIN"-tx-1-"pain"-noun-0]|TX|933/4;660/4|C10.597.617;C23.888.592.612;F02.830.816.444;G11.561.600.810.444
+00000000|MMI|29.46|Diarrhea|C0011991|[sosy]|["DIARRHOEA"-tx-2-"diarrhea"-noun-0,"DIARRHOEA"-tx-1-"diarrhea"-noun-0]|TX|954/8;681/8|C23.888.821.214
+00000000|MMI|29.46|Infarction|C0021308|[patf]|["INFARCT"-tx-23-"infarct"-noun-0,"Infarction"-tx-23-"infarction"-noun-0]|TX|4861/7;4978/10|C23.550.513.355;C23.550.717.489
+00000000|MMI|29.46|Nausea|C0027497|[sosy]|["NAUSEA"-tx-2-"nausea"-noun-0,"NAUSEA"-tx-1-"nausea"-noun-0]|TX|883/6;610/6|C23.888.821.712
+00000000|MMI|29.46|Vomiting|C0042963|[sosy]|["VOMITING"-tx-2-"vomiting"-verb-0,"VOMITING"-tx-1-"vomiting"-verb-0]|TX|873/8;600/8|C23.888.821.937
+00000000|MMI|28.56|Adverse reactions|C0559546|[patf]|["Adverse reactions"-tx-28-"adverse reactions"-noun-1,"ADVERSE REACTION"-tx-3-"adverse reaction"-noun-0,"Adverse reactions"-tx-3-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-2-"adverse reactions"-noun-0,"Adverse reactions"-tx-1-"ADVERSE REACTIONS"-noun-0,"Adverse reactions"-tx-1-"adverse reactions"-noun-0]|TX|5680/17;1234/16;985/17;720/17;6/17;[49/17],[424/17]|
+00000000|MMI|27.79|Allergic Reaction|C1527304|[patf]|["Reactions, Allergic"-tx-26-"allergic reactions"-noun-0,"Allergy"-tx-23-"allergy"-noun-0,"Allergy"-tx-13-"allergy"-noun-0,"Reactions, Allergic"-tx-11-"allergic reactions"-noun-0]|TX|5337/18;4798/7;3151/7;2759/18|C20.543
+00000000|MMI|27.22|Thrombosis of blood vessel|C2586211|[patf]|["thrombosis"-tx-23-"thrombosis"-noun-0,"thrombosis"-tx-2-"thrombosis"-noun-0,"thrombosis"-tx-1-"Thrombosis"-noun-0,"thrombosis"-tx-1-"thrombosis"-noun-0]|TX|[4847/10],[4964/10];891/10;338/10;618/10|
+00000000|MMI|26.34|Fever|C0015967|[fndg]|["FEVER"-tx-2-"fever"-noun-0,"FEVER"-tx-1-"fever"-noun-0]|TX|835/5;562/5|C23.888.119.344
+00000000|MMI|21.36|Pancreatitis Adverse Event|C1963198|[fndg]|["Pancreatitis"-tx-23-"pancreatitis"-noun-0,"Pancreatitis"-tx-2-"pancreatitis"-noun-0,"Pancreatitis"-tx-1-"Pancreatitis"-noun-0,"Pancreatitis"-tx-1-"pancreatitis"-noun-0]|TX|4807/12;842/12;213/12;569/12|
+00000000|MMI|20.00|Disease|C0012634|[dsyn]|["DISEASE"-tx-34-"disease"-noun-0,"condition"-tx-3-"conditions"-noun-0]|TX|7042/7;1222/10|C23.550.288
+00000000|MMI|17.80|Hyperlipidemia|C0020473|[dsyn]|["Hyperlipidaemia NOS"-tx-23-"hyperlipidemia"-noun-0]|TX|4906/14|C18.452.584.500.500
+00000000|MMI|17.80|Impaired glucose tolerance|C0271650|[dsyn]|["GLUCOSE INTOLERANCE"-tx-1-"Glucose intolerance"-noun-0]|TX|272/19|C18.452.394.952.500
+00000000|MMI|17.80|Ketoacidosis|C0220982|[patf]|["KETOACIDOSIS"-tx-23-"ketoacidosis"-noun-0]|TX|4922/12|C18.452.076.176.652
+00000000|MMI|17.80|Ketosis|C0022638|[dsyn]|["Ketoacidosis"-tx-23-"ketoacidosis"-noun-0]|TX|4922/12|C18.452.076.176.652
+00000000|MMI|15.79|Increased bilirubin level (finding)|C0311468|[fndg]|["Hyperbilirubinemia"-tx-23-"hyperbilirubinemia"-noun-0,"Hyperbilirubinemia"-tx-2-"hyperbilirubinemia"-noun-0,"Hyperbilirubinemia"-tx-1-"hyperbilirubinemia"-noun-0]|TX|4871/18;903/18;630/18|
+00000000|MMI|14.57|4+ Answer to question|C3838679|[fndg]|["4+"-tx-33-"4"-integer-0,"4+"-tx-32-"4"-integer-0,"4+"-tx-31-"4"-integer-0,"4+"-tx-23-"4"-integer-0]|TX|6547/1;6408/1;6316/1;5043/1|
+00000000|MMI|14.55|Adverse event|C0877248|[patf]|["adverse events"-tx-27-"adverse events"-noun-1,"ADVERSE EVENT"-tx-25-"adverse event"-noun-0,"adverse events"-tx-24-"adverse events"-noun-0,"adverse events"-tx-23-"adverse events"-noun-0]|TX|5516/14;5248/13;5107/14;4715/14|
+00000000|MMI|13.05|Lymphoma|C0024299|[neop]|["LYMPHOMA"-tx-17-"lymphoma"-noun-0]|TX|4061/8|C04.557.386;C15.604.515.569;C20.683.515.761
+00000000|MMI|12.96|Thrombus|C0087086|[patf]|["Thrombotic"-tx-26-"thrombotic"-adj-0]|TX|5357/10|C14.907.355.830
+00000000|MMI|12.92|Disease Progression|C0242656|[patf]|["Disease Progression"-tx-11-"disease progression"-noun-0]|TX|2831/19|C23.550.291.656
+00000000|MMI|11.59|Systemic allergic reaction|C1736167|[patf]|["Systemic Hypersensitivity"-tx-16-"systemic hypersensitivity"-noun-0,"Systemic Hypersensitivity"-tx-2-"systemic hypersensitivity"-noun-0,"Systemic Hypersensitivity"-tx-1-"systemic hypersensitivity"-noun-0]|TX|3841/25;769/25;496/25|
+00000000|MMI|11.49|Blood Coagulation Disorders|C0005779|[dsyn]|["COAGULOPATHY"-tx-23-"coagulopathy"-noun-0]|TX|4821/12|C15.378.100
+00000000|MMI|10.88|Center of town|C3810851|[fndg]|["Center"-tx-18-"center"-noun-0,"Center"-tx-4-"center"-noun-0]|TX|4185/6;[1522/6],[1792/6]|
+00000000|MMI|10.84|30%|C3842588|[fndg]|["30%"-tx-32-"30"-integer-0,"30%"-tx-31-"30"-integer-0,"30%"-tx-13-"30"-integer-0]|TX|6511/2;6321/2;3056/2|
+00000000|MMI|10.79|3+ Answer to Question|C3838680|[fndg]|["3+"-tx-32-"3"-integer-0,"3+"-tx-17-"3"-percentage-0]|TX|[6459/1],[6506/1];4053/1|
+00000000|MMI|10.42|29+|C3843708|[fndg]|["29+"-tx-19-"29"-integer-0,"29+"-tx-13-"29"-integer-0]|TX|4347/2;3069/2|
+00000000|MMI|10.42|Diarrhea Adverse Event|C1963091|[fndg]|["Diarrhea"-tx-2-"diarrhea"-noun-0,"Diarrhea"-tx-1-"diarrhea"-noun-0]|TX|954/8;681/8|
+00000000|MMI|10.42|Local reaction|C0853813|[sosy]|["local reactions"-tx-2-"local reactions"-noun-0,"local reactions"-tx-1-"local reactions"-noun-0]|TX|856/15;583/15|
+00000000|MMI|10.42|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-2-"nausea"-noun-0,"Nausea"-tx-1-"nausea"-noun-0]|TX|883/6;610/6|
+00000000|MMI|10.42|Vomiting Adverse Event|C1963281|[patf]|["Vomiting"-tx-2-"vomiting"-verb-0,"Vomiting"-tx-1-"vomiting"-verb-0]|TX|873/8;600/8|
+00000000|MMI|9.90|leukemia|C0023418|[neop]|["LEUKAEMIA"-tx-17-"leukemia"-noun-0]|TX|4043/8|C04.557.337
+00000000|MMI|8.34|Pancreatic Diseases|C0030286|[dsyn]|["pancreatic disorders"-tx-26-"pancreatic disorders"-noun-0]|TX|5421/20|C06.689
+00000000|MMI|7.70|10%|C3842590|[fndg]|["10%"-tx-32-"10"-percentage-0,"10%"-tx-7-"10"-percentage-0]|TX|6501/2;2443/2|
+00000000|MMI|7.61|Abdominal discomfort|C0232487|[sosy]|["ABDOMINAL DISCOMFORT"-tx-2-"abdominal discomfort"-noun-0,"ABDOMINAL DISCOMFORT"-tx-1-"abdominal discomfort"-noun-0]|TX|923/9,938/10;650/9,665/10|
+00000000|MMI|7.49|School Grade|C3244287|[fndg]|["grade"-tx-27-"Grades"-verb-1,"grade"-tx-23-"Grades"-verb-0]|TX|5536/6;4705/6|
+00000000|MMI|7.46|Allergic disposition|C3539909|[dsyn]|["Allergy"-tx-23-"allergy"-noun-0,"Allergy"-tx-13-"allergy"-noun-0]|TX|4798/7;3151/7|
+00000000|MMI|7.46|History of allergies|C0489531|[fndg]|["allergy"-tx-23-"allergy"-noun-0,"allergy"-tx-13-"allergy"-noun-0]|TX|4798/7;3151/7|
+00000000|MMI|7.32|Precursor cell lymphoblastic lymphoma|C0079748|[neop]|["Lymphoblastic Lymphoma"-tx-16-"lymphoblastic lymphoma"-noun-0,"Lymphoblastic Lymphoma"-tx-13-"lymphoblastic lymphoma"-noun-0]|TX|3779/22;3111/22|
+00000000|MMI|7.31|Actual Discomfort|C2364135|[sosy]|["Discomfort"-tx-2-"discomfort"-noun-0,"Discomfort"-tx-1-"discomfort"-noun-0]|TX|938/10;665/10|
+00000000|MMI|7.31|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-2-"fever"-noun-0,"Fever"-tx-1-"fever"-noun-0]|TX|835/5;562/5|
+00000000|MMI|7.31|Malaise|C0231218|[sosy]|["DISCOMFORT"-tx-2-"discomfort"-noun-0,"DISCOMFORT"-tx-1-"discomfort"-noun-0]|TX|938/10;665/10|
+00000000|MMI|7.28|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-11-"therapy"-noun-0,"Therapy"-tx-10-"therapy"-noun-0]|TX|2717/7;2676/7|
+00000000|MMI|7.20|1+|C3816745|[fndg]|["1+"-tx-30-"1"-integer-0,"1+"-tx-15-"1"-integer-0]|TX|6177/1;3508/1|
+00000000|MMI|7.18|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-28-"Grade 3"-noun-0,"GRADE 3"-tx-23-"Grade 3"-noun-0]|TX|5629/7;5031/7|
+00000000|MMI|7.11|Transaminases abnormal|C1328397|[fndg]|["Transaminases abnormal"-tx-2-"transaminases abnormal"-noun-0,"Transaminases abnormal"-tx-1-"transaminases abnormal"-noun-0]|TX|811/22;538/22|
+00000000|MMI|6.99|Pain NOS Adverse Event|C1962977|[fndg]|["Pain NOS"-tx-2-"pain"-noun-0,"Pain NOS"-tx-1-"pain"-noun-0]|TX|933/4;660/4|
+00000000|MMI|5.18|2+|C3833492|[fndg]|["2+"-tx-30-"2"-percentage-0]|TX|6173/1|
+00000000|MMI|5.18|Able (finding)|C1299581|[fndg]|["Able"-tx-21-"able"-adj-0]|TX|4512/4|
+00000000|MMI|5.18|Hepatobiliary disease|C0267792|[dsyn]|["Hepatobiliary disorders"-tx-26-"hepatobiliary disorders"-noun-0]|TX|5396/23|
+00000000|MMI|5.18|Patient's choice|C3841966|[fndg]|["Patient's choice"-tx-11-"patient choice"-noun-0]|TX|2804/14|
+00000000|MMI|5.18|Serum lipids high (finding)|C0428465|[fndg]|["Hyperlipidemia"-tx-23-"hyperlipidemia"-noun-0]|TX|4906/14|
+00000000|MMI|5.18|Thrombosis of cerebral veins|C0151945|[dsyn]|["CEREBRAL VENOUS THROMBOSIS"-tx-23-"cerebral venous thrombosis"-noun-0]|TX|4994/26|
+00000000|MMI|5.18|Unable|C1299582|[fndg]|["Unable"-tx-5-"unable"-adj-0]|TX|2010/6|
+00000000|MMI|4.12|Disease Controlled|C2911690|[fndg]|["Under Control"-tx-3-"under controlled"-adj-0]|TX|1185/16|
+00000000|MMI|3.72|Received therapy or drug for|C0332154|[fndg]|["Treated for"-tx-13-"treated for"-verb-0]|TX|3083/11|
+00000000|MMI|3.68|Protocol - answer to question|C3715209|[fndg]|["Protocol"-tx-11-"protocol"-noun-0]|TX|2900/8|
+00000000|MMI|3.62|> 2 years|C3843647|[fndg]|["> 2 years"-tx-7-"2 years"-noun-0]|TX|2396/1,2404/5|
+00000000|MMI|3.57|0%|C3842591|[fndg]|["0%"-tx-17-"0"-integer-0]|TX|4003/1|
+00000000|MMI|3.57|20%|C3842589|[fndg]|["20%"-tx-18-"20"-comma_integer-0]|TX|4235/2|
+00000000|MMI|3.47|Positive Finding|C1514241|[fndg]|["POSITIVE"-tx-30-"positive"-noun-0]|TX|6094/8|
+00000000|MMI|3.46|Death Adverse Event Due to Disease Progression Not Associated with More Specific CTCAE Term|C1947900|[fndg]|["Disease progression NOS"-tx-11-"disease progression"-noun-0]|TX|2831/19|
+00000000|MMI|3.44|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-11-"discontinuation"-noun-0]|TX|2867/15|
+00000000|MMI|3.43|Age <= 2 years|C4061124|[fndg]|["Age <= 2 years"-tx-15-"2 age years"-noun-0]|TX|3447/1,3492/3,3501/5|

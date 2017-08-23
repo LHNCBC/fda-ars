@@ -1,0 +1,89 @@
+00000000|AA|CRS|Cytokine Release Syndrome|1|3|5|25|607:3
+00000000|AA|DIC|disseminated intravascular coagulation|1|3|5|38|1256:3
+00000000|AA|CLS|capillary leak syndrome|1|3|5|23|1287:3
+00000000|AA|HLH/MAS|hemophagocytic lymphohistiocytosis/macrophage activation syndrome|3|7|9|65|1364:7
+00000000|AA|TLS|Tumor lysis syndrome|1|3|5|20|3060:3
+00000000|AA|GGT|gamma-glutamyl transferase|1|3|5|26|4963:3
+00000000|AA|MRI|magnetic resonance imaging|1|3|5|26|5292:3
+00000000|MMI|45.49|Febrile Neutropenia|C0746883|[dsyn]|["Febrile Neutropenia"-tx-24-"Febrile Neutropenia"-noun-0,"Febrile Neutropenia"-tx-24-"febrile neutropenia"-noun-0]|TX|3547/19;3588/19|C15.378.553.546.184.564.750
+00000000|MMI|39.58|Tumor Lysis Syndrome|C0041364|[dsyn]|["TUMOUR LYSIS SYNDROME"-tx-22-"TLS"-noun-0,"TUMOUR LYSIS SYNDROME"-tx-21-"TLS"-noun-0,"TUMOUR LYSIS SYNDROME"-tx-20-"Tumor Lysis Syndrome"-noun-0]|TX|3366/3;3302/3;3012/20|C15.604.515.880;C20.683.515.950
+00000000|MMI|39.08|Neutropenia|C0027947|[dsyn]|["NEUTROPENIA"-tx-26-"neutropenia"-noun-0,"NEUTROPENIA"-tx-24-"Neutropenia"-noun-0]|TX|3868/11;3531/11|C15.378.553.546.184.564
+00000000|MMI|35.81|Confusion|C0009676|[mobd]|["CONFUSION"-tx-14-"confusion"-noun-0,"Disorientation"-tx-14-"disorientation"-noun-0]|TX|2134/9;2148/14|C10.597.606.337;C23.888.592.604.339;F01.700.250
+00000000|MMI|35.81|Seizures|C0036572|[sosy]|["Seizures"-tx-27-"seizures"-noun-0,"CONVULSIONS"-tx-14-"convulsions"-noun-0]|TX|4008/8;2072/11|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|27.78|Infection|C3714514|[patf]|["INFECTION"-tx-19-"infection"-noun-0,"Infections"-tx-17-"Infections"-noun-0,"Infections"-tx-17-"infections"-noun-0,"Infections"-tx-2-"Infections"-noun-0]|TX|2962/9;2528/10;2603/10;53/10|C01.539
+00000000|MMI|27.68|Cytokine release syndrome|C0948245|[dsyn]|["Cytokine Release Syndrome"-tx-32-"CRS"-noun-0,"Cytokine Release Syndrome"-tx-30-"CRS"-noun-0,"Cytokine Release Syndrome"-tx-9-"CRS"-noun-0,"Cytokine Release Syndrome"-tx-8-"CRS"-noun-0,"Cytokine Release Syndrome"-tx-7-"CRS"-noun-0,"Cytokine Release Syndrome"-tx-6-"CRS"-noun-0,"Cytokine Release Syndrome"-tx-5-"Cytokine Release Syndrome"-noun-0]|TX|4782/3;4514/3;1410/3;1139/3;886/3;822/3;549/25|
+00000000|MMI|26.39|Leukopenia|C0023530|[dsyn]|["NEUTROPENIA"-tx-26-"neutropenia"-noun-0,"NEUTROPENIA"-tx-24-"Neutropenia"-noun-0]|TX|3868/11;3531/11|C15.378.553.546
+00000000|MMI|26.31|Leukoencephalopathies|C0270612|[dsyn]|["Leukoencephalopathy"-tx-35-"Leukoencephalopathy"-noun-0,"Leukoencephalopathy"-tx-35-"leukoencephalopathy"-noun-0]|TX|5231/19;5313/19|C10.228.140.695
+00000000|MMI|24.92|Life Threatening|C2826244|[fndg]|["Life Threatening"-tx-24-"life-threatening"-adj-0,"Life Threatening"-tx-20-"life-threatening"-adj-0,"Life Threatening"-tx-17-"life-threatening"-adj-0,"Life Threatening"-tx-14-"life-threatening"-adj-0,"Life Threatening"-tx-8-"Life-threatening"-adj-0,"Life Threatening"-tx-5-"life-threatening"-adj-0]|TX|3619/16;3079/16;2775/16;1901/16;1113/16;626/16|
+00000000|MMI|24.92|Life Threatening Adverse Event|C1517874|[fndg]|["LIFE THREATENING"-tx-24-"life-threatening"-adj-0,"LIFE THREATENING"-tx-20-"life-threatening"-adj-0,"LIFE THREATENING"-tx-17-"life-threatening"-adj-0,"LIFE THREATENING"-tx-14-"life-threatening"-adj-0,"LIFE THREATENING"-tx-8-"Life-threatening"-adj-0,"LIFE THREATENING"-tx-5-"life-threatening"-adj-0]|TX|3619/16;3079/16;2775/16;1901/16;1113/16;626/16|
+00000000|MMI|24.92|Life Threatening or Disabling Adverse Event|C3537125|[fndg]|["LIFE THREATENING"-tx-24-"life-threatening"-adj-0,"LIFE THREATENING"-tx-20-"life-threatening"-adj-0,"LIFE THREATENING"-tx-17-"life-threatening"-adj-0,"LIFE THREATENING"-tx-14-"life-threatening"-adj-0,"LIFE THREATENING"-tx-8-"Life-threatening"-adj-0,"LIFE THREATENING"-tx-5-"life-threatening"-adj-0]|TX|3619/16;3079/16;2775/16;1901/16;1113/16;626/16|
+00000000|MMI|24.11|Speech Disorders|C0037822|[dsyn]|["Speech Disorders"-tx-14-"speech disorders"-noun-0]|TX|2085/16|C10.597.606.150.500.800;C23.888.592.604.150.500.800
+00000000|MMI|23.44|Discontinued|C1444662|[fndg]|["Discontinuation"-tx-32-"discontinuation"-noun-0,"Discontinuation"-tx-23-"discontinuation"-noun-0,"Discontinue"-tx-16-"discontinue"-verb-0,"Discontinuation"-tx-15-"discontinuation"-noun-0,"Discontinuation"-tx-11-"discontinuation"-noun-0,"Discontinuation"-tx-7-"discontinuation"-noun-0]|TX|4812/15;3443/15;2429/11;2303/15;1568/15;1096/15|
+00000000|MMI|20.95|Bacteremia|C0004610|[dsyn]|["Bacteraemia"-tx-17-"bacteremia"-noun-0]|TX|2641/10|C01.252.100;C01.539.757.100;C23.550.470.790.500.100
+00000000|MMI|20.09|Death Related to Adverse Event|C1705232|[fndg]|["FATAL"-tx-20-"fatal"-adj-0,"FATAL"-tx-17-"fatal"-adj-0,"FATAL"-tx-14-"fatal"-adj-0,"FATAL"-tx-8-"fatal"-adj-0,"FATAL"-tx-5-"fatal"-adj-0]|TX|3099/5;2795/5;1922/5;1133/5;646/5|
+00000000|MMI|19.25|Unconscious State|C0041657|[fndg]|["LOSS OF CONSCIOUSNESS"-tx-27-"loss of consciousness"-noun-0]|TX|4062/21|C10.597.606.358.800;C23.888.592.604.359.800
+00000000|MMI|18.55|Toxic effect|C0600688|[inpo]|["toxicities"-tx-16-"toxicities"-noun-0,"toxicities"-tx-14-"toxicities"-noun-0,"Toxicity"-tx-13-"toxicity"-noun-0,"toxicities"-tx-12-"Toxicities"-noun-0,"toxicities"-tx-12-"toxicities"-noun-0]|TX|2400/10;1942/10;1853/8;1669/10;1749/10|
+00000000|MMI|18.22|Physical findings|C0311392|[fndg]|["SIGNS"-tx-22-"signs"-noun-0,"SIGNS"-tx-19-"signs"-noun-0,"SIGNS"-tx-16-"signs"-noun-0,"SIGNS"-tx-10-"signs"-noun-0,"SIGNS"-tx-2-"signs"-noun-0]|TX|3345/5;2940/5;2365/5;1461/5;86/5|
+00000000|MMI|17.80|Atypical Lipoma|C1266129|[neop]|["ALT"-tx-33-"ALT"-noun-0]|TX|4895/3|C04.557.450.550.400
+00000000|MMI|17.80|Convulsions|C4048158|[sosy]|["Convulsions"-tx-14-"convulsions"-noun-0]|TX|2072/11|C10.228.140.490.631;C10.597.742;C23.888.592.742
+00000000|MMI|17.80|Disorientation|C0233407|[mobd]|["DISORIENTATION"-tx-14-"disorientation"-noun-0]|TX|2148/14|C10.597.606.337;C23.888.592.604.339;F01.700.250
+00000000|MMI|17.80|Headache|C0018681|[sosy]|["HEADACHE"-tx-7-"headache"-noun-0]|TX|908/8|C10.597.617.470;C23.888.592.612.441
+00000000|MMI|16.10|Lymphohistiocytosis, Hemophagocytic|C0024291|[dsyn]|["Hemophagocytic Lymphohistiocytosis"-tx-9-"hemophagocytic lymphohistiocytosis"-noun-0]|TX|1297/34|C15.604.250.410.575
+00000000|MMI|16.05|Sepsis|C0243026|[dsyn]|["SEPSIS"-tx-17-"sepsis"-noun-0]|TX|2622/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|16.05|Septicemia|C0036690|[dsyn]|["Sepsis"-tx-17-"sepsis"-noun-0]|TX|2622/6|C01.539.757;C23.550.470.790.500
+00000000|MMI|14.99|Symptoms|C1457887|[sosy]|["SYMPTOMS"-tx-22-"symptoms"-noun-0,"SYMPTOMS"-tx-19-"symptoms"-noun-0,"SYMPTOMS"-tx-10-"symptoms"-noun-0,"SYMPTOMS"-tx-2-"symptoms"-noun-0]|TX|3354/8;2950/8;1470/8;95/8|
+00000000|MMI|14.64|Disseminated Intravascular Coagulation|C0012739|[dsyn]|["DISSEMINATED INTRAVASCULAR COAGULATION"-tx-9-"disseminated intravascular coagulation"-noun-0]|TX|1216/38|C15.378.100.220;C15.378.463.250;C15.378.925.220
+00000000|MMI|14.64|Drug Overdose|C0029944|[inpo]|["OVERDOSE"-tx-38-"overdose"-noun-0]|TX|5896/8|C25.775.383;E02.319.754.500
+00000000|MMI|14.64|Nausea|C0027497|[sosy]|["NAUSEA"-tx-7-"nausea"-noun-0]|TX|918/6|C23.888.821.712
+00000000|MMI|13.18|Macrophage Activation Syndrome|C1096155|[dsyn]|["Macrophage Activation Syndrome"-tx-9-"macrophage activation syndrome"-noun-0]|TX|1332/30|C20.683.515.800
+00000000|MMI|13.01|Fever|C0015967|[fndg]|["PYREXIA"-tx-7-"pyrexia"-noun-0]|TX|899/7|C23.888.119.344
+00000000|MMI|11.49|Asthenia|C0004093|[sosy]|["ASTHENIA"-tx-7-"asthenia"-noun-0]|TX|926/8|C23.888.089
+00000000|MMI|11.49|Capillary Leak Syndrome|C0343084|[dsyn]|["CAPILLARY LEAK SYNDROME"-tx-9-"capillary leak syndrome"-noun-0]|TX|1262/23|C14.907.218
+00000000|MMI|11.49|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-7-"hypotension"-noun-0]|TX|936/11|C14.907.514
+00000000|MMI|11.49|Opportunistic Infections|C0029118|[dsyn]|["Opportunistic Infections"-tx-17-"opportunistic infections"-noun-0]|TX|2653/24|C01.539.597;C02.597;C03.684
+00000000|MMI|11.49|Pneumonia|C0032285|[dsyn]|["PNEUMONIA"-tx-17-"pneumonia"-noun-0]|TX|2630/9|C08.381.677;C08.730.610
+00000000|MMI|11.40|treatment error|C0679862|[patf]|["Administration error"-tx-37-"Administration Errors"-noun-0,"Administration error"-tx-37-"administration errors"-noun-0,"Administration error"-tx-4-"Administration Errors"-noun-0]|TX|5652/21;5695/21;410/21|
+00000000|MMI|10.74|Tumor Lysis Syndrome Adverse Event|C1963254|[fndg]|["Tumor lysis syndrome"-tx-22-"TLS"-noun-0,"Tumor lysis syndrome"-tx-21-"TLS"-noun-0,"Tumor lysis syndrome"-tx-20-"Tumor Lysis Syndrome"-noun-0]|TX|3366/3;3302/3;3012/20|
+00000000|MMI|10.42|West Haven Hepatic Encephalopathy Grade 3|C3889290|[fndg]|["GRADE 3"-tx-32-"Grade 3"-noun-0,"GRADE 3"-tx-14-"Grade 3"-noun-0]|TX|4671/7;1874/7|
+00000000|MMI|9.99|Brain Diseases|C0006111|[dsyn]|["Encephalopathy"-tx-14-"encephalopathy"-noun-0]|TX|2056/14|C10.228.140
+00000000|MMI|9.99|Encephalopathies|C0085584|[dsyn]|["ENCEPHALOPATHY"-tx-14-"encephalopathy"-noun-0]|TX|2056/14|C10.228.140
+00000000|MMI|9.93|Neurologic Symptoms|C0235031|[sosy]|["Neurological symptoms NOS"-tx-16-"symptoms neurological"-noun-0]|TX|2375/8,2387/12|C10.597;C23.888.592
+00000000|MMI|9.76|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-19-"infection"-noun-0]|TX|2962/9|C01.539.221
+00000000|MMI|8.00|Experimental Result|C2825142|[fndg]|["Result"-tx-32-"resulted"-verb-0,"Result"-tx-15-"resulted"-verb-0]|TX|4790/8;2281/8|
+00000000|MMI|7.42|5 - 9|C3840622|[fndg]|["5 - 9"-tx-37-"5.9"-real_number-0,"5 - 9"-tx-5-"5.9"-real_number-0]|TX|5628/3;522/3|
+00000000|MMI|7.40|2+|C3833492|[fndg]|["2+"-tx-38-"2"-real_number-0]|TX|[5940/1],[5954/1]|
+00000000|MMI|7.35|Neutrophil count decreased|C0853697|[fndg]|["Neutropenia"-tx-26-"neutropenia"-noun-0,"Neutropenia"-tx-24-"Neutropenia"-noun-0]|TX|3868/11;3531/11|
+00000000|MMI|7.31|Contact with machinery|C0337246|[inpo]|["Machinery"-tx-28-"machinery"-noun-0,"Machinery"-tx-3-"machinery"-noun-0]|TX|4269/9;331/9|
+00000000|MMI|7.29|5-6|C3843715|[fndg]|["5-6"-tx-27-"5.6"-real_number-0,"5-6"-tx-4-"5.6"-real_number-0]|TX|3896/3;382/3|
+00000000|MMI|7.29|6/5|C0442749|[fndg]|["5 6"-tx-27-"5.6"-real_number-0,"5 6"-tx-4-"5.6"-real_number-0]|TX|3896/3;382/3|
+00000000|MMI|7.18|Engaged to be married|C0425152|[fndg]|["engaging"-tx-28-"engaging"-noun-0,"engaging"-tx-3-"engaging"-noun-0]|TX|4172/8;234/8|
+00000000|MMI|7.16|Social history of activities|C2239122|[fndg]|["activities"-tx-28-"activities"-noun-0,"activities"-tx-3-"activities"-noun-0]|TX|4209/10;271/10|
+00000000|MMI|6.99|Either|C3844638|[fndg]|["Either"-tx-23-"either"-adv-0,"Either"-tx-11-"either"-adv-0]|TX|3410/6;1535/6|
+00000000|MMI|5.18|Alanine aminotransferase increased|C0151905|[fndg]|["Increased alanine aminotransferase"-tx-7-"increased alanine aminotransferase"-noun-0]|TX|949/34|
+00000000|MMI|5.18|Clouded consciousness|C0683369|[sosy]|["Confusion"-tx-14-"confusion"-noun-0]|TX|2134/9|
+00000000|MMI|5.18|Confusion Adverse Event|C1963086|[fndg]|["Confusion"-tx-14-"confusion"-noun-0]|TX|2134/9|
+00000000|MMI|5.18|ENT surgical result nose headache|C2096315|[fndg]|["headache"-tx-7-"headache"-noun-0]|TX|908/8|
+00000000|MMI|5.18|Elevated total bilirubin|C0741494|[fndg]|["Increased total bilirubin"-tx-7-"increased total bilirubin"-noun-0]|TX|1027/25|
+00000000|MMI|5.18|Employed|C0557351|[fndg]|["employ"-tx-18-"employ"-verb-0]|TX|2858/6|
+00000000|MMI|5.18|Equilibration disorder|C0575090|[sosy]|["balance disorders"-tx-14-"balance disorders"-noun-0]|TX|2185/17|
+00000000|MMI|5.18|Hypotension Adverse Event|C3163620|[fndg]|["Hypotension"-tx-7-"hypotension"-noun-0]|TX|936/11|
+00000000|MMI|5.18|Nausea Adverse Event|C1963179|[patf]|["Nausea"-tx-7-"nausea"-noun-0]|TX|918/6|
+00000000|MMI|5.18|Overdose|C4018909|[fndg]|["Overdose"-tx-38-"overdose"-noun-0]|TX|5896/8|
+00000000|MMI|5.18|Resolved|C3714811|[fndg]|["RESOLVED"-tx-15-"resolved"-verb-0]|TX|2227/8|
+00000000|MMI|5.18|Underdose (unintentional)|C1112363|[inpo]|["Underdose"-tx-38-"underdose"-noun-0]|TX|5882/9|
+00000000|MMI|5.18|physiologic resolution|C1514893|[patf]|["Resolved"-tx-15-"resolved"-verb-0]|TX|2227/8|
+00000000|MMI|4.19|Catheter site infection|C1112210|[dsyn]|["Catheter site infection"-tx-17-"catheter-site infections"-noun-0]|TX|2683/24|
+00000000|MMI|4.12|Adverse reaction to drug or medicament administered by infusion|C2368034|[patf]|["Infusion reaction"-tx-6-"Infusion reactions"-noun-0]|TX|699/18|
+00000000|MMI|3.98|Serious Adverse Event|C1519255|[fndg]|["Serious Adverse Event"-tx-7-"Serious adverse events"-noun-0]|TX|835/22|
+00000000|MMI|3.78|Transaminases increased|C0438717|[fndg]|["Increased Aminotransferase"-tx-7-"increased aminotransferase"-noun-0]|TX|985/9,1005/16|
+00000000|MMI|3.68|Encephalopathy Adverse Event|C1963101|[fndg]|["Encephalopathy"-tx-14-"encephalopathy"-noun-0]|TX|2056/14|
+00000000|MMI|3.68|Disturbance of consciousness|C0234428|[sosy]|["Consciousness Disturbances"-tx-14-"disturbances consciousness"-noun-0]|TX|2103/12,2119/13|
+00000000|MMI|3.64|Limited Walking Ability|C2674459|[fndg]|["Limited"-tx-25-"limited"-verb-1]|TX|3744/7|
+00000000|MMI|3.63|Hydration status|C1321013|[fndg]|["Hydration"-tx-21-"hydration"-noun-0]|TX|3254/9|
+00000000|MMI|3.63|Observation parameter|C0449381|[fndg]|["Parameters"-tx-25-"parameters"-noun-0]|TX|3713/10|
+00000000|MMI|3.58|Clinical Significance|C2826293|[fndg]|["Clinical Significance"-tx-36-"clinical significance"-noun-0]|TX|5558/21|
+00000000|MMI|3.57|1+|C3816745|[fndg]|["1+"-tx-32-"1"-percentage-0]|TX|4841/1|
+00000000|MMI|3.55|50%|C3842586|[fndg]|["50%"-tx-12-"50"-percentage-0]|TX|1791/2|
+00000000|MMI|3.55|<50|C3843766|[fndg]|["<50"-tx-12-"50"-percentage-0]|TX|1791/2|
+00000000|MMI|3.46|Elevated liver enzymes|C0235996|[fndg]|["ELEVATED LIVER ENZYMES"-tx-29-"Elevated Liver Enzymes"-noun-0]|TX|4333/22|
+00000000|MMI|3.45|prior radiation therapy|C0279134|[fndg]|["prior irradiation"-tx-35-"prior irradiation"-noun-0]|TX|5412/5,5441/11|

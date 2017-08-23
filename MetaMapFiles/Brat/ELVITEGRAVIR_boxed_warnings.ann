@@ -1,0 +1,146 @@
+T1	AdverseReaction 30 45	LACTIC ACIDOSIS
+T2	AdverseReaction 53 65	HEPATOMEGALY
+T3	Severity 46 52	SEVERE
+T4	AdverseReaction 100 133	ACUTE EXACERBATION OF HEPATITIS B
+T5	AdverseReaction 148 163	LACTIC ACIDOSIS
+T6	AdverseReaction 171 183	HEPATOMEGALY
+T7	Severity 164 170	SEVERE
+T8	AdverseReaction 218 251	ACUTE EXACERBATION OF HEPATITIS B
+T9	AdverseReaction 259 274	Lactic acidosis
+T10	AdverseReaction 71 80	STEATOSIS
+T11	AdverseReaction 189 198	STEATOSIS
+T12	AdverseReaction 286 298	hepatomegaly
+T13	Severity 279 285	severe
+T14	AdverseReaction 304 313	steatosis
+T15	AdverseReaction 325 330	fatal
+T16	AdverseReaction 759 793	acute exacerbations of hepatitis B
+T17	Severity 752 758	Severe
+T18	AdverseReaction 1310 1325	LACTIC ACIDOSIS
+T19	AdverseReaction 1333 1345	HEPATOMEGALY
+T20	Severity 1326 1332	SEVERE
+T21	AdverseReaction 1351 1360	STEATOSIS
+T22	AdverseReaction 1380 1413	ACUTE EXACERBATION OF HEPATITIS B
+T23	AdverseReaction 1490 1505	Lactic acidosis
+T24	AdverseReaction 1517 1529	hepatomegaly
+T25	Severity 1510 1516	severe
+T26	AdverseReaction 1535 1544	steatosis
+T27	AdverseReaction 1556 1561	fatal
+T28	AdverseReaction 1802 1836	acute exacerbations of hepatitis B
+T29	Severity 1795 1801	Severe
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2 Effect:E3
+E3	Severity:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5
+E6	AdverseReaction:T6 Effect:E7
+E7	Severity:T7
+E8	AdverseReaction:T8
+E9	AdverseReaction:T9
+E10	AdverseReaction:T10
+E11	AdverseReaction:T11
+E12	AdverseReaction:T12 Effect:E13
+E13	Severity:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16 Effect:E17
+E17	Severity:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19 Effect:E20
+E20	Severity:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23
+E24	AdverseReaction:T24 Effect:E25
+E25	Severity:T25
+E26	AdverseReaction:T26
+E27	AdverseReaction:T27
+E28	AdverseReaction:T28 Effect:E29
+E29	Severity:T29
+A1	CUI E1 C0001125
+A2	UMLS-Preferred-Name E1 Acidosis, Lactic
+A3	MEDDRA-PT E1 Lactic acidosis
+A4	MEDDRA-PT-ID E1 10023676
+A5	CUI E2 C0019209
+A6	UMLS-Preferred-Name E2 Hepatomegaly
+A7	MEDDRA-PT E2 Hepatomegaly
+A8	MEDDRA-PT-ID E2 10019842
+A9	CUI E4 C0276609
+A10	UMLS-Preferred-Name E4 Acute type B viral hepatitis
+A11	MEDDRA-PT E4 Acute hepatitis B
+A12	MEDDRA-PT-ID E4 10059193
+A13	CUI E5 C0001125
+A14	UMLS-Preferred-Name E5 Acidosis, Lactic
+A15	MEDDRA-PT E5 Lactic acidosis
+A16	MEDDRA-PT-ID E5 10023676
+A17	CUI E6 C0019209
+A18	UMLS-Preferred-Name E6 Hepatomegaly
+A19	MEDDRA-PT E6 Hepatomegaly
+A20	MEDDRA-PT-ID E6 10019842
+A21	CUI E8 C0276609
+A22	UMLS-Preferred-Name E8 Acute type B viral hepatitis
+A23	MEDDRA-PT E8 Acute hepatitis B
+A24	MEDDRA-PT-ID E8 10059193
+A25	CUI E9 C0001125
+A26	UMLS-Preferred-Name E9 Acidosis, Lactic
+A27	MEDDRA-PT E9 Lactic acidosis
+A28	MEDDRA-PT-ID E9 10023676
+A29	CUI E10 C2711227
+A30	UMLS-Preferred-Name E10 Steatohepatitis
+A31	MEDDRA-PT E10 Hepatic steatosis
+A32	MEDDRA-PT-ID E10 10019708
+A33	CUI E11 C2711227
+A34	UMLS-Preferred-Name E11 Steatohepatitis
+A35	MEDDRA-PT E11 Hepatic steatosis
+A36	MEDDRA-PT-ID E11 10019708
+A37	CUI E12 C0019209
+A38	UMLS-Preferred-Name E12 Hepatomegaly
+A39	MEDDRA-PT E12 Hepatomegaly
+A40	MEDDRA-PT-ID E12 10019842
+A41	CUI E14 C2711227
+A42	UMLS-Preferred-Name E14 Steatohepatitis
+A43	MEDDRA-PT E14 Hepatic steatosis
+A44	MEDDRA-PT-ID E14 10019708
+A45	CUI E15 C1306577
+A46	UMLS-Preferred-Name E15 Death (finding)
+A47	MEDDRA-PT E15 Death
+A48	MEDDRA-PT-ID E15 10011906
+A49	CUI E16 C0276609
+A50	UMLS-Preferred-Name E16 Acute type B viral hepatitis
+A51	MEDDRA-PT E16 Acute hepatitis B
+A52	MEDDRA-PT-ID E16 10059193
+A53	CUI E18 C0001125
+A54	UMLS-Preferred-Name E18 Acidosis, Lactic
+A55	MEDDRA-PT E18 Lactic acidosis
+A56	MEDDRA-PT-ID E18 10023676
+A57	CUI E19 C0019209
+A58	UMLS-Preferred-Name E19 Hepatomegaly
+A59	MEDDRA-PT E19 Hepatomegaly
+A60	MEDDRA-PT-ID E19 10019842
+A61	CUI E21 C2711227
+A62	UMLS-Preferred-Name E21 Steatohepatitis
+A63	MEDDRA-PT E21 Hepatic steatosis
+A64	MEDDRA-PT-ID E21 10019708
+A65	CUI E22 C0276609
+A66	UMLS-Preferred-Name E22 Acute type B viral hepatitis
+A67	MEDDRA-PT E22 Acute hepatitis B
+A68	MEDDRA-PT-ID E22 10059193
+A69	CUI E23 C0001125
+A70	UMLS-Preferred-Name E23 Acidosis, Lactic
+A71	MEDDRA-PT E23 Lactic acidosis
+A72	MEDDRA-PT-ID E23 10023676
+A73	CUI E24 C0019209
+A74	UMLS-Preferred-Name E24 Hepatomegaly
+A75	MEDDRA-PT E24 Hepatomegaly
+A76	MEDDRA-PT-ID E24 10019842
+A77	CUI E26 C2711227
+A78	UMLS-Preferred-Name E26 Steatohepatitis
+A79	MEDDRA-PT E26 Hepatic steatosis
+A80	MEDDRA-PT-ID E26 10019708
+A81	CUI E27 C1306577
+A82	UMLS-Preferred-Name E27 Death (finding)
+A83	MEDDRA-PT E27 Death
+A84	MEDDRA-PT-ID E27 10011906
+A85	CUI E28 C0276609
+A86	UMLS-Preferred-Name E28 Acute type B viral hepatitis
+A87	MEDDRA-PT E28 Acute hepatitis B
+A88	MEDDRA-PT-ID E28 10059193

@@ -1,0 +1,520 @@
+T1	AdverseReaction 52 75	Bone marrow suppression
+T2	AdverseReaction 90 101	neutropenia
+T3	AdverseReaction 134 153	febrile neutropenia
+T4	AdverseReaction 155 177	neutropenic infections
+T5	AdverseReaction 487 513	hypersensitivity reactions
+T6	Severity 480 486	Severe
+T7	Factor 514 517	can
+T8	AdverseReaction 717 723	Nausea
+T9	AdverseReaction 725 733	vomiting
+T10	AdverseReaction 739 747	diarrhea
+T11	Factor 748 751	may
+T12	AdverseReaction 759 768	Mortality
+T13	AdverseReaction 780 788	diarrhea
+T14	AdverseReaction 951 957	Deaths
+T15	AdverseReaction 979 1006	gastrointestinal hemorrhage
+T16	AdverseReaction 1008 1019;979 995	perforation gastrointestinal
+T17	AdverseReaction 1024 1049	neutropenic enterocolitis
+T18	AdverseReaction 1096 1109	Renal failure
+T19	AdverseReaction 1132 1137	fatal
+T20	AdverseReaction 1299 1304	fatal
+T21	AdverseReaction 1390 1401	neutropenia
+T22	AdverseReaction 1406 1425	febrile neutropenia
+T23	AdverseReaction 1673 1683	fetal harm
+T24	Factor 1663 1666	can
+T25	AdverseReaction 1788 1811	Bone marrow suppression
+T26	AdverseReaction 1826 1837	neutropenia
+T27	AdverseReaction 1839 1845	anemia
+T28	AdverseReaction 1847 1863	thrombocytopenia
+T29	AdverseReaction 1871 1883	pancytopenia
+T30	Factor 1884 1887	may
+T31	AdverseReaction 1895 1906	Neutropenic
+T32	AdverseReaction 1907 1913	deaths
+T33	AdverseReaction 1992 1997	fatal
+T34	AdverseReaction 1998 2023	infectious adverse events
+T35	AdverseReaction 2025 2031	sepsis
+T36	AdverseReaction 2035 2047	septic shock
+T37	AdverseReaction 2066 2077	neutropenia
+T38	Severity 2058 2065	grade 4
+T39	AdverseReaction 2090 2109	febrile neutropenia
+T40	AdverseReaction 2136 2141	death
+T41	AdverseReaction 2160 2171	neutropenia
+T42	AdverseReaction 2193 2202	infection
+T43	Negation 2172 2179	without
+T44	AdverseReaction 2214 2225	neutropenia
+T45	Severity 2204 2213	Grade 3-4
+T46	Severity 2204 2211	Grade 3
+T47	Severity 2204 2209;2212 2213	Grade 4
+T48	AdverseReaction 3360 3386	Hypersensitivity reactions
+T49	Factor 3387 3390	may
+T52	AdverseReaction 3579 3605	hypersensitivity reactions
+T53	Severity 3572 3578	Severe
+T54	Factor 3606 3609	can
+T55	Factor 3620 3623	may
+T56	AdverseReaction 3632 3648	generalized rash
+T57	AdverseReaction 3649 3657	erythema
+T58	AdverseReaction 3659 3670	hypotension
+T59	AdverseReaction 3675 3687	bronchospasm
+T60	AdverseReaction 3927 3953	hypersensitivity reactions
+T61	Severity 3920 3926	Severe
+T62	AdverseReaction 4277 4283	Nausea
+T63	AdverseReaction 4285 4293	vomiting
+T64	AdverseReaction 4305 4313	diarrhea
+T65	Severity 4298 4304	severe
+T66	Factor 4325 4328	may
+T67	AdverseReaction 4336 4341	Death
+T68	AdverseReaction 4353 4361	diarrhea
+T69	AdverseReaction 4366 4387	electrolyte imbalance
+T73	AdverseReaction 4782 4798;4804 4814	Gastrointestinal hemorrhage
+T74	AdverseReaction 4782 4798;4819 4830	Gastrointestinal perforation
+T75	AdverseReaction 4832 4837	ileus
+T76	AdverseReaction 4839 4852	enterocolitis
+T77	AdverseReaction 4854 4879	neutropenic enterocolitis
+T78	AdverseReaction 4891 4896	fatal
+T79	AdverseReaction 5560 5573	renal failure
+T80	AdverseReaction 5672 5677	fatal
+T81	AdverseReaction 5727 5733	sepsis
+T82	AdverseReaction 5735 5746	dehydration
+T83	AdverseReaction 5751 5771	obstructive uropathy
+T84	AdverseReaction 5813 5819	deaths
+T85	AdverseReaction 5827 5840	renal failure
+T86	AdverseReaction 6122 6126	died
+T87	AdverseReaction 6308 6319	neutropenia
+T88	AdverseReaction 6324 6343	febrile neutropenia
+T89	AdverseReaction 7252 7262	fetal harm
+T90	Factor 7242 7245	can
+T91	AdverseReaction 7363 7374	embryotoxic
+T92	AdverseReaction 7376 7385	fetotoxic
+T93	AdverseReaction 7391 7404	abortifacient
+T94	Animal 7329 7333	rats
+T95	Animal 7338 7345	rabbits
+T96	AdverseReaction 1475 1493	Hepatic impairment
+T50	AdverseReaction 462 478	Hypersensitivity
+T51	AdverseReaction 689 715	Gastrointestinal disorders
+E1	AdverseReaction:T1
+E2	AdverseReaction:T2
+E3	AdverseReaction:T3
+E4	AdverseReaction:T4
+E5	AdverseReaction:T5 Effect:E6 Hypothetical:E7
+E6	Severity:T6
+E7	Factor:T7
+E8	AdverseReaction:T8 Hypothetical:E11
+E9	AdverseReaction:T9 Hypothetical:E11
+E10	AdverseReaction:T10 Hypothetical:E11
+E11	Factor:T11
+E12	AdverseReaction:T12
+E13	AdverseReaction:T13
+E14	AdverseReaction:T14
+E15	AdverseReaction:T15
+E16	AdverseReaction:T16
+E17	AdverseReaction:T17
+E18	AdverseReaction:T18
+E19	AdverseReaction:T19
+E20	AdverseReaction:T20
+E21	AdverseReaction:T21
+E22	AdverseReaction:T22
+E23	AdverseReaction:T23 Hypothetical:E24
+E24	Factor:T24
+E25	AdverseReaction:T25 Hypothetical:E30
+E26	AdverseReaction:T26 Hypothetical:E30
+E27	AdverseReaction:T27 Hypothetical:E30
+E28	AdverseReaction:T28 Hypothetical:E30
+E29	AdverseReaction:T29 Hypothetical:E30
+E30	Factor:T30
+E31	AdverseReaction:T31
+E32	AdverseReaction:T32
+E33	AdverseReaction:T33
+E34	AdverseReaction:T34
+E35	AdverseReaction:T35
+E36	AdverseReaction:T36
+E37	AdverseReaction:T37 Effect:E38
+E38	Severity:T38
+E39	AdverseReaction:T39
+E40	AdverseReaction:T40
+E41	AdverseReaction:T41
+E42	AdverseReaction:T42 Negated:E43
+E43	Negation:T43
+E44	AdverseReaction:T44 Effect:E47 Effect2:E46 Effect3:E45
+E45	Severity:T45
+E46	Severity:T46
+E47	Severity:T47
+E48	AdverseReaction:T48 Hypothetical:E49
+E49	Factor:T49
+E52	AdverseReaction:T52 Effect:E53 Hypothetical:E54
+E53	Severity:T53
+E54	Factor:T54
+E55	Factor:T55
+E56	AdverseReaction:T56 Hypothetical:E55
+E57	AdverseReaction:T57 Hypothetical:E55
+E58	AdverseReaction:T58 Hypothetical:E55
+E59	AdverseReaction:T59 Hypothetical:E55
+E60	AdverseReaction:T60 Effect:E61
+E61	Severity:T61
+E62	AdverseReaction:T62 Hypothetical:E66
+E63	AdverseReaction:T63 Hypothetical:E66
+E64	AdverseReaction:T64 Effect:E65 Hypothetical:E66
+E65	Severity:T65
+E66	Factor:T66
+E67	AdverseReaction:T67
+E68	AdverseReaction:T68
+E69	AdverseReaction:T69
+E73	AdverseReaction:T73
+E74	AdverseReaction:T74
+E75	AdverseReaction:T75
+E76	AdverseReaction:T76
+E77	AdverseReaction:T77
+E78	AdverseReaction:T78
+E79	AdverseReaction:T79
+E80	AdverseReaction:T80
+E81	AdverseReaction:T81
+E82	AdverseReaction:T82
+E83	AdverseReaction:T83
+E84	AdverseReaction:T84
+E85	AdverseReaction:T85
+E86	AdverseReaction:T86
+E87	AdverseReaction:T87
+E88	AdverseReaction:T88
+E89	AdverseReaction:T89 Hypothetical:E90
+E90	Factor:T90
+E91	AdverseReaction:T91 Hypothetical:E94 Hypothetical2:E95
+E92	AdverseReaction:T92 Hypothetical:E94 Hypothetical2:E95
+E93	AdverseReaction:T93 Hypothetical:E94 Hypothetical2:E95
+E94	Animal:T94
+E95	Animal:T95
+E96	AdverseReaction:T96
+E50	AdverseReaction:T50
+E51	AdverseReaction:T51
+A1	CUI E1 C0854467
+A2	UMLS-Preferred-Name E1 Myelosuppression
+A3	MEDDRA-PT E1 Bone marrow failure
+A4	MEDDRA-PT-ID E1 10065553
+A5	LLT E1 Myelosuppression
+A6	LLT-ID E1 10028584
+A7	CUI E2 C0027947
+A8	UMLS-Preferred-Name E2 Neutropenia
+A9	MEDDRA-PT E2 Neutropenia
+A10	MEDDRA-PT-ID E2 10029354
+A11	CUI E3 C0746883
+A12	UMLS-Preferred-Name E3 Febrile Neutropenia
+A13	MEDDRA-PT E3 Febrile neutropenia
+A14	MEDDRA-PT-ID E3 10016288
+A15	CUI E4 C1167779
+A16	UMLS-Preferred-Name E4 Neutropenic infection
+A17	MEDDRA-PT E4 Neutropenic infection
+A18	MEDDRA-PT-ID E4 10059482
+A19	CUI E5 C0020517
+A20	UMLS-Preferred-Name E5 Hypersensitivity
+A21	MEDDRA-PT E5 Hypersensitivity
+A22	MEDDRA-PT-ID E5 10020751
+A23	LLT E5 Hypersensitivity reaction
+A24	LLT-ID E5 10020756
+A25	CUI E8 C0027497
+A26	UMLS-Preferred-Name E8 Nausea
+A27	MEDDRA-PT E8 Nausea
+A28	MEDDRA-PT-ID E8 10028813
+A29	CUI E9 C0042963
+A30	UMLS-Preferred-Name E9 Vomiting
+A31	MEDDRA-PT E9 Vomiting
+A32	MEDDRA-PT-ID E9 10047700
+A33	CUI E10 C0011991
+A34	UMLS-Preferred-Name E10 Diarrhea
+A35	MEDDRA-PT E10 Diarrhoea
+A36	MEDDRA-PT-ID E10 10012735
+A37	LLT E10 Diarrhea
+A38	LLT-ID E10 10012727
+A39	CUI E12 C1306577
+A40	UMLS-Preferred-Name E12 Death (finding)
+A41	MEDDRA-PT E12 Death
+A42	MEDDRA-PT-ID E12 10011906
+A43	CUI E13 C0011991
+A44	UMLS-Preferred-Name E13 Diarrhea
+A45	MEDDRA-PT E13 Diarrhoea
+A46	MEDDRA-PT-ID E13 10012735
+A47	LLT E13 Diarrhea
+A48	LLT-ID E13 10012727
+A49	CUI E14 C1306577
+A50	UMLS-Preferred-Name E14 Death (finding)
+A51	MEDDRA-PT E14 Death
+A52	MEDDRA-PT-ID E14 10011906
+A53	CUI E15 C0017181
+A54	UMLS-Preferred-Name E15 Gastrointestinal Hemorrhage
+A55	MEDDRA-PT E15 Gastrointestinal haemorrhage
+A56	MEDDRA-PT-ID E15 10017955
+A57	LLT E15 Gastrointestinal hemorrhage
+A58	LLT-ID E15 10017960
+A59	CUI E16 C0151664
+A60	UMLS-Preferred-Name E16 Gastrointestinal perforation
+A61	MEDDRA-PT E16 Gastrointestinal perforation
+A62	MEDDRA-PT-ID E16 10018001
+A63	CUI E17 C0343387
+A64	UMLS-Preferred-Name E17 Enterocolitis, Neutropenic
+A65	MEDDRA-PT E17 Neutropenic colitis
+A66	MEDDRA-PT-ID E17 10062959
+A67	LLT E17 Neutropenic enterocolitis
+A68	LLT-ID E17 10029359
+A69	CUI E18 C0035078
+A70	UMLS-Preferred-Name E18 Kidney Failure
+A71	MEDDRA-PT E18 Renal failure
+A72	MEDDRA-PT-ID E18 10038435
+A73	CUI E19 C1306577
+A74	UMLS-Preferred-Name E19 Death (finding)
+A75	MEDDRA-PT E19 Death
+A76	MEDDRA-PT-ID E19 10011906
+A77	CUI E20 C1306577
+A78	UMLS-Preferred-Name E20 Death (finding)
+A79	MEDDRA-PT E20 Death
+A80	MEDDRA-PT-ID E20 10011906
+A81	CUI E21 C0027947
+A82	UMLS-Preferred-Name E21 Neutropenia
+A83	MEDDRA-PT E21 Neutropenia
+A84	MEDDRA-PT-ID E21 10029354
+A85	CUI E22 C0746883
+A86	UMLS-Preferred-Name E22 Febrile Neutropenia
+A87	MEDDRA-PT E22 Febrile neutropenia
+A88	MEDDRA-PT-ID E22 10016288
+A89	CUI E23 C0854268
+A90	UMLS-Preferred-Name E23 Foetal damage
+A91	MEDDRA-PT E23 Foetal damage
+A92	MEDDRA-PT-ID E23 10016852
+A93	LLT E23 Fetal damage
+A94	LLT-ID E23 10054743
+A95	CUI E25 C0854467
+A96	UMLS-Preferred-Name E25 Myelosuppression
+A97	MEDDRA-PT E25 Bone marrow failure
+A98	MEDDRA-PT-ID E25 10065553
+A99	LLT E25 Myelosuppression
+A100	LLT-ID E25 10028584
+A101	CUI E26 C0027947
+A102	UMLS-Preferred-Name E26 Neutropenia
+A103	MEDDRA-PT E26 Neutropenia
+A104	MEDDRA-PT-ID E26 10029354
+A105	CUI E27 C0002871
+A106	UMLS-Preferred-Name E27 Anemia
+A107	MEDDRA-PT E27 Anaemia
+A108	MEDDRA-PT-ID E27 10002034
+A109	LLT E27 Anemia
+A110	LLT-ID E27 10002272
+A111	CUI E28 C0040034
+A112	UMLS-Preferred-Name E28 Thrombocytopenia
+A113	MEDDRA-PT E28 Thrombocytopenia
+A114	MEDDRA-PT-ID E28 10043554
+A115	CUI E29 C0030312
+A116	UMLS-Preferred-Name E29 Pancytopenia
+A117	MEDDRA-PT E29 Pancytopenia
+A118	MEDDRA-PT-ID E29 10033661
+A119	CUI E31 C0027947
+A120	UMLS-Preferred-Name E31 Neutropenia
+A121	MEDDRA-PT E31 Neutropenia
+A122	MEDDRA-PT-ID E31 10029354
+A123	CUI E32 C1306577
+A124	UMLS-Preferred-Name E32 Death (finding)
+A125	MEDDRA-PT E32 Death
+A126	MEDDRA-PT-ID E32 10011906
+A127	CUI E33 C1306577
+A128	UMLS-Preferred-Name E33 Death (finding)
+A129	MEDDRA-PT E33 Death
+A130	MEDDRA-PT-ID E33 10011906
+A131	CUI E34 C1556682
+A132	UMLS-Preferred-Name E34 Adverse Event Associated with Infection
+A133	MEDDRA-PT E34 Infection
+A134	MEDDRA-PT-ID E34 10021789
+A135	CUI E35 C0243026
+A136	UMLS-Preferred-Name E35 Sepsis
+A137	MEDDRA-PT E35 Sepsis
+A138	MEDDRA-PT-ID E35 10040047
+A139	CUI E36 C0036983
+A140	UMLS-Preferred-Name E36 Septic Shock
+A141	MEDDRA-PT E36 Septic shock
+A142	MEDDRA-PT-ID E36 10040070
+A143	CUI E37 C0027947
+A144	UMLS-Preferred-Name E37 Neutropenia
+A145	MEDDRA-PT E37 Neutropenia
+A146	MEDDRA-PT-ID E37 10029354
+A147	CUI E39 C0746883
+A148	UMLS-Preferred-Name E39 Febrile Neutropenia
+A149	MEDDRA-PT E39 Febrile neutropenia
+A150	MEDDRA-PT-ID E39 10016288
+A151	CUI E40 C1306577
+A152	UMLS-Preferred-Name E40 Death (finding)
+A153	MEDDRA-PT E40 Death
+A154	MEDDRA-PT-ID E40 10011906
+A155	CUI E41 C0027947
+A156	UMLS-Preferred-Name E41 Neutropenia
+A157	MEDDRA-PT E41 Neutropenia
+A158	MEDDRA-PT-ID E41 10029354
+A159	CUI E42 C3714514
+A160	UMLS-Preferred-Name E42 Infection
+A161	MEDDRA-PT E42 Infection
+A162	MEDDRA-PT-ID E42 10021789
+A163	CUI E44 C0027947
+A164	UMLS-Preferred-Name E44 Neutropenia
+A165	MEDDRA-PT E44 Neutropenia
+A166	MEDDRA-PT-ID E44 10029354
+A167	CUI E48 C0020517
+A168	UMLS-Preferred-Name E48 Hypersensitivity
+A169	MEDDRA-PT E48 Hypersensitivity
+A170	MEDDRA-PT-ID E48 10020751
+A171	LLT E48 Hypersensitivity reaction
+A172	LLT-ID E48 10020756
+A173	CUI E52 C0020517
+A174	UMLS-Preferred-Name E52 Hypersensitivity
+A175	MEDDRA-PT E52 Hypersensitivity
+A176	MEDDRA-PT-ID E52 10020751
+A177	LLT E52 Hypersensitivity reaction
+A178	LLT-ID E52 10020756
+A179	CUI E56 C0497365
+A180	UMLS-Preferred-Name E56 Rash generalised
+A181	MEDDRA-PT E56 Rash generalised
+A182	MEDDRA-PT-ID E56 10037858
+A183	LLT E56 Generalized rash
+A184	LLT-ID E56 10049201
+A185	CUI E57 C0041834
+A186	UMLS-Preferred-Name E57 Erythema
+A187	MEDDRA-PT E57 Erythema
+A188	MEDDRA-PT-ID E57 10015150
+A189	CUI E58 C0020649
+A190	UMLS-Preferred-Name E58 Hypotension
+A191	MEDDRA-PT E58 Hypotension
+A192	MEDDRA-PT-ID E58 10021097
+A193	CUI E59 C0006266
+A194	UMLS-Preferred-Name E59 Bronchial Spasm
+A195	MEDDRA-PT E59 Bronchospasm
+A196	MEDDRA-PT-ID E59 10006482
+A197	CUI E60 C0020517
+A198	UMLS-Preferred-Name E60 Hypersensitivity
+A199	MEDDRA-PT E60 Hypersensitivity
+A200	MEDDRA-PT-ID E60 10020751
+A201	LLT E60 Hypersensitivity reaction
+A202	LLT-ID E60 10020756
+A203	CUI E62 C0027497
+A204	UMLS-Preferred-Name E62 Nausea
+A205	MEDDRA-PT E62 Nausea
+A206	MEDDRA-PT-ID E62 10028813
+A207	CUI E63 C0042963
+A208	UMLS-Preferred-Name E63 Vomiting
+A209	MEDDRA-PT E63 Vomiting
+A210	MEDDRA-PT-ID E63 10047700
+A211	CUI E64 C0011991
+A212	UMLS-Preferred-Name E64 Diarrhea
+A213	MEDDRA-PT E64 Diarrhoea
+A214	MEDDRA-PT-ID E64 10012735
+A215	LLT E64 Diarrhea
+A216	LLT-ID E64 10012727
+A217	CUI E67 C1306577
+A218	UMLS-Preferred-Name E67 Death (finding)
+A219	MEDDRA-PT E67 Death
+A220	MEDDRA-PT-ID E67 10011906
+A221	CUI E68 C0011991
+A222	UMLS-Preferred-Name E68 Diarrhea
+A223	MEDDRA-PT E68 Diarrhoea
+A224	MEDDRA-PT-ID E68 10012735
+A225	LLT E68 Diarrhea
+A226	LLT-ID E68 10012727
+A227	CUI E69 C0342579
+A228	UMLS-Preferred-Name E69 Electrolyte imbalance
+A229	MEDDRA-PT E69 Electrolyte imbalance
+A230	MEDDRA-PT-ID E69 10014418
+A231	CUI E73 C0017181
+A232	UMLS-Preferred-Name E73 Gastrointestinal Hemorrhage
+A233	MEDDRA-PT E73 Gastrointestinal haemorrhage
+A234	MEDDRA-PT-ID E73 10017955
+A235	LLT E73 Gastrointestinal hemorrhage
+A236	LLT-ID E73 10017960
+A237	CUI E74 C0151664
+A238	UMLS-Preferred-Name E74 Gastrointestinal perforation
+A239	MEDDRA-PT E74 Gastrointestinal perforation
+A240	MEDDRA-PT-ID E74 10018001
+A241	CUI E75 C1258215
+A242	UMLS-Preferred-Name E75 Ileus
+A243	MEDDRA-PT E75 Ileus
+A244	MEDDRA-PT-ID E75 10021328
+A245	CUI E76 C0014356
+A246	UMLS-Preferred-Name E76 Enterocolitis
+A247	MEDDRA-PT E76 Enterocolitis
+A248	MEDDRA-PT-ID E76 10014893
+A249	CUI E77 C0343387
+A250	UMLS-Preferred-Name E77 Enterocolitis, Neutropenic
+A251	MEDDRA-PT E77 Neutropenic colitis
+A252	MEDDRA-PT-ID E77 10062959
+A253	LLT E77 Neutropenic enterocolitis
+A254	LLT-ID E77 10029359
+A255	CUI E78 C1306577
+A256	UMLS-Preferred-Name E78 Death (finding)
+A257	MEDDRA-PT E78 Death
+A258	MEDDRA-PT-ID E78 10011906
+A259	CUI E79 C0035078
+A260	UMLS-Preferred-Name E79 Kidney Failure
+A261	MEDDRA-PT E79 Renal failure
+A262	MEDDRA-PT-ID E79 10038435
+A263	CUI E80 C1306577
+A264	UMLS-Preferred-Name E80 Death (finding)
+A265	MEDDRA-PT E80 Death
+A266	MEDDRA-PT-ID E80 10011906
+A267	CUI E81 C0243026
+A268	UMLS-Preferred-Name E81 Sepsis
+A269	MEDDRA-PT E81 Sepsis
+A270	MEDDRA-PT-ID E81 10040047
+A271	CUI E82 C0011175
+A272	UMLS-Preferred-Name E82 Dehydration
+A273	MEDDRA-PT E82 Dehydration
+A274	MEDDRA-PT-ID E82 10012174
+A275	CUI E83 C0178879
+A276	UMLS-Preferred-Name E83 Urinary tract obstruction
+A277	MEDDRA-PT E83 Obstructive uropathy
+A278	MEDDRA-PT-ID E83 10029984
+A279	CUI E84 C1306577
+A280	UMLS-Preferred-Name E84 Death (finding)
+A281	MEDDRA-PT E84 Death
+A282	MEDDRA-PT-ID E84 10011906
+A283	CUI E85 C0035078
+A284	UMLS-Preferred-Name E85 Kidney Failure
+A285	MEDDRA-PT E85 Renal failure
+A286	MEDDRA-PT-ID E85 10038435
+A287	CUI E86 C1306577
+A288	UMLS-Preferred-Name E86 Death (finding)
+A289	MEDDRA-PT E86 Death
+A290	MEDDRA-PT-ID E86 10011906
+A291	CUI E87 C0027947
+A292	UMLS-Preferred-Name E87 Neutropenia
+A293	MEDDRA-PT E87 Neutropenia
+A294	MEDDRA-PT-ID E87 10029354
+A295	CUI E88 C0746883
+A296	UMLS-Preferred-Name E88 Febrile Neutropenia
+A297	MEDDRA-PT E88 Febrile neutropenia
+A298	MEDDRA-PT-ID E88 10016288
+A299	CUI E89 C0854268
+A300	UMLS-Preferred-Name E89 Foetal damage
+A301	MEDDRA-PT E89 Foetal damage
+A302	MEDDRA-PT-ID E89 10016852
+A303	LLT E89 Fetal damage
+A304	LLT-ID E89 10054743
+A305	CUI E91 C0270009
+A306	UMLS-Preferred-Name E91 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A307	MEDDRA-PT E91 Maternal drugs affecting foetus
+A308	MEDDRA-PT-ID E91 10026923
+A309	LLT E91 Drug toxicity NEC affecting foetus
+A310	LLT-ID E91 10013750
+A311	CUI E92 C0270009
+A312	UMLS-Preferred-Name E92 Fetal or neonatal effect of toxic substance transmitted via placenta and/or breast milk
+A313	MEDDRA-PT E92 Maternal drugs affecting foetus
+A314	MEDDRA-PT-ID E92 10026923
+A315	LLT E92 Drug toxicity NEC affecting foetus
+A316	LLT-ID E92 10013750
+A317	CUI E93 C0156543
+A318	UMLS-Preferred-Name E93 Unspecified Abortion
+A319	MEDDRA-PT E93 Abortion
+A320	MEDDRA-PT-ID E93 10000210
+A321	CUI E96 C0948807
+A322	UMLS-Preferred-Name E96 Hepatic impairment
+A323	MEDDRA-PT E96 Liver disorder
+A324	MEDDRA-PT-ID E96 10024670
+A325	LLT E96 Hepatic impairment
+A326	LLT-ID E96 10052254
+A327	CUI E50 C0020517
+A328	UMLS-Preferred-Name E50 Hypersensitivity
+A329	MEDDRA-PT E50 Hypersensitivity
+A330	MEDDRA-PT-ID E50 10020751
+A331	CUI E51 C0017178
+A332	UMLS-Preferred-Name E51 Gastrointestinal Diseases
+A333	MEDDRA-PT E51 Gastrointestinal disorder
+A334	MEDDRA-PT-ID E51 10017944
