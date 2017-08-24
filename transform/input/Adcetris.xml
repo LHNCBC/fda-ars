@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="http://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:voc="urn:hl7-org:v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 http://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="8c6b15fa-c20d-b98f-b369-7323125b841d"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use ADCETRIS safely and effectively. See full prescribing information for ADCETRIS.<br/>ADCETRIS<sup>®</sup> (brentuximab vedotin) for Injection<br/>
+      <br/>For intravenous infusion<br/>
+      <br/>Initial U.S. Approval: 2011</title>
+   <effectiveTime value="20130801"/>
+   <setId root="3904f8dd-1aef-3490-e48f-bd55f32ed67f"/>
+   <versionNumber value="7"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="028484371" root="1.3.6.1.4.1.519.1"/>
+            <name>Seattle Genetics, Inc.</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="504638276" root="1.3.6.1.4.1.519.1"/>
+                        <name>PIERRE FABRE MEDICAMENT PRODUCTION</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="51144-050" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="857007830" root="1.3.6.1.4.1.519.1"/>
+                        <name>BSP Pharmaceuticals Srl</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="51144-050" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section ID="ID_7B7ECD1E-5084-9DAD-93D3-75495B4919D5">
+               <id root="ffed4a37-4d2b-8f43-1c34-e98d77a7b9db"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PRODUCT DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20120601"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="51144-050" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>ADCETRIS </name>
+                        <formCode code="C42957" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>brentuximab vedotin</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="50"/>
+                              <denominator unit="mL" value="10.5"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="7XL5ISS668" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Brentuximab Vedotin</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="7XL5ISS668" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>Brentuximab Vedotin</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="7YIN7J07X4" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Trehalose Dihydrate</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="B22547B95K" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Trisodium Citrate Dihydrate</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="2968PHW8QP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Citric Acid Monohydrate</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="6OZP39ZG8H" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Polysorbate 80</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="mL" value="10.5"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43215" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, SINGLE-DOSE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator unit="1" value="1">
+                                       <translation code="C48551" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL"/>
+                                    </numerator>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="51144-050-01" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43178" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOX"/>
+                                 </containerPackagedProduct>
+                              </asContent>
+                           </containerPackagedProduct>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20110825"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <approval>
+                           <id extension="BLA125388" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73585" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="WHITE" xsi:type="CE">
+                              <originalText>off-white</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+               <component>
+                  <observationMedia ID="MM13005">
+                     <text>Seattle Genetics</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="logo.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM24605">
+                     <text>Structural Formula</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="formula.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM24625">
+                     <text>Trademark Logo</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="tm-logo.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM32997">
+                     <text>Carton Label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Updated ADCETRIS Carton panel 08 AUG 2013.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_10bdcd92-e327-3991-4474-306c12f9a2c8">
+               <id root="58f45005-05d4-ae05-e136-900cc92543c3"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="BOXED WARNING SECTION"/>
+               <title>WARNING: PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY (PML)</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">JC virus infection resulting in PML and death can occur in patients receiving ADCETRIS [<content styleCode="italics">see <linkHtml href="#ID_4db49267-e57f-cb70-809a-6fe148b0d7e1">Warnings and Precautions (</linkHtml>
+                        </content>
+                        <content styleCode="italics">
+                           <linkHtml href="#ID_4db49267-e57f-cb70-809a-6fe148b0d7e1">5.5)</linkHtml>, <linkHtml href="#ID_e4bc4929-6c06-bc6a-5cc5-4bc068915dc7">Adverse Reactions (6.1</linkHtml>
+                        </content>
+                        <linkHtml href="#ID_e4bc4929-6c06-bc6a-5cc5-4bc068915dc7">)</linkHtml>].</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20120117"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">WARNING: PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY (PML)</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">See Full Prescribing Information for complete boxed warning.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">JC virus infection resulting in PML and death can occur in patients receiving ADCETRIS (5.5, 6.2).</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_7b3a5f9d-488f-bf91-c44c-ca711de78452">
+               <id root="a31957a0-2ade-8fc9-5519-6a019d9493ee"/>
+               <code code="43683-2" codeSystem="2.16.840.1.113883.6.1" displayName="RECENT MAJOR CHANGES SECTION"/>
+               <effectiveTime value="20130808"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <table border="0" cellpadding="0" width="40%">
+                           <tbody>
+                              <tr>
+                                 <td>Dosage and Administration (2.1 )</td>
+                                 <td>08/2013</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_E0DAF833-36D6-82A5-5458-C9C74EBA499F">
+               <id root="48b1ae82-0403-fb0f-e795-bb9a3d042c88"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>These indications are based on response rate. There are no data available demonstrating improvement in patient reported outcomes or survival with ADCETRIS.</paragraph>
+               </text>
+               <effectiveTime value="20120116"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>ADCETRIS is a CD30-directed antibody-drug conjugate indicated for:<br/>
+                           <br/>
+                        </paragraph>
+                        <list listType="unordered">
+                           <item>The treatment of patients with Hodgkin lymphoma after failure of autologous stem cell transplant (ASCT) or after failure of at least two prior multi-agent chemotherapy regimens in patients who are not ASCT candidates (<linkHtml href="#ID_89284ec1-17c7-8ef2-b0d3-4692c5651f05">1.1</linkHtml>).  </item>
+                           <item>The treatment of patients with systemic anaplastic large cell lymphoma after failure of at least one prior multi-agent chemotherapy regimen (<linkHtml href="#ID_2c0d2f3a-3c53-b96b-4024-878e347fc5eb">1.2</linkHtml>). </item>
+                        </list>
+                        <paragraph>These indications are based on response rate. There are no data available demonstrating improvement in patient reported outcomes or survival with ADCETRIS.</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID_89284ec1-17c7-8ef2-b0d3-4692c5651f05">
+                     <id root="93385b07-2039-719f-e6f3-c8fa366a3402"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>1.1 Hodgkin Lymphoma</title>
+                     <text>
+                        <paragraph>ADCETRIS (brentuximab vedotin) is indicated for treatment of patients with Hodgkin lymphoma (HL) after failure of autologous stem cell transplant (ASCT) or after failure of at least two prior multi-agent chemotherapy regimens in patients who are not ASCT candidates.</paragraph>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_2c0d2f3a-3c53-b96b-4024-878e347fc5eb">
+                     <id root="48492138-2bce-2a5f-a307-acea282a2513"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>1.2 Systemic Anaplastic Large Cell Lymphoma</title>
+                     <text>
+                        <paragraph>ADCETRIS is indicated for treatment of patients with systemic anaplastic large cell lymphoma (sALCL) after failure of at least one prior multi-agent chemotherapy regimen.</paragraph>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_6B4FE6DF-686F-1FE4-5E2B-5B59987C06B5">
+               <id root="d9c320b4-b014-da0e-ed8e-da389c41c024"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <text/>
+               <effectiveTime value="20130807"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>The recommended dose is 1.8 mg/kg administered only as an intravenous infusion over 30 minutes every 3 weeks (<linkHtml href="#ID_6B4FE6DF-686F-1FE4-5E2B-5B59987C06B5">2</linkHtml>).  </item>
+                           <item>Continue treatment until disease progression or unacceptable toxicity. </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID_ea56c24a-8d57-fa1d-a112-b04caab4ab9b">
+                     <id root="45749662-c0cf-d852-3356-498f8e593334"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1 General Dosing Information</title>
+                     <text>
+                        <paragraph>The recommended dose is 1.8 mg/kg administered only as an intravenous infusion over 30 minutes every 3 weeks. The dose for patients weighing greater than 100 kg should be calculated based on a weight of 100 kg.</paragraph>
+                        <paragraph>Do not administer as an intravenous push or bolus.</paragraph>
+                        <paragraph>Continue treatment until disease progression or unacceptable toxicity.</paragraph>
+                     </text>
+                     <effectiveTime value="20130807"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_076f90fe-7fac-0543-b79f-f90373e59403">
+                     <id root="e9276c20-a5b6-e8e0-81df-241861680ada"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2 Dose Modification</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Peripheral Neuropathy:</content>  For new or worsening Grade 2 or 3 neuropathy, dosing should be held until neuropathy improves to Grade 1 or baseline and then restarted at 1.2 mg/kg. For Grade 4 peripheral neuropathy, ADCETRIS should be discontinued.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Neutropenia:</content>  The dose of ADCETRIS should be held for Grade 3 or 4 neutropenia until resolution to baseline or Grade 2 or lower. G-CSF<content styleCode="bold"/> support should be considered for subsequent cycles in patients who experience Grade 3 or 4 neutropenia. In patients with recurrent Grade 4 neutropenia despite the use of G-CSF support, discontinuation or dose reduction of ADCETRIS to1.2 mg/kg may be considered.</paragraph>
+                     </text>
+                     <effectiveTime value="20130807"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_f7ef6940-8c46-c1fd-92ad-23ff367c0831">
+                     <id root="b8d2657c-5b33-fb5c-ac5b-916e5b8ecf10"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3 Instructions for Preparation and Administration</title>
+                     <text>
+                        <paragraph>Procedures for proper handling and disposal of anticancer drugs should be considered. [<content styleCode="italics">see <linkHtml href="#ID_F45C23E5-A2CA-019A-D18C-A6E02DE6A037">References (15)</linkHtml>
+                           </content>].</paragraph>
+                        <paragraph>Use appropriate aseptic technique for reconstitution and preparation of dosing solutions.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Reconstitution</content>
+                        </paragraph>
+                        <paragraph>Calculate the dose (mg) and number of vials of ADCETRIS required. The dose for patients weighing greater than 100 kg should be calculated based on a weight of 100 kg. Reconstitute each 50 mg vial of ADCETRIS with 10.5 mL of Sterile Water for Injection, USP, to yield a single-use solution containing 5 mg/mL brentuximab vedotin. Direct the stream toward wall of vial and not directly at the cake or powder. Gently swirl the vial to aid dissolution. <content styleCode="bold">DO NOT SHAKE</content>. Inspect the reconstituted solution for particulates and discoloration. The reconstituted solution should be clear to slightly opalescent, colorless, and free of visible particulates. Following reconstitution, dilute immediately into an infusion bag, or store the solution at 2-8˚C (36-46˚F) and use within 24 hours of reconstitution. <content styleCode="bold">DO NOT FREEZE. </content>Discard any unused portion left in the vial.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Dilution</content>
+                        </paragraph>
+                        <paragraph>Calculate the required volume of 5 mg/mL reconstituted ADCETRIS solution needed and withdraw this amount from the vials. The dose for patients weighing greater than 100 kg should be calculated based on a weight of 100 kg. Immediately add the reconstituted solution to an infusion bag containing a minimum volume of 100 mL to achieve a final concentration of 0.4 mg/mL to 1.8 mg/mL brentuximab vedotin. ADCETRIS can be diluted into 0.9% Sodium Chloride Injection, 5% Dextrose Injection or Lactated Ringer's Injection. Gently invert the bag to mix the solution. ADCETRIS contains no bacteriostatic preservatives. Following dilution, infuse the ADCETRIS solution immediately, or store the solution at 2-8˚C (36-46˚F) and use within 24 hours of reconstitution. <content styleCode="bold">DO NOT FREEZE.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Do not mix ADCETRIS with, or administer as an infusion with, other medicinal products.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20130807"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_6002CA59-3DD3-7F10-0976-E89A7302862D">
+               <id root="a9711636-d5fa-dc00-7f34-9cb52f2b65dd"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>ADCETRIS (brentuximab vedotin) for Injection single-use vial containing 50 mg of brentuximab vedotin as a sterile, white to off-white lyophilized, preservative-free cake or powder.</paragraph>
+               </text>
+               <effectiveTime value="20110822"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>50 mg single-use vial (<linkHtml href="#ID_6002CA59-3DD3-7F10-0976-E89A7302862D">3</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_28FC7118-1026-8C04-D07B-F1CE6F3A457C">
+               <id root="dc97d23a-6d40-93bb-5e24-15b197e4a94a"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Pulmonary toxicity: </content>Concomitant use of ADCETRIS and bleomycin is contraindicated due to pulmonary toxicity. In a clinical trial that studied ADCETRIS with bleomycin as part of a combination regimen, the rate of non-infectious pulmonary toxicity was higher than the historical incidence reported with ABVD (adriamycin, bleomycin, vinblastine, dacarbazine). Patients typically reported cough and dyspnea. Interstitial infiltration and/or inflammation were observed on radiographs and computed tomographic imaging of the chest. Most patients responded to corticosteroids.</paragraph>
+               </text>
+               <effectiveTime value="20120116"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Concomitant use of ADCETRIS and bleomycin is contraindicated due to pulmonary toxicity (<linkHtml href="#ID_28FC7118-1026-8C04-D07B-F1CE6F3A457C">4</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_08C3ABA5-6F36-F7EB-14EC-95F4D1C72BCD">
+               <id root="1ef23175-11fe-cd36-832f-e7b164724531"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <text/>
+               <effectiveTime value="20130808"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>Peripheral neuropathy: Treating physicians should monitor patients for neuropathy and institute dose modifications accordingly (<linkHtml href="#ID_c09e8476-7891-9841-57bc-3118a46e9e29">5.1</linkHtml>).  </item>
+                           <item>Infusion reactions: If an infusion reaction occurs, the infusion should be interrupted and appropriate medical management instituted. If anaphylaxis occurs, the infusion should be discontinued immediately and appropriate medical management instituted (<linkHtml href="#ID_e3b71f87-7fe5-e048-a6c2-e0b6c04f42e9">5.2</linkHtml>).  </item>
+                           <item>Neutropenia: Monitor complete blood counts prior to each dose of ADCETRIS. If Grade 3 or 4 neutropenia develops, manage by G-CSF support, dose delays, reductions or discontinuation (<linkHtml href="#ID_153ed420-d046-1f3f-9ea2-b3620e817a90">5.3</linkHtml>).  </item>
+                           <item>Tumor Lysis Syndrome: Patients with rapidly proliferating tumor and high tumor burden are at risk of tumor lysis syndrome and these patients should be monitored closely and appropriate measures taken (<linkHtml href="#ID_6f93d8dc-59c1-2a1a-9522-c32c6a1c74cd">5.4</linkHtml>).  </item>
+                           <item>Progressive Multifocal Leukoencephalopathy (PML): Monitor neurologic function; hold ADCETRIS if PML is suspected and discontinue ADCETRIS if PML is confirmed  (<linkHtml href="#ID_4db49267-e57f-cb70-809a-6fe148b0d7e1">5.5</linkHtml>).  </item>
+                           <item>Stevens-Johnson syndrome: If Stevens-Johnson syndrome occurs, discontinue ADCETRIS and administer appropriate medical therapy (<linkHtml href="#ID_8f58bbac-0ed7-6798-8087-1e68ba78d11e">5.6</linkHtml>).  </item>
+                           <item>Embryo-fetal toxicity: Fetal harm can occur. Pregnant women should be advised of the potential hazard to the fetus (<linkHtml href="#ID_678e2b14-da45-7396-4098-924b5b8814ea">5.7</linkHtml>). </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID_c09e8476-7891-9841-57bc-3118a46e9e29">
+                     <id root="252cd69d-76cd-299d-3562-4634a3876d17"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1 Peripheral Neuropathy</title>
+                     <text>
+                        <paragraph>ADCETRIS treatment causes a peripheral neuropathy that is predominantly sensory. Cases of peripheral motor neuropathy have also been reported. ADCETRIS-induced peripheral neuropathy is cumulative. In the HL and sALCL clinical trials, 54% of patients experienced any grade of neuropathy. Of these patients, 49% had complete resolution, 31% had partial improvement, and 20% had no improvement. Of the patients who reported neuropathy, 51% had residual neuropathy at the time of their last evaluation. Monitor patients for symptoms of neuropathy, such as hypoesthesia, hyperesthesia, paresthesia, discomfort, a burning sensation, neuropathic pain or weakness. Patients experiencing new or worsening peripheral neuropathy may require a delay, change in dose, or discontinuation of ADCETRIS [<content styleCode="italics">see <linkHtml href="#ID_076f90fe-7fac-0543-b79f-f90373e59403">Dose Modification (2.2)</linkHtml>
+                           </content> ].</paragraph>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_e3b71f87-7fe5-e048-a6c2-e0b6c04f42e9">
+                     <id root="93756603-251a-bdbb-adee-47a22ac48c66"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2 Infusion Reactions</title>
+                     <text>
+                        <paragraph>Infusion-related reactions, including anaphylaxis, have occurred with ADCETRIS. Monitor patients during infusion. If anaphylaxis occurs, immediately and permanently discontinue administration of ADCETRIS and administer appropriate medical therapy. If an infusion-related reaction occurs, the infusion should be interrupted and appropriate medical management instituted. Patients who have experienced a prior infusion-related reaction should be premedicated for subsequent infusions. Premedication may include acetaminophen, an antihistamine and a corticosteroid.</paragraph>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_153ed420-d046-1f3f-9ea2-b3620e817a90">
+                     <id root="04b67bb3-d6fc-d27d-9677-cbb6a017d0da"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3 Neutropenia</title>
+                     <text>
+                        <paragraph>Complete blood counts should be monitored prior to each dose of ADCETRIS and more frequent monitoring should be considered for patients with Grade 3 or 4 neutropenia. Prolonged (≥1 week) severe neutropenia can occur with ADCETRIS. If Grade 3 or 4 neutropenia develops, manage by G-CSF support, dose delays, reductions, or discontinuations [<content styleCode="italics">see <linkHtml href="#ID_076f90fe-7fac-0543-b79f-f90373e59403">Dose Modification (</linkHtml>
+                           </content>
+                           <linkHtml href="#ID_076f90fe-7fac-0543-b79f-f90373e59403">2.2)</linkHtml>].</paragraph>
+                     </text>
+                     <effectiveTime value="20130808"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_6f93d8dc-59c1-2a1a-9522-c32c6a1c74cd">
+                     <id root="ff87b0bd-df0c-cdc8-1424-2e171f746f76"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.4 Tumor Lysis Syndrome</title>
+                     <text>
+                        <paragraph>Tumor lysis syndrome may occur. Patients with rapidly proliferating tumor and high tumor burden may be at increased risk of tumor lysis syndrome. Monitor closely and take appropriate measures.</paragraph>
+                     </text>
+                     <effectiveTime value="20110822"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_4db49267-e57f-cb70-809a-6fe148b0d7e1">
+                     <id root="035392e0-6651-e165-6010-32db7adb97fc"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.5 Progressive Multifocal Leukoencephalopathy</title>
+                     <text>
+                        <paragraph>JC virus infection resulting in PML and death has been reported in ADCETRIS-treated patients. In addition to ADCETRIS therapy, other possible contributory factors include prior therapies and underlying disease that may cause immunosuppression.</paragraph>
+                        <paragraph>Consider the diagnosis of PML in any patient presenting with new-onset signs and symptoms of central nervous system abnormalities. Evaluation of PML includes, but is not limited to, consultation with a neurologist, brain MRI, and lumbar puncture or brain biopsy. Hold ADCETRIS dosing for any suspected case of PML and discontinue ADCETRIS dosing if a diagnosis of PML is confirmed.</paragraph>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_8f58bbac-0ed7-6798-8087-1e68ba78d11e">
+                     <id root="e40e8b20-15b3-6275-a73c-454f41d1cb48"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.6 Stevens-Johnson Syndrome</title>
+                     <text>
+                        <paragraph>Stevens-Johnson syndrome has been reported with ADCETRIS. If Stevens-Johnson syndrome occurs, discontinue ADCETRIS and administer appropriate medical therapy.</paragraph>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_678e2b14-da45-7396-4098-924b5b8814ea">
+                     <id root="6c06de02-a3fe-3468-7cb8-c4dfc2b55a8f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.7 Embryo-Fetal Toxicity</title>
+                     <text>
+                        <paragraph>There are no adequate and well-controlled studies of ADCETRIS in pregnant women. However, based on its mechanism of action and findings in animals, ADCETRIS can cause fetal harm when administered to a pregnant woman. Brentuximab vedotin caused embryo-fetal toxicities, including significantly decreased embryo viability and fetal malformations, in animals at maternal exposures that were similar to human exposures at the recommended doses for patients with HL and sALCL.If this drug is used during pregnancy, or if the patient becomes pregnant while receiving the drug, the patient should be apprised of the potential hazard to the fetus [<content styleCode="italics">see <linkHtml href="#ID_78a72525-f0f8-0feb-60de-438eff7ca7fd">Use in Specific Populations (</linkHtml>
+                           </content>
+                           <linkHtml href="#ID_78a72525-f0f8-0feb-60de-438eff7ca7fd">8.1</linkHtml>
+                           <linkHtml href="#ID_78a72525-f0f8-0feb-60de-438eff7ca7fd">)</linkHtml>].</paragraph>
+                     </text>
+                     <effectiveTime value="20130807"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_4D2245E1-6B95-4325-4043-07767F59A57D">
+               <id root="0b1d6992-b509-f189-0df6-1460df590286"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text/>
+               <effectiveTime value="20130807"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most common adverse reactions (≥20%) are neutropenia, peripheral sensory neuropathy, fatigue, nausea, anemia, upper respiratory tract infection, diarrhea, pyrexia, rash, thrombocytopenia, cough, and vomiting (<linkHtml href="#ID_e4bc4929-6c06-bc6a-5cc5-4bc068915dc7">6.1</linkHtml>).<br/> </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Seattle Genetics, Inc. at 1-855-473-2436 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID_e4bc4929-6c06-bc6a-5cc5-4bc068915dc7">
+                     <id root="8bc990a4-36c0-b72f-1f25-43ea123ffcd4"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1 Clinical Trial Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.</paragraph>
+                        <paragraph>ADCETRIS was studied as monotherapy in 160 patients in two phase 2 trials. Across both trials, the most common adverse reactions (≥20%), regardless of causality, were neutropenia, peripheral sensory neuropathy, fatigue, nausea, anemia, upper respiratory tract infection, diarrhea, pyrexia, rash, thrombocytopenia, cough and vomiting. The most common adverse reactions occurring in at least 10% of patients in either trial, regardless of causality, using the NCI Common Toxicity Criteria Version 3.0, are shown in <linkHtml href="#SPLSERV-5D5D909E-4255-1B77-026A-8C4C763E7C00">Table 1</linkHtml>.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Experience in Hodgkin Lymphoma</content>
+                        </paragraph>
+                        <paragraph>ADCETRIS was studied in 102 patients with HL in a single arm clinical trial in which the recommended starting dose and schedule was 1.8 mg/kg intravenously every 3 weeks. Median duration of treatment was 27 weeks (range, 3 to 56 weeks)  [<content styleCode="italics">see <linkHtml href="#ID_5F94FDBC-4EDE-628C-42FC-5CBD737DE766">Clinical Studies (14)</linkHtml>
+                           </content>].</paragraph>
+                        <paragraph>The most common adverse reactions (≥20%), regardless of causality, were neutropenia, peripheral sensory neuropathy, fatigue, upper respiratory tract infection, nausea, diarrhea, anemia, pyrexia, thrombocytopenia, rash, abdominal pain, cough, and vomiting.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Experience in Systemic Anaplastic Large Cell Lymphoma</content>
+                        </paragraph>
+                        <paragraph>ADCETRIS was studied in 58 patients with sALCL in a single arm clinical trial in which the recommended starting dose and schedule was 1.8 mg/kg intravenously every 3 weeks. Median duration of treatment was 24 weeks (range, 3 to 56 weeks) [<content styleCode="italics">see <linkHtml href="#ID_5F94FDBC-4EDE-628C-42FC-5CBD737DE766">Clinical Studies (14)</linkHtml>
+                           </content>].</paragraph>
+                        <paragraph>The most common adverse reactions (≥20%), regardless of causality, were neutropenia, anemia, peripheral sensory neuropathy, fatigue, nausea, pyrexia, rash, diarrhea, and pain.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Combined Experience</content>
+                        </paragraph>
+                        <table ID="SPLSERV-5D5D909E-4255-1B77-026A-8C4C763E7C00" border="0" cellpadding="4" width="80%">
+                           <caption>Table 1: Most Commonly Reported (≥10%) Adverse Reactions</caption>
+                           <colgroup>
+                              <col width="46%"/>
+                              <col width="9%"/>
+                              <col width="9%"/>
+                              <col width="9%"/>
+                              <col width="9%"/>
+                              <col width="9%"/>
+                              <col width="9%"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td align="center" styleCode="Lrule Toprule"> </td>
+                                 <td align="center" colspan="3" styleCode="Lrule Toprule">HL</td>
+                                 <td align="center" colspan="3" styleCode="Lrule Rrule Toprule">sALCL</td>
+                              </tr>
+                              <tr>
+                                 <td align="center" styleCode="Botrule Lrule"> </td>
+                                 <td align="center" colspan="3" styleCode="Botrule Lrule">Total N = 102 <br/>% of patients</td>
+                                 <td align="center" colspan="3" styleCode="Botrule Lrule Rrule">Total N = 58 <br/>% of patients</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Botrule Lrule" valign="middle">Adverse Reaction</td>
+                                 <td align="center" styleCode="Botrule Lrule" valign="middle">Any <br/>Grade</td>
+                                 <td align="center" styleCode="Botrule Lrule" valign="middle">Grade <br/>3</td>
+                                 <td align="center" styleCode="Botrule Lrule" valign="middle">Grade <br/>4</td>
+                                 <td align="center" styleCode="Botrule Lrule" valign="middle">Any <br/>Grade</td>
+                                 <td align="center" styleCode="Botrule Lrule" valign="middle">Grade <br/>3</td>
+                                 <td align="center" styleCode="Botrule Lrule Rrule" valign="middle">Grade <br/>4</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">
+                                    <content styleCode="italics">Blood and lymphatic system disorders</content>
+                                 </td>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule Rrule"/>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Neutropenia<footnote ID="SPLSERV-7A98B3CD-D86D-C427-FE24-4A1E798D6492">Derived from laboratory values and adverse reaction data</footnote>
+                                 </td>
+                                 <td align="center" styleCode="Lrule">54</td>
+                                 <td align="center" styleCode="Lrule">15</td>
+                                 <td align="center" styleCode="Lrule">6</td>
+                                 <td align="center" styleCode="Lrule">55</td>
+                                 <td align="center" styleCode="Lrule">12</td>
+                                 <td align="center" styleCode="Lrule Rrule">9</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Anemia<footnoteRef IDREF="SPLSERV-7A98B3CD-D86D-C427-FE24-4A1E798D6492"/>
+                                 </td>
+                                 <td align="center" styleCode="Lrule">33</td>
+                                 <td align="center" styleCode="Lrule">8</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule">52</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Thrombocytopenia<footnoteRef IDREF="SPLSERV-7A98B3CD-D86D-C427-FE24-4A1E798D6492"/>
+                                 </td>
+                                 <td align="center" styleCode="Lrule">28</td>
+                                 <td align="center" styleCode="Lrule">7</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule">16</td>
+                                 <td align="center" styleCode="Lrule">5</td>
+                                 <td align="center" styleCode="Lrule Rrule">5</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Lymphadenopathy</td>
+                                 <td align="center" styleCode="Lrule">11</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">10</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">
+                                    <content styleCode="italics">Nervous system disorders</content>
+                                 </td>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule Rrule"/>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Peripheral sensory neuropathy</td>
+                                 <td align="center" styleCode="Lrule">52</td>
+                                 <td align="center" styleCode="Lrule">8</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">53</td>
+                                 <td align="center" styleCode="Lrule">10</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Peripheral motor neuropathy</td>
+                                 <td align="center" styleCode="Lrule">16</td>
+                                 <td align="center" styleCode="Lrule">4</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">7</td>
+                                 <td align="center" styleCode="Lrule">3</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Headache</td>
+                                 <td align="center" styleCode="Lrule">19</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">16</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Dizziness</td>
+                                 <td align="center" styleCode="Lrule">11</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">16</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">
+                                    <content styleCode="italics">General disorders and administration site conditions</content>
+                                 </td>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule Rrule"/>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Fatigue</td>
+                                 <td align="center" styleCode="Lrule">49</td>
+                                 <td align="center" styleCode="Lrule">3</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">41</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule Rrule">2</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Pyrexia</td>
+                                 <td align="center" styleCode="Lrule">29</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">38</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Chills</td>
+                                 <td align="center" styleCode="Lrule">13</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">12</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Pain</td>
+                                 <td align="center" styleCode="Lrule">7</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">28</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">5</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Edema peripheral</td>
+                                 <td align="center" styleCode="Lrule">4</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">16</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">
+                                    <content styleCode="italics">Infections and infestations</content>
+                                 </td>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule Rrule"/>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Upper respiratory tract infection</td>
+                                 <td align="center" styleCode="Lrule">47</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">12</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">
+                                    <content styleCode="italics">Gastrointestinal disorders</content>
+                                 </td>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule Rrule"/>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Nausea</td>
+                                 <td align="center" styleCode="Lrule">42</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">38</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Diarrhea</td>
+                                 <td align="center" styleCode="Lrule">36</td>
+                                 <td align="center" styleCode="Lrule">1</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">29</td>
+                                 <td align="center" styleCode="Lrule">3</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Abdominal pain</td>
+                                 <td align="center" styleCode="Lrule">25</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule">1</td>
+                                 <td align="center" styleCode="Lrule">9</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Vomiting</td>
+                                 <td align="center" styleCode="Lrule">22</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">17</td>
+                                 <td align="center" styleCode="Lrule">3</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Constipation</td>
+                                 <td align="center" styleCode="Lrule">16</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">19</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">
+                                    <content styleCode="italics">Skin and subcutaneous tissue disorders</content>
+                                 </td>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule Rrule"/>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Rash</td>
+                                 <td align="center" styleCode="Lrule">27</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">31</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Pruritus</td>
+                                 <td align="center" styleCode="Lrule">17</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">19</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Alopecia</td>
+                                 <td align="center" styleCode="Lrule">13</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">14</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Night sweats</td>
+                                 <td align="center" styleCode="Lrule">12</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">9</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Dry skin</td>
+                                 <td align="center" styleCode="Lrule">4</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">10</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">
+                                    <content styleCode="italics">Respiratory, thoracic and mediastinal disorders</content>
+                                 </td>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule Rrule"/>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Cough</td>
+                                 <td align="center" styleCode="Lrule">25</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">17</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Dyspnea</td>
+                                 <td align="center" styleCode="Lrule">13</td>
+                                 <td align="center" styleCode="Lrule">1</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">19</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Oropharyngeal pain</td>
+                                 <td align="center" styleCode="Lrule">11</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">9</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">
+                                    <content styleCode="italics">Musculoskeletal and connective tissue disorders</content>
+                                 </td>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule Rrule"/>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Arthralgia</td>
+                                 <td align="center" styleCode="Lrule">19</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">9</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Myalgia</td>
+                                 <td align="center" styleCode="Lrule">17</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">16</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Back pain</td>
+                                 <td align="center" styleCode="Lrule">14</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">10</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Pain in extremity</td>
+                                 <td align="center" styleCode="Lrule">10</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">10</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule Rrule">2</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Muscle spasms</td>
+                                 <td align="center" styleCode="Lrule">9</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">10</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">
+                                    <content styleCode="italics">Psychiatric disorders</content>
+                                 </td>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule Rrule"/>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Insomnia</td>
+                                 <td align="center" styleCode="Lrule">14</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">16</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Anxiety</td>
+                                 <td align="center" styleCode="Lrule">11</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">7</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">
+                                    <content styleCode="italics">Metabolism and nutrition disorders</content>
+                                 </td>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule Rrule"/>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">    Decreased appetite</td>
+                                 <td align="center" styleCode="Lrule">11</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">-</td>
+                                 <td align="center" styleCode="Lrule">16</td>
+                                 <td align="center" styleCode="Lrule">2</td>
+                                 <td align="center" styleCode="Lrule Rrule">-</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Lrule">
+                                    <content styleCode="italics">Investigations</content>
+                                 </td>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule"/>
+                                 <td align="center" styleCode="Lrule Rrule"/>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Botrule Lrule">    Weight decreased</td>
+                                 <td align="center" styleCode="Botrule Lrule">6</td>
+                                 <td align="center" styleCode="Botrule Lrule">-</td>
+                                 <td align="center" styleCode="Botrule Lrule">-</td>
+                                 <td align="center" styleCode="Botrule Lrule">12</td>
+                                 <td align="center" styleCode="Botrule Lrule">3</td>
+                                 <td align="center" styleCode="Botrule Lrule Rrule">-</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+                           <content styleCode="italics"> Infusion reactions</content>
+                        </paragraph>
+                        <paragraph>Two cases of anaphylaxis were reported in phase 1 trials. There were no Grade 3 or 4 infusion-related reactions reported in the phase 2 trials, however, Grade 1 or 2 infusion-related reactions were reported for 19 patients (12%). The most common adverse reactions (≥2%) associated with infusion-related reactions were chills (4%), nausea (3%), dyspnea (3%), pruritus (3%), pyrexia (2%), and cough (2%).</paragraph>
+                        <paragraph>
+                           <content styleCode="italics"> Serious adverse reactions</content>
+                        </paragraph>
+                        <paragraph>In the phase 2 trials, serious adverse reactions, regardless of causality, were reported in 31% of patients receiving ADCETRIS. The most common serious adverse reactions experienced by patients with HL include peripheral motor neuropathy (4%), abdominal pain (3%), pulmonary embolism (2%), pneumonitis (2%), pneumothorax (2%), pyelonephritis (2%), and pyrexia (2%). The most common serious adverse reactions experienced by patients with sALCL were septic shock (3%), supraventricular arrhythmia (3%), pain in extremity (3%), and urinary tract infection (3%). Other important serious adverse reactions reported include PML, Stevens-Johnson syndrome and tumor lysis syndrome.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics"> Dose modifications</content>
+                        </paragraph>
+                        <paragraph>Adverse reactions that led to dose delays in more than 5% of patients were neutropenia (14%) and peripheral sensory neuropathy (11%) [<content styleCode="italics">see <linkHtml href="#ID_076f90fe-7fac-0543-b79f-f90373e59403">Dose Modification (</linkHtml>
+                           </content>
+                           <linkHtml href="#ID_076f90fe-7fac-0543-b79f-f90373e59403">2.2)</linkHtml>]. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics"> Discontinuations</content>
+                        </paragraph>
+                        <paragraph>Adverse reactions led to treatment discontinuation in 21% of patients. Adverse reactions that led to treatment discontinuation in 2 or more patients with HL or sALCL were peripheral sensory neuropathy (8%) and peripheral motor neuropathy (3%).</paragraph>
+                     </text>
+                     <effectiveTime value="20130807"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_373ae6ab-55b6-b69a-f550-941c6d440740">
+                     <id root="51ae0784-a6c2-82a5-960d-f2d1bd7f12d3"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.2 Post Marketing Experience</title>
+                     <text>
+                        <paragraph>The following adverse reactions have been identified during post-approval use of ADCETRIS. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.</paragraph>
+                        <paragraph>Cases of PML have been reported [<content styleCode="italics">see <linkHtml href="http://www.thinspring-apps.com/pls/km02/ID_10bdcd92-e327-3991-4474-306c12f9a2c8">Boxed Warning, </linkHtml>
+                              <linkHtml href="#ID_08C3ABA5-6F36-F7EB-14EC-95F4D1C72BCD">Warnings and Precautions (5.5)</linkHtml>
+                           </content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_57b03f0c-641b-87a4-6942-09736f2bd849">
+                     <id root="32f2de08-3f41-80e1-0ee2-1c6907aa60e9"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.3 Immunogenicity</title>
+                     <text>
+                        <paragraph>Patients with HL and sALCL in the phase 2 trials [<content styleCode="italics">see <linkHtml href="#ID_5F94FDBC-4EDE-628C-42FC-5CBD737DE766">Clinical Studies (14)</linkHtml>
+                           </content>] were tested for antibodies to brentuximab vedotin every 3 weeks using a sensitive electrochemiluminescent immunoassay. Approximately 7% of patients in these trials developed persistently positive antibodies (positive test at more than 2 timepoints) and 30% developed transiently positive antibodies (positive in 1 or 2 post-baseline timepoints). The anti-brentuximab antibodies were directed against the antibody component of brentuximab vedotin in all patients with transiently or persistently positive antibodies. Two of the patients (1%) with persistently positive antibodies experienced adverse reactions consistent with infusion reactions that led to discontinuation of treatment. Overall, a higher incidence of infusion related reactions was observed in patients who developed persistently positive antibodies.</paragraph>
+                        <paragraph>A total of 58 patient samples that were either transiently or persistently positive for anti-brentuximab vedotin antibodies were tested for the presence of neutralizing antibodies. Sixty-two percent of these patients had at least one sample that was positive for the presence of neutralizing antibodies. The effect of anti-brentuximab vedotin antibodies on safety and efficacy is not known.</paragraph>
+                        <paragraph>Immunogenicity assay results are highly dependent on several factors including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of incidence of antibodies to ADCETRIS with the incidence of antibodies to other products may be misleading.</paragraph>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_B7E4B835-A909-3CA0-B816-72CC9B8131AE">
+               <id root="4bba1b07-5d23-5b61-c128-12cffa52fd01"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7 DRUG INTERACTIONS</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="italics">In vitro </content>data indicate that monomethyl auristatin E (MMAE) is a substrate and an inhibitor of CYP3A4/5.</paragraph>
+               </text>
+               <effectiveTime value="20120116"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Patients who are receiving strong CYP3A4 inhibitors concomitantly with ADCETRIS should be closely monitored for adverse reactions (<linkHtml href="#ID_2fd7e8ba-fb09-56ba-3d2c-bbe6b53118ac">7.1</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID_2fd7e8ba-fb09-56ba-3d2c-bbe6b53118ac">
+                     <id root="fcc62840-abb0-5a51-5f3b-0cb9891fea50"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.1 Effect of Other Drugs on ADCETRIS</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">CYP3A4 Inhibitors/Inducers:</content> MMAE is primarily metabolized by CYP3A [<content styleCode="italics">see <linkHtml href="#ID_4504f5f4-b0b9-5533-6eb5-44f23509a5c6">Clinical Pharmacology (</linkHtml>
+                           </content>
+                           <linkHtml href="#ID_4504f5f4-b0b9-5533-6eb5-44f23509a5c6">12.3)</linkHtml>]. Co-administration of ADCETRIS with ketoconazole, a potent CYP3A4 inhibitor, increased exposure to MMAE by approximately 34%. Patients who are receiving strong CYP3A4 inhibitors concomitantly with ADCETRIS should be closely monitored for adverse reactions. Co-administration of ADCETRIS with rifampin, a potent CYP3A4 inducer, reduced exposure to MMAE by approximately 46%.</paragraph>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_bfbcc50c-417e-64b6-537e-93fbe2fca514">
+                     <id root="c2cbceb4-4c0f-5924-7b42-b8d95960e9a4"/>
+                     <code code="34074-5" codeSystem="2.16.840.1.113883.6.1" displayName="Drug &amp; or Laboratory Test Interactions Section"/>
+                     <title>7.2 Effect of ADCETRIS on Other Drugs</title>
+                     <text>
+                        <paragraph>Co-administration of ADCETRIS did not affect exposure to midazolam, a CYP3A4 substrate. MMAE does not inhibit other CYP enzymes at relevant clinical concentrations [<content styleCode="italics">see <linkHtml href="#ID_4504f5f4-b0b9-5533-6eb5-44f23509a5c6">Clinical Pharmacology (12.3)</linkHtml>
+                           </content>]. ADCETRIS is not expected to alter the exposure to drugs that are metabolized by CYP3A4 enzymes.</paragraph>
+                     </text>
+                     <effectiveTime value="20110822"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_C74E453E-FC51-8BF9-0E55-5F93D6DE88C9">
+               <id root="642cdf73-51f9-3fd2-4980-62bfe2c9062b"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <text/>
+               <effectiveTime value="20130807"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>None (<linkHtml href="#ID_C74E453E-FC51-8BF9-0E55-5F93D6DE88C9">8</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID_78a72525-f0f8-0feb-60de-438eff7ca7fd">
+                     <id root="7eec905a-5a8f-68f9-7653-6643d03e0fa5"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="Pregnancy Section"/>
+                     <title>8.1 Pregnancy</title>
+                     <text>
+                        <paragraph>Pregnancy Category D [<content styleCode="italics">see <linkHtml href="#ID_678e2b14-da45-7396-4098-924b5b8814ea">Warnings and Precautions (5.7)</linkHtml>
+                           </content>].</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There are no adequate and well-controlled studies with ADCETRIS in pregnant women. However, based on its mechanism of action and findings in animals, ADCETRIS can cause fetal harm when administered to a pregnant woman. Brentuximab vedotin caused embryo-fetal toxicities in animals at maternal exposures that were similar to human exposures at the recommended doses for patients with HL and sALCL. If this drug is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data</content>
+                        </paragraph>
+                        <paragraph>In an embryo-fetal developmental study, pregnant rats received 2 intravenous doses of 0.3, 1, 3, or 10 mg/kg brentuximab vedotin during the period of organogenesis (once each on Pregnancy Days 6 and 13). Drug-induced embryo-fetal toxicities were seen mainly in animals treated with 3 and 10 mg/kg of the drug and included increased early resorption (≥99%), post-implantation loss (≥99%), decreased numbers of live fetuses, and external malformations (i.e., umbilical hernias and malrotated hindlimbs). Systemic exposure in animals at the brentuximab vedotin dose of 3 mg/kg is approximately the same exposure in patients with HL or sALCL who received the recommended dose of 1.8 mg/kg every three weeks.</paragraph>
+                     </text>
+                     <effectiveTime value="20130807"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_86910be8-02c9-5562-cbfc-1e0f9009defb">
+                     <id root="5bc46196-9e47-c479-008c-4784298b5185"/>
+                     <code code="34080-2" codeSystem="2.16.840.1.113883.6.1" displayName="Nursing Mothers Section"/>
+                     <title>8.3 Nursing Mothers</title>
+                     <text>
+                        <paragraph>It is not known whether brentuximab vedotin is excreted in human milk. Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from ADCETRIS a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.</paragraph>
+                     </text>
+                     <effectiveTime value="20110822"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_4aca723b-e1b1-c26e-486e-c8d374e74c2b">
+                     <id root="1d669bca-c24a-2f55-1731-8a66fbb6a142"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="Pediatric Use Section"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>The safety and effectiveness of ADCETRIS have not been established in the pediatric population. Clinical trials of ADCETRIS included only 9 pediatric patients and this number is not sufficient to determine whether they respond differently than adult patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20110822"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_427b187b-983b-7426-7e54-5d41a2515262">
+                     <id root="652a536a-2a93-0564-cef8-c248d86723d5"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>Clinical trials of ADCETRIS did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients. Safety and efficacy have not been established.</paragraph>
+                     </text>
+                     <effectiveTime value="20110822"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_e23d4a20-b484-2156-b652-41a4d0f53406">
+                     <id root="40835946-8db4-d887-0443-0043d09ad1f6"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.6 Renal Impairment</title>
+                     <text>
+                        <paragraph>The kidney is a route of excretion for MMAE. The influence of renal impairment on the pharmacokinetics of MMAE has not been determined.</paragraph>
+                     </text>
+                     <effectiveTime value="20110822"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_c2b5d47e-bb07-64ee-d68e-e70cb4be8a9d">
+                     <id root="da0e6683-7794-351d-5e86-e1f9c74ec2b4"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="Pregnancy Section"/>
+                     <title>8.7 Hepatic Impairment</title>
+                     <text>
+                        <paragraph>The liver is a route of clearance for MMAE. The influence of hepatic impairment on the pharmacokinetics of MMAE has not been determined.</paragraph>
+                     </text>
+                     <effectiveTime value="20110822"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_6ACC404E-04C7-8EE5-3EA9-205C6E437BD5">
+               <id root="b3fda0db-7336-3f08-c2f5-1a78971c1360"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>There is no known antidote for overdosage of ADCETRIS. In case of overdosage, the patient should be closely monitored for adverse reactions, particularly neutropenia, and supportive treatment should be administered.</paragraph>
+               </text>
+               <effectiveTime value="20110822"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_66C6AFBF-0CA4-BAA1-5930-89D4E92069C2">
+               <id root="1764fda8-89a9-16b4-ae32-c8f92d5109bd"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>ADCETRIS (brentuximab vedotin) is a CD30-directed antibody-drug conjugate (ADC) consisting of three components: 1) the chimeric IgG1 antibody cAC10, specific for human CD30, 2) the microtubule disrupting agent MMAE, and 3) a protease-cleavable linker that covalently attaches MMAE to cAC10.</paragraph>
+                  <renderMultiMedia referencedObject="MM24605"/>
+                  <paragraph>Brentuximab vedotin has an approximate molecular weight of 153 kDa. Approximately 4 molecules of MMAE are attached to each antibody molecule. Brentuximab vedotin is produced by chemical conjugation of the antibody and small molecule components. The antibody is produced by mammalian (Chinese hamster ovary) cells, and the small molecule components are produced by chemical synthesis.</paragraph>
+                  <paragraph>ADCETRIS (brentuximab vedotin) for Injection is supplied as a sterile, white to off-white, preservative-free lyophilized cake or powder in single-use vials. Following reconstitution with 10.5 mL Sterile Water for Injection, USP, a solution containing 5 mg/mL brentuximab vedotin is produced. The reconstituted product contains 70 mg/mL trehalose dihydrate, 5.6 mg/mL sodium citrate dihydrate, 0.21 mg/mL citric acid monohydrate, and 0.20 mg/mL polysorbate 80 and water for injection. The pH is approximately 6.6.</paragraph>
+               </text>
+               <effectiveTime value="20120116"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_F6F387B1-5005-FC3A-A224-A2150FB40642">
+               <id root="dfdb3828-4772-1807-dc83-fb562e778f10"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <text/>
+               <effectiveTime value="20120117"/>
+               <component>
+                  <section ID="ID_eaa4b937-04cb-c558-fb17-3bd2701aa8f1">
+                     <id root="5b606754-a851-87f1-f1b9-836ab737e568"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="Mechanism of Action Section"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Brentuximab vedotin is an ADC. The antibody is a chimeric IgG1 directed against CD30. The small molecule, MMAE, is a microtubule disrupting agent. MMAE is covalently attached to the antibody via a linker. Nonclinical data suggest that the anticancer activity of ADCETRIS is due to the binding of the ADC to CD30-expressing cells, followed by internalization of the ADC‑CD30 complex, and the release of MMAE via proteolytic cleavage. Binding of MMAE to tubulin disrupts the microtubule network within the cell, subsequently inducing cell cycle arrest and apoptotic death of the cells.</paragraph>
+                     </text>
+                     <effectiveTime value="20120117"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_a7b8346a-9f41-ce7a-06c1-8c4f3c5074b4">
+                     <id root="9bde00db-7cd1-43bd-f36f-ff4f8e140c55"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="Pharmacodynamics Section"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">QT/QTc Prolongation Potential</content>
+                        </paragraph>
+                        <paragraph>The effect of brentuximab vedotin (1.8 mg/kg) on the QTc interval was evaluated in an open-label, single-arm study in 46 evaluable patients with CD30-expressing hematologic malignancies. Administration of brentuximab vedotin did not prolong the mean QTc interval &gt;10 ms from baseline. Small increases in the mean QTc interval (&lt;10 ms) cannot be excluded because this study did not include a placebo arm and a positive control arm.</paragraph>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_4504f5f4-b0b9-5533-6eb5-44f23509a5c6">
+                     <id root="add80c18-779c-6f60-44c2-38e393454fe5"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="Pharmacokinetics Section"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>The pharmacokinetics of brentuximab vedotin were evaluated in phase 1 trials and in a population pharmacokinetic analysis of data from 314 patients. The pharmacokinetics of three analytes were determined: the ADC, MMAE, and total antibody. Total antibody had the greatest exposure and had a similar PK profile as the ADC. Hence, data on the PK of the ADC and MMAE have been summarized.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Absorption</content>
+                        </paragraph>
+                        <paragraph>Maximum concentrations of ADC were typically observed close to the end of infusion. A multiexponential decline in ADC serum concentrations was observed with a terminal half-life of approximately 4 to 6 days. Exposures were approximately dose proportional from 1.2 to 2.7 mg/kg. Steady-state of the ADC was achieved within 21 days with every 3-week dosing of ADCETRIS, consistent with the terminal half-life estimate. Minimal to no accumulation of ADC was observed with multiple doses at the every 3-week schedule.</paragraph>
+                        <paragraph>The time to maximum concentration for MMAE ranged from approximately 1 to 3 days. Similar to the ADC, steady‑state of MMAE was achieved within 21 days with every 3 week dosing of ADCETRIS. MMAE exposures decreased with continued administration of ADCETRIS with approximately 50% to 80% of the exposure of the first dose being observed at subsequent doses.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Distribution</content>
+                        </paragraph>
+                        <paragraph>In vitro, the binding of MMAE to human plasma proteins ranged from 68-82%. MMAE is not likely to displace or to be displaced by highly protein-bound drugs. In vitro, MMAE was a substrate of P-gp and was not a potent inhibitor of P-gp.</paragraph>
+                        <paragraph>In humans, the mean steady state volume of distribution was approximately 6-10 L for ADC.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Metabolism</content>
+                        </paragraph>
+                        <paragraph>In vivo data in animals and humans suggest that only a small fraction of MMAE released from brentuximab vedotin is metabolized. In vitro data indicate that the MMAE metabolism that occurs is primarily via oxidation by CYP3A4/5. In vitro studies using human liver microsomes indicate that MMAE inhibits CYP3A4/5 but not other CYP isoforms. MMAE did not induce any major CYP450 enzymes in primary cultures of human hepatocytes.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Elimination</content>
+                        </paragraph>
+                        <paragraph>MMAE appeared to follow metabolite kinetics, with the elimination of MMAE appearing to be limited by its rate of release from ADC. An excretion study was undertaken in patients who received a dose of 1.8 mg/kg of ADCETRIS. Approximately 24% of the total MMAE administered as part of the ADC during an ADCETRIS infusion was recovered in both urine and feces over a 1-week period. Of the recovered MMAE, approximately 72% was recovered in the feces and the majority of the excreted MMAE was unchanged.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Effects of Gender, Age and Race</content>
+                        </paragraph>
+                        <paragraph>Based on the population pharmacokinetic analysis, gender, age and race do not have a meaningful effect on the pharmacokinetics of brentuximab vedotin.</paragraph>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_B7B8A22A-94ED-C753-67E9-71FEEC4E99DA">
+               <id root="80f607e0-7ce2-9ad3-5c12-ab6e727c4ac8"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY</title>
+               <text/>
+               <effectiveTime value="20120116"/>
+               <component>
+                  <section ID="ID_4b489e32-d535-df27-b03d-67dfe6e46e15">
+                     <id root="b3522b10-381d-f999-6680-a4377074eb2e"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="Carcinogenesis &amp; Mutagenesis &amp; Impairment of Fertility Section"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility</title>
+                     <text>
+                        <paragraph>Carcinogenicity studies with brentuximab vedotin or the small molecule (MMAE) have not been conducted. </paragraph>
+                        <paragraph>MMAE was genotoxic in the rat bone marrow micronucleus study through an aneugenic mechanism. This effect is consistent with the pharmacological effect of MMAE as a microtubule disrupting agent. MMAE was not mutagenic in the bacterial reverse mutation assay (Ames test) or the L5178Y mouse lymphoma forward mutation assay.</paragraph>
+                        <paragraph>Fertility studies with brentuximab vedotin or MMAE have not been conducted. However, results of repeat-dose toxicity studies in rats indicate the potential for brentuximab vedotin to impair male reproductive function and fertility. In a 4-week repeat-dose toxicity study in rats with weekly dosing at 0.5, 5 or 10 mg/kg brentuximab vedotin, seminiferous tubule degeneration, Sertoli cell vacuolation, reduced spermatogenesis and aspermia were observed. Effects in animals were seen mainly at 5 and 10 mg/kg of brentuximab vedotin. These doses are approximately 3 and 6-fold the human recommended dose of 1.8 mg/kg, respectively, based on body weight.</paragraph>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_5F94FDBC-4EDE-628C-42FC-5CBD737DE766">
+               <id root="e1dce359-49b7-6b05-9895-2f4f79e9bdca"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <text/>
+               <effectiveTime value="20120116"/>
+               <component>
+                  <section ID="ID_62e4f4bc-d2ad-a5c7-0c8f-d4c8bb480eac">
+                     <id root="b86da24a-d9b5-eb3b-e8d5-a5defc67f030"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>14.1 Hodgkin Lymphoma</title>
+                     <text>
+                        <paragraph>The efficacy of ADCETRIS in patients with HL who relapsed after autologous stem cell transplant was evaluated in one open-label, single-arm, multicenter trial. One hundred two patients were treated with 1.8 mg/kg of ADCETRIS intravenously over 30 minutes every 3 weeks. An independent review facility performed efficacy evaluations which included overall response rate (ORR = complete remission [CR] + partial remission [PR]) and duration of response as defined by clinical and radiographic measures including computed tomography (CT) and positron-emission tomography (PET) as defined in the 2007 Revised Response Criteria for Malignant Lymphoma (modified).</paragraph>
+                        <paragraph>The 102 patients ranged in age from 15-77 years (median, 31 years) and most were female (53%) and white (87%). Patients had received a median of 5 prior therapies including autologous stem cell transplant.</paragraph>
+                        <paragraph>The efficacy results are summarized in <linkHtml href="#SPLSERV-3F5BADEF-B17E-89BB-6585-670CBEFC1908">Table 2</linkHtml>. Duration of response is calculated from date of first response to date of progression or data cutoff date.</paragraph>
+                        <table ID="SPLSERV-3F5BADEF-B17E-89BB-6585-670CBEFC1908" border="0" cellpadding="0" width="80%">
+                           <caption>Table 2: Efficacy Results in Patients with Hodgkin Lymphoma</caption>
+                           <colgroup>
+                              <col width="25%"/>
+                              <col width="25%"/>
+                              <col width="25%"/>
+                              <col width="25%"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Toprule"> </td>
+                                 <td align="center" colspan="3" styleCode="Botrule Lrule Rrule Toprule">N = 102</td>
+                              </tr>
+                              <tr>
+                                 <td rowspan="2" styleCode="Botrule Lrule"> </td>
+                                 <td align="center" rowspan="2" styleCode="Botrule Lrule">Percent (95%CI)</td>
+                                 <td align="center" colspan="2" styleCode="Botrule Lrule Rrule">Duration of Response, in months</td>
+                              </tr>
+                              <tr>
+                                 <td align="center" styleCode="Botrule Lrule">Median (95% CI)</td>
+                                 <td align="center" styleCode="Botrule Lrule Rrule">Range</td>
+                              </tr>
+                              <tr>
+                                 <td align="center" styleCode="Botrule Lrule"> CR</td>
+                                 <td align="center" styleCode="Botrule Lrule">32 (23, 42)</td>
+                                 <td align="center" styleCode="Botrule Lrule">20.5 (12.0, NE<footnote ID="SPLSERV-23CDBE20-C2BF-5514-1849-762D4D11C876">Not estimable</footnote>  )</td>
+                                 <td align="center" styleCode="Botrule Lrule Rrule">1.4 to 21.9<footnote ID="SPLSERV-E3800785-7F7B-DE87-77A5-2C9553C631BA">Follow up was ongoing at the time of data submission.</footnote>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="center" styleCode="Botrule Lrule"> PR</td>
+                                 <td align="center" styleCode="Botrule Lrule">40 (32, 49)  </td>
+                                 <td align="center" styleCode="Botrule Lrule"> 3.5 (2.2, 4.1)</td>
+                                 <td align="center" styleCode="Botrule Lrule Rrule"> 1.3 to 18.7</td>
+                              </tr>
+                              <tr>
+                                 <td align="center" styleCode="Botrule Lrule"> ORR</td>
+                                 <td align="center" styleCode="Botrule Lrule">73 (65, 83)</td>
+                                 <td align="center" styleCode="Botrule Lrule">6.7 (4.0, 14.8)</td>
+                                 <td align="center" styleCode="Botrule Lrule Rrule">1.3 to 21.9<footnoteRef IDREF="SPLSERV-E3800785-7F7B-DE87-77A5-2C9553C631BA"/>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_83a1bd3d-0cf2-3e62-0361-c33e5500bf5e">
+                     <id root="ee3af5c3-8673-ca7a-e1f9-03b8d7bcc0f4"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>14.2 Systemic Anaplastic Large Cell Lymphoma</title>
+                     <text>
+                        <paragraph>The efficacy of ADCETRIS in patients with relapsed sALCL was evaluated in one phase 2 open-label, single-arm, multicenter trial. This trial included patients who had sALCL that was relapsed after prior therapy. Fifty-eight patients were treated with 1.8 mg/kg of ADCETRIS administered intravenously over 30 minutes every 3 weeks. An independent review facility performed efficacy evaluations which included overall response rate (ORR = complete remission [CR] + partial remission [PR]) and duration of response as defined by clinical and radiographic measures including computed tomography (CT) and positron-emission tomography (PET) as defined in the 2007 Revised Response Criteria for Malignant Lymphoma (modified).</paragraph>
+                        <paragraph>The 58 patients ranged in age from 14-76 years (median, 52 years) and most were male (57%) and white (83%). Patients had received a median of 2 prior therapies; 26% of patients had received prior autologous stem cell transplant. Fifty percent (50%) of patients were relapsed and 50% of patients were refractory to their most recent prior therapy. Seventy-two percent (72%) were anaplastic lymphoma kinase (ALK)-negative.</paragraph>
+                        <paragraph>The efficacy results are summarized in <linkHtml href="#SPLSERV-190065A4-DB0C-4916-8396-008E4CD8BAA9">Table 3</linkHtml>. Duration of response is calculated from date of first response to date of progression or data cutoff date.</paragraph>
+                        <table ID="SPLSERV-190065A4-DB0C-4916-8396-008E4CD8BAA9" border="0" cellpadding="4" width="80%">
+                           <caption>Table 3: Efficacy Results in Patients with Systemic Anaplastic Large Cell Lymphoma</caption>
+                           <colgroup>
+                              <col width="25%"/>
+                              <col width="25%"/>
+                              <col width="25%"/>
+                              <col width="25%"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td align="center" styleCode="Botrule Lrule Toprule"> </td>
+                                 <td align="center" colspan="4" styleCode="Botrule Lrule Rrule Toprule">N = 58</td>
+                              </tr>
+                              <tr>
+                                 <td align="center" rowspan="2" styleCode="Botrule Lrule"> </td>
+                                 <td align="center" rowspan="2" styleCode="Botrule Lrule">Percent (95%CI)</td>
+                                 <td align="center" colspan="2" styleCode="Botrule Lrule Rrule">Duration of Response, in months</td>
+                              </tr>
+                              <tr>
+                                 <td align="center" styleCode="Botrule Lrule">Median (95% CI)</td>
+                                 <td align="center" styleCode="Botrule Lrule Rrule">Range</td>
+                              </tr>
+                              <tr>
+                                 <td align="center" styleCode="Botrule Lrule">CR</td>
+                                 <td align="center" styleCode="Botrule Lrule">57 (44, 70)</td>
+                                 <td align="center" styleCode="Botrule Lrule">13.2 (10.8, NE<footnote ID="SPLSERV-A266CE32-52CF-22FB-79FA-BE31E58BBECE">Not estimable</footnote>  )</td>
+                                 <td align="center" styleCode="Botrule Lrule Rrule">0.7 to 15.9<footnote ID="SPLSERV-812A64FF-8D90-AE00-46B8-6F2F7517E378">Follow up was ongoing at the time of data submission.</footnote>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="center" styleCode="Botrule Lrule">PR</td>
+                                 <td align="center" styleCode="Botrule Lrule"> 29 (18, 41)</td>
+                                 <td align="center" styleCode="Botrule Lrule"> 2.1 (1.3, 5.7)</td>
+                                 <td align="center" styleCode="Botrule Lrule Rrule">0.1 to 15.8<footnoteRef IDREF="SPLSERV-812A64FF-8D90-AE00-46B8-6F2F7517E378"/>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="center" styleCode="Botrule Lrule">ORR</td>
+                                 <td align="center" styleCode="Botrule Lrule">86 (77, 95)</td>
+                                 <td align="center" styleCode="Botrule Lrule">12.6 (5.7, NE<footnoteRef IDREF="SPLSERV-A266CE32-52CF-22FB-79FA-BE31E58BBECE"/>  )</td>
+                                 <td align="center" styleCode="Botrule Lrule Rrule">0.1 to 15.9<footnoteRef IDREF="SPLSERV-812A64FF-8D90-AE00-46B8-6F2F7517E378"/>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_F45C23E5-A2CA-019A-D18C-A6E02DE6A037">
+               <id root="688b9595-a25a-cd6f-ccce-86ea522acfc9"/>
+               <code code="34093-5" codeSystem="2.16.840.1.113883.6.1" displayName="REFERENCES SECTION"/>
+               <title>15 REFERENCES</title>
+               <text>
+                  <list listType="ordered">
+                     <item>OSHA Hazardous Drugs. <content styleCode="italics">OSHA</content>. [Accessed on 30 July 2013, from http://www.osha.gov/SLTC/hazardousdrugs/index.html]</item>
+                  </list>
+               </text>
+               <effectiveTime value="20130807"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_DFDA8353-B74D-EAD3-33D3-CAE530EAA805">
+               <id root="23e05775-8940-e6b7-73c0-7989da9b7f08"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text/>
+               <effectiveTime value="20130807"/>
+               <component>
+                  <section ID="ID_eea69c48-b376-c1d1-5309-33c70383f4e4">
+                     <id root="adf888df-40c2-1406-142a-fcc1096a36a5"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>16.1 How Supplied</title>
+                     <text>
+                        <paragraph>ADCETRIS (brentuximab vedotin) for Injection is supplied as a sterile, white to off-white preservative-free lyophilized cake or powder in individually-boxed single-use vials:</paragraph>
+                        <list listType="unordered">
+                           <item>NDC (51144-050-01), 50 mg brentuximab vedotin.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20110822"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_2b2eba8e-21b1-541e-8e31-2b2b61c39c54">
+                     <id root="8b891d54-0c71-bcf5-5998-85c6052d3f48"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>16.2 Storage</title>
+                     <text>
+                        <paragraph>Store vial at 2-8˚C (36-46˚F) in the original carton to protect from light.</paragraph>
+                     </text>
+                     <effectiveTime value="20120116"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_503592fd-ac34-1a54-d36a-e6acdc21d1b2">
+                     <id root="289f22c3-d6e2-8c1b-b608-33eeb9cbfc9b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>16.3 Special Handling</title>
+                     <text>
+                        <paragraph>ADCETRIS is an antineoplastic product.  Follow special handling and disposal procedures<sup>1</sup>.</paragraph>
+                     </text>
+                     <effectiveTime value="20130807"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_9E3B8AE6-5F4D-634F-DCD1-BDC456A8D4C0">
+               <id root="72907671-9e55-581e-ff05-94d066a82641"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>• Peripheral neuropathy<br/>
+                     <br/>Advise patients that ADCETRIS can cause a peripheral neuropathy. They should be advised to report to their health care provider any numbness or tingling of the hands or feet or any muscle weakness [<content styleCode="italics">see <linkHtml href="#ID_c09e8476-7891-9841-57bc-3118a46e9e29">Warnings and Precautions (5.1)</linkHtml>
+                     </content>].<br/>
+                     <br/>• Fever/Neutropenia<br/>Advise patients to contact their health care provider if a fever of 100.5˚F or greater or other evidence of potential infection such as chills, cough, or pain on urination develops [<content styleCode="italics">see <linkHtml href="#ID_153ed420-d046-1f3f-9ea2-b3620e817a90">Warnings and Precautions (5.3)</linkHtml>
+                     </content>].<br/>
+                     <br/>• Infusion reactions <br/>
+                     <br/>Advise patients to contact their health care provider if they experience signs and symptoms of infusion reactions including fever, chills, rash, or breathing problems within 24 hours of infusion  [<content styleCode="italics">see <linkHtml href="#ID_e3b71f87-7fe5-e048-a6c2-e0b6c04f42e9">Warnings and Precautions (5.2)</linkHtml>
+                     </content>].<br/>
+                     <br/>• Progressive multifocal leukoencephalopathy <br/>
+                     <br/>Instruct patients receiving ADCETRIS to immediately report if they have any of the following neurological, cognitive, or behavioral signs and symptoms or if anyone close to them notices these signs and symptoms [<content styleCode="italics">see <linkHtml href="#section-">Boxed Warning, </linkHtml>
+                        <linkHtml href="#section-8">Warnings and Precautions (5.5)</linkHtml>
+                     </content>].:<br/>
+                     <br/>      • changes in mood or usual behavior<br/>      • confusion, thinking problems, loss of memory<br/>      • changes in vision, speech, or walking<br/>      • decreased strength or weakness on one side of the body<br/>
+                     <br/>• Pregnancy and Nursing<br/>
+                     <br/>ADCETRIS can cause fetal harm. Advise women receiving ADCETRIS to avoid pregnancy. Advise patients to report pregnancy immediately [<content styleCode="italics">see <linkHtml href="#ID_678e2b14-da45-7396-4098-924b5b8814ea">Warnings and Precautions (</linkHtml>
+                        <linkHtml href="#ID_678e2b14-da45-7396-4098-924b5b8814ea">5.7</linkHtml>
+                        <linkHtml href="#ID_678e2b14-da45-7396-4098-924b5b8814ea">)</linkHtml>
+                     </content>]. Advise patients to avoid nursing while receiving ADCETRIS [<content styleCode="italics">see <linkHtml href="#ID_86910be8-02c9-5562-cbfc-1e0f9009defb">Use in Specific Populations (</linkHtml>
+                        <linkHtml href="#ID_86910be8-02c9-5562-cbfc-1e0f9009defb">8.3</linkHtml>
+                        <linkHtml href="#ID_86910be8-02c9-5562-cbfc-1e0f9009defb">)</linkHtml>
+                     </content>].</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM13005"/>
+                  </paragraph>
+                  <paragraph>Manufactured by:<br/>Seattle Genetics, Inc.<br/>Bothell, WA 98021<br/>1-855-473-2436<br/>U.S. License 1853</paragraph>
+                  <paragraph>ADCETRIS, Seattle Genetics and <renderMultiMedia referencedObject="MM24625"/> are US registered trademarks of Seattle Genetics, Inc.</paragraph>
+                  <paragraph>Revised: August 2013</paragraph>
+               </text>
+               <effectiveTime value="20130807"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_8F787D50-360A-18C5-2C3B-672F898CDFB2">
+               <id root="76498bc6-2917-7d69-2996-9069d0c4ee02"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE LABEL</title>
+               <text>
+                  <paragraph>NDC 51144-050-01</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">ADCETRIS<sup>®</sup>
+                     </content>
+                  </paragraph>
+                  <paragraph>(brentuximab vedotin) <br/>FOR INJECTION</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">50 mg/vial</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Single-use vial.</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Discard unused portion.</content>
+                  </paragraph>
+                  <paragraph>Reconstitution and dilution required</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">For intravenous use only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Rx Only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">SeattleGenetics<sup>®</sup>
+                     </content>
+                  </paragraph>
+                  <renderMultiMedia referencedObject="MM32997"/>
+               </text>
+               <effectiveTime value="20130808"/>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>
