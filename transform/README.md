@@ -2,7 +2,7 @@
 
 ## Overview
 
-Code for converting FDA Structured Product Labels into formats
+Code for converting FDA Structured Product Labels (SPL) into formats
 suitable for use by the BRAT Annotation Tool and the MetaMap
 named-entity recognition tool.
 
@@ -11,6 +11,10 @@ named-entity recognition tool.
 + Java JRE 1.6 or later (www.java.org)
 * Python 2.6 or later or Jython 2.7 or later (www.python.org) [Jython requires Java]
 * Saxon 9 XSLT Processor - Home Edition (saxon9he.jar) (http://saxon.sourceforge.net/) [requires Java]
+
+The Java 1.6 Runtime Environment (JRE) is required to run the Saxon
+XSLT program which is used to transform the SPL  XML to the various formats
+described by the XSL stylesheets.
 
 ## Linux/Macos/BSD Pre-Requisites
 
@@ -59,7 +63,7 @@ If you are using a version of Jython other than 2.7.0 then modify the line:
 
 to reference the jython jar file you are using.
 
-## Before running scripts
+## Before running the scripts
 
 Before running the supplied scripts make sure the following programs
 are in your program path:
@@ -111,14 +115,3 @@ contain:
     Adcetris.tables
     Adcetris.html
     empty.textfields
-
-
-## Dependencies not supplied with archive
-
-### Java
-
-Currently the only external dependency, the Java 1.6 Runtime
-Environment (JRE) is required to run the Saxon XSLT program which is
-used to transform the XML to the various formats described by the XSL
-stylesheets.
-
