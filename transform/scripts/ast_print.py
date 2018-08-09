@@ -1,5 +1,9 @@
-"""convert abstractsyntax tree representing HTML(?) table into
-reformatted a ascii table """
+"""
+Convert abstract syntax tree representing HTML(?) into various ASCII
+representations.  Primarily used to convert HTML tables into an ASCII
+representation usable by Brat (ostensibly...)
+
+"""
 
 import types
 import sys
