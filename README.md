@@ -13,3 +13,6 @@ recognition system (https://metamap.nlm.nih.gov).
 Programs for transforming FDA Structured Product Labels into formats
 suitable for use by the BRAT Annotation Tool (http://brat.nlplab.org) and the
 MetaMap named-entity recognition tool.
+
+## See [Licence](https://github.com/lhncbc/fda-ars/blob/master/LICENSE.md)
+for Terms and Conditions for Use of Tools.
